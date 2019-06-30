@@ -1,12 +1,20 @@
-<!--The following is the downloaded HTML source of the washingtonexaminer.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231220851id_/https%3A//www.washingtonexaminer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the washingtonexaminer.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630222904id_/https%3A//www.washingtonexaminer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="Page" lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head><meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/vendor-assets/font-awesome/css/font-awesome.min.2b881135e09fe1a2f68c48cef79720f1.gz.css">
                 <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/vendor-assets/bootstrap-4.0.0-beta.3-dist/css/bootstrap.min.11888c731ca86dc2ebc38579b55c6059.gz.css">
                 <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/vendor-assets/bootstrap-4.0.0-beta.3-dist/css/bootstrap-grid.min.e9577ed0d342966eeefb75ae0b978a6a.gz.css">
                 <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/vendor-assets/bootstrap-4.0.0-beta.3-dist/css/bootstrap-reboot.min.be9d0488e50b9d7aba83bd66f740d0d4.gz.css">
-                <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.3b37ae98bd756a1d67a145931784b245.gz.css"><style>/*Fix pagination on sections*/
+                <link rel="stylesheet" type="text/css" media="all" href="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.3b37ae98bd756a1d67a145931784b245.gz.css"><style>/* BounceX Ad Style Overrides */
+div.GoogleDfpAd[data-slot-name*="bouncex"] {
+    margin: 0px !important;
+    padding: 0px !important;
+    display: inline !important;
+    height: 3px !important;
+}
+
+/*Fix pagination on sections*/
 .ColumnList-pagination {
     margin: 16px 0;
 }
@@ -61,7 +69,7 @@ li.HeadlinePromoList-items-item {
 }
 /*Standard article link overrides*/
 article .RichTextArticleBody-body a {
-    font-family: Montserrat,serif !important;
+    font-family: Montserrat,sans-serif !important;
     color: #007bff !important;
     font-size: 1rem !important;
 }
@@ -198,7 +206,7 @@ article .RichTextArticleBody-body .Enhancement {
     text-decoration: none !important;
 }
 .gsc-table-result {
-    font-family: Montserrat,serif !important;
+    font-family: Montserrat,sans-serif !important;
     font-size: 1rem !important;
     font-weight: 400;
     line-height: 1.5;
@@ -282,10 +290,12 @@ color:	#196ab4 !important;
 	margin-left: 20px;
 }
 .ColumnistAuthorHeadline-authorImage {
-    min-width: 180px;
+    min-width: 200px;
     max-width: 200px;
     height: auto;
     object-fit: contain;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
 .ColumnistAuthorHeadline .ColumnistAuthorHeadline-title .Link {
     font-family: Ivar,serif,serif;
@@ -387,14 +397,63 @@ ul.BusinessList-items.row.d-flex.flex-wrap.list-unstyled {
     color: #ffffff;
 }
 /* Margin between Columns until we insert ads 12-31-18 */
-ul.YourLandList-items.row.d-flex.flex-wrap.list-unstyled, ul.BusinessList-items.row.d-flex.flex-wrap.list-unstyled, .LeftRailContainer.d-flex.flex-wrap,  .MagazineFeaturesInsertion {
+.MagazineFeaturesList-items-right .MagazineFeaturesList-items-d-flex:nth-child(1) .HeroHeadlineAuthor-media, .MagazineFeaturesList-items-right .MagazineFeaturesList-items-d-flex:nth-child(2) .HeroHeadlineAuthor-media {
+    min-height: 149px;
+}
+ul.BusinessList-items.row.d-flex.flex-wrap.list-unstyled, .LeftRailContainer.d-flex.flex-wrap,  .MagazineFeaturesInsertion {
     margin-bottom: 50px;
+}
+ul.YourLandList-items.row.d-flex.flex-wrap.list-unstyled{
+    margin-bottom: 10px;
 }
 .lifearts-heading-2, .magazine-heading.heading-only {
     margin-top: 50px;
 }
 .WashBriefList {
 	margin: 50px 0px 100px 0px;
+}
+.LifeArtsList-items-item, .WashBriefList-items-item {
+  margin: 0px;
+}
+.LifeArtsList-items-item hr, .WashBriefList-items-item hr {
+  position: absolute;
+  height: 1px;
+  width: 92.5%;
+  bottom: 0;
+}
+.edition-item .cover {
+    border: 1px solid #d3d3d3;
+}
+
+/* Newsletter Composition Styles */
+.no-show, .adbreak1, .adbreak2 {
+    display: none;
+}
+
+/* DoD Newsletter Quote */
+.quote-day {
+    background-color: #213C53;
+    color: #ffffff;
+    padding: 5px 30px 20px 30px;
+ }
+ .quote-day h4 {
+    font-family: Montserrat,sans-serif !important;
+    font-size: 14px;
+    margin-bottom: 10px;
+ }
+
+quote {
+    font-family: georgia;
+    font-style: italic;
+    font-size: 27px;
+    font-weight: bold;
+    line-height: 29px;
+}	
+cite {
+    font-size: 18px;
+    line-height: normal;
+    font-family: arial;
+    font-style: normal;
 }</style>
 <style></style>
     <meta property="fb:admins" content="1285945407">
@@ -421,7 +480,7 @@ ul.YourLandList-items.row.d-flex.flex-wrap.list-unstyled, ul.BusinessList-items.
 <link rel="manifest" href="/manifest.json">
 <style></style>
 <style></style>
-<script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script src="//d2na2p72vtqyok.cloudfront.net/client-embed/f090cc51-78f5-4527-a4af-df93d00ebe5f.js" async=""></script><script type="text/javascript" async="" src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=304458ac-b628-413b-a211-d32b9db034bd" id="infinity" data-guid="304458ac-b628-413b-a211-d32b9db034bd" data-version="async"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="application/ld+json">
+<script type="text/javascript" async="" src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=304458ac-b628-413b-a211-d32b9db034bd" id="infinity" data-guid="304458ac-b628-413b-a211-d32b9db034bd" data-version="async"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script src="//d2na2p72vtqyok.cloudfront.net/client-embed/f090cc51-78f5-4527-a4af-df93d00ebe5f.js" async=""></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TM6VK66"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="application/ld+json">
 [{ "@context" : "http://schema.org",
   "@type" : "Organization",
   "name" : "Washington Examiner",
@@ -539,6 +598,15 @@ apstag.init({
 });
 </script>
 <style></style>
+<style></style>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TM6VK66');</script>
+<!-- End Google Tag Manager -->
+<style></style>
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Privacy Policy</title><link rel="canonical" href="https://www.washingtonexaminer.com/privacy-policy"><meta name="brightspot.contentId" content="00000162-3705-d72e-a3fe-3f6f1ce10000">
 
             
@@ -573,7 +641,7 @@ apstag.init({
     
     <meta name="twitter:title" content="Privacy Policy">
     
-    <meta property="fb:app_id" content="190451957673826">
+    <meta property="fb:pages" content="page">
 
 <!-- Twitter widget meta csp tag - Added here since not coming from BEX -->
             <meta name="twitter:widgets:csp" content="on"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" href="/favicon-32x32.png"><link rel="icon" type="image/png" href="/favicon-16x16.png">
@@ -582,36 +650,7 @@ apstag.init({
             
                 <meta name="brightspot.cached" content="true">
             
-                <script src="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js" async=""></script><script>
-
-  window.fbAsyncInit = function() {
-      FB.init({
-          
-              appId : '190451957673826',
-          
-          xfbml : true,
-          version : 'v2.9'
-      });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-
-    <script>
-        window.mdc_page = window.mdc_page || {};
-        // General Page Data
-        window.mdc_page.type = "com.psddev.cms.db.Content";
-        window.mdc_page.url = "https://www.washingtonexaminer.com/privacy-policy";
-
-        
-    </script>
-
+                <script src="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c470fb2fae9bb60f66e67597ef5f30b1.gz.js" async=""></script>
 <!-- Begin Dynamic Yield Code -->
 <script type="text/javascript">
     window.DY = window.DY || { }; DY.recommendationContext = { type: "CATEGORY", data: ["Privacy Policy"] };
@@ -622,6 +661,15 @@ apstag.init({
 <meta property="dy:url" content="https://www.washingtonexaminer.com/privacy-policy">
 
 <!-- End Dynamic Yield Code -->
+
+    <script>
+        window.mdc_page = window.mdc_page || {};
+        // General Page Data
+        window.mdc_page.type = "com.psddev.cms.db.Content";
+        window.mdc_page.url = "https://www.washingtonexaminer.com/privacy-policy";
+
+        
+    </script>
 <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script type="text/javascript">
 
@@ -737,7 +785,23 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         <script type="text/javascript" src="https://central.washingtonexaminer.com/scripts/js.cookie.js"></script>
     
 <script src="https://b-code.liadm.com/a-00jh.min.js" async=""></script>
-<script>(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=304458ac-b628-413b-a211-d32b9db034bd";s.id="infinity";s.setAttribute("data-guid","304458ac-b628-413b-a211-d32b9db034bd");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+<script>window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '190451957673826',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v3.2'
+    });
+    FB.AppEvents.logPageView();   
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));</script>
 <script></script>
 <!--- UNDERDOGMEDIA EDGE EDGE_washingtonexaminer.com_160x600_Only JavaScript ADCODE START--->
 <script data-cfasync="false" language="javascript" async="" src="//udmserve.net/udm/img.fetch?sid=12591;tid=1;dt=6;"></script>
@@ -845,6 +909,8 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 		'UI Layout': 'banner',
     });</script>
 <script src="/scripts/ad_load.js" async="" defer=""></script>
+<script src="//js-sec.indexww.com/ht/p/188883-10345561562372.js" async=""></script>
+<script>(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.addroplet.com/Scripts/infinity.js.aspx?guid=304458ac-b628-413b-a211-d32b9db034bd";s.id="infinity";s.setAttribute("data-guid","304458ac-b628-413b-a211-d32b9db034bd");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
 </head>
         <body class="Page-body">
 
@@ -873,22 +939,22 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/white-house" data-cms-ai="0">White House</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/white-house">White House</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/congress" data-cms-ai="0">Congress</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/congress">Congress</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/campaigns" data-cms-ai="0">Campaigns</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/campaigns">Campaigns</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/politics" data-cms-ai="0">All Politics</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/politics">All Politics</a>
 
 </li>
                     
@@ -910,47 +976,47 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/defense-national-security" data-cms-ai="0">Defense &amp; National Security</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/defense-national-security">Defense &amp; National Security</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/energy" data-cms-ai="0">Energy</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/energy">Energy</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/healthcare" data-cms-ai="0">Healthcare</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/healthcare">Healthcare</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/economy" data-cms-ai="0">Finance &amp; Economy</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/economy">Finance &amp; Economy</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/technology" data-cms-ai="0">Tech &amp; Cyber</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/technology">Tech &amp; Cyber</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/budgets-deficits" data-cms-ai="0">Budgets &amp; Spending</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/budgets-deficits">Budgets &amp; Spending</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/courts" data-cms-ai="0">Courts</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/courts">Courts</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/foreign" data-cms-ai="0">Foreign</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/foreign">Foreign</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy" data-cms-ai="0">All Policy</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy">All Policy</a>
 
 </li>
                     
@@ -965,7 +1031,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/news" data-cms-ai="0">News</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/news">News</a>
                 
             </div>
         
@@ -985,7 +1051,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/editorials" data-cms-ai="0">Editorials</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/editorials">Editorials</a>
 
 </li>
                     
@@ -994,7 +1060,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/opinion/columnists" data-sub-sub-nav="" data-cms-ai="0">Columnists</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/opinion/columnists" data-sub-sub-nav="">Columnists</a>
                 
             </div>
         
@@ -1003,62 +1069,57 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/byron-york" data-cms-ai="0">Byron York</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/byron-york">Byron York</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/salena-zito" data-cms-ai="0">Salena Zito</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/salena-zito">Salena Zito</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/michael-barone" data-cms-ai="0">Michael Barone</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/michael-barone">Michael Barone</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/paul-bedard" data-cms-ai="0">Paul Bedard</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/paul-bedard">Paul Bedard</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/philip-klein" data-cms-ai="0">Philip Klein</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/philip-klein">Philip Klein</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/kristen-soltis-anderson" data-cms-ai="0">Kristen Soltis Anderson</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/kristen-soltis-anderson">Kristen Soltis Anderson</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/timothy-p-carney" data-cms-ai="0">Timothy P. Carney</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/timothy-p-carney">Timothy P. Carney</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/lisa-boothe" data-cms-ai="0">Lisa Boothe</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/dan-hannan">Dan Hannan</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/dan-hannan" data-cms-ai="0">Dan Hannan</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/w-james-antle-iii">W. James Antle III</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/w-james-antle-iii" data-cms-ai="0">W. James Antle III</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/david-freddoso">David Freddoso</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/david-freddoso" data-cms-ai="0">David Freddoso</a>
-
-</li>
-                    
-                        <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/noemie-emery" data-cms-ai="0">Noemie Emery</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/fred-barnes">Fred Barnes</a>
 
 </li>
                     
@@ -1069,17 +1130,17 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/contributors" data-cms-ai="0">Contributors</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/contributors">Contributors</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/op-eds" data-cms-ai="0">Op-Eds</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/op-eds">Op-Eds</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion" data-cms-ai="0">All Opinion</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion">All Opinion</a>
 
 </li>
                     
@@ -1094,7 +1155,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/business" data-cms-ai="0">Business</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/business">Business</a>
                 
             </div>
         
@@ -1114,27 +1175,27 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/magazine/2019-01-01" data-cms-ai="0">Latest Edition</a>
+    <a class="NavigationLink" href="https://links.washingtonexaminer.com/external/wex/links/latest">Latest Edition</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/editions" data-cms-ai="0">All Magazine Editions</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/editions">All Magazine Editions</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="http://edition.washingtonexaminer.com/launch.aspx?pbid=7499650a-ea12-4229-b5f9-3d66cefe55c3" data-cms-ai="0">Digital Reader</a>
+    <a class="NavigationLink" href="http://edition.washingtonexaminer.com/launch.aspx?pbid=7499650a-ea12-4229-b5f9-3d66cefe55c3">Digital Reader</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/login" data-prop="login" data-cms-ai="0">Member Login</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/login" data-prop="login">Member Login</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://access.washingtonexaminer.com" data-cms-ai="0">Member Access</a>
+    <a class="NavigationLink" href="https://access.washingtonexaminer.com">Member Access</a>
 
 </li>
                     
@@ -1148,7 +1209,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
     <div class="NavigationItem">
         
             <div tabindex="-1" class="NavigationItem-text">
-                Videos
+                Multimedia
             </div>
         
         
@@ -1156,32 +1217,37 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos" data-cms-ai="0">All Videos</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos">Videos</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/ahead-of-the-trend" data-cms-ai="0">Ahead of the Trend</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/tag/podcasts">Podcasts</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/guide-to-government" data-cms-ai="0">Barone's Guide to Government</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/ahead-of-the-trend">Ahead of the Trend</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/modern-conservatives" data-cms-ai="0">Modern Conservatives</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/guide-to-government">Barone's Guide to Government</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/policy-bosses" data-cms-ai="0">Policy Bosses</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/modern-conservatives">Modern Conservatives</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/sea-island-summit" data-cms-ai="0">Sea Island Summit</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/policy-bosses">Policy Bosses</a>
+
+</li>
+                    
+                        <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/sea-island-summit">Sea Island Summit</a>
 
 </li>
                     
@@ -1196,7 +1262,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/tag/beltway-confidential" data-cms-ai="0">Beltway Confidential</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/tag/beltway-confidential">Beltway Confidential</a>
                 
             </div>
         
@@ -1209,7 +1275,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/washington-secrets" data-cms-ai="0">Washington Secrets</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/washington-secrets">Washington Secrets</a>
                 
             </div>
         
@@ -1221,41 +1287,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
     <div class="NavigationItem">
         
             <div tabindex="-1" class="NavigationItem-text">
-                Red Alert Politics
-            </div>
-        
-        
-            <ul class="NavigationItem-items" tabindex="-1">
                 
-                    
-                        <li class="NavigationItem-items-item">
-    <div class="NavigationItem" data-sub-sub-nav="">
-        
-            <div tabindex="-1" class="NavigationItem-text">
-                
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/red-alert-politics/30-under-30-2018" data-sub-sub-nav="" data-cms-ai="0">30 Under 30</a>
+                    <a class="NavigationItem-text-link" href="http://www.seaislandsummit.com/?utm_source=WEX%20Top%20Navigation&amp;utm_medium=referral&amp;utm_campaign=Sea%20Island%20Summit%20Promotion">Events</a>
                 
             </div>
         
-        
-    </div>
-</li>
-                    
-                        <li class="NavigationItem-items-item">
-    <div class="NavigationItem" data-sub-sub-nav="">
-        
-            <div tabindex="-1" class="NavigationItem-text">
-                
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/red-alert-politics" data-sub-sub-nav="" data-cms-ai="0">All Red Alert Politics</a>
-                
-            </div>
-        
-        
-    </div>
-</li>
-                    
-                
-            </ul>
         
     </div>
 </li>
@@ -1265,7 +1301,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="http://newsletters.washingtonexaminer.com/?utm_source=washingtonexaminer.com&amp;utm_medium=navigation&amp;utm_campaign=wex_top_nav" target="_blank" data-cms-ai="0">Newsletters</a>
+                    <a class="NavigationItem-text-link" href="http://newsletters.washingtonexaminer.com/?utm_source=washingtonexaminer.com&amp;utm_medium=navigation&amp;utm_campaign=wex_top_nav" target="_blank">Newsletters</a>
                 
             </div>
         
@@ -1286,7 +1322,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                     
                         
     
-        <a href="/" data-cms-ai="0">
+        <a href="/">
             <svg id="image-e" class="SmallLogo" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="90.789" height="123.592" viewBox="0, 0, 90.789, 123.592">
                 <g id="Layer_1" transform="translate(0, -52.408)">
                     <path d="M71.933,75.701 L71.933,95.668 L73.359,95.668 L73.359,77.126 C83.026,76.336 89.521,68.729 90.789,60.963 L89.684,59.857 C88.26,68.551 81.007,75.701 71.933,75.701" fill="0"></path>
@@ -1314,10 +1350,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             <div class="PageHeaderTextHat-leftItem">
                 
     <div class="PageHeaderTextItem">
-        <a href="https://www.washingtonexaminer.com/news/trump-takes-first-swings-at-warren-after-she-enters-2020-fray" data-cms-ai="0">
+        <a href="https://www.washingtonexaminer.com/opinion/columnists/byron-york-anti-trump-fever-takes-threatening-turn">
             <small>
-    <time class="DateTime" datetime="2018-12-31T17:00:12.907-05:00">Monday December 31, 2018</time>
-</small> Trump takes first swings at Warren after she...
+    <time class="DateTime" datetime="2019-06-30T18:18:31.225-04:00">Sunday June 30, 2019</time>
+</small> Byron York: Anti-Trump fever takes threatening...
         </a>
     </div>
 
@@ -1327,10 +1363,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             <div class="PageHeaderTextHat-rightItem">
                 
     <div class="PageHeaderTextItem">
-        <a href="https://www.washingtonexaminer.com/opinion/it-shouldnt-matter-if-nfl-coaches-are-black-white-or-anything-else" data-cms-ai="0">
+        <a href="https://www.washingtonexaminer.com/news/service-members-give-trump-a-gift-in-korea">
             <small>
-    <time class="DateTime" datetime="2018-12-31T16:34:28.953-05:00">Monday December 31, 2018</time>
-</small> It shouldn't matter if NFL coaches are black,...
+    <time class="DateTime" datetime="2019-06-30T18:07:24.497-04:00">Sunday June 30, 2019</time>
+</small> Service members give Trump a gift in Korea
         </a>
     </div>
 
@@ -1366,17 +1402,17 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             <ul class="SocialBar-items">
                 
                     <li class="SocialBar-items-item">
-    <a class="SocialLink" href="https://www.facebook.com/WashingtonExaminer/" target="_blank" data-social-service="facebook" data-cms-ai="0"></a>
+    <a class="SocialLink" href="https://www.facebook.com/WashingtonExaminer/" target="_blank" data-social-service="facebook"></a>
 
 </li>
                 
                     <li class="SocialBar-items-item">
-    <a class="SocialLink" href="https://www.linkedin.com/company/washington-examiner" target="_blank" data-social-service="linkedin" data-cms-ai="0"></a>
+    <a class="SocialLink" href="https://www.linkedin.com/company/washington-examiner" target="_blank" data-social-service="linkedin"></a>
 
 </li>
                 
                     <li class="SocialBar-items-item">
-    <a class="SocialLink" href="https://twitter.com/DCExaminer" target="_blank" data-social-service="twitter" data-cms-ai="0"></a>
+    <a class="SocialLink" href="https://twitter.com/DCExaminer" target="_blank" data-social-service="twitter"></a>
 
 </li>
                 
@@ -1406,7 +1442,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 
                     <div class="Page-logo text-center">
     
-        <a href="/" data-cms-ai="0">
+        <a href="/">
             <svg class="PageLogo-image" xmlns="http://www.w3.org/2000/svg" id="logo-header" viewBox="0 0 797.6 264">
                 <path class="st0-top" d="M185.8 195.7L153 250.5s-40.8-29.8-83.2-29.8c-30.5 0-42.5 29.8-42.5 29.8l-20-11.6 9.3-21.5L29.2 201l3.5-4.5-3.8-9.8 9-7 2.2-12-.8-27.5H31l-4.2 6.2-15.3-7.4 3-21 8.8-13 13-5.2h4l.2-13.8 3.5-9.8 6.5-9.5L62.2 57s-14.7-2.8-23.4-2.7c-5 .1-11.1 12.9-11.1 12.9l-16.5-9.8L16.8 38s7.1-15 19-19.6S58.5 15 58.5 15l37.6 8.2 7.6 1.2L114 22l11.5-.2 11.8-9.5L151 23l7.2 2.8 21.6-5.3 5.9 10s-2.9 23-14.9 28.7c-8.5 6.5-17.4 6.8-17.4 6.8l.2 33.8 10 .2 5.9 7-8.4 32.8-8.8-.5.5 55.5 6 3.2 9-13.2 18 10.9z" id="Layer_3"></path>
                 <path class="st1-top" d="M109.5 69.9l406.2.6-6.7-41.2-349.5 1.6z" id="Layer_4"></path>
@@ -1444,8 +1480,8 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                     
                         <date class="Page-date nav-item">
                             <small>
-                                <a class="" rel="nofollow" tabindex="0" href="#" data-cms-ai="0">
-                                    Monday, December 31, 2018
+                                <a class="" rel="nofollow" tabindex="0" href="#">
+                                    Sunday, June 30, 2019
                                 </a>
                             </small>
                         </date>
@@ -1470,22 +1506,22 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/white-house" data-cms-ai="0">White House</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/white-house">White House</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/congress" data-cms-ai="0">Congress</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/congress">Congress</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/campaigns" data-cms-ai="0">Campaigns</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/campaigns">Campaigns</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/politics" data-cms-ai="0">All Politics</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/politics">All Politics</a>
 
 </li>
                     
@@ -1507,47 +1543,47 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/defense-national-security" data-cms-ai="0">Defense &amp; National Security</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/defense-national-security">Defense &amp; National Security</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/energy" data-cms-ai="0">Energy</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/energy">Energy</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/healthcare" data-cms-ai="0">Healthcare</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/healthcare">Healthcare</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/economy" data-cms-ai="0">Finance &amp; Economy</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/economy">Finance &amp; Economy</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/technology" data-cms-ai="0">Tech &amp; Cyber</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/technology">Tech &amp; Cyber</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/budgets-deficits" data-cms-ai="0">Budgets &amp; Spending</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/budgets-deficits">Budgets &amp; Spending</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/courts" data-cms-ai="0">Courts</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/courts">Courts</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/foreign" data-cms-ai="0">Foreign</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/foreign">Foreign</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy" data-cms-ai="0">All Policy</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy">All Policy</a>
 
 </li>
                     
@@ -1562,7 +1598,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/news" data-cms-ai="0">News</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/news">News</a>
                 
             </div>
         
@@ -1582,7 +1618,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/editorials" data-cms-ai="0">Editorials</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/editorials">Editorials</a>
 
 </li>
                     
@@ -1591,7 +1627,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/opinion/columnists" data-sub-sub-nav="" data-cms-ai="0">Columnists</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/opinion/columnists" data-sub-sub-nav="">Columnists</a>
                 
             </div>
         
@@ -1600,62 +1636,57 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/byron-york" data-cms-ai="0">Byron York</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/byron-york">Byron York</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/salena-zito" data-cms-ai="0">Salena Zito</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/salena-zito">Salena Zito</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/michael-barone" data-cms-ai="0">Michael Barone</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/michael-barone">Michael Barone</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/paul-bedard" data-cms-ai="0">Paul Bedard</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/paul-bedard">Paul Bedard</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/philip-klein" data-cms-ai="0">Philip Klein</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/philip-klein">Philip Klein</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/kristen-soltis-anderson" data-cms-ai="0">Kristen Soltis Anderson</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/kristen-soltis-anderson">Kristen Soltis Anderson</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/timothy-p-carney" data-cms-ai="0">Timothy P. Carney</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/timothy-p-carney">Timothy P. Carney</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/lisa-boothe" data-cms-ai="0">Lisa Boothe</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/dan-hannan">Dan Hannan</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/dan-hannan" data-cms-ai="0">Dan Hannan</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/w-james-antle-iii">W. James Antle III</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/w-james-antle-iii" data-cms-ai="0">W. James Antle III</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/david-freddoso">David Freddoso</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/david-freddoso" data-cms-ai="0">David Freddoso</a>
-
-</li>
-                    
-                        <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/noemie-emery" data-cms-ai="0">Noemie Emery</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/author/fred-barnes">Fred Barnes</a>
 
 </li>
                     
@@ -1666,17 +1697,17 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/contributors" data-cms-ai="0">Contributors</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/contributors">Contributors</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/op-eds" data-cms-ai="0">Op-Eds</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion/op-eds">Op-Eds</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion" data-cms-ai="0">All Opinion</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/opinion">All Opinion</a>
 
 </li>
                     
@@ -1691,7 +1722,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/business" data-cms-ai="0">Business</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/business">Business</a>
                 
             </div>
         
@@ -1711,27 +1742,27 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/magazine/2019-01-01" data-cms-ai="0">Latest Edition</a>
+    <a class="NavigationLink" href="https://links.washingtonexaminer.com/external/wex/links/latest">Latest Edition</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/editions" data-cms-ai="0">All Magazine Editions</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/editions">All Magazine Editions</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="http://edition.washingtonexaminer.com/launch.aspx?pbid=7499650a-ea12-4229-b5f9-3d66cefe55c3" data-cms-ai="0">Digital Reader</a>
+    <a class="NavigationLink" href="http://edition.washingtonexaminer.com/launch.aspx?pbid=7499650a-ea12-4229-b5f9-3d66cefe55c3">Digital Reader</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/login" data-prop="login" data-cms-ai="0">Member Login</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/login" data-prop="login">Member Login</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://access.washingtonexaminer.com" data-cms-ai="0">Member Access</a>
+    <a class="NavigationLink" href="https://access.washingtonexaminer.com">Member Access</a>
 
 </li>
                     
@@ -1745,7 +1776,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
     <div class="NavigationItem">
         
             <div tabindex="-1" class="NavigationItem-text">
-                Videos
+                Multimedia
             </div>
         
         
@@ -1753,32 +1784,37 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
                 
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos" data-cms-ai="0">All Videos</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos">Videos</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/ahead-of-the-trend" data-cms-ai="0">Ahead of the Trend</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/tag/podcasts">Podcasts</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/guide-to-government" data-cms-ai="0">Barone's Guide to Government</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/ahead-of-the-trend">Ahead of the Trend</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/modern-conservatives" data-cms-ai="0">Modern Conservatives</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/guide-to-government">Barone's Guide to Government</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/policy-bosses" data-cms-ai="0">Policy Bosses</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/modern-conservatives">Modern Conservatives</a>
 
 </li>
                     
                         <li class="NavigationItem-items-item">
-    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/sea-island-summit" data-cms-ai="0">Sea Island Summit</a>
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/policy-bosses">Policy Bosses</a>
+
+</li>
+                    
+                        <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://www.washingtonexaminer.com/videos/sea-island-summit">Sea Island Summit</a>
 
 </li>
                     
@@ -1793,7 +1829,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/tag/beltway-confidential" data-cms-ai="0">Beltway Confidential</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/tag/beltway-confidential">Beltway Confidential</a>
                 
             </div>
         
@@ -1806,7 +1842,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/washington-secrets" data-cms-ai="0">Washington Secrets</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/washington-secrets">Washington Secrets</a>
                 
             </div>
         
@@ -1818,41 +1854,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
     <div class="NavigationItem">
         
             <div tabindex="-1" class="NavigationItem-text">
-                Red Alert Politics
-            </div>
-        
-        
-            <ul class="NavigationItem-items" tabindex="-1">
                 
-                    
-                        <li class="NavigationItem-items-item">
-    <div class="NavigationItem" data-sub-sub-nav="">
-        
-            <div tabindex="-1" class="NavigationItem-text">
-                
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/red-alert-politics/30-under-30-2018" data-sub-sub-nav="" data-cms-ai="0">30 Under 30</a>
+                    <a class="NavigationItem-text-link" href="http://www.seaislandsummit.com/?utm_source=WEX%20Top%20Navigation&amp;utm_medium=referral&amp;utm_campaign=Sea%20Island%20Summit%20Promotion">Events</a>
                 
             </div>
         
-        
-    </div>
-</li>
-                    
-                        <li class="NavigationItem-items-item">
-    <div class="NavigationItem" data-sub-sub-nav="">
-        
-            <div tabindex="-1" class="NavigationItem-text">
-                
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/red-alert-politics" data-sub-sub-nav="" data-cms-ai="0">All Red Alert Politics</a>
-                
-            </div>
-        
-        
-    </div>
-</li>
-                    
-                
-            </ul>
         
     </div>
 </li>
@@ -1862,7 +1868,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="http://newsletters.washingtonexaminer.com/?utm_source=washingtonexaminer.com&amp;utm_medium=navigation&amp;utm_campaign=wex_top_nav" target="_blank" data-cms-ai="0">Newsletters</a>
+                    <a class="NavigationItem-text-link" href="http://newsletters.washingtonexaminer.com/?utm_source=washingtonexaminer.com&amp;utm_medium=navigation&amp;utm_campaign=wex_top_nav" target="_blank">Newsletters</a>
                 
             </div>
         
@@ -1880,9 +1886,15 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 
         
             <div class="Page-above content-above pb-3 mb-3 d-flex justify-content-center">
-    <div id="googleAd33804446-c0b9-47b9-88aa-f488c1e30a22" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/top_banner" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50]]" data-slot-adsizemap="[[[1024, 0], [970, 250], [970, 90], [728, 90]], [[768, 0], [728, 90]], [[320, 0], [320, 50]]]" data-slot-position="1">
+    <div id="googleAd55e393ce-3775-4d74-ab85-bd9bd4926e06" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/top_banner" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50]]" data-slot-adsizemap="[[[1024, 0], [970, 250], [970, 90], [728, 90]], [[768, 0], [728, 90]], [[320, 0], [320, 50]]]" data-slot-position="1">
     </div>
-</div>
+<script id="bx-tag" src="//assets.bounceexchange.com/assets/bounce/iframebuster.js" data-website-id="3268" charset="utf-8"></script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TM6VK66"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+</div><iframe name="__cmpLocator" style="display: none;"></iframe>
         
 
         
@@ -1916,7 +1928,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <h4>Welcome!</h4>
 <p>We take your privacy seriously and know you do too. This Privacy  Policy is here to help you understand how we process your personal data. We  also describe your choices and rights with respect to how we process your  personal data. Please read this policy carefully.</p>
 <p>Who We Are</p>
-<p>This is the Privacy Policy of The Washington Examiner, which  is owned by The Washington Newspaper Publishing Co. LLC (<strong>“Examiner,” “us,”  “our,” </strong>or<strong> “we”</strong>). You  can <a href="https://www.washingtonexaminer.com/contact" target="_blank" data-cms-ai="0">contact us here</a>.</p>
+<p>This is the Privacy Policy of The Washington Examiner, which  is owned by The Washington Newspaper Publishing Co. LLC (<strong>“Examiner,” “us,”  “our,” </strong>or<strong> “we”</strong>). You  can <a href="https://www.washingtonexaminer.com/contact" target="_blank">contact us here</a>.</p>
 <h4>Applicability</h4>
 <p>This Privacy Policy applies to our “<strong>Digital</strong> <strong>Services</strong>” which  include our:</p>
 <ul>
@@ -1926,7 +1938,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <h4>Agreement</h4>
 <p>This policy is incorporated into the Terms of Use governing  your use of any of our Digital Services. Any capitalized terms not defined in  this Privacy Policy will have the definitions provided in our Terms of Use.<br>
 <strong>Following notice to  you or your acknowledgement of this Privacy Policy (including any updates), your  continued use of any of our Digital Services indicates your consent to the  practices described in this Policy.</strong></p>
-<h4><a name="third_parties" data-cms-ai="0"></a>Third Parties</h4>
+<h4><a name="third_parties"></a>Third Parties</h4>
 <p>This Privacy  Policy does not apply to information collected by third parties, for example,  when you visit a third party website or interact with online advertisements,  unless and until we receive your information from those parties. Please review those  third-parties’ privacy policies before disclosing information to them. </p>
 <h4>Collection and Use of Personal Data</h4>
 <p><u><em><strong>Personal Data We Collect</strong></em></u></p>
@@ -2000,7 +2012,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 		</tr>
 		<tr>
 			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td><p>We use <strong>Identity Data</strong> and <strong>Contact  Data</strong> as necessary to provide marketing communications, when you consent to  receive those messages, or consistent with our legitimate business interests.  See <a href="#rights_choices" data-cms-ai="0">Your Rights and Choices</a> for  information about how you can limit or opt out of this processing.</p></td>
+			<td><p>We use <strong>Identity Data</strong> and <strong>Contact  Data</strong> as necessary to provide marketing communications, when you consent to  receive those messages, or consistent with our legitimate business interests.  See <a href="#rights_choices">Your Rights and Choices</a> for  information about how you can limit or opt out of this processing.</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -2009,7 +2021,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 	<tbody>
 		<tr>
 			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td><p>We may process <strong>Identity Data, Preferences Data, </strong>and  certain <strong>Contact Data</strong> if you choose  to register for special promotions and offers such as discounts, sweepstakes, or  contests or participate in an online survey or poll<strong>. </strong>Some special promotions and offers are operated/controlled by us,  and others are operated/controlled by third parties. We sometimes receive this  data from <a href="#third_parties" data-cms-ai="0">third parties</a>; otherwise,  this Privacy Policy will not apply.</p></td>
+			<td><p>We may process <strong>Identity Data, Preferences Data, </strong>and  certain <strong>Contact Data</strong> if you choose  to register for special promotions and offers such as discounts, sweepstakes, or  contests or participate in an online survey or poll<strong>. </strong>Some special promotions and offers are operated/controlled by us,  and others are operated/controlled by third parties. We sometimes receive this  data from <a href="#third_parties">third parties</a>; otherwise,  this Privacy Policy will not apply.</p></td>
 		</tr>
 		<tr>
 			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
@@ -2026,7 +2038,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 		</tr>
 		<tr>
 			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td><p>Subject  to <a href="#rights_choices" data-cms-ai="0">Your Rights and Choices</a>, we may  use Identity Data and Preferences Data to create a <a href="#personalization" data-cms-ai="0">personalized user experience</a>.</p></td>
+			<td><p>Subject  to <a href="#rights_choices">Your Rights and Choices</a>, we may  use Identity Data and Preferences Data to create a <a href="#personalization">personalized user experience</a>.</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -2044,44 +2056,44 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 	</tbody>
 </table>
 <p><u><em><strong>Specific Processing Purposes</strong></em><strong></strong></u></p>
-<p><strong><a name="cookies" data-cms-ai="0"></a>Cookies and Similar  Technologies</strong><br>
+<p><strong><a name="cookies"></a>Cookies and Similar  Technologies</strong><br>
 </p>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
 	<tbody>
 		<tr>
 			<th width="15%" align="left" valign="top" scope="row"><em>Data</em>:</th>
-			<td><p>We,  and certain <a href="#third_parties" data-cms-ai="0">third parties</a>, may  process <strong>Identity Data</strong>, <strong>Contact Data, Preferences Data</strong>, and <strong>Device Data</strong> when you<strong> </strong>interact with cookies and similar  technologies on our Digital Services. We sometimes receive this data from third  parties, and the privacy policies of third parties may apply to these  technologies and information collected. </p></td>
+			<td><p>We,  and certain <a href="#third_parties">third parties</a>, may  process <strong>Identity Data</strong>, <strong>Contact Data, Preferences Data</strong>, and <strong>Device Data</strong> when you<strong> </strong>interact with cookies and similar  technologies on our Digital Services. We sometimes receive this data from third  parties, and the privacy policies of third parties may apply to these  technologies and information collected. </p></td>
 		</tr>
 		<tr>
 			<th width="15%" align="left" valign="top" scope="row"><em>Uses</em>:</th>
-			<td><p>Subject  to <a href="#rights_choices" data-cms-ai="0">Your Rights and Choices</a>, we and  our third party partners use: </p>
+			<td><p>Subject  to <a href="#rights_choices">Your Rights and Choices</a>, we and  our third party partners use: </p>
 				<ol style="list-style-type: lower-roman;">
 					<li>Device Data for “essential” or “functional”  purposes, such as to enable various features of the Digital Services or keep  you logged in during your session, or; </li>
 					<li>Device Data for “analytics” purposes, consistent  with our legitimate interests in how the Digital Services are used or perform,  how Users engage with and navigate through the Digital Services, what sites  Users visit before visiting our Digital Services, how often Users visit our Digital  Services, understanding User behaviors and improve the design and functionality  of the website, and other similar information; and </li>
-					<li>Identity Data, Contact Data, Preferences Data,  and Device Data for “retargeting” and/or <a href="#behavioral" data-cms-ai="0">behavioral  advertising</a> purposes, so that you can see advertisements from us on other  websites and ads that are more relevant to you based on content you have viewed.</li>
+					<li>Identity Data, Contact Data, Preferences Data,  and Device Data for “retargeting” and/or <a href="#behavioral">behavioral  advertising</a> purposes, so that you can see advertisements from us on other  websites and ads that are more relevant to you based on content you have viewed.</li>
 			</ol></td>
 		</tr>
 		<tr>
 			<th align="left" valign="top" scope="row"><em>Note</em>:</th>
-			<td>Some  of these technologies can be used by us and/or our third-party partners to  identify you across platforms, devices, sites, and services.Please review our <a href="#cookies" data-cms-ai="0">Cookie Policy</a> for additional information.
+			<td>Some  of these technologies can be used by us and/or our third-party partners to  identify you across platforms, devices, sites, and services.Please review our <a href="#cookies">Cookie Policy</a> for additional information.
 				<div>
 					<div> </div>
 			</div></td>
 		</tr>
 	</tbody>
 </table>
-<h4><a name="behavioral" data-cms-ai="0"></a>Behavioral Advertising</h4>
-<p>Subject to your consent where required by law, we, and  certain <a href="#third_parties" data-cms-ai="0">third parties</a> operating on  or through our Digital Services, may engage in online behavioral advertising. This  form of advertising includes various parties and service providers, including  third party data controllers, engaged in the processing of Personal Data in  connection with advertising.&nbsp; This form  of advertising uses <strong>Preferences Data</strong>, <strong>Device Data</strong>, <strong>Identity Data</strong>, and at times, <strong>Contact  Data</strong> in order to deliver more relevant advertising to you. The parties that  control the processing of Personal Data for behavioral advertising purposes may  build a profile of you containing this information, and may be able to identify  you across sites, devices, and over time. These services may also track whether  you view, interact with, or how often you have seen an ad, or whether or not  you complete a purchase for goods or services you were shown in an  advertisement. These tracking technologies may also be used to help limit the  number of times you see the same ads, or help determine whether you have  interacted with or viewed ads delivered to you.</p>
+<h4><a name="behavioral"></a>Behavioral Advertising</h4>
+<p>Subject to your consent where required by law, we, and  certain <a href="#third_parties">third parties</a> operating on  or through our Digital Services, may engage in online behavioral advertising. This  form of advertising includes various parties and service providers, including  third party data controllers, engaged in the processing of Personal Data in  connection with advertising.&nbsp; This form  of advertising uses <strong>Preferences Data</strong>, <strong>Device Data</strong>, <strong>Identity Data</strong>, and at times, <strong>Contact  Data</strong> in order to deliver more relevant advertising to you. The parties that  control the processing of Personal Data for behavioral advertising purposes may  build a profile of you containing this information, and may be able to identify  you across sites, devices, and over time. These services may also track whether  you view, interact with, or how often you have seen an ad, or whether or not  you complete a purchase for goods or services you were shown in an  advertisement. These tracking technologies may also be used to help limit the  number of times you see the same ads, or help determine whether you have  interacted with or viewed ads delivered to you.</p>
 <p>Processing of this data takes place on our Digital Services,  on third-party websites that participate in ad networks, and through other  services providers. Third party companies, for example social media companies,  may also collect this information via third-party social media cookies, or when  you share information using a social media sharing button or “like” button on  our Digital Services or you link your account or engage with our content on or  through a social networking website such as Facebook or Twitter.</p>
 <p>In some cases, the third parties described above may also  develop and assess aspects of a profile about you to determine whether you are  a type of person a company wants to advertise to, and determine whether and how  ads you see are effective, and may augment your profile with information  derived from observations about you on other websites.	</p>
-<p>See <a href="#rights_choices" data-cms-ai="0">Your Rights and  Choices</a> for information about how you can limit or opt out of this  processing.</p>
-<h4><a name="personalization" data-cms-ai="0"></a>Personalization</h4>
-<p>Consistent with our legitimate business interests, we may  personalize our Digital Services. To do so, we may link together and analyze  the Personal Data that we hold about you, which may be augmented with  Preferences Data. We may create Preferences Data, or obtain it from <a href="#third_parties" data-cms-ai="0">third parties</a>, using Personal Data we  hold about you. We process Preferences Data so that our communications and  Digital Services are more relevant to you. For example, we may greet you by  name, provide better recommendations to you, tailor content and communications  to your interests, and use the information to guide overall improvements to our  products and services. See <a href="#rights_choices" data-cms-ai="0">Your Rights  and Choices</a> for information about how you can limit or opt out of this  processing.</p>
-<h4><a name="direct_marketing" data-cms-ai="0"></a>Marketing Communications</h4>
-<p>Consistent with our legitimate business interests, we (or if  appropriate, our affiliates or trusted <a href="#third_parties" data-cms-ai="0">third  parties</a>) may send you marketing and promotional communications (including if  you sign up for such communications, purchase products or services from us or  an affiliate, register on our Digital Services or for a promotion or contest  with us or a partner, in connection with your communications with, or  submission of User Content to, us, or otherwise as allowed by law). These  communications may be <a href="#personalization" data-cms-ai="0">personalized</a>. See <a href="#rights_choices" data-cms-ai="0">Your Rights and Choices</a> for  information about how you can limit or opt out of Marketing Communications.</p>
+<p>See <a href="#rights_choices">Your Rights and  Choices</a> for information about how you can limit or opt out of this  processing.</p>
+<h4><a name="personalization"></a>Personalization</h4>
+<p>Consistent with our legitimate business interests, we may  personalize our Digital Services. To do so, we may link together and analyze  the Personal Data that we hold about you, which may be augmented with  Preferences Data. We may create Preferences Data, or obtain it from <a href="#third_parties">third parties</a>, using Personal Data we  hold about you. We process Preferences Data so that our communications and  Digital Services are more relevant to you. For example, we may greet you by  name, provide better recommendations to you, tailor content and communications  to your interests, and use the information to guide overall improvements to our  products and services. See <a href="#rights_choices">Your Rights  and Choices</a> for information about how you can limit or opt out of this  processing.</p>
+<h4><a name="direct_marketing"></a>Marketing Communications</h4>
+<p>Consistent with our legitimate business interests, we (or if  appropriate, our affiliates or trusted <a href="#third_parties">third  parties</a>) may send you marketing and promotional communications (including if  you sign up for such communications, purchase products or services from us or  an affiliate, register on our Digital Services or for a promotion or contest  with us or a partner, in connection with your communications with, or  submission of User Content to, us, or otherwise as allowed by law). These  communications may be <a href="#personalization">personalized</a>. See <a href="#rights_choices">Your Rights and Choices</a> for  information about how you can limit or opt out of Marketing Communications.</p>
 <h4>Additional Processing </h4>
-<p>If we process Personal Data in connection with our Digital  Services in a way not described in this Privacy Policy, this Privacy Policy  will still apply generally (e.g. with respect to <a href="#rights_choices" data-cms-ai="0">Your  Rights and Choices</a>) unless otherwise stated when you provide it. Note that  we may, without your consent, also process your Personal Data on certain public  interest grounds. For example, we may process information as necessary to fulfil  our legal obligations, protect the vital interests of any individuals, or otherwise  in the public interest. Please see the <a href="#data_sharing" data-cms-ai="0">data  sharing section</a> for more information.</p>
-<h3><a name="data_sharing" data-cms-ai="0"></a>Data Sharing</h3>
+<p>If we process Personal Data in connection with our Digital  Services in a way not described in this Privacy Policy, this Privacy Policy  will still apply generally (e.g. with respect to <a href="#rights_choices">Your  Rights and Choices</a>) unless otherwise stated when you provide it. Note that  we may, without your consent, also process your Personal Data on certain public  interest grounds. For example, we may process information as necessary to fulfil  our legal obligations, protect the vital interests of any individuals, or otherwise  in the public interest. Please see the <a href="#data_sharing">data  sharing section</a> for more information.</p>
+<h3><a name="data_sharing"></a>Data Sharing</h3>
 <p>Information we collect may be shared with a variety of  parties, depending upon the purpose for and context in which that information  was provided. We generally transfer data to the following categories of  recipients:</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
 	<tbody>
@@ -2091,18 +2103,18 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 		</tr>
 		<tr>
 			<th width="15%" align="left" valign="top" scope="row"><em>Affiliates</em>:</th>
-			<td><p>In order to  streamline certain business operations, improve <a href="#personalization" data-cms-ai="0">personalization</a>, share promotions and content we believe would be of interest to you, and  develop products and services that better meet the interests and needs of our  customers, we may share your Personal Data with any of our current or future  affiliated entities, subsidiaries, and parent companies. </p></td>
+			<td><p>In order to  streamline certain business operations, improve <a href="#personalization">personalization</a>, share promotions and content we believe would be of interest to you, and  develop products and services that better meet the interests and needs of our  customers, we may share your Personal Data with any of our current or future  affiliated entities, subsidiaries, and parent companies. </p></td>
 		</tr>
 		<tr>
 			<th align="left" valign="top" scope="row"><em>Partners</em>:</th>
-			<td>We  may share your Personal Data with business or marketing partners in connection  with promotions, events, products, and services that are promoted, managed, supported,  or otherwise undertaken with that third party. If appropriate, these parties  may engage in <a href="#direct_marketing" data-cms-ai="0">direct marketing</a> or <a href="#behavioral" data-cms-ai="0">behavioral advertising</a>.
+			<td>We  may share your Personal Data with business or marketing partners in connection  with promotions, events, products, and services that are promoted, managed, supported,  or otherwise undertaken with that third party. If appropriate, these parties  may engage in <a href="#direct_marketing">direct marketing</a> or <a href="#behavioral">behavioral advertising</a>.
 				<div>
 					<div> </div>
 				</div></td>
 		</tr>
 		<tr>
 			<th align="left" valign="top" scope="row"><em>Marketers</em>:</th>
-			<td>In  order to improve <a href="#personalization" data-cms-ai="0">personalization</a>, deliver more relevant information and advertisements to you, and develop better  products and services, we may share certain Personal Data with our affiliates  and trusted <a href="#third_parties" data-cms-ai="0">third parties</a> for  marketing, advertising, or other commercial purposes, and we may allow our  affiliates and other third parties (such as Facebook, ad exchanges, data  management platforms, or ad servers) to operate on our Digital Services and  process data for <a href="#behavioral" data-cms-ai="0">behavioral advertising</a>. </td>
+			<td>In  order to improve <a href="#personalization">personalization</a>, deliver more relevant information and advertisements to you, and develop better  products and services, we may share certain Personal Data with our affiliates  and trusted <a href="#third_parties">third parties</a> for  marketing, advertising, or other commercial purposes, and we may allow our  affiliates and other third parties (such as Facebook, ad exchanges, data  management platforms, or ad servers) to operate on our Digital Services and  process data for <a href="#behavioral">behavioral advertising</a>. </td>
 		</tr>
 		<tr>
 			<th align="left" valign="top" scope="row"><em>Social Media:</em></th>
@@ -2120,9 +2132,9 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </table>
 <h4>International Transfers</h4>
 <p>We operate in and use service providers located in the  United States. If you are located outside the U.S., your Personal Data will be  transferred to the U.S. by necessity in order to deliver the services to you.  The U.S. does not provide the same legal protections guaranteed to Personal  Data in the European Union. Accordingly, your Personal Data may be transferred  to the U.S. pursuant to the EU-U.S. Privacy Shield Framework, the Standard  Contractual Clauses, or other adequacy mechanisms, or pursuant to exemptions under  EU law.</p>
-<h4><a name="rights_choices" data-cms-ai="0"></a>Your Rights &amp; Choices</h4>
+<h4><a name="rights_choices"></a>Your Rights &amp; Choices</h4>
 <h4>Your Rights</h4>
-<p>Subject to the rights granted to other individuals, and our  rights to limit or deny access/disclosure under applicable law, certain  individuals have the following rights in Personal Data under the GDPR or other  laws. Note, we may require that you provide additional Personal Data to exercise  these rights, e.g. information necessary to prove your identity. You may  exercise your rights by <a href="https://www.washingtonexaminer.com/contact" target="_blank" data-cms-ai="0">contacting us</a>:</p>
+<p>Subject to the rights granted to other individuals, and our  rights to limit or deny access/disclosure under applicable law, certain  individuals have the following rights in Personal Data under the GDPR or other  laws. Note, we may require that you provide additional Personal Data to exercise  these rights, e.g. information necessary to prove your identity. You may  exercise your rights by <a href="https://www.washingtonexaminer.com/contact" target="_blank">contacting us</a>:</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
 	<tbody>
 		<tr>
@@ -2146,7 +2158,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 		</tr>
 		<tr>
 			<th align="left" valign="top" scope="row"><em>Direct Marketing</em>:</th>
-			<td><p>Residents of  California (and others as required by applicable law) may request a list of  Personal Data we have disclosed about you to <a href="#third_parties" data-cms-ai="0">third  parties</a> for direct marketing purposes during the preceding calendar year.  This request must be written, signed, and mailed to us.</p></td>
+			<td><p>Residents of  California (and others as required by applicable law) may request a list of  Personal Data we have disclosed about you to <a href="#third_parties">third  parties</a> for direct marketing purposes during the preceding calendar year.  This request must be written, signed, and mailed to us.</p></td>
 		</tr>
 		<tr>
 			<th align="left" valign="top" scope="row"><em>Regulator Contact:</em></th>
@@ -2155,7 +2167,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 	</tbody>
 </table>
 <h3>Your Choices</h3>
-<p>It is possible for you to use some of our Digital Services  without providing any Personal Data, but you may not be able to access certain  features or view certain content. You have the following choices regarding the  Personal Data we process, which you may exercise by <a href="https://www.washingtonexaminer.com/contact" target="_blank" data-cms-ai="0">contacting us or otherwise as described below</a>:</p>
+<p>It is possible for you to use some of our Digital Services  without providing any Personal Data, but you may not be able to access certain  features or view certain content. You have the following choices regarding the  Personal Data we process, which you may exercise by <a href="https://www.washingtonexaminer.com/contact" target="_blank">contacting us or otherwise as described below</a>:</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
 	<tbody>
 		<tr>
@@ -2163,23 +2175,23 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 			<td><p>If  you consent to processing, you may withdraw consent any time, to the extent  required by law.</p></td>
 		</tr>
 		<tr>
-			<th width="15%" align="left" valign="top" scope="row"><em><a href="#direct_marketing" data-cms-ai="0">Direct  Marketing</a>:</em></th>
-			<td><p>You  have the choice to opt-out of processing related to marketing communications or  to withdraw your consent if marketing communication was initiated through  consent. You may exercise your choice via the links in our communications or by <a href="https://www.washingtonexaminer.com/contact" target="_blank" data-cms-ai="0">contacting us </a>re: direct marketing.</p></td>
+			<th width="15%" align="left" valign="top" scope="row"><em><a href="#direct_marketing">Direct  Marketing</a>:</em></th>
+			<td><p>You  have the choice to opt-out of processing related to marketing communications or  to withdraw your consent if marketing communication was initiated through  consent. You may exercise your choice via the links in our communications or by <a href="https://www.washingtonexaminer.com/contact" target="_blank">contacting us </a>re: direct marketing.</p></td>
 		</tr>
 		<tr>
-			<th align="left" valign="top" scope="row"><em><a href="#personalization" data-cms-ai="0">Profiling &amp; Personalization</a>:</em></th>
+			<th align="left" valign="top" scope="row"><em><a href="#personalization">Profiling &amp; Personalization</a>:</em></th>
 			<td><p>You may opt out  of the creation or other processing of Preferences Data by automated means, and  object to processing for personalization purposes, to the extent applicable law  gives you the right to do so. Note that we may not be required to cease certain  types of processing based solely on an objection (for example, where we are  required to comply with applicable legal requirements).</p>
 <div>
 					<div> </div>
 			</div></td>
 		</tr>
 		<tr>
-			<th align="left" valign="top" scope="row"><em><a href="#cookies" data-cms-ai="0">Cookies  &amp; Similar Tech</a></em>:</th>
-			<td><p>If you do not  want information collected through the use of cookies, you can manage/deny  cookies (and certain technologies) using your browser’s settings menu. You must  opt out of third party services directly via the third party. For example, to  opt-out of Google’s analytic and marketing services, visit <a href="http://www.google.com/analytics/tos.html" data-cms-ai="0">Google Analytics Terms of Use</a>,  the <a href="http://www.google.com/privacypolicy.html" data-cms-ai="0">Google Privacy Policy</a>,  or <a href="https://tools.google.com/dlpage/gaoptout?hl=en-GB" data-cms-ai="0">Google Analytics  Opt-out</a>. Our Site does not respond to your browser’s  do-not-track request.</p></td>
+			<th align="left" valign="top" scope="row"><em><a href="#cookies">Cookies  &amp; Similar Tech</a></em>:</th>
+			<td><p>If you do not  want information collected through the use of cookies, you can manage/deny  cookies (and certain technologies) using your browser’s settings menu. You must  opt out of third party services directly via the third party. For example, to  opt-out of Google’s analytic and marketing services, visit <a href="http://www.google.com/analytics/tos.html">Google Analytics Terms of Use</a>,  the <a href="http://www.google.com/privacypolicy.html">Google Privacy Policy</a>,  or <a href="https://tools.google.com/dlpage/gaoptout?hl=en-GB">Google Analytics  Opt-out</a>. Our Site does not respond to your browser’s  do-not-track request.</p></td>
 		</tr>
 		<tr>
-			<th align="left" valign="top" scope="row"><em><a href="#behavioral" data-cms-ai="0">Behavioral  Advertising</a></em>:</th>
-			<td><p>You may opt out  or withdraw your consent to behavioral advertising. You must opt out of third  party services directly via the third party. For example, to opt out of  Google’s use of cookies, visit Google’s Ads Settings, <a href="https://www.google.com/settings/u/0/ads?hl=en&amp;sig=ACi0TCiMsTp6hu2gwIWAph1FkupERVvz6U76wP-bPuXf-PU7jkGobIl9xnvmhGPWftIUqRO5jfqD7HmRfYDu-YQNYDT-kpUlM-6waE6L-s0tr4sqZOIvCkHqRJCn0zn3pZ9U7hBlkI7Ue6nMD6EtyapCYzG4ZRIutukmhqmav5FuNJZ7pFD2C08" data-cms-ai="0">here</a>.  To learn more about how to opt out of DoubleClick’s use of cookies, visit the  DoubleClick opt-out page, <a href="https://www.google.com/settings/ads?hl=en&amp;sig=ACi0TCi3R4mL7qb_WRaELD5Z_YPR5O5InCvFFgPTJ5jcWbHaE2tb_jOvoIkA5pP6F9oEvdNnVsMQuwj5HJV2Pg-6RADnzbP9mI_0dcxfwak_4v1_JeRylUrylqkCThZSDLaaI0iKKqsfaEE9pvltfXxOZH9ZarVDcsj6b7B5xIgS7XgzMgJjPq6m-L38v01JOJumwnkQh8Kt" data-cms-ai="0">here</a>.&nbsp; To opt out from Facebook Custom Audience  Pixel, visit their customer support page <a href="https://www.facebook.com/help/247395082112892" data-cms-ai="0">here</a>. To learn  more about how to opt out of Twitter’s use of audience pixels, visit the Twitter  help page <a href="https://support.twitter.com/articles/20170407" data-cms-ai="0">here</a>. If you  wish to take steps to opt-out of tracking by certain online advertisers, you  can visit the Digital Advertising Alliance’s opt-out page at <a href="http://www.aboutads.info/choices" data-cms-ai="0">http://www.aboutads.info/choices</a> or the Network Advertising Initiative at <a href="http://www.networkadvertising.org/optout_nonppii.asp" data-cms-ai="0">www.networkadvertising.org/optout_nonppii.asp</a>.  You can limit or opt out of our processing for behavioral advertising by contacting us.</p></td>
+			<th align="left" valign="top" scope="row"><em><a href="#behavioral">Behavioral  Advertising</a></em>:</th>
+			<td><p>You may opt out  or withdraw your consent to behavioral advertising. You must opt out of third  party services directly via the third party. For example, to opt out of  Google’s use of cookies, visit Google’s Ads Settings, <a href="https://www.google.com/settings/u/0/ads?hl=en&amp;sig=ACi0TCiMsTp6hu2gwIWAph1FkupERVvz6U76wP-bPuXf-PU7jkGobIl9xnvmhGPWftIUqRO5jfqD7HmRfYDu-YQNYDT-kpUlM-6waE6L-s0tr4sqZOIvCkHqRJCn0zn3pZ9U7hBlkI7Ue6nMD6EtyapCYzG4ZRIutukmhqmav5FuNJZ7pFD2C08">here</a>.  To learn more about how to opt out of DoubleClick’s use of cookies, visit the  DoubleClick opt-out page, <a href="https://www.google.com/settings/ads?hl=en&amp;sig=ACi0TCi3R4mL7qb_WRaELD5Z_YPR5O5InCvFFgPTJ5jcWbHaE2tb_jOvoIkA5pP6F9oEvdNnVsMQuwj5HJV2Pg-6RADnzbP9mI_0dcxfwak_4v1_JeRylUrylqkCThZSDLaaI0iKKqsfaEE9pvltfXxOZH9ZarVDcsj6b7B5xIgS7XgzMgJjPq6m-L38v01JOJumwnkQh8Kt">here</a>.&nbsp; To opt out from Facebook Custom Audience  Pixel, visit their customer support page <a href="https://www.facebook.com/help/247395082112892">here</a>. To learn  more about how to opt out of Twitter’s use of audience pixels, visit the Twitter  help page <a href="https://support.twitter.com/articles/20170407">here</a>. If you  wish to take steps to opt-out of tracking by certain online advertisers, you  can visit the Digital Advertising Alliance’s opt-out page at <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a> or the Network Advertising Initiative at <a href="http://www.networkadvertising.org/optout_nonppii.asp">www.networkadvertising.org/optout_nonppii.asp</a>.  You can limit or opt out of our processing for behavioral advertising by contacting us.</p></td>
 		</tr>
 		<tr>
 			<th align="left" valign="top" scope="row"><em>Other Processing:</em></th>
@@ -2196,7 +2208,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <h4>Changes to Our Privacy Policy</h4>
 <p>We may change this Privacy Policy from time  to time. Changes will be posted on this page with the effective date. Please  visit this page regularly so that you are aware of our latest updates. Your use  of the Digital Service following notice of any changes indicates acceptance of  any changes.<u></u></p>
 <h4>Contact Us </h4>
-<p>Feel free to contact us with questions or concerns, to  exercise your marketing choices, or otherwise at <a href="mailto:privacy@mediadc.com" data-cms-ai="0">privacy@mediadc.com</a>.</p>
+<p>Feel free to contact us with questions or concerns, to  exercise your marketing choices, or otherwise at <a href="mailto:privacy@mediadc.com">privacy@mediadc.com</a>.</p>
 <div>
 	<div>
 		<table width="100%" border="0" cellspacing="0" cellpadding="5">
@@ -2222,10 +2234,10 @@ Washington, DC, 20005</p></td>
             <div class="RightRailContainer-columnTwo col-md-4">
                 
                 
-    <div id="googleAd13584005-58df-4129-adda-e64bfe4d6c6d" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/sidebar_1" data-slot-sizes="[[300, 600], [300, 250], [300, 1050]]" data-slot-adsizemap="[[[1024, 0], [300, 1050], [300, 600], [300, 250]], [[768, 0], [300, 600], [300, 250]]]" data-slot-position="2">
+    <div id="googleAd9e10d74d-99a9-45b1-8e99-7da159b7893d" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/sidebar_1" data-slot-sizes="[[300, 600], [300, 250], [300, 1050]]" data-slot-adsizemap="[[[1024, 0], [300, 1050], [300, 600], [300, 250]], [[768, 0], [300, 600], [300, 250]]]" data-slot-position="2">
     </div>
 
-    <div id="googleAda4f8ff3e-80e1-4f09-95a6-4566f9d881bf" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/sidebar_2" data-slot-sizes="[[300, 600], [300, 250], [1, 1]]" data-slot-adsizemap="[[[768, 0], [300, 600], [300, 250]]]" data-slot-position="3">
+    <div id="googleAd400a051d-fed5-445d-8e11-1f85db23a6dc" class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/sidebar_2" data-slot-sizes="[[300, 600], [300, 250], [1, 1]]" data-slot-adsizemap="[[[768, 0], [300, 600], [300, 250]]]" data-slot-position="3">
     </div>
 
             </div>
@@ -2289,7 +2301,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/about" data-cms-ai="0">About Examiner</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/about">About Examiner</a>
                 
             </div>
         
@@ -2302,7 +2314,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/digital-edition" data-cms-ai="0">Magazine Archive</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/digital-edition">Magazine Archive</a>
                 
             </div>
         
@@ -2315,7 +2327,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/staff" data-cms-ai="0">Staff</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/staff">Staff</a>
                 
             </div>
         
@@ -2328,7 +2340,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="http://influence.mediadc.com/washington-examiner" data-cms-ai="0">Advertise</a>
+                    <a class="NavigationItem-text-link" href="http://influence.mediadc.com/washington-examiner">Advertise</a>
                 
             </div>
         
@@ -2341,7 +2353,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/contact" data-cms-ai="0">Contact</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/contact">Contact</a>
                 
             </div>
         
@@ -2354,7 +2366,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://ssl.drgnetwork.com/ecom/MDC/app/live/subscriptions?org=MDC&amp;publ=WS&amp;key_code=ICBTMNV&amp;type=S" data-cms-ai="0">Subscribe</a>
+                    <a class="NavigationItem-text-link" href="https://ssl.drgnetwork.com/ecom/MDC/app/live/subscriptions?org=MDC&amp;publ=WS&amp;key_code=IC9BTN3&amp;type=S">Subscribe</a>
                 
             </div>
         
@@ -2367,7 +2379,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="http://newsletters.washingtonexaminer.com/?utm_source=washingtonexaminer.com&amp;utm_medium=navigation&amp;utm_campaign=wex_bottom_nav" target="_blank" data-cms-ai="0">Newsletters</a>
+                    <a class="NavigationItem-text-link" href="http://www.seaislandsummit.com/?utm_source=WEX%20Footer%20Navigation&amp;utm_medium=referral&amp;utm_campaign=Sea%20Island%20Summit%20Promotion">Events</a>
                 
             </div>
         
@@ -2380,7 +2392,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.facebook.com/WashingtonExaminer/" data-cms-ai="0">Facebook</a>
+                    <a class="NavigationItem-text-link" href="http://newsletters.washingtonexaminer.com/?utm_source=washingtonexaminer.com&amp;utm_medium=navigation&amp;utm_campaign=wex_bottom_nav" target="_blank">Newsletters</a>
                 
             </div>
         
@@ -2393,7 +2405,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://twitter.com/DCExaminer" data-cms-ai="0">Twitter</a>
+                    <a class="NavigationItem-text-link" href="https://www.facebook.com/WashingtonExaminer/">Facebook</a>
                 
             </div>
         
@@ -2406,7 +2418,20 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/terms" data-cms-ai="0">Terms Of Use</a>
+                    <a class="NavigationItem-text-link" href="https://twitter.com/DCExaminer">Twitter</a>
+                
+            </div>
+        
+        
+    </div>
+</li>
+            
+              <li class="Navigation-items-item" data-toggle="collapse">
+    <div class="NavigationItem">
+        
+            <div tabindex="-1" class="NavigationItem-text">
+                
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/terms">Terms Of Use</a>
                 
             </div>
         
@@ -2419,7 +2444,7 @@ Washington, DC, 20005</p></td>
         
             <div tabindex="-1" class="NavigationItem-text">
                 
-                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/privacy-policy" data-cms-ai="0">Privacy Policy</a>
+                    <a class="NavigationItem-text-link" href="https://www.washingtonexaminer.com/privacy-policy">Privacy Policy</a>
                 
             </div>
         
@@ -2444,7 +2469,7 @@ Washington, DC, 20005</p></td>
             
     <div id="sub-services"></div>
 
-        <iframe name="__cmpLocator" style="display: none;"></iframe><script src="//www.washingtonexaminer.com/_resource/analytics/timeme.js"></script><span data-bsp-pv="00000161-3461-dd66-ab67-fd6b92e70005"></span><span data-bsp-pv="00000162-3705-d72e-a3fe-3f6f1ce10000"></span><script data-bsp-site="00000161-3486-d333-a9e9-76c6fbf30000" src="//www.washingtonexaminer.com/_resource/analytics/track.js"></script>
+        
     
 
     
