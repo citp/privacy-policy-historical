@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eyes4tech.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123023309id_/http%3A//www.eyes4tech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyes4tech.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211820id_/https%3A//www.eyes4tech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Eyes4Tech
 
-[](http://www.eyes4tech.com/privacy-policy/privacy-policy-2/)
+[](https://www.eyes4tech.com/privacy-policy/privacy-policy-2/)
 
 If you require any more information or have any questions about our **privacy policy** , please feel free to contact us by email at [admin@eyes4tech.com](mailto:admin@eyes4tech.com "Email Us").
 
@@ -20,7 +20,7 @@ www.eyes4tech.com does use cookies to store information about visitors preferenc
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.eyes4tech.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.eyes4tech.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/policies/technologies/ads/>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/ "Google Policies")
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
