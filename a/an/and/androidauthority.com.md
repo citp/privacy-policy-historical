@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidauthority.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230132511id_/https%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidauthority.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630074143id_/https%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Android Authority
 
@@ -10,7 +10,7 @@ The privacy policy describes the kinds of information we may gather during your 
 
 This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.
 
-**By visiting our Sites, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use the Sites.**
+ **By visiting our Sites, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use the Sites.**
 
 We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use.
 
@@ -18,27 +18,27 @@ We reserve the right to modify or amend the terms of our privacy policy from tim
 
 We collect two basic types of information from you in conjunction with your use of the Sites: non-personally identifiable information and personally identifiable information. Non-personally identifiable information does not individually identify you, but it may include tracking and usage information about your general location, demographics, use of the Sites and the Internet. Personally identifiable information is any information that can individually identify you and includes, your name, address, phone number, and email address, or non-personally identifiable information that has been linked to such personally identifiable information.  
 
-**Personally Identifiable Information**
+ **Personally Identifiable Information**
 
 As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority.
 
-**Non-Personally Identifiable Information**
+ **Non-Personally Identifiable Information**
 
 When you interact with the Sites, we may collect certain information that does not identify you individually (“non-personally identifiable information” or “non-PII”), such as demographic data; information about your computer, mobile device, or other device that you use to access the Sites, including IP address, general location information, unique device identifiers, browser type, browser language, and other transactional information. 
 
 We may also collect information about your use of the Sites, including your search terms and search results, and additional “traffic data” such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses. Our servers may automatically keep an activity log of your use of our Sites. In addition to non-identifiable individual information, we may collect aggregate data regarding the use of the Sites.
 
-**Collection of Personally Identifiable Information From or Through Social Media Sites**
+ **Collection of Personally Identifiable Information From or Through Social Media Sites**
 
 In addition, when you interact with any Android Authority property page or account on a social media platform, such as Facebook, Twitter, Tumblr, or LinkedIn, we may collect the personally identifiable information that you make available to us on that page or account including your social media account ID. However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personally identifiable information that we are permitted to collect by those social media platforms. If you choose to link or login to your Android Authority account with or through a social networking service, Android Authority and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users.
 
-**Collection of Your Source IP Address/Location Information**
+ **Collection of Your Source IP Address/Location Information**
 
 We collect and store your device’s source IP address which may disclose the general location of your device at the time you access the Sites. Advertisements and certain content may be directed to you as a result of this data.
 
-**Information From Other Sources:** _We may supplement the information we collect with information from third parties or collected offline and add it to your account information. This information may include, but is not limited to, demographic information, additional contact information, group affiliations, occupational information, and educational background._
+ **Information From Other Sources:** _We may supplement the information we collect with information from third parties or collected offline and add it to your account information. This information may include, but is not limited to, demographic information, additional contact information, group affiliations, occupational information, and educational background._
 
-**How Do We Use Your Information?**
+ **How Do We Use Your Information?**
 
 We use the information we learn from you to help us personalize and continually improve your experience on the Sites, including to:
 
@@ -64,49 +64,49 @@ We may use the information from one portion of the Sites on other portions of Si
 
 We will not disclose your personally identifiable information collected from the Sites to any organizations not part of Android Authority or its subsidiaries or related entities, except as described in this privacy policy.
 
-**Third-Party Agents**
+ **Third-Party Agents**
 
 We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personally identifiable information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personally identifiable information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites. Below is a list of Third-party scripts or SDKS that may be used on Android Authority:
 
-_**Google Analytics (Google Inc.)**_  
+ _ **Google Analytics (Google Inc.)**_  
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
 Personal Data collected: Cookies and Usage Data.  
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 
-_**Disqus Commenting  
+ _ **Disqus Commenting  
 **_Disqus is commenting software. [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
 
-_**Facebook Analytics for Apps (Facebook, Inc.)**_  
+ _ **Facebook Analytics for Apps (Facebook, Inc.)**_  
 Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.  
 Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.  
 Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/)
 
-_**Facebook Like button and social widgets (Facebook, Inc.)**_  
+ _ **Facebook Like button and social widgets (Facebook, Inc.)**_  
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.  
 Personal Data collected: Cookies and Usage Data.  
 Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation)
 
-_**Twitter Tweet button and social widgets (Twitter, Inc.)**_  
+ _ **Twitter Tweet button and social widgets (Twitter, Inc.)**_  
 The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.  
 Personal Data collected: Cookies and Usage Data.  
 Place of processing: US – [Privacy Policy](https://twitter.com/privacy)
 
-_**Facebook Analytics for Apps (Facebook, Inc.)**_  
+ _ **Facebook Analytics for Apps (Facebook, Inc.)**_  
 Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.  
 Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.  
 Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/)
 
-_**YouTube video widget (Google Inc.)**_  
+ _ **YouTube video widget (Google Inc.)**_  
 YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.  
 Personal Data collected: Cookies and Usage Data.  
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 
-**Drip newsletter marketing.**  
+ **Drip newsletter marketing.**  
 Drip is a newsletter marketing platform.  
 Place of processing: US – [Privacy Policy](https://www.drip.com/privacy)
 
-_**Google Analytics for Firebase (Google Inc.)**_  
+ _ **Google Analytics for Firebase (Google Inc.)**_  
 Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to understand Google’s use of Data, consult Google’s partner policy.  
 Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.  
 This Application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service.  
@@ -114,23 +114,23 @@ Users may opt-out of certain Firebase features through applicable device setting
 Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.  
 Place of processing: USA – [Privacy Policy](https://www.google.com/policies/privacy/)
 
-**Business Partners and Other Third Parties**
+ **Business Partners and Other Third Parties**
 
 Through our Digital Properties, you are able to exercise choice with respect to certain data practices of companies participating in the choice tools we provide. When you exercise your choice, we may share some information collected from you, your computer, or your mobile device with these companies so that they may honor your requests concerning their data collection practices. Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third party rights; and for purposes disclosed at time of collection.
 
-**Links to Third Party Sites**
+ **Links to Third Party Sites**
 
 Our Digital Properties may contain links to other websites operated by third parties we do not control and this Privacy Policy applies solely to information collected through our Digital Properties. We encourage you to read the privacy statements of these other websites.
 
-**Assignment**
+ **Assignment**
 
 In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, Android Authority may transfer your personally identifiable information to the new party in control or the party acquiring assets. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this privacy policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this privacy policy.
 
-**Law Enforcement, Legal Process, and Emergency Situations**
+ **Law Enforcement, Legal Process, and Emergency Situations**
 
 In some cases, we may use or disclose your personally identifiable information to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process; to protect and defend our rights or to prevent misuse of our Sites; or to protect the personal safety of our employees, agents, partners, the users of the Sites, or the public.
 
-**Use of Non-Personally Identifiable Information**
+ **Use of Non-Personally Identifiable Information**
 
 We may disclose or share individual, non-personally identifiable information and aggregate information in any manner other than that described herein that we deem appropriate or necessary. Among other things, we will disclose non-personally identifiable information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose non-personally identifiable information to our partners and other third parties about how our users collectively use the Sites.
 
@@ -156,29 +156,29 @@ Many of the third party advertisers that place tracking tools on our Websites ar
 
 Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see:
 
-**Apple:**[ http://support.apple.com/kb/HT4228](http://support.apple.com/kb/HT4228)
+ **Apple:**[ http://support.apple.com/kb/HT4228](http://support.apple.com/kb/HT4228)
 
-**Android:** [http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/)
+ **Android:** [http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/)
 
-**Windows:**[ http://choice.microsoft.com/en-US/opt-out](http://choice.microsoft.com/en-US/opt-out)
+ **Windows:**[ http://choice.microsoft.com/en-US/opt-out](http://choice.microsoft.com/en-US/opt-out)
 
 Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.
 
 Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, Android Authority’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.
 
-**What Are Your Choices?**
+ **What Are Your Choices?**
 
 We believe you should have choices about the collection, use and sharing of your information. Although you cannot opt-out of all data collection when you visit our sites, you can limit the collection, use and sharing of your personally identifiable information. For information regarding your choices related to interest-based advertising, please see the “How Do the Sites Use Cookies and Other Tracking Technologies?” section above.
 
-**Collection of personally identifiable information**
+ **Collection of personally identifiable information**
 
 All personally identifiable information is provided on a voluntary basis. If you do not want Android Authority to collect such information, you should not submit it to the Sites. However, doing so will restrict your ability to access some content and use some of the functionality of the sites.
 
-**Emails and Newsletters**
+ **Emails and Newsletters**
 
 You may always opt-out of receiving future e-mail marketing messages and newsletters from Android Authority by following the instructions contained within the emails and newsletters, or by e-mailing, calling or writing us at the addresses below.
 
-**Governing Law**
+ **Governing Law**
 
 We attempt to protect the personally identifiable information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to Android Authority’s services. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to Android Authority.
 
@@ -210,24 +210,24 @@ We take reasonable security measures to protect your information, including the 
 
 The time period for which we keep information varies according to the purpose for which it is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.
 
-**Contests, Giveaways or Games**
+ **Contests, Giveaways or Games**
 
 When we run a contest or giveaway or game relating to our Sites, it will be accompanied by a set of rules. The rules for each contest, giveaway or game will specify how the information gathered from you for entry will be used and disclosed if it is different than as described in this privacy policy. In conjunction with your entry in such contest or giveaway, personally identifiable information will be collected only if you voluntarily submit it.
 
-**Children’s Information**
+ **Children’s Information**
 
 The Sites are not intended for children under 16 years of age. Android Authority does not knowingly collect personal information from children under 16 years of age. If you are under 16 years of age, do not provide personal information to Android Authority without providing us with consent from your parents. If Android Authority discovers that a child under the age of 16 has provided Android Authority with personal information and we do not have parental consent, Android Authority will immediately delete that child’s information from the Sites. 
 
 If you believe that company has been provided with the personal information of a child under the age of 16 without parental consent, please notify us immediately at admin(at)androidauthority(dot)com.
 
-**Your California Privacy Rights**
+ **Your California Privacy Rights**
 
 Android Authority does not disclose your personal information to third parties for the third parties’ direct marketing purposes unless you affirmatively agree to such disclosures.
 
-**Questions About this Policy or Access to Your Information**
+ **Questions About this Policy or Access to Your Information**
 
 If you have an account with Android Authority, you may review and change your information by logging into your account and editing your account profile. If you have questions about our privacy policy, you may contact us at:
 
-**Email:** admin(at)androidauthority(dot)com
+ **Email:** admin(at)androidauthority(dot)com
 
 You may also use the contact information provided to request access or changes to your personally identifiable information; however, you will not be permitted to examine the personally identifiable information of any other person or entity and may be required to provide us with personally identifiable information to verify your identity prior to accessing any records containing information about you. We may not accommodate a request to change or delete personally identifiable information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
