@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safehaven.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908100539id_/https%3A//safehaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safehaven.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205511id_/https%3A//safehaven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Advanced Media Solutions T/as http://safehaven.com the "Data controller" takes your privacy very seriously. We ask that you read this privacy policy carefully as it contains important information about what to expect when the Data Controller collects personal information about you and how the Data Controller will use your personal data.
+Leacap Ltd T/as http://safehaven.com the "Data controller" takes your privacy very seriously. We ask that you read this privacy policy carefully as it contains important information about what to expect when the Data Controller collects personal information about you and how the Data Controller will use your personal data.
 
 This policy applies to information we collect about:
 
