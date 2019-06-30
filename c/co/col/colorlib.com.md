@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorlib.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905235446id_/https%3A//colorlib.com/wp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlib.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630043818id_/https%3A//colorlib.com/wp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Colorlib
 
@@ -33,3 +33,5 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 We reserve the right to change this policy at any time.
+
+ **Disclosure:** This page contains external affiliate links that may result in us receiving a commission if you choose to purchase mentioned product. The opinions on this page are our own and we don't receive additional bonus for positive reviews.
