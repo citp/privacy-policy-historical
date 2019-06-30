@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230211646id_/https%3A//www.christianpost.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230248id_/https%3A//www.christianpost.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Christian Post
 
-Last updated on April 15 2015
+Last updated on May 15 2019
 
 This page describes the terms and conditions that govern your use of The Christian Post digital properties, including [www.ChristianPost.com](https://www.christianpost.com/), mobile sites and applications, offered by The Christian Post and certain of its subsidiaries (“CP”, “us” or “we”).
 
@@ -74,6 +74,8 @@ You have choices about the collection of information by third parties on our web
 
 
 Your access to our websites should not be affected if you do not accept cookies served by third parties.
+
+Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Your data may be transferred outside of the country from which it was originally collected.”
 
 ## Here Is How We Use Your Information
 
