@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231233309id_/https%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220848id_/https%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Washington Times
 
-**Effective Date: May 22, 2018**
+**Effective Date: Feb 12, 2019**
 
 The Washington Times LLC (“TWT”, “we” or “us”) recognizes the importance of protecting the information it collects from users in the operation of its Web site, washingtontimes.com (“TWT’s Web site”) as well as other activities. As such, TWT takes reasonable steps to maintain the security, integrity and privacy of this information.
 
 **TYPES OF INFORMATION WE COLLECT**
 
-The information we gather falls into two categories: (1) information voluntarily supplied by visitors to the site when they register, sign up to receive our email newsletters, subscribe to the print editions, post comments in any of the public posting areas on our site, respond to user surveys, participate in interactive activities such as polls, or view more information about a story, and the like; and (2) anonymous tracking information that is automatically gathered as visitors navigate through our site and review our email newsletters and other email messages.  This information may be collected directly by us or it may be collected by third-party partners or service providers on our behalf.  Third parties featured on or linked to by our Web site, such as advertisers and others that display promotional messages on our site or offer products and services through our site (“Advertisers”), may be gathering information as well, through processes we don’t control.
+The information we gather falls into two categories: (1) information voluntarily supplied by visitors to the site when they register, sign up to receive our email newsletters, subscribe to the print and/or digital editions, post comments in any of the public posting areas on our site, respond to user surveys, participate in interactive activities such as polls, or view more information about a story, and the like; and (2) anonymous tracking information that is automatically gathered as visitors navigate through our site and review our email newsletters and other email messages.  This information may be collected directly by us or it may be collected by third-party partners or service providers on our behalf.  Third parties featured on or linked to by our Web site, such as advertisers and others that display promotional messages on our site or offer products and services through our site (“Advertisers”), may be gathering information as well, through processes we don’t control.
 
   ** _Information You Voluntarily Supply to Us_**
 
