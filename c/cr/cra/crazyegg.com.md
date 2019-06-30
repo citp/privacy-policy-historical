@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220835id_/https%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233109id_/https%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
 
 # Crazy Egg | Privacy Policy
 
@@ -119,8 +119,7 @@ If you are visiting the Our Website or a Client Site from a country other than t
 
 If we transfer Personally Identifying Information from a Client Site in the European Economic Area (“EEA”) to other countries not deemed adequate under applicable data protection law, we will do so in compliance with either: 
 
-  * **European Union Model Clauses.** Crazy Egg will offer to enter into the European Union Model Clauses, also known as Standard Contractual Clauses, with the Client. To enter into such clauses, please contact us at privacy@crazyegg.com; 
-  * **E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield (“Privacy Shield”).** Crazy Egg will transfer such Information in compliance with the data protection requirements under the Privacy Shield. To learn more about the Privacy Shield Program, please see http://www.privacyshield.gov/welcome. 
+  * **European Union Model Clauses.** Crazy Egg will offer to enter into the European Union Model Clauses, also known as Standard Contractual Clauses, with the Client. To enter into such clauses, please contact us at privacy@crazyegg.com. 
 
 
 
