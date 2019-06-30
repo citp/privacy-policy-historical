@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblaze.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120141id_/https%3A//www.theblaze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblaze.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630062214id_/https%3A//www.theblaze.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TheBlaze
 
@@ -12,7 +12,7 @@ Your privacy is very important to us. This Privacy Policy (the "Privacy Policy")
 
 If we are authorized or permitted to share your Personal Data with third parties or our affiliates for their direct marketing purposes but you would like to opt out, you may do so by sending us an email at support@blazetv.com. Please be sure to include your full name, email address, mailing address, and specifically state that you do not want your Personal Data shared with third parties or our affiliates for their direct marketing purposes. We process this Personal Data for our legitimate interest of sending direct marketing to you.
 
- **Email Marketing**
+**Email Marketing**
 
 If we are authorized or permitted to send you non-transactional emails but you would like to opt out of receiving them, you may do so via a link in the footer of all non-transactional email messages. Alternatively, you may email support@blazetv.com at any time and ask to be removed. We may continue to send you certain transactional email communications (e.g., emails regarding account notifications, customer support questions and similar information regarding your use of the Site and Services). We process this Personal Data for our legitimate interest of sending direct marketing to you.
 
