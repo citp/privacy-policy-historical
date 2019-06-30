@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowtheendbegins.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119205515id_/http%3A//www.nowtheendbegins.com/nteb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtheendbegins.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630090605id_/https%3A//www.nowtheendbegins.com/nteb-privacy-policy) for the most accurate reproduction.*
 
 # NTEB Privacy Policy • Now The End Begins
 
@@ -22,6 +22,6 @@ Our site is monitored hourly by 3 very reputable outside sources for safety and 
 
  **All internal systems** involved with the collection and retention of personal information are maintained by NTEB’s technology department. The architecture and support of these systems follow industry best practices in regards to security and patch management.
 
-If you have questions about our privacy policy, or have ideas about improving our policy, [please contact us by clicking here](http://www.nowtheendbegins.com/?page_id=31).
+If you have questions about our privacy policy, or have ideas about improving our policy, [please contact us by clicking here](https://www.nowtheendbegins.com/?page_id=31).
 
 * * *
