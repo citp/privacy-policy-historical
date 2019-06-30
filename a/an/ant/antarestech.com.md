@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antarestech.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119005756id_/https%3A//www.antarestech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antarestech.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630095636id_/https%3A//www.antarestech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Antares
 
@@ -11,6 +11,8 @@ This Privacy Policy does not apply to websites maintained by other companies or 
 We collect and use personal information about you to establish your user account, and to interact with you to provide customer service. Specifically, when you set up an account with any of our services, we require your e-mail address and first and last name. You will also be asked to provide your phone number and address, which allows us to personalize our services to you; however, this information is optional and not required to establish an account.
 
 We may also collect credit card information in connection with any purchase you may make. Any such information required to process a transaction is collected securely by our credit card processor and we do not have access to your credit card information, other than the last 4 digits of your account number, which we retain for tracking purposes.
+
+At times we receive data from third-party organisations when they have received your consent to share data with third-parties.
 
 ### Information Sharing and Disclosure
 
