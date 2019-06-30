@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231212053id_/https%3A//www.csmonitor.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231655id_/http%3A//www.csmonitor.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Christian Science Monitor - CSMonitor.com
 
@@ -22,7 +22,7 @@ This Privacy Policy (“Policy”) applies to the information the Monitor collec
   * Children;
   * How to contact us;
   * Your California privacy rights;
-  * No rights of third parties; and
+  * No rights of third parties; and
   * Changes to this Policy.
 
 
@@ -86,7 +86,7 @@ We use these technologies for the following purposes (a) store your username, na
 
 We use these automated technologies to collect and analyze certain types of information we consider to be non-personal information, including: (a) information related to the devices you use to access or interact with our Services, such as: IP addresses, geolocation information (as described further below), unique device identifiers and other information about your mobile phone or other mobile device(s), browser type, browser language; and (b) information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, and other similar information. We may also capture other data, such as search criteria and results. In some cases, we will associate this information with a unique Monitor identifier (that cannot be used by itself to identify you) for our internal use, in which case your Monitor identifier will be considered Monitor information and nothing in this Privacy Policy restricts how the Monitor may use this information.
 
-Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) and make changes at the [Global Privacy Settings Panel.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html)
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) and make changes at the [Global Privacy Settings Panel.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html)
 
 Here are cookies that are placed on your device when you visit our Service:
 
@@ -210,11 +210,11 @@ The Services are not intended for persons under the age of 13. We require that o
 
 ##  How to contact us.
 
-If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an e-mail to [service@csmonitor.com](mailto:service@csmonitor.com).
+If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an e-mail to [service@csmonitor.com](mailto:service@csmonitor.com).
 
 ##  Your California privacy rights.
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to [service@csmonitor.com](mailto:service@csmonitor.com).
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to [service@csmonitor.com](mailto:service@csmonitor.com).
 
 California Do Not Track (DNT) Disclosure: The Christian Science Monitor does not currently respond to DNT signals. DNT differs from cookies. For information about cookies, please see the section above on “Cookies and other electronic technologies.”
 
