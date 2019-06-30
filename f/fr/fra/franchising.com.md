@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchising.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819163946id_/https%3A//www.franchising.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchising.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630102136id_/https%3A//www.franchising.com/about/privacy.html) for the most accurate reproduction.*
 
 # Franchising.com Privacy Policy
 
