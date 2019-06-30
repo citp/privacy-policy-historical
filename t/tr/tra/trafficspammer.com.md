@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trafficspammer.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113230112id_/https%3A//hitleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficspammer.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210705id_/https%3A//hitleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HitLeap Traffic Exchange
+
+Effective date: December 17, 2018
 
 HitLeap Ltd ("us", "we", or "our") operates the hitleap.com website (hereinafter referred to as the "Service").
 
@@ -230,6 +232,8 @@ We do not knowingly collect personally identifiable information from anyone unde
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+If a revision is material we will provide a prominent notice on our Service, prior to the change becoming effective. What constitutes a material change will be determined at our sole discretion.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
