@@ -1,73 +1,73 @@
-> *The following text is extracted and transformed from the allieiswired.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618205033id_/http%3A//allieiswired.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allieiswired.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630085034id_/http%3A//allieiswired.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Allie is Wired
+# Privacy Policy – Allie Is Wired
 
-[AllieisWired.com](http://allieiswired.com/) respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully.
+Last updated: October 17, 2018
 
-By visiting AllieisWired.com, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.
+  
+Allie Is Wired  
 
-By continuing to use the AllieisWired.com Website after we post any changes to this Privacy Notice, you accept the Privacy Notice as modified.
 
-What Personal Information About Customers Does AllieisWired.com Collect?
+(“us”, “we”, or “our”) operates the Allie Is Wired website (the “Service”). 
 
-The information we learn from customers helps us personalize and continually improve your experience at AllieisWired.com. Here are the types of information we collect:
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-• Information You Give Us: We receive and store any personal and financial information you enter on our Website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future options for you, improving our Website, and communicating with you.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-• Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Websites, we use “cookies,” and we obtain certain types of information when your Web browser accesses AllieisWired.com, including your IP address. A number of companies offer utilities designed to help you visit Websites anonymously. Although we will not be able to provide you with a personalized experience at AllieisWired.com if we cannot recognize you, we want you to be aware that these tools exist.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://allieiswired.com
 
-• E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from AllieisWired.com if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences accordingly.
+## Information Collection And Use
 
-What About Cookies?
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
 
-• Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalized greetings and storage of items in your Shopping Cart between visits.
+  * Name
+  * Email address
+  * Telephone number
 
-• The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of AllieisWired.com’s coolest features, and we recommend that you leave them turned on.
 
-What About Links?
 
-Our website may contain links to third party websites to which we have no affiliation. AllieisWired.com does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy policies on these third party websites.
+## Log Data
 
-Notice Regarding Online Behavioral Advertising.
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+## Cookies
 
-Does AllieisWired.com Share The Information It Receives?
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-• Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+## Service Providers
 
-• Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that AllieisWired.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-• Protection of AllieisWired.com and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of AllieisWired.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-• With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+## Security
 
-How Secure Is Information About Me?
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-• We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+## Links To Other Sites
 
-• We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-• It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-What Information Can I Access?
+## Children’s Privacy
 
-AllieisWired.com gives you access to a broad range of information about your account and your interactions with AllieisWired.com for the limited purpose of viewing and, in certain cases, updating that information. The list of information you can access will change as our Website evolves.
+Our Service does not address anyone under the age of 18 (“Children”).
 
-Are Children Allowed To Use AllieisWired.com?
+We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we discover that a child under 18 has provided us with Personal Information, we will delete such information from our servers immediately.
 
-AllieisWired.com does NOT sell products for purchase by children.
+## Compliance With Laws
 
-Protecting the privacy of young children is especially important. For that reason, AllieisWired.com does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the site from persons under 13 years of age, and no part of our website is directed to persons under 13.
+We will disclose your Personal Information where required to do so by law or subpoena.
 
-If you are under 13 years of age, then please do not use or access AllieisWired.com at any time or in any manner. If AllieisWired.com learns that personally identifiable information of persons under the age of 13 has been collected, without verified parental consent, then AllieisWired.com will take the appropriate steps to delete this information.
+## Changes To This Privacy Policy
 
-Conditions of Use, Notices, and Revisions
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-If you choose to visit AllieisWired.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of applicable laws. If you have any concern about privacy at AllieisWired.com, please contact us with a thorough description, and we will try to resolve it.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to see recent changes.
+## Contact Us
 
-Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+If you have any questions about this Privacy Policy, please contact us.
