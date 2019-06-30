@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfsb.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911220433id_/https%3A//www.wfsb.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfsb.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630032448id_/https%3A//www.wfsb.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | wfsb.com
 
