@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924094651id_/https%3A//www.southbankcentre.co.uk/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220453id_/https%3A//www.southbankcentre.co.uk/policies/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Southbank Centre
 
@@ -17,3 +17,17 @@ Like most websites, we receive and store certain details whenever you use the So
 We may also obtain personal information about you from other sources, such as if a family member or friend contacts us on your behalf. Where this occurs and it is not practical for us to provide you directly with a copy of our privacy policy, we may ask the person who provided us with your information to make this privacy policy available to you.
 
 We may also receive information from external sources which enables us to gain a better understanding of our audiences, visitors and supporters and to improve our fundraising and marketing methods. These sources include:
+
+### Third party organisations
+
+Your information may be shared with us by independent fundraising sites like JustGiving or Virgin Money Giving if you make a donation to Southbank Centre, but only when you have indicated that you give your consent to hear from us. You should check their Privacy Policy when you provide your information to understand fully how they will process your data.
+
+### Social media
+
+We use social media to broadcast messages and updates about events and news. On occasion, we may reply to comments or questions you make to us on social media platforms. You may also see adverts from us on social media that are tailored to your interests. See our cookie policy for further information.
+
+Depending on your settings and the privacy policies used by social media and messaging services like Facebook, LinkedIn or Twitter, we may receive non-personally identifying demographic or analytical information from these services that enables us to better understand the reach and effectiveness of our advertising.
+
+### Information available publicly
+
+This may include information found in places such as Companies House your biography on your work website or information that has been published in articles/ newspapers.
