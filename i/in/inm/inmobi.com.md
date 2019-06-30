@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226065343id_/https%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222654id_/https%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
 
 # InMobi | Enterprise Mobile Marketing & Advertising Platforms
 
 ## Privacy Policy
 
-### LAST UPDATED: 24 FEBRUARY 2017
+### LAST UPDATED: 27 NOVEMBER 2017
 
-### EFFECTIVE: 27 MARCH 2017
+### EFFECTIVE: 28 DECEMBER 2017
 
 ### 1\. INTRODUCTION
 
