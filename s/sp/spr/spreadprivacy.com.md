@@ -1,69 +1,132 @@
-> *The following text is extracted and transformed from the spreadprivacy.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232117id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadprivacy.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630092809id_/https%3A//duckduckgo.com/privacy) for the most accurate reproduction.*
 
-# Medium Privacy Policy – Medium Policy – Medium
+# DuckDuckGo Privacy
 
-**Effective Date: March 7, 2016**
+**[DuckDuckGo](https://duckduckgo.com/?q=&t=i) does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
 
-Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
+  * Why You Should Care - Search Leakage
+  * Why You Should Care - Search History
+  * Information Not Collected
+  * Information Collected
+  * Information Shared
 
-#### General information
 
-This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
+  * Last updated on 04/11/12. Removed ", which gets sent to my personal email." in last paragraph as our feedback is now handled by multiple team members via desk.com.
+  * Before that, on 03/11/12. Removed dead link (Scroogle) and added a missing 'to'.
+  * Before that, on 11/16/10. This paragraph was added.
+  * Before that, on 9/25/10. This paragraph was added.
+  * Before that, on 9/16/10. This paragraph was added.
 
-#### What we may collect
 
-We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
 
-When you use Medium Services, we may collect and store your Internet Protocol address. We may use this information to fight spam and other abuse; to personalize Medium Services; or to generate aggregate, non-identifying information about how people use Medium Services.
+## Why You Should Care
 
-When you create your Medium account, and authenticate via a third-party service like Twitter or Facebook, we may collect, store, and periodically update the contact lists associated with that third-party account, so you can connect with existing contacts from that service who are on Medium.
+* * *
 
-#### Email from Medium
+### Search Leakage   [top]
 
-Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests.
+At other search engines, when you do a search and then click on a link, your search terms are sent to that site you clicked on (in the [HTTP referrer header](https://web.archive.org/HTTP_referrer)). We call this sharing of personal information "search leakage."
 
-We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
+For example, when you search for something private, you are sharing that private search not only with your search engine, but also with all the sites that you clicked on (for that search).
 
-#### Disclosure of your information
+In addition, when you visit _any_ site, your computer automatically sends information about it to that site (including your [User agent](https://web.archive.org/User_agent) and [IP address](https://web.archive.org/IP_Address)). This information can often be used to identify you directly.
 
-As a rule, we don’t share your personal information outside the company.
+So when you do that private search, not only can those other sites know your search terms, but they can also know that _you_ searched it. It is this combination of available information about you that raises privacy concerns.
 
-We won’t sell your personal information.
+DuckDuckGo prevents search leakage by default. Instead, when you click on a link on our site, we route (redirect) that request in such a way so that it does not send your search terms to other sites. The other sites will still know that you visited them, but they will not know what search you entered beforehand.
 
-We may share your personal information with third parties in limited circumstances, including: (1) with your consent; (2) to a vendor or partner who meets our data protection standards; or (3) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process.
+At some other search engines (including us), you can also use an [encrypted version](https://duckduckgo.com/) ([HTTPS](https://web.archive.org/HTTP_Secure)), which as a byproduct doesn't usually send your search terms to sites. However, it is slower to connect to these versions and if you click on a site that also uses HTTPS then your search is sent. Nevertheless, the encrypted version does protect your search from being leaked onto the computers it travels on between you and us.
 
-If we’re going to share your information in response to legal process, we’ll give you advance notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited from doing so by law or court order. We will object to requests for information about users of our site that we believe to be improper.
+At DuckDuckGo, our encrypted version goes even further and automatically changes links from a number of major Web sites to point to the encrypted versions of those sites. It is modeled after (and uses code from) the [HTTPS Everywhere](https://www.eff.org/https-everywhere/) FireFox add-on. These sites include Wikipedia, Facebook, Twitter, and Amazon to name a few.
 
-If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer. You can opt out of the new policy by deleting your account during the notice period.
+Another way to prevent search leakage is by using something called a [POST request](https://web.archive.org/?q=POST+request), which has the effect of not showing your search in your browser, and, as a consequence, does not send it to other sites. You can turn on POST requests on our [settings page](https://web.archive.org/settings), but it has its own issues. POST requests usually break browser back buttons, and they make it impossible for you to easily share your search by copying and pasting it out of your Web browser's address bar.
 
-#### Cookies
+Finally, if you want to prevent sites from knowing you visited them at all, you can use a proxy like [Tor](https://www.torproject.org/). DuckDuckGo actually operates a [Tor exit enclave](https://help.duckduckgo.com/privacy/tor-exit-enclave/), which means you can get end to end anonymous and encrypted searching using Tor & DDG together.
 
-We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
+You can enter !proxy domain into DuckDuckGo as well, and we will route you through a proxy, e.g. [!proxy breadpig.com](https://web.archive.org/?q=!proxy+breadpig.com). This feature is part of our [!bang syntax](https://web.archive.org/bang). Unfortunately, proxies can also be slow, and free proxies (like the one we use) are funded by arguably excessive advertising.
 
-We respect [Do Not Track](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e) (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. By logging in you are opting to allow Medium to ignore the DNT setting and to use cookies in order to provide you a personalized experience.
+Because of these drawbacks in HTTPS, POST and proxies we decided to take the redirect approach to combat search leakage. However, we leave the choice up to you. You can deviate from the default on our [settings page](https://web.archive.org/settings) by toggling the redirect or address bar settings. You can also use our [encrypted version](https://duckduckgo.com/).
 
-Some third-party services that we use, such as [embedly](http://embed.ly/) or [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
+### Search History   [top]
 
-#### Data Storage
+Other search engines save your search history. Usually your searches are saved along with the date and time of the search, some information about your computer (e.g. your [IP address](https://web.archive.org/IP_Address), [User agent](https://web.archive.org/User_agent) and often a unique identifier stored in a [browser cookie](https://web.archive.org/HTTP_cookie)), and if you are logged in, your account information (e.g. name and email address).
 
-Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs.
+With only the timestamp and computer information, your searches can often be traced directly to you. With the additional account information, they _are_ associated directly with you.
 
-####  **Modifying your personal information or deleting your  account**
+Also, note that with this information your searches can be tied together. This means someone can see everything you've been searching, not just one isolated search. You can usually find out a lot about a person from their search history.
 
-If you have a Medium account, you can access and modify your personal information, or delete your account [here](https://medium.com/me/settings).
+It's sort of creepy that people at search engines can see all this info about you, but that is not the main concern. The main concern is when they either a) release it to the public or b) give it to law enforcement.
 
-To protect information from accidental or malicious destruction, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+Why would they release it to the public? AOL famously released supposedly anonymous search terms for research purposes, except they didn't do a good job of making them completely anonymous, and they were ultimately [sued over it](https://yro.slashdot.org/story/06/09/25/2150209/AOL-Subscribers-Sue-Over-Release-Of-Search-Data). In fact, almost every attempt to anonymize data has similarly been later found out to be much less anonymous than initially thought.
 
-If you delete your account, your account and content may be unrecoverable.
+The other way to release it to the public is by accident. Search engines could lose data, or get hacked, or accidentally expose data due to security holes or incompetence, all of which has happened with personal information on the Internet. 
 
-#### Data security
+Why would search engines give your search history to law enforcement? Simply because law enforcement asked for it, usually as part of a legal investigation. If you read privacy policies and terms of service carefully you will notice that they say they can give your information on court order. 
 
-We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account (like using a strong password).
+This makes sense because they may be legally obligated to do so. However, search engines are not legally obligated to collect personal information in the first place. They do it on their own volition.
 
-#### Changes to this Policy
+The bottom line is if search engines have your information, it could get out, even if they have the best intentions. And this information (your search history) can be pretty personal.
 
-Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
+For these reasons, DuckDuckGo takes the approach to not collect any personal information. The decisions of whether and how to comply with law enforcement requests, whether and how to anonymize data, and how to best protect your information from hackers are out of our hands. Your search history is safe with us because it cannot be tied to you in any way.
 
-#### Questions
+## Information
 
-We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:%20legal@medium.com).
+* * *
+
+### Information Not Collected   [top]
+
+When you search at DuckDuckGo, we don't know who you are and there is no way to tie your searches together.
+
+When you access DuckDuckGo (or any Web site), your Web browser automatically sends information about your computer, e.g. your [User agent](https://web.archive.org/User_agent) and [IP address](https://web.archive.org/IP_Address).
+
+Because this information could be used to link you to your searches, we do not log (store) it at all. This is a very unusual practice, but we feel it is an important step to protect your privacy.
+
+It is unusual for a few reasons. First, most server software auto-stores this information, so you have to go out of your way not to store it. Second, most businesses want to keep as much information as possible because they don't know when it will be useful. Third, many search engines actively use this information, for example to show you more targeted advertising.
+
+Another way that your searches are often tied together at other search engines are through [browser cookies](https://web.archive.org/HTTP_cookie), which are pieces of information that sit on your computer and get sent to the search engine on each request. What search engines often do is store a unique identifier in your browser and then associate that identifier with your searches. At DuckDuckGo, no cookies are used by default. 
+
+In response to efforts by the [EFF](https://web.archive.org/Electronic_Frontier_Foundation) and others, the major search engines have begun "anonymizing" their search log data after periods of time. Sure, this is better than not doing so, but you should note that this does not make your search history anonymous in the same way that it is at DuckDuckGo. 
+
+What search engines generally do when they anonymize data is get rid of part of your IP address or turn it into something that doesn't look exactly like an IP address. And they do the same thing for uniquely identifying cookies.
+
+However, in many cases, this so-called anonymous data can still tie your searches together, which can be used to reconstruct who you are and what you searched for. Additionally, search engines usually are silent on what they do with the User agent, which [has been shown](https://www.eff.org/deeplinks/2010/01/tracking-by-user-agent) to also have enough information to often be personally identifiable, especially if isolated to a particular search session (day).
+
+### Information Collected   [top]
+
+At DuckDuckGo, no cookies are used by default. If you have changed any [settings](https://web.archive.org/settings), then cookies are used to store those changes. However, in that case, they are not stored in a personally identifiable way. For example, the large size setting is stored as 's=l'; no unique identifier is in there. Furthermore, if you prefer not to use cookies to store settings, you can use [URL parameters](https://web.archive.org/params) instead.
+
+Additionally, if you use our [!bang syntax/dropdown](https://web.archive.org/bang), which bangs you use are stored in a cookie so that we can list your most frequently used ones on top of the !bang dropdown box. Just like the other settings, this information is not saved on our servers at all, but resides solely on your computer. There is also a [setting](https://web.archive.org/settings) to turn this off, which you can also set via a [URL parameter](https://web.archive.org/params). Particular searches are of course not stored. An example cookie might look like: php=2&yelp=19&java=4.
+
+We also save searches, but again, not in a personally identifiable way, as we do not store IP addresses or unique User agent strings. We use aggregate, non-personal search data to improve things like misspellings.
+
+Similarly, we may add an affiliate code to some eCommerce sites (e.g. Amazon & eBay) that results in small commissions being paid back to DuckDuckGo when you make purchases at those sites. We do not use any third parties to do the code insertion, and we do not work with any sites that share personally identifiable information (e.g. name, address, etc.) via their affiliate programs. This means that no information is shared from DuckDuckGo to the sites, and the only information that is collected from this process is product information, which is not tied to any particular user and which we do not save or store on our end. It is completely analogous to the search result case from the previous paragraph--we can see anonymous product info such that we cannot tie them to any particular person (or even tie multiple purchases together). This whole affiliate process is an attempt to keep advertising to a minimal level on DuckDuckGo.
+
+Finally, if you [give us feedback](https://web.archive.org/feedback), it may be stored in our email. However, you can give anonymous feedback (by not entering your email or other personal info on the feedback form).
+
+### Information Shared   [top]
+
+If you turn redirects off in the [settings](https://web.archive.org/settings) and you don't either turn POST on or use our [encrypted site](https://duckduckgo.com/), then your search could leak to sites you click on. Yet as explained above, this does not happen by default.
+
+Also, like anyone else, we will comply with court ordered legal requests. However, in our case, we don't expect any because there is nothing useful to give them since we don't collect any personal information.
+
+## Other
+
+* * *
+
+### Other Search Engines   [top]
+
+If you care about search privacy, you might also want to check out these other search engines that take it seriously by default.
+
+  * [Ixquick](https://ixquick.com/) [[privacy policy](https://ixquick.com/eng/protect-privacy.html)]
+
+
+
+Each does things a bit differently in terms of privacy and very differently in terms of results. And not all go as far as DuckDuckGo in some aspects. However, none store your personal information by default, which make them all pretty safe in our opinion.
+
+### Updates   [top]
+
+If this policy is substantively updated, we will update the text of this page and provide notice to you at [https://duckduckgo.com/about](https://web.archive.org/about) by writing '(Updated)' in red next to the link to this page (in the footer) for a period of at least 30 days. 
+
+### Feedback   [top]
+
+I ([Gabriel Weinberg](https://web.archive.org/?q=Gabriel+Weinberg)) am the founder of Duck Duck Go and personally wrote this privacy policy. If you have any questions or concerns, please [submit feedback](https://web.archive.org/feedback).
