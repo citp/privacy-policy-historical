@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2018-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180801010334id_/https%3A//nrcc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630160022id_/https%3A//nrcc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NRCC
 
@@ -12,7 +12,7 @@ We ask that children under 18 do not submit their information. In accordance wit
 
 **How is the information collected at[www.NRCC.org](https://www.nrcc.org/) used?**
 
-We will not sell your personal information. Under no circumstances will the NRCC sell your information to third parties or any commercial entities. When you voluntarily provide your information to the NRCC, may share that information with other organizations who may contact you with offers for products or services. If you would prefer that we not share your information for these purposes, you may opt out by emailing [info@nrccvictory.org](mailto:info@nrccvictory.org).
+We will not sell your personal information. Under no circumstances will the NRCC sell your information to third parties or any commercial entities. When you voluntarily provide your information to the NRCC, may share that information with other organizations who may contact you with offers for products or services. If you would prefer that we not share your information for these purposes, you may opt-out by emailing [info@nrccvictory.com](mailto:info@nrccvictory.org).
 
 **Is my information secure?**
 
@@ -22,7 +22,7 @@ Protecting information you provide is important to us. The NRCC makes every effo
 
 **How do I contact the National Republican Congressional Committee?**
 
-If you have any questions, comments or concerns please contact the NRCC by e-mail or by phone using the contact information [provided here](http://www.nrccdev.org/contact-us/ "Contact Us").
+If you have any questions, comments or concerns please contact the NRCC by e-mail or by phone using the contact information [provided here](https://act.nrcc.org/contact-us/ "Contact Us").
 
 **Will this privacy policy change?**
 
