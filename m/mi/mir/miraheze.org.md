@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miraheze.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624174452id_/https%3A//meta.miraheze.org/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miraheze.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234651id_/https%3A//meta.miraheze.org/wiki/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Miraheze Meta
 
@@ -8,7 +8,7 @@ Miraheze is committed to preserving your privacy and being transparent about how
 
 We may modify this Privacy Policy from time to time. We will post changes on this page so be sure to check back regularly. We will also notify you by posting an announcement on the Website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, it is disclosed. Continuing to use our Services after any changes have been posted, constitutes your acceptance of any modifications to the Terms. 
 
-## 1\. Contributions
+##  1\. Contributions
 
 **1.1 Public Content.** In general, all content (pages, images, files, etc.) on Miraheze is public, including any contributions made by Miraheze community members. The history of every edit to content made through the Services is publicly displayed and retained indefinitely by Miraheze. Even if an article is "deleted," a website administrator or volunteer may still see what was removed from public view. Aside from the rare times when Miraheze is required to delete editing-history in response to a court order or legal process, there is no guarantee that permanent deletion will occur. 
 
@@ -16,7 +16,7 @@ We may modify this Privacy Policy from time to time. We will post changes on thi
 
 **1.3 Private Wikis.** Some wikis may be marked as private, which means that Contributions therein are not normally released to the general public. Miraheze personnel and a small number of vetted volunteers have access to content on private wikis as part of their role in assisting to provide our Services. Access to content on private wikis is granted or revoked by the creators and administrators of these wikis. Be aware that the wiki administrators have the ability to restrict your access to Contributions you have made on a private wiki, or even to make the entire wiki public content. 
 
-## 2\. Information Collected by Miraheze
+##  2\. Information Collected by Miraheze
 
 As part of the Services, we may collect the following types of information from you when you use the Services (“User Information”): 
 
@@ -30,11 +30,11 @@ As part of the Services, we may collect the following types of information from 
 
 **2.5 IP Address.** Contributions made by unregistered users will be publicly identified by that user’s IP Address. 
 
-## 3\. Information Collected by Hosted Wikis
+##  3\. Information Collected by Hosted Wikis
 
 While this policy applies to all wikis hosted by Miraheze, the operators of the Hosted Wikis may collect additional User Information. Miraheze does not retain any of this data. Any additional User Information collected by a Hosted Wiki must be described on the privacy policy page of that wiki, and must be collected in compliance with applicable law. If you learn that a wiki is collecting data beyond the scope of its privacy policy or in violation of the law, please discontinue using that wiki and inform Miraheze immediately. 
 
-## 4\. Cookies
+##  4\. Cookies
 
 Cookies are small files that Miraheze can send to your browser for storage on your computer. Cookies make using the Services easier by saving your status and preferences and refreshing them every time you use the Services. For instance, Miraheze may use cookies to recognize you when you return to the Services so that you do not have to resubmit your log-in credentials. In order to clear this logon information, for example if using a public terminal, you should log out of your account. While many browsers allow you to change your settings in order to refuse cookies or to be alerted when cookies are being sent, Miraheze recommends that you leave cookies enabled, as disabling cookies may prevent you from using and may interfere with some functionality of the Services. 
 
@@ -48,19 +48,19 @@ Cookies are not required to browse Miraheze, but are technically required for so
 
 No personally identifiable information will be disclosed to any third party solely and directly by your use of cookies. 
 
-## 5\. Archiving
+##  5\. Archiving
 
 Miraheze may retain User Information collected through the Services indefinitely for restorative, archival, or research purposes. Your personal information is kept private and stored securely until a time it is no longer required or has no use. 
 
 Miraheze retains individual Usage Information for 90 days, after which it is deleted. 
 
-## 6\. Email Communications
+##  6\. Email Communications
 
 Miraheze may send you emails containing Miraheze-related news, products, offers, surveys or promotions. You may also receive notification emails from Miraheze to inform you of changes in the Services, new service offerings or other information related to your use of the Services. If you do not want to receive promotional emails from Miraheze, please visit your User [Preferences](https://web.archive.org/wiki/Special:Preferences "Special:Preferences") page or follow the opt-out instructions contained in email messages you receive from us. However, please note that, even if you choose not to receive marketing emails from Miraheze, you will continue to receive all emails related to your use of the Services (e.g. those regarding forgotten user passwords) from Miraheze. Controls to set which emails you receive from Miraheze are in the [Preferences](https://web.archive.org/wiki/Special:Preferences "Special:Preferences") page. 
 
 In addition to automated messages sent by the Services, users with verified email addresses may wish to communicate with each other. By default, if you have a verified email address, other users may use a Special page ("EmailUser") to send messages to you and vice versa. When you use EmailUser to send a message, Miraheze will send an email to the recipient of your choice which includes your email address and the content you chose to send. Your email address is not revealed when others contact you. EmailUser functionality may be enabled or disabled on the Preferences page. 
 
-## 7\. Sharing of Information with Third Parties
+##  7\. Sharing of Information with Third Parties
 
 Generally, Miraheze does not share User Information with third parties without your consent. Nonetheless, in order to maximize your user experience on the Services, the following individuals or entities may have access to User Information: 
 
@@ -74,15 +74,15 @@ Generally, Miraheze does not share User Information with third parties without y
 
 **7.5 Data Analysis.** Miraheze may use, transfer, and share aggregated, anonymous data derived from User Information with wiki administrators, researchers, journalists, funders and other third parties that Miraheze may choose to work with. This data will not include any personally identifiable information. 
 
-## 8\. Children
+##  8\. Children
 
 Miraheze does not operate Services that are targeted at people under 13 years of age, and does not collect personally identifiable information. If you are a parent or guardian and become aware that your child has been using the Services, please let us know and we will remove your child’s information. 
 
-## 9\. Transfer of Information Across Borders
+##  9\. Transfer of Information Across Borders
 
 Your information may be transferred to, and maintained on, servers and databases located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as your jurisdiction. Please be advised that we may transfer your information to and from any state, province, country or other governmental jurisdiction, and process it in the United States, the Netherlands, or elsewhere. By using the Services, you consent to any such transfer of your information. 
 
-## 10\. Copies, Amendments, and Erasure of Personally Identifiable Information
+##  10\. Copies, Amendments, and Erasure of Personally Identifiable Information
 
 You have a right to a digital copy of all personally identifiable information (PII) stored about you by Miraheze. You also have the right that we correct any PII that Miraheze has collected or displays on the Service. 
 
@@ -90,7 +90,7 @@ Additionally, you have a right to request erasure of PII stored by Miraheze. Wik
 
 In order to make any of these requests, please follow our [Data Request Process](https://web.archive.org/wiki/Data_Request_Process "Data Request Process"). 
 
-## 11\. Security Notifications
+##  11\. Security Notifications
 
 You have the right to be notified of any security breach at Miraheze which exposes your personal information. Miraheze will make public disclosures of security breaches that we uncover on the Website. If we determine that a breach of the Services has revealed personally identifiable information of a large number of users, Miraheze will announce the issue by a notice on all wikis. If it is likely that your information has been hacked, and you have provided Miraheze with your email, Miraheze will send email notifications on the breach to you. 
 
@@ -101,7 +101,7 @@ Effective Date of this Privacy Policy
 
 
 
-## Previous versions
+##  Previous versions
 
 You can browse previous version of privacy policy in the following links. 
 
