@@ -1,164 +1,191 @@
-> *The following text is extracted and transformed from the absolutdrinks.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117142807id_/https%3A//www.absolut.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutdrinks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630133138id_/https%3A//absolut.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Absolut Vodka - Privacy policy
 
-The Absolut Company respects your right to privacy when you use our digital media (such as our websites, our mobile applications, our pages on the social network, any online forms to register to our events…) and communicate electronically with us.
+The Absolut Company and Pernod Ricard USA are affiliates within the Pernod Ricard family of brands (hereinafter "We" or "Us" or "Our").   We respect your right to privacy. We have developed this Privacy Statement to inform you how we handle the Personal Information you provide to us. 
 
-The purpose of this Privacy Policy is thus to inform you how The Absolut Company AB, a corporation duly organized under the laws of Sweden, with business address at Marieviksgatan 19B, 117 43 Stockholm, Sweden and its [affiliates](https://webform-console.pernod-ricard.io/pernod-ricard-hq/pr-legal/microsite/list-affiliates/v1) (all together “ **The Absolut Company** ”, " **TAC** ”, “ **we** ”, or “ **our** ”) collect, store, use and process the Personal Data you provide us through any digital media operated by TAC (“ **Digital Media** ”).
+We may update this Privacy Statement from time to time.  If we make any material changes to this Privacy Statement, we will notify you by sending a notice to the primary email address provided to us or by posting the revised Privacy Statement on our website. 
 
-When processing your Personal Data in the conditions described in this Privacy Policy, TAC is the Data Controller of any Personal Data you submit to TAC.
+Last Updated: May, 2019
 
-Before using our Digital Media, please read carefully this Privacy Policy (including [the Cookies Policy](https://web.archive.org/en/legal/cookies-policy/), see Article 2). If you do not agree to this Privacy Policy or [the Cookies Policy](https://web.archive.org/en/legal/cookies-policy/), do not use our Digital Media. We reserve the right to make changes to this Privacy Policy or [the Cookies Policy](https://web.archive.org/en/legal/cookies-policy/) at any time. We will notify you of such changes in this Privacy Policy or [the Cookies Policy](https://web.archive.org/en/legal/cookies-policy/). You are thus invited to regularly read this Privacy Policy and [the Cookies Policy](https://web.archive.org/en/legal/cookies-policy/) to make sure you are aware of any change and how your Personal Data may be used.
+  1. **What types of Personal Information do we collect and how do we collect it?** ** **
+  2. **How do we use your Personal Information?**
+  3. **When is your Personal Information disclosed to others?** ** **
+  4. **Cookies and Other Data Collection Technologies**
+  5. **Mobile Applications**
+  6. **Your Choices** ** **
+  7. **Access, Correction, and Other Rights** ** **
+  8. **Information Security and Retention** ** **
+  9. **European Union and International Privacy Matters** ** **
+  10. **Personal Information of People Under the Legal Age** ** **
+  11. **Privacy Policies of Third Parties** ** **
+  12. **Forums and Other Public Areas** ** **
+  13. **How to Contact Us** ** **  
 
-**1.  What Personal Data do we gather about you and how?**
 
-Personal Data for the purpose of this Privacy Policy means any information that can be used to personally identify you either directly or indirectly or contact you online or offline.
 
-Personal Data is collected only for the purposes set out in Section 3 below and with your informed knowledge (i.e., when you knowingly provide it to us through one of the online forms available on our Digital Media) through various touch points, each time you participate in any of the features or services offered by our Digital Media, as they may evolve from time to time including without limitation:
+**1\. What types of Personal Information do we collect and how do we collect it? **
 
-  * Registration or sign-up to our Digital Media (mobile app, web sites, social media, etc.);
-  * Send to a friend;
-  * Sweepstake and contest;
-  * Subscription to a program or newsletter;
-  * When doing e-commerce on certain of our websites;
-  * When using our connected products;
-  * Organization of events (invitation form or online forms on tablets filled out by our hostesses);
-  * Training;
-  * Brand Home;
-  * Feedback, enquiry, surveys, questions, or comments through our “Contact Us” form;
-  * Any other request that requires the submission of Personal Data.
+This Privacy Statement explains our practices with regard to “Personal Information.” Personal Information is any information that can be used to identify, locate or contact you.  We collect the following types of Personal Information:
 
+  * **Contact Information** that allows us to communicate with you, such as your name, username, mailing address, telephone numbers, country of residence, email address or other addresses that allow us to send you messages.
 
 
-The types and amount of information collected for the features listed above will vary depending on the activity. The requested Personal Data will include your identification information as well as certain information related to your personal life and center of interests (depending on the activities you participate in).
+  * **Relationship Information** that helps us do business with you, such as your age, demographics and interests as well as your brand and marketing preferences.  
 
-Subject to applicable law requirements, we may use a variety of technologies that collect and provide information about how our Digital Media is accessed and used by you as well as demographic information about the users of our Digital Media which we may obtain from third parties such as Google or social media that you use (“ **Usage Information** ”).  Usage Information may consist of the pages you viewed, the time you viewed them, which beverage information or other content you accessed or provide, in what language, demographic information about you (such as your age, gender and interest areas, where available) and what pages you looked at before viewing the current page so that we get a better idea of how our users interact with our brands and can then tailor and improve accordingly. Most Usage Information that we collect generally cannot be linked to you individually, but if we can link it to you then we treat it as Your Information in accordance with this Privacy Policy.
 
-  **2.  How and why do we use tracking technologies?**
+  * **Transaction Information** about how you interact with Us including your purchase history, customer account information.
 
-TAC uses tracking technologies such as cookies, IP Address or Log files, to gather certain information such as browser type and operating system, referring page, path through site, domain of ISP etc. for the purpose of improving the use and functionality of our websites and to better understand how visitors use our Digital Media and the tools and services offered on it. Tracking technologies help us tailor our Digital Media to your personal needs.
 
-  * We use Cookies to better understand how visitors use our Digital Media and the tools and services offered, and improve their use and functionality. Subject to your consent where required by applicable law, our Digital Media use cookies and similar technologies (“ **cookies** ”). Cookies are small files that are placed on your device that serve a number of purposes like letting you navigate between pages efficiently, remembering your preferences, and generally improving your experience. The use of cookies on our Digital Media allows you to enjoy more seamless visits and more accurately measures your behavior on our Site. You can learn more about the cookies we use and how you can disable cookies in [the Cookies Policy](https://web.archive.org/en/legal/cookies-policy/).
-  * An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. We may keep track of Internet Protocol (IP) addresses to (among other things): (i) troubleshoot technical concerns, (ii) maintain website safety and security, (iii) restrict access to our Digital Media to comply with applicable law or contractual restrictions, and, (iv) better understand how our Digital Media are used;
-  * We (or a third party on our behalf) may collect information in the form of logs files that record activity on the Digital Media and gather statistics about users' browsing habits. These entries are generated anonymously, and help us gather (among other things) (i) a user’s browser type and operating system, (ii) information about a user’s session (such as the URL they came from, the date and time they visited our Digital Media, and which pages they've viewed on our Digital Media and for how long), and, (iii) other similar navigational or click-stream data. We also use information captured in log file for our internal marketing and demographic studies, so we can constantly improve and customize the online services we provide you. Log files are used internally only, and are not associated with any particular user.
+  * **Usage Information** about how you use Our] websites and mobile applications, to give us a better idea of how you interact with our brands and content.  
 
 
 
-  **3.  For what purpose do we use your Personal Data?**
+In many cases, we collect Personal Information directly from you.  We may ask you for Personal Information when you interact with us, such as registering on our websites, liking us on social media, signing up to receive promotions or joining a wine club.  We may also obtain additional information from third party data suppliers who enhance our files and help us better understand our customers. 
 
-All Personal Data collected is used for the purposes for which you submitted the information to us and/or as otherwise identified at the collection point or in this Privacy Policy.
+**2\. How do we use your Personal Information?**
 
-These purposes are mainly the following:
+ We use your Personal Information to: 
 
-  * **To respond to your request of service or for the performance of a contract**
-    * When registering or signing-up in our Digital Media to provide you the service you subscribe to: the Personal Data you provide is used to offer you the benefits and privileges that typically come along with your registration, such as the ability to receive the communications you select at the time of registration (e.g. subscription to a newsletter, creation of an account, participation in a sweepstake or contest, invitation to or attendance to an event organized by TAC);
-    * When doing e-commerce on certain of our websites: we use your Personal Data to manage your order and deliver your products in accordance with the e-commerce contract entered into with TAC. We can also implement technical solutions to detect fraudulent payment and secure the payment of your purchases on our websites. Implementation of such solutions may lead to profiling based on automated decision making which are subject to additional safeguards to protect your rights as further described in Article 9 of this Privacy Policy.
-    * Feedback, questions, or comments through our “Contact Us” form and our “Tell Us” compliance reporting system: if you contact us via an online contact form, your Personal Data is used to respond to your inquiry or comment.
-    * We may also use your email address to send you transactional or administrative communications (e.g., confirmation email when you sign up for, or unsubscribe from, a specific registration or activity), as well as certain service-related announcements (e.g., notices about updates to our privacy notices, discontinued features or programs on our Digital Media, changes to our online services or technical support policies, or other related changes.
-  * **To allow us to send you marketing information on TAC or its products provided you consented thereto:**
-    * When you use the Send to a friend feature: Personal Data requested for a one time use feature (typically, names and email addresses) is used on a one-time basis (e.g., to send the communication) and is not further retained by us;
-    * In addition to the purpose for which you submitted your Personal Data, you may also be given the option (through a check box or otherwise) to have your Personal Data used for an activity or service different from the primary activity or service that you are requesting. For example, if you are signing up for a contest or other promotion, you may also be invited to sign up for newsletters or alerts from our Digital Media hosting the promotion or from other websites. If you choose to receive these additional services, we will use your Personal Data to provide them to you.
-    * When you use a QR Code or equivalent feature displayed on TAC products: we use your Personal Data to send you more information on the products where the QR code or equivalent feature is displayed or other products;
-    * When you accept our cookies in the conditions described in [the Cookies Policy](https://web.archive.org/en/legal/cookies-policy/);
-    * When you provide Personal Data requested on the mobile devices such as iPads available in Heritage Centers, distilleries, we use it to send you more information on the products;
-    * Subject to your consent when required, we may occasionally combine, update, or otherwise enhance the Personal Data collected through our Digital Media with data we receive from outside records or third parties. For instance, we may combine purely demographic or survey information (e.g., age, gender, household information, and other interests, etc.) not linked to any Personal Data about you with Personal Data collected though our offers (such as during account registration).
+  * Fulfill your orders for products or services and for related activities, such as send you communications related to your order, respond to your inquiries, perform age verification, product and service delivery, customer service, account management, support and related training of our personnel involved in such activities, and to provide other services related to your account;
 
 
+  * Develop our relationship with you such as by delivering personalized content;
 
-We may use the combined information above mentioned and/or demographic information for our internal marketing and demographic studies and to constantly improve, personalize, and customize the products and services we provide you to better meet your needs. Some of the tools we use may involve automated individual decision-making. In such case, you will be informed about the conditions of profiling and entitled to rely on additional safeguards to protect your rights as further described in Article 9 of this Privacy Policy.
 
-  * **Because it is also TAC’s legitimate interest to better serve you**
-    * We will ensure that your Personal Data remains accurate and up to date and avoid duplication in our database, by checking upon each of your interaction with us and/or one of our affiliates whether your Personal Data is still accurate or need to be completed or updated with the additional information you will have provided.
-    * We may conduct profiling based on a monitoring of your browsing activities on our Digital Media to better understand your preferences and center of interests and adapt our marketing communications to your profile, unless you object in the conditions set forth in Article 9 of this Privacy Policy. 
+  * Provide you with marketing communications and offers for products and services from Us and, in some cases, our partners, including for offers targeted based on your interests or location;
 
 
+  * Administer surveys and other promotional events that you may voluntarily choose to join; 
 
-**4.  What happens if you do not wish to provide your Personal Data?**
 
-If you choose not to submit any Personal Data when requested, you may not be able to participate in certain activities and personalized features and it may happen that our Digital Media limit the services and special offers we can provide you. For example, if you refuse to share your email address, you will not be able to receive our newsletters or otherwise register on our Digital Media. However, to simply browse our Digital Media and learn more about TAC and our products, you do not need to give us any Personal Data. In any event, we will always inform you of the Personal Data that are necessary in order to benefit from a service.
+  * match it with other public and private data sources in order to enhance our records, such as appending additional information to your profile, or the records of our business partners.  We also may work with other providers who also possess information about you in order to reach you through different methods and platforms, such as on a social media platform that you use; and 
 
-**5.  Who do we disclose your Personal Data to and why?**
 
-TAC will never share your Personal Data with any third party that intends to use it for direct marketing purposes unless we have specifically informed you beforehand and you have given us specific permission to do this.
+  * Manage our everyday business needs, such as payment processing and financial account management, product development, contract management, website administration, forum management, fulfillment, analytics, security and fraud prevention, corporate governance, reporting and legal compliance.
 
-TAC may share for the purposes mentioned in Article 3 your Personal Data with its subsidiary companies, parent companies, companies in which TAC’s ultimate parent company Pernod Ricard S.A. has control through either direct or indirect ownership (collectively  _“_ Pernod Ricard Group”) notably, in the following circumstance: the information we collect as described in this Privacy Policy may come from the entity to which you provide it but may also be made available, subject to your consent, through such entity to other entities of the Pernod Ricard Group to provide you with news and promotional information about their products or programs you have shown interest in.
 
-If you wish to withdraw your consent to such sharing and use of your information, please address your request as indicated in Article 9 of this Privacy Policy, with your name, client reference and your withdrawal that we share your Information with all or part of the entities of the Pernod Ricard Group (indicating the list of entities concerned), and to receive marketing information from them.
 
-TAC may also share your Personal Data with third parties, but only in the following circumstances:
+If We intend to uses your Personal Information in a manner materially different than as set out in this Privacy Statement, We will provide you with information on that other purpose prior to that use.
 
-  * We may use service providers, agents or contractors to provide support for the internal operations of our Digital Media and to assist us with administering them or the various functions, programs and promotions available on it. Any such third party shall at all times provide the same levels of security for your Personal Data as TAC and, where required, are bound by a legal agreement to keep your Personal Data private, secure and to process it only on the specific instructions of TAC;
-  * When we run a joint or co-sponsored program or promotion on our Digital Media with another company, organization, or other reputable third party; and, as part of this event, collect and process Personal Data, we may share your Personal Data with our partner or sponsor, subject to your consent when required. If your Personal Data is being collected by (or is shared with) a company other than TAC as part of such promotion, we will let you know this at the time your Personal Data is collected;
+**3\. When is your Personal Information disclosed to others? **
 
+ We understand that you do not want us to provide your Personal Information directly to third parties for their own marketing purposes without your consent.  We limit our sharing of your Personal Information as follows:
 
+  * We may share your Personal Information with, or otherwise make it available to, our affiliates, who may only use your Personal Information in compliance with this Privacy Statement.   
 
-When running any promotion involving another company, we will, if applicable, provide a separate link to that company's privacy policy and we encourage you to read it before you share any Personal Data, as we cannot guarantee they adhere to the same privacy practices. If you do not want your Personal Data to be collected by or shared with a company other than ours, you can always choose not to opt in or participate in these events at the time the Personal Data is collected/requested;
 
-  * We may also disclose your Personal Data if we are required to do so by law, or if in our good faith judgment, such action is reasonably necessary to comply with legal processes, to respond to any claims, or to protect the safety or rights of TAC, its customers, or the public;
-  * In the event of a merger or acquisition of all or part of TAC by another company, or in the event that TAC were to sell or dispose of all or a part of the TAC business, the acquirer would have access to the information maintained by that TAC business, which could include Personal Data, subject to applicable law. Similarly, Personal Data may be transferred as part of a corporate reorganization, insolvency proceeding, or other similar event, if permitted by and done in accordance with applicable law;
-  * We may share aggregated demographic or survey Personal Data with third parties, but this data is in anonymous form which does not allow re-identification. The aggregate data that we share may include anonymous data that is captured through the use of cookies and other similar tracking technology, as explained in Article 2.
+  * We may share your Personal Information with our service providers, who are instructed to only use your Personal Information in accordance with our instructions.
 
 
+  * We may share your Personal Information with unaffiliated joint marketing partners, but only if you have given us your consent.  ** **
 
-**6.  Are your Personal Data sent to recipients located in other countries and why?**
 
-TAC is a global company and your Personal Data may be transferred across international borders. It may be transferred to countries that have a different level of data protection laws than the one existing in the country from where you submitted your Personal Data. Your Personal Data may also be transferred between different companies of the Pernod Ricard Group located in different countries. TAC takes the appropriate measures to maintain security of the Personal Data both during transit and at the receiving location by implementing contractual clauses as set out by the European Commission, in accordance with applicable law requirements. You may consult the list of countries where TAC has an affiliate likely to receive your Personal Data by clicking [here](https://webform-console.pernod-ricard.io/pernod-ricard-hq/pr-legal/microsite/list-affiliates/v1).
+  * We may also disclose Personal Information where needed to affect the sale or transfer of business assets, in connection with a bankruptcy proceeding, to enforce our rights, protect our property, or protect the rights, property or safety of others, or as needed support external auditing, compliance and corporate governance functions.  We may also disclose Personal Information when required to do so by law, such as in response to a subpoena, including to law enforcement agencies and courts in the countries where we operate.
 
-Our main service providers for the operation of our Digital Media are based in the United States. The transfer of personal data to these services providers are implemented in accordance with applicable laws and rely on standard contractual clauses as set out by the European Commission or on the Privacy Shield. Such service providers are also bound by a contract that ensures a high standard of privacy protection and requires (amongst other provisions) that they act only on TAC instructions and implements all technical measures necessary on an ongoing basis to keep your Personal Data secure. You have a right to obtain details of the mechanism under which your information is transferred outside of the EEA by contactingprivacy@absolut.com .
 
-**7.  How long do we keep your Personal Data?**
 
-We will store the Personal Data that you sent us via our Digital Media in our databases as long as your account is active, as we have a contract with you or as needed to provide you the services you requested or to answer queries or resolve problems, provide improved and new services. We may also need that your Personal Data be retained then after in accordance with our internal retention procedure as necessary to comply with our legal and regulatory obligations, resolve disputes and enforce our agreements.
+Please note that we may also use and disclose information about you that is not personally identifiable i.e. Personal Information in an aggregate form that no longer identifies you.  
 
-We may thus retain your Personal Data after you stop using TAC services or our Digital Media. Other recipients of your Personal Data described in Article 5 may retain your Personal Data for a longer period where doing so is necessary to fulfil the purpose for which you allowed us to share your Personal Data with them, or for their own compliance, dispute resolution, enforcement, or record management purposes as provided by applicable law.
+**4\. Cookies and Other Data Collection Technologies**
 
-Retention periods applicable to Cookies and other trackers are further detailed in [the Cookies Policy](https://web.archive.org/en/legal/cookies-policy/).
+When you visit our website or use our mobile applications, we collect certain Transaction Information by automated means, using technologies such as cookies, pixel tags, browser analysis tools, server logs and web beacons.  
 
-**8.  How do we keep your Personal Data secure?**
+_Cookies_
 
-TAC takes all necessary technical and organizational measures to protect the confidentiality and security of your Personal Data collected from this website and/or our applications, including sensitive Personal Data. These efforts include, but are not necessarily limited to: (i) storing your Personal Data in secure operating environments that are not available to the public and that are only accessible to authorized TAC employees, and our agents and contractors; and, (ii) verifying the identities of registered users before they can access the Personal Data we maintain about them.
+When you visit our website, we place cookies on your device. Cookies are small text files that websites send to your device or other Internet-connected devices to uniquely identify your browser or to store information or settings in your browser.  Cookies allow us to recognize you when you return.  They also help us provide a customized experience and enable us to detect certain kinds of fraud.  In many cases, you can manage cookie preferences and opt-out of having cookies and other data collection technologies used by adjusting the settings on your browser.  All browsers are different, so visit the “help” section of your browser to learn about cookie preferences and other privacy settings that may be available.   
 
-**9.  How you can you exercise your rights regarding the use of your Personal Data?**
+_Flash Cookies  _
 
-You can contact your local usual contact (the Legal Department or Local Privacy Champion, if any) or Pernod Ricard Group Data Privacy Officer to express the following choices:
+We may use Flash Cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience _.   _The Adobe Flash Player is an application that allows rapid development of dynamic content, such as video clips and animation.  We use Flash cookies for security purposes and to help remember settings and preferences similar to browser cookies, but these are managed through a different interface than the one provided by your web browser.  To manage Flash cookies, please see Adobe’s website at <http://kb2.adobe.com/cps/526/52697ee8.html> or visit [www.adobe.com](http://www.adobe.com/).   
 
-  * If your Personal Data has been processed on the basis of your consent,  **you can withdraw your consent at any time.**
-  * You can request  **to access**  your Personal Data, including the categories of data that are used in profiling or decision making process 
-  * You can request  **to rectify your Personal Data**  if it is inaccurate, incomplete or out of date, including in the profile (if applicable)
-  * You can request the  **erasure**  of your Personal Data (i) if your Personal Data is no longer necessary for the purpose of the data processing, (ii) you have withdrawn your consent on the data processing based exclusively on such consent, (iii) you objected to the data processing, (iv) the Personal Data processing is unlawful, (v) the Personal Data must be erased to comply with a legal obligation applicable to TAC. TAC will take reasonable steps to inform the other entities of the TAC group of such erasure.
-  * You can request  **the restriction**  of the processing (i) in the event the accuracy of your Personal Data is contested to allow TAC to check such accuracy, (ii) if you wish to restrict your Personal Data rather than deleting it despite the fact that the processing is unlawful, (iii) if you wish TAC to keep your Personal Data because you need it for your defense in the context of legal claims (iv) if you have objected to the processing but TAC conducts verification to check whether it has legitimate grounds for such processing which may override your own rights.
-  * You can request  **the portability**  of the Personal Data you provided to us, in particular if the Personal Data processing is based on your consent or the performance of a contract.
-  * You always have the option not to share any of your Personal Data with us. If you choose this option, you may be limited in the activities and features we can provide you.
-  * **You have the right to object to the processing of your Personal Data by us, including for marketing purpose based on profiling.**
+_Pixel Tags and Web Beacons  _
 
+Pixel tags and web beacons are tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, the pixel tags and web beacons generate a notice of that action.  These tools allow us to measure response to our communications and improve our web pages and promotions.  
 
+_Types of Data We Collect  _
 
-If you do not want to receive newsletters, announcements, or other communications and/or services from our Digital Media, please do not opt-in for those communications or services at the time of registration. If you have opted-in and, at a later time, wish to opt-out,  **please click on the unsubscribe link**  inserted in our communications.
+We collect many different types of information from cookies and other technologies.  For example, we may collect information about the device you use to access our website, your operating system type, browser type, referring domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located.  Our server logs also record the IP address of the device you use to connect to the Internet.  An IP address is a unique identifier that devices use to identify and communicate with each other on the Internet. We may also collect information about the website you were visiting before you came to US and the website you visit after you leave our site.  
 
-Along with every e-mail communication sent to you, we provide you the opportunity to discontinue receiving future communications (i.e., unsubscribe). Simply follow the unsubscribe process or directions provided in the email.
+In many cases, the information we collect using cookies and other tools is only used in an aggregated or non-identifiable way, without any reference to Personal Information.  For example, we use information we collect about all website users to optimize our websites and to understand website traffic patterns.  
 
-You have also the right to give general or specific instructions on how your personal data processed under this Privacy Policy may be used after your death.
+In some cases, we do associate the information we collect using cookies and other technology with your Personal Information.  This Privacy Statement governs how we use this information when we associate it with your Personal Information. 
 
-In addition, if you participated in a program that involved a third party and, as part of that, you agreed to receive future communications directly from that third party, you will need to contact the third party directly to opt-out from such communications. This process may be outlined in the third party’s privacy policy.
+_Third Party Advertisers and Interest-Based Ads_
 
-When exercising your rights, you may be asked for a duly signed proof of identity.
+We have relationships with Google and other third party advertising companies to deliver interest-based advertisements, targeted to you based on your demographics, brand preferences, online behavior and similar factors.  These companies may also perform tracking and reporting functions for us on this website and other websites.  These companies may place cookies on your device when you visit our website or other websites so that they can display targeted advertisements to you.  These companies do not collect Personal Information in this process, and we do not give any Personal Information to them as part of this process.  However, this Privacy Statement does not cover the collection methods or use of the information collected by these companies.  
 
-TAC will not process Personal Data involving automated decision making, unless if necessary for the performance of a contract (e.g. avoid fraudulent payment) or subject to your explicit consent, to better serve your needs in accordance with your preferences. Please note that in such case, you will be informed through layered notices on the conditions of processing of your Personal Data, the profile built, how the profile is used, the logic involved. You will be requesting to explicitly consent to such profiling, if it is not necessary for the performance of a contract.
+For more information about interest-based advertising, please visit the Digital Advertising Alliance (DAA) at [www.aboutads.info/consumers](http://www.aboutads.info/consumers).  We comply with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the DAA.  To opt out of being targeted by some third party advertising companies, you may visit [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
-Please note that the automated tools used are regularly checked to ensure that the Personal Data processing is made fairly. Specific measures such as data minimization are implemented when creating profiles. You are invited to express your point of view through the right of access described above. You can also contest the result of the automated decision by sending an email to the contact details in Article 12 below.
+We may work with third parties that use algorithms to determine if you have interacted with our services on multiple devices and to match such devices together.  We may then display interest-based advertisements to you across your devices or otherwise use the combined data for purposes under this Privacy Statement.  For example, if you exhibit certain behaviors on your desktop computer, we may serve interest-based advertisements to you on your smartphone based upon those behaviors if we have linked both of those devices to you.  If you would like to opt-out of such cross device matching, please visit the Digital Advertising Alliance (DAA) at [www.aboutads.info/consumers](http://www.aboutads.info/consumers).
 
-**10.  How we treat children's Personal Data?**
+While we do provide the ability to opt-out of certain targeting advertising as described in this Privacy Statement, we do not respond to “do not track” (a/k/a DNT) signals or similar mechanisms transmitted by web browsers.  To learn more about browser tracking signals and Do Not Track please visit <http://www.allaboutdnt.org/>.
 
-Our Site is not intended for children under the age of majority (“ **Minor** ”), so we do not knowingly collect personal data from Minors. You must be at least eighteen years old to create an account and engage in activities and transactions on our Digital Media. By creating an account or engaging in activities or transactions on our Digital Media, you affirm that you are at least eighteen years old and are fully able to enter into and comply with our [Terms and Conditions of Use](https://web.archive.org/en/legal/terms-and-conditions/) and this Privacy Policy and be legally bound thereby. If we are notified or learn that a Minor has submitted Personal Data to us through our Digital Media, we will delete such Personal Data.
+**5\. Mobile Apps**
 
-**11.  Do we link to other third party websites?**
+We offer mobile applications that allow you to interact with us and receive personalized content, interest-based ads and other information via your smartphone.  When you download our mobile applications, you may choose to allow us to obtain your precise location from your mobile device.  We use this information to customize our response to your requests.  We may also offer automatic (or "push") notifications. We will provide push notifications only to those customers who opt-in to receive such notifications from Us. You do not have to provide location information to Us or enable push notifications to use any of our mobile apps.  If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.  We may also collect information from mobile applications in the same manner that we do from websites. _ _
 
-Our Digital Media may contain links that will direct you to other websites or services that are operated and controlled by third parties. This includes links from advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. We have no control over these third parties, and your use of their websites and features are subject to their privacy policies posted on those sites. We are not responsible or liable for the privacy practices or business practices of any third-party website. Therefore, you should exercise caution and review the privacy policies applicable to the external websites you visit before providing your Personal Data.
+**6\. Your Choices **
 
-**12.  How can you contact us or the relevant Supervisory Authority?**
+You can always limit certain information you provide to Us
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact us by writing to The Absolut Company _,  _or sending an email to privacy@absolut.com .
+You can also limit the communications that We send to you.  To opt-out of emails, simply click the link labeled “unsubscribe” at the bottom of any email we send you.  Please note that even if you opt-out of promotional messages, we may still need to contact you with important transactional information about your account. For example, even if you opt-out of emails, we may still send you order confirmations and shipping notices. 
 
-You are informed that you can also lodge a complaint with the Supervisory Authority of the country where you are located if you have any concern about the conditions of processing of your Personal Data by The Absolut Company.
+You can exercise certain choices with respect to interest-based ads as set forth above in the “Third Party Advertisers and Interest-Based Ads” section.
 
-**_Last Update: 17 February 2018_**
+You may request that we delete your Personal Information from our active records.  We will make reasonable efforts to honor such requests, provided that, we may retain archived information and are unable to remove your Personal Information from the records of any third parties with whom the information has previously been shared in compliance with this Policy Statement.  Please [**contact us  **](http://contact.absolut.com/)with any such requests.
+
+**7\. Access, Correction and Other Rights **
+
+We respect your right to access and correct your Personal Information.  If you have an online account, you can log into your account at any time to access and update the information you have provided to us.  If you need assistance updating your Personal Information, please [**contact us**](http://contact.absolut.com/).
+
+**8\. Information Security and Retention **
+
+We take all appropriate technical and organizational measures to protect the confidentiality and security of your Personal Information. We have implemented an information security program that contains administrative, technical and physical controls that are reasonably designed to safeguard your Personal Information.  For example, we use industry-standard encryption technology to secure Personal Information consisting of credit card numbers and other payment information when it is being collected and transmitted over the Internet as well as firewalls, site monitoring and intrusion detection software.  
+
+We retain your Personal Information for as long as your account is active, or as long as needed for the business purposes described in this Privacy Statement, in accordance with applicable legal standards.  Other recipients of your Personal Information who have been provided with such information in compliance with this Privacy Statement may retain your data for longer periods to fulfil the purpose for which your Personal Information was shared with them, or for their own compliance, dispute resolution, enforcement, or record management purposes. 
+
+**9\. European Union and International Privacy Matters **
+
+This section describes the additional commitments that apply to your Personal Information if you are located in the European Union and your data is processed by Brand or PR USA outside the European Union, or if your data is processed by a Brand established in the European Union:
+
+  * We will use your Personal Information as described in this Privacy Statement as necessary (i) for the performance of any contract between you and Us, where you have made a purchase, including in order to process your payment, make a delivery, respond to any customer service requests, (ii) with your consent where required by law, for instance to send you marketing communications or administer surveys and other promotional events, (iii) to comply with our legal obligations, notably in terms of payment processing, financial account management, fraud prevention, legal compliance, and (iv) to further our legitimate interests including our legitimate interest in better serving you and improving our services, improving our communication with you, and ensuring the accuracy of the information we hold about you.
+  * Where our processing of your Personal Information listed above is not based on your consent or our legitimate interests (i.e. is necessary for the performance of a contract or required to fulfil our legal obligations), failure to provide any of the requested Personal Information may result in us being unable to process your order or respond to your request, and certain features of our website and/or application may not be available. 
+  * We will seek your consent to use and process your Personal Information when required to do so by applicable law.  In such case, you may withdraw such consent at any time by[ **contacting us** ](http://contact.absolut.com/)or opting out where applicable.
+  * We may conduct profiling activities based on your interests and your browsing on our web sites to better serve you and provide you with targeted marketing information on our products in accordance with your tastes. You may opt out at any time when receiving such information. We respect your right to restrict or object to the processing of your Personal Information, as well as your right to data erasure and portability. To exercise these rights, please [**contact us**](http://contact.absolut.com/). You also have the right to lodge a complaint with the competent supervisory authority.
+  * We will always protect the privacy and security of your Personal Information in accordance with this Privacy Statement as well as with any applicable laws, regardless of where it is processed or stored. 
+  * We will keep your data as long as required by applicable law for the purpose for which the data was collected.  
+  * The categories of data recipients include, but are not limited to our marketing departments and relevant services providers (not namely mentioned) depending on the purposes of the data processing.
+
+
+
+Such recipients of your Personal Information may be located outside of the EU. Therefore, where we transfer your Personal Information to a country that may not present an adequate level of protection according to EU law, we may rely on contracts based on the European Commission's standard contractual clauses. If you would like more information on these contracts, please [**contact us**](http://contact.absolut.com/) 
+
+**10\. Personal Information of People Under the Legal Age**
+
+We do not intend to collect Personal Information from any individuals under the legal purchase age, or to market alcoholic beverages to anyone under the legal purchase age.  Please do not provide us with your Personal Information if you are not of legal age to purchase alcohol in the jurisdiction in which you reside and (if different) in the jurisdiction in which you are interacting with us.  If we receive notice or believe that someone under the legal purchase age has provided us with Personal Information we will use reasonable efforts to remove such Personal Information from our files, or to flag such Personal Information and (to the extent permitted by law) retain it for the sole purpose of ensuring that it is no longer used.
+
+**11\. Privacy Policies of Third Parties**
+
+This Privacy Statement only addresses the use and disclosure of information by Us. Other websites that may be accessible through this website have their own privacy policies and data collection, use and disclosure practices.  We encourage you to familiarize yourself with the privacy statements provided by all third parties prior to providing them with information or taking advantage of an offer or promotion.  
+
+If you interact with us on social media platforms, such as Facebook or Twitter, those interactions are also governed by the terms and privacy policies of the social medial platform providers. 
+
+**12\. Forums and Other Public Areas**
+
+Our websites may provide forums and other areas where you can communicate with others and publicly post information, such as reviews.  Prior to posting in these areas, please read the [Terms of Use](https://web.archive.org/us/legal/terms-and-conditions/) carefully.  All the information you post can be seen by anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. For example, if you post your email address, you may receive unsolicited messages from others.  Please use caution when posting any Personal Information in the public areas.
+
+**13\. How to Contact Us**  
+
+If you have any questions, complaints, or comments regarding this Privacy Statement or our information collection practices, please contact us by writing to:
+
+The Absolut Company AB  
+Att. TAC Privacy Board  
+Marieviksgatan 19 B  
+117 97 Stockholm  
+Sweden
+
+or sending an email to: [privacy.prusa@pernod-ricard.com](mailto:privacy.prusa@pernod-ricard.com).
+
+**Choice/Opt-out:**  
+You may choose to have your name taken off Pernod Ricard USA's e-mail list or have Pernod Ricard USA not provide your information to others in the future by (1) sending an e-mail to [unsubscribe-prusa@pernod-ricard.com](mailto:unsubscribe-prusa@pernod-ricard.com), or by (2) following instructions as provided in any e-mail message from a Pernod Ricard USA representative.
