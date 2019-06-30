@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224626id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235527id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smaato
 
-Effective Date: **May 25, 2018**
+Effective Date: **April 16, 2019**
 
 Smaato, Inc. (“Smaato,” “we,” “our,” or “us”) provides this privacy policy to explain how we collect, use, and share information. This privacy policy (“Policy”) covers Smaato’s handling of two types of information: 
 
@@ -96,7 +96,7 @@ Our Clients or Partners may use the above technologies (sometimes, in combinatio
 
 ## 4\. Consumer Control and Opt-Out Options
 
-In most cases, consumers have control over whether or not they would like to receive relevant ads and marketing email from our Clients. 
+In most cases, consumers have control over whether or not they would like to receive relevant ads and marketing email from our Clients. To change the settings for the cookies Smaato sets on your devices through the Smaato Websites, please visit our [Cookie Policy](https://www.smaato.com/cookie-policy/). 
 
 ### a. Opting Out of Online Interest-Based Advertising
 
@@ -121,7 +121,7 @@ Please note that these platforms control how these settings work, so the above i
 
 Advertisers may also provide ways for you to opt out from, or limit their collection of, certain information from and about you. Please refer to the privacy policies for retailers, apps, and mobile websites to learn more about their privacy practices. 
 
-You may opt out from receiving promotional emails from us, such as emails to inform you about events and new services, by following the “unsubscribe” instructions in any promotional email you receive, or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3855594a535d4c51565f784b5559594c57165b5755). Please note, however, that we may still send you non-promotional emails relating to your relationship with us. 
+You may opt out from receiving promotional emails from us, such as emails to inform you about events and new services, by following the “unsubscribe” instructions in any promotional email you receive, or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9c4c8dbc2ccddc0c7cee9dac4c8c8ddc687cac6c4). Please note, however, that we may still send you non-promotional emails relating to your relationship with us. 
 
 ## 5\. Privacy Practices for the Smaato Websites
 
@@ -175,7 +175,7 @@ With respect to aggregated or de-identified information, we may share such infor
 
 Generally speaking, we retain the information collected from the Smaato Websites and Smaato Ad Services for as long as necessary to achieve our objectives as detailed in this Policy, and to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-If you are a resident of the European Economic Area (EEA), Switzerland, or the United Kingdom (UK), you may obtain a copy of the information we have about you, and correct or amend such information, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#08787a617e696b71487b6569697c67266b6765). You may read more about this and other rights in Section 12 below. 
+If you are a resident of the European Economic Area (EEA), Switzerland, or the United Kingdom (UK), you may obtain a copy of the information we have about you, and correct or amend such information, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deaeacb7a8bfbda79eadb3bfbfaab1f0bdb1b3). You may read more about this and other rights in Section 12 below. 
 
 ## 7\. Data Security
 
@@ -199,23 +199,23 @@ We do not currently recognize or respond to browser-initiated Do-Not-Track signa
 
 ## 11\. Privacy Shield
 
-As a business under the jurisdiction of the Federal Trade Commission, Smaato has certified with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks (the “Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union (EU) member countries and Switzerland. Smaato certifies that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Consistent with these Principles, where Smaato uses service providers to process personal data of EU or Swiss residents, Smaato shall remain liable where the agent processes such personal data of EU or Swiss residents in a manner inconsistent with the Privacy Shield Principles, except where Smaato establishes that Smaato is not responsible for the damages caused by the agent. To learn more about the Privacy Shield, and to view the list of entities who have current certifications under the Privacy Shield, please visit this [page](https://www.privacyshield.gov/list). 
+As a business under the jurisdiction of the Federal Trade Commission, Smaato complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union (EU), the United Kingdom (UK) and Switzerland to the United States in reliance on Privacy Shield. Smaato has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement with respect to such personal data. Consistent with these Principles, where Smaato uses service providers to process personal data of EU, UK or Swiss residents, Smaato shall remain liable where the agent processes such personal data of EU, UK or Swiss residents in a manner inconsistent with the Privacy Shield Principles, except where Smaato establishes that Smaato is not responsible for the damages caused by the agent. If there is any conflict between the terms of this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit this [page](https://www.privacyshield.gov/list). 
 
-If you have any questions or complaints about Smaato’s privacy practices, you may contact Smaato at the contact information in Section 14 below, titled “Contacting Us,” and we will work with you to resolve your issue. If you are a resident of the EU or Switzerland, you may also contact your appropriate European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner, respectively, with questions or complaints about our privacy practices. 
+If you have any questions or complaints about Smaato’s privacy practices, you may contact Smaato at the contact information in Section 14 below, titled “Contacting Us,” and we will work with you to resolve your issue. If you are a resident of the EU, UK or Switzerland, you may also contact your appropriate European Data Protection Authority, the Information Commissioner’s Office in the United Kingdom or the Swiss Federal Data Protection and Information Commissioner, respectively, with questions or complaints about our privacy practices. 
 
-If you are a resident of the EU or Switzerland and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance from our designated Privacy Shield independent recourse mechanism, the JAMS EU-U.S. and Swiss-U.S. Privacy Shield Program: 
+If you are a resident of the EU, UK or Switzerland and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance from our designated Privacy Shield independent recourse mechanism, the JAMS EU-U.S. and Swiss-U.S. Privacy Shield Program: 
 
 <https://www.jamsadr.com/eu-us-privacy-shield>
 
 Claims shall be arbitrated free of charge by our arbitration provider, JAMS, though each party shall be responsible for its own attorneys’ fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles. 
 
-Under certain conditions, residents of the EU and Switzerland who have unresolved complaints after: (1) contacting Smaato to resolve the issue; (2) seeking assistance from our independent recourse mechanism; and (3) contacting the U.S. Department of Commerce (either directly or through a European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner) and affording the Department of Commerce time to attempt to resolve the issue, may elect to invoke binding arbitration through the Privacy Shield arbitration process, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
+Under certain conditions, residents of the EU, UK and Switzerland who have unresolved complaints after: (1) contacting Smaato to resolve the issue; (2) seeking assistance from our independent recourse mechanism; and (3) contacting the U.S. Department of Commerce (either directly or through a European Data Protection Authority, the Information Commissioner’s Office in the United Kingdom or the Swiss Federal Data Protection and Information Commissioner) and affording the Department of Commerce time to attempt to resolve the issue, may elect to invoke binding arbitration through the Privacy Shield arbitration process, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
 
 ## 12\. The EU General Data Protection Regulation (GDPR)
 
 As of May 25, 2018, a new data privacy law known as the EU General Data Protection Regulation (the “GDPR”) will be in effect through the EEA, Switzerland, and the UK. The GDPR requires Smaato and those using our services to provide users with certain information about the processing of their “Personal Data.” “Personal Data” is a term used under the GDPR that means, generally, data that identifies or can identify a particular unique user or device – for instance, names, addresses, cookie identifiers, Mobile IDs, precise location data, and biometric data. 
 
-To comply with the GDPR, we provide the below representations and information, which are specific to persons located in the EEA, Switzerland, or the UK. 
+To comply with the GDPR, we provide the below representations and information, which are specific to persons located in the EEA, Switzerland, or the UK and to the processing of personal data in the context of the activities of Smaato, Inc., Valentinskamp 70, Emporio, 19th Floor, 20355 Hamburg, Germany. 
 
 ### a. Legal Grounds for Processing Personal Data
 
@@ -244,10 +244,10 @@ If you are a Client of ours and thus have an account with us, we will typically 
 
 The GDPR provides you with certain rights in respect to Personal Data that data controllers hold about you, including certain rights to access Personal Data, to request correction of the Personal Data, to request to restrict or delete Personal Data, and to object to our processing of your Personal Data (including profiling for online ad targeting). 
 
-  * Right to Access: If you wish to exercise your right to access Personal Data we process as a data controller, you may do so by requesting access through the e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f383819a8592908ab3809e9292879cdd909c9e). When we receive your request, we will provide you with current, step-by-step instructions to follow in order to obtain access. We will then assess requests to exercise data access rights on a case-by-case basis; in doing so, we consider the difficulty of verifying whether a mobile identifier and data we have linked to it truly and solely belongs to the data subject making the request, as well as the potential adverse effects on disclosure of personal data to the wrong individual. Because such improper disclosure would likely adversely affect the privacy rights and freedoms of the data subject, we may limit the Personal Data we make available. Please note that we will only grant requests submitted via email for Personal Data for which we are a data controller, as explained further below. Where we act as a data processor for one of our Clients, we will refer your request to that Client. Please identify the Client your request refers to (if possible), to simplify this process. 
+  * Right to Access: If you wish to exercise your right to access Personal Data we process as a data controller, you may do so by requesting access through the e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d1a1a3b8a7b0b2a891a2bcb0b0a5beffb2bebc). When we receive your request, we will provide you with current, step-by-step instructions to follow in order to obtain access. We will then assess requests to exercise data access rights on a case-by-case basis; in doing so, we consider the difficulty of verifying whether a mobile identifier and data we have linked to it truly and solely belongs to the data subject making the request, as well as the potential adverse effects on disclosure of personal data to the wrong individual. Because such improper disclosure would likely adversely affect the privacy rights and freedoms of the data subject, we may limit the Personal Data we make available. Please note that we will only grant requests submitted via email for Personal Data for which we are a data controller, as explained further below. Where we act as a data processor for one of our Clients, we will refer your request to that Client. Please identify the Client your request refers to (if possible), to simplify this process. 
   * Right to Correct: If you wish to exercise your right to correct Personal Data, you may do so by contacting us at the contact information below. 
   * Right to Object to Processing or to Withdraw Consent: By using the device-based “opt-out” signals described in Section 4(b) above, you may withdraw consent for processing on which we rely on consent. If you do so, we will cease processing your Personal Data for purposes of our services within 30 days or less. We either collect these opt-out signals ourselves or receive them from the mobile apps we work with. 
-  * Right to Erasure. You also have the right to obtain the erasure of Personal Data concerning you that we hold as a data controller. The above opt-out process satisfies this right. When an End User opts-out through device settings, and we receive this signal from our Clients, the Personal Data we use to provide our services will be deleted within 30 days (if you have an Android device) or permanently rendered disconnected to your device (if you have an iOS device). We will also manually delete your Personal Data, subject our identity verification process mentioned above, if you prefer that we do so; please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#acdcdec5dacdcfd5ecdfc1cdcdd8c382cfc3c1) for further instructions on exercising this right manually. Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our own internal and necessary purposes, such as auditing, accounting and billing, legal, or bug detection. We will retain your Personal Data for the period necessary to fulfill any important purposes that we have in retaining it, principally regarding legal, auditing, accounting, and billing obligations. 
+  * Right to Erasure. You also have the right to obtain the erasure of Personal Data concerning you that we hold as a data controller. The above opt-out process satisfies this right. When an End User opts-out through device settings, and we receive this signal from our Clients, the Personal Data we use to provide our services will be deleted within 30 days (if you have an Android device) or permanently rendered disconnected to your device (if you have an iOS device). We will also manually delete your Personal Data, subject our identity verification process mentioned above, if you prefer that we do so; please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c9b9bba0bfa8aab089baa4a8a8bda6e7aaa6a4) for further instructions on exercising this right manually. Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our own internal and necessary purposes, such as auditing, accounting and billing, legal, or bug detection. We will retain your Personal Data for the period necessary to fulfill any important purposes that we have in retaining it, principally regarding legal, auditing, accounting, and billing obligations. 
   * Right to Lodge Complaints. You have the right to lodge a complaint with a supervisory authority. However, we hope that you will first consult with us, so that we may work with you to resolve any complaint or concern you might have. 
 
 
@@ -258,14 +258,33 @@ EU data protection law makes a distinction between organizations that process Pe
 
 Smaato may act as either a data controller or a data processor in handling your Personal Data, depending on the precise circumstances. For instance, for Personal Data that we use internally and independently to create our own data tools and operate the Smaato Ad Services, and for Personal Data that we collect about our Clients, we are a data controller. But when we handle Personal Data strictly on behalf of our Clients or Partners in order to provide our services to them, we are a data processor. Thus, for instance, if you have questions about data that is used primarily by a mobile app on which our technology is embedded – or companies that serve ads that use our technology – you should contact those companies regarding questions about the Personal Data they handle and control. 
 
-### f. Questions or Concerns
+### f. Contact Details and Controller
 
-If you are a resident of the EEA, Switzerland, or the UK and have concerns regarding this Section 12, you may contact our data protection officer by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ed9d9f849b8c8e94ad9e808c8c9982c38e8280) or by post to the following address: 
+This data protection information applies to data processing by the data controller 
 
-External Data Protection Officer  
-ePrivacy GmbH  
-represented by Prof. Dr. Christoph Bauer  
-Große Bleichen 21, 20354 Hamburg, Germany 
+> Smaato, Inc.  
+>  Valentinskamp 70, Emporio, 19th Floor  
+>  20355 Hamburg, Germany 
+
+for users based in the European Economic Area, Switzerland or the UK, unless otherwise stated in a service-specific data protection notice. 
+
+#### Contact details of the Data Protection Officer
+
+> Smaato, Inc.  
+>  Data Protection Officer  
+>  Valentinskamp 70, Emporio, 19th Floor  
+>  20355 Hamburg, Germany  
+>  E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88f8fae1fee9ebf1c8fbe5e9e9fce7a6ebe7e5)  
+> 
+
+#### Supervisory Authority
+
+The Hamburg Commissioner for Data Protection and Freedom of Information 
+
+> Ludwig-Erhard-Str 22, 7th floor  
+>  20459 Hamburg  
+>  Tel.: +49 (040) 42854-4040  
+>  E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f121e16131d10073f1b1e0b1a110c1c170a0b0551171e121d0a0d18511b1a)
 
 ## 13\. Changes to This Privacy Policy
 
@@ -273,8 +292,8 @@ We may occasionally update this Policy to reflect changes to our privacy practic
 
 ## 14\. Contacting Us
 
-If you have any general questions regarding this Policy, you may contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9fefedf6e9fefce6dfecf2fefeebf0b1fcf0f2) or mailing the following address: 
+If you have any general questions regarding this Policy, you may contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#48383a213e292b31083b2529293c27662b2725) or mailing the following address: 
 
-Smaato, Inc.  
-240 Stockton Street, 10th Floor  
-San Francisco, CA 94108 
+> Smaato, Inc.  
+>  240 Stockton Street, 10th Floor  
+>  San Francisco, CA 94108 
