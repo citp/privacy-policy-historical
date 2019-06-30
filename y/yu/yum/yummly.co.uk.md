@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yummly.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231085736id_/https%3A//www.yummly.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummly.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224130id_/https%3A//www.yummly.co.uk/privacy) for the most accurate reproduction.*
 
 # Yummly: Personalized Recipe Recommendations and Search
 
