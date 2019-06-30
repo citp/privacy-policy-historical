@@ -1,21 +1,29 @@
-> *The following text is extracted and transformed from the theexamresult.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423012805id_/http%3A//www.theexamresult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theexamresult.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630044456id_/http%3A//www.theexamresult.com/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to [TheExamResult](http://www.theexamresult.com/) will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don’t hesitate to let us know. 
+We respect your privacy and we are committed to safeguard your privacy while online at our site www.theexamresult.com. The following discloses the information gathering and dissemination practices for this Web site.
 
-### Resale or disclosure of information to third parties:
+**Log Files**  
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-TheExamResult does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists. 
+**Cookies**  
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site doesn’t use cookies. However, Some of our business partners (for example, www.google.com ) use cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
 
-### Browser information collected on the website: 
+**DoubleClick DART Cookie**   
+Google, as a third party vendor, uses cookies to serve ads on websites including our site www.theexamresult.com.
 
-TheExamResult analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site. 
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
 
-### Use of cookies: 
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html   
+**  
+Links**  
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.  
+**  
+Advertisers**  
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill, Kontera etc. Please check their websites for respective privacy policies.
 
-We also use third party advertisements on TheExamResult.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site. Google, through their AdSense Program, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to TheExamResult.com users based on their visit to this and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+**Contact Information**  
+If users have any questions or suggestions regarding our privacy policy, please contact us at: sales@impactomatic.com
 
-### Privacy of our email lists: 
-
-[TheExamResult](http://www.theexamresult.com/) maintains several email lists to keep our members informed about breaking events. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized TheExamResult staff, including other list subscribers. 
+Go Back to [www.theexamresult.com](http://www.theexamresult.com/)
