@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the foxnewsafrica.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227201307id_/https%3A//www.foxnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxnewsafrica.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223033id_/https%3A//www.foxnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fox News
 
-_Effective as of December 27, 2018_
+_Effective as of March 19, 2019_
+
+### What’s Changed
+
+As a result of a recent corporate transaction between 21st Century Fox and The Walt Disney Company, Fox News Network, LLC has become part of the newly formed Fox Corporation. We have updated the information about our corporate affiliates in the privacy policy accordingly.
 
 ### Table of Contents:
 
@@ -41,7 +45,7 @@ PLEASE READ THIS PRIVACY POLICY AND THE RELATED TERMS OF USE LOCATED AT [www.fox
 
 ### 1) Scope and Application
 
-Fox News Network, LLC ("Fox News" or "we" or “our”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected, used or shared through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Fox News Services") (unless a different policy is provided on a particular website or app, in which case such different policy shall control data collected through that particular website or app). By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Company Affiliates") is available at [www.21cf.com](https://www.21cf.com/).
+Fox News Network, LLC ("Fox News" or "we" or “our”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected, used or shared through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Fox News Services") (unless a different policy is provided on a particular website or app, in which case such different policy shall control data collected through that particular website or app). By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Company Affiliates") is available at [www.foxcorporation.com](https://www.foxcorporation.com/).
 
 As set forth in our [Terms of Use](https://www.foxnews.com/about/terms-of-use/), the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
@@ -131,7 +135,7 @@ In addition, Fox News is not responsible for the privacy or data security practi
 
 Remember that even after you cancel your account, or if you ask us to delete your personal information, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancellation or your request for deletion, for fraud detection or to comply with applicable law or our internal security or recordkeeping policies. It may not always be possible to completely remove or delete all of your information due to technical constraints, or contractual, financial or legal requirements.
 
-**Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, religion or other beliefs, health, criminal background or trade union membership) on or through the Fox News Services or otherwise. Your use of the Fox News Services is at your own risk. Fox News urges you to take steps to keep your information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your account, and closing your web browser. In order to help us protect your sensitive further, you should be careful about providing your password to others.
+**Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, religion or other beliefs, health, criminal background or trade union membership) on or through the Fox News Services or otherwise. Your use of the Fox News Services is at your own risk. Fox News urges you to take steps to keep your information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your account, and closing your web browser. In order to help us protect your information further, you should be careful about providing your password to others.
 
 Whenever you give Fox News sensitive or confidential information, Fox News will take commercially reasonable steps to protect the information by establishing a secure connection with your web browser. Fox News uses an industry standard security protocol for encrypting sensitive information. Unfortunately, no security measures are perfect or impenetrable and data transmission over the Internet cannot be guaranteed 100% secure. We cannot and do not ensure or warrant the security of any information you transmit to Fox News and you do so at your own risk.
 
