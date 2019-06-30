@@ -1,76 +1,95 @@
-> *The following text is extracted and transformed from the delorme.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225806id_/http%3A//www.delorme.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delorme.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630111540id_/https%3A//www.garmin.com/en-US/privacy/global) for the most accurate reproduction.*
 
-# DeLorme | Privacy Statement
+# Privacy Policy | Garmin
 
-DeLorme Privacy Statement
+Our goal is to make sure you know how we collect, use, share and store your personal data when you create a Garmin account, interact with our customer support specialists and visit [Garmin.com](https://www.garmin.com/ "Garmin.com") or other Garmin websites and apps covered by this privacy policy.
 
-DeLorme's goal is to completely satisfy our customers with products and services of the highest value. The information you provide us can help us meet your needs and exceed your expectations. At the same time, we have a deep respect for personal privacy and wish to use such information only for your benefit. To that end we have updated our privacy policy effective August 2, 2004.
+## What data does Garmin collect?
 
-This statement explains our practices concerning the collection and use of customer information. Practices may change over time as we consider new technologies and customer needs. Any changes to our privacy policy will be posted here and we encourage you to review this site periodically. 
+We ask for personal data — such as your name, email address, location and other information — so you can sign in to your accounts, receive personalized support, receive important safety information about your devices and get the most out of our products. 
 
-This Privacy Statement explains the following:
+Learn More
 
-  * What information we collect 
-  * How we use the information we collect 
-  * How we use email
-  * Children's Privacy
-  * How you can update your preferences
-  * How to contact us
+### When You Make an Account
 
+Garmin stores information such as your name, email address and passwords so you can sign in, and it helps us verify your account if you call customer support. 
 
+### When You Buy Products
 
-  
-What information we collect
+When you buy products from Garmin, we ask for information such as your name, address and phone number so we can get your order processed and shipped to you.
 
-We may the collect the following information:
+### When You Sync Products
 
-  * Name
-  * Business name
-  * Address
-  * Telephone number
-  * Email address
-  * Credit card information
-  * Voluntary customer survey responses
+When you sync your device, we collect data such as your IP address, sync time and date and battery level to help identify and resolve errors or syncing issues and to provide better customer support.
 
+### When You Contact Garmin
 
+We know you want to stay off the grid, but we may collect things such as your contact and device information during support calls to ensure that you get the help you need. 
 
-  
-We require only the information needed to process your order or register your product. Items for these purposes are indicated by red asterisks on the entry forms. Some forms, or voluntary customer surveys, might also request optional information such as your hobbies, or other individual preferences. Unless you place an order, register a product or use a service provided by DeLorme, we do not collect or know your name or email address. DeLorme does not follow your browsing activity outside of our site.
+### When You Use Location Features
 
-How we use the information we collect
+Sometimes we need to collect your device’s location. That makes it a lot easier to tell you about things such as weather in your area, nearby traffic and even movie prices near you. 
 
-We use the information we collect to:
+### When You Use Auto Navigation
 
-  * Process your order
-  * Contact you regarding service requests
-  * Alert you to the status of your order
-  * Inform you of specific inventory replenishments, if requested
-  * Send promotional offers of interest to you
-  * Email our newsletter(s) to you, if requested
-  * Aid in the development of new or improved products or services
+With your consent, Garmin collects information that includes location, direction and speed to help with features such as parking and traffic. 
 
+## Why does Garmin ask for your personal data?
 
+From providing product support to offering clear directions to your destination, any information we ask you for is used to improve your experience with Garmin.
 
-If you provide your email, postal address or phone number, we may use them to communicate with you, but we will not do so [if you don't want us to](https://web.archive.org/preferences.asp).
+Learn More
 
-DeLorme greatly values you as a customer and respects your desire for privacy regarding your personal information. We are not in the practice of routinely selling or renting names, addresses, or other identifying information to outside parties. Yet, there are occasional opportunities or needs to make our mailing list or general shopping activity available to carefully selected marketing service providers whose privacy practices meet the Direct Marketing Association’s privacy standards. These service providers could include credit card processors, email distributors, shipping services, market research and promotions managers or list analysts and providers. In any case, our partners are not permitted to provide this information to another party. DeLorme considers such relationships only if we truly believe in their benefit to our customers and our products; however [if you do not wish to be included, please let us know.  
-](https://web.archive.org/preferences.asp)  
-In order to continually improve our Web site, we do study how people navigate through it, and which areas are popular and more meaningful. We may collect aggregate information site-wide, including site usage statistics and transaction information. We log domain names and/or IP addresses. Please keep in mind that such information is analyzed only in aggregate and is not personally identifiable.
+### To Keep You Informed
 
-How we use email
+When we have something important to tell you about your products, apps and account — such as vital safety information, app updates, new products or deals and updates to our privacy policy — we use collected contact information to reach you.
 
-DeLorme will email your online order and shipment confirmations to you. We occasionally send email notices of upgrades, special offers and new product announcements. We may also solicit your input on new products or feedback on existing ones. You may remove your name from our email list at any time by following the "Unsubscribe" instructions at the bottom of any email message from us. You will continue to receive email order confirmations.
+### To Improve Our Sites
 
-Children's Privacy
+When you visit our sites, we collect information — such as your IP address, location, times that you visit and more — to let us know how people navigate our site and how we can improve it. 
 
-DeLorme does not knowingly collect or use information from persons under 13 years of age. All registrations, purchases, and requests for information by anyone under 13 must be submitted by the parent or guardian. DeLorme will not share information with selected partners (as described above) regarding customers of any of its products that are likely to be used by young children unless the registrant submits such a preference.
+### To Give You Information You Might Actually Find Interesting
 
-How you can update your preferences
+We use things such as cookies, pixel tags and similar tools to help us provide better, more relevant content on our sites. So if you and everyone else are coming to Garmin.com for awesome fitness devices, we’ll know to keep making them. 
 
-You may update your preferences at any time by filling out our [Preferences form](https://web.archive.org/preferences.asp).
+We also use these tools to see how effective our ads are and to identify any problems that we need to fix. All in all, we just want to give you a website worth browsing. 
 
-How to contact us
+## Does Garmin sell your personal data?
 
-If your question or concern is specifically about privacy, send email to [privacy@delorme.com](mailto:privacy@delorme.com). 
+No! We don’t sell your personal data to anyone. And we only share your personal data with others in specific situations. 
 
-We welcome your comments and are always glad to answer your questions. See [Contact Us](https://web.archive.org/companyinfo/contact.htm).
+Learn More
+
+### Data Shared Within Garmin 
+
+Garmin is global, which means your personal data may be stored locally or in another country or transferred between Garmin companies. No matter where your information is within Garmin, it is still secured under this privacy policy. 
+
+### Data Shared with Service Providers 
+
+We share personal data with third parties who provide services — such as fulfilling orders and sending emails to customers — for us. 
+
+### Data Shared for Legal Reasons
+
+Garmin will share your personal data when required to by law enforcement and in other legal matters. 
+
+### Data Shared with Content and Feature Providers
+
+With your consent, we share information collected from your auto navigation device — such as location, direction and speed — with third parties that provide content and features such as traffic and parking information. 
+
+## How can you share your personal data?
+
+Your personal data belongs to you, and you control what you share and whom you share it with. 
+
+Learn More
+
+### LiveTrack
+
+You can share a link to your device’s real-time location with your friends and family so they can follow along on your journey. 
+
+### Promotions
+
+We post contests and sweepstakes so you can win stuff. If you enter a contest or sweepstakes, we need to use the information you give us to make sure you get that stuff if you win.
+
+## How can I request to view, update, delete or transfer my data?
+
+Visit [Account Management Center ](https://www.garmin.com/account) to make your request. Learn more about your rights in the Garmin.com privacy policy.
