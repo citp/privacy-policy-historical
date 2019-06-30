@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporeanbiz.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119013912id_/http%3A//singaporeanbiz.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporeanbiz.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630132911id_/http%3A//singaporeanbiz.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Financial articles focused on Asia: Singapore market
 
