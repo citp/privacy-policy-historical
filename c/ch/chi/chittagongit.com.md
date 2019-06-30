@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chittagongit.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211212042id_/http%3A//chittagongit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chittagongit.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630213625id_/http%3A//chittagongit.com/privacy.html) for the most accurate reproduction.*
 
-# Contact Page
-
-## Privacy Policy
+# Privacy Policy - Free Icons Library
 
 **1\. We collect  
 ** Our servers are designed to automatically record information about your activity on our website which also includes all the information sent by your browser time to time. This information includes differnet things such as your IP address, name of type of the browser you are using and also the webpage you were visiting before you came to http://chittagongit.com/. It also includes the data about your Windows and the language you are using.
