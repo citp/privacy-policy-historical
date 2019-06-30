@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostmy.name privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202953id_/https%3A//www.wonderbly.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostmy.name privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212655id_/https%3A//www.wonderbly.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wonderbly
 
@@ -103,13 +103,13 @@ We use data held about you in the following ways:
   * Legal Basis - Legitimate Interest (of fulfilling customer requests of being updated on products and services)
 
 
-  11. to allow us to provide you with other information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes
+  1. to allow us to provide you with other information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes
 
 
   * Legal Basis - Legitimate Interest (of fulfilling customer requests of being updated on products and services)
 
 
-  12. to contact you by email and mobile communication (such as text (SMS) and "push" notification) and to contact you by post
+  1. to contact you by email and mobile communication (such as text (SMS) and "push" notification) and to contact you by post
 
 
   * legitimate interests (to develop our products/services and grow our business, and to improve our offering to you) and Performance of a contract (ensuring product is delivered)
