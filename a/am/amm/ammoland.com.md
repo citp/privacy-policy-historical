@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823145820id_/https%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630095516id_/https%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
 
 # AmmoLand Privacy Policy
 
