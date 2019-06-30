@@ -1,143 +1,186 @@
-> *The following text is extracted and transformed from the thecoast.net.nz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231221101id_/http%3A//www.nzme.co.nz/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoast.net.nz privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630141346id_/http%3A//www.nzme.co.nz/about-us/privacy-policy) for the most accurate reproduction.*
 
 # NZME. - Privacy Policy
 
+## NZME Privacy Statement 
+
+At NZME we value the communities that gather around our brands and take pride in bringing you premium content worthy of your attention. It’s important to us that whatever we are bringing you, whether it’s the latest news, hit music or in-depth conversation, it’s what you want and its meaningful to you. But to give you more of what you want we need to understand you. This means, with your permission, using the information that you give us to make sure our products and services are on point.
+
+We understand how important your personal information is and that we need to earn your trust, by being honest and transparent about what we do. It’s our job to ensure you really understand what information we collect from you, how we use it and how we keep it safe. We take our commitment to your privacy seriously.
+
+We are committed to complying with privacy laws and standards. For information about the New Zealand Privacy Act 1993 and how it protects all personal information in New Zealand, [click here](https://www.privacy.org.nz/the-privacy-act-and-codes/privacy-act-and-codes-introduction/).
+
+To make it easy and clear for everyone, we’ve simplified our Privacy Policy language. No more jargon. It’s now straightforward and to the point.
+
 ## NZME Privacy Policy 
 
-For information about the New Zealand Privacy Act and how it protects all personal information in New Zealand, [click here](https://www.privacy.org.nz/the-privacy-act-and-codes/privacy-act-and-codes-introduction/).
+In this Privacy Policy we (meaning NZME Limited and its related companies) aim to answer your questions about privacy and personal data use at NZME:
 
-Your privacy is important to us. We want you to understand the terms and conditions surrounding the capture and use of any information we gather. To that end, this privacy policy sets out what information we gather, how we may use it, and how to correct or change it. 
+ \- What kinds of information does NZME collect?
 
-\- Collection
+\- Who does NZME share my information with?
 
-\- Disclosure of Information
+\- How might NZME use my information?
 
-\- Use
+\- What happens if I interact with any of NZME’s content providers, advertisers or partners?
 
-\- Content Providers, Advertisers and Partners
+\- How does NZME use cookies and similar tracking technologies?
 
-\- Cookies Clear Gifs and Tracking 
+\- How can I control the personal information NZME collects from me?
 
-- Analytics
+\- How can I find out what personal information NZME holds and how can I update it or request      deletion?
 
-\- Third Party Ad Servers
+\- Can NZME make changes to this policy? How will I find out?
 
-\- Opting in and Opting Out
+_If you have any other questions about our approach to privacy and personal data use please feel free to contact us by[email](mailto:info@nzme.co.nz) or by mail to NZME, 2 Graham Street, Private Bag 92198, Victoria St West, Auckland 1142, New Zealand._
 
-\- Changes to Policy
+## What kinds of information does NZME collect?
 
-\- Holding, Correcting and Updating
+We gather information for many reasons but ultimately it allows us to develop, tailor and deliver our services, and inform our marketing and advertising.  We will not collect personal information unless it is for a lawful purpose that is connected with one of our functions or activities, and having that information is necessary for that purpose.
 
-## Collection 
+The information we gather includes the following types of information about our users, including you: 
 
-NZME Publishing Limited and NZME Radio Limited, together trading as NZME, or our related companies ("we" or "us") may gather the following types of information about users including you ("you"): 
+1\. Personal information provided by you when you interact with us or if you link, connect, or log in to your account with a third-party service (e.g. Facebook). This may be when you use or purchase our products or services, when you subscribe or register to use our products or services, when you agree to a background or credit check, when you communicate with us including when you call us, when you post information on discussion boards or comment publicly on our articles, and when you provide us with your feedback or respond to surveys you are asked to participate in. 
 
-1\. personal information provided by you when you interact with us, such as when you use or purchase our products or services, when you subscribe or register to use our products or services, and when you provide us with your feedback or respond to surveys you are asked to participate in; 
+2\. General location information (e.g. your physical or postal address or your device’s IP address) or more specific location information (e.g. precise location from your mobile GPS) when you use certain features of our services. Your mobile device may allow you to control or disable the use of location services in your device’s settings menu.
 
-2\. aggregated information generated by our systems or third party systems we use, which track traffic to and from our sites but does not relate to you personally; and 
+3\. Additional information about you that is publicly available (e.g. we may collect your property information held by local councils).
 
-3\. other information that does not personally identify you.  Failure to provide necessary personal information when requested may result in certain products or services not being available to you. 
+4\. Aggregated information generated by our systems or third party systems we use, which track traffic to and from our sites but does not relate to you personally (this information is generally anonymised, but may include the device, applications or operating system you’re using, your IP address, and your geo-demographic information). 
 
-We will not collect information about any person whom we know to be under the age of 13.
+5\. Other information that does not personally identify you. 
 
-Back to top
+If you choose not to provide personal information that we need from you this may mean some of our products or services will not be available to you or function in the same way. 
 
-## Disclosure of Information 
+We will not collect information about any person that we know to be under the age of 13. Nor will we collect special categories of personal information, such as information about your race, political opinions, religion, health or sexual orientation, unless you have chosen to provide that information to us.
 
-We may disclose: 
+[Back to top](https://web.archive.org/about-us/privacy-policy/)
 
-1\. all information that we gather, including your personal information, to our related companies;
+## Who does NZME share my information with?
 
-2\. aggregated tracking information and other information that does not personally identify you to third parties such as our advertisers;
+ We may need to share or disclose:
 
-3\. your personal information to third parties when we believe in good faith that we are required to do so by law;
+1\. information that we gather, including your personal information, with our related companies. These are the companies partly or fully owned by NZME and their use of the information remains governed by this privacy policy.
 
-4\. your personal information to other third parties provided we have your prior authorisation, which we will usually obtain at the time of collecting the information from you. 
+2\. some of your personal information to our third party service providers so they can help us provide and manage our services (e.g. they help us with service functionality, customer service, billing and invoicing, and conducting research and analysis). We will limit their access to your personal information so they only have what is necessary to perform the tasks we ask of them, and we take steps to ensure they use your personal information consistently with this privacy policy.
 
-A list of other third parties who may be provided with information, and a description of how those third parties may use this information, can be found [here.](https://web.archive.org/about-us/privacy-policy/third-party-access-to-information/ "Third Party Access to Information")
+3\. aggregated tracking information (that is information about our users that we anonymise and combine so that it no longer identifies any individual user) and other information that does not personally identify you to third parties (such as our advertisers and partners) for business purposes such as helping with market analysis, audience profiling, marketing and advertising.
 
-Back to top
+4\. non-personal information such as hashed data, click stream information, browser type, and information about your interactions with advertisements which is generated through the use of cookies, beacons, and similar technologies and collected by third parties when you use our services. This information may be combined with other information collected from different websites or online services, and other linked or connected devices. These third parties may use such non-personal information to improve their own services and consistent with their own privacy policies. Please see our section on cookies below for more information.
 
-## Use 
+5\. your personal information to third parties when we believe in good faith that we are required to do so by law.
 
-We may use the personal information we collect: 
+7\. your personal information to other third parties provided we have your prior authorisation, which we will usually obtain at the time of collecting the information from you or when you later authorise us to share it. 
+
+A list of third parties who may be provided with information, and a description of how those third parties may use this information, can be found [here.](https://web.archive.org/about-us/privacy-policy/third-party-access-to-information/)
+
+## How might NZME use my information?
+
+We use the information we collect for many reasons that support enable us to provide our services, from ensuring we understand our users and how they engage with us, to informing our marketing and helping our advertisers do the same.
+
+We may use the personal information we collect from you: 
 
 1\. for verification of your identity and assisting you in case you forget your password or login details where these are necessary to access any of our products or services; 
 
-2\. for authorising and processing credit card transactions which you enter into online;
+2\. for authorising and processing credit card transactions which you enter into online. Credit and debit card information is sensitive information and we do not collect it or store it. We use third party payment solution providers and only engage those that comply with strict industry standards and security processes;
 
-3\. to assist in providing the products and services requested by you; 
+3\. to assist in providing the products and services requested by you, including by sending you service communications relating to the services you have opted into; 
 
 4\. to provide information to you about other websites, products and services, which we consider may be of interest to you; 
 
-5\. for future marketing, promotional and publicity purposes, including carrying out direct marketing, market research and surveys; 
+5\. to identify and prevent harm to us or others, including detecting fraud, spam, data security incidents, and other harmful activity;
 
-6\. for ensuring that you are shown the advertising and information that is most relevant to you and your interests; and
+5\. to measure and improve our advertising and for other marketing, promotional and publicity purposes, including carrying out direct marketing, market research and surveys; 
+
+6\. to sell advertising space on our sites and ensure that you are shown the advertising and information that is most relevant to you and your interests. Our services are funded in part by advertising and we use the information we collect to help explain our audience to our advertisers when they are looking for the right platform for their message; and
 
 7\. for any other uses that you authorise. 
 
-Back to top
+[Back to top](https://web.archive.org/about-us/privacy-policy/#top)
 
-## Content Providers, Advertisers and Partners 
+## What happens if I interact with any of NZME’s content providers, advertisers or partners?  
 
-We do not control the practices of content providers, partners and advertisers connected with our sites and to whom you provide personal information whilst using one of our sites or services. Our sites contain links to other sites, which may not follow the same privacy policies as us. We recommend that you check any relevant privacy policies before providing your personal information to any third party. 
 
-Back to top
+When you use our services, you may interact with third parties that advertise with us or provide content or link through our sites. We do not control them or what they do and if you provide them with personal information, even while using our sites or services, they may not follow the same privacy policies as us. We recommend you check any relevant privacy policies before providing your personal information to any third party. 
 
-## Cookies, Clear GIFS and Tracking 
+Some of our advertisers use third party companies to serve advertisements when you visit our sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to our sites, including information gathered by cookies, in order to provide advertisements about goods and services of interest to you. We do not control the practices of these companies and they may not follow the same privacy policies as us.
 
-We may collect non-personal information about the computer, mobile telephone, smartphone or other device that you use to access our products or services. Where you allow our mobile services and products to deliver content based on your location (by enabling this feature on your mobile device) we may collect location data. This information is used only for the automated delivery of relevant content to you and for no other purpose.
+We always recommend that you check any relevant privacy policies before providing your personal information to any third party. 
 
-We may use a cookie file containing information that can identify the computer you are working from. The cookie file is anonymous as it only gives us details of your IP address, PC platform (Windows, Linux or OS X), Browser (e.g. Internet Explorer, Google Chrome, or other, plus the version of Browser) and domain (whether you are accessing the site from NZ or elsewhere). We may use the information generated by "cookies" to: 
+[Back to top](https://web.archive.org/about-us/privacy-policy/#top)
 
-1\. track traffic patterns to and from our sites such as the pages you visit, the time you spend on each page, the date and time of your visit, and referring pages (pages you came from or go to);
+## How does NZME use Cookies and similar tracking technologies?  
 
-2\. ensure advertising is being shown to the most appropriate person and limit the frequency of display for certain ad formats; and
 
-3\. enable you to use certain services as a member without having to log on each time and to visit member-restricted areas of the site.  
+Why does NZME use cookies?
 
-We may allow third-party companies to serve ads and/or collect certain information when you and other Internet users visit our websites.  These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) and precise geo location and user device identification (if you have provided your consent to us) during your visits to this site and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or other technology to collect this information. To learn more about this interest based advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). Third party companies may also use your non-personal information collected in this way in aggregated form or for statistical purposes.
+ We use cookies (and other tools which perform similar functions, like beacons, and local storage)to gather and store information about your use of our services. These tools do not identify you directly but the information collected will be linked to a unique user identifier code that is assigned to you. This allows us to use the information collected by the tools to understand more about your viewing habits and interests, and helps us to deliver our services to you.
 
-You can choose to refuse cookies by turning them off in your browser and/or deleting them from your hard drive. You do not need to have cookies turned on to use our websites, but you may need them for customisable areas of sites we may develop in the future. If your cookies are turned off we will not have any control over the frequency of display of certain ad formats. This could affect your reading experience. Visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for a comprehensive guide on how to control and delete cookies on a wide range of web browsers and operating systems.
+How is cookie information used?
 
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may ping or alert an advertiser's server about the online movements of Web users. For instance, advertisers may place a clear gif allowing them to recognise an existing cookie on your browser if from the same service. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller. We do not have access to any information collected by these clear gifs nor additional information they may be tied to by the advertiser.
+We may use the information generated by cookies or similar tools to:
 
-Back to top
+1\. track traffic patterns to and from and across our sites such as the pages you visit, the time you spend on each page, the date and time of your visit, and referring pages (pages you came from or go to);
 
-## Analytics 
+2\. ensure advertising is being shown to the most appropriate person based on this data and limit the frequency of display for certain ad formats; and
 
-NZME or our related companies contract with online measurement companies and other service providers to manage and optimise our Internet business and communications. These companies collect information about visits to our site to assist us in analysing the site's performance and advertising effectiveness and optimising the site for readers and marketers. Details of these service providers and the information they may collect can be found [here](https://web.archive.org/about-us/privacy-policy/third-party-access-to-information/ "Third Party Access to Information").
+3\. enable you to use certain services as a member without having to log on each time and to visit member-restricted areas of the site. 
 
-Back to top
+We may also use online measurement companies and other service providers to analyse our cookie information and help us manage and optimise our digital businesses and communications. These companies take information about visits to our sites to assist us with analysing the site's performance and the effectiveness of advertising so we can optimise our services for users and advertisers. Details of these service providers and the information they may collect can be found [here](https://web.archive.org/about-us/privacy-policy/third-party-access-to-information/).
 
-## Third Party Ad Servers 
+To the extent we are aware a user is based in the European Union, we do not use, collect or store tracking data for interest-based advertising purposes.
 
-Some of our advertisers use third party companies to serve advertisements when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites, including information gathered by cookies, in order to provide advertisements about goods and services of interest to you. We do not control the practices of these companies and they may not follow the same privacy policies as us. We recommend that you check any relevant privacy policies before providing your personal information to any third party. 
+We may allow third-party companies to serve ads and use cookies or similar tools to collect certain information when you visit our websites.  These companies may use non-personally identifiable information and precise geo location and user device identification (if you have provided your consent to us) during your visits to our sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this interest based advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). Third party companies may also use your non-personal information collected in this way in aggregated form or for statistical purposes.
 
-Back to top
+How can you control cookies and the cookie information we collect?
 
-## Opting in and Opting Out 
+Most browsers accept cookies automatically but you can choose to refuse cookies by turning them off in your browser and/or deleting them from your hard drive. You do not need to have cookies turned on to use our websites, but you may need them for customisable areas of sites we may develop in the future. If your cookies are turned off we will not have any control over the frequency of display of certain ad formats. This could affect your browsing experience.Additionally you can consider utilizing your browsers “Private Browsing” feature to prevent cookies being stored long term.  Modern web browsers offer private browsing features such as "Incognito Mode" in Chrome or "Private Browsing" in Safari.
 
-If our intended collection, use or disclosure of your personal information is outside the collection, use or disclosure set out in this Privacy Policy we will give you the option to:  
+[Back to top  
+](https://web.archive.org/about-us/privacy-policy/#top)
 
-1\. opt out and not receive certain services or participate in certain interactive areas; or
+## What ways can you control the personal information we collect from you?  
 
-2\. opt in, for example agreeing to be contacted by us in relation to certain matters such as notification of new features to this website, receiving newsletters or promotional activities. 
 
-Back to top
+ If our intended collection, use or disclosure of your personal information is outside what we have set out in this Privacy Policy we will give you the option to:
 
-## Changes to Policy 
+1\. opt out prior to signing up for a service and not receive certain services or participate in certain interactive areas; or
 
-We reserve the right to change this policy at any time by notifying site users of the existence of a revised privacy policy.
+2\. opt in prior to signing up for a service. 
 
-Back to top
+You may opt out from receiving these messages at any time by following the unsubscribe instructions contained in the message.
 
-## Holding, Correcting and Updating 
+You may also access or modify your registered accounts at any time on your user profile page for the service. Here you will also be able to update your subscriptions to electronic newsletters and other messaging you have opted into.
 
-Any personal information that you provide to us will be collected and held by us at 2 Graham Street, Auckland, New Zealand. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary. If you have any questions about how our services work or regarding this policy, contact us [by email](mailto:advertise@nzme.co.nz?subject=NZME%20Privacy%20Policy%20Query) or by mail to NZME, 2 Graham Street, PO Box 32, Auckland, New Zealand.
+If you want to cancel or modify any other account you have with us, please contact us by [email ](mailto:info@nzme.co.nz)or by mail to NZME, 2 Graham Street, Private Bag 92198, Victoria St West, Auckland 1142, New Zealand.
 
-Back to top
+[Back to top](https://web.archive.org/about-us/privacy-policy/#top)
 
-For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [click here.](https://www.privacy.org.nz/the-privacy-act-and-codes/privacy-act-and-codes-introduction/)
+## How safe is my information?
 
-_Updated: May 2015_
+ It is essential to us that you trust us and are comfortable sharing your information with us. We understand how important your personal information is and so our goal is to ensure that privacy protection and data security is paramount in all aspects of our data infrastructure and processes.    
+
+We design our services with your safety in mind. We maintain industry standard security technology which we monitor routinely. We also have dedicated teams to look after your privacy and information security and where we use third parties to store data we ensure their security meets our standards.
+
+At the same time, no service can be completely secure. If you have any concerns that an account you have with us or personal information has been put at risk, for example if someone could have found out your password, please [get in touch](mailto:legal@nzme.co.nz) straight away.
+
+## How can I find out what personal information NZME holds and how can I update it or request deletion?
+
+Any personal information that you provide to us will be collected and managed by us at 2 Graham Street, Auckland, New Zealand. We will only keep your personal information for as long as reasonably required for the purposes we collected it and in accordance with this policy, unless we are required to hold it for longer under law.
+
+Under the Privacy Act 1993 you have the right to ask us for access to the personal information that we hold about you. You may also ask us to update or correct that information at any time and as often as necessary.If you want us to delete information about you or suspend your account, please note that we may need to retain certain information as required by law or for legitimate business purposes.  If you withdraw your permission to use your personal information, unless there are other reasons that mean the information must be retained, we will delete that information. However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we do not send you any marketing in the future.
+
+If you want to find out what personal information NZME holds about you, please feel free to contact us by [email ](mailto:info@nzme.co.nz)or by mail to NZME, 2 Graham Street, Private Bag 92198, Victoria St West, Auckland 1142, New Zealand.
+
+[Back to top](https://web.archive.org/about-us/privacy-policy/#top)
+
+## Can NZME make changes to this policy? How will I find out?  
+
+
+We reserve the right to make updates and changes this policy from time to time. If we do revise this privacy policy, we will notify you either by making site announcements that are visible the next time you visit any of our sites or we will send mail or email notification to you.
+
+[Back to top](https://web.archive.org/about-us/privacy-policy/#top)
+
+_Updated: April 2019_
+
+## 
