@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flingvip.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025213id_/https%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flingvip.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230026id_/https%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
 
-# Camster - Free live cam girls and sex chat
+# Camster - Free live cam models and sex chat
 
 In order to provide the social networking function of the Camster.com site (the “Site”), it is necessary that we Donamis Group, LLC, a Florida limited liability company, and its parent company as licensees of Donamis II, s.r.o. need to process your personal information. By accepting this policy and creating an account with the Site you are confirming that you have read and understand this policy including how and why we use your information. If you don’t want us to collect or process your personal information in the ways described in this policy, you must not use the Site. Please be aware that while we impose certain use restrictions in our Terms of Use, we are not and cannot be responsible for any user or third party’s(ies’) use of information you may determine to share through the Site, whether through your profile, chat, direct message or otherwise. This Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email. 
 
