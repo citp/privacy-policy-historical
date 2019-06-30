@@ -1,147 +1,206 @@
-> *The following text is extracted and transformed from the transformersmovie.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522192249id_/http%3A//www.paramountmovies.com/legal/privacypolicy.php%3Fbgcolor%3D000000%26linkcolor%3Decbe5a%26fontcolor%3D999999) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transformersmovie.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235824id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# Privacy Policy
+# Data Policy
 
-This website or application (individually and collectively, the "Property") is operated by: (1) Paramount Pictures Corporation on its own behalf or in combination with Paramount Home Entertainment, Inc., Paramount Vantage, a division of Paramount Pictures Corporation, or Insurge Pictures, a division of Paramount Pictures Corporation; (2) Paramount Home Entertainment, Inc.; (3) Paramount Vantage; or (4) Insurge Pictures (collectively, "Company" or "we", "us", or "our"), which are all part of the entertainment operations of Viacom Inc. (the "Parent Company"). This Privacy Policy applies to all of the websites and applications operated by Company (unless a different policy is provided on a particular site or application, in which case such different policy shall control) and does not cover any information collected by any other website or application offered by the Parent Company and/or any subsidiaries and affiliates of the Parent Company (collectively, "Affiliates") or collected by any other company, unless specifically stated. Such information collection may be governed by separate privacy policies or notices. If you are located in the European Economic Area ("EEA") or Switzerland, see our [Privacy Shield Privacy Policy](http://www.viacom.com/privacypolicy/Documents/Privacy_Shield_Privacy_Policy_Viacom.pdf), which includes detailed information on our privacy policy and practices with respect to personal information transferred to the U.S. and note that we may take additional measures to protect your personal data. We may from time to time, combine information (including without limitation personally identifiable information) with other information we collect from other sources, such as information received from our Parent Company, Affiliates, marketing companies or advertisers and, if we do so, our use of the resulting combined information will be subject to this Privacy Policy. This Privacy Policy explains what information Company collects on this Property, how we use your information and the choices you have about the way your information is collected and used. Please read this Privacy Policy carefully. Your use of this Property indicates that you have read, understood, and unconditionally accepted our privacy practices, as outlined in this Privacy Policy. In addition, please review our Terms of Use that governs your use of this Property. From time to time, Company reserves the right, in its sole discretion, to modify, update, add to, discontinue, remove, revise or otherwise change any portion of this this Privacy Policy, in whole or in part, at any time. For changes to this Privacy Policy that we consider to be material, we will place a notice on the Property by revising the link on the homepage to read substantially as "Updated Privacy Policy" for a reasonable amount of time. If you provide information to us or access or use the Property in any way after this Privacy Policy has been changed, you will be deemed to have unconditionally consented to such changes. The most current version of this Privacy Policy will be available on the Property and will supersede all previous versions of this Privacy Policy.
+This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook ([Facebook Products](https://www.facebook.com/help/1561485474074139?ref=dp) or Products). You can find additional tools and information in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT34UNJ70aTE-Lg1FbWxpoRD8IW4Py3tAokizXaxYWrvnNKz4glT20Hx01Ro_p-3b0dVyZuUTUfAQqegQZzO84Mq4WezQqlU1BOasV_ltvuV0ZbegH3xSGiJPu8er5MYUKRpCKK1W8J0tlOe6CeN8Q). 
 
-> ### Notice to California Residents / Your California Privacy Rights:
->
->> California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes during the immediately prior calendar year (e.g. requests made in 2013 will receive information about 2012 sharing activities). As set forth in this Privacy Policy, we comply with this law by offering our visitors the ability to tell us not to share your personally identifiable information with third parties for their direct marketing purposes. To make such a request, please send an e-mail to [californiaprivacy@paramount.com](mailto:californiaprivacy@paramount.com). You must include this Property as the subject line, and your full name, e-mail address, and postal address in your message. Please see the "Your Choices" section of this Privacy Policy for additional information.
+###  What kinds of information do we collect? 
 
-## INFORMATION COMPANY COLLECTS
+To provide the Facebook Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT0EKmN6saxUvHuDJD_2EKjjqu8823TnYgWl4dn9xmxM6Y4MR7JF7pmiIDObRLb6bI9Jv4zNp9PA9fO9Yy702rfqylg-PmcGo0mE0For4xvXX9rGUWc4Gw7hqTr74lYkxcNWCVLL44X9b7DqKXYwRQ). 
 
-> ### Personally identifiable information:
->
->> Personally identifiable information ("PII") is information that identifies you or could reasonably be used to identify you personally (such as your real name, address, phone number, or e-mail address). We may ask you to provide us with certain PII, when you register with us, or at other times, such as if you choose to sign-up for an e-mail newsletter, participate in a game, contest, sweepstakes, or other promotional event, or enter into a transaction for goods or services. We may also ask you to provide us with demographic information, information regarding your interests, or similar information. Providing us with information about yourself is voluntary, and you can always choose not to provide certain information, but then you may not be able to take advantage of or participate in many of the Property's features.
->> 
->> In addition, you may have the opportunity to provide us with the PII, such as name or e-mail address, of a friend (or for a friend to provide such information about you), such as if you chose to e-mail a friend an article, electronic greeting card, trailer or other special feature from the Property. The e-mail addresses you supply us for those activities will not be retained for other purposes unless otherwise disclosed at the time you provide such information. We encourage you to send such items only to recipients who are your friends or family or persons with whom you have a relationship so that it doesn't seem like we are "spamming" them.
->> 
->> If you submit to Company a comment, photograph or other content to be published by Company (either online or offline), we may publish your name or other PII in connection with publishing the content.
->> 
->> We may combine the information about you that we collect at the Property with information available to us from other sources. For example, you may provide PII to us at other Company websites or applications, or our co-promoters or sponsors may provide us with information, including PII, about users that choose to participate in a promotional opportunity the co-promoter or sponsor is offering in connection with Company.
-> 
-> ### Non-Personally Identifiable Information:
->
->> When your computer contacts our web servers (for example, when you visit this website, view an HTML e-mail, or download an interactive desktop from the Property), our web servers automatically collect website usage information. Website usage information is non-identifying information that describes how our visitors use and navigate our Properties. It can include the number and frequency of visitors to each web page and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Property, and IP addresses (see below for more information on IP addresses). We also may determine the applicable technology available in order to serve you the most appropriate version of a web page, e-mail or similar service.
-> 
-> ### Tracking Technologies:
->
->> We may use "cookies", "web beacons" and other similar tracking technologies described below (collectively, "Tracking Technologies") to collect Non-Personally Identifiable Information automatically as you visit the Property.
-> 
-> ### Use of Cookies:
->
->> Like most websites, this Property sometimes makes use of browser "cookies." Cookies are pieces of information that a website either transfers to your computer's hard drive or stores temporarily in your computer's memory for record-keeping purposes. Company does not save PII in cookies. We may use cookies for a number of purposes. For example, we sometimes use cookies when we conduct polls, contests or sweepstakes to limit multiple responses and registrations. Or, we may use cookies to track usage patterns on the Property or to analyze web activity.
->> 
->> Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you decline to accept Company cookies, you may not be able to take advantage of or participate in certain features of this Property.
->> 
->> In addition to browser cookies, we may use Flash cookies on some of our Properties for purposes such as those previously listed above. These Flash cookies are similar to browser cookies and are used to remember settings, preferences and usage, but they are managed through a different interface than the one provided by your web browser. If you would like to delete Flash cookies, you will need to access your Flash Player settings management tool available on Adobe's website. For more information about Flash cookies and how to remove them from your computer, please visit <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html> or <http://epic.org/privacy/cookies/flash.html>.
-> 
-> ### Use of Web Beacons:
->
->> Our web pages or e-mail messages may contain a small graphic image called a web beacon, which is sometimes also called a "clear gif," that allows us to monitor and collect certain limited information about our users, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. Web beacons can be very small and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including HTML based content, can act as a web beacon. Company may use web beacons to count visitors to our web pages or to monitor how our users navigate our Property, and we may include web beacons in e-mail messages in order to count how many messages we sent were actually opened or acted upon. Company uses web beacons to compile aggregate statistics about our Property and our marketing campaigns. Company does not link the information collected by its web beacons to the PII you provide when registering with the Property.
-> 
-> ### Use of Javascript and Analytics:
->
->> Our Properties may employ Google Analytics which uses a first-party cookie and JavaScript code that is stored on Google's server to anonymously track how users interact with our Properties, including where they came from and what they did on our Property. Company does not link the information collected by Google Analytics to the PII you provide when registering with the Property.
->> 
->> If this Property is a mobile application, it may also utilize Flurry Analytics. You may view Flurry's Privacy Policy at <http://www.flurry.com/legal-privacy/privacy-policy> for information on how to opt-out of Flurry Analytics tracking.
-> 
-> ### Use of IP Addresses:
->
->> An IP address is a number that is assigned to your computer or network when you are on the Internet. When you request pages from this Property, our servers log your IP address. Company may use IP address for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit the use of the Property. We may associate your IP address with the PII you provide.
-> 
-> ### Children Under Thirteen (13) Years of Age:
->
->> Company does not knowingly collect any PII from children under thirteen (13) years of age unless the collection complies with the Children's Online Privacy Protection Act ("COPPA"). If you are under thirteen (13) years of age, do not send any information about yourself to Company. If Company discovers that a child under the age of 13 has provided Company with PII, Company will use commercially reasonable efforts to delete that child's PII from its system.
+Things you and others do and provide.
 
-## INFORMATION COLLECTED BY THIRD PARTIES
+  *  **Information and content you provide.** We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content, and message or communicate with others. This can include information in or about the content you provide (like metadata), such as the location of a photo or the date a file was created. It can also include what you see through features we provide, such as our [camera](https://www.facebook.com/help/162347444215311), so we can do things like suggest masks and filters that you might like, or give you tips on using camera formats. Our systems automatically process content and communications you and others provide to analyze context and what's in them for the purposes described below. Learn more about how you can control who can see the things you [share](https://www.facebook.com/help/1297502253597210?ref=dp). 
 
-> We may use third-party advertising companies to serve ads on websites on which we advertise and may allow third-party advertising companies, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to serve ads and/or collect certain anonymous information when you visit this Property. Third-party advertising technology (1) uses non-personally identifying information (e.g. click stream information, browser type, time and date, subject of ads clicked) derived from your use of this Property and the sites on which we advertise to serve ads to you and (2) may use web beacons or place a unique third-party cookie or cookies on your web browser.
-> 
-> These Third Party Advertising Service Providers do not have access to Tracking Technologies set by Company except to the extent necessary to provide services to the Property. These Third Party Advertising Service Providers may themselves set and access their own Tracking Technologies on your computer if you choose to have such Tracking Technologies enabled in your browser (or Flash cookies, if you have not removed them, as described above) and/or they may otherwise collect or have access to information about you and your online activities over time and across different websites when you visit the Property.
-> 
-> You can opt-out of the use of Non-Personally Identifiable Information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe Audience Manager (formerly known as Demdex) and DoubleClick/Google, by using those Third Party Advertising Service Providers' opt-out tools. You can access the Adobe Audience Manager/Demdex tool at [http://www.donottarget.com](http://www.donottarget.com/) and the DoubleClick tool at <http://www.google.com/intl/en/privacy/ads> or as further described immediately below. 
-> 
-> We also may from time to time permit other Third Party Advertising Service Providers to collect Non-Personally Identifiable Information on the Property. Some of these Third Party Advertising Service Providers may participate in the Network Advertising Initiative's Opt-Out Tool, located at <http://www.networkadvertising.org/managing/opt_out.asp>, and/or the Self-Regulatory Program for Online Behavioral Advertising, located at <http://www.aboutads.info/choices>. Please click on the links to these tools to learn more about your choices. 
+    * Data with special protections: You can choose to provide information in your Facebook [profile fields](https://www.facebook.com/help/353111348061173?ref=dp) or Life Events about your religious views, political views, who you are "interested in," or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) could be subject to special protections under the laws of your country.
 
-## COMPANY'S USE AND DISCLOSURE OF COLLECTED INFORMATION
+  *  **Networks and connections.** We collect information about the people, [Pages](https://www.facebook.com/help/282489752085908?ref=dp), accounts, [hashtags](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F351460621611097%3Fref%3Ddp&h=AT2MxPkpw0VryMqOr1rOQivxqK7EPyStOCQDRrJRLwaTR47ZVMQ75SJxt4-9moCn1D0175wvptTL-8HJIphzkTt_pr8N4pb_Urw-L1sQMCsvZ9JjyYnAIhxul3kaviYbgKL4QR3crwz6R6O_IKLkfQ) and groups you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups you are part of. We also collect contact information if you [choose to upload, sync or import it from a device](https://www.facebook.com/help/561688620598358?ref=dp) (such as an address book or call log or SMS log history), which we use for things like helping you and others find people you may know and for the other purposes listed below.
 
-> ### Use by Company:
->
->> Company may use your PII to provide you with requested information, services or content, to contact you in connection with a contest, sweepstakes or promotion, or for other purposes disclosed when you provide the information. We may also contact you from time to time on behalf of our Parent Company and/or Affiliates or an external business partner with information that may be of interest to you.
->> 
->> We may also contact you regarding any problems or questions we have relating to your use of our Property, or, in our discretion, notify you of changes to our Privacy Policy, [Terms of Use](https://web.archive.org/web/20180522192249id_/http%3A//www.paramountmovies.com/legal/termsofuse.php?referer=http%3A%2F%2Ftickets.samekindofdifferentasmemovie.com%2F) or other policy or terms that affect you and your use of our Property. Company may also use information about our users, including PII, for internal purposes
-> 
-> ### Disclosure to Parent Company and Affiliates:
->
->> As set forth in this Privacy Policy, Company may disclose your PII to its Parent Company and Affiliates for marketing and/or administrative purposes. You can choose to opt-out of certain such uses as described below in the YOUR CHOICE/UNSUBSCRIBE section (or [Click Here](http://mailchute.paramountmovies.com/assist/))
-> 
-> ### Sharing User Information and Disclosure to Third Parties:
->
->> Unless otherwise disclosed in this Privacy Policy, Company does not share your PII with third parties for their direct marketing purposes unless you first affirmatively agree to the disclosure. If you elect to receive communications from a third party, your information will be subject to the third party's privacy policy and not this privacy policy. Therefore, if you later decide that you do not want that third party to use your information, you will need to contact the third party directly.  In addition, Company may share your PII with third parties under the following circumstances:
->> 
->> #### Sweepstakes, Contests and Promotions
->>
->>> If you choose to enter a sweepstakes, contest or other promotion, your PII may be disclosed to third parties in connection with such promotion, including without limitation for purposes of posting your entry with attribution or otherwise as permitted in the official rules for the promotion in question, fulfilling your prize or including your name on a winners list. Also, by entering a sweepstakes, contest or other promotion, we may require you to consent to the use of your PII or other information, such as name, voice or likeness, in advertising, promotional and marketing materials. In addition, we may offer certain promotional content, such as a sweepstakes, sponsored by or co-branded with a third party, who may obtain the PII that you submit, but only where specifically stated on the registration page or official rules for such promotion.
->> 
->> #### Third parties providing services on our behalf
->>
->>> Company may employ other companies and individuals to perform functions on its behalf. Examples include, without limitation, hosting a Property, sending communications on our behalf, analyzing data, providing marketing assistance, creating, hosting, administering and/or otherwise running contests/sweepstakes/games, serving ads, providing customer service, and processing payments for transactions on a Property. These third parties may have access to a Property's user information, including PII, but such access shall be limited to the extent it is needed to perform their duties and functions and we will require such third parties agree to respect the privacy of a Property's user information.
->>> 
->>> You agree that in order to provide services to you which you have requested including relevant content and advertising, and to track and award virtual rewards, we may exchange information that we collect from you with third parties who help us perform these tasks and provide these products and services including UDID (unique device identifier), MAC address, OpenUDID, information about your device systems, application software and periphials, and the country setting on the device.
->> 
->> #### Company's Security
->>
->>> Company may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, or to verify or enforce compliance with the policies governing our Property and applicable laws. Company may also disclose such user information whenever we believe disclosure is necessary to limit our legal liability or to protect or enforce the rights, interests, or safety of the Property, our users or others.
->> 
->> #### Corporate change
->>
->>> Company reserves the right to disclose, share and/or otherwise transfer user information, including without limitation PII, in connection with a corporate merger, acquisition, consolidation, the sale of substantially all of its assets, or other fundamental corporate change, whatever form it may take.
->> 
->> #### Transfer of Site
->>
->>> Without in any way limiting the rights Company has reserved above in the event of a “Corporate Change”, Company shall be entitled to transfer information it collects, including without limitation PII, to any third party that assumes, acquires or is otherwise authorized to take control over this Property, provided such third party has agreed to use your PII in accordance with protections that in all material respects are the same as or more protective than those set out in this Privacy Policy.
->> 
->> #### Aggregate information
->>
->>> Company may disclose non-identifying, aggregated user statistics to third parties for a variety of purposes, including describing Company's services to prospective partners and other third parties 
+  *  **Your usage.** We collect information about how you use our Products, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features like our camera.
 
-## USER FORUMS
+  *  **Information about transactions made on our Products.** If you use our Products for [purchases](https://www.facebook.com/help/1434403039959381?ref=dp) or other financial transactions (such as when you make a purchase in a game or make a [donation](https://l.facebook.com/l.php?u=https%3A%2F%2Fdonations.fb.com%2F&h=AT0L0NuibQLAmCtiMS4oJrnSL9UVgMqghZ6FhJ0Ue3ErgceUH2xF8eMdI62_oFV-9_xZy4B83_bjNBHwPyI_CL_bd5OghtJOrYhaUO6RA0Y9-bm9MekDCayNPUKGTVZMTEfztpydUJWk_NAPq2n__A)), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping and contact details.
 
-> Please review our restrictions on use and guidelines for user forums in our [Terms of Use](https://web.archive.org/web/20180522192249id_/http%3A//www.paramountmovies.com/legal/termsofuse.php?referer=http%3A%2F%2Ftickets.samekindofdifferentasmemovie.com%2F). In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in user forums (such as chat rooms, message boards, or similar web pages). You should keep in mind that whenever you publicly disclose information about yourself online, that information could be collected and used by people that you do not know. In addition, certain message boards (and similar user forums) may display IP addresses and possibly PII along with the message poster's name and message. Company bears no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas, if any, of this Property.
+  *  **Things others do and information they provide about you.** We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.
 
-## YOUR CHOICES / UNSUBSCRIBE
 
-> To unsubscribe from receiving promotional material from this Property, [Click Here](http://assist.mailchute.paramountmovies.com/) or follow the instructions provided at the end of an e-mail message. Please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately.
-> 
-> In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
-> 
-> If you want to opt out of having your PII shared with third parties for marketing purposes, you must consistently opt-out at each of our websites where you register and whenever you provide PII to us. Please bear in mind that this opt-out choice for "third parties" will not apply to Company, Company licensees and/or co-branding participants, as set forth below. Please also keep in mind that any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from us, or (b) Company uses your PII for either operational purposes (e.g. to complete transactions requested by you, or to send you administrative communications either about your account with us or about features of our Properties, including any future changes to this Privacy Policy, the [Terms of Use](https://web.archive.org/web/20180522192249id_/http%3A//www.paramountmovies.com/legal/termsofuse.php?referer=http%3A%2F%2Ftickets.samekindofdifferentasmemovie.com%2F), or any other policy or terms that affect you and your use of our Property) or fulfillment purposes (e.g. sharing with companies that facilitate communications and transactions with you).
-> 
-> Finally, if you do not exercise your opt-out choices upon registration or otherwise at the time the PII is provided, it may take some time to process your opt-out choices. Our systems require time to update, and promotional mailings using PII shared before your opt-out may already be in process. Thus, your PII might continue to be shared with third parties for promotional purposes for some time after you make your request,  For similar reasons, if your PII is shared with a third party, Company largely or completely loses control over how that information is used.  Thus, even after you have opted out of allowing us to share your PII, you might continue to receive promotional materials from third parties unless and until you duly register your opt-out request with each third party in question.
-> 
-> For additional important information about safe surfing from the Federal Trade Commission, visit [http://www.ftc.gov/privacy](http://www.ftc.gov/privacy/)
-> 
-> ### Do-Not-Track Signals and Similar Mechanisms
->
->> Some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals.  Instead, as described above, please see the link to the Network Advertising Initiative program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described above. 
 
-## SECURITY
 
-> Company strives to ensure the security of your PII on our systems, including limiting access to the PII contained on our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Company cannot ensure or warrant the security of any information you transmit to Company and you do so at your own risk.
+Device Information
 
-## LINKS
+As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including [ads](https://www.facebook.com/help/119468292028768?ref=dp)) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device. 
 
-> Please be aware that when you are navigating our Property or viewing an e-mail or other content provided by Company, you may have the opportunity to click on links that take you outside Company’s service to other websites or online content that are beyond Company’s control.  For example, you may encounter links to fan sites, webmaster program participant sites, or links from sponsors or partners, which may include Company’s logo as part of a co-branding arrangement.  If you “click” on the link to such a third party, the “click” takes you to a third party’s website or online content.  Company has no control over and is not responsible for the privacy practices or the content of these websites and expressly disclaims all liability associated with your use of, and the content on, such other websites.  Once you have left the Property by clicking on an external link or advertisement, you should check the applicable third party's privacy policy to determine whether they will collect PII from you and how they will use it.
+Information we obtain from these devices includes: 
 
-## U.S. GOVERNING LAW
+  * **Device attributes:** information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
 
-> The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations.
-> 
-> If you are located outside of the U.S., you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site shall be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.
-> 
-> By using this Site, participating in any Site activities and/or providing us with your Personal Information and Other Information, you (a) consent to the transfer and/or processing of any Information to and in the U.S., (b) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (c) understand that we shall collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction.
+  *  **Device operations:** information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
 
-## FILM RATINGS
+  *  **Identifiers:** unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp) associated with the same device or account).
 
-> If a motion picture that has been rated by the Motion Picture Association of America ("MPAA") is the subject of this Property, you may visit [www.mpaa.org](http://www.mpaa.org/) for a description of the ratings system or [www.filmratings.com](http://www.filmratings.com/) for a discussion on the reasons for the ratings on recent motion picture releases.
+  *  **Device signals:** Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+
+  *  **Data from device settings:** information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+
+  *  **Network and connections:** information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you [stream a video from your phone to your TV](https://www.facebook.com/help/276515126152168?ref=dp).
+
+  * 
+
+
+Information from partners.
+
+Advertisers, [app](https://www.facebook.com/help/1642635852727373?ref=dp) developers, and publishers can send us information through [Facebook Business Tools](https://www.facebook.com/help/331509497253087) they use, including our social plug-ins (such as the Like button), Facebook Login, our [APIs and SDKs](https://developers.facebook.com/docs/apis-and-sdks), or the Facebook [pixel](https://www.facebook.com/business/a/facebook-pixel). These partners provide information about your activities off Facebook—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have a Facebook account or are logged into Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information. 
+
+Partners receive your data when you visit or use their services or through third parties they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. [Learn more](https://www.facebook.com/help/494750870625830?ref=dp) about the types of partners we receive data from. 
+
+To learn more about how we use cookies in connection with Facebook Business Tools, review the [Facebook Cookies Policy](https://www.facebook.com/policies/cookies) and [Instagram Cookies Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Flegal%2Fcookies%2F&h=AT2svLTsnxbDOYbSuHPOas0JYIZBG5sl2rdYEr_seqbh8fCoUWiV9GmQDuFfrOpvXdazSn-vAxTiDLlhToAz7xYWiS7ZN-1LW4bCTmIapH-jUuMeKDdGn60mWvhGjw_COv5L2iedHXm7anHTWogWWA). 
+
+###  How do we use this information? 
+
+We use the information we have (subject to choices you make) as described below and to provide and support the Facebook Products and related services described in the [Facebook Terms](https://www.facebook.com/legal/terms/update) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp&h=AT3F3tGSim6MBlsq1X4nyG-MQdUJgTMUWiu6nK3fVQYWSvjCwkvTIohiCjDOYxrVRZpLu158C2X9rrcQMYTo2rQt0MTxyjzJmhUde7UNUMhReVywf2tO6np0iAaJPyfhmrF390jSsRqy4nO0JEiciw). Here's how: 
+
+Provide, personalize and improve our Products.
+
+We use the information we have to deliver our Products, including to personalize features and content (including your [News Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram Feed](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%3Fref%3Ddp&h=AT1fAhpaSQOnQg7F-btCj1f6qMl8b0XlaW0yJhTzP4Mixa4Ej1UsRRKDKXkkQO48dmRtBBFmKNfg45Pd6pyn60cRQc7_8IZN1sKPh5AYU_-FiDjEmpMC2kHHbiyzxgObSnJQxyEsByRD3656wUrwvA), Instagram Stories and ads) and make suggestions for you (such as groups or [events](https://www.facebook.com/help/1076296042409786?ref=dp) you may be interested in or topics you may want to follow) on and off our Products. To create personalized Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our Products; and the people, places, or things you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalize your Facebook and Instagram experience, including features, content and recommendations in Facebook Products; you can also learn more about how we choose the [ads](https://www.facebook.com/about/ads) that you see. 
+
+  * **Information across Facebook Products and devices:** We connect information about your activities on different Facebook Products and devices to provide a more tailored and consistent experience on all Facebook Products you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Facebook Product when you sign up for an account on a different Product.
+
+  *  **Location-related information:** We use [location-related information](https://www.facebook.com/about/basics/manage-your-privacy/location)-such as your current location, where you live, the places you like to go, and the businesses and people you're near-to provide, personalize and improve our Products, [including ads](https://www.facebook.com/about/ads), for you and others. Location-related information can be based on things like precise device location (if you've allowed us to collect it), IP addresses, and information from your and others' use of Facebook Products (such as check-ins or events you attend).
+
+  *  **Product research and development:** We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
+
+  *  **Face recognition:** If you have it turned on, we use face recognition technology to recognize you in photos, videos and camera experiences. The face-recognition templates we create may constitute data with special protections under the laws of your country. Learn more about [how we use face recognition technology](https://www.facebook.com/help/218540514842030?ref=dp), or control our use of this technology in [Facebook Settings](https://www.facebook.com/settings/facerec). If we introduce face-recognition technology to your Instagram experience, we will let you know first, and you will have control over whether we use this technology for you.
+
+  *  **Ads and other sponsored content:** We use the information we have about you-including information about your interests, actions and connections-to select and personalize ads, offers and other sponsored content that we show you. Learn more about how we [select and personalize ads](https://www.facebook.com/ads/preferences), and your choices over the data we use to select ads and other sponsored content for you in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT0M2Uc9chu8WxFgxSFoLE_PN1iXofS4ibeNkZk8brnxYt1URiziNamMDfpORIuDuBe_cTB-v-M-8HU0sCqtsyJjP5gQ6jgbnxuLa7aY7Fx2ONV5e58pt0Pctkofz5Zb8ZdZGUs2MLbdh4XuAxcydg).
+
+
+
+
+Provide measurement, analytics, and other business services.
+
+We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps, and services. Learn how we share information with these partners. 
+
+Promote safety, integrity and security.
+
+We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Facebook Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to [detect when someone needs help](https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/). To learn more, visit the [Facebook Security Help Center](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram Security Tips](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369&h=AT1ODSXP3jIuXymvnLoKZOpZuo6c44Zf_43wDYkOh7nmCavL5_800sgI_Vrwu2w4M5JjHdEvqJQv_jZAt0nQPNCP_rIFFGxV5HCM3WVgBQoCqelzciUZPi4SlGqxPOJbyV9n_OwU0Xb6Yo3aGH1Nvg). 
+
+Communicate with you.
+
+We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
+
+###  How is this information shared? 
+
+Your information is shared with others in the following ways: 
+
+Sharing on Facebook Products
+
+People and accounts you share and communicate with
+
+When you share and communicate using our Products, [you choose the audience for what you share](https://www.facebook.com/help/120939471321735?ref=dp). For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customized list of people. Similarly, when you use Messenger or Instagram to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Facebook or Instagram Stories. 
+
+**[Public information](https://www.facebook.com/help/203805466323736?ref=dp)** can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your [public profile on Facebook](https://www.facebook.com/help/203805466323736?ref=dp); and content you share on a Facebook Page, [public Instagram account](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555%3Fref%3Ddp&h=AT1SzB7EcfPXuKKBpwQpi_NoLa8Nj3H5w2LsNQ61I8yP34EeSxyj-rAs1bCtq6zRt0G8jIQ-jyIdQiYKTke22X7ErqIbRvWQw7JNl3tLxvpSSlva9l-WMJeMAgVPqCewVRDY7iHrKuEqmLqbL97Y0w) or any other public forum, such as [Facebook Marketplace](https://www.facebook.com/marketplace). You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Facebook Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our Products. 
+
+Learn more about what information is public and how to control your visibility on [Facebook](https://www.facebook.com/help/203805466323736?ref=dp) and [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F243810329323104%3Fref%3Ddp&h=AT2gAw0loV7t3Twsy7ret0cH2bbzmFQvnYNYJqVJjS5eR3dEScY8sRKTQDSC-ZnqMHnTapvaFshPXk3Y0g4TWYOuporkEoeKdB2537NjfvgMKWjG7GEvm9jqLfdPZ_eUuFgrdyR8KTqt0dtT5jzJLA). 
+
+Content others share or reshare about you
+
+You should consider who you choose to share with, because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality experiences such as [Facebook Spaces](https://www.facebook.com/help/241256606347754?ref=dp). Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later. 
+
+People can also use our Products to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our Products, you can learn how to [report the content](https://www.facebook.com/help/181495968648557?ref=dp). 
+
+Information about your active status or presence on our Products.
+
+People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F906123729538696%3Fref%3Ddp&h=AT2MSnSsoUPZbtsRaFJ6WXujSKt1TjlImndYzAOO4yHfjWij4N0k4v9z9AS8lBCwLuvoVmiQsOfeWnRacrBLM0GI4LHlr-zc-hW3FZwIPLHeREPFseHdx-PzFwM7kkEYy1m1iBVzupjIVtOckCLOLA), [Messenger](https://www.facebook.com/help/149081061827062?ref=dp) or Facebook, or when you last used our Products. 
+
+Apps, websites, and third-party integrations on or using our Products.
+
+When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your [public profile](https://www.facebook.com/help/203805466323736?ref=dp) on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one. 
+
+Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you. 
+
+_Note: We are in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval._
+
+New owner.
+
+If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner. 
+
+Sharing with Third-Party Partners
+
+We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with: 
+
+Partners who use our analytics services.
+
+We provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts, listings, Pages, videos and other content on and off the Facebook Products. For example, Page admins and Instagram business profiles receive information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information that helps them understand interactions with their Page or account. 
+
+Advertisers.
+
+We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which Facebook ads led you to make a purchase or take an action with an advertiser. 
+
+Measurement partners.
+
+We share information about you with companies that aggregate it to provide analytics and measurement reports to our partners. 
+
+Partners offering goods and services in our Products.
+
+When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details. 
+
+Vendors and service providers.
+
+We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys. 
+
+Researchers and academics.
+
+We also provide information and content to research partners and [academics](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fprograms%2F&h=AT2yWdJWug_Ai5oDJjHKEwyJDnM35LXHb4i3UQMRNBl_S7PgZ5PR6zT4uWaYzTgqC3G1-8_BuVYzcsO_5jKWz05bvkQmLqrWGDorKLXolIQYRncvW0GGkMJHO0K8eDODWMoG7NJAvilRlUs27-NcWg) to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. 
+
+Law enforcement or legal requests.
+
+We share information with law enforcement or in response to legal requests in the circumstances outlined below. 
+
+Learn more about how you can control the information about you that you or others share with third-party partners in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT0gedlko0_4O-huZpOUEBTUNEsdQnXDN4C5-uAjVLe6OaaVLHgb12KA8WOoNV9_Q0pN98be9B13k60QrAQ_Qr1nNIZLk9gtUj3zzPLrZrl2jv5XDWSlaIDlgriG8OM_3iLa7XcoXZCC4T9KPu6FYw). 
+
+###  How do the Facebook Companies work together? 
+
+Facebook and Instagram share infrastructure, systems and technology with other [Facebook Companies](https://www.facebook.com/help/111814505650678?ref=dp) (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp) you use. We also process information about you across the Facebook Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work to understand how people use and interact with Facebook Company Products, such as understanding the number of unique users on different Facebook Company Products. 
+
+###  How can I manage or delete information about me? 
+
+We provide you with the ability to access, rectify, port and erase your data. Learn more in your [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT1n5NS-d_HOqP9sspdQfxw9-zbHQ77j-eIlc--RogDZVy5RYHD6HUJaiCYTuHKbdbULjzYQzTBV8R8PyOZmnbvNXtM_9xY2Q2N-SbjhMV14njupsQ7gW7c6LChtXsZYUIRg02TRKoVPwkvTsJz0jg). 
+
+We store data until it is no longer necessary to provide our services and Facebook Products, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after submission. Learn more about deletion of [content you have shared](https://www.facebook.com/help/356107851084108?ref=dp) and [cookie data obtained through social plugins](https://www.facebook.com/help/206635839404055?ref=dp). 
+
+When you delete your account, we [delete things](https://www.facebook.com/help/356107851084108?ref=dp) you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT0RY8JHjfcez5WuHyHLcJULwjdMGNPh95kXI9UA-FJhDKlfY-i-lc3shwAtaMaU3mdNRLcpnbHKTVnRvS86HFx59HC8eCUcnpz-GIFPZasDKPPHNFtlTYWxKxv2-xNA6GP5VMgCvx217_H2z5VEIg). 
+
+###  How do we respond to legal requests or prevent harm? 
+
+We access, preserve and share your information with regulators, law enforcement or others: 
+
+  * In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+
+  * When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.
+
+
+
+
+Information we receive about you (including financial transaction data related to purchases made with Facebook) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or other term violations. 
+
+###  How do we operate and transfer data as part of our global services? 
+
+We share information globally, both internally within the Facebook Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the [Facebook Terms](https://www.facebook.com/legal/terms/) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp&h=AT0dBvg2xiWbS8DK8zU_-cBTcj8MJvVpOn6GLQFvDPvE06bgiR29phra3IOqYwgwsX46Q_9KJ75quXvNzXTsdhroR9h_jS3g418pyjuEHulJe02JxhgKmb_U9v-yiul7_SJBBBbv0psmprTJ_iKg1A) and to globally operate and provide our Products to you. We utilize [standard contract clauses](https://l.facebook.com/l.php?u=http%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2FPDF%2F%3Furi%3DCELEX%3A32010D0087&h=AT1bH8BJoDQpxf27BMRloYj8kXS_nwhSEPFVanvD51gtKpCJFsl1IsFKICy2f9d6fZmOc9LBiEKCqhJfXcWMpA4r28rb0OrkCrL8YHmkJFIMfahvvp45H0IBrWb9oF8cd3HYZ04A1NWgWgM58O-k7g), rely on the European Commission's [adequacy decisions](https://l.facebook.com/l.php?u=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection%2Fdata-transfers-outside-eu%2Fadequacy-protection-personal-data-non-eu-countries_en&h=AT2EZ4WhWB9x2QNLS8MUUrj3ytlUnG35F555bputR6ZBlhopxGWZqQrQfCn3qmZnVrDt2F8_IoQIYl11qLac7Qa3L-4c_beoGJpspIjSCZHJH_LIpnKaWPWXmvw9maL3edgHjFvdXjazCsi-c4BDAQ) about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries. 
+
+###  How will we notify you of changes to this policy? 
+
+We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products. 
+
+###  How to contact Facebook with questions 
+
+You can learn more about how privacy works [on Facebook](https://www.facebook.com/about/basics) and on [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp&h=AT0fYsNFDAD-d1ueltb1Ea7O2dJyDBVoKY5vGz9SEst1bx9u5a3zRomTy8M1kuMnFKQBIvZyx_AqziAm6JKS9KALrUhnTMVWjfYsW_t7O6PPVA6Mj5tanKr1QqDHfk7WpR-nFPOoYLFBX-94mFkBZQ). If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices through TrustArc. You can contact TrustArc through its [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=AT3_uanjKtrV-6f1s6ndftYgCWfVsmP4cF7EfTD-DxoeqRC_d47nkVHtG2LB63Gt9DQ5mzsISe6y5HuZeW_nib1NpkmxHbdx7b4s7PIcDkLyv3p0c-Z_WmkN2sjtN3d0OlCoLu7yusLYCNPTHGoWEA). 
+
+Contact Us 
+
+You can contact us [online](https://www.facebook.com/help/contact/861937627253138) or by mail at: 
+
+Facebook, Inc.  
+ATTN: Privacy Operations  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+Date of Last Revision: April 19, 2018 
