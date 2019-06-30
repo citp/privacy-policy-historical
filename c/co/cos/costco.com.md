@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231035611id_/https%3A//www.costco.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230602id_/https%3A//www.costco.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Your Privacy Rights | Costco
 
@@ -13,7 +13,7 @@ We respect your right to privacy. We do not sell, rent, share or disclose person
 
 ## A. What is Personal Information?
 
-Personal information is information that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, Internet (IP) address and information about an individual's purchases and online shopping. Personal information also includes medical information collected through our pharmacies, hearing aid centers and optical centers (see Health Care Centersbelow). As a convenience to our Members, we allow the primary cardholder to add his/her spouse or others to a membership account. 
+Personal information is information that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, Internet (IP) address and information about an individual's purchases and online shopping. Personal information also includes medical information collected through our pharmacies, hearing aid centers and optical centers (see Health Care Centers below). As a convenience to our Members, we allow the primary cardholder to add his/her spouse or others to a membership account. 
 
 ## B. Collection of Personal Information
 
