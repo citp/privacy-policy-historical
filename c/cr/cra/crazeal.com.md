@@ -1,101 +1,242 @@
-> *The following text is extracted and transformed from the crazeal.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120534id_/http%3A//www.whitepages.com/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazeal.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212122id_/https%3A//www.groupon.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Whitepages
+# GROUPON, INC. PRIVACY STATEMENT
 
-[Give Feedback](http://www.whitepagescustomers.com/)
+GROUPON, INC. PRIVACY STATEMENT
 
-**Last updated on September 26, 2016.**
+Effective Date: August 10, 2017 
 
-This privacy policy is designed to provide you with information regarding data collection and use in connection with our products and services. This policy explains how Whitepages uses the data collected by its Web sites, products, and services, but does not apply to databases or third parties that we do not control. 
+This Privacy Statement (“ Privacy Statement ”) explains how Groupon, Inc. (“ Groupon ,” “ us ,” “ our ,” and “ we ”) uses your information and applies to all who use our Web site – www.groupon.com, mobile applications, touch technologies, electronic services, social networking sites, interactive features, online services – or any of our described online activities we own or control, including any online activities owned, controlled, or operated by Groupon Affiliates, (collectively, the “ Site ”). In addition, please review the Site’s  [Terms of Use ](http://www.groupon.com/legal/termsofservice)  which governs your use of the Service, and includes, among other things, grants of rights from you, limits on our liability and your remedies, mandatory arbitration, and waiver of jury trial and class actions.  By using our Site, you agree to our Terms of Service and consent to our collection, use and sharing of your information and data, and other activities, as described below. 
 
-## A. INFORMATION WE COLLECT
+By using the Site, you agree to the terms of this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide us with your personal information or interact with the Site. 
 
-### 1\. Why do we collect data?
+We may modify this Privacy Statement at any time. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the "Effective Date” above. You can review the last version of this Privacy Statement  [here ](https://www.groupon.com/pages/privacy1312017). 
 
-We collect data in order to effectively provide useful products and services to you and others. We also use this data to improve the quality of those products and services. 
+This Privacy Statement is organized as follows: 
 
-### 2\. What kind of data to you collect?
+  1. [Types of Information We Collect ](https://www.groupon.com/legal/privacypolicy#Item1)   
 
-We collect information such as: 
+  2. [Your Choices ](https://www.groupon.com/legal/privacypolicy#Item2)   
 
-(a) Contact and demographic data. We may collect your first and last name, email address, postal address, phone number, and other similar contact data. We also may collect data about you such as your age, country, and preferred language. 
+  3. [How Groupon Uses Information ](https://www.groupon.com/legal/privacypolicy#Item3)   
 
-(b) Account credentials. We collect passwords and similar security information used for authentication and account access. 
+  4. [When and Why Groupon Discloses Personal Information ](https://www.groupon.com/legal/privacypolicy#Item4)   
 
-(c) Usage data. We collect data about how you use our products and services. This includes data such as the search terms you enter and the items you purchase. We also collect data about your device such as IP address, device identifiers, and data about the network, operating system, or software you use to connect to our products and services. 
+  5. [How Groupon Collects Information ](https://www.groupon.com/legal/privacypolicy#Item5)   
 
-(d) Location data. When you enable location-based features of our products, we may collect location data, such as GPS coordinates. We may also collect location data derived from your IP address. 
+  6. [Security of Personal Information ](https://www.groupon.com/legal/privacypolicy#Item6)   
 
-(e) Payment data. If you make a purchase, we collect data necessary to process your payment, such as your name, credit card number, and security code. 
+  7. [Accessing and Correcting Personal Information ](https://www.groupon.com/legal/privacypolicy#Item7)   
 
-When you are asked to provide personal data, you may decline. But if you choose not to provide data that is necessary to provide a service, you may not be able to use some features or services. 
+  8. [Social Networks ](https://www.groupon.com/legal/privacypolicy#Item8)   
 
-### 3\. How do you collect data?
+  9. [Privacy Practices of Third Parties ](https://www.groupon.com/legal/privacypolicy#Item9)   
 
-The data we collect depends on the services and features of our products that you use. You provide some data directly, such as when you create an account, submit a search query, or contact us for support. Our servers collect information known as “log data” that includes your IP address, when your computer or device visited the site, the URL of the Web site you arrived from, and the type of device or browser you used to access the site. We also get information by recording how you use our services and whether you navigate between our services. For example, we use cookies (small text files placed on your device) and may receive usage data from software running on your device. 
+  10. [Business Transfers and Corporate Changes ](https://www.groupon.com/legal/privacypolicy#item10)   
 
-### 4\. Do you get data anywhere else?
+  11. [Notice to Residents of Countries outside the United States of America ](https://www.groupon.com/legal/privacypolicy#Item11)   
 
-We obtain information about users (and non-users) from third party sources, including surveys or questionnaires, data licensors, public records, affiliated entities, marketing companies, and other consumers who use our products. We use this information to validate and enrich information in our databases so that we can provide and improve services to users of our products. The terms of this privacy policy do not apply to data used in our databases that we have obtained from third party sources. 
+  12. [Children’s Privacy ](https://www.groupon.com/legal/privacypolicy#Item12)   
 
-### 5\. How do you use the information you collect?
+  13. [Contact Us; California Privacy Rights and Other Countries ](https://www.groupon.com/legal/privacypolicy#Item13)   
 
-We use data to provide useful products and services, and customer support, to our users. We also use data to verify information we have received from public and third-party sources, to help us analyze the usage and effectiveness of our products and services, and to improve our products and services. We may use data to resolve disputes and enforce our agreements, and to protect our users against fraud and abuse. We may also use data to send you communications, including promotional communications, or to serve advertising to you. 
+  14. [Glossary of Terms ](https://www.groupon.com/legal/privacypolicy#Item14)   
 
-### 6\. Do you share the data you collect? Why?
 
-We share your data as necessary to complete any transaction or provide any service you have requested or authorized. For example, when you provide payment data to make a purchase, we will share payment data with entities that process payment transactions, and for fraud prevention and credit risk reduction. Besides the consumer users of Whitepages’s products and services, we may also provide data to our business users (e.g., corporate fraud departments) so that they may identify and verify their customers or potential customers, or conduct other legitimate business interests. 
 
-We may share data with companies working on our behalf, such as vendors we may have hired to provide customer service. We may disclose and sell data as part of a corporate transaction such as a bankruptcy, merger, acquisition, or sale of assets. We also share data when we have a good faith belief that doing so is necessary to comply with applicable law, to respond to a legal process, such as a subpoena, or to help prevent the loss of life or serious injury of anyone. Finally, we may provide access to non-personally-identifiable information to our third party advertisers so that they can deliver relevant online and mobile advertising to you. 
 
-### 7\. How do you protect my information?
+We will collect information, including  [Personal Information ](https://www.groupon.com/privacy#Personal) and  [Non-Identifying Information ](https://www.groupon.com/privacy#Information), when you interact with us and the Site, for example when you: 
 
-We have implemented commercially reasonable precautions to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security. 
+  * access or use the Site; 
+  * register, subscribe, or create an account with Groupon; 
+  * open or respond to our e-mails; 
+  * refer friends, family, or others to Groupon; 
+  * contact customer service or use other customer support tools; 
+  * provide information to enroll or participate in  [Other Programs ](https://www.groupon.com/privacy#Programs) provided on behalf of, or together with,  [Business Partners ](https://www.groupon.com/privacy#Business); 
+  * visit any page online that displays our ads or content; 
+  * purchase products or services on or through the Site; 
+  * connect or link to any Site via social networking sites; 
+  * post comments to  [Online Communities ](https://www.groupon.com/privacy#Communities); and 
+  * provide information to our  [Vendors ](https://www.groupon.com/privacy#Vendors). 
 
-You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer/phone, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. 
+This Privacy Statement does not apply to the collection of information in any way other than as listed above. 
 
-### How do I access and control my personal information?
 
-You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our customer support team support@whitepages.com. We will respond to your request within 30 days. 
 
-If you would like to stop receiving marketing materials messages from Whitepages, please provide us with the email address you would like to unsubscribe by mailing support@whitepages.com. Please note that you may still receive account and billing notices from us, if applicable. 
 
-## B. INFORMATION COLLECTED BY THIRD PARTIES
+We think that you benefit from a more personalized experience when we know more about you and what you like. However, you can limit the information you provide to Groupon, and you can limit the communications that Groupon sends to you. 
 
-### 1\. What information is collected by third parties?
+(a) Commercial E-mails 
 
-Third parties may collect information during your visits to our Web sites and use of our mobile products and services. Such information includes searches you perform (e.g., category of business, location) and general information about you (e.g., browser type, mobile device type, unique user ID, mobile carrier, IP address, date and time of your visits, locality, pages viewed). Certain products and services may collect specific information such as your name, phone number, IP address, etc., but unless you provide specific details about yourself, information collected by such third parties will generally be limited to non-personally-identifiable information. 
+You may choose not to receive commercial e-mails from us by following the instructions contained in any of the commercial e-mails we send or by logging into your account and adjusting your e-mail preferences. Please note that even if you unsubscribe from commercial email messages, we may still e-mail you non-commercial e-mails related to your account and your transactions on the Site. You may update your subscription preferences at any time. 
 
-### 2\. How is information collected by third parties?
+(b) Cookies and Other Technologies 
 
-Third parties may collect information by using cookies, web beacons, performance-measuring phone numbers, or GPS information. A cookie is a small file that contains a unique ID tag and stores information (e.g., pages visited, information voluntarily provided). A web beacon is a small graphic file used to identify if a page has been viewed. A performance measuring phone number involves collection of call-related information such as originating phone number and call duration. GPS information may include city, state and other information when you use our products or services on a GPS-enabled mobile device. 
+You may manage how your browser handles  [Cookies ](https://www.groupon.com/privacy#Cookie) by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. You can opt-out of being targeted by certain  [Third-Party Ad-Servers ](https://www.groupon.com/privacy#ThirdParty) and Groupon-served ads online using the  [National Advertising Initiative’s Opt-Out Tool ](http://www.networkadvertising.org/managing/opt_out.asp)  or the  [Digital Advertising Alliance’s (DAA) About Ads Opt-Out Tool ](http://www.aboutads.info/choices/) . For more information review our  [Cookies Policy ](http://www.groupon.com/legal/cookiepolicy). 
 
-### 3\. Why do these third parties collect information?
+Currently, we do not alter our data collection and use practices in response to Do Not Track signals. 
 
-Third parties may collect information in order to (i) deliver relevant online and mobile advertising to you both on and off our sites; (ii) help us provide or analyze usage and effectiveness of our products and services; and (iii) for their own business purposes (e.g., such as to report aggregate, non-personally identifiable information about the use of their services and technologies). 
+We use  [Non-Identifiable Information ](https://www.groupon.com/privacy#Information) and  [Device Data ](https://www.groupon.com/privacy#Device) to directly serve you interest-based ads on third party websites and mobile applications. Interest-based ads served directly by Groupon on third party sites will display the AdChoices icon. If you prefer not to receive interest-based ads from Groupon on third party sites, you can click on the AdChoices icon in the ad, which will direct you to the  [Your Groupon AdChoices ](https://www.groupon.com/advertising_preference) page where you can opt-out of receiving interest-based ads served by Groupon. 
 
-### 4\. How will they use the information they collect? Will they share it?
+Groupon, Inc. is a member of the Digital Advertising Alliance, which is a media marketing and trade association that has issued self-regulatory guidelines for online advertising. Visit the DAA’s AdChoices page to learn more about interest-based advertising and to opt-out of having cookies placed by ad-serving companies. 
 
-Collection and use of data is subject to the privacy policies of the third party companies with whom we work, such as the privacy policy of [AdMarvel](http://operamediaworks.com/site-privacy-policy) or [Google](http://www.google.com/intl/en/policies/privacy/). Accordingly, please review those policies for specific information. If you prefer not to have your data collected and analyzed by Google, you may install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). 
+(c) Device Data 
 
-### 5\. How do I stop the collection and use of my information by third parties?
+You may manage how your mobile device and mobile browser share certain  [Device Data ](https://www.groupon.com/privacy#Device) with Groupon, as well as how your mobile browser handles  [Cookies ](https://www.groupon.com/privacy#Cookie) by adjusting the privacy and security settings on your mobile device. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
 
-To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Whitepages mobile app marketing program tracking, [click here](https://www.optoutmobile.com/). To stop collection of browsing information via supporting web browsers, [click here](http://donottrack.us/). To stop information collection for purposes of relevant online advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp). At this time, there is no industry solution to opt-out of receiving relevant mobile advertising, but to opt-out of tracking from Whitepages’s own mobile app marketing programs, go to our third party provider’s Web site by [clicking here](https://www.optoutmobile.com/). 
+When you first visit or use the Site we may request permission to collect and use your device’s precise geolocation. You can opt not to permit the collection of this information, or permit it only when using the mobile app, but it may limit certain functions or features of the Site. You can control how and whether we collect your precise geolocation information through your device’s settings. 
 
-### 6\. What about interest-based advertising?
+(d) E-mails from Business Partners 
 
-We follow the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of data for interest-based advertising) and expect third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data are asked to provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected. To stop receiving interest-based advertising, [click here](http://www.aboutads.info/choices/). 
+If you wish to opt out of receiving offers directly from our  [Business Partners ](https://www.groupon.com/privacy#Business), you can follow the opt-out instructions in the emails that they send you. 
 
-## C. MISCELLANEOUS
+We (or our  [Vendors ](https://www.groupon.com/privacy#Vendors) on our behalf), use information collected as described in this Privacy Statement to: 
 
-### 1\. Children's privacy
+  * Operate, maintain and improve the Site and our services, and  [Other Programs ](https://www.groupon.com/privacy#Programs); 
+  * Provide you with interest-based ads, push notifications, communications, and offers for products and services from us and participating  [Business Partners ](https://www.groupon.com/privacy#Business), including based on your precise geolocation; 
+  * Facilitate and fulfill orders placed on the Site and  [Other Programs ](https://www.groupon.com/privacy#Programs) – for example, for Groupon vouchers and other goods and services, including tracking redemption; 
+  * Evaluate your eligibility for certain types of offers, products or services that may be of interest to you, and analyze advertising effectiveness; 
+  * Answer your questions and respond to your requests; 
+  * Perform analytics and conduct customer research; 
+  * Communicate and provide additional information that may be of interest to you about Groupon and our  [Business Partners ](https://www.groupon.com/privacy#Business), sometimes by combining your information with information from  [Other Sources ](https://www.groupon.com/privacy#Other); 
+  * Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of  [Business Partners ](https://www.groupon.com/privacy#Business); 
+  * Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored by us or our  [Business Partners ](https://www.groupon.com/privacy#Business); 
+  * Manage our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and  [Terms of Use ](http://www.groupon.com/legal/termsofservice), or to comply with the law; 
+  * Allow you to apply for a job, post a video or sign up for special offers from merchants,  [Business Partners ](https://www.groupon.com/privacy#Business), or third parties through the Site and  [Other Programs ](https://www.groupon.com/privacy#Programs); 
+  * Enhance other information we have about you directly or from  [Other Sources ](https://www.groupon.com/privacy#Other) to help us better understand you and determine your interests, and to 
+  * Use your data as described in our  [Card Linked Deals ](https://www.groupon.com/pages/special-programs#card-linked-deals) program, if you consented to participate in such program. 
 
-Our services are not intended for children under the age of 18. We do not knowingly publish information for anyone under the age of 18. If you know of anyone under the age of 18 whose information is published through our services, or have other concerns about children's privacy, please write to Whitepages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at [support@whitepages.com](mailto:support@whitepages.com)
 
-### 2\. Changes to the Privacy Policy
 
-Please see the date at the top of this page for information about when it was last updated. We encourage you to periodically review this page for the latest information on our privacy practices. 
+We also may use information collected as described in this Privacy Statement with your consent or as otherwise required or permitted by law. 
 
-### 3\. How do I contact you?
+Groupon uses your geolocation, including your precise geolocation, consistent with this Privacy Statement as described in  [Section 5 ](https://www.groupon.com/privacy#item5) below to deliver location-based offers, products or services that may be of interest to you. 
 
-If you have any questions about this policy, please write to Whitepages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at [support@Whitepages.com](mailto:support@whitepages.com). 
+If you use any features on the Site to send information about a product or service to another person (e.g., a friend, a colleague, a professional associate, etc.), we will also collect the  [Personal Information ](https://www.groupon.com/privacy#Personal) of that other person to the extent disclosed by you and may contact them using the information you provided us. 
+
+We (or our  [Vendors ](https://www.groupon.com/privacy#Vendors) on our behalf) may share your  [Personal Information ](https://www.groupon.com/privacy#Personal) as required or permitted by law: 
+
+  * with any Groupon  [Affiliate ](https://www.groupon.com/privacy#Affiliates) who may only use the  [Personal Information ](https://www.groupon.com/privacy#Personal) for the purposes described in this Privacy Statement; 
+  * with our  [Vendors ](https://www.groupon.com/privacy#Vendors) to provide services for us and who are required to protect the  [Personal Information ](https://www.groupon.com/privacy#Personal); 
+  * to report or collect on debts owed to us or our  [Business Partners ](https://www.groupon.com/privacy#Business); 
+  * with relevant  [Business Partners ](https://www.groupon.com/privacy#Business): 
+    * with whom we jointly offer products and services; 
+    * with whom we have entered into an agreement that provides for the disclosure, sale, lease, or license of your Information; 
+    * to facilitate a direct relationship with you, including in connection with any program we administer on behalf of the  [Business Partner ](https://www.groupon.com/privacy#Business); 
+    * to enable electronic communications with you as part of purchase, a sponsored reward, offer, contest, program, or other activity in which you have elected to participate; 
+    * to the extent you have purchased or redeemed a Groupon voucher, goods or services offered by a  [Business Partner ](https://www.groupon.com/privacy#Business) or participated in an offer, rewards, contest or other activity or  [Other Programs ](https://www.groupon.com/privacy#Programs) sponsored or offered through Groupon on behalf of that  [Business Partner ](https://www.groupon.com/privacy#Business); 
+  * with a purchaser or prospective purchaser of Groupon or any of the Groupon  [Affiliates ](https://www.groupon.com/privacy#Affiliates) (or all or a portion of their assets), as described below in  [Section 10 ](https://www.groupon.com/privacy#item10); 
+  * to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions; 
+  * to combat fraud or criminal activity, and to protect our rights or those of our  [Affiliates ](https://www.groupon.com/privacy#Affiliates), users, and  [Business Partners ](https://www.groupon.com/privacy#Business), or as part of legal proceedings affecting Groupon; 
+  * in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate; or 
+  * with your consent. 
+
+
+
+We encourage  [Business Partners ](https://www.groupon.com/privacy#Business) to adopt and post privacy policies. However, their use of  [Personal Information ](https://www.groupon.com/privacy#Personal) obtained through Groupon is governed by their privacy policies and is not subject to our control. 
+
+We may also disclose  [Non-Identifiable Information ](https://www.groupon.com/privacy#Information): 
+
+  * for the same reasons we might share  [Personal Information ](https://www.groupon.com/privacy#Personal); 
+  * with  [Business Partners ](https://www.groupon.com/privacy#Business) for their own analysis and research; 
+  * to facilitate targeted content and ads; or 
+  * with  [Third-Party Ad-Servers ](https://www.groupon.com/privacy#ThirdParty) to place our ads and/or ads of our merchants or  [Business Partners ](https://www.groupon.com/privacy#Business) on the Site and on third-party sites, and to analyze the effectiveness of those ads. 
+
+
+
+We do not share  [Personal Information ](https://www.groupon.com/privacy#Personal) with  [Third-Party Ad-Servers ](https://www.groupon.com/privacy#ThirdParty); however,  [Third-Party Ad-Servers ](https://www.groupon.com/privacy#ThirdParty) may automatically collect  [Non-Identifying Information ](https://www.groupon.com/privacy#Information) about your visit to the Site and other websites, your device address, your Internet Service Provider and the browser you use to visit the Site. They do this by using  [Cookies ](https://www.groupon.com/privacy#Cookie), clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visits to the Site and the other websites tracked by these third parties. This Privacy Statement does not cover the collection methods or use of the information collected by  [Third-Party Ad-Servers ](https://www.groupon.com/privacy#ThirdParty), and Groupon is not responsible for  [Cookies ](https://www.groupon.com/privacy#Cookie) or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of  [Cookies ](https://www.groupon.com/privacy#Cookie) and other technologies. If you would like more information about these practices and to know your choices about not having this information used by third party advertisers, please visit  [http://www.networkadvertising.org ](http://www.networkadvertising.org/) and  [http://www.aboutads.info/choices/ ](http://www.aboutads.info/choices/). 
+
+You provide us with your  [Personal Information ](https://www.groupon.com/privacy#Personal) when you register, subscribe, create an account, make a purchase, or otherwise when you provide us with your  [Personal Information ](https://www.groupon.com/privacy#Personal) during your interaction with the Site and  [Other Programs ](https://www.groupon.com/privacy#Programs). We also collect  [Personal Information ](https://www.groupon.com/privacy#Personal) when you contact us online for customer service and other support using self-help tools, such as email, text, or by posting to an  [Online Community ](https://www.groupon.com/privacy#Communities). 
+
+We also receive  [Personal Information ](https://www.groupon.com/privacy#Personal) and other online and offline information from  [Other Sources ](https://www.groupon.com/privacy#Other). Groupon will use such information in accordance with applicable laws. Such information, when combined with Personal Information collected as provided in this Privacy Statement, will also be handled in accordance with this Privacy Statement. We also use cookies, tags, web beacons, local shared objects, files, tools and programs to keep records, store your preferences, improve our advertising, and collect  [Non-Identifying Information ](https://www.groupon.com/privacy#Information), including  [Device Data ](https://www.groupon.com/privacy#Device) and information about your interaction with the Site and our  [Business Partners' ](https://www.groupon.com/privacy#Business) web sites. 
+
+We use  [Cookies ](https://www.groupon.com/privacy#Cookie) and  [Device Data ](https://www.groupon.com/privacy#Device) that allow us to connect your Site activity with other information we store about you in your profile or as related to your interactions with the Site. For more information on how Groupon uses  [Cookies ](https://www.groupon.com/privacy#Cookie), including instructions on how to opt out of interest-based advertising, please review our  [Cookies Policy ](http://www.groupon.com/cookie-policy). 
+
+[Device Data ](https://www.groupon.com/privacy#Device) may be collected automatically, and as soon as your device interacts with the Site and Groupon, even if you are not logged into the Site using your device. If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
+
+We collect your location information, including precise real-time geolocation, such as through look up based on IP address, GPS, Bluetooth, or WiFi signals, consistent with your choice of mobile device settings. We may also collect the precise location of your device when the app is running in the foreground, background, or even if you are not directly using the application depending on your device and its settings. Your device, as well as the Groupon mobile app, provides you with options to control how and when we collect your geolocation. You may be able to disallow our use of certain location data through your device or browser settings, for example, by disabling “Location” services for the Groupon application in iOS privacy settings. 
+
+Groupon has implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard  [Personal Information ](https://www.groupon.com/privacy#Personal). For example, we use industry-standard encryption technology to secure  [Financial Account Information ](https://www.groupon.com/privacy#Financial). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@groupon.com. 
+
+You can access, update and delete your  [Personal Information ](https://www.groupon.com/privacy#Personal) you provided to us, as described below, by managing this information through your online account or sending us an email at  [privacy@groupon.com ](mailto:privacy@groupon.com). You can update or remove  [Financial Account Information ](https://www.groupon.com/privacy#Financial) as well. Keeping your  [Personal Information ](https://www.groupon.com/privacy#Personal) current helps ensure that we, our  [Affiliates ](https://www.groupon.com/privacy#Affiliates) and  [Business Partners ](https://www.groupon.com/privacy#Business) offer you the offers that are most relevant to you. 
+
+If you want to deactivate your Groupon account or have other questions or requests, please contact us. While we are ready to assist you in managing your subscriptions, deactivating your account, and removing your active profile, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases on the Site for financial reporting and compliance reasons. 
+
+We will retain your  [Personal Information ](https://www.groupon.com/privacy#Personal) for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. If you wish to deactivate your account or request that we no longer use your  [Personal Information ](https://www.groupon.com/privacy#Personal) to provide you services contact us at  [support@groupon.com ](mailto:support@groupon.com). We will retain and use your  [Personal Information ](https://www.groupon.com/privacy#Personal) as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+Social Community Areas 
+
+The Site may be accessible through or contain connections to areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our  [Terms of Use ](http://www.groupon.com/legal/termsofservice) carefully. All the information you post may be accessible to anyone with Internet access, and any  [Personal Information ](https://www.groupon.com/privacy#Personal) you include in your posting may be read, collected, and used by others. We recommend that you do not post any  [Personal Information ](https://www.groupon.com/privacy#Personal) in the social community areas. 
+
+Social Networks 
+
+You may log in to the Site using certain social network credentials. To manage the sharing of certain  [Personal Information ](https://www.groupon.com/privacy#Personal) with us when you connect with us through social networking platforms or applications, refer to the privacy policy and settings of the social networking website or application. 
+
+You also have the option to link social networks, such as Facebook, to your Groupon account. Once you register with Groupon and connect with the social network, you will be able to automatically post recent Groupon activity back to your social network. 
+
+By proceeding through any of the above steps, you grant Groupon permission to access all of the elements of your social network profile information that you have made available to be shared and to use it in accordance with the social network’s terms of use and this Privacy Statement. 
+
+This Privacy Statement only addresses the use and disclosure of information by Groupon through your interaction with the Site. Other websites that may be accessible through links from the Site and  [Other Programs ](https://www.groupon.com/privacy#Programs) may have their own privacy statements and personal information collection, use, and disclosure practices. Our  [Business Partners ](https://www.groupon.com/privacy#Business) may also have their own privacy statements. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of a sponsored offer or promotion. 
+
+Groupon and our  [Affiliates ](https://www.groupon.com/privacy#Affiliates) reserve the right to disclose, transfer, or license any and all information related to the Site, including  [Personal Information ](https://www.groupon.com/privacy#Personal): 
+
+  * to a subsequent owner, co-owner or operator of one or more of the Sites or any portion or operation related to part of one or more of the Sites; or 
+  * in connection with a corporate merger, consolidation, or restructuring, the sale of substantially all of our stock and/or assets, or other corporate change, including, without limitation, during the course of any due diligence process. 
+
+
+
+If you live outside the United States (including in the European Economic Area (“ EE ”) and Switzerland (“ CH ”) collectively the “ EEA/CH ”), and you use the Site or provide us with  [Personal Information ](https://www.groupon.com/privacy#Personal) directly via the Site, your information will be handled in accordance with this Privacy Statement. By using the Site or giving us your  [Personal Information ](https://www.groupon.com/privacy#Personal), you are directly transferring your  [Personal Information ](https://www.groupon.com/privacy#Personal) and  [Non-Identifiable Information ](https://www.groupon.com/privacy#Information) to us in the United States. You agree and consent to our collection, transfer, and processing of your  [Personal Information ](https://www.groupon.com/privacy#Personal) and  [Non-Identifiable Information ](https://www.groupon.com/privacy#Information) in accordance with this Privacy Statement. You are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the Site or provide us with  [Personal Information ](https://www.groupon.com/privacy#Personal). Regardless of where we transfer your information, we still protect your information in the manner described in this Privacy Statement. 
+
+The Site is a general audience site not directed at children under the age of 13. 
+
+By using Groupon, you represent that you are at least eighteen years old and understand that you must be at least eighteen years old in order to create an account and purchase the goods or services advertised through the Site. We will promptly delete information associated with any account we obtain actual knowledge is associated with a registered user who is not at least eighteen years old. 
+
+Please contact us if you have any questions or comments about our privacy practices or this Privacy Statement. You can reach us online at privacy@groupon.com. You can reach us via postal mail at the following address: 
+
+Groupon Inc.   
+Attention: Privacy Office   
+600 West Chicago Avenue   
+Chicago, Illinois 60654 USA 
+
+If you reside in Canada, you may have the right to be provided with access to Personal Information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to Vendors outside Canada. E-mail us at privacy@groupon.com with questions. 
+
+Groupon utilizes various valid data transfer mechanisms for Personal Information at its sole discretion in accordance with applicable data protection and privacy laws. We will continue to monitor and assess the appropriateness of other valid data transfer mechanisms as they become available. 
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for those third parties’ direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Groupon pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or address stated above. Please allow 30 days for a response. 
+
+If you are a California resident under the age of 18, and a registered user of any site where this policy is posted, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an email with a detailed description of the specific content or information to privacy@groupon.com. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested. 
+
+Affiliate   means an entity owned, directly or indirectly, by Groupon, Inc. or that is controlled by or under common control with Groupon, Inc., and also includes joint ventures entered into by Groupon, Inc. and/or its Affiliates. References in this Privacy Statement to “Groupon,” “we,” or “us” also apply to Affiliates. 
+
+Business Partners   means, collectively, third parties with whom we conduct business, such as merchants, co-marketers, distributors, resellers, and other companies or organizations with whom Groupon enters into agreements to support its business and operations. 
+
+Cookie   means a unique identifier, usually made up of small bits of text or code. For more information, please read our  [Cookies Policy ](http://www.groupon.com/cookie-policy). 
+
+Device Data   means information concerning a device you use to access, use, or interact with the Site, such as operating system type or mobile device model, browser type, domain, and other system settings, the language your system uses and the country and time zone of your device, geolocation, including precise geolocation, unique device identifier or other device identifier, advertising identifier, mobile phone carrier identification, and device software platform and firmware information. 
+
+Non-Identifiable Information   means information that alone cannot identify you, including data from  [Cookies ](https://www.groupon.com/privacy#Cookie),  [Pixel Tags and Web Beacons ](https://www.groupon.com/privacy#Pixel), and  [Device Data ](https://www.groupon.com/privacy#Device). Non-Identifiable Information may be derived from  [Personal Information ](https://www.groupon.com/privacy#Personal). 
+
+Online Communities   means, collectively, our social networking pages or accounts, forums, bulletin boards, discussion groups, chat rooms or other methods of communication that may be offered on or linked through the Site. 
+
+Other Programs   means special programs, features and functionality on our Site or other co-branded websites with  [Business Partners ](https://www.groupon.com/privacy#Business) that we reasonably control and that have special use terms applicable to such special programs, features and functionality. 
+
+Other Sources   means sources of information that legally provide Groupon with your information, and which are outside the scope of this Privacy Statement at the time of collection. 
+
+Personal Information   means information about you that specifically identifies you or, when combined with other information we have, can be used to identify you. This includes the following types of information: 
+
+  * Contact Information  : your name, postal addresses, email addresses, social networking website user account names, telephone numbers, or other addresses at which you are able to receive communications. 
+
+  * Relationship Information  : information you provide that enables us to determine lifestyle, interests, and activities, including location information related to your state/province, city, or neighborhood; areas of interest, the types of deals that interest you, information collected through your interactions with social networks, demographic information (e.g., birth date, age, gender); information about persons for whom you have purchased Groupon vouchers as gifts or who have bought Groupon vouchers as gifts for you; and information about friends who refer you or whom you have referred; 
+
+  * Transaction Information  : information you provide when you interact with us and the Site, such as the Groupon vouchers you are interested in, purchase and redeem; email and other communications; and how you interact with  [Business Partners ](https://www.groupon.com/privacy#Business) and our  [Vendors ](https://www.groupon.com/privacy#Vendors); and 
+
+  * Financial Information  : information collected from you as needed to process payments for Groupon vouchers or other products or services that you buy, or as provided by you to administer your participation in optional services and programs, such as your payment card number, expiration date, and card verification number. 
+
+
+
+
+Pixel Tags and Web Beacons   mean tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions. 
+
+Third-Party Ad-Servers   means  [Vendors ](https://www.groupon.com/privacy#Vendors) and other third parties that provide the technology to place ads on websites and track ad performance. 
+
+Vendors   means, collectively, third parties that perform business operations on behalf of Groupon, such as transaction processing, billing, mailing, communications services (e-mail, direct mail, etc.), marketing, data processing and analytics, servicing, collections, ad management, or information technology services. 
