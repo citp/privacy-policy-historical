@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhoot.com.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083259id_/https%3A//thewhoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhoot.com.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630073315id_/https%3A//thewhoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The WHOot
 
