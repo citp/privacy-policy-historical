@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubereats.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229051031id_/https%3A//www.uber.com/legal/privacy/users) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubereats.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230713id_/https%3A//www.uber.com/legal/privacy/users) for the most accurate reproduction.*
 
 # Uber Privacy
 
@@ -39,7 +39,7 @@ We love hearing from our users -\- including through public forums such as Uber 
 
 If you use a profile associated with another party we may share your trip information with the owner of that profile. This occurs, for example, if you are:
 
-  * A rider using your employer’s Uber for Business profile, or taking trips arranged through [Uber Central](https://help.uber.com/h/502388e3-df83-4c4b-964d-625a1d161e12).
+  * A rider using your employer’s Uber for Business profile, or taking trips arranged through Uber Central.
   * A driver using an account owned by a partner transportation company.
   * A rider who takes a trip arranged by a friend or under a Family Profile.
   * A delivery partner acting as a substitute (U.K. only).
