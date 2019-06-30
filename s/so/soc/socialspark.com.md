@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the socialspark.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023608id_/https%3A//socialspark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialspark.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232223id_/https%3A//socialspark.com/privacy_policy) for the most accurate reproduction.*
 
-# SocialSpark : The Creator Marketplace
+# SocialSpark : Social Influencers
 
-Updated **August 28, 2018**
+Updated **March 14, 2019**
 
-ContentMarketing.com, IZEA.com, app.izea.com, app.ebyline.com, PayPerPost.com, SocialSpark.com, SponsoredTweets.com, TapInfluence.com, ZenContent.com, among others (the “Sites”) are owned and operated by IZEA Worldwide, Inc. (“IZEA”). Access to the Sites and any features is made available under IZEA's Terms of Service and Privacy Policy.
+IZEA Worldwide, Inc. (“IZEA”) owns and operates IZEA Exchange (“IZEAx” or “Platform”), an online marketplace that connects marketers with content creators (the “Marketplace Services”) on a variety of sites hosted by IZEA and operated by IZEA or its partners (the “Sites”). 
 
-IZEA, Inc is a member of the IZEA Exchange and licenses this platform under IZEA's Terms of Service and Privacy Policy. Iterations of the IZEA Exchange licensed by unaffiliated third parties (“Partners”) will be governed by these same Terms of Service and Privacy Policy.
+IZEA is a member of the IZEA Exchange and provides you, and, if applicable, your affiliates, access to its Marketplace Services.
 
-The following details our Privacy Policy (the “Policy") for the Sites and describes the types of information we gather from those persons visiting the Sites and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by IZEA Worldwide, Inc. and its subsidiaries and affiliates (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites.
+Access to the Marketplace, Sites, and any features, is made available under this Privacy Notice and the Terms of Service. Iterations of the IZEA Exchange licensed by unaffiliated third parties (“Partners”) will be governed by these same Terms of Service and Privacy Notice.
+
+The following details our Privacy Notice (the “Notice") for the Sites and describes the types of information we gather from those persons visiting the Sites and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Notice applies to all of the services offered by IZEA Worldwide, Inc. and its subsidiaries and affiliates (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Notice. If you do not agree to the terms of this Notice, please do not use the Sites.
 
 ## Data Controller
 
-The data controller for the information you provide or that is collected by IZEA pursuant to this Privacy Policy is: IZEA Worldwide, Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA.
+The data controller for the information you provide or that is collected by IZEA pursuant to this Privacy Notice is: IZEA Worldwide, Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA.
 
 ## Use of Information Collected by Us
 
@@ -20,7 +22,15 @@ IZEA may collect two types of information from users of our Sites: “personal i
 
 ## Collecting and Using Your Personal Information
 
-IZEA collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our Creator Marketplace - the “IZEA Exchange” (IZEAx), we ask you for personal information such as your name, address, social media connections, and email address. We may also request PayPal payment account information which we maintain in encrypted form on secure servers. In addition, IZEA collects supplemental data from public sites, IP addresses, and connected social media channels (via an API for which you can select the types of information IZEA may access), to create a more robust user profile and increase the odds that a marketer will locate your profile for content opportunities.
+IZEA collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our Platform through one of our Sites, we ask you for personal information such as your name, address, social media connections, and email address. We may also request payment account information (such as PayPal or a credit card) which is encrypted and provided to third parties for the purpose of processing payment(s). In addition, IZEA collects supplemental data from public sites, IP addresses, and connected social media channels (via an API for which you can select the types of information IZEA may access), to create a more robust user profile and increase the odds that a marketer will locate your profile for content opportunities.
+
+As a Creator agreeing to the Terms of Service and Privacy Notice when creating an account on our Site(s), you express consent to the access and collection of data and content from the social media accounts you have connected, including followers, friend lists, photos, videos, or similar content published through those social media accounts. You have the option to change these choices made at registration, at any time. However, the decision to disconnect a social media account will not remove content or data previously gathered under your authorization.
+
+IZEA will process the data acquired through your social media accounts to identify you and present your profile as a Creator to Marketers and Partners with access to our Site(s), so that they may offer you Opportunities within the Platform or using the Discovery feature.
+
+As a Marketer or Partner agreeing to the Terms of Service and Privacy Notice when creating an account on our Site(s), upon registration you will be asked to provide an email address, establish a password, and provide payment account information. This data is required in order to make our services available to you. 
+
+As a user of the Site(s), we may communicate with you using the email address you have provided, for purposes such as providing you with Opportunities, delivering support to enhance your user experience, communicating news about IZEA or features and functionalities of the Platform, or presenting you with surveys or commercial offers you may be interested in. You may control your email preferences within your account in the Platform.
 
 ## Collecting and Using Your Aggregate Information
 
@@ -28,7 +38,7 @@ IZEA also aggregates information that, by itself, does not identify who you are,
 
 ## Sharing, Selling and Trading of Your Personal Information Collected Online with Third Parties
 
-IZEA does not share, rent, sell or disclose personal information to third parties, except as described in this Privacy Policy. IZEA shares personal information with our parents and subsidiaries, and on occasion, we may share personal information with third party service providers, such as Partners and credit card processing companies. These Partners and third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide, or to offer you Opportunities within the IZEA Exchange, without your express consent. In addition, in order to protect against potential fraud, we may verify with third parties the personal information you provide when you sign up for an account. In the course of such verification, we may receive personal information about you.
+IZEA does not share, rent, sell or disclose personal information to third parties, except as described in this Privacy Notice. IZEA shares personal information with our affiliated entities and subsidiaries, with Marketers/Partners, and third party service providers such as payment processing companies. These Marketers/Partners and third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide, to offer you opportunities within the IZEA Exchange, or to provide Opportunities outside of the Platform as permitted via features such as IZEAx Discovery, without your express consent. In addition, in order to protect against potential fraud, we may verify with third parties the personal information you provide when you sign up for an account. In the course of such verification, we may receive personal information about you.
 
 We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes. In the following circumstances, IZEA may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on IZEA, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of IZEA; (iv) when we believe it is necessary to protect the rights, property, or safety of IZEA or other persons, or (v) as otherwise required or permitted by law.
 
@@ -40,13 +50,7 @@ We may share, sell or trade with third parties aggregated, non-personal informat
 
 ## Contests/Sweepstakes
 
-From time-to-time, we may request information from users of our Sites in connection with a contest or a sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and supplementary information on your interests, opinions and preferences. We will use the contact information to notify winners. We may publish winners’ first name, last initial and city of residence on the Sites and in order to comply with state law, we may be required to share: (i) winners’ first name, last name and address with state agencies and (ii) winners’ first name and last name with persons requesting such information via the mail.
-
-## Message Boards
-
-On some of the Sites, we provide message boards for visitors to post comments and messages for others to read. We may collect technical information about your post, such as the IP address from which you posted, and associate this information with your messages. Even if messages are deleted, we may retain copies and attendant information indefinitely.
-
-When you post messages to the message boards, certain information, such as your email address, user name and/or full name, may be available to the public. Also note that any personal information you include in the body of your message will be available to the public so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas.
+From time-to-time, we may request information from users of our Sites in connection with a contest or a sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and supplementary information on your interests, opinions and preferences. We will use the contact information to notify winners. We may publish winners’ first name, last initial and city of residence on the Sites and in order to comply with state law, we may be required to share: (i) winners’ first name, last name and address with state agencies and (ii) winners’ first name and last name, and possibly city or state, with persons requesting such information via the mail.
 
 ## Cookies
 
@@ -76,7 +80,7 @@ We restrict access to personal information to IZEA employees, service providers 
 
 Of course, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. IN NO EVENT WILL IZEA OR ITS SUBSIDIARIES, AFFILIATES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITES, OR IN CONNECTION WITH ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITES). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF IZEA OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law.
 
 The criteria used to determine our retention periods include: 
 
@@ -122,11 +126,11 @@ In the event that IZEA sells substantially all of its assets, or one of IZEA’s
 
 ## Changes to this Policy
 
-The “Updated” date at the top of this page indicates when this Privacy Policy was last revised. We will notify you before any material change takes effect so that you have time to review the changes. Any change becomes effective when we post the revised Privacy Policy. Your use of the Sites following these changes means that you accept the revised Privacy Policy.
+The “Updated” date at the top of this page indicates when this Privacy Notice was last revised. We will notify you before any material change takes effect so that you have time to review the changes. Any change becomes effective when we post the revised Privacy Notice. Your use of the Sites following these changes means that you accept the revised Privacy Notice.
 
 ## Corrections/Information Removal/Opt-Out
 
-If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting us at IZEA Customer Service, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or by visiting our site and clicking “Contact Support.” If you prefer not to receive newsletters or other marketing e-mails from IZEA, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via postal carrier, please let us know by sending a request to: IZEA Marketing, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA. Please be sure to include in any e-mail or postal mail, your full name, e-mail address, postal address, and any message. Please note that such requests may take up to ten (10) days to become effective.
+If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting us at IZEA Customer Service, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or by visiting IZEA.com and submitting a ticket under the “Creator Support” or “Marketer Support” option. If you prefer not to receive newsletters or other marketing e-mails from IZEA, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via postal carrier, please let us know by sending a request to: IZEA Marketing, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA. Please be sure to include in any e-mail or postal mail, your full name, e-mail address, postal address, and any message. Please note that such requests may take up to ten (10) days to become effective.
 
 ## Your Choices about Your Personal Information
 
@@ -138,10 +142,10 @@ In your request, please make clear what personal information you would like to h
 
 Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transaction that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the personal information provided until after the completion of such purchase or promotion). Our databases and other records may have residual data which will not be removed. In addition, we also may not allow you to review certain data for legal, security or other reasons.
 
-If at any time you believe that the Sites have not adhered to this Privacy Policy, please let us know. We will use good faith efforts to determine and correct the problem.
+If at any time you believe that the Sites have not adhered to this Privacy Notice, please let us know. We will use good faith efforts to determine and correct the problem.
 
 If you are an EEA resident, you have the right to lodge a complaint with a [data protection authority](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080) about how we process your personal information.
 
 ## Contact Us
 
-If you have any questions or concerns about this Policy, please feel free to contact us any time through the Sites or at Privacy Policy Concerns Coordinator, c/o IZEA Worldwide, Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or Privacy@izea.com.
+If you have any questions or concerns about this Notice, please feel free to contact us any time through the Sites or at Privacy Notice Concerns Coordinator, c/o IZEA Inc., 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or Privacy@izea.com.
