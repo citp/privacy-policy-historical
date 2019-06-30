@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchpop.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218131517id_/https%3A//churchpop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchpop.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630082141id_/https%3A//churchpop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChurchPOP
 
@@ -30,7 +30,7 @@ When handling your payment information, EWTN News uses security practices and te
 
 **Our Commitment to Accuracy**
 
-In addition to maintaining privacy and security controls for information you share with us, EWTN News uses error checking procedures to accurately and completely process your transaction information. Our staff is available Monday through Friday from 9am to 6pm (US Eastern Time) to answer questions by phone at 1-205-271-2989 or by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#66100f0311031426031112084805090b).
+In addition to maintaining privacy and security controls for information you share with us, EWTN News uses error checking procedures to accurately and completely process your transaction information. Our staff is available Monday through Friday from 9am to 6pm (US Eastern Time) to answer questions by phone at 1-205-271-2989 or by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9afb0bcaebcab99bcaeadb7f7bab6b4).
 
 Changes are made to our error checking procedures as necessary to improve our system and independent external audits are periodically conducted to ensure the appropriate processing of your information from our web site.
 
@@ -102,7 +102,7 @@ Attention: Jeffrey Hahn
 5817 Old Leeds Rd.  
 Irondale, AL 35210-2164
 
-or e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98eef1fdeffdead8fdefecf6b6fbf7f5)
+or e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91e7f8f4e6f4e3d1f4e6e5ffbff2fefc)
 
 In an effort to provide the best service, EWTN News reserves the right to edit, modify, and improve this policy at any time.
 
