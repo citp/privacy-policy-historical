@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ignitionone.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231221159id_/https%3A//www.ignitionone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitionone.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235926id_/https%3A//www.ignitionone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IgnitionOne
+# Privacy Policy | IgnitionOne
 
-**LAST UPDATED: December 15, 2018**
-
-IgnitionOne, Inc. and its wholly owned subsidiary Netmining LLC and  _[affiliates](http://pages.ignitionone.com/affiliates)_  (collectively, “IgnitionOne” “Netmining” or “we”) offers a suite of digital marketing services under the brand names IgnitionOne and Netmining.  Our digital marketing services are designed to help online advertisers generate a higher return on their marketing and media buying investment. This Privacy Policy describes our practices in connection with Personal Information (defined below) that we collect through  _[http://www.ignitionone.com/](https://www.ignitionone.com/)_  (the “Site”) Our Site is directed primarily to businesses. This Privacy Policy does not address the collection, use or disclosure of information through our IgnitionOne or Netmining behavioral advertising, optimization and analytics services; if you wish to understand our practices with respect to information we collect via our IgnitionOne or Netmining behavioral advertising, optimization, data management and analytics services, please review our [IgnitionOne Services Privacy Policy](https://www.ignitionone.com/services-privacy-policy/).  Please note that additional terms with respect to the collection, use or disclosure of information about EU Data Subjects is set forth in the section below entitled “Special Data Protections for EU Data Subjects”.
+IgnitionOne, Inc. and its wholly owned subsidiary Netmining LLC and [ _affiliates_  ](https://ignitionone.com/services-policy/ignitionone-affiliates/)(collectively, “IgnitionOne” “Netmining” or “we”) offers a suite of digital marketing services under the brand names IgnitionOne and Netmining.  Our digital marketing services are designed to help online advertisers generate a higher return on their marketing and media buying investment. This Privacy Policy describes our practices in connection with Personal Information (defined below) that we collect through  _<https://www.ignitionone.com/>_  (the “Site”) Our Site is directed primarily to businesses. This Privacy Policy does not address the collection, use or disclosure of information through our IgnitionOne or Netmining behavioral advertising, optimization and analytics services; if you wish to understand our practices with respect to information we collect via our IgnitionOne or Netmining behavioral advertising, optimization, data management and analytics services, please review our [IgnitionOne Services Privacy Policy](https://ignitionone.com/services-policy/).  Please note that additional terms with respect to the collection, use or disclosure of information about EU Data Subjects is set forth in the section below entitled “Special Data Protections for EU Data Subjects”.
 
 By providing Personal Information to us, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not provide any Personal Information to us. We reserve the right to change this Policy. You can determine when this Policy was last revised by referring to the “LAST UPDATED” legend at the top of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
 
 IgnitionOne is a member of the  _[Network Advertising Initiative](http://www.networkadvertising.org/)_  (“NAI”), which is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. IgnitionOne complies with the  _[2013 NAI Codes of Conduct](http://www.networkadvertising.org/2013_Principles.pdf)_  as well as the cross-industry Self-Regulatory Program for Online Behavioral Advertising as managed by the  _[Digital Advertising Alliance](http://www.aboutads.info/)_  (“DAA”) as well as the  _[Digital Advertising Alliance EU](http://www.youronlinechoices.com/)_  (“eDAA”) and the  _[Digital Advertising Alliance Canada](http://youradchoices.ca/)_  (“DAAC”).
 
-  1. WHAT TYPES OF INFORMATION DO WE COLLECT FROM YOU?
+  1. **WHAT TYPES OF INFORMATION DO WE COLLECT FROM YOU?**
 
 
 
@@ -25,7 +23,7 @@ _<http://youradchoices.ca/choices>_.
 
 IP Addresses. Your IP Address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever users visit the Site, along with the time(s) of such visit(s) and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.
 
-  1. HOW DO WE USE INFORMATION COLLECTED FROM YOU?
+  1. **HOW DO WE USE INFORMATION COLLECTED FROM YOU?**
 
 
 
@@ -44,11 +42,11 @@ Non-Personal Information. Because Non-Personal Information does not personally 
 
 IP Addresses. We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems, administering the Site and tracking your Internet usage, including identifying your geographic location. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law.
 
-  1. HOW IS PERSONAL INFORMATION DISCLOSED? We may disclose Personal Information:
+  1. **HOW IS PERSONAL INFORMATION DISCLOSED?  We may disclose Personal Information:**
 
 
 
-– to our  _[affiliates](http://pages.ignitionone.com/affiliates)_  so that they may use such Personal Information for the purposes described in this policy. IgnitionOne is the party responsible for the management of the jointly-used Personal Information.  
+– to our[  _affiliates_  ](https://ignitionone.com/services-policy/ignitionone-affiliates/)so that they may use such Personal Information for the purposes described in this policy. IgnitionOne is the party responsible for the management of the jointly-used Personal Information.  
 – to our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing and other similar services to enable them to provide services. For example, we may use third party analytics services, and they may place cookies on your computer and record data about your Site usage on our behalf.
 
 – to an affiliate or other third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).  
@@ -56,7 +54,7 @@ IP Addresses. We use IP addresses for purposes such as calculating Site usage l
 
 In the context of an onward transfer, IgnitionOne is responsible for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. The Privacy Shield organization shall remain liable under the Privacy Shield principles if its agent processes such personal information in a manner inconsistent with the Privacy Shield principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
 
-  1. OTHER IMPORTANT NOTICES REGARDING OUR PRIVACY PRACTICES.
+  1. **OTHER IMPORTANT NOTICES REGARDING OUR PRIVACY PRACTICES.**
 
 
 
@@ -102,6 +100,6 @@ Enforcement. We encourage interested persons to raise any concerns using the co
 
 Privacy Complaints by persons located in the European Union and Switzerland. In compliance with EU-US and Swiss-US Privacy Shield, IgnitionOne commits to resolve complaints about your privacy and our collection or use of your Personal Information. Persons located in the European Union and Switzerland who have inquiries or complaints regarding this privacy policy should first contact IgnitionOne at  _[privacy@ignitionone.com](mailto:privacy@ignitionone.com)_.
 
-IgnitionOne has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+IgnitionOne has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
