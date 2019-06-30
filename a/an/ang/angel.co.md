@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the angel.co privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805083926id_/https%3A//angel.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel.co privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630185213id_/https%3A//angel.co/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy - AngelList
+# Privacy & Cookies Policy | AngelList
 
-_Effective date: May 25, 2018_
+_Effective date: May 25, 2019_
 
 We recognize that your privacy is very important and take it seriously. This Privacy & Cookies Policy describes AngelList's policies and procedures on the collection, use and disclosure of your information when you use the services, websites, and applications offered by AngelList (the "Services") and tells you about your privacy rights and how the law protects you. By using the Services, you consent to our use of your information in accordance with this Privacy & Cookies Policy. We will not use or share your personal information with anyone except as described in this Privacy & Cookies Policy. Capitalized terms that are not defined in this Privacy & Cookies Policy have the meaning given them in our [Terms of Service](https://angel.co/terms). 
 
@@ -30,7 +30,7 @@ We will post any modifications or changes to this Privacy & Cookies Policy on th
 
 #####  Who We Are and How to Contact Us 
 
-**Who we are.** Venture Hacks, Inc. (doing business as AngelList) is the Controller (for the purposes of the GDPR) of your Personal Data (referred to as either "AngelList", "we", "us" or "our" in this Privacy & Cookies Policy). Our address is 90 Gold Street, San Francisco, CA 94133. 
+**Who we are.** AngelList Holdings, LLC. (doing business as AngelList) is the Controller (for the purposes of the GDPR) of your Personal Data (referred to as either "AngelList", "we", "us" or "our" in this Privacy & Cookies Policy). Our address is 90 Gold Street, San Francisco, CA 94133. 
 
 **How to contact us.** If you have any questions about our practices or this Privacy & Cookies Policy, please contact us at [privacy@angel.co](mailto:privacy@angel.co). 
 
@@ -64,7 +64,7 @@ If you would like to submit a complaint regarding this Privacy Policy or our pra
 
 We will reply to your complaint as soon as we can. 
 
-If you feel that your complaint has not been adequately resolved, please note that if you are in the EU the GDPR gives you the right to contact your local data protection supervisory authority, which for the UK, is the [Information Commissioner's Office](https://ico.org.uk/). 
+If you feel that your complaint has not been adequately resolved, please note that if you are in the EU the GDPR gives you the right to contact your local data protection supervisory authority. In the UK, this is the [Information Commissioner's Office](https://ico.org.uk/). 
 
 #####  Marketing Communications Preferences 
 
@@ -198,9 +198,9 @@ Communicating with users about the Services  |  To send communications via email
 Providing customer support  |  To resolve technical issues you encounter, to respond to your requests for assistance, comments and questions, to analyze crash information, to repair and improve the Services and provide other customer support.   
 Enhancing security  |  To keep our website, our Services and associated systems operational and secure, including, for example, verifying accounts and activity, monitoring and investigating suspicious or fraudulent activity and to identify violations of our terms and policies.   
 Marketing, promoting and driving engagement with the Services and third-party products and services  |  To send promotional communications that may be of specific interest to you, including, for example, by email and by displaying products, investment offerings, job listing, candidates, events, promotions and other information on our Site or other companies' websites. These communications may be aimed at driving engagement and maximizing what you get out of the Services or promoting third-party products and services. You generally can control whether you receive these communications as described in this policy under Marketing Communications Preferences.   
-To comply with applicable law, legal process and regulations and protect legitimate business interests  |  As we believe is reasonably necessary to comply with a law, regulation, order, subpoena, rule of a self-regulatory organization or audit or to protect the safety of any person, to address fraud, security or technical issues, or to protect our legal rights, interests and the interests of others, such as, for example, in connection with with the acquisition, merger or sale of securities or a business (e.g. due diligence).   
+To comply with applicable law, legal process and regulations and protect legitimate business interests  |  As we believe is reasonably necessary to comply with a law, regulation, order, subpoena, rule of a self-regulatory organization or audit or to protect the safety of any person, to address fraud, security or technical issues, or to protect our legal rights, interests and the interests of others, such as, for example, in connection with the acquisition, merger or sale of securities or a business (e.g. due diligence).   
   
-**What happens when you do not provide necessary Personal Data?** Where we need to process your Personal Data either to comply with law, or to perform the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with the functionalities of the Services). In this case, we may have to stop you using our Services. 
+**What happens when you do not provide necessary Personal Data?** Where we need to process your Personal Data either to comply with law, or to perform the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with the functionalities of the Services). In this case, we may have to stop you from using our Services. 
 
 #####  How We Use Cookies And Other Tracking Or Profiling Technologies 
 
@@ -234,7 +234,7 @@ Further information about cookies, including how to see what cookies have been s
 
 **Use of Google User Data:** If you choose to connect a Google profile to your account, we will access certain information obtained from Google regarding your account. In particular we may store your name and email address as well as information on the particular profile you connect, including your contacts. This data will only be used by us to provide you with the service you expect and will not be shared with any third parties. 
 
-**CalOPPA Disclosures:** We do not currently respond to web browsers' "do not track" signals that provide a method to opt out of the collection information about users' activities on the Services and on other websites. If we do so in the future, we will provide relevant information in this Privacy & Cookies Policy. 
+**Do Not Track Signals:** We do not currently respond to web browsers' "do not track" signals that provide a method to opt out of the collection information about users' activities on the Services and on other websites. If we do so in the future, we will provide relevant information in this Privacy & Cookies Policy. 
 
 #####  Who We Share Your Personal Data With 
 
@@ -245,7 +245,7 @@ We may share your Personal with third parties in the ways that are described in 
 Our Affiliates  |  Our affiliates may access your Personal Data to help us develop, maintain and provide our Services and help manage our customer relationships (including providing customer support, customer liaison, fund advisory services, etc).   
 Service Providers  |  Our service providers provide us support for our Services, including, for example, website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, identity verification, background and compliance reviews, fund administration, banking services, and other services for us, which may require them to access or use Personal Data about you.   
 Professional Advisers  |  Our lawyers, accountants, bankers, auditors and insurers may need to review your personal data to provide consultancy, compliance, banking, legal, insurance, accounting and similar services.   
-Legal and Taxing Authorities, Regulators and Participants in Judicial Proceedings  |  AngelList may disclose your Personal Data if we believe it is reasonably necessary to comply with a law, regulation, order, subpoena, rule of a self-regulatory organization or audit or to protect the safety of any person, to address fraud, security or technical issues, or to protect our legal rights, interests and the interests of others, such as, for example, in connection with with the acquisition, merger or sale of securities or a business (e.g. due diligence).   
+Legal and Taxing Authorities, Regulators and Participants in Judicial Proceedings  |  AngelList may disclose your Personal Data if we believe it is reasonably necessary to comply with a law, regulation, order, subpoena, rule of a self-regulatory organization or audit or to protect the safety of any person, to address fraud, security or technical issues, or to protect our legal rights, interests and the interests of others, such as, for example, in connection with the acquisition, merger or sale of securities or a business (e.g. due diligence).   
 Advertisers  |  Certain users of the Services may have access to your Personal Data for the purpose of enabling them to interact with you and more effectively offer opportunities through the Site that are targeted towards your background and preferences. We may also allow third-parties, including ad servers or ad networks, to serve advertisements on the Site, and such third parties may be provided with access to your Personal Data to provide advertising tailored to your interests.   
 Researchers  |  To enhance the public understanding of patterns and trends in the markets served by or Services, we may provide Personal Data to third parties under confidentiality obligations such as, for example, academics or contractors for research purposes.   
 API Users  |  A limited number of partners have API access to portions of the Site. Examples of the most common API uses are OAuth and AML/accreditation verification of potential investors.   
@@ -266,13 +266,13 @@ We will retain your information for as long as your account is active or it is r
 
 The Services are maintained in the United States of America. Personal Data that you provide us may be stored, processed and accessed by us, our staff, sub-contractors and third parties with whom we share Personal Data in the United States of America or elsewhere inside or outside of the EU for the purposes described in this policy. We may also store Personal Data in locations outside the direct control of AngelList (for instance, on servers or databases co-located with hosting providers). Although we welcome users from all over the world, by accessing the Services and providing us with your Personal Data, you consent to and authorize the export of Personal Data to the United States and its storage and use as specified in this Privacy & Cookies Policy. Note the laws of the United States might not be as comprehensive or protective as laws in the country where you live. 
 
-Because the Services are maintained in the United States of America, we do not transfer your Personal Data from the EU to any parties located outside the EU other than Personal Data relating to investments in the United Kingdom. When information is transferred to us from the EU by our affiliate AngelList Ltd. in connection with your investments in the United Kingdom, we use specific contracts approved by the European Commission, which give Personal Data the same protection it has in the EU. For further details, see [European Commission: Model contracts for the transfer of Personal Data to third countries](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en). 
+Because the Services are maintained in the United States of America, we do not transfer Personal Data from the EU to any parties located outside the EU other than Personal Data relating to investments in the United Kingdom. When information is transferred to us from the EU by our affiliate AngelList Ltd. in connection with your investments in the United Kingdom, we use specific contracts approved by the European Commission, which give Personal Data the same protection it has in the EU. For further details, see [European Commission: Model contracts for the transfer of Personal Data to third countries](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en). 
 
 #####  How We Protect Your Personal Data 
 
 AngelList uses industry-standard physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We limit access to your Personal Data to those employees and other staff who have a business need to have such access. All such people are subject to a contractual duty of confidentiality. We cannot, however, ensure or warrant the security of any information you transmit to AngelList or guarantee that your information on the Services may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, managerial, or technical safeguards. 
 
-We have put in place procedures to deal with any actual or suspected Personal Data breach. In the event that personal information is compromised as a result of such a breach of security, AngelList will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy & Cookies Policy, or as otherwise required by applicable law. 
+We have put in place procedures to respond to any actual or suspected Personal Data breach. In the event that personal information is compromised as a result of such a breach of security, AngelList may promptly notify those persons whose personal information has been compromised by posting a notice on the Site, via the functionality of the Services, or by sending an e-mail to you. You may have a legal right to receive this notice in writing. 
 
 AngelList cannot ensure that your Personally Data will be protected, controlled or otherwise managed pursuant to this Privacy & Cookies Policy if you share your login and password information with any third party, including any third party operating a website or providing other services. 
 
