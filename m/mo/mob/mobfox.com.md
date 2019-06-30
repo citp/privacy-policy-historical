@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobfox.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224934id_/https%3A//www.mobfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobfox.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235515id_/https%3A//www.mobfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobFox
 
@@ -63,7 +63,7 @@ We are not responsible for the personally identifiable information that you choo
 
 When you contact us, or when we contact you, we will receive and process any personally identifiable information that you provide us.
 
-We display personal testimonials of satisfied Customers on the Site in addition to other endorsements. With your consent we will post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com)  
+We display personal testimonials of satisfied Customers on the Site in addition to other endorsements. With your consent we will post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com)  
   
 We maintain the Service, make it better and continue developing it, and protect us and the Service from misuse and law violations. | What Do We Do with Personally Identifiable Information?
 
@@ -101,11 +101,11 @@ Our Service does not respond to Do Not Track (DNT) signals. If you are a Califor
 
 | Your Choice
 
-At any time, you can unsubscribe from our mailing lists or newsletters, by sending us an opt-out request to: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com).
+At any time, you can unsubscribe from our mailing lists or newsletters, by sending us an opt-out request to: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com).
 
 At any time, you can disable your account through your account page.
 
-At any time, you can exercise your following opt-out options: (i) object to the disclosure of your personally identifiable information to a third party, other than to third parties who act as our agents to perform tasks on our behalf and under our instructions, or (ii) object to the use of your personally identifiable information for a purpose that is materially different from the purposes for which we originally collected such information, pursuant to this policy, or you subsequently authorized such use. You can exercise your choice by contacting us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com).
+At any time, you can exercise your following opt-out options: (i) object to the disclosure of your personally identifiable information to a third party, other than to third parties who act as our agents to perform tasks on our behalf and under our instructions, or (ii) object to the use of your personally identifiable information for a purpose that is materially different from the purposes for which we originally collected such information, pursuant to this policy, or you subsequently authorized such use. You can exercise your choice by contacting us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com).
 
 We request and collect minimal personally identifiable information that we need for the purposes that we describe in this policy. Following the termination or expiration of the Service, we will stop collecting any personally identifiable information from or about you. However, we will store and continue using or making available your personally identifiable information according with our data retention section in this policy.
 
@@ -122,17 +122,17 @@ You may limit the disclosure of certain information by your mobile device to us 
 
 Our Partners may also provide ways for you to opt out from or limit their collection of information from and about you. Please refer to their privacy policies to learn more about the privacy practices of our Partners. Please note however, that we have no control and we are not responsible for the privacy practices of our Partners.
 
-The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [www.networkadvertising.org/choices](https://www.networkadvertising.org/choices), or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and [www.aboutads.info/choices/](http://www.aboutads.info/choices/). You can also choose not to be included in Google Analytics by following this link: <https://tools.google.com/dlpage/gaoptout>
+The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices), or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and [www.aboutads.info/choices/](http://www.aboutads.info/choices/). You can also choose not to be included in Google Analytics by following this link: <https://tools.google.com/dlpage/gaoptout>
 
 Your California Privacy Rights
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of personally identifiable information relating third parties to which we have disclosed certain categories of personally identifiable information during the preceding year for the third parties’ direct marketing purposes. To make such a request, please contact us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com).  
+If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of personally identifiable information relating third parties to which we have disclosed certain categories of personally identifiable information during the preceding year for the third parties’ direct marketing purposes. To make such a request, please contact us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com).  
   
 At any time, you can request access to your personally identifiable information. | Accessing Your Personally Identifiable Information
 
 If you find that the information on your account is not accurate, complete or up-to-date, please provide us the necessary information to correct it.
 
-At any time, you can contact us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com) and request to access the personally identifiable information that we keep about you. We will need to ask you to provide us certain credentials to make sure that you are who you claim to be and to the extent required under the applicable law, will make good-faith efforts to locate your personally identifiable information that you request to access.
+At any time, you can contact us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com) and request to access the personally identifiable information that we keep about you. We will need to ask you to provide us certain credentials to make sure that you are who you claim to be and to the extent required under the applicable law, will make good-faith efforts to locate your personally identifiable information that you request to access.
 
 If you are eligible for the right of access under the applicable law, you can obtain confirmation from us of whether we are processing personally identifiable information   about you, and receive a copy of that data, so that you could:
 
@@ -181,7 +181,7 @@ Note that when you send us a request to exercise your rights, we will need to re
 
 If we need to delete your personal data following your request, it will take some time until we completely delete residual copies of your personal data from our active servers and from our backup systems.
 
-If you have any concerns about the way we process your personal data, you are welcome to contact us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com). We will look into your inquiry and make good-faith efforts to respond promptly.  
+If you have any concerns about the way we process your personal data, you are welcome to contact us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com). We will look into your inquiry and make good-faith efforts to respond promptly.  
   
 We retain data as needed, to provide the service and for legitimate and lawful purposes. | Data Retention
 
@@ -189,7 +189,7 @@ We retain different types of personally identifiable information for different p
 
 For example, we will need to keep the information for several years due to tax related requirements, for accounts settling, record keeping, archiving and legal issues.
 
-We will maintain your contact details, to help us stay in contact with you. At any time before or after the termination of your account, you can contact us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com) and request to delete your contact details. Note that we will keep your details without using them unless necessary, and for the necessary period, for legal requirements and proceedings.
+We will maintain your contact details, to help us stay in contact with you. At any time before or after the termination of your account, you can contact us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com) and request to delete your contact details. Note that we will keep your details without using them unless necessary, and for the necessary period, for legal requirements and proceedings.
 
 We will keep aggregated non-identifiable information without limitation, and to the extent reasonable we will delete or de-identify potentially identifiable information, when we no longer need to process the information.
 
@@ -219,9 +219,9 @@ We and our hosting services implement systems, applications and procedures to se
 
 These measures provide sound industry standard security. However, although we make efforts to protect your privacy, we cannot guarantee that the Service will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.  
   
-Contact us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com) or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you. | Dispute Resolution
+Contact us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com) or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you. | Dispute Resolution
 
-We do periodical assessments of our data processing and privacy practices, to make sure that we comply with this policy, to update the policy when we believe that we need to, and to verify that we display the policy properly and in an accessible manner. If you have any concerns about the way we process your personally identifiable information, you are welcome to contact us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com), or write to us. Our address is published on our website at: [www.mobfox.com](https://www.mobfox.com/).
+We do periodical assessments of our data processing and privacy practices, to make sure that we comply with this policy, to update the policy when we believe that we need to, and to verify that we display the policy properly and in an accessible manner. If you have any concerns about the way we process your personally identifiable information, you are welcome to contact us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com), or write to us. Our address is published on our website at: [www.mobfox.com](http://www.mobfox.com/).
 
 We will look into your query and make good-faith efforts to resolve any existing or potential dispute with you.  
   
@@ -233,4 +233,4 @@ Until the new policy takes effect, if it materially reduces the protection of yo
   
   | Contact Us
 
-Please contact us at: [PrivacyComplaince@mobfox.com](mailto:PrivacyComplaince@mobfox.com) for further information.
+Please contact us at: [PrivacyCompliance@mobfox.com](mailto:PrivacyCompliance@mobfox.com) for further information.
