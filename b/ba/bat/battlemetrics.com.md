@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battlemetrics.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228145111id_/https%3A//www.battlemetrics.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlemetrics.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630073924id_/https%3A//www.battlemetrics.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BattleMetrics
 
@@ -128,7 +128,6 @@ By Mail:
     BattleMetrics, LLC
     P.O. Box 980789
     Ypsilanti, MI 48198
-    
 
 OR By Email: [staff@battlemetrics.com](mailto:staff@battlemetrics.com)
 
@@ -168,7 +167,6 @@ By Mail:
     BattleMetrics, LLC
     P.O. Box 980789
     Ypsilanti, MI 48198
-    
 
 OR By Email: [staff@battlemetrics.com](mailto:staff@battlemetrics.com)
 
