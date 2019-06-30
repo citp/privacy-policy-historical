@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231025036id_/https%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630200302id_/https%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Irish Times
 
@@ -246,7 +246,7 @@ We may be required to process your personal information to comply with certain l
 
 We process your personal information for carefully considered and specific purposes which are in our legitimate interests and enable us to enhance the services we provide, but which we also believe benefit our customers. Our legitimate business interests do not automatically override your interests. You have the right, free of charge, to object to our use of your personal information for our legitimate interests. If you wish to do so contact us at [dataprotection@irishtimes.com](mailto:dataprotection@irishtimes.com). Please bear in mind that if you do object, this may affect our ability to carry out certain tasks for your benefit.
 
-Read More 
+Read More _ _
 
 Where you object to our use of your personal information for our legitimate interests, we may continue to process your personal data, despite your objection, where there are compelling legitimate grounds to do so. We will always ensure there is a fair balance between our legitimate interests and your fundamental right and freedoms.
 
