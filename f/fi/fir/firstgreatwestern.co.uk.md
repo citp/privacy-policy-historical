@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228191357id_/https%3A//www.gwr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630165238id_/https%3A//www.gwr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Western Railway
 
@@ -80,28 +80,239 @@ This section provides you with contact information should you have any questions
 
 ## Cookie policy
 
-**Last updated: 11 June 2018**
+**Last updated: 18 April 2019**
 
-This policy explains how our website ([www.gwr.com](https://web.archive.org/)), mobile app and Wi-Fi portal use cookies. Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. 
+This policy explains how our website, mobile app and Wi-Fi portal use cookies.
 
-Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. 
+### What is a cookie?
 
-Cookies in themselves do not identify you, just the computer or device you are using. Cookies do lots of different jobs, like making it easier for you to log on to and use our site during future visits, letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They also allow us to monitor traffic on our site and can also help to ensure that adverts you see online are more relevant to you and your interests.
+Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website.
 
-Cookies themselves only record which areas of our site have been visited by your computer or device and for how long. Allowing us to create a cookie does not give us access to the rest of your computer.
+Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.
 
-The specific types of cookies that we use are:
+Cookies in themselves do not identify you, just the computer or device you are using. Cookies do lots of different jobs, like making it easier for you to log onto, and use, our site during future visits, letting you navigate between pages efficiently, remembering your preferences, and generally improving your experience. They also allow us to monitor traffic on our site and can also help to ensure that advertising you see online is more relevant to you and your interests.
 
-a) **Site performance cookies** : This type of cookie remembers your preferences on our site, so you don't have to choose them each time you visit, such as asking us to remember your seat preferences when you travel, or remembering whether you have chatted to us online before. Sometimes we also run tests on our site to determine whether our customers prefer a new feature or option, and anonymous site performance cookies can help us determine if this new feature or option is preferred by our customers so that we can continue to work hard on improving our site for you.
+Cookies themselves only record which areas of our site have been visited by your computer or device and for how long. Allowing us to create a cookie does not give us access to the rest of your computer, and does not allow us to see any personally identifiable data about you.
 
-b) **Anonymous analytics cookies** : Every time someone visits our site, software that we have selected and which is provided by one or more other organisations generates an 'anonymous analytics cookie' which tell us whether or not you have visited our site before. Your browser will tell us if you have these cookies and, if you don't, we generate new ones. This allows us to track how many users we have, and how often they visit our site. We use these cookies to gather statistics such as the number of visits to any page on our site. If you are logged in, we will also know the details you gave to us for this, such as your name and your email address.
+#### Types of Cookies
 
-c) **‘Your Account’ cookies** : When you register or sign in our site, we generate cookies that let us know whether you are signed in or not. Our servers use these cookies to show you information within Your Account and relating to any journeys you have booked with us.
+We've arranged the cookies we use into four groups:
 
-d) **Retargeting cookies** : We use these anonymous cookies to determine the content of advertisements that we show on other websites. When you visit other sites on the web, such as news or information sites, this cookie lets our retargeting providers know when to serve advertisements and what content to show you. These cookies also allow us to know whether or not you've seen an advertisement, and how long it has been since you've seen it.
+a) **A** **nalytics/performance cookies** : Every time someone visits our site, software that we have selected and which is provided by one or more other organisations generates an 'anonymous analytics cookie' which tell us whether or not you have visited our site before. Your browser will tell us if you have these cookies and, if you don't, we generate new ones. This allows us to track how many users we have, and how often they visit our site. We use these cookies to gather statistics such as the number of visits to any page on our site.
 
-e) **Other third party cookies** : On some pages of our site, other organisations may also set their own anonymous cookies. Because of how cookies work, our site cannot access these cookies. For example, when you share content using a Facebook share button, Facebook will record that you have done this.
+b)  **Functionality cookies** : These cookies enable us to remember choices you make and provide enhanced, more personal features. For example, remembering your email address and preferences on our website, so you don't have to choose them each time you visit.  
 
-With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. The “Help” function within your browser should tell you how. Alternatively, you may wish to visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
+
+c) **Strictly necessary cookies** : These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website or make a purchase.  
+
+
+d) **Targeting cookies** : We use these anonymous cookies to determine the content of advertisements that we show on other websites. When you visit other sites on the web, such as news or information sites, this cookie lets our re-targeting providers know when to serve advertisements and what content to show you. These cookies also allow us to know whether or not you've seen an advertisement, and how long it has been since you've seen it.
+
+### Cookies we use
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+**Host domain**
+
+| 
+
+**File name**
+
+| 
+
+**Category**  
+  
+---|---|---  
+  
+myaccount.gwr.com
+
+| 
+
+__utmb  
+__utma  
+__utmz  
+__utmc
+
+| 
+
+Performance cookies  
+  
+GWR.com
+
+| 
+
+_gid  
+__utmt  
+__utma  
+__utmb  
+_gat_UA-3373558-4  
+_gat_UA-3373558-7  
+SC_ANALYTICS_GLOBAL_COOKIE  
+_ga  
+__utmz  
+__utmc  
+sc.ASP.NET_SESSIONID  
+sc.UserId  
+  
+ws.sessioncam.com
+
+| 
+
+sc.ASP.NET_SESSIONID  
+  
+GWR.com
+
+| 
+
+_dc_gtm_UA-3373558-7  
+ASP.NET_SessionId  
+_dc_gtm_UA-3373558-4
+
+| 
+
+Strictly necessary cookies  
+  
+adnxs.com
+
+| 
+
+uuid2
+
+| 
+
+Targeting cookies  
+  
+bing.com
+
+| 
+
+MUID  
+  
+bat.bing.com
+
+| 
+
+MUIDB  
+  
+doubleclick.net
+
+| 
+
+IDE  
+Id  
+  
+google.com
+
+| 
+
+APISID  
+SSID  
+SAPISID  
+HSID  
+SID  
+  
+tripadvisor.co.uk
+
+| 
+
+TATravelInfo  
+ServerPool  
+TAUD  
+TASession  
+TAUnique  
+TACds  
+SRT  
+TART  
+TASSK  
+PMC  
+SRT  
+TART  
+TASSK  
+PMC  
+  
+twitter.com
+
+| 
+
+auth_token  
+twll  
+secure_session  
+guest_id  
+__utma  
+personalization_id  
+remember_checked  
+remember_checked_on  
+  
+youtube.com
+
+| 
+
+SID  
+HSID  
+demographics  
+PREF  
+APISID  
+SSID  
+LOGIN_INFO  
+SAPISID  
+  
+facebook.com 
+
+| 
+
+datr  
+fr  
+  
+tapad.com
+
+| 
+
+TapAd_DID
+
+TapAd_TS  
+  
+cdn.syndication.twimg.com
+
+| 
+
+lang  
+  
+### Cookies and similar technologies set by third parties
+
+On some pages of our site other organisations, for example Facebook and other social networks, may also set their own cookies or use other similar technologies (e.g. web beacons, pixels and local storage technologies) to collect or receive information from our website or elsewhere on the internet and use that information to provide measurement services and target ads. Because of how these technologies work, our site cannot access this information. These third parties are responsible for setting out their own cookie and privacy policies.
+
+You can opt-out of the collection and use of information for ad targeting at websites such as:
+
+<http://www.aboutads.info/choices>
+
+<http://optout.networkadvertising.org/>
+
+<http://www.youronlinechoices.com/uk/your-ad-choices>
+
+Facebook also provide certain features (e.g. pixels, SDKs and APIs) which are known as Facebook tools. We may use these Facebook tools to optimise our communication and improve targeted communications through Facebook, Instagram and the Facebook Audience Network.
+
+Google provide advertising services through Google’s advertising and marketing platforms (e.g., DoubleClick for Publishers, Google AdX, and Adwords). AdWords remarketing cookies allow us to target our advertising across Google search and other websites to people that have previously visited this website.
+
+Google also uses various conversion cookies to help advertisers determine how many times people who click on their ads end up purchasing their products. These cookies allow Google and the advertiser to tell that you clicked the ad and later visited the advertiser site. To opt out of Google Analytics, you may install the Google Analytics Opt-Out Browser [here](http://tools.google.com/dlpage/gaoptout). To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the [Google Ads Settings page](http://www.google.com/settings/ads).
+
+These links may also assist you:
+
+[https://adssettings.google.com](https://adssettings.google.com/)
+
+<http://www.facebook.com/ads/preferences>
+
+<http://www.google.com/policies/privacy/ads>
+
+### Changing cookie settings
+
+With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. The “Help” function within your browser should tell you how. Alternatively, you may wish to visit the following sites:
+
+[www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+[www.aboutcookies.org](http://www.aboutcookies.org/)
+
+[www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+which contain comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
 
 Please be aware that restricting cookies may have a negative impact on the functionality of the Website.
