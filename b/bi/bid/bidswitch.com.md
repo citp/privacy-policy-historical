@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidswitch.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224635id_/https%3A//www.bidswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidswitch.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235512id_/https%3A//www.bidswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BidSwitch
 
@@ -100,7 +100,7 @@ We implement a variety of security measures to maintain the security of your per
 
 #### Do we use cookies?
 
-Yes, for more information see our [Cookie Statement](https://web.archive.org/web/20181231224635id_/http://www.bidswitch.com/cookie-statement) or to opt-out from our cookie(s), please click [here](http://x.bidswitch.net/opt-out). 
+Yes, for more information see our [Cookie Statement](https://web.archive.org/web/20190630235512id_/http://www.bidswitch.com/cookie-statement) or to opt-out from our cookie(s), please click [here](http://x.bidswitch.net/opt-out). 
 
 * * *
 
