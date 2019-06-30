@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadforensics.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229023854id_/https%3A//www.leadforensics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadforensics.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630161520id_/https%3A//www.leadforensics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lead Forensics
 
@@ -34,6 +34,8 @@ The data collected will be used to communicate marketing and sales messages rela
 When you send Lead Forensics an enquiry or booking form via our website or one of our micro sites you will be asked to provide your contact details. We will use the data you provide to process your request and may use it to inform you by email, telephone or mail about other Lead Forensics products and services that we feel may be of interest to you, it is deemed that as you have visited the Lead Forensics website and provided us with your contact information that you are legitimately interested in our products and services.  You have the right to object from any method of correspondence at any time, by following the unsubscribe instructions at the bottom of the email,  by informing the telephone operator or by contacting us via any of the methods below.
 
 **How we Procure Data**
+
+You or someone else has expressly shared your contact details with us for the purpose of receiving information now and/or in the future. This data may be shared with our sister company where we believe there may be a legitimate interest in the product
 
 At Lead Forensics we procure data in a variety of ways, collected in line with the lawful basis of ‘Legitimate Interests’.  If you have received correspondence from us, we will have procured your data in one of the following ways:
 
@@ -129,7 +131,7 @@ Data Compliance, Lead Forensics, Building 3000, Lakeside, North Harbour, Portsmo
 
 We will process and respond to your request within 30 days, this service will be free of charge.
 
-This policy was last reviewed and updated on the 7th February 2018.  Policies are periodically reviewed to ensure compliance with the current compliance environment.
+This policy was last reviewed and updated on the 25th March 2019.  Policies are periodically reviewed to ensure compliance with the current compliance environment.
 
 For questions relating to this policy, please contact [data-compliance@leadforensics.com](mailto:data-compliance@leadforensics.com)
 
