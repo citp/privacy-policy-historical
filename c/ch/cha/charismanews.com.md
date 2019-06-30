@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011721id_/https%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630185555id_/https%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Charisma Magazine
 
@@ -65,7 +65,7 @@ Charisma Media
 600 Rinehart Rd.  
 Lake Mary, FL 32746  
 (407) 333-0600  
-[[email protected]](https://www.charismamag.com/cdn-cgi/l/email-protection#442731373037322704272c25362d3729252921202d256a272b29)
+[[email protected]](https://old.charismamag.com/cdn-cgi/l/email-protection#177462646364617457747f76657e647a767a72737e763974787a)
 
 ### Your consent
 
@@ -73,8 +73,6 @@ By using our website, you consent to the collection and use of this information.
 
 Get Spirit-filled content delivered right to your inbox! [Click here to subscribe to our newsletter](https://www.charismamag.com/newsletters/?utm_source=charismamag.com&utm_medium=mid-article%20text&utm_campaign=plg_cm_midarticletextinjector).
 
-AMAZING CHRISTMAS DEALS: (1) Buy A Set, Get A Set FREE on all [Life in the Spirit Bundles](https://shop.charismamag.com/collections/life-in-the-spirit?utm_source=charismamag.com&utm_medium=end-of-article%20text%20links&utm_campaign=Amazing%20Christmas%20Deals). (2) Save 30%-60% on all [Tote Bag plus Book Bundles](https://shop.charismamag.com/search?type=product&q=tote&utm_source=charismamag.com&utm_medium=end-of-article%20text%20links&utm_campaign=Amazing%20Christmas%20Deals). (3) [Save 50% off Select Bibles](https://shop.charismamag.com/collections/select-bibles-50-off?utm_source=charismamag.com&utm_medium=end-of-article%20text%20links&utm_campaign=Amazing%20Christmas%20Deals) plus receive a Free Gift. Visit the [Charisma Store](https://shop.charismamag.com/?utm_source=charismamag.com&utm_medium=end-of-article%20text%20links&utm_campaign=Amazing%20Christmas%20Deals) to view all our specials. U.S Residents always get FREE Shipping!
-
-Help Charisma stay strong for years to come as we report on life in the Spirit. Become an integral part of Charisma’s work by joining Charisma Media Partners. [Click here](https://www.charismamediapartners.com/?utm_source=charismamag.com&utm_medium=endOfArticle) to keep us strong!
+Great Resources to help you excel in 2019! #1 [John Eckhardt's "Prayers That..." 6-Book Bundle](https://shop.charismamag.com/products/all-6-john-eckhardt-prayers-that-books-holy-spirit-series?utm_source=charismamag.com&utm_medium=endOfArticle). Prayer helps you overcome anything life throws at you. Get a FREE Bonus with this bundle. #2 Learn to walk in the fullness of your purpose and destiny by living each day with Holy Spirit. [Buy a set of Life in the Spirit](https://shop.charismamag.com/products/life-in-the-spirit-holy-spirit-series-solid-rock-series?utm_source=charismamag.com&utm_medium=endOfArticle), get a second set FREE.
 
 Comment Guidelines
