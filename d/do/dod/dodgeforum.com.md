@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodgeforum.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228184919id_/https%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodgeforum.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231949id_/https%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ This privacy policy applies to all users of our sites and services and covers wh
 
 For the purposes of the General Data Protection Regulation 2016/679 (the “GDPR”), the Data Controller is MH Sub I, LLC registered in the State of Delaware, United States of America with a registered address at 909 N. Pacific Coast Highway, 11th Floor., El Segundo CA 90245.
 
-You can contact our Data Protection Officer by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e2e2c37283f3d271e37302a3b2c303b2a3c2c3f303a2d703d3133) or by writing to:
+You can contact our Data Protection Officer by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a5a58435c4b49536a43445e4f58444f5e48584b444e5904494547) or by writing to:
 
 MH Sub I, LLC  
 Attn: Legal Department  
@@ -325,7 +325,7 @@ FOR RESIDENTS OF THE EUROPEAN UNION ONLY. Under European data protection law, in
 
 In addition, you have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your personal information) if we intend to use your personal information for such purposes or if we intend to disclose your information to any third party for such purposes. 
 
-You can exercise any of these rights by filling out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) or sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81f1f3e8f7e0e2f8c1e8eff5e4f3efe4f5e3f3e0efe5f2afe2eeec) with “EU Privacy Rights” in the subject line. If you believe that we have not complied with its obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority.
+You can exercise any of these rights by filling out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) or sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#106062796671736950797e6475627e75647262717e74633e737f7d) with “EU Privacy Rights” in the subject line. If you believe that we have not complied with its obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority.
 
 *  
 
