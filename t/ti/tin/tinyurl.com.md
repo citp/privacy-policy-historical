@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114420id_/https%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630162530id_/https%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
 
 # TinyURL.com - shorten that long URL into a tiny URL
 
 ## TinyURL.com Privacy Policy
 
-_**Effective June 28, 2018**_
+_**Effective May 8, 2012**_
 
-Welcome to the privacy section of TinyURL, LLC. **_TinyURL_** ( ** _"we"_** or **_"us"_** ) provides an URL shortening service available through [TinyURL.com](http://tinyurl.com/), and any other websites owned, operated or controlled by us, our social media networking webpages and mobile applications (together the **_"Services"_** ). This Privacy Policy applies only to information that users provide to us through the Services.
+Welcome to the privacy section of TinyURL, LLC. **_TinyURL_** ( ** _"we"_** or **_"us"_** ) provides an URL shortening service available through [TinyURL.com](https://tinyurl.com/), and any other websites owned, operated or controlled by us, our social media networking webpages and mobile applications (together the **_"Sites"_** ). This Privacy Policy applies only to information that users provide to us through the Services.
 
-As used in this policy, the terms "using" and "processing" information include using cookies set in your web browser, subjecting the information to statistical or other analysis and using or touching information in any way, including collecting, storing, disclosing and transferring information.
+As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or touching information in any way, including collecting, storing, disclosing and transferring information within the United States or internationally.
 
 ### Information Collection and Use
 
@@ -16,7 +16,7 @@ Our primary goals in collecting information are to provide and improve our Servi
 
 ### Log Data
 
-As you use the Services, our servers may automatically record information that your browser sends whenever you visit a website ( ** _"Log Data"_** ). Log Data may include, but is not limited to, your internet connection's internet protocol address, browser type, and the web page you were visiting before you came to the Site. We use this information to monitor and analyze use of the Services, for the Site's technical administration, to increase our Site's functionality and user-friendliness, to better tailor it to our visitors' needs, to make business decisions, and to handle violations of our terms of use. We aggregate and anonymize the Log Data and retain the raw Log Data for the period of time neccessary to serve these purposes.
+As you use the Services our servers automatically record information that your browser sends whenever you visit a website ( ** _"Log Data"_** ). Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Site and information you search for on a Site. We use this information to monitor and analyze use of the Services and for the Site's technical administration, to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors' needs.
 
 ### Aggregate Information and Non-Identifying Information
 
@@ -24,7 +24,7 @@ We may share aggregated information, Non-Identifying Information and Log Data wi
 
 ### Compliance with Laws and Law Enforcement
 
-TinyURL may be required to comply with government, law enforcement officials, and private parties to enforce and comply with their laws. We may be required to disclose any information about you, if available, to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of TinyURL or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal or legally actionable activity.
+TinyURL cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of TinyURL or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.
 
 ### Business Transfers
 
@@ -36,7 +36,7 @@ The Services are not directed to children under 13. We do not knowingly collect 
 
 ### Use of Cookies
 
-Like many websites, we use "cookies" to collect information and preserve your user session on the Site. A cookie is a small data record that your browser stores and sends every time you access a page on the same domain name it was set by. Third party advertisers on the Site may also place or read cookies they have set on your browser. These cookies may be used to collect information that can be used to tailor advertising to you on TinyURL, other websites and other forms of media. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you don't accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. You can learn more about the use of cookies and how you can opt out of the marketing programs of third party advertisers in connection with their use of cookies and similar technologies, by visiting [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. TinyURL and third party advertisers on the Site may also place or read cookies on your browser. These cookies may collect information that can be used to tailor advertising to you on TinyURL, other websites and other forms of media. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you don't accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. You can learn more about the use of cookies and how you can opt out of the marketing programs of third party advertisers in connection with their use of cookies and similar technologies, by visiting [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
 ### Links to Other Sites
 
