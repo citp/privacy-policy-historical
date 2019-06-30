@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenation.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226035215id_/http%3A//www.livenation.com/h/privacy.html%3Ftm_link%3Dtm_i_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenation.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215325id_/http%3A//www.livenation.com/h/privacy.html%3Ftm_link%3Dtm_i_privacy) for the most accurate reproduction.*
 
 # Live Nation Concerts | Privacy Policy
 
