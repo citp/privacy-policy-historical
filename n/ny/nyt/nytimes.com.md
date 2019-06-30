@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nytimes.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630070906id_/https%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nytimes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234746id_/https%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy – Help
 
@@ -24,6 +24,34 @@ We can also be reached by phone at 1-800-NYTIMES (click [here](https://subscribe
 
 For information on how this Privacy Policy applies to your use of NYT Services, please visit the relevant section below.
 
+1\. What Personal Information Do We Gather About You?
+
+2\. What Do We Do With The Personal Information We Collect About You?
+
+3\. With Whom Do We Share The Personal Information We Gather?
+
+4\. Other Information Collected Using Technology
+
+5\. Third-Party Advertising
+
+6\. How Do I Opt Out From Receiving Emails?
+
+7\. Your California Privacy Rights
+
+8\. How Do I Access, Change or Update My Personal Information?
+
+9\. Sensitive Personal Information
+
+10\. Data Retention 
+
+11\. Is My Information Protected?
+
+12\. Children’s Guidelines
+
+13\. International Transfers
+
+14\. Changes to This Privacy Policy
+
 **1\. What Personal Information Do We Gather About You?**
 
 When you use the NYT Services by, among other actions, ordering a subscription or other product, providing registration details, setting newsletter preferences, browsing our sites, completing a survey, entering a contest or otherwise interacting with our NYT Services, we gather personal information. Personal information is information that identifies you as an individual or relates to an identifiable individual. Several different types of personal information can be gathered when you interact with the NYT Services, depending on the type of product or service being used. Collection of personal information is necessary to delivering you the NYT Services or to enhance your customer experience.
@@ -32,7 +60,7 @@ If you disclose any personal information relating to other people to us or to ou
 
 We and our service providers collect personal information in a variety of ways, including:
 
-_**A) Through the NYT Services.**_
+**A) Through the NYT Services.**
 
 i.  **Registration:** When you register for a NYT Service, we collect personal information. For example, registration on NYTimes.com can be done by supplying a unique email address and password, or by linking your Facebook or Google accounts. See below under “From Other Sources” for more information about linking your Facebook or Google Accounts. Registration to an event or conference requires that you complete a form that will include, at a minimum, your name and email address. 
 
@@ -54,7 +82,7 @@ i. Publicly available databases, including privately-held marketing and data ana
 
 ii. Joint marketing third party, when they share the information with us.
 
-iii. Social-media platforms or other third-party services (such as Kindle or Nook). If you choose to link your social-media account or account relating to other third-party services to the NYT Services, you may be asking third parties to send us certain information from those social media accounts or services accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. You can disassociate your NYTimes.com registration from third-party accounts any time. For more detail, please see our [Social Media FAQ](http://www.nytimes.com/content/help/site/socialmedia/social-media.html#social-fb-howto-disconnect).
+iii. Social-media platforms or other third-party services (such as Kindle or Nook). If you choose to link your social-media account or account relating to other third-party services to the NYT Services, you may be asking third parties to send us certain information from those social media accounts or services accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. You can disassociate your NYTimes.com registration from third-party accounts any time. For more detail, please see our [Social Media FAQ](https://help.nytimes.com/hc/en-us/articles/115014887628-Social-login).
 
 **2\. What Do We Do With The Personal Information We Collect About You?**
 
@@ -74,7 +102,7 @@ _**B) Analysis and Development of New Products and Services.** _We perform stati
 
 _**C) Customizing Your Experience.**_ We use the information that we have to better understand you and customize certain features of the NYT Services to provide you with an enhanced experience including to show you offerings, promotions or products that may be of interest to you, based on the demographic information, type of device you are using to access the NYT Services, your usage of the NYT Services and your reading history. We will provide personalized services because we have a legitimate interest. 
 
-_**D) Email Newsletters and Other Marketing Activities as well as Facilitating Social Sharing.**_ The New York Times will periodically send you email newsletters or promotional emails about services offered by The New York Times and its advertisers. To opt out of these emails, please see the section labeled "  We will use the information we have about you to advertise our services to you on our NYT Services but also on other platforms. If you choose to use social-sharing functionalities, we will use your information to facilitate such action, and such action -- along with any information you share -- will be covered by the social-media platform’s privacy policy. We will engage in these activities with your consent or where we have a legitimate interest.
+_**D) Email Newsletters and Other Marketing Activities as well as Facilitating Social Sharing.**_ The New York Times will periodically send you email newsletters or promotional emails about services offered by The New York Times and its advertisers. To opt out of these emails, please see the section labeled  _How do I opt out from receiving emails?_  We will use the information we have about you to advertise our services to you on our NYT Services but also on other platforms. If you choose to use social-sharing functionalities, we will use your information to facilitate such action, and such action -- along with any information you share -- will be covered by the social-media platform’s privacy policy. We will engage in these activities with your consent or where we have a legitimate interest.
 
 _**E)     Administrative Purposes.**_ We and our service providers use the information we have about you for the following legitimate business purposes:
 
@@ -133,7 +161,7 @@ _**A) Device Information.**_  We collect information about the computer, mobile
 
 _**B) Cookies, Beacons, Local Storage and Other Similar Technologies.**_ We use "cookies," Web beacons, tags and scripts, and other similar technologies including local storage objects such as HTML5. These technologies allow us to manage access to and use of the NYT Services, recognize you and provide personalization, and help us understand how people use the NYT Services. You will not be able to access certain areas of our websites, including NYTimes.com, if your computer does not accept cookies from us. Because there is no accepted standard on how to respond to “do not track” browser-based signals, we do not respond to such signals. For more detailed information about our use of cookies and local storage, and how to manage them for the applicable NYT Service, see the applicable Cookie Policy [here](https://www.nytimes.com/subscription/dg-cookie-policy/cookie-policy.html).
 
-We transmit website usage information to third parties in order to show you advertising for The New York Times when you visit other sites. For more information about our third-party ad servers, or to learn about your choices about not having this information used to target ads to you, please [click here](https://www.magnolia-cms.com/legal/privacy.html) (for Google), or [here](https://www.magnolia-cms.com/legal/privacy.html) (for Magnolia).
+We transmit website usage information to third parties in order to show you advertising for The New York Times when you visit other sites. For more information about our third-party ad servers, or to learn about your choices about not having this information used to target ads to you, please [click here](http://www.google.com/privacy/ads/) (for Google), or [here](https://www.magnolia-cms.com/legal/privacy.html) (for Magnolia).
 
 _**C) Analytics, Log Files and Reading History.**_ As is true of most web sites, we gather certain information automatically and store it in log files. This information include IP address , browser type, operating system and other usage information about the use of the NYT Services, including a history of the pages you view.
 
@@ -183,7 +211,7 @@ Please note that your request does not ensure complete or comprehensive removal 
 
 You may lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law occurs. A list of EU data protection authorities is available at <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>.
 
-**Manage Your** **Digital and Home Delivery Account in the Account Area.**  You may review and update your digital or home delivery account information and access your transaction history in the [Account area](https://myaccount.nytimes.com/seg/) for US subscribers and [Account area](https://customercare.inyt.com/) for International Edition print subscribers. Should you require assistance, please call our toll free number 1-800-NYTIMES (click [here](https://subscribe.inyt.com/footer?requestAction=displayContactIht) for a list of your local telephone numbers). If you have subscribed to NYTimes.com via iTunes or Google Play, you would need to register with us to access the Account area and contact Apple or Google, as applicable, for your transaction history.
+**Manage Your** **Digital and Home Delivery Account in the Account Area.**  You may review and update your digital or home delivery account information and access your transaction history in the [Account area](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=help&redirect_uri=https%3A%2F%2Fhelp.nytimes.com%2Fhc%2Fen-us%2Farticles%2F115014892108) for US subscribers and [Account area](https://customercare.inyt.com/) for International Edition print subscribers. Should you require assistance, please call our toll free number 1-800-NYTIMES (click [here](https://subscribe.inyt.com/footer?requestAction=displayContactIht) for a list of your local telephone numbers). If you have subscribed to NYTimes.com via iTunes or Google Play, you would need to register with us to access the Account area and contact Apple or Google, as applicable, for your transaction history.
 
 **9\. Sensitive Personal Information**
 
@@ -206,7 +234,7 @@ We retain personal information for as long as needed or permitted in light of th
 
 We seek to protect personal information with reasonable organizational, technological and physical safeguards commensurate to the sensitivity of the personal information.   Although we take appropriate measures to safeguard your information, we cannot guarantee its absolute security.To further protect your data, we recommend that you use complex passwords for your accounts with us and for accounts with third parties that you link to any of your accounts with us. Please do not use the same passwords you use for NYT Services for other services or share your password with unauthorized people. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section above.
 
-  **12\. Children’s Guidelines**
+**12\. Children’s Guidelines**
 
 We do not knowingly collect or store any personal information from children except as permitted by applicable law.
 
