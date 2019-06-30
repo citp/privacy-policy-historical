@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229031913id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223644id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
@@ -285,6 +285,8 @@ The personal data transferred may be subject to the following basic processing a
 For further information about MobKnow data practices, including technical and organizational measures to ensure that personal data are not attributed to an identifiable natural person, please see the MobKnow [Privacy Policy](https://mobknow.com/privacy_policy/).
 
 To opt out of data sharing with MobKnow, please utilize the opt-out measures provided in the privacy statement, contact [DPO@mobknow.com](mailto:DPO@mobknow.com), or contact us at [legal@4shared.com](mailto:legal@4shared.com).
+
+[**ResultsData**](https://data.resultsmedia.com/privacy_policy.html) will use anonymized user data for online targeted advertising throughout the user's browsing experience.
 
 **Pubmint GmbH** may collect anonymous data through anonymous tracking technologies that record such events as related to your activity and device, that may include (a combination of) Personal Data elements, such as:
 
