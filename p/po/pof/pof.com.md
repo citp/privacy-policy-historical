@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pof.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623112422id_/https%3A//www.pof.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pof.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210612id_/https%3A//www.pof.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # POF.com™ Free Online Dating Service for singles
 
@@ -20,19 +20,18 @@ Welcome to Plentyoffish's Privacy Policy. Thank you for taking the time to read 
 
 We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum. 
 
-This Privacy Policy applies beginning May 25, 2018. The previous version of this Privacy Policy, available [here](https://web.archive.org/privacypolicy.aspx?ppDate=2016_12_14), will apply until then. 
+This Privacy Policy applies beginning Dec 13, 2018. The previous version of this Privacy Policy, available [here](https://web.archive.org/privacypolicy.aspx?ppDate=2018_05_25), will apply until then. 
 
-_EFFECTIVE DATE:_ May 25, 2018
+_EFFECTIVE DATE:_ Dec 13, 2018
 
 ###  1\. WHO WE ARE 
 
 If you live in the European Union, the company that is responsible for your information under this Privacy Policy (the "data controller") is: 
 
 MTCH Technology Services Limited  
-Pembroke House  
-28 - 32 Pembroke Street Upper  
-Dublin 2, Ireland  
-D02 EK84 
+5 Harcourt Road  
+Dublin 2, D02 FW64  
+Ireland 
 
 If you live outside the European Union, the company responsible for your information is:
 
@@ -281,10 +280,9 @@ Online: [here](mailto:csr@pof.com)
 By post:  
 Privacy Officer  
 MTCH Technology Services Limited  
-Pembroke House  
-28 - 32 Pembroke Street Upper  
-Dublin 2, Ireland  
-D02 EK84 
+5 Harcourt Road  
+Dublin 2, D02 FW64  
+Ireland 
 
 **If you live outside the European Union:**  
 Online: [here](mailto:csr@pof.com)  
