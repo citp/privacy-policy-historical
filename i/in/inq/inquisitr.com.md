@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228065924id_/https%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630181533id_/https%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
 
 # The Inquisitr
 
@@ -96,7 +96,7 @@ Updated May 24th 2018
 
 (g) the right to complain to a supervisory authority; and
 
-(h) the right to withdraw consent.
+(h) [the right to withdraw consent](http://optout.networkadvertising.org/?c=1).
 
 6.3 You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee.
 
