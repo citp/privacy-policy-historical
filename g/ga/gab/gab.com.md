@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gab.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224052id_/https%3A//gab.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gab.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220716id_/https%3A//gab.com/about/privacy) for the most accurate reproduction.*
 
 # gab | Privacy
 
@@ -52,7 +52,7 @@ We may periodically send you free emails that directly promote our Services. Whe
 
 ## Modifying Your Information.
 
-You can access and modify the information contained in your Profile through the App. If you want us to delete your PII and your Account, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#08646d6f6964486f696a266961) with your request. We'll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+You can access and modify the information contained in your Profile through the App. If you want us to delete your PII and your Account, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#84e8e1e3e5e8c4e3e5e6aae5ed) with your request. We'll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
 ## The Security of Your Information
 
@@ -72,4 +72,4 @@ Our Services are not directed to children under the age of 13 and we do not know
 
 ## Questions?
 
-Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b373e3c3a371b3c3a39753a32) if you have any questions about our Privacy Policy.
+Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d41484a4c416d4a4c4f034c44) if you have any questions about our Privacy Policy.
