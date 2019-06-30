@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230181640id_/https%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221043id_/https%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security - eHealthInsurance
 
@@ -10,6 +10,7 @@ Thank you for your interest in eHealthInsurance Services, Inc. (“eHealthInsura
   * [www.ehealthmedicare.com](https://www.ehealthmedicare.com/)
   * [www.ehealthmedicareplans.com](https://www.ehealthmedicareplans.com/)
   * [www.ehealthInsurance.com](https://www.ehealthinsurance.com/)
+  * [www.gomedigap.com](https://www.gomedigap.com/)
 
 
 
