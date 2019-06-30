@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikibiki.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227065414id_/https%3A//nikibiki.net/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikibiki.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205627id_/https%3A//nikibiki.net/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : NIKIBIKI | Women/Junior Apparel Wholesale/SEAMLESS WEAR Manufacturer, NIKIBIKI.NET
 
