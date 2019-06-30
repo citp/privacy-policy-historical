@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204214752id_/https%3A//policies.oclc.org/en/privacy/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235340id_/https%3A//policies.oclc.org/en/privacy/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement
 
-Last Updated: 24 October 2018
+Last Updated: 8 February 2019
 
 **NOTE THIS PORTION OF THE STATEMENT APPLIES TO OCLC AND ITS WEB-BASED PRODUCTS AND SERVICES. PLEASE SEE BELOW ORCLICK HERE FOR MORE INFORMATION REGARDING PRIVACY PRACTICES RELATING TO _HOSTED SERVICES_ OFFERED THROUGH OCLC INSTITUTION CUSTOMERS.**
 
 OCLC is a global library cooperative dedicated to making information more accessible and useful to people around the world, while reducing costs for our member institutions (OCLC's "Customers"). OCLC, Inc. and its worldwide affiliates, including OCLC BV, OCLC (UK) Ltd., OCLC GmbH, OCLC AG, HKA BV, and Ifnet S.r.l. (collectively, "OCLC" or "we") are committed to protecting your privacy and encourage you to read this Privacy Statement ("Statement") to understand our data handling practices.
 
-This Statement applies to information we obtain from and about individuals interacting directly with OCLC, including through our websites, products, programs, and services (collectively, the "Services") and otherwise. It does not apply to job applicants, OCLC employees, information we collect through research studies, or information collected by our institution customers through subscription-based or hosted products and services. **For information regarding OCLC's hosted products and services, please see theHOSTED SERVICES section below.**
+This Statement applies to information we obtain from and about individuals interacting directly with OCLC, including through our websites, products, programs, and services (collectively, the "Services") and otherwise. It does not apply to OCLC employees, information we collect through research studies, or information collected by our institution customers through subscription-based or hosted products and services. **For information regarding OCLC's hosted products and services, please see theHOSTED SERVICES section below.**
 
 From time to time, we may update this Statement and will update this page and display the date of the last update at the top of the page. We will notify you about changes in the way we treat information by placing notice on our site. We encourage you to periodically check back and review this Statement so that you always know what information we collect, how we use it and with whom we share it.
 
@@ -22,6 +22,7 @@ We may collect information from or about you from the following sources:
   * From your other interactions with OCLC, including, but not limited to, information you provide when you interact with OCLC's Services or OCLC customer support, or when you attend an OCLC-sponsored training or event (whether in person or virtually);
   * From your computer, device, or web browser, including information collected by automated means or by using technologies such as cookies, web server logs, and web beacons, as is further discussed below;
   * From you and/or our member institutions when you interact with OCLC on behalf of an institution or in connection with OCLC membership, including if you represent one of our members as an OCLC Regional or Global Council representative or otherwise participate in OCLC membership opportunities or events;
+  * From you when you interact with our applicant tracking system or provide information to OCLC in order to receive information about new job postings, make inquiries about job openings, or apply for a position with OCLC (please note, this does not apply to current OCLC employees, who are governed by OCLC’s internal Employee Data Protection Notice); 
   * From OCLC or third-party sites, including social media sites and sweepstakes microsites, surveys, social media platforms, and promotion entries;
   * From third parties that you have authorized to share such information with us;
   * If you register for and receive Services through an OCLC-provided user account, we also receive the information you elect to share.
@@ -32,13 +33,14 @@ We may also receive information from third-party sources and combine it with inf
 
 ## What Information Do We Collect?
 
-OCLC collects the information described below. When we require certain information from users, it is because such information is relevant for a specified purpose; however, any information you provide to us, that is not identified as required, is voluntary. You are free to choose whether to provide us with the types of information described below, but we may not be able to serve you as effectively or offer you all of our Services when you choose not to share certain information with us.
+OCLC collects the information described below. When we require certain information from users, it is because such information is relevant for a specified purpose; however, any information you provide to us, that is not identified as required, is voluntary. You are free to choose whether to provide us with the types of information described below, but we may not be able to serve you as effectively, offer you all of our Services, or process your application when you choose not to share certain information with us.
 
 We may collect the following information:
 
   * **Contact Information** , such as name, address, telephone numbers, and email;
   * **Account Information** , such as username, password, account numbers, and preferences;
   * **Profile Information** , such as photographs, interests and any other information you include;
+  * **Professional Information** , such as education, work history, and references;
   * **Communication Information** , such as information contained in communications (e.g., e-mail, telephone, written) we have with you;
   * **User-Generated Information** , such as favorite libraries, saved searches, lists, tags, comments, reviews, and posts;
   * **Device and Browser Information** , such as the IP address of your device and information about the type of device and browser you are using. **_Some of our services, including WorldCat.org, may also use your IP address to obtain a geolocation for the purpose of providing you the Services (e.g. to display items at nearby libraries)_** ;
@@ -51,6 +53,8 @@ We may combine information about you with information from other sources, includ
 
 We may also collect additional information from or about you in relation to specific products and services. Please see the specific products and services listed below for additional information.
 
+If you provide us the personal contact information about another person, for example, for providing a reference for a job application, it is your responsibility to ensure that the person is aware and consents to you providing his/her contact information.
+
 ## How Do We Use Your Information?
 
 We may use your information in a number of ways, including:
@@ -58,6 +62,9 @@ We may use your information in a number of ways, including:
   * Providing you with Services
   * Evaluating, improving, supporting, and updating our Services
   * Communicating with you about our Services
+  * Processing your job application (e.g., match your skills, experience, and education with the specific roles offered by OCLC)
+  * Communicating with you about the recruiting and hiring process, to set up and conduct interviews and assessments
+  * Conducting background checks, as required or legally permitted by applicable local law
   * Facilitating surveys, promotions, contests, events, and activities
   * Facilitating an open forum or review
   * Marketing purposes
@@ -82,18 +89,21 @@ We use this personal information for the legitimate interests identified above, 
 
 We may share your information with the following categories of recipients:
 
-  * Third-party service providers. OCLC contracts with third-party service providers and individuals to perform functions on our behalf. Examples of such third-party service providers include, but are not limited to, event coordinators, vendors that facilitate surveys, webinars, and email marketing communications, payment processors, and analytics providers. Such parties have access to your information as necessary to complete their functions.
-  * Partner Organizations. If we are collaborating with an identified partner for a particular event, we will share registration information with that collaborating partner. We also share registration information with organizations that have contributed course or webinar content. These organizations are identified in the course catalog.
-  * Social media platforms. Some of the Services make use of integrated social media functionality that will allow you to easily share certain content on various social media platforms. When you are using a Service that provides integrated social media functionality, information may be shared with those social media platforms, regardless of whether or not you are a registered user of a social media platform. Please refer to the various social media platform privacy statements and terms of service for additional information.
-  * In connection with membership. We may disclose certain information about individuals affiliated with OCLC member institutions to other member institutions or to regional or global council members to fulfill our obligations with respect to OCLC membership and to allow our OCLC members to take full advantage of membership.
+  * Third-party service providers. OCLC contracts with third-party service providers and individuals to perform functions on our behalf. Examples of such third-party service providers include, but are not limited to, event coordinators, vendors that facilitate surveys, webinars, and email marketing communications, payment processors, and analytics providers. Such parties have access to your information as necessary to complete their functions;
+  * Partner Organizations. If we are collaborating with an identified partner for a particular event, we will share registration information with that collaborating partner. We also share registration information with organizations that have contributed course or webinar content. These organizations are identified in the course catalog;
+  * Social media platforms. Some of the Services make use of integrated social media functionality that will allow you to easily share certain content on various social media platforms. When you are using a Service that provides integrated social media functionality, information may be shared with those social media platforms, regardless of whether or not you are a registered user of a social media platform. Please refer to the various social media platform privacy statements and terms of service for additional information;
+  * In connection with membership. We may disclose certain information about individuals affiliated with OCLC member institutions to other member institutions or to regional or global council members to fulfill our obligations with respect to OCLC membership and to allow our OCLC members to take full advantage of membership;
+  * In connection with job applications. We may share your personal information with authorized OCLC corporate personnel and subsidiary human resources personnel as needed, as well as third parties who are acting on OCLC’s behalf, namely those who (i) perform recruiting services, such as employment reference checks, interview scheduling, application tracking, and employment screenings; and (ii) provide IT services, such as hosting and cloud providers;
   * Compliance with legal obligations. We may disclose your information, at our discretion and without prior notice, to law enforcement or other public authorities in order to comply with a law, regulation, investigation, valid legal process, or other similar requests;
   * Protection of OCLC and others. We may disclose your information for purposes of fraud detection and prevention, to enforce or apply our Terms of Use and other agreements, or to protect the rights, property and safety of OCLC, you, or others;
   * Business transactions. In the event of a merger, acquisition, bankruptcy, re-organization, consolidation, sale of assets, or other business transaction, OCLC may disclose or transfer your information;
-  * OCLC affiliate entities. We may share your information among OCLC affiliates for the purposes set forth herein; and,
-  * General public and other members. We allow you to post on public parts of our Services, such as through WorldCat.org and the OCLC Community Center. Please be aware that any information you post on a public forum, such as public content on WorldCat.org or Community Center, will be available to the public in real time. You may also choose to make certain portions of your profile information public or private through "My Profile" functionalities with certain Services. The portions of your profile you make public will be available to other uses of that Service (for example users of WorldCat.org or WebJunction).
+  * OCLC affiliate entities. We may share your information among OCLC affiliates for the purposes set forth herein;
+  * General public and other members. We allow you to post on public parts of our Services, such as through WorldCat.org and the OCLC Community Center. Please be aware that any information you post on a public forum, such as public content on WorldCat.org or Community Center, will be available to the public in real time. You may also choose to make certain portions of your profile information public or private through "My Profile" functionalities with certain Services. The portions of your profile you make public will be available to other uses of that Service (for example users of WorldCat.org or WebJunction); and
   * State library agencies. For certain OCLC Services (e.g. WebJunction), we share registration information with supporting state library agencies for continuing education purposes.
 
 
+
+These third parties are not authorized to use or disclose the information except as necessary to perform services on our behalf pursuant to a contractual obligation or to comply with legal requirements. OCLC requires such third parties to comply with applicable data protection laws and regulations and to agree to implement and maintain appropriate technical and organizational security measures to safeguard your personal information.
 
 ## Cookies and Other Tracking Technologies
 
@@ -109,13 +119,13 @@ Our Services may have integrated third party social plugins, and the use of such
 
 ## Security
 
-We have taken reasonable steps to ensure the protection of your information, and to prevent the loss, misuse, or alteration of that information. However, no method of transmission or storing of electronic personal information is 100% secure; therefore, we cannot guarantee the security of your information.
+We have taken reasonable steps to ensure the protection of your information, and to prevent the loss, misuse, or alteration of that information. We use reasonable security procedures to protect against unauthorized or unlawful access, processing, disclosure, alteration, destruction or accidental loss of your personal data. We limit access to and use of your personal data to authorized persons and trusted third parties who have a reasonable need to know the information in order to perform our business operations and who are bound by confidentiality obligations.
 
 You are also responsible for the security of your account. For example, your password is a component of our security system, and, as such, it is your responsibility to protect it. Do not share your password with any third parties. If your password is compromised, you should change it immediately and contact us.
 
 ## Retention of Data
 
-We will keep your information as reasonably necessary to fulfill the purposes for which information is collected as stated herein; for as long as is necessary for the performance of the contract between you and us, if any; and to comply with legal and statutory obligations, such as in tax, trade and corporate laws.
+We will keep your information as reasonably necessary to fulfill the purposes for which information is collected as stated herein; for as long as is necessary for the performance of the contract between you and us, if any; and to comply with applicable legal, statutory, or regulatory obligations to maintain the data. For example, where required by law for tax, trade and corporate requirements, agreements, or disputes.
 
 When we no longer need your information for our purposes or legal obligations, we will destroy, delete or erase that information or convert it into an anonymous form.
 
@@ -129,7 +139,7 @@ If we learn that we have collected the information of a child under 13, or equiv
 
 ### How to Opt-Out of Marketing
 
-To opt-out of receiving promotional email messages from us, please click on the "Unsubscribe" link contained at the bottom of each email or email us at [privacy@oclc.org](mailto:privacy@oclc.org) with a description of your request.
+To opt-out of receiving promotional email messages from us, please email us at [unsubscribe@oclc.org](mailto:unsubscribe@oclc.org) with your request.
 
 ### Access Rights to Information
 
