@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215114046id_/http%3A//www.stingray.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234752id_/http%3A//www.stingray.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **STINGRAY PRIVACY POLICY**
 
-Stingray Digital Group Inc., together with its affiliates, subsidiaries and related entities (collectively “Stingray”) are committed to protecting your privacy. Stingray's Privacy Policy is designed to help you understand how Stingray collects, holds, uses and divulges the Information (as defined below) when you use its websites, web players, applications, widgets, products and/or services (collectively, the “Stingray Services”). By using the Stingray Services or by signing up to receive Stingray's newsletters, electronic messages, news, updates, contests, special offers and/or other written communications (the “Stingray Messages”), you are accepting the practices described in this Privacy Policy.
+Stingray Group Inc., together with its affiliates, subsidiaries and related entities (collectively “Stingray”) are committed to protecting your privacy. Stingray's Privacy Policy is designed to help you understand how Stingray collects, holds, uses and divulges the Information (as defined below) when you use its websites, web players, applications, widgets, products and/or services (collectively, the “Stingray Services”). By using the Stingray Services or by signing up to receive Stingray's newsletters, electronic messages, news, updates, contests, special offers and/or other written communications (the “Stingray Messages”), you are accepting the practices described in this Privacy Policy.
 
 In this Privacy Policy, “you” refers to the person using the Stingray Services if this person is 13 years old or over, or to a parent or legal guardian if the user is under the age of 13.
 
@@ -99,14 +99,14 @@ The European Commission has recognized Canada and the United States (limited to 
 
 If you have questions about the privacy aspects of the Stingray Services, would like to know more about Stingray’s legitimate interests, would like to make a complaint, to withdraw your consent (if any), to object to the use of your Information by Stingray, to request access to the Information Stingray holds about you, to modify, delete or correct such Information, if you wish that Stingray discontinues or limits the use of your Information, or if you wish to receive a copy of all Information that Stingray has about you in a structured, commonly used and machine-readable format, please do so through the “Contact Us” section or link on the Stingray Services, when such link is available, or please contact Stingray at:
 
-  * If you are located in America: Customer Support re Privacy, Stingray Digital Group Inc., 730 Wellington Street, Montreal, Quebec, Canada H3C 1T4, tel: 1-514-664-1244, fax: 1-514-664-1143, e-mail: [privacy@stingray.com](mailto:privacy@stingray.com).
+  * If you are located in America: Customer Support re Privacy, Stingray Group Inc., 730 Wellington Street, Montreal, Quebec, Canada H3C 1T4, tel: 1-514-664-1244, fax: 1-514-664-1143, e-mail: [privacy@stingray.com](mailto:privacy@stingray.com).
   * If you are located in Europe or in the rest of the world: Customer Support re Privacy, Stingray Digital International Limited, Riverside Studios, 65 Aspenlea Road, London W6 8LH, United Kingdom, tel: +44 (0) 208 237 1197, email: [privacy@stingray.com](mailto:privacy@stingray.com)
 
 
 
 Your request may be accepted or denied by Stingray based on the applicable laws.
 
-Stingray Digital Group Inc. is the data controller for the purposes of the personal data processed under this Privacy Policy.
+Stingray Group Inc. is the data controller for the purposes of the personal data processed under this Privacy Policy.
 
 **LANGUAGE**
 
@@ -124,4 +124,4 @@ Es ist der ausdrückliche Wunsch der Parteien, dass dieses Dokument und alle zug
 
 Het is de uitdrukkelijke wens van de partijen dat dit document en alle bijbehorende documenten, waaronder mededelingen en andere communicatie, alleen in het Engels zijn opgesteld.
 
-Last updated: May 25th, 2018.
+Last updated: May 30th, 2019.
