@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21stcenturywire.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231013624id_/https%3A//21stcenturywire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21stcenturywire.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630204729id_/https%3A//21stcenturywire.com/privacy) for the most accurate reproduction.*
 
 # 21st Century Wire Privacy Policy - 21st Century Wire
 
@@ -45,8 +45,8 @@ As described above, we use your Personal Information, through third party Servic
 
 You can get more information about opting out of these programs directly by visiting these links:
 
-<https://www.google.com/settings/ads/anonymous>  
-<https://www.sovrn.com/privacy-policy/>
+<https://www.google.com/settings/ads/anonymous> _(No longer applicable to the Site)_  
+<https://www.sovrn.com/privacy-policy/> _(No longer applicable to the Site)_
 
 Additionally, you can opt out of some of these and other Services by visiting the Digital Advertising Alliance’s opt-out portal at: <http://optout.aboutads.info/>.
 
@@ -55,6 +55,8 @@ Specifically for email marketing communications, you can manage your MailChimp e
 **DO NOT TRACK**
 
 Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+21st Century Wire endorses the use of browsers that do not track your online activity. We recommend the [Brave browser](http://21w.co/brave) as an alternative for viewing the Site.
 
 **YOUR RIGHTS**
 
