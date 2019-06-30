@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813172534id_/https%3A//www.4checks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224605id_/https%3A//www.checkgallery.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
 
-# 4checks - Personal Checks, Address Labels, Personal Cards, Checkbook Covers and Check Accessories
+# 30% Recycled Paper Checks | The Check Gallery
 
 ## Last updated January 2017
 
-Direct Checks Unlimited Sales, Inc. (“Direct Checks”) is committed to protecting your privacy and the security of your personal information. We strive to utilize technology that gives you a meaningful online experience. The following information will help you understand how Direct Checks collects, uses, and safeguards the information you provide through this website for the fulfillment of checks and related products for US-based checking accounts. We want to assure you that when we ask for personal information, our goal is to improve customer relationships. The terms "we", "our", and "us" " in this Privacy Policy (“policy”) refer to Direct Checks Unlimited Sales, Inc. and our associated brands including 4checks.
+Direct Checks Unlimited Sales, Inc. (“Direct Checks”) is committed to protecting your privacy and the security of your personal information. We strive to utilize technology that gives you a meaningful online experience. The following information will help you understand how Direct Checks collects, uses, and safeguards the information you provide through this website for the fulfillment of checks and related products for US-based checking accounts. We want to assure you that when we ask for personal information, our goal is to improve customer relationships. The terms "we", "our", and "us" in this Privacy Policy (“policy”) refer to Direct Checks Unlimited Sales, Inc. and our associated brands including The Check Gallery.
 
 ## Information Collection & Use
 
@@ -32,7 +32,7 @@ We reserve the right to disclose information about you as required by law and wh
 
 ## Security
 
-We are committed to protecting your personal information. In order to do so, we continually assess new technology for protecting your information to make sure that our security technology and information handling practices are in accordance with the highest industry standards and best practices on the Internet at all times. When you are on this Web site, the sensitive information you provide such as credit card and financial information is encrypted with secure socket layer (SSL) technology and scrambled en route and decoded once it reaches us. Please remember that e-mail, which is different from the encrypted sessions above, is not secure. Therefore, we ask that you do not send sensitive information such as credit card or account numbers to us via an unsecured e-mail message.
+We are committed to protecting your personal information. In order to do so, we continually assess new technology for protecting your information to make sure that our security technology and information handling practices are in accordance with the highest industry standards and best practices on the Internet at all times. When you are on this Web site, the sensitive information you provide such as credit card and financial information is encrypted with secure socket layer (SSL) technology and scrambled en route and decoded once it reaches us. Please remember that e-mail, which is different from the encrypted sessions above, is not secure. Therefore, we ask that you do not send sensitive information such as credit card or account numbers to us via an unsecured e-mail message. 
 
 ## Tracking Activity on our Website 
 
@@ -66,7 +66,7 @@ Dept. OPT, P.O. Box 35350
 
 Colorado Springs, CO 80935-9850
 
-1-800-995-9925
+1-800-518-5622
 
 We will respond to your request within a reasonable timeframe.
 
