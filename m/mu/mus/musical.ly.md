@@ -1,156 +1,157 @@
-> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428073544id_/https%3A//musical.ly/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630202746id_/https%3A//www.tiktok.com/en/privacy-policy) for the most accurate reproduction.*
 
-# musically
+# Privacy Policy | TikTok
 
-_**Privacy Policy**_
+_Last updated: February 2019_
 
-Effective Date: July 12, 2016 
+If you are an EU resident, instead of the below, this [Privacy Policy](http://tiktok.com/en-uk/privacy-policy) shall apply. If your usual residence is in Germany, this [Privacy Policy](http://tiktok.com/de/privacy-policy) shall apply. If your usual residence is in Russia, this [Privacy Policy](https://www.tiktok.com/ru/privacy-policy/) shall apply. If your residence is in India, this [Privacy Policy](https://www.tiktok.com/hi/privacy-policy) shall apply. If your residence is in another country, and not the US, this [Privacy Policy](https://www.tiktok.com/en/privacy-policy-row) shall apply.
 
-This Privacy Policy is incorporated by this reference into the End User License Agreement and Terms of Service located at _<http://musical.ly/term.html>_ (“ _ **EULA**_ ”). The terms “ _ **Company**_ ,” “ _ **we**_ ,” and “ _ **us**_ ” include Musical.ly, an exempted company duly incorporated with limited liability and validly existing under the Laws of the Cayman Islands d/b/a Musical.ly Inc., and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the EULA. This Privacy Policy explains how the Company may:
-
-  * collect,
-
-  * use, and
-
-  * disclose
-
-
-
-
-information we obtain through the Service. As used in this Privacy Policy, “ _ **Personal Information**_ ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as your name, address, email address, or phone number. We do not consider Personal Information to include information that has been aggregated and/or de-identified so that it does not allow a third party to easily identify a specific individual.
-
-**The Service Collects Your Information**
-
-We collect information, including Personal Information, when you: 
-
-  * register to use the Service; 
-
-  * log in with social networking credentials;
-
-  * submit information to us when you use the Service; and
-
-  * communicate with us. 
-
-
-
-
-We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.  
   
----  
-  
-**Personal Information Collection.** You may browse the public-facing portions of the Service without registering an Account with the Company. If you register an Account with us to use the Service, then you must provide us with certain Personal Information, such as your email address, or you may be able to register using your User credentials to certain social media sites, such as Twitter or Facebook. 
+Welcome to TikTok (the “Platform”). The Platform is provided and controlled by musical.ly, Inc. (“musical.ly”, “we” or “us”). We are committed to protecting and respecting your privacy. This Privacy Policy covers the experience we provide for users age 13 and over on our Platform. For information about our under-13 experience (“Children’s Platform”) and our practices in the United States regarding children’s privacy, please refer to our [Privacy Policy for Younger Users](https://www.tiktok.com/en/privacy-policy-for-younger-users).
 
-**Social Sign-On.** We may collect Personal Information from a social media website when you use your social media credentials to log into the Service. For example, when you log in with your Twitter or Facebook credentials, we may collect the Personal Information you have made publicly available on those websites, such as your User name and profile picture. We may also obtain other non-public information with your permission.
+Capitalized terms that are not defined in this policy have the meaning given to them in the [Terms of Service](https://www.tiktok.com/i18n/terms/).
 
-**Using the Service.** We collect information that you Post to the Service. For example, when you Post comments, a short biography, UGVs or Broadcast Content on the Service, we will collect the information you include in these submissions, including any Personal Information. 
+##   
+What information do we collect?
 
-**Messages.** We collect and process information you provide, including any Personal Information, in the context of composing, sending, or receiving messages through our Service’s messaging functionality, and we may collect information about your use of our messaging functionality. Please be aware that messages sent to other Users of our Service will be accessible by those other Users and that we are not responsible for the manner in which those Users use or disclose messages.
+We collect information when you create an account and use the Platform, such as your contact details, content you create, and your location. We also collect information you share with us from third-party social network providers, and technical and behavioral information about your use of the Platform. We also collect information contained in the messages you send through our Platform and information from your phone book, if you grant us access to your phone book on your mobile device.
 
-**Location Information.** We collect information about your location if you grant us permission to do so. If you change your mind and do not want us to collect your location information, then you can choose to hide your location through the settings available with the Apps. 
+### Information you choose to provide
 
-**Customer Support.** We collect all information that you provide to us, including any Personal Information, when you contact us for customer-support purposes. 
+For certain activities, such as when you register, upload content to the Platform, or contact us directly, you may provide some or all of the following information:
 
-**Cookies, Automatic Data Collection, and Related Technologies.** The Service collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics. 
-
-When you visit the Service, we and our third-party service providers receive and record information on our server logs from your browser, including your IP address, and from cookies and similar technology. Cookies are small text files containing a string of alphanumeric characters. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential. We may use third party cookies on our Service as well. For instance, we may use Google Analytics to collect and process certain analytics data. Google provides some additional privacy options described at www.google.com/policies/privacy/partners/ regarding Google Analytics cookies. By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
-
-**How THE Company Uses Your Information**
-
-We use Personal Information to: 
-
-  * facilitate and improve our Service; and
-
-  * communicate with you.
+  * Registration information, such as age, language, and email or phone number
+  * Profile information, such as name, social media account information, and profile image
+  * User-generated content, including comments, photographs, videos, and virtual item videos that you choose to upload or broadcast on the Platform (“User Content”)
+  * Payment information, such as PayPal or other third-party payment information (where required for the purpose of payment)
+  * Your phone and social network contacts, with your permission. If you choose to find other users through your phone contacts, we will access and collect the names and phone numbers and match that information against existing users of the Platform. If you choose to find other users through your social network contacts, we will collect your public profile information as well as names and profiles of your social contacts
+  * Your opt-in choices and communication preferences
+  * Information to verify an account such as a form of identification
+  * Information in correspondence you send to us
+  * Information you share through surveys or your participation in challenges, sweepstakes, or contests such as your gender, age, likeness, and preferences.
 
 
 
+### Information we obtain from other sources
 
-We may use de-identified and aggregated information for any lawful purpose, including for marketing purposes.  
-  
----  
-  
-**Internal and Service-Related Usage.** We use information, including Personal Information, for internal and Service-related purposes and may provide it to third parties to allow us to provide and improve the Service. For example, we may scan any sound recordings in the local library on your mobile device to identify such content, and we may use that information to restrict certain uses of the content, to pay copyright owners of such content, or to develop or provide other functionalities on the Service.
+We may receive information about you from other sources. For example, if you choose to link or sign up using your social network (such as Facebook, Twitter, Instagram, or Google), we may collect information from these third-party services, including your contact lists for these services and information relating to your use of the Platform in relation to these services.
 
-**Communications.** We may send email to the email address you provide to us (a) for customer service related purposes, (b) to provide you with updates or information relating to the Service, including promotions and other opportunities, or (c) for enforcement of the EULA or this Privacy Policy. 
+We will also receive information about you (including age data and demographic information) from third parties (such as advertising networks and analytics providers) and from other sources, including business directories and other commercially or publicly available sources.
 
-**Aggregate Data.** We may de-identify and aggregate information collected through the Service and use it for any lawful purpose.
+###   
+Information we collect automatically
 
-**the Company May Disclose Your Information**
+We automatically collect certain information from you when you use the Platform, including your IP address, location-related data (as described below), unique device identifiers, browsing history (including content you have viewed in the Platform), Cookies (as defined below), your mobile carrier, time zone setting, and mobile or device information including the model of your device, screen resolution, operating system, app and file names and types, and platform.
 
-We may share your information:
+### Usage Information
 
-  * with our third-party service providers;
+We collect information regarding your use of the Platform and any other User Content that you generate through and broadcast on our Platform. We also link your subscriber information with your activity on our Platform across all your devices using your email, phone number, or similar information.
 
-  * to comply with legal obligations;
+### Location data
 
-  * to protect and defend our rights and property and the rights, property and safety of our Users; and
+We collect information about your location, including location information based on your SIM card and/or IP address. With your permission, we may also collect Global Positioning System (GPS) data.
 
-  * with your permission.
+### Messages
+
+We collect and process, which includes scanning and analyzing, information you provide in the context of composing, sending, or receiving messages through our Service's messaging functionality. That information includes the content of the message and information about when the message has been sent, received and/or read, as well as the participants of the communication. Please be aware that messages sent to other users of our Service will be accessible by those users and that we are not responsible for the manner in which those users use or disclose messages.
+
+### Metadata
+
+When you upload User Content, you automatically upload certain metadata that is connected to the User Content. Metadata describes other data and provides information about your User Content that will not always be evident to the viewer. In connection with your User Content the metadata can describe how, when, and by whom the piece of User Content was collected and how that content is formatted. It also includes information, such as your account name, that enables other users to trace back the video to your user account. Additionally, metadata will consist of data that you chose to provide with the video, e.g. any hashtags used to mark keywords to the video and captions.
+
+### Cookies
+
+We and our vendors and service providers use cookies and other similar technologies (e.g. web beacons, flash cookies, etc.) (“Cookies”) to automatically collect information, measure and analyze which web pages you click on and how you use the Platform, enhance your experience using the Platform, improve our services, and provide you with targeted advertising on the Platform and elsewhere across your different devices. Cookies are small files which, when placed on your device, enable the Platform to provide certain features and functionality. Web beacons are very small images or small pieces of data embedded in images, also known as “pixel tags” or “clear GIFs,” that can recognize Cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using the Platform, you consent to our use of Cookies.
+
+Additionally, we allow our business partners, advertising networks, and other advertising vendors and service providers (including analytics vendors and service providers) to collect information about your online activities through Cookies. We link your contact or subscriber information with your activity on our Platform across all your devices, using your email or other log-in or device information. These third parties may use this information to display advertisements on our Platform and elsewhere online tailored to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.
+
+## How we use your information
+
+We use your information to fulfill and enforce our [Terms of Service](https://www.tiktok.com/i18n/terms/), to improve and administer the Platform, and to allow you to use its functionalities. We may also use your information to, among other things, show you suggestions, promote the Platform, and customize your ad experience.
+
+We generally use the information we collect:
+
+  * to fulfill requests for products, services, Platform functionality, support and information for internal operations, including troubleshooting, data analysis, testing, research, statistical, and survey purposes and to solicit your feedback
+  * to customize the content you see when you use the Platform. For example, we may provide you with services based on the country settings you have chosen or show you content that is similar to content that you liked or interacted with
+  * to send promotional materials from us or on behalf of our affiliates and trusted third parties
+  * to improve and develop our Platform and conduct product development
+  * to measure and understand the effectiveness of the advertising we serve to you and others and to deliver targeted advertising
+  * to make suggestions and a customized ad experience
+  * to support the social functions of the Platform, including to permit you and other users to connect with each other through the Platform and for you and other users to share, download, and otherwise interact with User Content posted through the Platform
+  * to use User Content as part of our advertising and marketing campaigns to promote the Platform
+  * to help us detect abuse, fraud, and illegal activity on the Platform
+  * to ensure that you are old enough to use the Platform (as required by law)
+  * to communicate with you, including to notify you about changes in our services
+  * to announce you as a winner of our contest, sweepstakes, or promotions if permitted by the promotion rule, and to send you any applicable prizes
+  * to enforce our terms, conditions, and policies
+  * consistent with your permissions, to provide you with location-based services, such as advertising and other personalized content
+  * to inform our algorithms
+  * to combine all the information we collect or receive about you for any of the foregoing purposes
+  * for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
 
 
+## How we share your information
 
-We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.   
-  
----  
-  
-**We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with the provision of the Service. 
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect. We will share your information with the following selected third parties:
 
-**Social Networking and Other Websites.** The Service may allow you to share information, including Personal Information, with social networking websites, such as Twitter, Facebook and Instagram. We do not share your Personal Information with these social networking sites unless you direct the Service to share your Personal Information. The use of your Personal Information by any social networking websites will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
+  *  **Authorized third-party vendors and service providers.** We share your information with third-party vendors and service providers that help us perform our business operations, including research, payment processing and transaction fulfillment, database maintenance, contest administration, technology services, deliveries, email deployment, advertising, analytics, measurement, data storage and hosting, disaster recovery, search engine optimization, marketing, and data processing.
+  *  **Business partners.** We may share your information with our business partners so that we can make you special offers via the Platform.
+  *  **Corporate group.** We may share your information with a parent, subsidiary, or other affiliate of our corporate group.
+  *  **Business transfers.** We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+  *  **Legal purposes.** We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of musical.ly Inc, our affiliates, users, or the public.
+  *  **Advertisers.** We give advertisers reports about the types of people seeing their ads and how their ads are performing.
+  *  **With your consent.** We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
 
-**User Content and Information.** User Content you Post to the Service, such as UGVs, comments, Broadcast Content and your short biography, will be displayed on the Service and viewable by other users. In addition, your profile information, such as any photograph of you and your User name, will also be searchable and accessible by other Users. We are not responsible for the privacy practices of the other Users who will view and use this information, so you should carefully consider whether to Post any User Content on the Service or how you identify yourself on the Service. You should not disclose your home address or the address of your place of business, school or other locations you frequent on a regular basis in any User Content.
 
-**Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. The Service may allow you to opt-in to receive communications from third parties, including the record labels who own the rights to any sound recordings you use on the Service. If you give us your permission to share your Personal Information with such third parties, then you may receive communications from such third parties and you are solely responsible for your engagement with such third parties.
 
-**Location Information.** We may share your location information with other Users by tagging your UGVs and/or Broadcast Content with your location information. We may share your approximate location, but not your exact location, with other Users.
+If you access third-party services, such as Facebook, Google, or Twitter, to login to the Platform or to share information about your usage on the Platform with others, these third-party services may be able to collect information about you, including information about your activity on the Platform, and they may notify your connections on the third-party services about your use of the Platform, in accordance with their privacy policies.
 
-**As Required By Law and Similar Disclosures**. We may access, preserve, and disclose your Personal Information or other account information if we believe doing so is required or appropriate to (a) comply with law enforcement requests and legal process, such as a court order or subpoena; (b) respond to your requests; or (c) protect your, our or others’ rights, property, or safety. For the avoidance of doubt, disclosure of Personal Information may occur if you Post any Objectionable Content on or through the Service.
+If you choose to engage in public activities on the Platform, you should be aware that any information you share may be read, collected, or used by other users. You should use caution in disclosing personal information while engaging. We are not responsible for the information you choose to submit.
 
-**Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy or liquidation where the business will not continue as a going concern, receivership, sale of the Company’s assets, or transition of the Service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract.  The use of your Personal Information following any of these events will be governed by the provisions of this Privacy Policy in effect at the time the applicable Personal Information was collected.
+## Your Choices
 
-**Consent.** We may also disclose your Personal Information with your permission.
+  * You may be able to refuse or disable Cookies by adjusting your browser settings. Because each browser is different, please consult the instructions provided by your browser. Please note that you may need to take additional steps to refuse or disable certain types of Cookies. For example, due to differences in how browsers and mobile apps function, you may need to take different steps to opt out of Cookies used for targeted advertising in a browser and to opt out of targeted advertising for a mobile application, which you may control through your device settings or mobile app permissions. In addition, your opt-out selection is specific to the particular browser or device that you are using when you opt out, so you may need to opt-out separately for each of browser or device. If you choose to refuse, disable, or delete Cookies, some of the functionality of the Platform may no longer be available to you.
 
-**Security of Your Information**
 
-We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional access, use or disclosure.
+  * You can manage third-party advertising preferences for some of the third parties we work with to serve advertising across the Internet by clicking here and by utilizing the choices available at <http://www.networkadvertising.org/managing/opt_out.asp> and [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-**Children’s Privacy**
 
-We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.  
-  
----  
-  
-We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, then you may alert us at privacy@musical.ly. If we learn that we have collected any Personal Information from children under 13, then we will promptly take steps to delete such information and terminate the child’s account.
+  * Your mobile device may include a feature that allows you to opt out of some types of targeted advertising ("Limit Ad Tracking" on iOS and "Opt out of Interest-Based Ads" on Android).
 
-**international users**
 
-By using the Service, you will transfer data to the United States.  
-  
----  
-  
-By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of California and the adjudication of any disputes arising in connection with the Company or the Service will be in accordance with the EULA located here http://musical.ly/term.html **.**
+  * You can opt out of marketing or advertising emails by utilizing the “unsubscribe” link or mechanism noted in marketing or advertising emails.
+  * You can switch off GPS location information functionality on your mobile device if you do not wish to share GPS information.
+  * If you have registered for an account you may access, review, and update certain personal information that you have provided to us by logging into your account and using available features and functionalities.
+  * Some browsers transmit "do-not-track" signals to websites. Because of differences in how browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
-**If you are visiting the Service from the European Union or other regions with laws governing data collection and use, then please note that you are agreeing to the transfer of your information to the United States and/or Japan and processing globally. By providing your information to the Service, you consent to any transfer and processing in accordance with this Privacy Policy.**
 
-**UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION**
 
-If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, then please send an e-mail to privacy@musical.ly **.**
+## Security
 
-**CHANGES TO OUR PRIVACY POLICY AND PRACTICES**
+We use reasonable measures to help protect information from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure. Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
 
-We may revise this Privacy Policy, so please review it periodically.  
-  
----  
-  
-**Posting of Revised Privacy Policy.** We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, then bookmark this page and read this Privacy Policy periodically.
+## Children
 
-**New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, then we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+The privacy of users under the age of 13 (“Younger Users”) is important to us. We provide a separate experience for Younger Users in the United States on the Children’s Platform, in which we collect only limited information. For more information on our United States data collection practices for Younger Users, please visit the [Privacy Policy for Younger Users](https://www.tiktok.com/en/privacy-policy-for-younger-users).
 
-**Contact Information**
+The Platform otherwise is not directed at children under the age of 13. If we become aware that personal information has been collected on the Platform from a person under the age of 13 we will delete this information and terminate the person’s account. If you believe that we have collected information from a child under the age of 13 on the Platform, please contact us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
 
-Musical.ly Inc.  
-1920 Olympic Boulevard  
-Santa Monica, CA 90404  
-privacy@musical.ly
+## California Residents
 
--6-
+Once a calendar year, you may be entitled to obtain information about personal information that we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information, as well as the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. To request a notice, please submit your request to [privacy@tiktok.com](mailto:privacy@tiktok.com).
+
+Users of the Platform who are California residents and are under 18 years of age may request and obtain removal of User Content they posted by emailing us at [privacy@tiktok.com](mailto:privacy@tiktok.com). All requests must be labeled "California Removal Request" on the email subject line. All requests must provide a description of the User Content you want removed and information reasonably sufficient to permit us to locate that User Content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.
+
+## Changes
+
+We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will notify you by updating the “Last Updated” date at the top of this policy and posting the new Privacy Policy and providing any other notice required by applicable law. We recommend that you review the Privacy Policy each time you visit the Platform to stay informed of our privacy practices.
+
+## Contact
+
+Questions, comments and requests regarding this policy should be addressed to:
+
+  * Musical.ly Inc. Address: Attn: TikTok Legal Department 10100 Venice Blvd, Suite 401, Culver City, CA 90232, USA
+  * Email Address: [privacy@tiktok.com](mailto:privacy@tiktok.com)
+
+
