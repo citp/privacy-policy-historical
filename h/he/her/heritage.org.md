@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031158id_/https%3A//www.heritage.org/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224137id_/https%3A//www.heritage.org/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Heritage Foundation
 
