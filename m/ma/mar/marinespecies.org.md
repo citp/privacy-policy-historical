@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinespecies.org privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909045710id_/http%3A//www.vliz.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinespecies.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235618id_/http%3A//www.vliz.be/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Vlaams Instituut voor de Zee
 
