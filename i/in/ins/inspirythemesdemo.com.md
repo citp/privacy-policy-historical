@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inspirythemesdemo.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812041623id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirythemesdemo.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630142805id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
 
-# ClouDNS: Privacy policy
+# Privacy Policy | ClouDNS
 
   1. IP addresses and Browser details  
 Our servers detect the IP address of your browser from the TCP protocol. This IP address is used by ClouDNS servers only for our internal use - security and rate limiting.  
@@ -25,7 +25,8 @@ All our Customers can manage what e-mail notifications they want to receive from
 
 
 
-Data Protection Officer  
-[According to GDPR regulations, Cloud DNS Ltd is below the required limit for having a Data Protection Officer.](http://ec.europa.eu/justice/smedataprotect/index_en.htm) In case of any issues which require a contact with the person responsible for our customer data at Cloud DNS Ltd. please contact admin@cloudns.net and address your message to the Company Manager (CEO): Boyan Peychev 
+### Data Protection Officer
+
+[According to GDPR regulations, Cloud DNS Ltd is below the required limit for having a Data Protection Officer.](http://ec.europa.eu/justice/smedataprotect/index_en.htm) In case of any issues which require a contact with the person responsible for our customer data at Cloud DNS Ltd. please contact admin@cloudns.net and address your message to the Company Manager (CEO): Boyan Peychev  [ ](https://web.archive.org/livechat/)
 
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. [Learn more](https://web.archive.org/privacy-policy/)
