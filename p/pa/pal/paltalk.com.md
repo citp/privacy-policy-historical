@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529110403id_/http%3A//www.paltalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211111id_/http%3A//www.paltalk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Paltalk
 
-**Effective May 25, 2018**
-
 Paltalk values our users privacy and protection of their data, we build our apps and operate our business with this in mind.
 
-Paltalk is a property of PeerStream Inc. who also operates Camfrog, TinyChat, FirstMet, 50more, Ribbit, Pack, Firetalk, and Vumber.  Your services are provided by Peerstream Inc. who also acts as a data controller for your information.
+Paltalk is a property of PeerStream Inc. who also operates Camfrog, TinyChat, Ribbit, Pack, Firetalk, and Vumber.  Your services are provided by Peerstream Inc. who also acts as a data controller for your information.
 
 This privacy policy applies to all of Paltalk’s services.  By using Paltalk you agree to this Privacy Policy as well as our [Terms of Service](http://www.paltalk.com/terms).
 
