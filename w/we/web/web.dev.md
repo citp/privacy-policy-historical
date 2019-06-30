@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web.dev privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231231209id_/https%3A//policies.google.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web.dev privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235645id_/https%3A//policies.google.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Privacy & Terms – Google
 
@@ -58,7 +58,7 @@ Your location can be determined with varying degrees of accuracy by:
 
 
 
-The types of location data we collect depend in part on your device and account settings. For example, you can [turn your Android device’s location on or off](https://support.google.com/accounts?p=privpol_location) using the device’s settings app. You can also turn on [Location History](https://support.google.com/accounts?p=privpol_lochistory) if you want to save and manage your location information in your account.
+The types of location data we collect depend in part on your device and account settings. For example, you can [turn your Android device’s location on or off](https://support.google.com/accounts?p=privpol_location) using the device’s settings app. You can also turn on [Location History](https://support.google.com/accounts?p=privpol_lochistory) if you want to create a private map of where you go with your signed-in devices.
 
 * * *
 
@@ -155,7 +155,7 @@ Examples of these services include:
 
   * Google Hangouts, for making domestic and international calls
   * Google Voice, for making calls, sending text messages, and managing voicemail
-  * Project Fi, for a phone plan
+  * Google Fi, for a phone plan
 
 
 
@@ -187,6 +187,7 @@ Examples of how we use your information to deliver our services include:
   * We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
   * Photos and videos you upload to Google Photos are used to help you create albums, animations, and other creations that you can share. [Learn more](https://support.google.com/photos?p=privpol_manage)
   * A flight confirmation email you receive may be used to create a “check-in” button that appears in your Gmail
+  * When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.
 
 
 
@@ -266,7 +267,7 @@ When lots of people start searching for something, it can provide useful informa
 
 ### specific partners
 
-For example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies. Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings. [Learn more](https://policies.google.com/technologies/partner-sites) about these partners and how they use your information.
+For example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies. Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings. [Learn more](https://policies.google.com/privacy/google-partners) about these partners and how they use your information.
 
 ### servers around the world
 
@@ -290,7 +291,7 @@ For example, we may display a Google Doodle on the Search homepage to celebrate 
 
 ### Affiliates
 
-An affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc. Learn more about the [companies providing business services in the EU](https://privacy.google.com/businesses/affiliates).
+An affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc. Learn more about the [companies providing business services in the EU](https://privacy.google.com/businesses/affiliates).
 
 ### Algorithm
 
