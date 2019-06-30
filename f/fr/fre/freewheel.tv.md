@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224827id_/http%3A//freewheel.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235625id_/https%3A//freewheel.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FreeWheel, A Comcast Company
 
-FreeWheel Media, Inc. and its wholly-owned subsidiary, Comcast International France SAS (together, “FreeWheel”, “we”, “us” or “our”) is committed to protecting your privacy and ensuring that your personal data is protected.ted.
+FreeWheel Media, Inc. and its wholly-owned subsidiary, Comcast International France SAS (together, “FreeWheel”, “we”, “us” or “our”) is committed to protecting your privacy and ensuring that your personal data is protected.
 
 This Privacy Policy applies to personal data collected about you by us via the Sites and our Services. Unless otherwise provided in this Policy, this Policy does not cover our offline data practices.
 
@@ -11,9 +11,10 @@ This Privacy Policy applies to personal data collected about you by us via the S
  
 * **What Personal Data Do We Collect** **?**
 
-– Information we collect from you directly  
-– Types of Information We Collect when You Visit our Sites  
-– Types of Information We Collect from Other Sources 
+  * Information we collect from you directly
+  * Types of Information We Collect when You Visit our Sites
+  * Types of Information We Collect from Other Sources
+
 
 * **How We Use Your Information** Collecting your personal data helps us to better understand what you need from us. When you provide your personal data and related information about your interests, we can learn more about what types of products and services you might be most interested in so that we can present the right information to you and improve your experience of our Sites.
 
@@ -21,32 +22,33 @@ This Privacy Policy applies to personal data collected about you by us via the S
 
 * **Cookies** We use “cookies” which are files or pieces of information that may be stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit our Sites. We use cookies to make our Sites easier to use and to better tailor the Sites and our products to your interests and needs.
 
-  You may choose not to accept cookies or may disable them on your browser but parts of our site may not work properly without them.
+  You may choose not to accept cookies or may disable them on your browser but parts of our site may not work properly without them. 
 
 * **How We May Contact You** We use an opt-in standard for sending you marketing communications.
 * **Third Party Sites** If you access the Sites via a third party website, we encourage you to read their individual privacy policies and any terms and conditions to understand how they apply to any data you might permit them to share with us.
 * **Retention of Your Data** We will keep the data we hold about you for as long as we believe is necessary to provide you the information you requested or as reasonably useful for commercial purposes, unless you tell us you would like us to stop holding your data. We retain IP addresses that we have collected on behalf of our customers for a maximum of 18 months from the date of our receipt.
-* **Sharing Information ** In connection with our Sites, we use the services of third parties (i.e., technology consultants, CRM vendors, etc.) who will sometimes, in the course of providing services to us, be given access to the information you have provided to us. Any such third parties are not authorised by us to use your personal data in any other way and will be required by us to implement measures to protect your personal data. Please note that we may need to disclose your personal data if we are required to do so by law including to meet national security or law enforcement requirements.
+* **Sharing Information ** In connection with our Sites, we use the services of third parties (i.e., technology consultants, CRM vendors, etc.) who will sometimes, in the course of providing services to us, be given access to the information you have provided to us. Any such third parties are not authorised by us to use your personal data in any other way and will be required by us to implement measures to protect your personal data. Please note that we may need to disclose your personal data if we are required to do so by law including to meet national security or law enforcement requirements. 
 * **Public Fora** We sometimes offer you the option to post content to a blog, message board, or chat room. In the course of doing so, you may provide personal data. You should be aware that any visitor may view your postings on a blog, on a message board, or in a chat room.
-* **International Transfer of Information ** Our primary data centres are located in Europe, Singapore, China and the USA. These data centres are used to store data that we receive from end-users. We comply with all applicable laws to protect the security of data during international transfer. FreeWheel Media, Inc. and its subsidiary Comcast International France SAS participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.
+* **International Transfer of Information ** Our primary data centres are located in Europe, Singapore, China and the USA. These data centres are used to store data that we receive from end-users. We comply with all applicable laws to protect the security of data during international transfer. FreeWheel Media, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.
 * **Security** We take reasonable precautions to keep your personal data secure and where we share your data with third parties we require them to do the same.
 * **Updates** This Policy is effective as of the date set out above. We encourage you to check this Policy from time to time. If we change this Privacy Policy, we will notify you by posting the updated version of the privacy policy here. If, however, we intend to use personal data in a manner different from that stated at the time of collection we will notify visitors by posting a notice on our Sites for thirty (30) days in advance of such use and we will give you the opportunity to opt out.
-* ** Your Rights and our Contact Information **We process data based on your consent, where necessary, our legitimate interest in operating our sites and offering our services, or on the basis that your personal data is required for us to provide the Services to you under the relevant contract between us.  This involves several specific purposes as outlined in Section 2, “ **How We Use Your Information**.” 
+* ** Your Rights and our Contact Information** We process data based on your consent, where necessary, our legitimate interest in operating our sites and offering our services, or on the basis that your personal data is required for us to provide the Services to you under the relevant contract between us.  This involves several specific purposes as outlined in Section 2, “ **How We Use Your Information**.” 
 
   Please note that you always have the right to request that we:
 
-– provide you information about how we use your data;  
-– give you access to, and a copy of your personal data we hold in our systems;  
-– stop contacting you;  
-– correct, update or delete your personal data in our records;  
-– stop using, and ensure that all third parties stop using, some or all of your personal data; or  
-– note any violations of the Privacy Policy. 
+  * provide you information about how we use your data;
+  * give you access to, and a copy of your personal data we hold in our systems;
+  * stop contacting you;
+  * correct, update or delete your personal data in our records;
+  * stop using, and ensure that all third parties stop using, some or all of your personal data; or
+  * note any violations of the Privacy Policy.
+
 
 
 If you would like us to change how we deal with your personal data, you can send us an email at [legalnotices@freewheel.tv](mailto:legalnotices@freewheel.tv).
 
 * ** Important Information for United States Residents in California** In the United States, California residents have the right to request and obtain a list of the third parties, if any, to which personal information (as defined by California law) has been disclosed for their direct marketing purposes during the immediately prior calendar year (e.g. requests made in 2018 will receive information about 2017 sharing activities, if any). California residents also have the right to opt out of having their personal information shared for direct marketing purposes. You may do so by sending an email to [legalnotices@freewheel.tv](mailto:legalnotices@freewheel.tv), using this Policy as the subject line
-* **Do Not Track ** When we collect tracking information on our web sites, we do not respond to Users’ Do Not Track settings in browsers.  You may choose to decline cookies in your browser settings on a desktop computer, or by declining tracking on a mobile device.
+* **Do Not Track ** When we collect tracking information on our web sites, we do not respond to Users’ Do Not Track settings in browsers. You may choose to decline cookies in your browser settings on a desktop computer, or by declining tracking on a mobile device.
 * **Children ** This Site is not intended for, nor does it seek to receive information from, children under the age of 13.
 * **Our Services to Customers** We are an application services provider, and host a software application that our customers access online. Although end users have a right to access their personal data collected by our customers, we have no direct business relationship with the end users of our customers. Please direct your requests to our customers.
 
@@ -62,19 +64,20 @@ _Types of information we collect from you directly:_
 
 The types of information you may give us directly include:
 
-– your name;  
-– your username and password to access our Services;  
-– employer;  
-– job title;  
-– telephone number;  
-– e-mail address;  
-– employment information;  
-– site name and URL;  
-– address;  
-– academic information;  
-– number of page views your site receives;  
-– how you anticipate you will make use of our products and services; and  
-– how you heard about us. 
+  * your name;
+  * your username and password to access our Services;
+  * employer;
+  * job title;
+  * telephone number;
+  * e-mail address;
+  * employment information;
+  * site name and URL;
+  * address;
+  * academic information;
+  * number of page views your site receives;
+  * how you anticipate you will make use of our products and services; and
+  * how you heard about us.
+
 
 
 _Types of information we collect when you visit our Sites:_
@@ -83,21 +86,23 @@ You can visit and navigate our Site to find information about our companies and 
 
 Here are examples of the types of information we may collect from you when you visit the Sites:
 
-– information about the type of browser and operating system you use;  
-– your internet service provider;  
-– details of the web pages and advertisements you have viewed;  
-– your IP address;  
-– log on time;  
-– the hyperlinks you have clicked; and  
-– the websites you visited before arriving at our Site. 
+  * information about the type of browser and operating system you use;
+  * your internet service provider;
+  * details of the web pages and advertisements you have viewed;
+  * your IP address;
+  * log on time;
+  * the hyperlinks you have clicked; and
+  * the websites you visited before arriving at our Site.
+
 
 
 _Types of information we collect from other sources (such as Facebook Connect, Google+, LinkedIn, or an Open ID provider)_ :
 
-– name;  
-– email address;  
-– IP address; and  
-– details of the webpages you have viewed. 
+  * name;
+  * email address;
+  * IP address; and
+  * details of the webpages you have viewed.
+
 
 
 * #### HOW WE USE YOUR INFORMATION
@@ -106,21 +111,23 @@ Collecting your personal data helps us to better understand what you need from u
 
 We use personal data that we collect about you for the following purposes:
 
-– to contact you to further discuss your interest in our companies and our Services;  
-– to better understand what products or services may be of interest to you;  
-– to improve our Sites and the Services we provide by presenting the information that is most interesting to users of the sites;  
-– to perform any automated decision making such as allocating you to a specific user group with common characteristics in order to understand what products or services may be of interest to you and provide you with advertisements on social channels like Facebook, LinkedIn and Twitter that may be most relevant to you;  
-– to send you information regarding our companies or partners (such as marketing promotions and events).  
-– to evaluate our Sites, your experience as a visitor, and our offerings to our clients; and  
-– to track where our visitors may be coming from and what type of software they are using so we can continuously improve our visitors’ online experience and improve the Sites. 
+  * to contact you to further discuss your interest in our companies and our Services;
+  * to better understand what products or services may be of interest to you;
+  * to improve our Sites and the Services we provide by presenting the information that is most interesting to users of the sites;
+  * to perform any automated decision making such as allocating you to a specific user group with common characteristics in order to understand what products or services may be of interest to you and provide you with advertisements on social channels like Facebook, LinkedIn and Twitter that may be most relevant to you;
+  * to send you information regarding our companies or partners (such as marketing promotions and events).
+  * to evaluate our Sites, your experience as a visitor, and our offerings to our clients; and
+  * to track where our visitors may be coming from and what type of software they are using so we can continuously improve our visitors’ online experience and improve the Sites.
+
 
 
 We use personal data that we collect about you with your consent to send you information regarding our companies or partners (such as marketing promotions and events).
 
 When you express interest in purchasing our services, we also use personal data that we collect about you for the following additional purposes:
 
-– to take necessary steps at your request prior to entering into a contract with you for our Services; and  
-– to provide you with Services in accordance with a contract we agree with you. 
+  * to take necessary steps at your request prior to entering into a contract with you for our Services; and
+  * to provide you with Services in accordance with a contract we agree with you.
+
 
 
 * #### COOKIES
@@ -131,7 +138,7 @@ In addition, we adhere to the Digital Advertising Alliance’s Self-regulatory P
 
 We may also use cookies to collect information about the device you are using to view the Site or the type of Internet browser or operating system you are using, and link this to your personal data. This is to ensure that our Sites present the best web experience for you and are effective information resources.
 
-When you click “ **Accept** ” on our cookie banner, you agree to the placement of cookies on your device by us and our analytics providers. If you do not click accept, we will place an opt-out cookie on your browser instead of our tracking cookie.   You may change your preferences or withdraw your consent at any time.  Most internet browsers are initially set to accept cookies, however it is possible to change the settings to block the cookies in order to opt out of the cookies we use on our Sites or to alert you when cookies are being sent to your device. You can refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings or follow the instructions as provided below. But please remember, if you disable the cookies that we use, or you do not accept our cookies, you may not be able to visit certain areas of our Site or you may not receive personalised information when you visit the Site. If you would like more information about the types of cookies we use and how we use them, please click here.
+When you click “ **Accept** ”on our cookie banner, you agree to the placement of cookies on your device by us and our analytics providers. If you do not click accept, we will place an opt-out cookie on your browser instead of our tracking cookie.   You may change your preferences or withdraw your consent at any time.  Most internet browsers are initially set to accept cookies, however it is possible to change the settings to block the cookies in order to opt out of the cookies we use on our Sites or to alert you when cookies are being sent to your device. You can refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings or follow the instructions as provided below. But please remember, if you disable the cookies that we use, or you do not accept our cookies, you may not be able to visit certain areas of our Site or you may not receive personalised information when you visit the Site. If you would like more information about the types of cookies we use and how we use them, please click here.
 
 _What does a cookie look like?_
 
@@ -225,13 +232,14 @@ We will keep the data we hold about you for as long as we believe is necessary t
 
 In connection with our Sites, we use the services of third parties (i.e., technology consultants, CRM vendors, etc.) who will sometimes, in the course of providing services to us, be given access to the information you have provided to us. Each of these service providers is contractually obligated to provide services to us in a manner consistent with this Policy. We may share your personal data with third parties as described below:
 
-– other companies that form part of the FreeWheel group so that they can understand which products and services are more likely to be suited to you;  
-– third parties who directly support the running of our Sites (including our data centre storage providers);  
-– third party providers fulfilling and tracking your requests and comments;  
-– recruitment management providers managing your employment application to us;  
-– customer service providers; and  
-– we will also disclose your personal data if we are required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;  
-– if at any time in the future we (or our assets) are purchased by another company we can share your data with them as one of those assets. 
+  * other companies that form part of the FreeWheel group so that they can understand which products and services are more likely to be suited to you;
+  * third parties who directly support the running of our Sites (including our data centre storage providers);
+  * third party providers fulfilling and tracking your requests and comments;
+  * recruitment management providers managing your employment application to us;
+  * customer service providers; and
+  * we will also disclose your personal data if we are required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+  * if at any time in the future we (or our assets) are purchased by another company we can share your data with them as one of those assets.
+
 
 
 Any such third parties are not authorised by us to use your personal data in any other way and will be required by us to implement measures to protect your personal data. Please note that we may need to disclose your personal data if we are required to do so by law including to meet national security or law enforcement requirements.
@@ -244,15 +252,15 @@ Your interactions with the user community programs we have with third party soci
 
 * #### INTERNATIONAL TRANSFER OF INFORMATION
 
-Our primary data centres are located in Europe, Singapore, China and the USA. These data centres are used to store data that we receive from end-users. We comply with all applicable laws to protect the security of data during international transfer. FreeWheel Media, Inc. and its subsidiary Comcast International France SAS participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
+Our primary data centres are located in Europe, Singapore, China and the USA. These data centres are used to store data that we receive from end-users. We comply with all applicable laws to protect the security of data during international transfer. FreeWheel Media, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-We are responsible for the processing of personal data we receive, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+We are responsible for the processing of personal data we receive, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland. We may be liable for onward transfers of such personal data where our agent processes personal data inconsistent with the Privacy Shield Principles.
 
-With respect to personal data received or transferred pursuant to each Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to each Privacy Shield Framework, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 We further commit to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal data.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [legalnotices@freewheel.tv](mailto:legalnotices@freewheel.tv). Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal data. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us [legalnotices@freewheel.tv](mailto:legalnotices@freewheel.tv). Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration to resolve disputes when other dispute resolution procedures have been exhausted.
 
 * #### SECURITY
 
@@ -268,12 +276,13 @@ We collect and process your personal data on the basis that your personal data i
 
 Please note that you always have the right to request that we:
 
-– provide you information about how we use your data;  
-– give you access to, and a copy of your personal data we hold in our systems;  
-– stop contacting you;  
-– correct, update or delete your personal data in our records;  
-– stop using, and ensure that all third parties stop using, some or all of your personal data; or  
-– note any violations of the Privacy Policy. 
+  * provide you information about how we use your data;
+  * give you access to, and a copy of your personal data we hold in our systems;
+  * stop contacting you;
+  * correct, update or delete your personal data in our records;
+  * stop using, and ensure that all third parties stop using, some or all of your personal data; or
+  * note any violations of the Privacy Policy.
+
 
 
 If you would like us to change how we deal with your personal data, you can send us an email at [legalnotices@freewheel.tv](mailto:legalnotices@freewheel.tv) or write to us at: FreeWheel Media, Inc., 12th Floor, 1407 Broadway, New York, NY 10018, Attn: Legal Counsel. We will respond to your request within a reasonable timeframe. Please note that we will require that you validate your identity prior to processing your request. If we are unable to accept your request, we will provide you with our reasons.
@@ -284,7 +293,7 @@ In addition, if you are located in the EU, you have the right to lodge a complai
 
 * #### IMPORTANT INFORMATION FOR U.S. RESIDENTS OF CALIFORNIA
 
-In the United States, California residents have the right to request and obtain a list of the third parties, if any, to which personal information (as defined by California law) has been disclosed for their direct marketing purposes during the immediately prior calendar year (e.g. requests made in 2018 will receive information about 2017 sharing activities, if any). California residents also have the right to opt out of having their personal information shared for direct marketing purposes. You may do so by sending an email to [legalnotices@freewheel.tv](mailto:legalnotices@freewheel.tv), using this Policy as the subject line, and include your full name, e-mail address, phone number and postal address in your message, or you may contact us at the postal address below, including the same information.
+In the United States, California residents have the right to request and obtain a list of the third parties, if any,  to which personal information (as defined by California law) has been disclosed for their direct marketing purposes during the immediately prior calendar year (e.g. requests made in 2018 will receive information about 2017 sharing activities, if any). California residents also have the right to opt out of having their personal information shared for direct marketing purposes. You may do so by sending an email to [legalnotices@freewheel.tv](mailto:legalnotices@freewheel.tv), using this Policy as the subject line, and include your full name, e-mail address, phone number and postal address in your message, or you may contact us at the postal address below, including the same information.
 
 * #### DO NOT TRACK
 
@@ -302,4 +311,4 @@ An individual who seeks access, or who seeks to correct, amend, or delete inaccu
 
 We also have no control over the content of the advertisement, including any cookies and web beacons set by advertisers on our customers’ Sites. Each customer understands that in the course of providing Services to it, we collect or receive information from the web browsers of individuals that are either visiting such customer’s web property or viewing content that is owned or displayed by such customer. This information includes frequency of ads delivered and other delivery statistics, time, browser type and version, visitor’s operating system, device type, referral URL, visitors’ IP addresses, visitors’ countries inferred from their IP addresses, and cookie data, including user IDs. We require our customers to obtain consent for our use of such information and we use it for our provision of Services and enforcement of our rights as described in the applicable customer contract, to improve our Services, and to compile aggregated statistics for internal or marketing purposes.
 
-We do not possess or have access to information that could match IP addresses or user IDs to the identity of individuals. We do not allow visitor information collected and stored for one customer to be accessed by any other customer. Further, we may use and retain such information only as provided in its agreement with our customer. We require each of our customers to abide by all applicable laws, rules and regulations that are applicable to their use of our Services, and we promise each customer that we will do the same with respect to our provision of Services. We ask each customer to post a privacy policy that covers our Services and to maintain all necessary rights to allow us to provide the Services, including without limitation to receive the information that we collect and store on such customer’s behalf. We also require each customer to prevent personal data to be sent to us (other than IP addresses, device IDs and user IDs). An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to our applicable customer (the data controller) which has transferred such data to us for processing. If requested to remove data we will respond to such request within a reasonable timeframe.
+We do not possess or have access to information that could match IP addresses or user IDs to the identity of individuals. We do not allow visitor information collected and stored for one customer to be accessed by any other customer. Further, we may use and retain such information only as provided in its agreement with our customer. We require each of our customers to abide by all applicable laws, rules and regulations that are applicable to their use of our Services, and we promise each customer that we will do the same with respect to our provision of Services. We ask each customer to post a privacy policy that covers our Services and to maintain all necessary rights to allow us to provide the Services, including without limitation to receive the information that we collect and store on such customer’s behalf. We also require each customer to prevent personal data to be sent to us (other than IP addresses, device IDs and user IDs). An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to our applicable customer (the data controller) which has transferred such data to us for processing. If requested to remove data we will respond to such request within a reasonable timeframe..
