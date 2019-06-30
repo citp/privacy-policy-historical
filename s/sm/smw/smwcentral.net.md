@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the smwcentral.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131801id_/http%3A//www.smwcentral.net%3Fp%3Dcms%26page%3D1148011-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smwcentral.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211358id_/https%3A//www.smwcentral.net%3Fp%3Dcms%26page%3D1148011-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SMW Central
 
   
-This is the official Privacy Policy of SMW Central. If you have questions or concerns about the privacy of your information and your submissions, this is where to look. Should you have further questions or concerns, please contact the site owner, [Kieran Menor](https://web.archive.org/?p=profile&id=5).
+This is the official Privacy Policy of SMW Central. If you have questions or concerns about the privacy of your information and your submissions, this is where to look. Should you have further questions or concerns, please contact the site owner, [Noivern](https://web.archive.org/?p=profile&id=6651).
 
 \-----------------------------------------------
 
@@ -56,5 +56,5 @@ Cookies are used at SMW Central to make your visits easier. With cookies enabled
 
  ** _H: RIGHT TO REVISIONS_**  
 The staff and administration reserves the right to revise this Privacy Policy (and any of the foregoing) at any time. Changes to the policy will always be announced, and the responsibility is on the userbase to keep up-to-date with any changes to the policy. ** _I: CONTACTING US_**  
-Should you have any questions regarding this policy, please do not hesitate to contact SMW Central’s owner, [Kieran Menor](https://web.archive.org/?p=profile&id=5), at your convenience. SMW Central users may send Kieran a PM with their questions, and non-registered visitors are welcome to e-mail Kieran at .  
+Should you have any questions regarding this policy, please do not hesitate to contact SMW Central’s owner, [Noivern](https://web.archive.org/?p=profile&id=6651), at your convenience. SMW Central users may send Noivern a PM with their questions, and non-registered visitors are welcome to e-mail Noivern at .  
 
