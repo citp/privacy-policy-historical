@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231084549id_/https%3A//www.yummly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223608id_/https%3A//www.yummly.com/privacy) for the most accurate reproduction.*
 
 # Yummly: Personalized Recipe Recommendations and Search
 
