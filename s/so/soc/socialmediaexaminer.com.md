@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialmediaexaminer.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227135403id_/https%3A//www.socialmediaexaminer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediaexaminer.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221239id_/https%3A//www.socialmediaexaminer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Social Media Examiner
 
-**Last Updated on** : December 18, 2018
+**Last Updated on** : June 26, 2019
 
 Social Media Examiner is committed to protecting the privacy of visitors to our website, subscribers to our newsletters, and those providing contact information. In addition, Social Media Examiner is opposed to unauthorized commercial e-mail delivery, otherwise known as spam. Please read the following Privacy and Spam Policy to understand how your personal information is treated. From time to time, Social Media Examiner may offer new information or services that may affect this policy. If you have any questions or concerns regarding this Privacy and Spam Policy, please send an e-mail to [privacy@socialmediaexaminer.com](mailto:privacy@socialmediaexaminer.com). Spam abuses can be notified at [abuse@socialmediaexaminer.com](mailto:abuse@socialmediaexaminer.com).
 
@@ -53,8 +53,6 @@ Additionally, Social Media Examiner may use third-party service providers to ser
 > 
 > Hotjar: [Privacy policy](https://www.hotjar.com/legal/policies/privacy), [cookie information](https://www.hotjar.com/legal/policies/cookie-information)
 > 
-> VWO: [Privacy policy](https://vwo.com/privacy-policy/), [opt-out](https://vwo.com/opt-out/)
-> 
 > Google Analytics: [Privacy Policy](https://support.google.com/analytics/answer/6004245)
 > 
 > **Remarketing** : Social Media Examiner uses remarketing tracking cookies and conversion pixels from vendors such as Google and Facebook to present special offers to you for our products or services over the Google Content Network and via social networks. This means you may see an ad for one of our products or services as a result of visiting our website. In addition, Social Media Examiner uses custom audiences based on e-mails and phone numbers of subscribers and customers. This allows us to present special offers for our products and services to you via Facebook and Google. However, your personally identifiable information is not used by any remarketing service other than to present you special offers from us. We use the following third-party service providers for remarketing:
@@ -69,11 +67,6 @@ Additionally, Social Media Examiner may use third-party service providers to ser
 > 
 > We may also rely on a third-party service, OptinMonster, to service certain pop-up subscription boxes. Any information collected by OptinMonster is passed through directly to Drip and is not stored by any party other than Drip.
 > 
-> **Chatbots** : Social Media Examiner uses ManyChat as its Facebook Messenger chatbot. Ma _nyChat collects public Facebook profile information, distributes our content, and tracks actions you take that assist us in measuring the performance of the chatbot.[You may access ManyChat’s privacy policy here](https://manychat.com/privacy.html). _
-> 
-> _Upon subscription, the actions that you take in the chatbot are passed through to Dashbot. Dashbot helps us measure the performance of the chatbot with analytics.  [You may access Dashbot’s privacy policy here.](https://www.dashbot.io/legal/privacy)_  
->  _We may also rely on a third-party service, Integromat, to capture your email and other public Facebook profile information from ManyChat, and pass it through to Drip.  [You may access Integromat’s privacy policy here.](https://www.integromat.com/en/kb/privacy.html)_
-> 
 > **Purchases** : Social Media Examiner uses 1ShoppingCart, Stripe, and PayPal to service payments for some services.
 > 
 > **_• 1ShoppingCart_** collects personal information such as your name, e-mail address, address, and payment information. All data entered into 1ShoppingCart is stored on 1ShoppingCart’s site. [Click here for their Privacy Policy](http://www.1shoppingcart.com/shopping-cart-terms-privacy.asp). All payments processed through 1ShoppingCart use PayPal Payflow. This service stores your name, amount of your purchase, and payment details on their site. PayPal Payflow is governed by [PayPal’s Privacy Policy](https://www.paypal.com/webapps/mpp/ua/privacy-full). Upon making a purchase through 1ShoppingCart, you will receive e-mail confirmations to the e-mail address you provide during your purchase. These e-mails are sent through various services as outlined below.
@@ -84,7 +77,7 @@ Additionally, Social Media Examiner may use third-party service providers to ser
 > 
 > **Social Media Marketing World** : Social Media Examiner hosts an annual conference, Social Media Marketing World. If you purchase tickets for Social Media Marketing World, you will enter personal data into Amember for processing this transaction. Your payment will be processed by Stripe or PayPal, as described above. Information you provide at the time of purchase will be used for creation of conference badges and to invite you to join a group on LinkedIn. E-mails regarding your purchase may be transmitted through Amazon SES, which does not store your personal information. We communicate with conference attendees via e-mail through Drip, which stores the product you purchased and your personal contact information on their servers. [You may access Drip’s privacy policy here](https://www.drip.com/privacy).
 > 
-> **Online Summits** : Social Media Examiner hosts regular online events (“Summits”). If you purchase tickets for one of these Summits, you will enter personal data into Amember for processing this transaction. Your payment will be processed by Stripe or PayPal, as described above. Emails regarding your purchase may be transmitted through Amazon SES, which does not store your personal information. We communicate with Summit attendees via e-mail through Drip, which stores the product you purchased and your personal contact information on their servers. [You may access Drip’s privacy policy here](https://www.drip.com/privacy).
+> **Online Summits and Seminars** : Social Media Examiner hosts regular online events (“Summits”). If you purchase tickets for one of these Summits, you will enter personal data into Amember for processing this transaction. Your payment will be processed by Stripe or PayPal, as described above. Emails regarding your purchase may be transmitted through Amazon SES, which does not store your personal information. We communicate with Summit attendees via e-mail through Drip, which stores the product you purchased and your personal contact information on their servers. [You may access Drip’s privacy policy here](https://www.drip.com/privacy).
 > 
 > **Social Media Marketing Society** : Social Media Examiner hosts a paid membership site, the Social Media Marketing Society. If you purchase a membership in the Social Media Marketing Society, your purchase will be processed through 1ShoppingCart, as described above.
 > 
@@ -102,7 +95,7 @@ Additionally, Social Media Examiner may use third-party service providers to ser
 > 
 > Crowdcast: [Privacy Policy](https://www.crowdcast.io/privacy-policy)
 > 
-> **Contact Information and Website Support** : We offer multiple ways to contact Social Media Examiner, including contact forms, e-mails, and chat. If at any time, you attempt to contact us through a contact form, the information you provide will be stored on our servers. If you submit a form or email us, we use FreshDesk to process all these inquiries and track responses. All related information is stored on the servers at FreshDesk, in accordance with the [FreshDesk privacy policy](https://www.freshworks.com/privacy/?_ga=2.180940391.1341746022.1529441046-1062430173.1529441046). If you use our live chat feature, it is powered by FreshChat, and your communication will be stored on servers at FreshDesk (the company behind FreshChat), in accordance with the [FreshDesk privacy policy](https://www.freshworks.com/privacy/?_ga=2.180940391.1341746022.1529441046-1062430173.1529441046). If you use the chatbot feature, it will be stored on the servers of FlowXO, in accordance with the [FlowXO privacy policy](https://flowxo.com/privacy).
+> **Contact Information and Website Support** : We offer multiple ways to contact Social Media Examiner, including contact forms, e-mails, and chat. If at any time, you attempt to contact us through a contact form, the information you provide will be stored on our servers. If you submit a form or email us, we use FreshDesk to process all these inquiries and track responses. All related information is stored on the servers at FreshDesk, in accordance with the [FreshDesk privacy policy](https://www.freshworks.com/privacy/?_ga=2.180940391.1341746022.1529441046-1062430173.1529441046). If you use our live chat feature, it is powered by FreshChat, and your communication will be stored on servers at FreshDesk (the company behind FreshChat), in accordance with the [FreshDesk privacy policy](https://www.freshworks.com/privacy/?_ga=2.180940391.1341746022.1529441046-1062430173.1529441046).
 > 
 > **Comments** : Social Media Examiner uses Disqus to make it easy for you to leave comments on blog posts. Personal information that you enter for comments will be stored on the Disqus servers, in accordance with the [Disqus privacy policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy).
 
