@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220520id_/https%3A//www.imdb.com/privacy%3Fref_%3Dft_pvc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233851id_/https%3A//www.imdb.com/privacy%3Fref_%3Dft_pvc) for the most accurate reproduction.*
 
 # Privacy - IMDb
 
@@ -45,7 +45,7 @@ Our site includes third-party advertising and links to other websites. We do not
 
 These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. 
 
-IMDb also displays personalized third-party advertising based on personal information about users, such as information you submit to us about movies you own or have watched.  [Click here](https://web.archive.org/privacy_info?ref_=pvc_8) for more information about the personal information that we gather. Although IMDb does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad (for example, users in the northwestern United States who bought, watched, or browsed for romantic comedies). If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/b/?&node=5160028011).
+IMDb also displays personalized third-party advertising based on personal information about users, such as information you submit to us about movies you own or have watched.  Click here for more information about the personal information that we gather. Although IMDb does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad (for example, users in the northwestern United States who bought, watched, or browsed for romantic comedies). If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/b/?&node=5160028011).
 
 **How Secure Is Information About Me?**
 
@@ -58,7 +58,7 @@ It is important for you to protect against unauthorized access to your password 
   * As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of such IMDb features as My Movies and local show times. 
   * You can add or update certain information, such as your e-mail address, by using our [User Administration](https://secure.imdb.com/register-imdb/siteprefs?ref_=pvc_10) pages. When you update information, we usually keep a copy of the prior version for our records. 
   * If you do not want to receive e-mail or other mail from us, please use our [User Administration](https://secure.imdb.com/register-imdb/siteprefs?ref_=pvc_11) pages to adjust your preferences. (If you do not want to receive legal notices from us, such as this Privacy Notice, those notices will still govern your use of IMDb, and it is your responsibility to review them for changes.) 
-  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://web.archive.org/help/show_leaf?personalizedadvertisingsettings&ref_=pvc_12).
+  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/b/?&node=5160028011).
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of IMDb's essential features, we recommend that you leave them turned on. 
 
 
@@ -75,7 +75,7 @@ If you have any concern about privacy at IMDb, please send us a thorough descrip
 
 Our business changes constantly. This Notice and the [Terms and Conditions of Use](https://web.archive.org/conditions?ref_=pvc_15) will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.  We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-**Examples of Information Collected**
+#### **Examples of Information Collected**
 
 #### Information You Give Us:
 
