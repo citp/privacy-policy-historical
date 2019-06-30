@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photocamel.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807190719id_/https%3A//photocamel.com/forum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocamel.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630123839id_/https%3A//photocamel.com/forum/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PhotoCamel - Your Friendly Photography Forum
 
