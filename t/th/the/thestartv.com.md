@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestartv.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226055047id_/http%3A//www.thestar.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestartv.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231338id_/http%3A//www.thestar.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Star Online
 
@@ -59,7 +59,7 @@ Please note that in the event that sufficient Personal Data is not supplied, or 
 
 * ## Storage and Retention of Personal Data
 
-Your Personal Data shall be stored either in hard copies in our offices or in servers located in Malaysia. It may be necessary to transfer your Personal Data to third party services providers based/located outside Malaysia. By continuing to use the Websites, products and/or services of Star Media Group, you hereby consent to such transfer.
+Your Personal Data shall be stored in hard and/or soft copies in our offices and/or in servers located in Malaysia. It may be necessary to transfer your Personal Data to third party services providers based/located outside Malaysia. By continuing to use the Websites, products and/or services of Star Media Group, you hereby consent to such transfer.
 
 Any Personal Data supplied by you will be retained by us as long as necessary for the fulfilment of the Purposes stated in paragraph (2) above or as required to satisfy legal regulatory, accounting requirements or to protect our interests.
 
@@ -160,4 +160,4 @@ We reserve the right to amend this Privacy Policy from time to time without prio
 
 In the event of conflict between the English and Bahasa Melayu versions of the Privacy Policy, the English version of the Privacy Policy shall prevail.
 
-(Last updated 16 November 2018)
+(Last updated 27 March 2019)
