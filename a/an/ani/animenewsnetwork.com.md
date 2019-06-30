@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animenewsnetwork.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226232252id_/https%3A//www.animenewsnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animenewsnetwork.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233941id_/https%3A//www.animenewsnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Anime News Network
 
@@ -78,4 +78,11 @@
 
 We value your privacy as if it were our own. We will never sell your e-mail address or any other information about you to a third party. Nor will we knowingly engage in any other behavior that could put your privacy in jeopardy. 
 
-Questions or comments regarding our privacy policy should be sent to the editors via our [Contact Us](https://web.archive.org/contact) page. 
+Questions or comments regarding our privacy policy should be sent to the editors via our [Contact Us](https://web.archive.org/contact) page.
+
+* * *
+
+this article has been modified since it was originally posted; see [change history](https://web.archive.org/cms/changelog/39)
+
+back to [Anime News Network Policy List](https://web.archive.org/policy)  
+[Misc Page homepage](https://web.archive.org/misc-page/) / [archives](https://web.archive.org/misc-page/archive)
