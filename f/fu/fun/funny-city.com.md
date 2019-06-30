@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-city.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225210207id_/http%3A//funny-city.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-city.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195651id_/http%3A//funny-city.com/privacy.php) for the most accurate reproduction.*
 
 # Funny Pictures, Jokes, Cartoons and Videos
 
