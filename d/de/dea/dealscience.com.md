@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealscience.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222411id_/https%3A//www.goseek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealscience.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630060625id_/https%3A//dealscience.com/privacy) for the most accurate reproduction.*
 
 # goSeek.com | Hotel Discounts, Deals, and Special Offers
 
@@ -75,8 +75,8 @@ Choices you have regarding your information
   3. You can write us at the following address to request that we delete your account or unsubscribe you from promotional emails. 
 
 goSeek, a service of Dealbase Corporation   
-2831 St. Rose Parkway, Suite 200   
-Henderson, NV 89052 
+5016 Centennial Blvd., Suite 200   
+Nashville, TN 37209 
 
 
 
@@ -102,8 +102,8 @@ How you can contact us
 If you have questions about this Privacy Policy, you can contact us via email at contactus@goseek.com or via mail at: 
 
 goSeek, a service of Dealbase Corporation   
-2831 St. Rose Parkway, Suite 200   
-Henderson, NV 89052 
+5016 Centennial Blvd., Suite 200   
+Nashville, TN 37209 
 
 Changes to this policy 
 
@@ -111,4 +111,4 @@ We may make changes to this Privacy Policy at any time in the future. If and whe
 
 Effective date 
 
-June 6, 2017 
+June 29, 2019 
