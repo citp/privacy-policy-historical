@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersdecide.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924062322id_/http%3A//www.gamersdecide.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersdecide.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630183051id_/https%3A//www.gamersdecide.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy policy & cookies | GAMERS DECIDE
 
@@ -176,7 +176,7 @@ Privacy policy
 
 (b)      [https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-...](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) (Firefox);
 
-(c)      <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+(c)      [http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/) (Opera);
 
 (d)      [https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer...](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies) (Internet Explorer);
 
