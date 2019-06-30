@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224858id_/https%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235527id_/https%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.*
 
 # PowerLinks Privacy Policy - PowerLinks
 
@@ -10,7 +10,7 @@ PowerLinks is committed to protecting and respecting your privacy.
 
 This policy sets out the basis on which any information which you provide to us or which we collect from you will be processed by us. It also provides details of the technologies we use to collect information, including cookies.
 
-Please read this document carefully before you start to use [www.powerlinks.com](https://www.powerlinks.com/). By continuing to access our site you are agreeing to this policy. If you do not agree, please refrain from using our site.
+Please read this document carefully before you start to use [www.powerlinks.com](http://www-powerlinks.azurewebsites.net/). By continuing to access our site you are agreeing to this policy. If you do not agree, please refrain from using our site.
 
 PowerLinks is an advertising and marketing software platform which enables Advertisers (or Buyers) and Publishers (or Sellers) and third parties acting on their behalf, to buy and sell advertising space. We also provide technologies (including those of third party suppliers) which enable Advertisers to deliver ads to the most relevant audiences, by using a number of techniques including interest based, real time, contextual and geographical advertising, and to measure how effective their ads are. We refer to all of these third parties as “Partners”.
 
@@ -122,7 +122,7 @@ We support, comply with and are registered as a vendor with the [IAB Europe Tra
 
 **_Opting-out_**
 
-To opt-out of receiving communications from us, (as a result of you having provided us with your contact information) by contacting us at [mailto:info@powerlinks.com](mailto:info@powerlinks.com)
+To opt-out of receiving communications from us, (as a result of you having provided us with your contact information) by contacting us at [mailto:info@www-powerlinks.azurewebsites.net](mailto:info@www-powerlinks.azurewebsites.net)
 
 If you do not want to receive ads displayed by PowerLinks, you can disable the display of PowerLinks ads here. Please note that This opt-out relies on a cookie, so if you wipe all your cookies, we will no longer know that you have opted out.
 
@@ -141,7 +141,7 @@ You can opt-out from the collection and use of your personal information for the
 
 **_Your Rights_**
 
-You can contact us at [info@powerlinks.com](mailto:info@powerlinks.com) and request to access any personal information which we may have about you. You can request us to delete any personal information which you have provided via our Site and we will respond in a reasonable time. Deletion of data will not change or delete personal information which may have already been shared with third parties. Please note that any data we collect is anonymized at the point of collection. We may therefore need to ask you to provide further information to make sure that you are who you claim to be and to assist us in responding to your request. Since we do not collect information about identifiable human beings, it is unlikely that we will be able to provide you with any information which identifies you.
+You can contact us at [info@www-powerlinks.azurewebsites.net](mailto:info@www-powerlinks.azurewebsites.net) and request to access any personal information which we may have about you. You can request us to delete any personal information which you have provided via our Site and we will respond in a reasonable time. Deletion of data will not change or delete personal information which may have already been shared with third parties. Please note that any data we collect is anonymized at the point of collection. We may therefore need to ask you to provide further information to make sure that you are who you claim to be and to assist us in responding to your request. Since we do not collect information about identifiable human beings, it is unlikely that we will be able to provide you with any information which identifies you.
 
 **_EU Data Subject Rights under the GDPR_**
 
@@ -149,13 +149,13 @@ Under the General Data Protection Regulation Regulation (EU) 2016/679, some of t
 
 As an EU resident, you have rights concerning the collection, processing and use of this information. You have the right to (i) access any of your personal data held by us (ii) ask us to rectify, amend, erase or transfer such personal data and (iii) restrict the processing of your personal data. You also have the right to object to the processing of your personal data for the purposes of direct marketing and the right not to be subject to automated decision making, including profiling. To find out more about your rights under the GDPR visit: [EU data-protection rules 2018](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en)
 
-If you have any concerns about the way in which we collect or process your data, please contact us here:[info@powerlinks.com](http://info@powerlinks.com/)  or by writing to us at: PowerLinks Media Limited, 9th Floor, 80 Mosley Street, Manchester, M2 3FX. We will respond within 30 days. If you are not satisfied with our response you also have the right to complain to the data-protection regulator in the country where you live or work. For the UK, you should contact the Information Commissioner here: [https://ico.org.uk/.](https://ico.org.uk/)
+If you have any concerns about the way in which we collect or process your data, please contact us here:[info@www-powerlinks.azurewebsites.net](http://info@www-powerlinks.azurewebsites.net/)  or by writing to us at: PowerLinks Media Limited, 9th Floor, 80 Mosley Street, Manchester, M2 3FX. We will respond within 30 days. If you are not satisfied with our response you also have the right to complain to the data-protection regulator in the country where you live or work. For the UK, you should contact the Information Commissioner here: [https://ico.org.uk/.](https://ico.org.uk/)
 
 **_EU-U.S. and Swiss-U.S. Privacy Shield Frameworks_**
 
 PowerLinks complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Frameworks, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  To learn more about the Privacy Shield programme and to view our certificate, please visit [https://www.privacyshield.gov/.](https://www.privacyshield.gov/)
 
-In compliance with the Privacy Shield Principles, we are committed to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at: [info@powerlinks.com](http://info@powerlinks.com/) or by writing to us at: PowerLinks Media Limited, 9th Floor, 80 Mosley Street, Manchester, M2 3FX.
+In compliance with the Privacy Shield Principles, we are committed to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at: [info@www-powerlinks.azurewebsites.net](http://info@www-powerlinks.azurewebsites.net/) or by writing to us at: PowerLinks Media Limited, 9th Floor, 80 Mosley Street, Manchester, M2 3FX.
 
 If PowerLinks does not resolve your complaint, you may submit your complaint, free of charge, to The International Centre for Dispute Resolution (ICDR) which is the international division of the American Arbitration Association  (ICDR/AAA). ICDR/AAA is PowerLinks chosen independent dispute resolution provider: You can find out more about ICDR/AAA and how to lodge a complaint here: <https://www.icdr.org./>Under certain conditions specified by the principles of the EU-US and the Swiss-US Privacy Shield Frameworks, respectively, you may also be able to invoke binding arbitration to resolve your complaint.
 
@@ -165,7 +165,7 @@ If PowerLinks shares the personal data of an individual located in the EU or Swi
 
 **_Contacting Us_**
 
-You can contact us at [info@powerlinks.com](http://info@powerlinks.com/) or by writing to us at PowerLinks Media Limited, 9th Floor, 80 Mosley Street, Manchester, M2 3FX. This address should also be used to send us any questions, comments and requests regarding this Policy, or if you have any concerns relating to material on our sites.
+You can contact us at [info@www-powerlinks.azurewebsites.net](http://info@www-powerlinks.azurewebsites.net/) or by writing to us at PowerLinks Media Limited, 9th Floor, 80 Mosley Street, Manchester, M2 3FX. This address should also be used to send us any questions, comments and requests regarding this Policy, or if you have any concerns relating to material on our sites.
 
 **_Changes to this Policy_**
 
