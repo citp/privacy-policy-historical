@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231070910id_/https%3A//www.ocado.com/webshop/scontent/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232302id_/https%3A//www.ocado.com/webshop/scontent/privacyPolicy) for the most accurate reproduction.*
 
 # Ocado: devoted to your shopping
 
@@ -8,9 +8,9 @@ You share and let us use personal information in order to enjoy a more streamlin
 
 To reassure you that we take our responsibility very seriously, this Privacy & Cookie Policy explains how we will use the personal information you give us. It explains your data protection rights, including how you can opt-out of some uses of your personal information. For more information on your rights and how to exercise them, head straight to the 'Your choices and rights' section. 
 
-This Privacy & Cookie Policy applies if you use any of our products and services. This includes shopping on any of the Ocado Group websites (such as ocado.com, fetch.co.uk, fabled.com or sizzle.co.uk), on our apps, or using voice-controlled services (such as Amazon's Alexa or Apple's Siri). This policy also applies if you contact us or we contact you about our services, whether by telephone, email, SMS, post, push notifications or via third party digital platforms (including websites or social media platforms). 
+This Privacy & Cookie Policy applies if you use any of our products and services. This includes shopping on any of the Ocado Group websites (such as ocado.com, fetch.co.uk or fabled.com), on our apps, or using voice-controlled services (such as Amazon's Alexa or Apple's Siri). This policy also applies if you contact us or we contact you about our services, whether by telephone, email, SMS, post, push notifications or via third party digital platforms (including websites or social media platforms). 
 
-Policy last updated on 14th September 2018.
+Policy last updated on 8th April 2019.
 
 This section details what types of personal data we collect and who we are. The Ocado Group is made up of a number of separate legal entities, so when we say "us", "our" or "we" in this policy we are generally referring to Ocado Retail Ltd, Specialty Stores Ltd and Marie-Claire Beauty Ltd. 
 
@@ -21,7 +21,7 @@ At times we also receive information from third parties to help us better unders
 ### Who we are   
 The Ocado Group 
 
-When you shop with ocado.com you submit your personal information to Ocado Retail Ltd. When you shop with fetch.co.uk and sizzle.co.uk you submit your personal information to Speciality Stores Ltd. When you shop with fabled.com you submit your personal information to Marie-Claire Beauty Ltd. These companies are known as the data controllers, and all are 100% owned subsidiaries of Ocado Group plc, which is listed on the London Stock Exchange. 
+When you shop with ocado.com you submit your personal information to Ocado Retail Ltd. When you shop with fetch.co.uk you submit your personal information to Speciality Stores Ltd. When you shop with fabled.com you submit your personal information to Marie-Claire Beauty Ltd. These companies are known as the data controllers, and all are 100% owned subsidiaries of Ocado Group plc, which is listed on the London Stock Exchange. 
 
 We will treat all information submitted by you in accordance with the terms of this Privacy & Cookie Policy (as updated and amended from time to time) and in strict compliance with UK and EU data protection legislation. We respect your privacy and will always work to keep your data safe and private. 
 
@@ -36,7 +36,7 @@ The information we gather from customers through our websites, apps, products an
 
 We gather that useful information in several key ways: 
 
-  1. When you register with us, we ask for information such as your title, name, email address, delivery address, telephone number, and account login details (such as your username and password). We store this information to make your experience easier, so you do not need to re-enter your details each time you shop. In fact, we offer the facility to use the same password and login details across all of our websites including ocado.com, fetch.co.uk, sizzle.co.uk and fabled.com in order to make your login experience even smoother. We have also entered into a partnership with Dobbies Garden Centres to provide their online fulfilment services and you can use these same login details to shop online with them. 
+  1. When you register with us, we ask for information such as your title, name, email address, delivery address, telephone number, and account login details (such as your username and password). We store this information to make your experience easier, so you do not need to re-enter your details each time you shop. In fact, we offer the facility to use the same password and login details across all of our websites including ocado.com, fetch.co.uk and fabled.com in order to make your login experience even smoother. We have also entered into a partnership with Dobbies Garden Centres to provide their online fulfilment services and you can use these same login details to shop online with them. 
   2. If you place an order, we hold information on the timing and location of your delivery to help us effectively manage resources to fulfil your order and plan the best delivery route. We will also ask you for your debit or credit card details in order to process your payment. We never store your payment details in full, we only store an encrypted token that represents your payment card. 
   3. We keep a record of electronic communications you receive from us. We also record interactions you have with our electronic communications. For example, whether an email has been opened and if you have clicked on any links within that email. 
   4. When we contact you or you take part in competitions, surveys or questionnaires about our products and services, we may collect your feedback and contributions. This includes direct messages you may send us through social media channels.
@@ -220,7 +220,7 @@ If you'd like to know more information about how long we keep your personal info
 
 ### Keeping your information 
 
-We will keep your personal information for as long as you are a customer of the Ocado Group, which includes ocado.com, fetch.co.uk, sizzle.co.uk and fabled.com, and for a period of time afterwards if you stop doing so. 
+We will keep your personal information for as long as you are a customer of the Ocado Group, which includes ocado.com, fetch.co.uk and fabled.com, and for a period of time afterwards if you stop doing so. 
 
 Here are our time periods for retaining customer information: 
 
@@ -245,9 +245,9 @@ This includes it going through one of these safeguards:
 
 
 
-You can find out more about the above data protection safeguards on the [European Commission Justice website.](https://web.archive.org/webshop/redirectFromWebshop.do?REDIRECT_URL=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection_en%26sa%3DD%26ust%3D1536839742816000%26usg%3DAFQjCNFPsXNVQWeJSFrg2nuu2HVqM-_hLg&pageId=402266a911e54e26402d15e30e65e6ee&ad=79372%7C1383794%7C%7C)
+You can find out more about the above data protection safeguards on the [European Commission Justice website.](https://web.archive.org/webshop/redirectFromWebshop.do?REDIRECT_URL=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection_en%26sa%3DD%26ust%3D1536839742816000%26usg%3DAFQjCNFPsXNVQWeJSFrg2nuu2HVqM-_hLg&pageId=402266a911e54e26402d15e30e65e6ee&ad=79372%7C1514081%7C%7C)
 
-For more information on how we safeguard transfers of your personal information, please contact us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C&ad=79372%7C1383794%7C%7C)
+For more information on how we safeguard transfers of your personal information, please contact us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C&ad=79372%7C1514081%7C%7C)
 
 This section explains the choices you have when it comes to receiving marketing communications and how you can exercise your individual rights in relation to your personal data. 
 
@@ -282,7 +282,7 @@ You can ask us to stop sending you marketing messages by contacting us at any ti
 
 2\. Clicking on the unsubscribe link contained in marketing emails.
 
-3\. Emailing us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1383794%7C%7C) if you wish to opt out of any postal marketing or other electronic marketing.
+3\. Emailing us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1514081%7C%7C) if you wish to opt out of any postal marketing or other electronic marketing.
 
 If you decide to opt out or unsubscribe it could take up to 72 hours to process the update through our systems. Whatever you choose, you will still receive messages and other important service information such as changes to your existing products and services, our Low Price Promise emails, the cut-off time to edit your order, as well as "rate your first shop" and "rate your driver" surveys. You can always unsubscribe from these emails by clicking on the unsubscribe link in each email (except this does not apply to first registration emails and order confirmation and receipt emails). 
 
@@ -290,11 +290,11 @@ We may also ask you to confirm or update your marketing preferences, if there ar
 
 ### Letting us know if your personal information is incorrect 
 
-If the information we hold on you is wrong or incomplete, then let us know what needs updating and we'll correct it. This is your right. Email us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1383794%7C%7C)
+If the information we hold on you is wrong or incomplete, then let us know what needs updating and we'll correct it. This is your right. Email us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1514081%7C%7C)
 
 Learn about cookies, including how we use them and how you can exercise your choices about our use of cookies. 
 
-When you use any of the Ocado Group websites (ocado.com, fetch.co.uk, sizzle.co.uk and fabled.com) or our related apps, we use our own and third-party cookies and similar technologies (such as pixels and tracking URLs) to identify your device. This enables us to personalise and improve your customer experience and, where appropriate, serve you relevant advertisements. All these technologies are together referred to in this policy as "cookies". 
+When you use any of the Ocado Group websites (ocado.com, fetch.co.uk and fabled.com) or our related apps, we use our own and third-party cookies and similar technologies (such as pixels and tracking URLs) to identify your device. This enables us to personalise and improve your customer experience and, where appropriate, serve you relevant advertisements. All these technologies are together referred to in this policy as "cookies". 
 
 Without certain cookies, it would be very difficult for a website to allow a visitor to fill up a shopping trolley or to remember the user's preferences or registration details for a future visit. 
 
@@ -330,11 +330,11 @@ We may change the terms of this Privacy & Cookie Policy from time to time and yo
 
 ###  Contact us 
 
-If you have questions about your personal information and our Privacy & Cookie Policy, or wish to exercise any of your rights described in this policy, please email us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C&ad=79372%7C1383794%7C%7C). 
+If you have questions about your personal information and our Privacy & Cookie Policy, or wish to exercise any of your rights described in this policy, please email us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C&ad=79372%7C1514081%7C%7C). 
 
 ### HOW TO COMPLAIN 
 
-If you are not satisfied in the way we have dealt with your concerns, you have the right to complain to the Information Commissioner's Office. Please go to [https://ico.org.uk/concerns/](https://web.archive.org/webshop/redirectFromWebshop.do?REDIRECT_URL=https%3A%2F%2Fico.org.uk%2Fmake-a-complaint%2F&pageId=2e5bc30205aa730410a31d7de7868a75&ad=79372%7C1383794%7C%7C) to find out more or write to: 
+If you are not satisfied in the way we have dealt with your concerns, you have the right to complain to the Information Commissioner's Office. Please go to [https://ico.org.uk/concerns/](https://web.archive.org/webshop/redirectFromWebshop.do?REDIRECT_URL=https%3A%2F%2Fico.org.uk%2Fmake-a-complaint%2F&pageId=2e5bc30205aa730410a31d7de7868a75&ad=79372%7C1514081%7C%7C) to find out more or write to: 
 
 Information Commissioner's Office   
 Wycliffe House   
