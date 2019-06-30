@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023310id_/https%3A//company.wizards.com/legal/wizards-coasts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205244id_/https%3A//company.wizards.com/legal/wizards-coasts-privacy-policy) for the most accurate reproduction.*
 
 # Wizards of the Coast’s Privacy Policy | Wizards Corporate
+
+  * Wizards of the Coast’s Privacy Policy 
+  * Privacy Policy
+  * 1\. Introduction
+  * 2\. ESRB Privacy Certified
+  * 3\. Information Collection
+  * 4\. Information Use
+  * 5\. Sharing of Information
+  * 6\. Children’s Information
+  * 7\. Third Party Services, Features, and Devices
+  * 8\. Your Rights and Choices
+  * 9\. Data Security
+  * 10\. International Transfer of Information
+  * 11\. Changes to this Privacy Policy
+  * 12\. Contact Us
+
+
 
 Last Updated: June 30, 2018
 
