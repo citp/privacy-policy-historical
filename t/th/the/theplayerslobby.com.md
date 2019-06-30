@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplayerslobby.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223065438id_/https%3A//www.theplayerslobby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplayerslobby.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630155909id_/https%3A//www.theplayerslobby.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Players’ Lobby
 
@@ -16,52 +16,20 @@ We may also collect certain non-personally identifiable information when you vis
 
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a better experience when you browse our website and also allows us to improve our site. Our site uses the following cookies for the following purposes:-
 
-Cookie Type | Cookie Name | Purpose  
+Cookie Type| Cookie Name| Purpose  
 ---|---|---  
-WordPress | wp-settings-1  
-wp-settings-time-1  
-wpfilebase  
-wordpress_test_cookie | These cookies are required by WordPress and hold no personally identifiable information.  
-Website | PHPSESSID | Identifies your current web session to our server. It is set upon your arrival to our site and deleted when you leave. It holds no personally identifiable information.  
-Wistia | hubspotvw_jsuid  
-auth_token  
-optimizelyEndUserId  
-optimizelyBuckets  
-__utma  
-__utmz  
-__ar_v4  
-hsfirstvisit  
-__ptca  
-__ptv_6fK5hD  
-__pti_6fK5hD  
-__ptcz  
-__hstc  
-hubspotutk  
-auth_token | These cookies are required by the Wistia video player and hold no personally identifiable information.  
-Google Plus 1 | APISIDPREF  
-__utmz  
-NID  
-HSID  
-SSID  
-__utma  
-SAPISID  
-SS  
-BEAT  
-S  
-SD | These cookies are required by Google Plus 1.  
-Facebook | datrlu  
-p  
-act  
-csm  
-fr  
-c_user  
-s  
-xs  
-presence | These cookies are required by Facebook.  
-Twitter | guest_id  
-__utma  
-__utmz  
-k | These cookies are required by Twitter.  
+WordPress| wp-settings-  
+wp-settings-time-  
+wordpress_test_cookie| These cookies are required by WordPress and hold no personally identifiable information.  
+Buddypress| bp-activity-oldestpage| These cookies are required by Buddypress.  
+Website| PHPSESSID| Identifies your current web session to our server. It is set upon your arrival to our site and deleted when you leave. It holds no personally identifiable information.  
+Piwik| _pk_id  
+_pk_ses| These cookies are required by Piwik.  
+Segment| ajs_anonymous_id  
+ajs_group_id  
+ajs_user_id| These cookies are required by Segment.  
+Google Analytics| _ga  
+_gid| These cookies are required by Google Analytics.  
   
 ## How We Use The Information
 
