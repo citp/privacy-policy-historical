@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the99percent.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229044209id_/https%3A//www.adobe.com/privacy/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the99percent.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235445id_/https%3A//www.adobe.com/privacy/policy.html) for the most accurate reproduction.*
 
 # Adobe Privacy Policy
 
@@ -98,7 +98,7 @@ Emails we send you may include a technology (called a [web beacon](https://web.a
   
 **Adobe online advertising**
 
-Adobe advertises online in a variety of ways, including displaying Adobe ads to you on other companies' websites and apps and on social media platforms, such as Facebook and LinkedIn. Adobe websites use cookies and similar technologies provided by our own company ([Adobe Experience Cloud](https://web.archive.org/privacy/marketing-cloud.html)) and other companies that allow us to gather additional information to measure and improve the effectiveness of our advertising. We collect information such as:
+Adobe advertises online in a variety of ways, including displaying Adobe ads to you on other companies' websites and apps and on social media platforms, such as Facebook and LinkedIn. Adobe websites use cookies and similar technologies provided by our own company ([Adobe Experience Cloud](https://web.archive.org/privacy/experience-cloud.html)) and other companies that allow us to gather additional information to measure and improve the effectiveness of our advertising. We collect information such as:
 
   * Which ads are displayed;
   * Which ads are clicked on; and 
@@ -182,7 +182,7 @@ Adobe may also share your personal information:
 
 
 
-We may share or publish aggregate information that doesn’t specifically identify you, such as statistical information about visitors to our websites or statistical information about how customers [use the Adobe Experience Cloud](https://web.archive.org/privacy/marketing-cloud.html).
+We may share or publish aggregate information that doesn’t specifically identify you, such as statistical information about visitors to our websites or statistical information about how customers [use the Adobe Experience Cloud](https://web.archive.org/privacy/experience-cloud.html).
 
 ##### Is my personal information displayed anywhere on Adobe’s websites or applications?
 
@@ -203,9 +203,9 @@ Your personal information and files are stored on Adobe’s servers and the serv
 
 We may transfer your personal information across national borders to other countries in compliance with applicable laws.
 
-If you reside outside of North America, your relationship is with Adobe Ireland. Adobe Ireland will transfer your personal information to some organizations which are located outside the European Economic Area (EEA) and Switzerland, namely the US and India and other locations where we Adobe may have operations in the future.
+If you reside outside of North America, your relationship is with Adobe Ireland. Adobe Ireland will transfer your personal information to some organizations which are located outside the European Economic Area (EEA) and the United Kingdom and/or Switzerland, namely the US and India and other locations where we Adobe may have operations in the future.
 
-Where Adobe Ireland transfers your personal information to a country which is not within the EEA and is not subject to an adequacy decision by the EU Commission, we rely on one or more of the following legal mechanisms: EU-U.S. Privacy Shield, Swiss-U.S. Privacy Shield, European Commission approved Standard Contractual Clauses, and your consent in certain circumstances. A copy of the relevant mechanism can be provided for your review upon request, using the contact details provided at the end of this Privacy Policy. For more information about the certification of Adobe U.S. to the EU-U.S. Privacy Shield, including the scope of our certification, please see [Privacy Shield/European data transfers](https://web.archive.org/privacy/eudatatransfers.html).
+Where Adobe Ireland transfers your personal information to the United Kingdom or a country which is not within the EEA and is not subject to an adequacy decision by the EU Commission, we rely on one or more of the following legal mechanisms: EU-U.S. Privacy Shield, Swiss-U.S. Privacy Shield, European Commission approved Standard Contractual Clauses, and your consent in certain circumstances. A copy of the relevant mechanism can be provided for your review upon request, using the contact details provided at the end of this Privacy Policy. For more information about the certification of Adobe U.S. to the EU-U.S. Privacy Shield, including the scope of our certification, please see [Privacy Shield/European data transfers](https://web.archive.org/privacy/eudatatransfers.html).
 
 The information above applies to Adobe users who are consumers. More information is available for our business customers that want to learn more about [European data transfers](https://web.archive.org/privacy/eudatatransfers.html).
 
@@ -240,7 +240,7 @@ Click [here](https://web.archive.org/privacy/opt-out.html) for further informati
 
 ##### What information is collected by companies using Adobe Experience Cloud solutions?
 
-Adobe Experience Cloud solutions help our business customers personalize and improve the performance of their websites, apps, and marketing messages. For example, these customers may use Adobe Experience Cloud solutions to collect and analyze information about how you use their websites ([learn more](https://web.archive.org/privacy/marketing-cloud.html)). The information collected is stored on our computers for use by these business customers.
+Adobe Experience Cloud solutions help our business customers personalize and improve the performance of their websites, apps, and marketing messages. For example, these customers may use Adobe Experience Cloud solutions to collect and analyze information about how you use their websites ([learn more](https://web.archive.org/privacy/experience-cloud.html)). The information collected is stored on our computers for use by these business customers.
 
 ##### How long does Adobe retain my information?
 
