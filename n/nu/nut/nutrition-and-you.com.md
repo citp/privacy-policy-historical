@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212002524id_/https%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630053658id_/https%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.nutrition-and-you.com Privacy Policy
 
@@ -113,6 +113,6 @@ If you do not agree nutrition-and-you.com's privacy policy as posted here on thi
 
 Your explicit consent indicates acceptance of this privacy policy in its entirety.
 
-Last updated: 24-05-2018
+Last updated: 24-05-2009-19
 
 <<-Back to [**Home page** from **privacy policy**](https://www.nutrition-and-you.com/index.html). 
