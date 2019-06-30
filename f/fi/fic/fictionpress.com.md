@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fictionpress.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023075810id_/https%3A//www.fictionpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fictionpress.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195231id_/http%3A//www.fictionpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FictionPress
 
@@ -8,28 +8,35 @@ The FictionPress.com Privacy Policy describes how FictionPress.com treat persona
 
 **Data collection**
 
-  * FictionPress.com may collect limited non-personally identifying information your browser makes available whenever you visit a website. This log information may include but not limited to your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
-  * Some of our services require you to register for an account. FictionPress.com asks you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. 
+  * FictionPress.com may collect information about the device (which includes web browsers, mobile phones, computers or other internet connected devices) you use to access FictionPress.com services. This log information may include but not limited to your internet protocol address, device info, date and time of your query and one or more cookies that may uniquely identify your device. We use this information to operate, develop and improve our services. 
+  * Some of our services require you to register for an account and provide some personal information (typically a user name, email address and password). 
 
 
 
-**Cookies**
+**Cookies/Unique Identifiers**
 
-  * A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. FictionPress.com does this by storing user preferences in cookies. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some FictionPress.com features or services may not function properly without cookies. 
+  * Please visit our [Cookies Policy](https://web.archive.org/cookies) page for details. 
 
 
 
 **Information sharing**
 
-  * We do not rent or sell your personally identifying information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances: 
-    * We have your consent. 
-    * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of FictionPress.com, its users or the public. 
+We do not share your personal information with companies, organizations, or individuals outside of outside of FictionPress.com except for the following cases: 
+
+  * We have your consent. 
+  * For external processing: We may provide personal information to affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy. For example, we use service providers to help with customer support. 
+  * For legal reasons: We may provide personal information when we have a good-faith believe that access, use, preservation, or disclosure of the information is reasonably necessary to: 
+    * Meet any applicable law, regulation, legal process or enforceable government request.
+    * Enforce applicable Terms of Service, including investigation of potential violations.
+    * Detect, prevent, or otherwise address fraud, security, or technical issues.
+    * Protect against harm to the rights, property or safety of FictionPress.com, our users, or the public as required or permitted by law. 
 
 
 
 **Information security**
 
   * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
+  * When applicable, we use industry standard encryption to protect the communication between all compatible devices and our services. 
   * We restrict access to your personally identifying information to site staffs who need to know that information in order to operate, develop or improve our services. 
 
 
@@ -40,12 +47,20 @@ The FictionPress.com Privacy Policy describes how FictionPress.com treat persona
 
 
 
-**Third-party Advertisers, Links to Other Sites**
+**Third-party Advertisers, Technology Partners, External Links**
 
-FictionPress.com allows other companies, called third-party ad servers or ad networks, to serve advertisements within FictionPress.com. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on FictionPress.com. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. 
+FictionPress.com allows other companies, called third-party ad networks, to serve advertisements within FictionPress.com. These third-party ad networks use technology to send, directly to your device, the advertisements and links that appear on FictionPress.com. They automatically receive your IP address when this happens. 
 
-FictionPress.com does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+FictionPress.com allows other companies, called Technology Partners, to to provide analytics or other contracted work to augment the FictionPress.com service. They automatically receive your IP address when this happens. 
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. FictionPress.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with FictionPress.com is maintained and dealt with by FictionPress.com in accordance with this privacy policy. 
+You should consult the respective privacy policies of these third-party ad networks and technology partners for more information on their practices and for instructions on how to opt-out of certain practices. Any data obtained by third-party ad networks or technology partners subsequently shared with FictionPress.com is maintained and dealt with by FictionPress.com in accordance with this privacy policy. 
 
-**Last Updated March 5, 2009**
+FictionPress.com's privacy policy does not apply to, and we cannot control the activities of, external web sites/services. For example, links to external websites/services not affiliated with FictionPress.com. 
+
+Please refer to the privacy policy of our technology partners
+
+  * Google: <https://policies.google.com/technologies/partner-sites>
+
+
+
+**Last Updated Feb 12, 2019**
