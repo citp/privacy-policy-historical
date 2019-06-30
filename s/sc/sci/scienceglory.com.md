@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceglory.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131750id_/http%3A//scienceglory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceglory.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630072950id_/http%3A//scienceglory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScienceGlory
 
@@ -106,5 +106,3 @@ If you have any questions (or comments) concerning this Privacy Policy, you are 
 [GDPR](http://scienceglory.com/gdpr/)
 
 [DMCA](http://scienceglory.com/dmca-policy/)
-
-**[ultimate_gdpr_policy_accept]**
