@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the neustar.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180238id_/https%3A//www.home.neustar/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neustar.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235607id_/https%3A//www.home.neustar/privacy) for the most accurate reproduction.*
 
 # Privacy | Neustar
 
 **Highlights of the Neustar Privacy Policy**
 
-_Updated: December 7, 2018_
+_Updated: February 28, 2019_
 
 Neustar uses personal information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These "Highlights" summarize Neustar's privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Statement](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles).
 
@@ -18,8 +18,9 @@ Neustar may collect, use, and disclose various types of information, including:
 
   * [PII](https://web.archive.org/privacy/privacy-policy-definitions) (Personally Identifiable Information)
   * [CRM Data](https://web.archive.org/privacy/privacy-policy-definitions) (Customer Relationship Management data)
-  * [Pseudonymous IDs](https://web.archive.org/privacy/privacy-policy-definitions) including information linked to [DIIs](https://web.archive.org/privacy/privacy-policy-definitions) (Device Identifiable Data) such as [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [MAID](https://web.archive.org/privacy/privacy-policy-definitions) (Mobile Advertising IDs), [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), and other third-party identifiers that do not, by themselves, identify a specific individual.
+  * [Pseudonymous IDs](https://web.archive.org/privacy/privacy-policy-definitions) including information linked to [DIIs](https://web.archive.org/privacy/privacy-policy-definitions) (Device Identifiable Data) such as [Cookies](https://web.archive.org/privacy/privacy-policy-definitions), [MAID](https://web.archive.org/privacy/privacy-policy-definitions) (Mobile Advertising IDs), [Statistical IDs](https://web.archive.org/privacy/privacy-policy-definitions), [IP Addresses ](https://web.archive.org/privacy/privacy-policy-definitions) and other third-party identifiers that do not, by themselves, identify a specific individual.
   * [Attribute Data](https://web.archive.org/privacy/privacy-policy-definitions)
+  * Geolocation or Latitude/Longitude data that are or are rendered imprecise
   * [Log Data](https://web.archive.org/privacy/privacy-policy-definitions), including [Internet Log Data](https://web.archive.org/privacy/privacy-policy-definitions), [Event Data](https://web.archive.org/privacy/privacy-policy-definitions), and [Service Data](https://web.archive.org/privacy/privacy-policy-definitions)
 
 
@@ -63,7 +64,7 @@ To learn more about how we use these technologies, read our full [Privacy Statem
 
 #### Cookies
 
-  * Click here to opt out of the use of Cookies on Neustar websites
+  * [Click here to opt out](https://www.agkn.com/opt-out.html) of the use of Cookies on Neustar websites
   * You can opt out of Neustar services [Cookies](https://web.archive.org/privacy/privacy-policy-definitions) by clicking on the Neustar Choice Portal link in the [Privacy Choices page](https://web.archive.org/privacy/opt-out) on our website. This will also permit you to opt-out of the use of [Hashed eMail Addresses](https://web.archive.org/privacy/privacy-policy-definitions) and Android [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy-definitions).
   * You can also opt out of the use of Neustar services Cookies by using the Network Advertising Initiative (NAI) Consumer [Opt-Out tool](http://optout.networkadvertising.org/?c=1#!/), the Digital Advertising Alliance (DAA) [tool here](http://www.aboutads.info/choices/), or the European Digital Advertising Alliance (EDAA) [Opt-Out tool](http://www.youronlinechoices.eu/).
 
@@ -90,7 +91,7 @@ Neustar is a member of the [Network Advertising Initiative](https://www.networka
 
 We adhere to the European Interactive Digital Advertising Alliance's ("EDAA") principles. You may learn more about our participation in the EDAA's program and online behavioral advertising at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67&opt-out=true "TRUSTe Privacy")
+[](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67&opt-out=true "TRUSTe Privacy") [](https://privacy.truste.com/privacy-seal/validation?rid=fef8fa8a-75bd-482f-b021-21703ec3d363)
 
 ## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
@@ -127,7 +128,7 @@ Sterling, VA 20166
 [Email](mailto:privacy@team.neustar)
 
 **Data Protection Officer:**  
-J. Beckwith Burr  
+Kevin Hughes  
 Neustar, Inc.  
 21275 Ridgetop Circle  
 Sterling, VA 20166  
