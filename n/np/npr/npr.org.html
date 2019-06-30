@@ -1,27 +1,27 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231104815id_/https%3A//www.npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630071035id_/https%3A//www.npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><head><script src="https://js-agent.newrelic.com/nr-spa-1099.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcOV1NACwcHVlFbAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script><script>
+<!DOCTYPE html><html class="no-js" lang="en"><head><script>
    try {var _sf_startpt=(new Date()).getTime();} catch(e){}
 </script>
-<meta itemscope="" itemtype="https://schema.org/SpeakableSpecification" itemref="speakable"><title>Privacy Policy : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]"><meta charset="utf-8"><meta name="robots" content="noarchive,index,follow"><meta name="Rating" content="General"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no"><meta name="npr-pjax"><meta name="date" content="2013-05-07"><link rel="canonical" href="https://www.npr.org/about-npr/179878450/privacy-policy"><meta name="description" content="Please read NPR's Privacy Policy."><link rel="apple-touch-icon" sizes="180x180" href="https://media.npr.org/templates/favicon/favicon-180x180.png"><link rel="icon" sizes="96x96" href="https://media.npr.org/templates/favicon/favicon-96x96.png"><link rel="icon" sizes="32x32" href="https://media.npr.org/templates/favicon/favicon-32x32.png"><link rel="icon" sizes="16x16" href="https://media.npr.org/templates/favicon/favicon-16x16.png"><meta property="og:title" content="Privacy Policy"><meta property="og:url" content="https://www.npr.org/about-npr/179878450/privacy-policy"><meta property="og:type" content="article"><meta property="og:description" content="Please read NPR's Privacy Policy."><meta property="og:image" content="https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"><meta property="og:site_name" content="NPR.org"><meta property="fb:app_id" content="138837436154588"><meta property="fb:pages" content="10643211755"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@NPR"><meta name="twitter:domain" content="npr.org"><script id="npr-vars">
+<meta itemscope="" itemtype="https://schema.org/SpeakableSpecification" itemref="speakable"><title>Privacy Policy : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]"><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU"><meta charset="utf-8"><meta name="robots" content="noarchive,index,follow"><meta name="Rating" content="General"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="npr-pjax"><meta name="date" content="2013-05-07"><link rel="canonical" href="https://www.npr.org/about-npr/179878450/privacy-policy"><meta name="description" content="Please read NPR's Privacy Policy."><link rel="apple-touch-icon" sizes="180x180" href="https://media.npr.org/templates/favicon/favicon-180x180.png"><link rel="icon" sizes="96x96" href="https://media.npr.org/templates/favicon/favicon-96x96.png"><link rel="icon" sizes="32x32" href="https://media.npr.org/templates/favicon/favicon-32x32.png"><link rel="icon" sizes="16x16" href="https://media.npr.org/templates/favicon/favicon-16x16.png"><meta property="og:title" content="Privacy Policy"><meta property="og:url" content="https://www.npr.org/about-npr/179878450/privacy-policy"><meta property="og:type" content="article"><meta property="og:description" content="Please read NPR's Privacy Policy."><meta property="og:image" content="https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"><meta property="og:site_name" content="NPR.org"><meta property="fb:app_id" content="138837436154588"><meta property="fb:pages" content="10643211755"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Privacy Policy"><meta name="twitter:site" content="@NPR"><meta name="twitter:domain" content="npr.org"><script id="npr-vars">
    window.NPR = window.NPR || {};
-NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","staticAssetHost":"https:\/\/s.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":false};
-NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"573b3b7d98f7a5c48d0d8509550e7cf3","isBuildOut":true,"pubDate":"2013050709","pageTypeId":"1","title":"Privacy Policy","publisherOrgId":"1","rocketfuelCode":20501671};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true};
+NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"b96c03e7c7aaafedf0a43ca92c5b00c3","isBuildOut":true,"pubDate":"2013050709","pageTypeId":"1","title":"Privacy Policy","publisherOrgId":"1","rocketfuelCode":20501671};
 </script>
 <script type="text/javascript" src="https://cdn.optimizely.com/js/11107397707.js">
    </script>
 <script type="text/javascript" src="https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js">
    </script>
-<script type="text/javascript" src="https://s.npr.org/templates/javascript/navigation/global-navigation-dropdowns.js?4845f254a8fa711b03d75b1b9ceee5c3">
-   </script>
 <script>
-   !function(c){function e(a){if(d[a])return d[a].exports;var b=d[a]={exports:{},id:a,loaded:!1};return c[a].call(b.exports,b,b.exports,e),b.loaded=!0,b.exports}var a=window.webpackJsonp;window.webpackJsonp=function(f,t){for(var n,r,o=0,i=[];o<f.length;o++)r=f[o],b[r]&&i.push.apply(i,b[r]),b[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":c[n]=function(e){var a=e.slice(1),d=e[0];return function(e,b,f){c[d].apply(this,[e,b,f].concat(a))}}(s);break;case"function":c[n]=s;break;default:c[n]=c[s]}}for(a&&a(f,t);i.length;)i.shift().call(null,e);if(t[0])return d[0]=0,e(0)};var d={},b={27:0};e.e=function(c,a){if(0===b[c])return a.call(null,e);if(void 0!==b[c])b[c].push(a);else{b[c]=[a];var d=document.getElementsByTagName("head")[0],f=document.createElement("script");f.type="text/javascript",f.charset="utf-8",f.async=!0,f.src=e.p+""+c+"."+{0:"0697565ca581aa2c343b",1:"fa03ac7ff9b81ce872b3",2:"18f95e0967e9b199ee94",3:"e4360316bafc8c64147b",4:"616e2fe9ef59157ba2db",5:"7deba7a250e20460c290",6:"59f489aa6e54d075718a",7:"95f05578064cbcc9e9e6",8:"9ab6e350130cc73e028c",9:"73cb28393f0bed1f6fc9",10:"36824da4cedac012b3f7",11:"72002094b94d3d8a08a4",12:"47883231870eeeb07168",13:"e90dc479931bcbd93942",14:"2263d38993415227a37f",15:"00ccfb1259d0f29df66a",16:"14de52a925d620b78244",17:"6f423e2ce65aac859d38",18:"99980de419d71ef35721",19:"a88576fc56a89ef19d3b",20:"a7e98de5c79abdbd34b5",21:"5b75bdc9a47c0055c61d",22:"e344545b4d753508e312",23:"e8550b759d4193df51c2",24:"6a26259bc8c017d3cdb0",25:"78ddaf3a8966fe22852f",26:"8d977896034dfdeb8de6",28:"99bae94c202cc6173509",29:"da1d610b13c6a0ab301a",30:"79d20ab9c5bfa0782329",31:"0dae9ac29b5ca8df85d8",32:"0c8f90a75391a417536e",33:"87012d9db89ea1944391",34:"95a8f85555453fa1e62c",35:"537563c2658103cc0da4",36:"7d123bbfdee10c6fe804",37:"d419fba0eacf0a011e87",38:"e51adcc8301bdff6cd81",39:"c3e70d51a25dd3f402e5",40:"d6aafea30e46fb8fd239",41:"f726cb17d74511b97da6",42:"4a6c32f485a99c55bda4",43:"cb118a2c1b3b6ad136c0",44:"656e65470d76001ef1d1",45:"508bbc0390ebb8a7e733",46:"b81b252b332737c7fdba",47:"62942409d8b1a94ce139",48:"a26a861c872c5851e98f",49:"50bb023c0681b0470142",50:"ed8c9a1205c26ea85d48",51:"24a4c323c5dd56802075",52:"84d754a6c81d455ca1a3",53:"cb32eff454d6d4794ed6",54:"451185d9c02980a9203e",55:"4b385d0deccc77668e31",56:"81437a1647c3c4d15c95",57:"64a715c8fe0f9ce083ab",58:"cb8bf3512c7074dca7a1",59:"5c4226b77e019fcc4b5a",60:"1a02d9abe30fed40cb7a",61:"cecb8b3351e6c1cbba63",62:"7b3c9723e8126ffcace6",63:"4a9d8469933ddd7f425d",64:"9504a96895c13ec806d8",65:"78651cb6362dec573cdc",66:"30a23f40232e146b84c8",67:"2c1484319138bf121ed0",68:"a9fda28dd8e0429d40b4",69:"442f2b1962d197f96ce6",70:"53e1c2cb45bd1b2b437b",71:"ebdfa5b9759d22a445d7",72:"b30e7612d067910030dc",73:"e27ab4149d1b018abd99",74:"615c4b8c39b6aeab7f0c",75:"1c55e4e1225c4a02eb57",76:"3ff433ce0674839cbe6e",77:"0d469de1d796b569423a",78:"178e474daa2c97fe9e6b",79:"0c8de053f14bf473b04a",80:"0d704dca1e17b7ca3c92",81:"b34f72ba1eff46021703",82:"71bc5aaf7445b3f8d6b0",83:"d5b83e9908642c1a578e",84:"3c4aa872792bfa8884e8",85:"db4eb311ee8579d7c4a9",86:"e69713eaf2df050b6c7c",87:"a5f849fb0b903e5e259e",88:"296c5a53db3d93f27c37"}[c]+".chunk.js",d.appendChild(f)}},e.m=c,e.c=d,e.p="/templates/javascript/dist/bundles/"}(function(c){for(var e in c)if(Object.prototype.hasOwnProperty.call(c,e))switch(typeof c[e]){case"function":break;case"object":c[e]=function(e){var a=e.slice(1),d=c[e[0]];return function(c,e,b){d.apply(this,[c,e,b].concat(a))}}(c[e]);break;default:c[e]=c[c[e]]}return c}([]));
+   !function(e){function c(a){if(f[a])return f[a].exports;var b=f[a]={exports:{},id:a,loaded:!1};return e[a].call(b.exports,b,b.exports,c),b.loaded=!0,b.exports}var a=window.webpackJsonp;window.webpackJsonp=function(d,t){for(var n,r,o=0,i=[];o<d.length;o++)r=d[o],b[r]&&i.push.apply(i,b[r]),b[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":e[n]=function(c){var a=c.slice(1),f=c[0];return function(c,b,d){e[f].apply(this,[c,b,d].concat(a))}}(s);break;case"function":e[n]=s;break;default:e[n]=e[s]}}for(a&&a(d,t);i.length;)i.shift().call(null,c);if(t[0])return f[0]=0,c(0)};var f={},b={25:0};c.e=function(e,a){if(0===b[e])return a.call(null,c);if(void 0!==b[e])b[e].push(a);else{b[e]=[a];var f=document.getElementsByTagName("head")[0],d=document.createElement("script");d.type="text/javascript",d.charset="utf-8",d.async=!0,d.src=c.p+""+e+"."+{0:"9810eda7a7cbac7dca59",1:"515f56763a7386441d99",2:"4d29affc864531501db1",3:"6f6a6e5553fb83b43300",4:"040161a90ea60ead7d72",5:"7dcc25f8db0f0fde26ef",6:"bf320b588e9b9ce5c1be",7:"2524652b76666e049f3a",8:"9cae244be6a3b954195b",9:"ed488e4280eb01ecc7f5",10:"c178cee6ac4b53c3960a",11:"42362bb85c4ca286ed73",12:"dd1a51f3ea4cf1975ccb",13:"4aefaa794fe9cd31f26b",14:"b25c8ae73bfea378b418",15:"20bb5e688c6c9b3f460e",16:"d8745bb32dfdadcef208",17:"99d24e3f1821f14557c6",18:"32ebfc77ca94b17e2b13",19:"406057848c33ca921c57",20:"adef73a43c7e2b37ca5a",21:"924d215725adf943bbf8",22:"fcfb70681443788a3876",23:"d4aabf12fe71b18ef01e",24:"61e4ba97f34e45dbe76c",26:"6f44e4f309e0ca5db46e",27:"13af62b5968408320a94",28:"925295ad27e381fa0ac2",29:"c6618b208c017fe129dc",30:"7fec8f742023554d00ee",31:"32800c069bc50b32f68e",32:"03767a1b3db75b7c0639",33:"9adb05cb8e371682d848",34:"13bbdf2e26c0bc561c73",35:"025be0798ec62a220fe7",36:"1244b2c9e3191d346d4d",37:"138b8e9db914080dec2c",38:"873d6d89a0864ca24b2a",39:"22faab7819e2b2716fe6",40:"2a9d975b4e5988edd201",41:"eb954a5be5e04a820706",42:"da31ff3e13ef21d059c5",43:"8c241262732d1e4436e1",44:"1f712aca72bd53ef7615",45:"56c85167bc4b384e4d52",46:"d187755cb310daf1f106",47:"d9bc48ce1860ac5a42ac",48:"5f2b9b490ebac694fd62",49:"53a92f0cb7ce5449f59a",50:"d643bf44298f16142c2a",51:"f0c479b5e99d6ba4c29a",52:"62365f07d18eaef7ce89",53:"b9c679cb2a11bdc29797",54:"fee37fd1081ea4f45d6a",55:"680060301bbc80e9b436",56:"d7d8157524f3abf391d1",57:"d2c09c222d5297b96a47",58:"2c405e32ce4b36a750ea",59:"0cedb0abc417edf92847",60:"2b67ef24d77493dfa225",61:"30a9de40515050b4a539",62:"32142114d7021da7cbbf",63:"6f41599bf6ec56df783f",64:"30357a70f3dffc99ea1f",65:"47ac23b43180ed5e5582",66:"1877e36c03d638833409",67:"96e43ff7f1e79184e087",68:"b60511b182ac19d19055",69:"a49c8031cb425728cb54",70:"910da464958332a1a739",71:"66c68685775cb3347bf9",72:"220d591d7269cd559f1e",73:"7a1ccc87cb7e124c1198",74:"3ca78dd54a2ebd288384",75:"11eb683df049512287fe",76:"c322c94c887abb040b05",77:"7a19a9f73172d4782bf2",78:"475cdbc86120aba11c61",79:"1c9054a8be65292aeb6e",80:"a218d436ad02cf9b177d",81:"9fe286a199a973836f86",82:"edb51c7e9332e09a7f64",83:"d7515f616b48f7cf81df",84:"13e5c822ac0c25185459",85:"053e0e62c258180d207a"}[e]+".chunk.js",f.appendChild(d)}},c.m=e,c.c=f,c.p="/templates/javascript/dist/bundles/"}(function(e){for(var c in e)if(Object.prototype.hasOwnProperty.call(e,c))switch(typeof e[c]){case"function":break;case"object":e[c]=function(c){var a=c.slice(1),f=e[c[0]];return function(e,c,b){f.apply(this,[e,c,b].concat(a))}}(e[c]);break;default:e[c]=e[e[c]]}return e}([]));
 </script>
-<link rel="stylesheet" data-persist="true" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/persistent-css-c1bc1d67b21befc9923c.css"><link rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/newsStory-css-c1bc1d67b21befc9923c.css"><script type="text/javascript">
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/dist/bundles/globalNavigationDropdowns-13af62b5968408320a94.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/persistent-css-01ff8ee13be3eec92522.css"><link rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/newsStory-css-01ff8ee13be3eec92522.css"><script type="text/javascript">
    document.domain="npr.org";
 </script>
-<script type="text/javascript" charset="utf-8" async="" src="https://s.npr.org/templates/javascript/dist/bundles/0.0697565ca581aa2c343b.chunk.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://s.npr.org/templates/javascript/dist/bundles/3.e4360316bafc8c64147b.chunk.js"></script></head><body id="about" class="about tmplAboutPageStory  story-layout is-buildout no-transcript has-no-branding id179878450 " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR rocketfuel copyright auto-refresh navigation/global-navigation fitvids dfp globalfooter persistent-audio player/more-options what-input metrics/doubleclickFloodlight metrics/facebookTracking ecommerce jw social/share slideshow images/enlargement contentfooter social/sharepop swfbuilder"><div class="skip-links">
+<script type="text/javascript" charset="utf-8" async="" src="https://s.npr.org/templates/javascript/dist/bundles/0.9810eda7a7cbac7dca59.chunk.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://s.npr.org/templates/javascript/dist/bundles/4.040161a90ea60ead7d72.chunk.js"></script></head><body id="about" class="about tmplAboutPageStory  story-layout is-buildout no-transcript has-no-branding id179878450 " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR rocketfuel copyright auto-refresh navigation/global-navigation fitvids dfp globalfooter persistent-audio player/more-options what-input metrics/doubleclickFloodlight metrics/facebookTracking story/replace-centerstage ecommerce jw social/share slideshow images/enlargement contentfooter social/sharepop swfbuilder search/faceting-param"><div class="skip-links">
       <span>Accessibility links</span>   <ul>
             <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
       <li><a href="https://help.npr.org/customer/en/portal/articles/2535181-what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player-" class="skiplink">Keyboard shortcuts for audio player</a></li>
@@ -35,20 +35,20 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
                     <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo">
                 </a>
             </li>
-    
+
             <li id="navigation__station-mount"></li>
-    
+
             <li id="user-account-dropdown-mount" class="navigation__account"></li>
-    
+
             <li class="navigation__shop">
-                <a href="https://shop.npr.org" data-metrics-action="click npr shop">Shop</a>
+                <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
             </li>
-    
+
             <li id="navigation__station-donate-mount"></li>
-    
+
             <li class="navigation__toggle-wrap">
                 <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu">
-                   Open Navigation Menu
+                    Open Navigation Menu
                 </button>
             </li>
         </ul>
@@ -101,7 +101,9 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
                     <div class="menu__item-inner">
                         <a href="/music/" data-metrics-action="click music">Music</a>
                         <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
-                    </div><ul class="submenu submenu--music"><li class="submenu__item">
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
     <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
         Tiny Desk
     </a>
@@ -122,10 +124,12 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
         New Music
     </a>
 </li><li class="submenu__item">
-    <a href="https://www.npr.org/series/534681404/best-music-of-2018" data-metrics-action="click best music of 2018">
-        Best Music Of 2018
+    <a href="https://www.npr.org/series/689345495/best-music-of-2019" data-metrics-action="click best music of 2019">
+        Best Music Of 2019
     </a>
-</li></ul>                </li>
+</li></ul>
+
+                </li>
                 <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu" data-metrics-hover="toggle programs &amp; podcasts drawer">
                     <div class="menu__item-inner">
                         <a href="/programs/" data-metrics-action="click shows &amp; podcasts">Shows &amp; Podcasts</a>
@@ -135,12 +139,24 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
                     <div class="submenu submenu--shows-podcasts">
                         <span class="submenu__category submenu__category--daily">Daily</span>
                         <ul class="submenu__list submenu__list--daily">
-                            <li class="submenu__item">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
                                 <a href="/programs/morning-edition/" data-metrics-action="click morning edition">
                                     <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" alt="">
                                     Morning Edition
                                 </a>
                             </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden">
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" alt="">
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" alt="">
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>  
                             <li class="submenu__item">
                                 <a href="/programs/all-things-considered/" data-metrics-action="click all things considered">
                                     <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" alt="">
@@ -160,14 +176,16 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
                                 </a>
                             </li>
                         </ul>
-                        <span class="submenu__category submenu__category--featured">Featured</span><ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
     <a href="https://www.npr.org/podcasts/510313/how-i-built-this" data-metrics-action="click how i built this with guy raz">
         <img src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=100" alt="">
         How I Built This with Guy Raz
     </a>
 </li><li class="submenu__item">
     <a href="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me" data-metrics-action="click wait wait...don't tell me!">
-        <img src="https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=100" alt="">
+        <img src="https://media.npr.org/assets/img/2019/05/23/screen-shot-2019-05-23-at-8.46.21-am_sq-7dcea391e7a87ca3569fe3d2047dda0144e5d86f.png?s=100" alt="">
         Wait Wait...Don't Tell Me!
     </a>
 </li><li class="submenu__item">
@@ -180,20 +198,22 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
         <img src="https://media.npr.org/assets/img/2018/08/03/npr_hiddenbrain_podcasttile_sq-270ab642de6948802f485c6ad1f087239ef6e324.jpg?s=100" alt="">
         Hidden Brain
     </a>
-</li></ul>                        <ul class="submenu__list submenu__list--directories">
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
                             <li class="submenu__item"><a href="/programs/" data-metrics-action="click all programs">More Shows &amp; Podcasts</a></li>
                         </ul>
                     </div>
                 </li>
                 <li class="menu__item menu__item--search">
                     <div class="menu__item-inner">
-                        <a href="/search" data-metrics-action="click search">Search</a>
+                        <a href="/search" id="navigation_dropdown-search" data-metrics-action="click search">Search</a>
                     </div>
                 </li>
                 <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
                 <li class="menu__item menu__item--shop">
                     <div class="menu__item-inner">
-                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">Shop</a>
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
                     </div>
                 </li>
             </ul>
@@ -208,96 +228,45 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
                         <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music">
                     </a>
                 </li>
-                <li class="menu__item"><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
-                <li class="menu__item"><a href="/sections/allsongs/" data-metrics-action="click all songs">All Songs Considered</a></li>
-                <li class="menu__item"><a href="/sections/music-news/" data-metrics-action="click music news">Music News</a></li>
-                <li class="menu__item"><a href="/sections/music-features/" data-metrics-action="click features">Features</a></li>
-                <li class="menu__item"><a href="/sections/new-music/" data-metrics-action="click new music">New Music</a></li>
+                
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/689345495/best-music-of-2019" data-metrics-action="click best music of 2019">
+        Best Music Of 2019
+    </a>
+</li>
             </ul>
         </div>
     </section>
     <section class="menu menu--about" data-metrics-all="" data-metrics-category="about ecosystem navigation">
         <div class="menu__list-wrap">
             <ul class="menu__list menu__list--ecosystem menu__list--about">
-                <li class="menu__item menu__item--about-home"><a href="/about/aboutnpr/" data-metrics-action="click about npr">About NPR</a></li>
-                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle overview drawer">
-                    <div class="menu__item-inner">
-                        <button class="menu__toggle-submenu" data-metrics-action="toggle overview drawer">Expand/collapse submenu for Overview</button>
-                        <span class="menu__item-label">Overview</span>
-                    </div>
-               
-                    <ul class="submenu submenu--ecosystem submenu--overview">
-                        <li class="submenu__item"><a href="/about-npr/192827079/overview-and-history" data-metrics-action="click overview and history">Overview and History</a></li>
-                        <li class="submenu__item"><a href="/about-npr/178659563/our-mission-and-vision" data-metrics-action="click mission and vision">Mission and Vision</a></li>
-                        <li class="submenu__item"><a href="/about-npr/178640915/npr-stations-and-public-media" data-metrics-action="click stations and public media">Stations and Public Media</a></li>
-                        <li class="submenu__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="click npr finances">NPR Finances</a></li>
-                        <li class="submenu__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="click people">People</a></li>
-                        <li class="submenu__item"><a href="http://ethics.npr.org/" data-metrics-action="click ethics">Ethics</a></li>
-                        <li class="submenu__item"><a href="about-npr/183726490/awards" data-metrics-action="click awards">Awards</a></li>
-                    </ul>
-                </li>
-                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle connect drawer">
-                     <div class="menu__item-inner">
-                        <button class="menu__toggle-submenu" data-metrics-action="toggle connect drawer">Expand/collapse submenu for Connect</button>
-                        <span class="menu__item-label">Connect</span>
-                     </div>
-                    
-                     <ul class="submenu submenu--ecosystem submenu--connect">
-                        <li class="submenu__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="click visit npr">Visit NPR</a></li>
-                        <li class="submenu__item"><a href="http://www.nprpresents.org/" data-metrics-action="click npr presents">NPR Presents</a></li>
-                        <li class="submenu__item"><a href="http://studio1.npr.org" data-metrics-action="click studio 1 events">Studio 1 Events</a></li>
-                        <li class="submenu__item"><a href="http://generationlisten.npr.org/" data-metrics-action="click generation listen">Generation Listen</a></li>
-                        <li class="submenu__item"><a href="/about-npr/182673872/book-an-npr-speaker" data-metrics-action="click book a speaker">Book a Speaker</a></li>
-                        <li class="submenu__item"><a href="/about-npr/179881519/rights-and-permissions-information" data-metrics-action="click request permissions">Request Permissions</a></li>
-                        <li class="submenu__item"><a href="/about-npr/187046089/ways-to-listen-to-npr" data-metrics-action="click ways to listen">Ways to Listen</a></li>
-                        <li class="submenu__item"><a href="/sections/npr-extra/" data-metrics-action="click npr extra blog">NPR Extra Blog</a></li>
-                        <li class="submenu__item"><a href="/newsletters/" data-metrics-action="click sign up: newsletters">Email Newsletters</a></li>
-                        <li class="submenu__item"><a href="https://shop.npr.org/" data-metrics-action="click shop npr">Shop NPR</a></li>
-                        <li class="submenu__item"><a href="https://help.npr.org" data-metrics-action="click get help">Get Help</a></li>
-                        <li class="submenu__item"><a href="/contact/" data-metrics-action="click contact us">Contact Us</a></li>
-                     </ul>
-                </li>
-                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle support drawer">
-                     <div class="menu__item-inner">
-                        <button class="menu__toggle-submenu" data-metrics-action="toggle support drawer">Expand/collapse submenu for Support</button>
-                        <span class="menu__item-label">Support</span>
-                     </div>
-                     
-                     <ul class="submenu submenu--ecosystem submenu--support">
-                        <li class="submenu__item"><a href="/series/750002/support-public-radio" data-metrics-action="click support public radio">Support Public Radio</a></li>
-                        <li class="submenu__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="click corporate sponsorship">Corporate Sponsorship</a>
-                        </li><li class="submenu__item"><a href="/about-npr/181961258/volunteer-at-npr" data-metrics-action="click volunteer">Volunteer</a></li>
-                    </ul>
-                </li>
-                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle press drawer">
-                     <div class="menu__item-inner">
-                        <button class="menu__toggle-submenu" data-metrics-action="toggle press drawer">Expand/collapse submenu for Press</button>
-                        <span class="menu__item-label">Press</span>
-                     </div>
-                     
-                     <ul class="submenu submenu--ecosystem submenu--press">
-                        <li class="submenu__item"><a href="/series/750003/press-room/" data-metrics-action="click releases and statements">Releases and Statements</a></li>
-                        <li class="submenu__item"><a href="/about-npr/182675632/photos-and-logos" data-metrics-action="click photos and logos">Photos and Logos</a></li>
-                        <li class="submenu__item"><a href="/about/press/NPR_Fact_Sheet.pdf" data-metrics-action="click fact sheet pdf">Fact Sheet (PDF)</a></li>
-                        <li class="submenu__item"><a href="/about-npr/185546105/media-relations-contacts" data-metrics-action="click media relations contacts">Media Relations Contacts</a></li>
-                    </ul>
-                </li>
-                <li class="menu__item menu__item--has-submenu" data-metrics-hover="toggle careers drawer">
-                    <div class="menu__item-inner">
-                        <button class="menu__toggle-submenu" data-metrics-action="toggle careers drawer">Expand/collapse submenu for Careers</button>
-                        <span class="menu__item-label">Careers</span>
-                     </div>
-                    
-                     <ul class="submenu submenu--ecosystem submenu--careers">
-                        <li class="submenu__item"><a href="/series/750004/careers" data-metrics-action="click careers at npr">Careers at NPR</a></li>
-                        <li class="submenu__item"><a href="https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6" data-metrics-action="click search jobs">Search Jobs</a></li>
-                        <li class="submenu__item"><a href="/about-npr/179008081/tapping-into-the-npr-culture/" data-metrics-action="click culture">Culture</a></li>
-                        <li class="submenu__item"><a href="/about-npr/181909622/applying-at-npr/" data-metrics-action="click applying">Applying</a></li>
-                        <li class="submenu__item"><a href="/about-npr/181881227/internships-at-npr/" data-metrics-action="click interns">Interns</a></li>
-                        <li class="submenu__item"><a href="/about-npr/181880514/fellowships-at-npr/" data-metrics-action="click fellows">Fellows</a></li>
-                        <li class="submenu__item"><a href="/about-npr/185550054/digital-careers-at-npr/" data-metrics-action="click digital">Digital</a></li>
-                    </ul>
-                </li>
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr">About NPR</a></li>
+                <li class="menu__item menu__item--about-overview"><a href="/overview/" data-metrics-action="click overview">Overview</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support">Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers">Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect">Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press">Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics">Ethics</a></li>
             </ul>
         </div>
     </section>
@@ -411,10 +380,79 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
 </div>
 
 <!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
-<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;news&quot;,&quot;title&quot;:&quot;Daily News&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The NPR Daily Newsletter&quot;,&quot;frequency&quot;:&quot;each weekday&quot;,&quot;shortDescription&quot;:&quot;Catch up on the latest headlines and unique NPR stories, sent every weekday.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2018\/07\/18\/dailynews-june27-screencap-cropped-small_custom.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/topics\/header1001.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/news\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/news\/&quot;}">
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;news&quot;,&quot;title&quot;:&quot;Daily News&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The NPR Daily Newsletter&quot;,&quot;frequency&quot;:&quot;each weekday&quot;,&quot;shortDescription&quot;:&quot;Catch up on the latest headlines and unique NPR stories, sent every weekday.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2018\/07\/18\/dailynews-june27-screencap-cropped-small_custom.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/topics\/header1001.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/news\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/news\/&quot;,&quot;organizationId&quot;:1,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
    </div>
 
-<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;NEWS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;DAILY NEWS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR DAILY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EACH WEEKDAY&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;CATCH UP ON THE LATEST HEADLINES AND UNIQUE NPR STORIES, SENT EVERY WEEKDAY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2018\/07\/18\/DAILYNEWS-JUNE27-SCREENCAP-CROPPED-SMALL_CUSTOM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/TOPICS\/HEADER1001.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/NEWS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/NEWS\/&QUOT;}" -->
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;NEWS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;DAILY NEWS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR DAILY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EACH WEEKDAY&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;CATCH UP ON THE LATEST HEADLINES AND UNIQUE NPR STORIES, SENT EVERY WEEKDAY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2018\/07\/18\/DAILYNEWS-JUNE27-SCREENCAP-CROPPED-SMALL_CUSTOM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/TOPICS\/HEADER1001.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/NEWS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/NEWS\/&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:1,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="callout-up-first-end-of-story">
+      <section class="callout callout--upfirst"><div class="up-first-promo up-first-promo--newsletter">
+      <article id="res736891435" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Friday, June 28th, 2019</h4>
+   <div class="audio-module-controls-wrap" data-audio="{&quot;uid&quot;:&quot;736878145:736891435&quot;,&quot;available&quot;:true,&quot;duration&quot;:834,&quot;title&quot;:&quot;Friday, June 28th, 2019&quot;,&quot;audioUrl&quot;:&quot;https:\/\/play.podtrac.com\/npr-510318\/ondemand.npr.org\/anon.npr-mp3\/npr\/upfirst\/2019\/06\/20190628_upfirst_uf62819_.mp3?orgId=1&amp;d=834&amp;p=510318&amp;story=736878145&amp;t=podcast&amp;e=736878145&amp;siteplayer=true&amp;size=13323150&quot;,&quot;storyUrl&quot;:&quot;https:\/\/www.npr.org\/2019\/06\/28\/736878145\/friday-june-28th-2019&quot;,&quot;slug&quot;:&quot;&quot;,&quot;program&quot;:&quot;Up First&quot;,&quot;affiliation&quot;:&quot;&quot;,&quot;song&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;album&quot;:&quot;&quot;,&quot;track&quot;:0,&quot;type&quot;:&quot;segment&quot;,&quot;subtype&quot;:&quot;other&quot;}" data-audio-metrics="[]">
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://play.podtrac.com/npr-510318/edge1.pod.npr.org/anon.npr-mp3/npr/upfirst/2019/06/20190628_upfirst_uf62819_.mp3?orgId=1&amp;d=834&amp;p=510318&amp;story=736878145&amp;t=podcast&amp;e=736878145&amp;siteplayer=true&amp;size=13323150&amp;awCollectionId=510318&amp;awEpisodeId=736878145&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>· </span>
+                            <span>13:54</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P13M,54S">13:54</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle" data-metrics="{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}">
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://play.podtrac.com/npr-510318/edge1.pod.npr.org/anon.npr-mp3/npr/upfirst/2019/06/20190628_upfirst_uf62819_.mp3?orgId=1&amp;d=834&amp;p=510318&amp;story=736878145&amp;t=podcast&amp;e=736878145&amp;siteplayer=true&amp;size=13323150&amp;awCollectionId=510318&amp;awEpisodeId=736878145&amp;dl=1" data-metrics="{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;736878145&quot;,&quot;noninteraction&quot;:true}"><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+            
+                <li class="audio-tool audio-tool-embed">
+                    <button data-embed-url="https://www.npr.org/player/embed/736878145/736891435" data-metrics="{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;736878145&quot;,&quot;noninteraction&quot;:true}"><b class="button-inner"><b class="icn-embed"></b><b class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly="" value="<iframe src=&quot;https://www.npr.org/player/embed/736878145/736891435&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/736878145/736891435" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+            
+
+        </ul>
+    </div>
+</div>
+</article>   <div class="up-first-promo__inner">
+            <h5>Up First</h5>
+      <h4>NPR's Up First is the news you need to start your day.</h4>
+      <p>The biggest stories and ideas — from politics to pop culture — in 10 minutes.</p>
+   </div>
+   <img src="https://media.npr.org/assets/img/2018/08/03/npr_upfirst_podcasttile_sq-9bcafe819b7297c2d92839ec8110cf5ca5fcf04f-s400-c85.jpg" alt="Up First logo">
+</div>
+</section>
+</div>
+
+<!-- END ID="CALLOUT-UP-FIRST-END-OF-STORY" -->
 <div id="callout-end-of-story-mount">
    </div>
 
@@ -438,7 +476,7 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
             <h6 class="npr-footer__header">Connect</h6>
 
             <ul>
-                <li class="npr-footer__item"><a href="/newsletters" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
                 <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
                 <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
                 <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
@@ -454,8 +492,8 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
                 <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
                 <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
                 <li class="npr-footer__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="Click People">People</a></li>
-                <li class="npr-footer__item"><a href="/series/750003/press-room/" data-metrics-action="Click Press">Press</a></li>
-                <li class="npr-footer__item"><a href="/sections/ombudsman/" data-metrics-action="Click Ombudsman">Ombudsman</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
                 <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
             </ul>
         </div>
@@ -464,7 +502,7 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
             <h6 class="npr-footer__header">Get Involved</h6>
 
             <ul>
-                <li class="npr-footer__item"><a href="/series/750002/support-public-radio" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
                 <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
                 <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
                 <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
@@ -499,7 +537,7 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
 <!-- END ID="WRAPPER" -->
 <script type="text/javascript">
    (function () {
-    var loadPageJs = function () { webpackJsonp([85,27],{0:function(n,t,c){n.exports=c(1765)},1765:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(36),c(1510),c(252),c(355),c(240),c(569),c(352),c(1514),c(351),c(1513),c(1512),c(1511),c(1362),c(395),c(2188)}(c)}.bind(this);c.e(0,t),c.e(3,t)}.call(this)}}); };
+    var loadPageJs = function () { webpackJsonp([82,25],{0:function(n,t,c){n.exports=c(1807)},1807:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(45),c(2216),c(364),c(371),c(262),c(783),c(403),c(2221),c(402),c(2220),c(2219),c(1384),c(584),c(2213),c(1546),c(2206),c(353)}(c)}.bind(this);c.e(0,t),c.e(4,t)}.call(this)}}); };
     if (document.readyState === 'complete') {
         loadPageJs();
     } else {
@@ -541,4 +579,4 @@ NPR.serverVars = {"storyId":"179878450","facebookAppId":"138837436154588","webpa
             loadChartbeat();
         };
     })();
-</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ece810d90e","applicationID":"3472094","transactionName":"Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA","queueTime":0,"applicationTime":83,"atts":"TxRGEAwZRB0SABZcTklL","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>
+</script></body></html>
