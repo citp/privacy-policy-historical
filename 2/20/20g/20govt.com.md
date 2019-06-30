@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the 20govt.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226042118id_/http%3A//20govt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20govt.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630191940id_/http%3A//20govt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 20govt.com- Govt Job & Upcoming Sarkari Naukri 2018-19
+# Privacy Policy — 20Govt.com
 
-You are here: [Home](http://20govt.com/) Privacy Policy
-
-By [Leave a Comment](http://20govt.com/privacy-policy/#respond)
+Employment News India [Home](http://20govt.com/) / Privacy Policy
 
 Privacy Policy
 
-1 (20%) 2 votes
+1 (20%) 2 vote[s] 
 
 We at www.20govt.com are very serious about privacy of our visitors and readers. Any personal information provided by you including Name, Website, Email etc. will never be provided to anyone outside www.20govt.com. We collect your E-mail address if you want to subscribe to E-mail Updates. Proper information on unsubscribing is also provided in E-mails sent by us.
 
- **Log Files**
+**Log Files**
 
 Like many other Web sites, www.20govt.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**
+**Cookies and Web Beacons**
 
 A “cookie” is a small text file which is placed in your computer to allow us to recognise you the next time you visit our site. www.20govt.com does not use cookies to collect information. However, we work with online advertising companies that may use these cookies. These third party content providers do not access any of your personal information provided to us (Including Name, E-mail Address, Phone Number). www.20govt.com has no access to or control over these cookies that are used by third-party advertisers.
 
 You can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
- **DoubleClick DART Cookie**
+**DoubleClick DART Cookie**
 
 Google, as a third party vendor, uses cookies to serve ads on www.20govt.com. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.20govt.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –
 
@@ -32,6 +30,8 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.20govt.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
- **Changes to Privacy Policy**
+**Changes to Privacy Policy**
 
 We may change this privacy policy in future which will be reflected in this page. For any further questions, you may contact us at 20govt **[at]gmail.com**  (replace [at] with @).
+
+## Reader Interactions
