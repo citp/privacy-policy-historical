@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231235231id_/https%3A//www.medallia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224415id_/https%3A//www.medallia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medallia
 
@@ -15,7 +15,7 @@ At Medallia, we want to provide you with information about the collection and us
 
 
 
-Medallia is certified under the under the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. For more information see our [Notice of Privacy Shield Certification](http://www.medallia.com/privacy-policy/privacy-shield-notice/).
+Medallia is certified under the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. For more information see our [Notice of Privacy Shield Certification](http://www.medallia.com/privacy-policy/privacy-shield-notice/).
 
 ### About Medallia
 
@@ -40,7 +40,7 @@ Medallia performs these functions on behalf of our clients. Medallia is not in t
 
 ### Changes to our Notices
 
-Updates to our privacy notices will be posted on our home page, sent to our clients via email, or through other appropriate channels. If you want to review our old privacy policy, effective before May 30, 2018, click [here](https://web.archive.org/web/20181231235231id_/https://www.medallia.com/privacy-policy/privacy-policy-archive/).
+Updates to our privacy notices will be posted on our home page, sent to our clients via email, or through other appropriate channels. If you want to review our old privacy policy, effective before May 30, 2018, click [here](https://web.archive.org/web/20190630224415id_/https://www.medallia.com/privacy-policy/privacy-policy-archive/).
 
 ### Our Group Companies
 
@@ -51,7 +51,7 @@ Our privacy notices cover how Medallia, Inc. and its subsidiaries and affiliated
 If you have questions about our privacy practices, you can contact us by emailing [privacy@medallia.com](mailto:privacy@medallia.com), or by writing to us at:
 
 Privacy, Medallia, Inc.  
-450 Concar Drive, San Mateo, CA 94402
+575 Market Street Suite 1850, San Francisco, CA 94105
 
 Privacy, Medallia Limited  
 5th Floor 80 Cheapside London EC2V 6EE
@@ -149,7 +149,7 @@ Personal data of data subjects can be processed by Medallia Group Companies or t
 
 
 
-**Disclosure of Data for Legal Obligations**. Medallia will provide data discussed in this notice to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend Medallia’s legal rights, or (iiii) to protect the vital interests of our clients and their employees and respondents, or those of any other person. When requested by legal authorities to disclose personal information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. Medallia will communicate with the affected client or individual as soon as possible, unless prohibited by law or court order.
+**Disclosure of Data for Legal Obligations**. Medallia will provide data discussed in this notice to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend Medallia’s legal rights, or (iii) to protect the vital interests of our clients and their employees and respondents, or those of any other person. When requested by legal authorities to disclose personal information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. Medallia will communicate with the affected client or individual as soon as possible, unless prohibited by law or court order.
 
 **Disclosure of Data for Merger, Acquisition or Sale**. If Medallia is involved in a merger, acquisition or sale of all or a portion of its assets, Medallia may transfer data discussed in this notice to the buyer or new parent company. In this circumstance, the appropriate individuals will be notified about the change in ownership and use of their personal data, as well as any choices they may have regarding personal data.
 
@@ -174,7 +174,7 @@ This notice addresses the data we collect through Medallia’s company websites,
 Medallia is the data controller for the marketing and website analytics data we collect. If you have additional questions about our practices as a data controller or if you would like to issue a complaint, you may contact us at [privacy@medallia.com](mailto:privacy@medallia.com) or by mail at the following addresses:
 
 Privacy, Medallia, Inc.  
-450 Concar Drive, San Mateo, CA 94402
+575 Market Street Suite 1850, San Francisco, CA 94105
 
 Privacy, Medallia Limited  
 5th Floor 80 Cheapside London EC2V 6EE
@@ -199,7 +199,7 @@ In some instances, Medallia engages with third party sources to obtain additiona
 
 **Marketing Outreach and Communication**. Medallia uses Marketing Data to communicate with you for the purpose of providing you with information about Medallia products and services. We may also inform you about Medallia resources, news and updates, webinars, events, CEM certification courses, conferences, and information related to our blog. We provide this information to you via several channels, including, for example, direct mail and email communication, phone or SMS communication, event registration, onsite experience programs, ad targeting and retargeting efforts and website feedback surveys. Medallia also uses Marketing Data to understand the ways in which you access our website and to analyze trends related to usage. Medallia may analyze usage to evaluate our marketing effectiveness and retool portions of the site to provide a more convenient experience to you.
 
-**Website Feedback Survey and OCEM Assessment**. We collect survey information from digital surveys embedded in our website. Medallia’s marketing team can access and use survey feedback you choose to provide to evaluate your impression of and interactions with our website, and improve your browsing experience. Our survey allows you to provide your name and email address should you be interested in signing up for an event with us, or indicate what brought you to our site, including, for example, recruitment opportunities or product demos. The survey also also allows you to take a screenshot of portions of our website that you would like to provide feedback about. This survey collects analytics information such as your IP address and type of web browser or mobile device used in accessing our site. We also allow you to engage with our OCEM Assessment to assess your customer experience preparedness. Our marketing and sales teams collect OCEM Assessment responses to refine our communication with prospective customers. We also use this information to help customers further define their customer experience goals. You may provide additional information within the OCEM Assessment, including, for example, name, email address, employer and title. We use this information to contact you about your OCEM Assessment results and Medallia products and services.
+**Website Feedback Survey and OCEM Assessment**. We collect survey information from digital surveys embedded in our website. Medallia’s marketing team can access and use survey feedback you choose to provide to evaluate your impression of and interactions with our website, and improve your browsing experience. Our survey allows you to provide your name and email address should you be interested in signing up for an event with us, or indicate what brought you to our site, including, for example, recruitment opportunities or product demos. The survey also allows you to take a screenshot of portions of our website that you would like to provide feedback about. This survey collects analytics information such as your IP address and type of web browser or mobile device used in accessing our site. We also allow you to engage with our OCEM Assessment to assess your customer experience preparedness. Our marketing and sales teams collect OCEM Assessment responses to refine our communication with prospective customers. We also use this information to help customers further define their customer experience goals. You may provide additional information within the OCEM Assessment, including, for example, name, email address, employer and title. We use this information to contact you about your OCEM Assessment results and Medallia products and services.
 
 **Legal Basis for Processing**. In all instances, Medallia processes Marketing Data only to the extent that it has a legal basis to do so. Generally, we rely on either a legitimate interest or consent to process Marketing Data. For more information about the legal basis for each of our processing activities contact privacy@medallia.com.
 
@@ -236,13 +236,13 @@ Marketing Data is processed by Medallia Group Companies and third parties in cou
 
 
 
-**Disclosure of Data for Legal Obligations**. Medallia will provide data discussed in this notice to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend Medallia’s legal rights, or (iiii) to protect the vital interests of our clients and their employees and respondents, or those of any other person. When requested by legal authorities to disclose personal information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. Medallia will communicate with the affected client or individual as soon as possible, unless prohibited by law or court order.
+**Disclosure of Data for Legal Obligations**. Medallia will provide data discussed in this notice to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend Medallia’s legal rights, or (iii) to protect the vital interests of our clients and their employees and respondents, or those of any other person. When requested by legal authorities to disclose personal information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. Medallia will communicate with the affected client or individual as soon as possible, unless prohibited by law or court order.
 
 **Disclosure of Data for Merger, Acquisition or Sale**. If Medallia is involved in a merger, acquisition or sale of all or a portion of its assets, Medallia may transfer data discussed in this notice to the buyer or new parent company. In this circumstance, the appropriate individuals will be notified about the change in ownership and use of their personal data, as well as any choices they may have regarding personal data.
 
 **Collection of Personal Data of Minors**. Medallia’s website is directed to people who are at least 16 years of age or older. In the event that we have inadvertently collected data of an individual who is younger than 16, we will remove this data from our system within a reasonable time period. To make such a request, please contact privacy@medallia.com.
 
-**Privacy Contact**. If you have any questions or comments about this privacy notice or the practices of this site, or unresolved privacy and data use concerns, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 450 Concar Drive, San Mateo, CA 94402. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
+**Privacy Contact**. If you have any questions or comments about this privacy notice or the practices of this site, or unresolved privacy and data use concerns, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc.,575 Market Street Suite 1850, San Francisco, CA 94105. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
 
 ## Recruitment Notice
 
@@ -291,36 +291,36 @@ Medallia uses Candidate Data to communicate with you for the purpose of providin
 
 Marketing Data is processed by Medallia Group Companies and third parties in countries that have data protection laws different from those applicable to the data subjects. To satisfy adequacy requirements related to this international data transfer (such as those in the EU), Medallia signs data processing agreements with our vendors and clients that have robust privacy and security terms, including, where appropriate, the [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
 
-**Disclosure of Data for Legal Obligations**. Medallia will provide data discussed in this notice to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend Medallia’s legal rights, or (iiii) to protect the vital interests of our clients and their employees and respondents, or those of any other person. When requested by legal authorities to disclose personal information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. Medallia will communicate with the affected individual as soon as possible, unless prohibited by law or court order.
+**Disclosure of Data for Legal Obligations**. Medallia will provide data discussed in this notice to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend Medallia’s legal rights, or (iii) to protect the vital interests of our clients and their employees and respondents, or those of any other person. When requested by legal authorities to disclose personal information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. Medallia will communicate with the affected individual as soon as possible, unless prohibited by law or court order.
 
 **Disclosure of Data for Merger, Acquisition or Sale**. If Medallia is involved in a merger, acquisition or sale of all or a portion of its assets, Medallia may transfer data discussed in this notice to the buyer or new parent company. In this circumstance, the appropriate individuals will be notified about the change in ownership and use of their personal data, as well as any choices they may have regarding personal data.
 
 **Collection of Personal Data of Minors**. Medallia’s website and recruiting efforts are directed to people who are at least 16 years of age or older. In the event that we have inadvertently collected data of an individual who is younger than 16, we will remove this data from our system within a reasonable time period. To make such a request, please contact [privacy@medallia.com](mailto:privacy@medallia.com).
 
-**Privacy Contact**. If you have any questions or comments about this privacy notice or the practices of this site, or unresolved privacy and data use concerns, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 450 Concar Drive, San Mateo, CA 94402. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
+**Privacy Contact**. If you have any questions or comments about this privacy notice or the practices of this site, or unresolved privacy and data use concerns, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc.,575 Market Street Suite 1850, San Francisco, CA 94105. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
 
 ## Cookies Notice
 
-#### Effective Date May 30, 2018 - Last Reviewed and Updated May 30, 2018
+#### EFFECTIVE DATE APRIL 30, 2019 - LAST REVIEWED AND UPDATED APRIL 30, 2019
 
-### Introduction
+Medallia uses cookies on our corporate websites and in the Medallia Experience Cloud.
 
-This notice addresses the cookies we use in the Medallia Experience Cloud and on our company websites.
-
-In our privacy notice, we use the following terms:
+In our cookies notice, we use the following terms:
 
   * “Medallia Experience Cloud” refers to the SaaS platform and provision of professional services we provide to our clients.
   * “respondent” refers to an individual who is prompted to provide feedback to one of Medallia’s clients through the Medallia Experience Cloud.
 
 
 
-### What is a Cookie?
+### **What is a Cookie?**
 
-A cookie is usually a small piece of data sent from a website and stored in a user’s web browser while a user is browsing a website. When the user browses the same website in the future, the data stored in the cookie can be retrieved by the website to notify the website of the user’s previous activity.
+A cookie is a text file which can be sent from a website and stored in a user’s web browser while a user is browsing that website. When the user browses the same website or another website that recognizes that cookie in the future, the data stored in the cookie can be retrieved by the website to notify the website of the user’s previous activity.
 
-Cookies were designed to be reliable ways for websites to remember the activity that a user had taken in the past such as indicating his or her preferences.
+Cookies fulfill many different tasks, as for example letting you navigate between pages efficiently or remembering your preferences. They can also help to ensure that online-advertisements are more relevant to you with regard to your interests.
 
-### Website
+### **Medallia Corporate Websites**
+
+Cookies are placed on the computer of a visitor to Medallia’s corporate websites. These cookies enhance the visitor’s experience on these websites, for example to complete forms, identify returning visitors and offer related content. Cookies are also used in combination with beacons, tags and scripts on our website by Medallia and its partners to facilitate our communication with site visitors, support marketing operations and targeted advertising, tailor a visitor’s advertisement experience, analyze trends, administer the site, or understand how visitors engage with Medallia’s corporate websites.
 
 As is true of most websites, Medallia gathers certain information automatically from visitors and store it in log files. When you visit Medallia’s website, we collect internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
@@ -328,18 +328,104 @@ In order to improve services we offer you, to improve marketing, analytics, or s
 
 Cookies, beacons, tags and scripts are used by Medallia and our partners (e.g., marketing partners), affiliates, or analytics or service providers on our website. These technologies are used by Medallia’s marketing team in facilitating our communication with site visitors, supporting marketing operations, tailoring a visitor’s advertisement experience, analyzing trends, administering the site, or tracking users’ movements around the site. We receive reports based on the use of these technologies by these companies.
 
-We use cookies to enhance the user’s experience on our website, for example to complete forms, identify returning users and offer related content. Users can control the use of cookies at the individual browser level. If you reject cookies, your ability to use some features or areas of our site may be limited.
+### _Categories of Cookies and Management Settings_
 
-We use Local Shared Objects (LSOs) to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as provided by HTML5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+The following describes the categories of cookies Medallia uses on our corporate websites and your options for managing them:
 
-We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+Category | Description | Managing Settings  
+---|---|---  
+Required cookies | These cookies are essential for operating Medallia’s corporate websites. They assist in the display and navigation of the site, and provide security. | Because required cookies are essential to the operation of our corporate website, the ability to opt out of these cookies is limited. Management of these cookies may be enabled on your browser via individual browser settings.  
+Functional cookies | These cookies allow Medallia to remember the information you have entered or choices you have made when you visit our corporate websites, and are used to provide personalized features, such as remembering your preferences for displaying video content. | You can manage the placement of functional cookies on your browser via your individual browser settings. Opting out of functional cookies may impact the functionality of Medallia’s corporate websites and degrade your experience. You can visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.  
+Performance and analytics cookies | These cookies record information about your visit to our corporate websites (such as which portions of the website you have visited and how fast pages have loaded). Medallia uses this information to improve how our corporate websites function. | You can manage the placement of these cookies the same as functional cookies. You can visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.  
+Advertising cookies | Medallia uses cookies on our corporate website to show you relevant advertising outside of our site. Cookies may also be used to learn whether a visitor to our corporate website later saw an ad and took an action (e.g., downloaded a white paper) from our site. 
 
-### Medallia Experience Cloud.
+Our partners may use a cookie to determine whether we’ve shown an ad to you outside of Medallia’s corporate website and how it performed, or provide us with information about how you interacted with ads. We may also work with partners to show you an ad off of our corporate website.
 
-Medallia and its service providers use cookies in surveys and reporting applications in the Medallia Experience Cloud to identify returning users from the same computer and ensure the integrity of clients’ research. As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers. These cookies do not include personal information other than IP address.
+| See the cookie table below for our corporate website to learn more about how to opt out of data collection by third party advertising networks.  
+  
+### _Cookie Table_
 
-If you wish to restrict or block Web browser cookies that are set on your device, you can do this through your browser settings. Many browsers offer a Help function that provides information about how to restrict or block cookies.. You can also visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
+The cookie tables below list some of the cookies used on our corporate website, and opt-out information (if applicable).
 
-Please note that if you disable your Web browser’s ability to accept cookies, you cannot take our surveys.
+**Cookie Host** | **Type** | **Description and Opt-out Information (if applicable)**  
+---|---|---  
+BIG IP | Required | Server and session management  
+CloudFlare | Required | Cache and security  
+Adobe TypeKit | Required | Website design features  
+Vimeo | Functionality | Integration of video content  
+Google Analytics, Hotjar, New Relic | Performance and analytics | Analyzes when sections of the Medallia website are visited, server performance monitoring 
 
-If you would like view a copy of our cookies notice for the Medallia Experience Cloud in multiple languages, click [here](http://survey.medallia.com/static/cookie-policy/index.html).
+Opt-out tools and information are available at:
+
+  * <https://tools.google.com/dlpage/gaoptout?hl=None>
+  * <https://www.hotjar.com/legal/compliance/opt-out>
+  * <https://newrelic.com/termsandconditions/services-notices>
+
+  
+LinkedIn, Bidr.io/Beeswax, DemandBase, DoubleClick, Facebook, LiveRamp, Inc., Twitter Advertising | Advertising cookies | Ad targeting 
+
+Opt out tools and information is available at:
+
+  * <https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=microsites-frontend_legal_cookie-policy>
+  * <https://www.beeswax.com/cookies/>
+  * <https://adssettings.google.com/u/0/authenticated>
+  * <https://www.facebook.com/help/568137493302217>
+  * <https://liveramp.com/opt_out/>
+  * [http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN)
+
+  
+  
+**Medallia Experience Cloud**
+
+Cookies are placed on a respondent’s computer when they visit web-based surveys navigated to from an invitation sent by the Medallia Experience Cloud, when a respondent visits the domain of one of our clients that has enabled Medallia’s digital surveys, or when an employee of a Medallia client logs on to a reporting application. These cookies enable Medallia to remember a user’s preferences (such as language), ensure the security and integrity of client data, improve our products, and personalize a respondent’s survey experience. In addition, these cookies enable a Medallia client to identify a user across different browsers or devices that access a client’s web domain, record information about the browsing session on the domain, and to customize surveys presented to the user on that domain based on that information and additional rules.
+
+The Medallia Experience Cloud does not place cookies on a user’s computer for advertising purposes.
+
+### _Categories of Cookies and Management Settings_
+
+The following describes the categories of cookies used by the Medallia Experience Cloud and your options for managing them:
+
+Category | Description | Managing Settings  
+---|---|---  
+Required cookies | These cookies are essential for operating the Medallia Experience Cloud. They assist in navigation of surveys and reporting applications, ensure the security and integrity of Medallia’s and its clients’ data, and provide access to restricted content. | Because required cookies are essential to the operation of the Medallia Experience Cloud, the ability to opt out of these cookies is limited. Management of these cookies may be enabled on your browser via individual browser settings.  
+Functional cookies | These cookies allow Medallia to remember a user’s information or choices, and provide personalized features (such as the choice of language in a survey). | You can manage the placement of functional cookies on your browser via your individual browser settings. Opting out of functional cookies may impact the functionality of Medallia’s surveys or reporting application and degrade your experience. You can visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.  
+Performance and analytics cookies | These cookies record information about the use of a survey or reporting application (such as how fast a survey loads or which modules within a reporting application a user interacts with). Medallia uses this information to improve how the surveys and reporting applications function. Medallia’s clients also use information collected from these cookies to improve a respondent’s survey experience (such as causing a survey on their domain to be presented only when certain conditions are met). | You can manage the placement of these cookies the same as functional cookies. You can visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.  
+  
+### _Cookie Table_
+
+The cookie tables below list some of the cookies used by the Medallia Experience Cloud, and opt-out information (if applicable).
+
+Web-based surveys
+
+**Cookie Name(s)** | **Cookie Host** | **Type** | **Description and Management Settings (if applicable)**  
+---|---|---|---  
+sessionID | Medallia | Required | Prevents repeated use of temporary survey URLs  
+JSESSIONID | Medallia | Required | Enables survey navigation  
+feedless-XXXXXX | Medallia | Required | Ensures that unique survey ballots are used in anonymous surveys  
+NSC_tvswfz.nfebmmjb.dpn | Medallia | Required | Enables load balancing  
+loginLanguage | Medallia | Functional | Records a respondent’s preferred survey language (if enabled by the Medallia client)  
+consent.$XXXXXX | Medallia | Functional | Records whether respondent has accepted cookie terms and conditions (if enabled by the Medallia client)  
+ADRUM | AppDynamics | Performance and analytics | Records analytics regarding page load time.  
+  
+### Digital surveys
+
+**Cookie Name(s)** | **Cookie Host** | **Type** | **Description and Management Settings (if applicable)**  
+---|---|---|---  
+backendDataInSessionFlag | Medallia | Performance and analytics | A boolean flag that indicates whether to retrieve user information for custom survey rules in the current session.  
+LAST_INVITATION_VIEW, DECLINED_DATE, kampyleInvitePresented, | Medallia | Performance and analytics | Records information about when surveys are presented and declined. Used for analytics and to customize frequency of survey presentation.  
+kampylePageLoadedTimestamp, kampyleSessionPageCounter, kampyleUserSession, kampyleUserSessionsCount | Medallia | Performance and analytics | Records information about the visitor’s session on the Medallia client’s domain, such as the number of pages a respondent has visited in their session. Used for analytics and to customize frequency of survey presentation.  
+kampyle_userid | Medallia | Performance and analytics | Records a randomly generated user ID for analytics and to customize frequency of survey presentation.  
+kampyleUserPercentile | Medallia | Performance and analytics | Records a randomly generated number used to present a survey to a percentage of users. Used to customize frequency of survey presentation.  
+  
+### Reporting applications
+
+**Cookie Name(s)** | **Cookie Host** | **Type** | **Description and Management Settings (if applicable)**  
+---|---|---|---  
+CloudFront-Key-Pair-Id, CloudFront-Policy, CloudFront-Signature | CloudFront | Required | Restricts access to confidential content.  
+JSESSIONID | Medallia | Required | Enables survey navigation.  
+SERVERID | Medallia | Required | Enables load balancing  
+loginLanguage | Medallia | Functional | Records a user’s preferred survey language (if enabled by the Medallia client).  
+svs | Medallia | Functional | Records user’s preferred view for certain modules.  
+ADRUM | AppDynamics | Performance and analytics | Records analytics regarding page load time.  
+  
+### ** **
