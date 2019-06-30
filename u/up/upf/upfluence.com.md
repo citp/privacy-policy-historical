@@ -1,89 +1,103 @@
-> *The following text is extracted and transformed from the upfluence.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202050712id_/http%3A//upfluence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upfluence.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630045643id_/https%3A//upfluence.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Upfluence
+# Privacy Policy - Upfluence
 
-## PRIVACY POLICY
+## Who we are
 
-## UPDATED August 31st, 2015
+Our website address is: [https://upfluence.com](https://upfluence.com/).
 
-The following details our privacy Policy (the “Policy”) at UPFLUENCE Inc (UFPLUENCE) and describes the types of information we gather from those persons visiting the Internet websites upfluence.com, publishr.io, and reachr.io (the “Site(s)”) and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by UPFLUENCE (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. Each time you use the Sites, the current version of the Privacy Policy will apply. Accordingly, when you use the Sites, you should check the date of this Policy (which appears at the top) and review any changes since the last version.
+## What personal data we collect and why we collect it
 
-## USE OF INFORMATION COLLECTED BY UPFLUENCE
+### Comments
 
-UPFLUENCE may collect two types of information from users of our Sites: “personal information” (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” (such as frequency of visits to any of the Sites, search terms entered, Site pages most frequently accessed, browser type, etc.) We use this information in an effort to improve your experience on the Sites and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to help us develop and improve our Sites, and to tailor our Sites to your interests.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-## COLLECTING AND USING YOUR PERSONAL INFORMATION
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-UPFLUENCE only collects personal information that is voluntarily provided when users sign up for an UPFLUENCE site. We ask you for personal information such as your name, address, email address, and social security number. (Please note that we require social security numbers for income tax reporting purposes.) We may also request PayPal payment account information which we maintain in encrypted form on secure servers.
+### Media
 
-## COLLECTING AND USING YOUR AGGREGATE INFORMATION
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-UPFLUENCE also collects aggregate information, which is non-personally identifiable information about you, such as frequency of visits to the Sites, search terms entered, browser type, etc. Aggregate information is used in a collective manner, and no single person can be identified by that compiled information. UPFLUENCE uses aggregate information to provide its services and remuneration, as well as to determine the use of our Sites and to monitor, audit and analyze information pertaining to our business metrics.
+### Contact forms
 
-## SHARING, SELLING AND TRADING OF YOUR PERSONAL INFORMATION COLLECTED ONLINE WITH THIRD PARTIES
+Upfluence collects personally identifiable information, such as your name, phone number, email. We may gather additional personal or non-personal information in the future. Information about your computer hardware and software may be automatically collected by Upfluence. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This  
+information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Upfluence website. Upfluence encourages you to review the privacy statements of websites you choose to link to from Upfluence so that you can understand how those websites collect, use and share your information. Upfluence is not responsible for the privacy statements or other content on websites outside of the Upfluence website.
 
-UPFLUENCE shares personal information with our parents and subsidiaries, and on occasion, we may share personal information with third party service providers, such as credit card processing companies. These third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide. In addition, in order to protect against potential fraud, we may verify with third parties the personal information you provide when you sign up for a PayPerPost account. In the course of such verification, we may receive personal information about you. We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes.
+Upfluence collects and uses your personal information to operate its website(s) and deliver the services (such as a software demo) you have requested. Upfluence may also use your personally identifiable information to inform you of other products or services available from Upfluence and its affiliates. Upfluence may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. Upfluence does not sell, rent or lease its customer lists to third parties. Upfluence may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Upfluence, and they are required to maintain the confidentiality of your information. Upfluence may keep track of the websites and pages our users visit within Upfluence, in order to determine what Upfluence services are the most popular. This data is used to deliver customized content and advertising within Upfluence to customers whose behavior indicates that they are interested in a particular subject area. Upfluence will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Upfluence or the site; (b) protect and defend the rights or property of Upfluence; and, (c) act under exigent circumstances to protect the personal safety of users of Upfluence, or the public.
 
-Given the nature of UPFLUENCE’s website, information willingly provided by the influencers (blog writers, social media users and any other user who registered as an influencer) will be shared with advertisers (any user registered as an advertiser on the websites) in order to ease the selection process.
+### Cookies
 
-In following circumstances, UPFLUENCE may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on UPFLUENCE, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of UPFLUENCE; (iv) when we believe it is necessary to protect the rights, property, or safety of UPFLUENCE or other persons, or (v) as otherwise required or permitted by law.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Sharing, Selling and Trading Aggregate Information Collected Online with Third Parties We may share, sell or trade with third parties aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. As stated earlier, such information does not identify you individually.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-## COOKIES
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Cookies are pieces of information which websites transfer to your computer’s web browser for storage on your computer’s hard drive. When you visit the Sites, we may place one or more cookies on your computer to uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people blog. We store minimal personal information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. You may chose to set your computer to not accept cookies, but some features and services on the Sites may not function properly if your cookies are disabled.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-## USE OF PIXEL TAGS/CLEAR GIFS/WEB BEACONS
+### Embedded content from other websites
 
-A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on articles or other editorial content created on UPFLUENCE but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-## SECURITY PERTAINING TO YOUR INFORMATION
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. UPFLUENCE employees can access personal information, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. IN NO EVENT WILL UPFLUENCE OR SUBSIDIARIES, AFFILIATES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY DIRECT, INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITES, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS INFORMATION OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITES). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF UPFLUENCE OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+### Analytics
 
-## INTEGRITY OF YOUR DATA
+Upfluence also collects non personally identifiable information to analyze the traffic of its website thanks to Google Analytics. We may gather additional non-personal information in the future. Information about your computer hardware and software may be automatically collected by Upfluence. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Upfluence website.
 
-UPFLUENCE processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+## Who we share your data with
 
-## COPYRIGHT INFRINGEMENT/DMCA NOTICE
+Certain services made available via upfluence.com are delivered by third party sites and organizations. By using any product, service or functionality originating from the Upfluence.com domain, you hereby acknowledge and consent that Upfluence may share such information and data with any third party with whom Upfluence has a contractual relationship to provide the requested product, service or functionality on behalf of Upfluence.com users and customers.
 
-If you are a copyright owner or an agent thereof and believe that any submission on the Sites or any other content on the Sites infringes upon your copyrights, you may submit a notification pursuant to our Offices in Delaware, Switzerland, or France.
+## How long we retain your data
 
-(i) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-(ii) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+We also store the personal information users have provided to us through dedicated contact forms when creating an account with our website, requesting a demo, or subscribing to our newsletter. Users are free to request their personal information at any time by emailing us: team@upfluence.com. Website administrators will then edit that information as per request.
 
-(iii) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the service provider to locate the material;
+## What rights you have over your data
 
-(iv) Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-(v) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Upfluence by contacting us here: [team@upfluence.com](mailto:team@upfluence.com) .
 
-(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+## Where we send your data
 
-UPFLUENCE receives notifications of claimed infringement on the following email address: team@publishr.io or rue de Monthoux, 49 - 1201 Geneva Switzerland. Only DMCA notices should go to this address; any other comments, requests, or other communications should be directed to hey@publishr.io. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
+ **WordPress** – Visitor comments may be checked through an automated spam detection service.  
+ **Base CRM** – Upfluence’s CRM, we send the information from the forms on upfluence.com to Base CRM each time a form is completed.  
+Privacy Policy.  
+ **Sendgrid** – Upfluence’s main tool to send emails when you are client at Upfluence. Privacy Policy.  
+ **Google Analytics** — Visitor statistics, we do not track personally identifiable information. Privacy Policy. You can also opt-out of Google  
+Analytics here.  
+ **Akita** – Software users (both clients are trial accounts users) statistics. Privacy Policy.  
+ **Intercom** – “Intercom shows you who is using your product or website and makes it easy to personally communicate with them through  
+targeted content, behavior-driven email, in-app, and web messages”. Privacy Policy. GDPR export here. List of data tracked and stored by  
+Intercom here.  
+ **Facebook** – We use the Facebook retargeting pixel as a part of our marketing efforts. Privacy Policy. GDPR information provided by  
+Facebook.  
+ **Linkedin** – We use the Linkedin retargeting pixel as a part of our marketing efforts. Privacy Policy.
 
-## CHILDREN AND PRIVACY
+## Additional information
 
-Our Sites are not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with any of our Sites, provided personally identifiable information, and UPFLUENCE has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personally identifiable information from our files.
+### We protect your data
 
-## LINKS TO OTHER WEBSITES
+Upfluence secures your personal information from unauthorized access, use or disclosure.
 
-The Sites may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. UPFLUENCE does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors.
+### What data breach procedures we have in place
 
-## BUSINESS TRANSFERS
+Upon becoming aware of a security incident, Upfluence shall notify its customers, users and newsletter subscribers without undue delay and shall provide timely information relating to the security incident as it becomes known or as is reasonably requested by customers, users and newsletter subscribers.
 
-In the event that UPFLUENCE sells substantially all of its assets, or one of UPFLUENCE’s business units is acquired, personally identifiable information of visitors to the Sites and aggregate information will likely be one of the transferred assets.
+What third parties we receive data from  
+ **Google Analytics** — Visitor statistics, we do not track personally identifiable information. Privacy Policy. You can also opt-out of Google  
+Analytics here.  
+ **Youtube** — Embedded Videos, may track your usage when you play a video. Privacy Policy.  
+ **Intercom** – “Intercom shows you who is using your product or website and makes it easy to personally communicate with them through  
+targeted content, behavior-driven email, in-app, and web messages”. Privacy Policy. GDPR export here. List of data tracked and stored by  
+Intercom here.  
+ **Facebook** – We use the Facebook retargeting pixel as a part of our marketing efforts. Privacy Policy. GDPR information provided by  
+Facebook.  
+ **Linkedin** – We use the Linkedin retargeting pixel as a part of our marketing efforts. Privacy Policy.
 
-## CHANGES TO THIS POLICY
+### What automated decision making and/or profiling we do with user data
 
-Please note that we may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Sites.
-
-## CORRECTIONS/INFORMATION REMOVAL/OPT-OUT
-
-If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the irrelevant information by contacting us at UPFLUENCE rue de Monthoux 49, 1201 Geneva Switzerland or by visiting our site and clicking Contact. If you prefer not to receive newsletters or other marketing e-mails from UPFLUENCE, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to: UPFLUENCE, rue de monthoux 49, 1201 Geneva Switzerland. Please be sure to include in any e-mail or postal mail, your full name, e-mail address, postal address, and any message. Please note that such requests may take up to ten (10) days to become effective.
-
-## CONTACT US
-
-If you have any questions or concerns about this Policy, please feel free to contact us any time through the Sites or at Privacy Policy Concerns Coordinator on team@upfluence.com
+None.
