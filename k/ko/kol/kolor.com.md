@@ -1,171 +1,266 @@
-> *The following text is extracted and transformed from the kolor.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629173717id_/http%3A//www.kolor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolor.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232344id_/https%3A//www.lifewire.com/legal%23privacy) for the most accurate reproduction.*
 
-# Kolor | Privacy Policy
+# Terms of Use and Policies
 
-## Kolor Privacy Policy
+Updated June 18, 2019 
 
-Effective Date: 09/06/2015 
+At Lifewire, we take online privacy seriously and we respect the concerns of our community of users. In this policy (the “Privacy Policy”) we describe our privacy practices with regard to information we collect through Lifewire.com and its affiliated sites (collectively, the “Site”), to help you make informed decisions about how you share information when you visit or use the site, as well as your rights in determining what we do with the information that we collect or hold about you. 
 
-By using the Kolor website (Kolor.com) and/or any of Kolor’s online or mobile products, Kolor hardware or software, or other services (“Services”), including when you access the Services through game system platforms or mobile devices, you agree to Kolor’s Privacy Policy and that we may transfer and store your information in the United States. 
+### Understanding How Information Is Collected on Lifewire:
 
-IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES. We will post any modifications or changes to the Privacy Policy on the Kolor website. We reserve the right to modify this Privacy Policy at any time, so we encourage you to review it frequently. If we make a material change to this Privacy Policy, we will notify you by email or by means of a notice on the Kolor website prior to the changes taking effect. Your continued use of the Services signifies your acceptance of our Privacy Policy as modified. 
+#### Information You May Choose to Provide to Us
 
-## 1\. Kolor International Compliance
+We may collect information, including personal data, directly from you if you choose to provide that information. For example, you may provide us with your name and contact information (such as an email address), date of birth, or other details of that nature, when you sign up for our newsletters or participate in promotions or surveys on the Site. 
 
-The processing of personal data associated with this website (Kolor.com) is declared to the French Data Protection Authority (CNIL, declaration #1267673). The data you use when sending an e-mail or a form through this website is processed by a computer. 
+You also may choose to provide personal data about yourself when you participate in forums or discussions on the Site. Please be aware that information you post in these forums may be viewed or captured by anyone who visits the Site, therefore you should avoid posting sensitive personal data that you would not want to be available to the public. 
 
-We may transfer and store your information in the United States. Please be aware that countries which are outside of the European Economic Area may not offer the same level of data protection as in countries in the European Economic Area, although any transfer or storage of your data to and in the United States or another location outside the European Economic Area will continue to be in compliance with all applicable European data protection laws and this Privacy Policy. In addition, we may disclose or transfer your information to our parents or subsidiaries that are located in the European Economic Area and in the United States. 
+#### Information That Is Automatically Collected When You Visit Lifewire
 
-## 2\. Information You Provide
+When you access the Site, we and our third-party partners may automatically collect certain information about your visit using tools such as cookies, web beacons, and other similar technologies. The information collected automatically when you visit the Site may include your IP address, characteristics of your operating system, information about your browser and system settings, data about the computer or mobile device you use to access the Site, unique device identifiers, clickstream data (which shows the page-by-page path you take as you browse the Site). We or our third-party partners may combine information that each of us collects automatically with other information about you, including information you choose to provide. 
 
-Kolor collects both personal information and non-personal information that you provide to us, including personal information that may be contained in any video, comment, or other submission you upload or post to the Services. “Personal information” is information that identifies you and can be used alone to contact you online or offline. Kolor may collect Personal information from you in the context of: 
+**Cookies** are small files that websites and other online services use to store information about users on the users’ own computers. This Site may use cookies (such as HTTP and HTML5 cookies and Flash cookies), as well as other types of local storage. For more information about cookies, you may visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). See the section below regarding Your choices to learn more about how you may limit or disable cookies on your computer. If you choose to disable cookies, that could affect certain features of the Site that use cookies to enhance their functionality. 
 
-  * Account registration and administration of your user account;
-  * Creating or editing your user profile;
-  * Contest registration and prize acceptance;
-  * Customer support and technical assistance;
-  * Processing your order for products or services offered by Kolor;
-  * Registration for your Kolor products;
-  * Providing updates to you regarding your Kolor products;
-  * Newsletter subscriptions;
-  * Access to Kolor products or services on social networks or third party services;
-  * Services provided online, by way of your mobile device or the Kolor software; and
-  * Other uses of the Services where Personal information is requested for use and/or participation.
+To manage our automatic data collection, we may place tags (often referred to as “web beacons”) on pages on the Site or in emails we send to you. **Web beacons** are small files that link web pages to particular web servers and their cookies, and they may be used for a variety of purposes, such as counting the number of visitors to the Site, analyzing how users navigate around the Site, assessing how many emails that we send are actually opened and which articles or links are viewed by visitors. 
 
+We also use third-party web analytics services, such as Google Analytics, on the Site, to provide us with statistics and other information about visitors to the Site. 
 
+**“Do Not Track” Signals.** Your browser settings may allow you to automatically transmit a “do not track” signal to websites and online services you visit. At this time there is no consensus among industry participants as to the meaning of “do not track” in this context. Like many other websites, Lifewire.com is not configured to respond to “do not track” signals from browsers. [Click here to learn more about "do not track" signals.](https://allaboutdnt.com/)
 
-The specific types of Personal information collected will depend upon the activity and may include your full name, email address, phone number, home address, mobile phone number, credit card information, and shipping address. Our mobile services may request access to your photos and videos. Those who win a prize in our contests may be required to provide their social security number and other identification for tax purposes, which will only be used for prize fulfillment purposes. 
+Finally, companies that provide certain third-party apps, tools, widgets, and plug-ins that may appear on the Site (for example, Facebook “Like” buttons), also may use automated means to collect information regarding your interactions with these features. This information collection is subject to the privacy policies or notices of those providers. 
 
-Kolor may also ask for “non-Personal information,” i.e., information that, alone, cannot be used to identify or contact you. Such non-Personal information may include, for example, gender, birth date, or zip code. You may be asked to submit non-Personal information with Personal information or separately. 
+Further information regarding our use of cookies and other tracking technologies is described in our Cookies Disclosure. 
 
-## 3\. Automatically Collected Information
+#### How We May Use Information We Collect
 
-When you use Kolor’s Services that connect to the internet, including when you access the Services via PC, mobile, and game system platforms, we may collect certain information as described in the sections below for such purposes as improvement of our products and software services, troubleshooting bugs, providing the services, managing the Services, tracking usage, providing content for referring traffic sources and improving overall performance of the Services. Such information may include IP address, profile information, aggregate user data, preferences, technical session information, browser type, information about your computer, hardware, software, or mobile device, including a device identifier, demographic information including gender, zip code and age, and navigational data including log files, server logs, clickstream data, and other data such as your location, where enabled, and language preference. User IP addresses are recorded for security and monitoring purposes. If you arrived at our website via a link from another webpage, we may receive aggregate or otherwise anonymous statistical information about your visit to our site. We monitor customer traffic patterns and site usage to help us develop the design and layout of the site, and to improve the content of our website to better match the interests of our website users. We may combine this automatically collected and other non-Personal information with Personal information, in which case we will treat the combined information as Personal information under this Privacy Policy. 
+We may use the information gathered on Lifewire for various purposes, including the purposes listed below. For example, if you were to contact us with a question and provide your email address, we would use the email address you provided to respond to your inquiry. In addition, we use information we collect from you and through the Site to: 
 
-## Cookies
+  * Provide products and services you request (such as when you sign up to receive our email newsletters); 
+  * Respond to requests, questions, and comments, and provide other types of user support; 
+  * Offer you products and services via marketing communications, or direct you to portions of this Site or other websites, that we believe may interest you; 
+  * To serve advertising, content and offers to you based on your interests and online activities, from us or third parties; 
+  * Communicate about, and administer your participation in, events, programs, contests, and other offers or promotions; 
+  * Carry out, evaluate, and improve our business (which may include developing new features for the Site; analyzing and enhancing the user experience on the Site; assessing the effectiveness of our marketing and advertising; and managing our communications); 
+  * Perform data analytics regarding usage of the Site (including market and customer research, trend analysis, financial analysis, and anonymization of personal data); 
+  * Guard against, identify, and prevent fraud and other criminal activity, claims, and other liabilities; and 
+  * Comply with applicable legal requirements, law enforcement requests, and our company policies. 
 
-Kolor uses cookies to store website visitors’ preferences and to record session information, such as pages visited, interactions with website features, time spent on the website, shopping cart items, language preference, intended shipping region, and purchase behavior for various purposes such as ensuring that visitors are not repeatedly offered the same advertisements, to tailor website content and newsletter communications according to visitor preferences, to serve online advertisements based on past visits to the website, and to inform and optimize website performance and online advertising campaigns. We do not link the information we store in cookies to any Personal information you submit to us. 
 
-Kolor allows third parties to collect non-Personal information by way of cookies, web beacons, and as described below from the Kolor website. Kolor does not enable third parties to collect any Personal information directly from the Services for their own promotional purposes. This Privacy Policy covers the use of cookies by Kolor and relevant ad serving, website feature, and analytics partners, and does not cover the use of cookies by 3rd party advertisers. 
 
-You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set — each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. You must, however, enable cookies from Kolor in order to use most functions on the website. 
+#### How We May Share Information
 
-## Web Beacons
+Our agents, vendors, consultants, and other service providers may have access to information we collect through the Site to carry out work on our behalf. Those parties are subject to confidentiality obligations and are restricted from using personal data collected through the Site for purposes other than to provide the requested assistance. In addition, we may share information: 
 
-Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ Personal information. One or more of our third party advertising partners employ a software technology called web beacons, that help us better manage content on our site by informing us what content is effective. 
+  * With our affiliates for internal business purposes; 
+  * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena); 
+  * In response to requests from government agencies, such as law enforcement authorities, including to meet national security requirements; 
+  * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; 
+  * With respect to analytics and statistical information, to inform advertisers about the nature of our user base; 
+  * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation). In such an event, we will seek to provide you with commercially reasonable notice, e.g., via email and/or notice on our website, of any change in ownership, incompatible new uses of your personal information, and choices you may have regarding your personal information; and 
+  * With your consent or at your discretion. 
 
-## Mobile Software Applications
 
-When you use a Kolor mobile application we may automatically receive certain information about your mobile device and use of the application, including a device identifier, operating system, version, and other information about your mobile device as well as time spent in different portions of the Kolor mobile application. We monitor customer software usage to help us develop the design and layout of the mobile application and to improve the content to better match the interests of our users. We may also collect different types of information about your location, including general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details. 
 
-## Kolor Desktop Software Applications
+#### Data Retention and Access
 
-Our desktop software may automatically send anonymous data about usage of the software when it connects to the internet. This information will not contain any Personal information; it may contain information about your computer such as operating system, technical specifications, and data related to your use of the software on the computer, e.g. number of installs and downloads, screens visited, screen resolution selected, video recording mode, and other types of information collected to facilitate product support, product development and improvement of the software as well as other services to you and other Kolor users. We monitor customer software usage to help us develop the design and layout of the desktop software and to improve the content to better match the interests of our users. 
+We will retain your personal data only for as long as necessary for the purposes it was retained, such as to enable you to use the Website and your products or to provide services to you. In some instances, we may retain data for longer periods in order to comply with applicable laws (including those regarding document retention), resolve disputes with any parties, and otherwise as necessary to allow us to conduct our business. All personal data we retain will be subject to this Privacy Policy and our internal retention guidelines. 
 
-## Information from Other Sources
+We respect your control over your information and, upon request, we will seek to confirm your identity and whether we hold or are processing information that we have collected from you. You also have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it. Under certain circumstances we will not be able to fulfill your request, such as if it interferes with our regulatory obligations, affects legal matters, we cannot verify your identity, or it involves disproportionate cost or effort, but in any event we will respond to your request within a reasonable timeframe and provide you an explanation. In order to make such a request of us, please email us at [privacy@lifewire.com](mailto:privacy@lifewire.com)
 
-Kolor may receive information about you from third parties, such as commerce partners, marketers, social network services, and other parties that we may use to supplement the information that we collect directly from you. If you connect to a third party network, platform, or service through the Services, you are authorizing us to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed the social network or other third party platform could provide to Kolor based on your settings on the third party social network or platform. Your agreement takes place when you connect with the third party network, platform, or service via our Services, and/or when you connect with one of our applications through one of these services. 
+#### Your Choices
 
-## 4\. Uses of Information
+**Unsubscribe from emails.** To unsubscribe from a particular newsletter, click the "unsubscribe" link at the bottom of that email newsletter. If you would like to globally opt-out from all Lifewire email campaigns, please send an email to [optout@lifewire.com](mailto:optout@lifewire.com) with "Unsubscribe" in the subject line. When we send newsletters to subscribers we may allow advertisers or partners to include messages in those newsletters, or we may send dedicated newsletters on behalf of those advertisers or partners. We may disclose your opt-out choices to third parties so that they can honor your preferences in accordance with applicable laws. 
 
-Kolor may use non-Personal information to improve performance of our Services, to understand how anonymous users interact with our website after seeing Kolor advertisements, to identify and retarget advertisements to past website visitors, and to optimize the performance of our advertising campaigns. 
+**Blocking cookies.** Certain browsers may be configured to notify you when you receive cookies, or allow you to restrict or disable certain cookies. If you choose to disable cookies, however, that could affect certain features of the Site that use cookies to enhance their functionality. 
 
-Kolor may use both non-Personal information and Personal information to enable the purchase and fulfillment of Kolor products and services, and to improve the overall Kolor customer and product experience. 
+**Disabling local shared objects (“Flash cookies”).** We may use other kinds of local storage that function similarly, but are stored in different parts of your computer from ordinary browser cookies. Your browser may allow you to disable its HTML5 local storage or delete information contained in its HTML5 local storage. [Click here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) for details about deleting information contained in "local shared objects" or adjusting related preferences. 
 
-Kolor may also use Personal information in providing the Services, including but not limited to: 
+**Options concerning third-party ad networks.** As described in this Privacy Policy, we and third parties may use cookies and similar tracking technologies to collect information and infer your interests for interest-based advertising purposes. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally opt out of interest-based advertising by clicking [here](http://preferences-mgr.truste.com/). Please note that you will continue to see advertisements, but such advertisements will no longer be tailored to your interests. For more information about third-party ad networks and services that use these technologies, you can visit [www.aboutads.info](http://www.aboutads.info/) and [click here](http://aboutads.info/choices) to opt out or to learn more about your options. You also may visit the [NAI's site for additional options](http://www.networkadvertising.org/choices) on how to opt out of interest-based advertising. 
 
-**Orders** – If you place an order, we will use your name and email address to send you an order confirmation email, a shipping confirmation email, and customer satisfaction emails. If you do not wish to participate in customer satisfaction emails, you may opt-out of such emails upon receipt by clicking “Unsubscribe” link contained in the email. 
+#### How We Protect Personal Data
 
-**Customer Service** – Based upon the Personal information you provide us at the time of account registration or purchase, we will send you a confirmation email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your preferences. 
+We maintain appropriate administrative, technical, and physical safeguards designed to protect the personal data you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. That said, it is not possible to guarantee the security of information transmitted online, and you assume some risk with regard to the security of information you provide through any website, including this Site. If you have a data security inquiry, you may contact us by emailing [security@lifewire.com](mailto:security@lifewire.com). To request an invite to our bug bounty program to submit reports on vulnerabilities found on Lifewire.com, you may contact us by emailing [bugbounty@lifewire.com](mailto:bugbounty@lifewire.com). 
 
-**Newsletters, Special Offers and Updates** – We will occasionally send you information on products, services, special promotions, contests, events, and opportunities to interact with Kolor and our community. You can sign up to receive these emails from us on our newsletter sign up page and/or during checkout while purchasing a product. Out of respect for your privacy, we present the option NOT to receive these types of communications. Please see “Choice and Opt-out” section below for more details on how to unsubscribe or opt-out of communications from Kolor. 
+#### Links From Lifewire to Other Websites
 
-**Service-Related Announcements** – We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+On this Site we may provide links to other websites that are controlled by third parties. Linked websites may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the content, usage terms, or privacy policies of websites that we do not own or control. 
 
-## 5\. Sharing and Disclosure of Information
+#### Surveys and Quizzes
 
-Kolor may use non-Personal information to improve performance of our Services, to understand how anonymous users interact with our website after seeing Kolor advertisements, to identify and retarget advertisements to past website visitors, and to optimize the performance of our advertising campaigns. 
+While you are visiting Lifewire, you may have the opportunity to participate in surveys, quizzes, or other interactive features that request information about you and your opinions and preferences. Your participation in these features is entirely voluntary. If you do choose to participate, please be aware that these features may be operated by a third party that is not controlled by Lifewire, and therefore the information you provide may be collected by the third party and subject to its privacy policy. 
 
-## Co-Branded Websites
+#### Children’s Privacy
 
-At times Kolor will partner with third party websites in a co-branded relationship, where a co-branded web page(s) is used to promote Kolor products, services, photos or videos. These web pages may be designed to look and feel just like Kolor.com, but are actually hosted on a different domain. When we enter into co-branded partnerships we may at times share your name and email address in order for Kolor to communicate with you about Kolor related promotions, news, and updates via tools provided by our third party co-branded partner website. Information collected on third party co-branded webpages may not be covered under our Privacy Policy. All information collected on third party co-branded websites is owned and controlled by that website’s privacy policy. Please be sure to read the privacy policy of any website that asks you to submit Personal information. 
+This Site is not designed or intended for use by children, and we do not knowingly collect personal data from children under the age of 16. If we become aware that we have collected personal data from a child under the age of 16, we will delete any such information. 
 
-## Customer Testimonials
+#### Information for Users Outside the United States
 
-At times, we may post customer testimonials on our website which may contain Personal information. We will obtain your consent via email and/or opt-in methods prior to posting your name, city, or stated activity/interest along with any testimonial. 
+Your personal data may be stored, transferred and processed in and to the United States and in other countries by our affiliates and/or service providers. The data protection laws in these countries may provide a lower standard of protection for your personal data than your country of residence. We take great care in protecting your personal data and have put in place adequate mechanisms to protect it when it is transferred internationally. We will transfer your personal data in compliance with applicable data protection laws and will implement suitable safeguards to ensure that your personal data is adequately secured by any third party that will access your information (for instance, by using the Model Clauses as approved by the European Commission). 
 
-## User-Generated Content
+By using our Site and providing personal data to us, you consent to the terms of this Privacy Policy and the collection, use, maintenance, transfer to and processing of your personal data in the United States or other countries or territories, and, unless otherwise stated in this Privacy Policy, we use this consent as the legal basis for that data transfer. 
 
-You may be able to disclose information about yourself in the course of contributing user generated content on publicly-available areas of the Services. Such information is unencrypted, public information, may be accessed or recorded by us, and there is no expectation of privacy or confidentiality in such information. Any Personal information you submit in the course of such activities can be read, collected, or used by other users. 
+If you have questions or wish to obtain more information about the international transfer of your personal data or the implemented safeguards, please send us an email to [privacy@lifewire.com](mailto:privacy@lifewire.com). 
 
-If you choose to contribute user generated content, such as videos or biographic information, to your user account, the visibility of such content will be controlled by any applicable privacy settings that you set. To change your privacy settings, please visit your account settings. 
+#### How We’ll Inform You About Changes to This Privacy Policy
 
-You will have the ability to locate and connect with other users of the Services by searching by name or username. The ability of other users to connect with you will depend on your privacy settings. For example, depending on your settings, users may be able to connect with you automatically, or, you may choose to approve users before the connection is made. 
+We may update this online privacy policy periodically to reflect changes to our privacy practices, such as how we collect or use personal data. If we propose to make any material changes, we will post a prominent notice on the [lifewire.com](https://web.archive.org/) home page to notify you of significant changes to this policy, and we indicate at the top of the policy the date when it was most recently updated. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-If you submit your video or other content to Kolor, we may publish it on the Kolor website or applications along with certain Personal information identifying you, e.g., your first and last name or your username, when we have your consent. For more information relating to the terms governing your user generated content, please see our [Terms of Use](http://www.kolor.com/tou/). 
+#### How to Contact Us
 
-## Third Party Service Providers
+If you have questions about this policy or about our privacy practices, you may contact us by emailing [privacy@lifewire.com](mailto:privacy@lifewire.com). 
 
-We use other third party service providers to offer or facilitate services on our behalf, such as a shipping company to fulfill orders, a credit card processing company to bill you for goods and services, and an email service provider to send out emails on our behalf. When you order products from Kolor, we will share your Personal information as necessary for such third party services providers to provide the applicable service to us or on our behalf. These third parties are prohibited from using your personal information for promotional purposes. 
+If you are a California resident inquiring about your California privacy rights, please include “California privacy rights request” in the subject line of your email. 
 
-## Business Transactions
+If you are a resident of the European Economic Area inquiring about your rights under the General Data Protection Regulation (“GDPR”), please include “GDPR privacy rights request” in the subject line of your email. 
 
-Information that we collect, including your Personal information and non-Personal information, is considered a business asset. As a result, if we go out of business, enter bankruptcy, or if we are acquired as a result of a transaction such as a merger, acquisition or sale of some or all of our assets, your information may be disclosed or transferred to a third party acquirer in connection with the transaction. In addition, Kolor may disclose or transfer your information to its parents or subsidiaries. 
+You may also write to: 
 
-## Legal Compliance
+1500 Broadway, 6th Floor   
+New York, NY 10036 
 
-We reserve the right to access and disclose your Personal information when we believe in good faith that such disclosure is necessary to: (a) enforce legal rights and comply with the law; (b) comply with an order from a government entity or other competent authority, (c) prevent or address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage; (d) protect our rights, prevent fraud and/or comply with judicial proceeding, court order, or legal process served on Kolor. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
-## Other Disclosures of Non-Personal Information
+### Jurisdiction Specific Provisions
 
-Kolor may aggregate and/or anonymize information collected by the Services or via other means so that the information does not identify you. Our use and disclosure of aggregated, anonymized, and other non-Personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose. 
+#### Our Notice to California Residents
 
-## 6\. Choice/Opt-out
+Subject to certain limits, under California law California residents may ask us to provide them with a list of the categories of personal data that we have disclosed to third parties for those third parties’ direct marketing purposes during the preceding calendar year, as well as the identity of those third parties. California residents may contact us as specified in the How to Contact Us section below to make a request for this information. 
 
-We provide you the opportunity to “opt-out” of having your Personal information used for certain purposes, when we ask for this information. For example, if you purchase a product but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form by leaving the “Opt-In” checkbox blank. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us with this [contact form](http://www.kolor.com/contact/). 
+#### If you are located in the European Economic Area (EEA):
 
-You will be notified when your Personal information is collected or shared by any third party that is not our service provider, so you can make an informed choice as to whether to share your information with that party. If you do not wish to have your Personal information shared and want to opt-out from receiving further communications from any third party that is not our agent or service provider, please contact that third party directly. 
+  1. #### Controller of your Personal Data
 
-To change the visibility of user generated content that you post to your user account, please see your account settings. 
+The controller of your personal data under this Privacy Policy is About, Inc., with an address of 1500 Broadway, 6th Floor, New York, NY 10036. Our local representative with respect to the GDPR can be contacted at [privacy@lifewire.com](mailto:privacy@lifewire.com). 
 
-Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. 
+  2. #### Legal Bases for Using Personal Data
 
-## 7\. Correcting / Updating or Removing Information
+We process your personal data only if we have a legal basis to do so, including: 
 
-Kolor users may modify or remove any of their Personal information collected by Kolor at any time by logging into their account and accessing features such as Edit Profile and Account Info. Users may also email us to correct or change any information by filling out our contact form located at kolor.com/contact. 
+    1. to comply with our legal and regulatory obligations;
+    2. for the performance of our contract with you or to take steps at your request before entering into a contract;
+    3. for our legitimate interests or those of a third party;
+    4. where you have given consent to our specific use.
 
-## 8\. Third Party Website Links and Features
+The purpose for which we use and process your information and the legal basis on which we carry out each type of processing is further explained below. 
 
-Kolor’s Services may contain links to or features from other websites. This Privacy Policy covers the privacy practices by Kolor, and does not cover the privacy practices of third party websites or features. Kolor is not responsible for the privacy policies and/or practices of third parties. When linking to another Site or using a third party service, you should read the privacy policy on that site or service. To the extent certain third party website features are available on the Kolor services, the following terms apply: 
+Purposes for which we will process the information
 
-## Twitter
+| 
 
-We use a Twitter widget to enable users to easily share content found on Kolor.com by sending a Tweet via their Twitter Account. Please see [Twitter’s Privacy Policy](https://twitter.com/privacy) for more on the type of information tracked by Twitter via this feature – in particular, the section titled “Widget Data”. 
+Legal Basis for the processing  
+  
+---|---  
+  
+To provide products and services you request.
 
-## Facebook
+| 
 
-We use Facebook Like button to enable our website users to easily “Like” content found on Kolor.com, and thereby share this content with their Facebook Friends. Please see [Facebook’s Data Use Policy](http://www.facebook.com/full_data_use_policy) for more on the type of data tracked by Facebook via this feature. 
+It is necessary for us to process your personal data in order to deliver the services and process transactions according to the applicable contract between us.  
+  
+To respond to requests, questions, and comments, and provide other types of user support.
 
-## Google
+| 
 
-We use the Google + button to enable our website users to easily “+” content found on Kolor.com, and thereby share this content within the Google platform. Please see [Google’s Privacy Policy](http://www.google.com/intl/en/policies/privacy/) for additional information on how Google collects and manages user data. 
+It is necessary for us to respond to requests, questions, and comments, and provide other types of user support in order to take steps at your request or according to the applicable contract between us.  
+  
+To offer you products and services in marketing communications, or direct you to portions of this Site or other websites, that we believe may interest you.
 
-## 9\. Children’s Privacy
+| 
 
-Kolor’s Services are intended for general audiences and not for children under the age of 13. We do not knowingly collect Personal information from children under the age of 13 and if we become aware of such collection, we will take reasonable steps to delete any such information as soon as practicable. 
+We may send electronic marketing communications to you if you have consented to these communications.  It is in our legitimate interest to market products and services to you by other means and to direct you to portions of this Site or other websites that we believe may interest you. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To communicate about, and administer your participation in, events, programs, contests, and other offers or promotions
 
-## 10\. Changes in Our Privacy Policy
+| 
 
-From time to time, our information practices may change. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page. 
+We will send electronic communications to you if you have consented to these communications. With respect to other communications, it is in our legitimate interest to communicate to you and administer your participation in, our events, programs, contests, and other offers or promotions. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To carry out, evaluate, and improve our business (which may include developing new features for the Site; analyzing and enhancing the user experience on the Site; assessing the effectiveness of our marketing and advertising; and managing our communications.
 
-## 11\. How we Protect Your Personal Information
+| 
 
-The security of your personal information is important to us. We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information. Despite our best efforts, however, no security measures are completely impenetrable. 
+It is in our legitimate interests to process your personal data to carry out these activities. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To perform data analytics regarding usage of the Site (including market and customer research, trend analysis, financial analysis, and anonymization of personal data).
 
-## 12\. Kolor Contact Info
+| 
 
-Kolor, SAS.  
-112 Voie Albert Einstein,  
-73800 Francin  
-France  
-[Contact form](http://www.kolor.com/contact/)
+It is in our legitimate interests to process your personal data to carry out these activities. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To serve advertising, content and offers to you based on your interests and online activities, from us or third parties.
+
+| 
+
+We will serve you advertising, content and offers to you based on your interests and online activities if you have consented to this processing.  
+  
+To enable our affiliates or service providers to perform certain activities on our behalf;
+
+| 
+
+It is necessary for us to process your personal data in this manner in order to deliver the services and process transactions according to the applicable contract between us. It is also in our legitimate interest to enable our service providers and affiliates to perform certain activities on our behalf. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To notify you of any changes to the Site that may affect you.
+
+| 
+
+It is necessary for us to process your personal data in order to deliver the services and process transactions according to the applicable contract between us.  
+  
+    * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena); 
+    * In response to requests from government agencies, such as law enforcement authorities, including to meet national security requirements; 
+    * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; and 
+    * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation). In such an event, we will seek to provide you with commercially reasonable notice, e.g., via email and/or notice on our website, of any change in ownership, incompatible new uses of your personal information, and choices you may have regarding your personal information; and 
+| 
+
+We conduct this processing to comply with our legal obligations and to protect the public interest.  
+  
+    * Guard against, identify, and prevent fraud and other criminal activity, claims, and other liabilities; and 
+    * Comply with applicable legal requirements, law enforcement requests, and our company policies. 
+| 
+
+We conduct this processing to comply with our legal obligations and to protect the public interest.  
+  
+  3. #### International Transfers
+
+Some of our processing of your data will involve transferring your data outside the European Economic Area ("EEA"). Some of our external third-party service providers are also based outside of the EEA, and their processing of your personal data will involve a transfer of data outside the EEA. This includes the United States. Where personal data is transferred to and stored in a country not determined by the European Commission as providing adequate levels of protection for personal data, we take steps to provide appropriate safeguards to protect your personal data, including when appropriate entering into standard contractual clauses approved by the European Commission, obliging recipients to protect your personal data. 
+
+  4. #### Retention of Personal Data
+
+We will retain your personal data only for as long as necessary for the purposes it was retained, such as to enable you to use the Site and your products or to provide services to you. In some instances, we may retain data for longer periods in order to comply with applicable laws (including those regarding document retention), resolve disputes with any parties, and otherwise as necessary to allow us to conduct our business. All personal data we retain will be subject to this Privacy Policy and our internal retention guidelines. 
+
+  5. #### Data Subject Access Rights
+
+You have the following rights: 
+
+    * Right of access to your personal data: You have the right to ask us for confirmation on whether we are processing your personal data, and access to the personal data and related information. 
+    * Right to correction: You have the right to have your personal data corrected, as permitted by law. 
+    * Right to erasure: You have the right to ask us to delete your personal data, as permitted by law. 
+    * Right to withdraw consent: You have the right to withdraw consent that you have provided. 
+    * Right to lodge a complaint with a supervisory authority: You have the right to lodge a complaint with a supervisory authority in the member state of your habitual residence. 
+    * Right to restriction of processing: You have the right to request the limiting of our processing under limited circumstances. 
+    * Right to data portability: You have the right to receive the personal data that you have provided to us, in a structured, commonly used and machine-readable format, and you have the right to transmit that information to another controller, including to have it transmitted directly, where technically feasible. 
+    * Right to object: You have the right to object to our processing of your personal data, as permitted by law, under limited circumstances. 
+
+In order to exercise any of these rights, please contact us according to the “How to Contact Us” section herein. Please note that the above rights are not absolute and we may be entitled to refuse requests, wholly or partly, where exceptions under the applicable law apply. 
+
+
+
+
+### Lifewire Cookie Disclosure
+
+Provider | Name of Cookie | Purpose | Type | Duration  
+---|---|---|---|---  
+Google Analytics  |  _ga  |  Used to distinguish users.  |  Persistent  |  2 years   
+Google Analytics  |  _gid  |  Used to distinguish users.  |  Persistent  |  24 Hours   
+Google Analytics  |  _gat_<property-id> |  Used to throttle request rate.  |  Persistent  |  1 Minute   
+Dotdash  |  TMog  |  Dotdash client id - Used to identify unique browsers  |  Persistent  |  68 Years   
+Dotdash  |  Mint  |  Dotdash session id - Used to identify all activity within a session  |  Persistent  |  30 Minutes   
+Dotdash  |  pc  |  pagecount  |  Persistent  |  30 Minutes   
+Dotdash  |  ds_ab  |  AB Testing segmentation information  |  Session  |    
+Google (GTM/GA)  |  _dc_gtm_<property-id> |  Used to throttle request rate.  |  Persistent  |  1 Minute   
+SailThru  |  sailthru_pageviews  |  Page view count by user on site  |  Persistent  |  30 Minutes   
+SailThru  |  sailthru_content  |  Tracks recent pageviews for visitor  |  Persistent  |  1 Hour   
+SailThru  |  sailthru_visitor  |  Client Id  |  Persistent  |  1 Hour   
+Google DFP  |  __gads  |  Ad targeting  |  Persistent  |  2 Years   
+Google  |  gsScrollPos-<num> |  Scroll position tracking  |  Session  |    
+Bounce Exchange  |  bounceClientVisit<num>v  |  Client tracking information  |  Persistent  |  30 Minutes   
+Google  |  AMP_TOKEN  |  Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.  |  Persistent  |  1 Hour   
+Quantcast  |  __qca  |  Collects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.  |  Persistent  |  13 Months 
