@@ -1,86 +1,113 @@
-> *The following text is extracted and transformed from the linksmart.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524181521id_/http%3A//www.linksmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksmart.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234327id_/http%3A//www.viglink.com/legal/privacy) for the most accurate reproduction.*
 
-# Linksmart's Legal and Privacy Policy
+# Privacy Policy - VigLink
 
-LinkSmart, Inc. (“LinkSmart”) is a technology company offering software products and services to the web publishing industry. We help publishers of web content analyze and optimize reader traffic and engagement through contextual hyperlinking. We provide this privacy policy so we may inform you about how our technology (“Technology”) processes information on behalf of the website owners that use our services (our “Clients”). This policy also outlines our privacy practices on our corporate Website (“Website”), www.linksmart.com. If you have any questions regarding our privacy practices, please feel free to contact us at [privacy@linksmart.com](mailto:privacy@linksmart.com).
+We understand your concern about how information about you is used and shared. We have prepared this Privacy Policy to let you know about our policy regarding information that is collected on our website located at [www.viglink.com](https://www.viglink.com/) (the “Site”) and through your use of our software (the “Software”) and services (the “Services”).
 
-### COLLECTION AND USE OF INFORMATION ON THE WEBSITES
+Last updated: May 29, 2018
 
-#### PERSONALLY IDENTIFIABLE INFORMATION
+## Information That You Give Us That is Covered by the Privacy Policy
 
-The Website is directed to our Clients and prospective Clients, who are the owners and proprietors of websites. The Website is not directed to consumers. We collect Personally Identifiable Information (“PII”) via the Website. PII is information that may be used to identify a particular person or entity, and includes, by way of example, name, business name, email address and website URL. Generally speaking, we only collect PII on the Website when you choose to provide it to us and use that information for the purposes that you’ve provided it. The following are some specific use cases:
+### Personal Data
 
-  * LinkSmart’s Contact Us Form – The LinkSmart Website contains a “contact us form” for Clients and prospective Clients to request additional information about LinkSmart’s products and services. The contact us form requires web publishers to give contact information (such as name and email address.) LinkSmart uses this information to contact such Clients and prospective Clients about the services on the Website in which they have expressed interest, and to help us provide excellent customer service to our Clients.
-  * Client Contracts – We generally require our web publisher Clients to provide PII as part of their Client registration process. We generally use this information to contact the Client if there’s billing or order processing issue, and to help us process invoices.
-  * Testimonials – Some of our Clients agree to allow us to use their name and comments on the Website as part of testimonials. If you’ve agreed to have your name appear in a testimonial on this Website, you should be aware that any PII displayed there can be read, collected, or used by other users of this Website.
+VigLink collects personally identifiable data from publishers, such as your name, address, telephone number, email address, and login IP address when you voluntarily choose to register for use of the Software or Service, subscribe to marketing communications from us, and when you contact us with comments or inquiries. If you are the publisher of a website and are registering to use the Software and Service, we may also collect your bank account and/or credit card information that you may provide to us upon request.
 
+### Passively Collected Information
 
+When you interact with us through the Site, we receive and store certain additional information automatically. In some regions, including the European Economic Region, collected information might be classified as personally identifiable under applicable data protection laws. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Examples include IP addresses, browser types, domain names, device identification numbers and other anonymous statistical data involving your use of the Site, the Software and/or the Services.
 
-#### NON-PERSONALLY IDENTIFIABLE INFORMATION
+## Cookies
 
-We collect Non-Personally Identifiable Information (“Non-PII”) from visitors to this Website. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer’s operating system.
+In operating the Site, we may use a technology called “cookies.” A cookie is a piece of information that the computer that hosts the Site gives to your computer when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately.
 
-#### COOKIES
+In addition, we may install the Software on third party websites. In doing so, the Software will place a cookie on the computers of users of those third party websites and will potentially collect personally identifiable information about your browser, IP address, and your activity at such websites.
 
-We use cookies on this Website. Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies make using our Website easier for our Clients by, among other things, saving their login preferences. These cookies are restricted for use only on our Website, and do not transfer any PII to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower. For more information about cookies please visit http://www.allaboutcookies.org/cookies/. No PII is collected by or associated with cookies from this Website.
+On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. Acceptance of cookies is not a requirement to browse the Site; however certain areas and features of the Site, require your acceptance of cookies to work properly. If you choose to use cookies, we may collect personally identifiable information without your prior permission.
 
-#### THIRD PARTY WEBSITES
+VigLink and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads on sites across the Internet based on someone’s past visits to the VigLink website. These ads, often referred to as “remarketing,” may be personalized using information inferred from their behavior when visiting VigLink’s website. For example, if a visitor views their VigLink dashboard, then we may later show them ads promoting recent updates to our products or services that would be relevant to existing customers. The intention behind our use of remarketing is to provide VigLink the opportunity to show more relevant ads and not to obtain personally identifiable information. Users can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting [Google’s Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en%3E).
 
-The Website may contain links to other websites operated by third parties whose privacy practices may differ from ours. LinkSmart cannot be responsible for the privacy practices of these other websites. We encourage you to check the privacy policies of all websites that you visit.
+Users may also wish to install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
-#### UPDATING / DELETING YOUR PII
+## Use of Personally Identifiable Information
 
-If you’d like us to update, correct, delete, or deactivate any PII that you have provided to us on these Websites, please send your request to us at [privacy@linksmart.com](mailto:privacy@linksmart.com) and we will process your request within a reasonable period of time after receipt.
+We use your personally identifiable information in a manner that is consistent with this Privacy Policy. If you provide personally identifiable data for a certain reason, we may use such information in connection with the reason for which it was provided. For instance, we will use the personally identifiable information provided by users of the Software in order to make payment of eligible commissions. We also use personally identifiable information and personally non-identifiable information collected through the Site and use of the Software and Services to help us improve the Site, Software and Services, and to better understand our users. If we intend on using any personally identifiable information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the personally identifiable information is collected.
 
-#### UNITED STATES
+## Use of Personally Non-Identifiable Data
 
-This Website is hosted in the United States, and any information collected or provided via the Website may be stored on our servers, currently located in the U.S. By using the Website, you authorize the transfer (if applicable) of your information to the U.S. and its storage and use as specified in this policy.
+We may use personally non-identifiable information and pool it with other information to track, for example, the total number of visitors to the Site and users of the Software and Service, the number of visitors to each page of the Site, and the domain names of our visitors’ Internet service providers. No personally identifiable information is available or used in this process.
 
-### COLLECTION AND USE OF INFORMATION VIA OUR TECHNOLOGY
+## Date Protection Rights
 
-#### OVERVIEW OF THE TECHNOLOGY
+You have the right to access their personal data, rectify inaccurate or incorrect personal data, erase collected or stored personal data, restrict future processing of personal data, request portability of personal data, object to VigLink’s processing of personal data, and object to automated decision or profiling. You can restrict future processing of your personal data using VigLink’s [Opt-out](https://www.viglink.com/opt-out/) functionality. You have the right to complain to a supervisory authority about VigLink’s collection and use of your personal data. To file a complaint about VigLink’s data collection or processing, please contact your relevant data protection authority. You have the right to opt-out of VigLink marketing communications at any time by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails that VigLink distributes. If VigLink is collecting and/or processing your personal data based on given consent, you can withdraw your consent at any time. Withdrawing consent will not affect the lawfulness of data processed prior to withdrawal nor will it affect the processing of personal data based on legal grounds other than consent. VigLink will respond to all data rights requests received in accordance with applicable data protection laws.
 
-Our Technology is primarily designed to facilitate the monitoring, management, and delivery of inline contextual links and links to partner websites. The Technology identifies and, if chosen, highlights certain words or phrases on our Client’s websites. And when a user clicks on those words or phrases, our Technology links to other pages on the website or websites. For a complete description of how our Technology works, please click here (www.linksmart.com/features). LinkSmart aims to monitor and deliver links to Clients that align with your current interests called “LinkSmart Insights,” “LinkSmart Traffic Director,” and “LinkSmart Links +.” Our Technology identifies your interests by the words that you have recently seen and read while online, along with the links that you have clicked on. There is no PII transmitted or used whatsoever. The goal is simply to monitor clicks and to deliver links to publishers that are more relevant, interesting and useful for you. We use the information collected by our Technology in order to help report on links, and make the links to content you see more relevant to you, enhance system performance, develop and deliver new products and features, and for reporting purposes.
+## Data Transfer
 
-### TYPES OF INFORMATION WE COLLECT VIA OUR TECHNOLOGY
+Your personal data may be transferred by VigLink to, and/or processed in, countries other than the country in which it was collected or you reside. The applicable data laws of the countries your personal data is transferred to, and/or processed in, may have data laws and regulations that differ from the laws and regulations of your country. These laws might not be as protective as the data laws of the country you reside in or the country where the data was collected. In such instances where data will be transferred to a country other than the country it was collected in, VigLink will take reasonable safety and security measures to ensure that your personal data will be protected in accordance with this Privacy Policy.
 
-#### PERSONALLY IDENTIFIABLE INFORMATION
+## Sharing Information
 
-We don’t collect Personally Identifiable Information (“PII”) via our Technology.
+We are not in the business of selling personally identifiable information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share personally identifiable information with certain third parties without notice to you including those set forth below:
 
-#### NON-PERSONALLY IDENTIFIABLE INFORMATION
+## Agents, Consultants, and Related Third Parties
 
-We currently collect Non-Personally Identifiable Information (“Non-PII”) via our Technology, including but not limited to your IP host address, pages viewed, keywords and links clicked, browser type, the referring URL, Internet Service Provider, and your computer’s operating system.
+We, like many businesses, sometimes hire other companies to perform certain business-related functions. Examples include mailing information, maintaining databases, hosting services, and processing payments. When we employ another company to perform a function of this nature, we provide them with the information that they need to perform their specific function. We require such third parties to maintain the confidentiality of such information and use such information only as necessary to provide us with designated services.
 
-#### COOKIES AND WEB BEACONS
+## Legal Requirements
 
-Our Technology leverages cookies for the purpose of associating a visitor with their session on a Client website. This data is non-personally identifiable.
+We may disclose personally identifiable information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend our rights or property (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
 
-### CONTROLLING THE USE OF YOUR INFORMATION
+## Business Transfers
 
-#### DELETING YOUR PII
+As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, personally identifiable information may be part of the transferred assets.
 
-Although we don’t collect any PII via our Technology, if you’d like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us at [privacy@linksmart.com](mailto:privacy@linksmart.com) and we will process your request within a reasonable period of time after receipt.
+## Informal Notices and Bulletins
 
-#### INFORMATION SECURITY
+Periodically, we may choose to send news, bulletins, educational materials, marketing materials, or other information to you, and will use personally identifiable information to send such communications. You can opt-out of VigLink marketing communications at any time by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails that VigLink distributes.
 
-The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+## Legal Basis for Collecting and Processing Personal Data
 
-#### DISCLOSURE OF INFORMATION TO THIRD PARTIES
+VigLink’s legal grounds for the collection and processing of personal data will depend on the nature of the data collection and the purpose for its use. VigLink normally collects personal data where the user has given explicit consent, where the collection and processing of personal data are in the legitimate interest of VigLink, or where VigLink has a contractual obligation to do so. In some instances, VigLink might have a legal obligation to collect personal data from you. In the event that we request you provide personal data to comply with legal requirements, we will disclose this at the relevant time and notify you whether providing said personal data is mandatory.
 
-We generally do not rent or share information collected via the Website or Technology with non-affiliated third parties without your consent. We may, however, share such information with trusted third party contractors who provide services for us. These third party contractors are prohibited from using the information we provide for purposes other than performing services for us. We may share Non-PII collected on the Websites or via our Technology with unaffiliated third parties. For example, we may disclose that ‘links pointing to x page’ receive more clicks than ‘links pointing to y page.’ This information cannot be used to contact or identify any person individually. We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. LinkSmart may also disclose user information when necessary to comply with a court order, legal process or other legal proceeding. Finally, we may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+## Your Choices
 
-#### CHANGES TO THIS PRIVACY POLICY
+You can always choose not to provide personally identifiable information to us. However, doing so may prevent you from obtaining certain information or using certain areas of the Site, the Software and the Services.
 
-This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the information collected through this Website or Technology, we will post a notice of those changes on the Website and in this privacy policy.
+## Children
 
-#### WHO CAN I ASK IF I HAVE ADDITIONAL QUESTIONS?
+We do not knowingly collect personal data from children under the age of 13. If you are under 13, please do not give us any personally identifiable information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Privacy Policy by instructing their children to never provide personally identifiable information on the Internet without their permission. If you have reason to believe that a child under the age of 13 has provided personally identifiable information to us, please contact us, and we will endeavor to delete that information from our databases.
 
-If you have any questions, comments or complaints about www.linksmart.com or about this privacy statement, please contact:
+## Links to Other Web Sites
 
-VIA MAIL: LinkSmart, Inc. 1805 11th St, Unit C Boulder, CO. 80302
+This Privacy Policy applies only to information collected through the Site, the Software and the Service. It does not apply to information collected by third party sites or products or services that may be accessible through the Site, the Software or the Services. We suggest that you contact those third parties directly for information on their privacy, security, data collection and distribution policies.
 
+## Security
 
-VIA EMAIL: [privacy@linksmart.com](mailto:privacy@linksmart.com) Your Acceptance of These Terms: By using the Website, you accept the policies and restrictions set forth in this Privacy Policy. If you do not agree to this policy, please do not use the Website. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
+We take commercially reasonable steps designed to protect personally identifiable information and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. The steps we implement are designed to provide a level of security commensurate with the risk of processing your personal data. Personal data is stored on secure, firewall-protected servers that are located in secure facilities. However, no Internet or e-mail transmission is ever fully secure or error-free. Please keep this in mind when disclosing any personally identifiable information to us or to any other party via the Internet.
 
-(Updated DEC 3rd 2012)
+## User Data
+
+VigLink provides publishers with the ability to automatically affiliate their commercial links to merchant destinations and gain insights into the behavior of consumers that visit their sites. VigLink facilitates publisher affiliation and monetization by converting existing, direct links to merchant destinations into affiliates links or by inserting new affiliate links to merchant destinations on relevant, commercial keywords contained within publishers’ site content. Additionally, VigLink allows publishers to create “Anywhere” links they can place on their site, software, and mobile applications or distribute to third-party properties. When a user clicks through VigLink affiliated links to a commercial destination and then makes a purchase or submits a lead, the publisher that generated the traffic is paid a referral fee or commission.
+
+VigLink processes and stores users’ IP addresses, which are used to determine users’ approximate geographical location. VigLink may use geographical information to optimize links, determine the best merchant destination for clicks, and the appropriate language and region for click destinations. VigLink also processes and stores user device data like device type, device id, browser agent, and browser type when a user visits a VigLink enabled site or clicks on a VigLink affiliated link. Browser and device data helps VigLink to optimize our service to suit browser and device functionality as well as identify the browser and device compatibility issues. VigLink’s use of user IP addresses, browser, and device data helps us to prevent noncompliance, recognize automated, non-human activity, and prevent violations of our publisher code of conduct. VigLink uses cookies and/or device identifiers to collect and store this information. Please refer to VigLink’s Cookie Disclosure for more information on the cookies VigLink uses and the third parties VigLink works with. VigLink does not make an effort to distinguish the specific identity of users. If you want VigLink to cease collecting or storing personal data about the websites you visit, the links you click, or the merchants you make purchases from, you can choose to opt-out out of VigLink cookies using our opt-out page. Opting out of VigLink cookies will result in VigLink ceasing to place identifying cookies on your device when you browse VigLink enabled websites and/or links. Opting out of VigLink tracking requires that a cookie is placed on your computer so that we know not to track your activity. Clearing your browser’s cache or cookies will remove this cookie, and you will be required to opt-out of tracking again. Similarly, if you access sites that use VigLink from a different browser or device than the browser or device you opted out of tracking on, you will be required to opt-out again. VigLink will retain personal data for up to 15 years. After that, VigLink will either delete or anonymize user data. If deletion or anonymization isn’t possible due to storage in backup archives, VigLink will ensure that backup data storage has a reasonable level security and will restrict it from further processing until deletion is feasible.
+
+## Publisher Data
+
+VigLink collects personally identifiable information from publishers, such as your name, primary contact information, physical address, telephone number, email address, websites, software, mobile applications, log in IP addresses, and banking, tax, payment, and/or VAT information when you voluntarily choose to register for use of the Software or Service, subscribe to marketing communications from us, and when you contact us with comments or inquiries. We also collect information about when and how a publisher uses the publisher dashboard and the VigLink support center. Publisher personal data is used to review eligibility for participation in the VigLink network, to remit payment for commissions earned, to facilitate marketing and support communications, to provide performance insights, and to improve the service we provide publishers based on your usage of our tools, dashboard, and site. Publishers have the ability to update most personal data you provide through your publisher dashboard settings. Information that publishers can’t update through your account settings can be updated by contacting [support@viglink.com](mailto:%20support@viglink.com). For more information on how VigLink interacts with publisher sites, applications, or software, please review the VigLink [Terms of Service](https://web.archive.org/legal/tos/). It is the responsibility of publishers to disclose your usage of VigLink to users through your Privacy Policy, About Us, or appropriate website section. Publishers’ public facing documentation should contain a detailed statement outlining your use of the VigLink Software or Service as well as the cookies VigLink places on users’ computers. Detailed information on VigLink cookies is available on VigLink’s [Cookie Disclosure](https://web.archive.org/legal/cookie-disclosure/) page. Information on the data VigLink collects from users is available to publishers in the User Data section of VigLink’s Privacy Policy. Publishers are responsible for providing users who do not want VigLink to collect their personal data with access to VigLink’s [opt-out](https://www.viglink.com/opt-out/) page. For full information on publishers’ privacy and disclosure obligations, please refers the Data Protection Law Disclosures section of VigLink’s [Publisher Disclosure](https://web.archive.org/legal/disclosing-viglink/) page. VigLink retains publisher data indefinitely to prevent noncompliance and enforce the regulations laid forth in the VigLink Publisher Code of Conduct.
+
+## Other Terms and Conditions
+
+We reserve the right to update or modify this Privacy Policy at any time and from time to time. When we post changes to this Privacy Policy, we will revise the “last updated” date at the top of this Privacy Policy. If there are material changes to this Privacy Policy, we will notify you of any such modifications by posting a message on the Site. We encourage you to periodically review this Agreement to be informed of our privacy policies. Your continued use of the Site, the Software or the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+## Access to Information
+
+To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will exercise commercially reasonable efforts to update or correct personally identifiable information in our possession that you have previously submitted to us.
+
+## How to Contact Us
+
+Please also feel free to contact us if you have any questions about this Privacy Policy or our information practices with respect to personally identifiable information. You may contact us as follows:
+
+[privacy@viglink.com](mailto:%20privacy@viglink.com)
+
+**VigLink**  
+427 N Tatnall St #35730  
+Wilmington, DE 19801-2230
