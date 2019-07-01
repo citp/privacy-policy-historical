@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtransat.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404222003id_/https%3A//www.airtransat.com/en-US/Legal-notice-en-US/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701232622id_/https%3A//www.airtransat.com/en-US/Legal-notice-en-US/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Air Transat
 
