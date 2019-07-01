@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replug.io privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815141419id_/https%3A//replug.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replug.io privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701222133id_/https%3A//replug.io/privacy) for the most accurate reproduction.*
 
 # Replug.io | Privacy
 
@@ -10,7 +10,7 @@ This Privacy Policy describes how and when we collect, use, and share your infor
 
 For example, you send us information when you use our Services on the web, via our API, or from our mobile apps. When using any of our Services you consent to the collection, transfer, storage, disclosure, and use of your information as described in this Privacy Policy. This includes any information you choose to provide that is deemed sensitive under applicable law. 
 
-Your information is controlled by Replug, a product of Lumotive AB, Regeringsgatan 65, 111 56, Stockholm, Sweden. However, you alone control and are responsible for any content you submit, create or post through the Services, as provided in the [Terms of Service](https://replug.io/terms.php). Replug is committed to protecting and respecting your privacy regarding all information that might be collected while using any of our Services. 
+Your information is controlled by Replug, a product of Replug Inc, Regeringsgatan 65, 111 56, Stockholm, Sweden. However, you alone control and are responsible for any content you submit, create or post through the Services, as provided in the [Terms of Service](https://replug.io/terms.php). Replug is committed to protecting and respecting your privacy regarding all information that might be collected while using any of our Services. 
 
 When this policy mentions “we” or “us,” it refers to the processor of your information under this policy. We collect personal information with consent, when appropriate or required, and by lawful means only. 
 
@@ -244,7 +244,7 @@ Our Services may, from time to time, contain links to and from the websites of o
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to our Data Protection Officer, Waqar Azeem, at privacy@replug.io.  
 
-You can also reach out by mail at: Lumotive AB, c/o Sup46, 3rd Floor, Regeringsgatan 65, 111 56, Stockholm, Sweden 
+You can also reach out by mail at: Replug Inc, c/o Sup46, 3rd Floor, Regeringsgatan 65, 111 56, Stockholm, Sweden 
 
 ## 10\. Changes to this Privacy Policy
 
