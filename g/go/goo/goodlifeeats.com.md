@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifeeats.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026202847id_/http%3A//www.goodlifeeats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifeeats.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701150643id_/https%3A//www.goodlifeeats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Good Life Eats
 
@@ -8,19 +8,19 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Good Life Eats found at http://www.goodlifeeats.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).  The contents of this statement may be altered at any time, at our discretion. This policy is effective from date 5/4/2018.**
+ **Good Life Eats found at https://www.goodlifeeats.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).  The contents of this statement may be altered at any time, at our discretion. This policy is effective from date 5/4/2018.**
 
-_If you have any questions regarding the privacy policy of GoodLife Eats then you may[contact](http://www.goodlifeeats.com/contact/) Good Life Eats._
+ _If you have any questions regarding the privacy policy of GoodLife Eats then you may[contact](https://www.goodlifeeats.com/contact/) Good Life Eats._
 
 #### What We Collect
 
 Information You Voluntarily Submit to the Website: We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
-**Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your profile when leaving a comment.  If you choose to link your Facebook, Instagram, and/or Google accounts, we may receive your name, email address and profile picture associated with that account.
+ **Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your profile when leaving a comment.  If you choose to link your Facebook, Instagram, and/or Google accounts, we may receive your name, email address and profile picture associated with that account.
 
-**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+ **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+ **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 ### What we do with the information we gather
 
@@ -44,11 +44,11 @@ Additionally, the Website may use third-party service providers to service vario
 
 The Website currently uses the following third-party service providers:
 
-**Google Analytics** – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+ **Google Analytics** – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-**Feedblitz** – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Feedblitz’s privacy policy for further information.
+ **Feedblitz** – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Feedblitz’s privacy policy for further information.
 
-_This list may be amended from time to time in the Website’s sole discretion._
+ _This list may be amended from time to time in the Website’s sole discretion._
 
 Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent.
 
@@ -104,15 +104,15 @@ Also, this allows the Website to adapt the content of future newsletters to the 
 
 #### Your Rights
 
-**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also [notify us](http://www.goodlifeeats.com/contact/) to be removed from our mailing list.
+ **Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also [notify us](https://www.goodlifeeats.com/contact/) to be removed from our mailing list.
 
-**Access** – You may access the personal information we have about you by [submitting a request via our contact form](http://www.goodlifeeats.com/contact/).
+ **Access** – You may access the personal information we have about you by [submitting a request via our contact form](https://www.goodlifeeats.com/contact/).
 
-**Amend** – You may [contact us](http://www.goodlifeeats.com/contact/) to amend or update your personal information.
+ **Amend** – You may [contact us](https://www.goodlifeeats.com/contact/) to amend or update your personal information.
 
-**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, [please submit a request](http://www.goodlifeeats.com/contact/)
+ **Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, [please submit a request](https://www.goodlifeeats.com/contact/)
 
-_Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law._
+ _Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law._
 
 #### SENSITIVE INFORMATION
 
@@ -122,7 +122,7 @@ At no time should you submit sensitive personal information to the Website. This
 
 #### CHILDREN’S INFORMATION
 
-The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, [please contact us immediately](http://www.goodlifeeats.com/contact/) and we will use our best efforts to promptly remove such information from our records.
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, [please contact us immediately](https://www.goodlifeeats.com/contact/) and we will use our best efforts to promptly remove such information from our records.
 
 ### Links to other websites
 
