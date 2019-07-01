@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how-to-type.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430151736id_/http%3A//www.how-to-type.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-to-type.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701085844id_/http%3A//www.how-to-type.com/en/privacy) for the most accurate reproduction.*
 
 # How To Type - Free typing lessons, typing practice and typing tests.
 
