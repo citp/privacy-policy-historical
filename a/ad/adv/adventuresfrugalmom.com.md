@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventuresfrugalmom.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423160742id_/https%3A//adventuresfrugalmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresfrugalmom.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701105653id_/http%3A//adventuresfrugalmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adventures of Frugal Mom
 
@@ -24,7 +24,7 @@ We require this information to understand your needs and provide you with a bett
 
   * We may use the information to improve our site.
   * We may periodically send promotional emails, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for research purposes. We may contact you by email by using the contact form found **[here](https://adventuresfrugalmom.com/contact-me/)**. We may use the information to customize the website according to your interests.
+  * From time to time, we may also use your information to contact you for research purposes. We may contact you by email by using the contact form found **[here](http://adventuresfrugalmom.com/contact-me/)**. We may use the information to customize the website according to your interests.
 
 
 
