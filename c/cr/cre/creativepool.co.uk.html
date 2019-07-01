@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the creativepool.co.uk privacy policy that was archived on 2019-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190408125305id_/https%3A//creativepool.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the creativepool.co.uk privacy policy that was archived on 2019-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190701163624id_/https%3A//creativepool.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="Content-language" content="en"><meta name="HandheldFriendly" content="True"><meta name="MobileOptimized" content="320"><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><meta name="format-detection" content="telephone=no"><meta name="format-detection" content="address=no"><title>Privacy Statement | Creativepool</title><link rel="canonical" href="https://creativepool.com/about/privacy"><meta name="verify-v1" content="RYedyCiGzKvneqnblhdvrEhtupnKgSMms0E0z"><meta name="google-site-verification" content="NdNgZBqsGE80yjU3Ojoy0tJ2X6PbTf"><link rel="shortcut icon" href="/favicon.ico?v=2" type="image/x-icon"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png"><!-- 57×57px --><link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- 57×57px --><link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png"><link rel="icon" sizes="192x192" href="/touch-icon-192x192.png"><meta name="keywords" content="design jobs, creative jobs, graphic design jobs, advertising jobs, illustration jobs, creative recruitment, freelance jobs, recruitment agencies, graphic design, design jobs UK, marketing jobs, freelance design, design jobs london, london creative jo"><meta name="description" content="creativepool.com privacy statement"><meta name="X-UA-Compatible" content="IE=edge"><meta name="twitter:site" content="@Creativepool"><meta name="msapplication-config" content="none"><meta property="og:url" content="https://creativepool.com/about/privacy"><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
 				if (typeof _webbase == 'undefined') {
@@ -7,7 +7,156 @@
 					var _absurl = 'https://creativepool.com/';
 					var _absurl_s = 'https://creativepool.com/';
 				}
-				</script><script type="text/javascript" src="/js/m.min.js?z=59"></script><link rel="stylesheet" type="text/css" href="/css/m.min.css?z=59"><style type="text/css">.onepxheight {	/* used by the ad system */
+				</script><script type="text/javascript" src="/js/m.min.js?a=11"></script><script type="text/javascript" src="https://www.google.com/recaptcha/api.js"></script><script type="text/javascript">
+	$(document).ready(function(){
+	function isEmail(field)
+    {
+	var atPosition, dotPosition, lastPosition;
+	    var c = field.charAt(0);  
+		aPosition = field.indexOf("@");
+		dotPosition = field.lastIndexOf(".");
+		lastPosition = field.length-1;
+		
+	/*	if(c=="_" || c=="." || !isNaN(c))
+		{
+		 return 3;
+		}
+		*/
+		if (aPosition < 1 || dotPosition - aPosition < 2 || lastPosition - dotPosition > 6 || lastPosition - dotPosition < 2)
+		{
+			return(false);
+		}
+		return(true);
+	//}
+}        
+	     $('#media_pack_hidden').hide();
+	     $('#media_pack_img').show();
+         $('#media_pack_form').hide();
+         $('#media_pack_title').hide();
+         $('#download_prepare').click(function () {
+                $('#download_prepare').hide();
+                $('#media_pack_img').hide();
+                $('#media_pack_form').show();
+                 var url_prepare = '/about/' + 'creativepool-media-prepare.php';
+                $.ajax({
+                        url:url_prepare,
+                        type:'post',
+                        async:false,
+                        dataType:'json',
+                        success: function(result){
+                            if(result['success'] == true){
+                                console.log(result);
+                                $('#firstName').val(result['firstName']);
+                                $('#lastName').val(result['lastName']);
+                                $('#email').val(result['email']);
+				$('#job').val(result['job']);
+                                $('#company').val(result['company']);
+                                $('#country').val(result['country']);
+                            }
+                        }
+                        });
+         });
+         $('#download').click(function () {
+                var firstName = $('#firstName').val();
+                var lastName = $('#lastName').val();
+                var email = $('#email').val();
+                var company = $('#company').val();
+                var job = $('#job').val();
+                var country = $('#country').val();
+                var inquiry = $('#inquiry').val();   
+                var frm_captcha = $('#g-recaptcha-response').val();
+		if(frm_captcha){
+                if(firstName != "" && 
+                    lastName != "" &&
+                    company != "" &&
+                    email != "" &&
+                    job != "" &&
+                    country != "" &&
+                    inquiry != ""){
+                    if(isEmail(email)){
+                        $('#error').hide();
+                        var url = '/about/' + 'creativepool-media-pack.php';
+                        $.ajax({
+                            url:url,
+                            type:'post',
+                            async:false,
+                            dataType:'json',
+                            data:{
+                                firstName:$('#firstName').val(),
+                                lastName:$('#lastName').val(),
+                                email:$('#email').val(),
+                                company:$('#company').val(),
+                                job:$('#job').val(),
+                                country:$('#country').val(),
+                                inquiry:$('#inquiry').val(),
+                                captcha: frm_captcha
+                            },
+                            success: function(result){
+                                console.log(result);
+                                if(result['success'] == true){
+                                    $('#media_url').click();
+                                    $('#media_pack_img').hide();
+                                    $('#media_pack_form').hide();
+                                    $('#media_pack_title').show();
+                                }else if(result['success'] == false){
+                                    console.log(result);
+                                    $('#error_input').html(result['html']);
+                                }
+                            }
+                        });
+                    }else{
+                        $('#error_input').html('You have errors. Please fill out all the inputs.');
+                    }
+                }
+}
+                else{
+                 $('#error_input').html('You have errors. Please fill out all the inputs.');
+                }
+		 });
+		 
+	});
+	</script><link rel="stylesheet" type="text/css" href="/css/m.min.css?a=11"><style type="text/css">
+    .row{
+                clear: both;
+            }
+            @media screen and (max-width: 769px) {
+                #zopimcp {
+                    bottom: 34px;
+                }
+                .col-md-6-title{
+                    float:left;
+                    width: 100% !important;
+                    vertical-align: top;
+                }
+                .col-md-6-img{
+                    float:left;
+                    width: 100% !important;
+                    vertical-align: top;
+                }
+                 .media_pack_form{
+                     padding-left: 0px !important;
+                }
+                .media_pack_form_table{
+                    width: 100% !important;
+                }
+            }
+                .col-md-6-title{
+                    float:left;
+                    width: 40%;
+                    vertical-align: top;
+                }
+                .col-md-6-img{
+                    float:left;
+                    width: 60%;
+                    vertical-align: top;
+                }
+                .media_pack_form{
+                     padding-left: 50px;
+                }
+                .media_pack_form_table{
+                    width: 90%;
+                }
+.onepxheight {	/* used by the ad system */
 	height:1px;
 	overflow:hidden;
 }</style><link href="https://plus.google.com/107107952929551829584" rel="publisher">
@@ -180,7 +329,32 @@
             		</div>
 	
 			<div class="main_wrap clearfix" itemscope="" itemtype="http://schema.org/CreativeWork">
-				<section class="main full-width">
+				<section class="main full-width"><div id="social_links" class="clearfix">
+		<div class="social_wrap"><!-- AddThis Button BEGIN -->
+
+		<table style="margin:0 0 0 auto">
+			<tbody><tr>
+				<td style="vertical-align: top; text-align:left;width:105px;">
+					<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-showzero="true" data-counter="right"></script>
+				</td>
+				<td style="vertical-align: top; width:340px; text-align:left;">
+					<div class="addthis_toolbox addthis_default_style ">
+			            <a class="addthis_button_linkedin"></a>
+						<a class="addthis_button_google_plusone" g:plusone:size="medium" style="width: 70px;"></a>
+						<a class="addthis_button_tweet" style="width: 105px;"></a>
+						<a class="addthis_button_facebook_like" fb:like:layout="button_count" style="width: 85px;"></a>
+		    			<a class="addthis_button_linkedin"></a>
+						<a class="addthis_counter addthis_pill_style" style="width: 50px !important; overflow: hidden !important;"></a>
+					</div>
+				</td>
+			<!--<a class="disabled make_ref_class" ref="addthis_button_linkedin addthis_button_linkedin_counter" ></a>-->
+			</tr>
+		</tbody></table>
+
+
+		<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=mikesunit"></script>
+		<!-- AddThis Button END --></div></div>
 		<article class="page10 clearfix" id="29">
 		
 			<div class="pageitem page10 fulltext">
@@ -279,7 +453,7 @@ You and others may post content that includes information about you (as part of 
 </center>
 <div class="base">
 	Creativepool® and Creative pool® are both the trademarks of Creativepool Ltd. All member work copyright of respective owners, otherwise © Creativepool Ltd
-	0.12s</div>		</footer>
+	0.11s</div>		</footer>
     </div>
 
 		<div id="cookies-footer">
