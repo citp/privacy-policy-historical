@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepadvisor.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608172428id_/https%3A//www.sleepadvisor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepadvisor.org privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701183510id_/https%3A//www.sleepadvisor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Sleep Advisor
 
