@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaius.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417153508id_/https%3A//www.zaius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaius.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701121744id_/https%3A//www.zaius.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Zaius Privacy Policy
 
