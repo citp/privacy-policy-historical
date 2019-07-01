@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefirearmblog.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401231404id_/http%3A//www.secondmedia.com/site-privacy-policy/index.php%3Fsite%3Dthefirearmblog.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefirearmblog.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701054402id_/http%3A//www.secondmedia.com/site-privacy-policy/index.php%3Fsite%3Dthefirearmblog.com) for the most accurate reproduction.*
 
 # 
 
