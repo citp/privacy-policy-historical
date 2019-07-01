@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnyover40.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515190601id_/http%3A//skinnyover40.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyover40.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701185253id_/http%3A//skinnyover40.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
