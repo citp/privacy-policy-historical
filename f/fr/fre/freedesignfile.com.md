@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedesignfile.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413071052id_/https%3A//freedesignfile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedesignfile.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701224921id_/https%3A//freedesignfile.com/privacy) for the most accurate reproduction.*
 
 # Freedesignfile Privacy Policy
 
@@ -39,4 +39,4 @@ Access and control over most personal information on Freedesignfile is readily a
 
 Freedesignfile may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information.
 
-If you have any questions about this privacy. Please [Contact Us](https://web.archive.org/cdn-cgi/l/email-protection#f09682959594958399979e96999c95b0979d91999cde939f9d).
+If you have any questions about this privacy. Please [Contact Us](https://web.archive.org/cdn-cgi/l/email-protection#82e4f0e7e7e6e7f1ebe5ece4ebeee7c2e5efe3ebeeace1edef).
