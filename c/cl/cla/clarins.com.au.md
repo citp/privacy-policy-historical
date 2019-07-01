@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarins.com.au privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414231910id_/https%3A//www.clarins.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarins.com.au privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701060847id_/https%3A//www.clarins.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Clarins
 
