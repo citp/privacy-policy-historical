@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoke.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221041420id_/http%3A//www.spoke.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoke.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701114829id_/http%3A//www.spoke.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Spoke
 
