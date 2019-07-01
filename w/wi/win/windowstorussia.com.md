@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowstorussia.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517143356id_/http%3A//windowstorussia.com/e-mail-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowstorussia.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701220605id_/https%3A//windowstorussia.com/e-mail-privacy-policy) for the most accurate reproduction.*
 
 # E-Mail – Privacy Policy | Windows to Russia
 
