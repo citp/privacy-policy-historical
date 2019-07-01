@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatmovieshouldiwatchtonight.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501194947id_/http%3A//whatmovieshouldiwatchtonight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatmovieshouldiwatchtonight.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701221021id_/http%3A//whatmovieshouldiwatchtonight.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - WMSIWT
 
