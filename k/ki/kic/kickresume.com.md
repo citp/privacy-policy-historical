@@ -1,168 +1,183 @@
-> *The following text is extracted and transformed from the kickresume.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172819id_/https%3A//www.kickresume.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickresume.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702005442id_/https%3A//www.kickresume.com/en/privacy) for the most accurate reproduction.*
 
-# Kickresume | Privacy Policy
+# Kickresume | Privacy policy
 
-#### WHAT INFORMATION DO WE COLLECT?
+### Do we use cookies?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+Cookies are small bits of data which get stored on your computer. This information usually isn’t enough to directly identify you, but it allows us to deliver a page tailored to your particular needs and preferences.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+We use them to:
 
-#### WHAT DO WE USE YOUR INFORMATION FOR?
+  * Keep you signed in
+  * Remember information you gave us about you, so you don’t have to give it to us every single time you stop by. Like your cookies preferences
+  * Understand how do you use our services, so we can make them better and provide you with personalized content
+  * Uniquely identify your browser and internet device, thanks to which we and our partners can target you with discounts to our service, ads and specialized content
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-  1. To personalize your experience (your information helps us to better respond to your individual needs) 
-  2. To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
-  3. To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-  4. To administer a contest, promotion, survey or other site feature
-  5. To send periodic emails
 
+You can change your Kickresume **cookie settings** at any time.
 
+There are different types of cookies: 
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+#### Necessary cookies
 
-#### HOW DO WE PROTECT YOUR INFORMATION?
+Without these cookies our website wouldn’t function and they cannot be switched off. We need them to provide services that you’ve asked for. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+Want an example? We use these cookies when you sign in to Kickresume. We also use them to remember things you’ve already done, like text you’ve entered into a registration form so it’ll be there when you go back to the page in the same session.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+We are using our own cookies in addition to NewRelic, PayPal, Ziprecruiter, Google Analytics, Tapfiliate, Hotjar.
 
-#### DO WE USE COOKIES?
+#### Performance cookies
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
+Thanks to these cookies, we can count visits and traffic sources to our pages. This allows us to measure and improve the performance of our website and provide you with content you’ll find interesting.
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+Performance cookies let us see which pages are the most and least popular, and how you and other visitors move around the site. 
 
-#### THIRD PARTY LINKS
+If you don’t let us use these cookies, you’ll leave us in the dark a bit, as we won’t be able to give you the content you may like. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+We are using Mixpanel, Intercom, Sentry, ProfitWell.
 
-#### CHILDRENS ONLINE PRIVACY PROTECTION ACT COMPLIANCE
+#### Functional cookies
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+These cookies allow us to provide you with better functionality and personalization. They may be set up by us or by third party providers whose services we’ve added to our pages. 
 
-#### ONLINE PRIVACY POLICY ONLY
+The purpose of these cookies is to give you a more personalized experience, based on your previous visits and choices. If you don’t wish to allow these cookies, these services may not work.
 
-This online privacy policy applies only to information not to information collected offline. 
+Specifically, we are using Sumo, LinkedIn.
 
-####  controller’s Information concerning the personal data processing and data subject’s consent to the processing of personal data
+#### Marketing cookies 
 
-in accordance with Sec. 15 of the Act No. 122/2013 Coll. on the protection of personal data and on the alteration and amendment of some acts as amended (hereinafter referred to as the „Act“)
+We use these cookies to uniquely identify your browser and internet device. Thanks to them, we and our partners can build a profile of your interests, and target you with discounts to our service and specialized content.
 
-**1\. Controller’s Identification data**   
-1.1. Your personal data are being processed by the Controller:   
-Kickresume s.r.o., having its registered address at: 148 Beckov 916 38, Slovak Republic, Identification No.: 48 073 962, registered with the Commercial Register kept by the District Court Trenčín, Section: Sro, Entry No.: 31419/R (hereinafter referred to as the “Controller”)
+On the other hand, these cookies allow some companies target you with advertising on other sites. This is to provide you with advertising that you might find interesting, rather than with a series of irrelevant ads you don’t care about. 
 
-1.2. The current list of processors authorized to process your personal data can be accessed here.
+Specifically, we are using Google Adwords, Bing Ads, Facebook Ads, LinkedIn Ads, Doubleclick. 
 
-**2\. Purpose**   
-2.1. Your personal data is processed within the “online CV” personal data filing system through an online platform operated on the domain kickresume.com.
+After 12 months we’ll ask for your consent again or you can delete cookies anytime in your browser. Feel free to contact us if you want to know more.
 
-2.2. From the personal data provided by you, our system will create a CV with the graphic design of your choice. 
+### Controller’s Information concerning the personal data processing
 
-2.3. On the basis of your consent granted through ticking the relevant tick box below, you agree that your personal data may be used for the purposes of direct marketing and sending newsletters containing information of special offers or new products.
+in accordance with the regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 , the General Data Protection Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (hereinafter the GDPR) and the Act No. 18/2018 Coll. on the protection of personal data and on the alteration and amendment of some acts as amended
 
-**3\. List of your personal data**   
-3.1. The Controller processes in particular the following categories of your personal data:
+  1. #### Controller’s Identification data
 
-title, name, surname, address of permanent residence, delivery address, email address, phone number, date of birth, gender, age, marital status, information on the education, achieved degrees, courses attended, lectures, certificates or licenses, information on the membership in associations or organisations, language skills, information on former professional experience or practice, hobbies, picture, other data provided by you.
+    1. Your personal data are being processed by the Controller:
 
-Personal data provided by you are only visible to you; the Controller neither publishes, nor provides your personal data to any third parties. Upon your own discretion, you can decide to publish your personal data. The Controller stores your personal data for the duration necessary for the provision of services.
+**Kickresume s.r.o.** , having its registered address at: 148 Beckov 916 38, Slovak Republic, Identification No.: 48 073 962, registered with the Commercial Register kept by the District Court Trenčín, Section: Sro, Entry No.: 31419/R (hereinafter referred to as the “Controller”). The email of the Controller: [hello@kickresume.com](mailto:hello@kickresume.com)
 
-**4\. Instruction regarding the voluntariness or obligation to provide the personal data**   
-4.1. You provide your personal data voluntarily and it is only up to you to decide, which personal data you will disclose. The CV will only contain the information provided by you. You are entitled to change the extent of your personal data entered into the online platform anytime.
+  2. #### Purpose
 
-4.2. Certain functions of the portal are only accessible to users logged-in through their social network account.
+    1. Your personal data is processed within the “kickresume” personal data filing system through an online platform operated on the domain kickresume.com.
 
-4.3. Your personal data is processed on the basis of your consent as well as pursuant to Sec. 10 (3) (b) of the Act, given that the provision of your personal data is necessary for using the Controller’s services.
+    2. From the personal data provided by you, our system will create a CV, Cover letter or Personal website with the graphic design of your choice.
 
-**5\. Third Parties**   
-5.1. The Controller does not provide your personal data to any third parties.
+    3. We process your personal data for the purposes of carrying out the agreement existing between us based on your decision to engage our services (legal basis: the performance of a contract in accordance with Article 6 (1) (b) of the GDPR).
 
-**6\. Recipients**   
-6.1. Your personal data are not being made available to any recipients.
+    4. We also process your personal data for the purposes of understanding how our services are used and how we can improve them (by, in particular, analysing personal data we collected, making statistics) (legal basis: legitimate interest (in evaluating, developing and improving our services, products and systems) in accordance with Article 6 (1) (f) of GDPR).
 
-**7\. Disclosure of the Personal Data**   
-7.1. The Controller does not publish your personal data.
+    5. On the basis of your consent granted through ticking the relevant tick box, you agree that your personal data may be used for the purposes of direct marketing and sending newsletters containing information of special offers or new products (legal basis: consent in accordance with Article 6 (1) (a) of the GDPR). You always have the right to withdraw the consent provided for such purpose by sending an email to: [hello@kickresume.com](mailto:hello@kickresume.com).
 
-**8\. Third Countries**   
-8.1. Your personal data are not being transferred to any third countries, i.e., countries that are not member states of the European Union or a party to the Agreement on the European Economic Area.
+    6. On the basis of your consent granted through ticking the relevant tick box, you agree that your personal data may be provided to: (i) partner employers and/or (ii) job recruitment agencies, with which the Controller has concluded an agreement, for the purposes of approaching you with job offers (legal basis: consent in accordance with Article 6 (1) (a) of the GDPR). You always have the right to withdraw the consent provided for such purpose by sending an email to: [hello@kickresume.com](mailto:hello@kickresume.com).
 
-**9\. Your Rights**   
-9.1. We hereby notify you that pursuant to the Act, you are entitled to request from the Controller:
+  3. #### List of your personal data
 
-9.1.1. a confirmation whether or not your personal data are being processed;
+The Controller processes in particular the following categories of your personal data:
 
-9.1.2. information, provided in a commonly understandable form, about the processing of your personal data in a filing system within the statutory scope;
+Title, name, surname, address of permanent residence, delivery address, email address, phone number, date of birth, gender, age, marital status, information on the education, achieved degrees, courses attended, lectures, certificates or licenses, information on the membership in associations or organisations, language skills, information on former professional experience or practice, hobbies, picture, payment details, IP address, location and other data provided by you voluntarily when you use our services (i.e., when creating your CV, Cover letter or Personal website).
 
-9.1.3. precise information, provided in a commonly understandable form, about the source the Controller acquired your personal data from;
+Testimonials: We display personal testimonials of customers on our website. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us [hello@kickresume.com](mailto:hello@kickresume.com).
 
-9.1.4. list of your personal data that are being processed, provided in a commonly understandable form;
+Personal data provided by you are only visible to you; the Controller doesn't publish your personal data. Upon your own discretion, you can decide to publish your personal data.
 
-9.1.5. correction or destruction of your inaccurate, incomplete or outdated personal data;
+  4. #### Storage period
 
-9.1.6. destruction of your personal data after the purpose of their processing has ceased to exist; should any official documents containing your personal data be subject to the processing, you can request their return;
+The Controller stores your personal data for 5 years from your last log in.
 
-9.1.7. destruction of your personal data processed in violation of the Act;
+  5. #### Instruction regarding the voluntariness of provision of your personal data
 
-9.1.8. blocking of your personal data upon revoking the consent with their processing. 
+    1. You provide your personal data voluntarily and it is only up to you to decide, which personal data you will disclose. The CV will only contain the information provided by you. You are entitled to change or delete your personal data entered into the online platform anytime.
 
-9.2. On the basis of a written demand addressed to the Controller, you can object to:
+    2. Certain functions of the portal are only accessible to users logged-in through their social network account or email.
 
-9.2.1. the processing of your personal data you assume are or will be processed for direct marketing purposes without your consent; you are entitled to request the destruction of such personal data;
+  6. #### Recipients
 
-9.2.2. the use of your contact data for the purposes of direct marketing in mail correspondence;
+The Controller uses cookies and other party applications which are getting basic data (email, IP, number of visits…) and anonymised data about users based on user’s consent. Examples: Google Analytics, Intercom online chat, Paypal. Full list of other parties (recipients) cookies and applications of which we use is listed under this Privacy policy.
 
-9.2.3. the provision of your personal data in the scope: title, name, surname and address, for direct marketing purposes.
+The Controller may provide your resume or cover letter on the basis of your consent to the following categories of recipients: (i) partner employers and/or (ii) job recruitment agencies, with which the Controller has concluded an agreement, for the purposes of approaching you with job offers. The Controller has taken the appropriate contractual and organisational measures to ensure that such recipients processes your personal data only in order to approach you with job offers you might be interested in. You always have the right to withdraw this consent by sending an email to: [hello@kickresume.com](mailto:hello@kickresume.com).
 
-9.3. You are further entitled to: 
+  7. #### Disclosure of the Personal Data
 
-9.3.1. object, at any time, to the processing of your personal data for   
-the purposes of creation of artistic works, publishing your personal data in mass media for information purposes, processing of your personal data in relation to affairs in the public interest, as well as the processing of your personal data published in accordance with the Act, upon stating justifiable grounds or providing evidence of an infringement of your rights and interests protected by the law, which are or could, in a particular case, be infringed through such processing of your personal data; provided there are no statutory grounds to the contrary and it is proved that your objection is justified, the Controller is obliged to block and destruct without undue delay the personal data, the processing of which you object to;
+The Controller does not publish your personal data.
 
-9.3.2. object to, at any time, and not to comply with a decision of the Controller, that could have legal consequences or significant impact on you, insofar as such a decision is issued exclusively on the basis of the processing of your personal data by automatic means. You are also entitled to require from the Controller to review the issued decision by using a method different from the automatic form of data processing, whereby the Controller must comply with your request; such a review will be carried out by an authorized person; you will be informed of the review method and the result thereof by the Controller within a period of thirty (30) days following the receipt of the request.
+  8. #### Third Countries
 
-The rights pursuant to Art. 9.3.1 and 9.3.2 above can be asserted via a written request addressed to the Controller, or, in urgent cases also in person, free of charge. 
+The Controller may transfer your personal data to third countries, i.e., countries that are not member states of the European Union or a party to the Agreement on the European Economic Area where we engage with external service providers. In such case, we transfer your personal data only to a country that are considered to have an adequate level of protection in accordance with the EU Commission's decision or there are appropriate safeguards in place to protect your personal data, such as standard contract clauses, binding internal company rules or US Privacy Shield. Regardless of the country in which your personal data is processed, the Controller takes reasonable technical, legal and organisational measures to ensure that the level of protection is the same as in the European Union and the European Economic Area. If you wish to know more about international transfers of your personal data and the appropriate safeguards that we have in place to govern the transfer of your personal data, you may contact us via hello@kickresume.com.
 
-9.4. As the data subject, you are also entitled to initiate the proceedings concerning the protection of the personal data with the Office for Personal Data Protection of the Slovak Republic, should you have a suspicion that your personal data are processed unlawfully.
+  9. #### Rights
 
-9.5. If you do not possess full legal capacity, your rights can be exercised by your statutory representative.
+    1. We hereby notify you that pursuant to the Act, you are have the following rights:
 
-**10\. Form of the Assertion of the your Claims**   
-10.1. You can assert your claims:
+      1. You have a right of access to your personal data we process. This means you can contact us and request from us a confirmation whether or not your personal data are being processed and if so, you have the right to request access to your data, which we will provide to you in the form of a so-called "registry" (stating, in particular, purposes, categories of personal data, categories of recipients of personal data, storage periods or criteria for determining storage periods).
+      2. You have the right to have inaccurate personal data we have stored about you rectified
+      3. You may also ask us to erase your personal data from our systems. We will comply with such request unless we have a legitimate ground to not delete your personal data.
+      4. You have the right to object to processing that is based on a legitimate interest of ours if you have personal reasons that relate to the situation. We may however continue to process your information, despite your objection to the processing, if we have compelling legitimate reasons for the processing that outweigh your privacy interest. Where your personal data are processed for direct marketing purposes, you have the right to object at any time to processing of your personal data for such marketing, which includes profiling to the extent that it is related to such direct marketing.
+      5. You may request us to restrict certain processing of your personal data.
+      6. You have the right to receive your personal data from us in a structured, commonly used and machine-readable format in order to transmit the personal data to another controller.
+    2. As the data subject, you are also entitled to lodge a complaint with the Office for Personal Data Protection of the Slovak Republic, should you have a suspicion that your personal data are processed unlawfully.
 
-10.1.1. in writing, whereas it must be clear from your application that you are asserting your claim; in such case, the application is considered to have been filed in accordance with the Act; the application filed via email or fax must be delivered to the Controller in writing within three (3) days following its dispatch at the latest;
+    3. If you do not possess full legal capacity, your rights can be exercised by your statutory representative.
 
-10.1.2. in person in a verbal form recorded in minutes, whereby it must be clear who asserts the claim, what is the content of the claim and when and by whom the minutes have been executed; the minutes must contain the signature of the person, who have executed the minutes as well as you’re your signature; the Controller is obliged to provide you with a copy of the minutes;
+  10. #### Form of the Assertion of your Rights
 
-10.1.3. vis-a-vis the processor pursuant to Art. 10.1.1 or Art. 10.1.2.; the processor is obliged to hand the application or minutes over to the Controller without undue delay.
+    1. You can exercise your rights:
 
-**11\. Declaration of the User**   
-11.1. By using Kickresume.com I declare that I have been informed of the processing of my personal data and my rights and I agree to receive newsletters to my email address.
+      1. in writing, whereas it must be clear from your application that you are asserting your claim; the application filed via email or fax must be delivered to the Controller in writing within three (3) days following its dispatch at the latest;
+      2. in person in a verbal form recorded in minutes, whereby it must be clear who asserts the claim, what is the content of the claim and when and by whom the minutes have been executed; the minutes must contain the signature of the person, who have executed the minutes as well as you’re your signature; the Controller is obliged to provide you with a copy of the minutes.
+  11. #### Children’s Privacy
 
-[Slovak version](https://web.archive.org/privacy/sk/)
+Protecting the privacy of young children is especially important. For that reason, Kickresume does not knowingly collect or solicit personal information from anyone under the age of 16. In the event that we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible. Accordingly, children under the age of 16 may only use the service with the permission and supervision of their parents.
 
-#### YOUR CONSENT
+  12. #### How we protect your information?
 
-By using our site, you consent to our Terms and Privacy Policy.
+Kickresume’s top priority is protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to Kickresume or guarantee that your information on the Kickresume may not be accessed, disclosed, altered or destroyed by breach of any of our industry standard physical, technical or managerial safeguards. When you enter your data we encrypt that information using secure socket layer technology (SSL). No method of transmission over the Internet or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. We use a credit card processing company to bill you if you purchase services. This company does not retain, share, store or use personally identifiable information for any other purposes. If you have any questions feel free to contact us at [hello@kickresume.com](mailto:hello@kickresume.com).
 
-#### CHANGES TO OUR PRIVACY POLICY
+  13. #### Data Protection Officer
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+Kickresume s.r.o. has a **"Data Protection Officer"** who is responsible for matter relating to privacy and data protection. This Data Protection Officer can be reached at following address:
 
-This policy was last modified on 26.1.2017
+Martin Kosír, Klariská 14, 81103 Bratislava, Slovakia, [hello@kickresume.com](mailto:hello@kickresume.com?subject=DPO)
 
-#### CONTACTING US
+  14. #### Declaration of the User 
 
-If there are any questions regarding this privacy policy please feel free to contact us using the information below. 
+By using kickresume.com I declare that I have been informed of the processing of my personal data and my rights and I agree to receive newsletters to my email address.
 
-  * Kickresume.com
-  * Beckov 148
-  * Beckov, 916 38
-  * Slovakia
-  * [hello@kickresume.com](mailto:hello@kickresume.com)
 
 
 
-This policy is powered by Trust Guard, your PCI compliance authority. 
+All changes to this Privacy Policy are effective when they are posted on this page. When we change the policy, we will let you know via email and/or a notice on our Site.
+
+This policy was last modified on June 24, 2019.
+
+### List of recipients
+
+Recipients | Purpose | Data | Country of processing  
+---|---|---|---  
+Amazon Web Services, Inc. | Infrastructure as a service | All customer data (content, contact, purchase, technical) | Ireland  
+Google, Inc.  | User analytics and Advertising | Contact data, purchase data, user behaviour | USA  
+Hellobar LLC | User analytics | Contact data | USA  
+iKros a.s. | Accounting | Contact data, purchase data | Slovakia  
+Intercom, Inc. | Onboarding and support | All customer data | USA, UK, Ireland  
+Invelity, s.r.o. | Accounting | Contact data, purchase data | Slovakia  
+Linode, LLC | Infrastructure as a service, hosting | All customer data (content, contact, purchase, technical) | Germany  
+Mixpanel, Inc. | User analytics | User behaviour analytics | USA  
+Microsoft Corporation | Advertising | User behaviour | USA  
+OMEGA | Accounting | Contact data, purchase data | Slovakia  
+Paypal Holdings, Inc. | Payments | Contact data, purchase data, payment data | USA  
+Pymetrics, Inc. | Job Advisor feature | Contact data | USA  
+Sparkpost | Email management | Contact data | USA  
+SUMO | Pop-up | Social media data | USA  
+Tapfiliate | Affiliate advertising | Analytics | Ireland  
+200 OK, LLC (ProfitWell) | Payment analytics | Contact data, purchase data | USA  
+Hotjar Ltd | User analytics | User behaviour analytics | Malta  
+  
+This privacy policy is also available in [Slovak language](https://web.archive.org/ochrana-osobnych-udajov/).
