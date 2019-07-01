@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodpanda.my privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221133438id_/https%3A//www.foodpanda.my/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.my privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701140343id_/https%3A//www.foodpanda.my/contents/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy | foodpanda
+# Privacy policy | foodpanda | foodpanda
 
 This Privacy Policy explains how foodpanda, a brand of http://www.foodpanda.com, uses your personal information which you provided to foodpanda when interacting with foodpanda or by using our service, including but not limited to our foodpanda website http://www.foodpanda.my (“Website”) and mobile appli-cations (apps). In this respect, you shall be responsible for providing accurate, not misleading, complete and up-to-date personal information to foodpanda and consent to the processing of these personal infor-mation by foodpanda in Malaysia and outside Malaysia.   
 In the event of any conflict between the English and the Bahasa Malaysia version, the English version shall prevail. foodpanda shall have the right to modify, update or amend the terms of this Privacy Policy at any time by placing the updated Privacy Policy on the Website. By continuing to interact with foodpanda or by continuing to use foodpanda’s services following the modifications, updates or amendments to this Privacy Policy shall signify your acceptance of such modifications, updates or amendments.   
@@ -26,11 +26,11 @@ Personal Information collected by foodpanda is used to process your order and to
 **Transfer and disclosure of Personal Information**
 
 As foodpanda’s storage facilities and servers may be located in other jurisdictions, your Personal Infor-mation may be transferred to, stored, used and processed in a jurisdiction other than Malaysia.  
-From time to time foodpanda may send your Personal Information to third parties which foodpanda con-siders may have goods or services which are of interest to you. In processing your order, foodpanda may send your Personal Information to credit reference and fraud prevention agencies where permitted, under applicable laws. If you do not wish to be contacted by third parties please email to foodpanda’s Data Compliance Officers at support@[BRAND-NAME.my. 
+From time to time foodpanda may send your Personal Information to third parties which foodpanda con-siders may have goods or services which are of interest to you. In processing your order, foodpanda may send your Personal Information to credit reference and fraud prevention agencies where permitted, under applicable laws. If you do not wish to be contacted by third parties please email to foodpanda’s Data Compliance Officers at support@foodpanda.my.
 
 **Access to your Personal Information and rectification requests**
 
-Subject to any exceptions under applicable laws, you have the right to request a copy of the Personal In-formation and rectify the Personal Information foodpanda holds on you at any time. Please email to Food-panda’s Data Compliance Officer if you would like to receive a copy of this information, to submit a Per-sonal Information rectification request or if you seek further information on this Privacy Policy – sup-port@foodpanda.my . There will be a small charge for processing this Personal Information access re-quest. 
+Subject to any exceptions under applicable laws, you have the right to request a copy of the Personal In-formation and rectify the Personal Information foodpanda holds on you at any time. Please email to Food-panda’s Data Compliance Officer if you would like to receive a copy of this information, to submit a Per-sonal Information rectification request or if you seek further information on this Privacy Policy – support@foodpanda.my . There will be a small charge for processing this Personal Information access re-quest. 
 
 **Retention of your Personal Information**
 
