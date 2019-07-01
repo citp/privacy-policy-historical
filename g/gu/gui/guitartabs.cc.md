@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitartabs.cc privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207104646id_/https%3A//www.guitartabs.cc/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartabs.cc privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701190005id_/https%3A//www.guitartabs.cc/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | GuitarTabs.cc
 
@@ -20,7 +20,7 @@ Among the purposes for which we may use such generally non-personally identifyin
 
 **Personal Information You Provide to Us**
 
-We may request personally identifying information from you in a variety of contexts. For example, you may provide such data to us if you request information by completing the contact form [here](https://web.archive.org/web/20181207104646id_/https%3A//www.guitartabs.cc/contact.php). 
+We may request personally identifying information from you in a variety of contexts. For example, you may provide such data to us if you request information by completing the contact form [here](https://web.archive.org/web/20190701190005id_/https%3A//www.guitartabs.cc/contact.php). 
 
 In such cases, the personally identifying information we request may include your name, email address, mailing address and zip code, and phone number (collectively, "Personal Information"). In addition, we may collect other non-personally identifying information such as your gender, country of residence, language preference, and other information regarding your interaction with our Site, such as your viewing habits and preferences. Of course, you never have to answer any of the questions we ask you (nor choose to view any multimedia content or otherwise interact with our Site), but refusal to do so may limit the services we can offer or provide to you. 
 
