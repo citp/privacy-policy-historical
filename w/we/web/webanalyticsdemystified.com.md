@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webanalyticsdemystified.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629080654id_/http%3A//analyticsdemystified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsdemystified.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701024308id_/http%3A//analyticsdemystified.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Analytics Demystified
 
 ## Analytics Demystified Privacy Policy
 
-This Privacy Policy was last modified on February 25, 2014.
+This Privacy Policy was last modified on June 1, 2018.
 
 Analytics Demystified, Inc. (“us”, “we”, or “our”) operates http://www.analytics demystified.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
@@ -39,6 +39,10 @@ You can opt-out of Google Analytics for Display Advertising and customize the Go
 Analytics Demystified, Inc. does not respond to Do Not Track (DNT) signals.
 
 Do Not Track (DNT) is a preference you can set in your web browser to let the websites you visit know that you do not want to be tracked. You can disable or enable this setting by visiting the Preferences or Settings menu of your web browser.
+
+### Demandbase
+
+Analytics Demystified, Inc. uses technology provided by Demandbase to help us understand visitor behavior.  You can learn more about Demandbase and their use of cookies and data at www.demandbase.com.
 
 ### Communications
 
