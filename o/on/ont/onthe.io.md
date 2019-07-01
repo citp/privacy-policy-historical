@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onthe.io privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172509id_/https%3A//iotechnologies.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthe.io privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701031622id_/https%3A//onthe.io/pp) for the most accurate reproduction.*
 
-# Privacy policy | IO technologies
+# Privacy policy | IO Technologies
 
 #### 1\. Introductory statement
 
@@ -28,8 +28,9 @@ We keep a record of your communication with us to address potential issues you m
   * information about your computer;
   * login information;
   * the frequency and duration of your website visits;
-  * search information;
-  * internet protocol address and cookies.
+  * information about searches made on our website;
+  * internet protocol address and cookies;
+  * pages you visit on our site.
 
 
 
