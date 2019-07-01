@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidco.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527164701id_/https%3A//www.candidco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidco.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701030638id_/https%3A//www.candidco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Overview - Candid™
 
@@ -52,8 +52,6 @@ We may share your personal information with third parties or affiliates of Candi
 In addition, we may call (which may include leaving voice mails), write, e-mail or message (including push notifications)(“communicate”) you to remind you of appointments (including dental monitoring). We may also communicate to notify you of other services available that might help you, or to conduct follow up, quality assessment, or to obtain reviews, feedback, assess satisfaction or similar activities. We take precautions on our end to secure electronic information (for example, we encrypt our electronic devices). However, it is possible that texts, emails or other communications could be intercepted in transit to or from your devices or networks. Customers hereby consent to communication through telephone, video, text, other electronic messaging or e-mail. Other than the foregoing, we will not use your information for marketing without your authorization.
 
 We may disclose your personal information as permitted or required by law, such as in connection with a subpoena, court order or similar legal process, or in connection with a merger, acquisition, or bankruptcy, or in order to enforce our rights or enforce our Terms of Service.
-
-### Social Media
 
 We may use and disclose your personal information to facilitate social media sharing functionality that you initiate. If you choose to connect your social media account (e.g., Facebook, Twitter, Pinterest) with your Candid Co account or otherwise engage in social sharing about Candid Co or the services, your personal information may be shared with your friends, contacts or others associated with your social media account, with other Site users, and with your social media account provider. By connecting your Candid Co account and your social media account or contacting us via social media, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media site's privacy policy.
 
