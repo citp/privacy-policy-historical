@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the lawofattractioninteraction.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701113558id_/https%3A//www.abraham-hicks.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Home of Abraham-Hicks Law of Attraction
+
+At Abraham-Hicks Publications, we are committed to the trust and confidence of all of our visitors to our website. Abraham-Hicks Publications does not sell, rent, share or otherwise disclose the information which you provide to us. Your personal data will only be used by Abraham-Hicks Publications and will not be provided to any other third party.
+
+We use cookies to store data on our website. Cookies are small data files which are placed on your computer or other devices (such as smart ‘phones’ or ‘tablets’) as you browse this website.  They are used to ‘remember’ when your computer or device accesses our website.  Cookies are essential for the effective operation of our website and to help you shop with us online. Our website uses cookies to track user downloads of purchased downloads. We do not use cookies to collect or record information on pages viewed, your journey around our website, your name, address or other contact details. The cookies stored on your computer or other device when you access our website are designed by Abraham-Hicks Publications, or on behalf of Abraham-Hicks Publications, and are necessary to enable you to a make purchases on our website. Click [here](http://abrahamhicks.com/contact-us/) to go to our FAQ for information on how to enable or disable cookies.
+
+When someone visits new-comparison.flywheelsites.com/, we use a third party service, Google Analytics, to collect standard internet log information and details of visitor behavior patterns. We do this to find out things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website. 
+
+As part of the registration process for our e-newsletter, we collect personal information. We use that information for a couple of reasons: to tell you about stuff you’ve asked us to tell you about; to contact you if we need to obtain or provide additional information; to check our records are right and to check every now and then that you’re happy and satisfied. We don’t rent or trade email lists with other organizations and businesses.
+
+We use a third-party provider, MailChimp, to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see [MailChimp’s privacy notice](https://mailchimp.com/legal/privacy/). You can unsubscribe to general mailings at any time of the day or night by clicking the unsubscribe link at the bottom of any of our emails or by emailing us at [support@abraham-hicks.com](mailto:support@abraham-hicks.com?subject=Question%20Regarding%20Privacy%20Policy). 
+
+When you purchase a ticket (or tickets) or merchandise through the myAccount system online or over the phone, your name, address data, email and contact number will be stored in our system, myAccount. We require this information in order to process your reservation or purchase. Please be assured that we do not share your personal details with any other company without your consent.
+
+You are entitled to view, amend, or delete the personal information that we hold. Email your request to our data protection officer Marc Mollicone at [marc@abraham-hicks.com](mailto:marc@abraham-hicks.com)
+
+This policy was last updated in May 2018.
