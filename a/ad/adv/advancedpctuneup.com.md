@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedpctuneup.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501143008id_/http%3A//www.advancedpctuneup.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedpctuneup.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702005826id_/http%3A//www.advancedpctuneup.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy- Advanced PC Tuneup
 
