@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbs6nations.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182312id_/https%3A//www.sixnationsrugby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbs6nations.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702010049id_/https%3A//www.sixnationsrugby.com/privacy-policy) for the most accurate reproduction.*
 
 # Six Nations Rugby | Privacy Policy
 
