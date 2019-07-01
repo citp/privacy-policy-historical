@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitfoodiefinds.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514164953id_/https%3A//fitfoodiefinds.com/privacy-policies-disclaimers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitfoodiefinds.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702012733id_/https%3A//fitfoodiefinds.com/privacy-policies-disclaimers) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimers | Fit Foodie Finds
 
