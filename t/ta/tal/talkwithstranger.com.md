@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkwithstranger.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425015911id_/https%3A//talkwithstranger.com/Talk-To-Strangers-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkwithstranger.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701221352id_/https%3A//talkwithstranger.com/Talk-To-Strangers-Privacy-Policy.html) for the most accurate reproduction.*
 
 # TalkWithStrangers Privacy Policy - Free Random Chat Rooms With Strangers | Free Online Chat
 
