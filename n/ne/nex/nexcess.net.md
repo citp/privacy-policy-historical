@@ -1,57 +1,146 @@
-> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704171437id_/http%3A//www.nexcess.net/policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701174051id_/http%3A//www.nexcess.net/policies/privacy-policy) for the most accurate reproduction.*
 
-# NEXCESS.NET Web Hosting - Privacy Policy
+# Privacy Policy | Nexcess
 
-We have authored this privacy policy so you, our clients, know what information is gathered as you browse our site and when you order and why we gather such information. If you have any questions or concerns email [support@nexcess.net](mailto:%73%75%70%70%6f%72%74%40%6e%65%78%63%65%73%73%2e%6e%65%74) or call 1.866.NEXCESS. 
+This privacy policy (“Privacy Policy” or “PP”) has been developed by Nexcess.net, L.L.C. (“Nexcess”, “Us”, “We”, “Our”) to explain how we collect, retain, process, share and transfer your personal information when you use Nexcess’ products of services, visit our websites, or otherwise interact with us. This policy is meant to express Nexcess’ commitment to the privacy of our customers’ data, and to explain the means used for their privacy. Capitalized terms not otherwise defined herein shall have the meaning attributed to them in Nexcess’ Terms of Service.
 
-##### INFORMATION COLLECTION AND USE
+This policy also explains your choices about how we use information about you. Your choices include how you can object to certain uses of information about you and how you can access and update certain information about you.
 
-NEXCESS.NET, L.L.C. ("NEXCESS.NET") is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. NEXCESS.NET collects information from our users at several different points on our website. 
+#### Information Collection and Use
 
-##### ORDERS
+**Nexcess collects the following personal information from you:**
 
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+  * All information you enter when you register for an account, create or modify your profile, set preferences, and sign-up for or make purchases through the Services; 
+  * Contact information such as name, email address, mailing address, phone number;
+  * Billing and payment information such as billing address and credit card numbers;
+  * Unique identifiers such as user name, account number and password;
+  * Information about the Services you purchase from Nexcess;
+  * All information contained within your email correspondence with Nexcess including any ticket opened with Nexcess’ support department;
+  * All information entered on Nexcess’ website (including the Customer Portal);
+  * Access logs, including the source IP address, and browser information.
 
-##### COOKIES
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-##### LOG FILES
+**Nexcess uses this information to:**
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We use these same log files to generate our usage report for your site if you are one of our current clients. 
+  * Assess your needs to determine suitable products;
+  * Send you requested product or service information;
+  * Respond to customer service requests;
+  * Administer your account with Nexcess;
+  * Send you newsletters/whitepapers;
+  * Send you marketing communications;
+  * Respond to your questions and concerns;
+  * Improve the Nexcess website and marketing efforts;
+  * Conduct research and analysis;
+  * Offer surveys and contests to you;
+  * Analyze trends, administer the Nexcess website, track user movement and gather broad demographic information.
 
-##### LINKS
 
-This web site contains links to other sites. Please be aware that we NEXCESS.NET are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-##### SURVEYS AND CONTESTS
+#### How You Can Access, Update or Delete Your Data
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+To easily access, view, update, delete or port your personal data (where available), or to update your subscription preferences, please sign into the Customer Portal. If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for Nexcess’ legitimate business purposes or legal or contractual record keeping requirements.
 
-##### SECURITY
+If you are unable for any reason to access, update or delete your personal data within the Customer Portal, you may contact us by one of the methods described in the “Contact Us” section below.
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+#### How We Secure, Store and Retain Your Data
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
+Nexcess follows generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored, including utilization of encryption where appropriate. While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others. Nexcess strongly recommends that users configure SSL to prevent interception of data transmitted over networks and to restrict access to the databases and other storage points used.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
+We retain personal data only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods: 
 
-If you have any questions about the security at our website, you can send an e-mail to [support@nexcess.net](mailto:%73%75%70%70%6f%72%74%40%6e%65%78%63%65%73%73%2e%6e%65%74). 
+  * mandated by law, contract or similar obligations applicable to our business operations;
+  * for preserving, resolving, defending or enforcing our legal/contractual rights;
+  * to allow Nexcess to offer you the opportunity to purchase additional or new services; or
+  * needed to maintain adequate and accurate business and financial records.
 
-##### SITE AND SERVICE UPDATES
 
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via e-mail or phone. 
 
-##### CORRECTION/UPDATING PERSONAL INFORMATION
+If you have any questions about the security or retention of your personal data, you can contact us at legal@nexcess.net.
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by e-mailing [support@nexcess.net](mailto:%73%75%70%70%6f%72%74%40%6e%65%78%63%65%73%73%2e%6e%65%74). 
+#### Legal Bases for Processing (for EEA Users)
 
-##### CHOICE/OPT-OUT
+If you are an individual in the European Economic Area (“EEA”), Nexcess collects and processes information about you only where we have legal bases for doing so under applicable EU laws. This means that Nexcess collects and uses your information only where: 
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+  * Nexcess needs it to provide you the Services, including to operate the Services, provide customer support, personalized features and to protect the safety and security of the Services;
+  * It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect Nexcess’ legal rights and interests;
+  * You give us consent to do so for a specific purpose; or 
+  * We need to process your data to comply with a legal obligation.
 
-##### NOTIFICATION OF CHANGES
 
-If we decide to change our privacy policy, we will post those changes on our Privacy Policy page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-Last Updated: 02.21.2007
+If you have consented to Nexcess’ use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where Nexcess is using your information because we or a third party have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services. 
+
+#### The E.U. – U.S. Privacy Shield Framework
+
+Nexcess participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework. Nexcess is committed to subjecting all personal data received from the EU in reliance on the Privacy Shield Framework, according to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield list: https://www.privacyshield.gov/list.
+
+Nexcess is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Nexcess complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Nexcess is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Nexcess may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at https://www.jamsadr.com/eu-us-privacy-shield. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted: https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint.
+
+#### Use of Subprocessors
+
+Nexcess may use processors and subprocessors (including personnel and resources) in locations worldwide to help Nexcess with its business activities in providing the Services, offering customers new or additional goods and services and sending emails. A list of subprocessors is available upon request. If Nexcess subcontracts the performance of any of the Services, Nexcess will be liable to you for the acts and omissions of Nexcess subcontractors as if they were the acts or omissions of Nexcess under the agreement governing the Services (subject to the limits and exclusions of liability).
+
+#### Additional Information for End Users
+
+If end users of a Nexcess customer have any questions or complaints concerning Nexcess’ processing of personal data on behalf of a Nexcess customer, they are invited to contact the Nexcess customer directly, or they may contact Nexcess at legal@nexcess.net. End users who wish to access the personal data that Nexcess hosts on behalf of a customer, or to make choices concerning their data, are invited to contact the Nexcess customer directly.
+
+#### Tracking Technologies
+
+As noted above, Nexcess uses cookies or similar technologies to analyze trends, administer the Nexcess website, track users’ movements around the Nexcess website, and to gather demographic information about Nexcess’ user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on Nexcess’ website or services.
+
+#### Analytics/Log Files
+
+As is true of most websites, Nexcess gathers certain information automatically and stores it in log files. This information includes Internet protocol (“IP”) addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. Nexcess uses this information, which does not identify individual users, to analyze trends, to administer Nexcess’ website, to track users’ movements around Nexcess’ website and to gather demographic information about our user base as a whole. Nexcess does not link this automatically collected data to personally identifiable information. Nexcess links some of this automatically collected data to personally identifiable information if you become a Nexcess customer.
+
+#### Additional Information
+
+Nexcess’ website may contain links to the website for third parties whose privacy policies may differ from those of Nexcess. If you submit personal information to any of those websites, your information is governed by the third party’s privacy policies. Nexcess encourages you to carefully read the privacy policy of any website that you visit.
+
+#### Collection and Use of 3rd Party Personal Information
+
+You may also provide Nexcess with personal information about other people, such as their name, date of birth, email address, mailing address and gender. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.
+
+#### Blog
+
+Nexcess’ website offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access the blog. To request removal of your personal information from Nexcess’ blog, contact us at sales@nexcess.net. In some cases, Nexcess may not be able to remove your personal information, in which case Nexcess will let you know if we are unable to do so and why.
+
+#### Third Party Add-Ons
+
+You may choose to make use of third party services or products (“Add-Ons”) in conjunction with Nexcess’ services. Third party Add-Ons are software written by third parties to which you grant access privileges. When you do this, your personal information may be shared with the third party. The third parties that have been granted access to your personal information could use this data to contact you and market services to you, and could share your personal information with other third parties. This Privacy Policy does not cover the collection or use of your data by third party Add-Ons, and Nexcess urges you to consider the privacy policies governing third party Add-Ons.
+
+#### Social Media Widgets
+
+Nexcess’ website includes social media features, such as the Facebook Like button, links to our various social media pages and widgets, such as the “share this button” or interactive mini-programs that run on our website. These features may collect your IP address, which pages you are visiting on Nexcess’ website, and may set a cookie to enable said feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on Nexcess’ website. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+#### Age Restrictions
+
+Nexcess’ products and services are available for purchase only for those over the age of 18. Nexcess’ products and services are not targeted to, intended to be consumed by or designated to entice individuals under the age of 18. If you know of or have reason to believe anyone under the age of 18 has provided Nexcess with any personal data, please contact us.
+
+#### Email Marketing and Opt-Out Preferences
+
+Nexcess will periodically send you email advertisements regarding the services offered by Nexcess. Nexcess will not send you marketing messages if you have opted out. You may choose not to receive messages in the future by following the “unsubscribe” instructions located near the bottom of each email or by contacting Nexcess at sales@nexcess.net.
+
+#### CAN-SPAM Act of 2003
+
+Nexcess complies with the federal CAN-SPAM Act of 2003. As a result, please be aware that Nexcess uses the email address you provide to Nexcess in order to: (a) send information and respond to inquiries and/or other requests or questions; (b) process Customer orders and send information pertaining to Customer orders; (c) send you additional information related to the Services; and (d) send marketing emails or continue sending emails to our clients after the original transaction has occurred. In addition, Nexcess agrees to the following: (a) Nexcess will not use false or misleading subjects or email addresses; (b) Nexcess will identify the message as an advertisement in some reasonable way; (c) Nexcess will include the physical address of our business or site headquarters; (d) Nexcess will monitor third party email marketing services for compliance, if one is used; (e) Nexcess will honor unsubscribe requests promptly; and (f) Nexcess will allow users to unsubscribe by using the link at the bottom of each email advertisement
+
+#### Legal Disclaimer
+
+In certain situations, Nexcess may be required to disclose personal data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements. In addition, if Nexcess is involved in a merger, acquisition, or sale of all its assets, Customer will be notified via email and/or prominent notice on the Nexcess website of any change in uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
+
+#### Changes to this Privacy Policy
+
+Nexcess reserves the right to modify this Privacy Policy at any time. Nexcess encourages you to periodically review this page for the latest information on our privacy practices.
+
+#### Contact Us
+
+If you have any questions, concerns or complaints about this Privacy Policy, Nexcess’ practices or Nexcess’ services, you may contact: Nexcess.net, L.L.C., 21700 Melrose Avenue, Southfield, Michigan 48075, or email us at either support@nexcess.net or legal@nexcess.net.
+
+**We will respond to all requests, inquiries or concerns within thirty (30) days.**
+
+If you are based in the EEA, you have the right to lodge a complaint with a supervisory authority in the EU Member State of your habitual residence, place of work or place of the alleged infringement if you believe that our processing of your data infringes the GDPR.
