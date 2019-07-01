@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uplb.edu.ph privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407202827id_/http%3A//uplb.edu.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uplb.edu.ph privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701153719id_/http%3A//uplb.edu.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UPLB
 
