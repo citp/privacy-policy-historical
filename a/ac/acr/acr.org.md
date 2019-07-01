@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acr.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509234207id_/https%3A//www.acr.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acr.org privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701161823id_/https%3A//www.acr.org/Privacy) for the most accurate reproduction.*
 
 # Privacy | American College of Radiology
 
