@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outback-australia-travel-secrets.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509005813id_/https%3A//www.outback-australia-travel-secrets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outback-australia-travel-secrets.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701084816id_/https%3A//www.outback-australia-travel-secrets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Outback-Australia-Travel-Secrets.com Privacy Policy
 
