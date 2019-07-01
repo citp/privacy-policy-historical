@@ -1,64 +1,165 @@
-> *The following text is extracted and transformed from the zyma.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803061112id_/https%3A//www.zyma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyma.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701183233id_/https%3A//hostpresto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Zyma Technologies
+# Enix Ltd / HostPresto! Privacy Policy
 
-This Privacy Policy sets out the data processing practices carried out through the use of the Internet and the World Wide Web by Zyma.com
+  * [Security](https://web.archive.org/security)
+  * [Compliance](https://web.archive.org/security/compliance)
+  * [GDPR](https://web.archive.org/security/gdpr)
+  * [FAQ](https://web.archive.org/security/faq)
+  * [Privacy](https://web.archive.org/privacy-policy/)
+  * [Terms of Use](https://web.archive.org/terms)
+  * [Abuse](https://web.archive.org/abuse)
 
-### Introduction
 
-For the purposes of the Data Protection Act 1998 the Data Controller for this website is Zyma.com. The privacy and security of our customers is important to us.This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information, and the procedures that we have in place to safeguard your privacy.
 
-### The information we collect and how we use it
+## Introduction
 
-In order to purchase products or services from us, we need to know your name, address, and email address and various other details. We gather this information to allow us to contact you efficiently and deal with your order. The relevant information is then used by to communicate with you regarding our products and services or as otherwise required.If you wish to register for our Mail service you must provide us with your name and email address. From time to time we may provide the information that you have provided in subscribing to the Mail service or in purchasing products or services through the website to our customer service agencies for research and analysis purposes so that we can monitor and improve the services we provide. We may also wish to provide you with information about special features of our website or any other services or products from Zyma.com that we think may be of interest to you. If you would rather not receive this information, please contact us. Your personal data will not be disclosed to any third party without your consent.
+Enix Ltd, trading as HostPresto! collects and processes your personal data, please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-### Our use of cookies and sessions
+## Information we collect from you as a client
 
-Zyma.com uses cookies on this site, collecting information and statistics about the users. Cookies are small pieces of information that are stored on your computers hard drive by your browser. The purpose of gathering such information is to assist us to analyse the use of the website and revise it for the benefit of our customers by making your visit to the site more efficient and to improve and increase the content found to be most popular. Most browsers allow the ookie function to be turned off. If you want to know how to do this, look at the help menu on your browser.
+We collect information in a variety of ways, these include the web forms you complete on the HostPresto! Website and any emails exchanged with us.
 
-### Disclosures
+We endeavour to minimise the data we hold about you and will only keep it for up to 7 days after you cease to be a client unless there is a legal obligation to retain something for longer (e.g. invoice details). 
 
-We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking here. If you have any queries about our Privacy Statement you should contact us by e-mail. We will never store your financial information including any credit and debit card details that you use to make payment.
+We store general category information such as;
 
-### Cookies and IP Addresses
+  
 
-Data files that are placed on computer hard drives are known as cookies. These data files allow Web sites to determine if a user is a return customer whenever the user visits the Web site again. These data files may also be used to review how a user uses a Web site. Browsers usually accept cookies automatically, but users may change their browser settings so that cookies can only be accepted by clicking on an accept button.
 
-### Personal Data Storage
+  * Company names
+  * Individual contact names, first and last. 
+  * Email addresses 
+  * Postal addresses 
+  * Phone numbers 
+  * VAT/Tax IDs 
+  * IP Addresses 
+  * Time Zone’s 
+  * Browser type and operating system 
+  * Any referring websites that sent you to us 
 
-The data protection principles help to govern how data is stored. Under the eighth principle, any data transfer that is going outside of the EEA is only allowable if the receiving country offers adequate data protection or the data subject consents to the transfer. Consent is most often used to authorize a transfer of data to a country that is outside of the EEA. If data will be transferred outside of the EEA, this should be disclosed in a site privacy policy, along with information about how the data will be processed. Web site operators should also list all of the countries to which personal data may be sent.
 
-Data transfer can include posting information on a site that offers overseas access. Web site operators who publish personal data are most affected by this, as it makes it difficult to list which countries data will be transferred to. Examples of this type of site include forums and discussion groups, where users can contact each other. Auction sites and instant messaging programs are also problematic. Anyone who owns one of these sites should implement a code of conduct for all users so that the privacy of all site users can be protected. This code of conduct can be outlined in the site privacy policy.
 
-Because users want to know that their data will be kept secure, the privacy policy also includes information on the security of data. The Data Protection Act requires data controllers to maintain data security. This information is accompanied by a statement to the effect that data transfers are never completely secure. The standard policy excludes the site operator from liability arising from personal data that is lost during transmission to the site.
+Where we are requested to do so, we also store payment information including credit card details.
 
-### Data Usage
+## The information you share with us through our services
 
-Site users must be informed about the purpose of data collection and processing. This information can be general in nature, but data controllers need to outline any obscure uses of data in detail. The privacy policy should also outline whether any data collected will be used for marketing and let users know if the data will be published on the site. Data controllers should consider data transfer when creating a privacy policy, as many users do not want their data shared with third parties.  
-Any online form that is used to collect data should contain tick boxes that allow users to opt in or opt out. Users may be asked to mark these boxes before their data is submitted so that the Regulations requirements are met. The privacy policy is also an area where data controllers can let users know about the types of products and services that will be marketed in the future using the collected data. This is not required under the law, but should be included so that users can give informed consent for data collection.
+The flexibility of our hosting services means you can potentially host any form of data imaginable. We will never use that data for any purposes other than those highlighted in our [terms of service](https://web.archive.org/terms/).
 
-The rules for consenting to data collection and processing for the purpose of direct marketing vary based on how communication occurs. The privacy policy allows a Web site operator to list the types of communication that might be used for marketing. These communication methods include e-mail and telephone. If marketing is being done electrically, via e-mail or SMS, there are special requirements that must be followed. Prior to the issue of the Regulations, advertisers could send marketing communications until the recipient expressly requested that they stop sending the communications under section 11 of the Data Protection Act. The Regulations have limited this practice; Regulation 22 makes it a requirement that all electronic marketing be done on an opt-in basis only. The only exceptions are if the recipient’s information was obtained through prior sales or if the communication is related to other goods and services that the recipient has purchased.
+As part of these terms, you are prohibited from allowing any form of illegal data to enter our systems and we, Enix Ltd (HostPresto!) will act only as a data processor for this data. The fundamental rights of the data subjects are your responsibility as the data controller, these include but are not limited to;
 
-Even if these conditions exist, the Web site operator has to give the recipient a way to opt out of future marketing messages, and the user must be provided with information on opting out. The privacy policy was developed to make sure that the site operator is in compliance with this requirement. Any online form that is used to collect personal data should include tick boxes that allow the user to opt in or out of getting marketing information electronically. If the purpose of the data collection changes, the policy must be amended to reflect that change. The amended policy must then be given to data subjects. Web site operators should carefully consider how they might use information in the future so that the risk of having to obtain further consent is minimized. A statement regarding aggregate information on how the site is used is not necessary, but can help in gaining customer trust.
+  * The right to be informed
+  * The right of access
+  * The right to rectification
+  * The right to erasure
+  * The right to restrict processing
+  * The right to data portability
+  * The right to object
 
-### Information Disclosure
 
-Users should be informed if a Web site operator plans to give access to data or sell data to third parties, and the purpose of this disclosure must be given to users. One example of disclosure is selling a customer list to marketing companies or advertisers. Data controllers need to have the ability and authorization to transfer data if a business is being sold.
 
-### Your Rights
+## Rights in relation to automated decision making and profiling.
 
-No information in the data protection laws and regulations prevent consent being withdrawn. However, site operators are not required to remind users that they may object to any type of data processing at any time, unless the site is collecting cookies or marketing using e-mail or SMS. Including this information may help build consumer trust, although a site operator may prefer not to let users know that they have the right to withdraw their consents. If a site has links to third-party Web sites, users may give their data to the third party site’s owners without realizing that the original site privacy policy does not govern this data processing. The privacy policy was developed to inform users that they need to check third party privacy policies when submitting any personal data.
+We use industry best practices to keep your data secure and maintain its confidentiality, integrity and availability. We will also be happy to review and discuss any contracts that you wish to implement with us prior to us processing this category of data.
 
-### Information Access
+## The legal basis for processing your personal data
 
-Under section 7 of the Data Protection Act, an individual may make a request in writing to be informed if personal data is subject to processing or to be informed of the purposes of such data collection. These requests must be made to data controllers.  
-In many cases, the person making the request may also ask to receive a copy of any data that is being stored by the data controller, and to be informed about where the data came from. The data controller typically has 40 days to provide this data, and a fee of up to 10.00 pounds may be charged for each request. The privacy policy reminds users that they have the right to request access to their data. This is not legally required, but consumer confidence may be improved if such a statement is included.
+We will only process your personal data when it is in yours or our legitimate interests and those interests are not overridden by your rights and freedoms or, in relation to marketing and processing credit/debit card information, where we have your consent to do so.
 
-### Privacy Policy Changes
+## How does hostpresto! Use personal data
 
-To ensure that the privacy policy can be continually enforced, it contains a notice that informs users that any changes will be disclosed to them. The Web site operator may not be able to make changes and enforce them retroactively unless the user is informed and gives consent. The Commissioner stated that any changes made will affect how controllers will respect the assurance contained in the change statement. Users who give information prior to a policy change will have done so under a previous version of the privacy policy, so data controllers must be careful to honour any assurances made in that original statement. If a Web site controller wishes to change how personal data is used, the ideal situation would be to get opt-in consent from data subjects by sending them a notice of the new uses and getting their agreement. If someone does not respond to a notification of the change, their consent should not be assumed. It is accepted that it may be enough to inform people about the planned changes and give them the opportunity to disagree. If the new use is not for a new purpose, or if the new use is very similar to the use outlined in the original statement, this will be the case.
+All our data is stored within the European Economic Area, in general, we do not transfer personal data outside the EAA apart from when it is required to provision certain products and services, for example to various domain registries (ICANN and others) for whois requirements.
 
-### Copyright
+Most of the personal data that we hold is used in your legitimate interests in the provision, renewal and management of products and services to you, this includes the order process, invoicing, support and general enquiries. Other uses include;
 
-All contents, this includes images, artworks, and designs on the Zyma.com website are copyright protected.  
-By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times.
+### Direct Marketing
+
+With your explicit consent, we may contact you via email about other products and services that we feel are relevant and in your legitimate interest. You may opt out of these emails at any time by contacting us or via the client’s account area on the HostPresto! Website.
+
+### Third party Marketing
+
+We use marketing features where third-party vendors (including Google) display our adverts on websites and use cookies based on a user’s prior visits to the HostPresto! website.
+
+You can control how these cookies capture and process your information, more information can be found under the section “How you can control advertising cookies” on [Google’s website](https://policies.google.com/technologies/cookies). 
+
+We process your data in this way to assist us in collecting statistical information on the HostPresto! website and to determine the performance of our advertisement strategies. This process may also capture data in relation to age, gender and interests.
+
+### Payment Gateways
+
+During the billing process, your credit/debit card details are processed with SagePay and PayPal, these are well known and legitimate payment processing gateways and have their own privacy policies that dictate how they handle your information. These can be found here;
+
+  
+
+
+  * <https://www.sagepay.co.uk/policies>
+  * <https://www.paypal.com/uk/webapps/mpp/ua/legalhub-full>
+
+
+
+Where we feel it is your best interests to do so, we do store payment card information ourselves. This information is encrypted and rest and during transport and we run regular PCI compliance scans to ensure we are following best practices with our security procedures. You can at any time, request us to remove this information by contacting us or via the client’s account area on the HostPresto! Website.
+
+### Disclosure of your information
+
+HostPresto! In general, does not disclose personal data to any third parties, except in cases where client’s permission has been gained or to provision products/services, e.g. to domain name registries for whois requirements.
+
+However, if we sell or buy any businesses or assets, those entities may also gain access to your data.
+
+We may also disclose your data if we have a legal duty to disclose or share it to comply with any legal obligation or to enforce or apply our [Terms of Service](https://web.archive.org/terms/) or other agreements.
+
+We may also disclose your data to protect the rights, property, or safety of Enix Ltd (HostPresto!), our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+## Your right to be informed
+
+You have the right to be informed about the collection and use of your personal data, this privacy policy informs you of our purposes for processing your personal data, our retention periods for that personal data, and who it will be shared with.
+
+## Your right of access
+
+You have the right to access your personal data and supplementary information and can request a copy by emailing privacy@hostpresto.com or via the contact form on the HostPresto! Website. 
+
+## Your right to rectification
+
+You have the right to have inaccurate personal data rectified or completed if it is incomplete and any requests of this nature should be emailed to privacy@hostpresto.com or via the contact form on the HostPresto! Website. 
+
+## Your right to erasure
+
+You have the right to have personal data erased, this right is not absolute and only applies in certain circumstances and any requests should be emailed to privacy@hostpresto.com or via the contact form on the HostPresto! Website and we will respond within one month. 
+
+## Your right to restrict processing
+
+You have the right to request the restriction or suppression of your personal data, this is not an absolute right and only applies in certain circumstances and any requests should be emailed to privacy@hostpresto.com or via the contact form on the HostPresto! Website and we will respond within one month. 
+
+## Your right to data portability
+
+You have the right to move, copy or transfer personal data easily from our services to another service in a safe and secure way, without hindrance to usability. Data portability requests should be emailed to privacy@hostpresto.com or via the contact form on the HostPresto! Website. 
+
+## Your right to object
+
+Any objection to the processing of your data will require us to stop processing the personal data unless we can demonstrate compelling legitimate grounds for the processing, which override your interests, rights and freedoms or the processing is for the establishment, exercise or defence of legal claims and enforcement of our terms of service (https://hostpresto.com/terms) 
+
+## Your rights in relation to automated decision making and profiling.
+
+We do not automatically profile any personal data 
+
+## Your right to complain
+
+You have the right to complain to a data protection authority about our collection and use of your personal information. We do however request that you give us an opportunity to resolve any complaints by emailing us at privacy@hostpresto.com or contacting us via the form on the HostPresto! Website.
+
+For more information about our local data protection authority please visit the Information Commissioner’s Office’s website here; [https://ico.org.uk](https://ico.org.uk/).
+
+## Our privacy information
+
+Our Data Controller & Data Protection Officer’s details are as follows;
+
+  
+
+
+  * Name: Elliot Pearse
+  * Address: 16-18 Barnes Wallis Road, Segensworth East, PO15 5TT
+  * Email: info@enixltd.com
+
+  
+
+
+## Changes to our privacy policy
+
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our Privacy Policy.
