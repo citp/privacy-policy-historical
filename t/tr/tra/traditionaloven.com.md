@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traditionaloven.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405155450id_/https%3A//www.traditionaloven.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionaloven.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701165338id_/https%3A//www.traditionaloven.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - traditionaloven.com
 
@@ -47,3 +47,5 @@ by Rado Hand
 
 To link to this **Privacy Policy** page from your website, only cut and paste the following code into your web page.   
 It will appear on your page as: [Privacy Policy.](https://www.traditionaloven.com/privacy_policy.html "Privacy Policy")
+
+Link:
