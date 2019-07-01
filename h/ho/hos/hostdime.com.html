@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hostdime.com privacy policy that was archived on 2019-02-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190217001145id_/https%3A//www.hostdime.com/support/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hostdime.com privacy policy that was archived on 2019-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190701160135id_/https%3A//www.hostdime.com/support/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -17,13 +17,17 @@
     <!-- Global site tag (gtag.js) - Google Analytics / Adwords -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3466240-2"></script>
     <script>
+        // Store the php core url in js for ajax methods
+        var CORE_URL = "https://core.hostdime.com";
+
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'UA-3466240-2');
         gtag('config', 'AW-1066808176');
     </script>
-</head>
+  </head>
+
 <body>
 
 <header id="header">
@@ -52,48 +56,10 @@
 		<nav id="header-navigation">
 			<ul>
 				<li class="">
-					<a href="https://www.hostdime.com/cloud/"><img src="/images/icons/mobile-vps.png" class="mobile-icon show-on-mobile" alt="Mobile VPS icon"> Cloud</a>
+					<a href="/cloud/"><img src="/images/icons/mobile-vps.png" class="mobile-icon show-on-mobile" alt="Mobile VPS icon"> Cloud</a>
 				</li>
 				<li class=" hide-on-tablet">
-					<a href="https://www.hostdime.com/cloud-vps/"><img src="/images/icons/mobile-vps.png" class="mobile-icon show-on-mobile" alt="Mobile VPS icon"> VPS Hosting</a>
-					<!--
-					<section class="product-sub-nav sub-nav-menu">
-						<div class="container">
-							<div class="row">
-								<div class="six columns">
-									<h3>VPS Hosting</h3>
-									<p>Enjoy complete control over your virtual machine, OS, and kernel with HostDime's managed VPS hosting. Driven by a SAN comprised of pure Enterprise SSDs with a lightning fast 10Gbps fiber, these KVM creations feature the utmost in scalability, reliability, and customization.</p>
-								</div>
-								<div class="three columns">
-									<div>
-										<h4 class="collapse-mobile"><img src="/images/icons/nav-vps.png" alt="Data Center icon"> USA Fully Managed VPS <span class="collapse-icon"></span></h4>
-										<ul class="collapse-group">
-											<li><a href="/managed-vps-hosting/"><img src="/images/icons/flags/us.png" alt="US flag icon"> Linux VPS</a></li>
-											<li><a href="/managed-windows-vps-hosting/"><img src="/images/icons/flags/us.png" alt="US flag icon"> Windows VPS</a></li>
-										</ul>
-									</div>
-									<div>
-										<h4 class="collapse-mobile"><img src="/images/icons/nav-vps.png" alt="Data Center icon"> USA Self Managed VPS <span class="collapse-icon"></span></h4>
-										<ul class="collapse-group">
-											<li><a href="/linux-vps-hosting/"><img src="/images/icons/flags/us.png" alt="US flag icon"> Linux VPS</a></li>
-											<li><a href="/windows-vps-hosting/"><img src="/images/icons/flags/us.png" alt="US flag icon"> Windows VPS</a></li>
-										</ul>
-									</div>
-								</div>
-								<div class="three columns">
-										<h4 class="collapse-mobile"><img src="/images/icons/nav-vps.png" alt="Globe icon"> Global VPS <span class="collapse-icon"></span></h4>
-										<ul class="collapse-group">
-											<li><a href="/brazil-vps-servers/"><img src="/images/icons/flags/br.png" alt="Brazil flag icon"> Brazil VPS</a></li>
-											<li><a href="/mexico-vps-servers/"><img src="/images/icons/flags/mx.png" alt="Mexico flag icon"> Mexico VPS</a></li>
-											<li><a href="/uk-vps-servers/"><img src="/images/icons/flags/uk.png" alt="UK flag icon"> UK VPS</a></li>
-											<li><a href="/colombia-vps-servers/"><img src="/images/icons/flags/co.png" alt="Colombia flag icon"> Colombia VPS</a></li>
-											<li><a href="/india-vps-servers/"><img src="/images/icons/flags/in.png" alt="India flag icon"> India VPS</a></li>
-										</ul>
-								</div>
-							</div>
-						</div>
-					</section>
-					-->
+					<a href="/cloud-vps/"><img src="/images/icons/mobile-vps.png" class="mobile-icon show-on-mobile" alt="Mobile VPS icon"> VPS Hosting</a>
 				</li>
 				<li>
 					<a href="#"><img src="/images/icons/mobile-dedicated.png" class="mobile-icon show-on-mobile" alt="Mobile dedicated icon"> Servers</a>
@@ -211,8 +177,10 @@
 										<li><a href="/services/domain/">Domain Registration</a></li>
 										<li><a href="/services/remote-storage/">Remote Storage</a></li>
 										<li><a href="/services/disaster-recovery/">Disaster Recovery</a></li>
-										<li><a href="/managed-dedicated-servers/migration/">Account Migration</a></li>
+										<li><a href="/cpanel-migration/">cPanel Data Migration</a></li>
 										<li><a href="/managed-services/">Managed Services</a></li>
+										<li><a href="/anti-spam-email-filtering/">Email Filtering</a></li>
+										<li><a href="/managed-dedicated-servers/ipmi/">IPMI</a></li>
 									</ul>
 								</div>
 							</div>
@@ -291,7 +259,8 @@
 										<li><a href="/about/our-partners/">Partners</a></li>
 										<li><a href="/about/press/">Press/Media Kit</a></li>
 										<li><a href="/about/identity/">Identity</a></li>
-										<li><a href="https://www.hostdime.com/jobs/">Careers</a></li>
+										<li><a href="/global/">Global</a></li>
+										<li><a href="/jobs/">Careers</a></li>
 									</ul>
 								</div>
 								<div class="three columns">
@@ -306,9 +275,9 @@
 								<div class="three columns">
 									<h4 class="collapse-mobile"><img src="/images/icons/nav-info.png" alt="Info icon"> Extras <span class="collapse-icon"></span></h4>
 									<ul class="collapse-group">
-										<li><a href="https://www.hostdime.com/blog">Blog</a></li>
-										<li><a href="https://www.hostdime.com/kb">Knowledge Base</a></li>
-										<li><a href="/affiliates">Affiliates</a></li>
+										<li><a href="/blog/">Blog</a></li>
+										<li><a href="/kb/">Knowledge Base</a></li>
+										<li><a href="/affiliates/">Affiliates</a></li>
 										<li><a href="https://core.hostdime.com">Core - Portal Login</a></li>
 									</ul>
 								</div>
@@ -489,6 +458,7 @@
 	</div>
 </section>
 
+
 <aside id="footer-bar" class="hide-on-tablet">
 	<div class="container">
 		<div class="row">
@@ -542,7 +512,7 @@
 							<li><a href="/global/">Global</a></li>
 							<li><a href="/about/our-partners/">Partners</a></li>
 							<li><a href="/about/press/">Media/Press Kit</a></li>
-							<li><a href="https://www.hostdime.com/jobs/">Careers</a></li>
+							<li><a href="/jobs/">Careers</a></li>
 						</ul>
 					</div>
 					<div>
@@ -584,6 +554,11 @@
 </footer>
 
 <script src="/js/jquery-3.3.1.min.js"></script>
+<script src="/node_modules/raven-js/dist/raven.min.js"></script>
+<script>Raven.config('https://63e17738a7e348e0a1bb386f1976ec9a@logs.devops.dimenoc.com:7443/24').install();</script>
 <script src="/js/main.js"></script>
+<script type="text/javascript" src="https://secure.vane3alga.com/js/162783.js"></script>
+<noscript><img alt="" src="https://secure.vane3alga.com/162783.png" style="display:none;" /></noscript>
+
 
 </body></html>
