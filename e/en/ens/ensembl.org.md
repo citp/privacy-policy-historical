@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ensembl.org privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321045653id_/https%3A//www.ebi.ac.uk/data-protection/ensembl/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensembl.org privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701112020id_/https%3A//www.ebi.ac.uk/data-protection/ensembl/privacy-notice) for the most accurate reproduction.*
 
 # Ensembl Privacy Notice | European Bioinformatics Institute
 
