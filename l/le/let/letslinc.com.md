@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letslinc.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230014857id_/https%3A//www.letslinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letslinc.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701132336id_/https%3A//www.letslinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - List of Information Collected and More - Linc Global
 
@@ -30,6 +30,10 @@ We do not currently collect financial information, such as your payment method (
   * Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
 
+
+#### Location Information
+
+Depending on the services that you use, and your app settings or device permissions, we may collect your precise or approximate location information as determined through data such as device address and GPS location. We may use this information to provide services such as locating nearby stores.
 
 #### Information Collected Using Cookies
 
@@ -122,7 +126,7 @@ Should you ever decide to delete your Account, you may do so by emailing privacy
 
 
 
-##  **EU Residents**
+## **EU Residents**
 
 If you are a resident of the European Union (“EU”), United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) with respect to your Personal Data, as outlined below.
 
@@ -130,9 +134,9 @@ For this section, we use the terms “Personal Data” and “processing” as t
 
 If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict.  If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy@letslinc.com](mailto:privacy@letslinc.com).  Note that we may also process Personal Data of our customers’ end users or employees in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
 
- **What Personal Data Do We Collect From You?** We collect Personal Data about you when you provide such information directly to us, when third parties such as our business partners or service providers provide us with Personal Data about you, or when Personal Data about you is automatically collected in connection with your use of our Services.
+**What Personal Data Do We Collect From You?** We collect Personal Data about you when you provide such information directly to us, when third parties such as our business partners or service providers provide us with Personal Data about you, or when Personal Data about you is automatically collected in connection with your use of our Services.
 
- **Information we collect directly from you** :  We receive Personal Data directly from you when you provide us with such Personal Data, including without limitation the following:
+**Information we collect directly from you** :  We receive Personal Data directly from you when you provide us with such Personal Data, including without limitation the following:
 
   * First and last name
   * Email address
@@ -144,15 +148,15 @@ If there are any conflicts between this section and any other provision of this 
 
 
 
- **Information we receive from third party sources:   **Some third parties such as our business partners, third party merchant partners and service providers provide us with Personal Data about you, such as the following:
+**Information we receive from third party sources:   **Some third parties such as our business partners, third party merchant partners and service providers provide us with Personal Data about you, such as the following:
 
-  *  **Account information for third party services:** If you interact with a third party service when using our Services, such as if you use a third party service to log-in to our Services (e.g., Facebook Connect or Twitter OAuth), or if you share content from our Services through a third party social media service, the third party service will send us information about you, such as information from your public profile, if the third party service and your account settings allow such sharing. The information we receive will depend on the policies and your account settings with the third party service.
-  *  **Information from our advertising partners:** We receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications.
-  *  **Information from our third party merchant partners** : We may receive social media identification information, your account profile information, shopping order information and your contact information from our partners in an effort to provide our Services to you.
+  * **Account information for third party services:** If you interact with a third party service when using our Services, such as if you use a third party service to log-in to our Services (e.g., Facebook Connect or Twitter OAuth), or if you share content from our Services through a third party social media service, the third party service will send us information about you, such as information from your public profile, if the third party service and your account settings allow such sharing. The information we receive will depend on the policies and your account settings with the third party service.
+  * **Information from our advertising partners:** We receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications.
+  * **Information from our third party merchant partners** : We may receive social media identification information, your account profile information, shopping order information and your contact information from our partners in an effort to provide our Services to you.
 
 
 
- **Information we automatically collect when you use our Services:   **Some Personal Data is automatically collected when you use our Services, such as the following:
+**Information we automatically collect when you use our Services:   **Some Personal Data is automatically collected when you use our Services, such as the following:
 
   * IP address
   * Device identifiers
@@ -168,7 +172,7 @@ If there are any conflicts between this section and any other provision of this 
 
 
 
- **How Do We Use Your Personal Data?** **  **We process Personal Data to operate, improve, understand and personalize our Services.  For example, we use Personal Data to:
+**How Do We Use Your Personal Data?** **  **We process Personal Data to operate, improve, understand and personalize our Services.  For example, we use Personal Data to:
 
   * Create and manage user profiles
   * Provide our Services to you (directly or through a third party merchant partner)
@@ -189,7 +193,7 @@ If there are any conflicts between this section and any other provision of this 
 
 We will only process your Personal Data if we have a lawful basis for doing so. Lawful bases for processing include consent, contractual necessity and our “legitimate interests” or the legitimate interest of others, as further described below.
 
-  *  **Contractual Necessity:** We process the following categories of Personal Data as a matter of “contractual necessity”, meaning that we need to process the data to perform under our <https://www.letslinc.com/terms-of-service/> with you or due to your relationship with our third party merchant partners, which enables us to provide you with the Services.  When we process data due to contractual necessity, failure to provide such Personal Data will result in your inability to use some or all portions of the Services that require such data.
+  * **Contractual Necessity:** We process the following categories of Personal Data as a matter of “contractual necessity”, meaning that we need to process the data to perform under our <https://www.letslinc.com/terms-of-service/> with you or due to your relationship with our third party merchant partners, which enables us to provide you with the Services.  When we process data due to contractual necessity, failure to provide such Personal Data will result in your inability to use some or all portions of the Services that require such data. 
     * First and last name
     * Email address
     * Mailing address
@@ -197,7 +201,7 @@ We will only process your Personal Data if we have a lawful basis for doing so. 
     * User content, for example, your account information, personal preferences, and personal shopping preferences that you provide through chat experiences or otherwise.
     * Shopping order information
     * Advertisement identifiers and trackers
-  *  **Legitimate Interest:** We process the following categories of Personal Data when we believe it furthers the legitimate interest of us.
+  * **Legitimate Interest:** We process the following categories of Personal Data when we believe it furthers the legitimate interest of us. 
     * IP address
     * Device identifiers
     * Web browser information
@@ -224,11 +228,11 @@ Examples of these legitimate interests include:
   * Completion of corporate transactions
 
 
-  *  **Other Processing Grounds:** From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
+  * **Other Processing Grounds:** From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
 
 
 
- **How and With Whom Do We Share Your Data?**   We share Personal Data with vendors, third party service providers and agents who work on our behalf and provide us with services related to the purposes described in this Privacy Policy or our Terms of Service. These parties include:
+**How and With Whom Do We Share Your Data?**   We share Personal Data with vendors, third party service providers and agents who work on our behalf and provide us with services related to the purposes described in this Privacy Policy or our Terms of Service. These parties include:
 
   * Payment processors
   * Fraud prevention service providers
@@ -260,34 +264,34 @@ We also share information with third parties when you give us consent to do so.
 
 Last, we share Personal Data with our affiliates or other members of our corporate family. Furthermore, if we choose to buy or sell assets, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party, and we would share Personal Data with the party that is acquiring our assets. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
 
- **How Long Do We Retain Your Personal Data?** **  **We retain Personal Data about you for as long as you have an open account with us or as otherwise necessary to provide you Services.  In some cases we retain Personal Data for longer, if doing so is necessary to comply with our legal obligations, resolve disputes or collect fees owed, or is otherwise permitted or required by applicable law, rule or regulation. Afterwards, we retain some information in a depersonalized or aggregated form but not in a way that would identify you personally.
+**How Long Do We Retain Your Personal Data?** **  **We retain Personal Data about you for as long as you have an open account with us or as otherwise necessary to provide you Services.  In some cases we retain Personal Data for longer, if doing so is necessary to comply with our legal obligations, resolve disputes or collect fees owed, or is otherwise permitted or required by applicable law, rule or regulation. Afterwards, we retain some information in a depersonalized or aggregated form but not in a way that would identify you personally.
 
- **What Security Measures Do We Use?**   We seek to protect Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. For example, encryption of data at rest and in transit, authentication and authorization to access internal services etc.
+**What Security Measures Do We Use?**   We seek to protect Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. For example, encryption of data at rest and in transit, authentication and authorization to access internal services etc.
 
- **Personal Data of Children** **:   **We do not knowingly collect or solicit Personal Data from anyone under the age of 18.  If you are under 18, please do not attempt to register for the Services or send any Personal Data about yourself to us.  If we learn that we have collected Personal Data from a child under age 18, we will delete that information as quickly as possible. If you believe that a child under 18 may have provided us Personal Data, please contact us at [privacy@letslinc.com](mailto:privacy@letslinc.com).
+**Personal Data of Children** **:   **We do not knowingly collect or solicit Personal Data from anyone under the age of 18.  If you are under 18, please do not attempt to register for the Services or send any Personal Data about yourself to us.  If we learn that we have collected Personal Data from a child under age 18, we will delete that information as quickly as possible. If you believe that a child under 18 may have provided us Personal Data, please contact us at [privacy@letslinc.com](mailto:privacy@letslinc.com).
 
- **What Rights Do You Have Regarding Your Personal Data?**   You have certain rights with respect to your Personal Data, including those set forth below.  For more information about these rights, or to submit a request, please email at [privacy@letslinc.com](mailto:privacy@letslinc.com). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision.  In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.
+**What Rights Do You Have Regarding Your Personal Data?**   You have certain rights with respect to your Personal Data, including those set forth below.  For more information about these rights, or to submit a request, please email at [privacy@letslinc.com](mailto:privacy@letslinc.com). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision.  In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.
 
-  *  **Access** : You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access your Personal Data by simply emailing us at [privacy@letslinc.com](mailto:privacy@letslinc.com).
-  *  **Rectification** : If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can correct some of this information directly by simply emailing us at [privacy@letslinc.com](mailto:privacy@letslinc.com).
-  *  **Erasure** : You can request that we erase some or all of your Personal Data from our systems.
-  *  **Withdrawal of Consent** : If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services.
-  *  **Portability** : You can ask for a copy of your Personal Data in a machine-readable format.  You can also request that we transmit the data to another controller where technically feasible.
-  *  **Objection** : You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes.
-  *  **Restriction of Processing** : You can ask us to restrict further processing of your Personal Data.
-  *  **Right to File Complaint** : You have the right to lodge a complaint about Company’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. If Linc Global does not resolve your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
+  * **Access** : You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access your Personal Data by simply emailing us at [privacy@letslinc.com](mailto:privacy@letslinc.com).
+  * **Rectification** : If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can correct some of this information directly by simply emailing us at [privacy@letslinc.com](mailto:privacy@letslinc.com).
+  * **Erasure** : You can request that we erase some or all of your Personal Data from our systems.
+  * **Withdrawal of Consent** : If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services.
+  * **Portability** : You can ask for a copy of your Personal Data in a machine-readable format.  You can also request that we transmit the data to another controller where technically feasible.
+  * **Objection** : You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes.
+  * **Restriction of Processing** : You can ask us to restrict further processing of your Personal Data.
+  * **Right to File Complaint** : You have the right to lodge a complaint about Company’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. If Linc Global does not resolve your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
 
 
 
- ** _Transfers of Personal Data_** **:** The Services are hosted and operated in the United States (“U.S.”) through Company and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S.
+**_Transfers of Personal Data_** **:** The Services are hosted and operated in the United States (“U.S.”) through Company and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S.
 
 not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Linc in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S.
 
- ** _Privacy Shield_** **:  **Linc Global, Inc complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework ([see Linc’s Certification here](https://www.privacyshield.gov/participant?id=a2zt00000008UVPAA2&status=Active)) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Linc Global, Inc has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit  _[https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)_.
+**_Privacy Shield_** **:  **Linc Global, Inc complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework ([see Linc’s Certification here](https://www.privacyshield.gov/participant?id=a2zt00000008UVPAA2&status=Active)) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Linc Global, Inc has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit  _[https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)_.
 
- **U.S. Federal Trade Commission enforcement:** Linc Inc.’s commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission or the applicable United States authorized statutory body.
+**U.S. Federal Trade Commission enforcement:** Linc Inc.’s commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission or the applicable United States authorized statutory body.
 
- **What If You Have Questions Regarding Your Personal Data?**   If you have any questions about this section or our data practices generally, please contact us using the following information:
+**What If You Have Questions Regarding Your Personal Data?**   If you have any questions about this section or our data practices generally, please contact us using the following information:
 
 #### Designated Representative and Contact Information:
 
