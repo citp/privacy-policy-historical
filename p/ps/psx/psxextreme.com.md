@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709221830id_/https%3A//psxextreme.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701110153id_/https%3A//psxextreme.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PSX Extreme
 
