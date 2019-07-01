@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healtheagle.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528201924id_/http%3A//www.pekupublications.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healtheagle.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701201422id_/http%3A//www.pekupublications.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | PeKu Publications
+# Privacy Policy « PeKu Publications
 
 **PEKU PUBLICATIONS, LLC. PRIVACY POLICY**
 
