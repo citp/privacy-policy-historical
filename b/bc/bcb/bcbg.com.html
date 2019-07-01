@@ -1,7 +1,15 @@
-<!--The following is the downloaded HTML source of the bcbg.com privacy policy that was archived on 2018-08-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180825235739id_/https%3A//www.bcbg.com/en/cs-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcbg.com privacy policy that was archived on 2019-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190701191909id_/https%3A//www.bcbg.com/en/cs-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+
+
+
+
+
+
+
+
 
 
 
@@ -98,11 +106,9 @@
 <meta name="country" content="US">
 
 
-<title>
 
-Privacy &amp; Security
+<title>Privacy &amp; Security | BCBG.com</title>
 
-</title>
 
 <link href="/on/demandware.static/Sites-BCBG-Site/-/default/dw77a1ad05/images/favicon.ico" rel="shortcut icon">
 
@@ -115,6 +121,14 @@ Privacy &amp; Security
 
 
 	
+
+
+
+
+
+
+
+
 
 
 
@@ -251,10 +265,10 @@ Privacy &amp; Security
 
 
 
-<link href="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/js/lib/html5.js"></script>
 <![endif]-->
 <!-- MyBuys Header -->
 
@@ -294,7 +308,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -340,6 +360,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -373,7 +420,7 @@ CQuotient.getCQUserId = function () {
 	}
 	
 	var _shoprunner_com = new Object();
-  	_shoprunner_com.enabled = true;
+  	_shoprunner_com.enabled = false;
 	_shoprunner_com.retailerID = "BCBG";
     _shoprunner_com.loginValidationURL = "https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/ShopRunner-ValidateToken";
  	_shoprunner_com.environmentID = 2;
@@ -392,8 +439,8 @@ CQuotient.getCQUserId = function () {
 	_shoprunner_com.checkout.mixedCart = "downgrade";
 </script>
 
-<script type="text/javascript" src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/js/shoprunner_init.js"></script>
-<script type="text/javascript" src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/js/pr_functions.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/js/shoprunner_init.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/js/pr_functions.js"></script>
 
 
 
@@ -401,10 +448,10 @@ CQuotient.getCQUserId = function () {
 var storebrand = 'BCBGMAXAZRIA';
 </script>
 <!-- UI -->
-<link rel="stylesheet" href="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/css/style.css">
 <script type="text/javascript" src="//fast.fonts.net/jsapi/074a8b4c-0fa5-4e5e-97b4-aab980710542.js"></script>
-<link rel="stylesheet" href="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/css/magiczoomplus.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/css/chosen.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/css/magiczoomplus.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/css/chosen.min.css">
 
 
 
@@ -477,95 +524,82 @@ window.location.reload();
 
 
 <style type="text/css">
-	.header-banner {
-	  /*background:#000;*/
-	  background:#a01c41;
-	}
-	.header-banner a {
-		color: #FFF;
-			}
-	#header-banner-slot {
-		position: relative;
-		overflow: hidden;
-	}
-	.promo-slides {
-		font-family: "HelveticaNeueETW01-55Rg";
-		font-size: 14px;
-		text-transform:capitalize;
-	}
+    .header-banner {
+      background:#c8b3ab;
+    }
+    .header-banner a {
+        color: #FFF;
+    }
+    #header-banner-slot {
+        position: relative;
+        overflow: hidden;
+    }
+    .promo-slides {
+        font-family: "HelveticaNeueETW01-55Rg";
+        font-size: 14px;
+        text-transform:capitalize;
+    }
 </style>
 
 <div id="header-banner-slot">
   <ul class="promo-slides">
 
      <!-- Slide 1-->
-	<!--<li class="slide">
-	      <span class="details">
-	        <a href="#ECOM-4605" class="tip modal">
-	            Extra 40% Off Sale!* |
-	        </a>
-	      </span>
-	      <span>
-	        <a href="https://www.bcbg.com/en/sale/" onClick="ga('tealium_0.send', 'event', 'TICKER', 'Click', 'SLIDE-4605');" class="slide_link">
-	             Shop Now
-	        </a>
-	      </span>
-	  </li>	-->
+    <li class="slide">
+          <span class="details">
+            <a href="#ECOM-5543" class="tip modal">
+                Take 30% Off Entire Purchase!* |
+            </a>
+          </span>
+          <span>
+            <a href="https://www.bcbg.com/en/what%27s-new/top-sellers/" onclick="ga('tealium_0.send', 'event', 'TICKER', 'Click', 'SLIDE1-5543');" class="slide_link">
+                 Shop Now
+            </a>
+          </span>
+      </li> 
        <!-- End Slide 1-->
 
-     <!-- Slide 1-->
-	<li class="slide">
-	      <span class="details">
-	        <a href="#ECOM-4665" class="tip modal">
-	            Extra 40% Off All Factory Styles* |
-	        </a>
-	      </span>
-	      <span>
-	        <a href="https://www.bcbg.com/en/factory/view-all/" onclick="ga('tealium_0.send', 'event', 'TICKER', 'Click', 'SLIDE-4665');" class="slide_link">
-	             Shop Now
-	        </a>
-	      </span>
-	  </li>	
-       <!-- End Slide 1-->
-
-  <!-- Slide 2-->
+    <!-- Slide 2 -->
     <li class="slide">
       <span>
         <a href="#dialog1" class="tip modal">
-            Free Worldwide Shipping
+            FREE U.S. SHIPPING ON ORDERS $100+
         </a>
       </span>
+
       <span class="details">
         <a href="#dialog1" class="tip modal">
             *Details
         </a>
       </span>
     </li>
-     <!-- End Slide 2-->
-
+    <!-- End Slide 2 -->
   </ul>
 </div>
 
-<div id="ECOM-4605" style="display:none;">
-  <p><b>Extra 40% Off Sale!*</b></p>
-  <p>*Offer valid on markdown merchandise online at www.bcbg.com/en/sale/ and in select BCBGMAXAZRIA locations through 11:59 P.M. PT on September 3, 2018. Valid on orders shipping within the U.S., Canada and select countries. Offer excludes gift cards, BCBGMAXAZRIA Factory locations, full-price and Factory merchandise. Discount taken at checkout. Taxes, shipping and handling fees are excluded from any discount. Cannot be combined with some coupons and offers. All items marked "final sale" cannot be returned or exchanged. Merchandise purchased online is not returnable in stores. Additional exclusions may apply. GBG-BCBG Retail LLC reserves the right to modify or cancel this promotion at any time without notice.</p>
-</div>
-
-<div id="ECOM-4665" style="display:none;">
-  <p><b>Extra 40% Off All Factory Styles*</b></p>
-  <p>*Offer valid on Factory merchandise online at www.bcbg.com/en/factory/view-all/ and in select BCBGMAXAZRIA Factory locations through 11:59 P.M. PT on September 3, 2018. Valid on orders shipping within the U.S., Canada and select countries. Offer excludes gift cards and BCBGMAXAZRIA locations both online and in stores. Discount taken at checkout. Taxes, shipping and handling fees are excluded from any discount. Cannot be combined with some coupons and offers. All items marked "final sale" cannot be returned or exchanged. Merchandise purchased online is not returnable in stores. Additional exclusions may apply. GBG-BCBG Retail LLC reserves the right to modify or cancel this promotion at any time without notice.</p>
+</div><div id="ECOM-5543" style="display:none;">
+  <p><b>Take 30% Off Entire Purchase!*</b></p>
+  <p>*Offer valid online at&nbsp;www.bcbg.com and in select BCBGMAXAZRIA locations through 11:59 P.M. PT on July 7, 2019. Valid on orders shipping within the U.S., Canada and select countries.&nbsp;Offer excludes gift&nbsp;cards, select full-price, BCBGMAXAZRIA Factory locations, and clearance.&nbsp;Discount taken at checkout. Taxes, shipping and handling fees are excluded from any discount. Cannot be combined with some coupons and offers. All items marked "final sale" cannot be returned or exchanged. Merchandise purchased online is not returnable in stores. Additional exclusions may apply. Centric-BCBG Retail LLC reserves the right to modify or cancel this promotion at any time without notice.</p>
 </div>
 
 <div id="dialog1" style="display:none;">
-   <p><b>FREE WORLDWIDE SHIPPING*</b></p>
-   <p>*Offer valid through 11:59 P.M. PST on December 31, 2018, only on www.BCBG.com. This free shipping with order is good for standard shipping to the first shipping address in your online order. No order minimums in the US; <strong>international order minimums may apply</strong>. If you choose rush shipping, additional charges may apply. This offer is not applicable to previous purchases. Offer is non-transferable to any other purchases without consent from BCBGMAXAZRIA. This offer is valid only for online purchases from www.bcbg.com. Not valid at BCBGMAXAZRIA retail stores or brand apparel sold at department stores. This offer is subject to change without notice.</p>
+   <p><b>FREE U.S. STANDARD SHIPPING ON ORDERS $100+</b></p>
+   <p>†Free U.S. standard shipping with any purchase of $100 or more on www.bcbg.com. Not valid on previous purchases. Click <a href="https://www.bcbg.com/en/cs-shipping.html" onclick="ga('tealium_0.send', 'event', 'HP', 'Click','SLIDE1-TICKER-SHIPPING');" class="banner_link">here</a> for details.</p>
 </div>
 
 
  
 	
-</div>
+
 <div id="wrapper" class="pt_content">
+
+
+
+
+
+
+
+
 
 
 
@@ -929,6 +963,14 @@ window.location.reload();
 
 
 
+
+
+
+
+
+
+
+
 <!-- Report any requested source code -->
 
 <!-- Report the active source code -->
@@ -959,6 +1001,14 @@ window.location.reload();
 <div class="mobile-nav-top">
 <img src="/on/demandware.static/Sites-BCBG-Site/-/default/dwbe5a9e13/images/icon_close.svg" alt="close navigation" class="close">
 </div>
+
+
+
+
+
+
+
+
 
 
 
@@ -1087,7 +1137,7 @@ What's New
 
 <!-- cat1 -->
 <li>
-<a href="https://www.bcbg.com/en/what%27s-new/new-arrivals/" data-cat-name="New Arrivals">
+<a href="https://www.bcbg.com/en/what%27s-new/new-arrivals-2/" data-cat-name="New Arrivals">
 New Arrivals
 </a>
 </li>
@@ -1121,13 +1171,14 @@ Top Sellers
 
 <ul>
        <li class="subminititle">Shops</li>
-	 <li><a href="https://www.bcbg.com/en/shop-fallpreview/">Fall Preview</a></li>
-	 <li><a href="https://www.bcbg.com/en/trending-color/">The Golden Hour</a></li>
-	 <li><a href="https://www.bcbg.com/en/trend/">Prep's Cool</a></li>
-	 <li><a href="https://www.bcbg.com/en/shop-kates-picks/">Kate's Picks</a></li>
-	 <li><a href="https://www.bcbg.com/en/prints/">In Bloom</a></li>
-	 <li><a href="https://www.bcbg.com/en/shop-metallic/">All that Glitters</a></li>
+	 <li><a href="https://www.bcbg.com/en/shop-white/">Best and Brightest</a></li>
+	 <li><a href="https://www.bcbg.com/en/trend/">Roman Holiday</a></li>
+	 <li><a href="https://www.bcbg.com/en/prints/">Rose Print</a></li>
+	 <li><a href="https://www.bcbg.com/en/shop-stripes/">Play It Straight</a></li>
+	 <li><a href="https://www.bcbg.com/en/shop-instagram/">Shop Our Instagram</a></li>
+	 <li><a href="https://www.bcbg.com/en/shop-vacation/">The Getaway Guide</a></li>
 </ul>
+
 
  
 	
@@ -1143,11 +1194,11 @@ Top Sellers
 
 
 
-<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/trend/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw243d00d9/images/2018/contentasset/08aug/4171_BCBG_MEGANAV_NEW_ARRIVALS_425x350_2.jpg" alt="Shop Top Sellers" style="width:100%; max-height:310px;"></a>
-<span>Shop Prep's Cool</span></div>
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/shop-vacation/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw0c1f1bbd/images/2019/contentasset/06jun/5547_BCBG_MEGANAV_425x350_NA_2.jpg" alt="Shop What's New" style="width:100%; max-height:310px;"></a>
+<span>Shop For Your Getaway</span></div>
 
-<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/trending-color/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dwe960df2c/images/2018/contentasset/08aug/4171_BCBG_MEGANAV_NEW_ARRIVALS_425x350_1.jpg" alt="Shop Painted Desert" style="width:100%; max-height:310px;"></a>
-<span>Shop The Golden Hour</span>
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/what%27s-new/new-arrivals-2/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw6214432c/images/2019/contentasset/06jun/5547_BCBG_MEGANAV_425x350_NA_1.jpg" alt="Shop Swim" style="width:100%; max-height:310px;"></a>
+<span>See What’s New</span>
 </div>
 
 
@@ -1178,7 +1229,7 @@ Dresses
 
 
 
-<div class="level-2 columns-1">
+<div class="level-2 columns-2">
 <div class="menu-wrapper">
 <ul>
 <li class="subminititle">Categories</li>
@@ -1210,16 +1261,6 @@ Casual
 
 <!-- cat1 -->
 <li>
-<a href="https://www.bcbg.com/en/dresses/work/" data-cat-name="Work">
-Work
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
-<li>
 <a href="https://www.bcbg.com/en/dresses/cocktail/" data-cat-name="Cocktail">
 Cocktail
 </a>
@@ -1238,14 +1279,25 @@ Gowns
 
 
 
-<!-- cat1 -->
+
+
+
+
+
 <li>
-<a href="https://www.bcbg.com/en/bcbgirls-dresses/" data-cat-name="BCBGirls Dresses">
-BCBGirls Dresses
+<a href="https://www.bcbg.com/en/dresses/mini/" data-cat-name="Mini">
+Mini
 </a>
 </li>
 
 
+
+
+<li>
+<a href="https://www.bcbg.com/en/dresses/jumpsuits-and-rompers/" data-cat-name="Jumpsuits and Rompers">
+Jumpsuits and Rompers
+</a>
+</li>
 
 
 
@@ -1264,11 +1316,11 @@ BCBGirls Dresses
 
 <ul>
   <li class="subminititle">Shops</li>
-  <li><a href="https://www.bcbg.com/en/black-dresses/">Little Black Dresses</a></li>
-  <li><a href="https://www.bcbg.com/en/white-dresses/">Little White Dresses</a></li>
-  <li><a href="https://www.bcbg.com/en/special-occasion/">Special Occasion</a></li>
-  <li><a href="https://www.bcbg.com/en/bridal-boutique-guestofwedding/">Guest of Wedding</a></li>
+  <li><a href="https://www.bcbg.com/en/special-occasion/">Celebration Shop</a></li>
+  <li><a href="https://www.bcbg.com/en/bridal-boutique-bridal/">For The Bride</a></li>
   <li><a href="https://www.bcbg.com/en/bridal-boutique-bridesmaid/">Bridesmaid</a></li>
+  <li><a href="https://www.bcbg.com/en/bridal-boutique-guestofwedding/">Guest of Wedding</a></li>
+  <!-- <li><a href="https://www.bcbg.com/en/black-dresses/">Little Black Dresses</a></li> -->
 </ul>
 
 
@@ -1286,11 +1338,11 @@ BCBGirls Dresses
 
 
 
-<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/dresses/work/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw9fd83db0/images/2018/contentasset/08aug/4171_BCBG_MEGANAV_DRESSES_425x350_2.jpg" alt="Shop Casual" style="width:100%; max-height:310px;"></a>
-<span>Shop Work Dresses</span></div>
-
-<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/dresses/cocktail/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw46a13180/images/2018/contentasset/08aug/4171_BCBG_MEGANAV_DRESSES_425x350_1.jpg" alt="Shop Gowns" style="width:100%; max-height:310px;"></a>
-<span>Shop Cocktail</span>
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/dresses/cocktail/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw8ffaeaa5/images/2019/contentasset/06jun/5547_BCBG_MEGANAV_425x350_DRESSES_2.jpg" alt="Shop Dresses" style="width:100%; max-height:310px;"></a>
+<span>Shop Cocktail Dresses</span>
+</div>
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/dresses/casual/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw7abb9481/images/2019/contentasset/06jun/5547_BCBG_MEGANAV_425x350_DRESSES_1.jpg" alt="Shop Dresses" style="width:100%; max-height:310px;"></a>
+<span>Shop Casual</span>
 </div>
 
 
@@ -1353,8 +1405,8 @@ Tops
 
 <!-- cat1 -->
 <li>
-<a href="https://www.bcbg.com/en/clothing/jumpsuits-and-rompers/" data-cat-name="Jumpsuits and Rompers">
-Jumpsuits and Rompers
+<a href="https://www.bcbg.com/en/clothing/pants/" data-cat-name="Pants">
+Pants
 </a>
 </li>
 
@@ -1363,8 +1415,8 @@ Jumpsuits and Rompers
 
 <!-- cat1 -->
 <li>
-<a href="https://www.bcbg.com/en/clothing/bottoms/" data-cat-name="Bottoms">
-Bottoms
+<a href="https://www.bcbg.com/en/clothing/shorts/" data-cat-name="Shorts">
+Shorts
 </a>
 </li>
 
@@ -1383,8 +1435,8 @@ Skirts
 
 <!-- cat1 -->
 <li>
-<a href="https://www.bcbg.com/en/clothing/sweaters-and-cardigans/" data-cat-name="Sweaters and Cardigans">
-Sweaters and Cardigans
+<a href="https://www.bcbg.com/en/clothing/jumpsuits-and-rompers/" data-cat-name="Jumpsuits and Rompers">
+Jumpsuits and Rompers
 </a>
 </li>
 
@@ -1393,8 +1445,8 @@ Sweaters and Cardigans
 
 <!-- cat1 -->
 <li>
-<a href="https://www.bcbg.com/en/jackets/" data-cat-name="Jackets">
-Jackets
+<a href="https://www.bcbg.com/en/jackets/" data-cat-name="Jackets and Outerwear">
+Jackets and Outerwear
 </a>
 </li>
 
@@ -1417,7 +1469,8 @@ Jackets
 
 <ul>
        <li class="subminititle">Shops</li>
-  <li><a href="https://www.bcbg.com/en/clothing/matching-sets/">Matching Sets</a></li>
+  <li><a href="https://www.bcbg.com/en/clothing/denim/">Denim</a></li>
+  <li><a href="https://www.bcbg.com/en/clothing/two-piece-outfits/">Two-Piece Outfits</a></li>
   <li><a href="https://www.bcbg.com/en/clothing-workwear/">Workwear</a></li>
   <li><a href="https://www.bcbg.com/en/essentials/">Essentials</a></li>
 </ul>
@@ -1437,11 +1490,11 @@ Jackets
 
 
 
-<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/clothing/bottoms/jeans/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw6a27a09c/images/2018/contentasset/08aug/4171_BCBG_MEGANAV_CLOTHING_425x350_2.jpg" alt="Shop Clothing." style="width:100%; max-height:310px;"></a>
-<span>Shop Denim</span>
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/clothing/shorts/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw715e34b5/images/2019/contentasset/06jun/5547_BCBG_MEGANAV_425x350_CLOTHING_2.jpg" alt="Shop Clothing" style="width:100%; max-height:310px;"></a>
+<span>Shop Shorts</span>
 </div>
-<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/shop-kates-picks/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dwce716764/images/2018/contentasset/08aug/4171_BCBG_MEGANAV_CLOTHING_425x350_1.jpg" alt="Shop Essentials" style="width:100%; max-height:310px;"></a>
-<span>Shop Kate's Picks</span>
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/clothing/tops/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw53ce2e4d/images/2019/contentasset/06jun/5547_BCBG_MEGANAV_425x350_CLOTHING_1.jpg" alt="Shop Clothing" style="width:100%; max-height:310px;"></a>
+<span>Shop Tops</span>
 </div>
 
 
@@ -1512,8 +1565,8 @@ All Shoes
 
 
 
-<div class="megamenu-image larger-image"><a href="https://www.bcbg.com/en/view-all-shoes/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dwffd24645/images/2018/contentasset/08aug/4171_BCBG_MEGANAV_SHOES_648x350.jpg" alt="Shop Shoes." style="max-height:310px;"></a>
-<span>Shop Shoes</span>
+<div class="megamenu-image larger-image"><a href="https://www.bcbg.com/en/view-all-shoes/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw2634dd20/images/2019/contentasset/06jun/5510_BCBG_MEGANAV_648x350_SHOES.jpg" alt="Shop Shoes." style="max-height:310px;"></a>
+<span>Shop All Shoes</span>
 </div>
 
 
@@ -1554,7 +1607,7 @@ Accessories
 
 
 
-<!-- cat1 -->
+
 <li>
 <a href="https://www.bcbg.com/en/view-all-accessories/" data-cat-name="All Accessories">
 All Accessories
@@ -1564,37 +1617,6 @@ All Accessories
 
 
 
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/accessories/jewelry/" data-cat-name="Jewelry">
-Jewelry
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/accessories/shoulder-bags-and-clutches/" data-cat-name="Shoulder Bags &amp; Clutches">
-Shoulder Bags &amp; Clutches
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/accessories/belts/" data-cat-name="Belts">
-Belts
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
 <li>
 <a href="https://www.bcbg.com/en/accessories/sunglasses/" data-cat-name="Sunglasses">
 Sunglasses
@@ -1604,7 +1626,33 @@ Sunglasses
 
 
 
-<!-- cat1 -->
+<li>
+<a href="https://www.bcbg.com/en/accessories/watches-and-jewelry/" data-cat-name="Watches &amp; Jewelry">
+Watches &amp; Jewelry
+</a>
+</li>
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/accessories/bags-and-clutches/" data-cat-name="Bags &amp; Clutches">
+Bags &amp; Clutches
+</a>
+</li>
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/accessories/belts/" data-cat-name="Belts">
+Belts
+</a>
+</li>
+
+
+
+
 <li>
 <a href="https://www.bcbg.com/en/accessories/hats-and-scarves/" data-cat-name="Hats and Scarves">
 Hats and Scarves
@@ -1612,6 +1660,13 @@ Hats and Scarves
 </li>
 
 
+
+
+<li>
+<a href="https://www.bcbg.com/en/accessories/optical/" data-cat-name="Optical">
+Optical
+</a>
+</li>
 
 
 
@@ -1634,8 +1689,141 @@ Hats and Scarves
 
 
 
-<div class="megamenu-image larger-image"><a href="https://www.bcbg.com/en/accessories/shoulder-bags-and-clutches/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw9ca7c4ae/images/2018/contentasset/06jun/3916_BCBG_MEGANAV_648x350_Accessories.jpg" alt="Shop Accessories." style="max-height:310px;"></a>
-<span>Shop Bags</span>
+<div class="megamenu-image larger-image"><a href="https://www.bcbg.com/en/view-all-accessories/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw26eb090a/images/2019/contentasset/06jun/5510_BCBG_MEGANAV_648x350_ACC.jpg" alt="Shop Accessories." style="max-height:310px;"></a>
+<span>Shop All Accessories</span>
+</div>
+
+
+ 
+	
+</div>
+</div><!-- menu-wrapper -->
+</div><!-- level 2 -->
+
+
+</li>
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/shop-all-girls/" aria-haspopup="true">
+Girls
+</a>
+<i class="menu-item-toggle fa fa-angle-right"></i>
+
+
+
+
+
+
+
+
+
+
+
+<div class="level-2 columns-1">
+<div class="menu-wrapper">
+<ul>
+<li class="subminititle">Categories</li>
+
+
+
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/shop-all-girls/" data-cat-name="All Girls">
+All Girls
+</a>
+</li>
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/shop-infant/" data-cat-name="Infant: 12M - 24M">
+Infant: 12M - 24M
+</a>
+</li>
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/shop-toddler/" data-cat-name="Toddler: 2T - 6X">
+Toddler: 2T - 6X
+</a>
+</li>
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/shop-girls/" data-cat-name="Girls: 7 - 16">
+Girls: 7 - 16
+</a>
+</li>
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/girls/shoes/" data-cat-name="Shoes">
+Shoes
+</a>
+</li>
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/shop-girls-sale/" data-cat-name="Sale">
+Sale
+</a>
+</li>
+
+
+
+</ul>
+
+<div class="trend-links">
+
+	 
+
+
+	
+
+
+
+
+
+<ul class="level-2">
+  <li class="subminititle">Shops</li>
+  <li><a href="https://www.bcbg.com/en/girls/new-arrivals/">New Arrivals</a></li>
+  <li><a href="https://www.bcbg.com/en/girls/best-sellers/">Best Sellers</a></li>
+</ul>
+
+
+ 
+	
+</div>
+<div class="image-links">
+
+	 
+
+
+	
+
+
+
+
+
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/girls/best-sellers/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw3635832e/images/2019/contentasset/06jun/5510_BCBG_MEGANAV_425x350_GIRLS_2.jpg" alt="Shop Girls" style="width:100%; max-height:310px;"></a>
+<span>Shop Girls' Best Sellers</span></div>
+
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/shop-infant/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw46259ff7/images/2019/contentasset/06jun/5510_BCBG_MEGANAV_425x350_GIRLS_1.jpg" alt="Shop Girls" style="width:100%; max-height:310px;"></a>
+<span>Shop Infants</span>
 </div>
 
 
@@ -1708,6 +1896,16 @@ Dresses
 
 <!-- cat1 -->
 <li>
+<a href="https://www.bcbg.com/en/sale/swim/" data-cat-name="Swim">
+Swim
+</a>
+</li>
+
+
+
+
+<!-- cat1 -->
+<li>
 <a href="https://www.bcbg.com/en/sale/clothing/" data-cat-name="Clothing">
 Clothing
 </a>
@@ -1742,8 +1940,17 @@ Accessories
 
 
 <li>
-<a href="https://www.bcbg.com/en/sale/deeper-markdowns/" data-cat-name="Deeper Markdowns">
-Deeper Markdowns
+<a href="https://www.bcbg.com/en/shop-girls-sale/" data-cat-name="Girls">
+Girls
+</a>
+</li>
+
+
+
+
+<li>
+<a href="https://www.bcbg.com/en/sale/clearance/" data-cat-name="Clearance">
+Clearance
 </a>
 </li>
 
@@ -1785,10 +1992,10 @@ Deeper Markdowns
 
 
 
-<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/sale/dresses/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw5762ec4c/images/2018/contentasset/08aug/4097_BCBG_MEGANAV_425x350_SALE_2.jpg" alt="Shop Sale Dresses" style="width:100%; max-height:310px;"></a>
-<span>Shop Sale Dresses</span>
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/sale/clearance/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw41f80522/images/2019/contentasset/06jun/5547_BCBG_MEGANAV_425x350_SALE_2.jpg" alt="Shop Sale" style="width:100%; max-height:310px;"></a>
+<span>Shop Clearance</span>
 </div>
-<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/new-markdowns/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw6ebae7dd/images/2018/contentasset/08aug/4097_BCBG_MEGANAV_425x350_SALE_1.jpg" alt="Shop New To Sale" style="width:100%; max-height:310px;"></a>
+<div class="megamenu-image smaller-image"><a href="https://www.bcbg.com/en/new-markdowns/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw528e1994/images/2019/contentasset/06jun/5547_BCBG_MEGANAV_425x350_SALE_1.jpg" alt="Shop Sale" style="width:100%; max-height:310px;"></a>
 <span>Shop New To Sale</span>
 </div>
 
@@ -1805,96 +2012,68 @@ Deeper Markdowns
 
 
 <li>
-<a href="https://www.bcbg.com/en/factory/view-all/" aria-haspopup="true">
-Factory
+<a href="/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-world-of-bcbg">
+World Of BCBG 
 </a>
 <i class="menu-item-toggle fa fa-angle-right"></i>
 
 
 
+<div class="level-2 columns-0">
+	<div class="menu-wrapper">
+		<ul>
+			
+	           <li class="folder-content">
+		           <a href="/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-june19" title="June 2019 Editorial">
+		               June 2019 Editorial
+		           </a>
+		        </li>
+	        
+	           <li class="folder-content">
+		           <a href="/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-may19" title="May 2019 Editorial">
+		               May 2019 Editorial
+		           </a>
+		        </li>
+	        
+	           <li class="folder-content">
+		           <a href="/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-solarpower" title="April 2019 Editorial">
+		               April 2019 Editorial
+		           </a>
+		        </li>
+	        
+	           <li class="folder-content">
+		           <a href="/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-superbloom" title="March 2019 Editorial">
+		               March 2019 Editorial
+		           </a>
+		        </li>
+	        
+	           <li class="folder-content">
+		           <a href="/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-mar19" title="February 2019 Editorial">
+		               February 2019 Editorial
+		           </a>
+		        </li>
+	        
+	           <li class="folder-content">
+		           <a href="/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-feb19" title="Spring 2019 Campaign">
+		               Spring 2019 Campaign
+		           </a>
+		        </li>
+	        
+	           <li class="folder-content">
+		           <a href="/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-profiles" title="Beyond the Muse">
+		               Beyond the Muse
+		           </a>
+		        </li>
+	        
+		</ul>
+		<div class="trend-links">
+		 
+	 
 
-
-
-
-
-
-
-
-<div class="level-2 columns-1">
-<div class="menu-wrapper">
-<ul>
-<li class="subminititle">Categories</li>
-
-
-
-
-
-
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/factory/view-all/" data-cat-name="View All">
-View All
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/factory-new-arrivals/" data-cat-name="New In Factory">
-New In Factory
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/factory/best-sellers/" data-cat-name="Best Sellers">
-Best Sellers
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/factory-dresses/" data-cat-name="Dresses">
-Dresses
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/factory-clothing/" data-cat-name="Clothing">
-Clothing
-</a>
-</li>
-
-
-
-
-<!-- cat1 -->
-<li>
-<a href="https://www.bcbg.com/en/factory/shoes-and-accessories/" data-cat-name="Shoes &amp; Accessories">
-Shoes &amp; Accessories
-</a>
-</li>
-
-
-
-
-
-</ul>
-
-<div class="trend-links">
-
+	
+			</div>
+			<div class="image-links">
+			
 	 
 
 
@@ -1904,43 +2083,20 @@ Shoes &amp; Accessories
 
 
 
-<ul>
-       <li class="subminititle">Shops</li>
-	 <li><a href="https://www.bcbg.com/en/factory/further-reductions/">Further Reductions</a></li>
-	 <li><a href="https://www.bcbg.com/en/under-80/">Styles Under $80</a></li>
-	 <li><a style="color: red;" href="https://www.bcbg.com/en/factory/clearance/">Clearance</a></li>
-</ul>
-
-
- 
-	
-</div>
-<div class="image-links">
-
-	 
-
-
-	
-
-
-
-
-
-<div class="megamenu-image larger-image"><a href="https://www.bcbg.com/en/factory/clearance/"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dw23afbe8f/images/2018/contentasset/08aug/4171_BCBG_MEGANAV_FAC_648x350.jpg" alt="Shop Factory." style="max-height:310px;"></a>
-<span>Shop Clearance</span>
+<div class="megamenu-image larger-image"><a href="https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Editorial-Page?cid=editorial-june19"><img src="https://www.bcbg.com/on/demandware.static/-/Sites-BCBG-Library/default/dwf145c549/images/2019/contentasset/06jun/BCBG_MEGANAV_5.30_648x350.jpg" alt="World Of BCBG" style="max-height:310px;"></a>
+<span>Shop The Collection</span>
 </div>
 
 
  
 	
-</div>
-</div><!-- menu-wrapper -->
-</div><!-- level 2 -->
+			</div>
+		
+	</div>
+</div>	
 
 
 </li>
-
-
 
 </ul>
 
@@ -2113,12 +2269,13 @@ Customer Service
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bcNBoiaaippb2aaadnXkEetwJe" -->
 <h1 class="content-header">Privacy Policy</h1>
 <div class="guest_services_content">
-<p>GBG-BCBG Retail LLC. ("BCBG") is committed to respecting your privacy and recognizes your need to protect personal information that you share with us on our websites. Our goal is to adhere to the principles set forth in this Privacy Policy, which complies with applicable laws and regulatory standards.</p>
+<p>Centric-BCBG Retail LLC. ("BCBG") is committed to respecting your privacy and recognizes your need to protect personal information that you share with us on our websites. Our goal is to adhere to the principles set forth in this Privacy Policy, which complies with applicable laws and regulatory standards.</p>
 <p>These specific terms apply to the process and the use of personal data collected within the framework of any order placed from countries outside of the United States.</p>
 <p>BCBG has hired Borderfree, Inc. (“Borderfree”) to enable shipping to 100 countries and territories. Please note that International purchases will be subject to Borderfree’s Terms &amp; Conditions and Privacy Policy available through the links below:</p>
 <p>Terms &amp; Conditions: <a href="http://www.Borderfree.com/terms" target="_blank"><u><strong>http://www.Borderfree.com/terms</strong></u></a></p> 
 <p>Privacy Policy: <a href="http://www.Borderfree.com/privacy" target="_blank"><u><strong>http://www.Borderfree.com/privacy</strong></u></a></p>
-<p>For questions regarding shipping outside of the United States, please contact BCBG at <a href="mailto:guestservices@us.bcbg.com"><u>guestservices@us.bcbg.com</u></a> or 877.707.2224 in the United States or 972.421.9851 for International customers, seven days per week, 9:00 A.M. – 9:00 P.M. CT Monday through Friday, and 9:00 A.M. – 6:00 P.M. CT Saturday and Sunday, except when closed in observance of the following holidays: New Year’s Day, Easter Sunday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day.</p>
+<p>For questions regarding shipping outside of the United States, please contact us via email at <a href="mailto:guestservices@us.bcbg.com"><u>guestservices@us.bcbg.com</u></a> or by phone at 1-877-707-2224 within the United States, or 1-972-421-9851 for international customers, Monday through Friday, 9:00 AM – 8:00 PM CT, except when closed in observance of the following holidays: New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day.</p>
+<p>Our Customer Service Chat is also available Monday through Friday, 9:00 AM – 6:00 PM CT (not including holidays).</p>
 <h2>POLICY UPDATES</h2>
 <p>BCBG may update this Privacy Policy from time to time. Whenever we make a change, we will post the updated policy on our websites. We recommend checking this section on our websites frequently to view the latest updates.</p>
 <h2>PERSONAL INFORMATION</h2>
@@ -2178,22 +2335,24 @@ Information uploaded by you is stored for a period of six (6) months after you d
 <h4>Data Choices</h4>
 <p>BCBG provides you with ways in which you can modify your personal information. In order to change such information, please log in to BCBG’s website and go to the "My Account” section and enter any desired changes. Please be aware that even after your request for a change is processed, BCBG may, for a time, retain residual data about you in its backup and/or archival copies of its database.</p>
 <h4>Closing Your Account</h4>
-<p>You can disable your account by contacting BCBG at guestservices@us.bcbg.com or 877.707.2224 in the United States or 972.421.9851 for International customers, seven days per week, 9:00 A.M. – 9:00 P.M. CT Monday through Friday, and 9:00 A.M. – 6:00 P.M. CT Saturday and Sunday, except when closed in observance of the following holidays: New Year’s Day, Easter Sunday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day. If you close your BCBG account, we will remove your name and other personally identifiable data from our publicly viewable database. If you close your account, we have no obligation to retain your data, and may delete any or all of your account data without liability. However, we may retain certain data contributed by you if BCBG believes it may be necessary to prevent fraud or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data. BCBG may also retain and use your data if necessary to provide the services to other users. Similarly, data you have shared with others, or that other users have copied, may also remain visible. BCBG disclaims any liability in relation to the deletion or retention (subject to the terms herein) of data or any obligation not to delete the data.</p> 
+<p>You can disable your account by contacting us via email at <a href="mailto:guestservices@us.bcbg.com"><u>guestservices@us.bcbg.com</u></a> or by phone at 1-877-707-2224 within the United States, or 1-972-421-9851 for international customers, Monday through Friday, 9:00 AM – 8:00 PM CT, except when closed in observance of the following holidays: New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day. If you close your account, we have no obligation to retain your data, and may delete any or all of your account data without liability. However, we may retain certain data contributed by you if BCBG believes it is necessary to prevent fraud or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data. BCBG may also retain and use your data if necessary to provide the services to other users. Similarly, data you have shared with other, or that other users have copied, may also remain visible. BCBG disclaims any liability in relation to the deletion or retention (subject to the terms herein) of data or any obligation not to delete the data.</p> 
 <h4>Right of Access</h4>
 <p>In BCBG’s network, you are entitled to access your personal information and to have it amended, updated or deleted, where such information is incorrect, incomplete or outdated.</p>
 <p>You may exercise this right at any time by sending a request in writing to: <br>
 Legal Department <br>
-GBG-BCBG Retail LLC <br>
+Centric-BCBG Retail LLC <br>
 350 Fifth Avenue <br>
+6th Floor <br>
 New Yok, NY 10118</p>
 <p>BCBG will answer to your request within two (2) months from its receipt, provided that this request is complete, accurate and encloses a stamped envelope with your name and address.</p>
 <p>You may also, on legitimate grounds, object to the processing of your personal information. Such objection may, however, prohibit BCBG from providing the requested service.</p> 
 <h2>CONTACT US</h2>
 <p>If you have any questions regarding this privacy statement, please contact us at:</p>
 <p>Legal Department <br>
-GBG-BCBG Retail LLC <br>
+Centric-BCBG Retail LLC <br>
 350 Fifth Avenue <br>
-New Yok, NY 10118</p>
+6th Floor <br>
+New York, NY 10118</p>
 </div>
 </div> <!-- End content-asset -->
 
@@ -2306,16 +2465,24 @@ New Yok, NY 10118</p>
 
 
 
+
+
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bcXEgiaaiprJYaaadn5QaetwJe" -->
-<p><span class="guest">Customer Service</span></p>
+<p><span class="guest">My Account</span></p>
 
 <ul>
 	<li><a href="https://www.bcbg.com/en/cs-order-tracking-gate.html" title="TRACK YOUR ORDERS">Track Your Orders</a></li>
 	<li><a href="https://www.bcbg.com/en/cs-ordering-payment.html" title="ORDERING">Ordering &amp; Payments</a></li>
 	<li><a href="https://www.bcbg.com/en/cs-shipping.html" title="SHIPPING">Shipping Information</a></li>
-	<li><a href="https://www.bcbg.com/en/cs-returns.html" title="ONLINE RETURNS">Online Returns</a></li>
-	<li><a href="https://www.bcbg.com/en/cs-instore-returns.html" title="INSTORE RETURNS">In-Store Returns</a></li>
-	<li><a href="https://www.bcbg.com/en/cs-corporate.html" title="CORPORATE" target="_blank">Corporate Information</a></li>
+	<li><a href="https://www.bcbg.com/en/cs-returns.html" title="ONLINE RETURNS">Returns</a></li>
+	<!--<li><a href="https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Page-Show?cid=cs-instore-returns" title="INSTORE RETURNS">In-Store Returns</a></li>-->
+	<li><a href="https://www.centricbrands.com/" title="CORPORATE" target="_blank">Corporate Information</a></li>
 	<li><a href="https://www.bcbg.com/en/cs-size-chart.html" title="SIZE CHART">Size Chart</a></li>
 	<li><a href="https://locations.bcbg.com/search.html" target="_blank" title="STORE LOCATOR">Store Locator</a></li>
 	<li><a href="https://www.bcbg.com/en/cs-privacy-policy.html" title="PRIVACY POLICY">Privacy &amp; Security</a></li>
@@ -2335,6 +2502,14 @@ New Yok, NY 10118</p>
 </div>
 </div>
 </div>
+
+
+
+
+
+
+
+
 
 
 
@@ -2458,18 +2633,262 @@ width:75px;
 #footer .socialCol .socialIcons {
 text-align-last: unset;
 }
+
+$boulder: #797979;
+
+.afterpay-checkout-pbi {
+    margin-bottom: 40px;
+    padding-left: 200px;
+
+    ul {
+        list-style-type: none;
+        margin:  20px 0;
+        padding-left: 0;
+
+    }
+
+    li {
+        margin-top: 15px;
+
+        &:last-child {
+            padding-left: 20px;
+        }
+
+        img {
+            padding-right: 9px;
+        }
+    }
+}
+
+.payment-image{
+	height: 18px;
+    width: 97px;
+    padding: 0 0 4px 0;
+}
+
+.afterPayMethodLabel {
+    .afterpay-image {
+
+        @media screen and (max-width: 450px){
+            float: right;
+            padding: 0;
+            width: 75px;
+        }
+        
+        @media screen and (max-width: 750px){
+            float: right;
+            padding: 5px 0 0 10px;
+        }
+    
+        margin: -5px 0;
+        padding-left: 10px;
+        vertical-align: middle;
+        width: 80px;
+    }
+
+    .afterpay-link {
+        display: block;
+        margin: 0 auto;
+        width: 80%;
+
+        @media screen and (min-width: 450px) {
+            display: inline-block;
+            margin: 0;
+            width: 100%;
+        }
+
+        a {
+            &:before {
+                font-size: 10px;
+            }
+        }
+    }
+}
+
+.afterpay-dialog {
+    background: #FFF9F8;
+    padding: 0 0 1em 0 !important;
+
+    .ui-dialog-titlebar-close {
+        z-index: 55;
+    }
+
+    .open-afterpay {
+        margin-top: 28px;
+    }
+}
+
+.cart-afterpay-message {
+   display: block; 
+   font-size: .9em;
+   line-height: 1.5em;
+   padding: 10px 0px;
+   text-align: center;
+   width: 94%;
+   margin: 0 auto;
+}
+
+.product-detail {
+    .product-afterpay-message {
+        .afterpay-link {
+            display: inline-block;
+            padding: 10px 0;
+
+            @media screen and (max-width: 767px){
+                padding: 10px;
+            }
+        }
+
+        @media screen and (max-width: 767px){
+            text-align: center;
+            font-size: 12px;
+
+            .afterpay-link a {
+                &:before {
+                    font-size: 10px;
+                }
+            }
+        }
+    }
+}
+
+.afterpay-link a {
+  &:before {
+        background: url('../images/learn-more.svg') no-repeat rgb(255, 255, 255);
+        content: "";
+        display: inline-block;
+        height: 16px;
+        width: 16px;
+        vertical-align: middle;
+  }
+}
+
+  
+.terms-content {
+    color: #878787;
+    font-size: 10px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 80%;
+    text-align: center;
+
+    p {
+        margin: 0;
+
+        @media screen and (max-width: 767px){
+            display: inline;
+        }
+    }
+
+    a {
+        @media screen and (max-width: 767px){
+            display: inline;
+        }
+    }
+}
+      
+.copy-rights {
+    text-align: center; }
+
+.open-afterpay {
+    text-align: center;
+
+    picture {
+        width: 100%;
+    }
+}
+
+ .product-afterpay-message {
+    .afterpay-image {
+        vertical-align: middle;
+        width: 80px; 
+    }
+}
+ 
+.loader-image{
+	display: block;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 101;
+	background: 50% 50% no-repeat white;
+	opacity: .8;
+	background: url('../images/Loading_icon.gif') 50% 50% no-repeat rgb(255, 255, 255);
+}
+
+.redirect-text{
+	padding: 80px 36px 80px 100px;
+	font-size: 23px;
+	font-style: italic;
+	margin: 0 auto;
+	float: right;
+}
+
+.notify-message{
+	padding-left: 122px;
+} 
+
+.no-padding {
+    padding: 0;
+}
+
+
 #footer .socialCol .socialIcons a {
 margin-right: 25px;
+}
+.pt_product-search-noresult .primary-content {
+    padding: 0;
+    width: 100%;
 }
 @media screen and (min-width: 768px) {
   #bc-chat-container {
     margin-right: 70px;
   }
 }
+
+@media screen and (max-width: 767px){
+.no-hits-menu ul:nth-child(odd) {
+   width: 43%;
+   float: right;
+}
+}
+
+@media screen and (max-width: 767px){
+h1.sub-join-list {
+    margin: 10px;
+}
+
+p.sub-offers {
+    margin: 10px;
+}
+
+form#MCSubscriptionFormUnsubscribe {
+    margin: 10px;
+}
+.no-hits-menu ul:nth-child(even) {
+   width: 43%;
+   float: left;
+}
+
+.no-hits-message2 {
+    margin: 10px 0 30px 0;
+}
+}
+
 @media screen and (max-width: 767px) {
   .bc-minimize-state {
     position: fixed;
   }
+
+  #navigation .level-1>li>a {
+    width: auto;
+  }
+}
+
+#stickyheader #navigation .level-1>li{
+padding: 0 28px;
 }
 #videoPlaceHolder{
   display:none;
@@ -2556,13 +2975,13 @@ max-width:100%;
 @media screen and (max-width: 1360px) and (max-width: 980px) and (min-width: 768px) {
 
 	.miniHeader #navigation .level-1>li a {
-    	font-size: 0.7em !important;
+    	font-size: 0.6em !important;
 	}
 
 }
 
 .searchOptionsfloating .search-result-options {
-	top: 39px;
+	top: 37px;
 }
 
 @media screen and (max-width: 767px) {
@@ -2624,6 +3043,134 @@ max-width: 820px !important;
 #secondary #category-level-3 {
 margin-left: 10px;
 }
+
+/* Ryan top nav fixes for World of BCBG */
+#stickyheader #navigation .level-1>li {
+    padding: 0 1.5%;
+}
+
+@media screen and (min-width: 768px){
+  #navigation .level-1>li>a {
+    font-size: 0.6.5em !important;
+  }
+
+  #navigation .level-1>li div.level-2 a {
+    font-size: 0.6.5em !important;
+  }
+
+  #navigation .level-1>li div.level-2 ul li.subminititle {
+    font-size: 0.6.5em !important;
+  }
+
+  #navigation .level-1>li div.level-2 .image-links .megamenu-image span {
+    font-size: 0.6.5em !important;
+  }
+}
+
+@media screen and (max-width: 1280px) and (min-width: 768px){
+  .miniHeader #navigation {
+      clear: both;
+  }
+
+  .miniHeader #navigation .level-1 {
+      margin-top: 30px;
+  }
+} 
+
+.pdp-main .review-actions-container .actions-container button{
+  background: #c8b3ab !important;
+}
+
+/* start of site buttons color */
+#footer .socialCol form button, .mini-cart-totals .mini-cart-link-checkout, .cartHolder .cart-footer .cart-coupon-code .toShow button, #onepage button, #onepage_review #onepage_review_content .cart-coupon-code .toShow button {
+  background: #c8b3ab;
+  border: #c8b3ab;
+}
+
+#footer .socialCol form button:hover{
+  background: #666666;
+  border: #666666;
+}
+
+#footer .socialCol form input[type="text"] {
+  border: 1px solid #c8b3ab;
+}
+
+.cartHolder .cart-actions .cart-checkout-button{
+  background: #c8b3ab;
+  border: #c8b3ab;
+}
+
+#onepage button:hover{
+  background: #666666;
+  border: #666666;
+}
+
+.cartHolder .cart-footer .cart-coupon-code .toShow button:hover{
+  background: #666666;
+  border: #666666;
+}
+
+.cartHolder .cart-actions .cart-checkout-button:hover{
+  background: #666666;
+}
+
+.mini-cart-totals .mini-cart-link-checkout:hover {
+  background: #666666;
+  border: #666666;
+}
+
+#srd_h .sr-signup-email-button{
+  background: #c8b3ab;
+}
+
+/* CustomerService-Show */
+.onlinePurchaseContact .contactUsButton, .inStorePurchaseContact .contactUsButton, .pt_account .ordertrackform #dwfrm_ordertrack_findorder, .login-box button, .pt_account form#RegistrationForm .checkoutbuttonhome, #PasswordResetForm button, .requestpasswordreset-confirm-container button {
+  background: #c8b3ab;
+}
+
+.onlinePurchaseContact .contactUsButton:hover, .inStorePurchaseContact .contactUsButton:hover, .pt_account .ordertrackform #dwfrm_ordertrack_findorder:hover, .login-box button:hover, .pt_account form#RegistrationForm .checkoutbuttonhome:hover, #PasswordResetForm button:hover, .requestpasswordreset-confirm-container button:hover, .map-searchbox button:hover {
+  background: #666666;
+}
+
+.bc-input-container.bc-action-input-container input[type="submit"] {
+  background: #c8b3ab !important;
+}
+.bc-input-container.bc-action-input-container input[type="submit"]:hover {
+  background: #666666 !important;
+}
+
+.pt_account .wishlist-find, .pt_account .publicbutton, .pt_account .privatebutton, .pt_account #send-to-friend, .pt_account .continueshopping{
+    background: #c8b3ab;
+}
+
+.pt_account .wishlist-find:hover, .pt_account .publicbutton:hover, .pt_account .privatebutton:hover, .pt_account #send-to-friend:hover, .pt_account .continueshopping:hover  {
+    background: #666666;
+}
+
+.pt_account #addresses .address-create{
+  background: #c8b3ab;
+}
+
+.pt_account #addresses .address-create:hover{
+  background: #666666;
+}
+
+#edit-address-form .apply-button, #edit-address-form .cancel-button{
+  background: #c8b3ab;
+}
+
+#edit-address-form .apply-button:hover, #edit-address-form .cancel-button:hover{
+  background: #666666;
+}
+
+#send-to-friend-main .send-button {
+  background: #c8b3ab;
+}
+#send-to-friend-main .send-button:hover {
+  background: #666666;
+}
+
 /* end of adding hot fixes */
 
 </style>
@@ -2634,6 +3181,7 @@ margin-left: 10px;
 <ul class="hideable">
 	<li><a href="https://www.bcbg.com/en/contactus/">Contact Us</a></li>
 	<li><a href="https://locations.bcbg.com/search.html?utm_source=yext&amp;utm_medium=pages&amp;utm_campaign=storeloc&amp;utm_content=website" target="_blank">Store Locator</a></li>
+	<li><a href="https://www.bcbg.com/en/LP-OPTICAL.html">Optical Locator</a></li>
 	<li><a href="https://www.bcbg.com/en/cs_faq.html">FAQ</a></li>
 	<li><!-- BoldChat Live Chat Button HTML v5.00 (Type=HTML,ChatWindow=BCBG,Department=BCBG,Website=BCBG) -->
 	<div style="white-space: nowrap;"><script type="text/javascript">
@@ -2653,7 +3201,7 @@ margin-left: 10px;
           else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
           else window.attachEvent('onload', bcLoad);
         
-        </script><div id="0.9862430090408376"></div></div>
+        </script><div id="0.07055823505469627"></div></div>
 	<!-- /BoldChat Live Chat Button HTML v5.00 --></li>
 </ul>
 </div>
@@ -2665,7 +3213,7 @@ margin-left: 10px;
 	<li><a class="mobileLink" href="https://www.bcbg.com/en/account/">My Account</a></li>
 	<li><a href="https://www.bcbg.com/en/cs-order-tracking-gate.html">Order Status</a></li>
 	<li><a href="https://www.bcbg.com/en/cs-shipping.html">Shipping Info</a></li>
-	<li><a href="https://www.bcbg.com/en/cs-returns.html">Return Policy</a></li>
+	<li><a href="https://www.bcbg.com/en/cs-returns.html">Returns</a></li>
 </ul>
 </div>
 
@@ -2690,12 +3238,14 @@ margin-left: 10px;
 </div>
 
 <div class="socialCol">
-<h4>Get Insider Access</h4>
+<h4 class="no-icon">Sign up for our emails.</h4>
 
 <form class="email-signup-form">
-<input aria-label="Email Sign Up" id="emailSubscribe" class="email valid" name="es-email-address" placeholder="Email Sign Up" type="text" aria-invalid="false"><button class="mc-subscribe-start" alt="Submit" name="submit" type="submit">JOIN</button></form>
+<input aria-label="Email Sign Up" id="emailSubscribe" class="email valid" name="es-email-address" placeholder="GET INSIDER ACCESS" type="text" aria-invalid="false"><button class="mc-subscribe-start" alt="Submit" name="submit" type="submit">JOIN</button></form>
 
-<h4>Follow #BCBGMAXAZRIA</h4>
+<div class="email-policy-link"><a class="mobileLink" href="https://www.bcbg.com/en/cs-privacy-policy.html">Privacy Policy</a></div>
+
+<h4 class="no-icon">Follow #BCBGMAXAZRIA</h4>
 
 <div class="socialIcons"><a class="instagram" href="http://instagram.com/bcbgmaxazria/" target="_blank">Instagram</a> <!-- a class="twitter" href="http://twitter.com/BCBGMAXAZRIA" target="_blank">Twitter</a --> <a class="facebook" href="https://www.facebook.com/BCBGMAXAZRIA" target="_blank">Facebook</a> <a class="pinterest" href="http://pinterest.com/BCBGMAXAZRIA/" target="_blank">Pinterest</a> <!-- a class="tumblr" href="http://bcbgmaxazria.tumblr.com/" target="_blank">Tumbler</a --> <!-- a class="youtube" href="http://www.youtube.com/user/BCBGMaxAzriaGroup" target="_blank">YouTube</a --> <!-- a class="googleplus" href="https://plus.google.com/109561223746189381996" target="_blank">Google+</a --></div>
 </div>
@@ -2836,6 +3386,14 @@ margin-left: 10px;
 
 
 
+
+
+
+
+
+
+
+
 <!-- /footer -->
 
 
@@ -2871,7 +3429,7 @@ var utag_data = {
   "user_anonymous": "true",
   "user_authenticated": "false",
   "user_registered": "false",
-  "customer_id": "bdI9agdcIz2wH0U2QSN8biRw7f",
+  "customer_id": "abB7SaErnJQ3IOJIEBTNzYnA0d",
   "search_results": "0"
 };
 </script>
@@ -2897,17 +3455,18 @@ var utag_data = {
 
 
 <!-- jQuery -->
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/md5.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/enscroll/enscroll-0.6.1.min.js"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/slick.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/background-check.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/md5.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/enscroll/enscroll-0.6.1.min.js"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/slick.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/background-check.js" type="text/javascript"></script>
+<script src="https://ui.powerreviews.com/stable/4.0/ui.js"></script>
 
 
 
@@ -2917,22 +3476,20 @@ var utag_data = {
 <script type="text/javascript">
 
 (function(){
-window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
+window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","AFTERPAY_PORTAL":"https://portal.afterpay.com/afterpay.js"};
 window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","QUICKVIEW":"Quick View","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please enter a valid phone number including the area code.","INVALID_COUPON":"You must use a valid email address to use this promo code.","INVALID_EMAIL":"Please enter a valid email address","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","ADD_TO_CART_SIZE_FAIL":"Please select a size ","CONTACT_US_QUESTION_FAIL":"Please enter a valid Category","CONTACT_US_COMMENT_FAIL":"Please enter a valid Message","CONTACT_US_FNAME_FAIL":"Please enter a valid First Name","CONTACT_US_LNAME_FAIL":"Please enter a valid List Name","CONTACT_US_EMAIL_FAIL":"Please enter a valid Email","CONTACT_US_PHONE_FAIL":"Please enter a valid Phone","ADD_TO_CART_COLOR_FAIL":"Please select a color","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is ","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card test","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"Sold Out!","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","FOOTER_EMAIL_SIGNUP":"Email Sign Up","ACCOUNT_CONFIRM":"Please confirm your email address.","ACCOUNT_PASSWORD":"Please confirm your password.","ACCOUNT_EMAILEXISTS":"This email address already exists, please try again.","ACCOUNT_EMAILEXISTSPASSWORD":"There is a problem with your email address or password, please try again.","ACCOUNT_GENERALERROR":"Sorry, this does not match our records. Check your spelling and try again.","ACCOUNT_PASSFAIL":"Your password must be at least 6 characters","FORM_REQUIRED":"This field is required.","FOOTER_EMAIL_VALIDATION":"email.signup.validation","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Sold Out!","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-BCBG-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-BCBG-Site/default/Page-Include","continueUrl":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Page-Show/C1742792481","staticPath":"/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/","addGiftCert":"/on/demandware.store/Sites-BCBG-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-BCBG-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-BCBG-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-BCBG-Site/default/Cart-MiniAddProduct","cartShow":"/en/cart/","giftRegAdd":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/PaymentInstruments-List","addressesList":"https://www.bcbg.com/en/addressbook/","wishlistAddress":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Wishlist-SetShippingAddress","wishlistAdd":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Wishlist-Add","deleteAddress":"/on/demandware.store/Sites-BCBG-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-BCBG-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-BCBG-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-BCBG-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-BCBG-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-BCBG-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-BCBG-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-BCBG-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-BCBG-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-BCBG-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-BCBG-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-BCBG-Site/default/COBilling-ResetPaymentForms","compareShow":"/en/compare/","compareAdd":"/on/demandware.store/Sites-BCBG-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-BCBG-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-BCBG-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Cart-AddCouponJson","storeLocatorPage":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-Find","storesInventory":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-Inventory","storesLookup":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-GetZipCode","billing":"/en/billing/","currencyConverter":"/on/demandware.store/Sites-BCBG-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-BCBG-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-BCBG-Site/default/Page-Include?cid=cookie_hint","registerAccount":"https://www.bcbg.com/en/register/","paypalUrl":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/BorderFree-PayPalURL","tealiumProductJson":"/on/demandware.store/Sites-BCBG-Site/default/Tealium-GetProductJson","tealiumGetCustomerID":"/on/demandware.store/Sites-BCBG-Site/default/Tealium-GetCustomerID","shipping":"https://www.bcbg.com/en/shipping/","account":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COCustomer-Start","summary":"https://www.bcbg.com/en/revieworder/","confirmation":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COSummary-ShowConfirmation","onepagesummary":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Checkout-RefreshSummary","removecoupon":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Checkout-RemoveCoupon","headercustomer":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Home-IncludeHeaderCustomerInfo","refreshshipping":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Checkout-RefreshShipping","refreshbilling":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Checkout-RefreshBilling","getProductVariantID":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Product-GetVariants","getSizeChart":"/on/demandware.store/Sites-BCBG-Site/default/SizeChart-Show","mcSubscribeModal":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/MCSubscription-Subscribe","mcSubscribeFooter":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/MCSubscription-SubscribeFooter"};
+window.Urls = {"appResources":"/on/demandware.store/Sites-BCBG-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-BCBG-Site/default/Page-Include","continueUrl":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Page-Show/C1125061146","staticPath":"/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/","addGiftCert":"/on/demandware.store/Sites-BCBG-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-BCBG-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-BCBG-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-BCBG-Site/default/Cart-MiniAddProduct","cartShow":"/en/cart/","giftRegAdd":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/PaymentInstruments-List","addressesList":"https://www.bcbg.com/en/addressbook/","wishlistAddress":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Wishlist-SetShippingAddress","wishlistAdd":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Wishlist-Add","deleteAddress":"/on/demandware.store/Sites-BCBG-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-BCBG-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-BCBG-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-BCBG-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-BCBG-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-BCBG-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-BCBG-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-BCBG-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-BCBG-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-BCBG-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-BCBG-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-BCBG-Site/default/COBilling-ResetPaymentForms","compareShow":"/en/compare/","compareAdd":"/on/demandware.store/Sites-BCBG-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-BCBG-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-BCBG-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Cart-AddCouponJson","storeLocatorPage":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-Find","storesInventory":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-Inventory","storesLookup":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-BCBG-Site/default/StoreInventory-GetZipCode","billing":"/en/billing/","currencyConverter":"/on/demandware.store/Sites-BCBG-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-BCBG-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-BCBG-Site/default/Page-Include?cid=cookie_hint","registerAccount":"https://www.bcbg.com/en/register/","paypalUrl":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/BorderFree-PayPalURL","tealiumProductJson":"/on/demandware.store/Sites-BCBG-Site/default/Tealium-GetProductJson","tealiumGetCustomerID":"/on/demandware.store/Sites-BCBG-Site/default/Tealium-GetCustomerID","shipping":"https://www.bcbg.com/en/shipping/","account":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COCustomer-Start","summary":"https://www.bcbg.com/en/revieworder/","confirmation":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/COSummary-ShowConfirmation","onepagesummary":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Checkout-RefreshSummary","removecoupon":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Checkout-RemoveCoupon","headercustomer":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Home-IncludeHeaderCustomerInfo","refreshshipping":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Checkout-RefreshShipping","refreshbilling":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Checkout-RefreshBilling","getProductVariantID":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/Product-GetVariants","getSizeChart":"/on/demandware.store/Sites-BCBG-Site/default/SizeChart-Show","mcSubscribeModal":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/MCSubscription-Subscribe","mcSubscribeFooter":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/MCSubscription-SubscribeFooter","mcSubscribeInfo":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/MCSubscription-SubscribeInfo","mcSubscribeSubmit":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/MCSubscription-Submit","mcCheckSubscriber":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/MCSubscription-CheckSubscriber","mcUpdateFormInfo":"https://www.bcbg.com/on/demandware.store/Sites-BCBG-Site/default/MCSubscription-UpdateFormInfo"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"STORE_PICKUP":false,"COOKIE_HINT":false};
 window.User = {"zip":null,"storeId":null};
 }());
 </script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/magiczoomplus/magiczoomplus.js"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/modernizer/modernizer.js"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/chosen_v1.5.1/chosen.jquery.min.js"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/stickyfill.min.js"></script>
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/lib/scrollIt.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/magiczoomplus/magiczoomplus.js"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/modernizer/modernizer.js"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/chosen_v1.5.1/chosen.jquery.min.js"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/stickyfill.min.js"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/lib/scrollIt.js" type="text/javascript"></script>
 
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/js/powerreviews.js"></script>
-
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/js/app.js"></script>
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/js/app.js"></script>
 
 
 
@@ -3049,13 +3606,14 @@ $("input[name='dwfrm_billing_paymentMethods_creditCard_number']").click(function
 $("#crediterror").hide();
 });
 </script>
+<script src="https://portal.afterpay.com/afterpay.js" async=""></script>
 <div id="backtotop">
 <span>Back To Top</span>
 </div>
 
 
 
-<script type="text/javascript" src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/js/sr_actions.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/js/sr_actions.js"></script>
 
 
 
@@ -3077,9 +3635,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1535180934639/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-BCBG-Site/-/default/v1561965000136/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
