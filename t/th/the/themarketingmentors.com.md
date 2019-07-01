@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themarketingmentors.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226012843id_/http%3A//themarketingmentors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themarketingmentors.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701225828id_/http%3A//themarketingmentors.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – The Marketing Mentors
 
