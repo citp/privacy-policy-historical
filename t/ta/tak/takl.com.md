@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takl.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306050347id_/https%3A//www.takl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takl.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701035526id_/https%3A//takl.com/privacy-policy) for the most accurate reproduction.*
 
 # Takl | Privacy Policy
 
