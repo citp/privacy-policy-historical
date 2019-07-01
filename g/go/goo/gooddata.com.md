@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gooddata.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330224305id_/https%3A//www.gooddata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooddata.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701101446id_/http%3A//gooddata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoodData
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=635f5042-fba4-42a5-91f1-985a891dbb85 "TRUSTe Privacy")
+[](https://privacy.truste.com/privacy-seal/validation?rid=635f5042-fba4-42a5-91f1-985a891dbb85)
 
 This Privacy Policy applies to [gooddata.com](https://www.gooddata.com/) which is owned and operated by GoodData Corporation (“ **GoodData** ", “ **We** ”, “ **Us** ” or “ **Our** ”). GoodData is committed to protecting the privacy of your personal information.
 
