@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bayareamommy.net privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501120224id_/http%3A//www.bayareamommy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayareamommy.net privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701202449id_/http%3A//www.bayareamommy.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bay Area Mommy
+# Privacy Policy | Bay Area Mommy
 
   
 
