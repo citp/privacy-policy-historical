@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freedompop.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516103815id_/https%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedompop.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701124856id_/https%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Wireless Internet | Free Internet | 4G Wireless Internet - FreedomPop
 
 ## Privacy Policy
 
-**Last Revised: May 24, 2018**
+**Last Revised: June 24, 2019**
 
 This Privacy Policy (" **Policy** ") explains how information about you is collected, used and disclosed by FreedomPop and its subsidiaries and affiliates (" **FreedomPop** ," " **we** " or " **us** "). This Policy applies to all of the websites (including www.freedompop.com) (the " **Site** "), subdomains, products, applications (including mobile applications and applications and pages operated by FreedomPop and available on social networking sites and other platforms and our downloadable products) and services offered by FreedomPop (collectively, the " **Services** "). We value your privacy.
 
@@ -113,7 +113,7 @@ Our company is located in the United States. You may be located in a country tha
 
   17. ### CONTACTING FREEDOMPOP
 
-If you have questions about this Policy, please contact us by visiting our Site, calling us at (888) 743-8107, emailing us at privacy@freedompop.com or by writing to us at: FreedomPop, Inc., Attn: Privacy Matters, 1100 Glendon Ave. Suite 700, Los Angeles, CA 90024
+If you have questions about this Policy, please contact us by visiting our Site, calling us at (888) 743-8107, emailing us at privacy@freedompop.com or by writing to us at: FreedomPop, Inc., Attn: Privacy Matters, 2060D Avenida De Los Arboles Suite 288, Thousand Oaks, CA 91362
 
 
 
