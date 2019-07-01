@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronofhorse.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425114908id_/https%3A//www.chronofhorse.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronofhorse.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702003901id_/https%3A//www.chronofhorse.com/page/privacy) for the most accurate reproduction.*
 
 # The Chronicle of the Horse
 
