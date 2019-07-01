@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the i-readycentral.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615014814id_/http%3A//i-readycentral.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-readycentral.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701130425id_/http%3A//i-readycentral.com/articles/privacy-policy) for the most accurate reproduction.*
 
-# i-Ready Central | i-Ready Central® Privacy Policy
+# | i-Ready Central® Privacy Policy
 
-### **Last Modified:   May 23, 2019**
+### **Last Modified:   June 25, 2019**
 
 Curriculum Associates, LLC (“ **Curriculum Associates** ” or “ **We** ”) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website <http://i-readycentral.com/> (“i-Ready Central”) and our practices for collecting, using, maintaining, protecting, and disclosing that information. This policy applies to information we collect on i-Ready Central.  Information collected through the i-Ready platform and on our corporate website ([www.cainc.com](http://www.curriculumassociates.com/default.aspx)) is governed by their respective privacy policies.
 
@@ -21,7 +21,9 @@ We collect personal information directly from you when you provide it to us. If 
 
 You also may provide information to be published or displayed (hereinafter, “ **posted** ”) to other users of i-Ready Central (collectively, “ **User Contributions** ”). Your User Contributions are posted on and transmitted to others at your own risk. We cannot control the actions of other users of i-Ready Central with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-As you navigate through and interact with i-Ready Central, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns including, but not limited to, usage details, IP addresses, and other information. We use Google Analytics to track and store this information. This information helps us to improve i-Ready Central and to deliver a better and more informative experience. The technologies we use for this automatic data collection may include cookies. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of i-Ready Central. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to i-Ready Central.
+As you navigate through and interact with i-Ready Central, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns including, but not limited to, usage details, IP addresses, and other information. We use Google Analytics™ to track and store this information. This information helps us to improve i-Ready Central and to deliver a better and more informative experience. The technologies we use for this automatic data collection may include cookies. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by clicking on “Reject” button on the cookie consent bar at the bottom of the page or by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of i-Ready Central. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to i-Ready Central.
+
+Google Analytics™ is a trademarked brand feature of Google, Inc. in the US and/or other countries.
 
 ### How We Use Your Information
 
