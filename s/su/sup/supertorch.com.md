@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supertorch.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501190320id_/http%3A//www.supertorch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supertorch.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702013227id_/http%3A//www.supertorch.com/privacy-policy) for the most accurate reproduction.*
 
 # Heider Official Online Store Privacy Policy
 
