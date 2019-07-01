@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedcamp.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601064127id_/http%3A//seedcamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedcamp.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701234749id_/http%3A//seedcamp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Seedcamp
 
