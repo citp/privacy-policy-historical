@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schneider-electric.us privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409042822id_/https%3A//www.schneider-electric.us/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.us privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701232445id_/https%3A//www.schneider-electric.us/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
 
 # Data Privacy Statement | Schneider Electric
 
