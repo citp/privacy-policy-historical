@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostpresto.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120180721id_/https%3A//hostpresto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpresto.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701183233id_/https%3A//hostpresto.com/privacy-policy) for the most accurate reproduction.*
 
 # Enix Ltd / HostPresto! Privacy Policy
 
@@ -154,7 +154,7 @@ Our Data Controller & Data Protection Officer’s details are as follows;
 
 
   * Name: Elliot Pearse
-  * Address: Lancaster Court, Barnes Wallis Road, Segensworth East, PO15 5TU
+  * Address: 16-18 Barnes Wallis Road, Segensworth East, PO15 5TT
   * Email: info@enixltd.com
 
   
