@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conanexiles.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403012911id_/https%3A//www.funcom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conanexiles.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701145242id_/https%3A//www.funcom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funcom
 
@@ -113,7 +113,7 @@ Examples of Cookies we use:
 
 
 
-**For more information on Cookies that Funcom uses, please visit:** [https://www.funcom.com/cookie-policy](https://web.archive.org/web/20190403012911id_/https://www.funcom.com/cookie-policy)
+**For more information on Cookies that Funcom uses, please visit:** [https://www.funcom.com/cookie-policy](https://web.archive.org/web/20190701145242id_/https://www.funcom.com/cookie-policy)
 
 ## Use of Data
 
@@ -373,7 +373,7 @@ _In the event Funcom decides to change the Privacy Policy you will receive notic
 
 _**How to access and rectify my information?**_
 
-_You may Download the Data request form  [HERE](https://web.archive.org/web/20190403012911id_/https://www.funcom.com/wp-content/uploads/sites/3/2018/05/GDPR_DataRequestForm_Final.docx) Return completed forms to:_
+_You may Download the Data request form  [HERE](https://web.archive.org/web/20190701145242id_/https://www.funcom.com/wp-content/uploads/sites/3/2018/05/GDPR_DataRequestForm_Final.docx) Return completed forms to:_
 
 _**Funcom Privacy**_  
 _**Kirkegata 15**_  
