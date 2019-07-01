@@ -1,12 +1,143 @@
-<!--The following is the downloaded HTML source of the altafsir.com privacy policy that was archived on 2017-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226133506id_/http%3A//www.altafsir.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the altafsir.com privacy policy that was archived on 2019-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190701102019id_/https%3A//www.altafsir.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+    
+
+     //  function ReadCookie() {
+     /*  var allcookies = document.cookie;
+     document.write("All Cookies : " + allcookies);
+
+     // Get all the cookies pairs in an array
+     cookiearray = allcookies.split(';');
+
+     // Now take key value pair out of this array
+     for (var i = 0; i < cookiearray.length; i++) {
+     name = cookiearray[i].split('=')[0];
+     value = cookiearray[i].split('=')[1];
+     document.write("Key is : " + name + " and Value is : " + value);
+     }*/
+     //   }
+
+
+
+     document.getElementById('hdnCookies').value = "document.cookie";
+
+     if (document.location.href.indexOf('UserData') == -1) {
+         // alert('yes');
+         document.location.href = "TafseerQuran.asp?UserData=" + document.cookie;
+     }
+     else {
+         //    alert('No');
+     }
+   
+
+                 </script>
+
+
+<script language="javascript">
+   
+    function Submit_onclick(flag) {
+    document.getElementById('divQuestionair').style.display='none';
+    document.getElementById('divMessage').style.display='none';
+   
+   
+    
+//document.getElementById('hdnFlag').value = '';
+ document.getElementById('divQuestionair').style.display='none';
+ document.getElementById('divMessage').style.display='none';
+
+
+
+    }
+
+
+
+</script>
+
+</head>
+<body id="body" onload="a();">
+<form method="POST">
+
+<div align="center" id="divQuestionair" style="overflow:auto; display:none;background-color:white; z-index: 100;border:2px solid darkred;margin:10 auto; width:40%; height: 35%; POSITION: fixed; TOP: 35%;left:30%" class="TextEnglish">
+						<div width="100%" align="right"><img src="images/close.gif" onclick="  document.getElementById('divMessage').style.display = 'none';document.getElementById('divQuestionair').style.display='none';">  </div>
+						<table id="tblQ" border="0" style="align:center" class="TextEnglish" width="100%">
+                        <tbody><tr><td width="100%"><img width="100%" src="images/Questionair.gif"></td></tr>
+							<tr class="TextEnglish" height="25px">
+								
+								<td align="Center" width="100%" class="TextArabic"><br><font class="TextResultArabic" style="font-size:14pt">هل تؤيد تغيير مخطط وتصميم الموقع ليواكب التطورات التكنولوجية؟</font></td>
+							</tr>
+                            <tr><td style="height:30px"></td></tr>
+							<tr class="TextEnglish" dir="rtl">
+								<td align="Center" width="100%" class="TextArabic"><input id="Image1" name="button1" type="image" src="images/yes_ar.GIF" onclick="document.getElementById('hdnMessage').value = '1';document.getElementById('hdnFlag').value='1';Submit_onclick(1)">&nbsp;&nbsp;&nbsp;
+                                <input id="Image2" name="button1" type="image" src="images/no_ar.GIF" onclick="document.getElementById('hdnMessage').value = '1';document.getElementById('hdnFlag').value='0';Submit_onclick(0);"></td>
+							</tr>							
+						</tbody></table>
+
+					</div>
+
+                    <div align="center" id="divMessage" style="overflow:auto; display:none; background-color:white; z-index: 100;border:2px solid darkred;margin:10 auto; width:40%; height: 35%; POSITION: fixed; TOP: 35%;left:30%" class="TextEnglish">
+						<div width="100%" align="right"><img src="images/close.gif" onclick=" document.getElementById('hdnMessage').value = '1'; document.getElementById('divQuestionair').style.display = 'none';document.getElementById('divMessage').style.display='none';">  </div>
+						
+                    <table id="tblMessage" border="0" style="align:center;" class="TextEnglish" width="100%">
+                        <tbody><tr><td width="100%"><img width="100%" src="images/Questionair.gif"></td></tr>
+							<tr class="TextEnglish" height="25px">
+								
+								<td align="Center" width="100%" class="TextArabic"><br><font class="TextResultArabic" style="font-size:14pt">زوارنا الكرام، نشكركم على إبداء رأيكم لمساعدتنا في اتخاذ القرار المناسب والمرضي لكم بناء على نتائج التصويت.
+ويسعدنا استقبال اقتراحاتكم وملاحظاتكم عبر البريد الإلكتروني المخصص 
+<a href="mailto:altafsir@itgsolutions.com?Subject=Altafsir Feedback">(altafsir@itgsolutions.com)</a>
+</font></td>
+							</tr>
+                            <tr><td style="height:30px"></td></tr>
+							<tr class="TextEnglish" dir="rtl">
+								<td align="Center" width="100%" class="TextArabic"><input id="btnClose" name="button1" type="image" src="images/close_eng.GIF" onclick="document.getElementById('divMessage').style.display='none';"></td>
+							</tr>							
+						</tbody></table>
+					</div>
+   <input type="hidden" id="hdnCookies" name="hdnCookies" value="">
+        <input type="hidden" id="hdnFlag" name="hdnFlag">
+        <input type="hidden" id="hdnMessage" name="hdnMessage" value="">
+
+   <script>
+
+       document.getElementById('hdnCookies').value = document.cookie;
+
+
+       /*  if (document.location.href.indexOf('UserData') == -1) {
+       //  alert('yes');
+       document.location.href = "TafseerQuran.asp?UserData=" + document.cookie;
+       }
+       else {
+       //    alert('No');
+       }*/
+   
+              </script>
+
+              
+                
+                 <script>
+                    
+                     document.getElementById('divQuestionair').style.display = "none";
+                     document.getElementById('divMessage').style.display = 'none';
+                  //   alert(document.getElementById('divQuestionair').style.display);
+                 </script>
+
+              
+
+
+                    </form>
+                    
+                    
+                    
+
+
 <meta http-equiv="Content-Type" content="text/html;CHARSET=windows-1256">
 <meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
 <meta http-equiv="X-UA-Compatible" content="IE=8">
 <link rel="stylesheet" type="text/css" href="TafsirCSSV3.CSS">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="AltafsirLibrary/core.js" type="text/javascript"></script>
+<script src="AltafsirLibrary/core.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -36,91 +167,177 @@
 <script>
 	var TopImage = new Image();
 			
-				TopImage = "url(images/HeadersOfPages/EnglisHeads/Privacy_Policy.GIF)";
+				TopImage = "url(images/HeadersOfPages/Top_Privacy_Policy.GIF)";
 			
 </script>
-</head>
-<body>
-		<div class="container ENContainer">
 
-<!--Left Menu begining -->
-<div id="Arabic" class="MainMenu MainMenuEn InnerMainMenu">
-	<div class="logo" style="height: 90px; margin: 0 auto; width: 67px;">	<a style="TEXT-DECORATION: none" href="javascript:document.location.href = 'index.asp'"> <img height="93" src="images/approvedSide1Arabic256.GIF" width="66" border="0"></a>	</div>
-    
-    
-    <ul class="TopMenu">
-    	<li><a href="Quran.asp?SoraNo=1&amp;Ayah=1&amp;NewPage=1&amp;LanguageID=2" class="enMenuLink" id="quran1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
-		Quran &amp; Recitations </a></li>
-        <li><a href="Tafasir.asp?tMadhNo=0&amp;tTafsirNo=0&amp;tSoraNo=1&amp;tAyahNo=1&amp;tDisplay=no&amp;LanguageID=2" class="enMenuLink" id="altafasir1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
-				The Tafsirs
-            </a></li>
-        <li><a href="Recitations.asp?LanguageID=2&amp;img=A" class="enMenuLink" id="Qeraat1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
-				Science of Recitations
-            </a></li>
-        <li><a href="AsbabAlnuzol.asp?SoraName=1&amp;Ayah=0&amp;img=A&amp;LanguageID=2" class="enMenuLink" id="quranscience2" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
-				Quranic Science 
-            </a></li>
-        <li><a href="MiscellaneousBooks.asp?LanguageID=2" class="enMenuLink" id="MiscBooks2" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
-				Misc. Books
-            </a></li>
-        <li><a href="Languages.asp?LanguageID=2" class="enMenuLink" id="translations1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
-				Translations 
-            </a></li>
-        <li><a class="enMenuLink" id="search1" href="Quran_Search_Eng.asp?LanguageID=2" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
-				Search  
-            </a></li>
-        <li><a class="enMenuLink" id="registration1" href="RegForm.asp?is1st=1&amp;LanguageID=2"> 
-				Registration  
-			</a></li>
-        <li><script id="clientEventHandlersJS" language="javascript">
-						if (("altafsir"=="" & "altafsir"=="")||("altafsir"=="altafsir" & "altafsir"=="altafsir"))
-							document.writeln ("<a id='LoginArabic' class='enMenuLink' href='Login.asp?LanguageID=2' onmouseover='return OnMouseOver(this.id)' OnMouseOut ='return OnMouseOut(this.id)' >Login </a>")
-						else
-							document.writeln ("<a id='exit' class='enMenuLink' href='Exit.asp?LanguageID=2' onmouseover='return OnMouseOver(this.id)' OnMouseOut ='return OnMouseOut(this.id)'>Exit </a>")
-					</script><a id="LoginArabic" class="enMenuLink" href="Login.asp?LanguageID=2" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">Login </a>
-</li>
-        <li><a href="Discussion_Forums/ForumLogin.asp?LanguageID=2" class="enMenuLink" color="white" id="forum1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
-				Forum </a></li>
-        <li><a href="Testimonies.asp?LanguageID=2" id="Testimonies1" class="enMenuLink" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
-				Testimonies 
-            </a></li>
-        <li><a href="recitationsOdd.asp?languageid=2&amp;img=C" class="enMenuLink" id="RareRecitations" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
-			Rare Recitations
-            </a></li>
-        <li><a href="AyatMutashabehat.asp?languageid=2&amp;img=B" class="enMenuLink" id="similarVerses" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
-			Similar Verses
-            </a></li>
-    </ul>
 
-	<div class="AdArea">
-<a href="http://www.freeislamiccalligraphy.com" target="_blank"> <img border="0" height="80" width="80" src="images/FreeIslamicGraphics.png"></a>
-</div>
+		<div class="container">
 
-<ul class="BottomMenu"> 
-    <!--li class="newStarEn"><a href="Books/Unveiling.pdf"  target="_blank"  >Kashf al-Asrar wa 'Uddat al-Abrar'</a></li-->
-     <li><a href="El-MuftiCV.asp?LanguageID=2">Ask Mufti</a></li>
-    <li><a href="El-MufasserCV.asp?LanguageID=2">Ask Mufasser</a></li>
-	<li class="newStarEn"><a href="What_is_Islam_En.asp">What Is Islam And Why?</a></li>
-    <li class="newStarEn"><a href="LoveInQuranIntroEn.asp">Love in the Holy Qur’an</a></li>
-    <li class="newStarEn"><a href="Books/kashani.pdf" target="_blank">Tafsir al-Kashani</a></li>
+<!--Right Menu begining: HEIGHT: 865px; -->
+<div id="Arabic" class="MainMenu MainMenuAr InnerMainMenu">
+	<div class="logo" style="height: 90px; margin: 0 auto; width: 67px;">	<a href="javascript:document.location.href='indexArabic.asp'"><img height="93" src="images/approvedSide1Arabic256.GIF" width="66" border="0"></a>	</div>
+	
+<ul class="TopMenu">
+	<li><a id="quran1" href="Quran.asp?SoraNo=1&amp;Ayah=1&amp;NewPage=1&amp;LanguageID=1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+											  القرآن والتجويد 
+ </a></li>
+    <li><a id="altafasir1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="Tafasir.asp?tMadhNo=0&amp;tTafsirNo=0&amp;tSoraNo=1&amp;tAyahNo=1&amp;tDisplay=no&amp;LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+						التفاسير </a></li>
+    <li><a id="Qeraat1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="Recitations.asp?LanguageID=1&amp;img=A" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+						علم القراءات </a></li>
+    <li><a id="quranscience2" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="AsbabAlnuzol.asp?SoraName=1&amp;Ayah=0&amp;img=A&amp;LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+						علوم 	القرآن </a></li>
+    <li><a id="MiscBooks2" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="MiscellaneousBooks.asp?LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+						كتب متفرقة </a></li>
+    <li><a id="translations1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="Languages.asp?LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+						تراجم </a></li>
+    <li><a id="search1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="Quran_Search.asp?LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+							بحث وفهارس&nbsp;&nbsp; </a></li>
+    <li><a id="registration1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="RegForm.asp?LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+						تسجيل </a></li>
+    <li>
+      
+      <a style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" id="LoginArabic" href="Login.asp?LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> دخول</a>
+      
+    </li>
+    <li><a id="forum1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="Discussion_Forums/ForumLogin.asp?LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+						حوار </a></li>
+    <li><a id="Testimonies1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="Testimonies.asp?LanguageID=1" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+						إشادات </a></li>
+    <li><a id="RareRecitations" href="recitationsOdd.asp?languageid=1&amp;img=C" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
+                 قراءات نادرة 
+            </a></li>
+    <li><a id="similarVerses" href="AyatMutashabehat.asp?languageid=1&amp;img=B" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">الآيات المتشابهات</a></li>
+</ul>
+    <!--<table align="left" border="0" cellPadding="0" cellSpacing="0" style="HEIGHT: 422px; WIDTH: 117px" width="75%" background="">
+			<tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr><tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr><tr>
+			
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr><tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr><tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr><tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr><tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr><tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr>
 
-    <li class="newStarEn"><a href="Books/kashf.pdf" target="_blank">Rashid al-Din Maybudis Kashf al-Asrar</a></li>
-    <li class="newStarEn"><a href="Books/lataif.pdf" target="_blank">Abu'l-Qasim al-Qushayri's Lataif al-Isharat</a></li>
-    <li><a href="Al-Tustari.asp">Tafsir al-Tustari</a></li>
-    <li><a href="WahidiAsbabAlnuzul.asp">Asbab  Al-Nuzul by Al-Wahidi</a></li>
-    <li><a href="Al-Jalalayn.asp">Tafsir Al-Jalalayn in English</a></li>
-    <li><a href="Ibn-Abbas.asp">Tafsir Ibn-'Abbas in English</a></li>
-    <li><a href="Martin-Lings.asp">The Holy Qur'an: Translations of Selected Verses by Martin Lings</a></li>
-    <li><a href="ViewTranslations.asp?Display=yes&amp;SoraNo=1&amp;Ayah=0&amp;Language=2&amp;TranslationBook=10&amp;LanguageID=2">
-			The Holy Qur'an: Aal al-Bayt Institute Translation</a></li>
-    <li><a href="ViewTranslations.asp?Display=yes&amp;SoraNo=1&amp;Ayah=0&amp;Language=2&amp;TranslationBook=18&amp;LanguageID=2">Translation of Quran by Laleh Bakhtiar The Sublime Quran</a></li>
+			
+			
+			<tr>
+				<td height="8" >
+					 
+				</td>
+			</tr>
+			<tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td height="8"><p>
+					<img align="absMiddle" alt="" height="17" src="images/Diamond.gif" width="17">
+					
+					</p>
+				</td>
+			</tr>
+		
+			
+			
+			
+			         <tr> 
+        <td height="8"><p>
+			<img align="absMiddle" alt ="" height="17" src="images/Diamond.gif" width="17"> 
+			</p></td>
+      </tr>
+            <tr> 
+        <td height="8"><p>
+			<img align="absMiddle" alt ="" height="17" src="images/Diamond.gif" width="17"> 
+			
+			</p></td>
+      </tr>
+					</table>-->
+	
+	
+<script type="text/javascript">  
+function showHubTooltip()
+{
+	document.getElementById("HubToolTip").innerHTML = "";
+	document.getElementById("HubToolTip").style.display = "block";
+	document.getElementById("HubToolTip").style.zIndex = '100';
+	document.getElementById("HubToolTip").style.position = 'absolute';
+
+}
+
+function HideHubTooltip()
+{
+	document.getElementById("HubToolTip").style.display = "none";
+}
+</script>
+
+
+<div class="AdArea"> <a href="https://www.quranicthought.com" target="_blank"> <img border="0" src="images/QuranicThough.jpg"></a> </div>
+<div class="AdArea"> <a href="https://www.greattafsirs.com" target="_blank"> <img border="0" height="97" width="80" src="images/GreatTafsirs.png"></a> </div>
+
+<ul class="BottomMenu BottomMenuArabic">
+  <div id="HubToolTip"> </div>
+  <li><a href="LoveInQuranIntro.asp"> الحب في القرآن الكريم</a></li>
+  <li><a href="Books/DailyWird2010.pdf" target="_blank"> ورد القرآن اليومي</a></li>
+  <li><a href="QuranOnMobile.asp?LanguageId=1"> القرآن الكريم على الموبايل</a></li>
+  <li><a href="El-MuftiCV.asp?LanguageID=1">اسأل المفتي</a></li>
+  <li><a href="El-MufasserCV.asp?LanguageID=1">اسأل المفسر</a></li>
+  <li><a href="Books/Al_Jazreyah.pdf" target="_blank"> الجزرية</a></li>
+  <li><a href="Books/Tuhfat_AlAtfal.pdf" target="_blank"> تحفة الأطفال</a></li>
+  <li><a href="Books/Fadael_AlQuran.pdf" target="_blank"> كتاب الفضائل</a></li>
+  <li><a href="Books/Dua_full.pdf" target="_blank"> دعاء الخائف</a></li>
+  <li><a href="Books/Bayan_AlFarq/Tirmidhi_Bayan_al-Farq.pdf" target="_blank"> بيان الفرق</a></li>
 </ul>
 
-
-
 </div>
 
-<div class="innerContent innerContentEng">
+<div class="innerContent">
 
 <div class="topSectionBG">
 
@@ -137,14 +354,12 @@ function checkBrowser()
 
 function OnMouseOver(parag) 
 {
-	Dom.getElm(parag).style.color = "Yellow";	
+	Dom.getElm(parag).style.color = "yellow";	
 }
 
 function OnMouseOut(parag) 
 {
 	var paragid = parag;
-	//alert(get_Pageid);
-//	alert("parag  =     " + parag);
 	if(get_Pageid == paragid)
 		Dom.getElm(parag).style.color = "yellow";
 	else
@@ -154,7 +369,7 @@ function OnMouseOut(parag)
 function ChangeMenueLanguage()
 {
 	document.langForm.action = 'ConvertUILang.asp';
-	document.langForm.CurrentPage.value  = document.location.href;
+	document.langForm.CurrentPage.value  = document.location.href; 
 	document.langForm.submit();
 }
 
@@ -167,67 +382,54 @@ function send_feedBack(){
 	var userLang	= navigator.userLanguage;
 	var cpuClass	= navigator.cpuClass;
 	
-		document.location.href =  "ContactUs.asp?url=" + url + "&AppName="+ Bname +"&AppVersion="+ BVesrsion +"&Platform="+ plat +"&SysLang="+ sysLang +"&UserLang="+ userLang +"&cpuClass="+ cpuClass
+		document.location.href = "ContactUs.asp?url=" + url + "&AppName=" + Bname + "&AppVersion=" + BVesrsion + "&Platform=" + plat + "&SysLang=" + sysLang + "&UserLang=" + userLang + "&cpuClass=" + cpuClass
 }	
 
 function Get_Hint(Item)
 {
-	var		AlignShift	= 430;
-	var		ItemName = new String(Item.id);
-	var		nItem = Dom.getElm(Item);
-		 		
-	if (ItemName.search("Taf_") != -1 )
-	{
-		AlignShift = 400;
-	}
-	else
-		if(ItemName.search("Quran_") != -1)
-		{
-			AlignShift = 330;
-		}
-	
 	if (Item.id == "BookMark" || Item.id == "Taf_BookMark" || Item.id == "Quran_BookMark")
 	{
-		Item.style.cursor="hand";
-		Dom.getElm('Hint').style.visibility="visible";
-		Dom.getElm('Hint').style.top=parseInt(Item.style.top) + 38;
-		Dom.getElm('Hint').style.left=parseInt(Item.style.left) + AlignShift;  
-		Dom.getElm('Hint').innerHTML="<font class='TextHelp'>Add to Favorites</font>"; 
+		Item.style.cursor = "hand";
+		Dom.getElm('Hint').style.visibility = "visible";
+		Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
+		Dom.getElm('Hint').style.left = parseInt(Item.style.left) + 30;   
+		Dom.getElm('Hint').innerHTML= "<font class='TextHelp'><b>حفظ عنوان الصفحة</b></font>" ; 
 	}  
 	else
 		if (Item.id == "Printer" || Item.id =="Taf_Printer" || Item.id == "Quran_Printer")
 		{
 			Item.style.cursor="hand";
-			Dom.getElm('Hint').style.visibility="visible";
-			Dom.getElm('Hint').style.top=parseInt(Item.style.top) + 38;
-			Dom.getElm('Hint').style.left=parseInt(Item.style.left) + AlignShift;
-			Dom.getElm('Hint').innerHTML="<font class='TextHelp'>Print Page</font>";
+			Dom.getElm('Hint').style.visibility = "visible";
+			Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
+			Dom.getElm('Hint').style.left = parseInt(Item.style.left) + 30;
+			Dom.getElm('Hint').innerHTML = "<font class='TextHelp'><b>طباعة الصفحة</b></font>";
 		}
 	else
 		if (Item.id == "MailToFrieind" || Item.id == "Taf_MailToFrieind" || Item.id == "Quran_MailToFrieind")
 		{
 			Item.style.cursor="hand";
 			Dom.getElm('Hint').style.visibility="visible";
-			Dom.getElm('Hint').style.top=parseInt(Item.style.top) + 38;
-			Dom.getElm('Hint').style.left=parseInt(Item.style.left) + AlignShift;
-			Dom.getElm('Hint').innerHTML="<font class='TextHelp'>Mail Page to a Friend</font>";
+			Dom.getElm('Hint').style.top=parseInt(Item.style.top)+38;
+			Dom.getElm('Hint').style.left=parseInt(Item.style.left)+30;
+			Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>أرسل الصفحة الى صديق</b></font>";
 		}
 		else
 		if ( Item.id == "FeedBack" || Item.id == "Taf_FeedBack" || Item.id == "Quran_FeedBack")
 		{
 			Item.style.cursor="hand";
-			Dom.getElm('Hint').style.visibility="visible";
-			Dom.getElm('Hint').style.top=parseInt(Item.style.top) + 38;
-			Dom.getElm('Hint').style.left=parseInt(Item.style.left) + AlignShift; 
-			Dom.getElm('Hint').innerHTML = "<font class='TextHelp'>Send Feedback</font>";
+			Dom.getElm('Hint').style.visibility = "visible";
+			Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
+			Dom.getElm('Hint').style.left = parseInt(Item.style.left) + 30;
+			Dom.getElm('Hint').innerHTML = "<font class='TextHelp'><b>اقتراحات وملاحظات</b></font>";
 		}
 		else
 		if (Item.id == "Help" || Item.id == "Taf_Help" || Item.id == "Quran_Help")
 		{
+			Item.style.cursor="hand";
 			Dom.getElm('Hint').style.visibility="visible";
-			Dom.getElm('Hint').style.top=parseInt(Item.style.top) + 38;
-			Dom.getElm('Hint').style.left=parseInt(Item.style.left) + AlignShift;
-			Dom.getElm('Hint').innerHTML="<font class='TextHelp'>Help</font>";
+			Dom.getElm('Hint').style.top=parseInt(Item.style.top)+38;
+			Dom.getElm('Hint').style.left=parseInt(Item.style.left)+45;
+			Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>مساعدة</b></font>";
 		}
 		else
 			if (Item.id == "Taf_KeyBrd")
@@ -235,8 +437,8 @@ function Get_Hint(Item)
 				Item.style.cursor="hand";
 				Dom.getElm('Hint').style.visibility="visible";
 				Dom.getElm('Hint').style.top=parseInt(Item.style.top)+38;
-				Dom.getElm('Hint').style.left=parseInt(Item.style.left) + AlignShift;
-				Dom.getElm('Hint').innerHTML="<font class='TextHelp'>Virtual Keyboard</font>";
+				Dom.getElm('Hint').style.left=parseInt(Item.style.left)+30;
+				Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>لوحة مفاتيح افتراضية</b></font>";
 			}
 			else
 				if (Item.id == "Quran_Tajweed")
@@ -244,27 +446,28 @@ function Get_Hint(Item)
 					Item.style.cursor="hand";
 					Dom.getElm('Hint').style.visibility="visible";
 					Dom.getElm('Hint').style.top=parseInt(Item.style.top)+38;
-					Dom.getElm('Hint').style.left=parseInt(Item.style.left) + AlignShift;
-					Dom.getElm('Hint').innerHTML="<font class='TextHelp'>Tajweed Rules</font>";
+					Dom.getElm('Hint').style.left=parseInt(Item.style.left)+30;
+					Dom.getElm('Hint').innerHTML="<font class='TextHelp'></font>";
 				}
-			else
-				if (Item.id == "LanguageItem" || Item.id == "Taf_Language" || Item.id == "Quran_Language" )
-				{
-					Item.style.cursor="hand";
-					Dom.getElm('Hint').style.visibility="visible";
-					Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
-					Dom.getElm('Hint').style.width = 150;
-					Dom.getElm('Hint').style.left = parseInt(Item.style.left) + AlignShift - 31;
-					Dom.getElm('Hint').innerHTML="<font class='TextHelp'>Switch to Arabic</font>";
-				}
+				else
+					if (Item.id == "LanguageItem" || Item.id == "Taf_Language" || Item.id == "Quran_Language" )
+					{
+					
+					
+						Item.style.cursor="hand";
+						Dom.getElm('Hint').style.visibility="visible";
+						Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
+						Dom.getElm('Hint').style.left = parseInt(Item.style.left) + 30;
+						Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>التحويل إلى الانجليزية</b></font>";
+					}
 }
-
 
 function Remove_Hint()
 {
 	Dom.getElm('Hint').style.visibility ="hidden"; 
 }
 
+//RemoveTajweedMenue()
 function Remove_HintTajweed()
 {
 	Dom.getElm('Hint').style.visibility ="hidden"; 
@@ -273,13 +476,13 @@ function Remove_HintTajweed()
 
 function BookMark_Page()
 {
-	var url, title;
-	url=window.location;  
-	title=document.title;
+	var url,title;
+	url = window.location;  
+	title = document.title;
 	if (checkBrowser() == "IE")
 		window.external.AddFavorite(url,title)   
 	else
-		alert("Press Ctrl+D to Bookmark this page") 
+		alert("Press Ctrl+D to Bookmark this page")
 }
 
 function MailToFriend_Send()
@@ -287,37 +490,39 @@ function MailToFriend_Send()
   	var url			= window.location;
 	document.formURLGlobe.urlFull.value = window.location;
 	var type		= "MailToFriend";
-	document.formURLGlobe.action = "MailToFriend.asp?Type="+type
-	document.formURLGlobe.submit ()	
+	document.formURLGlobe.action = "MailToFriend.asp?Type=" + type
+	document.formURLGlobe.submit();
 }
 
 function Tajweed_onclick()
-{
-	if (""=="0")
+{	
+	if ("" == "0")
 		getTajweedMenue(0)
 	else
-		getTajweedMenue(1)
+		getTajweedMenue(1)	
 }
 
 function PrintPage()
 {
-	try{
+	try {
 		var printLayer = Dom.getElm("SearchResults").innerHTML;
-		Dom.getElm('PrinterForm').text1.value = printLayer; 
-		if (get_Pageid == "altafasir2")
+		document.PrinterForm.text1.value = printLayer; 
+		if (get_Pageid == "altafasir1")
 		{	var Ayah1 = Dom.getElm('Ayat');
 			var Sora1 = Dom.getElm('SoraName');
-				window.open("printpage.asp?status=Paging&Page=Tafasir&Ayah="+Ayah1.value+"&Sora="+Sora1.value, null , "top=20,left=400,height=600, width=600, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes");
+			var TafsirName = Dom.getElm('Tafsir').options[Dom.getElm('Tafsir').selectedIndex].text;
+			
+				window.open("printpage.asp?status=Paging&Page=Tafasir&Ayah="+Ayah1.value+"&Sora="+ Sora1.value+ "&TafsirName=" + TafsirName, null , "top=20,left=400,height=600, width=600, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes");
 		}
-		else
-			if(get_Pageid =="Qeraat2")
-				window.open("printpage.asp?status=Paging&Page=Qeraat1&SoraNo="+document.Form1.SoraName.value+"&AyahNo="+document.Form1.Ayat.value+"&RuleID="+document.Form1.Rule.value+"&QareeID="+document.Form1.Reader.value+"&RaweeID="+document.Form1.Narrator.value+"&Word="+document.Form1.rWord.value, null, "top=20,left=400,height=600, width=600, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes");
+			else
+			if(get_Pageid =="Qeraat1")
+				window.open("printpage.asp?status=Paging&Page=Qeraat1&SoraNo="+document.Form1.SoraName.value+"&AyahNo="+document.Form1.Ayat.value+"&RuleID="+document.Form1.Rule.value+"&QareeID="+document.Form1.Reader.value+"&RaweeID="+document.Form1.Narrator.value+"&Word="+document.Form1.rWord.value, null, "top=20,left=400,height=600, width=600, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes");					
 			else
 				window.open("printpage.asp?status=none", null, "top=20,left=400,height=600, width=600, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes");
-			}
+	}
 	catch(e)
 	{
-		alert("No data to be printed");
+		alert("لا توجد مادة للطباعة");
 	}
 }
 //-->
@@ -331,7 +536,7 @@ function PrintPage()
 	<input type="hidden" id="userLangTextFeedBack" name="userLangTextFeedBack">
 	<input type="hidden" id="cpuClassTextFeedBack" name="cpuClassTextFeedBack">
 
-<input name="ServerDate" id="ServerDate" value="2017" type="hidden">
+<input name="ServerDate" id="ServerDate" value="2019" type="hidden">
 
 </form>
 <!-- Display layer-->
@@ -343,58 +548,60 @@ function PrintPage()
 
 <!-- Language Form -->
 <form action="" method="POST" id="langForm" name="langForm">
-	<input type="Hidden" id="LanguageID" name="LanguageID" value="2">
-	<input type="Hidden" id="CurrentPage" name="CurrentPage">
+	<input type="Hidden" id="LanguageID" name="LanguageID" value="1">	
+	<input type="Hidden" id="CurrentPage" name="CurrentPage">	
 </form>
 
+
+
+
 <!-- Top title opening-->
-	<div id="TopTitle" class="topSection" style="height: 80px; background-image: url(&quot;images/HeadersOfPages/EnglisHeads/Privacy_Policy.GIF&quot;);">&nbsp;
-		<div id="ToolBar" style="LEFT: 443px; VISIBILITY: hidden; OVERFLOW: hidden; WIDTH: 200px; POSITION: absolute; TOP: 60px; HEIGHT: 29px" class="TextHelp">
-			<!--div style="BACKGROUND-IMAGE: url(images/Top icons B 16.gif);OVERFLOW: hidden;WIDTH: 166px;POSITION: absolute;HEIGHT: 16px" class='TextHelp'></div -->
-			<div style="BACKGROUND-IMAGE: url(images/Tool_Bar_English_B.gif);OVERFLOW: hidden;WIDTH: 200px;POSITION: absolute;HEIGHT: 16px" class="TextHelp"></div>
-			<a href="javascript:BookMark_Page()"><div id="BookMark" style="LEFT: 4px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-			<a href="javascript:PrintPage()"><div id="Printer" style="LEFT: 37px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-			<a href="javascript:MailToFriend_Send()"><div id="MailToFrieind" style="LEFT: 69px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-			<a href="javascript:send_feedBack();javascript:document.SendUrlToContactUs.action = 'ContactUs.asp';javascript:document.SendUrlToContactUs.UrlTextFeedBack.value  = window.location;javascript:document.SendUrlToContactUs.BnameTextFeedBack.value  = navigator.appName;javascript:document.SendUrlToContactUs.BVesrsionTextFeedBack.value  = navigator.appVersion;javascript:document.SendUrlToContactUs.platlTextFeedBack.value  = navigator.platform;javascript:document.SendUrlToContactUs.sysLangTextFeedBack.value  = navigator.systemLanguage;javascript:document.SendUrlToContactUs.userLangTextFeedBack.value  = navigator.userLanguage;javascript:document.SendUrlToContactUs.cpuClassTextFeedBack.value  = navigator.cpuClass;javascript:document.SendUrlToContactUs.submit();"><div id="FeedBack" style="HEIGHT: 15px; LEFT: 102px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" onclick="send_feedBack()" class="TextHelp"></div></a>
-			<div id="Help" style="LEFT: 136px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp" onclick="window.open('IntroSrc.asp');"></div>
+<div id="TopTitle" class="topSection" style="height: 80px; background-image: url(&quot;images/HeadersOfPages/Top_Privacy_Policy.GIF&quot;);">&nbsp;
+		<div id="ToolBar" style="HEIGHT: 29px; LEFT: 40px; OVERFLOW: hidden; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; WIDTH: 216px" class="TextHelp">
+			<div style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_B.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 216px" class="TextHelp"></div>
+			<!--div style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_B.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 216px" class='TextHelp'></div-->
+			<a href="javascript:BookMark_Page()"><div id="BookMark" style="HEIGHT: 15px; LEFT: 4px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:PrintPage()"><div id="Printer" style="HEIGHT: 15px; LEFT: 37px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:MailToFriend_Send()"><div id="MailToFrieind" style="HEIGHT: 15px; LEFT: 69px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:send_feedBack();javascript:document.SendUrlToContactUs.action =  'ContactUs.asp';javascript:document.SendUrlToContactUs.UrlTextFeedBack.value  = window.location;javascript:document.SendUrlToContactUs.BnameTextFeedBack.value  = navigator.appName;javascript:document.SendUrlToContactUs.BVesrsionTextFeedBack.value  = navigator.appVersion;javascript:document.SendUrlToContactUs.platlTextFeedBack.value  = navigator.platform;javascript:document.SendUrlToContactUs.sysLangTextFeedBack.value  = navigator.systemLanguage;javascript:document.SendUrlToContactUs.userLangTextFeedBack.value  = navigator.userLanguage;javascript:document.SendUrlToContactUs.cpuClassTextFeedBack.value  = navigator.cpuClass;javascript:document.SendUrlToContactUs.submit();"><div id="FeedBack" style="HEIGHT: 15px; LEFT: 102px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" onclick="send_feedBack()" class="TextHelp"></div></a>
+			<div id="Help" style="HEIGHT: 15px; LEFT: 136px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp" onclick="window.open('IntroSrc.asp');"></div>
 			<a href="javascript:ChangeMenueLanguage()"><div id="LanguageItem" style="LEFT: 169px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-	</div>
-
+	</div> 
+		
 	<!-- menu with printer icon-->
-		<div id="Taf_ToolBar" style="LEFT: 405px; VISIBILITY: hidden; OVERFLOW: hidden; WIDTH: 233px; POSITION: absolute; TOP: 60px; HEIGHT: 29px" class="TextHelp">
-			<!--div style="BACKGROUND-IMAGE: url(images/Top icons A 16.gif);OVERFLOW: hidden;WIDTH: 199px;POSITION: absolute;HEIGHT: 16px" class='TextHelp'></div-->
-			<div style="BACKGROUND-IMAGE: url(images/Tool_Bar_English_A.gif);OVERFLOW: hidden;WIDTH: 249px;POSITION: absolute;HEIGHT: 16px" class="TextHelp"></div>
-			<a href="javascript:BookMark_Page()"><div id="Taf_BookMark" style="LEFT: 4px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-			<a href="javascript:PrintPage()"><div id="Taf_Printer" style="LEFT: 37px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-			<a href="javascript:MailToFriend_Send()"><div id="Taf_MailToFrieind" style="LEFT: 69px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+		<div id="Taf_ToolBar" style="HEIGHT: 29px; LEFT: 45px; OVERFLOW: hidden; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; WIDTH: 249px" class="TextHelp">
+			<div style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_A.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 249px" class="TextHelp"></div>
+			<!--div style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_A.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 249px" class='TextHelp'></div-->
+			<a href="javascript:BookMark_Page()"><div id="Taf_BookMark" style="HEIGHT: 15px; LEFT: 4px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:PrintPage()"><div id="Taf_Printer" style="HEIGHT: 15px; LEFT: 37px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:MailToFriend_Send()"><div id="Taf_MailToFrieind" style="HEIGHT: 15px; LEFT: 69px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
 			<a href="javascript:send_feedBack();javascript:document.SendUrlToContactUs.action = 'ContactUs.asp';javascript:document.SendUrlToContactUs.UrlTextFeedBack.value  = window.location;javascript:document.SendUrlToContactUs.BnameTextFeedBack.value  = navigator.appName;javascript:document.SendUrlToContactUs.BVesrsionTextFeedBack.value  = navigator.appVersion;javascript:document.SendUrlToContactUs.platlTextFeedBack.value  = navigator.platform;javascript:document.SendUrlToContactUs.sysLangTextFeedBack.value  = navigator.systemLanguage;javascript:document.SendUrlToContactUs.userLangTextFeedBack.value  = navigator.userLanguage;javascript:document.SendUrlToContactUs.cpuClassTextFeedBack.value  = navigator.cpuClass;javascript:document.SendUrlToContactUs.submit();"><div id="Taf_FeedBack" style="HEIGHT: 15px; LEFT: 102px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" onclick="send_feedBack" class="TextHelp"></div></a>
-			<div id="Taf_Help" style="LEFT: 136px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp" onclick="window.open('IntroSrc.asp');"></div>
-			<a href="javascript:vkbBtn_onclick('VKB/vkb.asp')"><div id="Taf_KeyBrd" style="LEFT: 169px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<div id="Taf_Help" style="HEIGHT: 15px; LEFT: 136px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp" onclick="window.open('IntroSrc.asp');"></div>
+			<a href="javascript:vkbBtn_onclick('VKB/vkb.asp')"><div id="Taf_KeyBrd" style="HEIGHT: 15px; LEFT: 169px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
 			<a href="javascript:ChangeMenueLanguage()"><div id="Taf_Language" style="LEFT: 202px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-	</div>
-	
+	</div> 
+		
 	<!--menue for quran page-->
-		<div id="Quran_ToolBar" style="LEFT: 330px; VISIBILITY: hidden; OVERFLOW: hidden; WIDTH: 301px; POSITION: absolute; TOP: 60px; HEIGHT: 29px" class="TextHelp">
-			<!--div style="BACKGROUND-IMAGE: url(images/Top icons C 16.gif);OVERFLOW: hidden;WIDTH: 232px;POSITION: absolute;HEIGHT: 16px" class='TextHelp'></div-->
-			<!--div style="BACKGROUND-IMAGE:url(images/Tool_Bar_English_C.gif); OVERFLOW: hidden; WIDTH: 301px;POSITION: absolute; HEIGHT: 16px" class='TextHelp'></div-->
-			<a href="javascript:BookMark_Page()"><div id="Quran_BookMark" style="LEFT: 4px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 16px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-			<a href="javascript:PrintPage()"><div id="Quran_Printer" style="LEFT: 37px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 16px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-			<a href="javascript:MailToFriend_Send()"><div id="Quran_MailToFrieind" style="LEFT: 69px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 16px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-			<a href="javascript:send_feedBack();javascript:document.SendUrlToContactUs.action = 'ContactUs.asp';javascript:document.SendUrlToContactUs.UrlTextFeedBack.value  = window.location;javascript:document.SendUrlToContactUs.BnameTextFeedBack.value  = navigator.appName;javascript:document.SendUrlToContactUs.BVesrsionTextFeedBack.value  = navigator.appVersion;javascript:document.SendUrlToContactUs.platlTextFeedBack.value  = navigator.platform;javascript:document.SendUrlToContactUs.sysLangTextFeedBack.value  = navigator.systemLanguage;javascript:document.SendUrlToContactUs.userLangTextFeedBack.value  = navigator.userLanguage;javascript:document.SendUrlToContactUs.cpuClassTextFeedBack.value  = navigator.cpuClass;javascript:document.SendUrlToContactUs.submit();"><div id="Quran_FeedBack" style="HEIGHT: 16px; LEFT: 102px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" onclick="send_feedBack" class="TextHelp"></div></a>
-			<div id="Quran_Help" style="LEFT: 136px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 16px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp" onclick="window.open('IntroSrc.asp');"></div>
-			<!--<a href="javascript:Tajweed_onclick()" ><div id="Quran_Tajweed" style="LEFT: 169px; WIDTH: 98px; POSITION: absolute; TOP: 0px; HEIGHT: 16px" onmouseover="Get_Hint(this)" onmouseout="Remove_HintTajweed()" class='TextHelp'></div></a>-->
-			<div id="Quran_Tajweed" style="HEIGHT: 16px; LEFT: 169px;  WIDTH: 98px; POSITION: absolute; TOP: 0px; " onmouseover="javascript:Tajweed_onclick();Dom.getElm('TajweedMenu').style.display='';" onmouseout="javascript:Dom.getElm('TajweedMenu').style.display='none';" class="TextHelp"></div>
-			<a href="javascript:ChangeMenueLanguage()"><div id="Quran_Language" style="LEFT: 265px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
-	</div>
-	
+		<div id="Quran_ToolBar" style="HEIGHT: 29px; LEFT: 47px; OVERFLOW: hidden; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; WIDTH: 289px" class="TextHelp">
+			<!--div style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_C.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 289px" class='TextHelp'></div-->
+			<a href="javascript:BookMark_Page()"><div id="Quran_BookMark" style="HEIGHT: 16px; LEFT: 0px; POSITION: absolute; TOP: 0px; WIDTH: 32px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:PrintPage()"><div id="Quran_Printer" style="HEIGHT: 16px; LEFT: 33px; POSITION: absolute; TOP: 0px; WIDTH: 32px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:MailToFriend_Send()"><div id="Quran_MailToFrieind" style="HEIGHT: 16px; LEFT: 65px; POSITION: absolute; TOP: 0px; WIDTH: 33px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:send_feedBack();javascript:document.SendUrlToContactUs.action = 'ContactUs.asp';javascript:document.SendUrlToContactUs.UrlTextFeedBack.value  = window.location;javascript:document.SendUrlToContactUs.BnameTextFeedBack.value  = navigator.appName;javascript:document.SendUrlToContactUs.BVesrsionTextFeedBack.value  = navigator.appVersion;javascript:document.SendUrlToContactUs.platlTextFeedBack.value  = navigator.platform;javascript:document.SendUrlToContactUs.sysLangTextFeedBack.value  = navigator.systemLanguage;javascript:document.SendUrlToContactUs.userLangTextFeedBack.value  = navigator.userLanguage;javascript:document.SendUrlToContactUs.cpuClassTextFeedBack.value  = navigator.cpuClass;javascript:document.SendUrlToContactUs.submit();"><div id="Quran_FeedBack" style="HEIGHT: 16px; LEFT: 98px; POSITION: absolute; TOP: 0px; WIDTH: 33px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" onclick="send_feedBack" class="TextHelp"></div></a>
+			<div id="Quran_Help" style="HEIGHT: 16px; LEFT: 131px; POSITION: absolute; TOP: 0px; WIDTH: 33px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp" onclick="window.open('IntroSrc.asp');"></div>
+			<!--<a href="javascript:Tajweed_onclick()">--><div id="Quran_Tajweed" style="HEIGHT: 16px; LEFT: 165px;  WIDTH: 73px; POSITION: absolute; TOP: 0px; " onmouseover="javascript:Tajweed_onclick();Dom.getElm('TajweedMenu').style.display='';Dom.getElm('AyatCombo').style.visibility='hidden';" onmouseout="Dom.getElm('AyatCombo').style.visibility='visible';javascript:Dom.getElm('TajweedMenu').style.display='none';" class="TextHelp"></div><!--</a>-->
+			<!--div style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_C.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 289px" class='TextHelp'></div-->
+			<!--<a href="javascript:Tajweed_onclick()"><div id="Quran_Tajweed" style="HEIGHT: 16px; LEFT: 169px;  WIDTH: 57px; POSITION: absolute; TOP: 0px; " onmouseover="Get_Hint(this)" onmouseout="Remove_HintTajweed()" class='TextHelp'></div></a>-->
+			<a href="javascript:ChangeMenueLanguage()"><div id="Quran_Language" style="HEIGHT: 15px; LEFT: 238px; WIDTH: 57px; POSITION: absolute; TOP: 0px; " onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+	</div> 
+		
 	<!--Layer to show hint-->
-	<div style="VISIBILITY: hidden; POSITION: absolute; HEIGHT: 18px" id="Hint" class="TextArabic"></div>
+	<div dir="rtl" style="HEIGHT: 18px; POSITION: absolute; VISIBILITY: hidden" id="Hint" class="TextArabic"></div>
 </div>
-
 <!-- Top title closed-->
 
-	
-<form action="" method="post" id="formURLGlobe" name="formURLGlobe">
+
+<form action="" method="POST" id="formURLGlobe" name="formURLGlobe">
 	<input type="hidden" id="urlFull" name="urlFull">
 </form>
 <!--Right Menu End -->
@@ -639,7 +846,7 @@ function PrintPage()
 </script>
 </div>
 </div>
-<script language="JavaScript" src="GeneralFooter.js"></script><div id="FooterLayer" dir="ltr" name="FooterLayer" class="footer"><a href="http://www.altafsir.com/IntroSrc.asp">About Altafsir</a> | <a href="http://www.altafsir.com/unique_features.asp">Unique Features</a> | <a href="http://www.altafsir.com/AboutFoundation.asp">About the Institute</a> | <a href="http://www.altafsir.com/AboutITG.asp">About ITG</a> <br> <a href="http://www.altafsir.com/TafsirTerms.asp">Terms and Conditions</a> | <a href="http://www.altafsir.com/PrivacyPolicy.asp">Privacy Policy</a> | <a href="mailto:altafsir@itgsolutions.com">Contact Us</a> | <a href="http://www.altafsir.com/ContactUs.asp?url=">Feedback</a> | <a href="#">Help</a> <br> Copyrights © 2002-2017 <a href="javascript:OpenWinAal()">Royal Aal al-Bayt Institute for Islamic Thought</a> <br> Developed and maintained by: <a href="javascript:OpenWin()">Integrated Technology Group</a> </div>												
+<script language="JavaScript" src="GeneralFooter.js"></script><div id="FooterLayer" dir="ltr" name="FooterLayer" class="footer"><a href="https://www.altafsir.com/IntroSrc.asp">About Altafsir</a> | <a href="https://www.altafsir.com/unique_features.asp">Unique Features</a> | <a href="https://www.altafsir.com/AboutFoundation.asp">About the Institute</a> | <a href="https://www.altafsir.com/AboutITG.asp">About ITG</a> <br> <a href="https://www.altafsir.com/TafsirTerms.asp">Terms and Conditions</a> | <a href="https://www.altafsir.com/PrivacyPolicy.asp">Privacy Policy</a> | <a href="mailto:altafsir@itgsolutions.com">Contact Us</a> | <a href="https://www.altafsir.com/ContactUs.asp?url=">Feedback</a> | <a href="#">Help</a> <br> Copyrights © 2002-2019 <a href="javascript:OpenWinAal()">Royal Aal al-Bayt Institute for Islamic Thought</a> <br> Developed and maintained by: <a href="javascript:OpenWin()">Integrated Technology Group</a> </div>												
 <script language="javascript">
 	var get_Pageid = "";
 	//Check Browser & Footer
