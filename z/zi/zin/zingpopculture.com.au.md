@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingpopculture.com.au privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328165105id_/https%3A//www.zingpopculture.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingpopculture.com.au privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702000121id_/https%3A//www.zingpopculture.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ZiNG Pop Culture
 
@@ -356,7 +356,7 @@ Facsimile: + 61 73860 7710
 
 If you have made a complaint regarding your privacy and are unsatisfied with our response, you may wish to direct your complaint to the Office of the Australian Information Commission at <http://www.oaic.gov.au/>, via phone on 1300 363 992 or in writing to the Office of the Australian Information Commissioner, GPO Box 5218, Sydney NSW 2001. 
 
-If you reside in New Zealand, you may wish to direct your compliant to the office of the Privacy Commissioner via email on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)nz, via phone on 0800 803 909 or in writing to the Office of the Privacy Commissioner, PO Box 10 094, The Terrace, Wellington 6143. 
+If you reside in New Zealand, you may wish to direct your compliant to the office of the Privacy Commissioner via email on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), via phone on 0800 803 909 or in writing to the Office of the Privacy Commissioner, PO Box 10 094, The Terrace, Wellington 6143. 
 
 View our [Terms and Conditions of Use](https://web.archive.org/terms)
 
