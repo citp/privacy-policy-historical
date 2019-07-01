@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthmoviesdeath.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507034137id_/https%3A//birthmoviesdeath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthmoviesdeath.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701233215id_/https%3A//birthmoviesdeath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birth.Movies.Death.
 
