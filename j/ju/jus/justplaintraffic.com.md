@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justplaintraffic.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625140047id_/http%3A//www.justplaintraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justplaintraffic.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701074846id_/http%3A//www.justplaintraffic.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
-# Just Plain Traffic Privacy Policy
+# Just Plain Traffic
 
-** Just Plain Traffic Privacy Policy**
+** Just Plain Traffic :: Privacy Policy**
 
   
 Welcome to Just Plain Traffic (the "Site"). 
@@ -17,18 +17,21 @@ How does the Site use Personally Identifiable Information? We use Personally Ide
 
 How is Personally Identifiable Information stored? Personally Identifiable Information collected by Just Plain Traffic is securely stored and is not accessible to third parties. 
 
-What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at support@justplaintraffic.com 
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at admin @ Just Plain Traffic 
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
-How does Just Plain Traffic use login information? Just Plain Trafficuses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+How does Just Plain Traffic use login information? Just Plain Traffic uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
-How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at support@justplaintraffic.com 
+How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by contacting us.
 
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting support@justplaintraffic.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting us. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
 What happens if the Privacy Policy Changes? We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
-Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
-
-Copyright © 2007 Just Plain Traffic All Rights Reserved.
+Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.   
+  
+**Site Statement and Disclosure:** This Site is NOT an MLM, Pyramid Scheme, or Get-Rich-Quick program.  
+We do not require you to pay any fees ever to join and participate in our site. We do not require you to   
+have a website or sell any product to use our service. We do not require you to refer anyone to our site   
+to use our service. You will not get rich by using our program. We are an internet advertising program.
