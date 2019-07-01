@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wersm.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330163709id_/https%3A//wersm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wersm.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701075049id_/https%3A//wersm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • WeRSM - We are Social Media
 
