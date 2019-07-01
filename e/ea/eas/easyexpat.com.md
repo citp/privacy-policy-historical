@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyexpat.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529165103id_/http%3A//www.easyexpat.com/en/popup/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyexpat.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701065536id_/http%3A//www.easyexpat.com/en/popup/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Easy Expat
 
