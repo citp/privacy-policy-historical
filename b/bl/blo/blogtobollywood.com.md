@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtobollywood.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517061208id_/https%3A//blogtobollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtobollywood.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701231615id_/https%3A//blogtobollywood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
