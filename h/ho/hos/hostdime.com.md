@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostdime.com privacy policy that was archived on 2019-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190217001145id_/https%3A//www.hostdime.com/support/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdime.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701160135id_/https%3A//www.hostdime.com/support/legal/privacy.php) for the most accurate reproduction.*
 
 # HostDime Privacy Policy
 
