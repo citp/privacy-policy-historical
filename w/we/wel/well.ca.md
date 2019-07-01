@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the well.ca privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022042829id_/https%3A//well.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the well.ca privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701080112id_/https%3A//well.ca/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice | Well.ca - Canada's online health, beauty, and skin care store Free Shipping
 
@@ -73,4 +73,4 @@ We take steps to try to keep your Personal Information accurate and up-to-date. 
 
 **Contact Us:** You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to request access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact our Chief Privacy Officer in writing: Well.ca, Inc., Chief Privacy Officer, 935-B Southgate Drive, Guelph, ON. N1L 0B9 or at privacy@well.ca. 
 
-**Last Updated:** January 15, 2015 
+**Last Updated:** January, 2017 
