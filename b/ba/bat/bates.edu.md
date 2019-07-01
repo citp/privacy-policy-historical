@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bates.edu privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416143149id_/https%3A//www.bates.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bates.edu privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701180822id_/https%3A//www.bates.edu/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Bates | Bates College
 
