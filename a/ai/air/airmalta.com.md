@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airmalta.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419235600id_/https%3A//www.airmalta.com/information/customer-support/legal-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airmalta.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701101706id_/https%3A//www.airmalta.com/information/customer-support/legal-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
