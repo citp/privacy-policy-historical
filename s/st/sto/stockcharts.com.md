@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockcharts.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045650id_/http%3A//stockcharts.com/docs/doku.php%3Fid%3Dpolicies%3Aprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockcharts.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701051239id_/http%3A//stockcharts.com/docs/doku.php%3Fid%3Dpolicies%3Aprivacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement [Documentation]
 
