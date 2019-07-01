@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601110838id_/http%3A//dealitem.com/Site/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701031630id_/http%3A//www.dealitem.com/Site/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
