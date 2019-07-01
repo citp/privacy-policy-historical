@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyanogenmods.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503030822id_/https%3A//www.cyanogenmods.org/user-agreement-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyanogenmods.org privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702012901id_/https%3A//www.cyanogenmods.org/user-agreement-and-privacy-policy) for the most accurate reproduction.*
 
-# User Agreement and Privacy Policy | LineageOS
+# User Agreement and Privacy Policy - CyanogenMod ROM
 
 Updated on: 25th May 2018
 
@@ -84,11 +84,11 @@ Karnataka – 560087
 
 India
 
-[e-mail Contact](https://www.cyanogenmods.org/cdn-cgi/l/email-protection#6d04030b022d0e140c03020a08030002091e43021f0a)
+[e-mail Contact](mailto:info@cyanogenmods.org)
 
  **Note: If you do not represent a Data Protection Authority in the EEA, please do not use the address above, but instead direct your question(s) to our Privacy Policy Coordinator as described immediately below.**
 
-  10. ##  Privacy Policy Coordinator
+  10. ## Privacy Policy Coordinator
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
@@ -104,7 +104,7 @@ Karnataka – 560087
 
 India
 
-[e-mail Contact](https://www.cyanogenmods.org/cdn-cgi/l/email-protection#2c45424a436c4f554d42434b49424143485f02435e4b)
+[e-mail Contact](mailto:info@cyanogenmods.org)
 
 
 
