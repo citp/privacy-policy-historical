@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itqlick.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419022439id_/https%3A//www.itqlick.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itqlick.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702001433id_/https%3A//www.itqlick.com/Privacy) for the most accurate reproduction.*
 
 # ITQlick Privacy Policy - Read Inside | ITQlick
 
@@ -40,10 +40,10 @@ Information we may collect:
 
 
 
-We reserve the right to update this privacy policy at any time. When we do, we will revise the updated date at the top and/or bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. If you object to any changes, you may [close your account](http://www.itqlick.com/Close). By continuing to use the ITQlick service after notice of changes has been sent to you or published on the ITQlick website, you are consenting to the changes.  
+We reserve the right to update this privacy policy at any time. When we do, we will revise the updated date at the top and/or bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. If you object to any changes, you may [close your account](https://www.itqlick.com/Close). By continuing to use the ITQlick service after notice of changes has been sent to you or published on the ITQlick website, you are consenting to the changes.  
 
 
-Please read this policy and [send us](http://www.itqlick.com/Contact) questions, concerns and suggestions.  
+Please read this policy and [send us](https://www.itqlick.com/) questions, concerns and suggestions.  
 
 
 ### What ITQlick’s Privacy Policy Covers:
@@ -68,7 +68,7 @@ We collect your personal information in the following ways:
 
 In order to become a User, you must provide us the following information to create an account: name, email address, and password. Without this minimal amount of information, you cannot create an ITQlick account. Like other passwords, you should choose one that is known only by you. ITQlick requests other information from you during the registration process, (e.g., location, etc.) that ITQlick uses to provide better, more customized services such as language-specific profile pages and updates, better ads, and more valuable career opportunities. You acknowledge that this information is personal to you, and by creating an account on ITQlick, you allow others, including ITQlick, to identify you and to allow LI to use your information in accordance with our 
 
- _[Terms of Service](http://www.itqlick.com/Terms)_
+ _[Terms of Service](https://www.itqlick.com/Terms)_
 
 .
 
@@ -76,7 +76,7 @@ In order to become a User, you must provide us the following information to crea
 
 Once you become a User, you may provide additional information to your ITQlickProfiledescribing your skills, professional experiences, educational background, products you work with, recommendations and feedback from other ITQlick Users, group memberships, and networking objectives (among other options). Providing additional information about yourself beyond what is minimally required at registration is entirely up to you, but providing additional information enables you to derive more benefit from ITQlick and your professional network by helping you build your professional identity and leverage your professional network and facilitating your search for professional resources, information, and new opportunities. Any information you provide at registration or in the Profile section may be used by ITQlick as described in the 
 
- _[Terms of Service](http://www.itqlick.com/Terms)_
+ _[Terms of Service](https://www.itqlick.com/Terms)_
 
  and this Privacy Policy, including for the purpose of allowing professional opportunities to find you on ITQlick, or for serving more relevant advertisements on ITQlick. Learn more about ITQlick’s advertising practices by reading this privacy policy, in particular Sections 1.H, 2.J, and 2.K. If you decide not to share certain information, you may not receive the full benefit of being an ITQlick User.
 
@@ -89,7 +89,7 @@ By providing email addresses or other information of non-Users to ITQlick, you r
 
 We collect information when you interact with ITQlick’s 
 
- _[customer service](http://www.itqlick.com/contact)_
+ _[customer service](https://www.itqlick.com/)_
 
 in order to accurately categorize and respond to customer inquiries and investigate breaches of our terms.
 
@@ -121,13 +121,13 @@ Due to the communications standards on the internet, when you visit the ITQlick 
 
 You have a right to access, modify, correct and eliminate the data you supplied to ITQlick. If you update any of your information, we may keep a copy of the information that you originally provided to us in our archives for uses documented in this policy. You may request deletion of your information at any time by 
 
- _[contacting ITQlick customer service](http://www.itqlick.com/Contact)_
+ _[contacting ITQlick customer service](https://www.itqlick.com/)_
 
 . We will respond to your request within 30 days. Please note, however that information you have shared with others, or that other Users have copied, may also remain visible even if you request its deletion.
 
 #### K. Data Retention
 
-ITQlick will retain your information for so long as your account is active or as needed to provide you services, except in the case of our professional plugin impression data, which we de-identify after 12 months. If you wish to [close your account, you may do sohere](http://www.itqlick.com/Close). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce this Agreement.
+ITQlick will retain your information for so long as your account is active or as needed to provide you services, except in the case of our professional plugin impression data, which we de-identify after 12 months. If you wish to [close your account, you may do sohere](https://www.itqlick.com/Close). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce this Agreement.
 
 #### L. Pixel Tracking
 
@@ -150,12 +150,12 @@ First, we may disclose user information in special cases when we have reason to 
 
 #### A. Consent to ITQlick Processing Information About You
 
-The information you provide to ITQlick may reveal, or allow others to identify, your nationality, ethnic origin, gender, age, and other aspects of your life. By providing information to us for the purposes of creating your User account or adding any additional details to your ITQlick profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and ITQlick’s User Agreement that allow ITQlick to process information about you. Supplying information to ITQlick, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to ITQlick’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing yourSettings, or by [closing your account](http://www.itqlick.com/Close), but please note that your withdrawal of consent will not be retroactive.
+The information you provide to ITQlick may reveal, or allow others to identify, your nationality, ethnic origin, gender, age, and other aspects of your life. By providing information to us for the purposes of creating your User account or adding any additional details to your ITQlick profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and ITQlick’s User Agreement that allow ITQlick to process information about you. Supplying information to ITQlick, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to ITQlick’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing yourSettings, or by [closing your account](https://www.itqlick.com/Close), but please note that your withdrawal of consent will not be retroactive.
 
 #### B. ITQlick Communications
 
 As described in the User Agreement, we will communicate with you through email, notices posted on the ITQlick website, messages to your ITQlick inbox, or through other means available through the service, including mobile text messages. We may send you a series of emails that help inform new Users about the features of the Services, and we will also send you service messages relating to the functioning of the Services. We may also send you messages with promotional information directly or on behalf of our partners, unless you have opted out of receiving promotional information.  
-You can change your e-mail and contact preferences at any time by logging into your account and changing your [settings](https://www.itqlick.com/) related to your email notification choices. If you wish, you can also opt-out of receiving promotional emails by sending a request to ITQlick customer service through our [customer service site](http://www.itqlick.com/Contact).  
+You can change your e-mail and contact preferences at any time by logging into your account and changing your [settings](https://www.itqlick.com/) related to your email notification choices. If you wish, you can also opt-out of receiving promotional emails by sending a request to ITQlick customer service through our [customer service site](https://www.itqlick.com/).  
 Please be aware that you cannot opt-out of receiving service messages from ITQlick. Also, if we send communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with your receipt of messages on your mobile device (including text messaging charges).
 
 #### C. User Communications
@@ -178,7 +178,7 @@ We may provide aggregated anonymous data about the usage of the Services to thir
 Polls and Surveys may be conducted by ITQlick, ITQlick Users or third parties. As a User, you may be invited to participate in polls and surveys from the ITQlick website. Your selection may be random, or it may be based on your non-personally identifiable information, such as job title, geography, products, company size and/or industry. Whether or not you decide to participate in a poll or survey is completely up to you.  
 After you complete a poll, you will be given access to the aggregate responses of the poll on a results page. Some third parties may target advertisements to you on the results page based on your answers in the poll. Further, ITQlick or third parties may follow up with you via ITQlickMail regarding your participation unless you have opted out of receiving ITQlickMail messages.  
 We may use third parties to deliver incentives to you to participate in surveys or polls. If the delivery of incentives requires your contact information, you may be asked to provide personally identifiable information to the third party fulfilling the incentive offer, which will only be used for the purpose of delivering incentives and/or verifying your contact information. It is up to you whether you provide this information, or whether you desire to take advantage of an incentive.  
-We will not disclose any personally identifiable information to any third parties in connection with the conduct of any polls or surveys. Your consent to use any personally identifiable information for the purposes set forth in the poll or survey will be explicitly requested by the party conducting it. You may opt-out of participating in Surveys by changing your [settings](http://www.itqlick.com/) to stop receiving these inquiries and requests.
+We will not disclose any personally identifiable information to any third parties in connection with the conduct of any polls or surveys. Your consent to use any personally identifiable information for the purposes set forth in the poll or survey will be explicitly requested by the party conducting it. You may opt-out of participating in Surveys by changing your [settings](https://www.itqlick.com/) to stop receiving these inquiries and requests.
 
 #### G. Search
 
