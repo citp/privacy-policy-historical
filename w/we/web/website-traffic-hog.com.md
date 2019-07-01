@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website-traffic-hog.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501173603id_/http%3A//website-traffic-hog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-traffic-hog.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701104436id_/http%3A//website-traffic-hog.com/privacy.php) for the most accurate reproduction.*
 
 # Website-Traffic-Hog and Mailer - Free Traffic Exchange and Mailer
 
