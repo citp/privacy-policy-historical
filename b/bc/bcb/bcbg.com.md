@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825235739id_/https%3A//www.bcbg.com/en/cs-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701191909id_/https%3A//www.bcbg.com/en/cs-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy & Security
+# Privacy & Security | BCBG.com
 
-GBG-BCBG Retail LLC. ("BCBG") is committed to respecting your privacy and recognizes your need to protect personal information that you share with us on our websites. Our goal is to adhere to the principles set forth in this Privacy Policy, which complies with applicable laws and regulatory standards.
+Centric-BCBG Retail LLC. ("BCBG") is committed to respecting your privacy and recognizes your need to protect personal information that you share with us on our websites. Our goal is to adhere to the principles set forth in this Privacy Policy, which complies with applicable laws and regulatory standards.
 
 These specific terms apply to the process and the use of personal data collected within the framework of any order placed from countries outside of the United States.
 
@@ -12,7 +12,9 @@ Terms & Conditions: [_**http://www.Borderfree.com/terms**_](http://www.borderfre
 
 Privacy Policy: [_**http://www.Borderfree.com/privacy**_](http://www.borderfree.com/privacy)
 
-For questions regarding shipping outside of the United States, please contact BCBG at [_guestservices@us.bcbg.com_](mailto:guestservices@us.bcbg.com) or 877.707.2224 in the United States or 972.421.9851 for International customers, seven days per week, 9:00 A.M. – 9:00 P.M. CT Monday through Friday, and 9:00 A.M. – 6:00 P.M. CT Saturday and Sunday, except when closed in observance of the following holidays: New Year’s Day, Easter Sunday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day.
+For questions regarding shipping outside of the United States, please contact us via email at [_guestservices@us.bcbg.com_](mailto:guestservices@us.bcbg.com) or by phone at 1-877-707-2224 within the United States, or 1-972-421-9851 for international customers, Monday through Friday, 9:00 AM – 8:00 PM CT, except when closed in observance of the following holidays: New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day.
+
+Our Customer Service Chat is also available Monday through Friday, 9:00 AM – 6:00 PM CT (not including holidays).
 
 ## POLICY UPDATES
 
@@ -117,7 +119,7 @@ BCBG provides you with ways in which you can modify your personal information. I
 
 #### Closing Your Account
 
-You can disable your account by contacting BCBG at guestservices@us.bcbg.com or 877.707.2224 in the United States or 972.421.9851 for International customers, seven days per week, 9:00 A.M. – 9:00 P.M. CT Monday through Friday, and 9:00 A.M. – 6:00 P.M. CT Saturday and Sunday, except when closed in observance of the following holidays: New Year’s Day, Easter Sunday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day. If you close your BCBG account, we will remove your name and other personally identifiable data from our publicly viewable database. If you close your account, we have no obligation to retain your data, and may delete any or all of your account data without liability. However, we may retain certain data contributed by you if BCBG believes it may be necessary to prevent fraud or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data. BCBG may also retain and use your data if necessary to provide the services to other users. Similarly, data you have shared with others, or that other users have copied, may also remain visible. BCBG disclaims any liability in relation to the deletion or retention (subject to the terms herein) of data or any obligation not to delete the data.
+You can disable your account by contacting us via email at [_guestservices@us.bcbg.com_](mailto:guestservices@us.bcbg.com) or by phone at 1-877-707-2224 within the United States, or 1-972-421-9851 for international customers, Monday through Friday, 9:00 AM – 8:00 PM CT, except when closed in observance of the following holidays: New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day. If you close your account, we have no obligation to retain your data, and may delete any or all of your account data without liability. However, we may retain certain data contributed by you if BCBG believes it is necessary to prevent fraud or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data. BCBG may also retain and use your data if necessary to provide the services to other users. Similarly, data you have shared with other, or that other users have copied, may also remain visible. BCBG disclaims any liability in relation to the deletion or retention (subject to the terms herein) of data or any obligation not to delete the data.
 
 #### Right of Access
 
@@ -125,8 +127,9 @@ In BCBG’s network, you are entitled to access your personal information and to
 
 You may exercise this right at any time by sending a request in writing to:   
 Legal Department   
-GBG-BCBG Retail LLC   
+Centric-BCBG Retail LLC   
 350 Fifth Avenue   
+6th Floor   
 New Yok, NY 10118
 
 BCBG will answer to your request within two (2) months from its receipt, provided that this request is complete, accurate and encloses a stamped envelope with your name and address.
@@ -138,6 +141,7 @@ You may also, on legitimate grounds, object to the processing of your personal i
 If you have any questions regarding this privacy statement, please contact us at:
 
 Legal Department   
-GBG-BCBG Retail LLC   
+Centric-BCBG Retail LLC   
 350 Fifth Avenue   
-New Yok, NY 10118
+6th Floor   
+New York, NY 10118
