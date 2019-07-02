@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nukepills.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129140148id_/https%3A//www.nukepills.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nukepills.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702205205id_/https%3A//www.nukepills.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Prepper Radiation Emergency Protection Supplies
 
