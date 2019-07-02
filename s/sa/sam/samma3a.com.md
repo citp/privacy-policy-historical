@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samma3a.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423234039id_/http%3A//www.samma3a.com/en/get-to-know-us/privacy-policy-11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samma3a.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702094521id_/https%3A//www.samma3a.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
