@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyeducation.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506145554id_/https%3A//www.familyeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyeducation.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702221934id_/https%3A//www.familyeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FamilyEducation
 
