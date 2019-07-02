@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colocrossing.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105160653id_/https%3A//www.colocrossing.com/wp-content/uploads/COLOCROSSING-PRIVACY-POLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colocrossing.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702235355id_/https%3A//www.colocrossing.com/wp-content/uploads/COLOCROSSING-PRIVACY-POLICY.pdf) for the most accurate reproduction.*
 
 # COLOCROSSING PRIVACY POLICY
 
