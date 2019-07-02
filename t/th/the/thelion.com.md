@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelion.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503073605id_/http%3A//www.thelion.com/bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelion.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703005943id_/http%3A//www.thelion.com/bin/privacy.cgi) for the most accurate reproduction.*
 
 # TheLion.com - User
 
