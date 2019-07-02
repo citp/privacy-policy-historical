@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tryinteract.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521210402id_/https%3A//www.tryinteract.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryinteract.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702022608id_/https%3A//www.tryinteract.com/privacy) for the most accurate reproduction.*
 
 # Interact | Privacy Policy
 
-The following privacy policy outlines the types of information gathered by The Quiz Collective, Inc. (doing business as Interact) (“Interact,” “we,” “our,” or “us”) when you visit www.tryinteract.com (the “Site”) or use Interact software (collectively, the “Service”) and steps we take to safeguard it. Interact is located at 1625 Broadway Oakland CA, 94612, and is responsible for the content of the Site as well as the collection and management of user information. Users of Interact’s Services—our direct customers—are referred to herein as “Users.”
+The following privacy policy outlines the types of information gathered by The Quiz Collective, Inc. (doing business as Interact) (“Interact,” “we,” “our,” or “us”) when you visit www.tryinteract.com (the “Site”) or use Interact software (collectively, the “Service”) and steps we take to safeguard it. Interact is located at 2443 Fillmore St #380-14013, San Francisco, CA 94115, and is responsible for the content of the Site as well as the collection and management of user information. Users of Interact’s Services—our direct customers—are referred to herein as “Users.”
 
 This Policy was last updated on July 31st, 2018.
 
@@ -112,6 +112,12 @@ Please note that Interact does not sell, rent or use personal data for reasons o
 
 In compliance with the Privacy Shield Principles, Impact commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact Interact at:
 
+The Quiz Collective, Inc.  
+2443 Fillmore St #380-14013  
+San Francisco, CA 94115  
+[privacy@tryinteract.com](mailto:privacy@tryinteract.com)  
+
+
 Interact has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint. This service is provided free of charge to you.
 
 If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
@@ -120,4 +126,4 @@ If your Privacy Shield complaint cannot be resolved through the above channels, 
 
 We reserve the right, at our sole discretion, to change, modify, add, or remove any portion of this Privacy Policy, in whole or in part, at any time. Modification of changes in the Agreement will be disseminated via our Service, including posting on our website at www.tryinteract.com. By using this website you agree to be bound by any such revisions and should therefore periodically visit the page to determine the then current terms of use to which you are bound.
 
-© The Quiz Collective, Inc. 2018 All Rights Reserved
+© The Quiz Collective, Inc. 2019 All Rights Reserved
