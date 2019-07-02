@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopterrain.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526185809id_/https%3A//www.shopterrain.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopterrain.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702044811id_/https%3A//www.shopterrain.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy + Security - Help + Info - Terrain
 
