@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529081412id_/https%3A//us.help.graze.com/hc/en-us/articles/360000332837-Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702222131id_/https%3A//us.help.graze.com/hc/en-us/articles/360000332837-Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – graze US help
 
