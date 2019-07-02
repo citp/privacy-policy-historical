@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laborlawtalk.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503062340id_/http%3A//www.laborlawtalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laborlawtalk.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703001915id_/http%3A//www.laborlawtalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Labor Law Talk
 
