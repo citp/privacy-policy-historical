@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenfm.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503173923id_/http%3A//zenfm.org/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenfm.org privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703010522id_/http%3A//zenfm.org/terms/privacy-policy) for the most accurate reproduction.*
 
 # play | Privacy Policy
 
@@ -32,6 +32,6 @@ Children under the age of 13 are not permitted to register with Tubuler. It is T
 
 In any case, you affirm that you are over the age of 13, as the Website is not intended for children under 13. If you are under 13 years of age, do not use or access the Tubuler website at any time or in any manner. 
 
-If you are the parent or legal guardian of a child under 13, and that child has somehow registered with Tubuler, please send an e-mail to tubuler1@yahoo.com for instructions on how to cancel your child's registration. In the e-mail, please provide your full name and address, your child's full name and address, your relationship to the child, your daytime and evening telephone numbers, your email address and a signed statement that you are the child's parent or legal guardian. Tubuler will use this information only to verify that you are the child's parent or legal guardian and for no other purposes. 
+If you are the parent or legal guardian of a child under 13, and that child has somehow registered with Tubuler, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for instructions on how to cancel your child's registration. In the e-mail, please provide your full name and address, your child's full name and address, your relationship to the child, your daytime and evening telephone numbers, your email address and a signed statement that you are the child's parent or legal guardian. Tubuler will use this information only to verify that you are the child's parent or legal guardian and for no other purposes. 
 
 Modified on 2018 January 1st 
