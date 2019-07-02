@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcorporation.net privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321211523id_/https%3A//bcorporation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcorporation.net privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702124527id_/https%3A//bcorporation.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Certified B Corporation
 
