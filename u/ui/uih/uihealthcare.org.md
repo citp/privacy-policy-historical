@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529140649id_/https%3A//uihc.org/node/107836) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702033751id_/https%3A//uihc.org/node/107836) for the most accurate reproduction.*
 
 # Privacy Notice in English | University of Iowa Hospitals & Clinics
 
