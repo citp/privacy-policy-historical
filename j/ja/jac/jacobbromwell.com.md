@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the jacobbromwell.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910181904id_/https%3A//www.jacobbromwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobbromwell.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702052431id_/https%3A//www.jacobbromwell.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jacob Bromwell®
+# Privacy Policy | Jacob Bromwell
 
-## PRIVACY POLICY - THE BROMWELL COMPANY, INC.  
-
-
-Rev: 5/25/2018
+Rev: 1/1/2019
 
 ## GENERAL
 
@@ -71,13 +68,13 @@ We may provide links to websites outside of our Website. These linked sites are 
 
 * * *
 
-If after registering on or otherwise providing your Personal Information when visiting our Website you no longer wish to receive any materials, offers or correspondence, please send an email to [info@bromwell.com](mailto:info@bromwell.com), indicating your preference to "unsubscribe" and we will promptly remove you from our list. Please be sure to include your name and email address in your email. You can also submit your opt-out request through this self-service form, email opt-out.
+If after registering on or otherwise providing your Personal Information when visiting our Website you no longer wish to receive any materials, offers or correspondence, please send an email to [cs@bromwell.com](mailto:cs@bromwell.com), indicating your preference to "unsubscribe" and we will promptly remove you from our list. Please be sure to include your name and email address in your email. You can also submit your opt-out request through this self-service form, email opt-out.
 
 ## CONTACT US
 
 * * *
 
-If you have any questions regarding this privacy policy or would like to have any Personal Information updated or deleted from our records please contact us at: [info@bromwell.com](mailto:info@bromwell.com)
+If you have any questions regarding this privacy policy or would like to have any Personal Information updated or deleted from our records please contact us at: [cs@bromwell.com](mailto:cs@bromwell.com)
 
 ## HOW TO PROTECT THE SECURITY OF YOUR FINANCIAL INFORMATION
 
