@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biginterview.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516041454id_/https%3A//biginterview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biginterview.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702113016id_/https%3A//biginterview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Interview - Job Interview Training
 
