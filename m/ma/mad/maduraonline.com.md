@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maduraonline.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715210020id_/http%3A//www.maduraonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maduraonline.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702141556id_/https%3A//maduraonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -65,7 +65,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 Your Consent
 
-By using our site, you consent to our [online privacy policy](http://www.maduraonline.com/privacy.html).
+By using our site, you consent to our [online privacy policy](https://www.maduraonline.com/privacy.html).
 
 Changes to our Privacy Policy
 
@@ -79,4 +79,4 @@ Madura Kulatunga
 313/4/C, Gonamaditta Road  
 Piliyandala 10300  
 Sri Lanka  
-[info@maduraonline.com](mailto:info@maduraonline.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#71181f171e311c10150403101e1f1d181f145f121e1c)
