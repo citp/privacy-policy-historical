@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patagonia.ca privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531060946id_/https%3A//www.patagonia.ca/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patagonia.ca privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702074104id_/https%3A//www.patagonia.ca/privacy-policy.html) for the most accurate reproduction.*
 
 # Patagonia Customer Service - Security & Privacy
 
