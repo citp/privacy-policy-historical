@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsafetab.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502174634id_/http%3A//topsafetab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsafetab.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702115450id_/http%3A//www.topsafetab.com/privacy) for the most accurate reproduction.*
 
 # 
 
