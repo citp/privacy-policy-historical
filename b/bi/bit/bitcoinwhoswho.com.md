@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinwhoswho.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417211851id_/https%3A//bitcoinwhoswho.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinwhoswho.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702200627id_/https%3A//bitcoinwhoswho.com/privacypolicy) for the most accurate reproduction.*
 
 # Bitcoin Address Lookup, Checker and Alerts - BitcoinWhosWho
 
