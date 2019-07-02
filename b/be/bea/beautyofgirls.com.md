@@ -1,47 +1,132 @@
-> *The following text is extracted and transformed from the beautyofgirls.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614210514id_/http%3A//beautyofgirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyofgirls.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702225711id_/https%3A//www.beautyofgirls.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Beauty of Girls
 
-We value your readership and respect your privacy.  
-We never sell your personal information to third parties. This policy may be revised or updated at any time, so please check back often to find the latest version.
+Effective date: July 10, 2018
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **info@beautyofgirls.com**
+beautyofgirls.com (“us”, “we”, or “our”) operates the https://beautyofgirl.wpengine.com website (the “Service”).
 
-**Log Files**  
-Like many other Web sites, beautyofgirls.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-**Cookies and Web Beacons**  
-beautyofgirls.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://beautyofgirl.wpengine.com
 
-You may disallow it by your browser setting.
+## Information Collection And Use
 
-**Google Analytics and AdSense cookies**
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-beautyofgirls.com uses Google Analytics and AdSense programs, please go through [Google’s privacy practices](https://www.google.com/policies/privacy/) and [Google uses data on partner sites](https://www.google.com/policies/privacy/partners/) for more information about their privacy policies.
+### Types of Data Collected
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on beautyofgirls.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to beautyofgirls.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+#### Personal Data
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include..  
-Google Adsense
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-**Web Counters and Web Analytics**  
-We use Google Analytics and Statcounter, which may collect and use the data contained in log files. which include IP (internet protocol) address, ISP (internet service provider), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. We use Google analytics and Statcounter. Both are safe to use, please visit below urls for their privacy policies.  
-[Statcounter Privacy Policy](http://statcounter.com/about/legal/?PHPSESSID=1cc4p9njj7gjfgfjvfuuuq14f3#privacy) and [Google Analytics Privacy Policy](https://support.google.com/analytics/answer/6004245?hl=en)
+  * Cookies and Usage Data
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on beautyofgirls.com send directly to your web browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-beautyofgirls.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. beautyofgirls.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+#### Usage Data
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-**Cookies and Geo-targeting of Advertisements:**  
-We also use third party advertisements on funbudding.com to support our site. Some of these advertisers may use cookies when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, and the browser you used to visit our site (but not including your name, address, email address, telephone number or any other personal information). This is generally used for geo-targeting purposes (showing relevant advertisers to visitors from specific area). If you would like more information about these practices, [click here](http://www.google.com/policies/technologies/ads/):
+#### Tracking & Cookies Data
 
-In case you want to claim any business or update or remove business information, remove image/ video or any content from beautyofgirls.com’s pages, please email us at **info@beautyofgirls.com**
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-If you have any obligation with our content, you can request us to remove from our website, for that please email us at **info@beautyofgirls.com**
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+## Use of Data
+
+beautyofgirls.com uses the collected data for various purposes:
+
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
+
+
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+beautyofgirls.com will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+beautyofgirls.com may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of beautyofgirls.com
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By visiting this page on our website: https://beautyofgirl.wpengine.com/contact/
+
+
