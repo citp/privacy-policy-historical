@@ -1,31 +1,126 @@
-> *The following text is extracted and transformed from the isnare.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311143106id_/https%3A//www.isnare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isnare.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702064856id_/https%3A//captchas.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: Isnare.com Free Articles
+# CAPTCHAs.IO: Privacy Policy
 
-**General**
+CAPTCHAs.IO ("us", "we", or "our") operates the <https://captchas.io/> website (the "Service").
 
-Isnare.com Free Articles Directory and Search Engine website is committed to protect every individual's privacy. Our database holding emails of registered user accounts and other substantial data such as: I.P. Addresses, Home Addresses, Phone Numbers and other personal information that were provided during registration; will never be given out to anyone not unless required by Law or we receive an order from the Court to release such information.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-**Agreement**
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from <https://captchas.io/>
 
-BY ACCESSING THE WEBSITE https://WWW.ISNARE.COM OR ANY PAGE HOSTED BY THE URL WWW.ISNARE.COM, YOU HEREBY AGREE TO THIS PRIVACY POLICY.
+## Information Collection And Use
 
-**Data Collection**
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-Upon registration of new accounts at Isnare.com registration page (www.isnare.com/register.php), all personal data is kept private and stored in a protected database for purposes of user operations, evaluations and other marketing strategies needed only for Isnare.com.
+### Types of Data Collected
 
-**Session Cookies**
+#### Personal Data
 
-A session cookie is an HTTP cookie that web servers use to track a logged-in user's validity. Wikipedia (https://en.wikipedia.org/wiki/HTTP_cookie) defines an HTTP cookie as "a small string of text stored on a user's computer by a web browser. A cookie consists of one or more name-value pairs containing bits of information such as user preferences, shopping cart contents, the identifier for a server-based session, or other data used by websites.".
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-These session cookies are harmless to any computer. It is only used to track the validity of a logged-in user. Isnare.com Free Articles website has a timeout period set in all its web servers. If a logged-in user stays in-active for certain period of time the user's session will timeout for security.
+  * Email address
+  * First name and last name
+  * Phone number
+  * Address, State, Province, ZIP/Postal code, City
+  * Cookies and Usage Data
 
-**3rd Party Advertisements**
 
-Isnare.com Free Articles Directory includes 3rd party advertisements from Google.com (Google Inc.). These advertisements are the text-based advertisements and the banner advertisements seen in the Isnare.com Free Articles pages.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. 
+#### Usage Data
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+## Use of Data
+
+CAPTCHAs.IO uses the collected data for various purposes:
+
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
+
+
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Philippines and choose to provide information to us, please note that we transfer the data, including Personal Data, to Philippines and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+CAPTCHAs.IO will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+CAPTCHAs.IO may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of CAPTCHAs.IO
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: [admin@captchas.io](mailto:admin@captchas.io)
+  * By phone number: +63-(927)-700-2240
+
+
+
+* * *
