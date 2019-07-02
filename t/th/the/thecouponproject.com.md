@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecouponproject.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926125737id_/http%3A//thecouponproject.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecouponproject.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702045841id_/https%3A//thecouponproject.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Coupon Project
 
-Disclosure: the post below may contain affiliate links. When you make a purchase or take action using these links, the site makes commission. For more information, please see my [Disclosure Policy](http://thecouponproject.com/disclosure/). 
+Disclosure: the post below may contain affiliate links. When you make a purchase or take action using these links, the site makes commission. For more information, please see my [Disclosure Policy](https://thecouponproject.com/disclosure/). 
 
-This policy is valid from May 2018
+This policy is valid from February 2019
 
 We at The Coupon Project (the “Site”) understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via our site and how we use and disclose such information.
 
@@ -20,7 +20,7 @@ We use cookies for the following purposes:
 
 (d) [analysis – we use cookies [to help us to analyze the use and performance of our website and services];
 
-We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: [https://www.google.com/policies/privacy/.](https://www.google.com/policies/privacy/) If you wish to opt out, please visit https://tools.google.com/dlpage/gaoptout/.
 
 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
@@ -28,7 +28,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
 
-(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+(c) <https://www.opera.com/help/tutorials/security/cookies/> (Opera);
 
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
@@ -42,7 +42,7 @@ Please note that blocking cookies may have a negative impact on the functions of
 
 This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies.
 
-By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third-party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third-party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [https://optout.networkadvertising.org](https://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
 **For European Economic Area Residents**
 
