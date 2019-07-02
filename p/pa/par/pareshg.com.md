@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pareshg.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601045614id_/http%3A//pareshg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pareshg.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702150031id_/http%3A//pareshg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Par God
 
