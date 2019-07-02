@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traxads.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622015249id_/http%3A//www.traxads.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traxads.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702040213id_/http%3A//www.traxads.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Trax Ads
 
