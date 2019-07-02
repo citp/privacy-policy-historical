@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placehold.it privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602215319id_/https%3A//placeholder.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placehold.it privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702023427id_/https%3A//placeholder.com/about/privacy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy for Placeholder.com
 
