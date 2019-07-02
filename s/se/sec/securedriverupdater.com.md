@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securedriverupdater.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502203306id_/http%3A//www.securedriverupdater.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedriverupdater.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702141440id_/http%3A//www.securedriverupdater.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy – Secure Driver Updater
 
