@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorizer.io privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324084853id_/https%3A//www.vectorizer.io/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorizer.io privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702193334id_/https%3A//www.vectorizer.io/privacypolicy) for the most accurate reproduction.*
 
 # Online Image Vectorizer
 
