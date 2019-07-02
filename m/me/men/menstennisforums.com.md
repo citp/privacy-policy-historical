@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menstennisforums.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331093821id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dmenstennisforums.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menstennisforums.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702153407id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dmenstennisforums.com) for the most accurate reproduction.*
 
 # 
 
