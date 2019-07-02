@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eareview.net privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119133006id_/https%3A//eareview.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eareview.net privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702080035id_/https%3A//eareview.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
