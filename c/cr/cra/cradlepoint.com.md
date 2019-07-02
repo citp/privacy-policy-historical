@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205041243id_/https%3A//cradlepoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702222001id_/https%3A//cradlepoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cradlepoint
 
@@ -51,6 +51,10 @@ Cradlepoint may monitor customer’s use of subscription services and compile cu
   * To notify you about changes to Cradlepoint’s products and services;
   * To ensure that content from Cradlepoint web sites is presented in the most effective manner; and
   * To operate, support and improve the products and services you have purchased or to which you have subscribed.
+
+
+  * [Update your Communication Preferences](http://info.cradlepoint.com/Subscription-Center.html)
+  * [Exercise your California and EU Consumer/Data Subject Rights](http://info.cradlepoint.com/Privacy-Management-and-Data-Request.html)
 
 
 
