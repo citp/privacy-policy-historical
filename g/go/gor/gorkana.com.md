@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524183313id_/http%3A//www.gorkana.com/about-gorkana/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702153932id_/https%3A//www.gorkana.com/about-gorkana/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gorkana
 
@@ -20,9 +20,9 @@ Please click on the sections below to learn more about our Privacy Policy:
   * **HOW WE COLLECT INFORMATION FROM YOU**
   * **HOW YOUR INFORMATION MAY BE USED**
   * **HOW YOUR INFORMATION MAY BE SHARED**
-  * [**COOKIES & OTHER TRACKING MECHANISMS**](http://www.gorkana.com/cookie-policy/)
-  * [**DO NOT TRACK DISCLOSURE**](http://www.gorkana.com/cookie-policy/)
-  * [**YOUR CHOICES**](http://www.gorkana.com/cookie-policy/)
+  * [**COOKIES & OTHER TRACKING MECHANISMS**](https://www.gorkana.com/cookie-policy/)
+  * [**DO NOT TRACK DISCLOSURE**](https://www.gorkana.com/cookie-policy/)
+  * [**YOUR CHOICES**](https://www.gorkana.com/cookie-policy/)
   * **SECURING YOUR PERSONAL INFORMATION**
   * **CHILDREN**
   * **THIRD-PARTY INFORMATION COLLECTION**
@@ -41,7 +41,7 @@ This Policy should be read together with our related Privacy Notices, in particu
 If you are a **customer** of any of our services. | We will collect and process your individual contact information and other personal data in accordance with our [**_Customer Privacy Notice_**](https://gdpr.cision.com/dataprivacynotice_customersprospects) and any other agreement that we may have with your business.  
 ---|---  
 If you are an **influencer or other media contact** in our media database. | We will collect and process your contact information and media profile in accordance with our [**_Data Privacy Notice – Influencers and Other Media Contacts_**](https://gdpr.cision.com/dataprivacynotice_influencers).  
-If you **visit or register with any of our websites** (other than as a Customer or Influencer). | We will collect and use your personal information in accordance with this Privacy Policy. In particular, we may see how you use our websites and what content you interact with and for how long.  This may involve the use of cookies which is explained in our [**_Cookie Policy_**](http://www.gorkana.com/cookie-policy/).  
+If you **visit or register with any of our websites** (other than as a Customer or Influencer). | We will collect and use your personal information in accordance with this Privacy Policy. In particular, we may see how you use our websites and what content you interact with and for how long.  This may involve the use of cookies which is explained in our [**_Cookie Policy_**](https://www.gorkana.com/cookie-policy/).  
 If you are a **supplier** and you or your company provides us with goods or services. | We may collect your individual contact information in order to communicate with you and may use other information that we need in order to manage our account with your business.  We will process such data in accordance with this Privacy Policy and any other agreement that we may have with you.  
 If you are **invited to or attend one or our events** | We will collect and process your contact information and any other information we may need to manage our invitation and your attendance (including for example dietary or special access requirements) in accordance with this Privacy Policy.  
 If you **apply for a job** with us | We will process your personal information in accordance with our [**_Candidate Privacy Notice_**](https://careers.jobvite.com/cision-global/Cision-Candidate-Privacy-Policy-2018.pdf) which will be sent to you when you apply.  
@@ -116,7 +116,7 @@ We may also share aggregate or anonymous data for marketing, advertising, resear
 
 In the event that we receive a request from a governmental entity to provide it with your personal information, we will take reasonable attempts to notify you of such request, to the extent reasonably possible and legally permissible.
 
-[**_Cookies & Other Tracking Mechanisms_**](http://www.gorkana.com/cookie-policy/)
+[**_Cookies & Other Tracking Mechanisms_**](https://www.gorkana.com/cookie-policy/)
 
 **_Securing Your Personal Information_**
 
