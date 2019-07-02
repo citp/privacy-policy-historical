@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xmlgold.eu privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302142955id_/https%3A//www.xmlgold.eu/en/site/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmlgold.eu privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702133146id_/https%3A//www.xmlgold.eu/en/site/cookies) for the most accurate reproduction.*
 
-# Cookies Site
+# Cookie policy - XMLGold
 
 ## COOKIE POLICY
 
