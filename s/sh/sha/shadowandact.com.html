@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shadowandact.com privacy policy that was archived on 2019-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330084010id_/https%3A//shadowandact.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shadowandact.com privacy policy that was archived on 2019-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190702190444id_/https%3A//www.shadowandact.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     
@@ -29,9 +29,10 @@
     <meta name="twitter:image" content="http://blavity.blavity.netdna-cdn.com/wp-content/uploads/2014/11/IMG_9764.jpg?d600af">
     <meta name="twitter:domain" content="shadowandact.com">
     <!--/ for twitter shares-->
+    <meta name="tag-slugs" content="">
     <meta http-equiv="Expires" content="1">
     <link href="https://fonts.googleapis.com/css?family=Mukta+Vaani|Slabo+27px|Sorts+Mill+Goudy" rel="stylesheet">
-    <script async="" type="text/javascript" src="//prod.adspsp.com/adb.2716080.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//load.sumome.com/" data-sumo-site-id="647119b84ee190a7146ab71bf0c79bacc3f29cbc1b8bfcd2a48e2a8c5b82d5bb" async="async"></script>
+    <script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" type="text/javascript" src="//prod.adspsp.com/adb.2716080.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//load.sumome.com/" data-sumo-site-id="647119b84ee190a7146ab71bf0c79bacc3f29cbc1b8bfcd2a48e2a8c5b82d5bb" async="async"></script>
     <link href="/src/style.css" rel="stylesheet" type="text/css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css">
@@ -170,6 +171,7 @@ qacct:"p-CQLVSwcVaN3t5"
     }
   })();
 </script>
+
 <!-- Addition of 1x1 ad unit to current ad tag -->
 <script>
   AdBridg.cmd.push(function() {
@@ -179,13 +181,65 @@ qacct:"p-CQLVSwcVaN3t5"
            .addService(googletag.pubads());
   });
 </script>
-<!-- <script src="//biddr.brealtime.com/30502114-1067.js" type="text/javascript"></script> -->
+
 <script>
 
 var block_ads = false;
 if(!block_ads){
+  //load the apstag.js library
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+  //initialize the apstag.js library on the page to allow bidding
+  AdBridg.cmd.push(function (){
+    AdBridg.lock('Amazon');
+  })
+  apstag.init({
+    pubID: 'fa641ac5-3be6-4213-a9a2-56dbb880db7c', //enter your pub ID here as shown above, it must within quotes
+    adServer: 'googletag'
+  });
+  apstag.fetchBids({
+    slots: [{
+      slotID: 'high-impact-banner',
+      slotName: '/11462305847/shadow',
+      sizes: [[970,250], [970,90], [728, 90]]
+    },
+    {
+      slotID: 'header-banner',
+      slotName: '/11462305847/shadow',
+      sizes: [[970,90],[728,90]]
+    },
+    {
+      slotID: 'sidebar-top',
+      slotName: '/11462305847/shadow',
+      sizes: [[300,600],[320, 480],[300,250]]
+    },
+    {
+      slotID: 'sidebar-bottom',
+      slotName: '/11462305847/shadow',
+      sizes: [[300,600],[320, 480],[300,250]]
+    },
+    {
+      slotID: 'content-banner-1',
+      slotName: '/11462305847/shadow',
+      sizes: [[728,90],[320,50]]
+    }],
+    timeout: 2e3
+  }, function (bids) {
+    AdBridg.cmd.push(function () {
+      apstag.setDisplayBids();
+      AdBridg.unlock('Amazon');
+    });
+  });
 
   AdBridg.cmd.push(function() {
+    var tagSlugs = [];
+    var metaTags = document.getElementsByTagName('meta');
+    for (var i = 0; i < metaTags.length; ++i) {
+      if (metaTags[i].getAttribute('name') === 'tag-slugs') {
+        tagSlugs = metaTags[i].getAttribute('content').split(',');
+        break;
+      }
+    }
 
     var mapping1 = AdBridg.sizeMapping().
       addSize([1024, 0], [[970,250], [970,90], [728, 90]]).
@@ -229,6 +283,7 @@ if(!block_ads){
     }
 
     googletag.pubads().setCentering(true);
+    googletag.pubads().setTargeting('tags', tagSlugs);
     AdBridg.serve();
 
     function doneResizing() {
@@ -321,7 +376,6 @@ if(!block_ads){
                 <nav class="sm-col-12 clearfix relative">
                     <div class="col-12 md-col md-col-8 palette-tan-hover header-menu" ng-class="navBurgerBar? 'active': ''">
                       <ul class="main-menu">
-                        <li class="md-p1 inline-block palette-teal-bg white uppercase pointer pb1" ng-if="!isLogin"><a href="/register" title="Share Your Work">Share Your Work</a></li>
                         <li class="md-p1 inline-block"><a href="/category/film" title="FILM">FILM</a></li>
                         
                         <li class="md-p1 inline-block"><a href="/category/television" title="TELEVISION">TELEVISION</a></li>
@@ -484,9 +538,6 @@ if(!block_ads){
 
   <!--<script src="/src/vendor.min.js"></script>-->
   <script src="/bower_components/adm-dtp/dist/ADM-dateTimePicker.min.js"></script>
-  <script src="https://content.jwplatform.com/libraries/9QoG61nu.js"></script>
-
-  <script>jwplayer.key = "dICZ+cNLvbLaGVp347ufp1F5Io3HhJmoKVRG9sg7Joc=";</script>
 
   <!-- <script src="/ja/plugins/directive"></script>-->
 
