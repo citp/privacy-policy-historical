@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just2sisters.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517135745id_/https%3A//www.midlifehealthyliving.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just2sisters.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702103334id_/https%3A//www.midlifehealthyliving.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy | Midlife Healthy Living
 
