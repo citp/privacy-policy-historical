@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uchastings.edu privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323064522id_/https%3A//www.uchastings.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uchastings.edu privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702215509id_/https%3A//www.uchastings.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Notice - UC Hastings College of the Law
 
