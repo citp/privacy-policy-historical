@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sogood.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530192923id_/http%3A//sogood.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogood.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702231917id_/http%3A//www.sogood.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
