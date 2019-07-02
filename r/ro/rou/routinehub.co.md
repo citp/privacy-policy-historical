@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routinehub.co privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613185552id_/https%3A//routinehub.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routinehub.co privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702173331id_/https%3A//routinehub.co/privacy) for the most accurate reproduction.*
 
 # RoutineHub • Legal
 
