@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926145913id_/https%3A//www.kfh.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702230745id_/https%3A//www.kfh.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # KFH Privacy Policy
 
