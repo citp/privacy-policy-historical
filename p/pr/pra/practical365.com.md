@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practical365.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524003358id_/https%3A//practical365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practical365.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702180327id_/https%3A//practical365.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
