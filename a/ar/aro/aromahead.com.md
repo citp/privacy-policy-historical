@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aromahead.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518171900id_/https%3A//www.aromahead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aromahead.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702233926id_/https%3A//www.aromahead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aromatherapy School and Courses - Aromahead Institute
 
