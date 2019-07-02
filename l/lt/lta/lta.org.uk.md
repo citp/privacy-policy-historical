@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423041921id_/https%3A//www.lta.org.uk/about-us/what-we-do/governance-and-structure/policies-and-rules/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702153828id_/https%3A//www.lta.org.uk/about-us/what-we-do/governance-and-structure/policies-and-rules/privacy-policy) for the most accurate reproduction.*
 
 # Read More On The LTA User Privacy Policy | LTA
 
