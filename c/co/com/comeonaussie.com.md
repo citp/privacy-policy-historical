@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeonaussie.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612163409id_/http%3A//www.comeonaussie.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeonaussie.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702101241id_/http%3A//www.comeonaussie.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Come On Aussie Internet Services : Come On Aussie
 
