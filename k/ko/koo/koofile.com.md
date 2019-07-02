@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koofile.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502214806id_/http%3A//koofile.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koofile.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702105417id_/http%3A//koofile.com/pages/privacy.html) for the most accurate reproduction.*
 
 # KooFile - Online Storage, Backup & Cloud Content Management
 
