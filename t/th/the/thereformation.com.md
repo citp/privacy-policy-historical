@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416025547id_/https%3A//www.thereformation.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702230240id_/https%3A//www.thereformation.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Reformation
 
