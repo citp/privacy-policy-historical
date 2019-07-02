@@ -1,855 +1,566 @@
-<!--The following is the downloaded HTML source of the conservice.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508082537id_/https%3A//www.conservice.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the conservice.com privacy policy that was archived on 2019-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190702080840id_/https%3A//www.conservice.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="Scripts/jquery-1.4.2.min.js"></script>
-
-<script type="text/javascript" src="Scripts/jquery.marquee.js"></script>
-
-
-
-<script type="text/javascript">
-   <!--    //
-    var use_debug = false;
-
-    function debug() {
-        if (use_debug && window.console && window.console.log) console.log(arguments);
-    }
-
-    // on DOM ready
-    $(document).ready(function() {
-        $(".marquee").marquee({
-            loop: -1, showSpeed: 1000
-       , scrollSpeed: 5
-       , pauseSpeed: 5000
-       , pauseOnHover: true
-       , loop: -1
-       , fxEasingShow: "swing"
-       , fxEasingScroll: "linear"
-            // this callback runs when the marquee is initialized
-			, init: function($marquee, options) {
-			    debug("init", arguments);
-			    if ($marquee.is("#marquee2")) options.yScroll = "bottom";
-			}
-			    , beforeshow: function($marquee, $li) {
-			        debug("beforeshow", arguments);
-			        var width = $li.width();
-			        // alert(t);
-			        if (width == 500) {
-			            $(".marquee").css({ 'width': '700' });
-			            $("#Div8").css({ 'padding-left': '150' });
-			        }
-			        else {
-			            $(".marquee").css({ 'width': '850' });
-			            $("#Div8").css({ 'padding-left': '50' });
-			        }
-			    }
-            //   alert('pp');  }
-
-
-        });
-    });
-
-    //-->          
-
-
-    function clearClientLogin() {
-        $('#ctl00_pnlLogin input:text').val(""); //clear all form values
-    }
-
-    function clearResidentLogin() {
-        $('#ctl00_pnlResidentLogin input:text').val(""); //clear all form values      
-    }
-
-    function clearConstructLogin() {
-        $('#ctl00_pnlConstructLogin input:text').val(""); //clear all form values
-    }
-
-    function clearSynergyLogin() {
-        $('#ctl00_pnlSynergyLogin input:text').val(""); //clear all form values
-    }
-
-    function clearSymphonyLogin() {
-        $('#ctl00_pnlSymphonyLogin input:text').val(""); //clear all form values
-    }
-
-    function clearControlLogin() {
-        $('#ctl00_pnlControlLogin input:text').val(""); //clear all form values
-    }
-
-    function validateCheckboxes(oSrc, args) {
-        alert("validating checkboxes");
-    }
-</script>
-
-
-
-<script language="JavaScript" type="text/JavaScript">
-
-    //Avoid building up queueing of mouse leave and mouse over events thus preventing bounce effect on the menu
-    var n1 = 0, n11 = 0, n2 = 0, n21 = 0, n3 = 0, n31 = 0, n4 = 0, n41 = 0;
-    $(document).ready(function() {
-        //Menu Tab1
-        // hide load div initially
-        $("#mymenu1").hide();
-        $("#menu1").mouseover(function() {
-            if (!($("#mymenu1").is(':visible')) && (n11 == 0)) {
-                $("#mymenu1").stop(true, true).slideDown("slow", function() { $("#mymenu1").show(); });
-                n1 = 1;
-                n11 = 1;
-            }
-        });
-
-        $("#nav-container1").mouseleave(function() {
-            if (($("#mymenu1").is(':visible')) && (n1 == 1)) {
-                $("#mymenu1").stop(true, true).slideToggle("slow", function() { $("#mymenu1").hide(); });
-                n1 = 0;
-                n11 = 0;
-            }
-        });
-
-        //Menu Tab2
-        $("#mymenu2").hide();
-        $("#menu2").mouseover(function() {
-            if (!($("#mymenu2").is(':visible')) && (n21 == 0)) {
-                $("#mymenu2").stop(true, true).slideToggle("slow", function() { $("#mymenu2").show(); });
-                n2 = 1;
-                n21 = 1;
-            }
-        });
-        $("#nav-container2").mouseleave(function() {
-            if (($("#mymenu2").is(':visible')) && (n2 == 1)) {
-                $("#mymenu2").stop(true, true).slideToggle("slow", function() { $("#mymenu2").hide(); });
-                n2 = 0;
-                n21 = 0;
-            }
-        });
-
-        //Menu Tab3
-        $("#mymenu1").hide();
-        $("#menu3").mouseover(function() {
-            if (!($("#mymenu3").is(':visible')) && (n31 == 0)) {
-                $("#mymenu3").stop(true, true).slideToggle("slow", function() { $("#mymenu3").show(); });
-                n3 = 1;
-                n31 = 1;
-            }
-        });
-        $("#nav-container3").mouseleave(function() {
-            if (($("#mymenu3").is(':visible')) && (n3 == 1)) {
-                $("#mymenu3").stop(true, true).slideToggle("slow", function() { $("#mymenu3").hide(); });
-                n3 = 0;
-                n31 = 0;
-            }
-        });
-
-        //Menu Tab4
-        $("#mymenu1").hide();
-        $("#menu4").mouseover(function() {
-            if (!($("#mymenu4").is(':visible')) && (n41 == 0)) {
-                $("#mymenu4").stop(true, true).slideDown("slow", function() { $("#mymenu4").show(); });
-                n4 = 1;
-                n41 = 1;
-            }
-        });
-        $("#nav-container4").mouseleave(function() {
-            if (($("#mymenu4").is(':visible')) && (n4 == 1)) {
-                $("#mymenu4").slideUp("slow", function() { $("#mymenu4").hide(); });
-                n4 = 0;
-                n41 = 0;
-            }
-        });
-
-
-        //  Jquery script to reset visited links
-        $('#insidefooter1 a').each(function() {
-            var anchor = $(this);
-            anchor.css({ 'color': '#42466b' });
-        });
-
-    });
-</script>
-
-
-
-    <!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="CSS/IE7Menu.css" />
-<![endif]-->
-    <!---// load jQuery  and Marquee--->
-    <link type="text/css" href="CSS/jquery.marquee.css" rel="stylesheet" title="default" media="all"><link type="text/css" href="CSS/Content.css" rel="stylesheet" media="all"><link type="text/css" href="CSS/Menu.css" rel="stylesheet" title="default" media="all"><link href="CSS/Login.css" rel="stylesheet" type="text/css" media="all" title=""><link href="CSS/loginresidents.css" rel="stylesheet" type="text/css" media="all"><link rel="SHORTCUT ICON" href="Images/conserv.ico"><title>
-	Conservice
-</title>
-    <style type="text/css">
-        .style1
-        {
-            height: 90px;
-        }
-    </style>
-</head>
-<body id="Mainbody" style="background: #8A8CA3 url(Images/BackgroundImage.jpg) repeat-x top center;
-    padding: 0; margin: 0; overflow: auto;">
-    <form name="aspnetForm" method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYTBRZjdGwwMCRidG5kZWZhdWx0SGVhZGVyBRxjdGwwMCRpbWdidG5jbG9zZWNsaWVudGxvZ2luBRljdGwwMCR1c3Jsb2dpbiRSZW1lbWJlck1lBR9jdGwwMCR1c3Jsb2dpbiRMb2dpbkltYWdlQnV0dG9uBR5jdGwwMCRpbWdidG5jbG9zZXJlc2lkZW50bG9naW4FHmN0bDAwJHJlc2lkZW50TG9naW4kUmVtZW1iZXJNZQUkY3RsMDAkcmVzaWRlbnRMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR1jdGwwMCRpbWdidG5jbG9zZXN5bmVyZ3lsb2dpbgUdY3RsMDAkc3luZXJneUxvZ2luJFJlbWVtYmVyTWUFI2N0bDAwJHN5bmVyZ3lMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR5jdGwwMCRpbWdidG5jbG9zZXN5bXBob255bG9naW4FHmN0bDAwJHN5bXBob255TG9naW4kUmVtZW1iZXJNZQUkY3RsMDAkc3ltcGhvbnlMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR1jdGwwMCRpbWdidG5Db250cm9sQ2xvc2VMb2dpbgUdY3RsMDAkY29udHJvbExvZ2luJFJlbWVtYmVyTWUFI2N0bDAwJGNvbnRyb2xMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR9jdGwwMCRpbWdidG5Db25zdHJ1Y3RDbG9zZUxvZ2luBR9jdGwwMCRjb25zdHJ1Y3RMb2dpbiRSZW1lbWJlck1lBSVjdGwwMCRjb25zdHJ1Y3RMb2dpbiRMb2dpbkltYWdlQnV0dG9uCCUHngMjwTMlWTDFDZv6QJmlpBY=">
-
-
-<script src="/ScriptResource.axd?d=FW0xDoBNoKgm0E24yivAeNl9BP_UZTEPCMLxXBTODNfN2PD0v1w1O0FgIp_rbvgZ0e82xaFvUgrkD_R3Pi4K1J748e6GsRQA0rQP3xZoA601&amp;t=ffffffffec2d9970" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su04w92EZq335w850NCvixeFlclBOtogoBmqNRf-rm1nF2Q2&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07eF6WTgsl_oVipHcVR1-2nAi-1Qc_N_itj2AHqA4bwKw2&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07Wtk0JUVjP4Gi4X7VhnMz9w-Rjm7_3HF-Y4nmfFfCYw8eQsIeZX0YRtLiyvXiRorU1&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07YmZ-ASjZmIZi1p-fyO3oAxNYTPSNMcYtWnS2Hu51Puf-jxeppjUG4z1BihQzKxro1&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05NSOOiv2SEEaZMXWXa1kepQG4IklyUjvucxz740TGnhW507joHucNR2nTtYvXPKhY1&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05QiSdAIULRlSGYjyGJ3HV1w81wPDQ7DgEi5ahKKjZSnpA_QE9q1KeIbDelC4DGS1qygHnTpdR_aUnby4g5gYjL0&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su067jE4pqJxg9gad6vh4uUPcJ_xQmstUNt8Yt4LmPoNQoVLB4b9ggdstofm8N6F8QolfKenv6gbmHrDx67xg8hCe0&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05XYq3iBQRCL1hSDPfLtGauCrjkX-hsnAjJq8GO-OuCdeXSdb9IKSDL8zPjadMz-s81&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07crCBsk5TdARFgQATVvUCVJHALw5p6twAScONcI8PV8CEvl5TjiikXaFXhsN1WZF41&amp;t=4e0b8ae9" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWJgKhpqzEDgK574gTAq2p7rgFArmagoYFAp6H/KAIAtrk5fEJAq+dmroFApmqx/UGApK7oJYCAq/X3KIEAurewqQPAuO/584BAq+DuaAJAtG5zpAHArXZ0j0C6Pr3OQL0uaDyCgKozfz/BgLuzM2xDgKg7ZC0DwKy4LzrAQLvmeu4CgKgx+vcDgKn1uyNBwLcurjcCwKB6qMOAp2U0cEPAvuK0tEPAr3z0ysCp8ze0g8CitOBxgUCi4aQlggC8oTFogwCv76lmAMC4tyjvAwChI6enA4Cq6GLvQ8C9dLYNRn88d3cUtKz1jNuImUUbOKCP7UD">
+<!DOCTYPE html><html class="k-webkit k-webkit69 js "><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Conservice - The Utility Experts">
+    <meta name="author" content="Conservice Web Team">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link href="/media/conservice.ico" rel="shortcut icon">
+    <!-- Global -->
+    <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
     
-    
-    <script type="text/javascript" language="javascript">
-        //for this to work consistently in all browsers, the below code should be the last javascript to load on the page
-        if (typeof (Sys.Browser.WebKit) == "undefined") {
-            Sys.Browser.WebKit = {};
-        }
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://koi-3QND5X3NVG.marketingautomation.services/client/ss.js?ver=1.1.1"></script><script src="/Scripts/kendo/2018.1.117/jquery.min.js"></script>
+    <script src="/Scripts/kendo/2018.1.117/jszip.min.js"></script>
+    <script src="/Scripts/kendo/2018.1.117/kendo.all.min.js"></script>
+    <script src="/Scripts/kendo/2018.1.117/kendo.all.min.js"></script>
+    <script src="/Scripts/kendo/2018.1.117/kendo.aspnetmvc.min.js"></script>
+    <script src="/Scripts/moment.min.js"></script>
+    <link href="/Content/sumoselect.css" rel="stylesheet">
+    <link href="/Content/flexslider.css" rel="stylesheet">
+    <link href="/Content/animate.min.css" rel="stylesheet">
+    <link href="/Content/conservice.css" rel="stylesheet">
+    <link href="/Content/normalize.css" rel="stylesheet">
 
-        if (navigator.userAgent.indexOf('WebKit/') > -1) {
-            Sys.Browser.agent = Sys.Browser.WebKit;
-            Sys.Browser.version = parseFloat(navigator.userAgent.match(/WebKit\/(\d+(\.\d+)?)/)[1]);
-            Sys.Browser.name = 'WebKit';
-        }
-                  
+
+    <script src="/Scripts/jsMisc?v=aCkn19Q6GRQADlnTJdpo3paV6HU_XKqznP7oyhoLwPw1"></script>
+
+    <link href="/Content/bootstrap?v=a2WgiorrS1AI2xTkqFt-uaHUlxL8D1BqLO6kuQOaW7A1" rel="stylesheet">
+
+    <link href="/Content/conservice?v=SZnO69kXvPIVpk1dAwmB6-PdFh00QpCbske9MoHiVUs1" rel="stylesheet">
+
+    <link href="/Content/fontawesome?v=Z2YiLDDqy9Y-GI68yaTGFkyTaPWtyODE8mLmJDAaVVY1" rel="stylesheet">
+
+    
+    <link href="/Content/all.css" rel="stylesheet">
+    <script type="text/javascript" src="https://use.typekit.com/bfl7kis.js"></script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-34275957-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-34275957-2');
     </script>
 
-    <div id="divMainmenu" style="background-color: White; border: solid 2px black; margin: auto;
-        position: relative; z-index: 1; width: 900px; min-width: 900px; height: 600px;
-        max-width: 900px; margin-top: 10px; padding-bottom: 3px;">
-        <!--HEADER PART OF THE PAGE!-->
-        <div id="HeaderImgDiv" style="height: 99px; width: 900px; border: solid 0px black;
-            position: absolute; padding-top: 24px; z-index: 2;">
-            <div style="height: 99px; width: 150px; border: solid 0px black; position: absolute;
-                padding-top: 0px; left: 23px; z-index: 3;">
-                <input type="image" name="ctl00$btndefaultHeader" id="ctl00_btndefaultHeader" title="Home Page" src="Images/HeaderClick.png" border="0">
-            </div>
-            <img alt="" src="Images/HeaderTop.png" style="position: relative; top: -5px;" width="900">
-        </div>
-        <!--HEADER MENU OF THE PAGE!-->
-        <div id="HeaderMenuDiv" style="padding-left: 22px; width: 450px; position: absolute;
-            top: 94px; left: 0px; z-index: 1;">
-            <div id="nav-container1" style="float: left; width: 95px; margin-right: 10px;">
-                <div id="mymenu1" class="hide" style="text-align: center; display: none;">
-                    <a class="submenu"></a><a href="Overview.aspx" class="submenu">Overview</a> <a href="Team.aspx" class="submenu">Team</a> <a href="Conservation.aspx" class="submenu">Conservation</a>
-                    <a href="ContactUs.aspx" class="submenu">Contact Us</a>
-                </div>
-                
-                <a id="menu1" class="menu">
-                    <img src="Images/newtab1.png" alt="Continum" style="border-style: none" height="60" width="95"></a>
-            </div>
-            <div id="nav-container2" style="float: left; width: 95px; margin-right: 10px;">
-                <div id="mymenu2" class="hide" style="text-align: center; display: none;">
-                    <a class="submenu"></a><a href="Continum.aspx" class="submenu">Continum</a> <a href="Synergy.aspx" class="submenu">Synergy</a> <a href="Conex.aspx" class="submenu">Conex</a> <a href="Symphony.aspx" class="submenu">Symphony</a> <a href="Control.aspx" class="submenu">Control</a>
-                    <a href="Construct.aspx" class="submenu">Construct</a> <a href="Confirm.aspx" class="submenu">
-                        Confirm</a> <a href="http://energyze.conservice.com" class="submenu">Energyze</a>
-                </div>
-                
-                <a id="menu2" class="menu">
-                    <img src="Images/newtab2.png" alt="Continum" style="border-style: none" height="60" width="95"></a>
-            </div>
-            <div id="nav-container3" style="float: left; width: 95px; margin-right: 10px;">
-                <div id="mymenu3" class="hide" style="text-align: center;">
-                    <a class="submenu"></a>
-                    <a href="Testimonials.aspx" class="submenu">Testimonials</a> <a href="Awards.aspx" class="submenu">Awards</a>
-                    <a href="NewsLetter.aspx" class="submenu">Newsletter</a> <a href="Press.aspx" class="submenu">
-                        Press</a>
-                </div>
-                
-                <a id="menu3" class="menu">
-                    <img src="Images/newtab3.png" alt="Continum" style="border-style: none" height="60" width="95"></a>
-            </div>
-            <div id="nav-container4" style="float: left; width: 95px; margin-right: 0px; position: absolute;
-                left: 338px; top: -20px;">
-                <div id="mymenu4" class="hide" style="text-align: center;">
-                    <a class="submenu" style="height: 4px;"></a><a class="submenu"></a><a class="submenu">
-                    </a>
-                    <a id="ctl00_HyperLink1" class="submenu" href="http://jobs.conservice.com/" target="_blank">Careers</a>
-                </div>
-                
-                <a id="menu4" class="menu">
-                    <img src="Images/newtab4.png" alt="Continum" style="border-style: none;" height="80" width="95"></a>
-            </div>
-        </div>
-        
-        
-        <input type="hidden" name="ctl00$hfClientLogin" id="ctl00_hfClientLogin">
-        
-        
-        <div id="ctl00_pnlLogin" class="modalpanel" style="display: none; border: solid 0px black;"><font face="@MS PGothic">
-	
-            <div style="text-align: left; border: solid 2px black;" class="modalPopup">
-                <div style="background-color: White; border: solid 0px black; margin: auto; width: 610px;
-                    min-width: 610px; max-width: 610px; padding-bottom: 0px;">
-                    <div style="position: relative; float: right; border: solid 0px black;">
-                        <div style="position: relative; z-index: 2; float: right; border: solid 0px black;
-                            width: 100%;">
-                            <input type="image" name="ctl00$imgbtncloseclientlogin" id="ctl00_imgbtncloseclientlogin" src="Images/closeResidentLogin.png" align="right" border="0" style="border: solid 1px #42466b; padding: 2px;">
-                        </div>
-                        <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 100%;">
-                            <img src="Images/ClientLoginScreenHeader.png" alt="Header" style="position: relative;
-                                z-index: 1;"></div>
-                    </div>
-                    <table style="position: relative; float: left;">
-                        <tbody><tr>
-                            <td style="padding: 25px 0px 0px 45px; border: solid 0px black;">
-                                <table cellspacing="0" cellpadding="1" border="0" id="ctl00_usrlogin">
-		<tbody><tr>
-			<td><table cellpadding="0" border="0">
-				<tbody><tr>
-					<td><font color="Black"><label for="ctl00_usrlogin_UserName">User Name:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$usrlogin$UserName" type="text" id="ctl00_usrlogin_UserName">&nbsp;</td>
-				</tr><tr>
-					<td><font color="Black"><label for="ctl00_usrlogin_Password">Password:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$usrlogin$Password" type="password" id="ctl00_usrlogin_Password">&nbsp;</td>
-				</tr><tr>
-					<td><input id="ctl00_usrlogin_RememberMe" type="checkbox" name="ctl00$usrlogin$RememberMe"><label for="ctl00_usrlogin_RememberMe">Remember me next time.</label></td>
-				</tr><tr>
-					<td align="right"><input type="submit" name="ctl00$usrlogin$LoginButton" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$usrlogin$LoginButton&quot;, &quot;&quot;, true, &quot;ctl00$usrlogin&quot;, &quot;&quot;, false, false))" id="ctl00_usrlogin_LoginButton" border="1"></td>
-				</tr>
-			</tbody></table></td>
-		</tr>
-	</tbody></table>
-                            </td>
-                            <td style="width: 100px;">
-                                &nbsp;
-                            </td>
-                            <td style="padding: 45px 25px 0px 0px; border: solid 0px black; vertical-align: top;">
-                                <img src="Images/ClientLoginHelp.png" alt="Help">
-                            </td>
-                        </tr>
-                    </tbody></table>
-                    <div style="padding-top: 25px; width: 100%; font-size: x-small;">
-                        <img src="Images/ClientLoginScreenFooter.png" alt="Footer" style="border: none"></div>
-                </div>
-            </div>
-        
-</font></div>
-        
-        
-        
-        
-        <input type="hidden" name="ctl00$hfResidentLogin" id="ctl00_hfResidentLogin">
-        
-        
-        <div id="ctl00_pnlResidentLogin" class="modalpanel" style="display: none; border: solid 0px black;"><font face="@MS PGothic">
-	
-            <div style="text-align: left; border: solid 2px black;" class="modalPopup">
-                <div id="page-container">
-                    <div id="header">
-                        <div style="float: right; margin-right: 4px;">
-                            <input type="image" name="ctl00$imgbtncloseresidentlogin" id="ctl00_imgbtncloseresidentlogin" src="Images/closeResidentLogin.png" border="0"></div>
-                        <h1>
-                            <img src="Images/ResidentLoginTitle.png" width="287" height="66" alt="UtilitiesInfo.com"></h1>
-                    </div>
-                    <div id="container">
-                        <div id="sidebar">
-                            <div class="padding">
-                                <div id="contactinfo">
-                                    <div class="tntalerticon">
-                                        <img src="Images/phone.gif" alt="Contact Info">&nbsp;<span class="blueTextBold">Contact
-                                            Conservice</span></div>
-                                    <ul>
-                                        <li><strong class="blueTextBold">Our toll-free phone #:</strong><br>
-                                            <span class="blueText">1-866-947-7379 </span></li>
-                                        <li>
-                                            <br>
-                                            <strong class="blueTextBold">24 Hr Automated Payments:</strong><br>
-                                            <span class="blueText">1-877-259-4944</span> </li>
-                                        <li>
-                                            <br>
-                                            <strong class="blueTextBold">Our E-mail:</strong> <span class="blueText">service@conservice.com</span></li>
-                                        <li>
-                                            <br>
-                                            <strong class="blueTextBold">Hours:</strong><br>
-                                            Monday - Friday<br>
-                                            -----------------------------<br>
-                                            Eastern: 8 a.m. - 10 p.m.<br>
-                                            Central: 7 a.m. - 9 p.m.<br>
-                                            Mountain: 6 a.m. - 8 p.m.<br>
-                                            Pacific: 5 a.m. - 7 p.m.<br>
-                                            -----------------------------<br>
-                                            <i><span class="blueText">Se Habla Espanol</span></i> </li>
-                                        <li>
-                                            <br>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="content">
-                            <div style="text-align: center; margin-top: 10px;">
-                                <br>
-                                <table class="centeredElement" cellspacing="0" cellpadding="1" border="0" id="UserLogin" style="border-collapse: collapse;">
-                                    <tbody><tr>
-                                        <td>
-                                            <table cellpadding="0" border="0">
-                                                <caption>
-                                                    <img alt="Login Info" src="Images/ResidentLoginHeader.png">
-                                                    <br>
-                                                    <br>
-                                                </caption>
-                                            </table>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        </tr></tbody></table><table cellspacing="0" cellpadding="0" bordercolor="#E6E2D8" border="0" id="ctl00_residentLogin" bgcolor="#F7F6F3">
-		<tbody><tr>
-			<td><table cellpadding="0" border="0">
-				<tbody><tr>
-					<td align="center" colspan="2"><font face="Verdana" color="#333333">   </font></td>
-				</tr><tr>
-					<td align="right"><font face="Verdana" color="#333333"><label for="ctl00_residentLogin_UserName">User Name or Account Code:</label></font></td><td><font face="Verdana" color="#333333"><input name="ctl00$residentLogin$UserName" type="text" id="ctl00_residentLogin_UserName">&nbsp;</font></td>
-				</tr><tr>
-					<td align="right"><font face="Verdana" color="#333333"><label for="ctl00_residentLogin_Password">Password/Security Code:</label></font></td><td><font face="Verdana" color="#333333"><input name="ctl00$residentLogin$Password" type="password" id="ctl00_residentLogin_Password">&nbsp;</font></td>
-				</tr><tr>
-					<td colspan="2"><font face="Verdana" color="#333333"><input id="ctl00_residentLogin_RememberMe" type="checkbox" name="ctl00$residentLogin$RememberMe"><label for="ctl00_residentLogin_RememberMe">Remember me next time.</label></font></td>
-				</tr><tr>
-					<td align="right" colspan="2"><font face="Verdana" color="#333333"><input type="submit" name="ctl00$residentLogin$LoginButton" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$residentLogin$LoginButton&quot;, &quot;&quot;, true, &quot;ctl00$residentLogin&quot;, &quot;&quot;, false, false))" id="ctl00_residentLogin_LoginButton" border="1"></font></td>
-				</tr>
-			</tbody></table></td>
-		</tr>
-	</tbody></table>
-                                    
-                                    
-                                        
-                                            <br>
-                                            <a id="PasswordRecoveryLink" href="https://utilitiesinfo.conservice.com/ForgotPassword.aspx">
-                                                Forgot Your Password? Click Here</a>
-                                        
-                                    
-                                
-                                  
-                                <div id="BillImg">
-                                    <div style="padding-top: 20px;">
-                                        <img src="Images/ResidentHelp.png" alt="Account Help">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div style="clear: both">
-                        </div>
-                    </div>
-                    <div class="footer">
-                        Copyright © <a href="https://www.conservice.com" class="blackLink">Conservice Utility
-                            Management &amp; Billing</a>
-                        2012
-                    </div>
-                </div>
-            </div>
-        
-</font></div>
-        
-        
-        
-        <input type="hidden" name="ctl00$hfSynergyLogin" id="ctl00_hfSynergyLogin">
-        
-        
-        <div id="ctl00_pnlSynergyLogin" class="modalpanel" style="display: none; border: solid 0px black;"><font face="@MS PGothic">
-	
-            <div style="text-align: left; border: solid 2px black;" class="modalPopup">
-                <div style="background-color: White; border: solid 0px black; margin: auto; width: 720px;
-                    min-width: 720px; max-width: 720px; padding-bottom: 0px">
-                    <div style="position: relative; float: right; border: solid 0px black;">
-                        <div style="position: relative; z-index: 2; float: right; border: solid 0px black;
-                            width: 100%;">
-                            <input type="image" name="ctl00$imgbtnclosesynergylogin" id="ctl00_imgbtnclosesynergylogin" src="Images/closeResidentLogin.png" align="right" border="0" style="border: solid 1px #42466b; padding: 2px;">
-                        </div>
-                        <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 100%;
-                            height: 10%">
-                            <img src="Images/FullHeader.jpg" alt="Header" width="720" height="87" style="position: relative;
-                                z-index: 1;">
-                        </div>
-                    </div>
-                    <table style="position: relative; float: left;">
-                        <tbody><tr>
-                            <td style="padding: 25px 0px 0px 45px; border: solid 0px black;">
-                                <table cellspacing="0" cellpadding="1" border="0" id="ctl00_synergyLogin">
-		<tbody><tr>
-			<td><table cellpadding="0" border="0">
-				<tbody><tr>
-					<td><font color="Black"><label for="ctl00_synergyLogin_UserName">User Name:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$synergyLogin$UserName" type="text" id="ctl00_synergyLogin_UserName">&nbsp;</td>
-				</tr><tr>
-					<td><font color="Black"><label for="ctl00_synergyLogin_Password">Password:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$synergyLogin$Password" type="password" id="ctl00_synergyLogin_Password">&nbsp;</td>
-				</tr><tr>
-					<td><input id="ctl00_synergyLogin_RememberMe" type="checkbox" name="ctl00$synergyLogin$RememberMe"><label for="ctl00_synergyLogin_RememberMe">Remember me next time.</label></td>
-				</tr><tr>
-					<td align="right"><input type="submit" name="ctl00$synergyLogin$LoginButton" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$synergyLogin$LoginButton&quot;, &quot;&quot;, true, &quot;ctl00$synergyLogin&quot;, &quot;&quot;, false, false))" id="ctl00_synergyLogin_LoginButton" border="1"></td>
-				</tr>
-			</tbody></table></td>
-		</tr>
-	</tbody></table>
-                            </td>
-                            <td style="width: 100px;">
-                                &nbsp;
-                            </td>
-                            <td style="padding: 25px 50px 0px 45px; border: solid 0px black; vertical-align: top;">
-                                <img src="Images/UtilityExpenseMgmtEasy.jpg" alt="Utility Expenses">
-                            </td>
-                        </tr>
-                    </tbody></table>
-                    <div class="footer">
-                        <div style="text-align: center; padding-top: 0px; width: 100%; font-size: x-small;">
-                            Copyright
-                            2012
-                            Conservice Utility Management &amp; Billing
-                        </div>
-                    </div>
-                </div>
-            </div>
-        
-</font></div>
-        
-        
-        
-        <input type="hidden" name="ctl00$hfSymphonyLogin" id="ctl00_hfSymphonyLogin">
-        
-        
-        <div id="ctl00_pnlSymphonyLogin" class="modalpanel" style="display: none; border: solid 0px black;"><font face="@MS PGothic">
-	
-            <div style="text-align: left; border: solid 2px black;" class="modalPopup">
-                <div style="background-color: White; border: solid 0px black; margin: auto; width: 720px;
-                    min-width: 720px; max-width: 720px; padding-bottom: 0px">
-                    <div style="position: relative; float: right; border: solid 0px black;">
-                        <div style="position: relative; z-index: 2; float: right; border: solid 0px black;
-                            width: 100%;">
-                            <input type="image" name="ctl00$imgbtnclosesymphonylogin" id="ctl00_imgbtnclosesymphonylogin" src="Images/closeResidentLogin.png" align="right" border="0" style="border: solid 1px #42466b; padding: 2px;">
-                        </div>
-                        <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 100%;">
-                            
-                            <img src="Images/SymphonyHeader.jpg" alt="SymphonyHeader" height="84" width="720" border="0" style="position: relative; z-index: 1;">
-                        </div>
-                    </div>
-                    <table style="position: relative; float: left;">
-                        <tbody><tr>
-                            <td style="padding: 25px 0px 0px 45px; border: solid 0px black;">
-                                <table cellspacing="0" cellpadding="1" border="0" id="ctl00_symphonyLogin">
-		<tbody><tr>
-			<td><table cellpadding="0" border="0">
-				<tbody><tr>
-					<td><font color="Black"><label for="ctl00_symphonyLogin_UserName">User Name:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$symphonyLogin$UserName" type="text" id="ctl00_symphonyLogin_UserName">&nbsp;</td>
-				</tr><tr>
-					<td><font color="Black"><label for="ctl00_symphonyLogin_Password">Password:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$symphonyLogin$Password" type="password" id="ctl00_symphonyLogin_Password">&nbsp;</td>
-				</tr><tr>
-					<td><input id="ctl00_symphonyLogin_RememberMe" type="checkbox" name="ctl00$symphonyLogin$RememberMe"><label for="ctl00_symphonyLogin_RememberMe">Remember me next time.</label></td>
-				</tr><tr>
-					<td align="right"><input type="submit" name="ctl00$symphonyLogin$LoginButton" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$symphonyLogin$LoginButton&quot;, &quot;&quot;, true, &quot;ctl00$symphonyLogin&quot;, &quot;&quot;, false, false))" id="ctl00_symphonyLogin_LoginButton" border="1"></td>
-				</tr>
-			</tbody></table></td>
-		</tr>
-	</tbody></table>
-                            </td>
-                            <td style="width: 100px;">
-                                &nbsp;
-                            </td>
-                            <td style="padding: 25px 50px 0px 45px; border: solid 0px black; vertical-align: top;">
-                                <img src="Images/PaymentProcessingEasy.jpg" alt="Utility Expenses">
-                            </td>
-                        </tr>
-                    </tbody></table>
-                    <div class="footer">
-                        <div style="text-align: center; padding-top: 0px; width: 100%; font-size: x-small;">
-                            Copyright
-                            2012
-                            Conservice Utility Management &amp; Billing
-                        </div>
-                    </div>
-                </div>
-            </div>
-        
-</font></div>
-        
-        
-        
-        <input type="hidden" name="ctl00$hfControlLogin" id="ctl00_hfControlLogin">
-        
-        
-        <div id="ctl00_pnlControlLogin" class="modalpanel" style="display: none; border: solid 0px black;"><font face="@MS PGothic">
-	
-            <div style="text-align: left; border: solid 2px black;" class="modalPopup">
-                <div style="background-color: White; border: solid 0px black; margin: auto; width: 720px;
-                    min-width: 720px; max-width: 720px; padding-bottom: 0px; background-image: url(Images/login_bg.jpg);
-                    background-repeat: repeat-y; position: relative;">
-                    <div style="position: relative; width: 100%; border: solid 0px black; float: left;
-                        clear: both;">
-                        <div style="position: relative; z-index: 2; float: right; border: solid 0px black;
-                            width: 50%;">
-                            <input type="image" name="ctl00$imgbtnControlCloseLogin" id="ctl00_imgbtnControlCloseLogin" src="Images/closeResidentLogin.png" align="right" border="0" style="border: solid 1px #42466b; padding: 2px; background-color: White;">
-                        </div>
-                        <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 50%;">
-                            <img id="ctl00_ControlHeader" src="Images/control_header3.jpg" alt="Header" border="0" style="position: relative; z-index: 1;">
-                        </div>
-                    </div>
-                    <div style="width: 450px; color: White; position: absolute; right: 0; top: 20px;
-                        text-align: center; z-index: 1;">
-                        <h1 style="color: White; font-family: Verdana; letter-spacing: -1px; font-size: 90%;">
-                            Ancillary services are now under ConTrol</h1>
-                        <img style="padding-top: 15px;" src="images/wm.jpg" alt="ancillary services">
-                        <p style="color: White; font-size: 80%; margin-top: 0pt; text-align: center; letter-spacing: -1px;">
-                            CONTRACT &amp; VENDOR MANAGEMENT</p>
-                    </div>
-                    <table style="position: relative; float: left; width: 100%; border-top: 2px solid black;">
-                        <tbody><tr>
-                            <td style="padding: 25px 0px 0px 45px; border: solid 0px black; font-family: Verdana;">
-                                <table cellspacing="0" cellpadding="1" border="0" id="ctl00_controlLogin">
-		<tbody><tr>
-			<td><table cellpadding="0" border="0">
-				<tbody><tr>
-					<td><font color="White"><label for="ctl00_controlLogin_UserName">User Name:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$controlLogin$UserName" type="text" id="ctl00_controlLogin_UserName">&nbsp;</td>
-				</tr><tr>
-					<td><font color="White"><label for="ctl00_controlLogin_Password">Password:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$controlLogin$Password" type="password" id="ctl00_controlLogin_Password">&nbsp;</td>
-				</tr><tr>
-					<td><font color="White"><input id="ctl00_controlLogin_RememberMe" type="checkbox" name="ctl00$controlLogin$RememberMe"><label for="ctl00_controlLogin_RememberMe">Remember me next time.</label></font></td>
-				</tr><tr>
-					<td align="right"><input type="image" name="ctl00$controlLogin$LoginImageButton" id="ctl00_controlLogin_LoginImageButton" class="left" src="Images/login_btn.png" alt="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$controlLogin$LoginImageButton&quot;, &quot;&quot;, true, &quot;ctl00$controlLogin&quot;, &quot;&quot;, false, false))" border="0"></td>
-				</tr>
-			</tbody></table></td>
-		</tr>
-	</tbody></table>
-                            </td>
-                            <td style="width: 100px;">
-                                &nbsp;
-                            </td>
-                        </tr>
-                    </tbody></table>
-                    <div class="footer" style="height: 100px; background-color: transparent; border-top: none;">
-                        <img src="Images/conservice_white.png" style="float: right; margin: 10px 100px 0 0;" alt="Footer">
-                    </div>
-                </div>
-            </div>
-        
-</font></div>
-        
-        
-        
-        <input type="hidden" name="ctl00$hfConstructLogin" id="ctl00_hfConstructLogin">
-        
-        
-        <div id="ctl00_pnlConstructLogin" class="modalpanel" style="display: none; border: solid 0px black;"><font face="@MS PGothic">
-	
-            <div style="text-align: left; border: solid 2px black;" class="modalPopup">
-                <div style="background-color: White; border: solid 0px black; margin: auto; width: 720px;
-                    min-width: 720px; max-width: 720px; padding-bottom: 0px">
-                    <div style="position: relative; float: right; border: solid 0px black;">
-                        <div style="position: relative; z-index: 2; float: right; border: solid 0px black;
-                            width: 100%;">
-                            <input type="image" name="ctl00$imgbtnConstructCloseLogin" id="ctl00_imgbtnConstructCloseLogin" src="Images/closeResidentLogin.png" align="right" border="0" style="border: solid 1px #42466b; padding: 2px;">
-                        </div>
-                        <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 100%;">
-                            <img src="Images/ConstructHeader.jpg" alt="Header" width="720" style="position: relative;
-                                z-index: 1; height: 87">
-                        </div>
-                    </div>
-                    <table style="position: relative; float: left;">
-                        <tbody><tr>
-                            <td style="padding: 25px 0px 0px 45px; border: solid 0px black;">
-                                <table cellspacing="0" cellpadding="1" border="0" id="ctl00_constructLogin">
-		<tbody><tr>
-			<td><table cellpadding="0" border="0">
-				<tbody><tr>
-					<td><font color="Black"><label for="ctl00_constructLogin_UserName">User Name:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$constructLogin$UserName" type="text" id="ctl00_constructLogin_UserName">&nbsp;</td>
-				</tr><tr>
-					<td><font color="Black"><label for="ctl00_constructLogin_Password">Password:</label></font></td>
-				</tr><tr>
-					<td><input name="ctl00$constructLogin$Password" type="password" id="ctl00_constructLogin_Password">&nbsp;</td>
-				</tr><tr>
-					<td><input id="ctl00_constructLogin_RememberMe" type="checkbox" name="ctl00$constructLogin$RememberMe"><label for="ctl00_constructLogin_RememberMe">Remember me next time.</label></td>
-				</tr><tr>
-					<td align="right"><input type="submit" name="ctl00$constructLogin$LoginButton" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$constructLogin$LoginButton&quot;, &quot;&quot;, true, &quot;ctl00$constructLogin&quot;, &quot;&quot;, false, false))" id="ctl00_constructLogin_LoginButton" border="1"></td>
-				</tr>
-			</tbody></table></td>
-		</tr>
-	</tbody></table>
-                            </td>
-                            <td style="width: 100px;">
-                                &nbsp;
-                            </td>
-                            <td style="padding: 25px 50px 0px 45px; border: solid 0px black; vertical-align: top;">
-                                <img src="Images/SubmeterMgmtEasy.jpg" alt="Sub Meter">
-                            </td>
-                        </tr>
-                    </tbody></table>
-                    <div class="footer">
-                        <div style="text-align: center; padding-top: 0px; width: 100%; font-size: x-small;">
-                            Copyright
-                            2012
-                            Conservice Utility Management &amp; Billing
-                        </div>
-                    </div>
-                </div>
-            </div>
-        
-</font></div>
-        
-        
-        
-        <!--CONTENT PART OF THE PAGE!-->
-        <!--MAIN PART OF THE PAGE!-->
-        <div style="width: 100%; border: solid 0px black; height: 1%;">
-            
-    <div style="width: 100%; position: absolute; top: 10px; z-index: -1; color: #42466b;">
-        <!--EMPTY DIV TO MIMIC HEADER IMAGE!-->
-        <div style="height: 100px;">
-        </div>
-        <!--CONTENT PART OF THE PAGE!-->
-        <!--MAIN PART OF THE PAGE!-->
-        <div style="width: 100%; position: relative; top: 32px; z-index: -1; height: 430px;">
-            <div style="float: left; border: solid 0px black; padding-left: 5px; width: 100%;
-                height: 100%">
-                <div style="height: 10px;">
-                </div>
-                <!--LEFT PART OF THE PAGE!-->
-                <div style="border: solid 0px black; width: 100%; padding-top: 20px;">
-                    <div style="border: solid 0px black; position: relative; top: 10px; width: 99%;">
-                        <!--LEFT PART OF THE PAGE CONTENT IMAGE!-->
-                        <!--LEFT PART OF THE PAGE CONTENT DIV!-->
-                        <div style="font-family: 'trebuchet MS'; border: solid 0px black; padding-left: 20px;
-                            padding-top: 10px; font-weight: bold; font-style: normal; font-variant: normal;
-                            text-transform: none; font-size: 12px; height: 100%; overflow: auto;">
-                            <p>
-                                <b style="font-size: large">PRIVACY POLICY </b>
-                            </p>
-                            <p>
-                                We use the personal information we are provided to help us respond to your inquiries
-                                and to deliver and improve the services you have requested or use, and to design
-                                or offer specific products or services that we believe will be useful to you. While
-                                we may use this information to contact you or to send materials to you for utility
-                                billing purposes, we will take commercially reasonable steps to safeguard such information
-                                from unauthorized access by any other parties. Unless we specifically disclose it
-                                to you at the time of collection or subsequently obtain your approval, we will not
-                                disclose visitor or customer-specific information that is gathered on our site to
-                                unaffiliated organizations for commercial purposes unrelated to Conservice’s business.
-                                We may disclose any collected information in order to investigate, prevent, or take
-                                action regarding illegal activities, suspected fraud, situations involving potential
-                                threats to the physical safety of any person, or as otherwise required by law. Other
-                                than as stated herein, Conservice will not use any resident data for any other purpose
-                                nor will it disclose any such data to any non-related entity for any purpose.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <script type="text/javascript">
+        var _ss = _ss || [];
+        _ss.push(['_setDomain', 'https://koi-3QND5X3NVG.marketingautomation.services/net']);
+        _ss.push(['_setAccount', 'KOI-3Z5PDYDCUG']);
+        _ss.push(['_trackPageView']);
+        (function () {
+            var ss = document.createElement('script');
+            ss.type = 'text/javascript'; ss.async = true;
 
-        </div>
-    </div>
-    <!--BOTTOM PART OF THE PAGE!-->
-    <div style="border-style: none solid solid solid; border-width: 2px; border-color: black;
-        background-color: White; margin: auto; width: 900px; min-width: 900px; max-width: 900px;">
-        <div id="Div7" style="padding-right: 1px; text-align: center; background-color: #42466b;
-            height: 30px;">
-            <!--MARQUEE OF THE PAGE!-->
-            <div id="Div8" align="center" style="text-align: center; height: 30px; padding-top: 3px;
-                padding-left: 50px; font-family: 'trebuchet MS'; font-size: 12px; color: #FFFFFF;">
-                
-                <ul id="marquee2" class="marquee">
-                    <li style="width: 800px; top: 8.5325px; left: 0px;" class="marquee-showing"><a href="Construct.aspx" style="color: White; text-decoration: none;">
-                        INTRODUCING CONSTRUCT: METER MANAGEMENT SOLUTIONS INCLUDING ONLINE DAILY CONSUMPTION
-                        REPORTING</a><br>
+            ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3QND5X3NVG.marketingautomation.services/client/ss.js?ver=1.1.1';
+            var scr = document.getElementsByTagName('script')[0];
+            scr.parentNode.insertBefore(ss, scr);
+        })();
+    </script>
+    <meta name="google-site-verification" content="ciTqw9vlgxA1PU6MQ3XR_nlSZuWq0okawbQASQg5c0Q">
+    <meta name="p:domain_verify" content="292d1bc939892f2bc4c1666d6dc93420">
+    <script src="/Scripts/kendo.modernizr.custom.js"></script>
+</head>
+<body class="fixed-nav" style="background-color: white !important;">
+
+
+<nav>
+    <div class="navbar navbar-custom navbar-fixed-top">
+        <div class="container">
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <div class="navbar-brand logo">
+                    <a href="/">
+                        <img src="/media/ConserviceLogo.png" alt="Conservice">
+                    </a>
+                </div>
+            </div>
+            <div class="navbar-collapse collapse navbar-main-collapse navbar-right">
+                <ul class="nav navbar-nav">
+                    <li class="page-scroll green">
+                        <a id="navPhone" href="tel:1-866-947-7379" class="green">
+                            <i class="fa fa-phone pad-right"></i>866-947-7379
+                        </a>
                     </li>
-                    <li style="width: 800px;"><a href="Control.aspx" style="color: White; text-decoration: none;">
-                        IS CONTRACT AND VENDOR MANAGEMENT A CHALLENGE FOR YOU? ‘CONTROL’ PROVIDES THE TOOLS
-                        YOU NEED</a><br>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Markets <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="/Multifamily">Multifamily</a>
+                            </li>
+                            <li>
+                                <a href="/SingleFamily">Single Family</a>
+                            </li>
+                            <li>
+                                <a href="/StudentHousing">Student Housing</a>
+                            </li>
+                            <li>
+                                <a href="/Commercial">Commercial</a>
+                            </li>
+                            <li>
+                                <a href="/Military">Military</a>
+                            </li>
+                            <li>
+                                <a href="/ConserviceEnergy">Conservice Energy</a>
+                            </li>
+                        </ul>
                     </li>
-                    <li style="width: 800px;"><a href="NewsLetter.aspx?Id=May2010/Budgeting_0510.htm" style="color: White; text-decoration: none;">SyNERGY TOOL MAKES PREPARING ANNUAL
-                        UTILITY BUDGETS A BREEZE</a><br>
+                        <li class="page-scroll nav-hide" style="display: none;">
+                            <a class="solLink" href="#solutions">Solutions</a>
+                        </li>
+                        <li class="page-scroll nav-hide" style="display: none;">
+                            <a href="#different">About Us</a>
+                        </li>
+                        <li class="page-scroll nav-hide" style="display: none;">
+                            <a href="#meetTheTeam">Our Team</a>
+                        </li>
+                    <li class="page-scroll">
+                        <a href="https://careers.conservice.com/" target="_blank">Careers</a>
                     </li>
-                    <li style="width: 700px;"><a href="Press.aspx?Id=2010/6Apr2010.htm" style="color: White;
-                        text-decoration: none;">WATER SUB-METERING NOW REQUIRED FOR NEW CONSTRUCTION COMMUNITIES
-                        IN SAN DIEGO</a><br>
+                    <li class="page-scroll">
+                        <a data-toggle="modal" href="#form-contact" onclick="startContactFresh()">Contact</a>
                     </li>
-                    <li style="width: 500px;"><a href="https://www.conservice.com/NewsLetter.aspx?Id=July2010/SyNERGYSite_0710.htm" style="color: White; text-decoration: none; text-align: center;">NEW LOOK FOR SyNERGY
-                        WEBSITE</a><br>
-                    </li>
-                    <li style="width: 500px;"><a href="NewsLetter.aspx?Id=May2010/GreenerSide_0510.htm" style="color: White; text-decoration: none;">CONSERVICE DECREASES PAPER AND TONER
-                        USAGE 40% OVER THE PAST 2 YEARS</a><br>
+                    <li class="page-scroll login-button">
+                            <a data-toggle="modal" href="#form-login">Account Login</a>
                     </li>
                 </ul>
             </div>
         </div>
-        <div id="linkfooter1" style="padding-right: 1px; vertical-align: middle; background-color: #c7d7e9;">
-            <div id="insidefooter1" style="text-align: center; vertical-align: middle; color: #42466b;
-                font-family: 'trebuchet MS'; font-size: 12px;">
-                <a href="http://jobs.conservice.com/" title="Careers" id="Careers" style="color: rgb(66, 70, 107);">careers</a> |
-                <a href="PrivacyPolicy.aspx" id="PrivacyPolicy" title="PrivacyPolicy" style="color: rgb(66, 70, 107);">privacy</a>
-                | <a href="ContactUs.aspx" title="ContactUs" id="ContactUs" style="color: rgb(66, 70, 107);">contact us</a> <b style="padding-left: 10px;
-                    text-align: right">Copyright
-                    2012
-                    Conservice Utility Management &amp; Billing</b>
-                <br>
+    </div>
+</nav>
+
+
+<div class="modal fade in" id="form-contact" tabindex="-1">
+    <div class="modal-dialog login">
+        <div class="modal-content contact-form">
+            <div class="modal-body" id="contact-form">
+                <a class="close" data-dismiss="modal">×</a>
+                <form id="conservice-contact" class="form-horizontal center-block" novalidate="novalidate">
+                    <fieldset>
+                        <legend>
+                            Learn more about the Conservice suite of solutions.
+                            Fill out this form and we will contact you.
+                        </legend>
+                        
+                        
+                       
+                        <div class="contact-group">
+                            <div class="contactsAcc">
+                                <label class="white" for="acctNumber">Account Number:</label>
+                                <input id="acctNumber" name="acctNumber" type="text" class="input-xlarge contact-input">
+                                <label class="white">If Account number is not available please enter your address in the "How can we help you?" box below.</label>
+                            </div>
+                        </div>
+                        <div class="contact-group">
+                            <div class="contacts">
+                                <label class="white" for="fname">First Name:</label>
+                                <input id="fname" name="fname" type="text" class="input-xlarge contact-input .model-content" required="" aria-required="true">
+                            </div>
+                        </div>
+                        <div class="contact-group">
+                            <div class="contacts">
+                                <label class="white" for="lname">Last Name:</label>
+                                <input id="lname" name="lname" type="text" class="input-xlarge contact-input" required="" aria-required="true">
+                            </div>
+                        </div>
+                        <div class="contact-group">
+                            <div class="contacts">
+                                <label class="white" for="company">Company:</label>
+                                <input id="company" name="company" type="text" class="input-xlarge contact-input">
+                            </div>
+                        </div>
+                        <div class="contact-group">
+                            <div class="contacts">
+                                <label class="white" for="contactemail">Email:</label>
+                                <input id="contactemail" name="contactemail" type="text" class="input-xlarge contact-input" required="" aria-required="true">
+                            </div>
+                        </div>
+                        <div class="contact-group">
+                            <div class="contacts">
+                                <label class="white" for="phone">Phone:</label>
+                                <input id="phone" name="phone" type="text" class="input-xlarge contact-input" required="" aria-required="true">
+                            </div>
+                        </div>
+                        <div class="contact-group">
+                            <label class="contact-label" for="chooseSolution">What market(s) are you interested in?</label>
+                            <div class="contacts">
+                                <div class="SumoSelect" tabindex="0"><select id="chooseSolution" multiple="multiple" style="display: none;">
+                                    <option value="Multifamily">Multifamily</option>
+                                    <option value="Single-Family">Single-Family</option>
+                                    <option value="Student Housing">Student Housing</option>
+                                    <option value="Commercial">Commercial</option>
+                                    <option value="Military">Military</option>
+                                    <option value="Conservice Energy">Conservice Energy</option>
+                                </select><p class="CaptionCont SlectBox"><span class="placeholder">Select your market(s)...</span><label><i></i></label></p><div class="optWrapper multiple"><ul class="options"><li data-val="Multifamily"><span><i></i></span><label>Multifamily</label></li><li data-val="Single-Family"><span><i></i></span><label>Single-Family</label></li><li data-val="Student Housing"><span><i></i></span><label>Student Housing</label></li><li data-val="Commercial"><span><i></i></span><label>Commercial</label></li><li data-val="Military"><span><i></i></span><label>Military</label></li><li data-val="Conservice Energy"><span><i></i></span><label>Conservice Energy</label></li></ul><div class="MultiControls"><p class="btnOk">OK</p><p class="btnCancel">Cancel</p></div></div></div>
+                            </div>
+                        </div>
+                        <div class="contact-group">
+                            <label class="contact-label" for="howhelp">How can we help you?</label>
+                            <div class="contacts">
+                                <textarea id="howhelp" name="howhelp" class="contact-input"></textarea>
+                            </div>
+                        </div>
+                        <div class="contact-group text-center">
+                            <div class="contacts">
+                                <input class="nrgform btn btn-primary" type="submit" value="Submit">
+                                <input class="nrgform btn btn-danger" type="button" data-dismiss="modal" value="Cancel">
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
             </div>
+            <div class="alert alert-success" id="contact-form-success" style="display: none;"></div>
+            <div class="alert alert-danger" id="contact-form-error" style="display: none;"></div>
         </div>
-        <div id="ProductFooter1" align="left">
-            <div style="text-align: center; display: block; background-color: #FFFFFF; width: 900px;">
-                <a href="Continum.aspx">
-                    <img src="Images/ProductFooter_01.jpg" alt="Continum" style="border-style: none"></a>
-                <a href="Synergy.aspx">
-                    <img src="Images/ProductFooter_02.jpg" alt="Synergy" style="border-style: none"></a>
-                <a href="Conex.aspx">
-                    <img src="Images/ProductFooter_03.jpg" alt="Conex" style="border-style: none"></a>
-                <a href="Symphony.aspx">
-                    <img src="Images/ProductFooter_04.jpg" alt="Symphony" style="border-style: none"></a>
-                <a href="Control.aspx">
-                    <img src="Images/ProductFooter_05.jpg" alt="Control" style="border-style: none"></a>
-                <a href="Construct.aspx">
-                    <img src="Images/ProductFooter_06.jpg" alt="Construct" style="border-style: none"></a>
-                <a href="Confirm.aspx">
-                    <img src="Images/ProductFooter_07.jpg" alt="Confirm" style="border-style: none"></a>
-                <a href="http://energyze.conservice.com">
-                    <img src="Images/ProductFooter_08.jpg" alt="Energyze" style="border-style: none"></a>
-                <a href="Conservation.aspx">
-                    <img src="Images/ProductFooter_09.jpg" alt="Go Green" style="border-style: none"></a>
+    </div>
+</div>
+
+<div class="modal " id="form-login" tabindex="-1">
+    <div class="modal-dialog ">
+        <div class="modal-content loginForm">
+            <form class="form-horizontal center-block" name="loginForm">
+                <div id="login-body" class="modal-body row">
+                    <div class="col-sm-5">
+                        <fieldset>
+                            <legend>
+                                Access Your Account
+                            </legend>
+                            <div class="modal-body">
+                                <label class="white" for="loginUsername">Username:</label>
+                                <input id="loginUsername" name="loginUser" class="input-xlarge contact-input">
+                                <label class="white" for="loginPassword">Password:</label>
+                                <input id="loginPassword" name="loginPass" type="password" class="input-xlarge contact-input" onkeydown="if (event.keyCode === 13) { loginUserForm(); }">
+                                <input name="inputType" type="hidden" value="login" id="inputType">
+                                <p>
+                                    [&nbsp;<a onclick="resetpass()">Forgot Password?</a>&nbsp;]
+                                </p>
+                                
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Please use a modern browser such as Chrome, Firefox, Safari, or IE 10+</p>
+                        <p>Residents: You'll find your password (security code) printed next to the account number on your Conservice bill.</p>
+                        <p>
+                            [&nbsp;<a data-toggle="modal" href="#bill-image">See Sample</a>&nbsp;]
+                        </p>
+                    </div>
+                </div>
+                <div id="resetPassword" style="display: none;">
+                    <div class="modal-body text-center">
+                        <div class="row">
+                            <div class="text-right col-xs-6 col-sm-6">
+                                <label class="white lh34" for="forgotUserName">Username or Account Number:</label>
+                            </div>
+                            <div class="text-left col-xs-6 col-sm-6">
+                                <input id="forgotUserName" name="forgotName" class="input-xlarge contact-input" onkeydown="if (event.keyCode === 13) { loginUserForm(); }">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="text-right col-xs-6">
+                                <label class="white lh34" for="forgetEmail">Email (Optional):</label>
+                            </div>
+                            <div class="text-left col-xs-6">
+                                <input id="forgetEmail" name="forgetEmail" type="email" class="input-xlarge contact-input" onkeydown="if (event.keyCode === 13) { loginUserForm(); }">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="loginError" class="alert alert-danger" style="display: none; text-align:center;">
+                </div>
+                <div class="modal-footer">
+                    <div class="contacts">
+                        <span id="login-submit" onclick="loginUserForm()" class="btn btn-primary">Submit</span>
+                        <button id="login-cancel" name="singlebutton" class="btn btn-danger" type="reset" onclick="loginCancel()">Cancel</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="modal fade in" id="bill-image" tabindex="-1">
+    <div class="modal-dialog ">
+        <div class="modal-content loginForm">
+            <div class="modal-body row">
+                <div class="modal-body">
+                    <img src="/media/account_num_sample.jpg" alt="" width="100%">
+                </div>
+                <div class="contacts" style="float: right; padding-right: 15px;">
+                    <button class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
             </div>
         </div>
     </div>
-    
+</div>
+
+
+
+
+
+
+
+    <meta name="viewport" content="width=device-width">
+    <title></title>
+
+
+    <div class="container">
+        <div style="margin-top:100px; margin-bottom:50px;">
+            <h4> Privacy Policy</h4>
+            <h5>Last updated May 2018</h5>
+
+            This privacy policy details Conservice’s policies and practices regarding our collection, use, and disclosure of personally identifiable information by us, our affiliates, and subsidiaries. By using our products, services, and websites, you consent to our collection and disclosure practices as outlined below.
+            <h4>Information Collected</h4>
+
+            <p>
+                Conservice may collect various types of information through our services and websites. Through our contractual agreement with your Residence, certain personally identifiable information has been provided to us including your name, the names of any co-residents, and residential address. This information can be found on your monthly billing statement.
+
+                By using our website to gain access to information, including your billing statements, you agree to provide certain personally identifiable information (such as an email address and account number) that will allow us to identify your account and authorize access. We also collect information provided by you to respond to any customer service inquiries, including email address and phone number.
+
+                In order to process payments for outstanding balances, we will collect your credit or debit card number, zip code, and other verification information.
+
+                You may make changes to your personally identifiable information through your website portal or by calling our customer service department at 1-866-947-7379.
+            </p>
+            <h4>Disclosure of Information</h4>
+
+            <p>
+                Any information shared with us will be used solely for the purpose it was shared for. Conservice does not license,
+                share, or sell information to third-parties for marketing purposes. We may disclose your information to third-parties in the following circumstances:
+            </p>
+
+            <div>
+                (1)	To comply with any applicable legal or regulatory requirement, including subpoenas or similar legal process;
+                (2)	To protect against fraudulent, abusive, unauthorized, or unlawful use of Conservice’s products, services and websites;
+                (3)	To protect our rights or property; and
+                (4)	In some instances, we contract with third-party companies to perform services for us, which include mailing billing statements and processing credit card transactions.
+            </div>
+            <h4>Children’s Online Privacy</h4>
+
+            <p>Our products, services, and websites are not intended for use by children under the age of 13.</p>
+
+            Privacy Policy Changes
+            We reserve the right to update our privacy policy as necessary. We recommend you review this privacy policy periodically for any changes. The most recent version of this privacy policy will supersede all previous versions.
+
+            <h4>Arbitration Agreement</h4>
+
+             <p>
+                 By agreeing to be bound by this Privacy Policy, you agree that any and all legal claims or disputes arising between
+                 you and us (collectively “the Parties”) shall be resolved exclusively through mandatory, final, binding arbitration.
+                 Additionally, you agree to waive your right to a jury trial or to participate as a class member in a class action lawsuit
+                 or consolidated class action arbitration proceeding. The Parties agree the American Arbitration Association (“AAA”) shall
+                 conduct any arbitration involving a legal claim or dispute between them under its consumer rules as modified by this Privacy Policy.
+                 You may view these rules at www.adr.org. The place of arbitration shall be in the County of Salt Lake City, Utah, United States.
+             </p>
+            If you intend to seek arbitration, you must first send us a Notice of Dispute (“Notice”) by email or using the contact function. Your Notice should include the following information:
+            <ul>
+                <li>Your name</li>
+                <li>Your email and phone number</li>
+                <li>Your physical mailing address</li>
+                <li>The nature of the dispute with us</li>
+                <li>Any supporting documentation</li>
+                <li>The relief you are seeking</li>
+            </ul>
+            <p>
+                We shall review the Notice within 30 days. If 30 days passes from the date of receipt without resolution, either Party may move forward with arbitration.
+
+                The Parties agree they shall be responsible for their own attorneys’ fees and shall equally share the cost of arbitration.
+            </p>
+
+            <h4>Contact Us</h4>
+
+            If you have any questions or concerns about our privacy policy, you can contact our customer service department at 1-866-947-7379.
+        </div>
+    </div>
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 col-xs-6">
+                <div class="widget">
+                    <h3 class="widgetheading">Markets</h3>
+                    <ul class="link-list">
+                        <li>
+                            <a href="/Multifamily/">Multifamily</a>
+                        </li>
+                        <li>
+                            <a href="/SingleFamily/">Single Family</a>
+                        </li>
+                        <li>
+                            <a href="/StudentHousing/">Student Housing</a>
+                        </li>
+                        <li>
+                            <a href="/Commercial/">Commercial</a>
+                        </li>
+                        <li>
+                            <a href="/Military/">Military</a>
+                        </li>
+                        <li>
+                            <a href="/ConserviceEnergy/">Conservice Energy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-3 col-xs-6">
+                <div class="widget">
+                    <h3 class="widgetheading">Quick Links</h3>
+                    <ul class="link-list">
+                        <li>
+                            <a href="https://careers.conservice.com/" target="_blank">Careers</a>
+                        </li>
+                        
+                        <li>
+                            <a data-toggle="modal" href="#form-login">Account Login</a>
+                        </li>
+                        <li>
+                            <a href="/Home/PrivacyPolicy" "="">Privacy Policy</a>
+                        </li>
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#termsOfServiceWindow">Terms of Service</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-3 col-xs-6">
+                <div class="widget">
+                    <h3 class="widgetheading">Contact Us</h3>
+                    <address>
+                        <strong>Corporate Headquarters</strong><br>
+                        750 South Gateway Drive<br>
+                        River Heights, UT 84321
+                    </address>
+                    <address>
+                        <strong>Resident Services</strong><br>
+                        P.O. Box 4696<br>
+                        Logan, UT 84323-4696
+                    </address>
+                </div>
+            </div>
+            <div class="col-sm-3 col-xs-6">
+                <div class="widget">
+                    <h3 class="widgetheading">&nbsp;</h3>
+                    <p>
+                        <i class="fa fa-phone pad-right"></i>(866) 947-7379
+                        <br>
+                        <i class="fa fa-fax pad-right"></i>(435) 792-3303
+                        <br>
+                        <i class="fa fa-envelope pad-right"></i><a href="mailto:service@conservice.com">service@conservice.com</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="sub-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-xs-12">
+                    <div class="copyright">
+                        <p>
+                            <span>© Conservice 2019 All Rights Reserved</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-xs-12">
+                    <ul class="social-network">
+                        <li>
+                            <a href="https://www.facebook.com/Conservice" data-placement="top" title="Facebook">
+                                <i class="fa fa-facebook-square fa-2x"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://instagram.com/conservice/" data-placement="top" title="Instagram">
+                                <i class="fa fa-instagram fa-2x"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.linkedin.com/company/conservice" data-placement="top" title="Linkedin">
+                                <i class="fa fa-linkedin-square fa-2x"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="modal" tabindex="-1" role="dialog" id="termsOfServiceWindow">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Terms of Service</h5>
+            </div>
+            <div class="modal-body">
+                
+<div>
+    <p>
+        You agree to use this website and its data for its intended purposes only.
+        You may not use or reproduce the content on this website for any purpose other than your own personal and non-commercial use.
+        You may not engage in the scraping, data mining, and extraction or collection of the content of this website in any form and by any means whatsoever.
+        You may not use any automated system or program to extract, store, catalog, or share information for commercial purposes from this website
+        unless those purposes are expressly agreed to by Conservice.
+        You may not engage in any activities which would have the probable action of interrupting the function of this website and
+        which would interfere with others’ use of this website's services.
+        The information gained from this website may not be used to develop one’s own product or services.
+    </p>
+
+    <h5 style="margin-top: 20px;">Contact Us</h5>
+
+    <p>
+        If you have any questions or concerns about our terms of service, you can contact our customer service department at <a href="tel:1-866-947-7379">1-866-947-7379</a>.
+    </p>
+</div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="/Scripts/jqueryPlugins?v=cOd-L7-ezq1Tcd2yjbdzIVsLkTam6pAAnVMLX22KRbw1"></script>
+
+<script src="/Scripts/bootstrap?v=3jI_AN3RqLrzErVBWSXpy_n6VIoxK0lWxTUL-KPZnWM1"></script>
+
+<script src="/Scripts/conservice?v=L-7m6L-BwOMT4mnzxBsaXifiTFeIDuZwomhmBa1X-7U1"></script>
+
+        
+
 
 <script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgbtncloseclientlogin","OnCancelScript":"clearClientLogin();","PopupControlID":"ctl00_pnlLogin","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupClientLogin"}, null, null, $get("ctl00_hfClientLogin"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgbtncloseresidentlogin","OnCancelScript":"clearResidentLogin();","PopupControlID":"ctl00_pnlResidentLogin","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupResidentLogin"}, null, null, $get("ctl00_hfResidentLogin"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgbtnclosesynergylogin","OnCancelScript":"clearSynergyLogin();","PopupControlID":"ctl00_pnlSynergyLogin","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupSynergyLogin"}, null, null, $get("ctl00_hfSynergyLogin"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgbtnclosesymphonylogin","OnCancelScript":"clearSymphonyLogin();","PopupControlID":"ctl00_pnlSymphonyLogin","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupSymphonyLogin"}, null, null, $get("ctl00_hfSymphonyLogin"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgbtnControlCloseLogin","OnCancelScript":"clearControlLogin();","PopupControlID":"ctl00_pnlControlLogin","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupControlLogin"}, null, null, $get("ctl00_hfControlLogin"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgbtnConstructCloseLogin","OnCancelScript":"clearConstructLogin();","PopupControlID":"ctl00_pnlConstructLogin","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupConstructLogin"}, null, null, $get("ctl00_hfConstructLogin"));
-});
-//]]>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-34275957-2']);
+    _gaq.push(['_setDomainName', 'conservice.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga
+            .src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') +
+            '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
 </script>
-</form>
-
-
 
 
 </body></html>
