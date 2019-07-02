@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedfixtool.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502001928id_/http%3A//speedfixtool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedfixtool.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702064521id_/http%3A//speedfixtool.com/privacy-policy) for the most accurate reproduction.*
 
 # SpeedFixTool privacy policy
 
@@ -64,7 +64,7 @@ Parents or guardians: we want to help you guard your children’s privacy. We en
 The speedfixtool.com site does not publish content that is targeted to children. However, if you are concerned about your children providing speedfixtool.com any personal information without your consent, speedfixtool.com offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.  
 **ENFORCEMENT**
 
-If for some reason you believe speedfixtool.com has not adhered to these principles, please notify us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), an d we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe speedfixtool.com has not adhered to these principles, please notify us by e-mail at info@speedfixtool.com, an d we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 **ELECTRONIC PRODUCT REGISTRATION**
 
