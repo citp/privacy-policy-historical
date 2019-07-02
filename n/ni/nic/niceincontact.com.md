@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niceincontact.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511170547id_/https%3A//www.niceincontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niceincontact.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702154434id_/https%3A//www.niceincontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
