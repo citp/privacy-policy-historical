@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401022501id_/https%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702082711id_/https%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connectify
 
@@ -91,7 +91,7 @@ Your personal data is stored by Connectify on its servers, and on the servers of
 
 Subject to applicable law, you also have the right to (i) restrict Connectify's use of your personal data and (ii) lodge a complaint with your local data protection authority or the Irish Data Protection Commissioner, which Connectify has designated as its lead supervisory authority in the European Union. If you are a resident of the European Economic Area and believe we maintain your Personal Data within the scope of the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority: 
 
-Irish Data Protection Commissioner Office of the Data Protection Commissioner Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland Phone +353 57 868 4757 Fax: +353 57 868 4757 Email: [info@dataprotection.ie](https://web.archive.org/web/20190401022501id_/https://www.connectify.me/privacy-policy/info@dataprotection.ie)
+Irish Data Protection Commissioner Office of the Data Protection Commissioner Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland Phone +353 57 868 4757 Fax: +353 57 868 4757 Email: [info@dataprotection.ie](https://web.archive.org/web/20190702082711id_/https://www.connectify.me/privacy-policy/info@dataprotection.ie)
 
 #### Changes to Our Privacy Policy
 
@@ -99,4 +99,4 @@ If this policy is updated, we will post changes on this page and update the Priv
 
 ####  Contacting Us 
 
-If there are any questions regarding this privacy policy you may contact Connectify: For Privacy Questions: [privacy@connectify.me](https://web.archive.org/web/20190401022501id_/https://www.connectify.me/privacy-policy/privacy@connectify.me) For Other Questions: support@connectify.me By Mail: 1429 Walnut St Suite 201 Philadelphia, PA 19102 USA
+If there are any questions regarding this privacy policy you may contact Connectify: For Privacy Questions: [privacy@connectify.me](https://web.archive.org/web/20190702082711id_/https://www.connectify.me/privacy-policy/privacy@connectify.me) For Other Questions: support@connectify.me By Mail: 1429 Walnut St Suite 201 Philadelphia, PA 19102 USA
