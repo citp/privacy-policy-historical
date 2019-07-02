@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the summerinfant.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005001249id_/https%3A//www.summerinfant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerinfant.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702101316id_/https%3A//www.summerinfant.com/privacy-policy) for the most accurate reproduction.*
 
 # Summer Infant - Baby Products
 
-Summer Infant values our relationship with every customer and respects any personal information entrusted to us. Accordingly, we have spelled out the following privacy statement with you in mind. This privacy policy sets out how Summer Infant, Inc. uses and protects any personal information that you give Summer Infant when you use this website; Summer Infant is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy.  Summer Infant may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 1, 2010.
+Summer™ values our relationship with every customer and respects any personal information entrusted to us. Accordingly, we have spelled out the following privacy statement with you in mind. This privacy policy sets out how Summer™, Inc. uses and protects any personal information that you give Summer Infant when you use this website; Summer™ is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy.  Summer Infant may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 1, 2010.
 
   **What we collect**  
 We may collect the following information: name and/or baby(s) name, contact information including email address, demographic information such as postcode, preferences and interests and other information relevant to customer surveys and/or offers.   If you subscribe for a service for which we charge a recurring fee, we may also collect the password for your account and your credit card information.
@@ -32,6 +32,6 @@ You may choose to restrict the collection or use of your personal information in
 
   If you wish to obtain a copy of the personal information about you that is in our possession, please write to or email us at: [customerservice@summerinfant.com](mailto:customerservice@summerinfant.com)
 
-  Summer Infant Consumer Relations Department  
+  Summer™ Consumer Relations Department  
 1275 Park East Drive  
 Woonsocket, Rhode Island 02895
