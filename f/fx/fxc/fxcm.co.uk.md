@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602180621id_/https%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702211048id_/https%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FXCM UK
 
