@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iotwreport.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330153324id_/https%3A//iotwreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iotwreport.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702030821id_/https%3A//iotwreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – IOTW Report
 
