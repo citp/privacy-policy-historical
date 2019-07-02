@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topdreamer.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501234507id_/https%3A//www.topdreamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdreamer.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702172337id_/https%3A//www.topdreamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](https://web.archive.org/cdn-cgi/l/email-protection#375458594356544377435847534552565a52451954585a).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](https://web.archive.org/cdn-cgi/l/email-protection#98fbf7f6ecf9fbecd8ecf7e8fceafdf9f5fdeab6fbf7f5).
 
 At www.topdreamer.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.topdreamer.com and how we use it.
 
