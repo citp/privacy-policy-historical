@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigeriang.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315141120id_/http%3A//nigeriang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriang.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702112349id_/http%3A//nigeriang.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigeria Content Online
 
