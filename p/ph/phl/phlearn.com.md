@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phlearn.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331070707id_/https%3A//phlearn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phlearn.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702095428id_/https%3A//phlearn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Cookie Policy, and Data Processing Addendum
 
