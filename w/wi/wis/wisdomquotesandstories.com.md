@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdomquotesandstories.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502213344id_/http%3A//www.wisdomquotesandstories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomquotesandstories.com privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702110801id_/http%3A//www.wisdomquotesandstories.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wisdom Quotes & Stories
 
