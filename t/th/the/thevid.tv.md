@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevid.tv privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502210830id_/http%3A//thevid.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevid.tv privacy policy that was archived on 2019-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190702131752id_/http%3A//thevid.tv/privacy) for the most accurate reproduction.*
 
 # TheVid
 
