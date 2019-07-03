@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lootmarket.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519233641id_/https%3A//www.lootmarket.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootmarket.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703163747id_/https%3A//www.lootmarket.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
