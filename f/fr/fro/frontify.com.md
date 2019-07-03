@@ -1,50 +1,106 @@
-> *The following text is extracted and transformed from the frontify.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512122546id_/https%3A//frontify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontify.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703125420id_/https%3A//www.frontify.com/privacy) for the most accurate reproduction.*
 
-# Frontify Privacy Policy
+# Privacy Policy | Frontify
 
-Your privacy is critically important to us. At Frontify we have a few fundamental principles:
+Frontify AG and its subsidiary Frontify Deutschland GmbH ("Frontify", "we") is a technology company. Frontify provides a brand management software as a service (“Service”) to private and enterprise customers and operates [frontify.com](https://frontify.com/). The Services include but are not limited to Style Guide, Pattern Library, Media Library, and Workspace.
 
-  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.) 
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights. 
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services. 
-  * In our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted. 
+In this policy, we use the term “Personal Data” both for the personal data as it is defined in the European legislation and for Personally Identifiable Information (PII) as it is defined in the US legislation. We make an explicit difference where required. We only collect Personal Data required to:
+
+  * fulfill the contract with our customers,
+  * comply with applicable laws and regulations,
+  * protect our rights.
 
 
 
-Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our support team. Frontify Inc. (“Frontify”) operates several websites including Frontify.com. It is Frontify’s policy to respect your privacy regarding any information we may collect while operating our websites. 
+## Personal Data we Collect
 
-## Website visitors
+**Individual information:** Users may provide Personal Data such as an email address, a name, a company name, a job title or similar in order to register for one of our Services. 
 
-Like most website operators, Frontify collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Frontify’s purpose in collecting non-personally identifying information is to better understand how Frontify’s visitors use its website. From time to time, Frontify may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Frontify also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on the Frontify Blog. Frontify only discloses logged in user under the same circumstances that it uses and discloses personally-identifying information as described below. 
+**User data:** Users of our Services may upload Personal Data related to them or belonging to them to one of our Services. In this case, we act as a Data Controller in relation to this Personal Data and we process this Personal Data on behalf of the user solely for the purpose of providing the Service to the user.
 
-If you log in and comment through the Disqus service, Disqus receives state data and comment data. Disqus uses Personal Information for the following purposes: (i) internally to provide and improve their Site, services, features and content, (ii) to fulfill requests you may make to them, (iii) to personalize your experience and (iv) to provide you with information and offers from them or third parties that they believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by them or third parties. They may permit their vendors to access your Personal Information, but only in connection with services that they perform for them and not to use for their own purposes. They may share or transfer your Personal Information in connection with a merger, sale or reorganization of all or a part of their business. Lastly, they may disclose your Personal Information if required to do so by process of law, or if necessary in order to investigate fraud, a violation of the Site Terms of Use or in connection with any harm being caused to a third party or their rights. They may use and disclose non-personal information for any number of reasons and with any number of third parties. Please note that Disqus may change its privacy policy, and verify the current privacy policy from the Disqus site. 
+**Enterprise usage:** For enterprise customers, employees may be invited by a responsible person to access any of our Services. For this purpose, we may collect the email address as well as the publicly available gravatar profile image of the invited employees. In this case, we act as a Data Processor in relation to the Personal Data of enterprise customers employees. 
 
-## Gathering of personally-identifying information
+**Billing:** For paying customers, our payment service providers may collect and store billing addresses and credit card information on our behalf. In avoidance of doubt, Frontify does not collect any credit card information itself – this process is fully outsourced to our payment service providers.
 
-Certain visitors to Frontify’s websites choose to interact with Frontify in ways that require Frontify to gather personally-identifying information. The amount and type of information that Frontify gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at Frontify.com to provide a username and email address. Those who engage in transactions with Frontify – by purchasing a subscription to a Frontify service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Frontify collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Frontify. Frontify does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
+**Browser data:** We may collect standard website visitor information supplied by your browser (e.g. your operating system, the browser you are using, IP addresses, language settings). This information is dependent of the type of the device, browser and the settings you are using.
 
-## Aggregated statistics
+**Other usage statistics:** Besides browser data, we may collect statistics how registered users use our Services in order to maintain and improve our Services. This usage data does not include user data as described above.
 
-Frontify may collect statistics about the behavior of visitors to its websites. For instance, Frontify may monitor the total amount of projects, screens and other related entities created with our product . Frontify may display this information publicly or provide it to others. However, Frontify does not disclose personally-identifying information other than as described below. 
+## How Do we Use the Collected Personal Data
 
-## Protection of certain personally-identifying information
+Frontify will use the collected information to provide the Service to the customer and continuously improve them. Frontify does not resell any Personal Data to any third-party.
 
-Frontify discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Frontify’s behalf or to provide services available at Frontify’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Frontify’s websites, you consent to the transfer of such information to them. Frontify will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Frontify discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Frontify believes in good faith that disclosure is reasonably necessary to protect the property or rights of Frontify, third parties or the public at large. If you are a registered user of an Frontify website and have supplied your email address, Frontify may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Frontify and our products. We primarily use our product blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Frontify takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
+From time to time, Frontify may publicly release aggregated statistics, e.g., by publishing a report on trends in the usage of our Sites. 
 
-## Google analytics
+Any personal information used to monitor the usage of our Sites and improve our Service is anonymized and aggregated.
 
-This website uses Google Analytics to help analyze how users use the site. The tool uses "cookies", which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors' us of the webiste and to compile statistical reports on website activity for Frontify. 
+Frontify engages the following trusted third-parties which provide parts of the Service on behalf of Frontify in regard to processing of Personal Data:
 
-We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information (PII) of visitors to our site. Google will not associate your IP address with any other data held by Google. Neither we nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information to our support team. 
+  * Amazon Web Services (AWS), located in Frankfurt DE or North Virginia USA for hosting and data processing
+  * Postmark (Wildbit), located in Philadelphia USA for email processing
+  * Algolia, located in Paris FR for real-time search
+  * Pusher, located in London UK for real-time messaging
+
+
+
+## How Do we Protect Personal Data
+
+Frontify discloses Personal Data only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Frontify’s behalf or to provide Services available at Frontify’s Sites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of the home country of the user; by using Frontify’s Site, users consent to the transfer of such information to them. 
+
+Other than to its employees, contractors and affiliated organizations, as described above, Frontify may disclose Personal Data only in response to a subpoena, court order or other governmental request, or when Frontify believes in good faith that disclosure is reasonably necessary to protect the property or rights of Frontify, third parties or the public at large.
+
+If you are a registered user of an Frontify Site or Service and have supplied your email address, Frontify may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Frontify and our products. We primarily use our product blog to communicate this type of information, so we keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve to use this information in order to help us clarify or respond to your request or to help us support other users. Frontify takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of Personal Data.
 
 ## Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Frontify uses cookies to help Frontify identify and track visitors, their usage of Frontify website, and their website access preferences. Frontify visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Frontify’s websites, with the drawback that certain features of Frontify’s websites may not function properly without the aid of cookies. 
+We use technical cookies that are necessary for the functionality of the Sites – identify visitors, keep preferences, etc. These cookies do not include any cookies set for advertisement purposes and/or for the purpose of tracking the user over multiple websites.
 
-## Business transfers
+By using our Sites you consent to cookies used for collecting the data on the user’s visits and/or for advertisement purposes by the following third-party services:
 
-If Frontify, or substantially all of its assets, were acquired, or in the unlikely event that Frontify goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Frontify may continue to use your personal information as set forth in this policy. 
+  * Google Analytics and Google Ads
+  * Twitter
+  * Vimeo
+  * Facebook
+  * LinkedIn
+  * Bing
+  * Hotjar
 
-## Privacy policy changes
 
-Although most changes are likely to be minor, Frontify may change its Privacy Policy from time to time, and in Frontify’s sole discretion. Frontify encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+
+You can always turn cookies off if you like. The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+## Business Transfers
+
+If Frontify, or substantially all of its assets, were acquired, or in the unlikely event that Frontify goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Frontify may continue to use your Personal Data as set forth in this policy.
+
+## Outside of the European Union
+
+We make sure that Personal Data transferred outside of the EU is handled by trustworthy vendors. Vendors are regularly examined and individual data processing agreements are signed. When transferring Personal Data to the United States, we check the validity of the vendors according to the EU-U.S. and Swiss-U.S. Privacy Shield and/or make sure the vendors signed the standard contractual clauses.
+
+## Your Choices
+
+You may always refuse to supply Personal Data, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+You may correct the Personal Data in your account using our Sites.
+
+You may always request to delete your Personal Data (see contact details below).
+
+## Personal Data Relating to Job Applicants
+
+Frontify will collect and process information that you voluntarily communicate about you to Frontify for purposes related to a potential employment. Additionally, Frontify may collect publicly available information (e.g. your LinkedIn profile). Frontify will store and manage this information with a trusted third-party providing a state-of-the-art solution for recruiting processes. You can request access, correction or deletion of job applicant information about you at any time using contact details below.
+
+## Personal Data Relating to Children
+
+We do not knowingly collect information from anyone under the age of sixteen. If we learn that we may have received information from someone under the age of thirteen, we will take reasonable measures to remove the information.
+
+## Privacy Policy Updates
+
+We may update this Privacy Policy from time to time. You can always find the up to date version of the Privacy Policy on our Site. We undertake to inform our customers regarding updates of this Privacy Policy in our newsletters. 
+
+## Representative in the EU
+
+Frontify Deutschland GmbH is the representative of Frontify AG in the EU.
+
+## Contact
+
+Please don't hesitate to contact our Data Protection Officer at [privacy@frontify.com](mailto:privacy@frontify.com) if you have any questions about our Privacy Policy or regarding other privacy-related manners.
