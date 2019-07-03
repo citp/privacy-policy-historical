@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ijraset.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829030441id_/http%3A//www.ijraset.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijraset.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703173356id_/https%3A//www.ijraset.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Best International Journal for Scientific, Engineering & Applied Science, Research & Technology – IJRASET
+# UGC Approved International Journals | Paper Publication Sites
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which IJRASET collects, uses, maintains and discloses information collected from users (each, a "User") of theÂ www.ijraset.comÂ website ("Site"). This privacy policy applies to the Site and all products and services offered by IJRASET. 
+This Privacy Policy governs the manner in which IJRASET collects, uses, maintains and discloses information collected from users (each, a "User") of the www.ijraset.com website ("Site"). This privacy policy applies to the Site and all products and services offered by IJRASET. 
 
 **Personal identification information**
 
