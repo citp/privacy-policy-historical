@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofcon.info privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503154647id_/http%3A//mofcon.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofcon.info privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703150258id_/http%3A//mofcon.info/privacy) for the most accurate reproduction.*
 
 # privacy – mofcon.info
 
