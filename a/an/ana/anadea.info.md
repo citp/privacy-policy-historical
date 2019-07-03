@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anadea.info privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618025111id_/https%3A//anadea.info/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anadea.info privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703151258id_/https%3A//anadea.info/privacy-terms) for the most accurate reproduction.*
 
 # Privacy Statement & Terms of Use - Anadea
 
