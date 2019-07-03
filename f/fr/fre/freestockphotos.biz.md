@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestockphotos.biz privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622012950id_/http%3A//www.freestockphotos.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestockphotos.biz privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703153707id_/http%3A//www.freestockphotos.biz/privacy.php) for the most accurate reproduction.*
 
 # Free Stock Photos | Privacy Policy
 
