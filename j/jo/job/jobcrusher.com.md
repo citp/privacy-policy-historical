@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcrusher.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214143911id_/http%3A//www.jobcrusher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcrusher.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703090055id_/https%3A//www.jobcrusher.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Job Crusher
 
@@ -12,7 +12,7 @@ You must be at least 18 years old to access this website. We do not direct this 
 
 **Information Collected by our ISP**
 
-The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on ‘server logs’ or ‘raw server logs.’ We may have access to our raw server logs and access reports prepared by our hosting provider.
+The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on ‘server logs' or ‘raw server logs.' We may have access to our raw server logs and access reports prepared by our hosting provider.
 
 **Financial Information for Billing Purposes**
 
