@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613173715id_/http%3A//www.sermo.com/what-is-sermo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703163522id_/http%3A//www.sermo.com/what-is-sermo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SERMO
 
