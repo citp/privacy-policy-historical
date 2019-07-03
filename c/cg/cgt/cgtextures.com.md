@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgtextures.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220212054id_/http%3A//www.textures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgtextures.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703173958id_/https%3A//www.textures.com/privacy.html) for the most accurate reproduction.*
 
 # Textures for 3D, graphic design and Photoshop!
 
