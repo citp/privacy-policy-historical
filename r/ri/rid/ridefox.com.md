@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ridefox.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717172037id_/https%3A//www.ridefox.com/fox17/tos.php%3Fp%3Dprivacy%26ref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridefox.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703150846id_/https%3A//www.ridefox.com/fox17/tos.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# FOX Privacy policy
+# FOX Privacy Policy
 
 1 | **INTRODUCTION**  
-1.1 | Fox Factory, Inc., registered at 915 Disc Drive, Scotts Valley, CA 95066, USA and its affiliates (Race Face, Easton Cycling, Marzocchi) (collectively, “FOX,” “we,” “our” or “us”), operate this website in their capacity of joint controllers under applicable data protection laws and regulations (together, the “Applicable Laws”).  
+1.1 | Fox Factory, Inc., headquartered at 6634 Highway 53, Braselton, GA 30517, USA and its subsidiaries (Race Face, Easton Cycling, Marzocchi, Sport Truck USA, and Tuscany Motor Company) (collectively, “FOX,” “we,” “our” or “us”), operate this website in their capacity of joint controllers under applicable data protection laws and regulations (together, the “Applicable Laws”).  
 1.2 | This Privacy Policy (the “Policy”) describes how we collect, use, share or otherwise process your Personal Data, and what your rights are with respect thereto.  
 1.3 | This Policy applies only with respect to this website and any other FOX websites (ridefox.com, marzocchi.com, raceface.com, eastoncycling.com, sporttruckusainc.com, bds-suspension.com, zoneoffroad.com, 4x4posi-lok.com, jksmfg.com, rtproutv.com) on which a direct hyperlink to this Policy is posted and applies to all FOX products and services that do not have a separate privacy policy or that link to this Policy (collectively, the “Services”).  
 2 | **CATEGORIES OF PERSONAL DATA WE COLLECT**
@@ -20,7 +20,7 @@ Please be aware that you can choose whether to provide us with the types of info
 2.2 | Information about your transactions with us and with some of our business partners. When you purchase our Services, you will be required to provide your billing information, including your credit or debit card number.  
 2.3 | Communications with us. When you communicate with us in any way, such as e-mail or telephone, we will receive your contact information and any other information you choose to provide to us.  
 2.4 | Information we obtain from business affiliates, partners or other companies. We may receive information about you from third parties that you have authorized to share such information with us. For example, if you link your social media account with our Services, we may receive information about you from your social media account.  
-2.5 | Information about your computer and about your visits to FOX websites or the websites of certain FOX affiliates or partners. Our Services collect technical information about you and your computer, such as the type of web browser, operating system being used, domain name of your Internet service provider, IP address of the computer you are using, websites you visit before coming to this FOX website, other websites you visit and the date and duration of your visit. FOX may also collect such information using cookies and similar technologies. For more information in this respect, please see our [Cookie Policy](https://web.archive.org/web/20180717172037id_/https%3A//www.ridefox.com/fox17/tos.php?p=cookies).  
+2.5 | Information about your computer and about your visits to FOX websites or the websites of certain FOX affiliates or partners. Our Services collect technical information about you and your computer, such as the type of web browser, operating system being used, domain name of your Internet service provider, IP address of the computer you are using, websites you visit before coming to this FOX website, other websites you visit and the date and duration of your visit. FOX may also collect such information using cookies and similar technologies. For more information in this respect, please see our [Cookie Policy](https://web.archive.org/web/20190703150846id_/https%3A//www.ridefox.com/fox17/tos.php?p=cookies).  
 3 | **PURPOSES AND LEGAL BASES OF PROCESSING YOUR PERSONAL DATA**
 
 FOX generally processes your Personal Data for the purposes of providing you with and improving our Services. More specifically, we process your Personal Data to:
@@ -97,7 +97,7 @@ We retain Personal Data relating to website visitors for the period necessary to
 For more information on how long your Personal Data may be retained, please contact us at [privacy@ridefox.com](mailto:privacy@ridefox.com)  
   
 7 | **COOKIES AND OTHER TRACKING TOOLS**  
-7.1 | FOX may set and access FOX cookies on your computer. For more information please see our [cookie policy](https://web.archive.org/web/20180717172037id_/https%3A//www.ridefox.com/fox17/tos.php?p=cookies).  
+7.1 | FOX may set and access FOX cookies on your computer. For more information please see our [cookie policy](https://web.archive.org/web/20190703150846id_/https%3A//www.ridefox.com/fox17/tos.php?p=cookies).  
 8 | **CONTACT DETAILS**
 
 FOX Factory Inc.  
