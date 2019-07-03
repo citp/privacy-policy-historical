@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewpro.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408070611id_/https%3A//www.reviewpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewpro.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703065959id_/https%3A//www.reviewpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ReviewPro
 
