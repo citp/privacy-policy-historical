@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the elitecme.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907084246id_/https%3A//www.elitecme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitecme.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703033048id_/https%3A//www.elitecme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Elite Learning
-
-Skip to content
-
-Due to high call volume, callers may experience extended hold times. We apologize for any inconvenience.
 
 #### Thanks for visiting our site. Please take a moment to review our policies on copyright, privacy, and terms and conditions.
 
