@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohgizmo.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531221931id_/http%3A//www.ohgizmo.com/%3Fpage_id%3D88342%26preview%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohgizmo.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703043825id_/http%3A//www.ohgizmo.com/%3Fpage_id%3D88342%26preview%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy | OhGizmo!
 
