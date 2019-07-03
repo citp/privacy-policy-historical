@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529193106id_/https%3A//www.timbuk2.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703165059id_/https%3A//www.timbuk2.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Timbuk2
 
