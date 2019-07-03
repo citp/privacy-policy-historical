@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mageworx.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527020842id_/https%3A//www.mageworx.com/privacy-cookie-gdpr-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mageworx.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703041729id_/https%3A//www.mageworx.com/privacy-cookie-gdpr-policy) for the most accurate reproduction.*
 
 # MageWorx Privacy Policy
 
