@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113210819id_/http%3A//www.ewaydirect.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703124714id_/https%3A//www.ewaydirect.com/privacy-policy.html) for the most accurate reproduction.*
 
 # eWayDirect Privacy Policy
 
-eWayDirect, places the highest level of importance on respecting the privacy of our clients and their customers. Each of our employees is dedicated to maintaining the security of client data. This privacy statement describes how your personal information is collected and used and applies to the eWayDirect website, products and services.
+eWayDirect places the highest level of importance on respecting the privacy of our clients and their customers. Each of our employees is dedicated to maintaining the security of client data. This privacy statement describes how your personal information is collected and used and applies to the eWayDirect website, products and services.
+
+  
+
+
+## Covered Entities:
+
+CertainSource 
 
   
 
@@ -20,13 +27,13 @@ To the extent we are legally permitted to do so, we will take reasonable steps t
 
 ## Information Collection and Use on our Website
 
-eWayDirect is the sole owner of the information collected at our site. We do not sell, share, or rent information to third parties. The information is used to determine the most appropriate information to send to those who request it. 
+eWayDirect is the sole owner of the information collected at our site, which includes name, phone, title, and email. This excludes data our clientâ€™s upload or create in our platform. We do not sell, share, or rent information to third parties. The information is used to improve our services and communicate with prospects. 
 
 The website provides users with registration forms offering the opportunity to request information, demonstrations and to join our mailing list. These forms require users to provide contact information. 
 
 We collect visitor IP addresses in log files to monitor our site. IP addresses are anonymous and are not linked to personal information. 
 
-We may share aggregated data with clients or partners. This does not include information that can identify any individual person. Nor does it disclose confidential or proprietary client information. 
+We donâ€™t share this data with clients or partners and use it to improve and monitor our services. 
 
   
 
@@ -67,7 +74,12 @@ We collect information regarding the activity of email recipients, which is only
 
 If eWayDirect determines a client has knowingly used our system for sending unsolicited email, we may revoke the right of this client to use our system. 
 
-eWayDirect does not sell, share, or rent the mailing lists of our clients. Content Guidelines 
+eWayDirect does not sell, share, or rent the mailing lists of our clients. 
+
+  
+
+
+## Content Guidelines
 
 _The following content shall not be included in emails:_
 
@@ -109,20 +121,50 @@ eWayDirect is a member of several associations focused around building and maint
   
 
 
-## Compliance and Safe Harbor
+## Privacy Shield Program
 
-eWayDirect complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. eWayDirect has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view eWayDirect's certification, please visit http://www.export.gov/safeharbor/. 
+eWayDirect complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield. eWayDirect has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/. 
 
-eWayDirect and their clients agree to conduct their respective businesses in compliance with CAN-SPAM and other applicable federal, state, provincial and local laws, rules and regulations, including without limitation all laws, rules and regulations regarding list acquisition, email deployment, and advertising. 
+  
 
-If you feel that this company is not abiding by its posted privacy policy or is not in compliance with the Safe Harbor principles, you should contact eWayDirect's privacy manager by email at [privacy@eWayDirect.com](mailto:privacy@eWayDirect.com "privacy@eWayDirect.com"). 
+
+### Jurisdiction and Enforcement:
+
+The Federal Trade Commission has jurisdiction over eWayDirect's compliance with the Privacy Shield. 
+
+Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also may correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [privacy@eWayDirect.com](mailto:privacy@eWayDirect.com). If requested to remove data, we will respond within a reasonable timeframe.   
+We will provide an individual opt-out or opt-in choice before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [privacy@eWayDirect.com](mailto:privacy@eWayDirect.com). 
+
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+eWayDirect's accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, eWayDirect remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless eWayDirect proves that it is not responsible for the event giving rise to the damage. 
+
+  
+
+
+### Inquiries and Complaint Resolution:
+
+In compliance with the Privacy Shield Principles, eWayDirect commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact eWayDirect at: 
+
+  
+
+
+### eWayDirect's Privacy Shield Contact:
+
+George Kydes   
+Chief Technology Officer   
+[privacy@eWayDirect.com](mailto:privacy@eWayDirect.com)
+
+eWayDirect has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you. 
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
 
   
 
 
 ## Policy Changes
 
-eWayDirect may update our privacy policy from time to time and our use of the information we collect is subject to the terms of the privacy policy in effect when we collect that information. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If we propose to modify our policy in a way that would significantly change the way that we use your information, we will provide you with a meaningful way to opt out of those new uses. If you have any questions or concerns regarding our privacy policy, please contact us. 
+eWayDirect may update our privacy policy from time to time, consistent with the Privacy Shield Principles and applicable data protection and privacy laws and principles, and our use of the information we collect is subject to the terms of the privacy policy in effect when we collect that information. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If we propose to modify our policy in a way that would significantly change the way that we use your information, we will provide you with a meaningful way to opt out of those new uses. If you have any questions or concerns regarding our privacy policy, please contact us. 
 
   
 
@@ -136,8 +178,3 @@ Fairfield, CT 06825
 
   
 
-
-## Policy Changes
-
-Phone: 203-254-0404  
-Email: [privacy@eWayDirect.com](mailto:privacy@eWayDirect.com "privacy@eWayDirect.com")
