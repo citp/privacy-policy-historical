@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the nashirnet.net privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503130226id_/http%3A//www.nashirnet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashirnet.net privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703060604id_/http%3A//www.nashirnet.net/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NashirNet
-
-  1. [NashirNet](https://web.archive.org/)
-  2. Privacy Policy
-
-
+# Privacy Policy
 
 This privacy policy summarizes what information we collect from a registered clients or other visitors, and what we will do with it.
 
