@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcso.gov.ph privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212100912id_/http%3A//pcso.gov.ph/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcso.gov.ph privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703084141id_/https%3A//www.pcso.gov.ph/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Philippine Charity Sweepstakes Office
 
-According to the [Data Privacy Act of 2012](https://web.archive.org/pcsofiles/About/2017/12/20120815-RA-10173-BSA.pdf), it is the policy of the State “to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth.”
+According to the [Data Privacy Act of 2012](https://web.archive.org/pcsofiles/About/20120815-RA-10173-BSA.pdf), it is the policy of the State “to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth.”
 
 By using this website, you agree to the terms of this privacy policy. We may be updating this policy from time to time. We encourage users to frequently check back on this page.
 
