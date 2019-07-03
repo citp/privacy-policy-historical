@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupidmedia.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602224242id_/http%3A//www.cupidmedia.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupidmedia.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703182125id_/http%3A//www.cupidmedia.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - CupidMedia.com
 
