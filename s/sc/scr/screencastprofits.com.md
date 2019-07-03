@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencastprofits.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503003124id_/http%3A//screencastprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencastprofits.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703095558id_/http%3A//screencastprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Screencast Profits
 
