@@ -1,100 +1,96 @@
-> *The following text is extracted and transformed from the bigspy.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigspy.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703054459id_/https%3A//bigspy.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# BigSpy Privacy and Cookie Policy
 
-**Go Daddy Respects Your Privacy**
+This Privacy and Cookies Policy describes the privacy practices relating to information that BigSpy, Inc. (“BigSpy,” “we,” “us,” “our”) collects and uses on our websites that link to this policy, such as www.bigspy.com or any other website where this policy is displayed (collectively, our “Site”), as well as through our analytics technology services that our clients use on their websites and their mobile applications (our “Services”).
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Among other services, BigSpy provides analytics that allow advertisers, websites and app developers, and third party ad platforms (collectively our “Clients”) to better understand the effectiveness of their content, including online advertising. We may help Clients understand, for instance, whether their articles or ads tend to be viewed by users, and whether their articles or ads appear in a viewable manner. In providing these Services, we may work with business partners who collect and provide us with information collected from users’ browsers or devices. The information that we or they may collect through our Services (referred to in this Privacy and Cookies Policy as the “Service Information”) includes the following:
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * Log information. When users visit a website where our Services are deployed, our servers may automatically record information that each browser sends. These server logs include information such as Internet Protocol (“IP”) address (a unique number that is automatically assigned to your computer), the date and time, browser type, and users’ interactions with our Clients’ content and advertising.
+  * Mobile data. Through mobile applications on which our Services are deployed, we (or Clients and other application providers we work with) likewise may collect information about users’ interactions with those applications (including your IP address and time-stamp information), and information about users’ mobile devices (including device type, handset name, operating system information, mobile identifiers such as Apple IDFA and Android Advertising ID, app-specific identifiers, and a list of the applications devices interacts with).
+  * We, our business partners or Clients may collect information about your browser, device, and how you interact with web and mobile content, through the use of cookie IDs associated with your browser. We or they may deploy and read these unique IDs, and thus passively “collect” them, when you go to a Site where our Services are deployed or (as to our business partners) where they otherwise interact with a user’s browser. For more details about these technologies, please see the section further below titled “Cookies", "Pixel Tags,” and “SDKs,” and How We Use Them.
+  * We may combine any of the above Service Information with each other, and we may also combine it with information or inferences about users’’ interaction with ads, content, and webpages or applications that our clients provide or display (“Viewing Data”).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect the following information from users, whether passively or actively, when users visit our Site (“Site Information”):
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * Volunteered: You may share personal information with us when you subscribe to our newsletter, open an account with us, fill out a form on our website, purchase our products or services, or interact with us in other ways. The information you would share in these cases typically would be contact information (e.g., name, email address and phone number) or billing/payment information. You do not have to share this information with us, but without it you may not be able to access certain content, features or services.
+  * Posted: You are entirely responsible for the information you post on the public areas of our Site, which may be collected, used and disclosed by us or third parties without restriction, despite our efforts to contractually restrict such third-party use via our Terms of Use.
+  * Cookies and Unique IDs: Like most web businesses, we use automated mechanisms (e.g., cookies and pixels) with unique identifiers to keep track of user interactions with our Site. (Learn more about these technologies by scrolling to our Section titled “Cookies,” “Pixel Tags,” and “SDKs” and How We Use Them.) We may use our own technology (as described in Client Services above) for that purpose, and we also may use third party services such as Google Analytics, in which case those third parties gather information such as your IP address, browser type, the webpage from which you came to our website, and the times of your access to our Site. In addition, as you browse BigSpy.com and other BigSpy URLs, advertising cookies may be placed on your computer so that we can understand what you are interested in. Our display advertising partners may then help us retarget ads to you on other sites based on your interactions with the Site. To “opt out” of having your information used to tailor ads to you in this way, in this way, please scroll down to our Section titled “Your Choices, and Your Opt Out Options” to learn how to opt-out of these services and instead receive generic, non-tailored ads.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In addition to the uses described above, we use this “Site Information” (alone or in combination) to provide, market and operate our Site and Services. Among other things, the Site Information we collect can enable us to:
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * Maintain the Site and Services, and optimize the way our Site and Services are offered,
+  * Send you requested product or service information,
+  * Respond to your questions, concerns or customer service inquiries,
+  * Customize the content and advertising you see on our Site, across the Internet and elsewhere, and
+  * Send you marketing and other communications.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We will only process personal information you provide to us or we collect in accordance with applicable data protection laws including, in the case of users located in the European Union, applicable laws which implement the Data Protection Directive 95/46/EEC, the Privacy and Electronic Communication (EC Directive) Regulations 2003.
 
-**Updating Your Information**
+  * We share the Service Information (such as the Viewing Data) with our Clients and their service providers and other platforms that may assist those Clients.
+  * We share the Site Information with companies that help us operate our platform and market our services, such as to advertise our services, bill our customers, analyze our Site users, provide customer and technical support, hosting services, and other operational support.
+  * We may share the Site and Service Information as follows:
+    * As part of a business sale, merger, consolidation, investment, change in control, transfer of substantial assets, reorganization or liquidation, or in connection with steps taken in anticipation of such an event (e.g., due diligence).
+    * With any subsidiaries which are partly or fully owned by BigSpy, or corporate affiliates.
+    * With third parties that help us to provide the Site or Services, such as entities that help make our Site or Services available and functional, host our content and services, make available or transmit any information we hold, help us send emails, help us process payments, help us manage customer information, or other subcontractors, affiliates, and consultants which provide technical, customer, billing, administrative, event planning, marketing or operational services to us or our Clients.
+    * If required by law or in response to legal process, such as a subpoena, or to cooperate in good faith with a request from a government or law enforcement agency or official.
+    * Where we believe sharing the information may prevent physical, financial or other harm, injury or loss; or we believe is necessary for protecting BigSpy's interests; or is in connection with an investigation of suspected or actual unlawful activity.
+    * We also may disclose your information under circumstances not mentioned here with prior consent of the user that submitted the information to us.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  1. Cookies and Pixel Tags. Cookies are small data files that contain a string of characters, such as an anonymous unique browser identifier. Cookies are stored on your computer or other device and act as (usually unique) tags that identify your device. Our servers send your browser or device a cookie when you visit the Site, and Clients and partners may do likewise on their websites or through their multi-site platforms. A pixel tag (also commonly known as a web beacon or clear GIF) is an invisible 1 x 1 pixel that is placed on certain web pages. When you access these web pages, pixel tags generate a generic notice of the visit and permit us to set or read our cookies. Pixel tags are used in combination with cookies to track activity on a site by a particular device. When you turn off cookies, pixel tags simply detect a unique website visit. We (or partners we work with) may use cookies to, among other things, “remember” you (e.g., when you visit the Site), track user trends, and collect information about how you use our Clients’ sites or interact with advertising. We use cookies to provide relevant content to you and replace non-relevant ads with ads that better match your interests. We may use the following types of cookies:
+    * Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas of our Site, or make use of e-billing services.
+    * Analytical/performance cookies. These allow us to recognise and count the number of visitors and to see how visitors move around our Site or our Clients' websites. This helps us and our Clients to improve the way that the websites work, for example, by ensuring that users are finding what they are looking for easily.
+    * Functionality cookies. These are used to recognise you when you return to our Site or our Clients' websites. This means that content can be personalised for you and your preferences can be remembered (for example, your choice of language or region).
+    * Targeting cookies. These cookies record your visit to our Site or our Clients' websites, the pages you have visited and the links you have followed. This information will be used to make the websites and the advertising displayed on them more relevant to your interests. We may also share this information with third parties for this purpose.
+  2. Disabling Cookies. Most Web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the websites you visit may be difficult to use or inoperable. For more information about cookies and how to change your browser settings, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+  3. Mobile Device Identifiers and SDKs. We also sometimes use, or partner with publishers or publisher-facing and app developer platforms that use mobile SDKs to collect information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and information connected to how mobile devices interact with our Services and those using our Services. A mobile SDK is in effect the mobile app version of a pixel tag or beacon. The SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented. We may use this technology, for instance, to analyze or measure certain advertising through mobile applications and browsers based on information associated with your mobile device. If you’d like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the below Section titled “Your Choices, and Your Opt Out Options”
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+Sometimes, our Clients or partners we work with may use the above technologies (sometimes, in combination with each other or other data such as IP addresses or hashed or de-identified data files) to coordinate users’ identities across platforms, browsers or devices, to more efficiently analyze online or mobile audiences, or target advertising and analyze ad performance.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We sometimes work with companies that capture anonymous or de-identified data and create targeting attributes based on users’online browsing activities. You may opt out of these third parties’ services (and learn more about them) by visiting the [Digital Advertising Alliance’s opt-out page](http://www.aboutads.info/), or the [Network Advertising Initiative’s opt-out page](http://www.networkadvertising.org/), or, if you are a European user, by visiting [www.youronlinechoices.com](http://www.youronlinechoices.com/). Please note that opting out through this page will generally only opt out of these companies’ “third party” ad targeting features; you will continue to see non-tailored ads.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Similarly, to provide or use our Services, we (or Clients and partners we work with) may employ other information collected from users when they are online (for instance, IP address), aggregated with information collected from various websites and mobile applications, and various devices or browsers. The above industry-provided opt-out pages can also opt you out of many of those types of services. Other consumer choice tools are provided through the Ghostery website, [www.ghostery.com](http://www.ghostery.com/), including the [Ghostery browser extension](https://www.ghostery.com/our-solutions/ghostery-browser-extention/), [Enterprise the Ghostery opt-out program](https://www.ghostery.com/support/global-opt-out/)), and information about the Ghostery Ad Control application through which you may enable information “opt outs” for mobile applications.
 
-**Compliance with Laws and Law Enforcement**
+To opt-out of BigSpy using the Ghostery browser extension, please follow these steps:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  1. Download and install the extension (which will provide you a variety of opt-out choices, in addition to permitting you to block BigSpy’s data collection);
+  2. Once installed, enable the Ghostery Findings Panel;
+  3. You will then have the ability to block BigSpy from collecting data, when BigSpy appears in the Ghostery Panel.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Please note that Ghostery may implement updates or changes to its features, and they (not we) control those features.
 
-**Supplementation of Information**
+We also sometimes work with companies that capture advertising identifiers from mobile devices. You may opt out of use these identifiers for purposes of interest-based advertising by accessing the settings on your phone.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+As on most websites, third parties may directly gather user information from users of our Site through automated means such as cookies or pixels. For example, our third party video hosting provider may use Flash cookies to collect and store information, such as your volume control preferences. Cookie management tools provided by your browser may help you manage certain types of cookies but may not work with other kinds, such as Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-**Contests/Surveys**
+Our ad network partners may use cookies and pixels to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you ads targeted in this way, you may opt out (of most or all of these companies) through the methods described in the above section about “Your Choices.” Please note this does not opt you out of being served advertising. You will continue to receive generic, non-interest-based ads.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+In addition, the Site may contain embedded third-party content or links to third party websites and content. BigSpy does not control these websites and/or content, and these third parties' privacy policies are different from our own. You access linked websites or third party content at your own risk. We are not responsible for the privacy practices of these websites or content providers, and you should check their applicable privacy policies to determine how they handle any information they collect from you.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We take measures to protect against unauthorized access to or unauthorized alteration, interference, disclosure, or destruction of data we collect and store. These may include, for instance, internal reviews of our data collection, storage, and processing practices and security measures. Our servers are protected by firewalls and are physically located in secure data facilities to further increase security. Of course, no security system is perfect. While we take a range of measures to safeguard against the unauthorized access to the data we collect and store, we cannot guarantee that it will not be disclosed or accessed inadvertently or through the unauthorized acts of others.
 
-**Tell-A-Friend**
+We may transfer personal information that we collect from you to us, third party data processors or to members of our group of companies located in other countries in connection with the above purposes. Data that we collect will be stored on servers in the United States or in other territories. Please be aware that countries which are outside your country of residence may not offer the same level of data protection as your country of residence, although our collection, storage and use of your personal data will continue to be governed by this Privacy and Cookies Policy.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+If you are a resident of Australia or of a European Union Member State, you have the following rights:
 
-**What Happens to my Personal Information if I Opt Out?**
+  * the right to request access to, or ask us to provide you with copies of, personal information that we hold about you at any time, which may be subject to a fee specified by law for processing your request (but not for making a request for access).We will respond to your request within a reasonable period. We may decline a request for access to personal information in circumstances prescribed by relevant privacy laws. If we decline a request, we will provide you with a written notice that sets out the reasons for the refusal (unless it would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint;
+  * the right to ask us to update and correct any out-of-date or incorrect or inaccurate personal information that we hold about you free of charge. We will take reasonable steps to correct the information so that it is accurate, complete and up to date. If we refuse to correct your personal information, we will provide you with a written notice that sets out the reasons for our refusal (unless it would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint; and
+  * the right to opt out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you. If you wish to exercise any of the above rights, please write to us (either by e-mail or by mail) using the contact details at section 11 below.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+BigSpy reserves the right to change this Privacy and Cookies Policy without prior notice at any time, and will do so by posting the updated version on our Site.
 
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Effective: May 18, 2018
