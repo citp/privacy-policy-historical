@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abercrombiekent.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216174649id_/https%3A//www.abercrombiekent.com/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abercrombiekent.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703174129id_/http%3A//www.abercrombiekent.com/legal/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Abercrombie & Kent
 
@@ -6,7 +6,7 @@
 
 Welcome to the Abercrombie & Kent Privacy Notice. Abercrombie & Kent USA, LLC respects your privacy and is committed to protecting your personal data. This Privacy Notice applies to abercrombiekent.com, akphilanthropy.org and/or any Website owned, operated, licensed or controlled by Abercrombie & Kent USA, LLC (referred to in this Privacy Notice as the "Site"). This Site is intended for use by persons who are residents of the United States of America and who are over 18 years of age. By using this Site, you accept the practices described in this Privacy Notice. This Privacy Notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) or when you otherwise provide personal data to us via other means (such as over the telephone) (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
 
-This Privacy Notice is provided in a layered format so that you can easily click through to the specific areas set out below. Alternatively, you can download a PDF version of the Notice [here](https://web.archive.org/-/media/ak/media-for-prod/miscellaneous-pages/pdfs/privacy-notice-2018.pdf?la=en&hash=5D11D815CC0D72B81E38ED6FA3627AF71DB2FE1C).
+This Privacy Notice is provided in a layered format so that you can easily click through to the specific areas set out below. Alternatively, you can download a PDF version of the Notice [here](https://web.archive.org/-/media/ak/media-for-prod/miscellaneous-pages/pdfs/privacy-notice-2018.pdf).
 
 Please also use refer to the Glossary that we have set out at the end of the Notice, if there is any terminology used in this Privacy Notice that you are unfamiliar with or that you don’t fully understand.
 
@@ -54,7 +54,7 @@ Full name of legal entity: | Abercrombie & Kent USA, LLC
 ---|---  
 Name: | Data Protection Compliance Manager  
   
-Email address: | [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#284c495c494b474558444149464b4d68494a4d5a4b5a47454a414d434d465c064b4745)  
+Email address: | [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afcbcedbceccc0c2dfc3c6cec1cccaefcecdcaddccddc0c2cdc6cac4cac1db81ccc0c2)  
   
 Postal address: | 
 
@@ -196,7 +196,7 @@ We will only use your personal data when the law allows us to. Most commonly, we
 
 We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c787d687d7f73716c70757d727f795c7d7e796e7f6e73717e757977797268327f7371) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2145405540424e4c514d48404f4244614043445342534e4c4348444a444f550f424e4c) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
 
 **Purpose/Activity**
 
@@ -352,17 +352,17 @@ We may use your Identity, Contact, Technical, Usage and Profile Data to form a v
 
 **Opting out**
 
-You can ask us to stop sending you marketing messages at any time by following the opt-out unsubscribe links on any marketing message sent to you or by contacting your travel consultant at any time or by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4024213421232f2d302c29212e2325002122253223322f2d2229252b252e346e232f2d). 
+You can ask us to stop sending you marketing messages at any time by following the opt-out unsubscribe links on any marketing message sent to you or by contacting your travel consultant at any time or by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a6e6b7e6b6965677a66636b64696f4a6b686f786978656768636f616f647e24696567). 
 
 Where you opt out of receiving these marketing messages, you will still receive communications that are required as a result of a purchase of arrangements or other such transactions.
 
 **Special notice to California residents**
 
-Under California Civil Code Section 1798.83, California residents have the right to request and receive from us, once per year and free of charge, information about the personal information we have disclosed (if any) to third parties for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#addac8cfcec5ccd9edcccfc8dfcedfc2c0cfc4c8c6c8c3d983cec2c0) including the phrase “California Privacy Request” in the subject line, and provide us with your name, postal address and email address.
+Under California Civil Code Section 1798.83, California residents have the right to request and receive from us, once per year and free of charge, information about the personal information we have disclosed (if any) to third parties for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#24534146474c4550644546415647564b49464d414f414a500a474b49) including the phrase “California Privacy Request” in the subject line, and provide us with your name, postal address and email address.
 
 **Change of purpose**
 
-We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90f4f1e4f1f3fffde0fcf9f1fef3f5d0f1f2f5e2f3e2fffdf2f9f5fbf5fee4bef3fffd). 
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f1b1e0b1e1c10120f13161e111c1a3f1e1d1a0d1c0d10121d161a141a110b511c1012). 
 
 If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
@@ -398,7 +398,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7410150015171b1904181d151a1711341516110617061b19161d111f111a005a171b19).
+Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#debabfaabfbdb1b3aeb2b7bfb0bdbb9ebfbcbbacbdacb1b3bcb7bbb5bbb0aaf0bdb1b3).
 
 In addition to the above, by law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for ten years after they cease being customers for tax purposes.
 
@@ -424,7 +424,7 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 (G) Right to withdraw consent.
 
-If you wish to exercise any of the rights set out above, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#96f2f7e2f7f5f9fbe6fafff7f8f5f3d6f7f4f3e4f5e4f9fbf4fff3fdf3f8e2b8f5f9fb).
+If you wish to exercise any of the rights set out above, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#294d485d484a464459454048474a4c69484b4c5b4a5b46444b404c424c475d074a4644).
 
 **No fee usually required**
 
@@ -432,7 +432,7 @@ You will not have to pay a fee to access your personal data (or to exercise any 
 
 **What we may need from you**
 
-We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. You will be required to show your identification at an Abercrombie & Kent office in Downers Grove, Illinois. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6a2a7b2a7a5a9abb6aaafa7a8a5a386a7a4a3b4a5b4a9aba4afa3ada3a8b2e8a5a9ab) to determine your nearest location.
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. You will be required to show your identification at an Abercrombie & Kent office in Downers Grove, Illinois. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6a0e0b1e0b0905071a06030b04090f2a0b080f180918050708030f010f041e44090507) to determine your nearest location.
 
 **Time limit to respond**
 
@@ -446,7 +446,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 
 
-means the interest of our business in conducting and managing our business to enable us to give you the best service and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#acc8cdd8cdcfc3c1dcc0c5cdc2cfc9eccdcec9decfdec3c1cec5c9c7c9c2d882cfc3c1)
+means the interest of our business in conducting and managing our business to enable us to give you the best service and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a4e4b5e4b4945475a46434b44494f6a4b484f584958454748434f414f445e04494547)
 
   * **Performance of Contract**
 
