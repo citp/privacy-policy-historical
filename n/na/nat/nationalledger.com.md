@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531062000id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703213141id_/https%3A//nationalledger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Ledger
-
-UPDATED: January 7, 2010
 
 Internet user privacy is of the highest importance to The National Ledger. The National Ledger is committed to protecting your privacy. The National Ledger does not automatically collect any personally identifiable information, such as name, address, email address or telephone number, from visitors to our website.
 
 **Cookies:**
 
-The National Ledger may use cookies during your visit to the web site. A cookie is a piece of data stored on the user's hard drive containing information about the user's computer. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+The National Ledger may use cookies during your visit to the web site. A cookie is a piece of data stored on the user’s hard drive containing information about the user’s computer. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
 Some of our business partners use cookies on our site, such as advertisers, however we have no access to or control over these cookies.
 
@@ -18,9 +16,9 @@ Our website contains links to websites that are not operated by The National Led
 
 Users should check the applicable privacy policies of those third parties if providing personally identifiable information.
 
-The National Ledger also uses third-party advertising companies to serve ads when you visit our website. These companies may use cookies and information about your visits to this and other web sites in order to provide advertisements that may be of interest to you. This is known as Online Behavior Advertising ("O.B.A") and/or Multi-Site Advertising. The information they use is not personally identifiable, and does not contain your name, email address, physical address, or phone number.
+The National Ledger also uses third-party advertising companies to serve ads when you visit our website. These companies may use cookies and information about your visits to this and other web sites in order to provide advertisements that may be of interest to you. This is known as Online Behavior Advertising (“O.B.A”) and/or Multi-Site Advertising. The information they use is not personally identifiable, and does not contain your name, email address, physical address, or phone number.
 
-To get more information or to opt out please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+To get more information or to opt out please click here.
 
 **Privacy Protection for Children:**
 
@@ -38,10 +36,10 @@ By using The National Ledger sites and services, you signify your acceptance of 
 
 **Contact:**
 
-Direct any questions to us [via e-mail](https://web.archive.org/web/20170531062000id_/http%3A//www.nationalledger.com/about/contact.shtml).
+Direct any questions to us via e-mail.
 
-_Or mail us at:_
+**Or mail us at:**
 
 The National Ledger  
 PO Box 1212  
-Apache Junction, AZ 85117-1212
+Mesa AZ 85212
