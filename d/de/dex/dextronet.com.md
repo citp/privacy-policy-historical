@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607191007id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703122819id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
 
 # Dextronet Privacy Policy
 
