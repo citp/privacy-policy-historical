@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4vps.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320180609id_/https%3A//www.time4vps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4vps.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703182850id_/https%3A//www.time4vps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy statement - Security - Time4VPS - VPS Hosting in Europe
 
