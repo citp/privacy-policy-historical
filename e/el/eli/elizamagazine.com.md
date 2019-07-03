@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the elizamagazine.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801163823id_/https%3A//elizamagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizamagazine.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703231238id_/https%3A//elizamagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Eliza Magazine
+
+ELIZAMAGAZINE.COM is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.
 
 Our team here at Eliza Magazine is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
