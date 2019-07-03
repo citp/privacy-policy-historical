@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimizerx.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610120612id_/http%3A//www.optimizerx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizerx.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703143004id_/https%3A//www.optimizerx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OptimizeRx
+# Privacy Policy - OptimizeRx
 
 **Privacy Statement**
 
