@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmoment.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614010711id_/https%3A//inmoment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmoment.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703211528id_/https%3A//inmoment.com/privacy-policy) for the most accurate reproduction.*
 
 # English
 
