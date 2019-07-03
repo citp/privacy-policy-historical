@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mycrazygoodlife.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417071741id_/https%3A//mycrazygoodlife.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycrazygoodlife.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703221258id_/https%3A//mycrazygoodlife.com/policies) for the most accurate reproduction.*
 
 # Policies - My Crazy Good Life
 
 ## Policies for Crazy Good Media and My Crazy Good Life
 
-Effective date: May 17, 2018
+Effective date: May 17, 2019
 
 ###  **Affiliate Links**
 
