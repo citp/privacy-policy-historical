@@ -1,27 +1,33 @@
-> *The following text is extracted and transformed from the tealswan.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006123611id_/https%3A//tealswan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealswan.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703231717id_/https%3A//tealswan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Teal Swan
 
-  * ####  What do we do with your information? 
+**What do we do with your information?**
 
-When you purchase something from our website, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
+When you browse our website, we automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system. 
 
-When you browse our website, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system. 
+When you register to the website we ask for your name and birth day, both of which can be real or fictional, we leave it up to you what information you provide us in these fields. We also collect your email address. With your permission, we may send you emails about our website, new products and other updates. 
 
-Email marketing: With your permission, we may send you emails about our website, new products and other updates. 
+When you purchase something from our website, as part of the buying and selling process, we collect the personal information you give us such as your name, address, email address, phone number and credit card information. This data is collected to be able to charge you for your purchase and any subscription renewals for any subscription services that you have purchased. 
+
+We do not share or distribute your personal information outside of our company, Teal Eye LLC. 
+
+The data that you have provided will be stored until you deactivate your account, withdraw consent, you delete it personally or we delete it based on security or personal reasons. 
 
 ####  Consent 
 
 How do you get my consent? 
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. 
+When you sign up to our website, provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. 
 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
   
 How do I withdraw my consent? 
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at tealswaninfo@tealswan.com or mailing us at: Teal Eye, Inc. 1930 Village Center Circle #3-2867, Las Vegas, NV 89134
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@tealswan.com or mailing us at: Teal Eye, Inc. 1930 Village Center Circle #3-2867, Las Vegas, NV 89134
+
+You have the right to see any and all information that we have stored about you. For that please contact us at support@tealswan.com. 
 
 ####  Disclosure 
 
@@ -29,9 +35,9 @@ We may disclose your personal information if we are required by law to do so or 
 
 ####  Data Storage 
 
-Our website is hosted with Uintah Networks LLC. They provide us with the online e-commerce platform that allows us to sell our products and services to you. 
+Our website is hosted with Siteground.com. They provide us with the online e-commerce platform that allows us to sell our products and services to you. 
 
-Your data is stored through Uintah Network's data storage, databases and the general applications. They store your data on a secure server behind a firewall. 
+Your data is stored through Siteground's data storage, databases and the general applications. They store your data on a secure server behind a firewall. 
 
 Your credit card data is never stored, and all payments comply with PCI-DSS requirements. 
 
@@ -70,19 +76,7 @@ If you provide us with your credit card information, the information is encrypte
 
 ####  Cookies 
 
-Here is a list of cookies that we use. We’ve listed them here so you can choose if you want to opt-out of cookies or not. 
-
-_session_id, unique token, sessional, Allows Uintah Networks, LLC to store information about your session (referrer, landing page, etc). 
-
-_ips_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits 
-
-_ips_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a website by a single customer. 
-
-cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart. 
-
-_secure_session_id, unique token, sessional 
-
-storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access. 
+For a list of cookies that we use visit <https://tealswan.com/cookies/>. 
 
 ####  Age of Consent 
 
@@ -95,13 +89,6 @@ We reserve the right to modify this privacy policy at any time, so please review
 If our website is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you. 
 
   
-Questions and Contact 
+**Questions and Contact**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@tealswan.com or by mail at Teal Eye, Inc. 
-
-[Re: Privacy Compliance Officer] 
-
-[Teal Eye, Inc. 1930 Village Center Circle #3-2867, Las Vegas, NV 89134] 
-
-
-
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@tealswan.com. 
