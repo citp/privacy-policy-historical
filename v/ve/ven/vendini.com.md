@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendini.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912081824id_/https%3A//vendini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendini.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703234753id_/https%3A//vendini.com/privacy) for the most accurate reproduction.*
 
 # Privacy -
 
@@ -91,4 +91,4 @@ This Privacy Policy was last modified on March 19, 2013
 
 ## Vendini Contact Information
 
-Please contact Vendini with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices at: Vendini, Inc., 660 Market Street, San Francisco, CA 94104, USA or by email at [support@vendini.com](mailto:support@vendini.com). We will make every effort to respond to your inquiry within 30 days of its receipt.
+Please contact Vendini with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices at: Vendini, Inc., 55 Francisco St. Suite 350, San Francisco, California 94133, USA or by email at [support@vendini.com](mailto:support@vendini.com). We will make every effort to respond to your inquiry within 30 days of its receipt.
