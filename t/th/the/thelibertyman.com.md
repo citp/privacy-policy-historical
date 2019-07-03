@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelibertyman.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503170701id_/http%3A//www.thelibertyman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelibertyman.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703191618id_/http%3A//www.thelibertyman.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Polcy
 
