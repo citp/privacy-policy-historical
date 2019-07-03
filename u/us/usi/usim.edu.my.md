@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usim.edu.my privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515053441id_/https%3A//www.usim.edu.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usim.edu.my privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703081343id_/https%3A//www.usim.edu.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - USIM | UNIVERSITI SAINS ISLAM MALAYSIA
 
