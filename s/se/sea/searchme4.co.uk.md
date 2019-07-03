@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchme4.co.uk privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622105840id_/http%3A//www.searchme4.co.uk/Public/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchme4.co.uk privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703203322id_/http%3A//www.searchme4.co.uk/Public/Privacy.aspx) for the most accurate reproduction.*
 
 # Business Directory, Business Directories, Business Search, UK
 
