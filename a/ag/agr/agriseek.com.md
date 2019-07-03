@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the agriseek.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024035701id_/http%3A//www.agriseek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriseek.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703082849id_/https%3A//www.agriseek.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - AgriSeek.com
+# Privacy policy - AgriSeek.com
+
+AgriSeek.com - Serving agriculture since 2002
 
 _Overview_   
 AgriSeek.com has created this privacy statement in order to demonstrate our firm commitment to privacy. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply AgriSeek.com site. To make sure your personal information remains confidential, we communicate these privacy guidelines to every AgriSeek.com employee. We also are conducting periodic and random reviews of our Web site and other products and services. 
@@ -41,7 +43,7 @@ AgriSeek.com use third-party advertising companies including Google, among other
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visit on our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 _Questions or comments? Please contact us_  
-For questions, comments or assistance with any privacy-related issues, we invite you to [contact us.](http://www.agriseek.com/contact_us_email.php?TOPIC=7) We're always happy to help. 
+For questions, comments or assistance with any privacy-related issues, we invite you to [contact us.](https://www.agriseek.com/contact_us_email.php?TOPIC=7) We're always happy to help. 
 
-For terms of use, please [click here](http://www.agriseek.com/terms.php).  
+For terms of use, please [click here](https://www.agriseek.com/terms.php).  
 
