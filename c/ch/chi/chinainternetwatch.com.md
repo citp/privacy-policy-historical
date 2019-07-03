@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinainternetwatch.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004222556id_/https%3A//www.chinainternetwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinainternetwatch.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703123433id_/https%3A//www.chinainternetwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # CIW Privacy Policy – China Internet Watch
 
