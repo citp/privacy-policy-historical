@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603005556id_/https%3A//www.itbusinessedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703234548id_/https%3A//www.itbusinessedge.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
