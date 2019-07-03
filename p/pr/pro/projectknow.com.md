@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectknow.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404191535id_/https%3A//www.projectknow.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectknow.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703094725id_/https%3A//www.projectknow.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ProjectKnow.com
 
@@ -93,10 +93,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 **Recovery Brands**  
-517 Fourth Avenue
-
-Suite 401
-
-San Diego, CA 92101
-
+1200 Fourth Avenue  
+San Diego, CA 92101  
 [contact@recoverybrands.com](mailto:contact@recoverybrands.com)
