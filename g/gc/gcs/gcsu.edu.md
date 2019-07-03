@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gcsu.edu privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621144818id_/https%3A//www.gcsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcsu.edu privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703155425id_/https%3A//www.gcsu.edu/privacy) for the most accurate reproduction.*
 
 # Georgia College Privacy Statement | About Georgia College | Georgia College
 
 Below is the Georgia College & State University’s (Georgia College) privacy and legal notice for both its website and for compliance with the European Union
 
-General Data Protection Regulation (“EU GDPR”). The [Office of University Communications](https://web.archive.org/web/20190621144818id_/https%3A//www.gcsu.edu/node/251) facilities content created for GC websites by internal departments and offices. The [Office of Legal Affairs](http://www.gcsu.edu/node/503) is responsible for compliance with EU GDPR.
+General Data Protection Regulation (“EU GDPR”). The [Office of University Communications](https://web.archive.org/web/20190703155425id_/https%3A//www.gcsu.edu/node/251) facilities content created for GC websites by internal departments and offices. The [Office of Legal Affairs](http://www.gcsu.edu/node/503) is responsible for compliance with EU GDPR.
 
 ## Website
 
@@ -124,7 +124,7 @@ Georgia College is a unit of the Board of Regents of the University System of Ge
 
 ### Georgia Open Records Act
 
-As a state university, Georgia College is subject to the provisions of the Georgia Open Records Act ([ORA](https://web.archive.org/web/20190621144818id_/https%3A//www.gcsu.edu/node/720)). Except for those records that are exempt from disclosure under the ORA, the ORA provides that all citizens are entitled to view the records of state agencies on request and to make copies for a fee. The ORA requires that Georgia College produce public documents within three business days. For more information on Georgia College’s ORA compliance, please visit the [Open Records Act page](https://web.archive.org/web/20190621144818id_/https%3A//www.gcsu.edu/node/720) on the Legal Affairs website. 
+As a state university, Georgia College is subject to the provisions of the Georgia Open Records Act ([ORA](https://web.archive.org/web/20190703155425id_/https%3A//www.gcsu.edu/node/720)). Except for those records that are exempt from disclosure under the ORA, the ORA provides that all citizens are entitled to view the records of state agencies on request and to make copies for a fee. The ORA requires that Georgia College produce public documents within three business days. For more information on Georgia College’s ORA compliance, please visit the [Open Records Act page](https://web.archive.org/web/20190703155425id_/https%3A//www.gcsu.edu/node/720) on the Legal Affairs website. 
 
 ### Data Retention
 
