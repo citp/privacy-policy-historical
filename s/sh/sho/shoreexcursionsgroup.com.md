@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoreexcursionsgroup.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330084014id_/https%3A//www.shoreexcursionsgroup.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoreexcursionsgroup.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703084055id_/https%3A//www.shoreexcursionsgroup.com/terms-privacy) for the most accurate reproduction.*
 
 # Shore Excursions Group
 
