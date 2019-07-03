@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the davidstea.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221062109id_/https%3A//www.davidstea.com/ca_en/help/%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidstea.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703155851id_/https%3A//www.davidstea.com/us_en/help/%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
-# DAVIDsTEA - Privacy Policy - CA
+# DAVIDsTEA - Privacy Policy - US
+
+##  Privacy 
 
 Davids Tea Inc. (hereinafter referred to as "Davids Tea") strongly believes in providing you with a webpage that respects your privacy. To access certain portions of this webpage, you will first be asked to provide us with personal information, which we will do our utmost to protect. This privacy policy will help you understand how Davids Tea collects, uses and discloses your information. 
 
@@ -24,9 +26,9 @@ Davids Tea expressly acknowledges that we will not use any Personal Information 
     * Protection of Your Information: We take very seriously our responsibility to protect the information that you are entrusting us with. As such, we limit access and use state of the art technologies to safeguard Personal Information from unauthorized intrusions. It should be noted that while we will do our utmost to protect your information, no security procedure is currently 100% effective. Should any breach of your personal information occur, we will inform you as soon as possible. 
     * Right to Examine Information: You have the right to examine any of your Personal Information that we collect. Should you wish to examine the information, please send us a written request to: [customerservice@davidstea.com](mailto:customerservice@davidstea.com). We reserve the right to charge you a reasonable administrative fee to access your information. 
     * Children Under 13: Given our concern for the privacy of children, it is our policy not to collect information from children under the age of 13. 
-    * Should you no longer wish to receive our emails, please update your preferences at [MY ACCOUNT](https://www.davidstea.com/ca_en/account/)
+    * Should you no longer wish to receive our emails, please update your preferences at [MY ACCOUNT](https://www.davidstea.com/us_en/account/)
     * Miscellaneous: This Privacy Policy shall be governed and construed by the laws applicable to the Province of Quebec, without regard to conflict of law rules. Both Davids Tea and you agree to the exclusive jurisdiction of the Province of Quebec. 
 
 
 
-This Privacy Policy and the [Terms and Conditions](https://www.davidstea.com/ca_en/help/?cid=customer-service-terms-conditions) Agreement shall constitute the entire agreement between the parties and there are no other written or verbal agreements or representations relating to the subject matters described herein. 
+This Privacy Policy and the [Terms and Conditions](https://www.davidstea.com/us_en/help/?cid=customer-service-terms-conditions) Agreement shall constitute the entire agreement between the parties and there are no other written or verbal agreements or representations relating to the subject matters described herein. 
