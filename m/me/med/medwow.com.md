@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medwow.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606164750id_/http%3A//medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medwow.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703082628id_/http%3A//www.medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.*
 
 # Privacy Policy - MedWOW.com
 
