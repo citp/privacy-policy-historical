@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piano-player.info privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531212542id_/http%3A//piano-player.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piano-player.info privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704001420id_/http%3A//piano-player.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Player Piano
 
