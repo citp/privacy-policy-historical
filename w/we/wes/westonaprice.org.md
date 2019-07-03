@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westonaprice.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401100224id_/https%3A//www.westonaprice.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westonaprice.org privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703212837id_/https%3A//www.westonaprice.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weston A. Price Foundation
 
