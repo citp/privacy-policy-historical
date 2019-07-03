@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptocoinsad.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302200920id_/https%3A//cryptocoinsad.com%3Fp%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptocoinsad.com privacy policy that was archived on 2019-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190703021907id_/https%3A//cryptocoinsad.com%3Fp%3Dpolicy) for the most accurate reproduction.*
 
 # CryptoCoinsAd - Crypto Advertising Network
 
