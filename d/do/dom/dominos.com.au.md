@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417075923id_/https%3A//www.dominos.com.au/about-us/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704064358id_/https%3A//www.dominos.com.au/about-us/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Domino's Privacy Policy Australia & New Zealand
 
 Find out more about [Domino's Privacy Philosophy here.](https://www.dominos.com.au/inside-dominos/privacy-philosophy "PRIVACY PHILOSOPHY")
 
-**Last updated 1 November 2018**
+**Last updated 27 June 2019**
 
 Domino's Pizza Enterprises Limited and Domino’s Pizza New Zealand Limited (" **Domino's** ") respects the privacy of individuals. This policy sets out the way in which Domino's and its franchisees (" **we** " or " **us** ") collect, hold, disclose, use and protect your personal information.
 
-By visiting any of our websites (including by using an application on a smart device), creating any accounts with VIP club or our Digital Asset Management services ("DAM"), placing an order with any of our stores (including franchise stores) or providing us with your personal information, you agree to your personal information being collected, held, used and disclosed as set out in this policy. References to 'website' include the following: https://www.dominos.com.au, https://www.dominos.co.nz or any other site, services (including web-services), software, application or media managed by Domino's.
+By visiting any third party food ordering application or platform, or by visiting any of our websites (including by using an application on a smart device), creating any accounts with VIP club or our Digital Asset Management services ("DAM"), placing an order with any of our stores (including franchise stores) or providing us with your personal information, you agree to your personal information being collected, held, used and disclosed as set out in this policy. References to 'website' include the following: https://www.dominos.com.au, https://www.dominos.co.nz or any other site, services (including web-services), software, application or media managed by Domino's.
 
 You do not have to provide us with your personal information but if you do not provide us with the information we require we may not be able to assist you process your job application, franchise application or expression of interest in a franchise, process your order or provide you with access to "DAM". If you do not agree with the practices described in this Privacy Policy, please do not provide us with your personal information or interact with our websites.
 
