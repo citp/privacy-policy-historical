@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505045418id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704202335id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ## Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f695999882979582b69a8f8485829384d895999b). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#44272b2a3025273004283d36373021366a272b29). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Security
 
@@ -83,4 +83,4 @@ Attn: Lyrster
 DesMoines, Iowa  
 USA, 50309 
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#25464a4b5144465165495c57565140570b464a48)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfaca0a1bbaeacbb8fa3b6bdbcbbaabde1aca0a2)
