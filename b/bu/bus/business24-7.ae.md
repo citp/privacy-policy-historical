@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business24-7.ae privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506222634id_/https%3A//www.business24-7.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business24-7.ae privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704222937id_/https%3A//www.business24-7.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
