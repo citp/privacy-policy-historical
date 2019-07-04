@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discreet-romance.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130235216id_/http%3A//www.discreet-romance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discreet-romance.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704124507id_/http%3A//www.discreet-romance.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy & Security Policy - Discreet-Romance.Com Sex Toys
 
