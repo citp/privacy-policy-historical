@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indi.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512222516id_/https%3A//indi.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indi.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704050242id_/https%3A//indi.com/information/privacy) for the most accurate reproduction.*
 
 # 
 
