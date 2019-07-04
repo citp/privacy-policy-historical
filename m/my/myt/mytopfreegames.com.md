@@ -1,86 +1,36 @@
-> *The following text is extracted and transformed from the mytopfreegames.com privacy policy that was archived on 2015-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150804113911id_/http%3A//mytopfreegames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytopfreegames.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705002250id_/http%3A//ww43.mytopfreegames.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy » My Top Free Games
+# Privacy Policy
 
-_Last Updated: October 10, 2012_
+* **Overview**
 
-_We thank you for visiting our site. Your privacy is important to us. This Privacy Policy explains what information Fearless Arcade, LLC (the “Company”, “Us” or “We”) collects from individuals who visit the MyTopFreeGames.com website (the “Site”), and/or the Game Center Application (“Software”), and/or third party Promotional Software Applications (“Offers), and/or participate in the resources offered to the Site (“User(s)” or “You”)._
+Thank you for visiting ww43.mytopfreegames.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-_This Policy also explains how the Company uses and maintains that information. Please note that by accessing and/or using the Site and/or any feature and/or Software therein and/or part thereof, you represent that you have read this Privacy Policy, understand it, accept it and agree to abide by its terms._
+* **What Type of Information We Collect**
 
-_We have been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of Your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If You have questions or complaints regarding Our privacy policy or practices, please contact Us at:_
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-_Fearless Arcade, LLC  
-_304 Indian Trace #208 _  
-_ Weston, FL 33326 _  
-Email: support@MyTopFreeGames.com  
-Tel: _954-343-3654 _(VM & FAX)_
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-_If You are not satisfied with Our response You can contact[TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site._ _ ****_
+* **Uses May Include**
 
-_**1\. Changes in this Privacy Statement**_
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-_If We decide to change Our privacy policy, We will post those changes to this privacy policy, the Site home page, and other places We deem appropriate so that You are aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it._
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-_We reserve the right to modify this privacy policy at any time, so please review it frequently. If We make material changes to this policy, We will notify You here, by email, or by means of a notice on the Site home pages._ _ ****_
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-_**2.**_ _ **The information we collect**_
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-_Generally, we do not collect Personally Identifiable Information (“PII”) without specific permission from you. However, we may require that you provide us with certain PII, such as your email address, as a condition for you accessing and/or using certain parts of the Site, including downloading of the Game Center software. If you choose to do so, such PII may be collected by, and/or transferred to, any third party service providers and advertising companies and the Company’s partners (collectively – “the Companies”, and each – a “Company”)._
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-_If You do not want Us to collect Your PII as described above or to use and share Your PII as described further below in this Policy, You should NOT provide it to Us through any of the Site features described above. By providing Us with Your PII using any of these features, You are authorizing Our use and sharing of Your PII as described in this Policy and any subsequent revisions to this Policy that We may publish on the Site._
-
-_(a)_ _If Your personally identifiable information changes, or if You no longer desire Our service, You may correct, update, amend, or remove it by emailing Our Customer Support at[MyTopFreeGames Support](mailto:support@mytopfreegames.com)._
-
-_(b)_ _We will retain Your information for as long as Your account is active or as needed to provide You services. We will retain and use Your information as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements._
-
-_**(c)**_ _ **The Site and the content available or emails delivered in connection with the Site, are neither intended for, nor directed to, nor to be accessed by, persons under the age of 13. We do not knowingly collect PII from anyone under 13 years of age.**_
-
-_(d)_ _Some of Our pages utilize framing techniques to serve content to from Our partners while preserving the look and feel of Our site. Please be aware that You are providing Your personal information to these third parties._
-
-_**(e)**_ _We will share Your personal information with third parties only in the ways that are described in this privacy statement. **We do not sell Your personal information to third parties.**_
-
-_(f)_ _We reserve the right to use PII: (1) for the specific purpose for which such information was provided as stated above; (2) for the purposes disclosed at the time such information is provided; or (3) as disclosed in this Policy._
-
-_(g)_ _In addition, if We go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, Your PII will likely be among the assets transferred._
-
-_(h)_ _We reserve the right to disclose PII as required by law and when We believe that disclosure is necessary to protect Our rights and/or to comply with a judicial proceeding, court order, or legal process._
-
-_(i)_ _Each of the Companies may employ other companies and individuals to perform functions on their behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to each of the Companies’ databases and servers, which may contain PII about users._
-
-_The second kind of information is the kind of non-personally identifiable information (“NPII”) collected and stored automatically by many websites. Each of the Companies may gather certain NPII about you and/or your usage of the Site, the Software and/or any part thereof, including the pages you visit on the Site, advertisements seen in any of the third Offers, Internet service provider, operating system, type of browser, geographic location etc. **The NPII gathered and tracked will not be used by the Companies to attempt to identify you personally.** _
-
-_**If You do not want Your Information to continue to be collected and used as provided in this Privacy Policy, You should not access or use this Site again.**_
-
-_(j)_ _Each of the Companies might or will collect data regarding the Software and/or Offer applications you use, how long you use them and in which ways you use them (collectively, your “Usage Information”). You acknowledge that the relevant third party offer provider has agreed to provide your Usage Information to each of the Companies (without specifically identifying you). You agree that each of the Companies may use your Usage Information, inter alia, by aggregating it with the Usage Information of other users of the Software to provide general statistics about the applications._
-
-_(k)_ _Information about the advertisements you watch, on the Site and/or on any Offers, may also be collected. For every advertisement you view the licensed ad server stores the following information from your computer; the location, size, display time and display duration of the advertisement in the game and/or the site; and the date and time the above information is logged._
-
-_(l)_ _Finally, We and some of Our Third Party Advertisers as well as third party ad servers also use cookies, web beacons, clear GIFs, and other monitoring technologies to gather anonymous information. The most common of these technologies are described in more detail below._
-
-  1. _i._ _Cookies: Cookies are small data files that the Site server places on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Site and the Company. We do not tie any PII to the cookies that We set. Cookies also enable Us, or Our Third Party Advertisers, to use anonymous behavioral profiles and demographic inferences to increase the relevance of online ads that Premium Members receive. Some Site ads include “web beacons” and some of Our Third Party Advertisers may include web beacons on some of their web pages at Our request. These web beacons allow Us to access the cookies We set and provide ad campaign analysis. While some Web browsers allow a User to automatically reject all cookies or be notified when a cookie is about to be placed on the User’s computer, disabling this feature may compromise the efficiency and added services that Our cookies provide. The use of cookies by Third Party Advertisers or ad servers is not subject to this Policy, but is subject to those third parties’ respective privacy policies. If You have a question about such third parties’ privacy policies, You will have to go to their websites for more information and/or contact them directly._
-  2. _ii._ _Clear GIFs: We employ or Our third party business partners may employ a common technology known as a “Clear GIF” or “1-by-1 Pixel” on the Site and in e-mail communications with Users. A Clear GIF, or “graphic interface format” is a small graphic (in fact, truly a 1×1 pixel) that is placed on the Site or in an e-mail. The GIFs do not contain any PII but they, provide Us with important information about how Users use the Site and respond to advertisements, Offers or e-mail messages. With this information, We or Our Business Partners are better able to track the performance of certain promotions and understand the effectiveness of particular creative presentations. We may also allow Our Third Party Advertisers the ability to use GIFs on the Site solely to track Premium Users who link from the Third Party Advertisers’ respective sites to Our Site._
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
 
 
-
-_(m)_ _Use and Sharing of Non-Personally Identifiable Information (NPII): We share NPII with Our Business Partners in order to customize the services they and We provide to You. And of course, We may also disclose any of the NPII collected through the Site or the Software in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, or (4) protect Our rights and property or that of or Our Users._ __
-
-**_3\. How we protect the information we collect._**
-
-_We have implemented technical, administrative and physical security measures to protect Information from unauthorized access and improper use. We keep Information on servers that are protected by firewalls and located in a physically secure facility accessible only to authorized employees. From time to time, We review Our security procedures in order to consider appropriate new technology and methods. Please be aware though, that, despite Our reasonable efforts, no security measures are impenetrable and any connection to the Site or information transmitted to Us, and/or the Software, and/or the Offers, will be at Your own risk. If You have any questions about security on Our services, You can contact Us at[MyTopFreeGames Support.](mailto:support@mytopfreegames.com)_ __
-
-**_4\. Links from the Site_**
-
-_The Site and Offers may provide links to the websites of many of Our Business Partners. If You link to any of these third party Web sites, Our privacy policy will not apply to Your use of, and activities on, those sites. We encourage You to read the legal notices posted on these sites, including their privacy policies. We shall have no responsibility or liability for Your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of PII by a third party must be communicated to that third party and not to Us._ _ ****_
-
-_**5.**_ ** _Deactivate Software_**
-
-_Users who have downloaded the Software and who do not want their NPII collected as described above should immediately deactivate the Software. You may deactivate the Software by visiting the_[Uninstall Page](http://mytopfreegames.com/uninstall/) _and following the directions to remove the Software from Your computer, or by selecting the appropriate entry in Your Control Panel using the “Add or Remove Programs” icon. Deactivating the Software means that You will no longer have access to the Games on Our Site._
-
-_QUESTIONS AND CONCERNS If You have any questions or concerns about this Policy or its implementation, please email Us at[MyTopFreeGames Support](mailto:support@mytopfreegames.com) or via postal mail at:_
-
-_Fearless Arcade, LLC  
-_304 Indian Trace #208 _  
-_ Weston, FL 33326 _  
-Email: support@MyTopFreeGames.com  
-Tel: _954-343-3654 _(VM & FAX)_
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
