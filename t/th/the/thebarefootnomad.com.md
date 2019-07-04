@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebarefootnomad.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410224238id_/http%3A//www.thebarefootnomad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebarefootnomad.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704091609id_/http%3A//www.thebarefootnomad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Barefoot Nomad
 
