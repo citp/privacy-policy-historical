@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caretoclick.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504163729id_/http%3A//caretoclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caretoclick.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704235020id_/http%3A//caretoclick.com/privacy) for the most accurate reproduction.*
 
 # Care to Click
 
