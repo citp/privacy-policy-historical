@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimfast.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315180550id_/https%3A//slimfast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimfast.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704084731id_/https%3A//slimfast.com/privacy-policy) for the most accurate reproduction.*
 
 # SlimFast Privacy Policy
 
