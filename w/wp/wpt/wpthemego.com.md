@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpthemego.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010004138id_/http%3A//wpthemego.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpthemego.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704212234id_/https%3A//wpthemego.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPThemeGo
 
@@ -45,7 +45,7 @@ If we send e-mails with commercial content we will generally include an “unsub
 
 You also have choices about cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject cookies some parts of our Site may not work properly in your case.
 
-For more information about how we use cookies, web beacons and similar technologies see our cookie policy [here](http://wpthemego.com/cookies/) and for more general information on cookies, see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+For more information about how we use cookies, web beacons and similar technologies see our cookie policy [here](https://wpthemego.com/cookies/) and for more general information on cookies, see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 Generally speaking, when you visit our Site, there’s certain information that’s recorded which is generally anonymous information and may not reveal your true super-hero identity. If you’re logged into your account some of this information could be associated with your account. We’re talking about the following kinds of details:
 
