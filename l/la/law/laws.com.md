@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laws.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523155535id_/https%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laws.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704023345id_/https%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.*
 
 # LAWS - Legal Information, Attorneys, Free Legal Forms, Statutes, Cases, Lawyers - Privacy Policy
 
