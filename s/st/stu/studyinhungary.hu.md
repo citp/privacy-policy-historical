@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyinhungary.hu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624061541id_/http%3A//studyinhungary.hu/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinhungary.hu privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704153654id_/http%3A//studyinhungary.hu/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Study in Hungary - Privacy Policy
 
