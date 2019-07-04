@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331162659id_/https%3A//www.fortnumandmason.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704111434id_/https%3A//www.fortnumandmason.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fortnum & Mason
 
@@ -145,15 +145,6 @@ Purpose| Supplier| Expiration| Cookie
 This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service. By default it is set to expire after 2 years, although this is customisable by website owners.| Google Analytics| 1 day| _gid  
 This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service. By default it is set to expire after 2 years, although this is customisable by website owners.| Google Analytics| 2 years| _ga  
  **Performance**| | |   
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| 1 year| __insp_slim  
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| 1 year| __insp_norec_sess  
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| 1 year| __insp_identity  
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| 1 year| __insp_targlpt  
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| 1 year| __insp_targlpu  
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| 1 year| __insp_nv  
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| 1 year| __insp_wid  
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| long-term cookie that contains random ID assigned to visitor| __insp_uid  
-Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating your website.| Inspectlet (3rd party)| 1 year| __insp_slim  
 SLI provide the software for the ‘search’ function on our site. When you visit the search box at the top of our site and put in your search term, they will manage this process. They provide us with all search related data - such as what the most popular search terms are.| SLI Systems| Timestamp of last search, expiry 6 months| SLI4_1336870857  
 SLI provide the software for the ‘search’ function on our site. When you visit the search box at the top of our site and put in your search term, they will manage this process. They provide us with all search related data - such as what the most popular search terms are.| SLI Systems| Unique id for the user, expiry 2 years| SLIBeacon_1336870857  
 We use this cookie to keep track of guest user preferences until such time as they decide to create an account on the website.| Spree eCommerce| 20 years| guest_token  
