@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029150958id_/http%3A//www.wikidok.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704104805id_/http%3A//www.wikidok.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Classifieds, Free Classifieds, Online Classifieds, Free Ads | WikiDok
 
