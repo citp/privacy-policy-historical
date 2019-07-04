@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickmill.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629030444id_/https%3A//tickmill.com/wp-content/uploads/2016/09/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickmill.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704165850id_/https%3A//tickmill.com/wp-content/uploads/2016/09/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # For Clients
 
