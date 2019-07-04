@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nostarch.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630075028id_/https%3A//nostarch.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nostarch.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704201841id_/https%3A//nostarch.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | No Starch Press
 
