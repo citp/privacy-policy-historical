@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxiaids.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122225924id_/https%3A//www.maxiaids.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxiaids.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704031927id_/https%3A//www.maxiaids.com/t/privacyinfo) for the most accurate reproduction.*
 
 # MaxiAids | Privacy & Security
 
