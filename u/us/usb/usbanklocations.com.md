@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usbanklocations.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531220248id_/https%3A//www.usbanklocations.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usbanklocations.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704130304id_/https%3A//www.usbanklocations.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : USBankLocations.com
 
