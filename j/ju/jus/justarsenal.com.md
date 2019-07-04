@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justarsenal.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522224640id_/https%3A//www.justarsenal.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justarsenal.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704042757id_/https%3A//www.justarsenal.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | Just Arsenal News
+# Privacy Notice – Just Arsenal News
 
 Just Arsenal knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
