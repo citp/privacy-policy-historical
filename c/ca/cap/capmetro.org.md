@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capmetro.org privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607042816id_/https%3A//www.capmetro.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capmetro.org privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705012750id_/http%3A//www.capmetro.org/legal) for the most accurate reproduction.*
 
 # Legal and Disclosure - Capital Metro - Austin Public Transit
 
