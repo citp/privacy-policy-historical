@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playdoughtoplato.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208214540id_/https%3A//www.playdoughtoplato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdoughtoplato.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704131444id_/https%3A//www.playdoughtoplato.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Playdough To Plato
 
@@ -204,7 +204,7 @@ However, at the bottom of every newsletter will be an easy way to opt-out. The e
 
 
 
-[](https://www.playdoughtoplato.com/ "Malia Hollowell")
+[ ](https://www.playdoughtoplato.com/ "Malia Hollowell")
 
 ### [Malia Hollowell](https://www.playdoughtoplato.com/)
 
