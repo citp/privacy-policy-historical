@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jodohost.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504205559id_/http%3A//www.jodohost.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jodohost.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704163950id_/http%3A//www.jodohost.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Windows Hosting, Reseller Hosting, ASP.NET Servers - JodoHost
 
