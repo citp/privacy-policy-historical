@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momspective.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504063448id_/http%3A//www.momspective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momspective.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704202313id_/http%3A//www.momspective.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Momspective
 
