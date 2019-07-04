@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattleu.edu privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423022824id_/https%3A//www.seattleu.edu/policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattleu.edu privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704212643id_/https%3A//www.seattleu.edu/policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Policies - Seattle University
 
