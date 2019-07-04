@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the save-video.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721211118id_/http%3A//save-video.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save-video.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704070423id_/https%3A//www.save-video.com/privacy.php) for the most accurate reproduction.*
 
 # Save-Video.com | Privacy Policy
 
