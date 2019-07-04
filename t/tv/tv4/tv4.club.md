@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tv4.club privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504202407id_/http%3A//tv4.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv4.club privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704062904id_/http%3A//tv4.club/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AppStore
 
