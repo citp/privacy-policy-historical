@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurance-forums.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417084919id_/https%3A//insurance-forums.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance-forums.net privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704041642id_/https%3A//insurance-forums.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy News & Agent Discussion
 
