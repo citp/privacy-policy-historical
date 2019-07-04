@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crawler.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625050422id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crawler.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704222900id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Crawler.com - Privacy Policy
 
