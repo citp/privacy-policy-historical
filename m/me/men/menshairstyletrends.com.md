@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menshairstyletrends.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328000357id_/https%3A//www.menshairstyletrends.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshairstyletrends.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704093939id_/https%3A//www.menshairstyletrends.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Menshairstyletrends.com Website Privacy Policy | Men's Hairstyle Trends
 
