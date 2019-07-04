@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejockeyclub.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330224114id_/https%3A//www.thejockeyclub.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejockeyclub.co.uk privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704043713id_/https%3A//www.thejockeyclub.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Jockey Club
 
@@ -81,6 +81,7 @@ We will use this information:
   * to improve our products and services;
   * to carry out appropriate and necessary investigations and identity checks and discharge our legal and regulatory obligations and duties, including to comply with anti-fraud and anti-money laundering requirements;
   * to ensure that content from the Site, App and/or Wi-Fi is presented in the most effective manner for you and for your computer or device (as applicable).
+  * If you have selected Secure Delivery for tickets. We may send you a notification of the dispatch of your order via our postal partner. This SMS or Email will allow you to to track your item. 
 
 
 
