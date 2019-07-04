@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manipalglobal.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604011327id_/http%3A//www.manipalglobal.com/mage/miscellaneous/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manipalglobal.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704081517id_/http%3A//www.manipalglobal.com/mage/miscellaneous/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Manipal Global Education Services
 
