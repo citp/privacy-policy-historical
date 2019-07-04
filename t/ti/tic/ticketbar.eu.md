@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketbar.eu privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503212919id_/https%3A//ticketbar.eu/en/ticketbar-europe/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbar.eu privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704153442id_/https%3A//ticketbar.eu/en/ticketbar-europe/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
