@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiclub.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330194359id_/https%3A//www.skiclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiclub.co.uk privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704230809id_/https%3A//www.skiclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ski Club of Great Britain
 
