@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salaryexplorer.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611175452id_/http%3A//salaryexplorer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexplorer.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704181557id_/http%3A//www.salaryexplorer.com/privacy.php) for the most accurate reproduction.*
 
 # Salary Explorer Privacy Policy | Salary Comparison
 
