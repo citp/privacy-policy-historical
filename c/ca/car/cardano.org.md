@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardano.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403075625id_/https%3A//cardanofoundation.org/assets/docs/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardano.org privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704212954id_/https%3A//cardanofoundation.org/assets/docs/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # CardanoFoundation(CardanoStiftung)isanotforprofitorganisationbasedinZug, Switzerlandthatisdedicatedtoactasanobjective,supervisoryandeducational bodyfortheCardanoProtocolanditsassociatedecosystem.Theregistered addressis:CardanoStiftung,Dammstrasse16,Zug,6300,Switzerland.Weworkin close cooperation with our partners IOHK and Emurgo.
 
