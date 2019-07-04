@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331004652id_/https%3A//dev.adzerk.com/docs/privacy-policy-ad-server) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704224605id_/https%3A//dev.adzerk.com/docs/privacy-policy-ad-server) for the most accurate reproduction.*
 
-# Adzerk | Build An Ad Server In Weeks
+# Privacy Policy (Ad Serving)
 
-This article describes Adzerk Inc's privacy policy regarding data collection and usage as part of the ad delivery platform it provides to its customers. If you would like information on our privacy policy concerning marketing and customer data please read our [Privacy Policy (Customers)](https://dev.adzerk.com/v1.0/docs/privacy-policy-customers).
+This article describes Adzerk Inc's privacy policy regarding data collection and usage as part of the [ad serving](https://adzerk.com/blog/ad-server/) platform it provides to its customers. If you would like information on our privacy policy concerning marketing and customer data please read our [Privacy Policy (Customers)](https://dev.adzerk.com/v1.0/docs/privacy-policy-customers).
 
 **IN A NUTSHELL**
 
@@ -22,7 +22,7 @@ Throughout this policy, we use the term personal information to describe informa
 
 **DATA RETENTION**
 
-We retain the anonymous data that we collect (e.g., which pages you have browsed on our partners' website) for up to 12 months from the date of collection after which the information is destroyed.
+We retain the anonymous data that we collect (e.g., which ads you have seen) for a maximum of 12 months from the date of collection after which the information is destroyed. In compliance with the GDPR, for European Union residents we collect data only for those who have consented to be tracked.
 
 **HOW WE SHARE PERSONAL INFORMATION WITH OTHER PARTIES**
 
@@ -46,4 +46,4 @@ This Privacy Policy may be revised periodically by Adzerk, as reflected by the "
 
 If you have any questions about this privacy policy, or the information handling practices of the Site, you may contact us at support AT adzerk.com.
 
-Last modified: January 14, 2016
+Last modified: May 29, 2019
