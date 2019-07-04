@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dbader.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403230018id_/https%3A//dbader.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbader.org privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704221253id_/https%3A//dbader.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – dbader.org
 
 Effective date: May 21, 2018
 
-dbader software co (“us”, “we”, or “our”) operates the dbader.org website (the “Service”).
+DevCademy Media Inc. (“us”, “we”, or “our”) operates the dbader.org website (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -14,7 +14,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
 **Service**
 
-Service is the dbader.org website operated by dbader software co
+Service is the dbader.org website operated by DevCademy Media Inc
 
 **Personal Data**
 
@@ -92,7 +92,7 @@ Examples of Cookies we use:
 
 ## Use of Data
 
-dbader software co uses the collected data for various purposes:
+DevCademy Media Inc. uses the collected data for various purposes:
 
   * To provide and maintain our Service
 
@@ -113,9 +113,9 @@ dbader software co uses the collected data for various purposes:
 
 
 
-If you are from the European Economic Area (EEA), dbader software co legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+If you are from the European Economic Area (EEA), DevCademy Media Inc. legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-dbader software co may process your Personal Data because:
+DevCademy Media Inc. may process your Personal Data because:
 
   * We need to perform a contract with you
 
@@ -132,9 +132,9 @@ dbader software co may process your Personal Data because:
 
 ## Retention of Data
 
-dbader software co will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+DevCademy Media Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-dbader software co will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+DevCademy Media Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
 ## Transfer Of Data
 
@@ -144,25 +144,25 @@ If you are located outside Canada and choose to provide information to us, pleas
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-dbader software co will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+DevCademy Media Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ## Disclosure Of Data
 
 ### Business Transaction
 
-If dbader software co is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+If DevCademy Media Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 ### Disclosure for Law Enforcement
 
-Under certain circumstances, dbader software co may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, DevCademy Media Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 ### Legal Requirements
 
-dbader software co may disclose your Personal Data in the good faith belief that such action is necessary to:
+DevCademy Media Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:
 
   * To comply with a legal obligation
 
-  * To protect and defend the rights or property of dbader software co
+  * To protect and defend the rights or property of DevCademy Media Inc
 
   * To prevent or investigate possible wrongdoing in connection with the Service
 
@@ -177,7 +177,7 @@ dbader software co may disclose your Personal Data in the good faith belief that
 
 The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. dbader software co aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. DevCademy Media Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
 If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
 
@@ -193,7 +193,7 @@ In certain circumstances, you have the following data protection rights:
 
 **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
 
-**The right to withdraw consent.** You also have the right to withdraw your consent at any time where dbader software co relied on your consent to process your personal information.
+**The right to withdraw consent.** You also have the right to withdraw your consent at any time where DevCademy Media Inc. relied on your consent to process your personal information.
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
@@ -217,7 +217,7 @@ You can opt-out of having made your activity on the Service available to Google 
 
 For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
 
-dbader software co uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+DevCademy Media Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
 **Google AdWords**
 
@@ -292,7 +292,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us:
     
     
-    dbader software co.
+    DevCademy Media Inc.
     308 E. 5th Ave
     V5T 1H4 Vancouver, BC
     CANADA
@@ -300,4 +300,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
     mail@dbader.org
     
 
-This document was last updated on May 21, 2018
+This document was last updated on June 1, 2019
