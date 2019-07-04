@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebostoncalendar.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518060155id_/https%3A//www.thebostoncalendar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebostoncalendar.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704164642id_/https%3A//www.thebostoncalendar.com/privacy-policy) for the most accurate reproduction.*
 
 # The Boston Calendar - Boston events that don't suck
 
