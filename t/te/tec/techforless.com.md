@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101075143id_/https%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704183940id_/https%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -53,6 +53,8 @@ Personal information relating to you and your order history are only available t
 ### Opt-out:
 
 We may use the information you provide to send you marketing communications and in some circumstances, we may share your information with certain third parties to perform services on our behalf. Tech for Less, Inc. will give visitors a choice whether they wish to be on the mailing list, receive promotions, information or updates about the site. The visitor may choose to remove their name from the site's mailing list by clicking the "remove" link at the bottom of any promotional email communication. 
+
+If you wish to be removed now, please visit our [unsubscribe page](https://www.techforless.com/cgi-bin/tech4less/unsubscribe)
 
 ### Data Sharing:
 
