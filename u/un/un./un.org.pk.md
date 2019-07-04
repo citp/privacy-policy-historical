@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the un.org.pk privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629051135id_/http%3A//www.un.org.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the un.org.pk privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704112036id_/http%3A//www.un.org.pk/privacy) for the most accurate reproduction.*
 
 # Privacy | United Nations in Pakistan
 
