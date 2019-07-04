@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsprelated.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312054446id_/https%3A//www.dsprelated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsprelated.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705015952id_/https%3A//www.dsprelated.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stephane Boucher
 
