@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castingcall.club privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223200024id_/https%3A//www.castingcall.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingcall.club privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704095403id_/https%3A//www.castingcall.club/privacy) for the most accurate reproduction.*
 
 # Casting Call Club : Terms of Service
 
