@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504190710id_/http%3A//www.skybound.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704043358id_/http%3A//www.skybound.ca/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Skybound Software
 
