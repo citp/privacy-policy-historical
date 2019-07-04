@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wne.edu privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404154535id_/https%3A//www1.wne.edu/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wne.edu privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704070439id_/https%3A//www1.wne.edu/privacy/index.cfm) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -39,7 +39,7 @@ We may use the information we collect from you when you register, make a purchas
 
 ### CONFIDENTIALITY OF STUDENT RECORDS (FERPA)
 
-Western New England University adheres to a policy of compliance with the Family Educational Rights Privacy Act (FERPA).  The policy is found seperately as part of the [Student Handbook](https://web.archive.org/web/20190404154535id_/https%3A//www1.wne.edu/student-activities/doc/handbook-updated1.pdf).
+Western New England University adheres to a policy of compliance with the Family Educational Rights Privacy Act (FERPA).  The policy is found seperately as part of the [Student Handbook](https://web.archive.org/web/20190704070439id_/https%3A//www1.wne.edu/student-activities/doc/handbook-updated1.pdf).
 
 ### How do we protect your information?
 
@@ -49,7 +49,7 @@ Your personal information is contained behind secured networks and is only acces
 
 We implement a variety of security measures when a user places an order, enters, submits, or accesses their information. These measures are designed to maintain the safety of your personal information.
 
-While most voluntary information is only maintained long enough to provide the specific service requested, some personally identifiable information may be retained as part of backup procedures. In addition, some personally identifiable information may be added to University databases to be used for other University business and academic purposes. Please refer to our [Written Information Security Program (WISP)](https://web.archive.org/web/20190404154535id_/https%3A//www1.wne.edu/information-technology/policies_doc/doc/WISP.pdf) for more information.
+While most voluntary information is only maintained long enough to provide the specific service requested, some personally identifiable information may be retained as part of backup procedures. In addition, some personally identifiable information may be added to University databases to be used for other University business and academic purposes. Please refer to our [Written Information Security Program (WISP)](https://web.archive.org/web/20190704070439id_/https%3A//www1.wne.edu/information-technology/policies_doc/doc/WISP.pdf) for more information.
 
 ### Do we use 'cookies'?
 
