@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettyconfidential.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608194917id_/http%3A//bettyconfidential.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettyconfidential.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704095339id_/http%3A//bettyconfidential.com/privacy) for the most accurate reproduction.*
 
 # BettyConfidential Magazine: Privacy Policy | BettyConfidential
 
