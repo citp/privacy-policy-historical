@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evonik.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602224439id_/http%3A//corporate.evonik.com/en/footer-en/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evonik.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704045640id_/https%3A//corporate.evonik.com/en/footer-en/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Evonik Industries AG
+# Privacy Policy
 
 ### Protection of data privacy: Your right—our obligation
 
@@ -76,6 +76,10 @@ Any data provided by you to Evonik Industries AG will be protected by suitable t
 ### Use of social plugins 
 
 Our website does not use any plugins for social networks. When integrating the icons of social networks such as Facebook, Twitter, XING, and LinkedIn, we only make reference to these networks with an external link. In some cases, the link takes you to a share function of the network in question. This means that you can share our website, which you called up, with other users directly using the page of the social network to which the sharing button belongs. 
+
+### Contact form 
+
+On our website is a contact form available which can be used for electronic contact. If a user accepted this option the data entered in the input mask will be transmitted to us and saved. In this context it does not pass on the data to third parties. The data is used exclusively for processing the conversation. Legal basis for the processing of the data is (in the presence of the consent of the user) Art. 6 para. 1 lit. a GDPR. 
 
 ### Your rights 
 
