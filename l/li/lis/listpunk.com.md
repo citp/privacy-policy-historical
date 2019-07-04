@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listpunk.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505064337id_/http%3A//listpunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listpunk.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704202629id_/http%3A//listpunk.com/privacy.php) for the most accurate reproduction.*
 
 # List Punk - JV Invitation
 
