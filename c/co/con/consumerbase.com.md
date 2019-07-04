@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603051817id_/https%3A//www.exactdata.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704222942id_/https%3A//www.exactdata.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Exact Data
 
