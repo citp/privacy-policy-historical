@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129211537id_/https%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704224308id_/https%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Cheapest Vacation Packages To The Most Popular Destinations - BookVip.com
 
@@ -58,5 +58,5 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **Company Address**
 
-975 North Miami Beach Blvd,  
-North Miami, FL 33162
+200 S Biscayne Blvd.  
+Suite 2790 Miami, FL 33131
