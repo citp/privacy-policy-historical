@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nagr.org privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609061432id_/https%3A//nationalgunrights.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagr.org privacy policy that was archived on 2019-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190704091003id_/https%3A//nationalgunrights.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Association for Gun Rights
 
