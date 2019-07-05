@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartporn.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826074917id_/http%3A//wtfbucks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartporn.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705113136id_/https%3A//wtfbucks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
