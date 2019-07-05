@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remosoftware.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313012344id_/https%3A//www.remosoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remosoftware.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705093433id_/https%3A//www.remosoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Remo Software
 
@@ -48,3 +48,5 @@ If you would like to learn more about our privacy policy, or to access your pers
 
 **7\. Policy Changes**   
 We reserve the right to modify this policy in the future.  If we do so, notice will be posted on our website and the Policy page will show the changes.
+
+Remo Software uses cookies to ensure you get the best experience on our website.[Learn more](https://www.remosoftware.com/privacy) Got it
