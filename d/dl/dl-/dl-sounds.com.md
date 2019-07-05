@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dl-sounds.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630084141id_/https%3A//www.dl-sounds.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dl-sounds.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705124612id_/https%3A//www.dl-sounds.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - dl-sounds.com
 
