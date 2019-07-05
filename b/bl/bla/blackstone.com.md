@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blackstone.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529111847id_/https%3A//www.blackstone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackstone.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705161145id_/https%3A//www.blackstone.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Notice
 
-We at the Blackstone Group L.P., including our relevant local entities listed in Appendix A (" **Blackstone** "), respect your concerns about privacy. A list of our affiliates is available [here](https://www.blackstone.com/privacy#appendixA). This Online Privacy Notice describes the types of Personal Data we collect on [Blackstone.com](http://blackstone.com/), [bxaccess.com](https://bxaccess.com/), [our careers pages](http://blackstone.com/careers) that are accessible through [Blackstone.com](http://blackstone.com/), and other websites or applications that may link to this Privacy Notice (collectively, the " **Sites** "), how we use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. " **Personal Data** " has the meaning given in the European General Data Protection Regulation and includes any information relating to an identifiable individual (such as name, address, date of birth or economic information). 
+We at the Blackstone Group Inc., including our relevant local entities listed in Appendix A (" **Blackstone** "), respect your concerns about privacy. A list of our affiliates is available [here](https://www.blackstone.com/privacy#appendixA). This Online Privacy Notice describes the types of Personal Data we collect on [Blackstone.com](http://blackstone.com/), [bxaccess.com](https://bxaccess.com/), [our careers pages](http://blackstone.com/careers) that are accessible through [Blackstone.com](http://blackstone.com/), and other websites or applications that may link to this Privacy Notice (collectively, the " **Sites** "), how we use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. " **Personal Data** " has the meaning given in the European General Data Protection Regulation and includes any information relating to an identifiable individual (such as name, address, date of birth or economic information). 
 
 Click on one of the links below to jump to the listed section: 
 
@@ -172,7 +172,7 @@ This Online Privacy Notice may be updated periodically and without prior notice 
 
 If you have any questions or comments about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please email us at [GDPRqueries@blackstone.com](mailto:GDPRqueries@blackstone.com). You also may write to: 
 
-The Blackstone Group L.P.  
+The Blackstone Group Inc.  
 Attn: Legal & Compliance  
 345 Park Avenue  
 New York, NY 10154
@@ -193,7 +193,7 @@ For purposes of our Online Privacy Notice, **** , below are country-specific con
 
 Country | Blackstone Entity   
 ---|---  
-United States  | The Blackstone Group L.P.   
+United States  | The Blackstone Group Inc.   
 Attn:  Legal & Compliance   
 345 Park Avenue   
 New York, NY 10154   
