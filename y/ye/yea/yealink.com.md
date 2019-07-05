@@ -1,32 +1,68 @@
-> *The following text is extracted and transformed from the yealink.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190740id_/http%3A//www.yealink.com/index.php/About/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yealink.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705212037id_/https%3A//www.yealink.com/news_167.html) for the most accurate reproduction.*
 
-# Yealink-Easy VoIP,SIP based IP Phone,IP Video Phone,Dect Phone,USB Phone,VoIP,Unified Communication,Skype Phone，Media Phone
+# Privacy Policy_Yealink | UC＆C terminal, video collaboration, conference phone, IP phone
 
-At Yealink, we are committed to respecting your privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That's why we have put a policy in place to protect your personal information. This statement describes (1) the types of personal information we collect, (2) how we use and protect this information, and (3) who we disclose it to.  
-What information does Yealink collect?  
-In general, we collect personal information from you when you voluntarily provide it by: (1) providing information to us or our business partners in connection with a transaction or in furtherance of our business relationships; (2) registering products on our website ("Website") or otherwise contacting us to obtain information relating to our products or our services; (3) signing up to enter a promotion, participate in an event or survey, receive newsletters or other literature; or (4) providing information when we (i.e. our customer service representatives or employees) contact you either at trade events or by other means such as email or phone.
+YEALINK (XIAMEN) NETWORK TECHNOLOGY Co. Ltd and its affiliates (collectively, "Yealink", "we") respect your privacy and handle your personal data in accordance with the applicable data protection legislation. This Privacy Policy is meant to help you understand what personal data we collect, how we use it, how we protect and share it, and how you can control it. By accessing our website and/or disclosing your personal data to us or our business partners in furtherance of our business relationships with you, you consent to the practices described in this Privacy policy. Please read the following carefully to learn more about our Privacy Policy ("this Policy").  
+For the avoidance of doubt, the terms below shall have the definitions set forth hereinafter.  
+●       The “products” include the software and hardware we sell or license to our clients.   
+●       The “services” mean post/after sale services and other services of the products under the control of us, either online or offline.  
+●       “Personal data” means any information that alone or when in combination with other information may be used to readily identify, contact, or locate you, including but not limited to your name, address, email address, IP address, or phone number. Please pay attention that your personal data does not include information that has been anonymized.  
+●       “Cookies” means small pieces of information that are stored by your browser on your computer’s hard drive which enables us to recognize your computer when you return to our online services.
 
-In some cases we collect this information from you directly and we may also receive such information from our business partners (such as resellers) who may collect this information from you in the context of your business relationship with us and/or the business partner.  
-In connection with these activities, we may collect personal information, including, but not limited to, your name, business address, email address, telephone number, fax number, and other contact information, user name and/or password associated with the use of our Website, occupation, company name, name of position within company, the type of product you are seeking, the type and number of products you and your business purchase, and other information necessary to conduct business with you or which we, or our business partners may ask you to provide.  
-When you browse our Website we may also collect/obtain certain non personal information from you including, but not limited to, your browser type (eg Netscape or Internet Explorer), operating system (eg Windows or Macintosh), Internet service provider, IP address, websites visited, and the domain name from which you accessed the Website (eg yahoo.com). Like many other commercial websites, our Website may use standard technologies, such as “cookies”, web beacons and other HTML tools, to collect information about how you use the Website or to record that you opened an email marketing message. Yealink may also use customized links or other similar technologies to track email links that you click. We may associate that information with your personal information in order to provide you more focused service communications.  
-What are "cookies" and web beacons? Please go to below for more information.  
-How do we use this information?  
-Yealink may use this information for general purposes including:  
-(1) to fulfil your requests for certain products and services, (2) to conduct business with you (including obtaining and disclosing credit and billing information), (3) to correspond with you regarding orders, process a credit card order, or deliver a product, (4) to perform credit fraud screening services for transactions between you and us and/or others (5) to administer promotional offers, contests or other promotional events and notify winners (6) to keep you up to date on the latest product and services announcements and to provide you with other information we think you would like to hear about either from us or from our Yealink business partners although if you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes, (6) to send you emails containing information about our products and services that we think may be of interest to you if you have indicated that you wish to receive such information by email. Each such e-mail communication includes an unsubscribe link allowing you to opt-out of receiving further communications of that type; and (7) to better understand your needs and provide you with better services,  
-In addition we may use the information collected in relation to your use of the Website:  
-(1) to personalise your experience on our website, (2) to conduct internal reviews of our Website and to help us better understand visitors' use of our Website, (3) to help us improve the design and layout of our Website and provide content of interest to you.  
-Who do we disclose this information to?  
-We share your information with our business partners and Yealink affiliates for the purposes mentioned above.  
-Because Yealink operates globally, your information may be transferred to third parties in other countries for any of the purposes described above. They will hold and process your information on our behalf for the abovementioned purposes.   
-Yealink may also retain and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of our Website, the public, or Yealink or our Website suppliers; and (b) conform to legal or regulatory requirements.  
-Yealink will not trade, sell or rent your personal information although we may disclose your information in connection with a sale or disposal of all or part of the Yealink business. Yealink may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will not include any personally identifying information.  
-How does Yealink protect your information?  
-We take all reasonable steps in accordance with good industry practice to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. Yealink safeguards the security of the data you send us with physical, electronic, and managerial procedures and your Yealink account information is password-protected for your privacy and security.  
-What are "cookies" and web beacons?  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive which enables us to recognize your computer when you return to our Website. A cookie file can contain information such as a user ID that may be used to track the pages you have visited on our Website. Our cookies enable us to provide you with a more personal service.  
-A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a user's computer, such as a user's cookie number, time and date of a page view, and a description of the page where the web beacon is placed. Some Web beacons may be unusable if you elect to reject their associated cookies.  
-If you prefer not to receive cookies while browsing our Website or via HTML-formatted emails, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of our Website if you do so.  
-Your Consent  
-By using our Website and/or by disclosing information to us or our business partners in furtherance of our business relationships with you, you are accepting and agreeing to the practices described in this Privacy Statement.  
-If we decide to change our privacy practices, we will post those changes in a revised Privacy Statement on our Website so that you are always kept informed of what data we collect, how we use it, and under what circumstances we disclose it. Please check our Website for changes from time to time to make sure you are aware of our latest privacy practices.  
- 
+  **1.     ** **To whom does this Policy apply?**  
+This Policy applies to every natural person for whom Yealink collects and processes his personal data as a data controller.  
+An overview of main categories is listed below:  
+●       Our clients and their employees;  
+●       Visitors to our website;  
+●       Third Parties that communicate with us.
+
+  **2.     ** **What personal data do we collect?**  
+We collect personal data that you directly provide us, personla data generated during your visit to our website, and personal data from our business partners. We will never collect any personal data revealing your racial or ethnic origin, political opinions, religious or philosophical beliefs, and any other sensitive data defined by applicable data protection legislation.  
+●        **Personal data you directly provide us**  
+You directly provide us contact details and other personal data when you interact with us via various methods, for example, when you make a phone call, send an email, join a video conference/meeting，or create an account.  
+●        **Personal data generated during your visit to our website**  
+Some of your personal data may be generated automatically while you visit our website, for example, the IP address of your device. Our online services may use cookies or other similar technologies to collect such data.  
+●        **Personal data from our business partners**  
+In some case, we may collect your personal data from our business partners such as distributors or resellers who may collect this data from you in the context of your business relationship with us and/or the business partner.
+
+  **3.     ** **How may we use your personal data?**  
+We may use your personal data for the following purposes:  
+●      Conducting marketing activities;  
+●      Providing you with our services and technical support;  
+●      Providing you with updates and upgrades for our products and services;  
+●      Providing information based on your needs and respond to your requests.  
+●      For the administration and improvements of our products and services;  
+●      For the inquiry of the evaluation about our products and services;  
+●      For internal and service-related only purpose, fraud and abuse prevention or other public security related purposes.  
+●      Communicating with you vial phone, email or other communication methods for implementing the relevant purposes described hereinabove.
+
+  **4.     ** **Use of Google Analytics**  
+We may use Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies or other similar technologies to collect and store your information which is made anonymous and non-personal.  
+You can read Google Analytics’ privacy policy at <https://www.google.com/intl/en/policies/privacy/> for more information.
+
+  **5.     ** **How do we protect your personal data?**  
+The security of your personal data is of great importance to us. We have taken proper technical and organisational measures to protect your personal data from unauthorized access either within us or externally, and from being lost, misused, altered or destroyed arbitrarily. For example, we use access control mechanisms to permit only authorized access to your personal data, cryptographic technologies for personal data confidentiality and protection mechanisms to prevent system attacks.  
+People who have access to your personal data on our behalf have a duty of confidentiality, inter alia on the basis of the rules of conduct and rules of professional practice applicable to them.  
+In respect of the retetion periods of your personal data, we are commited not to keep your it any longer than is necessary for achieving the purposes stated in this policy or for complying with applicable data protection legislation. And we endeavour to ensure that irrelevant or excessive data are deleted or anonymized as soon as reasonably practicable.  
+
+  **6.     ** **How do we share your personal data?**  
+Yealink does not trade, rent or sell your personal data. We might share your information with our business partners, service vendors, authorized third party agents and contractors (collectively, “third parties” hereinafter), your organization’s account administrators, and our affiliates for any of the purposes stated in this policy.  
+Because we do our business globally, your personal data might be transferred to third parties in other countries, held and processed on our behalf for the abovementioned purposes .  
+Third parties to whom we provide your personal data may themselves be responsible for complying with data protecion legislation. Yealink is neither responsible nor liable for the processing of your personal data by these third parties. To the extent that a third party processes your personal data as a processor of Yealink and therefore acts at the request and on the instructions of us, we conclude a data processing agreement with such third party which meets the requirements set out in data protection legislation.
+
+  **7.     ** **How can you control your personal data?**  
+You have the right to control your personal data in several ways:  
+●      You have the right to request us to inform you of any of your personal data which we hold.  
+●      You have the right to request us to correct, supplement, delete or block your personal data if it is incorrect, incomplete or is being processed in contravention of any statutory provision. If you choose to delete your personal data, you should be aware that we may retain some of your personal data to the extent required to prevent fraud and abuse, and/or to comply with legal requirements as permitted by law.  
+●      You have the right to unsubscribe emails and messages from us at any time and at no cost if you no longer wish to receive them.  
+●      You also have the right to object to the processing of your personal data. We will discontinue the processing if it is required by law to do so. We will continue with the processing if there are justified imperative grounds to do so that outweigh your interests, rights and freedoms or that are related to bringing, exercising or substantiating a legal action.
+
+  **8.     ** **Our contacts and your complaints procedure**  
+Please contact us by sending and email to [privacy@yealink.com](mailto:privacy@yealink.com) if you have any questions regarding this policy or if you would like to exercise your rights to control your personal data.  
+If you believe that we have breached this policy or any applicable data protection legislation, you may lodge a complaint by sending an email to [privacy@yealink.com](mailto:privacy@yealink.com). Please provide us with specific details about your complaint as well as any supporting evidence. We will investigate the issue and determine the steps that are needed to resolve your complaint appropriately. We will contact you if we require any additional information from you and will notify you in writing of the outcome of the investigation.
+
+  **9.     ** **Personal data about children**  
+Our products and services are not directed toward children under age 13, nor do we knowingly collect personal data from children without the consent of parent(s)/guardian(s). If you find that your child has provided us with personal data without your permission, you may alert us at privacy@yealink.com. If you alert us or we find that we have collected any personal data from children under age 13, we will delete such data as soon as possible.
+
+  **10.  ** **  Changes to This Policy**  
+This policy may be revised from time to time in for complying with current laws or other reasonable reasons. Should this policy be revised, Yealink will post the changes on our website and the new policy will be effective immediately upon posting. If we make any material changes which will diminish your rights under this policy, we will notify you by email or by other applicable means prior to the changes becoming effective. We encourage you to periodically review this policy for the latest information. 
