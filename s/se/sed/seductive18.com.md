@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seductive18.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505194013id_/http%3A//seductive18.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seductive18.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705191226id_/http%3A//seductive18.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
