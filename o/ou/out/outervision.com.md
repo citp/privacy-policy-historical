@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outervision.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302223948id_/https%3A//outervision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outervision.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705233801id_/https%3A//outervision.com/privacy-policy) for the most accurate reproduction.*
 
 # eXtreme Outer Vision Privacy Policy
 
