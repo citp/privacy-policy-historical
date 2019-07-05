@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalheels.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504230213id_/http%3A//crystalheels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalheels.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705120303id_/http%3A//crystalheels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CrystalHeels.com
 
@@ -60,7 +60,7 @@ You may choose to restrict the collection or use of your personal information in
 
 ·  whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-·  if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://crystalheels.com/cdn-cgi/l/email-protection#2a43444c456a495853595e4b46424f4f465904494547)
+·  if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://crystalheels.com/cdn-cgi/l/email-protection#50393e363f103322292324313c3835353c237e333f3d)
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
