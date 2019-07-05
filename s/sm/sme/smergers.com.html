@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the smergers.com privacy policy that was archived on 2019-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190405071731id_/https%3A//www.smergers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smergers.com privacy policy that was archived on 2019-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190705213730id_/https%3A//www.smergers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="Content-type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"72152bef30","agent":"","transactionName":"ZFNUMEBZC0pTVkZYDl0ZcBFcWxFQXVsdUwhJQFcIHFoMQxxDW1QWQAxmFltOBFpLY1tUFh1RUxA=","applicationID":"11687581","errorBeacon":"bam.nr-data.net","applicationTime":23}</script>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"72152bef30","agent":"","transactionName":"ZFNUMEBZC0pTVkZYDl0ZcBFcWxFQXVsdUwhJQFcIHFoMQxxDW1QWQAxmFltOBFpLY1tUFh1RUxA=","applicationID":"11687581","errorBeacon":"bam.nr-data.net","applicationTime":22}</script>
 <meta name="loaderio" content="loaderio-fc69433bf8c06e0eb5f3d906c4b967aa">
-<link rel="manifest" href="/api/v1/manifest/">
+<link rel="manifest" href="/static/js/manifest.json">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link rel="icon" type="image/ico" href="/static/images/xfavicon.ico.pagespeed.ic.aPpLgZuhXZ.png" id="faviconid">
+<link rel="icon" type="image/png" href="/static/images/logo.png.pagespeed.ce.hpjkDpJ2B4.png" id="faviconid">
 <meta name="apple-mobile-web-app-title" content="SMERGERS - SME Investment Banking">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -15,12 +15,220 @@
 <meta name="msapplication-TileImage" content="/static/images/logo.png">
 <meta name="msapplication-TileColor" content="#3372DF">
 <meta name="norton-safeweb-site-verification" content="372ugpbimzdgoi2tphtzgqw6014j4dx2gi-jyx240r2uz3xe2eedjvsubxdhigciuv17k6wpt759i6a9bf9y1cy3fhdwwqqyzmv2wh9ruf5aftkmwkpigw4pgqajl2xu">
-<link rel="stylesheet" href="/static/css/A.smergers_all.min.css,qrev=15e72e71fe.pagespeed.cf.4pk8M4nQD0.css">
+<link rel="stylesheet" href="/static/css/A.smergers_all.min.css,qrev=50cb14c85e.pagespeed.cf.319t3nRv0F.css">
+<script>
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                  
+                  ga('create', "UA-35831000-1", 'auto');
+                  
+                  ga('send', 'pageview');
+                  if('PerformanceObserver' in window){
+                      const perfObserver = new PerformanceObserver((list) => {
+                        for (const entry of list.getEntries()) {
+                          const metricName = entry.name;
+                          const time = Math.round(entry.startTime + entry.duration);
+                          ga('send', 'event', {
+                            eventCategory: 'Performance Metrics',
+                            eventAction: metricName,
+                            eventValue: time,
+                            nonInteraction: true,
+                          });
+                        }
+                      });
+                      perfObserver.observe({entryTypes: ['paint']});
+                  }
+                </script>
 <meta name="description" content="SMERGERS is fully committed to protecting your confidential information. If you as a visitor choose to register or submit information to this website, you agree to the use of such data in accordance with this privacy policy.">
 <meta name="keywords" content="">
 <title> Privacy Policy - SMERGERS </title>
 </head>
 <body>
+<header itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+<div class="v1-responsive-header-wrapper ">
+<noscript>
+<div class="container-fluid discount-bar">
+Please enable Javascript for www.smergers.com to work properly. Click <a href="http://enable-javascript.com/" target="_blank" rel="nofollow noopener">here</a> to learn how to enable javascript.
+</div>
+</noscript>
+<div class="responsive-header">
+<div class="mobile-menu-button-wrapper">
+<a href="#" class="mobile-menu-button">
+<i class="ti-menu"></i>
+</a>
+</div>
+<div class="logo-section">
+<div class="logo-wrapper">
+<a href="/" class="track-with-mixpanel" data-event="Clicked on Top Logo">
+<div class="logo"></div>
+</a>
+</div>
+<div class="country-currency-dropdown-wrapper">
+<ul>
+<li class="country-dropdown custom-dropdown-container">
+<a href="#" id="country-dropdown-toggle" class="custom-dropdown-toggle-button">
+<span style="margin-bottom:-1px;background:url(/static/images/flags/us.png.pagespeed.ce.MEHelSErS_.png) no-repeat" class="flag-icon"> </span>
+</a>
+<div class="custom-dropdown">
+<div class="custom-dropdown-header">
+<div class="select2-container geo-country-select" id="s2id_autogen7" style="width: 250px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-8"><span style="margin-right:6px; background-image: url(/static/images/flags/us.png)" class="flag-icon"> </span>United States</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen8" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-8" id="s2id_autogen8"><div class="select2-drop select2-display-none geo-country-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen8_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-8" id="s2id_autogen8_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-8">   </ul></div></div><input type="text" class="geo-country-select" style="width: 250px; display: none;" value="us" data-id="72" data-img_src="us" data-text="United States" tabindex="-1" title="">
+</div>
+</div>
+</li>
+<li class="currency-dropdown custom-dropdown-container">
+<a href="#" id="currency-dropdown-toggle" class="custom-dropdown-toggle-button">
+<span class="currency-symbol-updates">USD</span>
+</a>
+<div class="custom-dropdown">
+<div class="custom-dropdown-header">
+<div class="select2-container global-currency-select" id="s2id_autogen1" style="width: 250px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-2"><span style="margin-right:6px; background-image: url(/static/images/flags/us.png)" class="flag-icon"> </span>United States Dollar - USD</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen2" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-2" id="s2id_autogen2"><div class="select2-drop select2-display-none geo-currency-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen2_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-2" id="s2id_autogen2_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-2">   </ul></div></div><input type="text" class="global-currency-select" style="width: 250px; display: none;" value="8" data-id="8" data-text="United States Dollar - USD" data-img_src="us" data-symbol="USD" tabindex="-1" title="">
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="search-section visible-sm visible-md visible-lg">
+<div class="form-horizontal visible-sm visible-md visible-lg">
+<div class="input-group">
+<div class="search-section-select input-group-btn">
+<select id="desktop-search-category" class="selectpicker form-control" data-style="btn-primary">
+<option value="businesses" data-placeholder="Ex: Businesses for sale in United States">Businesses</option>
+<option value="investors" data-placeholder="Ex: Investors in United States">Investors</option>
+</select>
+</div>
+<input id="desktop-smergers-search-input" type="text" class="form-control search-field" placeholder="Ex: Businesses for sale in United States" aria-describedby="ddlsearch" autocomplete="desktop-smergers-search-input">
+<div class="desktop-search-suggestions-wrapper suggestions-wrapper">
+<ul class="suggestions"></ul>
+</div>
+<span class="input-group-btn">
+<button id="desktop-search-button" class="btn btn-primary search-button" type="button"><i class="icon icon-search"></i></button>
+</span>
+</div>
+</div>
+</div>
+<div class="profile-section not-logged-in">
+<div class="country-currency-dropdown-wrapper">
+<ul>
+<li class="country-dropdown custom-dropdown-container">
+<a href="#" id="country-dropdown-toggle" class="custom-dropdown-toggle-button">
+<span style="margin-bottom:-1px;background:url(/static/images/flags/us.png.pagespeed.ce.MEHelSErS_.png) no-repeat" class="flag-icon"> </span>
+</a>
+<div class="custom-dropdown">
+<div class="custom-dropdown-header">
+<div class="select2-container geo-country-select" id="s2id_autogen9" style="width: 250px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-10"><span style="margin-right:6px; background-image: url(/static/images/flags/us.png)" class="flag-icon"> </span>United States</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen10" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-10" id="s2id_autogen10"><div class="select2-drop select2-display-none geo-country-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen10_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-10" id="s2id_autogen10_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-10">   </ul></div></div><input type="text" class="geo-country-select" style="width: 250px; display: none;" value="us" data-id="72" data-img_src="us" data-text="United States" tabindex="-1" title="">
+</div>
+</div>
+</li>
+<li class="currency-dropdown custom-dropdown-container">
+<a href="#" id="currency-dropdown-toggle" class="custom-dropdown-toggle-button">
+<span class="currency-symbol-updates">USD</span>
+</a>
+<div class="custom-dropdown">
+<div class="custom-dropdown-header">
+<div class="select2-container global-currency-select" id="s2id_autogen3" style="width: 250px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-4"><span style="margin-right:6px; background-image: url(/static/images/flags/us.png)" class="flag-icon"> </span>United States Dollar - USD</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen4" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-4" id="s2id_autogen4"><div class="select2-drop select2-display-none geo-currency-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen4_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-4" id="s2id_autogen4_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-4">   </ul></div></div><input type="text" class="global-currency-select" style="width: 250px; display: none;" value="8" data-id="8" data-text="United States Dollar - USD" data-img_src="us" data-symbol="USD" tabindex="-1" title="">
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="responsive-links-bar-wrapper">
+<ul class="responsive-links-bar">
+<li>
+<a href="#" class="btn btn-yellow btn-extra-padding  menulink login-modal-link" style="font-family:proxima_novaregular;">
+Register
+</a>
+</li>
+<li class="custom-dropdown-container menubar-dropdown ">
+<a id="explore-toggle" class="category custom-dropdown-toggle-button  menulink" slnmid="add-profile-button" href="#">
++ Add Profile
+</a>
+<div class="custom-dropdown">
+<div class="arrow"></div>
+<ul class="custom-dropdown-list" style="max-height: 460.8px;">
+<li class="add-profile stack-container " data-scroll-container=".custom-dropdown-list">
+<div class="heading stack-toggle">
+<div class="icon-container pull-right">
+<i class="ti-angle-right"></i>
+</div>
+<i class="icon-plus-sign-alt" style="color: #5BB75B;"></i>&nbsp; Add New Profile
+</div>
+<div class="stack-content">
+<a href="/create-business-profile/" class="link track-with-mixpanel" data-event="Clicked on Menu Create Business Profile" slnmid="create-business-button">
+Add Business Profile
+</a>
+<a href="/create-investor-profile/" class="link track-with-mixpanel" data-event="Clicked on Menu Create Investor Profile" slnmid="create-investor-button">
+Add Investor Profile
+</a>
+<a href="/create-franchise-profile/" class="link track-with-mixpanel" data-event="Clicked on Menu Create Franchise Profile" slnmid="create-franchise-button">
+Add Franchise / Distributor Profile
+</a>
+<a href="/create-investor-profile/?type=MA_ADVISOR" class="link track-with-mixpanel" data-event="Clicked on Menu Create Advisor Profile">
+Add Advisor Profile
+</a>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="login-modal-link track-with-mixpanel" slnmid="login-button" data-event="Clicked on Menu Login">
+Login
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="search-section visible-xs">
+<div class="col-md-12 search-section-body">
+<a class="visible-xs mobile-search-toggle-button" href="#">
+<i class="icon-search"></i>
+</a>
+</div>
+</div>
+</div>
+<div class="responsive-header">
+<nav class="mega-dropdown container">
+<ul class="desktop-trigger column-1">
+<div>
+<li data-activate="click" class="level-1 visible-xs visible-sm"><div class="profile-details"><div class="profile-image-wrapper"><div class="profile-dp hide-label" style="background-image:url(/static/images/xuserimage.jpg.pagespeed.ic.b2l1vQXZiU.jpg)"></div></div><div class="profile-content"><a href="#" class="btn btn-yellow login-modal-link">Register</a><br><span class="login-line">or <a href="#" class="login-modal-link">Login</a></span></div></div><div class="divider"></div></li><li data-activate="click" class="level-1"><a href="/?home=true"><span class="icon-container hidden-md hidden-lg"><i class="ti-home"></i></span>
+Home
+</a></li><li data-activate="click" class="level-1"><a href="/businesses/businesses-for-sale-and-investment-opportunities/s0/c0/t0/">
+Businesses for Sale
+</a></li><li data-activate="click" class="level-1"><a href="/businesses/franchise-opportunities/s0/c0/t11/">
+Franchises
+</a></li><li data-activate="click" class="level-1"><a href="/investors/investors/s0/c0/t0/m0/">
+Investors &amp; Buyers
+</a></li><li data-activate="click" class="level-1 has-children visible-xs visible-sm"><a href="#"><span class="icon-container hidden-md hidden-lg"><i class="icon-plus-sign-alt"></i></span>
+Add Profile
+<small class="text-sm visible-xs visible-sm  pull-right"><i class="ti-angle-right"></i></small></a><ul class="is-hidden vertical-menu column-0"><div><a href="#" class="go-back visible-xs visible-sm"><i class="icon icon-angle-left"></i> Go Back</a><li class="level-2"><a href="/create-business-profile/">Create Business Profile</a></li><li class="level-2"><a href="/create-investor-profile/">Create Investor Profile</a></li><li class="level-2"><a href="/create-franchise-profile/">Create Franchise Profile</a></li><li class="level-2"><a href="/create-investor-profile/?type=MA_ADVISOR">Create Advisor Profile</a></li></div></ul></li><li><div class="divider"></div></li><li data-activate="click" class="level-1 has-children"><a href="#">
+How To
+<small class="text-sm visible-xs visible-sm  pull-right"><i class="ti-angle-right"></i></small></a><ul class="is-hidden vertical-menu column-0"><a href="#"></a><div><a href="#"></a><a href="#" class="go-back visible-xs visible-sm"><i class="icon icon-angle-left"></i> Go Back</a><li class="level-2"><a href="/how-to-sell-your-business/">Sell your Business</a></li><li class="level-2"><a href="/how-to-finance-your-business/">Find Investors</a></li><li class="level-2"><a href="/how-to-find-franchise-partners/">Franchise Your Business</a></li><li class="level-2"><a href="/how-to-buy-a-business/">Buy a Business</a></li><li class="level-2"><a href="/how-to-invest-in-a-business/">Invest in a Business</a></li><li class="level-2"><a href="/register-as-advisor/">Register as an Advisor</a></li><li class="level-2"><a href="/how-to-value-a-business/">Value a Business</a></li><li class="level-2"><a href="/info-memorandum-prep/">Create Info Memorandum</a></li></div></ul></li><li data-activate="click" class="level-1"><a href="/faq/">
+Q &amp; A
+</a></li><li data-activate="click" class="level-1 has-children"><a href="#">
+Company
+<small class="text-sm visible-xs visible-sm  pull-right"><i class="ti-angle-right"></i></small></a><ul class="is-hidden vertical-menu column-0"><a href="#"></a><div><a href="#"></a><a href="#" class="go-back visible-xs visible-sm"><i class="icon icon-angle-left"></i> Go Back</a><li class="level-2"><a href="/about/">About</a></li><li class="level-2"><a href="/contact-us/">Contact Us</a></li><li class="level-2"><a href="/press/">Press</a></li><li class="level-2"><a href="/blog/">Blog</a></li><li class="level-2"><a href="/industry-watch/">Industry Watch</a></li></div></ul></li>
+</div>
+</ul>
+</nav>
+<div class="mobile-search-bar" style="display: none;">
+<div id="mobile-search-field" class="mobile-search-field-wrapper">
+<input id="mobile-smergers-search-input" type="text" class="mobile-search-field" placeholder="Ex: Businesses for sale in United States" autocomplete="mobile-smergers-search-input">
+<div class="mobile-search-suggestions-wrapper suggestions-wrapper">
+<ul class="suggestions"></ul>
+</div>
+</div>
+<div class="mobile-search-icon-wrapper">
+<button id="mobile-search-button" class="mobile-search-icon"><i class="icon-search"></i></button>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="smeloader" class="smergers-loader-container" style="display: none;"><div class="smergers-loader"></div></div>
 <div class="page-container">
 <main role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/WebPageElement">
 <div class="main-content" style="margin-top: 89px;">
@@ -95,7 +303,7 @@ Businesses Seeking Advisors
 </a>
 </li>
 <li>
-<a href="/create-investor-profile/?type=ADVISOR">
+<a href="/create-investor-profile/?type=MA_ADVISOR">
 Create Advisor Profile
 </a>
 </li>
@@ -170,16 +378,21 @@ SME<span class="rgers">RGERS</span>
 </a>
 </div>
 <div style="margin-top:5px;">
-<ul class="footer-list-detailed">
-<li> <i class="icon-envelope" style="color:#5C78AC;font-size:12px;"></i>
+<ul class="footer-list-detailed social-icons">
+<li class="icon-envelope">
 <a href="/contact-us/">Contact Us</a></li>
-<li> <i class="icon-facebook-sign" style="color:#5C78AC;font-size:14px;"></i>
+<li class="icon-facebook-sign">
 <a href="http://facebook.com/smergers" target="_blank" rel="nofollow">Facebook</a> </li>
-<li> <i class="icon-linkedin-sign" style="color:#0181B2;font-size:14px;"></i>
+<li class="icon-linkedin-sign">
 <a href="http://linkedin.com/company/smergers" target="_blank" rel="nofollow">LinkedIn</a></li>
-<li> <i class="icon-twitter-sign" style="color:#00ADE1;font-size:14px;"></i>
+<li class="icon-youtube-play">
+<a href="https://www.youtube.com/channel/UC4CMwOb9Fkgc7yylGwC78gg" target="_blank" rel="nofollow">YouTube</a></li>
+<li class="icon-twitter-sign">
 <a href="http://twitter.com/smergers" target="_blank" rel="nofollow">Twitter</a></li>
-<li> <i class="icon-google-plus-sign" style="color:rgb(206, 33, 38);font-size:14px;"></i> <a href="https://plus.google.com/+SmergersCompany/posts" target="_blank" rel="Publisher">Google Plus </a></li>
+<li>
+<img src="/static/images/instagram.png.pagespeed.ce.52b3KnOoi2.png" alt="" style="width:12px; vertical-align: middle;">
+&nbsp;<a href="https://www.instagram.com/smergersbusiness/" target="_blank" rel="nofollow">Instagram</a>
+</li>
 </ul>
 </div>
 </li>
@@ -188,9 +401,9 @@ SME<span class="rgers">RGERS</span>
 </div>
 <div class="row" style="padding-top:15px;padding-bottom: 15px;font-size:12px;margin-bottom:15px;">
 <div class="col-md-6" style="color:#888;">
-Copyright © 2018 SMERGERS Online Services Private Limited. All Rights Reserved.
+Copyright © 2019 SMERGERS Online Services Private Limited. All Rights Reserved.
 </div>
-<div class="col-md-6" style="text-align: left;">
+<div class="col-md-6 footer-links-and-payment-info">
 <div class="mobile-break">
 <a href="/privacy/" data-event="Clicked on Privacy Policy">Privacy Policy</a>
 &nbsp;·&nbsp;
@@ -201,196 +414,28 @@ Copyright © 2018 SMERGERS Online Services Private Limited. All Rights Reserved.
 <a href="/best-practices/" data-event="Clicked on Footer Best Practices">Best Practices</a>
 &nbsp;·&nbsp;
 <a href="/html-sitemap" data-event="Clicked on Sitemap">Sitemap</a>
+<ul class="sme-v3-inline-list payment-icons sme-v3-extra-margin-top">
+<li>
+<img src="/static/images/xvisa_icon.png.pagespeed.ic.RrLuzBdX0o.png" alt="">
+</li>
+<li>
+<img src="/static/images/xmastercard_icon.png.pagespeed.ic.trmkXKtJ4X.png" alt="">
+</li>
+<li>
+<img src="/static/images/xpaypal_icon.png.pagespeed.ic.GbQ-kIFJ4a.png" alt="">
+</li>
+<li>
+<img src="/static/images/xamex_icon.png.pagespeed.ic.m6vrGghj-B.png" alt="">
+</li>
+<li class="netbanking">
+Net Banking
+</li>
+</ul>
 </div>
 </div>
 </div>
 </div>
 </footer>
-<header itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
-<div class="v1-responsive-header-wrapper ">
-<noscript>
-<div class="container-fluid discount-bar">
-Please enable Javascript for www.smergers.com to work properly. Click <a href="http://enable-javascript.com/" target="_blank" rel="nofollow noopener">here</a> to learn how to enable javascript.
-</div>
-</noscript>
-<div class="responsive-header">
-<div class="mobile-menu-button-wrapper">
-<a href="#" class="mobile-menu-button">
-<i class="ti-menu"></i>
-</a>
-</div>
-<div class="logo-section">
-<div class="logo-wrapper">
-<a href="/" class="track-with-mixpanel" data-event="Clicked on Top Logo">
-<div class="logo"></div>
-</a>
-</div>
-<div class="country-currency-dropdown-wrapper">
-<ul>
-<li class="country-dropdown custom-dropdown-container">
-<a href="#" id="country-dropdown-toggle" class="custom-dropdown-toggle-button">
-<span style="margin-bottom:-1px;" class="flag flag-us"> </span>
-</a>
-<div class="custom-dropdown">
-<div class="custom-dropdown-header">
-<div class="select2-container geo-country-select" id="s2id_autogen7" style="width: 250px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-8"><span style="margin-right:6px; background-image: url(/static/images/flags/undefined.png)" class="flag-icon"> </span>undefined</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen8" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-8" id="s2id_autogen8"><div class="select2-drop select2-display-none geo-country-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen8_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-8" id="s2id_autogen8_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-8">   </ul></div></div><input type="text" class="geo-country-select" style="width: 250px; display: none;" value="us" tabindex="-1" title="">
-</div>
-</div>
-</li>
-<li class="currency-dropdown custom-dropdown-container">
-<a href="#" id="currency-dropdown-toggle" class="custom-dropdown-toggle-button">
-<span class="currency-symbol-updates">USD</span>
-</a>
-<div class="custom-dropdown">
-<div class="custom-dropdown-header">
-<noindex>
-<div class="select2-container global-currency-select" id="s2id_autogen1" style="width: 250px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-2"><span style="margin-right:6px; background-image: url(/static/images/flags/undefined.png)" class="flag-icon"> </span>undefined</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen2" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-2" id="s2id_autogen2"><div class="select2-drop select2-display-none geo-currency-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen2_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-2" id="s2id_autogen2_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-2">   </ul></div></div><input type="text" class="global-currency-select" style="width: 250px; display: none;" value="8" tabindex="-1" title="">
-</noindex>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="search-section visible-sm visible-md visible-lg">
-<div class="form-horizontal visible-sm visible-md visible-lg">
-<div class="input-group">
-<div class="search-section-select input-group-btn">
-<select id="desktop-search-category" class="selectpicker form-control" data-style="btn-primary">
-<option value="businesses" data-placeholder="Ex: Businesses for sale in United States">Businesses</option>
-<option value="investors" data-placeholder="Ex: Investors in United States">Investors</option>
-</select>
-</div>
-<input id="desktop-smergers-search-input" type="text" class="form-control search-field" placeholder="Ex: Businesses for sale in United States" aria-describedby="ddlsearch">
-<div class="desktop-search-suggestions-wrapper suggestions-wrapper">
-<ul class="suggestions"></ul>
-</div>
-<span class="input-group-btn">
-<button id="desktop-search-button" class="btn btn-primary search-button" type="button"><i class="icon icon-search"></i></button>
-</span>
-</div>
-</div>
-</div>
-<div class="profile-section not-logged-in">
-<div class="country-currency-dropdown-wrapper">
-<ul>
-<li class="country-dropdown custom-dropdown-container">
-<a href="#" id="country-dropdown-toggle" class="custom-dropdown-toggle-button">
-<span style="margin-bottom:-1px;" class="flag flag-us"> </span>
-</a>
-<div class="custom-dropdown">
-<div class="custom-dropdown-header">
-<div class="select2-container geo-country-select" id="s2id_autogen9" style="width: 250px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-10"><span style="margin-right:6px; background-image: url(/static/images/flags/undefined.png)" class="flag-icon"> </span>undefined</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen10" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-10" id="s2id_autogen10"><div class="select2-drop select2-display-none geo-country-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen10_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-10" id="s2id_autogen10_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-10">   </ul></div></div><input type="text" class="geo-country-select" style="width: 250px; display: none;" value="us" tabindex="-1" title="">
-</div>
-</div>
-</li>
-<li class="currency-dropdown custom-dropdown-container">
-<a href="#" id="currency-dropdown-toggle" class="custom-dropdown-toggle-button">
-<span class="currency-symbol-updates">USD</span>
-</a>
-<div class="custom-dropdown">
-<div class="custom-dropdown-header">
-<noindex>
-<div class="select2-container global-currency-select" id="s2id_autogen3" style="width: 250px;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-4"><span style="margin-right:6px; background-image: url(/static/images/flags/undefined.png)" class="flag-icon"> </span>undefined</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen4" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-4" id="s2id_autogen4"><div class="select2-drop select2-display-none geo-currency-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen4_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-4" id="s2id_autogen4_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-4">   </ul></div></div><input type="text" class="global-currency-select" style="width: 250px; display: none;" value="8" tabindex="-1" title="">
-</noindex>
-</div>
-</div>
-</li>
-</ul>
-</div>
-<div class="responsive-links-bar-wrapper">
-<ul class="responsive-links-bar">
-<li>
-<a href="#" class="btn btn-yellow btn-extra-padding  menulink login-modal-link" style="font-family:proxima_novaregular;">
-Register
-</a>
-</li>
-<li class="custom-dropdown-container menubar-dropdown ">
-<a id="explore-toggle" class="category custom-dropdown-toggle-button  menulink" slnmid="add-profile-button" href="#">
-+ Add Profile
-</a>
-<div class="custom-dropdown">
-<div class="arrow"></div>
-<ul class="custom-dropdown-list" style="max-height: 460.8px;">
-<li class="add-profile stack-container " data-scroll-container=".custom-dropdown-list">
-<div class="heading stack-toggle">
-<div class="icon-container pull-right">
-<i class="ti-angle-right"></i>
-</div>
-<i class="icon-plus-sign-alt" style="color: #5BB75B;"></i>&nbsp; Add New Profile
-</div>
-<div class="stack-content">
-<a href="/create-business-profile/" class="link track-with-mixpanel" data-event="Clicked on Menu Create Business Profile" slnmid="create-business-button">
-Add Business Profile
-</a>
-<a href="/create-investor-profile/" class="link track-with-mixpanel" data-event="Clicked on Menu Create Investor Profile" slnmid="create-investor-button">
-Add Investor Profile
-</a>
-<a href="/create-franchise-profile/" class="link track-with-mixpanel" data-event="Clicked on Menu Create Franchise Profile" slnmid="create-franchise-button">
-Add Franchise / Distributor Profile
-</a>
-<a href="/create-investor-profile/?type=ADVISOR" class="link track-with-mixpanel" data-event="Clicked on Menu Create Advisor Profile">
-Add Advisor Profile
-</a>
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<a href="#" class="login-modal-link track-with-mixpanel" slnmid="login-button" data-event="Clicked on Menu Login">
-Login
-</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="search-section visible-xs">
-<div class="col-md-12 search-section-body">
-<a class="visible-xs mobile-search-toggle-button" href="#">
-<i class="icon-search"></i>
-</a>
-</div>
-</div>
-</div>
-<div class="responsive-header">
-<nav class="mega-dropdown container">
-<ul class="desktop-trigger column-1">
-<div>
-<li data-activate="click" class="level-1 visible-xs visible-sm"><div class="profile-details"><div class="profile-image-wrapper"><div class="profile-dp hide-label" style="background-image:url(/static/images/xuserimage.jpg.pagespeed.ic.b2l1vQXZiU.jpg)"></div></div><div class="profile-content"><a href="#" class="btn btn-yellow login-modal-link">Register</a><br><span class="login-line">or <a href="#" class="login-modal-link">Login</a></span></div></div><div class="divider"></div></li><li data-activate="click" class="level-1"><a href="/?home=true"><span class="icon-container hidden-md hidden-lg"><i class="ti-home"></i></span>
-Home
-</a></li><li data-activate="click" class="level-1"><a href="/businesses/businesses-for-sale-and-investment-opportunities/s0/c0/t0/">
-Businesses for Sale
-</a></li><li data-activate="click" class="level-1"><a href="/investors/investors/s0/c0/t0/m0/">
-Investors &amp; Buyers
-</a></li><li data-activate="click" class="level-1"><a href="/businesses/franchise-opportunities/s0/c0/t11/">
-Franchises
-</a></li><li data-activate="click" class="level-1 has-children visible-xs visible-sm"><a href="#"><span class="icon-container hidden-md hidden-lg"><i class="icon-plus-sign-alt"></i></span>
-Add Profile
-<small class="text-sm visible-xs visible-sm  pull-right"><i class="ti-angle-right"></i></small></a><ul class="is-hidden vertical-menu column-0"><div><a href="#" class="go-back visible-xs visible-sm"><i class="icon icon-angle-left"></i> Go Back</a><li class="level-2"><a href="/create-business-profile/">Create Business Profile</a></li><li class="level-2"><a href="/create-investor-profile/">Create Investor Profile</a></li><li class="level-2"><a href="/create-franchise-profile/">Create Franchise Profile</a></li><li class="level-2"><a href="/create-investor-profile/?type=ADVISOR">Create Advisor Profile</a></li></div></ul></li><li><div class="divider"></div></li><li data-activate="click" class="level-1 has-children"><a href="#">
-How To
-<small class="text-sm visible-xs visible-sm  pull-right"><i class="ti-angle-right"></i></small></a><ul class="is-hidden vertical-menu column-0"><a href="#"></a><div><a href="#"></a><a href="#" class="go-back visible-xs visible-sm"><i class="icon icon-angle-left"></i> Go Back</a><li class="level-2"><a href="/how-to-sell-your-business/">Sell your Business</a></li><li class="level-2"><a href="/how-to-finance-your-business/">Find Investors for your Business</a></li><li class="level-2"><a href="/how-to-find-franchise-partners/">Franchise Your Business</a></li><li class="level-2"><a href="/how-to-buy-a-business/">Buy a Business</a></li><li class="level-2"><a href="/how-to-invest-in-a-business/">Invest in a Business</a></li><li class="level-2"><a href="/register-as-advisor/">Register as an Advisor / Business Broker</a></li><li class="level-2"><a href="/how-to-value-a-business/">Value a Business</a></li><li class="level-2"><a href="/info-memorandum-prep/">Create Info Memorandum</a></li></div></ul></li><li data-activate="click" class="level-1"><a href="/faq/">
-Q &amp; A
-</a></li><li data-activate="click" class="level-1 has-children"><a href="#">
-Company
-<small class="text-sm visible-xs visible-sm  pull-right"><i class="ti-angle-right"></i></small></a><ul class="is-hidden vertical-menu column-0"><a href="#"></a><div><a href="#"></a><a href="#" class="go-back visible-xs visible-sm"><i class="icon icon-angle-left"></i> Go Back</a><li class="level-2"><a href="/about/">About</a></li><li class="level-2"><a href="/contact-us/">Contact Us</a></li><li class="level-2"><a href="/press/">Press</a></li><li class="level-2"><a href="/blog/">Blog</a></li><li class="level-2"><a href="/industry-watch/">Industry Watch</a></li></div></ul></li>
-</div>
-</ul>
-</nav>
-<div class="mobile-search-bar" style="display: none;">
-<div id="mobile-search-field" class="mobile-search-field-wrapper">
-<input id="mobile-smergers-search-input" type="text" class="mobile-search-field" placeholder="Ex: Businesses for sale in United States">
-<div class="mobile-search-suggestions-wrapper suggestions-wrapper">
-<ul class="suggestions"></ul>
-</div>
-</div>
-<div class="mobile-search-icon-wrapper">
-<button id="mobile-search-button" class="mobile-search-icon"><i class="icon-search"></i></button>
-</div>
-</div>
-</div>
-</div>
-</header>
 <div class="clear"></div>
 <div id="feedback">
 <div id="feedback-inner">
@@ -401,104 +446,6 @@ Need help?
 </div>
 </div>
 <div class="clear"></div>
-<div class="help-modal">
-<div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-header">
-<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-<div id="myModalLabel">Need Help?
-<span class="sub-heading">Write to Us!</span>
-</div>
-</div>
-<div class="modal-body help-form container-fluid row">
-<div class="col-md-12">
-<div id="question-post-successful" style="display:none;">
-<div class="btn-success notification-bar">
-Thanks! We will contact you soon.
-</div>
-</div>
-<div id="question-invalid-email" style="display:none;">
-<div class="alert alert-danger">
-Invalid email address
-</div>
-</div>
-<div id="question-post-error" style="display:none;">
-<div class="alert alert-danger">
-Please type your question and email address so that we can get back to you soon.
-</div>
-</div>
-</div>
-<div class="clear"></div>
-<div class="col-md-12">
-<p><b>Question</b></p>
-<p><textarea id="help-message" name="content" class="form-control"></textarea></p>
-</div>
-<div class="col-md-12">
-<div id="help-message-suggestions"></div>
-</div>
-<div class="col-md-6" style="margin-top: 10px;">
-<p><b>E-mail</b></p>
-<p><input type="text" id="help-email" name="email" class="form-control"> </p>
-</div>
-<div class="col-md-6" style="margin-top: 10px;">
-<p><b>Mobile Number (Optional)</b></p>
-<p><input type="text" id="help-mobile-number" name="mobile_number" class="form-control"> </p>
-</div>
-<div class="clear"></div>
-</div>
-<div class="container-fluid row">
-<div class="col-md-12 faq">
-<div class="heading">
-Frequently Asked Questions
-</div>
-<ul class="faq-list">
-<li>
-<a class="question" style="cursor: pointer" data-toggle="collapse" data-target="#help_faq_1">
-How can I contact you or meet you?
-</a>
-<div class="answer collapse" id="help_faq_1">
-<p>Since we are an online platform running at a large scale, we do not do in-person meetings and would not be able to resolve queries over phone calls in an ad-hoc fashion. We request you to create a profile on SMERGERS with the link below, so the concerned analyst can get in touch with you for any clarifications required before activating the profile.</p>
-<p><a href="/faq/how-do-i-get-started-on-smergers-online-platform/221/">https://www.smergers.com/faq/how-do-i-get-started-on-smergers-online-platform/221/</a></p>
-<p>Alternatively, if you already have a profile on SMERGERS, we request you to send us your question over email (info@smergers.com) so the appropriate team can revert with proper resolution or contact you over phone to clarify your doubts. It would be difficult for us to assign the right person without knowing your queries.</p>
-<p>You could also check out our&nbsp;<a href="/faq/">FAQs here</a></p>
-</div>
-</li>
-<li>
-<a class="question" style="cursor: pointer" data-toggle="collapse" data-target="#help_faq_2">
-We are looking to Sell / Get investment for our business. What is the process?
-</a>
-<div class="answer collapse" id="help_faq_2">
-Getting funded or finding buyers starts with creation of a business profile on SMERGERS. This enables investors and acquirers across the world to view and connect with you.
-<b><a href="/create-business-profile/">Create Business Profile</a></b>
-</div>
-</li>
-<li>
-<a class="question" style="cursor: pointer" data-toggle="collapse" data-target="#help_faq_3">
-How can I contact a business listed on SMERGERS?
-</a>
-<div class="answer collapse" id="help_faq_3">
-
-
-
-
-
-<p>You need to be logged in before you connect with a business. <strong><a href="/login/?next=%2Fprivacy%2F">Click here to register and message the business</a></strong> If you are already logged in, please use the contact form to contact the business.</p>
-
-
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="modal-footer">
-<button class="btn btn-default" data-dismiss="modal" aria-hidden="true">Close</button>
-<button class="btn btn-success" id="helpSubmit">Submit</button>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div>
 </div>
 <div id="login-modal" class="modal login-modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -534,7 +481,7 @@ How can I contact a business listed on SMERGERS?
 </li>
 <li data-tab="register">
 <div class="login-form">
-<form class="smergers-registration-form" method="post" action="/login/"><input type="hidden" name="csrfmiddlewaretoken" value="ZnzMrhkOWSwHAAz6htlIt90RAa2He0A4HEJoB43ONobruTfqLcSYbZvmgVRZam8P">
+<form class="smergers-registration-form" method="post" action="/login/"><input type="hidden" name="csrfmiddlewaretoken" value="kAbXvVdspEokOeq4rLi9qVAvbDH0M3RqvpJQkcpIhMjh2nqHC3OMyv65zJqB4O9q">
 <div class="field-label">
 Email
 <span class="field-info">&nbsp; (Activation link will be sent to this email)</span>
@@ -555,10 +502,10 @@ Email
 </li>
 <li data-tab="login">
 <div class="login-form">
-<form class="smergers-login-form" method="post" action="/login/"><input type="hidden" name="csrfmiddlewaretoken" value="ZnzMrhkOWSwHAAz6htlIt90RAa2He0A4HEJoB43ONobruTfqLcSYbZvmgVRZam8P">
+<form class="smergers-login-form" method="post" action="/login/"><input type="hidden" name="csrfmiddlewaretoken" value="kAbXvVdspEokOeq4rLi9qVAvbDH0M3RqvpJQkcpIhMjh2nqHC3OMyv65zJqB4O9q">
 <div class="response-message"></div>
 <div class="field-label">Email</div>
-<div class="field"><input type="text" name="login-username" required="" maxlength="75" autocapitalize="off" autocorrect="off" slnmid="login-username" id="id_login-username"></div>
+<div class="field"><input type="email" name="login-username" required="" maxlength="75" autocapitalize="off" autocorrect="off" slnmid="login-username" id="id_login-username"></div>
 <div class="field-label">Password</div>
 <div class="field"><input type="password" name="login-password" slnmid="login-password" id="id_login-password" required=""></div>
 <div style="text-align:right;">
@@ -579,55 +526,41 @@ Email
 <div class="smergers-horizontal-scroller-wrapper login-form-brands">
 <div class="smergers-horizontal-scroller-container">
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/d7/b4/d7b49a0c0c04804888f87854e0c0fd45.png.pagespeed.ce.QLwut807sn.png" height="35" style="margin: 10px;" title="ARAMEX.COM">
+<img class="" data-src="/media/cache/d6/39/d639b3794fdfaf3ad9ff979f050940ed.jpg.pagespeed.ce.w2FoJzJv39.jpg" height="35" style="margin: 10px;" title="medlife.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/d2/e9/d2e990681cbe9c0c1685131f2fd4a984.png.pagespeed.ce.fvbtXgj2Fu.png" height="35" style="margin: 10px;" title="mmm.com">
+<img class="" data-src="/media/cache/77/b5/77b5686d115017f07b29e4d056009988.png.pagespeed.ce.gFrhFbT05d.png" height="35" style="margin: 10px;" title="in.knightfrank.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/cf/27/cf27d20266005fdbe43cd95954781d18.png.pagespeed.ce.jynTEVPpNd.png" height="35" style="margin: 10px;" title="drreddys.com">
+<img class="" data-src="/media/cache/30/95/3095f53455b07e47ed649f102a0dd68b.png.pagespeed.ce.Dpuxch-edJ.png" height="35" style="margin: 10px;" title="karvy.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/df/be/dfbed1822c894ee872bc2d7f04b4d119.png.pagespeed.ce.XPwROK_mbL.png" height="35" style="margin: 10px;" title="karvy.com">
+<img class="" data-src="/media/cache/2c/17/2c17c8057b28f84663fc663f6fea1789.jpg.pagespeed.ce.2m7LHJYaep.jpg" height="35" style="margin: 10px;" title="fnp.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/cd/15/cd151b73e1d3899e8022797bd31afaee.png.pagespeed.ce.I2AYNGk9JD.png" height="35" style="margin: 10px;" title="shell.com">
+<img class="" data-src="/media/cache/b9/75/b9756489d75d9187fe25117de6d88ecc.png.pagespeed.ce.DLgoKwEA8V.png" height="35" style="margin: 10px;" title="in.ey.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/56/0c/560c573c53128b5266423e868442b923.png.pagespeed.ce.uiSbA8LaWW.png" height="35" style="margin: 10px;" title="eurokidsindia.com">
+<img class="" data-src="/media/cache/51/2e/512e2e03383c02065bc21a053b3ca684.gif.pagespeed.ce.Bjn47hI3ZQ.gif" height="35" style="margin: 10px;" title="coxandkings.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/f6/80/f680b820b288781f85bd4c38218d7560.png.pagespeed.ce.U3aVg3LNiR.png" height="35" style="margin: 10px;" title="indusind.com">
+<img class="" data-src="/media/cache/c6/f2/c6f23999eb249be35c7062dae962de5b.png.pagespeed.ce.WUqSwCeqdG.png" height="35" style="margin: 10px;" title="tatacapital.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/7b/e3/7be3bd94b2ef64b4a67e2321cb144cb5.png.pagespeed.ce.Fu9Rka2unu.png" height="35" style="margin: 10px;" title="time4education.com">
+<img class="" data-src="/media/cache/eb/13/eb138f4ae1c7eab5e30504d96554efed.png.pagespeed.ce.n30FfCa2nT.png" height="35" style="margin: 10px;" title="oerlikon.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/3c/69/3c69b996a2470a49fb17ef99f36a7ef4.png.pagespeed.ce.IQSh0frQXd.png" height="35" style="margin: 10px;" title="niit.com">
+<img class="" data-src="/media/cache/a0/d2/a0d2fff0f9b45cc25f78d6525e317f43.jpg.pagespeed.ce.VQGJK9lI2L.jpg" height="35" style="margin: 10px;" title="adityabirla.com">
 </div>
 <div class="smergers-horizontal-scroller-item" style="font-size: 0;">
-<img src="/media/cache/58/9e/589ed81b921f0c5e1e69bc07a76aa9fb.png.pagespeed.ce.nYXC9yuiA9.png" height="35" style="margin: 10px;" title="printo.in">
+<img class="" data-src="/media/cache/69/ba/69ba9a5440f9b6f2e90094b65a2c25df.jpg.pagespeed.ce.7QanccAM6Z.jpg" height="35" style="margin: 10px;" title="titan.co.in">
 </div>
 </div>
-<div class="sme-v3-h4" style="color: #656565; font-size: 13px; margin: 0;">... and 34,500+ other businesses of all sizes.</div>
+<div class="sme-v3-h4" style="color: #656565; font-size: 13px; margin: 0;">... and 38,500+ other businesses of all sizes.</div>
 <div class="clear"></div>
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="enable-cookies-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-<div class="modal-dialog">
-<div class="modal-content" style="border-radius: 0;">
-<div class="modal-header">
-<span style="font-size: 18px;">Enable Cookies</span>
-</div>
-<div class="modal-body">
-<div style="font-size: 15px; line-height: 22px; color: #666;">
-We noticed that you have disabled cookies on your web browser. In order to login and get a good experience on the platform, we suggest that you enable cookies. <a href="https://www.whatismybrowser.com/guides/how-to-enable-cookies/" target="_blank" rel="noopener">Click here</a> to see how to enable cookies on your web browser.
 </div>
 </div>
 </div>
@@ -638,68 +571,23 @@ We noticed that you have disabled cookies on your web browser. In order to login
 <div class="modal-content">
 <div class="modal-body">
 Change Country: <br>
-<div class="select2-container geo-country-select" id="s2id_autogen11" style="width: 100%;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-12"><span style="margin-right:6px; background-image: url(/static/images/flags/undefined.png)" class="flag-icon"> </span>undefined</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen12" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-12" id="s2id_autogen12"><div class="select2-drop select2-display-none geo-country-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen12_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-12" id="s2id_autogen12_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-12">   </ul></div></div><input type="text" class="geo-country-select" style="width: 100%; display: none;" value="us" tabindex="-1" title="">
+<div class="select2-container geo-country-select" id="s2id_autogen11" style="width: 100%;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-12"><span style="margin-right:6px; background-image: url(/static/images/flags/us.png)" class="flag-icon"> </span>United States</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen12" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-12" id="s2id_autogen12"><div class="select2-drop select2-display-none geo-country-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen12_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-12" id="s2id_autogen12_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-12">   </ul></div></div><input type="text" class="geo-country-select" style="width: 100%; display: none;" value="us" data-id="72" data-img_src="us" data-text="United States" tabindex="-1" title="">
 <br><br>
 Change Currency: <br>
-<div class="select2-container global-currency-select" id="s2id_autogen5" style="width: 100%;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-6"><span style="margin-right:6px; background-image: url(/static/images/flags/undefined.png)" class="flag-icon"> </span>undefined</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen6" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-6" id="s2id_autogen6"><div class="select2-drop select2-display-none geo-currency-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen6_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-6" id="s2id_autogen6_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-6">   </ul></div></div><input type="text" class="global-currency-select" style="width: 100%; display: none;" value="8" tabindex="-1" title="">
+<div class="select2-container global-currency-select" id="s2id_autogen5" style="width: 100%;"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-6"><span style="margin-right:6px; background-image: url(/static/images/flags/us.png)" class="flag-icon"> </span>United States Dollar - USD</span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen6" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-6" id="s2id_autogen6"><div class="select2-drop select2-display-none geo-currency-dropdown select2-with-searchbox">   <div class="select2-search">       <label for="s2id_autogen6_search" class="select2-offscreen"></label>       <input type="text" autocomplete="nope" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input" role="combobox" aria-expanded="true" aria-autocomplete="list" aria-owns="select2-results-6" id="s2id_autogen6_search" placeholder="">   </div>   <ul class="select2-results" role="listbox" id="select2-results-6">   </ul></div></div><input type="text" class="global-currency-select" style="width: 100%; display: none;" value="8" data-id="8" data-text="United States Dollar - USD" data-img_src="us" data-symbol="USD" tabindex="-1" title="">
 </div>
 </div>
 </div>
 </div>
-<div id="customize-content-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-keyboard="false" data-backdrop="static">
-<div class="modal-dialog modal-md" style="margin-top: 200px;">
-<div class="modal-content" style="border-radius: 0;">
-<div class="modal-header">
-<img src="/static/images/xlogo.png.pagespeed.ic.ECkje6IEdy.png" width="14px;"> <span style="font-size: 16px;font-family: proximanova-semibold;"> Customize for your location</span>
-</div>
-<div class="modal-body">
-<div style="font-size: 15px; line-height: 22px; color: #666;">
-You are currently viewing the results from SMERGERS worldwide. Click below to select your location. <br> <br>
-<div style="text-align:center;">
-<a href="#" class="bs2-btn use-user-location-button" data-uselocvalue="YES">
-<span style="margin-bottom:-1px;display:inline-block;margin-right:6px;" class="flag flag-us"></span> Switch to United States
-</a>
-&nbsp;&nbsp;
-<a href="#" class="bs2-btn use-user-location-button" data-uselocvalue="NO">
-Cancel
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="generic-message-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-<div class="modal-dialog">
-<div class="modal-content" style="border-radius: 0;">
-<div class="modal-header">
-<span style="font-size: 18px;" id="generic-message-modal-header"></span>
-</div>
-<div class="modal-body">
-<div style="font-size: 15px; line-height: 22px; color: #666;" id="generic-message-modal-body">
-</div>
-</div>
-<div class="modal-footer" style="background-color:#fff;">
-<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-</div>
-</div>
-</div>
-</div>
-<noindex>
-<script type="text/javascript">window.onerror=function(msg,url,line,col,error){var extra=!col?'':'\ncolumn: '+col;extra+=!error?'':'\nerror: '+error;if(typeof ga!=='undefined'){ga('send','exception',{'exDescription':msg+' page->'+url+' file->'+line+extra+' -> '+navigator.userAgent,'exFatal':false});}var suppressErrorAlert=false;return suppressErrorAlert;};var smergers={user:{authenticated:false,is_staff:false}};</script>
-<link rel="stylesheet" href="/static/css/A.smergers_low_p.min.css,qrev=15e72e71fe.pagespeed.cf.8jPNDloCVx.css">
+<script type="text/javascript">window.onerror=function(msg,url,line,col,error){var extra=!col?'':'\ncolumn: '+col;extra+=!error?'':'\nerror: '+error;if(typeof ga!=='undefined'){ga('send','exception',{'exDescription':msg+' page->'+url+' file->'+line+extra+' -> '+navigator.userAgent,'exFatal':false});}var suppressErrorAlert=false;return suppressErrorAlert;};var smergers={user:{authenticated:false,is_staff:false,country:'us'}};</script>
 <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
           <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
-<script type="text/javascript" src="/static/js/smergers_all.min.js,qrev=15e72e71fe.pagespeed.jm.ga1BD1euvZ.js"></script>
-<script type="text/javascript">$(document).ready(function(){new HorizontalScroller({target:'.login-form-brands',autoScroll:true,})})</script>
-<script type="text/javascript">$(window).load(function(){force_login=false;var show_banner=true;var session_currency_symbol='USD';var session_currency_id=8;GlobalManager.init(session_currency_id,session_currency_symbol,show_banner);track('PAGE_VISIT','/privacy/','https://www.smergers.com/');ViewManager.init();});</script>
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create',"UA-35831000-1",'auto');ga('send','pageview');</script>
-<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','785190855159184');fbq('track','PageView');</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=785190855159184&ev=PageView&noscript=1"/></noscript>
-<script type="text/javascript">$(window).load(function(){$(".faq-section").hide().first().show();if($(".faq-section").length){$(".FAQ-BAR").show();$(".FAQ-BAR").click(function(){$('html, body').animate({scrollTop:$("#id-faqs-wrapper").offset().top-50},2000);})}$("#close-metrics-bar").click(function(){$(".smergers-metrics-banner").hide();$(".discount-bar").hide();fix_spacing();});})</script>
-</noindex>
+<script type="text/javascript" src="/static/js/smergers_all.min.js,qrev=50cb14c85e.pagespeed.ce.hqOQM_I3OJ.js"></script>
+<script type="text/javascript">$(document).ready(function(){new HorizontalScroller({target:'.login-form-brands',autoScroll:true,});ViewManager.lazyLoadImages();$(document).ajaxComplete(function(){ViewManager.lazyLoadImages();});})</script>
+<script type="text/javascript">$(document).ready(function(){force_login=false;var show_banner=true;var session_currency_symbol='USD';var session_currency_id=8;GlobalManager.init(session_currency_id,session_currency_symbol,show_banner);track('PAGE_VISIT','/privacy/','https://www.smergers.com/franchise/neopolitan-pizza/fpxh7/');ViewManager.init();});</script>
+<script type="text/javascript">function toggle_metrics_display(){$(".smergers-metrics-banner").toggle();$(".discount-bar").toggle();fix_spacing();}$(document).ready(function(){$(".faq-section").hide().first().show();if($(".faq-section").length){$(".FAQ-BAR").show();$(".FAQ-BAR").click(function(){$('html, body').animate({scrollTop:$("#id-faqs-wrapper").offset().top-50},2000);})}})</script>
 </div>
 <div id="page-hider">
 </div>
