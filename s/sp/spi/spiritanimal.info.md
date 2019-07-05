@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritanimal.info privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623233506id_/http%3A//www.spiritanimal.info/privacy-policy-current) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritanimal.info privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706000937id_/http%3A//www.spiritanimal.info/privacy-policy-current) for the most accurate reproduction.*
 
 # Privacy Policy - Spirit Animal Info
 
