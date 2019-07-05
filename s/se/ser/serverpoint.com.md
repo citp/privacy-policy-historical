@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverpoint.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911121230id_/https%3A//www.serverpoint.com/en/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverpoint.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705214957id_/https%3A//www.serverpoint.com/en/privacy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
