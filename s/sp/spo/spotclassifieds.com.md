@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotclassifieds.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506022022id_/http%3A//www.spotclassifieds.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotclassifieds.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705070928id_/http%3A//www.spotclassifieds.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Privacy Policy
 
