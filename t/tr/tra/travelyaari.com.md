@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603055405id_/https%3A//www.travelyaari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705065556id_/https%3A//www.travelyaari.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
