@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heygrillhey.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214111934id_/https%3A//heygrillhey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heygrillhey.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705035151id_/https%3A//heygrillhey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hey Grill, Hey
 
