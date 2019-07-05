@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universityfinance.net privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505181024id_/http%3A//www.universityfinance.net/%3Fpage_id%3D3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universityfinance.net privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705084317id_/http%3A//www.universityfinance.net/%3Fpage_id%3D3928) for the most accurate reproduction.*
 
 # Privacy Policy – University Finance
 
