@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagheuer.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402100606id_/https%3A//www.tagheuer.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagheuer.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705231946id_/https%3A//www.tagheuer.com/en-gb/privacy-policy) for the most accurate reproduction.*
 
 # TAG HEUER PRIVACY POLICY | Tag Heuer
 
@@ -141,7 +141,7 @@ You have the right to request access to or information about the personal data r
 
 
 
-All access, correction and deletion requests can also be sent by regular mail along with your contact details (phone number and email) to the address referred to at the beginning of the Policy. We may ask you for a proof of identity (copy of official Identification Document with a photo mentioning your date & place of birth). The request is free of charge unless your request is unfounded or excessive (e.g. if you have already requested such personal data multiple times in the last twelve months or if the request generates an extremely high workload). In such case, we may charge you a reasonable request fee according to applicable data protection legislation.  We encourage you to contact us if you feel your personal data has been mishandled or if we have failed to meet your expectations. 
+All access, correction and deletion requests must be sent with your contact details (phone number and email) at [mydata@tagheuer.com](mailto:mydata@tagheuer.com). We may ask you for a proof of identity (copy of official Identification Document with a photo mentioning your date & place of birth). The request is free of charge unless your request is unfounded or excessive (e.g. if you have already requested such personal data multiple times in the last twelve months or if the request generates an extremely high workload). In such case, we may charge you a reasonable request fee according to applicable data protection legislation.  We encourage you to contact us if you feel your personal data has been mishandled or if we have failed to meet your expectations. 
 
 ## 11\. Updates to the Policy
 
