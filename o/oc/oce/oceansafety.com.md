@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceansafety.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606083217id_/http%3A//oceansafety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceansafety.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705044126id_/http%3A//www.oceansafety.com/privacy-policy) for the most accurate reproduction.*
 
 # Ocean Safety Ltd - Privacy Policy
 
@@ -134,7 +134,7 @@ All subject access requests should be made in writing and sent to the email or p
 
 ## 14\. Contacting Us
 
-If you have any questions about Our Site or this Privacy Policy, please contact Us by email at [osinfo@oceansafety.com](http://www.oceansafety.com/privacy-policy#link_tab), by telephone on 02380 720801, or by post at Ocean Safety Ltd , Saxon Wharf, Lower York Street, Southampton, SO14 5QF, UK. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 12, above).
+If you have any questions about Our Site or this Privacy Policy, please contact Us by email at [osinfo@oceansafety.com](http://oceansafety.com/privacy-policy#link_tab), by telephone on 02380 720801, or by post at Ocean Safety Ltd , Saxon Wharf, Lower York Street, Southampton, SO14 5QF, UK. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 12, above).
 
 ## 15\. Changes to Our Privacy Policy
 
