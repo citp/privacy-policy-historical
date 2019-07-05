@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603074834id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705230211id_/https%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RPG Maker | How To Make A Video Game!
 
-Last updated: October 12, 2018
+Last updated: July 1, 2019
 
 We (DEGICA Co., Ltd.) may collect your personal information in order to provide our services, including EC sites operation, digital content sales and international promotion support. We fully understand the importance of safeguarding your privacy and endeavor to handle your personal information appropriately so that you can do business with us with peace of mind. To this end, we publish our Privacy Policy here. 
 
@@ -33,6 +33,8 @@ When you visit our websites, we may place a small text file called a â€œcookieâ€
   * Information on products and services displayed or searched
 
 
+
+The websites we manage and operate use [Google Analytics](https://www.google.co.jp/analytics/terms/us.html) to keep track of usage. Google Analytics uses cookies to collect user information. User information is collected anonymously and does not identify an individual. Information collected through the use of Google Analytics is managed in accordance with [Google's policies](https://policies.google.com/?hl=en). Click [here](https://tools.google.com/dlpage/gaoptout?hl=en) to learn more about how to prevent your information from being used by Google Analytics. 
 
 ## 3\. Use and Retention of Your Information
 
