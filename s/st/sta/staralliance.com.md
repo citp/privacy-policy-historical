@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the staralliance.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114182858id_/https%3A//www.staralliance.com/legal/-/asset_publisher/3Wpw7xWuQ7zP/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staralliance.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705160941id_/https%3A//www.staralliance.com/legal/-/asset_publisher/3Wpw7xWuQ7zP/content/privacy-policy%3F_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3Wpw7xWuQ7zP_redirect%3Dhttps%253A%252F%252Fwww.staralliance.com%252Fen%252Flegal%253Fp_p_id%253Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3Wpw7xWuQ7zP%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview%2526_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3Wpw7xWuQ7zP_cur%253D0%2526p_r_p_resetCur%253Dfalse) for the most accurate reproduction.*
 
 # Privacy Policy - Star Alliance
 
 Please click on "Read More" to learn more about the collection of data, including Personal Data, on our website, our policy regarding linked websites and our cookie policy.
 
- **Collection and Use of Data**
+**Collection and Use of Data**
 
   1. **General**
 
@@ -136,7 +136,7 @@ _Google Analytics (__utma, __utmz and__utmb)_
 
 We use these cookies to record the number of hits to the Star Alliance website, visitor count to the Star Alliance website, number of page views, demographics (language and location), web browser type, operating system, network information, user behavior (new or returning visitors, frequency, recency and engagement), traffic sources, website referral traffic, search engine optimization (queries, landing pages and geographical summary) and social aspects (overview, network referrals, visitor flow, etc.). 
 
-By accepting Google Analytics cookies you agree to allow Google to collect and process the above Non-Personal Data. For more information on how Google is using the cookies, please visit “[How Google uses data when you use our partners' sites or apps](http://www.google.com/policies/privacy/partners)”.
+By accepting Google Analytics cookies you agree to allow Google to collect and process the above Non-Personal Data. For more information on how Google is using the cookies, please visit “[How Google uses data when you use our partners' sites or apps](http://www.google.com/policies/privacy/partners/)”.
 
 _Book and Fly – (Map Planning Part) (net.flightmaps.data.planner: ItineraryReference)_
 
