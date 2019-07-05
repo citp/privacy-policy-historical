@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hislut.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603045016id_/http%3A//www.hislut.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hislut.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705214920id_/http%3A//hislut.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Hislut - Privacy Policy
 
@@ -173,7 +173,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **Contacting Us**
 
-**If there are any questions regarding this privacy policy, you may contact us using this[form](https://web.archive.org/web/20190603045016id_/http%3A//www.hislut.com/contact-us.php)**
+**If there are any questions regarding this privacy policy, you may contact us using this[form](https://web.archive.org/web/20190705214920id_/http%3A//hislut.com/contact-us.php)**
 
 **  
 Last Edited on 2017-01-14**
