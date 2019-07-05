@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mum.edu privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423214928id_/https%3A//www.mum.edu/privacy-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mum.edu privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705122614id_/https%3A//www.mum.edu/privacy-information) for the most accurate reproduction.*
 
 # Privacy Notice
 
