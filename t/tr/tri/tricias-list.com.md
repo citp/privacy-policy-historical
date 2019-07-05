@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricias-list.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526044652id_/http%3A//tricias-list.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricias-list.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706005447id_/http%3A//tricias-list.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -About Tricias-List & Our Policies
 
@@ -163,5 +163,3 @@ United States
 tricia@tricias-list.com
 
 Last Edited on 01-02-2018
-
-Disclaimer: I receive product(s) either complimentary OR for monetary compensation from the company/manufacturer I write about. This site also makes a small commission after you click referral/affiliate links included in our posts .As Writer/Blogger, I agree to use these product(s) and post my honest opinion on my blog. The opinions posted are my own. Thank you for being a continued subscriber to Tricia's List! ~Tricia~
