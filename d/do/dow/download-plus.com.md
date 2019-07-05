@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-plus.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504153400id_/http%3A//www.download-plus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-plus.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705061045id_/http%3A//www.download-plus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Plus
 
