@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigtitstokyo.com privacy policy that was archived on 2019-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190310165341id_/https%3A//bigtitstokyo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigtitstokyo.com privacy policy that was archived on 2019-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190705151555id_/https%3A//bigtitstokyo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head lang="en">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,9 +15,9 @@
 
     <link href="/assets/bigtitstokyo/style/docs.css?v1" rel="stylesheet" type="text/css">
 
-    <script async="" src="/ascripts/gcu.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script async="" src="https://BigTitsTokyo.com/ascripts/gcu.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/assets/bigtitstokyo/scripts/jquery-1.7.1.min.js?v1">\x3C/script>')</script><script src="/assets/bigtitstokyo/scripts/jquery-1.7.1.min.js?v1"></script>
-<script type="text/javascript" src="https://archive.org/t/e/v4?e_t=pageview&amp;url=https%253A%252F%252Fweb.archive.org%252Fweb%252F20190310165341id_%252Fhttps%25253A%252F%252Fbigtitstokyo.com%252Fprivacy&amp;ref=&amp;d_r=1&amp;d_s=800x600&amp;d_w=1366x768&amp;t_s=1580456746017&amp;t_i=1580456746529&amp;u_tz=0&amp;u_l=en-US&amp;u_l2=&amp;u_l3=&amp;n_c=&amp;n_s=&amp;pv_uid=000441d9-eecf-4aa0-8472-eb36d7874c43&amp;nav_rc=0&amp;nav_nt=NAVIGATE&amp;p_nn=idolbucks&amp;p_pt=PRIVACY&amp;p_pi=&amp;p_tt=desktop&amp;p_l=en&amp;p_z=NONAUTHORIZED&amp;fpid_sa=null&amp;fpid=19493938a0f0c7f83d27fefeea687024&amp;feid_sa=null&amp;sid_sa=null&amp;feid=c313adeb8b447c367f92699527ea4ef7&amp;sid=35905b485ea9ec5ff2295d1ed0ad15e8&amp;u_adb=0&amp;vn=S-2.3.3&amp;utm_typ=typein&amp;utm_src=(direct)&amp;s_rst=0&amp;e_d=%7B%22user_status%22%3A%22GUEST%22%2C%22user_memberid%22%3A%22%22%7D&amp;t_op=0.252&amp;cb=gl.cb.pv"></script></head>
+</head>
 <body>
 
 <script>
@@ -26,7 +26,7 @@
                 (e[a].q = e[a].q || []).push(arguments);
             }, e[a].i = 1 * new Date(), c = t.createElement("script"), i = t.getElementsByTagName("script")[0],
                 c.async = 1, c.src = n, i.parentNode.insertBefore(c, i);
-        })(window, document, "/ascripts/gcu.js", "gl");
+        })(window, document, "https://" + "BigTitsTokyo.com" + "/ascripts/gcu.js", "gl");
         gl('config', {useClientDomain: true});
         gl('params', {
             'networkname': 'idolbucks',
@@ -35,7 +35,7 @@
             'templatetype': 'desktop',
             'locale': 'en',
             'zone': 'NONAUTHORIZED',
-            'nats_sess': 'c8835675366ce70d942a62da31127c08'
+            'nats_sess': ''
         });
         gl('send', 'pageview', {"user_status": "GUEST", "user_memberid": ""});
 
@@ -52,101 +52,210 @@
 <link rel="manifest" href="/manifest.json">
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
-    if (window.location.host === 'alljapanesepass.com') {
-        var OneSignal = window.OneSignal || [];
+    var OneSignal = window.OneSignal || [];
+
+    function nowDate() {
+        dateNow = new Date();
+        var DD = dateNow.getDate(),
+            MM = dateNow.getMonth() + 1,
+            YYYY = dateNow.getFullYear();
+
+        if (DD < 10) {
+            DD = '0' + DD
+        }
+        if (MM < 10) {
+            MM = '0' + MM
+        }
+
+        return YYYY + "-" + MM + "-" + DD
+    }
+
+    function OneSignalTagPush() {
+        OneSignal.push(function () {
+            OneSignal.getTags(function (tags) {
+                if (tags.memberid && !'') {
+                    return;
+                }
+                //console.log("OneSignal sendTags");
+                OneSignal.sendTags({
+                    networkname: 'ajp',
+                    memberid: '',
+                    email: '%USER_EMAIL%',
+                    updated: nowDate(),
+                    status: 'GUEST',
+                    expire_date: '%USER_EXPIRES_FORMATTED%',
+                    user_locale: 'en',
+                    globica_sid: gl.getSID(),
+                    // AB_test: oneSignalABTest.name,
+                    // AB_variant: oneSignalSelectedGroup.variant
+                });
+                if ('') {
+                    OneSignal.setExternalUserId('ajp.');
+                }
+            });
+        });
+    }
+
+    function getSelectedTestGroup(test) {
+        if (!("Notification" in window)) {
+            return {
+                variant: 'not_support_desktop_notification',
+            };
+        }
+        var groups = {};
+        var totalWeight = 0;
+        for (var index in test.groups) {
+            var group = test.groups[index];
+            totalWeight += group.weight;
+            groups[group.variant] = group;
+        }
+
+        var variant = window.localStorage.getItem('test_group_name:' + test.name);
+        var inTest = window.localStorage.getItem('in_test_group');
+
+        console.log(' Notification.permission=' + Notification.permission);
+        if (variant && groups[variant]) {
+            console.log('Get ' + variant + ' group from storage for ' + test.name + ' test');
+            return groups[variant];
+        } else if (inTest || Notification.permission !== "default") {
+            console.log('Select old_user group for ' + test.name + ' test');
+            return {
+                variant: 'old_user',
+            };
+        }
+
+        var weight = Math.floor(Math.random() * Math.floor(totalWeight)) + 1;
+        var currentWeight = 0;
+        for (variant in groups) {
+            currentWeight += groups[variant].weight;
+            if (currentWeight < weight) {
+                continue;
+            }
+            console.log('Select ' + variant + ' group for ' + test.name + ' test');
+            window.localStorage.setItem('test_group_name:' + test.name, variant);
+            window.localStorage.setItem('in_test_group', test.name + ':' + variant);
+            return groups[variant];
+        }
+    }
+
+    var oneSignalABTest = {
+        name: 'TASK-8469-2',
+        groups: [
+            {
+                variant: 'with_prerequest_over_warning',
+                weight: 50,
+            },
+            {
+                variant: 'without_prerequest_over_warning',
+                weight: 50,
+            },
+        ]
+    };
+
+    // var oneSignalSelectedGroup = getSelectedTestGroup(oneSignalABTest);
+
+    var oneSignalAppId = 'b39108a5-a88b-497c-9773-390b88e06179'; // prod
+    // var oneSignalAppId = 'e097cbd3-8311-470e-ae2e-f50c918802db'; // dev
+
+    function oneSignalInit() {
+        if (window.location.host !== 'alljapanesepass.com') {
+            return;
+        }
+
+        if (!("Notification" in window)) {
+            console.log("This browser does not support desktop notification");
+            // PUSH: page hit from browser not supporting web push notifications
+            gl('send', 'GOAL_REACHED', {'goal_id': 439});
+            return;
+        }
+
         var pushIcons = '/assets/_common/push-icons/1.png';
         var pushIconsImage = new Image();
         pushIconsImage.src = pushIcons;
         var oneSignalLocales = {
             en: {
                 promptOptions: {
-                    actionMessage: 'hey! how are you? let\'s talk!',
-                    acceptButtonText: 'Enable chat',
-                    cancelButtonText: 'Later',
+                    actionMessage: 'We\'d like to show you notifications for the latest news and updates.',
+                    acceptButtonText: 'Allow',
+                    cancelButtonText: 'No thanks',
                 }
             },
             zh: {
                 promptOptions: {
-                    actionMessage: '嗨，最近怎么样？聊聊吧！',
-                    acceptButtonText: '打开聊天',
-                    cancelButtonText: '稍后',
+                    actionMessage: '我们想向您展示最新资讯和更新内容通知。',
+                    acceptButtonText: '允许',
+                    cancelButtonText: '不，谢谢',
+                }
+            },
+            'zh-tw': {
+                promptOptions: {
+                    actionMessage: '我們想向您展示最新資訊和更新內容通知。',
+                    acceptButtonText: '允許',
+                    cancelButtonText: '不，謝謝',
                 }
             },
             th: {
                 promptOptions: {
-                    actionMessage: 'เฮ้ สบายดีไหม มาลองคุยกันดูเถอะ!',
-                    acceptButtonText: 'เปิดใช้งานแชท',
-                    cancelButtonText: 'ดำเนินการภายหลัง',
+                    actionMessage: 'เราต้องการแสดงการแจ้งเตือนเกี่ยวกับข่าวและอัปเดตให้คุณ',
+                    acceptButtonText: 'อนุญาต',
+                    cancelButtonText: 'ไม่ ขอบคุณ',
                 }
             },
             vi: {
                 promptOptions: {
-                    actionMessage: 'chào! anh khỏe không? nói chuyện nhé!',
-                    acceptButtonText: 'Cho phép chat',
-                    cancelButtonText: 'Để sau',
+                    actionMessage: 'Chúng tôi muốn hiển thị thông báo về các tin tức và cập nhật mới nhất cho bạn.',
+                    acceptButtonText: 'Cho phép',
+                    cancelButtonText: 'Không, cảm ơn',
                 }
             },
             id: {
                 promptOptions: {
-                    actionMessage: 'hei! Apa kabar? ayo bicara!',
-                    acceptButtonText: 'Aktifkan obrolan',
-                    cancelButtonText: 'Kemudian',
+                    actionMessage: 'Kami ingin menunjukkan kepada Anda pemberitahuan untuk berita dan pembaruan terkini.',
+                    acceptButtonText: 'Mengizinkan',
+                    cancelButtonText: 'Tidak, terima kasih',
                 }
             },
             ko: {
                 promptOptions: {
-                    actionMessage: '여! 안녕하니? 얘기 좀 하자!',
-                    acceptButtonText: '채팅 가능',
-                    cancelButtonText: '후에 보자',
+                    actionMessage: '최신 소식 및 업데이트에 관한 알림을 보내드리고자 합니다.',
+                    acceptButtonText: '허용',
+                    cancelButtonText: '거부',
                 }
             },
             ja: {
                 promptOptions: {
-                    actionMessage: 'こんにちは！お元気ですか？お話ししましょう！',
-                    acceptButtonText: 'チャットを使用可能にする。',
-                    cancelButtonText: '後で',
+                    actionMessage: '最新のニュースと更新 に対する通知をお届けします。',
+                    acceptButtonText: '許可しま す',
+                    cancelButtonText: 'いいえ、結構です',
                 }
             },
             es: {
                 promptOptions: {
-                    actionMessage: '¡Oye! ¿cómo estás? ¡hablemos!',
-                    acceptButtonText: 'Permitir conversación',
-                    cancelButtonText: 'Luego',
+                    actionMessage: 'Nos gustaría mostrarle notificaciones de las últimas noticias y actualizaciones.',
+                    acceptButtonText: 'Permitir',
+                    cancelButtonText: 'No, gracias.',
                 }
             },
             ar: {
                 promptOptions: {
-                    actionMessage: 'هاي! كيف حالك لنتكلم معًا!',
-                    acceptButtonText: 'تمكين الدردشة',
-                    cancelButtonText: 'لاحقًا',
+                    actionMessage: 'نود أن نعرض لك إشعارات أحدث الأخبار والمستجدات',
+                    acceptButtonText: 'سماح',
+                    cancelButtonText: 'لا، شكرًا',
                 }
             },
             fr: {
                 promptOptions: {
-                    actionMessage: 'salut ! ça va ? viens discuter avec moi !',
-                    acceptButtonText: 'Activer le chat',
-                    cancelButtonText: 'Plus tard',
+                    actionMessage: 'Nous souhaiterions vous envoyer des notifications sur les toutes dernières informations et mises à jour.',
+                    acceptButtonText: 'Autoriser',
+                    cancelButtonText: 'Non merci',
                 }
             },
         };
 
-        function nowDate() {
-            dateNow = new Date();
-            var DD = dateNow.getDate(),
-                MM = dateNow.getMonth() + 1,
-                YYYY = dateNow.getFullYear();
-
-            if (DD < 10) {
-                DD = '0' + DD
-            }
-            if (MM < 10) {
-                MM = '0' + MM
-            }
-
-            return YYYY + "-" + MM + "-" + DD
+        var userLocale = window.navigator.language.toLowerCase();
+        if (typeof oneSignalLocales[userLocale] === 'undefined') {
+            userLocale = userLocale.split('-')[0]
         }
-
-        var userLocale = window.navigator.language.toLowerCase().split('-')[0];
         if (typeof oneSignalLocales[userLocale] === 'undefined') {
             userLocale = 'en';
         }
@@ -154,11 +263,12 @@
 
         OneSignal.push(function () {
             OneSignal.init({
-                appId: "b39108a5-a88b-497c-9773-390b88e06179",
+                appId: oneSignalAppId,
                 autoRegister: false,
                 notifyButton: {
                     enable: false,
                 },
+                persistNotification: true,
                 promptOptions: oneSignalLocales[userLocale].promptOptions,
                 welcomeNotification: {
                     disable: true
@@ -237,30 +347,16 @@
                 OneSignal.showHttpPrompt();
             }
         });
+    }
 
-        function OneSignalTagPush() {
-            OneSignal.push(function () {
-                OneSignal.getTags(function (tags) {
-                    if (tags.memberid && !'') {
-                        return;
-                    }
-                    console.log("OneSignal sendTags");
-                    OneSignal.sendTags({
-                        networkname: 'ajp',
-                        memberid: '',
-                        email: '%USER_EMAIL%',
-                        updated: nowDate(),
-                        status: 'GUEST',
-                        expire_date: '%USER_EXPIRES_FORMATTED%',
-                        user_locale: 'en'
-                    });
-                    if ('') {
-                        OneSignal.setExternalUserId('ajp.');
-                    }
-                });
+    var onesignalInterval = setInterval(function () {
+        if (typeof window.gl !== "undefined") {
+            clearInterval(window.onesignalInterval);
+            window.gl('function', function () {
+                oneSignalInit();
             });
         }
-    }
+    }, 500);
 </script>
 
 <div class="wrapper">
