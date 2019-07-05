@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homie.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524122332id_/https%3A//www.homie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homie.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705101232id_/https%3A//www.homie.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Homie
 
