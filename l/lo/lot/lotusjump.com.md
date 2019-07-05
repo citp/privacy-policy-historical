@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotusjump.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504191908id_/http%3A//www.lotusjump.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotusjump.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705033501id_/http%3A//www.lotusjump.com/privacy.php) for the most accurate reproduction.*
 
 # LotusJump Privacy Policy
 
