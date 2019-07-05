@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazines.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528085807id_/http%3A//www.amazines.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazines.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705035255id_/http%3A//www.amazines.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Amazines.com - Privacy Policy
 
