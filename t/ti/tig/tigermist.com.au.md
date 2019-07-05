@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigermist.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304105546id_/https%3A//tigermist.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigermist.com.au privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706001730id_/http%3A//tigermist.com.au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Tiger Mist
 
