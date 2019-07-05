@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notimpacto.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604203240id_/http%3A//www.notimpacto.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notimpacto.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705145943id_/http%3A//www.notimpacto.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to notimpacto.com - Privacy Policy
 
