@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213195537id_/https%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706014106id_/https%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
 
 # USA Green Card Lottery Privacy Policy
 
