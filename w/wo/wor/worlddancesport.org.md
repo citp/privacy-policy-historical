@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worlddancesport.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630184443id_/http%3A//www.worlddancesport.org/Legal/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worlddancesport.org privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705230338id_/http%3A//www.worlddancesport.org/Legal/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | World DanceSport Federation at worlddancesport.org
 
