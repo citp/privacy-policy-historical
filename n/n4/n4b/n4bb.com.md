@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n4bb.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107054732id_/https%3A//n4bb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n4bb.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705230749id_/https%3A//n4bb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | N4BB
 
