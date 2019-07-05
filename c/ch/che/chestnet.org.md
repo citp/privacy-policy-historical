@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chestnet.org privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604025612id_/http%3A//www.chestnet.org/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestnet.org privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705170355id_/http%3A//www.chestnet.org/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | About - American College of Chest Physicians
 
