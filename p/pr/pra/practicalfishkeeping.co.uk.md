@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604005228id_/http%3A//www.warnersgroup.co.uk/about-warners-group/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705213651id_/http%3A//www.warnersgroup.co.uk/about-warners-group/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Customers - Warners Group Publications Plc
 
