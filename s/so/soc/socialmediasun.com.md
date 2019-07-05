@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediasun.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629152917id_/http%3A//socialmediasun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediasun.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706014617id_/http%3A//socialmediasun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Media Sun
 
