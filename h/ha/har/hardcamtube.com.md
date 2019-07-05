@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcamtube.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505123524id_/http%3A//www.hardcamtube.com/en/policy%23personaldata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcamtube.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705202325id_/http%3A//www.hardcamtube.com/en/policy%23personaldata) for the most accurate reproduction.*
 
 # Policy | Hardcamtube
 
