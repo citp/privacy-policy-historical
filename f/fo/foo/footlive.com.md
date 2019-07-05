@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlive.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226112957id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlive.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705132626id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Footlive.com
 
