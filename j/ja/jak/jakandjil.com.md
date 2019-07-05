@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jakandjil.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120201100id_/http%3A//jakandjil.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakandjil.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705153705id_/http%3A//jakandjil.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# - Jak&Jil
 
 Last updated: June 3, 2015
 
-Mucca Company USA LLC. (“us”, “we”, or “our”) operates the http://www.jakandjil.com website and the Jak & Jil mobile application (the “Service”).
+Mucca Company USA LLC. (“us”, “we”, or “our”) operates the Jak&Jil website and the Jak & Jil mobile application (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
