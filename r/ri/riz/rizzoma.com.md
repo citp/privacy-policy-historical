@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rizzoma.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616055728id_/http%3A//rizzoma.com/about-privacy.html%3Ffrom%3Deducation%26view%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rizzoma.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705154809id_/http%3A//rizzoma.com/about-privacy.html%3Ffrom%3Deducation%26view%3Dprivacy) for the most accurate reproduction.*
 
 # Rizzoma privacy policy
 
@@ -6,7 +6,7 @@
 
 Last updated: January 18, 2013. 
 
-This Privacy Policy describes Rizzoma’s policies and procedures on the collection, use and disclosure of your information when you use the Rizzoma service. By accessing or using the Service, you agree to this Privacy Policy. Basic and General terms of the service disclosed on [Terms of Use](https://web.archive.org/web/20170616055728id_/http%3A//rizzoma.com/about-terms.html). 
+This Privacy Policy describes Rizzoma’s policies and procedures on the collection, use and disclosure of your information when you use the Rizzoma service. By accessing or using the Service, you agree to this Privacy Policy. Basic and General terms of the service disclosed on [Terms of Use](https://web.archive.org/web/20190705154809id_/http%3A//rizzoma.com/about-terms.html). 
 
   
 
