@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the flashgamesplayer.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614000830id_/http%3A//www.flashgamesplayer.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgamesplayer.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705184007id_/https%3A//www.flashgamesplayer.com/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Policy - Flash Games Player
+# Privacy Policy Statement - Flash Games Player
 
-## PRIVACY POLICY
+## This privacy policy sets out how FlashGamesPlayer.com uses and protects any information when you use this website.
 
-### PLEASE READ THESE PRIVACY POLICY CAREFULLY BECAUSE THEY DESCRIBE HOW WWW.FLASHGAMESPLAYER.COM USES AND PROTECTS ANY INFORMATION
+This privacy policy sets out how www.FlashGamesPlayer.com uses and protects any information that you give www.FlashGamesPlayer.com when you use this website.
 
-This privacy policy sets out how WWW.FLASHGAMESPLAYER.COM uses and protects any information that you give WWW.FLASHGAMESPLAYER.COM when you use this website.
+www.FlashGamesPlayer.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-WWW.FLASHGAMESPLAYER.COM is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+www.FlashGamesPlayer.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2008.
 
-WWW.FLASHGAMESPLAYER.COM may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2008.
-
-### What we collect
+## What we collect
 
 We may collect the following information:
 
@@ -24,7 +22,7 @@ We may collect the following information:
 
 * other information relevant to customer surveys and/or offers
 
-### What we do with the information we gather
+## What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -39,11 +37,11 @@ We require this information to understand your needs and provide you with a bett
 * We may use the information to customise the website according to your interests.  
 
 
-### Security
+## Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### How we use cookies
+## How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -53,22 +51,22 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-### Advertising
+## Advertising
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-### Links to other websites
+## Links to other websites
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### Controlling your personal information
+## Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
 * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
 
 
-* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@flashgamesplayer.com or [Contact us](https://web.archive.org/contact.html "Contact us")  
+* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time email us following this [Contact us](https://web.archive.org/contact-us.html "Contact us")  
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
