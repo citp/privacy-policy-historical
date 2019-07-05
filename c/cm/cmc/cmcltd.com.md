@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmcltd.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629171012id_/http%3A//cmcltd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmcltd.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706013655id_/http%3A//cmcltd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for cmcltd.com
 
@@ -30,9 +30,11 @@ Third-party disclosure
 
 cmcltd.com does not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
-COPPA (Children Online Privacy Protection Act)
+Third-party links
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+cmcltd.com does not include or offer third-party products or services on our website.
+
+COPPA (Children Online Privacy Protection Act)
 
 cmcltd.com does not specifically market to children under 13.
 
