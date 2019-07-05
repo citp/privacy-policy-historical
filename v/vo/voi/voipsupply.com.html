@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the voipsupply.com privacy policy that was archived on 2019-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190623192857id_/https%3A//www.voipsupply.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the voipsupply.com privacy policy that was archived on 2019-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190705220958id_/https%3A//www.voipsupply.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,7 +25,7 @@
 <script type="text/javascript" src="https://www.voipsupply.com/js/lib/ds-sleight.js?m=1527794368"></script>
 <script type="text/javascript" src="https://www.voipsupply.com/skin/frontend/base/default/js/ie6.js?m=1527794370"></script>
 <![endif]-->
-<script async="" src="//static.olark.com/jsclient/loader.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580447700000/464097.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.voipsupply.com/combined/f0c85752cd532bb804c18c4e6d12c1a9.js"></script>
+<script async="" src="//static.olark.com/jsclient/loader.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580447700000/464097.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.voipsupply.com/combined/8d694e8dcec81f20aadcf756440146b3.js"></script>
 <link rel="stylesheet" type="text/css" href="https://www.voipsupply.com/combined/8b7aa18cd19ec0e3ae532f1097475e74.css">
 <link rel="stylesheet" type="text/css" href="https://www.voipsupply.com/combined/b0808283c8d31dac25b6e4f309094972.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.voipsupply.com/combined/8745f57ea65c76ac1da21f13cdec98d9.css" media="print">
@@ -104,7 +104,7 @@ optionalZipCountries = [];
     if (!nxtOptions.customOptions) {
         nxtOptions.customOptions = {};
     }
-    nxtOptions.customOptions.formKey = '35oBW8pNauBCmjpL';
+    nxtOptions.customOptions.formKey = 'UlNJ2SmIgQnyr6Qm';
     nxtOptions.customOptions.groupId = '';
 
 </script>
@@ -1166,21 +1166,36 @@ optionalZipCountries = [];
 <li>Never any spam</li>
 </ul>                </div>
                 <div class="col-md-4 text-sm-center text-md-left">
-                    <p></p><div id="Hubspotapi_5d0fc1d0409f8" class="hubspot-signup">
+                    <p></p><div id="Hubspotapi_5d1fba6478138" class="hubspot-signup">
     <form method="post" action="https://www.voipsupply.com/hubspotapi/signup/signup/" onsubmit="HubspotApi_Signup(this); return false;">
         <div class="hbox"><input type="text" name="prospectus" value=""></div>
         <div class="hbox"><input class="input-text" type="text" name="email_addr" placeholder="your@email.com"></div>
         <div class="d-flex">
             <div class="flex-grow">
-                <input class="input-text" type="text" name="name" placeholder="your@email.com">
+                <input class="input-text" type="text" name="name" placeholder="your@email.com" onfocus="grecaptcha.execute();" onchange="grecaptcha.execute();" onblur="grecaptcha.execute();">
             </div>
             <button class="submit btn" type="submit"><i class="material-icons search">playlist_add_check</i></button>
         </div>
-
         <input type="hidden" name="store_id" value="2">
         <input type="hidden" name="redir_url" value="https://www.voipsupply.com/subscribe/success">
+        <input type="hidden" name="g-response" id="signup-g-response" value="">
     </form>
-</div><p></p>
+</div>
+<!-- required to be here as we are hiding the large google box -->
+<small>This site is protected by reCAPTCHA and the Google
+    <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+    <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+</small>
+<div style="visibility: hidden; height: 0; width: 0; overflow: hidden">
+    <div class="g-recaptcha recaptcha-hidden" sitekey="6Ld-0WAUAAAAALWl1fl_RL66J7rqPmlWzPG2YOqt" data-sitekey="6Ld-0WAUAAAAALWl1fl_RL66J7rqPmlWzPG2YOqt" data-badge="inline" data-callback="footerSignup" data-size="invisible">
+    </div>
+</div>
+<script type="text/javascript">
+    function footerSignup(token) {
+        jQuery('#signup-g-response').val(token);
+    }
+</script>
+<p></p>
 <p><span style="font-size: x-small;">By signing up, you agree to receive our&nbsp;<span style="text-decoration: underline;"><strong><a href="/email-opt-in-consent" target="_blank">email communications</a></strong></span></span></p>                </div>
             </div>
         </div>
