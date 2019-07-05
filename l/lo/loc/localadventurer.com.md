@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localadventurer.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517224834id_/https%3A//localadventurer.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localadventurer.com privacy policy that was archived on 2019-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190705142053id_/https%3A//localadventurer.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure » Local Adventurer » Travel Adventures in NYC + World Wide
 
