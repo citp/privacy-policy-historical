@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310130911id_/https%3A//www.denniskirk.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706112906id_/https%3A//www.denniskirk.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy | Dennis Kirk
 
