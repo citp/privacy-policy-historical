@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the klook.com privacy policy that was archived on 2019-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190523000418id_/https%3A//www.klook.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the klook.com privacy policy that was archived on 2019-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190706224748id_/https%3A//www.klook.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
     <link rel="dns-prefetch" href="https://res.klook.com">
     <link rel="dns-prefetch" href="https://cdn.klook.com">
 
-    <script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5NWTPH"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NC2F2B"></script><script>
+    <script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5NWTPH"></script><script>
         //first register on error, so if the onerror not registerd, the error 
         //before the register is also cpatured
         var _window_error_list = [];
@@ -48,6 +48,7 @@
         <meta name="baidu-site-verification" content="Ty9XLxZolV">
         <meta http-equiv="Cache-control" content="no-transform">
         <meta http-equiv="content-language" content="en">
+        <meta name="google-site-verification" content="m-vUVyQRvMiIbMOyDm-13PmkhgZHQ0O3JqRVkfSB7uw">
         <meta property="fb:pages" content="1437638383172374">
         <link rel="canonical" href="https://www.klook.com/policy/">
             <link rel="alternate" href="https://www.klook.com/policy/" hreflang="en">
@@ -77,14 +78,6 @@
             </script>
         
             <!-- this is klook gtm for whole website -->
-            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NC2F2B"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-NC2F2B');</script>
-            <!-- End Google Tag Manager -->
         
             <!-- Google Tag Manager New-->
             <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NWTPH"
@@ -110,7 +103,7 @@
         
 
 
-<link rel="stylesheet" href="https://cdn.klook.com/s/dist_web/assert/desktop/css/pages/conditions-887c137586.css">
+<link rel="stylesheet" href="https://cdn.klook.com/s/dist_web/assert/desktop/css/pages/conditions-8d469da134.css">
 
   </head>
 
@@ -149,7 +142,6 @@
             	</div>
             </article>
             
-            
             <header class="flex-row m_header g_row0  shadow_box__2 ">
                 <a href="/" class="header-flex-logo logo_div" data-track-event="Others|Logo Clicked">
             
@@ -162,11 +154,14 @@
             
                 </a>
             
-            		<div class="header-flex-search g_ib explor g_abs navContainer ">
+                <div class="nav_search_menu_wrapper"></div>
+            
+                <div class="header-flex-search g_ib explor g_abs navContainer ">
             
                         <!-- <a id="h-explor" class="g_ib" >  Explore by city  <i class="klook-icon-down t12 g_scale07" ></i> </a> -->
                         <div class="h_explorContainer">
                             
+            
             
             
             
@@ -542,6 +537,67 @@
                 {{/if}}
             </script>
             
+            <script type="text/x-template" id="tpl_nav_search_menu">
+                <div class="nav_search_menu">
+                <svg class="klook-symbol nav_search_menu__icon">
+                    <use xlink:href="#icon-24-menu"></use>
+                </svg>
+                <span class="nav_search_menu__txt">Categories</span>
+            
+                <ul class="nav_search_menu__list">
+                    {{#menus}}
+                        {{#if (equal type 'things_to_do')}}
+                            <div class="nav_search_menu__item_wrapper">
+                                <a href="{{deep_link}}?is_from_nav_search_menu=true" class="nav_search_menu__item j-nav_search_menu_thing" data-track-event="Category Page|Things To Do Clicked (plan B)" data-id="{{id}}">
+                                    <svg class="klook-symbol nav_search_menu__item_icon nav_search_menu__icon_things">
+                                        <use xlink:href="#icon-{{icon_url}}"></use>
+                                    </svg>
+                                    <p class="nav_search_menu__item_txt nav_search_menu__item_txt--title">{{content}}</p>
+                                    <svg class="klook-symbol nav_search_menu__item_icon nav_search_menu__icon_arrow">
+                                        <use xlink:href="#icon-arrow-standard-right"></use>
+                                    </svg>
+                                </a>
+                                {{#children}}
+                                    <a href="{{deep_link}}&is_from_nav_search_menu=true" class="nav_search_menu__item j-nav_search_menu_thing" data-track-event="Category Page|Category Clicked|{{id}}" data-id="{{id}}">
+                                        <p class="nav_search_menu__item_txt">{{content}}</p>
+                                    </a>
+                                {{/children}}
+                            </div>
+            
+                        {{else if (equal type 'wifi_and_sim_card')}}
+                            <div class="nav_search_menu__item_wrapper">
+                                <a class="nav_search_menu__item">
+                                    <svg class="klook-symbol nav_search_menu__item_icon nav_search_menu__icon_wifi">
+                                        <use xlink:href="#icon-{{icon_url}}"></use>
+                                    </svg>
+                                    <p class="nav_search_menu__item_txt nav_search_menu__item_txt--title">{{content}}</p>
+                                </a>
+                                {{#children}}
+                                    <a href="{{deep_link}}" class="nav_search_menu__item j-nav_search_menu_item" data-type="{{type}}">
+                                        <p class="nav_search_menu__item_txt">{{content}}</p>
+                                    </a>
+                                {{/children}}
+                            </div>
+            
+                        {{else if (equal type 'railways')}}
+                        <div class="nav_search_menu__item_wrapper">
+                            <a class="nav_search_menu__item">
+                                <svg class="klook-symbol nav_search_menu__item_icon nav_search_menu__icon_wifi">
+                                    <use xlink:href="#icon-{{icon_url}}"></use>
+                                </svg>
+                                <p class="nav_search_menu__item_txt nav_search_menu__item_txt--title">{{content}}</p>
+                            </a>
+                            {{#children}}
+                                <a href="{{deep_link}}" class="nav_search_menu__item j-nav_search_menu_item" data-type="{{type}}">
+                                    <p class="nav_search_menu__item_txt">{{content}}</p>
+                                </a>
+                            {{/children}}
+                        </div>
+                        {{/if}}
+                    {{/menus}}
+                </ul>
+            </div>
+            </script>
             
             <script type="text/x-template" id="tpl_city_country_list">
                 {{#data}}
@@ -549,10 +605,10 @@
                     {{#if (equal type 'europerail')}}
                     <div class='search_list'>
                         <div class='align_center'>
-                            <svg class="klook-symbol search_travel_service__icon t_black t20" aria-hidden="true">
-                                <use xlink:href="#icon-er_station"></use>
+                            <svg class="klook-symbol search_list_travel_service__icon" aria-hidden="true">
+                                <use xlink:href="#icon-rail-suggest"></use>
                             </svg>
-                            <a href="/{{@root._lang_path}}europe-rail/"  data-role="suggest-travel_services" data-id="{{id}}" class="t_black w400">{{name}}</a>
+                            <a href="/{{@root._lang_path}}europe-rail/"  data-role="suggest-travel_services" data-vertical-type="Europe Rail Vertical Page" data-id="{{id}}" class="t_black w400 j-suggest-travel_service">{{name}}</a>
                         </div>
                     </div>
                     {{/if}}
@@ -561,18 +617,18 @@
                     <div class='search_list'>
                         <div class='align_center'>
                             <svg class="klook-symbol search_travel_service__icon t_black t20" aria-hidden="true">
-                                <use xlink:href="#icon-wifi-suggest"></use>
+                                <use xlink:href="#icon-wifi-suggest-2"></use>
                             </svg>
-                            <a href="/{{@root._lang_path}}wifi-sim-card/"  data-role="suggest-travel_services" data-id="{{id}}" class="t_black w400">{{name}}</a>
+                            <a href="/{{@root._lang_path}}wifi-sim-card/"  data-role="suggest-travel_services" data-vertical-type="WiFi & SIM" data-id="{{id}}" class="t_black w400 j-suggest-travel_service">{{name}}</a>
                         </div>
                     </div>
                     {{/if}}
                     {{#if (equal type 'ysim_buy')}}
                         <div>
-                            <a href="/{{@root._lang_path}}activity/{{id}}"  data-role="suggest-travel_services" data-id="{{id}}">
+                            <a href="/{{@root._lang_path}}activity/{{id}}"  data-role="suggest-travel_services" data-vertical-type="YSIM" data-id="{{id}}" class="j-suggest-travel_service">
                                 <div class='search_list_travel_service'>
                                     <svg class="klook-symbol search_list_travel_service__icon" aria-hidden="true">
-                                        <use xlink:href="#icon-ysimcard"></use>
+                                        <use xlink:href="#icon-ysimcard-suggest"></use>
                                     </svg>
                                     <p class='search_list_travel_service__name'>{{name}}</p>
                                 </div>
@@ -581,10 +637,10 @@
                     {{/if}}
                     {{#if (equal type 'ysim_top_up')}}
                         <div>
-                            <a href="/{{@root._lang_path}}activity/{{id}}"  data-role="suggest-travel_services" data-id="{{id}}">
+                            <a href="/{{@root._lang_path}}activity/{{id}}"  data-role="suggest-travel_services" data-vertical-type="YSIM Top Up" data-id="{{id}}" class="j-suggest-travel_service">
                                 <div class='search_list_travel_service'>
                                     <svg class="klook-symbol search_list_travel_service__icon" aria-hidden="true">
-                                        <use xlink:href="#icon-ysimcard"></use>
+                                        <use xlink:href="#icon-ysimcard-suggest"></use>
                                     </svg>
                                     <p class='search_list_travel_service__name'>{{name}}</p>
                                 </div>
@@ -596,15 +652,25 @@
                 {{#each countries}}
                 <div class='search_list'>
                     <div>
-                        <i class="klook-icon-map"></i>
-                        <a href="/{{@root._lang_path}}search?type=country&query={{url_encode name}}"  data-role="suggest-country" data-id="{{id}}" class="t_black w400">{{name}}</a>
+                        <svg class="klook-symbol search_list_travel_service__icon" aria-hidden="true">
+                            <use xlink:href="#icon-icon-map"></use>
+                        </svg>
+                        <a href="/{{@root._lang_path}}search/?query={{url_encode name}}"  data-role="suggest-country" data-id="{{id}}" class="t_black w400">{{name}}</a>
                     </div>
                 </div>
                 {{/each}}
                 {{#each cities}}
                 <div class="search_list">
                     <div>   
-                        <i class="klook-icon-map"></i>
+                        {{#if (eq city_type 'rail')}}
+                            <svg class="klook-symbol search_list_travel_service__icon" aria-hidden="true">
+                                <use xlink:href="#icon-rail-suggest"></use>
+                            </svg>
+                        {{else}}
+                            <svg class="klook-symbol search_list_travel_service__icon" aria-hidden="true">
+                                <use xlink:href="#icon-icon-map"></use>
+                            </svg>
+                        {{/if}}
                         <a href="/{{@root._lang_path}}city/{{id}}/?krt={{../stat.klook_referral_type}}&krid={{../stat.klook_referral_id}}"  data-role="suggest-city" data-url-seo="{{seo}}" data-id="{{id}}" class="t_black w400">{{city_name}}</a>
                     </div>
                 </div>
@@ -699,7 +765,7 @@
                             </a>
                         {{/if}}
                         <div class="list">
-                            <div class="_left g_ib g_left"><b><a href="/{{@root._lang_path}}search?type=country&query={{url_encode country_name}}">{{country_name}}</a></b></div>
+                            <div class="_left g_ib g_left"><b><a href="/{{@root._lang_path}}search/?query={{url_encode country_name}}" data-country-name="{{country_name}}" data-country-id="{{country_id}}">{{country_name}}</a></b></div>
             
                             <div class="_right g_ib">
                                 {{#cities}}
@@ -735,6 +801,22 @@
             <script type="text/x-template" id="tpl_city_country_loading">
                 <div class='loading_city_country '>
                     <div class="uil-ring-css"><div></div></div>
+                </div>
+            </script>
+            
+            <script type="text/x-template" id="tpl_after_signup_alert">
+                {{#if haslink}}
+                <div class="after_signup_alert haslink">
+                {{else}}
+                <div class="after_signup_alert">
+                {{/if}}
+                    <svg class="klook-icon"><use xlink:href="#icon-confirm-color-customizable"></use></svg>
+                    <p>
+                        {{{detail}}}
+                    </p>
+                    {{#if haslink}}
+                    <i class="klook-icon-close"></i>
+                    {{/if}}
                 </div>
             </script>
 
@@ -919,7 +1001,7 @@
 <li>11.2 Klook Coupons <br>
 
 <ul>
-<li>11.2.1 Klook Coupons are coupons with a one-time use that will be sent to your designated email address or applied directly to your Klook Account, which may be used in exchange for discounts off future bookings on the Klook Booking Platform. </li>
+<li>11.2.1 Klook Coupons are coupons with a one-time use and will not be returned if used that will be sent to your designated email address or applied directly to your Klook Account, which may be used in exchange for discounts of future bookings on the Klook Booking Platform. For the avoidance of doubt, once you have used the Klook Coupons on the Klook Booking Platform, such Klook Coupons will not be returned or refunded under any circumstances.</li>
 <li>11.2.2 Klook Credits may be attained through the following means: (a) You may receive Klook Coupons through the Klook Referral Program, as further elaborated on in Clause 11; or (b) You may receive Klook Coupons by other authorized means as determined at Klook’s sole discretion. </li></ul></li>
 <li>11.3 Abuse of Discounts <br>
 
@@ -1043,7 +1125,7 @@
 <li>22.1 Please contact Klook at support@klook.com to report any violations of this Terms of Use or to pose any questions regarding this Terms of Use or the Service.</li></ul>
 <p></p></li>
 </ul>
-<i>Last updated on 19th Dec 2018.</i><p></p>
+&lt;i&gt;Last updated on 19th Dec 2018.&lt;/i&gt;<p></p>
 </div>
 
 <div class="policy j_policy f_hidden">
@@ -1133,7 +1215,7 @@ Last updated on: 25th February 2019.<p></p>
 <div class="cookiepolicy j_cookiepolicy f_hidden">
     <h1 id="cookiepolicy">Cookie Policy</h1>
 <p>At Klook, we strive to enhance your experience during your trip and using this Website. In general, we use cookies to manage the Website and improve your overall site experience.</p>
-<p>Your data privacy and confidentiality are our top priority and we do our very best to safeguard the information you entrusted to us. For more information, you can review our <a style="color:grey" href="/policy">Privacy Notice</a> here.  </p>
+<p>Your data privacy and confidentiality are our top priority and we do our very best to safeguard the information you entrusted to us. For more information, you can review our &lt;a style="color:grey" href="/policy"&gt;Privacy Notice&lt;/a&gt; here.  </p>
 <p>This section about cookies sets out the basis and terms upon which Klook uses cookies.</p>
 <p><strong>What are cookies?</strong></p>
 <p>Cookies are widely used in the Internet. They are small text files stored in your browser that contain basic information about your internet use, such as login details and your previous browsing records.</p>
@@ -1145,19 +1227,19 @@ Last updated on: 25th February 2019.<p></p>
 <p><strong><em>(ii) First-party cookies and Third-party cookies</em></strong></p>
 <p>We control and set the scope of <strong>first-party cookies</strong> whereas, we have no control over <strong>third-party cookies</strong>. Third-party cookies are operated by third-party sites in a different domain. Some pages of this Website contain third-party cookies in the form of embedded content, such as JavaScript and API.</p>
 <p><strong><em>Why do we use cookies?</em></strong></p>
-<p>We are committed to providing you with a safe, efficient and customised service. To reach this goal, we use cookies to:</p><p></p><p></p>
+<p>We are committed to providing you with a safe, efficient and customised service. To reach this goal, we use cookies to:&lt;p&gt;&lt;/p&gt;</p>
 <ul>
-<li>•&nbsp;ensure the efficient functioning of this Website;</li>
-<li>•&nbsp;evaluate how this Website is accessed and used;</li>
-<li>•&nbsp;analyse what destinations are popular among visitors;</li>
-<li>•&nbsp;determine your eligibility for campaigns and promotions;</li>
-<li>•&nbsp;recommend the places that match your interests; and</li>
-<li>•&nbsp;improve the content of this Website and enhance user's experience.</li>
+<li>•&amp;nbsp;ensure the efficient functioning of this Website;</li>
+<li>•&amp;nbsp;evaluate how this Website is accessed and used;</li>
+<li>•&amp;nbsp;analyse what destinations are popular among visitors;</li>
+<li>•&amp;nbsp;determine your eligibility for campaigns and promotions;</li>
+<li>•&amp;nbsp;recommend the places that match your interests; and</li>
+<li>•&amp;nbsp;improve the content of this Website and enhance user's experience.</li>
 </ul>
 <p>We will ensure that cookies will not be used for any purpose other than those described here.</p>
 <p><strong><em>What types of cookies do we use?</em></strong></p>
 <p>We use four types of cookies, namely "Strictly necessary cookies", "Essential cookies," "Analytics cookies", and "Advertising cookies". Further information on these cookies is set out in the table below:</p>
-<figure><table><thead><tr><th style="text-align:left;">Cookies</th><th>Description</th></tr></thead><tbody><tr><td style="text-align:left;">Strictly necessary cookies </td><td>These cookies allow us to manage this Website and ensure it functions properly. They are essential to help you navigate around this Website and provide you with an improved surfing experience.<br>If these cookies are disabled, we will not be in a position to offer you our services.<br> We also use these cookies for fraud detection and prevention purposes. Further, thanks to these cookies, you do not need to log in repeatedly to access different pages once you have logged into this Website. </td></tr><tr><td style="text-align:left;">Analytics cookies </td><td>We use analytics cookies including Google Analytics and other analytics tools to gather anonymous statistical information for: <br>•&nbsp;assessing how our visitors use this Website;<br>•&nbsp;understanding the demographic and location of our visitors;<br>•&nbsp;evaluating how our new products are being received by usersassessing the popularity of our marketing campaign;<br>•&nbsp;enhancing this Website content and service by customising this Website for you. <br>Based on the anonymous data collected, these analytics tools will generate trend analysis and compile reports to attain the abovementioned purposes. </td></tr><tr><td style="text-align:left;">Advertising cookies</td><td>Advertising cookies enable us to limit the number of times you see the same ad and to ensure that the ad content is relevant to your interests. These cookies, together with an identifier linked to your IP address, can track your activity across various websites and thus display ads in accordance to your preference. </td></tr></tbody></table></figure>
+<p>&lt;figure&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style="text-align:left;"&gt;Cookies&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align:left;"&gt;Strictly necessary cookies &lt;/td&gt;&lt;td&gt;These cookies allow us to manage this Website and ensure it functions properly. They are essential to help you navigate around this Website and provide you with an improved surfing experience.&lt;br&gt;If these cookies are disabled, we will not be in a position to offer you our services.&lt;br&gt; We also use these cookies for fraud detection and prevention purposes. Further, thanks to these cookies, you do not need to log in repeatedly to access different pages once you have logged into this Website. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left;"&gt;Analytics cookies &lt;/td&gt;&lt;td&gt;We use analytics cookies including Google Analytics and other analytics tools to gather anonymous statistical information for: &lt;br&gt;•&amp;nbsp;assessing how our visitors use this Website;&lt;br&gt;•&amp;nbsp;understanding the demographic and location of our visitors;&lt;br&gt;•&amp;nbsp;evaluating how our new products are being received by usersassessing the popularity of our marketing campaign;&lt;br&gt;•&amp;nbsp;enhancing this Website content and service by customising this Website for you. &lt;br&gt;Based on the anonymous data collected, these analytics tools will generate trend analysis and compile reports to attain the abovementioned purposes. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="text-align:left;"&gt;Advertising cookies&lt;/td&gt;&lt;td&gt;Advertising cookies enable us to limit the number of times you see the same ad and to ensure that the ad content is relevant to your interests. These cookies, together with an identifier linked to your IP address, can track your activity across various websites and thus display ads in accordance to your preference. &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</p>
 <p><strong><em>Consent to cookies</em></strong></p>
 <p>In most cases we will need your consent in order to use cookies on this Website. The exception is where the cookies are strictly necessary in order for us to provide you with a service you have requested, or essential to the inherent functionality of the Website.</p>
 <p>Upon your first visit to our Website, you will see a notification banner at the top of the page notifying you about our use of cookies. By continuing to use this Website without changing your settings, you agree to receive all cookies and other data tracking tools. On the other hand, if you do not wish to accept the use of these cookies, you can modify your cookie setting at any time. For more details, please refer to "How can you manage your consent?" section below.</p>
@@ -1165,11 +1247,11 @@ Last updated on: 25th February 2019.<p></p>
 <p>You can accept or decline our use of cookies at any time by managing and/or disabling all or some of the cookies from your browser settings. However, by doing so, you may not be able to enjoy the full functionality of this Website.</p>
 <p>Cookies settings can normally be found in the preference or settings menu from your browser, for example:</p>
 <ul>
-<li>•&nbsp;Chrome: Settings -- Advanced -- Content Settings -- Cookies</li>
-<li>•&nbsp;Safari: Preferences -- Privacy -- Cookies and website data</li>
-<li>•&nbsp;Firefox: Preferences -- Privacy -- History</li>
-<li>•&nbsp;Internet Explorer: Internet Options -- Privacy</li>
-<li>•&nbsp;Opera: Settings -- Privacy &amp; security -- Cookies</li>
+<li>•&amp;nbsp;Chrome: Settings -- Advanced -- Content Settings -- Cookies</li>
+<li>•&amp;nbsp;Safari: Preferences -- Privacy -- Cookies and website data</li>
+<li>•&amp;nbsp;Firefox: Preferences -- Privacy -- History</li>
+<li>•&amp;nbsp;Internet Explorer: Internet Options -- Privacy</li>
+<li>•&amp;nbsp;Opera: Settings -- Privacy &amp; security -- Cookies</li>
 </ul>
 <p>Last Updated : 3 October 2018</p>
 </div>
@@ -1331,6 +1413,7 @@ Last updated on: 25th February 2019.<p></p>
         				<span class="m_justify_fix"></span>
         			</div>
         		</div>
+        
         	</footer>
 
 
@@ -1360,15 +1443,16 @@ Last updated on: 25th February 2019.<p></p>
         var KLK_LANG_PATH = '';
         var KLK_CURRENCY = 'USD';
         var KLK_IP_COUNTRY = 'US';
-        var KLK_PAGE_DATA = {"_lang":"en","_res_en_lang":"en","_url_path":"/policy/","_lang_path":"","_env":"prd","_platform":"desktop","_currency_list":{"suggestCurrency":[{"value":"SGD","name":"Singapore Dollar"},{"value":"HKD","name":"Hong Kong Dollar"},{"value":"PHP","name":"Philippine Peso"},{"value":"MYR","name":"Malaysian Ringgit"},{"value":"TWD","name":"New Taiwan Dollar"},{"value":"USD","name":"U.S. Dollar"},{"value":"CNY","name":"Chinese Yuan"},{"value":"KRW","name":"Korean Won"}],"otherCurrency":[{"value":"AED","name":"U.A.E Dirham"},{"value":"AUD","name":"Australian Dollar"},{"value":"CAD","name":"Canadian Dollar"},{"value":"CHF","name":"Swiss Franc"},{"value":"DKK","name":"Danish Krone"},{"value":"EGP","name":"Egyptian Pound"},{"value":"EUR","name":"Euro"},{"value":"FJD","name":"Fijian Dollar"},{"value":"GBP","name":"British Pound"},{"value":"IDR","name":"Indonesian Rupiah"},{"value":"INR","name":"Indian Rupee"},{"value":"ISK","name":"Icelandic Krona"},{"value":"JOD","name":"Jordanian Dinar"},{"value":"JPY","name":"Japanese Yen"},{"value":"KHR","name":"Cambodian Riel"},{"value":"LAK","name":"Lao Kip"},{"value":"LBP","name":"Lebanese Pound"},{"value":"MAD","name":"Moroccan Dirham"},{"value":"MGA","name":"Malagasy Ariary"},{"value":"MMK","name":"Burmese Kyat"},{"value":"MOP","name":"Macau Pataca"},{"value":"MUR","name":"Mauritian Rupee"},{"value":"MXN","name":"Mexican Peso"},{"value":"NOK","name":"Norwegian Krone"},{"value":"NZD","name":"New Zealand Dollar"},{"value":"OMR","name":"Omani Rial"},{"value":"QAR","name":"Qatar Riyal"},{"value":"RUB","name":"Russian Ruble"},{"value":"SEK","name":"Swedish Krona"},{"value":"THB","name":"Thai Baht"},{"value":"TRY","name":"Turkish Lira"},{"value":"VND","name":"Vietnamese Dong"},{"value":"ZAR","name":"South African Rand"}]},"_currency":"USD","_currency_symbo":"US$","_symbo_list":{"HKD":"HK$","USD":"US$","TWD":"NT$","SGD":"S$","CNY":"¥","AUD":"AUD","GBP":"£","LAK":"₭","EUR":"€","THB":"฿","NZD":"NZ$","MYR":"RM","JPY":"¥","AED":"AED","PHP":"₱","KRW":"₩","VND":"₫","IDR":"Rp","SEK":"kr","NOK":"kr","DKK":"kr","CHF":"CHF","RUB":"₽","TRY":"YTL","ISK":"kr","INR":"₹","KHR":"KHR","MMK":"BUK","MOP":"MOP$","QAR":"QR","OMR":"OMR","JOD":"JOD","LBP":"LBP","FJD":"$","CAD":"CAD","MUR":"Rs","MXN":"$","MAD":"DH","EGP":"EGP","ZAR":"R","MGA":"MGA"},"_currency_rate":{"USDHKD":7.84991,"CNYHKD":1.136709,"EURHKD":8.755494,"GBPHKD":9.936802,"AUDHKD":5.397703,"SGDHKD":5.692362,"TWDHKD":0.249377,"THBHKD":0.245666,"JPYHKD":0.071162,"KRWHKD":0.006595,"IDRHKD":0.000541,"PHPHKD":0.149717,"LAKHKD":0.000909,"MYRHKD":1.873487,"VNDHKD":0.000336,"AEDHKD":2.13704,"NZDHKD":5.096918,"ISKHKD":0.063224,"SEKHKD":0.81408,"NOKHKD":0.896758,"DKKHKD":1.172315,"CHFHKD":7.778893,"RUBHKD":0.122064,"TRYHKD":1.286174,"INRHKD":0.112597,"KHRHKD":0.001935,"MMKHKD":0.005102,"QARHKD":2.155818,"OMRHKD":20.39027,"JODHKD":11.081069,"LBPHKD":0.005209,"AFNHKD":0.097875,"ALLHKD":0.071603,"AMDHKD":0.016366,"ANGHKD":4.186378,"AOAHKD":0.02387,"ARSHKD":0.175738,"AWGHKD":4.361042,"AZNHKD":4.604052,"BAMHKD":4.482958,"BBDHKD":3.941694,"BDTHKD":0.092899,"BGNHKD":4.477579,"BHDHKD":20.822055,"BIFHKD":0.004255,"BMDHKD":7.84991,"BNDHKD":5.812365,"BOBHKD":1.13596,"BRLHKD":1.953827,"BSDHKD":7.84991,"BTCHKD":61842.322362,"BTNHKD":0.112615,"BWPHKD":0.730017,"BYNHKD":3.783164,"BYRHKD":0.000401,"BZDHKD":3.89446,"CADHKD":5.855727,"CDFHKD":0.004758,"CLFHKD":310.848617,"CLPHKD":0.011267,"COPHKD":0.002353,"CRCHKD":0.013367,"CUCHKD":7.84991,"CUPHKD":0.296222,"CVEHKD":0.079084,"CZKHKD":0.339322,"DJFHKD":0.04417,"DOPHKD":0.154876,"DZDHKD":0.065629,"EGPHKD":0.463397,"ERNHKD":0.523316,"ETBHKD":0.272046,"FJDHKD":3.626486,"FKPHKD":9.944114,"GELHKD":2.823646,"GGPHKD":9.935321,"GHSHKD":1.509334,"GIPHKD":9.943521,"GMDHKD":0.158343,"GNFHKD":0.00085,"GTQHKD":1.022819,"GYDHKD":0.037401,"HKDHKD":1,"HNLHKD":0.318777,"HRKHKD":1.179475,"HTGHKD":0.087599,"HUFHKD":0.026822,"ILSHKD":2.171779,"IMPHKD":9.935321,"IQDHKD":0.006597,"IRRHKD":0.000186,"JEPHKD":9.935321,"JMDHKD":0.058355,"KESHKD":0.077484,"KGSHKD":0.112383,"KMFHKD":0.017787,"KPWHKD":0.008721,"KWDHKD":25.788483,"KYDHKD":9.419744,"KZTHKD":0.020719,"LKRHKD":0.04446,"LRDHKD":0.043262,"LSLHKD":0.546656,"LTLHKD":2.658507,"LVLHKD":12.977406,"LYDHKD":5.598853,"MADHKD":0.810293,"MDLHKD":0.435753,"MGAHKD":0.002131,"MKDHKD":0.142427,"MNTHKD":0.002967,"MOPHKD":0.970822,"MROHKD":0.021988,"MURHKD":0.221497,"MVRHKD":0.508074,"MWKHKD":0.01092,"MXNHKD":0.413794,"MZNHKD":0.124521,"NADHKD":0.546655,"NGNHKD":0.021745,"NIOHKD":0.238609,"NPRHKD":0.070362,"PABHKD":7.850649,"PENHKD":2.347242,"PGKHKD":2.325993,"PKRHKD":0.051517,"PLNHKD":2.033516,"PYGHKD":0.001244,"RONHKD":1.83784,"RSDHKD":0.07423,"RWFHKD":0.008674,"SARHKD":2.093246,"SBDHKD":0.956655,"SCRHKD":0.574599,"SDGHKD":0.174009,"SHPHKD":5.942795,"SLLHKD":0.000877,"SOSHKD":0.013476,"SRDHKD":1.052548,"STDHKD":0.000373,"SVCHKD":0.897155,"SYPHKD":0.015242,"SZLHKD":0.545906,"TJSHKD":0.832022,"TMTHKD":2.236431,"TNDHKD":2.60976,"TOPHKD":3.414624,"TTDHKD":1.158731,"TZSHKD":0.003413,"UAHHKD":0.29775,"UGXHKD":0.002087,"UYUHKD":0.222437,"UZSHKD":0.000928,"VEFHKD":0.785971,"VUVHKD":0.067351,"WSTHKD":2.952927,"XAFHKD":0.013365,"XAGHKD":113.558937,"XAUHKD":10008.832595,"XCDHKD":2.904511,"XDRHKD":10.811746,"XOFHKD":0.013366,"XPFHKD":0.073155,"YERHKD":0.031356,"ZARHKD":0.546272,"ZMKHKD":0.000872,"ZMWHKD":0.568666,"ZWLHKD":0.024352},"_ip_country":"US","_user_ip":"207.241.229.225","_session":"05A5274EF9CB507AF58BEFBBCD05C3DA","_time":1558569859218,"_show_mobile10":true,"_canonical_path":"/policy/","_util_config":{"domain":"https://www.klook.com","user_center_path":1,"hello_user_name":1,"index_invite":1,"footer":1,"downland_bar":1,"banner_ad":1,"faq_klook":1,"chat_with_klook":1,"use_coupons_credits":1,"pay_success_book_url":false},"_webp_support":0,"_k_logged":0,"_is_from_app":false,"_pay_icon":["newVisa","newMaster","newPaypal","newAE","applepay","googlepay","alipay"]};
+        var KLK_PAGE_DATA = {"_lang":"en","_res_en_lang":"en","_url_path":"/policy/","_lang_path":"","_env":"prd","_platform":"desktop","_currency_list":{"suggestCurrency":[{"value":"SGD","name":"Singapore Dollar"},{"value":"HKD","name":"Hong Kong Dollar"},{"value":"PHP","name":"Philippine Peso"},{"value":"MYR","name":"Malaysian Ringgit"},{"value":"TWD","name":"New Taiwan Dollar"},{"value":"USD","name":"U.S. Dollar"},{"value":"CNY","name":"Chinese Yuan"},{"value":"KRW","name":"Korean Won"}],"otherCurrency":[{"value":"AED","name":"U.A.E Dirham"},{"value":"AUD","name":"Australian Dollar"},{"value":"CAD","name":"Canadian Dollar"},{"value":"CHF","name":"Swiss Franc"},{"value":"DKK","name":"Danish Krone"},{"value":"EGP","name":"Egyptian Pound"},{"value":"EUR","name":"Euro"},{"value":"FJD","name":"Fijian Dollar"},{"value":"GBP","name":"British Pound"},{"value":"IDR","name":"Indonesian Rupiah"},{"value":"INR","name":"Indian Rupee"},{"value":"ISK","name":"Icelandic Krona"},{"value":"JOD","name":"Jordanian Dinar"},{"value":"JPY","name":"Japanese Yen"},{"value":"KHR","name":"Cambodian Riel"},{"value":"LAK","name":"Lao Kip"},{"value":"LBP","name":"Lebanese Pound"},{"value":"MAD","name":"Moroccan Dirham"},{"value":"MGA","name":"Malagasy Ariary"},{"value":"MMK","name":"Burmese Kyat"},{"value":"MOP","name":"Macau Pataca"},{"value":"MUR","name":"Mauritian Rupee"},{"value":"MXN","name":"Mexican Peso"},{"value":"NOK","name":"Norwegian Krone"},{"value":"NZD","name":"New Zealand Dollar"},{"value":"OMR","name":"Omani Rial"},{"value":"QAR","name":"Qatar Riyal"},{"value":"RUB","name":"Russian Ruble"},{"value":"SEK","name":"Swedish Krona"},{"value":"THB","name":"Thai Baht"},{"value":"TRY","name":"Turkish Lira"},{"value":"VND","name":"Vietnamese Dong"},{"value":"ZAR","name":"South African Rand"}]},"_currency":"USD","_currency_symbo":"US$","_symbo_list":{"HKD":"HK$","USD":"US$","TWD":"NT$","SGD":"S$","CNY":"¥","AUD":"AUD","GBP":"£","LAK":"₭","EUR":"€","THB":"฿","NZD":"NZ$","MYR":"RM","JPY":"¥","AED":"AED","PHP":"₱","KRW":"₩","VND":"₫","IDR":"Rp","SEK":"kr","NOK":"kr","DKK":"kr","CHF":"CHF","RUB":"₽","TRY":"YTL","ISK":"kr","INR":"₹","KHR":"KHR","MMK":"BUK","MOP":"MOP$","QAR":"QR","OMR":"OMR","JOD":"JOD","LBP":"LBP","FJD":"$","CAD":"CAD","MUR":"Rs","MXN":"$","MAD":"DH","EGP":"EGP","ZAR":"R","MGA":"MGA"},"_currency_rate":{"USDHKD":7.788465,"CNYHKD":1.129808,"EURHKD":8.747605,"GBPHKD":9.752672,"AUDHKD":5.44114,"SGDHKD":5.728033,"TWDHKD":0.249766,"THBHKD":0.252999,"JPYHKD":0.071806,"KRWHKD":0.006628,"IDRHKD":0.000553,"PHPHKD":0.151706,"LAKHKD":0.000898,"MYRHKD":1.883314,"VNDHKD":0.000335,"AEDHKD":2.120401,"NZDHKD":5.163022,"ISKHKD":0.061735,"SEKHKD":0.824608,"NOKHKD":0.903773,"DKKHKD":1.171583,"CHFHKD":7.85182,"RUBHKD":0.122102,"TRYHKD":1.383752,"INRHKD":0.113782,"KHRHKD":0.001914,"MMKHKD":0.005177,"QARHKD":2.139065,"OMRHKD":20.229811,"JODHKD":10.984545,"LBPHKD":0.005132,"AFNHKD":0.097173,"ALLHKD":0.071766,"AMDHKD":0.016328,"ANGHKD":4.153755,"AOAHKD":0.022651,"ARSHKD":0.186411,"AWGHKD":4.326925,"AZNHKD":4.5679,"BAMHKD":4.484747,"BBDHKD":3.857385,"BDTHKD":0.092175,"BGNHKD":4.469953,"BHDHKD":20.656889,"BIFHKD":0.004221,"BMDHKD":7.788465,"BNDHKD":5.766015,"BOBHKD":1.127119,"BRLHKD":2.037772,"BSDHKD":7.788829,"BTCHKD":85376.915175,"BTNHKD":0.113755,"BWPHKD":0.73289,"BYNHKD":3.806015,"BYRHKD":0.000397,"BZDHKD":3.863689,"CADHKD":5.949229,"CDFHKD":0.004685,"CLFHKD":314.169023,"CLPHKD":0.011387,"COPHKD":0.002427,"CRCHKD":0.01338,"CUCHKD":7.788465,"CUPHKD":0.293904,"CVEHKD":0.079574,"CZKHKD":0.342823,"DJFHKD":0.043824,"DOPHKD":0.152789,"DZDHKD":0.065421,"EGPHKD":0.46859,"ERNHKD":0.519218,"ETBHKD":0.267609,"FJDHKD":3.621876,"FKPHKD":9.771637,"GELHKD":2.786524,"GGPHKD":9.752482,"GHSHKD":1.439537,"GIPHKD":9.771637,"GMDHKD":0.15663,"GNFHKD":0.000843,"GTQHKD":1.01148,"GYDHKD":0.037228,"HKDHKD":1,"HNLHKD":0.31468,"HRKHKD":1.181554,"HTGHKD":0.08295,"HUFHKD":0.026977,"ILSHKD":2.17883,"IMPHKD":9.752482,"IQDHKD":0.006545,"IRRHKD":0.000185,"JEPHKD":9.752482,"JMDHKD":0.059102,"KESHKD":0.075908,"KGSHKD":0.111849,"KMFHKD":0.017729,"KPWHKD":0.008658,"KWDHKD":25.610818,"KYDHKD":9.345969,"KZTHKD":0.02027,"LKRHKD":0.044217,"LRDHKD":0.039336,"LSLHKD":0.549241,"LTLHKD":2.637701,"LVLHKD":12.875813,"LYDHKD":5.54825,"MADHKD":0.811191,"MDLHKD":0.435018,"MGAHKD":0.002157,"MKDHKD":0.141969,"MNTHKD":0.002954,"MOPHKD":0.970221,"MROHKD":0.021816,"MURHKD":0.217532,"MVRHKD":0.504095,"MWKHKD":0.010302,"MXNHKD":0.409664,"MZNHKD":0.125209,"NADHKD":0.549241,"NGNHKD":0.021635,"NIOHKD":0.232465,"NPRHKD":0.07119,"PABHKD":7.788829,"PENHKD":2.366231,"PGKHKD":2.300845,"PKRHKD":0.049638,"PLNHKD":2.052697,"PYGHKD":0.001263,"RONHKD":1.85069,"RSDHKD":0.074285,"RWFHKD":0.008535,"SARHKD":2.076671,"SBDHKD":0.948596,"SCRHKD":0.56931,"SDGHKD":0.172651,"SHPHKD":5.896296,"SLLHKD":0.000875,"SOSHKD":0.013371,"SRDHKD":1.044302,"STDHKD":0.000361,"SVCHKD":0.890071,"SYPHKD":0.015123,"SZLHKD":0.549242,"TJSHKD":0.825458,"TMTHKD":2.225273,"TNDHKD":2.698276,"TOPHKD":3.422583,"TTDHKD":1.151074,"TZSHKD":0.00339,"UAHHKD":0.303394,"UGXHKD":0.002105,"UYUHKD":0.221198,"UZSHKD":0.000908,"VEFHKD":0.77982,"VUVHKD":0.068266,"WSTHKD":2.930772,"XAFHKD":0.013371,"XAGHKD":116.808784,"XAUHKD":10895.029625,"XCDHKD":2.881886,"XDRHKD":10.778301,"XOFHKD":0.013359,"XPFHKD":0.073028,"YERHKD":0.031104,"ZARHKD":0.549353,"ZMKHKD":0.000865,"ZMWHKD":0.609662,"ZWLHKD":0.024188},"_ip_country":"US","_user_ip":"207.241.233.177","_time":1562453268758,"_show_mobile10":true,"_canonical_path":"/policy/","_util_config":{"domain":"https://www.klook.com","user_center_path":1,"hello_user_name":1,"index_invite":1,"footer":1,"downland_bar":1,"banner_ad":1,"faq_klook":1,"chat_with_klook":1,"use_coupons_credits":1,"pay_success_book_url":false},"_webp_support":0,"_k_logged":0,"_is_from_app":false,"_pay_icon":["newVisa","newMaster","newPaypal","newAE","applepay","googlepay","alipay"],"_coupon_promo":{"coupon":{"code":"mobile10","amount":"HK$10"},"invite":{"amount":"US$3.2 ","code":"HK$25 Off "}}};
         var KLK_PAGE_AD = undefined;
+        var isRevamp = false;
 
     </script>
-    <script crossorigin="" src="https://cdn.klook.com/s/dist_web/assert/desktop/js/manifest-d093c3983c.bundle.js"></script>
-    <script crossorigin="" src="https://cdn.klook.com/s/dist_web/assert/comm/locales/lang-7f351d0152.en.js"></script>
-    <script crossorigin="" src="https://cdn.klook.com/s/dist_web/assert/desktop/js/vendor-1312b991a0.bundle.js"></script>
+    <script crossorigin="" src="https://cdn.klook.com/s/dist_web/assert/desktop/js/manifest-1f5a2d9504.bundle.js"></script>
+    <script crossorigin="" src="https://cdn.klook.com/s/dist_web/assert/comm/locales/lang-fde0cc7444.en.js"></script>
+    <script crossorigin="" src="https://cdn.klook.com/s/dist_web/assert/desktop/js/vendor-27d2c8e299.bundle.js"></script>
 
-<script src="https://cdn.klook.com/s/dist_web/assert/desktop/js/conditions-a8b5e769a0.bundle.js"></script>
+<script src="https://cdn.klook.com/s/dist_web/assert/desktop/js/conditions-b34a2c212a.bundle.js"></script>
 
 
 </body></html>
