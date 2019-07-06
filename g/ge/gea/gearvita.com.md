@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gearvita.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922223000id_/http%3A//gearvita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearvita.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706164129id_/https%3A//gearvita.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | GearVita
 
-If we make changes to this Privacy Policy, we will post an updated version on our website. Please review this policy from time to time. If you have any questions relating to the Privacy Policy or general Terms & Conditions, please contact us at [cs@gearvita.com](mailto:cs@gearvita.com?subject=Service%20Request%20from)
+If we make changes to this Privacy Policy, we will post an updated version on our website. Please review this policy from time to time. If you have any questions relating to the Privacy Policy or general Terms & Conditions, please contact us at [service@gearvita.com](mailto:cs@gearvita.com?subject=Service%20Request%20from)
 
 #### Introduction
 
@@ -10,7 +10,7 @@ This Privacy Policy explains how we collect, use, disclose and safeguard your pe
 
 #### Collection of Personal Information
 
-We collect information about you when you visit our website and use our services. When you provide us with information, you consent to the transfer and storage of information on our servers, which are located in the People’s Republic of China (PRC).
+We collect information about you when you visit our website and use our services. When you provide us with information, you consent to the transfer and storage of information on our servers.
 
 #### Use and Disclosure of Personal Information
 
@@ -28,7 +28,7 @@ We will ask for your consent before releasing information about you to third par
 
 #### Security and Protection of your personal information
 
-Our website is secured and encrypted using Secure Socket Layer (SSL) technology. Our servers are located in the People’s Republic of China (PRC), and we also take measures to protect your personal information in our facilities and protect your personal information from unauthorized access and use. While we use industry standard software to safeguard your personal information, we cannot guarantee complete security of your personal information. We also protect your personal information through the use of password controls that we ask you to keep confidential. We will never ask you for your password, and you may change it at anytime under “My Account”.
+Our website is secured and encrypted using Secure Socket Layer (SSL) technology. Our servers are located in the United States of America (USA), and we also take measures to protect your personal information in our facilities and protect your personal information from unauthorized access and use. While we use industry standard software to safeguard your personal information, we cannot guarantee complete security of your personal information. We also protect your personal information through the use of password controls that we ask you to keep confidential. We will never ask you for your password, and you may change it at anytime under “My Account”.
 
 #### Children and Privacy
 
