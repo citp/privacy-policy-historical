@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworkfromhomemother.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506052651id_/http%3A//www.theworkfromhomemother.com/2007/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworkfromhomemother.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707013452id_/http%3A//www.theworkfromhomemother.com/2007/10/privacy-policy.html) for the most accurate reproduction.*
 
 # The Work From Home Mother: Privacy Policy
 
