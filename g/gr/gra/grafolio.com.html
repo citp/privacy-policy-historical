@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grafolio.com privacy policy that was archived on 2019-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190102181708id_/https%3A//www.grafolio.com/privacy.grfl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grafolio.com privacy policy that was archived on 2019-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190706173421id_/https%3A//www.grafolio.com/privacy.grfl) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US"><head>
 	
@@ -18,6 +18,7 @@
 
 
 
+	
 	
 	
 	
@@ -258,23 +259,25 @@ var global_react_button = 'React';
 var global_comment_button = 'Comments';
 var global_zero_comment_text = 'No comments. \u003Cbr\u003EEnter the first comment.';
 var global_creator_text = 'Creator';
+var global_story_create_limit_free_user_mbrno = '1494582';
+var global_artwindow = 'Art Window';
 </script>
 
 <title>Creator's Playground: Grafolio</title>
 
 	
-		<link id="_css" rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/static/grafolio/pc/1227/grafolio.css?20181227062843">
-		<link id="_css" rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/static/grafolio/pc/1227/grafolio_content.css?20181227062843">
+		<link id="_css" rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/static/grafolio/pc/190705/grafolio.css?20190705095924">
+		<link id="_css" rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/static/grafolio/pc/190705/grafolio_content.css?20190705095924">
 		<link rel="shortcut icon" href="https://ssl.pstatic.net/static/grafolio/m/img/favicon2.ico">
 	
 	
 
 
 
-<script language="javascript" type="text/javascript" src="/js/etc/jquery-latest.js?20181227062843"></script>
-<script language="javascript" type="text/javascript" src="/js/jindo/jindo.desktop.min.ns.js?20181227062843"></script>
-<script language="javascript" type="text/javascript" src="/js/jindo/jindo.component.min.js?20181227062843"></script>
-<script type="text/javascript" src="/js/etc/handlebars.min.js?20181227062843"></script>
+<script language="javascript" type="text/javascript" src="/js/etc/jquery-latest.js?20190705095924"></script>
+<script language="javascript" type="text/javascript" src="/js/jindo/jindo.desktop.min.ns.js?20190705095924"></script>
+<script language="javascript" type="text/javascript" src="/js/jindo/jindo.component.min.js?20190705095924"></script>
+<script type="text/javascript" src="/js/etc/handlebars.min.js?20190705095924"></script>
 <script type="text/javascript">
 	//document.domain = "grafolio.com";
 	var likeProject = false;
@@ -323,6 +326,9 @@ var ccsrv = "cc.naver.com";
 
 
 
+
+
+
 <body class="en_US">
 	<div id="wrap">
 	
@@ -349,6 +355,9 @@ var ccsrv = "cc.naver.com";
 				
 				<li role="presentation" class="list" style="display:none"><a href="https://www.grafolio.com/feeds/list.grfl" onclick="clickcr(this, 'gnb_lgn.feed', '', '', event);" role="menuitem" class="item"><span class="menu">Feed</span></a></li>
 				<li role="presentation" class="list"><a href="https://www.grafolio.com/works/list.grfl" onclick="clickcr(this, 'gnb.work', '', '', event);" role="menuitem" class="item"><span class="menu">Works</span></a></li>
+				
+				<li role="presentation" class="list"><a href="https://www.grafolio.com/wallpaper.grfl" onclick="clickcr(this, 'gne.wallpaper', '', '', event);" role="menuitem" class="item"><span class="menu">Wallpaper</span></a></li>
+				
 				<li role="presentation" class="list"><a href="https://www.grafolio.com/story/list.grfl" onclick="clickcr(this, 'gnb.story', '', '', event);" role="menuitem" class="item"><span class="menu">Story</span></a></li>
 				<li role="presentation" class="list"><a href="https://www.grafolio.com/collaboration/list.grfl" onclick="clickcr(this, 'gnb.collabo', '', '', event);" role="menuitem" class="item"><span class="menu">Collaboration</span></a></li>
 				<li role="presentation" class="list"><a href="https://www.grafolio.com/patron/creatorList.grfl" onclick="clickcr(this, 'gnb.patron', '', '', event);" role="menuitem" class="item"><span class="menu"><span class="menu">Patron</span></span></a></li>
@@ -361,7 +370,7 @@ var ccsrv = "cc.naver.com";
 					<span class="ic"></span>
 					<ul class="lst_profile">
 						<li><a href="https://www.grafolio.com/about.grfl" onclick="clickcr(this, 'gne.about', '', '', event);">About Grafolio</a></li>
-						<li><a href="https://www.grafolio.com/wallpaper.grfl" onclick="clickcr(this, 'gne.wallpaper', '', '', event);">Wallpaper</a></li>
+						
 						<li><a href="http://ogqmarket.naver.com" onclick="clickcr(this, 'gne.ogq', '', '', event);">Naver OGQ Market</a></li>
 						<li><a href="https://swindow.naver.com/living/external/store" onclick="clickcr(this, 'gne.art', '', '', event);">Art Products Store</a></li>
 						<li><a id="creator_center_link" href="http://hello.grafolio.net" onclick="clickcr(this, 'gne.center', '', '', event);">Official Blog</a></li>
@@ -374,12 +383,7 @@ var ccsrv = "cc.naver.com";
 							<ul id="lang_list" role="listbox" class="list_lang">
 								<li id="ko_KR" role="option"><a href="javascript:selectLocale('ko_KR');" onclick="clickcr(this, 'gne.korean', '', '', event);">한국어</a></li>
 								<li id="en_US" role="option"><a href="javascript:selectLocale('en_US');" onclick="clickcr(this, 'gne.english', '', '', event);">English(US)</a></li>
-								<li id="es_MX" role="option"><a href="javascript:selectLocale('es_MX');" onclick="clickcr(this, 'gne.espanol', '', '', event);">Español</a></li>
-								<li id="es_ES" role="option"><a href="javascript:selectLocale('es_ES');" onclick="clickcr(this, 'gne.espana', '', '', event);">Español (España)</a></li>
-								<li id="fr_FR" role="option"><a href="javascript:selectLocale('fr_FR');" onclick="clickcr(this, 'gne.french', '', '', event);">Français (France)</a></li>
-								<li id="ja_JP" role="option"><a href="javascript:selectLocale('ja_JP');" onclick="clickcr(this, 'gne.japanese', '', '', event);">日本語</a></li>
-								<li id="zh_CN" role="option"><a href="javascript:selectLocale('zh_CN');" onclick="clickcr(this, 'gne.simplech', '', '', event);">中文(简体)</a></li>
-								<li id="zh_TW" role="option"><a href="javascript:selectLocale('zh_TW');" onclick="clickcr(this, 'gne.chinese', '', '', event);">中文(繁體)</a></li>
+								
 							</ul>
 						</li>
 					</ul>
@@ -394,7 +398,7 @@ var ccsrv = "cc.naver.com";
 			
 			
 			<div id="gnb_search_area" class="search">
-				<input type="text" id="search" name="search" value="" title="Search for titles or creators" style="color: rgb(160, 160, 160);" onfocus="checkSearchAreaOnFocus(this);" onkeypress="checkSearchQuery(event, this.value);" onclick="clickcr(this, 'gnb.search', '', '', event);">
+				<input type="text" id="search" name="search" value="" title="Search for titles or creators" style="color: rgb(160, 160, 160);" onfocus="checkSearchAreaOnFocus(this);" onkeypress="checkSearchQuery(event, this.value);" onclick="clickcr(this, 'gnb.search', '', '', event);" autocomplete="off">
 				<a href="#" role="button" onclick="toggleGnbSearch();return false;" class="btn"><i class="ico"></i><span class="blind">Search</span></a>
 			</div>
 			
@@ -455,8 +459,277 @@ var ccsrv = "cc.naver.com";
 					</ul>
 				</div>
 			</div>
+		</div>		
+	</div>	
+	
+
+
+
+
+
+
+
+
+
+
+
+<script id="search-recommend-tags-template" type="text/x-handlebars-template">
+{{~#each items~}}	
+		<a href="{{tagUrl}}" class="tag_item _search_recommend_click" onclick="clickcr(this, 'sch.rectag', '', '', event);">{{tag}}</a>		
+{{~/each~}}
+</script>
+
+<script id="search-recommend-creator-template" type="text/x-handlebars-template">
+{{~#each items~}}	
+	<li>
+	<a href="/{{memberId}}" class="_search_recommend_click" onclick="clickcr(this, 'sch.reccreator', '', '', event);">
+		<div class="thumb">
+			<img src="{{profImgUrl}}" width="80" height="80" alt="">
 		</div>
+		<strong aria-label="크리에이터" class="creator_name">{{name}}</strong>
+		<em aria-label="카테고리" class="work_category">{{categoryName}}</em>
+	</a>
+	</li>
+{{~/each~}}
+</script>
+
+<script id="search-recommend-works-template" type="text/x-handlebars-template">
+{{~#each items~}}	
+	<li>
+		<a href="/works/{{worksNo}}" class="_search_recommend_click" onclick="clickcr(this, 'sch.recartwork', '', '', event);">
+			<div class="thumb">
+				<img src="{{repImgUrl}}?type=f240_160" width="120" height="80" alt="이미지">
+			</div>
+			<strong aria-label="작품명" class="art_name">{{{title}}}</strong>
+			<em aria-label="작가" class="art_creator">{{{creatorName}}}</em>
+		</a>
+	</li>
+{{~/each~}}
+</script>
+
+<div class="search_recommend_wrap _search_recommend_click" id="searchRecommendLayer" style="display: none;">
+	<h2 class="blind">검색 추천 영역</h2>
+	<div class="search_recommend _search_recommend_click">
+		<div class="recommend_tag">
+			<h3 class="recommend_title _search_recommend_click">Recommended Tags</h3>
+			<div class="tag_area _search_recommend_click" id="search_recommend_tag_area">				
+			</div>
+		</div>
+		<div class="recommend_creator _search_recommend_click">
+			<h3 class="recommend_title _search_recommend_click">Recommended Creators</h3>
+			<ul class="recommend_list _search_recommend_click" id="search_recommend_creator_area">				
+			</ul>
+		</div>
+		<div class="recommend_work _search_recommend_click">
+			<h3 class="recommend_title _search_recommend_click">Recommended Artworks</h3>
+			<ul class="recommend_list _search_recommend_click" id="search_recommend_works_area">				
+			</ul>
+		</div>
+		<button id="search_recommend_close_button" type="button" class="btn_search_close" onclick="clickcr(this, 'sch.recclose', '', '', event);"><span class="blind">검색 추천영역 닫기</span></button>
 	</div>
+</div>
+
+
+<script type="text/javascript">	
+var searchRecommend = function(){		
+	$(window).load(function(){
+		try{
+		
+			var tagsTemplate = Handlebars.compile(jQuery("#search-recommend-tags-template").html());
+			var creatorsTemplate  = Handlebars.compile(jQuery("#search-recommend-creator-template").html());
+			var worksTemplate = Handlebars.compile(jQuery("#search-recommend-works-template").html());
+			var photoInfraGrafolioServiceDomain = 'https://g-grafolio.pstatic.net';
+		
+			function shuffleArray(array){
+				for( var i = array.length -1 ; i > 0 ; i--) {
+					var j = Math.floor(Math.random() * (i+1));
+					var temp = array[i];
+					array[i] = array[j];
+					array[j] = temp;
+				}
+			}
+			
+			function makeSearchRecommend(){
+					jQuery.ajax({
+					type : "post",
+						url : "/search/recommend/result.json",		
+						//async: false,
+						success: function(data) {				
+			                if (data.resultForJsonView.resultCode == "SUCCESS") {                                   
+			                    var result = data.resultForJsonView.result;		                   
+			                    var coreTagList = result.searchRecommend.coreTagList;
+			                    var coreCategoryCreatorWithProjectsList = result.searchRecommend.coreCategoryCreatorWithProjectsList;
+			                    var coreWorksList = result.searchRecommend.coreWorksList;	                   
+			                    makeSearchRecommendTagHtml(coreTagList, 5);	
+			                    makeSearchRecommendCreatorHtml(coreCategoryCreatorWithProjectsList, 4);
+			                    makeSearchRecommendWorksHtml(coreWorksList,3);
+			           	 	}
+				        }
+						,error: function(jsonObj) {
+							alert(jsonObj.resultForJsonView.message + jsonObj.resultForJsonView.result);
+					    }
+					});
+			}
+		
+			function makeSearchRecommendTagHtml(coreTagList, maxCount) {
+				try{
+					var searchRecommendTagArea = jQuery('#search_recommend_tag_area');		
+					var existTags = searchRecommendTagArea.text().trim().length;					
+					if( existTags == 0){
+						var tagResult = {tagList : []};
+						for (var i = 0; i < coreTagList.length; i++) {	
+							var dataSize = coreTagList[i].length;
+							if(dataSize > 0){
+								for (var j = 0; j < 1; j++) {				
+									//console.log(coreTagList[i][j]);
+									var tagSize = tagResult.tagList.length;
+									if(tagSize < maxCount && coreTagList[i][j].tag != 'undefined'){
+										var tag = coreTagList[i][j].tag;
+										var tagUrl = coreTagList[i][j].tagUrl;							
+										tagResult.tagList.push({tag : tag, tagUrl : tagUrl});	
+									}
+								}
+							}
+						}
+						var result = tagsTemplate({items : tagResult.tagList});				
+						searchRecommendTagArea.append(result);
+					}
+				}catch(e){
+					console.log(e);
+				}
+			}
+			
+			function makeSearchRecommendCreatorHtml(creatorWithProjectsList, maxCount){			
+				try{
+					var searchRecommendCreatorArea = jQuery('#search_recommend_creator_area');		
+					var existCreators = searchRecommendCreatorArea.text().trim().length;			
+					if( existCreators == 0){
+						var creatorResult = {creatorList : []};
+						for (var i = 0; i < creatorWithProjectsList.length; i++) {						
+							var dataSize = creatorWithProjectsList[i].length;
+							if(dataSize > 0){
+								for (var j = 0; j < 1; j++) {
+									//console.log(creatorWithProjectsList[i][j]);
+									var creatorSize = creatorResult.creatorList.length;
+									if(creatorSize < maxCount){
+										var member = creatorWithProjectsList[i][j].coreMember;
+										var categoryName = creatorWithProjectsList[i][j].categoryName;
+										var categoryNo = creatorWithProjectsList[i][j].categoryNo;
+										var name = member.memberName; 
+										var profImgUrl = photoInfraGrafolioServiceDomain + member.profileImageUrl;
+										var memberId = member.memberId;						
+										creatorResult.creatorList.push({name : name, profImgUrl : profImgUrl, memberId : memberId, categoryNo: categoryNo, categoryName : categoryName});	
+									}					
+								}
+							}
+						}						
+						var result = creatorsTemplate({items : creatorResult.creatorList});		
+						searchRecommendCreatorArea.append(result);
+					}
+				}catch(e){
+					console.log(e);
+				}
+			}		
+		
+			function makeSearchRecommendWorksHtml(coreWorksList, maxCount) {
+				try{
+					var searchRecommendWorksArea = jQuery('#search_recommend_works_area');		
+					var existWorks = searchRecommendWorksArea.text().trim().length;
+					if( existWorks == 0){
+						var workResult = {workList : []};
+						for (var i = 0; i < coreWorksList.length; i++) {
+							var dataSize = coreWorksList[i].length;
+							if(dataSize > 0){
+								for (var j = 0; j < 1; j++) {
+									//console.log(coreWorksList[i][j]);
+									var workSize = workResult.workList.length;
+									if(workSize < maxCount){
+										var title = coreWorksList[i][j].worksTitle;
+										var worksNo = coreWorksList[i][j].worksNo;
+										var creatorName = coreWorksList[i][j].creatorName;
+										var repImgUrl = photoInfraGrafolioServiceDomain+coreWorksList[i][j].representImageUrl;									
+										workResult.workList.push({title : title, worksNo : worksNo, creatorName : creatorName, repImgUrl : repImgUrl})
+									}
+								}
+							}
+						}
+						var result = worksTemplate({items : workResult.workList});		
+						searchRecommendWorksArea.append(result);
+					}
+				}catch(e){
+					console.log(e);
+				}
+			}		
+			
+			jQuery('#search_recommend_close_button').on('click', function(e) {
+				e.preventDefault();
+				jQuery('#searchRecommendLayer').hide();
+			});			
+			
+			function windowsClassControl(){
+				var pathname = window.location.pathname;				
+				if(pathname.indexOf('/searchList.grfl') >= 0){					
+					var agent = navigator.userAgent.toLowerCase();
+					if ((navigator.appName == 'Netscape' && navigator.userAgent.search('Trident') != -1) || (agent.indexOf("msie") != -1)) {
+						jQuery('body').addClass("ie");
+					}else if(navigator.appName == 'Netscape' && navigator.userAgent.search('Edge') >= 0){
+						jQuery('body').addClass("ie");
+					}					
+				}
+			}
+			
+			function recommendLayerShow(){
+				var pathname = window.location.pathname;
+				if(pathname.indexOf('/searchList.grfl') < 0){				
+					jQuery('#searchRecommendLayer').show();
+				}
+			}
+			
+			try{
+				if(window.location.pathname.indexOf('/searchList.grfl') < 0){
+					makeSearchRecommend();
+				}else {					
+					windowsClassControl();
+				}
+			}catch(e){
+				console.log(e);
+			}
+			
+			jQuery('html').click(function(e) { 				
+				var searchRecomendLayerDisplay = jQuery('#searchRecommendLayer').css('display');
+				var id = e.target.id;
+				var inputTagId = "search";
+				if(!jQuery(e.target).hasClass("_search_recommend_click")) { 					
+					if('block' == searchRecomendLayerDisplay && inputTagId != id){					
+						jQuery('#searchRecommendLayer').hide();
+					}else if('none' == searchRecomendLayerDisplay && inputTagId != id){
+						// do nothing
+					}else if('block' == searchRecomendLayerDisplay && inputTagId == id){
+						// do nothing
+					}else if('none' == searchRecomendLayerDisplay && inputTagId == id){
+						recommendLayerShow();
+					}
+				}				
+			});		
+		
+		}catch(e){
+			console.log(e);
+		}
+		
+		/*
+		jQuery('#search').on('focus', function(e) {
+			e.preventDefault();
+			var pathname = window.location.pathname;
+			if(!pathname.startsWith('/searchList.grfl')){
+				makeSearchRecommend();
+				jQuery('#searchRecommendLayer').show();
+			}
+		});
+		*/
+		
+	});
+}();
+</script>
 </div>
 
 		<!-- //header -->
@@ -715,12 +988,12 @@ var ccsrv = "cc.naver.com";
 			<p>
 				<strong>Chief Privacy Officer</strong>
 				Name : <em>Jinkyu Lee</em><br>
-				Email : <a href="mailto:privacy@naver.com">privacy@naver.com</a>
+				Email : <a href="https://help.naver.com/support/mail/popup/mailInquiry.help?serviceNo=1074&amp;categoryNo=15743">for inquiries</a>
 			</p>
 			<p>
 				<strong>Personal Information Manager</strong>
 				Name : <em>Jaelim Lee</em><br>
-				Email : <a href="mailto:privacy@naver.com">privacy@naver.com</a>
+				Email : <a href="https://help.naver.com/support/mail/popup/mailInquiry.help?serviceNo=1074&amp;categoryNo=15743">for inquiries</a>
 			</p>
 			<p>
 				Contact the organizations shown below to file reports or seek consultation for other privacy infringements;<br>
@@ -788,9 +1061,9 @@ var ccsrv = "cc.naver.com";
 </div>
 
 <div id="_cssLoadingCheck1" class="main_contents" style="display:none;"><div id="_cssLoadingCheck2" class="dev_check_css" style="display:none;"></div></div>
-<script type="text/javascript" charset="utf-8" src="/js/min/grafolio_20181227062843.js"></script>
-<script language="javascript" type="text/javascript" src="/js/etc/lcslog.js?20181227062843"></script>
-<script language="javascript" type="text/javascript" src="/js/etc/clickcr.js?20181227062843"></script>
+<script type="text/javascript" charset="utf-8" src="/js/min/grafolio_20190705095924.js"></script>
+<script language="javascript" type="text/javascript" src="/js/etc/lcslog.js?20190705095924"></script>
+<script language="javascript" type="text/javascript" src="/js/etc/clickcr.js?20190705095924"></script>
 <script type="text/javascript">
 jQuery(document).ready(function(){
 	var currentUri = location.href;	
@@ -808,7 +1081,7 @@ jQuery(document).ready(function(){
 
 jindo.$Fn(function(e){
 	if(typeof _resourceLoadingCheck == "undefined") {
-		jQuery.getScript("/js/min/grafolio_20181227062843.js")
+		jQuery.getScript("/js/min/grafolio_20190705095924.js")
 			.done(function(script, textStatus) {
 				if(_resourceLoadingCheck) {
 					alertResourceLoadingResult("js", "success");
@@ -838,7 +1111,7 @@ function alertResourceLoadingResult(type, result) {
 	jQuery.ajax({
 		type : "get",
 		url : "/onload/ajax/alertResourceReload.json",
-		data : "type=" + type + "&result=" + result + "&version=20181227062843"
+		data : "type=" + type + "&result=" + result + "&version=20190705095924"
 	});
 }
 </script>
