@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodfirms.co privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415192756id_/https%3A//www.goodfirms.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodfirms.co privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706151310id_/https%3A//www.goodfirms.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of GoodFirms
 
@@ -70,6 +70,13 @@ GoodFirms takes and implements generally accepted standards of technology and op
 #### Data Retention
 
 Strategically gathered industry related data remains with us as long as we are not specifically asked to remove it. If you have a user account, related information is with us for as long as your account is active or is needed for legal, regulatory or administrative purposes. We may keep your information with us even after you close your account to resolve disputes, prevent frauds and abuse or as a part of our data backup process. 
+
+  
+
+
+#### Video Review Guidelines
+
+The video reviewer can avail the benefit of an incentive ($20 Amazon Gift Card) for at most 5 reviews.
 
   
 
