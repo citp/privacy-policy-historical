@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexaprize.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505225824id_/http%3A//www.sexaprize.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexaprize.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707010032id_/http%3A//www.sexaprize.com/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
