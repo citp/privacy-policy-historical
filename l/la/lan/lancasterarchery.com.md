@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609120919id_/http%3A//www.lancasterarchery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706095002id_/https%3A//www.lancasterarchery.com/privacy-policy) for the most accurate reproduction.*
 
 # Lancaster Archery Supply Privacy Policy
 
