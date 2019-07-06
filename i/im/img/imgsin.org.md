@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgsin.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506042959id_/http%3A//imgsin.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgsin.org privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707005603id_/http%3A//imgsin.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IMGSIN
 
