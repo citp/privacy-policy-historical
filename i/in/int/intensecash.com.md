@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intensecash.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110174935id_/http%3A//www.intensecash.com/external.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intensecash.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707012314id_/http%3A//www.intensecash.com/external.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # IntenseCash - Powered by NATS 4.1
 
