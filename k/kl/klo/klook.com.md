@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klook.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523000418id_/https%3A//www.klook.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klook.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706224748id_/https%3A//www.klook.com/policy) for the most accurate reproduction.*
 
 # Klook Travel
 
@@ -80,7 +80,7 @@ Last updated on: 25th February 2019.
 
 At Klook, we strive to enhance your experience during your trip and using this Website. In general, we use cookies to manage the Website and improve your overall site experience.
 
-Your data privacy and confidentiality are our top priority and we do our very best to safeguard the information you entrusted to us. For more information, you can review our [Privacy Notice](https://web.archive.org/policy) here. 
+Your data privacy and confidentiality are our top priority and we do our very best to safeguard the information you entrusted to us. For more information, you can review our <a style="color:grey" href="/policy">Privacy Notice</a> here. 
 
 This section about cookies sets out the basis and terms upon which Klook uses cookies.
 
@@ -104,14 +104,14 @@ We control and set the scope of **first-party cookies** whereas, we have no cont
 
 **_Why do we use cookies?_**
 
-We are committed to providing you with a safe, efficient and customised service. To reach this goal, we use cookies to:
+We are committed to providing you with a safe, efficient and customised service. To reach this goal, we use cookies to:<p></p>
 
-  * • ensure the efficient functioning of this Website;
-  * • evaluate how this Website is accessed and used;
-  * • analyse what destinations are popular among visitors;
-  * • determine your eligibility for campaigns and promotions;
-  * • recommend the places that match your interests; and
-  * • improve the content of this Website and enhance user's experience.
+  * •&nbsp;ensure the efficient functioning of this Website;
+  * •&nbsp;evaluate how this Website is accessed and used;
+  * •&nbsp;analyse what destinations are popular among visitors;
+  * •&nbsp;determine your eligibility for campaigns and promotions;
+  * •&nbsp;recommend the places that match your interests; and
+  * •&nbsp;improve the content of this Website and enhance user's experience.
 
 
 
@@ -121,19 +121,8 @@ We will ensure that cookies will not be used for any purpose other than those de
 
 We use four types of cookies, namely "Strictly necessary cookies", "Essential cookies," "Analytics cookies", and "Advertising cookies". Further information on these cookies is set out in the table below:
 
-Cookies| Description  
----|---  
-Strictly necessary cookies | These cookies allow us to manage this Website and ensure it functions properly. They are essential to help you navigate around this Website and provide you with an improved surfing experience.  
-If these cookies are disabled, we will not be in a position to offer you our services.  
-We also use these cookies for fraud detection and prevention purposes. Further, thanks to these cookies, you do not need to log in repeatedly to access different pages once you have logged into this Website.   
-Analytics cookies | We use analytics cookies including Google Analytics and other analytics tools to gather anonymous statistical information for:   
-• assessing how our visitors use this Website;  
-• understanding the demographic and location of our visitors;  
-• evaluating how our new products are being received by usersassessing the popularity of our marketing campaign;  
-• enhancing this Website content and service by customising this Website for you.   
-Based on the anonymous data collected, these analytics tools will generate trend analysis and compile reports to attain the abovementioned purposes.   
-Advertising cookies| Advertising cookies enable us to limit the number of times you see the same ad and to ensure that the ad content is relevant to your interests. These cookies, together with an identifier linked to your IP address, can track your activity across various websites and thus display ads in accordance to your preference.   
-  
+<figure><table><thead><tr><th style="text-align:left;">Cookies</th><th>Description</th></tr></thead><tbody><tr><td style="text-align:left;">Strictly necessary cookies </td><td>These cookies allow us to manage this Website and ensure it functions properly. They are essential to help you navigate around this Website and provide you with an improved surfing experience.<br>If these cookies are disabled, we will not be in a position to offer you our services.<br> We also use these cookies for fraud detection and prevention purposes. Further, thanks to these cookies, you do not need to log in repeatedly to access different pages once you have logged into this Website. </td></tr><tr><td style="text-align:left;">Analytics cookies </td><td>We use analytics cookies including Google Analytics and other analytics tools to gather anonymous statistical information for: <br>•&nbsp;assessing how our visitors use this Website;<br>•&nbsp;understanding the demographic and location of our visitors;<br>•&nbsp;evaluating how our new products are being received by usersassessing the popularity of our marketing campaign;<br>•&nbsp;enhancing this Website content and service by customising this Website for you. <br>Based on the anonymous data collected, these analytics tools will generate trend analysis and compile reports to attain the abovementioned purposes. </td></tr><tr><td style="text-align:left;">Advertising cookies</td><td>Advertising cookies enable us to limit the number of times you see the same ad and to ensure that the ad content is relevant to your interests. These cookies, together with an identifier linked to your IP address, can track your activity across various websites and thus display ads in accordance to your preference. </td></tr></tbody></table></figure>
+
 **_Consent to cookies_**
 
 In most cases we will need your consent in order to use cookies on this Website. The exception is where the cookies are strictly necessary in order for us to provide you with a service you have requested, or essential to the inherent functionality of the Website.
@@ -146,11 +135,11 @@ You can accept or decline our use of cookies at any time by managing and/or disa
 
 Cookies settings can normally be found in the preference or settings menu from your browser, for example:
 
-  * • Chrome: Settings -- Advanced -- Content Settings -- Cookies
-  * • Safari: Preferences -- Privacy -- Cookies and website data
-  * • Firefox: Preferences -- Privacy -- History
-  * • Internet Explorer: Internet Options -- Privacy
-  * • Opera: Settings -- Privacy & security -- Cookies
+  * •&nbsp;Chrome: Settings -- Advanced -- Content Settings -- Cookies
+  * •&nbsp;Safari: Preferences -- Privacy -- Cookies and website data
+  * •&nbsp;Firefox: Preferences -- Privacy -- History
+  * •&nbsp;Internet Explorer: Internet Options -- Privacy
+  * •&nbsp;Opera: Settings -- Privacy & security -- Cookies
 
 
 
