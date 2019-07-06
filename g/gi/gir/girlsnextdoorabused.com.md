@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsnextdoorabused.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506101404id_/http%3A//www.girlsnextdoorabused.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsnextdoorabused.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706082622id_/http%3A//www.girlsnextdoorabused.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
