@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blushingbeauties.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505224102id_/http%3A//www.blushingbeauties.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blushingbeauties.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706064227id_/http%3A//www.blushingbeauties.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
