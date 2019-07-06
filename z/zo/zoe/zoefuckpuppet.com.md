@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoefuckpuppet.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505225934id_/http%3A//zoefuckpuppet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoefuckpuppet.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707010459id_/http%3A//www.zoefuckpuppet.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
