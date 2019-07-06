@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchendreaming.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509175638id_/https%3A//kitchendreaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchendreaming.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706224629id_/https%3A//kitchendreaming.com/privacy) for the most accurate reproduction.*
 
 # Disclosure, Copyright & Privacy Policy
 
@@ -14,23 +14,23 @@ We are a participant in the _Amazon Services LLC Associates Program_ , an affili
 
 This blog does not contain any content which might present a conflict of interest.
 
-## **COPYRIGHT**
+##  **COPYRIGHT**
 
 All content, including recipes, photographs, and posts published on KitchenDreaming.com is the property of KitchenDreaming, LLC (Ronda Eagle).  If you would like to share a recipe and/or photo on your website, please only include one photo.  You _may_ include a description **without** the ingredient lists and/or instructions.  Please LINK BACK to the original recipe, giving Kitchen Dreaming full credit for authorship of the recipe.
 
 Publishing full recipes from Kitchen Dreaming and/or full ingredients lists and detailed instructions is strictly prohibited.
 
-## **PRIVACY**
+##  **PRIVACY**
 
 Kitchen Dreaming believes strongly in keeping your personal information confidential. Therefore, Kitchen Dreaming safeguards your personal information and never sells it to third parties. The following policy describes what information we collect and how it is used and shared.
 
 Kitchen Dreaming may change this policy from time to time by updating this page. This policy is valid from August 20, 2012, to present.
 
-### **LOG FILES**
+###  **LOG FILES**
 
 As with most other Web sites, we use traffic log cookies to identify which pages are being frequented.  A cookie is a small file which asks permission to be placed on your computer’s hard drive.  The data collected helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs.  We  _only_  use this information for statistical analysis purposes and then the data is removed from the system after 26 months.
 
-_Personal information is **not** stored in these log files. _ The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Chrome, Mozilla, or Safari, etc), the time you visited our site, and which page(s) you visited.
+ _Personal information is **not** stored in these log files. _ The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Chrome, Mozilla, or Safari, etc), the time you visited our site, and which page(s) you visited.
 
 Overall, cookies help us provide you with a _better website_ , by enabling us to monitor which pages you find useful and which you do not. A cookie in  _no_  way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
@@ -38,31 +38,31 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Click here to learn more [about cookies](http://www.aboutcookies.org/).
 
-### **ADVERTISING**
+###  **ADVERTISING**
 
 We use advertising service vendors to help present advertisements on the website, including Mediavine.  These vendors may use cookies, web beacons, or similar technologies.  These technologies help analyze web traffic and allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.   It also determines whether you have seen a particular advertisement before and to avoid sending you to duplicate advertisements.
 
 In using cookies, these vendors may collect _non-personal_ data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data.  The use of cookies, web beacons or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Kitchen Dreaming disclaims all liability in connection therewith.  We do not have control over cookies placed by advertisers.  If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp).
 
-### **COMMENTS**
+###  **COMMENTS**
 
 Kitchen Dreaming collects as little information as possible from users looking to post comments.  We will typically collect a name (either real or alias), personal website if any (optional), and e-mail address.  However, none of your information is ever shared with third parties. Your name and website may be displayed on the site if you post a comment or a message in the forum.  However, your e-mail address and privacy will always be kept secure.
 
-## **SECURE DATA**
+##  **SECURE DATA**
 
 Kitchen Dreaming is committed to ensuring that your information is secure and never sells it to third parties. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  Should there be a data breach, we will advise users within 72 hours of that breach.
 
-## **Sensitive Personal Information  
+##  **Sensitive Personal Information  
 **
 
 At no time should you submit sensitive personal information to www.KitchenDreaming.com.  This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
-## **Children’s Information  
+##  **Children’s Information  
 **
 
 Kitchen Dreaming does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the www.KitchenDreaming.com has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at Ronda (at) KitchenDreaming (dot) com and we will use our best efforts to promptly remove such information from our records.
 
-## **Links Leading to Other Websites  
+##  **Links Leading to Other Websites  
 **
 
 Our website may contain links to other blogs and websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website.
@@ -71,7 +71,7 @@ We cannot be responsible for the protection and privacy of any information which
 
 You should exercise caution and read each website’s privacy policy applicable to the website in question.
 
-## **Controlling Your Personal Information  
+##  **Controlling Your Personal Information  
 **
 
 You may choose to restrict the collection or use of your personal information in the following ways:
@@ -84,7 +84,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact me at Ronda (at) KitchenDreaming (dot) com.
 
-## **Giveaways and Competitions Policy  
+##  **Giveaways and Competitions Policy  
 **
 
 We use Rafflecopter to administer our giveaways and competitions. This policy applies to all competitions and giveaways offered on Kitchen Dreaming.com:
