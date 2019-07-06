@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622144746id_/https%3A//www.ford.co.uk/useful-information/fleet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706162756id_/http%3A//www.ford.co.uk/useful-information/fleet-privacy-policy) for the most accurate reproduction.*
 
 # Fleet Privacy Policy | Ford UK
 
