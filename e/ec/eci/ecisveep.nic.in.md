@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecisveep.nic.in privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620064002id_/http%3A//ecisveep.nic.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecisveep.nic.in privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706041917id_/https%3A//ecisveep.nic.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Systematic Voters’ Education and Electoral Participation
 
