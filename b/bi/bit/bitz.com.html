@@ -1,0 +1,683 @@
+<!--The following is the downloaded HTML source of the bitz.com privacy policy that was archived on 2019-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190706051130id_/https%3A//www.bitz.com/privacy/policy%3Fwelcome) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<script async="" src="https://imgv2e1.ahighapi.com/3rd/sensorsdata-sdk.1.12.6/sensorsdata.min.js" charset="UTF-8"></script><script type="text/javascript">
+(function(para) {
+      var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+      w['sensorsDataAnalytic201505'] = n;
+      w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+      var ifs = ['track','quick','register','registerPage','registerOnce','trackSignup', 'trackAbtest', 'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 'identify','login','logout','trackLink','clearAllRegister','getAppStatus'];
+      for (var i = 0; i < ifs.length; i++) {
+        w[n][ifs[i]] = w[n].call(null, ifs[i]);
+      }
+      if (!w[n]._t) {
+        x = d.createElement(s), y = d.getElementsByTagName(s)[0];
+        x.async = 1;
+        x.src = p;
+        x.setAttribute('charset','UTF-8');
+        y.parentNode.insertBefore(x, y);
+        w[n].para = para;
+      }
+    })({
+      sdk_url: 'https://imgv2e1.ahighapi.com/3rd/sensorsdata-sdk.1.12.6/sensorsdata.min.js',
+      name: 'sa',
+      heatmap: {
+        clickmap:'default',
+        scroll_notice_map:'not_collect',
+        collect_url: function() {
+          return true;
+        },
+        collect_element: function(ele) {
+          return true;
+        },
+        collect_input: function (ele) {
+          return true;
+        }
+      },
+      show_log: location.search.indexOf('sa_show_log') != -1,
+      server_url: "https://sensors.ahighapi.com/sa?project=production"
+    });
+  
+    // 自动发送事件
+    sa.quick('autoTrack');
+
+sa.logout();
+
+// 全局函数神策数据
+    function sa_sendLog(key, opts) {
+      if (typeof key != 'string') {
+        return;
+      }
+      // 客户端环境识别模块。
+      // https://github.com/hotoo/detector
+      setTimeout(function() {
+  
+        opts.current_url = location.href;
+        opts.referrer = document.referrer;
+  
+        sa.track(key, opts);
+      }, 0);
+    };
+  
+    // 页面加载时间
+    (function() {
+      var start_time = new Date();
+      var end_time = "" ;
+      window.onload = function(){
+        end_time = new Date();
+        sa.track('pageLoadTime', {
+          loadTime: end_time.getTime() -  start_time.getTime()
+        });
+      }
+    })();
+</script><title>Bit-Z|BitZ - World Leading Digital Finance Ecology/BTC/ETH/USDT Exchange</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="author" content="Bit-Z">
+<meta name="force-rendering" content="webkit">
+<meta name="renderer" content="webkit">
+<meta name="google" value="notranslate">
+<meta name="keywords" content="BITZ Blockchain Asset Trading Exchange,Bit-Z Digital Asset Trading Exchange,Bitcoin Trading Exchange,Ethereum Market,Litecoin Trend,BTC price,ETH trend,Digital Asset OTC, Digital Asset Fiat Trading">
+<meta name="description" content="Bit-Z provides professional digital asset trading services including the OTC service to global users. It is one of the most famous global exchanges. It is dedicated to provide global users with high quality digital asset trading services and provides digital currency market trend portals">
+<meta name="format-detection" content="telephone=no">
+<link rel="dns-prefetch" href="//imgv2e1.ahighapi.com">
+<link rel="dns-prefetch" href="//imgv2e2.ahighapi.com">
+<link rel="dns-prefetch" href="//imgv2e3.ahighapi.com">
+<link rel="dns-prefetch" href="//ucapi.ahighapi.com">
+<link rel="dns-prefetch" href="//otcapi.ahighapi.com">
+<link rel="alternate" hreflang="x-default" href="https://www.bitz.com/?lang=en">
+<link rel="alternate" hreflang="zh" href="https://www.bitz.com">
+<link rel="alternate" hreflang="zh-hk" href="https://www.bitz.com/?lang=zh_HK">
+<link rel="alternate" hreflang="en-US" href="https://www.bitz.com/?lang=en">
+<link rel="alternate" hreflang="ko" href="https://www.bitz.com/?lang=kr">
+<link rel="alternate" hreflang="jp" href="https://www.bitz.com/?lang=jp">
+<link rel="shortcut icon" href="https://imgv2e1.ahighapi.com/common/img/favicon.ico?v=2.2">
+
+<style data-type="inline" type="text/css">button,input[type=button],input[type=number],input[type=password],input[type=submit],input[type=text],select,textarea{-webkit-appearance:none;-moz-appearance:none;-o-appearance:none;appearance:none;outline:none}button,input[type=button],input[type=submit]{cursor:pointer}input:focus:invalid,input[min]:invalid,input[required]:invalid{box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;-ms-box-shadow:none}input:-webkit-autofill,select:-webkit-autofill,textarea:-webkit-autofill{-webkit-box-shadow:0 0 0 40px #fff inset;box-shadow:inset 0 0 0 40px #fff;-moz-box-shadow:0 0 0 40px #fff inset;-ms-box-shadow:0 0 0 40px #fff inset}input[type=number]{-moz-appearance:textfield}input{border:none}ol,ul{list-style:none}h1,h2,h3,h4,h5,h6,th{font-weight:400}h1,h2,h3,h4,h5,li,p,ul{margin:0;padding:0}table{border-spacing:0;border:0}.z-ui-button{background:#fff;border:1px solid #46a1d6;color:#46a1d6;box-sizing:border-box;-webkit-box-sizing:border-box;text-align:center;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;-o-border-radius:2px;-ms-border-radius:2px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.z-ui-button.gradient{background:linear-gradient(90deg,#4cbfdc,#4499d4);border:0}.z-ui-button.gradient.active,.z-ui-button.gradient.gray:hover,.z-ui-button.gradient.primary{background:linear-gradient(90deg,#4cbfdc,#4499d4);color:#fff;border:0}.z-ui-button.gray{color:#9b9b9b;border:1px solid #ececec}.z-ui-button:hover{color:#fff;border:1px solid #2e8ec6;cursor:pointer;background:#2e8ec6}.z-ui-button.active,.z-ui-button.gray:hover,.z-ui-button.primary{background:#46a1d6;color:#fff}.z-ui-button.active:hover,.z-ui-button.gray:hover:hover,.z-ui-button.primary:hover{background:#2e8ec6;color:#fff}.z-ui-button.disabled{border:none;color:#999!important;cursor:not-allowed}.z-ui-button.disabled,.z-ui-button.disabled:hover{background:#ececec!important}.z-ui-button.loading,.z-ui-button.loading span{position:relative}.z-ui-button.loading img{height:28px;width:28px;position:absolute;padding:0;right:0;top:50%;margin-top:-14px;margin-right:-28px}
+</style>
+<style data-type="inline" type="text/css">.el-message{background:#313c64!important;box-shadow:0 1px 6px 0 #0d142f!important;border-radius:4px!important;border:1px solid #425072!important;margin-top:40px;transition-duration:.24s!important;-webkit-transition-duration:.24s!important}.el-message .el-message__icon{height:20px;width:20px}.el-message .el-message__icon:after,.el-message .el-message__icon:before{display:none}.el-message .el-message__icon.el-icon-warn,.el-message .el-message__icon.el-icon-warning{background:transparent url(https://imgv2e2.ahighapi.com/links/warning_64468187.png) no-repeat!important;background-size:100% auto!important;border-radius:100%}.el-message .el-message__icon.el-icon-success{background:transparent url(https://imgv2e2.ahighapi.com/links/success_fffa0511.png) no-repeat!important;background-size:100% auto!important;border-radius:100%}.el-message .el-message__icon.el-icon-error{background:transparent url(https://imgv2e2.ahighapi.com/links/error_f948d280.png) no-repeat!important;background-size:100% auto!important;border-radius:100%}.el-message .el-message__icon.el-icon-info{background:transparent url(https://imgv2e2.ahighapi.com/links/info_c8827a7e.png) no-repeat!important;background-size:100% auto!important;border-radius:100%}.el-message .el-message__title{color:#c2c6d8!important}.el-message .el-message__content{color:#e9eaf0!important;font-family:Microsoft Yahei,PingFang SC,Helvetica,Tahoma,San Francisco,Arial,sans-serif;font-weight:400;letter-spacing:.6px}.el-message .el-icon-close{color:#545a74!important}body,html{margin:0;padding:0}body{background:#121626;overflow-y:scroll;font-size:14px;min-width:1260px;margin:0 auto;-webkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased;-ms-font-smoothing:antialiased}body .font-dynamic{font-family:Microsoft Yahei,PingFang SC,Helvetica,Tahoma,San Francisco,Arial,sans-serif;font-weight:400}img{border:none}a{text-decoration:none;color:#0199f1;cursor:pointer}a:hover{color:#00a9ff}.clearfix:after{display:block;content:"clear";height:0;clear:both;overflow:hidden;visibility:hidden}.clear,.clearfix{zoom:1}.clear:after{display:block;content:"";clear:both}.ellipsis{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.borderbox{box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box}#header{width:100%;top:0;left:0;background:#121626;height:52px;z-index:999}#header,#main{position:relative;min-width:1260px}#main{padding-top:60px;margin:0 auto;min-height:300px}#footer{background:#121626;width:100%;position:relative;z-index:999}.body-overflow-hidden{overflow:hidden}.z-toast{position:fixed;left:50%;top:50%;padding:16px 24px;background:rgba(0,0,0,.8);z-index:99999;color:#fff;border-radius:4px;text-align:center;min-width:100px;transform:translate(-50%,-50%);transition:all .2s linear;transform-origin:center centers}.z-toast.visible{display:block!important}::-webkit-scrollbar{width:5px;height:5px;background:#0d1736}::-webkit-scrollbar-track{display:none}::-webkit-scrollbar-thumb{background:#1b244a;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px}::-webkit-scrollbar-thumb:window-inactive{background:transparent}@-moz-document url-prefix(){.moz-hook{overflow:hidden!important}}
+</style>
+<link rel="stylesheet" href="https://imgv2e1.ahighapi.com/common/css/header_78d9778b.css">
+<link rel="stylesheet" href="https://imgv2e1.ahighapi.com/common/css/animate_dbd0daf0.css">
+<link rel="stylesheet" href="https://imgv2e1.ahighapi.com/common/css/footer_6fa0399a.css">
+<link rel="stylesheet" href="https://imgv2e1.ahighapi.com/page/help/css/terms_05080f66.css">
+
+<script type="text/javascript">
+function BitzRedirect(url) {
+        var reg = /javascript|script|document|cookie|eval|setTimeout|alert/;
+        if (reg.test(url)) {
+          return;
+        }
+
+        if (/^\//.test(url)) {
+          url = location.protocol+"//"+location.host + url;
+        }
+        if (url == location.href) {
+          return;
+        }
+        if (document.referrer == url) {
+          return;
+        }
+
+        location.href = url;
+      };
+
+      window.onerror = function (m, u, r, c, e) {
+        var stk = '';
+        if (e && e.stack) {
+          stk = (e.stack || e.stacktrace).toString();
+        }
+        sa_sendLog("js_error", {
+          msg: m,
+          url: u,
+          r: r,
+          c: c || "not know",
+          stack: stk
+        });
+      };
+
+      window.APP_CONFIG = {
+        ENV: "prod",
+
+        LANG: "en",
+        XTOKEN: "",
+        'BZ-SessionId': "",
+
+        // [delete sth]
+        CD_ID: "100002",
+
+        API_DOMAIN: "https://ucapi.ahighapi.com",
+        API_OTC_DOMAIN: "https://otcapinew.ahighapi.com",
+        API_APP_DOMAIN: "https://app.ahighapi.com",
+        API_MARKET_DOMAIN: "https://api.ahighapi.com",
+        API_ACTIVITY_DOMAIN: "https://v2.ahighapi.com",
+        WS_DOMAIN: "wss://ws.ahighapi.com/wss",
+
+        // site prefix
+        OTC_SITE_PREFIX: "otc.",
+        UCENTER_SITE_PREFIX: "u.",
+        EXCHANGE_SITE_PREFIX: "www.",
+        CONTRACT_SITE_PREFIX: "swap.",
+        CONTRACT_TESTNET_SITE_PREFIX: "testnet.",
+        ACTIVITY_SITE_PREFIX: "v2.",
+        SUPPORT_SITE_PREFIX: "",
+        HELP_SITE_PREFIX: "help.",
+        APIDOC_SITE_PREFIX: "apidoc.",
+
+        DEFAULT_EXCHANGE_PAIR: "bz_usdt",
+
+        // kline config
+        KLINE_INDEX: "index-a6791fe71b43cccf3864d8c6ef5a6e6f.html",
+        KLINE_INDEX_WHITE: "index_white89b3452ea1918aad7f02c42bfe25ff63.html",
+        KLINE_POSITIVE_COLOR: "#5C9623",
+        KLINE_NEGATIVE_COLOR: "#9E1A82",
+        KLINE_POSITIVE_COLOR_WHITE: "#639a2e",
+        KLINE_NEGATIVE_COLOR_WHITE: "#d24c84",
+        KLINE_BUY_COLOR: "#2E452F",
+        KLINE_SELL_COLOR: "#3E1C4A",
+        KLINE_BUY_COLOR_WHITE: "#b4cba2",
+        KLINE_SELL_COLOR_WHITE: "#e0abc5",
+
+        MAIN_HOST: "bitz.com",
+        CDN_DOMAIN: "https://imgv2e1.ahighapi.com",
+        CDN_DOMAIN_IMG1: "//imgv2e1.ahighapi.com",
+        CDN_DOMAIN_IMG2: "//imgv2e2.ahighapi.com",
+        CDN_DOMAIN_IMG3: "//imgv2e3.ahighapi.com",
+        IMG_STATIC: 'https://static.bibidev.com/'
+      };
+
+      window.hasAppolloLab = function(labId) {
+        return ({} || {}).hasOwnProperty(labId);
+      };
+
+      window.UA = {};
+      try {window.UA = {"browser":{},"engine":{},"os":{}};}catch(e){};
+
+window.UserInfo = null;
+;
+</script>
+</head><body class="dark">
+<link rel="stylesheet" href="https://imgv2e1.ahighapi.com/common/css/font-roboto/index_156dba27.css">
+<div id="header">
+<div class="header-nav-wrap">
+<div class="left-menu">
+<div class="item logo">
+<a href="//www.bitz.com">
+<img src="https://imgv2e1.ahighapi.com/common/img/logo@2x.png?e1f705ab5e59c84a" alt="bitz">
+</a>
+</div>
+<div class="item coins ">
+<a href="//www.bitz.com/exchange">Exchange</a>
+<div class="head-center-hide en" v-if="marginSelectShow&amp;&amp;!wgt1280">
+<ul class="coins-ul">
+<li>
+<a target="_blank" href="//www.bitz.com/exchange">Exchange</a>
+</li>
+<li class="margin">
+<a target="_blank" href="//www.bitz.com/marginExchange/btc_usdt?margin=open">
+Margin
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="item item-margin" style="display: none;" v-show="marginSelectShow&amp;&amp;wgt1280">
+<a href="//www.bitz.com/marginExchange/btc_usdt?margin=open">
+Margin
+</a>
+</div>
+<div class="item">
+<a href="//otc.bitz.com">OTC</a>
+</div>
+<div class="item item-contract">
+<a target="_blank" href="//swap.bitz.com">
+Contract
+<div class="margin-icon margin-new-icon"><span>New</span></div>
+</a>
+<div class="head-center-hide en">
+<ul class="otc-ul">
+<li>
+<a target="_blank" href="//swap.bitz.com">Perpetual</a>
+</li>
+<li>
+<a target="_blank" href="//testnet.bitz.com">Testnet</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="item activity  activity">
+<a href="//www.bitz.com/activity">Activities</a>
+<div class="head-center-hide en">
+<ul class="otc-ul">
+<li>
+<a target="_blank" :href="awardActivityUrl">Prized Event</a>
+</li>
+<li>
+<a target="_blank" href="//www.bitz.com/vote2">Vote for Launch</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="item">
+<a href="//u.bitz.com/freeico" target="_blank">Apply to List</a>
+</div>
+</div>
+<div class="right-menu">
+<div class="item login">
+<a :href="loginUrl">Sign In</a>
+</div>
+<div class="item line"></div>
+<div class="item register">
+<a :href="registerUrl">Sign Up</a>
+</div>
+<div class="item line"></div>
+<div class="item app-download">
+<i class="icon"></i>
+<div class="head-center-hide" @click="onClickDownloadApp">
+<div class="qr">
+<div alt="Bit-Z" class="two-dim-code" id="w-qrcode-header"></div>
+<p>Scan Download<i></i></p>
+</div>
+</div>
+</div>
+<div class="item line"></div>
+<div class="item help">
+<i class="icon"></i>
+<div class="head-center-hide en">
+<ul class="order-ul">
+<li>
+<a @click="onClickCustomService">Contact customer service</a>
+</li>
+<li>
+<a target="_blank" :href="exchangeTeachUrl">Exchange Tutorial</a>
+</li>
+<li>
+<a target="_blank" :href="otcTeachUrl">OTC Tutorial</a>
+</li>
+<li>
+<a target="_blank" :href="helpCenterUrl">Support</a>
+</li>
+<li>
+<a target="_blank" :href="annoucementUrl">Announcements</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="item line"></div>
+<div class="item language">
+<i class="icon"></i>
+<a>English</a>
+<div class="head-center-hide">
+<ul>
+<li style="display: none;" v-show="langReady" v-for="langItem in languages">
+<a :href="'/lang/switch?locale='+langItem.lang_tag" v-text="langItem.lang_name">
+</a>
+</li>
+<li class="lang-loading" v-show="langReady==false"></li>
+</ul>
+</div>
+</div>
+<div class="item line"></div>
+<div class="item trans" @mouseenter="showGoogleLayers" @mouseleave="hideGoogleLayers">
+<span>
+<img :src="googleIcon" alt="">
+</span>
+<div class="google-trans-layer" style="display: none" v-show="googleVisible">
+<h3>Website Translator</h3>
+<div id="google_translate_element"></div>
+<p>Translations by Google is provided for<br>convenience and is not verified contextually.<br>Please refer to original for accuracy.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="main" style="min-height: 186px;">
+<div class="privacy_content">
+<h2 class="font_bold">Bit-Z Privacy Policy</h2>
+<h4 class="mt_20 font_bold">Date of the last revision: October 10, 2018.</h4>
+<p class="mt_20">
+This Privacy Policy explains how Bit-Z collects, uses, shares, and protects user information obtained through the Bit-Z website. When we ask for certain personal information from users it is because we are required by law to collect this information or it is relevant for specified purposes. Any non-required information you provide to us is done so voluntarily. You decided whether to provide us with these non-required information; you may not be able to access or utilize all of our Services if you choose not to.
+</p>
+<ul>
+<li class="mt_20">
+<h4 class="font_bold">1. Parties</h4>
+<ul class="sub_ul">
+<li class="mt_20">
+Bit-Z is a platform dedicated to the transaction of digital assets and the provision of related services (hereinafter referred to as 'the Service'). For the convenience of wording in this Agreement, the Company and the Website are referred to collectively as 'we' or other applicable forms of first person pronouns in this Agreement.
+</li>
+<li>
+All natural persons or other subjects who log onto this Website shall be users of this Website. For the convenience of wording in this Agreement, the users are referred to as 'you' or any other applicable forms of the second-person pronouns.
+</li>
+<li>
+For the convenience of wording in this Agreement, you and we are collectively referred to as “both parties”, and individually as “one party”.
+</li>
+</ul>
+</li>
+<li class="mt_20">
+<h4 class="font_bold">2. Purposes of the Privacy Policy</h4>
+<p class="mt_20">
+The Privacy Policy stipulates the types of information of yours that we may collect through your log into this Website, your registration with this Website, and/or use the services we offer, as well as how we shall use and protect the information so collected.
+</p>
+</li>
+<li class="mt_20">
+<h4 class="font_bold">3. Using This Website Means That You Agree to All the Regulations in This Article</h4>
+<p class="mt_20">
+To ensure that you have full confidence in our handling of personal data, you are advised to read and understand the terms of this Privacy Policy in detail. In particular, upon your log into our Website, regardless of whether you register with this Website, you shall be deemed to accept, agree, undertake and confirm that:
+</p>
+<ul class="sub_ul">
+<li>
+You, on the basis of your own free will and your requisite consent, agree to disclose your personal information to us;
+</li>
+<li>
+You will comply with all the terms and limitations of this Privacy Policy;
+</li>
+<li>
+You agree that we may collect your information through your log into this Website, your registration with this Website, and/or your using the Services offered by us; you agree to any changes and modifications that we may make to our Privacy Policy in the future;
+</li>
+<li>
+You agree that our branches, affiliates and employees may contact you in connection with the products and services that you may be interested in (unless you have indicated that you do not want to receive such information).
+</li>
+<li>
+If your information is used for other purposes not covered by this document, we will notify you in advance and obtain your consent.
+</li>
+</ul>
+</li>
+<li class="mt_20">
+<h4 class="font_bold">4. Information We Collect</h4>
+<ul class="sub_ul">
+<li class="mt_20">
+When you use this Website, you agree to permit us to use cookies to track each of your actions and collect and keep all the information that you leave on this Website, including but not limited to your IP address, location, and other information.
+</li>
+<li>
+<p>If you are willing to use the services offered by this Website, you will be required to fill in and provide the following two categories of information:</p>
+<p>
+1. Identity Information<br>
+Such information can help us verify whether you are eligible to be registered as a member of this Website. It includes but is not limited to your name, residence address, mailing address, other certificates and corresponding numbers thereof that are issued by your country or government to certify your identity information, as well as all other information that can help us to verify your identity (hereinafter referred to as 'identity information').
+</p>
+<p>
+2. Service Information<br>
+Such information helps us to contact you and provide you with the services, including but not limited to your phone number, fax number, valid email address, mailing address, and information concerning your debit card and/or other accounts (hereinafter collectively referred to as 'service information').
+</p>
+</li>
+<li>
+When you use this Website or the services this Website offers, we may collect more information necessary from our exclusive mailboxes or in other manners that we consider as in compliance with relevant requirements, for the purpose of improving the functions of this Website, enhancing your experience of using this Website and its services as well as the security thereof, or as is required by any court order, any applicable law, administrative regulation or any order of any other competent government agency.
+</li>
+<li>
+If you visit any of links to third-party websites as are listed on this Website or any link of any of our third-party partners, you shall agree to and comply with the separate and independent Privacy Policy of such third party website. We will not bear any liability for the contents and activities of such websites or the partners.
+</li>
+</ul>
+</li>
+<li class="mt_20">
+<h4 class="font_bold">5. Use of Cookies</h4>
+<ul class="sub_ul">
+<li class="mt_20">
+When you visit our Website, we collect information about your use of Bit-Z or check the effectiveness of online advertising through cookies or other means. Cookies are a small amount of data that is sent to your browser and stored on your computer hard drive. Only when you use your computer to access our Website can the cookies be sent to your computer hard drive.
+</li>
+<li>
+Cookies are usually used to record the habits and preferences of visitors in browsing the items on our Website. The information collected by cookies is non-registered and collective statistical data and does not involve personal data.
+</li>
+<li>
+Cookies, which enable the Website or service provider system to recognize your browser and capture and recall information, cannot be used to obtain data on your hard drive, your email address, or your personal data. Most browsers are designed to accept cookies. You can opt to set your browser to reject cookies, or to notify you as soon as possible if you are loaded on cookies. However, if you set your browser to disable cookies, it is possible that you may not be able to launch or use some functions of our Website.
+</li>
+</ul>
+</li>
+<li class="mt_20">
+<h4 class="font_bold">6. Purposes of Information</h4>
+<ul class="sub_ul">
+<li class="mt_20">
+<p>We will use your information that we collect for the following purposes or in the following ways:</p>
+<p>1. to provide you with our Services through our Website;</p>
+<p>2. to identify and confirm your identity when you use our Website;</p>
+<p>3. to improve and upgrade the services of the Website (your information and feedback received by us can help us improve the service of the Website, so that we can more effectively respond to your service requests and support needs);</p>
+<p>4. to keep statistics relating to the use of our Website and to be used for data analysis carried out in cooperation with government agencies, public affairs institutions;</p>
+<p>5. to personalize your experience (your information will help us to better respond to your personalized needs);</p>
+<p>6. to facilitate transactions (your information, whether public or private, will not be sold, exchanged, transferred, or otherwise provided to any other company on any grounds without your consent, except for where doing so is expressly for the purpose of completing the transaction you require);</p>
+<p>7. to send email regularly (the email address that you provide for the purpose of processing orders may be used to receive information on and updates to your orders, in addition to newsletters, updates, related products or services information, etc.,that we may send to you from time to time);</p>
+<p>8. to meet other purposes as specified in the User Agreement of this Website and all legal means adopted for satisfying such purposes.</p>
+</li>
+<li>
+We do not sell, trade, or otherwise transfer information or allow others to collect, use information; however, such information does not involve the following parties and does not include the following information: our affiliates, trusted third parties who help us operate our websites, manage our business, or provide services to you, provided that such parties agree to keep such information confidential; When we believe that information disclosure is appropriate, or it is required by any of the applicable laws, regulations, rules or by any order of courts or other competent authorities, and is necessary for executing the strategy of our Website and ensuring the proper functioning of the Website, or as may be necessary for the related parties to provide services, or for the protection of the rights, property or safety of us or other persons. However, your information will not be provided to other parties for marketing, advertising or other purposes.
+</li>
+</ul>
+</li>
+<li class="mt_20">
+<h4 class="font_bold">7. Protection of Personal Data</h4>
+<ul class="sub_ul">
+<li class="mt_20">
+<p>We adopt appropriate physical, electronic, management and technical measures so as to protect and safeguard the security of your personal data. We will, to the greatest extent possible, ensure that any personal data collected through our Website shall be free from being subject to nuisance by any third party unrelated to us. The security measures that we may take include but are not limited to:</p>
+<p>1. Physical measures: records of your personal data will be stored in a properly locked place.</p>
+<p>2. Electronic measures: The computer data that contain your personal information will be stored in computer systems and storage medias that are subject to strict login restrictions.</p>
+<p>3. Management measures: only staff members duly authorized by us can access your personal data, and these staff members shall comply with our internal code concerning personal data confidentiality.</p>
+<p>4. Technical measures: encryption techniques may be used to convey your personal data.</p>
+<p>5. Other measures: our network servers are protected by proper 'firewall '.</p>
+</li>
+<li>
+If you are aware of any security flaws in our Website, please contact us immediately so that we can take appropriate action as soon as possible.
+</li>
+<li>
+Despite of the above-mentioned technical and security measures, we cannot guarantee that the information transmitted via the Internet is absolutely safe, so we cannot absolutely guarantee that the personal data that you provide to us through our Website will be safe at any time. We will not be held liable for any loss or damage arising from or caused by any event that may occur in connection with unauthorized access to your personal data, and we shall not be held liable for compensation for such loss or damage.
+</li>
+</ul>
+</li>
+<li class="mt_20">
+<h4 class="font_bold">8. Modification to the Privacy Policy</h4>
+<p class="mt_20">
+We reserve the right to amend the Privacy Policy from time to time and at any time. We will inform you of the modifications made to the Privacy Policy by updating and publishing the effective date of the release of new versions hereof and highlighting the amendments. You shall regularly review the Privacy Policy and focus on its modifications, and if you do not agree to such modifications, you shall immediately stop accessing this Website. When an updated version of this Privacy Policy is released, your continued visit to this Website shall indicate and show that you agree to the update and agree to comply with the updated Privacy Policy.
+</p>
+</li>
+<li class="mt_20">
+<h4 class="font_bold">9. Contact Us</h4>
+<ul class="sub_ul">
+<li class="mt_20">
+We only publish announcements and information on the basis of the valid and effective contact information on this Website or post announcements on this Website; therefore, we shall not be held liable for any loss arising from your trust in the information that has not been obtained through the above-mentioned means.
+</li>
+<li>
+If you have any questions regarding our Privacy Policy, please feel free to contact us via email or online customer service.
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="networkToast" class="z-toast" style="display: none;">
+Network exception, please refresh the web page or try again later.
+</div>
+</div>
+<div id="footer">
+<div class="footer-sec1">
+<div class="ft-inner-c">
+<div class="ft-inner-box en">
+<h2>Platform</h2>
+<ul>
+<li>
+<a href="//www.bitz.com/exchange" target="_blank">Exchange</a>
+</li>
+<li>
+<a target="_blank" href="//www.bitz.com/marginExchange/btc_usdt?margin=open">Margin</a>
+</li>
+<li>
+<a href="//otc.bitz.com/" target="_blank">OTC</a>
+</li>
+<li>
+<a target="_blank" href="//swap.bitz.com">Contract</a>
+</li>
+</ul>
+<ul class="second">
+<li>
+<a href="https://www.bitz.com/vote2/vote-gxc" target="_blank">TrustNodes Vote</a>
+</li>
+<li>
+<a href="//www.bitz.com/safety" target="_blank">About Bit-Z</a>
+</li>
+<li>
+<a href="//www.bitz.com/app?welcome" target="_blank">Download APP</a>
+</li>
+<li>
+<a href="//www.bitz.com/beniwide">Beniwide</a>
+</li>
+</ul>
+</div>
+<div class="ft-inner-box en">
+<h2>Service</h2>
+<ul>
+<li>
+<a href="https://help.bitz.com/section/100000000?lang=en" target="_blank">Announcements</a>
+</li>
+<li>
+<a href="//apidoc.bitz.com/en/" target="_blank">API</a>
+</li>
+<li>
+<a href="//www.bitz.com/terms?welcome" target="_blank">Terms of Use</a>
+</li>
+</ul>
+<ul class="second">
+<li>
+<a href="//www.bitz.com/fee?type=1" target="_blank">Fees</a>
+</li>
+<li>
+<a href="//u.bitz.com/freeico" target="_blank">Apply to List</a>
+</li>
+<li>
+<a href="//www.bitz.com/privacy/policy?welcome" target="_blank">Privacy</a>
+</li>
+</ul>
+<ul class="second">
+<li>
+<a target="_blank" href="//www.bitz.com/alliance">Recruit partners</a>
+</li>
+<li>
+<a href="https://help.bitz.com?lang=en" target="_blank">Guide</a>
+</li>
+</ul>
+</div>
+<div class="ft-inner-box en">
+<h2>Contact Us</h2>
+<ul>
+<li>
+<span id="bussinessEmail">Business Support: business@bitz.email</span>
+</li>
+<li><span>Market: bd@bitz.email</span></li>
+<li><span>Bug Submit: safe@bitz.email</span></li>
+</ul>
+<ul class="second">
+<li class="add_server en">
+<span>Official WeChat: Bitz_888</span>
+<div class="ft_hide_code">
+<img src="https://imgv2e1.ahighapi.com/common/img/footer/qrcode.png?v=20190225" alt="bitz">
+<em class="hidesj"></em>
+</div>
+</li>
+<li><span>Customer Service: service@bitz.email</span></li>
+<li><span style="font-size: 12px">CEO</span><span>Email: ceo@bitz.email</span></li>
+</ul>
+</div>
+<div class="ft-inner-box ft-inner-friend-link en">
+<h2>Follow Us</h2>
+<ul>
+<li>
+<a href="https://twitter.com/BitZ_Group" title="Twitter" target="_blank">
+<i class="addimg twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/BitZAgency/" title="Facebook" target="_blank">
+<i class="addimg facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/in/bit-z-exchange-062194149/detail/recent-activity/" title="Linkedin" target="_blank">
+<i class="addimg linkedin"></i>
+</a>
+</li>
+<li>
+<a href="https://t.me/bitzEN" title="Telegram" target="_blank">
+<i class="addimg telegram"></i>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/bitzexchange/#" title="Instagram" target="_blank">
+<i class="addimg instagram"></i>
+</a>
+</li>
+<li>
+<a href="https://medium.com/@Bit_z.com" title="Medium" target="_blank">
+<i class="addimg medium"></i>
+</a>
+</li>
+<li class="fticon_addimg">
+<a href="https://weibo.com/6528852135/profile?topnav=1&amp;wvr=6&amp;is_all=1" title="Weibo" target="_blank">
+<i class="addimg weibo"></i>
+</a>
+</li>
+<li>
+<a href="https://join.skype.com/NQJpd9H0BYpM" title="skype community" target="_blank">
+<i class="addimg skype-community"></i>
+</a>
+</li>
+<li>
+<a href="http://0.plus/bitzEN" title="BiYong" target="_blank">
+<i class="addimg biyong"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-sec2">
+<div class="ft-inner-logo">
+<a class="logo" href="/"><img src="https://imgv2e1.ahighapi.com/common/img/logo@2x.png?e1f705ab5e59c84a"></a>
+<p>
+<span class="union-title">Union Sites</span><a target="_blank" href="https://www.bitkop.com">Singapore Bitkop</a>
+<span class="line">|</span>
+
+<a target="_blank" href="https://www.bit-m.com">South East Asia Bit-M</a>
+<span class="line">|</span>
+<a target="_blank" href="//www.bitz.com/alliance">Recruit partners</a>
+</p>
+<span class="copy">Copyright © 2016-2019 Bit-Z(eus)</span>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">!function(){var e={37:1,38:1,39:1,40:1};function n(e){(e=e||window.event).preventDefault&&e.preventDefault(),e.returnValue=!1}function o(o){if(e[o.keyCode])return n(o),!1}window.disableScroll=function(){window.addEventListener&&window.addEventListener("DOMMouseScroll",n,!1),window.onwheel=n,window.onmousewheel=document.onmousewheel=n,window.ontouchmove=n,document.onkeydown=o},window.enableScroll=function(){window.removeEventListener&&window.removeEventListener("DOMMouseScroll",n,!1),window.onmousewheel=document.onmousewheel=null,window.onwheel=null,window.ontouchmove=null,document.onkeydown=null}}(),function(){function e(){var e=Math.max(window.innerHeight,600),n=document.getElementById("header"),o=document.getElementById("footer");if(n&&o){var t=e-n.offsetHeight-o.offsetHeight-10;document.getElementById("main").style["min-height"]=t+"px"}}e(),window.addEventListener("resize",function(){setTimeout(function(){e()})})}(),function(e){var n={show:function(n){setTimeout(function(){window.disableScroll();var e=document.getElementById("globalLoading");e&&("undefined"!=typeof $&&$(window).scrollTop(0),function(e,n){if(e.classList)e.classList.add(n);else{var o=e.className.split(" ");o.push(n),e.className=o.join(" ")}}(e,"no-transition"),e.style.opacity=1,e.style.display="")}),setTimeout(function(){e.LoadingUtil.hide()},2e4)},hide:function(){setTimeout(function(){window.enableScroll();var e=document.getElementById("globalLoading");e&&(!function(e,n){if(e.classList)e.classList.remove(n);else{var o=e.className.split(" "),t=o.indexOf(n);-1!=t&&(o.splice(t,1),e.className=o.join(" "))}}(e,"no-transition"),e.style.opacity=.628,setTimeout(function(){e.style.display="none"},160))})}};setTimeout(function(){n.hide()},2e4),e.LoadingUtil=n}(window);</script>
+<script src="https://imgv2e1.ahighapi.com/3rd/qrcode/qrcode.min.js"></script>
+<script src="https://imgv2e1.ahighapi.com/3rd/jquery/jquery-3.3.1.min.js"></script>
+<script src="https://imgv2e1.ahighapi.com/3rd/vue/vue.min.js"></script>
+<script src="https://imgv2e1.ahighapi.com/3rd/big/big.min.js"></script>
+<script src="https://imgv2e1.ahighapi.com/3rd/encrypt/md5.min.js"></script>
+<script type="text/javascript">function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:"zh",layout:google.translate.TranslateElement.InlineLayout.SIMPLE},"google_translate_element")}!function(){function e(e,t,n){var r=document.createElement(e);for(var a in n)r.setAttribute(a,n[a]);return r.innerText=void 0===t?"":t,r.outerHTML}function t(t){var n=[].concat.apply([],arguments);if(n.shift(),!t)return"";if(!n.length)return t;for(var r=0;r<n.length;r++){var a=new RegExp("#"+r+"#","ig"),o=n[r];if("object"==typeof o){var l=e(o.tag||"span",o.text,o.attrs||{});t=t.replace(a,l)}else t=t.replace(a,o)}return t}Vue.prototype.formatI18N=t,Vue.filter("formatI18N",t)}(),window.addEventListener("error",function(e){"[object Event]"===[].toString.call(e,e)&&"script"===e.target.localName&&sa_sendLog("js_error",{msg:e.target.src})},!0);</script>
+<script async="" type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src="https://imgv2e1.ahighapi.com/3rd/jquery/jquery.cookie.js"></script>
+<script src="https://imgv2e1.ahighapi.com/page/help/fee.js"></script>
+
+<link rel="stylesheet" href="https://imgv2e1.ahighapi.com/common/css/iconfont/iconfont_1042fbca.css">
+
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=26e5e676-b466-4e50-b79f-95e57d87aa0b"></script>
+<script type="text/javascript">setTimeout(function(){"function"==typeof zE&&zE(function(n,o,t){var z=window.APP_CONFIG.LANG;"zh"==z?z="zh-cn":"zh_HK"==z?z="zh-tw":"en"==z?z="en-US":"kr"==z?z="ko":"jp"==z&&(z="ja"),zE.setLocale(z||"zh-cn")})});</script>
+<script src="https://imgv2e1.ahighapi.com/3rd/logrocket/LogRocket.min.js" crossorigin="anonymous"></script>
+<script>
+window.LogRocket && window.LogRocket.init('tuml24/bit-z');
+      // This is an example script - don't forget to change it!
+      if (window.UserInfo) {
+        LogRocket.identify(window.UserInfo.uid, {
+          name: window.UserInfo.nick_name,
+          email: window.UserInfo.email,
+          subscriptionType: 'bitz-web2.0'
+        });
+      }
+</script>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-128987028-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-128987028-1');
+
+      if (window.UserInfo) {
+        gtag('set', {'user_id': window.UserInfo.uid});
+      }
+</script>
+<link rel="stylesheet" href="https://imgv2e1.ahighapi.com/common/css/reset.notification_14d0771a.css">
+</body></html>
