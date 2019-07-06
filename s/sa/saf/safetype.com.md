@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetype.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225194110id_/https%3A//safetype.com/index.php%3Fid_cms%3D6%26controller%3Dcms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetype.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706143224id_/https%3A//safetype.com/index.php%3Fid_cms%3D6%26controller%3Dcms) for the most accurate reproduction.*
 
 # Privacy Notice - SafeType
 
