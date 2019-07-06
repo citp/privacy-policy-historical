@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the curalate.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030074317id_/https%3A//www.curalate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curalate.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706131212id_/https%3A//www.curalate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Curalate Social Commerce Platform
 
-**InternetRetailing.net** | See how Monsoon is using Curalate to increase time on site by 29% [ Read the Article ](http://bit.ly/2Pqd6Zd)
-
-_Last Updated: May 24, 2018_
+_Last Updated: April 9, 2019_
 
 **1\. About this Privacy Policy**
 
@@ -14,7 +12,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 **2\. Consent**
 
-By using or registering with our Service, you consent to this Privacy Policy. If you do not agree with any provisions of this Privacy Policy, you may not use our website, platform software or other Service. Information collected through the Service may be transferred, used and stored in the United States and in foreign jurisdictions in which we, our users, or our agents for the Service are located now or at any time in the future. If you access the Service, you consent to the capture, storage, transfer, use and processing of your Personal Information (as defined below) in and between all of those jurisdictions. The data protection and other laws in some countries and jurisdictions (such as the Federal laws and some State laws in the United States) are not as comprehensive or stringent as the privacy laws in other countries and jurisdictions (such as the laws of the European Union). You agree that all transactions relating to our Service shall be deemed to have occurred in the United States, where we currently have all of our personnel and operations.
+By using or registering with our Service, you consent to this Privacy Policy. If you do not agree with any provisions of this Privacy Policy, you may not use our website, platform software or other Service. Information collected through the Service may be transferred, used and stored in the United States and in foreign jurisdictions in which we, our users, or our agents for the Service are located now or at any time in the future. If you access the Service, you consent to the capture, storage, transfer, use and processing of your Personal Information (as defined below) in and between all of those jurisdictions.
 
 **3\. Collection of Information**
 
@@ -80,15 +78,20 @@ When you choose to post comments, messages and/or profile content on our Service
 
 When you choose to access or connect to the Service or a Social Site through Facebook, Twitter or another social networking website, certain information (“Social Network Information”) may be collected by us. Social Network Information includes, but is not limited to, the login credentials for your Facebook Connect, Twitter or other social networking or information-sharing website account, and information you authorize that third party site to share with us. Social Network Information may also include Personal Information about other individuals that our users authorize and provide to us. Curalate does not evade or circumvent personal privacy settings on Facebook or any other third party site. Also, Curalate does not have any control over any third party websites’ or service’ privacy practices; such websites or service are governed by their respective privacy policies, which you should review carefully.
 
-**13\. Changes to this Policy**
+**13\. Privacy Shield  
+**
+
+Curalate complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States. Our full Privacy Shield notice can be found at <http://curalate.com/privacy-shield-notice>.
+
+**14\. Changes to this Policy**
 
 Curalate may modify or update this Privacy Policy periodically with or without prior notice by posting an updated policy on the Service. You can always check the “last updated” date at the top of this document to see when the Privacy Policy was last changed. We may also post a notice of changes to this Privacy Policy on our website. We encourage you to check this Privacy Policy from time to time. Your continued use of our website and/or Service following the posting of an updated Privacy Policy constitutes your consent to the contents of such policy. IF YOU DO NOT AGREE TO FUTURE CHANGES TO THIS PRIVACY POLICY, YOU MUST STOP USING OUR WEBSITE AND SERVICE AFTER THE EFFECTIVE DATE OF SUCH CHANGES. Please note that upon leaving the Service, any Privacy Policy in effect immediately prior to your leaving shall continue to be binding on you.
 
-**14\. Con** **tact Us**
+**15\. Con** **tact Us**
 
 To ask questions about our Privacy Policy, obtain more information, or to lodge a complaint, contact us at:
 
 _**Curalate, Inc.**_  
-2401 Walnut Street, Suite 502  
+1628 John F. Kennedy Blvd, Suite 1400  
 Philadelphia, PA 19103  
 E-Mail: [hello@curalate.com](mailto:hello@curalate.com)
