@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtjobsmela.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605024035id_/http%3A//www.govtjobsmela.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsmela.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706230013id_/http%3A//www.govtjobsmela.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Govt Jobs Mela - Latest Government Jobs Openings, Recruitment, IT Sector Jobs
 
