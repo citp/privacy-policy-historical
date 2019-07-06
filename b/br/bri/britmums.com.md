@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the britmums.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331080644id_/https%3A//www.britmums.com/britmums-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britmums.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706175002id_/https%3A//www.britmums.com/britmums-privacy-policy) for the most accurate reproduction.*
 
 # BritMums Privacy Policy - BritMums
 
 This policy explains the way that we collect, use and protect your data as well as your options with regard to your data.
 
-We’ve tried to be as clear as possible, avoiding unnecessary jargon, while including all the relevant information. Please do email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1d74737b725d7f6f74697068706e337e7270) if something doesn’t make sense or needs expanding. 
+We’ve tried to be as clear as possible, avoiding unnecessary jargon, while including all the relevant information. Please do email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f161119103f1d0d160b120a120c511c1012) if something doesn’t make sense or needs expanding. 
 
 ### Our duty of care
 
@@ -22,7 +22,7 @@ Chiltern House, 45 Station Road
 
 Henley-on-Thames Oxfordshire RG9 1AT
 
-Email enquiries should got to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c5acaba3aa8587b7acb188b0a8b6eba6aaa8 "info@BritMums.com").
+Email enquiries should got to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ff96919990bfbd8d968bb28a928cd19c9092 "info@BritMums.com").
 
 ### About the Privacy Policy
 
@@ -70,6 +70,6 @@ No transmission of data over the Internet is guaranteed to be completely secure.
 
 The issue of privacy is an evolving one. BritMums committed to the constant monitoring and examination of our privacy practices, and may, from time to time, institute changes to our Privacy Policy. In the event that any material changes are made to our privacy practices, we will promptly make changes to this Privacy Policy that reflect such changes; therefore we recommend you review our policy regularly to check for updates. You can send e-mail to us with any further questions at the email address at the beginning of this Privacy Policy.
 
-Should you have questions or wish to access the personal information we retain about you please email us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5831363e37181a2a312c152d352b763b3735).
+Should you have questions or wish to access the personal information we retain about you please email us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c05020a032c2e1e05182119011f420f0301).
 
 [](http://www.hupso.com/share/)
