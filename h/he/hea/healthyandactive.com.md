@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyandactive.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226110533id_/https%3A//www.healthyandactive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyandactive.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706062801id_/https%3A//www.healthyandactive.com/privacy-policy) for the most accurate reproduction.*
 
 # Healthy & Active Privacy Policy
 
