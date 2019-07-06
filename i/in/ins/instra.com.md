@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instra.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227050359id_/http%3A//www.instra.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instra.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706103105id_/http%3A//www.instra.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Instra Corporation
 
