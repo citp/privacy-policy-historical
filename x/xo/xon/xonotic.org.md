@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xonotic.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618022124id_/http%3A//xonotic.org/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xonotic.org privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706035010id_/http%3A//www.xonotic.org/tos) for the most accurate reproduction.*
 
 # Terms of Service - Xonotic
 
