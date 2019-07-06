@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legends-decks.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419011448id_/https%3A//www.legends-decks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legends-decks.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706051120id_/https%3A//www.legends-decks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legends Decks - The Elder Scrolls: Legends
 
