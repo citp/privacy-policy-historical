@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606054254id_/https%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706061113id_/https%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Declaration | Engineers Edge
 
@@ -136,7 +136,7 @@ Should any event occur where customer data has been lost, stolen, or potentially
 Google is utilized to deliver targeted advertisements on Engineers Edge. Google does use their own cookies to serve ads. The Google organization uses cookies by DART to serve ads to you while you visit Engineers Edge and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Contact Us Form  
-**If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link: [webmaster](https://web.archive.org/web/20190606054254id_/https%3A//www.engineersedge.com/webmaster.htm)
+**If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link: [webmaster](https://web.archive.org/web/20190706061113id_/https%3A//www.engineersedge.com/webmaster.htm)
 
 **Privacy Policy Changes**  
 Although most changes are likely to be minor, Engineers Edge may change its Privacy Policy from time to time, and in Engineers Edge's sole discretion.
