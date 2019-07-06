@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalcarmomma.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606041417id_/https%3A//www.rentalcarmomma.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcarmomma.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706234706id_/http%3A//rentalcarmomma.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
