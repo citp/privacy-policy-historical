@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-angels.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507061811id_/http%3A//x-angels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-angels.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706183613id_/http%3A//x-angels.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
