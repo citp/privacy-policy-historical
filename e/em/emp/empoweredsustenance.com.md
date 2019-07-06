@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empoweredsustenance.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103010334id_/https%3A//empoweredsustenance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweredsustenance.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706141955id_/https%3A//empoweredsustenance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Empowered Sustenance
 
