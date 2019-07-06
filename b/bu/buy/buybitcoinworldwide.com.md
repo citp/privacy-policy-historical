@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buybitcoinworldwide.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613020414id_/https%3A//www.buybitcoinworldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buybitcoinworldwide.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706190417id_/https%3A//www.buybitcoinworldwide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
