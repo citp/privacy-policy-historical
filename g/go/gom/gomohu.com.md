@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomohu.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605044529id_/http%3A//store.gomohu.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomohu.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707002236id_/http%3A//store.gomohu.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
