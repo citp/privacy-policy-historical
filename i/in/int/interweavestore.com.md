@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the interweavestore.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926220646id_/http%3A//www.fwcommunity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interweavestore.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707014609id_/http%3A//www.fwcommunity.com/privacy) for the most accurate reproduction.*
 
-# Privacy | F+W
+# Privacy Policy - F+W Media
 
-Privacy Policy
-
-[Click here to view our Terms of Use Policy, Updated December 15, 2017](http://www.fwcommunity.com/termsofuse)
+[Click here to view our Terms of Use Policy, Updated December 15, 2017](https://www.fwmedia.com/terms)
 
 SUMMARY  
 This web site is owned by F+W Media, Inc. (“F+W”). At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
@@ -70,14 +68,14 @@ F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking coo
 
 The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
 
-Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?rd=3) and [Policies ](http://support.google.com/adwords/answer/2549116?hl=en&from=178363&rd=1)
+Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?rd=3) and [Policies](http://support.google.com/adwords/answer/2549116?hl=en&from=178363&rd=1)
 
 OPT-OUT
 
-You may opt out of the DoubleClick cookie by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+You may opt out of the DoubleClick cookie by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
 DOUBLECLICK’S REMARKETING PIXELS  
-You may opt out of DoubleClick’s remarketing pixels, by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)  or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+You may opt out of DoubleClick’s remarketing pixels, by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)  or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 INFORMATION ACCESS  
 Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
