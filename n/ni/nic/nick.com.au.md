@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nick.com.au privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611095142id_/http%3A//www.nick.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nick.com.au privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706193622id_/http%3A//www.nick.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Nickelodeon | Privacy Policy | Nickelodeon
 
