@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tacticalshit.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427002528id_/https%3A//shop.tacticalshit.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticalshit.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706044820id_/https%3A//shop.tacticalshit.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
-[](https://shop.tacticalshit.com/brand/tru-spec?cat=15)
+[](https://shop.tacticalshit.com/liberal-tears-gun-oil-and-liberal-penetrator-bundle)
 
 [ ](https://shop.tacticalshit.com/ "Tactical Shit")
 
