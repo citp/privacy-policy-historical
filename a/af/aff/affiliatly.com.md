@@ -1,0 +1,172 @@
+> *The following text is extracted and transformed from the affiliatly.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706233720id_/https%3A//www.affiliatly.com/legal-privacy) for the most accurate reproduction.*
+
+# Privacy Policy of Affiliatly
+
+**WHO WE ARE**
+
+The website Affiliatly.com is a service owned or controlled by Overcode LTD, a company duly established and validly under the Bulgarian law enterprise, address at existing under the laws of Bulgaria, registered with the Commercial Register under UIC 201552021, having its seat and registered address at Bulgaria, Vratza, str. Konstantin Ognyanovich 16, floor 2  (to be referred to in this document as “Overcode”, “Affiliatly”, “we”, “our” or “us”).
+
+Affiliatly has established this Privacy Policy to inform you:
+
+**HOW WE COLLECT AND USE THE PERSONAL INFORMATION** that you provide to us and to others in the course of using our website located at https://www.affiliatly.com (the "Site") and to allow you to make an informed decision about how you will use our Site.  
+This Privacy Policy explains Affiliatly’s information practices at the Site, such **AS THE TYPES OF PERSONAL INFORMATION WE COLLECT regarding visitors to the Site and HOW WE MAY USE THAT INFORMATION**. Please review this Privacy Policy carefully. In addition, please review the Site’s Terms of Service https://www.affiliatly.com/legal-tos which govern your use of the Site.
+
+For the purpose of this privacy policies, the terms shall have the following meanings: 
+
+**Our "Site"** includes any and all of our websites, including www.аffiliatly.com, and those domains directly associated with any of them, and all related services, applications, components, programs, software, listings, directories, tools, message boards, databases, usernames, passwords, and information offered by Affiliatly and made available and utilized through each of the foregoing.  
+References to **"you"** in this Privacy Policy means you, your duly authorized representatives and any entity you may represent in connection with your use of the Site;  
+ ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’), where an identifiable natural person is one who can be identified, directly or indirectly.
+
+This Privacy Policy applies to the use of the Site and governs data collection and usage, whether the Site accessed via computer, mobile device or otherwise. For the purposes of this Privacy Policy, unless otherwise noted, all references to Affiliatly include the Site and Affiliatly.
+
+The Site includes a cloud platform that tracks sales from referrals made by merchants’ affiliates. By registering to use our Site and by continuing to use our Site, you are consenting to the terms of this Privacy Policy and acknowledging that all information you provide to us through the Site will be subject to our information practices disclosed herein. If you do not agree to be bound by this Privacy Policy, you should not use our Site.
+
+Our Privacy Policy addresses only our practices with respect to information we collect about you in the course of using our Site and does not apply to information about you that might be collected by a third-party website or an offering linked to or otherwise accessible from our Site or offline by Affiliatly (unless specifically stated). Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties.
+
+**Collection of your Personal Information**
+
+Affiliatly may collect personal data that you provide to us in the course of registration or otherwise.
+
+**WHAT TYPE OF INFORMATION WE COLLECT:**  
+your name, e-mail addresses,  
+telephone and fax numbers,  
+home or work addresses,  
+city, state, country,  
+age,  
+unique identifiers such as username, account number or password,  
+payment and account information,  
+reference information such as order history or marketing preferences and similar information.  
+your IP address, browser type, domain names, access times, referring website addresses, device identifiers, operating system, or information gained from cookies, pixels or other tracking technologies.  
+We may gather additional personal or non-personal information in the future, in which case we shall inform you, and when necessary obtain your explicit and informed consent;
+
+The information about your computer or mobile device hardware and software may be automatically collected by Affiliatly is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Affiliatly website.
+
+Sometimes, we may combine personally identifiable information you provide with information about you from third-party sources. For example, we may confirm your address with the postal service or verify your personal information with a credit-reporting agency. We will treat the combined information in accordance with the terms of this Privacy Policy.
+
+We may also collect information other than personally identifiable information that does not reveal your identity or directly relate to a person. We may collect the following information from you:  
+•    Information about you or your business such as company name, company size, or business type;  
+•    Demographic information, such as interests and ZIP code; and  
+•    Information about your computer or mobile device.
+
+Affiliatly encourages you to review the privacy statements of websites you choose to link to from Affiliatly so that you can understand how those websites collect, use and share your information. Affiliatly is not responsible for the privacy statements or other content on websites outside of the Site
+
+**Use of your Personal Information**
+
+**WHY WE PROCESS YOUR PERSONAL DATA**
+
+Affiliatly collects and uses your personal information to operate its Site and deliver the services you have requested. In particular, we may use such information as follows:  
+•    to provide you with the services, including without limitation, in connection with the tracking of your merchant affiliate transactions;  
+•    to verify your identity and/or location in order to allow access to your accounts, conduct online transactions, and secure your personally identifiable information;  
+•    to send you important information, such as changes to terms, conditions, and policies and/or other administrative information;  
+•    to respond to your inquiries and fulfill your requests;  
+•    to track referrals from partner and affiliate websites;  
+•    to personalize your experience on the Site by presenting content or offers tailored to you;  
+•    to send you marketing communications you have signed up for or that we believe may be of interest to you;  
+•    to allow you to use various Site features;  
+•    to assist in verifying your identity and account status when we deal with you through our social media pages; we may combine this information with information we already have;  
+•    for business purposes related to the services we may provide from time to time, including data analysis, audits, developing and improving products and services, enhancing the Site, identifying usage trends and determining the effectiveness of promotional campaigns; and  
+•    for risk control, fraud detection and prevention, and compliance with laws and regulations.
+
+Affiliatly may also use your personally identifiable information to inform you of other products or services available from Affiliatly and its affiliates and partners, if you have given your freely, informed and specific consent for this purpose Affiliatly may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered, if you have given your consent.
+
+Affiliatly does not sell, rent or lease its customer lists and their personal data to third parties.
+
+**WHEN DOES AFFILIATLY DISCLOSE YOUR PERSONAL DATA**
+
+Affiliatly may share data with its business partners, vendors and service providers for various tasks related to the provision of our services, including to help perform statistical analysis, send you email or postal mail, or provide customer support. All such third parties are prohibited from using your personal information except to provide services to Affiliatly, and they are directed to maintain the confidentiality of your information.  
+If Affiliatly is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified by email and/or by a prominent notice on the Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personally identifiable information.  
+Affiliatly will otherwise disclose your personally identifiable information, **without notice, only if required to do so by law or in the good faith** belief that such action is necessary to: (a) conform to the statutory, administrative or other legal requirements or comply with legal process served on Affiliatly or the Site;, (b) act under exigent circumstances to protect the personal safety of users of Affiliatly, or the public, investigate fraud or respond to a government request.  
+In any other case, we may disclose your personally identifiable information to any third party only with your prior consent.
+
+**Use of Cookies**
+
+The Site may use "cookies" to help you personalize your online experience and track sales.  
+A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary PURPOSES OF COOKIES is to provide a convenience feature to save you time.  
+The purpose of a cookie is to tell the Web server that you have returned to a specific page.  
+For example, if you personalize pages on the Site, or register with the Site or Affiliatly services, a cookie helps Affiliatly to recall your specific information on subsequent visits.
+
+This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to our Site, the information you previously provided can be retrieved, so you can easily use the Affiliatly features that you customized.
+
+_You have the ability to accept or decline cookies._  
+Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.  
+If you choose to decline cookies, you may not be able to fully experience the interactive features of the Affiliatly services or websites you visit. However, we declare that you shall be able to continue enjoying our services in case you prefer to refuse the usage of cookies.
+
+**Your Username and Password**
+
+You are responsible for keeping your password for certain of the Site confidential and secret. Anyone given your password will have the ability to edit your user settings at any time. As such and for other important security reasons, we urge you to keep your password secure and safe at all times if you are assigned or create one.
+
+By using our Site, you acknowledge that you and you alone are responsible for the security of your username and password if you are assigned or create one.
+
+**Security of Your Personal Information**
+
+Affiliatly follows generally accepted standards to protect your personally identifiable information submitted to us, both during transmission and once it is received. Affiliatly declares that the related legislation is duly including the General Data Protection Act (GDPR). If you have any questions about the security of your personal information, you can contact us at [admin@аffiliatly.com].
+
+In particular, the Site is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to the Site as safe as reasonably possible.
+
+ Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems and are required to keep the information confidential. In addition, all sensitive/financial information you supply is encrypted via Secure Socket Layer (SSL) technology provided by Comodo.
+
+To secure your personal information from unauthorized access, use or disclosure, Affiliatly also uses the SSL services of Cloudflare.
+
+**What is the Period For Which the Personal Data is Processed**
+
+Affiliatly will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information in case it is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, terms of service, terms of use and other policies.
+
+**Children Under Eighteen**
+
+Affiliatly does not knowingly collect personally identifiable information from children under the age of eighteen. The Site is not directed to individuals under the age of eighteen (18), and we request that such individuals do not provide personally identifiable information through the Site.
+
+**Third Party Websites**  
+In connection with our tracking and other services, you will be able to connect your Affiliatly account to third party accounts. BY CONNECTING YOUR AFFILIATLY ACCOUNT TO YOUR THIRD-PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD-PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION (PERSONAL DATA), TO BE SHARED IN THIS MANNER, DO NOT USE THE THIS FEATURE.
+
+You may disconnect your account from a third-party account at any time. Users may learn how to disconnect their accounts from third-party websites by accessing their account settings.
+
+**Opt-Out & Unsubscribe**  
+WHAT ARE YOUR RIGHTS?
+
+The GDPR provides you with a number of rights in relation to your personal data. These include rights to the rectification or erasure of your personal data, and to restrict or object to its processing.
+
+Rectification
+
+If you find that any of the personal data that we hold about you is inaccurate, incomplete or contains errors, please notify us in writing and we shall undertake to make the appropriate corrections at the earliest opportunity.
+
+Erasure
+
+Should you wish to have some or all of your personal data erased, we will endeavor to do so although there may be instances where legitimate interests or the performance of our statutory obligations prevent us from doing so. The erasure of your personal data could result in an inability to provide you with some or all of our services.
+
+Restriction or Objection
+
+If you wish to object to or restrict how your personal data is processed by us, you can do so by writing to us. Please see our contact details below. Please be aware that such requests could result in an inability to provide you with some or all of our services.
+
+You also have the right to data portability and to make a data subject access request.
+
+Portability
+
+You may request that Affiliatly provide the personal data that we hold about you to another data controller in a structured, commonly used and machine-readable format.
+
+Access
+
+You may request to be told whether or not personal data about you is being processed by Affiliatly If your personal data is being processed, you are entitled to receive a response from us that provides you with a description of that personal data, the purpose for which it is processed, the recipients or category of recipients to whom that data is disclosed, the source of the personal data, and information about its retention and storage. A copy of the personal data that is undergoing processing shall be provided to you.
+
+To make such requests, it is advisable to do so in writing and to address this communication to admin@affiliatly.com .
+
+We respect your privacy and give you an opportunity to withdraw your consent for receiving announcements or certain information concerning our products or services that you request from us or which we feel may interest you by email. Users may withdraw their consent for receiving any or all communications from Affiliatly by contacting us here:  
+•    Web page: https://www.affiliatly.com  
+•    Email: admin@affiliatly.com
+
+**Changes to this Privacy Policy**  
+We may change or update parts of this Privacy Policy in order to maintain our compliance with applicable law and regulations, or following an update to our internal practices. We will  
+inform you of such changes and where your consent is affected, we will ask you to renew your consent by using the same process as referred to in our General Terms and Conditions.  
+We will also inform you about changes to this Privacy Policy via our usual channel of communication.
+
+**Contact Information**  
+Affiliatly welcomes your questions or comments regarding this Privacy Policy. You may contact us at:
+
+Overcode LTD  
+str. Konstantin Ognyanovich 16, floor 2  
+Vratza  
+3000  
+Bulgaria
+
+Email Address: admin@affiliatly.com
