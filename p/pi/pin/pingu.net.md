@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingu.net privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626045255id_/http%3A//corporate.mattel.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingu.net privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706151037id_/http%3A//corporate.mattel.com/privacy-statement.aspx%3Futm_source%3Dmattel.com) for the most accurate reproduction.*
 
 # Mattel Online Privacy Statement
 
