@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nperf.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505070533id_/http%3A//www.nperf.com/about-us/%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nperf.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706182248id_/https%3A//www.nperf.com/about-us/%23pp) for the most accurate reproduction.*
 
 # About - nPerf
 
