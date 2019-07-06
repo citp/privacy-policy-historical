@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleofprofit.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506182153id_/https%3A//circleofprofit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleofprofit.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706181631id_/https%3A//circleofprofit.com/privacy-policy) for the most accurate reproduction.*
 
 # Circle Of Profit
 
