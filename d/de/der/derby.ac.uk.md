@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321152924id_/https%3A//www.derby.ac.uk/about/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706053228id_/https%3A//www.derby.ac.uk/about/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies - About us - University of Derby
 
@@ -20,4 +20,4 @@ As you browse [www.derby.ac.uk](https://www.derby.ac.uk/), your visit is automa
 
 Cookies do lots of different jobs and generally improve the user experience. We don't collect any personal information like your name, date of birth, email address or address.
 
-Most web browsers allow you to control most cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Most web browsers allow you to control most cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
