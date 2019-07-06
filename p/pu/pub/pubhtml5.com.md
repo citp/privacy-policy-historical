@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubhtml5.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625103153id_/http%3A//pubhtml5.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubhtml5.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706054123id_/http%3A//pubhtml5.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PUBHTML5
 
