@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fotofuze.com privacy policy that was archived on 2018-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180603105905id_/http%3A//fotofuze.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fotofuze.com privacy policy that was archived on 2019-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190706173751id_/http%3A//fotofuze.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
 <script type="text/javascript" async="" src="https://widget.uservoice.com/WDLUQKXrzQcZ28bBm6NKNQ.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -21,13 +21,12 @@
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <link rel="shortcut icon" href="/icons/favicons/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="FotoFuze: News and Featured Fuzes" href="http://feeds.feedburner.com/fotofuze">
-
-
-
-<link rel="stylesheet" href="/css/compiled.css?v=14&amp;dv=1">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ubuntu:regular,bold&amp;subset=Latin">
+<link rel="stylesheet" href="/css/compiled.css?v=16&amp;dv=5">
 <script>var uploadifyLoad, rangeinputLoad;</script>
-<script type="text/javascript" src="/js/compiled.js?v=45&amp;dv=22" onerror="alert(&quot;Error: failed to load page javascript!&quot;);"></script>
-<script type="text/javascript" src="/js/compiled2.js?v=45&amp;dv=22" onload="uploadifyLoad=1;rangeinputLoad=1;" onerror="uploadifyLoad=-1;rangeinputLoad=-1;alert(&quot;Error: failed to load page javascript!&quot;);"></script>
+<script type="text/javascript" src="/js/compiled.js?v=49&amp;dv=18" onerror="alert(&quot;Error: failed to load page javascript!&quot;);"></script>
+<script type="text/javascript" src="/js/compiled2.js?v=49&amp;dv=18" onload="uploadifyLoad=1;rangeinputLoad=1;" onerror="uploadifyLoad=-1;rangeinputLoad=-1;alert(&quot;Error: failed to load page javascript!&quot;);"></script>
 <script>
 $(function(){
 	if(window.pageLoadedCorrectly != 1) {
@@ -53,6 +52,8 @@ var user_jungl_key = encodeURIComponent('');
 // var useBrle = (%10 < 3) ? 1 : 0;
 var useBrle = 1;
 var useJungl = 0; //user_a ? 0 : 1;
+var contact_version = '25';
+var priorLogins = {};
 
 //if(user_id == '') {
 	if(location.href.indexOf("https") != 0) {
@@ -70,6 +71,8 @@ var useJungl = 0; //user_a ? 0 : 1;
 /*if("" == 0 && "0" == 1) {
 	window.location.href = "/cgi-bin/logout.pl";
 }*/
+
+priorLoginSetup();
 
 // local store of user's preferences
 
@@ -125,6 +128,26 @@ function ProControls() {
 	$(".facebox-title").html("");
 }
 </script>
+<script>
+function stopGifs() {
+//	console.log("visibilitychange", document.visibilityState, document.hasFocus());
+	if(document.visibilityState && document.hasFocus()) {
+		$('#profile-image').css("visibility", "");
+		$('#userbar-profile-image').css("visibility", "");
+	} else {
+		if($('#profile-image').length > 0 && $('#profile-image').attr("src").indexOf(".gif") >= 0) {
+			$('#profile-image').css("visibility", "hidden");
+		}
+		if($('#userbar-profile-image').attr("src").indexOf(".gif") >= 0) {
+			$('#userbar-profile-image').css("visibility", "hidden");
+		}
+	}
+}
+//document.onvisibilitychange = stopGifs;
+window.addEventListener("visibilitychange", stopGifs);
+window.addEventListener('focus', stopGifs);
+window.addEventListener('blur', stopGifs);
+</script>
 <!--[if lte IE 7]>
 	<link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen" title="IE Stylesheet" charset="utf-8" />
 <![endif]-->
@@ -165,17 +188,48 @@ var isIOSMobile = (/iphone|ipod|ipad|cpu os/).test(navigator.userAgent.toLowerCa
 <center style="height:0;"><a href="/"><div class="FFLogoSm"><img src="/static/images/ff_logo_sm1.gif"></div></a></center>
 <div id="ff-userbar">
 
-<a href="/static/html/signup.html?2" rel="facebox" class="faceboxed">Sign Up</a> | <a href="/">Home</a> | <span><a href="/static/html/contact.html?v=8" rel="facebox" class="faceboxed">Help</a> | </span><span id="signin"><a href="/static/html/login.html?4" class="doIt faceboxed" rel="facebox">Login</a></span>
+<a href="/static/html/signup.html?6" rel="facebox" class="faceboxed">Sign Up</a> | <a href="/">Home</a> | <span><a href="/static/html/contact.html?v=25" rel="facebox" class="faceboxed">Help</a> | </span><span id="signin"><a href="/static/html/login.html?6" class="doIt loginLink faceboxed" rel="facebox">Login</a></span>
 </div>
 </div>
 <div class="showDebug" style="display:none;"></div>
 <script>
 setupSettingsPopup();
 </script>
+
+<script>
+/*
+	if(window.user_etsy_id > 0) {
+		$(".showEtsyError").show();
+	}
+*/
+</script>
+
+<center class="mobileNotification" style="display:none;">
+<div style="height:1px;width:1px;"></div>
+<div style="font-size:16px;color:#555;clear:both;padding:15px;margin:50px 0 10px 0;width:40%;border-radius:10px;box-shadow:2px 2px 15px rgba(0,0,0,.15);line-height:30px;">
+
+<center>Our FotoFuze <b>Mobile App</b> is now available!<br>Get it on <a href="https://play.google.com/store/apps/details?id=com.oriku.fotofuze" target="_blank">Android</a> and <a href="https://itunes.apple.com/us/app/fotofuze/id1391204786" target="_blank">iOS</a>!</center>
+</div>
+</center>
 <center class="androidNotification" style="display:none;">
+<div style="height:1px;width:1px;"></div>
 <div style="font-size:16px;color:#555;clear:both;padding:15px;margin:50px 0 10px 0;width:40%;border-radius:10px;box-shadow:2px 2px 15px rgba(0,0,0,.15);line-height:30px;">
 
 <center>The FotoFuze <b>Android App</b> is now available!<br><a href="https://play.google.com/store/apps/details?id=com.oriku.fotofuze" target="_blank">Click here to get it!</a></center>
+</div>
+</center>
+<center class="iosNotification" style="display:none;">
+<div style="height:1px;width:1px;"></div>
+<div style="font-size:16px;color:#555;clear:both;padding:15px;margin:50px 0 10px 0;width:40%;border-radius:10px;box-shadow:2px 2px 15px rgba(0,0,0,.15);line-height:30px;">
+
+<center>The FotoFuze <b>iOS App</b> is now available!<br><a href="https://itunes.apple.com/us/app/fotofuze/id1391204786" target="_blank">Click here to get it!</a></center>
+</div>
+</center>
+<center class="saleNotification" style="display:none;">
+<div style="height:1px;width:1px;"></div>
+<div style="font-size:16px;color:#555;clear:both;padding:25px;margin:50px 0 10px 0;width:40%;border-radius:10px;box-shadow:2px 2px 15px rgba(0,0,0,.15);line-height:30px;">
+
+<center style="line-height:110%;"><div style="margin:10px 0 22px 0;font-size:20px;font-weight:bold;">Our Black Friday sale is ending shortly!</div>Enter the coupon code <a href="/page/pro?subscribe=annual&amp;coupon=BLACKFRIDAY18">BLACKFRIDAY18</a> to get 6 months off our annual subscription!<br><br>Our sale is limited to the <b>first 50 customers</b>!</center>
 </div>
 </center>
 <div style="color:red;clear:both;padding:15px;border:3px solid black;margin:50px 10px 10px 10px;background-color:pink;display:none;" class="ieUserMessage">
@@ -194,15 +248,27 @@ setupSettingsPopup();
 			$('.ff3UserMessage').show();
 		}
 	});
-	if((BrowserDetect.OS == 'Android' || Math.random() < .05 || (window.localStorage && localStorage.showAndroidAppNotif > 0)) && user_id != 0 && user_id != '' && window.location.href == 'https://fotofuze.com/') {
-		$(".androidNotification").show();
+	if((Math.random() < .05 || (window.localStorage && localStorage.showMobileAppNotif > 0)) && user_id != 0 && user_id != '' && window.location.pathname == '/') {
+		$(".mobileNotification").show();
 		if(window.localStorage) {
-			if(!localStorage.showAndroidAppNotif || localStorage.showAndroidAppNotif <= 0) {
-				localStorage.showAndroidAppNotif = 5;
+			if(!localStorage.showMobileAppNotif || localStorage.showMobileAppNotif <= 0) {
+				localStorage.showMobileAppNotif = 5;
 			} else {
-				localStorage.showAndroidAppNotif--;
+				localStorage.showMobileAppNotif--;
 			}
 		}
+	} else if(BrowserDetect.OS == 'Android') {
+		$(".androidNotification").show();
+		if((user_id == 0 || user_id == '') && window.location.pathname == '/') {
+			$(".androidNotification").css("margin", "135px 0 -100px 0");
+		}
+	} else if(BrowserDetect.OS == 'iOS') {
+		$(".iosNotification").show();
+		if((user_id == 0 || user_id == '') && window.location.pathname == '/') {
+			$(".iosNotification").css("margin", "135px 0 -100px 0");
+		}
+//	} else if(user_id != 0 && user_id != '' && user_p == 0) {
+//		$(".saleNotification").show();
 	}
 </script>
 <script>
@@ -248,8 +314,8 @@ if('0' == '1') {
 <li><a href="/page/terms" title="Terms of Service" class="state-aware">TOS</a></li>
 <li><a href="/page/privacy" title="Privacy" class="state-aware">Privacy</a></li>
 <li><a href="/page/faq" title="Frequently Asked Questions" class="state-aware">FAQ</a></li>
-<li><a href="/static/html/login.html?4" class="state-aware faceboxed" rel="facebox">Login</a></li>
-<li><a href="/static/html/contact.html?v=8" title="Help" rel="facebox" class="faceboxed">Help</a></li>
+<li><a href="/static/html/login.html?6" class="state-aware faceboxed" rel="facebox">Login</a></li>
+<li><a href="/static/html/contact.html?v=25" title="Help" rel="facebox" class="faceboxed">Help</a></li>
 <li></li>
 </ul>
 <center style="height:0px;"><p style="font-size:75%;color:#888;text-align:center;">© 2009-<span class="copyrightDate">2020</span> Oriku, Inc. | The term 'Etsy' is a trademark of Etsy, Inc. This application uses the Etsy API but is not endorsed or certified by Etsy, Inc.</p></center>
