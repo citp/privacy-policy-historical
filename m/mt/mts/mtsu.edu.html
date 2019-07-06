@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mtsu.edu privacy policy that was archived on 2019-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190411002531id_/https%3A//www.mtsu.edu/policies/general/121.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtsu.edu privacy policy that was archived on 2019-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190706142732id_/https%3A//mtsu.edu/policies/general/121.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
       <!--META INFO ====================================================-->
@@ -7,6 +7,7 @@
       <meta charset="UTF-8">
       <meta name="robots" content="all">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="custom-metadata" content="">
       <title>121 | Middle Tennessee State University</title>
       		
       <!-- com.omniupdate.properties -->
@@ -101,27 +102,28 @@ $(document).ready(function() {
 
 
 <script type="text/javascript">
+var hash;
 $(function(){
     windowScroll();
     $(window).scroll(function(){
         windowScroll();
     });
 	
+	hash = window.location.hash;
+	if (hash) {
+		console.log(hash);
+		setTimeout(function() {
+			hashScroll(hash);
+		}, 1);
+	}
+	
 	
 	$('a[href^="#"]').click(function(e) {
 		if(!$(this).parents('.tabarea').length) {
 			e.preventDefault();
-			var hash = $(this).attr('href');
+			hash = $(this).attr('href');
 			window.location.hash = hash.replace('#','');
-			var offset = 170;
-			if ($('#logo-and-nav').hasClass('fixed-menu')) {
-				offset = 100;
-			}
-
-			var hashObj = $(hash).length ? $(hash) : $('a[name="'+hash.replace('#','')+'"]');
-			if ($(hashObj).length) {
-				window.scrollTo(0,($(hashObj).offset().top - offset));				
-			}
+			hashScroll(hash);
 		}
 	});
 	
@@ -159,7 +161,7 @@ return $(this).attr('href').toLowerCase() === window.location.pathname.toLowerCa
 	$("#department_nav ul ul").addClass('hide-nav');
 
 	$('.leftnav li').click(function (ev) {
-		//if (!$(ev.target).is('a')) {
+		if (!$(ev.target).is('a')) {
 			if ($(this).find('> .hide-nav').length > 0) {		
 				$(this).find('> ul').removeClass('hide-nav');
 				$(this).find('> span.spanarrowdown').addClass('spanarrowup');
@@ -169,8 +171,8 @@ return $(this).attr('href').toLowerCase() === window.location.pathname.toLowerCa
 				$(this).find('> span.spanarrowup').addClass('spanarrowdown');
 				$(this).find('> span.spanarrowup').removeClass('spanarrowup');
 			}
-		//	return false;
-		//}
+			return false;
+		}
 	});
 	
 	$('#department_nav a').each(function(){
@@ -188,6 +190,18 @@ return $(this).attr('href').toLowerCase() === window.location.pathname.toLowerCa
 	});
 	//End left nav dropdowns
 });
+	
+function hashScroll(hash) {
+	var offset = 170;
+	if ($('#logo-and-nav').hasClass('fixed-menu')) {
+		offset = 100;
+	}
+
+	var hashObj = $(hash).length ? $(hash) : $('a[name="'+hash.replace('#','')+'"]');
+	if ($(hashObj).length) {
+		window.scrollTo(0,($(hashObj).offset().top - offset));				
+	}
+}
 	
 function windowScroll() {
 	var contentHeight = $('#main-container').innerHeight() + $('#footer').height() + $('#disclaimer').height() - $('#logo-and-nav').height();
@@ -324,8 +338,8 @@ $(document).ready(function() {
 											<li><a href="/about/index.php">About MTSU</a></li>
 											<li><a href="/programs/index.php">Academic Programs</a></li>
 											<li><a href="/maps/index.php">Campus Map and Directions</a></li>
-											<li><a href="http://www.mtsunews.com">News About MTSU</a></li>
-											<li><a href="/president">President's Post</a></li>
+											<li><a href="http://www.mtsunews.com" target="_blank">News About MTSU</a></li>
+											<li><a href="/president/index.php">President's Post</a></li>
 											<li><a href="/centers/">Research Centers</a></li>
 											<li><a href="/schedule-a-visit/index.php">Schedule a Visit</a></li>
 										</ul>
@@ -465,7 +479,7 @@ $(document).ready(function() {
          <!--BEGIN BODY TEMPLATE CALL ====================================================--><div class="row" id="main-container">
             <div class="main-content max-page-width">
                <!--BEGIN LEFT SIDE  ====================================================-->
-               <div class="col-md-3">
+               <div class="col-md-2" id="left-col">
                   <nav class="row">
                      <div id="department_nav">
                         <nav class="navbar navbar-dept">
@@ -501,7 +515,7 @@ $(document).ready(function() {
                   </nav>
                </div>
                <!--BEGIN MAIN AREA  ====================================================-->
-               <div id="main_right_area" class="col-md-9">
+               <div id="main_right_area" class="col-md-10">
                   <!--BEGIN TITLE  ====================================================-->
                   <div>
                      <h1>
@@ -764,6 +778,8 @@ $(document).ready(function() {
                   
                   <p>Revisions: none.</p>
                   
+                  <p>Last Reviewed: June 2017.</p>
+                  
                   <p>References: Family Educational Rights and Privacy Act of 1974; &nbsp;American Association
                      of Collegiate Registrars and Admissions Officers Guidelines; Policies 120 Public Records
                      – Inspecting and Copying; 129 Records Retention and Disposal of Records; 150 Social
@@ -774,11 +790,11 @@ $(document).ready(function() {
                   	
                </div>
                <!--END LEFT SIDE ====================================================-->
-               <div class="clear"></div>
             </div>
+            <div class="clear"></div>
          </div>
          <!--END BODY TEMPLATE CALL  ====================================================-->
-         <!-- END MAIN CONTAINER --><!-- google analytics -->
+         <!-- END MAIN CONTAINER --><script type="text/javascript" src="/_resources/js/ou-forms.js"></script><link rel="stylesheet" type="text/css" href="/_resources/css/jquery.datetimepicker.css"><script type="text/javascript" src="/_resources/js/jquery.datetimepicker.full.js"></script><!-- google analytics -->
 <script type="text/javascript">// <![CDATA[
 var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5283804-9']);
@@ -791,8 +807,7 @@ var _gaq = _gaq || [];
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 // ]]></script>
-         <!--BEGIN FOOTER TEMPLATE CALL ====================================================-->
-         <div class="row">
+         <!--BEGIN FOOTER TEMPLATE CALL ====================================================--><div class="row">
             <div id="footer">
                <div class="max-page-width">
                   <!-- com.omniupdate.div label="footer" path="/_resources/includes/_new-footer.inc"--><div class="col-sm-4 footer-col">
@@ -824,13 +839,13 @@ var _gaq = _gaq || [];
                </div>
             </div>
             <div id="disclaimer">
-               <!-- com.omniupdate.div label="disclaimer" path="/_resources/includes/_new-disclaimer.inc"--><span>Middle Tennessee State University © 2018</span>
+               <!-- com.omniupdate.div label="disclaimer" path="/_resources/includes/_new-disclaimer.inc"--><span>Middle Tennessee State University © 2019</span>
 <span><a href="/policies/governance-and-compliance/025.php">Nondiscrimination Policy</a></span>
 <span><a href="/terms.php">Terms</a></span>               <!-- /com.omniupdate.div -->
                <div id="ou-edit-link">
                   <!-- /com.omniupdate.div -->
                   <div id="hidden">
-                     <!-- com.omniupdate.ob --><a id="de" href="http://a.cms.omniupdate.com/10?skin=oucampus&amp;account=mtsu&amp;site=www&amp;action=de&amp;path=/policies/general/121.pcf">Last Updated: Aug 29, 2018</a><!-- /com.omniupdate.ob -->
+                     <!-- com.omniupdate.ob --><a id="de" href="http://a.cms.omniupdate.com/10?skin=oucampus&amp;account=mtsu&amp;site=www&amp;action=de&amp;path=/policies/general/121.pcf">Last Updated: Jul 2, 2019</a><!-- /com.omniupdate.ob -->
                   </div>
                </div>
             </div>
