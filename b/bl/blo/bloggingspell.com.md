@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401145321id_/https%3A//bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706100640id_/https%3A//bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Website Privacy Policy | Blogging Wizard
 
