@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524051743id_/https%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706184335id_/https%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Alienware Arena
 
 This Privacy Policy describes what information we collect through the website www.alienwarearena.com (the "Site"), how we use that information and what your rights are regarding your personal information, including the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-iGames, Inc. ("iGames") owns and operates the Site but we collect and process the personal information from the Site on behalf of Dell, Inc. ("Dell"). 
+iGames, Inc. ("iGames") owns and operates the Site but we collect and process the personal information from the Site on behalf of Dell, Inc. and certain direct and indirect subsidiaries of Dell, Inc.  ("Dell"). 
 
 **Collection and Use of Personal Information**
 
@@ -18,7 +18,7 @@ We collect the following personal information from you: a) Contact information s
   * If you participate in an event managed and administered by a third-party organizer, your personal information will be provided to such organizer only in order to operate the event and publicly report the results. If you don't want your personal information provided to an organizer, then do not participate in such third-party events.
   * When signing in through the Steam OpenID provider, users will be authenticated using their 64-bit SteamID.  If you choose to link your Alienware Arena account with Steam, a link will be added to your Steam profile page and a button on your Alienware Arena profile page to message a Steam member.
   * When you participate in a Challenge as part of Alienware Academy, your SteamID will be passed to a third party to track, report and administer the Challenges.  
-  * When you opt in to receive the Alienware Arena newsletter, you will receive Alienware Arena marketing communications.  You may unsubscribe at any time by clicking unsubscribe at the bottom of the email or by updating your preferences on your Alienware Arena account profile. 
+  * When you opt in to receive the Alienware Arena newsletter, you will receive Alienware Arena marketing communications from iGames and/or Dell.  You may unsubscribe at any time by clicking unsubscribe at the bottom of the email or by updating your preferences on your Alienware Arena account profile. 
 
 
 
@@ -34,7 +34,7 @@ We will share your personal information with third parties only in the ways that
 
 All information you provide to us is controlled by Dell.  Dell may instruct iGames to process your information, in each case in the manner described in this Privacy Policy.
 
-In addition, if you expressly authorize us to share your information with Dell, then Dell may use your information in accordance with its privacy policy located at [http://www.dell.com/learn/us/en/uscorp1/policies-privacy?c=us&l=en&s=corp](http://www.dell.com/learn/us/en/uscorp1/policies-privacy?c=us&l=en&s=corp) (U.S. customers) or <http://www.dell.com/learn/us/en/uscorp1/policies-privacy-country-specific-privacy-policy> (countries other than the U.S.) rather than this Privacy Policy.  This Privacy Policy will continue to apply to iGames’ processing of your information.
+In addition, if you expressly authorize us to share your information with Dell, then Dell may use your information in accordance with its privacy policy located at [http://www.dell.com/learn/us/en/uscorp1/policies-privacy?c=us&l=en&s=corp](http://www.dell.com/learn/us/en/uscorp1/policies-privacy?c=us&l=en&s=corp) (U.S. customers), <https://www.dell.com/learn/ca/en/cacorp1/policies-privacy> (Canadian customers) or <http://www.dell.com/learn/us/en/uscorp1/policies-privacy-country-specific-privacy-policy> (countries other than the U.S. and Canada) rather than this Privacy Policy.  This Privacy Policy will continue to apply to iGames’ processing of your information.
 
 We may provide your personal information to companies that provide services to help us with our business activities such as an email service provider, customer service or event management contractors. These companies contractually agree to only use your personal information as necessary to provide these services to us. Examples are:
 
