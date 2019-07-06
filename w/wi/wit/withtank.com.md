@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withtank.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506153737id_/http%3A//support.withtank.com/kb/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withtank.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706032230id_/http%3A//support.withtank.com/kb/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy / About / Knowledge Base - Tank Support
 
