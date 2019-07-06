@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grafolio.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102181708id_/https%3A//www.grafolio.com/privacy.grfl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grafolio.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706173421id_/https%3A//www.grafolio.com/privacy.grfl) for the most accurate reproduction.*
 
 # Creator's Playground: Grafolio
 
@@ -181,10 +181,10 @@ However, the company will not be responsible for any problems that arise from pe
 You may file all privacy-related complaints, which arise during the use of the service, to the chief privacy officer or related department. The company will provide you with an immediate and sufficient response to your inquiry.
 
 **Chief Privacy Officer** Name : _Jinkyu Lee_  
-Email : [privacy@naver.com](mailto:privacy@naver.com)
+Email : [for inquiries](https://help.naver.com/support/mail/popup/mailInquiry.help?serviceNo=1074&categoryNo=15743)
 
 **Personal Information Manager** Name : _Jaelim Lee_  
-Email : [privacy@naver.com](mailto:privacy@naver.com)
+Email : [for inquiries](https://help.naver.com/support/mail/popup/mailInquiry.help?serviceNo=1074&categoryNo=15743)
 
 Contact the organizations shown below to file reports or seek consultation for other privacy infringements;  
 \- Privacy Infringement Report Center (www.118.or.kr )  
