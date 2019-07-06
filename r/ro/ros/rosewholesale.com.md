@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the rosewholesale.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601004948id_/https%3A//www.rosewholesale.com/m-article-id-27.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosewholesale.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706103245id_/https%3A//www.rosewholesale.com/m-article-id-27.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rosewholesale.com
 
 Privacy Policy   
-This Privacy Statement explains how FAYIN E-COMMERCE (HONG KONG) LIMITED (in non-EU countries) and ZAMBITIOUS, S.L. (in EU countries) (“Rosewholesale” “we,” “us,” or “our”) collects, uses, and discloses your personal information in connection with its operation of the Rosewholesale ecommerce website.
+
 
 #### What information do we collect?
 
