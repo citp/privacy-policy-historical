@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenakedconvos.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604230909id_/http%3A//thenakedconvos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenakedconvos.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706143700id_/http%3A//thenakedconvos.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – The Naked Convos
 
 Thank you for visiting The Naked Convos, which is owned and operated by Helium Media (“we” “our” or “us”). We want you to know how information about you is collected, used, and shared with others. We also want you to know about the choices you have when you visit us at http://thenakedconvos.com (the “Site”).
 
