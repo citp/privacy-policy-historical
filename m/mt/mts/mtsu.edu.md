@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411002531id_/https%3A//www.mtsu.edu/policies/general/121.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706142732id_/https%3A//mtsu.edu/policies/general/121.php) for the most accurate reproduction.*
 
 # 121 | Middle Tennessee State University
 
@@ -112,5 +112,7 @@ Employees who access files or browse data of others, or access any information t
 Forms: none.
 
 Revisions: none.
+
+Last Reviewed: June 2017.
 
 References: Family Educational Rights and Privacy Act of 1974;  American Association of Collegiate Registrars and Admissions Officers Guidelines; Policies 120 Public Records – Inspecting and Copying; 129 Records Retention and Disposal of Records; 150 Social Networking and Media; 204 Tenure; 206 Tenure and Promotion Appeals Process; 211 Misconduct in Scholarly Activities and Research; 402 Protection of Human Subjects in Research; 500 Access to Education Records; 540 Student Conduct; 811 Personnel Records; 851 Disciplinary Policy for Administrative and Classified Personnel; 852 Administrative, Professional and Faculty Grievance or Complaint; 910 Information Technology Resources; 920 Information Security. 
