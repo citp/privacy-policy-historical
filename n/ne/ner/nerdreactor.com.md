@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdreactor.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619123950id_/http%3A//nerdreactor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdreactor.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706184437id_/http%3A//nerdreactor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nerd Reactor
 
