@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytonainternationalspeedway.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627103407id_/http%3A//www.daytonainternationalspeedway.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytonainternationalspeedway.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706024145id_/http%3A//www.daytonainternationalspeedway.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Daytona International Speedway
 
