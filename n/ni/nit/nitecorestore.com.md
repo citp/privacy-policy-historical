@@ -1,74 +1,173 @@
-> *The following text is extracted and transformed from the nitecorestore.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120180211id_/http%3A//www.nitecorestore.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitecorestore.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707012036id_/https%3A//www.nitecorestore.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
 **Privacy Policy**
 
-**What information do we collect?**
+## Last Updated: May 24, 2018.
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+This page explains our terms of service, which contains important information about your legal rights. When you use Nitecorestore.com, you're agreeing to these terms. Everyday language summaries are provided for your convenience only and are not legally binding. 
 
+This privacy policy (this "Privacy Policy") is effective as of the date set forth above. Lumen Tactical, LLC is committed to honoring the privacy of Our customers and visitors ("You" or "Your"). This Privacy Policy, which is part of Our overall Terms of Service ("Terms of Service"), covers personal information shared through Our website and Our Services, including Personally Identifiable Information and Anonymous Information (the "Personal Information"). "Personally Identifiable Information" or "PII" means information that can be used to identify You as an individual, such as, for example: 
 
-
- **How do we use your information?**
-
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+  * Your name, company, email address, phone number, billing address, and shipping address;
+  * Your Nitecore Store user ID and password (if applicable);
+  * credit card information (if applicable);
+  * any account-preference information You provide us; and
+  * Your computer's IP address.
 
 
 
- **How do we protect visitor information?**
+"Anonymous Information" means information and data that is not linked to Your Personally Identifiable Information and does not, by itself, permit the identification of an individual. 
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+This Privacy Policy describes how We collect and use the Personal Information You provide on Our website (“Our Site”) and as part of Our Services. It also describes the choices available to You regarding Our use of Your Personal Information and how you can access and update this information. Unless otherwise specifically required by applicable law, by submitting Personal Information through Our Site or as otherwise described in this Privacy Policy, or, even if You are not a customer, by visiting Our Site, You expressly consent to the collection, use and disclosure of Your Personal Information in accordance with this Privacy Policy. 
 
- **Do we use "cookies"?**
+We collect basic client information, including Personal Information, in connection with the performance of the Services. We respect Your privacy, and We assure you that We will maintain and use this information responsibly. 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We do not intentionally gather Personal Information from visitors who are under the age of 13. 
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Please note that this Privacy Policy only addresses activities on Our Site and Our servers, and does not govern the collection and use of information by Our merchants, Our partners, or other companies that We do not control, nor by individuals not employed or managed by Us. If You visit a website that We host, mention or link to, another entity may collect Your Personal Information and You should review its privacy policy before providing the site with information. 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+## 1\. Data We Collect from You
 
- **Do we disclose the information we collect to outside parties?**
+### Account Registration
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Nitecore Store. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+The registration of an Account requires You to provide certain Personal Information, including a full legal name, current address, phone number, a valid email address and certain other information indicated as required. If You purchase Products or Services that require the payment of a fee, You will also be required to submit a credit card/debit card number, expiration date and billing zip code, which information will be kept on file in Our secure servers in order to process Your recurring invoices. In connection with Your account registration, We may also ask for additional information, including the number of employees in Your company (if an entity), Your annual revenues, Your industry and other similar information. We use all such information to provide the Services to You, including to contact You, confirm Your identity and, if applicable, to invoice You. 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### General Browsing
 
- **How can you opt-out, remove or modify information you have provided to us?**
+Whether You are a customer of Ours or not, We collect Anonymous Data, including data about Our websites that You visit and how You browse, information about the device, operating system and browser You use, Your network connection, Your IP address and the date/time stamp for Your visit. If You are a customer of Ours, We will also collect data about how and when You access Your Account. We use this information to see which areas are most visited, which helps Us improve the quality of visitors' online shopping experiences by recognizing and delivering more of the features, services and products that Our visitors prefer. We may also use this information to provide You advertising or marketing. 
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+### Social Media
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+Our websites may use social media features, such as the Facebook 'like' button ("Social Media Features"). These features may collect Your IP address and which page You are visiting on Our website, and may set a cookie to enable the feature to function properly. You may be given the option by such Social Media Features to post information about Your activities on Our website to a profile page of Yours that is provided by a third party social media network in order to share with others within your network. Social Media Features are either hosted by a third party or hosted directly on Our website. Your interactions with these features are governed by the privacy policy of the company providing the relevant Social Media Features. 
 
- **Third party links**
+### Contests and Sweepstakes
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+With respect to persons age 13 or older, We collect Personal Information required to participate in certain contests, sweepstakes, and/or other giveaways (individually and collectively, "Promotions") that We conduct on social media/networking websites including, but not limited to twitter.com, facebook.com, pinterest.com, instragram.com, and youtube.com (each, a "Social Media Site"), or on Our website. This information may vary but will typically include your first and last name, mailing address (including city, state, zip code and country) and e-mail address. It may also include additional information, such as telephone number, fax number, and information about your interests in and use of various products, programs and services. We will use any such Personal Information to contact You regarding Your interest in, or experience with, the Services, as well as for marketing purposes. 
 
- **Changes to our policy**
+### Other
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on May 8, 2014.**
+From telephone users, We collect your phone number and may collect call audio. From chat support users, we collect PII as well as information about the device and browser You use, Your network connection and Your IP address. From forum users, we collect certain PII, including Your name, email address and website URL. We use all of this information to provide to You the Services, to enhance Our Services and answer any questions You may have. 
 
- **Questions and feedback**
+## 2\. Use of Personal Information
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+### Our Use
 
- **Online Policy Only**
+As described above, We will use Personal Information to perform the Services, including to facilitate the creation of and secure Your account on our network and identify You as a user in Our system. We will also use Personal Information to contact You regarding Your interest in, or experience with, the Services, to provide You with support and to improve the quality of Our Site and Services. We may also use Personal Information for marketing purposes. For example, We may use information that You provide to contact You or send to You information regarding Us or our partners. We use Personal Information that You provide to Us or that is collected from partners to conduct automated decision making, including to assist us in screening customer accounts for risk or fraud concerns. 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We will not use or disclose any such PII, except: 
 
- **Terms and Conditions**
+  * as necessary to provide the Services to You;
+  * in the aggregate with other information in such a way so that Your identity cannot reasonably be determined (for example, statistical compilations);
+  * as required by law, or based on our good faith belief that it is necessary to conform or comply with the law;
+  * to outside auditors who have agreed to keep the information confidential;
+  * to a successor organization in the event of a merger, acquisition, bankruptcy, or other sale or disposition of all or a portion of Our assets;
+  * as necessary to enforce Our Terms of Service;
+  * as necessary to protect Our rights, safety, or property, Our users, or others; this may include (for example) exchanging information with other organizations for fraud 
+  * protection and/or risk reduction; and
+  * as otherwise described in this Privacy Policy or to which You have consented.
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20171120180211id_/http%3A//www.nitecorestore.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
- **Your consent**
 
-By using our site, you consent to our privacy policy.
+We do not sell, rent or trade Your Personal Information to third parties. We will not use any PII we collect from You or Your customers to contact or market to Your customers or directly compete with You. 
+
+### Third Parties
+
+We use third party payment processors to assist Us in processing and share with them Your PII payment information securely. Such third party processors’ use of Your Personal Information is governed by their respective privacy policies which may or may not contain privacy protections as protective as this privacy policy. 
+
+We may use other third parties to help Us provide services and marketing to You, such as shipping or fulfilling orders, processing payments, monitoring site activity, identifying and preventing fraud, conducting quality assurance and testing, providing support, conducting surveys, and administering e-mails, and share with them Your Personal Information solely for those purposes. 
+
+If We share any Personal Information with any of these third parties, We will require that such information be used only to provide the services requested by Us and be maintained by them in strictest confidence. 
+
+We do not control the use by third parties of Your Personal Information that We collect, and its use by them will be in accordance with their own privacy policies. However, We will ensure that they are bound by agreements with us that include non-disclosure and certain data protection provisions. If you do not wish for Your Personal Information to be shared in this manner, You may opt not to purchase or use these third party services or to specifically express interest in Our partners products or services. 
+
+We will always ask for Your consent before sharing Your Personal Information with Third Parties for purposes other than those described herein. 
+
+### Cookies
+
+A cookie is a small amount of data or pieces of text, which may include a unique identifier, and is typically sent to and stored on Your browser or device. Cookies are generally by websites to improve the browsing experience of a user. They typically enable websites to remember preferences and understand how people navigate or use a website, and can be used to provide a user with more relevant marketing and advertising. 
+
+A list of the cookies that may be placed in Your browser or device as a result of a visit to Our Site, or any of our customer’s sites, may be found [_here_](http://www.nitecorestore.com/Articles.asp?ID=271). 
+
+### Our Services
+
+We use cookies to provide a better experience for Our users by allowing Us to analyze how the Services are being accessed and used. For example, cookies enable Us to recognize Your device and make Our sites more responsive to Your needs by delivering a better and more personalized experience to You. In addition, cookies are used by Us to help track your clicks as you go through the pages within any of Our websites, which allows Us to track performance and improve Our Site and Services. 
+
+We also use cookies to help Us verify Your Account and device for authentication purposes and to determine when You are logged in. This enables You to avoid re-entering information upon every new visit to Our Site and to help prevent fraudulent use of credentials. 
+
+Similarly, We use cookies to enhance Our Services for Our customers. For example, We use cookies in connection with the operation of the shopping cart for Your Site to authenticate Your customers, provide Your customers with a personalized experience by remembering their preferences and to help keep track of support requests. 
+
+### Third Parties
+
+Third parties that have content embedded on Our Site such as a social feature may set cookies on a user’s browser and/or obtain information about the fact that a web browser visited a specific website from a certain IP address. Third parties cannot collect any other personally identifiable information from Our websites unless You provide it to them directly. Any third party cookie usage is governed by the policy of the third party placing the cookie. 
+
+### Our Advertising
+
+We partner with third party publishers, advertisers and other service providers to manage Our ads on other websites. These third parties may send cookies to Your browser or device to gather information about Your activities on Our Site and other sites that You visit. This information is then used to manage Our ads. For example, if You visit Our Site, You may see a Nitecore Store ad when You visit another website or use a social media platform. 
+
+### Third Party Tags
+
+We use and manage third party tags on Our Site. Third party tags may take the form of pixels or tracking snippets. This means that no cookies are used and no personal data is collected. We use Google Tag Manager to manage our third party tag usage. We use tracking snippets to capture data from your browser, make requests to a third party partner or set cookies on your device to store data. This may cause other tags to be activated which may, for their part, collect data and set cookies under certain circumstances. Google Tag Manager does not access or store this data. 
+
+### Tracking
+
+We may also use web beacons, tracking technology and other automated tracking methods on Our Site, in mobile applications and communications with You and in Our products and services, to track and measure performance and engagement on Our Site and Services and Our ads. 
+
+### Opting Out
+
+If You prefer not to accept cookies, You can set Your browser to either completely disallow cookies or have a browser alert You when a site is using a cookie. The exact method of disabling cookies varies depending on the browser You are using; please consult the Help option in Your browser for specific directions. Please note that if You reject or block all cookies in Your browser settings, You will not be able to take full advantage of Our services as some cookies are necessary for the site to function properly. 
+
+We have implemented and use Display Advertising to allow for Google Analytics Remarketing. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google Ads Settings can also use the Google Analytics opt-out browser plug-in to prevent their data from being collected and used by Google Analytics. 
+
+You can opt out of targeted ads served via specific third party vendors by visiting the Digital Advertising Alliance’s Opt-Out page and the Network Advertising Initiative’s Opt-Out page. If You are a resident of the European Union, please see here. 
+
+You may deactivate Google Tag Manager with the help of a browser add-on if you do not want this website analysis. One such add-on can be downloaded at: www.ghostery.com/ 
+
+There is no industry standard or understanding about how to respond to “Do Not Track” (“DNT”) signals. Therefore, unless otherwise required by law, We do not alter our data collection and usage practices when We detect DNT signals from Your browser. 
+
+### Use of Forums / Discussion Boards
+
+None of the information contained on Our website is medical, legal, business, or other advice or opinion. Any opinion expressed via this service is that of its author. Users are reminded that postings are automatic, instantaneous, and are not pre-reviewed. Additional facts and information on legal or other developments may affect the subjects discussed. Confidential information should not be discussed. We assume no responsibility for the content or consequences, direct or indirect, of communications by users. 
+
+### Security
+
+If You provide to Us, or We otherwise collect, Personal Information, either directly or through a partner, We will take commercially reasonable precautions to protect the information from loss, misuse and unauthorized access, disclosure, alteration and destruction. We follow industry standards on information security management to safeguard sensitive information, and are certified as a PCI-DSS service provider. Our platform is audited annually by a third-party qualified security assessor for compliance with PCI-DSS. 
+
+### Retention
+
+We will retain Your Personal Information for as long as Your Account is active or for as long as needed to provide You or our users with the Services. We also retain Your Personal Information for legitimate business purposes and to comply with the law. The precise periods for which We retain Your Personal Information vary depending on the nature of the information or why We need it. 
+
+We collect and retain indefinitely anonymous or anonymized information, such as website visits, in order to improve our Services. 
+
+### Residents of the European Economic Area
+
+Our operations are located primarily in the United States. If You are located in the European Economic Area (the “EEA”), Your Personal Information will be transferred out of the EEA to the United States. Residents of the EEA have certain rights under European law with respect to Your personal data, including the right to request access to, correct, amend, delete or limit the use of Your personal data. If You are a resident of the EEA and Our customer or partner or a User of Our Site and You wish to exercise these rights, please contact us by emailing support@nitecorestore.com. 
+
+If You are a resident of the EEA, We note that We are generally processing Your information in order to fulfill our obligations under contracts We have with You (including our Terms of Service), or otherwise to pursue our legitimate business interests as described in this Privacy Policy, unless We are required by law to obtain Your consent for a particular processing operation. 
+
+### Privacy Shield
+
+Our operations are located primarily in the United States. If You provide information to us, the information will be transferred out of the European Union (“EU”) and Switzerland to the United States. We comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce (the “Privacy Shield”) regarding the collection, use and retention of personal information transferred from the EU to the United States (“EU Personal Data”). We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit http://www.privacyshield.gov. 
+
+The Privacy Shield Principles set forth Our accountability for EU Personal Data that We receive under the Privacy Shield and subsequently transfer to a third party. As described in this Privacy Policy, We may use third parties to process data on our behalf. We remain liable if they do so in a manner inconsistent with the Privacy Shield Principles and We are responsible for the event giving rise to the damage. 
+
+We encourage You to contact Us should you have a Privacy Shield-related complaint. We will respond within 45 days. If We fail to respond within that time, or if Our response does not address Your concern, You may contact the International Centre for Dispute Resolution, the International division of the American Arbitration Association. Please visit http://go.adr.org/privacyshield.html for additional information and to file a complaint. Under certain conditions, more fully described on the Privacy Shield website, You may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+
+We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. 
+
+We may be required to disclose personal information in response to lawful requests by public authorities, including to meet the national security or law enforcement requirements. 
+
+### Choices Regarding Your Personal Information
+
+We understand that and value Your rights over Your Personal Information. We have taken steps to allow You to access, correct, amend, delete or port Your Personal Information and give You choices regarding the collection, use and sharing of Your Personal Information. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of Our marketing emails. If You are Our customer or a partner, You can update many types of Personal Information directly within Your Account settings. If You are unable to change Your Personal Information within Your Account settings, or if You are concerned about data collected as You visit Our Site, please contact us at support@nitecorestore.com. Please understand that if You delete or limit the use of Your Personal Information, the Services may not function properly or certain Services may not be available. 
+
+### Prior Versions
+
+If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us at support@nitecorestore.com. If elements of our Privacy Policy change, We will post the updated Privacy Policy on this website. If You are concerned about how your Personal Information is used, please visit Our site often for this and other important announcements about Nitecore Store. 
+
+We believe in providing a safe and secure shopping experience for all of our clients. We provide stringent and effective security measures on our website. It is our policy to never send private information, such as your credit card number, via e-mail, IM, chat or other unsecured means. In fact, this is a practice We recommend you adopt in all of Your Internet activities. 
+
+**Prior Versions**
+
+Privacy Policy effective May 8, 2014 
