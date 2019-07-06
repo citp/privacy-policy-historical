@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213060331id_/http%3A//www.babynames.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2019-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190706105814id_/https%3A//babynames.com/about/privacy.php) for the most accurate reproduction.*
 
 # BabyNames.com Privacy Policy
 
 This site is owned and operated by Moss Gathering LLC, a Nevada Limited Liability Company. 
 
-rev. April 25, 2018
+rev. July 3, 2019
 
 **BabyNames.com** has created this statement in order to demonstrate our firm commitment to protecting the privacy of our visitors. The following summarizes our information-gathering and dissemination practices for our website.
 
@@ -14,9 +14,9 @@ You may use many features on the BabyNames.com website without inputting any per
 
 ## User Profiles
 
-Upon registration, BabyNames.com creates a public user profile page for you. Each part of your profile can be hidden from public view by logging in and going to MY PROFILE and then PRIVACY SETTINGS. The following fields are set to public by default, but can be changed at any time: 
+Upon registration, BabyNames.com creates a public user profile page on the Message Boards for you. If entered, the following fields are set to public by default, but can be changed at any time: 
 
-  * Your Profile Picture
+  * Your Profile Picture/Avatar
   * Username
   * Gender
   * Parent Type/Family Type
@@ -35,7 +35,7 @@ When you make a purchase on the BabyNames.com, we interface with our merchant pr
 
 ## Your IP Address
 
-**BabyNames.com** records user IP addresses to help diagnose problems with our server, administer our site and identify malicious visitors on the message boards. IP addresses remain private, and are not displayed or posted on the site to any other user.
+**BabyNames.com** records user IP addresses to help diagnose problems with our server, administer our site and identify malicious visitors. IP addresses remain private, and are not displayed or posted on the site to any other user.
 
 ## Links
 
@@ -47,7 +47,7 @@ This site contains advertising and links to other sites, however we assume no li
 
 ## Opt-In Mailing List
 
-You have the option to add or remove yourself from the monthly newsletter and mailings for special discounts and offers from our partners. We take great care in making sure our users do not receive unwanted email. BabyNames.com sends a periodic newsletter to our members who have opted in to receive it. We will never opt you into our email communications without your permission and we will never sell your information to third parties. IF you receive a special offer from one of our partners, it will always come from our server, as we send them out on the advertiser's behalf. We also ensure that every email you receive from BabyNames.com contains a link to remove yourself from the mailing list. To manage your BabyNames.com email settings, go to our [Newsletter Page](http://www.babynames.com/newsletter/).
+BabyNames.com uses Mailchimp to communicate with our users. Upon registration, each member has the choice to opt in or out of these mailings. There will also be an "unsubscribe" link at the bottom of every email sent from this list. The data we collect is for internal use only. We will never loan or sell your information to any other company. [Click here](https://babynames.us13.list-manage.com/unsubscribe?u=1969599c082efec9953787c3c&id=084aa546e9) to remove yourself from the list.
 
 ## Children's Guidelines
 
@@ -67,19 +67,17 @@ BabyNames.com allows third-party companies to collect certain information when y
 
 ## User-uploaded Photos
 
-BabyNames.com allows users to upload photographs in the Community Message Boards. While uploading a photo, the user agrees that they have rights and permission by the subject and copyright holder to do so. If you have any objection to a user-uploaded photo, please contact [support@babynames.com](mailto:support@babynames.com) with an explanation of the photo and a screenshot, if possible. We will do our best to investigate and remove the violating photograph.
+BabyNames.com allows users to upload photographs on our Community Message Boards. While uploading a photo, the user agrees that they have rights and permission by the subject and copyright holder to do so. If you have any objection to a user-uploaded photo, please contact [support@babynames.com](mailto:support@babynames.com) with an explanation of the photo and a screenshot, if possible. We will do our best to investigate and remove the violating photograph.
 
 ## Removal of Personal Information
 
-Users can have all their personal information, message board posts and images removed by closing their account on BabyNames.com. To easily close your account and remove all your information, [click here](https://web.archive.org/user/removeme.php). Once an account is closed by a user, all of the data is immediately deleted from the BabyNames.com servers and cannot be recovered.
+Users can have all their personal information, message board posts and images removed by closing their account on BabyNames.com. [Click here](https://web.archive.org/user/close.php) to request closure of your account. Once a user requests an account be closed, all of the data is deleted from the BabyNames.com servers within 24 hours and cannot be recovered.
 
 ## Changes to this Privacy Policy
 
 We may change this Privacy Policy from time to time. If we make any changes, we will notify you by revising the "Last Updated" date at the top of this page and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). If there are material changes to this Privacy Policy, we will notify you more directly by email or means of a notice on the home page prior to the change becoming effective. We encourage you to review this page whenever you access the website to stay informed about our information practices and the ways you can help protect your privacy. If you disagree with any changes to this Privacy Policy and do not wish your information to be subject to the revised Privacy Policy, you will need to delete your account and stop using the BabyNames.com website. Your use of any of the BabyNames.com features after the posting of such changes shall constitute your consent to the changes.
 
 ## How to Contact BabyNames.com
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: [support@babynames.com](mailto:support@babynames.com).
 
 Questions regarding this statement should be directed to BabyNames.com User Support Services department:
 
