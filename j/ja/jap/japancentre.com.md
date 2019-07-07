@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418065908id_/https%3A//www.japancentre.com/en/privacies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707150324id_/https%3A//www.japancentre.com/en/privacies) for the most accurate reproduction.*
 
 # Japanese Food Hall since 1976 - Japan Centre
 
@@ -88,7 +88,7 @@ All our customers have the right to obtain confirmation that your data is being 
 
 You can make a request by email to enquiry@japancentre.com or in writing to
 
-Japan Centre (On-Line) Ltd   
+Japan Centre Group Ltd   
 Unit B, Park Royal,   
 Park Royal Road, NW10 7NZ  
 London, United Kingdom  
@@ -122,7 +122,7 @@ All areas of the Japan Centre website where you enter personal data are encrypte
 
 If you have any questions about privacy policy please contact us at enquiry@japancentre.com or post to: 
 
-Japan Centre (On-Line) Ltd   
+Japan Centre Group Ltd  
 Unit B, Park Royal,   
 Park Royal Road, NW10 7NZ  
 London, United Kingdom
