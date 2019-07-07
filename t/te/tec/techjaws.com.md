@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techjaws.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606235653id_/https%3A//www.techjaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techjaws.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707192239id_/https%3A//techjaws.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechJaws - SEO, Computer Security, Technology
 
-This Privacy Policy governs the manner in which TechJaws collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.techjaws.com](https://web.archive.org/web/20190606235653id_/https%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechJaws.
+This Privacy Policy governs the manner in which TechJaws collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.techjaws.com](https://web.archive.org/web/20190707192239id_/https%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechJaws.
 
  **Personal identification information**
 
@@ -66,8 +66,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TechJaws](https://web.archive.org/web/20190606235653id_/https%3A//)  
-[https://www.techjaws.com](https://web.archive.org/web/20190606235653id_/https%3A//)  
+[TechJaws](https://web.archive.org/web/20190707192239id_/https%3A//)  
+[https://www.techjaws.com](https://web.archive.org/web/20190707192239id_/https%3A//)  
 775 Silver Cloud Circle  
 Lake Mary, FL 32746  
 boscony@yahoo.com
