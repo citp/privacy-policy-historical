@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalmatters.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615230841id_/http%3A//medicalmatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalmatters.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707184530id_/http%3A//medicalmatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Medical Matters
 
