@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429071618id_/https%3A//www.weddingmapper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707124758id_/https%3A//www.weddingmapper.com/privacy) for the most accurate reproduction.*
 
 # Wedding Mapper
 
@@ -8,7 +8,7 @@ Last Updated: June 18th, 2010
 
 **SUMMARY**
 
-We take the privacy of our users very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [[email protected]](https://www.weddingmapper.com/cdn-cgi/l/email-protection#bfcfcdd6c9dedcc6ffe8dadbdbd6d1d8f2decfcfdacd91dcd0d2) or in writing at: Privacy Director, Community Walk, 880 Lombard Street, San Francisco, CA 94133. 
+We take the privacy of our users very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [[email protected]](https://www.weddingmapper.com/cdn-cgi/l/email-protection#28585a415e494b51687f4d4c4c41464f654958584d5a064b4745) or in writing at: Privacy Director, Community Walk, 880 Lombard Street, San Francisco, CA 94133. 
 
 **Online Privacy Standards.** While there are no official standards governing privacy practices on the Internet, we look to the principles supported by the Federal Trade Commission's Fair Information Practices Principles for guidance, currently available at http://www.ftc.gov/reports/privacy3/tos.htm. 
 
