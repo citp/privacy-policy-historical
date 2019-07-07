@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandcricket.lk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417063637id_/https%3A//www.islandcricket.lk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcricket.lk privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707174734id_/https%3A//www.islandcricket.lk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Island Cricket
 
