@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstwefeast.com privacy policy that was archived on 2019-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190325141034id_/https%3A//firstwefeast.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstwefeast.com privacy policy that was archived on 2019-07-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190708014703id_/https%3A//firstwefeast.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <script type="text/javascript" async="" src="//toolbar.complex.com/dist/ctoolbar.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
@@ -27,8 +27,6 @@
     <meta name="description" content="Complex, Style, Sneakers, News">
     <meta name="keywords" content="">
     <link rel="canonical" href="https://firstwefeast.com/privacy">
-    <link rel="publisher" href="https://plus.google.com/+FirstWeFeast">
-
     <script type="text/javascript">
         window.prerenderReady = false;
         function getCookie(cname) {
@@ -67,13 +65,13 @@
     <link rel="dns-prefetch" href="//player.ooyala.com">
     <link rel="dns-prefetch" href="//partner.googleadservices.com">
 
-    <link rel="stylesheet" type="text/css" href="//assets.firstwefeast.com/assets/css/dist.min.css?1552665653">
+    <link rel="stylesheet" type="text/css" href="//assets.firstwefeast.com/assets/css/dist.min.css?1560445528">
 
     <meta property="fb:pages" content="281697938605609">
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script type="text/javascript">
-    var siteInfo = {"id":12,"name":"First We Feast","titleTag":"First We Feast | Where Food, Drink &amp; Pop Culture Converge","domain":"firstwefeast.com","metaDescription":"First We Feast is an online magazine focused on food, drink, and pop culture.","hreflang":"en-us","facebook":"http:\/\/facebook.com\/FirstWeFeast","twitter":"firstwefeast","google":"https:\/\/plus.google.com\/+FirstWeFeast","instagram":"https:\/\/www.instagram.com\/firstwefeast\/","youtube":"https:\/\/www.youtube.com\/user\/FirstWeFeast","facebookAppId":450926998449966,"twitterSiteId":0};
+    var siteInfo = {"id":12,"name":"First We Feast","titleTag":"First We Feast | Where Food, Drink &amp; Pop Culture Converge","domain":"firstwefeast.com","metaDescription":"First We Feast is an online magazine focused on food, drink, and pop culture.","hreflang":"en-us","facebook":"http:\/\/facebook.com\/FirstWeFeast","twitter":"firstwefeast","instagram":"https:\/\/www.instagram.com\/firstwefeast\/","youtube":"https:\/\/www.youtube.com\/user\/FirstWeFeast","facebookAppId":450926998449966,"twitterSiteId":0};
     var feedConfig = {"pageSize":10,"pagesPerLoad":1,"ad":{"content":false,"suitcase":true},"infiniteScroll":{"enabled":true,"offset":1500,"loadOffset":2,"maxPage":10}};
     var cloudinaryConfig = {"cloud":"complex","key":"553581782569737","domain":"images.complex.com","allow_secure_cdn":false};
     </script>
@@ -105,9 +103,15 @@
             noninteraction = {};
         }
 
-                    ga('universal.send', 'event', category,action,label, noninteraction);
+        var email_regex = /([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi;
+        var cleaned_href = window.location.href.replace(email_regex, '[redacted]');
         
-                    ga('classic.send', 'event', category,action,label, noninteraction);
+            
+            ga('universal.set', 'location', cleaned_href);
+            ga('universal.send', 'event', category,action,label, noninteraction);
+        
+                    ga('classic.set', 'location', cleaned_href);
+            ga('classic.send', 'event', category,action,label, noninteraction);
             }
 
 </script>
@@ -123,6 +127,22 @@
     cmnunt_zone = "system";
     cmnunt_kw = "";
     cmnunt_exclude = null;
+
+    if(typeof article !== 'undefined') {
+        article_type = 'article';
+
+        if(article.articleType.name === 'Article' && article.slides.length > 0){
+            article_type = 'list';
+        } else if(article.articleType.name === 'Video') {
+            article_type = 'video';
+        } else if(article.articleType.name === 'Featured') {
+            article_type = 'featured';
+        } else if (article.articleType.name === 'WideList') {
+            article_type = 'widelist';
+        } 
+
+        cmn_complex_articletype = article_type;
+    }
 </script>
 
     <script src="//media.complex.com/common/cmnUNT.js"></script>
@@ -247,13 +267,10 @@
 
                                                     </div>
                         <div class="navbar__logo big ">
-                                                                                                                                <a class="logo logo--image" ng-href="/" href="/" target="_self" ga-link="" ga-category="Main Header" ga-action="Click on image logo">
-                                        <i class="cmplx-svg cmplx-svg-firstwefeast imagelogo-home "></i>
+                                                                                                                                                                    <a class="logo logo--main logo--default" ng-href="/" href="/" target="_self" ga-link="" ga-category="Main Header" ga-action="Click on main logo">
+                                        <img src="https://images.firstwefeast.com/complex/image/upload/v1554489444/firstwefeast-logo-040519_ueyibl.svg" alt="First We Feast">
                                     </a>
-                                    <a class="logo logo--main logo--main logo--article" ng-href="/" href="/" target="_self" ga-link="" ga-category="Main Header" ga-action="Click on main logo">
-                                        <i class="cmplx-svg cmplx-svg-firstwefeast-logo-dark titlelogo-home "></i>
-                                    </a>
-                                                                                    </div>
+                                                                                                                        </div>
                     </section>
 
                     
@@ -356,8 +373,8 @@
                 <i class="cmplx-svg cmplx-svg-complex-site-icon"></i>Complex
             </a>
         </li>
-                <li class="pigeonsandplanes site-menu__section-item--network" site="pigeonsandplanes" site-domain="pigeonsandplanes.com">
-            <a target="_blank" class="site-menu__section-item__link" href="http://pigeonsandplanes.com?utm_source=firstwefeast.com&amp;utm_medium=referral&amp;utm_campaign=pigeonsandplanes.com+main+navigation" ga-link="" ga-category="Channel Menu" ga-action="Click on O&amp;O link">
+                <li class="pigeonsandplanes site-menu__section-item--network" site="pigeonsandplanes" site-domain="www.complex.com/pigeons-and-planes/">
+            <a target="_blank" class="site-menu__section-item__link" href="http://www.complex.com/pigeons-and-planes/?utm_source=firstwefeast.com&amp;utm_medium=referral&amp;utm_campaign=www.complex.com/pigeons-and-planes/+main+navigation" ga-link="" ga-category="Channel Menu" ga-action="Click on O&amp;O link">
 
                 <i class="cmplx-svg cmplx-svg-pigeonsandplanes-site-icon"></i>Pigeons and Planes
             </a>
@@ -585,7 +602,6 @@
         </a>
     </li>
 
-
     <li class="site__social-container__item">
         <a class="site__social-container__link" href="https://www.instagram.com/firstwefeast/" target="_blank" rel="nofollow" ga-link="" ga-category="Main Footer" ga-action="Click on social links" ga-label="Instagram">
             <i class="cmplx-icon icon-instagram"></i>
@@ -693,7 +709,7 @@
         <span class="footer__copyright">FIRST WE FEAST participates in various affiliate marketing programs, which means FIRST WE FEAST gets paid commissions on purchases made through our links to retailer sites. Our editorial content is not influenced by any commissions we receive.</span>
       </div>
       <div class="footer__copyright-col text-center">
-        <span class="footer__copyright">© <a href="http://about.complex.com" class="gtm-home-page-link-tracking" target="_blank">2018 Complex Media, Inc. All Rights Reserved.</a></span>
+        <span class="footer__copyright">© <a href="https://www.complexnetworks.com/" class="gtm-home-page-link-tracking" target="_blank">2019 Complex Media, Inc. All Rights Reserved.</a></span>
       </div>
     </div>
   </div>
@@ -703,29 +719,31 @@
         /**
          Toolbar V3 Embed Code.
          */
-        (function() {
-            window.cToolbarInit = function() {
-                cToolbar.load({
-                    mobileRightButton: 'sms',
-                    facebookUsername: 'FirstWeFeast',
-                    facebookName: 'First We Feast',
-                    twitterHandle: 'FirstWeFeast',
-                    twitterName: 'First We Feast',
-                    youtubeChannel: 'FirstWeFeast',
-                    youtubeChannelName: 'First We Feast',
-                    desktopBackground: 'solid',
-                    desktopSocialButtons: ["twitter","facebook"],
-                    channel: 'Luxury',
-                    logoUrl: 'http://www.complex.com'
-                });
-            };
-            var ns = document.createElement('script');
-            ns.type = 'text/javascript';
-            ns.async = true;
-            ns.src = '//toolbar.complex.com/dist/ctoolbar.min.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ns, s);
-        })();
+        if(typeof isMobile !== 'undefined' && !isMobile){
+            (function() {
+                window.cToolbarInit = function() {
+                    cToolbar.load({
+                        mobileRightButton: 'sms',
+                        facebookUsername: 'FirstWeFeast',
+                        facebookName: 'First We Feast',
+                        twitterHandle: 'FirstWeFeast',
+                        twitterName: 'First We Feast',
+                        youtubeChannel: 'FirstWeFeast',
+                        youtubeChannelName: 'First We Feast',
+                        desktopBackground: 'solid',
+                        desktopSocialButtons: ["twitter","facebook"],
+                        channel: 'Luxury',
+                        logoUrl: 'http://www.complex.com'
+                    });
+                };
+                var ns = document.createElement('script');
+                ns.type = 'text/javascript';
+                ns.async = true;
+                ns.src = '//toolbar.complex.com/dist/ctoolbar.min.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ns, s);
+            })();
+        }
     </script>
 
         
@@ -733,10 +751,7 @@
     var ooyalaEmbedConfig = {"site":"firstwefeast","adSetCode":"591099933f4e43ef981ba555d82ac689","pId":"43ce409b07994ca2b519cf9b06088ce4","allowCommenting":false,"autoplay":false}
     var ooyala_pId = "43ce409b07994ca2b519cf9b06088ce4"
     var ooyala_adSetCode = "591099933f4e43ef981ba555d82ac689"
-</script>
-
-<script src="//player.complex.com/tv/js/embed.js" class="cmplx-embed"></script>
-<!-- Vidible Variables  -->
+</script><!-- Vidible Variables  -->
 <script type="text/javascript">
     var vidibleEmbedConfig = {"site":"firstwefeast","default":"58e5136d1de5a16190d48ce1","video-template":"591c684d8c08e07b78e0288b","branded-content":"58e7c43385eb424a1d2bbecb","FWF_BCID":"58177168c7480e3b5d8f1bd4","GO90_PID":"5818e22288d2ff7534c632ea","GO90_BCID":"57cf0d3676a60578d9c2d11f","BID":"599335419e45100f6b261fb8"}
 </script>
@@ -774,7 +789,7 @@
 
 
 
-    <script src="//assets.firstwefeast.com/compiled/site.min.js?1552665647"></script>
+    <script src="//assets.firstwefeast.com/compiled/site.min.js?1560445522"></script>
 
 <div id="skins-cmnunt-placeholder">
     <script>
@@ -785,6 +800,17 @@
     </script>
 </div>
 
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register("/sw.js")
+        .then(function(reg) {
+          console.log('Registration successful, scope is:', reg.scope);
+        })
+        .catch(function(err) {
+          console.log('Service worker registration failed, error:', err);
+        });
+      }
+    </script>
 
 
 
