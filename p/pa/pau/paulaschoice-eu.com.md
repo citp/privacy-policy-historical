@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulaschoice-eu.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129144527id_/http%3A//www.paulaschoice-eu.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulaschoice-eu.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707135719id_/https%3A//www.paulaschoice-eu.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -314,6 +314,10 @@ You are entitled to data portability. This means that you have the right to rece
 ### d. Revoking permission granted earlier
 
 If you have given us permission to process your personal data, you can revoke this permission at any time by sending an email to info@paulaschoice.nl. We will respond to and confirm your request in relation to revoking permission as soon as possible, but in any event within 4 weeks.
+
+### e. Complain to a supervisory authority
+
+Lodging a complaint with a data protection supervisory authority. If you have any concerns about our privacy practices, including the way we have handled your Personal Data, you can report it to the data protection authority that is authorized to hear those concerns.
 
 ## 5\. Contact details and amendments to the policy
 
