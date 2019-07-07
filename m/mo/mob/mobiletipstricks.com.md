@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobiletipstricks.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103185541id_/http%3A//www.mobiletipstricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletipstricks.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707093915id_/http%3A//mobiletipstricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mobile Tips and Tricks
+# Privacy Policy — Mobile Tips and Tricks
 
 **Privacy Policy for Mobile Tips and Tricks (http://www.mobiletipstricks.com** /)
 
