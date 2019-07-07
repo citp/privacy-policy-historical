@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeup-mania.net privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525141115id_/http%3A//makeup-mania.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup-mania.net privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707155909id_/http%3A//makeup-mania.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Makeup Mania
 
