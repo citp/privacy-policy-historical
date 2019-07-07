@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desygner.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618181024id_/https%3A//desygner.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desygner.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707030127id_/https%3A//desygner.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Desygner
 
