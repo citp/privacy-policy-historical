@@ -1,148 +1,133 @@
-> *The following text is extracted and transformed from the nellyfurtado.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628195807id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nellyfurtado.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707224230id_/https%3A//nellyfurtado.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-## PRIVACY POLICY
+### NELLY FURTADO  
+PRIVACY NOTICE
 
-Effective Date: 05/24/2018
+Nelstar Entertainment, Inc. (“Nelstar”, “we”, “our”, or “us”) respects and is committed to protecting your privacy. That is why we have adopted this Privacy Notice. This Privacy Notice lets you know how and for what purposes we are collecting, processing, and using your Personal Information (as defined herein). We pledge that we will take reasonable steps to ensure that your Personal Information will only be used in ways that are in compliance with this Privacy Notice.
 
-This Privacy Policy ("Policy") applies to [www.mediatemple.net](http://www.mediatemple.net/) (the “Site” or “Media Temple”) owned and operated by Go Daddy Operating Company LLC. It describes how Media Temple collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
+This Privacy Notice is in effect for any web page, mobile application, third party social media site, email list, onsite electronic data collection, generic information, and Personal Information (as defined herein) collected and/or owned by us, including but not limited to the Nelly Furtado official website, located at www.nellyfurtado.com (the “Nelly Furtado Site”), no matter the method of collection (e.g., mail, facsimile, sign-up/sign-in page, survey, promotion), including collection through the Nelly Furtado Site and any online features, services, and/or programs we offer (collectively, the “Web Properties”). Notwithstanding the foregoing, this Privacy Notice is not applicable to any other web page, mobile application, social media site, generic information, or Personal Information collected and/or owned by any entity other than Nelstar or one of its parents, affiliates and/or subsidiaries.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
+This Privacy Notice also applies to information collected by or for us through a means other than the Web Properties. If the same information is collected through the Web Properties and through a means other than the Web Properties, the terms of this Privacy Notice shall apply.
 
-###  **EU-U.S. & Swiss-U.S. Privacy Shield**
+Your use of the Web Properties is also governed by the Terms of Use.
 
-Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc., GoDaddy Media Temple, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certifications, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/).
+#### Types of Information Collected
 
-Media Temple is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Media Temple complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+Nelstar and any third party we engage for the purpose of administering, operating, hosting, configuring, designing, maintaining and providing internal support for our Web Properties, may collect two types of information when you visit the Web Properties: personal information and usage information.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Media Temple is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Media Temple may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+**Personal Information:** In order to participate in certain features, services and/or programs of the Web Properties, we may require that you provide us with certain specific information, which we may collect including, among other similar types of information (collectively, “Personal Information”): (1) contact information (e.g., name, address, phone number, email address); (2) demographic information (e.g., date of birth); (3) bank account and credit/debit card numbers; and (4) your physical location.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+**Usage Information:** We may obtain non-individualized, generic information about you when you visit the Web Properties. This may include your (i) Internet Protocol (or IP) address, protocol and sequence information; browser language; browser type; domain name system requests; browsing history (including time spent at a domain, time and date of your visit); number of clicks; hypertext transfer protocol headers; application client and server banners; and operating system fingerprinting data (collectively, “Usage Information”); and (ii) MAC address, device ID/UDID, or similar device-specific code used for advertising/marketing tracking purposes.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+#### How Information Is Collected
 
-###  **A. Personally-Identifiable Information:**
+We may collect Personal Information and Usage Information about you from the following sources:
 
-Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want Media Temple to use this information for additional purposes.
+  * information we receive from you, or on your behalf, through forms you complete, or if you contact us, for example to raise a query, to sign up for our mailing list, or to sign up to receive notifications when Nelly Furtado is on tour near you;
+  * information we receive from you through the Web Properties, such as when creating an account, placing an order or joining our mailing list;
+  * information we receive from your computer or mobile device;
+  * information we receive from our partners or service providers; and
+  * information we receive from other sources, as permitted by applicable laws, rules and regulations.
 
-Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others.
 
-We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-We may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We may sponsor promotions through the Web Properties. Your participation is entirely voluntary. You may be asked to provide personally identifiable information including, but not limited to, your name or email address, or to answer questions in order to participate. We may also transfer Personal Information to certain advertising or marketing partners from whom you have requested to receive information.
 
-#### These services may include:
+#### Additional Ways that Information is Collected Through the Web Properties
 
-  * Fulfilling orders
-  * Payment processing
-  * Providing customer service
-  * Sending marketing communications
-  * Fulfilling subscription services
-  * Conducting research and analysis
-  * Providing cloud computing infrastructure
+We may collect Usage Information from you as follows:
 
+**Browser Log Files:** Our servers automatically log each visitor to the Web Properties and collect and record certain Usage Information about each visitor. The Usage Information reveals nothing personal about the user and includes only the generic information described in the definition of “Usage Information.” We may use this information to examine our traffic in the aggregate, but we do not collect and evaluate this information for individuals.
 
+**Cookies:** From time to time, we and/or our advertisers or other third parties may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your Internet browser from a web server and stored on your computer’s hard drive and that can be re-sent to the serving website on subsequent visits. A cookie, by itself, cannot read other data from your hard disk or read other cookie files already on your computer. A cookie, by itself, does not damage your system. We, our advertisers and other third parties may use cookies to identify and keep track of, among other things, those areas of the Web Properties and third party websites that you have visited in the past in order to enhance your next visit to the Web Properties. Our advertisers may also use cookies to ascertain how many times that you have seen an advertisement and obtain similar analytical information. You can choose whether or not to accept cookies by changing the settings of your Internet browser, but some functionality of the Web Properties may be impaired or not function as intended if you choose not to accept cookies.
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at privacy@mediatemple.net.
+**Web Beacons:** Some of our web pages and electronic communications may contain images, which may or may not be visible to you, known as Web Beacons (sometimes referred to as ‘clear gifs’). Web Beacons collect only limited information that includes a cookie number; time and date of a page view; and a description of the page on which the Web Beacon resides. We may also carry Web Beacons placed by third party advertisers. These Web Beacons do not carry any Personal Information and are only used to track usage of the Web Properties and activities associated with the Web Properties.
 
-We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements. On those Media Temple sites where you may provide Media Temple with credit card or other sensitive information via the web, Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET).
+**Unique Identifier:** We may assign you a unique internal identifier to help keep track of your future visits. We use this information to gather aggregate demographic information about our visitors, and we use it to personalize the information you see on the Web Properties and some of the electronic communications you receive from us. We keep this information for our internal use, and this information is not shared with others.
 
-####  **Targeted Advertisements**
+#### Use of Personal Information
 
-Absent any instructions from you, Media Temple may use information you provide to inform you about additional services and products offered by the Media Temple family of companies, Media Temple venture companies, Media Temple authorized agents, and other goods and services providers with whom Media Temple has relationships and whose offerings might be of interest to you. Media Temple and our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
+The Personal Information that we collect may be used for three main purposes:
 
-####  **Supplementation of Information**
+  1. To enable the features of the Web Properties, including, but not limited to: (a) operating any promotions in which you may participate; (b) setting up and managing your online account, including, but not limited to, our processing your requests for information about Nelly Furtado or performances near you; and/or (c) providing products or services to you.
+  2. To improve the Web Properties by determining which of our products, features and services are most popular. We may analyze your information and browsing information to enable us and our affiliates to provide services to you and develop new features, functionality, and services and otherwise for our internal business purposes.
+  3. To communicate with you and to inform you about our and third parties’ products and services. We and/or any of our third party service providers may send you and keep you updated with information about existing and new services, products, and special offers, by email, telephone, mail or by means of any other contact details you provide to us or our affiliates, or to such third party service providers.
 
-In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-####  **Communicating with you**
 
-We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
+#### When Information Is Disclosed
 
-  * Email
-  * Text (SMS) messages
-  * Telephone calls
-  * Automated phone calls or text messages
+We might disclose Personal Information and/or Usage Information when required by law or in the good-faith belief that such disclosure is necessary to: (1) comply with legal processes and applicable law; (2) enforce this Privacy Notice; (3) take precautions against liability and to respond to any claim that any material, document, image, graphic, logo, design, audio, video, audio-visual material, photos, commentary and any other information provided to, from or on the Web Properties by you violates the rights of third parties; (4) assist government enforcement agencies; or (5) protect our rights, property, or the safety or the rights, property, or personal safety of our visitors and the public.
 
+We use reasonable precautions to keep the information that is disclosed to us secure. We may provide Personal Information and Usage Information to our subsidiaries, affiliated companies, and other businesses or persons for the purposes of processing such information on our behalf and promoting the goods and services of our trusted business partners, some or all of which may store some or all of your information on servers outside of the United States. We require that these parties agree to process such information in compliance with our Privacy Notice or in a similar, industry-standard manner, and we use reasonable efforts to limit their use of such information and to use appropriate confidentiality and security measures. The use of your information by one of our trusted business partners may be subject to that party’s own privacy notice.
 
+We may share Usage Information with third parties to demonstrate the usage patterns for advertisements, content, functionality, promotions, and/or services on the Web Properties and/or on third party websites.
 
-You may update your contact preferences with respect to receiving communications from us by signing into your Account Center and visiting "Contacts" page.
+We reserve the right to transfer your Personal Information, as well as any information about or from you, in connection with the merger, sale or other disposition of all or part of our business and/or assets. We cannot make any representations regarding the use or transfer of your Personal Information or other information that we may have in the event of our bankruptcy, reorganization, insolvency, receivership, or an assignment for the benefit of creditors, and you expressly agree and consent to the use and/or transfer of your Personal Information or other information in connection with a sale or transfer of some or all of our assets in any of the above described proceedings. Furthermore, we cannot and will not be responsible for any breach of security by any third parties or for any actions of any third parties that receive any of the information that is disclosed to us.
 
-###  **B. Website Analytics:**
+We may also disclose your Personal Information with your permission.
 
-We use multiple web analytics tools provided by service partners such as Google Analytics to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by utilizing settings in your browser or third-party tools, such as [Disconnect](https://disconnect.me/disconnect "Disconnect"), [Ghostery](https://www.ghostery.com/ "Ghostery") and others.
+#### Information from Children
 
- **Cookies and similar technologies** on our websites and our mobile applications allow us to track your browsing behavior, links clicked, items purchased, your device type, and to collect various data, including analytics, about how you use and interact with our Services. This allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyze and improve the performance of our Services. We may also collect your location (IP address) so that we can personalize our Services.
+We do not collect Personal Information from any person that we know to be under the age of thirteen (13). Specifically, the Web Properties are not intended or designed to attract children under the age of thirteen (13). You will need to affirm that you are more than eighteen (18) years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in this Privacy Notice, and to abide by and comply with this Privacy Notice. In any case, you affirm that you are over the age of thirteen (13), as **THE WEB PROPERTIES ARE NOT INTENDED FOR CHILDREN UNDER THIRTEEN (13) WHO ARE UNACCOMPANIED BY THEIR PARENT(S) OR LEGAL GUARDIAN(S).**
 
-You may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) it may limit your use of certain features or functions on our website or service. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our site.
+Parents and legal guardians should be aware that this Privacy Notice will govern our use of Personal Information, but also that information that is voluntarily given by children – or others – in email exchanges, bulletin boards or the like, may be used by other parties to generate unsolicited communications. We encourage all parents to instruct their children in the safe and responsible use of their Personal Information while using the Internet.
 
-Internet browsers allow you to change your cookie settings. These settings are usually found in the 'options' or 'preferences' menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the 'Help' option in your internet browser for more details.
+#### Privacy Outside the Web Properties
 
-  * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies "Cookie settings in Internet Explorer")
-  * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences "Cookie settings in Firefox")
-  * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en "Cookie settings in Chrome")
-  * [Cookie settings in Safari](https://support.apple.com/kb/ph19214?locale=en_US "Cookie settings in Safari")
+The Web Properties may now or in the future contain links to other websites, including, but not limited to, Facebook, Twitter, iTunes, Spotify, Amazon, YouTube and Instagram, and contain advertisements of third parties. We are not and cannot be responsible for the privacy practices or the content of any of those websites. Other than under agreements with certain reputable organizations and companies, and except for third party service providers (as described in this Privacy Notice), we do not share any of the Personal Information that you provide to us with any of the websites to which the Web Properties links, although we may share aggregate, non-personally identifiable information with those other third parties. Please check with those websites in order to determine their privacy policies and your rights under them.
 
+#### Social Features
 
+Certain functionality on the Web Properties is specifically designed to permit interactions that you initiate between the Web Properties and third party websites or services, including third party social networks (“Social Features”). Examples of Social Features include enabling you to transmit content to the Web Properties from your account on a third party website or service, and to “like” or “share” our content on the Web Properties to other websites or services.
 
-If you wish to withdraw your consent at any time, you will need to delete your cookies using your internet browser settings.
+If you choose to use Social Features, information you post or provide access to may be publicly displayed on the Web Properties or by the provider of the Social Feature that you use. Similarly, if you post information on a third party platform that references Nelly Furtado or Nelstar (e.g., by using a hashtag associated with Nelly Furtado in a tweet or status update), your post may be published on the Web Properties in accordance with the terms of the third party website or service. Also, both Nelstar and the third party may have access to certain information about you and your use of the Web Properties and the third party site or service. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections,” or information about you is otherwise accessible through your “connections” web pages, profile pages, or similar pages on a social networking or other third party website or interactive service.
 
-####  **More information about cookies**
+The information we collect in connection with Social Features is subject to this Privacy Notice. The information collected and stored by the third parties remains subject to those third parties’ privacy practices, including whether the third parties continue to share information with us, the types of information shared, and your choices with regard to what is visible to others on those third party websites or services.
 
-  * Useful information about cookies, including information about deleting or blocking cookies, can be found at: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies")
-  * A guide to behavioral advertising and online privacy has been produced by the internet advertising industry which can be found at: [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/ "Your Online Choices")
-  * Information on the ICC (UK) UK cookie guide can be found on the ICC website section: <http://www.international-chamber.co.uk/our-expertise/digitaleconomy>
+#### European Union Users
 
+If you are visiting us from the European Union, please note that we may collect, transfer, and continue to use your Personal Information outside the European Union for any of the purposes described in this Privacy Notice. By using the Web Properties and providing us with your Personal Information, you consent to our collection, transfer, and continued use of your Personal Information in accordance with this Privacy Notice.
 
+#### Information Security
 
-#### **Do Not Track notifications**
+We take reasonable efforts to ensure that information collected through the Web Properties is not lost, misused or altered inappropriately by administering security measures. However, all information accessible and/or transferred over the Internet can potentially be accessed by unauthorized parties; therefore, we cannot guarantee the security of your data transmitted to the Web Properties.
 
-Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit <http://www.allaboutdnt.com/>.
+#### Choices with Your Personal Information
 
-###  **C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
+Whether you submit any Personal Information to us is entirely up to you. You are under no obligation to provide Personal Information. However, this information is essential for the provision and quality of some of the services we offer to you, so we cannot provide you with certain services if you choose to withhold requested information.
 
-Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website Media Temple may host for you as part of your Media Temple services, is available to anyone else who visits that space. Media Temple cannot safeguard any information you disclose in these locations. Additionally, Media Temple websites contain links to sites that belong to third parties unrelated to Media Temple. Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.
+You may choose to prevent us from disclosing or using your Personal Information under certain circumstances (“opt out”). You may opt out of any disclosure or use of your Personal Information for purposes that are incompatible with the purpose(s) for which it was originally collected or for which you subsequently gave authorization by notifying us by one of the methods at the end of this Privacy Notice, or by following the procedures set forth in an electronic communication from us, if applicable. Furthermore, even where your Personal Information is to be disclosed and used in accordance with the stated purposes in this Privacy Notice, you may elect to opt out of such disclosure to and use by a third party that is not acting as our agent. There are some uses from which you cannot opt out, such as to provide products or services that you have requested from us.
 
-On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this Policy, Media Temple assumes no obligation to protect such information from disclosure. To request removal of your personal information from our blog, contact us at privacy@mediatemple.net. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
+#### Access and Correction
 
+Please contact us in the manner specified at the end of this Privacy Notice to access your Personal Information in our possession and correct inaccuracies of that information in our records. We ask individuals to identify themselves and the information requested to be accessed and amended before processing such requests, and we may decline to process requests in limited circumstances, as permitted by applicable privacy legislation.
 
-###  **D. Exceptions and Limitations:**
+#### Your California Privacy Rights
 
-Notwithstanding the foregoing and in compliance with applicable laws, Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, Media Temple may be required to disclose personally identifiable information. In addition, Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate Media Temple; or (iii) to protect the rights or property of Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, Media Temple reserves the right to sell or transfer your information (including, but not limited to name, address information, and other information you provided to Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by Media Temple; and (iii) agrees to the obligations of this Policy.
+Under California’s “Shine the Light” law, California residents who provide certain personally identifiable information in connection with obtaining products or services for personal, family, or household use are entitled to request and obtain from us (once a calendar year) information about the customer information we shared (if any) with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2017 will receive information regarding 2016 sharing activities, if any).
 
-###  **E. Transfer of Data Abroad:**
+To obtain this information, please send an email message to info@10thst.com with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements, and only information on covered sharing will be included in our response.
 
-If you are visiting this site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. By visiting this site and communicating electronically with us, you consent to such transfers.
+#### “Do Not Track” Signals
 
-###  **F. Access, Update or Delete Data:**
+Note that your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, Nelstar currently does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit www.allaboutdnt.com.
 
-To easily access, view, update, or close your account, or to update your contact preferences, please sign into your Account Center and visit Contacts and Billing.
+#### Your Consent to This Privacy Notice
 
-To request a copy of your account data (EU customers only) or delete your account, please contact us at privacy@mediatemple.net. If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
+By using the Web Properties, you consent to the collection and use of your information (including Personal Information) by us as specified above or as we otherwise see fit, in compliance with this Privacy Notice, unless you inform us otherwise by means of the procedure identified below. If we decide to change this Privacy Notice or some part of it, we will make an effort to post those changes on this web page so that you will always be able to understand what information we collect, how we use that information and under what circumstances we may disclose that information to others. Your use of the Web Properties following such publication of any amendment of this Privacy Notice will signify your assent to and acceptance of its revised terms for all previously collected information and information collected from you in the future. We may use comments, information or feedback that you may submit in any manner that we may choose without notice or compensation to you.
 
-If you are unable for any reason to access your Account Center, you may also contact us by one of the methods described in the “Contact Us” section below.
+If you have additional questions or comments or would like to access your recorded Personal Information or opt out of certain sharing, please let us know by sending your comments or requests to:
 
-We will respond to these requests within a reasonable timeframe.
+Nelstar Entertainment Inc.  
+c/o 10th Street Entertainment  
+6420 Wilshire Blvd., #950  
+Los Angeles, CA 90048  
+Phone: 310-385-4700  
+info@10thst.com.com
 
-###  **G. Data Protection Authority:**
-
-If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
-
-[www.ico.org.uk](https://www.ico.org.uk/ "Information Commissioner's Office website")
-
-Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
-
-Phone: 0303 123 1113
-
-###  **H. Updates:**
-
-We may update this Policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-####  **Contacting Us**
-
- **GoDaddy Media Temple, Inc.**  
-14455 North Hayden Road Suite 100  
-Scottsdale, AZ 85260  
-P: 877.578.4000   
-[privacy@mediatemple.net](mailto:privacy@mediatemple.net)
+Copyright © 2017. Nelstar Entertainment Inc. All Rights Reserved.  
+Effective as of: January 27, 2017  
+Last updated: January 27, 2017
