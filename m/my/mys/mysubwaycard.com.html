@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mysubwaycard.com privacy policy that was archived on 2019-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190418220734id_/https%3A//www.subway.com/en-US/Legal/PrivacyNotice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysubwaycard.com privacy policy that was archived on 2019-07-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190707211451id_/https%3A//www.subway.com/en-US/Legal/PrivacyNotice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="htmlTag" xmlns="http://www.w3.org/1999/xhtml" lang="en" style="" class="js canvas canvastext no-touch geolocation hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage applicationcache svg inlinesvg svgclippaths no-flash"><head>
 
@@ -10,8 +10,8 @@
     <script>
         var myLazyload1 = new LazyLoad();
         var myLazyLoad2 = new LazyLoad({
-            elements_selector:".lazy-video",
-            callback_set: function(el){
+            elements_selector: ".lazy-video",
+            callback_set: function (el) {
                 var oneLL = new LazyLoad({
                     container: el
                 });
@@ -20,26 +20,25 @@
         window.myLazyload1 = myLazyload1;
         window.myLazyload2 = myLazyLoad2;
     </script>
-    
+
     <script>
         var complianceLevel = "false";
         var complianceCookieFound = (document.cookie.indexOf("subwayCookieCompliance=") > -1);
         var euComplianceCookieFound = (document.cookie.indexOf("euComplianceNeeded=") > -1);
         var euComplianceCookieFalse = (document.cookie.indexOf("euComplianceNeeded=false;") > -1);
 
-        if (complianceLevel === "true" && euComplianceCookieFalse && complianceCookieFound)
-        {
+        if (complianceLevel === "true" && euComplianceCookieFalse && complianceCookieFound) {
             document.cookie = "subwayCookieCompliance=;expires=Thu, 01 Jan 1970 00:00:01 GMT;"
             document.cookie = "euComplianceNeeded=true;"
         }
 
-        if ((complianceLevel==="false") && !euComplianceCookieFound) {
+        if ((complianceLevel === "false") && !euComplianceCookieFound) {
             document.cookie = "subwayCookieCompliance=true;";
             document.cookie = "euComplianceNeeded=false;"
         }
     </script>
     <script src="//assets.adobedtm.com/db89382481d58e6b0140ef00b005d4ecd61c1834/satelliteLib-fbd98e801087043aeb3d2123c1cdc9443c8c901c.js"></script>
-        
+
     
 
 <!-- meta tags -->
@@ -71,7 +70,7 @@
 
 <meta name="country" content="United States">
 <!-- end meta tags -->
-    
+
     <!-- title -->
     <title>Privacy Notice | SUBWAY.com - United States (English)</title>
     <!-- end title -->
@@ -96,7 +95,7 @@
     <!-- manifest -->
     <link rel="manifest" href="/Images/Core/favicons/manifest.json">
     <!-- end manifest -->
-    
+
     <!-- Download the App font -->
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
 
@@ -114,7 +113,7 @@ a.SafeHarborLink:link {
     line-height: inherit;
     text-align: center;
 	text-decoration: underline;
-}</style>
+}</style><style id="css_snip_cache275">#form1 .outline-Default:focus, #form1 .outline-Default *:focus { outline: #940053 dashed 2px; } #form1 .outline-Light:focus, #form1 .outline-Light *:focus { outline: #fa02ff double 3px; } #form1 .outline-Red:focus, #form1 .outline-Red *:focus { outline: #FF0000 solid 3px; } </style>
 
 <!-- eliminate rays & scroll-to-top -->
 <style>
@@ -156,8 +155,8 @@ a.SafeHarborLink:link {
 
 
 <!-- end JavaScript files -->
-    
-    
+
+
     <script>
         $(window).on('load', function () {
             if (SubwayTools.Screen.Is("sm")) {
@@ -178,141 +177,32 @@ a.SafeHarborLink:link {
     </script>
 
     
-    
+
     <!-- WeBlog -->
     
     <!-- /WeBlog -->
 
     
-    
+
     <script src="/Scripts/AnalyticsDataLibrary.js"></script>
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet"><link rel="stylesheet" href="/SubwayV2/build/css/index-generated.css">
 
     
-    <script type="text/javascript">     
-        var _locator;
-        var _flagStartOrder = false;
-        function isRtl() {
-            if ('' === '') 
-                return false;
-            else 
-                return true;    
-        }
-
-        _locatorOptions = {
-            container: 'subwayLocatorStartOrder',
-            culture: 'en-us',
-            apiUser: '17',
-            apiKey: 'SUBWAY_PROD',
-            isRTL: isRtl(),
-            pageSize: 10,
-            autoGps: true,
-            forceEmbedded: true,
-            markerJumpToResult: true,
-            scrollParent: true,
-            externalEvents: {
-                onSearchSuccess: trkLocatorSearch,
-                onOrderOnline: trkLocatorOrderOnline,
-                onNavigationStart: trkLocatorDirections,
-                onCatering: trkLocatorCatering
-            },
-            initialFilters: "HasOnlineOrdering",
-            debugMode: false
-        };
-
-        function launchStartOrderModal()
-        {  
-            if (_flagStartOrder === false) {
-                if (typeof _locator === 'undefined') {
-                    _locator = new FwhLocator();
-                    _locator.init(_locatorOptions);
-                    
-                    //LX Added code to populate favorite store for start order 11/19/18 
-				    if (typeof favoriteStoreID !== "undefined" && favoriteStoreID !== null && favoriteStoreID != '') {
-					_locator.addFavoriteStore(favoriteStoreID, 0);
-                    }
-
-                     //LX Added code to populate recent store for start order 01/24/19 
-				    if (typeof recentStoreID !== "undefined" && recentStoreID !== null && recentStoreID != '') {
-					_locator.addRecentStore(recentStoreID, 0);
-				    }
-                }
-                $("#cta-startorder-text1").html(CTA_StartOrder1_Text);
-                $("#cta-startorder-text2").html(CTA_StartOrder2_Text);
-                document.getElementById("cta-startorder-image1").src = CTA_StartOrder1_ImageSrc;
-                document.getElementById("cta-startorder-image1").height = CTA_StartOrder1_ImageHeight;
-                document.getElementById("cta-startorder-image1").width = CTA_StartOrder1_ImageWidth;
-                document.getElementById("cta-startorder-image2").src = CTA_StartOrder2_ImageSrc;
-                document.getElementById("cta-startorder-image2").height = CTA_StartOrder2_ImageHeight;
-                document.getElementById("cta-startorder-image2").width = CTA_StartOrder2_ImageWidth;
-
-                //open modal
-                $("#startOrderModal").modal();
-                setModalTabbing('#startOrderModal');
-                _flagStartOrder = true;
-            }
-        }
-        function closeLocator() {
-            if (_flagStartOrder === true) { //do something
-            }
-           _flagStartOrder = false;
-            //console.log("_flagStartOrder: " + _flagStartOrder);
-        }
-        function setModalTabbing() {
-            var tabbableElements = $('a[href], area[href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), button:not([disabled]), iframe, object, embed, *[tabindex], *[contenteditable]');
-            setupModalEvents(tabbableElements);
-            disableTabbingOnPage(tabbableElements);
-            enableTabbingOnModal(tabbableElements);
-            $('#startOrderModal').modal();
-        }
-        function setupModalEvents(tabbableElements) {
-            var elementWithFocus = $(':focus');
-            //on modal open
-            $(document).on('shown.bs.modal', function () {
-                focusFirstInputElement();
-            });
-            //on modal close
-            $(document).on('hidden.bs.modal', function () {
-                reEnableTabbingOnPage(tabbableElements);
-                $(elementWithFocus).focus();
-            })
-        }
-        function disableTabbingOnPage(tabbableElements) {
-            $.each(tabbableElements, function (index, element) {
-                $(element).attr('tabindex', '-1');
-            })
-        }
-        function enableTabbingOnModal(tabbableElements) {
-            $.each(tabbableElements, function (index, element) {
-                if ($(element).parents('.modal').length) {
-                    //element is inside of the modal
-                    $(element).attr('tabindex', '0');
-                }
-            })
-        }
-        function reEnableTabbingOnPage(tabbableElements) {
-            $.each(tabbableElements, function (index, element) {
-                $(element).attr('tabindex', '0');
-            })
-        }
-        function focusFirstInputElement() {
-            $('.locator-gps').focus();
-            //var inputElements = $('input');
-            //$.each(inputElements, function (index, element) {
-            //    if ($(element).parents('.modal').length) {                   
-            //        $(element).focus();
-            //        //end loop
-            //        return false;
-            //    }
-            //})
-        }
+    <script type="text/javascript">  
+        var soRtlClass = '';
+        var soCulture = 'en-us';
+        var soApiUser = '17';
+        var soApiKey = 'SUBWAY_PROD';
+        var soAutoGps = true;  
+        //var useLusrFl;
     </script>
+    <script src="/Scripts/startOrder.js"></script>
     
 
 </head>
-<body id="MasterBody" class="sw-v2 has-hero" data-logged-in-end-point="/subwayv2/api/profile/user.asmx/GetCurrentUser" data-signup-end-point="/subwayv2/api/subscription/service.asmx/Subscribe">
-    
+<body id="MasterBody" class="sw-v2 has-hero" data-logged-in-end-point="/subwayv2/api/profile/user.asmx/GetCurrentUser" data-signup-end-point="/subwayv2/api/subscription/service.asmx/Subscribe" data-variable="False" style="margin-top: 85px;">
+
     <script>
         var subway_site_config = {
             currentNavItem: '',
@@ -320,16 +210,31 @@ a.SafeHarborLink:link {
         };
     </script>
 
-    
+
     
 
 <!-- Omniture code moved to DTM -->
 	
     <script type="text/javascript">
+        function getBrowserTime() {
+            var today = new Date();
+            var dd = today.getDate();
+            var mm = today.getMonth() + 1;
+            var yyyy = today.getFullYear();
+            if (dd < 10) {dd = '0' + dd;}
+            if (mm < 10) { mm = '0' + mm; }
+            var hh = today.getHours();
+            var min = today.getMinutes();
+            if (min < 10) { min = '0' + min; }
+            today = mm + '-' + dd + '-' + yyyy + '|' + hh + ':' + min;
+            return today;
+        }
+
         fwhtrk = new fwhtrk();
         fwhtrk.user.uxRendered = s_ScreenSize();
         fwhtrk.storeCountry = "USA";
-        fwhtrk.storeLanguage = "ENG";     
+        fwhtrk.storeLanguage = "ENG";    
+        fwhtrk.localTime = getBrowserTime();     
         LogPageForTracking();
              
         //Title Overide
@@ -354,15 +259,19 @@ a.SafeHarborLink:link {
     </script>
     
     <span id="Floodlights"></span>
+    <!-- FINDME ANALYTICS -->
+    <script type="text/javascript">        
+        
+    </script>
  <!-- END AllowSetCookies -->
 
-   
+
 
     <form name="form1" method="post" action="/en-US/Legal/PrivacyNotice" id="form1">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="qcf/MFbF/SWNqCXPXRgVSnO/GfaCAA+0nvu4v2i8KERZnao5cSurSxQxn+vefp/5v7Vx8bayOp2nyC23AJ2biyT0Z1c3TZy3lJnumEvjhsaIZ20iO+AaSAsG4JoTnQiAgoB8zhSPqQlqfhagThd30bAVILT1y0k5t1uFGGDXbCrDypvCfp/al1uGwlM/ZHhmCWPBusK2x7xDnrhZG9lZGKlgfawJW18IUTk07F5LHBnhUwtDOsCbPcJMh+IHzuNosNeiR9y8RUhZzXXddULHyqOQYM2PFnn7gg4bnaJg2knamYC6pnWZOu2yfJNZn1JXwxLcE/Dmps1mcPhLklN5fkiHfAm8HXOj/eXR9DFphzS5v/TS6yxAFY8LHmDJw/SlHSdj3ZBHOkNIDkqKgZZOIAAzX9U0ZjrpjBk0NKS1y1J6U+i14nrIFOvPPsq85zfBNJEEghmtGaHdrN7zl/I0T+Bj9G2RhZWWRm79PXUmFHigNEB6Zci0QBfms8vV9A7oCAu1S7jc2dTKw8w2Ez5Fr2EvR6PByEJ9H6de99LhYuYs8TdyyKl63cvTNd+ghBhvE8cpvzdwGi5NFKug/rrxyHD/4lcthzaPDg0J7MXqcw5viuOn7dS8kEMETO4mSdwGnUT+G08vkwkQGUahJ/N07vphetRx/ELVsYP8+Ft0aPh5jQO4wxY6w6f+7ccDwVqmjiFrGR2t6i+uhODLofobPmG7Ve+Wggjg71LFUvpPqZVmDFslbzP05pWhXbMeXkZaO9gsyWrIJt9tbrSYMztFdSuDOgT6z/A+FkfsHqHQXA2Ejj3NrgZvIqsaimNZ4uMOmBzVvQ+6PWKFxqN67OQabw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="9CiZYkAPX4HyiRT/im4f/U7fU92BCOFvi3+slAiesNpO7ZZ7CZARtshMo/uv62R2DXtvjqhf0IMVMa4mKDlh/d6QDdF/k5vVU3kShKGrtGXvBMO0e7SGoqLMr8BlfbUSowa3uWEnlOWJuJIWLz2taHSz7oKxTEFiwoInF+RuQDh8NX5UADTZdhsfdjsy4dx6RRDNHeufMH8i62pj5iTSHU2721ZMft+Ot/RKprOkjQ/qLgEVdZSBCvB7vaaVIjPUNcOk43O3s6weolG0kDJ6srsVJlUJPx4TqM3Pc5+iySWcSoKShlvjX8HImC95g8O9OTUymd5rYkEoPAiUm8YRTYJhQfoR9GoaYbJmU0+3hXIXFrgk6RLtgmcYMIhP5ipeDLTVxxDBUy2nYJcYaSFR3zI/dW3m3lbQzN9RKDfDw2HKLO+Y07QwmW7LewH29tJJ/aJh4hEjS6q/PJqfsquI6MffsUkcI/R3ULs2WzFckxcHZBR4EHU4G9eqpGZSqMGg7aXFvhuHS5sT28TRBQyX7ZHEkALvlfvryPmbUHIcHXGDTQlVlrvbDaQk7QXX6F+Uzq/0MqjjFKKI777d8KyWgOaNm3jaEfm51hWBXXh882QFBHxDCnTPQQHe1byTYW4hLLlLwJm701+qWV8mWAZnGqVI6NAVmGkYpF0KML+FWPOF0zMht984Xp5xhQ8UrVoBnfqCxj60OLv5I/vhJUvdbx+7mgxtgggjrW81GLNnWocf1yF17vX9qjYMVOcJ8FwYOa0NwBI8G14eGTgHSpIv2MNasBtCrUGY1RQ7Wi7NCQl05n3afgBjswKpnEn8xKAllqOmLpRupqfiuL3y+M9NhL+NCr/A0vvlyQY6K2JvOtcz2yJSwrvvMJj62ySnh94Y">
 </div>
 
 <script type="text/javascript">
@@ -386,9 +295,9 @@ function __doPostBack(eventTarget, eventArgument) {
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D47A9602">
 </div>
+
         
-        
-        <div class="sw-headerpane">
+        <div class="sw-headerpane sw-headerpane--sticky">
             
 <div id="cookieMessageBox" class="sw-container sw-container--bleed sw-container--eucookie is-adjacent" style="display: none;">
     <div class="sw-container__col">
@@ -411,35 +320,35 @@ To find out more about the cookies on our website, please see our <a href="/Lega
 <div class="sw-container sw-container--bleed sw-container--eyebrow is-adjacent">
     <div class="sw-container__col">
         <a href="#sw-main" class="sw-skip-to-content">Skip to main content</a>
-        <div class="sw-eyebrow js-sw-eyebrow">
-                
-                        <div class="sw-eyebrow__language-contrast js-sw-eyebrow__language-contrast">
+        <nav class="sw-eyebrow js-sw-eyebrow" aria-label="Quick Navigation"><div class="sw-eyebrow__language-contrast js-sw-eyebrow__language-contrast">
                             
 
 <div class="sw-eyebrow__language js-sw-eyebrow__language">
     <button type="button" class="sw-eyebrow__language-selector" aria-expanded="false"> <span class="sw-eyebrow__language-selector__label">Change Country:</span>
         <span class="sw-eyebrow__language-current">EN</span>
     </button>
-    <ul class="sw-eyebrow__language-dropdown">
+    <ul class="sw-eyebrow__language-dropdown" aria-hidden="true">
 
         
                 <li class="sw-eyebrow__language-item is-current">
-                    <a class="sw-eyebrow__language-option" href="/en-US/Legal/PrivacyNotice" aria-current="step">English</a>
+                    <a class="sw-eyebrow__language-option" href="/en-US/Legal/PrivacyNotice" aria-current="true">English</a>
                 </li>
         
                 <li class="sw-eyebrow__language-item ">
-                    <a class="sw-eyebrow__language-option" href="/es-US/Legal/PrivacyNotice" aria-current="">Español</a>
+                    <a class="sw-eyebrow__language-option" href="/es-US/Legal/PrivacyNotice">Español</a>
                 </li>
         
 
         <li class="sw-eyebrow__language-item">
-            <a class="sw-eyebrow__country-selector" href="/en-US/ExploreOurWorld"><img src="/~/icon/flags/24x24/flag_USA.PNG" alt="English">Change Country</a>
+            <a class="sw-eyebrow__country-selector" href="/en-US/ExploreOurWorld"><img src="/~/icon/flags/24x24/flag_USA.PNG" alt="">Change Country</a>
         </li>
     </ul>
 </div>
 
 <button type="button" class="sw-contrast js-sw-contrast" aria-pressed="false"><span class="sw-contrast__text">High Contrast</span><span class="sw-contrast__button"></span></button>
                         </div>
+                
+                        
                 
                     <ul class="sw-eyebrow__nav">
                         
@@ -453,14 +362,18 @@ To find out more about the cookies on our website, please see our <a href="/Lega
     <a href="/en-US/SubwayCard">Gift Cards</a>
 </li>
 
-<li class="sw-eyebrow__navitem sw-eyebrow__navitem--authentication js-sw-eyebrow__navitem--authentication">
+
+
+                    <li class="sw-eyebrow__navitem sw-eyebrow__navitem--authentication js-sw-eyebrow__navitem--authentication">
     
-    <div class="is-hidden js-sw-eyebrow__navlink--userlogin">
-        <a id="v2header_0_ctl06_ctl05_ctl00_lnkLogin" class="lnkLogin sw-eyebrow__navlink" href="javascript:__doPostBack('v2header_0$ctl06$ctl05$ctl00$lnkLogin','')"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.18 15.84" role="presentation"><path fill="currentColor" d="M7.09 8.23a4.11 4.11 0 1 0-4.11-4.12 4.12 4.12 0 0 0 4.11 4.12zM14.15 11.51a3.83 3.83 0 0 0-.41-.75 5.11 5.11 0 0 0-3.54-2.23.76.76 0 0 0-.52.13 4.38 4.38 0 0 1-5.17 0 .67.67 0 0 0-.52-.13 5.07 5.07 0 0 0-3.54 2.23 4.42 4.42 0 0 0-.41.75.38.38 0 0 0 0 .34 7.16 7.16 0 0 0 .48.72 6.83 6.83 0 0 0 .83.93 10.77 10.77 0 0 0 .83.72 8.19 8.19 0 0 0 9.77 0 7.89 7.89 0 0 0 .83-.72 8.29 8.29 0 0 0 .83-.93 6.29 6.29 0 0 0 .48-.72.31.31 0 0 0 .06-.34z"></path></svg>Sign In / Sign Up</a>
+    <div class="is-hidden js-sw-eyebrow__navlink--userlogin" style="display: block;">
+        <a id="v2header_0_ctl06_ctl05_ctl00_lnkLogin" class="lnkLogin sw-eyebrow__navlink" aria-label="Login / Sign up" href="javascript:__doPostBack('v2header_0$ctl06$ctl05$ctl00$lnkLogin','')"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.18 15.84" role="presentation"><path fill="currentColor" d="M7.09 8.23a4.11 4.11 0 1 0-4.11-4.12 4.12 4.12 0 0 0 4.11 4.12zM14.15 11.51a3.83 3.83 0 0 0-.41-.75 5.11 5.11 0 0 0-3.54-2.23.76.76 0 0 0-.52.13 4.38 4.38 0 0 1-5.17 0 .67.67 0 0 0-.52-.13 5.07 5.07 0 0 0-3.54 2.23 4.42 4.42 0 0 0-.41.75.38.38 0 0 0 0 .34 7.16 7.16 0 0 0 .48.72 6.83 6.83 0 0 0 .83.93 10.77 10.77 0 0 0 .83.72 8.19 8.19 0 0 0 9.77 0 7.89 7.89 0 0 0 .83-.72 8.29 8.29 0 0 0 .83-.93 6.29 6.29 0 0 0 .48-.72.31.31 0 0 0 .06-.34z"></path></svg>Sign In / Sign Up
+    <span>&nbsp;</span>
+</a>
     </div>
 
     
-    <button class="sw-eyebrow__navlink sw-eyebrow__navlink--user js-sw-eyebrow__navlink--user is-hidden" aria-haspopup="true" aria-expanded="false">
+    <button class="sw-eyebrow__navlink sw-eyebrow__navlink--user js-sw-eyebrow__navlink--user is-hidden" aria-haspopup="true" aria-expanded="false" style="display: none;">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.18 15.84" role="presentation"><path fill="currentColor" d="M7.09 8.23a4.11 4.11 0 1 0-4.11-4.12 4.12 4.12 0 0 0 4.11 4.12zM14.15 11.51a3.83 3.83 0 0 0-.41-.75 5.11 5.11 0 0 0-3.54-2.23.76.76 0 0 0-.52.13 4.38 4.38 0 0 1-5.17 0 .67.67 0 0 0-.52-.13 5.07 5.07 0 0 0-3.54 2.23 4.42 4.42 0 0 0-.41.75.38.38 0 0 0 0 .34 7.16 7.16 0 0 0 .48.72 6.83 6.83 0 0 0 .83.93 10.77 10.77 0 0 0 .83.72 8.19 8.19 0 0 0 9.77 0 7.89 7.89 0 0 0 .83-.72 8.29 8.29 0 0 0 .83-.93 6.29 6.29 0 0 0 .48-.72.31.31 0 0 0 .06-.34z"></path></svg>
         <span class="sw-eyebrow__greeting js-sw-eyebrow__greeting">Hiya, {name}</span>
         <span class="sw-eyebrow__tokenpane">
@@ -471,11 +384,11 @@ To find out more about the cookies on our website, please see our <a href="/Lega
     </button>
 
     
-    <ul class="sw-eyebrow__usermenu js-sw-eyebrow__usermenu is-hidden" aria-hidden="true">
+    <ul class="sw-eyebrow__usermenu js-sw-eyebrow__usermenu is-hidden" aria-hidden="true" style="display: none;">
         
 
 <li class="sw-eyebrow__usermenu-item sw-usermenu-account-item js-sw-usermenu-account-item">
-    <a class="sw-eyebrow__usermenu-link" href="https://p.subway.com/en-us/Account">My Account</a>
+    <a class="sw-eyebrow__usermenu-link" href="https://p.subway.com/en-us/contactinfo">My Account</a>
 </li>
 
 <li class="sw-eyebrow__usermenu-item sw-usermenu-account-item js-sw-usermenu-account-item">
@@ -485,11 +398,9 @@ To find out more about the cookies on our website, please see our <a href="/Lega
             <a id="v2header_0_ctl06_ctl05_ctl01_lnkLogout" class="lnkLogout sw-eyebrow__usermenu-link" href="javascript:__doPostBack('v2header_0$ctl06$ctl05$ctl01$lnkLogout','')">Logout</a>
         </li>
     </ul>
-</li>
-
-                    </ul>
+</li></ul>
                 
-        </div>     
+        </nav>     
     </div>
 </div>
 
@@ -499,473 +410,11 @@ To find out more about the cookies on our website, please see our <a href="/Lega
     <div class="sw-container__col">
 
         <div class="sw-header">
-            <button class="sw-hamburger js-sw-hamburger" aria-expanded="false" type="button"><span></span><span>Toggle Menu</span><span></span></button>
-            <nav class="sw-mainnav js-sw-mainnav">
-                
-                
-    <ul class="sw-shopnav for-mobile">
-        
-        
-            <li class="sw-shopnav__item">
-                
-                <a href="/en-US/FindAStore" class="sw-shopnav__trigger">
-                              
-                <span class="icon">                      
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.56 15.83" role="presentation"><path fill="currentColor" d="M10.56 5.28a4.34 4.34 0 0 1-.34 1.85l-3.75 8a1.26 1.26 0 0 1-.49.54 1.33 1.33 0 0 1-1.39 0 1.18 1.18 0 0 1-.48-.54l-3.76-8a4.34 4.34 0 0 1-.34-1.85 5.09 5.09 0 0 1 1.54-3.73A5.09 5.09 0 0 1 5.28 0a5.08 5.08 0 0 1 3.73 1.55 5.09 5.09 0 0 1 1.55 3.73zM7.15 7.15a2.54 2.54 0 0 0 .77-1.87 2.55 2.55 0 0 0-.77-1.87 2.54 2.54 0 0 0-1.87-.77 2.54 2.54 0 0 0-1.87.77 2.54 2.54 0 0 0-.77 1.87 2.54 2.54 0 0 0 .77 1.87 2.54 2.54 0 0 0 1.87.77 2.54 2.54 0 0 0 1.87-.77z"></path></svg>
-                </span>
-                Find a Subway
-                </a>
-            </li>
-        
-            <li class="sw-shopnav__item">
-                
-                <a href="javascript:launchStartOrderModal();" class="sw-shopnav__trigger">
-                              
-                <span class="icon">                      
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.04 38.6" role="presentation"><g><path d="M11.14 5.4A4 4 0 0 1 15 1.5a3.9 3.9 0 0 1 3.9 3.9v3.9H11V5.4zM30 37.6l-1.6-6.1V10a.86.86 0 0 0-.8-.8h-7.1V5.4a5.5 5.5 0 0 0-11 0v3.9H2.44a.79.79 0 0 0-.8.8v21.5L0 37.6a.88.88 0 0 0 .1.7.71.71 0 0 0 .6.3h28.4a.71.71 0 0 0 .6-.3c.3-.2.3-.4.3-.7z" fill="currentColor"></path></g></svg>
-
-                </span>
-                Start Order
-                </a>
-            </li>
-        
-    </ul>
-
-
-                <ul class="sw-mainnav__list">
-                
-                                        
-                    
-
-
-<li class="sw-mainnav__item sw-mainnav__item--menu has-dropdown js-sw-mainnav__item">
-    
-    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Menu">Menu</button>
-    
-        <div class="sw-mainnav__dropdown" aria-hidden="true">
-            <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/MenuNutrition" class="js-sw-mainnav__allowactive">Menu</a></h2>
-            <div class="sw-mainnav__dropdown-content">
-                
-
-
-<div class="sw-mainnav__dropdown-menu">
-    
-    <ul class="sw-mainnav__dropdown-links">
-        
-        
-        
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu" class="js-sw-mainnav__allowactive">Full Menu</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Featured" class="js-sw-mainnav__allowactive">Featured</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/All" class="js-sw-mainnav__allowactive">Sandwiches</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Signature-Wraps" class="js-sw-mainnav__allowactive">Signature Wraps</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/FreshFit" class="js-sw-mainnav__allowactive">Fresh Fit®</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Breakfast" class="js-sw-mainnav__allowactive">Breakfast</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Salads" class="js-sw-mainnav__allowactive">Chopped Salads</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Kids" class="js-sw-mainnav__allowactive">Fresh Fit for Kids™</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/SidesDrinksExtras" class="js-sw-mainnav__allowactive">Sides and Drinks</a></li>
-
-        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/BreadsAndToppings" class="js-sw-mainnav__allowactive">Breads, Toppings &amp; Extras</a></li>
-
-        
-        
-
-    </ul>
-</div>
-
-<ul class="sw-mainnav__dropdown-tiles ">
-    
-
-<li class="sw-mainnav__dropdown-item sw-mainnav__dropdown-item--featured">
-    <a class="sw-mainnav__dropdown-cta" href="https://www.subway.com/delivers?intcmp=subwayhome:owned:traffic:3pd:fwh-3pd-w6-2018:0:im:0:getdelivery:ftr1:v1&amp;segment_code=0" target="_blank">
-        
-        <div class="sw-mainnav__dropdown-media">
-            <img src="/~/media/_SubwayV2/Promotions/2018/W7/menu_featured_3rd_Party_Delivery_436x226-v4.jpg" alt="" class="no-zoom initial loading" data-was-processed="true">
-        </div>
+            <button class="sw-hamburger js-sw-hamburger" aria-expanded="false" type="button"><span></span><span>Main Menu</span><span></span></button>
             
-        
-            <span class="sw-mainnav__dropdown-title sw-mainnav__dropdown-title__featured"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 28" role="presentation"><path d="M26 10.109c0 .281-.203.547-.406.75l-5.672 5.531 1.344 7.812c.016.109.016.203.016.313 0 .406-.187.781-.641.781a1.27 1.27 0 0 1-.625-.187L13 21.422l-7.016 3.687c-.203.109-.406.187-.625.187-.453 0-.656-.375-.656-.781 0-.109.016-.203.031-.313l1.344-7.812L.39 10.859c-.187-.203-.391-.469-.391-.75 0-.469.484-.656.875-.719l7.844-1.141 3.516-7.109c.141-.297.406-.641.766-.641s.625.344.766.641l3.516 7.109 7.844 1.141c.375.063.875.25.875.719z"></path></svg>FEATURED<span class="sw-meta">Subway® Now Delivers!</span></span>
-        
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="https://subway.com/en-US/WWCsweepstakesUS?intcmp=subwaymenu:owned:newsAndOffers:Visa-Promo:fwh-visa-w2-2019:0:im:0:visa-promo:ftr2:v1&amp;segment_code=0" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Promotions/2019/W2-Visa/visa-cta-nav-small.jpg" alt="" class="no-zoom initial error" src="/~/media/_SubwayV2/Promotions/2019/W2-Visa/visa-cta-nav-small.jpg" data-was-processed="true">
-        </div>
-        <span>Visa Promotion</span>
-    </a>
-</li>
-</ul>  
-                <button class="sw-mainnav__dropdown-close" type="button" aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</button>            
-            </div>
-        </div>
-    
-
-</li>
-
-<li class="sw-mainnav__item sw-mainnav__item--tiles has-dropdown js-sw-mainnav__item">
-    
-    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Nutrition">Nutrition</button>
-    
-    
-    <div class="sw-mainnav__dropdown" aria-hidden="true">
-        <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/MenuNutrition/Nutrition" class="js-sw-mainnav__allowactive">Nutrition</a></h2>
-        <div class="sw-mainnav__dropdown-content">
-            <ul class="sw-mainnav__dropdown-tiles">                
-                
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Nutrition/nutrition-info.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Nutrition/nutrition-info.jpg" data-was-processed="true">
-        </div>
-        <span>Nutrition info, Allergens &amp; Ingredients</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition/ExpertAdvice" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Nutrition/meet-the-experts.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Nutrition/meet-the-experts.jpg" data-was-processed="true">
-        </div>
-        <span>Meet The Experts</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/OurOverallCommitment" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Nutrition/our-commitments.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Nutrition/our-commitments.jpg" data-was-processed="true">
-        </div>
-        <span>Our Commitments</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition/WhatsInOurFood" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Nutrition/whats-in-our-food.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Nutrition/whats-in-our-food.jpg" data-was-processed="true">
-        </div>
-        <span>What's In Our Food</span>
-    </a>
-</li>
-            </ul>
-            <button class="sw-mainnav__dropdown-close" type="button" aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</button>  
-        </div>
-    </div>
-</li>
-
-
-<li class="sw-mainnav__item sw-mainnav__item--menu has-dropdown js-sw-mainnav__item">
-    
-    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Catering">Catering</button>
-    
-        <div class="sw-mainnav__dropdown" aria-hidden="true">
-            <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/Catering" class="js-sw-mainnav__allowactive">Catering</a></h2>
-            <div class="sw-mainnav__dropdown-content">
-                
-
-<ul class="sw-mainnav__dropdown-tiles ">
-    
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/Catering" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Catering/feed-a-crowd.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Catering/feed-a-crowd.jpg" data-was-processed="true">
-        </div>
-        <span>Feed a Crowd</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/Catering/CateringProducts" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Catering/catering-menu.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Catering/catering-menu.jpg" data-was-processed="true">
-        </div>
-        <span>Catering Menu</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/Catering/CateringPlanning" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Catering/planning.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Catering/planning.jpg" data-was-processed="true">
-        </div>
-        <span>Planning</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item sw-mainnav__dropdown-item--featured">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/Catering" target="_self">
-        
-        <div class="sw-mainnav__dropdown-media">
-            <img src="/~/media/_SubwayV2/Navigation/Catering/CateringFeature.jpg" alt="Catering - Call Us" class="initial loading" data-was-processed="true">
-        </div>
-            
-        
-            <span class="sw-mainnav__dropdown-title sw-mainnav__dropdown-title__featured"><span class="sw-meta"></span></span>
-        
-    </a>
-</li>
-</ul>  
-                <button class="sw-mainnav__dropdown-close" type="button" aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</button>            
-            </div>
-        </div>
-    
-
-</li>
-
-
-<li class="sw-mainnav__item sw-mainnav__item--menu has-dropdown js-sw-mainnav__item">
-    
-    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Rewards">Rewards &amp; Deals</button>
-    
-        <div class="sw-mainnav__dropdown" aria-hidden="true">
-            <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/Promotions" class="js-sw-mainnav__allowactive">Rewards &amp; Deals</a></h2>
-            <div class="sw-mainnav__dropdown-content">
-                
-
-<ul class="sw-mainnav__dropdown-tiles is-hidden js-sw-section--loggedinonly">
-    
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="https://p.subway.com/en-US/" target="_blank">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Myway-Rewards.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Myway-Rewards.jpg" data-was-processed="true">
-        </div>
-        <span>Dashboard</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="https://p.subway.com/en-us/account" target="_blank">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Account.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Account.jpg" data-was-processed="true">
-        </div>
-        <span>Account</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="https://p.subway.com/en-us/paymentmethods" target="_blank">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Payment_Methods.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Payment_Methods.jpg" data-was-processed="true">
-        </div>
-        <span>Cards &amp; Payment</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/MyWayRewards/RewardsFAQs" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-FAQs.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-FAQs.jpg" data-was-processed="true">
-        </div>
-        <span>FAQS</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition/DownloadTheApp" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/app.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/app.jpg" data-was-processed="true">
-        </div>
-        <span>Get the App</span>
-    </a>
-</li>
-</ul>
-
-<ul class="sw-mainnav__dropdown-tiles is-hidden js-sw-section--loggedoutonly">
-    
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/Promotions" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/deals.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/deals.jpg" data-was-processed="true">
-        </div>
-        <span>Rewards &amp; Deals</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/MyWayRewards" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/my-way/my-way-226x227.png" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/my-way/my-way-226x227.png" data-was-processed="true">
-        </div>
-        <span>Join Rewards</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition/DownloadTheApp" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/app.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/app.jpg" data-was-processed="true">
-        </div>
-        <span>Get the App</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item sw-mainnav__dropdown-item--featured">
-    <a class="sw-mainnav__dropdown-cta" href="https://subway.com/en-US/WWCsweepstakesUS?intcmp=subwaycom-rewards:owned:traffic:Visa-Promo:fwh-visa-w2-2019:0:im:0:score-big:ftr4:v1&amp;segment_code=0" target="_self">
-        
-        <div class="sw-mainnav__dropdown-media">
-            <img src="/~/media/_SubwayV2/Promotions/2019/W2-Visa/visa-cta-nav-larg.jpg" alt="You could win a trip to the FIFA Women's World Cup 2019™ Final match in Lyon, France, thanks to Visa®." class="no-zoom initial loading" data-was-processed="true">
-        </div>
-            
-        
-            <span class="sw-mainnav__dropdown-title sw-mainnav__dropdown-title__featured"><span class="sw-meta"></span></span>
-        
-    </a>
-</li>
-</ul>  
-                <button class="sw-mainnav__dropdown-close" type="button" aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</button>            
-            </div>
-        </div>
-    
-
-</li>
-
-<li class="sw-mainnav__item sw-mainnav__item--tiles has-dropdown js-sw-mainnav__item">
-    
-    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Responsibility">Responsibility</button>
-    
-    
-    <div class="sw-mainnav__dropdown" aria-hidden="true">
-        <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/AboutUs/SocialResponsibility" class="js-sw-mainnav__allowactive">Responsibility</a></h2>
-        <div class="sw-mainnav__dropdown-content">
-            <ul class="sw-mainnav__dropdown-tiles">                
-                
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/our-goals.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/our-goals.jpg" data-was-processed="true">
-        </div>
-        <span>Our Goals</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/NutritionalLeadership" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/promote-well-being.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/promote-well-being.jpg" data-was-processed="true">
-        </div>
-        <span>Promote Well-being</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/EnvironmentalLeadership" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/preserve-our-planet.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/preserve-our-planet.jpg" data-was-processed="true">
-        </div>
-        <span>Preserve Our Planet</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/OurPeopleOurCommunities" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/our-communities.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/our-communities.jpg" data-was-processed="true">
-        </div>
-        <span>Our Communities</span>
-    </a>
-</li>
-
-<li class="sw-mainnav__dropdown-item">
-    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/OurOverallCommitment" target="_self">
-        <div class="sw-mainnav__dropdown-media">
-            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/our-plan.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/our-plan.jpg" data-was-processed="true">
-        </div>
-        <span>Our Plan</span>
-    </a>
-</li>
-            </ul>
-            <button class="sw-mainnav__dropdown-close" type="button" aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</button>  
-        </div>
-    </div>
-</li>
-
-<script type="text/javascript"> 
-    var CTA_StartOrder1_Text = "Choose Location";
-    var CTA_StartOrder1_ImageSrc = "/~/media/_SubwayV2/CallToAction/Order/cta-startorder-1.png";
-    var CTA_StartOrder1_ImageHeight = "31";
-    var CTA_StartOrder1_ImageWidth = "41";
-    var CTA_StartOrder2_Text = "Place Order"; 
-    var CTA_StartOrder2_ImageSrc = "/~/media/_SubwayV2/CallToAction/Order/cta-startorder-2.png";
-    var CTA_StartOrder2_ImageHeight = "31";
-    var CTA_StartOrder2_ImageWidth = "41";
-
-    function launchLocator() {
-        try {
-            if (typeof FwhLocator === 'undefined') {
-                window.location.href = '/en-US/_OrderRedirect';
-            }
-            else {
-                if (typeof launchStartOrderModal !== 'undefined') {
-                    launchStartOrderModal();
-                }
-                else {
-                    window.location.href = '/en-US/_OrderRedirect';
-                }
-            }
-        }
-        catch (e) {
-            console.log('error: ' + e);
-            //window.location.href = '/en-US/_OrderRedirect';
-        }
-    }
-</script>
-
-
-
-          <li class="sw-mainnav__item sw-mainnav__item--order js-sw-mainnav__item">
-          
-                <a class="sw-mainnav__link" href="#" data-adobe-link-name="Start Order" onclick="javascript:launchStartOrderModal();">Start Order</a>
-        
-</li>
-
-
-                </ul>
-                
-                
-    <ul class="sw-footerlinks for-mobile">        
-        
-            <li class="sw-footerlinks__item">
-                <a href="/en-US/OwnAFranchise" class="sw-footerlinks__trigger">Own a Subway</a>
-            </li>
-        
-            <li class="sw-footerlinks__item">
-                <a href="/en-US/AboutUs" class="sw-footerlinks__trigger">About Us</a>
-            </li>
-        
-            <li class="sw-footerlinks__item">
-                <a href="/en-US/AboutUs/History" class="sw-footerlinks__trigger">History</a>
-            </li>
-        
-            <li class="sw-footerlinks__item">
-                <a href="/en-US/MenuNutrition" class="sw-footerlinks__trigger">Menu</a>
-            </li>
-        
-            <li class="sw-footerlinks__item">
-                <a href="/en-US/Careers" class="sw-footerlinks__trigger">Careers</a>
-            </li>
-        
-    </ul>
-
-
-            </nav>
-            <a href="/en-US" class="sw-logo" aria-label="Subway.com">
+            <a href="/en-US" class="sw-logo" aria-label="Subway.com home page">
                 <span class="sw-logo__regular">                    
-                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 240 47.9" enable-background="new 0 0 240 47.9" xml:space="preserve" role="img" aria-labelledby="subway-logo">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 240 47.9" enable-background="new 0 0 240 47.9" xml:space="preserve" role="img" aria-labelledby="subway-logo">
 	 <title id="subway-logo">Welcome to Subway.com</title>
 <g>
 	<path fill="#F2B700" d="M39.2,32c0,5.9-3.4,9.5-8.8,10.6c-1.5,0.3-4,0.3-5.7,0.3l-13.1-0.1v5L0,38.3l11.6-9.5v5l14.7,0.1
@@ -994,7 +443,7 @@ To find out more about the cookies on our website, please see our <a href="/Lega
                 </span>
 
                 <span class="sw-logo__contrast">
-                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 240 48.4" enable-background="new 0 0 240 48.4" xml:space="preserve" role="img" aria-labelledby="subway-logo-black">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 240 48.4" enable-background="new 0 0 240 48.4" xml:space="preserve" role="img" aria-labelledby="subway-logo-black">
 	 <title id="subway-logo-black">Welcome to Subway.com</title>
 <g>
 	<path d="M75.2,4.4v26.8c0,8.1-8,12.1-15.9,12.1c-11,0-15.9-5.9-15.9-12.1V4.4h13.1v25.9c0,1.6,2.1,1.7,2.8,1.7
@@ -1023,14 +472,16 @@ To find out more about the cookies on our website, please see our <a href="/Lega
 </g>
 </svg>
 
+
                 </span>
             </a>
 
             <ul class="sw-userpane-mobile js-sw-userpane-mobile for-mobile"></ul>
             
             
-    <ul class="sw-quicknav for-mobile">
-        
+    <nav aria-label="Quick Navigation">
+        <ul class="sw-quicknav for-mobile">
+            
 
     <li class="sw-quicknav__item">
         
@@ -1097,14 +548,502 @@ To find out more about the cookies on our website, please see our <a href="/Lega
     </li>
 
 
-    </ul>
+        </ul>
+    </nav>
                        
+        <nav class="sw-mainnav js-sw-mainnav" aria-label="Main Navigation">
+                
+                
+    <ul class="sw-shopnav for-mobile">
+        
+        
+            <li class="sw-shopnav__item">
+                
+                <a href="/en-US/FindAStore" class="sw-shopnav__trigger">
+                              
+                <span class="icon">                      
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.56 15.83" role="presentation"><path fill="currentColor" d="M10.56 5.28a4.34 4.34 0 0 1-.34 1.85l-3.75 8a1.26 1.26 0 0 1-.49.54 1.33 1.33 0 0 1-1.39 0 1.18 1.18 0 0 1-.48-.54l-3.76-8a4.34 4.34 0 0 1-.34-1.85 5.09 5.09 0 0 1 1.54-3.73A5.09 5.09 0 0 1 5.28 0a5.08 5.08 0 0 1 3.73 1.55 5.09 5.09 0 0 1 1.55 3.73zM7.15 7.15a2.54 2.54 0 0 0 .77-1.87 2.55 2.55 0 0 0-.77-1.87 2.54 2.54 0 0 0-1.87-.77 2.54 2.54 0 0 0-1.87.77 2.54 2.54 0 0 0-.77 1.87 2.54 2.54 0 0 0 .77 1.87 2.54 2.54 0 0 0 1.87.77 2.54 2.54 0 0 0 1.87-.77z"></path></svg>
+                </span>
+                Find a Subway
+                </a>
+            </li>
+        
+            <li class="sw-shopnav__item">
+                
+                <a href="javascript:launchStartOrderModal();" class="sw-shopnav__trigger">
+                              
+                <span class="icon">                      
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.04 38.6" role="presentation"><g><path d="M11.14 5.4A4 4 0 0 1 15 1.5a3.9 3.9 0 0 1 3.9 3.9v3.9H11V5.4zM30 37.6l-1.6-6.1V10a.86.86 0 0 0-.8-.8h-7.1V5.4a5.5 5.5 0 0 0-11 0v3.9H2.44a.79.79 0 0 0-.8.8v21.5L0 37.6a.88.88 0 0 0 .1.7.71.71 0 0 0 .6.3h28.4a.71.71 0 0 0 .6-.3c.3-.2.3-.4.3-.7z" fill="currentColor"></path></g></svg>
+
+                </span>
+                Start Order
+                </a>
+            </li>
+        
+    </ul>
+
+
+                <ul class="sw-mainnav__list">
+                
+                                        
+                    
+
+
+<li class="sw-mainnav__item sw-mainnav__item--menu has-dropdown js-sw-mainnav__item">
+    
+    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Menu">Menu</button>
+    
+        <div class="sw-mainnav__dropdown" aria-hidden="true">
+            <button class="sw-mainnav__dropdown-close backBtnMobile" type="button">                   
+                    <span aria-label="Back">Back&nbsp;&nbsp;&nbsp;</span>
+                </button>  
+            <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/MenuNutrition" class="js-sw-mainnav__allowactive">Menu</a></h2>
+            <div class="sw-mainnav__dropdown-content">
+                
+
+
+<div class="sw-mainnav__dropdown-menu">
+    
+    <ul class="sw-mainnav__dropdown-links">
+        
+        
+        
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu" class="js-sw-mainnav__allowactive">Full Menu</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Featured" class="js-sw-mainnav__allowactive">Featured</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/All" class="js-sw-mainnav__allowactive">Sandwiches</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Signature-Wraps" class="js-sw-mainnav__allowactive">Signature Wraps</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/FreshFit" class="js-sw-mainnav__allowactive">Fresh Fit®</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Breakfast" class="js-sw-mainnav__allowactive">Breakfast</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Salads" class="js-sw-mainnav__allowactive">Chopped Salads</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/Kids" class="js-sw-mainnav__allowactive">Fresh Fit for Kids™</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/SidesDrinksExtras" class="js-sw-mainnav__allowactive">Sides and Drinks</a></li>
+
+        <li class="sw-mainnav__dropdown-item"><a href="/en-US/MenuNutrition/Menu/BreadsAndToppings" class="js-sw-mainnav__allowactive">Breads, Toppings &amp; Extras</a></li>
+
+        
+        
+
+    </ul>
+</div>
+
+<ul class="sw-mainnav__dropdown-tiles ">
+    
+
+<li class="sw-mainnav__dropdown-item sw-mainnav__dropdown-item--featured">
+    <a class="sw-mainnav__dropdown-cta" href="https://www.subway.com/en-us/delivers?intcmp=subwaymenu:owned:traffic:3pd:fwh-3pd-w4-2019:0:im:0:0:ftr1:v1&amp;segment_code=0" target="_blank">
+        
+        <div class="sw-mainnav__dropdown-media">
+            <img src="/~/media/_SubwayV2/Promotions/2018/W7/menu_featured_3rd_Party_Delivery_436x226-v4.jpg" alt="" class="no-zoom initial loading" data-was-processed="true">
         </div>
+            
+        
+            <span class="sw-mainnav__dropdown-title sw-mainnav__dropdown-title__featured"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 28" role="presentation"><path d="M26 10.109c0 .281-.203.547-.406.75l-5.672 5.531 1.344 7.812c.016.109.016.203.016.313 0 .406-.187.781-.641.781a1.27 1.27 0 0 1-.625-.187L13 21.422l-7.016 3.687c-.203.109-.406.187-.625.187-.453 0-.656-.375-.656-.781 0-.109.016-.203.031-.313l1.344-7.812L.39 10.859c-.187-.203-.391-.469-.391-.75 0-.469.484-.656.875-.719l7.844-1.141 3.516-7.109c.141-.297.406-.641.766-.641s.625.344.766.641l3.516 7.109 7.844 1.141c.375.063.875.25.875.719z"></path></svg>FEATURED<span class="sw-meta">Subway® Now Delivers!</span></span>
+        
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="https://www.subway.com/en-US/MenuNutrition/Nutrition/DownloadTheApp?intcmp=subwaymenu:owned:acquisition:app:fwh-app-w4-2019:0:im:0:get-the-app:ftr2:v1&amp;segment_code=0" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Featured/getapp/app.jpg" alt="" class="no-zoom initial error" src="/~/media/_SubwayV2/Navigation/Featured/getapp/app.jpg" data-was-processed="true">
+        </div>
+        <span>Get the App</span>
+    </a>
+</li>
+</ul>  
+                  <button class="sw-mainnav__dropdown-close backBtnDesktop" type="button">
+                    <span aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</span>
+                </button>            
+            </div>
+        </div>
+    
+
+</li>
+
+<li class="sw-mainnav__item sw-mainnav__item--tiles has-dropdown js-sw-mainnav__item">
+    
+    
+    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Nutrition">Nutrition</button>
+    
+    <div class="sw-mainnav__dropdown" aria-hidden="true">
+        <button class="sw-mainnav__dropdown-close backBtnMobile" type="button">
+                <span aria-label="Back">Back&nbsp;&nbsp;&nbsp;</span>
+            </button> 
+        <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/MenuNutrition/Nutrition" class="js-sw-mainnav__allowactive">Nutrition</a></h2>
+        <div class="sw-mainnav__dropdown-content">
+            <ul class="sw-mainnav__dropdown-tiles">                
+                
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Nutrition/nutrition-info.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Nutrition/nutrition-info.jpg" data-was-processed="true">
+        </div>
+        <span>Nutrition info, Allergens &amp; Ingredients</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition/ExpertAdvice" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Nutrition/meet-the-experts.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Nutrition/meet-the-experts.jpg" data-was-processed="true">
+        </div>
+        <span>Meet The Experts</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/OurOverallCommitment" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Nutrition/our-commitments.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Nutrition/our-commitments.jpg" data-was-processed="true">
+        </div>
+        <span>Our Commitments</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition/WhatsInOurFood" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Nutrition/whats-in-our-food.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Nutrition/whats-in-our-food.jpg" data-was-processed="true">
+        </div>
+        <span>What's In Our Food</span>
+    </a>
+</li>
+            </ul>
+            <button class="sw-mainnav__dropdown-close backBtnDesktop" type="button">
+                    <span aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</span>
+                </button>    
+        </div>
+    </div>
+</li>
+
+
+<li class="sw-mainnav__item sw-mainnav__item--menu has-dropdown js-sw-mainnav__item">
+    
+    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Catering">Catering</button>
+    
+        <div class="sw-mainnav__dropdown" aria-hidden="true">
+            <button class="sw-mainnav__dropdown-close backBtnMobile" type="button">                   
+                    <span aria-label="Back">Back&nbsp;&nbsp;&nbsp;</span>
+                </button>  
+            <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/Catering" class="js-sw-mainnav__allowactive">Catering</a></h2>
+            <div class="sw-mainnav__dropdown-content">
+                
+
+<ul class="sw-mainnav__dropdown-tiles ">
+    
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/Catering" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Catering/feed-a-crowd.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Catering/feed-a-crowd.jpg" data-was-processed="true">
+        </div>
+        <span>Feed a Crowd</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/Catering/CateringProducts" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Catering/catering-menu.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Catering/catering-menu.jpg" data-was-processed="true">
+        </div>
+        <span>Catering Menu</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/Catering/CateringPlanning" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Catering/planning.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Catering/planning.jpg" data-was-processed="true">
+        </div>
+        <span>Planning</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item sw-mainnav__dropdown-item--featured">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/Catering" target="_self">
+        
+        <div class="sw-mainnav__dropdown-media">
+            <img src="/~/media/_SubwayV2/Navigation/Catering/Catering-Menu-Banner-EN.jpg" alt="Call us! 877-360-CATER. Need it, like really soon? Call us and we'll get your order going ASAP." class="no-zoom initial loading" data-was-processed="true">
+        </div>
+            
+        
+            <span class="sw-mainnav__dropdown-title sw-mainnav__dropdown-title__featured"><span class="sw-meta"></span></span>
+        
+    </a>
+</li>
+</ul>  
+                  <button class="sw-mainnav__dropdown-close backBtnDesktop" type="button">
+                    <span aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</span>
+                </button>            
+            </div>
+        </div>
+    
+
+</li>
+
+
+<li class="sw-mainnav__item sw-mainnav__item--menu has-dropdown js-sw-mainnav__item">
+    
+    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Rewards">Rewards &amp; Deals</button>
+    
+        <div class="sw-mainnav__dropdown" aria-hidden="true">
+            <button class="sw-mainnav__dropdown-close backBtnMobile" type="button">                   
+                    <span aria-label="Back">Back&nbsp;&nbsp;&nbsp;</span>
+                </button>  
+            <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/Promotions" class="js-sw-mainnav__allowactive">Rewards &amp; Deals</a></h2>
+            <div class="sw-mainnav__dropdown-content">
+                
+
+<ul class="sw-mainnav__dropdown-tiles is-hidden js-sw-section--loggedinonly">
+    
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="https://p.subway.com/en-US/" target="_blank">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Myway-Rewards.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Myway-Rewards.jpg" data-was-processed="true">
+        </div>
+        <span>Dashboard</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="https://p.subway.com/en-us/contactinfo" target="_blank">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Account.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Account.jpg" data-was-processed="true">
+        </div>
+        <span>Account</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="https://p.subway.com/en-us/paymentmethods" target="_blank">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Payment_Methods.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-Payment_Methods.jpg" data-was-processed="true">
+        </div>
+        <span>Cards &amp; Payment</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/MyWayRewards/RewardsFAQs" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-FAQs.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/nav-login-FAQs.jpg" data-was-processed="true">
+        </div>
+        <span>FAQS</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition/DownloadTheApp" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/app.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/app.jpg" data-was-processed="true">
+        </div>
+        <span>Get the App</span>
+    </a>
+</li>
+</ul>
+
+<ul class="sw-mainnav__dropdown-tiles is-hidden js-sw-section--loggedoutonly">
+    
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/Promotions" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/deals.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/deals.jpg" data-was-processed="true">
+        </div>
+        <span>Rewards &amp; Deals</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/MyWayRewards" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/my-way/my-way-226x227.png" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/my-way/my-way-226x227.png" data-was-processed="true">
+        </div>
+        <span>Join Rewards</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/MenuNutrition/Nutrition/DownloadTheApp" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/app.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/app.jpg" data-was-processed="true">
+        </div>
+        <span>Get the App</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item sw-mainnav__dropdown-item--featured">
+    <a class="sw-mainnav__dropdown-cta" href="https://www.subway.com/en-US/Promotions" target="_self">
+        
+        <div class="sw-mainnav__dropdown-media">
+            <img src="/~/media/_SubwayV2/Navigation/Rewards-and-Deals/tokens.jpg" alt="Order. Earn tokens. Get rewards. Repeat." class="no-zoom initial loading" data-was-processed="true">
+        </div>
+            
+        
+            <span class="sw-mainnav__dropdown-title sw-mainnav__dropdown-title__featured"><span class="sw-meta"></span></span>
+        
+    </a>
+</li>
+</ul>  
+                  <button class="sw-mainnav__dropdown-close backBtnDesktop" type="button">
+                    <span aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</span>
+                </button>            
+            </div>
+        </div>
+    
+
+</li>
+
+<li class="sw-mainnav__item sw-mainnav__item--tiles has-dropdown js-sw-mainnav__item">
+    
+    
+    <button class="sw-mainnav__link" type="button" aria-expanded="false" data-adobe-link-name="Responsibility">Responsibility</button>
+    
+    <div class="sw-mainnav__dropdown" aria-hidden="true">
+        <button class="sw-mainnav__dropdown-close backBtnMobile" type="button">
+                <span aria-label="Back">Back&nbsp;&nbsp;&nbsp;</span>
+            </button> 
+        <h2 class="sw-mainnav__dropdown-title"><a href="/en-US/AboutUs/SocialResponsibility" class="js-sw-mainnav__allowactive">Responsibility</a></h2>
+        <div class="sw-mainnav__dropdown-content">
+            <ul class="sw-mainnav__dropdown-tiles">                
+                
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/our-goals.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/our-goals.jpg" data-was-processed="true">
+        </div>
+        <span>Our Goals</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/NutritionalLeadership" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/promote-well-being.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/promote-well-being.jpg" data-was-processed="true">
+        </div>
+        <span>Promote Well-being</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/EnvironmentalLeadership" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/preserve-our-planet.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/preserve-our-planet.jpg" data-was-processed="true">
+        </div>
+        <span>Preserve Our Planet</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/OurPeopleOurCommunities" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/our-communities.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/our-communities.jpg" data-was-processed="true">
+        </div>
+        <span>Our Communities</span>
+    </a>
+</li>
+
+<li class="sw-mainnav__dropdown-item">
+    <a class="sw-mainnav__dropdown-cta" href="/en-US/AboutUs/SocialResponsibility/OurOverallCommitment" target="_self">
+        <div class="sw-mainnav__dropdown-media">
+            <img data-src="/~/media/_SubwayV2/Navigation/Responsibility/our-plan.jpg" alt="" class="initial error" src="/~/media/_SubwayV2/Navigation/Responsibility/our-plan.jpg" data-was-processed="true">
+        </div>
+        <span>Our Plan</span>
+    </a>
+</li>
+            </ul>
+            <button class="sw-mainnav__dropdown-close backBtnDesktop" type="button">
+                    <span aria-label="Close">Close&nbsp;&nbsp;&nbsp;X</span>
+                </button>    
+        </div>
+    </div>
+</li>
+
+<script type="text/javascript"> 
+    var CTA_StartOrder1_Text = "Choose Location";
+    var CTA_StartOrder1_ImageSrc = "/~/media/_SubwayV2/CallToAction/Order/cta-startorder-1.png";
+    var CTA_StartOrder1_ImageHeight = "31";
+    var CTA_StartOrder1_ImageWidth = "41";
+    var CTA_StartOrder2_Text = "Place Order"; 
+    var CTA_StartOrder2_ImageSrc = "/~/media/_SubwayV2/CallToAction/Order/cta-startorder-2.png";
+    var CTA_StartOrder2_ImageHeight = "31";
+    var CTA_StartOrder2_ImageWidth = "41";
+
+    function launchLocator(filter) {     
+        if (filter === undefined) filter = null;
+        try {
+            if (typeof FwhLocator === 'undefined') {
+                window.location.href = '/en-US/_OrderRedirect';
+            }
+            else {
+                if (typeof launchStartOrderModal !== 'undefined') {
+                    launchStartOrderModal(filter);
+                }
+                else {
+                    window.location.href = '/en-US/_OrderRedirect';
+                }
+            }
+        }
+        catch (e) {
+            fwhtrk.errorMessage = 'error: ' + e;
+        }
+    }
+</script>
+
+
+
+          <li class="sw-mainnav__item sw-mainnav__item--order js-sw-mainnav__item">
+          
+                <a class="sw-mainnav__link" href="#" data-adobe-link-name="Start Order" onclick="javascript:launchLocator('HasOnlineOrdering'); _satellite.track('Nav Click Event Start Order');">Start Order</a>
+        
+</li>
+
+
+                </ul>
+                
+                
+    <ul class="sw-footerlinks for-mobile">        
+        
+            <li class="sw-footerlinks__item">
+                <a href="/en-US/OwnAFranchise" class="sw-footerlinks__trigger">Own a Subway</a>
+            </li>
+        
+            <li class="sw-footerlinks__item">
+                <a href="/en-US/AboutUs" class="sw-footerlinks__trigger">About Us</a>
+            </li>
+        
+            <li class="sw-footerlinks__item">
+                <a href="/en-US/AboutUs/History" class="sw-footerlinks__trigger">History</a>
+            </li>
+        
+            <li class="sw-footerlinks__item">
+                <a href="/en-US/MenuNutrition" class="sw-footerlinks__trigger">Menu</a>
+            </li>
+        
+            <li class="sw-footerlinks__item">
+                <a href="/en-US/Careers" class="sw-footerlinks__trigger">Careers</a>
+            </li>
+        
+    </ul>
+
+
+            </nav></div>
     </div>
 </div>
 
         </div>
-        
+
         <div class="sw-main" role="main" id="sw-main">
             
     <div class="sw-container sw-container--extended sw-container--hero is-adjacent">
@@ -1144,27 +1083,27 @@ To find out more about the cookies on our website, please see our <a href="/Lega
             <div class="sw-tabs__list" role="tablist" aria-label="">
 
                 
-                        <a href="#" class="sw-tabs__item" role="tab" aria-controls="_lnk" id="_tb" aria-selected="true">
+                        <a href="#" class="sw-tabs__item sw-tabs__item--small" role="tab" aria-controls="_lnk" id="_tb" aria-selected="true">
                             
                             <span class="sw-tabs__title">General Notice</span>
                         </a>
                 
-                        <a href="/en-US/Legal/PrivacyStatement-FWH" class="sw-tabs__item sw-tabs__item--nojs" role="tab" aria-controls="forguests_lnk" id="forguests_tb" aria-selected="false">
+                        <a href="/en-US/Legal/PrivacyStatement-FWH" class="sw-tabs__item sw-tabs__item--nojs sw-tabs__item--small" role="tab" aria-controls="forguests_lnk" id="forguests_tb" aria-selected="false" tabindex="-1">
                             
                             <span class="sw-tabs__title">For Guests</span>
                         </a>
                 
-                        <a href="/en-US/Legal/fdpn" class="sw-tabs__item sw-tabs__item--nojs" role="tab" aria-controls="fdpn_lnk" id="fdpn_tb" aria-selected="false">
+                        <a href="/en-US/Legal/fdpn" class="sw-tabs__item sw-tabs__item--nojs sw-tabs__item--small" role="tab" aria-controls="fdpn_lnk" id="fdpn_tb" aria-selected="false" tabindex="-1">
                             
                             <span class="sw-tabs__title">Franchise Owner and BDA</span>
                         </a>
                 
-                        <a href="/en-US/Legal/pepn" class="sw-tabs__item sw-tabs__item--nojs" role="tab" aria-controls="pepn_lnk" id="pepn_tb" aria-selected="false">
+                        <a href="/en-US/Legal/pepn" class="sw-tabs__item sw-tabs__item--nojs sw-tabs__item--small" role="tab" aria-controls="pepn_lnk" id="pepn_tb" aria-selected="false" tabindex="-1">
                             
                             <span class="sw-tabs__title">For Prospective Employees</span>
                         </a>
                 
-                        <a href="/en-US/Legal/CookiePolicy" class="sw-tabs__item sw-tabs__item--nojs" role="tab" aria-controls="cookiepolicy_lnk" id="cookiepolicy_tb" aria-selected="false">
+                        <a href="/en-US/Legal/CookiePolicy" class="sw-tabs__item sw-tabs__item--nojs sw-tabs__item--small" role="tab" aria-controls="cookiepolicy_lnk" id="cookiepolicy_tb" aria-selected="false" tabindex="-1">
                             
                             <span class="sw-tabs__title">Cookie Policy</span>
                         </a>
@@ -1175,14 +1114,13 @@ To find out more about the cookies on our website, please see our <a href="/Lega
             
             
 
-    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="_tb" id="_lnk" tabindex="0">
+    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="_tb" id="_lnk">
         <div class="sw-tabs__copy"></div>
     
         
     <div class="sw-tabs__section ">
         <div class="sw-tabs__section-header">
-            <h2 class="sw-tabs__section-title"></h2>
-             
+            
             <div class="sw-tabs__section-blurb"></div>
         </div>
 
@@ -1255,14 +1193,15 @@ To find out more about the cookies on our website, please see our <a href="/Lega
     </div>
 
 
-    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="forguests_tb" id="forguests_lnk" tabindex="0" hidden="">
+    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="forguests_tb" id="forguests_lnk" hidden="hidden">
         <div class="sw-tabs__copy"></div>
     
         
     <div class="sw-tabs__section ">
         <div class="sw-tabs__section-header">
-            <h2 class="sw-tabs__section-title">THE SUBWAY GROUP PRIVACY STATEMENT</h2>
-             
+            
+                <h2 class="sw-tabs__section-title">THE SUBWAY GROUP PRIVACY STATEMENT</h2>
+            
                         <button class="sw-tabs__goto-top js-sw-goto-top">Top of Page</button>
                 
             <div class="sw-tabs__section-blurb"></div>
@@ -1536,14 +1475,15 @@ Subway Vermietungs-und Servicgesellschaft G.m.b.H. -organizachi slozka  (Czech R
     </div>
 
 
-    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="fdpn_tb" id="fdpn_lnk" tabindex="0" hidden="">
+    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="fdpn_tb" id="fdpn_lnk" hidden="hidden">
         <div class="sw-tabs__copy"></div>
     
         
     <div class="sw-tabs__section ">
         <div class="sw-tabs__section-header">
-            <h2 class="sw-tabs__section-title">Subway® Group Franchise Owner and Business Development Agent (‘BDA’) Privacy Notice</h2>
-             
+            
+                <h2 class="sw-tabs__section-title">Subway® Group Franchise Owner and Business Development Agent (‘BDA’) Privacy Notice</h2>
+            
                         <button class="sw-tabs__goto-top js-sw-goto-top">Top of Page</button>
                 
             <div class="sw-tabs__section-blurb"></div>
@@ -1784,14 +1724,15 @@ Subway International B.V. Sucursal Uruguay<br><br>
     </div>
 
 
-    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="pepn_tb" id="pepn_lnk" tabindex="0" hidden="">
+    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="pepn_tb" id="pepn_lnk" hidden="hidden">
         <div class="sw-tabs__copy"></div>
     
         
     <div class="sw-tabs__section ">
         <div class="sw-tabs__section-header">
-            <h2 class="sw-tabs__section-title">Subway<sup>®</sup> Group Prospective Employees Privacy Notice</h2>
-             
+            
+                <h2 class="sw-tabs__section-title">Subway® Group Prospective Employees Privacy Notice</h2>
+            
                         <button class="sw-tabs__goto-top js-sw-goto-top">Top of Page</button>
                 
             <div class="sw-tabs__section-blurb"></div>
@@ -1950,7 +1891,7 @@ Subway International B.V. Sucursal Uruguay<br><br>
   USA<br>
   Telephone Number:&nbsp; &nbsp;&nbsp;&nbsp; (203) 877-4281 or Toll Free:&nbsp; 1-800-888-4848 <br>
   Facsimile: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (203) 783-7479<br>
-  Email Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:privacyofficer@subway.com">privacyofficer@subway.com</a><u> </u>&nbsp;</p>
+  Email Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:privacy@subway.com">privacy@subway.com</a></p>
 <p><strong><u>Changes to this Privacy Notice</u></strong></p>
 <p>
   We may change this Privacy Notice at any time.&nbsp; The effective date of each version of this Privacy Notice is identified below as the “Last Revised” date and will take effect immediately after being posted.&nbsp; <br>
@@ -1999,14 +1940,15 @@ Subway International B.V. Sucursal Uruguay<br><br>
     </div>
 
 
-    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="cookiepolicy_tb" id="cookiepolicy_lnk" tabindex="0" hidden="">
+    <div class="sw-tabs__panel" role="tabpanel" aria-labelledby="cookiepolicy_tb" id="cookiepolicy_lnk" hidden="hidden">
         <div class="sw-tabs__copy"></div>
     
         
     <div class="sw-tabs__section ">
         <div class="sw-tabs__section-header">
-            <h2 class="sw-tabs__section-title">THE SUBWAY<sup>®</sup> GROUP COOKIE POLICY</h2>
-             
+            
+                <h2 class="sw-tabs__section-title">THE SUBWAY<sup>®</sup> GROUP COOKIE POLICY</h2>
+            
                         <button class="sw-tabs__goto-top js-sw-goto-top">Top of Page</button>
                 
             <div class="sw-tabs__section-blurb"></div>
@@ -2112,7 +2054,7 @@ Subway International B.V. Sucursal Uruguay<br><br>
         
         
     <!-- Image Text Component -->
-    <div class="sw-1up">
+    <div class="sw-1up " tabindex="0">
         
         <div class="sw-1up__col bg-blue">
             <div class="sw-textimgblock ">
@@ -2121,12 +2063,14 @@ Subway International B.V. Sucursal Uruguay<br><br>
                                 
                 
                         <div class="sw-textimgblock__content is-aligned-center">
-                            <div class="sw-textimgblock__copy">
-                                <h2 class="sw-textimgblock__subtitle">How Can We Help?</h2>
+                            <aside class="sw-textimgblock__copy" role="">
+                                
+                                    <h2 class="sw-textimgblock__subtitle">How Can We Help?</h2>
+                                
                                 <div class="sw-textimgblock__excerpt">If you’re still scratching your head or simply want to share an experience, don’t hesitate to reach out. That’s what we’re here for (No really). </div>                        
-                                <a href="/en-US/ContactUs" class="sw-btn sw-btn--primary sw-textimgblock__btn" title="Contact Us" aria-label="Contact Us">Contact Us
+                                <a href="/en-US/ContactUs" class="sw-btn sw-btn--primary sw-textimgblock__btn" aria-label="Contact Us">Contact Us
                                 </a> 
-                            </div>
+                            </aside>
                         </div>
                 
             </div>
@@ -2147,7 +2091,7 @@ Subway International B.V. Sucursal Uruguay<br><br>
     </div>
 </div>
         </div>
-        
+
         <div class="sw-footerpane" role="contentinfo">
             
 
@@ -2196,7 +2140,7 @@ Subway International B.V. Sucursal Uruguay<br><br>
 
                     
                     
-<nav class="sw-footernav sw-footernav--mobile">
+<nav class="sw-footernav sw-footernav--mobile" aria-label="Secondary Navigation">
     
             <ul class="sw-footernav__list">
                 
@@ -2225,7 +2169,7 @@ Subway International B.V. Sucursal Uruguay<br><br>
                     </li>
                         
                     <li class="sw-footernav__item">
-                        <a href="/en-US/ContactUs/SubwayFAQs" class="sw-footernav__link">FAQ's</a>
+                        <a href="/en-US/ContactUs/SubwayFAQs" class="sw-footernav__link">FAQs</a>
                     </li>
                         
                     <li class="sw-footernav__item">
@@ -2237,7 +2181,7 @@ Subway International B.V. Sucursal Uruguay<br><br>
        
 </nav>                        
 
-                    <nav class="sw-footernav sw-footernav--desktop">
+                    <nav class="sw-footernav sw-footernav--desktop" aria-label="Secondary Navigation">
                         
                         <ul class="sw-footernav__list">
                             
@@ -2333,7 +2277,7 @@ Subway International B.V. Sucursal Uruguay<br><br>
     <a href="/en-US/ContactUs/HowCanWeHelp" class="sw-footernav__link" title="Contact Us" target="_self">Contact Us</a>
 </li>
 <li class="sw-footernav__subitem">
-    <a href="/en-US/ContactUs/SubwayFAQs" class="sw-footernav__link" title="FAQ's" target="_self">FAQ's</a>
+    <a href="/en-US/ContactUs/SubwayFAQs" class="sw-footernav__link" title="FAQs" target="_self">FAQs</a>
 </li>
 <li class="sw-footernav__subitem">
     <a href="https://contactsubscriptions.subway.com/en-us/unsubscribe/" class="sw-footernav__link" title="Unsubscribe" target="_blank">Unsubscribe</a>
@@ -2344,7 +2288,7 @@ Subway International B.V. Sucursal Uruguay<br><br>
     
 <h3 class="sw-footernav__header"><!--?xml version="1.0" encoding="utf-8"?-->
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 86 86" style="enable-background:new 0 0 86 86;" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 86 86" style="enable-background:new 0 0 86 86;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#008938;}
 	.st1{fill:#FFFFFF;}
@@ -2353,25 +2297,25 @@ Subway International B.V. Sucursal Uruguay<br><br>
 	.st4{display:inline;fill:#FFC20D;}
 	.st5{enable-background:new    ;}
 </style>
-<g id="Layer_1_1_">
-	<g id="Desktop" transform="translate(-469.000000, -469.000000)">
-		<g id="subwaychoicemarkapp" transform="translate(469.000000, 469.000000)">
-			<path id="Fill-1" class="st0" d="M81,86H5c-2.8,0-5-2.2-5-5V5c0-2.8,2.2-5,5-5h76c2.8,0,5,2.2,5,5v76C86,83.8,83.8,86,81,86"></path>
-			<path id="Fill-3" class="st1" d="M40,16.2c-12.8,0-22.8,7.1-22.8,19.8c0,6.7,3.5,11.8,8.5,14.6h18.4c1.2,0,1.6-0.6,1.6-1.3
+<g>
+	<g transform="translate(-469.000000, -469.000000)">
+		<g transform="translate(469.000000, 469.000000)">
+			<path class="st0" d="M81,86H5c-2.8,0-5-2.2-5-5V5c0-2.8,2.2-5,5-5h76c2.8,0,5,2.2,5,5v76C86,83.8,83.8,86,81,86"></path>
+			<path class="st1" d="M40,16.2c-12.8,0-22.8,7.1-22.8,19.8c0,6.7,3.5,11.8,8.5,14.6h18.4c1.2,0,1.6-0.6,1.6-1.3
 				c0-1.1-1-1.5-3.8-2.9c-6.3-3-9.4-4.8-9.4-9.9c0-3.8,2.6-6.8,6.9-7.4c0.7-0.1,1.8-0.2,3-0.2h9.9v6.5l15.5-12.8L52.3,9.8v6.5
 				L40,16.2L40,16.2z"></path>
-			<path id="Fill-5" class="st2" d="M33,69.8v6.5L17.6,63.4L33,50.6V57h10.2c0.7,0,1.7,0,2.4-0.1c4.5-0.5,7.7-2.7,7.7-7.7
+			<path class="st2" d="M33,69.8v6.5L17.6,63.4L33,50.6V57h10.2c0.7,0,1.7,0,2.4-0.1c4.5-0.5,7.7-2.7,7.7-7.7
 				c0-5.3-3.6-7-9.6-9.8c-3-1.4-3.7-1.9-3.7-2.8c0-0.8,0.5-1.2,1.4-1.2h18.2c12.7,7.7,9.9,21.2,4.1,27.6c-4,4.5-10.6,6.8-18.3,6.8
 				H33z"></path>
 		</g>
 	</g>
 </g>
-<g id="TM" class="st3">
-	<polygon id="Fill-7" class="st4" points="61.8,69.8 61.8,68 61.1,68 61.1,67.8 62.8,67.8 62.8,68 62.1,68 62.1,69.8 	"></polygon>
-	<polygon id="Fill-9" class="st4" points="65,69.8 65,68.2 64.3,69.4 64,69.4 63.4,68.2 63.4,69.8 63.1,69.8 63.1,67.8 63.5,67.8 
+<g class="st3">
+	<polygon class="st4" points="61.8,69.8 61.8,68 61.1,68 61.1,67.8 62.8,67.8 62.8,68 62.1,68 62.1,69.8 	"></polygon>
+	<polygon class="st4" points="65,69.8 65,68.2 64.3,69.4 64,69.4 63.4,68.2 63.4,69.8 63.1,69.8 63.1,67.8 63.5,67.8 
 		64.2,69.1 64.9,67.8 65.2,67.8 65.2,69.8 	"></polygon>
 </g>
-<g id="R">
+<g>
 	<g class="st5">
 		<path class="st1" d="M78.7,17.2c-1.5,1.5-3.3,2.2-5.4,2.2c-2.2,0-4-0.7-5.5-2.2c-1.5-1.5-2.2-3.3-2.2-5.5c0-2.3,0.8-4.1,2.4-5.6
 			c1.5-1.4,3.3-2.1,5.3-2.1c2.1,0,3.9,0.8,5.5,2.3c1.5,1.5,2.3,3.3,2.3,5.5C81,13.8,80.2,15.7,78.7,17.2z M68.7,7.1
@@ -2402,28 +2346,32 @@ Get the App</h3>
             
                 <li class="sw-footer__connect-item">
                     <a href="https://www.facebook.com/subway" class="sw-footer__connect-link" target="_blank">
-                        <svg viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-facebook"><title>facebook</title><defs><path id="a" d="M0 0h14.571v14.571H.001z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M11.84 0c.751 0 1.395.267 1.93.801.534.535.801 1.178.801 1.931v9.107c0 .753-.267 1.396-.8 1.931a2.635 2.635 0 0 1-1.932.801h-1.784V8.927h1.888l.285-2.201h-2.173V5.322c0-.354.075-.62.223-.797.15-.177.438-.266.87-.266l1.156-.009V2.286c-.399-.057-.962-.085-1.689-.085-.86 0-1.548.253-2.063.758-.516.507-.774 1.221-.774 2.145v1.622H5.881v2.201h1.897v5.644H2.732a2.634 2.634 0 0 1-1.93-.801A2.634 2.634 0 0 1 0 11.839V2.732C0 1.979.267 1.336.801.801A2.634 2.634 0 0 1 2.732 0h9.107z" fill="currentColor"></path></g></svg>
+                        <svg viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-facebook" aria-hidden="true" focusable="false"><defs><path d="M0 0h14.571v14.571H.001z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M11.84 0c.751 0 1.395.267 1.93.801.534.535.801 1.178.801 1.931v9.107c0 .753-.267 1.396-.8 1.931a2.635 2.635 0 0 1-1.932.801h-1.784V8.927h1.888l.285-2.201h-2.173V5.322c0-.354.075-.62.223-.797.15-.177.438-.266.87-.266l1.156-.009V2.286c-.399-.057-.962-.085-1.689-.085-.86 0-1.548.253-2.063.758-.516.507-.774 1.221-.774 2.145v1.622H5.881v2.201h1.897v5.644H2.732a2.634 2.634 0 0 1-1.93-.801A2.634 2.634 0 0 1 0 11.839V2.732C0 1.979.267 1.336.801.801A2.634 2.634 0 0 1 2.732 0h9.107z" fill="currentColor"></path></g></svg>
+
+
                         Facebook
                     </a>
                 </li>
             
                 <li class="sw-footer__connect-item">
                     <a href="https://www.instagram.com/subway" class="sw-footer__connect-link" target="_blank">
-                        <svg viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-instagram"><title>instagram</title><defs><path id="a" d="M0 0h14.57v14.57H0z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M12.92 3.842V2.277a.637.637 0 0 0-.188-.46.625.625 0 0 0-.465-.195h-1.651a.624.624 0 0 0-.465.195.638.638 0 0 0-.19.46v1.565c0 .184.064.338.19.465.126.126.282.19.465.19h1.65a.636.636 0 0 0 .466-.19.634.634 0 0 0 .189-.465M9.368 9.264c.573-.554.859-1.222.859-2.007 0-.784-.286-1.453-.86-2.006-.571-.554-1.262-.83-2.071-.83-.804 0-1.491.276-2.063.83a2.682 2.682 0 0 0-.86 2.006c0 .785.286 1.453.86 2.007.572.553 1.259.83 2.063.83.809 0 1.5-.277 2.072-.83m3.553 3.05V6.166h-1.28c.126.399.189.813.189 1.243 0 .797-.202 1.532-.607 2.205a4.423 4.423 0 0 1-1.651 1.599 4.56 4.56 0 0 1-2.276.588c-1.246 0-2.312-.428-3.197-1.285-.886-.857-1.328-1.893-1.328-3.107 0-.43.062-.844.189-1.243H1.622v6.148a.56.56 0 0 0 .166.412.56.56 0 0 0 .413.166h10.142a.562.562 0 0 0 .407-.166.55.55 0 0 0 .17-.412m1.65-10.445v10.833a1.8 1.8 0 0 1-.548 1.319c-.368.367-.807.55-1.32.55H1.87c-.512 0-.952-.183-1.318-.55A1.797 1.797 0 0 1 0 12.7V1.87A1.8 1.8 0 0 1 .55.549C.918.184 1.358 0 1.87 0h10.834c.512 0 .95.184 1.319.55.366.368.549.808.549 1.32" fill="currentColor"></path></g></svg>
+                        <svg viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-instagram" aria-hidden="true" focusable="false"><defs><path d="M0 0h14.57v14.57H0z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M12.92 3.842V2.277a.637.637 0 0 0-.188-.46.625.625 0 0 0-.465-.195h-1.651a.624.624 0 0 0-.465.195.638.638 0 0 0-.19.46v1.565c0 .184.064.338.19.465.126.126.282.19.465.19h1.65a.636.636 0 0 0 .466-.19.634.634 0 0 0 .189-.465M9.368 9.264c.573-.554.859-1.222.859-2.007 0-.784-.286-1.453-.86-2.006-.571-.554-1.262-.83-2.071-.83-.804 0-1.491.276-2.063.83a2.682 2.682 0 0 0-.86 2.006c0 .785.286 1.453.86 2.007.572.553 1.259.83 2.063.83.809 0 1.5-.277 2.072-.83m3.553 3.05V6.166h-1.28c.126.399.189.813.189 1.243 0 .797-.202 1.532-.607 2.205a4.423 4.423 0 0 1-1.651 1.599 4.56 4.56 0 0 1-2.276.588c-1.246 0-2.312-.428-3.197-1.285-.886-.857-1.328-1.893-1.328-3.107 0-.43.062-.844.189-1.243H1.622v6.148a.56.56 0 0 0 .166.412.56.56 0 0 0 .413.166h10.142a.562.562 0 0 0 .407-.166.55.55 0 0 0 .17-.412m1.65-10.445v10.833a1.8 1.8 0 0 1-.548 1.319c-.368.367-.807.55-1.32.55H1.87c-.512 0-.952-.183-1.318-.55A1.797 1.797 0 0 1 0 12.7V1.87A1.8 1.8 0 0 1 .55.549C.918.184 1.358 0 1.87 0h10.834c.512 0 .95.184 1.319.55.366.368.549.808.549 1.32" fill="currentColor"></path></g></svg>
                         Instagram
                     </a>
                 </li>
             
                 <li class="sw-footer__connect-item">
                     <a href="https://twitter.com/subway" class="sw-footer__connect-link" target="_blank">
-                        <svg viewBox="0 0 15 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-twitter"><title>twitter</title><defs><path id="a" d="M0 0h14.95v12.142H0z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M14.95 1.442a6.46 6.46 0 0 1-1.536 1.584 8.679 8.679 0 0 1-.352 2.86 8.898 8.898 0 0 1-1.095 2.358 9.331 9.331 0 0 1-1.75 1.997c-.677.578-1.494 1.04-2.448 1.385a8.972 8.972 0 0 1-3.064.516A8.507 8.507 0 0 1 0 10.767c.221.026.468.038.74.038a6 6 0 0 0 3.804-1.309 2.983 2.983 0 0 1-1.783-.613A2.985 2.985 0 0 1 1.68 7.371c.208.031.401.048.58.048.27 0 .54-.036.804-.105a3.008 3.008 0 0 1-1.759-1.058 2.962 2.962 0 0 1-.698-1.95v-.038c.431.241.893.37 1.386.39a3.056 3.056 0 0 1-.996-1.09 2.985 2.985 0 0 1-.37-1.462c0-.557.138-1.072.417-1.547a8.682 8.682 0 0 0 2.794 2.263 8.533 8.533 0 0 0 3.524.944 3.379 3.379 0 0 1-.076-.702c0-.848.3-1.57.896-2.168A2.953 2.953 0 0 1 10.35 0c.886 0 1.632.322 2.24.967a5.985 5.985 0 0 0 1.944-.74 2.975 2.975 0 0 1-1.347 1.69 6.093 6.093 0 0 0 1.764-.475" fill="currentColor"></path></g></svg>
+                        <svg viewBox="0 0 15 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-twitter" aria-hidden="true" focusable="false"><defs><path d="M0 0h14.95v12.142H0z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M14.95 1.442a6.46 6.46 0 0 1-1.536 1.584 8.679 8.679 0 0 1-.352 2.86 8.898 8.898 0 0 1-1.095 2.358 9.331 9.331 0 0 1-1.75 1.997c-.677.578-1.494 1.04-2.448 1.385a8.972 8.972 0 0 1-3.064.516A8.507 8.507 0 0 1 0 10.767c.221.026.468.038.74.038a6 6 0 0 0 3.804-1.309 2.983 2.983 0 0 1-1.783-.613A2.985 2.985 0 0 1 1.68 7.371c.208.031.401.048.58.048.27 0 .54-.036.804-.105a3.008 3.008 0 0 1-1.759-1.058 2.962 2.962 0 0 1-.698-1.95v-.038c.431.241.893.37 1.386.39a3.056 3.056 0 0 1-.996-1.09 2.985 2.985 0 0 1-.37-1.462c0-.557.138-1.072.417-1.547a8.682 8.682 0 0 0 2.794 2.263 8.533 8.533 0 0 0 3.524.944 3.379 3.379 0 0 1-.076-.702c0-.848.3-1.57.896-2.168A2.953 2.953 0 0 1 10.35 0c.886 0 1.632.322 2.24.967a5.985 5.985 0 0 0 1.944-.74 2.975 2.975 0 0 1-1.347 1.69 6.093 6.093 0 0 0 1.764-.475" fill="currentColor"></path></g></svg>
+
                         Twitter
                     </a>
                 </li>
             
                 <li class="sw-footer__connect-item">
                     <a href="https://www.youtube.com/user/subway" class="sw-footer__connect-link" target="_blank">
-                        <svg viewBox="0 0 15 11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-youtube"><title>youtube</title><defs><path id="a" d="M0 0h15v10.714H0z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M10.714 5.357a.483.483 0 0 0-.25-.452L6.176 2.226a.505.505 0 0 0-.544-.016.497.497 0 0 0-.276.468v5.358c0 .212.092.368.276.468a.575.575 0 0 0 .26.067.474.474 0 0 0 .284-.083l4.286-2.679a.482.482 0 0 0 .251-.452m4.277-1.256c.006.302.01.72.01 1.256s-.004.954-.01 1.256a16.6 16.6 0 0 1-.07 1.142c-.043.46-.105.873-.189 1.235-.09.407-.282.751-.578 1.03a1.753 1.753 0 0 1-1.038.484c-1.238.14-3.11.21-5.616.21s-4.378-.07-5.617-.21a1.772 1.772 0 0 1-1.042-.485A1.938 1.938 0 0 1 .26 8.99a10.412 10.412 0 0 1-.18-1.235 15.986 15.986 0 0 1-.07-1.142C.002 6.311 0 5.893 0 5.357s.003-.954.008-1.256c.005-.3.03-.68.071-1.142.042-.46.105-.872.19-1.235.088-.407.28-.75.576-1.029A1.756 1.756 0 0 1 1.883.21C3.123.07 4.994 0 7.5 0c2.505 0 4.378.07 5.616.21.396.043.744.206 1.042.485.3.28.493.622.582 1.03.078.362.138.774.18 1.234.042.461.065.841.071 1.142" fill="currentColor"></path></g></svg>
+                        <svg viewBox="0 0 15 11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-youtube" aria-hidden="true" focusable="false"><defs><path d="M0 0h15v10.714H0z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M10.714 5.357a.483.483 0 0 0-.25-.452L6.176 2.226a.505.505 0 0 0-.544-.016.497.497 0 0 0-.276.468v5.358c0 .212.092.368.276.468a.575.575 0 0 0 .26.067.474.474 0 0 0 .284-.083l4.286-2.679a.482.482 0 0 0 .251-.452m4.277-1.256c.006.302.01.72.01 1.256s-.004.954-.01 1.256a16.6 16.6 0 0 1-.07 1.142c-.043.46-.105.873-.189 1.235-.09.407-.282.751-.578 1.03a1.753 1.753 0 0 1-1.038.484c-1.238.14-3.11.21-5.616.21s-4.378-.07-5.617-.21a1.772 1.772 0 0 1-1.042-.485A1.938 1.938 0 0 1 .26 8.99a10.412 10.412 0 0 1-.18-1.235 15.986 15.986 0 0 1-.07-1.142C.002 6.311 0 5.893 0 5.357s.003-.954.008-1.256c.005-.3.03-.68.071-1.142.042-.46.105-.872.19-1.235.088-.407.28-.75.576-1.029A1.756 1.756 0 0 1 1.883.21C3.123.07 4.994 0 7.5 0c2.505 0 4.378.07 5.616.21.396.043.744.206 1.042.485.3.28.493.622.582 1.03.078.362.138.774.18 1.234.042.461.065.841.071 1.142" fill="currentColor"></path></g></svg>
+
                         YouTube
                     </a>
                 </li>
@@ -2453,7 +2401,7 @@ Get the App</h3>
         <li class="sw-footer__getapp-item sw-footer__getapp-item--subway">
             <!--?xml version="1.0" encoding="utf-8"?-->
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 86 86" style="enable-background:new 0 0 86 86;" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 86 86" style="enable-background:new 0 0 86 86;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#008938;}
 	.st1{fill:#FFFFFF;}
@@ -2462,25 +2410,25 @@ Get the App</h3>
 	.st4{display:inline;fill:#FFC20D;}
 	.st5{enable-background:new    ;}
 </style>
-<g id="Layer_1_1_">
-	<g id="Desktop" transform="translate(-469.000000, -469.000000)">
-		<g id="subwaychoicemarkapp" transform="translate(469.000000, 469.000000)">
-			<path id="Fill-1" class="st0" d="M81,86H5c-2.8,0-5-2.2-5-5V5c0-2.8,2.2-5,5-5h76c2.8,0,5,2.2,5,5v76C86,83.8,83.8,86,81,86"></path>
-			<path id="Fill-3" class="st1" d="M40,16.2c-12.8,0-22.8,7.1-22.8,19.8c0,6.7,3.5,11.8,8.5,14.6h18.4c1.2,0,1.6-0.6,1.6-1.3
+<g>
+	<g transform="translate(-469.000000, -469.000000)">
+		<g transform="translate(469.000000, 469.000000)">
+			<path class="st0" d="M81,86H5c-2.8,0-5-2.2-5-5V5c0-2.8,2.2-5,5-5h76c2.8,0,5,2.2,5,5v76C86,83.8,83.8,86,81,86"></path>
+			<path class="st1" d="M40,16.2c-12.8,0-22.8,7.1-22.8,19.8c0,6.7,3.5,11.8,8.5,14.6h18.4c1.2,0,1.6-0.6,1.6-1.3
 				c0-1.1-1-1.5-3.8-2.9c-6.3-3-9.4-4.8-9.4-9.9c0-3.8,2.6-6.8,6.9-7.4c0.7-0.1,1.8-0.2,3-0.2h9.9v6.5l15.5-12.8L52.3,9.8v6.5
 				L40,16.2L40,16.2z"></path>
-			<path id="Fill-5" class="st2" d="M33,69.8v6.5L17.6,63.4L33,50.6V57h10.2c0.7,0,1.7,0,2.4-0.1c4.5-0.5,7.7-2.7,7.7-7.7
+			<path class="st2" d="M33,69.8v6.5L17.6,63.4L33,50.6V57h10.2c0.7,0,1.7,0,2.4-0.1c4.5-0.5,7.7-2.7,7.7-7.7
 				c0-5.3-3.6-7-9.6-9.8c-3-1.4-3.7-1.9-3.7-2.8c0-0.8,0.5-1.2,1.4-1.2h18.2c12.7,7.7,9.9,21.2,4.1,27.6c-4,4.5-10.6,6.8-18.3,6.8
 				H33z"></path>
 		</g>
 	</g>
 </g>
-<g id="TM" class="st3">
-	<polygon id="Fill-7" class="st4" points="61.8,69.8 61.8,68 61.1,68 61.1,67.8 62.8,67.8 62.8,68 62.1,68 62.1,69.8 	"></polygon>
-	<polygon id="Fill-9" class="st4" points="65,69.8 65,68.2 64.3,69.4 64,69.4 63.4,68.2 63.4,69.8 63.1,69.8 63.1,67.8 63.5,67.8 
+<g class="st3">
+	<polygon class="st4" points="61.8,69.8 61.8,68 61.1,68 61.1,67.8 62.8,67.8 62.8,68 62.1,68 62.1,69.8 	"></polygon>
+	<polygon class="st4" points="65,69.8 65,68.2 64.3,69.4 64,69.4 63.4,68.2 63.4,69.8 63.1,69.8 63.1,67.8 63.5,67.8 
 		64.2,69.1 64.9,67.8 65.2,67.8 65.2,69.8 	"></polygon>
 </g>
-<g id="R">
+<g>
 	<g class="st5">
 		<path class="st1" d="M78.7,17.2c-1.5,1.5-3.3,2.2-5.4,2.2c-2.2,0-4-0.7-5.5-2.2c-1.5-1.5-2.2-3.3-2.2-5.5c0-2.3,0.8-4.1,2.4-5.6
 			c1.5-1.4,3.3-2.1,5.3-2.1c2.1,0,3.9,0.8,5.5,2.3c1.5,1.5,2.3,3.3,2.3,5.5C81,13.8,80.2,15.7,78.7,17.2z M68.7,7.1
@@ -2517,7 +2465,7 @@ Get the App</h3>
             <div class="sw-footer__ctas">                    
                 
         <a href="https://subculture.subway.com/" target="_blank" class="sw-footer__ctas-link">
-            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 653.7 182.2" enable-background="new 0 0 653.7 182.2" xml:space="preserve" role="img" aria-labelledby="subculture-logo">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 653.7 182.2" enable-background="new 0 0 653.7 182.2" xml:space="preserve" role="img" aria-labelledby="subculture-logo">
 	 <title id="subculture-logo">Subway SubCulture</title>
 <g>
 	<g>
@@ -2628,15 +2576,15 @@ Get the App</h3>
                     <ul class="sw-footerpane__utility">
                         
                             <li class="sw-footerpane__utility-item">
-                                <a href="/en-US/Legal/PrivacyNotice" class="sw-footerpane__utility-link">Privacy</a>
+                                <a href="https://www.subway.com/en-US/Legal/PrivacyNotice" class="sw-footerpane__utility-link">Privacy</a>
                             </li>
                         
                             <li class="sw-footerpane__utility-item">
-                                <a href="/en-US/Legal/TermsOfUse" class="sw-footerpane__utility-link">Terms of Use</a>
+                                <a href="https://www.subway.com/en-US/Legal/TermsOfUse" class="sw-footerpane__utility-link">Terms of Use</a>
                             </li>
                         
                             <li class="sw-footerpane__utility-item">
-                                <a href="/en-US/Legal/Accessibility" class="sw-footerpane__utility-link">Accessibility</a>
+                                <a href="https://www.subway.com/en-US/Legal/Accessibility" class="sw-footerpane__utility-link">Accessibility</a>
                             </li>
                         
                             <li class="sw-footerpane__utility-item">
@@ -2652,7 +2600,7 @@ Get the App</h3>
 
 
         </div>
-        
+
         <script type="text/javascript">
             $(document).ready(function () {
                 try {   //this hack was added so FAQ pages work in iframe on SubwayComUSA.  The anchor tags would not publish
@@ -2666,16 +2614,16 @@ Get the App</h3>
                     myLink4.setAttribute("target", "_parent");
                 }
                 catch (e) { }
-                          
+
             });
         </script>
 
     </form>
 
-      <style type="text/css">
-        @media screen and (min-width:1024px){
-            .cookiePolicyOn div.sw-main{
-                margin-top:195px;
+    <style type="text/css">
+        @media screen and (min-width:1024px) {
+            .cookiePolicyOn div.sw-main {
+                margin-top: 195px;
             }
         }
     </style>
@@ -2689,43 +2637,61 @@ Get the App</h3>
 
     <script type="text/javascript" src="/SubwayV2/build/js/libraries-generated.js"></script>
     <script type="text/javascript" src="/SubwayV2/build/js/polyfill-generated.js"></script>
-    <script type="text/javascript" src="/SubwayV2/build/js/index-generated.js"></script>  
- 
+    <script type="text/javascript" src="/SubwayV2/build/js/index-generated.js"></script>
 
+   
     <!-- Start Order Modal -->
-    <div class="modal fade startorder" id="startOrderModal" role="dialog">
-        <div class="modal-dialog modal-dialog-startorder">
+    <div class="modal fade startorder" id="startOrderModal" aria-label="dialog" role="dialog">
+        
+        <div class="modal-dialog modal-dialog-startorder" role="document">
             <!-- Modal content-->
-            <div class="modal-content modal-content-startorder">                
-                <div class="modal-header modal-header-startorder">
-                    <div class="cta-startorder">
-                        <div>
-                            <h1 class="cta-startorder-text">
-                                <img id="cta-startorder-image1">
-                                <span id="cta-startorder-text1" class="cta-startorder-text1">Choose Your Location</span>&nbsp;&nbsp;
-                                <img id="cta-startorder-image2">
-                                <span id="cta-startorder-text2" class="cta-startorder-text2">Place Your Order</span>
-                                <span id="cta-startorder-close">
-                                    <button type="button" class="close-startorder" data-dismiss="modal" onclick="javascript:closeLocator()">CLOSE&nbsp;<span class="modal-header-close-button">×</span></button>
-                                </span>
-                            </h1>
-                        </div>
-                    </div>                   
-                </div>
-                <div class="modal-body modal-body-startorder">                  
-                    <div class="row">
-                        <div id="locatorWrapperStartOrder">
-                            <div id="subwayLocatorStartOrder"></div>            
+            <h2 class="sr-only" id="StartOrderModal" role="dialog">Start Order</h2>
+            <div class="modal-content modal-content-startorder" aria-labelledby="StartOrderModal">
+                <div class="modal-header modal-header-startorder" aria-labelledby="StartOrderModal">
+                    <div class="cta-startorder" aria-labelledby="StartOrderModal">
+                        <div>                       
+                            <div class="cta-startorder-text">
+                                <ul>
+                                    <li class="start-order">
+                                        <img id="cta-startorder-image1" alt="1">
+                                        <span id="cta-startorder-text1" class="cta-startorder-text1" aria-label="Choose Location">Choose Location</span>&nbsp;&nbsp;
+                                    </li>
+                                    <li class="start-order">
+                                        <img id="cta-startorder-image2" alt="2">
+                                        <span id="cta-startorder-text2" class="cta-startorder-text2" aria-label="Place Order">Place Order</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div id="cta-startorder-close">       
+                                <button type="button" class="close-startorder" data-dismiss="modal" onclick="javascript:closeLocator()" aria-label="close">CLOSE&nbsp;<span class="modal-header-close-button">×</span></button>                                 
+                            </div>
                         </div>
                     </div>
-                </div>  
-            </div> 
+                </div>               
+                <div class="modal-body modal-body-startorder">
+                    <div class="row">
+                        <div id="locatorWrapperStartOrder" aria-labelledby="StartOrderModal">
+                            <div id="subwayLocatorStartOrder" aria-labelledby="StartOrderModal"></div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <a class="startOrderLastTab accessibility--hidden" onfocus="tabNext()" aria-label="dialog end" style="width:100%; background-color: red;"></a>                 
+                </div>
+            </div>
         </div>
     </div>
-    
+
     <script type="text/javascript">
-        $(document).ready(function(){                     
-            $('#startOrderModal').on('hide.bs.modal', function (e) { _flagStartOrder = false; });          
+        $(document).ready(function () {         
+            $('#startOrderModal').on('hide.bs.modal', function (e) {
+                //clean up locator
+                _flagStartOrder = false;
+                _locator = 'undefined';
+                _locatorOptions = 'undefined'
+                filter = null;
+                $('#subwayLocatorStartOrder').html('');                                             
+            });                  
         });
     </script>
     
