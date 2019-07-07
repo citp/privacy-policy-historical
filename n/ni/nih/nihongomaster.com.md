@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209012426id_/https%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707140523id_/https%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nihongo Master
 
