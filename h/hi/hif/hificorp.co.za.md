@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hificorp.co.za privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501091515id_/https%3A//www.hificorp.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hificorp.co.za privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707122633id_/https%3A//www.hificorp.co.za/privacy-policy) for the most accurate reproduction.*
 
 # HFC Privacy Policy
 
