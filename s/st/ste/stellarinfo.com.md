@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603095017id_/https%3A//www.stellarinfo.com/company/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707123158id_/https%3A//www.stellarinfo.com/company/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Stellar Information Technology Pvt. Ltd. - Privacy Policy
 
