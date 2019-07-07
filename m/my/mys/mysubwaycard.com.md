@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418220734id_/https%3A//www.subway.com/en-US/Legal/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707211451id_/https%3A//www.subway.com/en-US/Legal/PrivacyNotice) for the most accurate reproduction.*
 
 # Privacy Notice | SUBWAY.com - United States (English)
 
