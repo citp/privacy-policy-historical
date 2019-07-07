@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livenewsnow.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331080412id_/https%3A//www.livenewsnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenewsnow.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707164213id_/https%3A//www.livenewsnow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LiveNewsOn
+# Privacy Policy - LivenewsNow
 
 This Privacy Policy governs the manner in which LiveNewsOn Inc collects, uses, maintains and discloses information collected from users (each, a “User”) of the website (“Site”). This privacy policy applies to the Site and all products and services offered by LiveNewsOn Inc.
 
