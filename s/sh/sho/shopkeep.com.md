@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkeep.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525012434id_/https%3A//www.shopkeep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkeep.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707045547id_/https%3A//www.shopkeep.com/privacy) for the most accurate reproduction.*
 
 # iPad POS | Privacy Policy | ShopKeep
 
@@ -121,7 +121,7 @@ To learn more about the Privacy Shield program, and to view our certification pa
 
 ShopKeep complies with the Privacy Shield’s Principle regarding accountability for onward transfers. ShopKeep remains liable under the Principles if its onward transfer recipients process Personal Data in a manner inconsistent with the Principles unless ShopKeep proves that it was not responsible for the event giving rise to the damage.
 
-In compliance with the Privacy Shield Principles, ShopKeep commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union individuals with Privacy Shield inquiries or complaints should first contact ShopKeep at: [privacy@shopkeep.com](https://web.archive.org/web/20190525012434id_/https%3A//www.shopkeep.com/privacy@shopkeep.com)
+In compliance with the Privacy Shield Principles, ShopKeep commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union individuals with Privacy Shield inquiries or complaints should first contact ShopKeep at: [privacy@shopkeep.com](https://web.archive.org/web/20190707045547id_/https%3A//www.shopkeep.com/privacy@shopkeep.com)
 
 ### 9\. How we Protect your Personal Information
 
