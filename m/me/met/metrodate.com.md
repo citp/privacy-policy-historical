@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217144533id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708013013id_/https%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Metrodate.com
 
-## Privacy Statement for [Metrodate.com](http://www.metrodate.com/)
+## Privacy Statement for [Metrodate.com](https://web.archive.org/)
 
 _Last Updated: March 20, 2009_
 
@@ -75,9 +75,8 @@ At any time our members can update their member information by visiting the vari
 If you have any questions about this privacy statement or the practices of this site please contact us at: 
 
 Metrodate.com  
-2300 Computer Ave, Box J-52  
-Willow Grove, PA 19090-1742  
-[Click here](https://web.archive.org/asp/help.asp) to contact us online  
+630 Dresher Rd  
+Horsham, PA 19044  
 
 
 Copyright 1998 - 2009   
