@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617233739id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707102224id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
 
 # Leerburg | Information about our Organization and Website
 
