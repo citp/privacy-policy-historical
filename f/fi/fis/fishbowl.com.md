@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishbowl.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320100223id_/https%3A//www.fishbowl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowl.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707174212id_/https%3A//www.fishbowl.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Fishbowl
 
@@ -16,7 +16,7 @@ In compliance with the Children’s Online Privacy Protection Act, Fishbowl requ
 
 ## Uses of Customer Information
 
-Your email addresses is used only to send email that was requested. Fishbowl follows an opt-in permission-based email and text message (SMS) enrollment policy. Fishbowl will not send unsolicited, bulk or commercial offers or advertisements. Fishbowl will NOT rent, sell, trade or loan our clients’ lists to anyone. All emails contain links on how to unsubscribe from the client list, how to request your data be updated or deleted. All SMS messages contain information on how to unsubscribe from the client list. You may leave our client’s lists at any time for any reason. If you have any questions or feel that you received unsolicited email or an unsolicited SMS message please contact us [here](https://fishbowl.com/privacy/contact).
+Fishbowl follows an opt-out permission-based email and text message (SMS) enrollment policy. Fishbowl will not send unsolicited, bulk or commercial offers or advertisements. Fishbowl will NOT rent, sell, trade or loan our clients’ lists to anyone. All emails contain links on how to unsubscribe from the client list, how to request your data be updated or deleted. All SMS messages contain information on how to unsubscribe from the client list. You may leave our client’s lists at any time for any reason. If you have any questions or feel that you received unsolicited email or an unsolicited SMS message please contact us [here](https://fishbowl.com/privacy/contact).
 
 Fishbowl will use personally identifiable information to contact you when responding to email support requests and other direct requests for information from Fishbowl. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
 
@@ -104,9 +104,13 @@ Fishbowl complies with the EU-U.S. Privacy Shield Framework. We are committed to
 
 You can review the details about the [Privacy Shield program](https://www.privacyshield.gov/participant?id=a2zt00000004Ty9AAE&status=Active#other-covered-entities), and our certification.
 
+The United States Federal Trade Commission (FTC) is the enforcement authority with jurisdiction over this compliance with the Privacy Shield.
+
 We are responsible for the processing of personal data we receive, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
 Our third-party dispute resolution provider is [Privacy Trust](https://www.privacytrust.com/cert/901112.html).
+
+Finally, and as a last resort in limited situations, individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
 ## Contact Us
 
