@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtostartanllc.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404142508id_/https%3A//howtostartanllc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtostartanllc.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707045534id_/https%3A//howtostartanllc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | How to Start an LLC
 
