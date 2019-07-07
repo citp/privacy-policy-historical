@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgtop5.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506142550id_/http%3A//www.omgtop5.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgtop5.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707092246id_/http%3A//www.omgtop5.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
