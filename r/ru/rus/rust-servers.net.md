@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rust-servers.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165026id_/https%3A//rust-servers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rust-servers.net privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708002057id_/https%3A//rust-servers.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Politique de Confidentialité
 
