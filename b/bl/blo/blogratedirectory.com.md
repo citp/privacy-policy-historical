@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogratedirectory.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125001918id_/https%3A//revuwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogratedirectory.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707103652id_/https%3A//revuwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | • Revuwire
 
