@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibashogallery.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507222110id_/https%3A//www.ibashogallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibashogallery.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707153812id_/https%3A//www.ibashogallery.com/privacy-policy) for the most accurate reproduction.*
 
 # about | Ibasho
 
