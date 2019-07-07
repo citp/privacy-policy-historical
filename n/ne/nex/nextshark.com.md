@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextshark.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603000627id_/https%3A//nextshark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextshark.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707210815id_/https%3A//nextshark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -168,4 +168,4 @@ You can remove cookies stored in your computer via your browser settings. Altern
 We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
 
 We reserve the right to make change to this Privacy Policy.  
-Last modification was made .
+Last modification was made . 
