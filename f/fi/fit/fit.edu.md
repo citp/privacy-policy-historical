@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fit.edu privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610053753id_/https%3A//www.fit.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fit.edu privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707062148id_/https%3A//www.fit.edu/privacy) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
