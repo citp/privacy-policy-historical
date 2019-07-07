@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mit.edu.au privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628082618id_/http%3A//mit.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mit.edu.au privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707095322id_/http%3A//www.mit.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Statement for MIT Students | Melbourne Institute of Technology, Melbourne, Sydney Australia
 
