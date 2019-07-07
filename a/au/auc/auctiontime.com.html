@@ -1,22 +1,235 @@
-<!--The following is the downloaded HTML source of the auctiontime.com privacy policy that was archived on 2018-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180815192203id_/http%3A//www.auctiontime.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctiontime.com privacy policy that was archived on 2019-07-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190707055921id_/https%3A//www.auctiontime.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" cookies no-ie8compat postmessage svg websockets no-xdomainrequest webaudio websocketsbinary audio canvas video audioloop videoloop videopreload webworkers no-touchevents displaytable display-table cssanimations bgpositionxy bgrepeatround bgrepeatspace backgroundsize ellipsis audiopreload no-videoautoplay"><head>
+
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no"> 
     <meta name="apple-itunes-app" content="app-id=405124399">
 
+
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N6K7FFV"></script><script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="/Scripts/jquery.geolocate.js"></script>
+
+<script>
+    var cookieName = "TopPopup-Cookie_10";
+    var closedout = "closed";
+    var available = "available";
+    var expireDays = 15;
+    var latitude, longitude;
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    getUserPosition();
+    defineAdSlots();
+    
+    function defineAdSlots() {
+        googletag.cmd.push(function () {
+                googletag.defineSlot('/101960517/AuctionTime/3-17-43-29', [1, 1], 'div-gpt-ad-3-17-43-29').
+                setTargeting('Model', ['']).
+                setTargeting('Manufacturer', ['']).
+                setTargeting('ModelGroup', ['']).
+                setTargeting('Year', ['']).
+                addService(googletag.pubads());
+            googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                    var adContainer = document.getElementById(event.slot.getSlotElementId()).parentElement
+                    var ispopupAd = adContainer.className.toLowerCase().indexOf("popup") > -1;
+                    var pageContainer = document.querySelector('div[data-page-container="page-container"]'); //content below top_popup ad.
+                    if (event.isEmpty) {
+                        if (ispopupAd) {
+                            removeExpressMoveDown(pageContainer);
+                        }
+                        else {
+                            adContainer.setAttribute('style', 'display:none;padding-bottom:0 !important;');
+                            var elementClass = adContainer.getAttribute('class');
+                            // HomepageSkyScraper and Sidebar do have parent element
+                            var parentClass = adContainer.parentElement.getAttribute('class');
+                            if (parentClass) {
+                                var n = parentClass.toLowerCase().indexOf(elementClass.toLowerCase());
+                                if (n > -1) {
+                                    adContainer.parentElement.setAttribute('style', 'display:none;padding-bottom:0 !important;');
+                                }
+                            }
+                        }
+                    }
+                    else {
+                        if (ispopupAd) {
+                            var lineItemId = event.lineItemId;
+                            addtoCookie(cookieName, lineItemId);
+                            var isclosed = lineItemClosed(cookieName, lineItemId)
+                            if (isclosed) { //shouldHideAd
+                                adContainer.setAttribute('style', 'display:none;');
+                                removeExpressMoveDown(pageContainer);
+                            }
+                            else {
+                                adContainer.setAttribute('style', 'display:block;');
+                                addExpressMoveDown(pageContainer);
+
+                                //Setup close(X) buton
+                                var closeButton = adContainer.querySelector(".close-ad");
+                                closeButton.addEventListener("click", function () {
+                                    //set cookie
+                                    setupAdCookie(cookieName, lineItemId); 
+                                    //Hide the ad
+                                    adContainer.setAttribute('style', 'display:none;');
+                                    removeExpressMoveDown(pageContainer);
+                                });
+                            }
+                        }
+                        else {
+                            adContainer.setAttribute('style', 'display:block;');
+                        }
+                    }
+
+                });
+
+            googletag.enableServices();
+        });
+    }
+    function addExpressMoveDown(elem) {
+        var n = elem.className.toLowerCase().indexOf("express-move-down");
+        if (n < 0) {  // not exist
+            elem.classList.add("express-move-down");
+        }
+    }
+    function removeExpressMoveDown(elem) {
+        var n = elem.className.toLowerCase().indexOf("express-move-down");
+        if (n > -1) {  // exist
+            elem.classList.remove("express-move-down");
+        }
+    }
+    function cookieExist(cname) {
+        var cvalue = getCookieByName(cname);
+        return (cvalue != "") ? true : false;
+    }
+
+    function lineItemClosed(cname, lineItemId) {
+
+        if (cname === false || cname === "") {
+            //no cookie name, not found
+            return false;
+        }
+        var cvalue = getCookieByName(cname);
+        if (cvalue.trim() === "") {
+            return false;
+        }
+        if (cvalue.indexOf(lineItemId) === -1) {
+            //lineItemId, not found
+            return false
+        }
+        var closedLineItem = lineItemId + "=" + closedout;
+        if (cvalue.indexOf(closedLineItem) === -1) {
+            //closedLineItem, not found
+            return false;
+        }
+        return true;
+    }
+    function getCookieByName(cookiename) {
+        // Get name followed by anything except a semicolon
+        var cookiestring = RegExp("" + cookiename + "[^;]+").exec(document.cookie);
+        // Return everything after the equal sign, or an empty string if the cookie name not found
+        return decodeURIComponent(!!cookiestring ? cookiestring.toString().replace(/^[^=]+./, "") : "");
+    }
+    function setupAdCookie(cname, lineItemId) {
+        if (cname === false || cname === "") {
+            //no cookie name, not found
+            return;
+        }
+        var cvalue = getCookieByName(cname);
+        if (cvalue.trim() === "") {
+            return;
+        }
+
+        if (cvalue.indexOf(lineItemId) === -1) {
+            //lineItemId, not found
+            return;
+        }
+        //set lineItem to close
+        var from = lineItemId + "=" + available;
+        var to = lineItemId + "=" + closedout;
+        var cvalue = cvalue.replace(from, to);
+
+        var expires = "expires=" + getExpirationDate();
+
+        updateCookie(cname, cvalue, expires);
+    }
+
+    function addtoCookie(cname, lineItemId) {
+        if (cname === false || cname === "") {
+            //no cookie name, do nothing
+            return;
+        }
+        var cvalue = getCookieByName(cname);
+        if (cvalue.trim() === "") {
+            return;
+        }
+        var isSealed = isCookieSealed(cvalue);
+        if (isSealed === true || isSealed === "") {
+            return;
+        }
+        if (cvalue.indexOf(lineItemId) === -1) {
+            //This line item is not inluded in the cookie. We need to add
+            //If this cookie is sealed, then make it available
+            var unitItem = getUnit(cvalue);
+            if (unitItem === "") {
+                return;
+            }
+            var newItem = lineItemId + "=" + available
+            cvalue = cvalue.replace(unitItem, unitItem + "&" + newItem);
+            var expires = "expires=" + getExpirationDate();
+
+            updateCookie(cname, cvalue, expires);
+        }
+    }
+    function updateCookie(cname, cvalue, expires) {
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+    function getExpirationDate() {
+        var d = new Date();
+        d.setTime(d.getTime() + (expireDays * 24 * 60 * 60 * 1000));
+        return d.toUTCString();
+    }
+    function isCookieSealed(cvalue) {
+        var valueArray = cvalue.split('&');
+        if (valueArray.length > 0) {
+            var sealArray = valueArray[0].split('=');
+            if (sealArray.length > 0) {
+                if (sealArray[0].toLowerCase().trim() === "unit") {
+                    return (sealArray[1].toLowerCase().trim() === closedout) ? true : false;
+                }
+            }
+        }
+        return "";
+    }
+    function getUnit(cvalue) {
+        var valueArray = cvalue.split('&');
+        if (valueArray.length > 0) {
+            var sealArray = valueArray[0].split('=');
+            if (sealArray.length > 0) {
+                if (sealArray[0].toLowerCase().trim() === "unit") {
+                    return valueArray[0];
+                }
+            }
+        }
+        return "";
+    }
+
+</script>
+
         <meta name="referrer" content="unsafe-url">
 
     <meta name="description" content="Site Privacy Policy for AuctionTime.com">
 
+        <meta name="robots" content="noarchive">
+    <meta name="msvalidate.01" content="E7424B7457EC6C28D6CE07D5E905F38D">
 
 
     
+    
     <title>AuctionTime.com | Privacy Policy.</title>
-    <link rel="icon" type="image/x-icon" href="/Content/images/_AuctionTime/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="//media.sandhills.com/cdn/Images/Icons/Favicons/AuctionTime.ico?v=1">
     
 
 <link rel="icon" sizes="192x192" href="//media.sandhills.com/cdn/Images/icons/AuctionTime/apple-touch-icon-180x180.png">
@@ -35,9 +248,9 @@
 <link rel="apple-touch-icon" href="//media.sandhills.com/cdn/Images/icons/AuctionTime/apple-touch-icon-76x76.png">
 
 
-    <link href="/Content/css/AuctionTime?v=hNeGz_p5mkex-fKwEi-31sHXQcKJM6CYrQLp-X9leGM1" rel="stylesheet">
+    <link href="/Content/css/AuctionTime?v=VXAZL9YVD7G99Fdq6HhK237khG_DXqUlKyWxMItnzcA1" rel="stylesheet">
 
-    <link href="//media.sandhills.com/cdn/CSS/jqueryui/theme-1.11.3.min.css" rel="stylesheet">
+    <link href="//media.sandhills.com/cdn/CSS/jqueryui/theme-1.11.3.min.css" rel="stylesheet"><link href="//media.sandhills.com/cdn/CSS/font-awesome-4.3.0.min.css" rel="stylesheet">
 
     <!--[if lte IE 9]>
         <script src="//media.sandhills.com/cdn/JS/placeholders-3.0.2.min.js"></script>
@@ -52,7 +265,7 @@
         
     <![endif]-->
     
-<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N6K7FFV"></script><script type="application/ld+json">
+<script type="application/ld+json">
 
     {"author":{"logo":"https://www.auctiontime.com/Content/images/_AuctionTime/logo.png","@type":"Organization","@context":"http://schema.org","name":"AuctionTime","url":"https://www.auctiontime.com/","sameAs":["https://www.facebook.com/AuctionTime","https://twitter.com/AuctionTime","https://www.linkedin.com/company/2251583?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A2251583%2Cidx%3A1-1-1%2CtarId%3A1457718613155%2Ctas%3AAuctiontime",""]},"@type":"WebPage","@context":"http://schema.org"}
 
@@ -67,8 +280,9 @@
 <!-- End Google Tag Manager -->
 
 
+
 </head>
-<body>
+<body style="">
     
 <!-- Google Tag Manager (noscript) -->
 <noscript>
@@ -78,32 +292,20 @@
 
 
 
-        <div class="exp-pad-mobile" style="display:none;">
-            <div class="close-exp-mobile"><img class="close-ad" id="express-close-ad" alt="Close" src="/Content/images/close-box-blk.png"></div>
-            <a href="https://analyticstracking.sandhills.com/Financing/AuctionTime/178/TradePubBanner/">
-                <div class="lt-detail"></div>
-                <div class="exp-mobile-center">
-                    <div class="lt-side">
-                        <div class="power-dollar">
-                            <img alt="Power Dollar" src="/Content/images/PowerDollar-grn.png">
-                        </div>
-                        <div class="exp-text">
-                            <h2>Express Financing</h2>
-                            <h4>is a Preferred Partner of <em>AuctionTime</em><sup>®</sup></h4>
-                        </div>
-                    </div>
-                    <div class="rt-side">
-                        <div class="rt-banner-content">
-                            <img alt="Express" src="/Content/images/ExpressLogo.png">
-                            <p class="call-express">(833) 520-7672</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="rt-detail"></div>
-            </a>
-        </div>
     <div id="pagebody" class="full">
-        <div class="wrapper">
+
+
+<div class="DoubleClick_Top_PopUp" style="display:none;">
+    <img class="close-ad" alt="Close" src="/Content/images/clear.gif">
+    <div id="div-gpt-ad-3-17-43-29">
+        <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-3-17-43-29'); });
+        </script>
+    </div>
+</div>
+
+        <div class="wrapper" data-page-container="page-container">
+            
             <div id="SignalRConnectionDiv" class="SlowConnectionStyle" style="display: none;">
             </div>
             <header>
@@ -114,7 +316,6 @@
                                 <a href="https://www.facebook.com/AuctionTime" id="facebook-hdr"><img src="/Content/images/facebook.png"></a>
                                 <a href="https://twitter.com/AuctionTime" id="twitter-hdr"><img src="/Content/images/twitter.png"></a>
                                 <a href="https://www.linkedin.com/company/2251583?trk=tyah&amp;trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A2251583%2Cidx%3A1-1-1%2CtarId%3A1457718613155%2Ctas%3AAuctiontime" id="linkedin-hdr"><img src="/Content/images/linkedin.png"></a>
-                                <a href="https://plus.google.com/+AuctiontimeSite" id="googleplus-hdr"><img src="/Content/images/googleplus.png"></a>
                                 <a href="https://www.instagram.com/Auctiontime" id="instagram-hdr"><img src="/Content/images/instagram_32.png"></a>
 
 
@@ -123,15 +324,13 @@
                                 
 
     <ul class="registration-links">
-            <li><a href="https://www.auctiontime.com/Registration/entry.aspx?to=http%3a%2f%2fwww.auctiontime.com%2finfo%2fprivacy-policy&amp;toTLD=.com&amp;BR=1">Register</a></li>
+            <li><a href="/sso/registration?to=http%3a%2f%2fwww.auctiontime.com%2finfo%2fprivacy-policy">Register</a></li>
             <li><a href="https://www.auctiontime.com/sso/login?to=http%3a%2f%2fwww.auctiontime.com%2finfo%2fprivacy-policy">Log In</a></li>
- 
-            <li><a href="/forum" id="about_us">Forum</a></li>
-    </ul>
-  
+                    <li><a href="/forum" id="about_us">Forum</a></li>
+            </ul>
 <ul>
         <li><a href="/account"><span class="fa fa-user m-right-6"></span>My Account</a></li>
-        <li><a href="#" class="infobox-trigger" data-infobox-id="dealer-login">Dealer Login</a></li>
+            <li><a href="#" class="infobox-trigger" data-infobox-id="dealer-login">Dealer Login</a></li>
 </ul>
 
 
@@ -148,7 +347,7 @@
                         </a>
                         <div class="column12 left BlackBG">
                             <div class="left hide-mobile leftPadding">
-                                <span><a href="https://www.auctiontime.com/Registration/entry.aspx?to=http%3a%2f%2fwww.auctiontime.com%2finfo%2fprivacy-policy&amp;toTLD=.com&amp;BR=1">Register</a>&nbsp;|&nbsp;</span>
+                                    <span><a href="/sso/registration?to=http%3a%2f%2fwww.auctiontime.com%2finfo%2fprivacy-policy">Register</a>&nbsp;|&nbsp;</span>
 
                                 <a href="/info/about">About Us</a>&nbsp;|&nbsp;
                                 <a href="/info/contact-us">Contact Us</a>&nbsp;|&nbsp;
@@ -156,33 +355,38 @@
                             </div>
                             <div class="right hide-mobile langselect">
                                 <img src="/Content/images/MultiLanguageImages/com/flag.png" alt="" class="inline">
-                                <a onmouseover="ShowFlags(this, $('#divFlagMenu'));" onmouseout="SetToHide($('#divFlagMenu'));" onclick="return false;" href="">Select Language <i class="fa fa-caret-down"></i></a>
+                                    <a onmouseover="ShowFlags(this, $('#divFlagMenu'));" onmouseout="SetToHide($('#divFlagMenu'));" onclick="return false;" href="">Select Language <i class="fa fa-caret-down"></i></a>
                             </div>
+
+                                <div class="cross-branding right">
+                                <span> <i class="fa fa-th"></i>&nbsp;Our Brands</span>
+                            </div>
+
                             <div class="flaglinkcss" id="divFlagMenu" onmouseover="ClearHide();" onmouseout="SetToHide($(this));">
                                 <ul>
                                     <li>
-                                        <img class="inline" src="/Content/images/MultiLanguageImages/de/flag.png"><a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.de">Deutsch</a>
+                                        <img class="inline" src="/Content/images/MultiLanguageImages/de/flag.png"><a rel="nofollow" href="https://www.auctiontime.de/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1">Deutsch</a>
                                     </li>
                                     <li>
-                                        <img class="inline" src="/Content/images/MultiLanguageImages/com/flag.png"><a href="https://www.auctiontime.com/?keeponsite=true">English</a>
+                                        <img class="inline" src="/Content/images/MultiLanguageImages/com/flag.png"><a rel="nofollow" href="http://www.auctiontime.com/info/privacy-policy">English</a>
                                     </li>
                                     <li>
-                                        <img class="inline" src="/Content/images/MultiLanguageImages/uk/flag.png"><a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.co.uk">English</a>
+                                        <img class="inline" src="/Content/images/MultiLanguageImages/uk/flag.png"><a rel="nofollow" href="https://www.auctiontime.co.uk/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1">English</a>
                                     </li>
                                     <li>
-                                        <img class="inline" src="/Content/images/MultiLanguageImages/es/flag.png"><a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.es">Espanol</a>
+                                        <img class="inline" src="/Content/images/MultiLanguageImages/es/flag.png"><a rel="nofollow" href="https://www.auctiontime.es/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1">Espanol</a>
                                     </li>
                                     <li>
-                                        <img class="inline" src="/Content/images/MultiLanguageImages/fr/flag.png"><a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.fr">Francais</a>
+                                        <img class="inline" src="/Content/images/MultiLanguageImages/fr/flag.png"><a rel="nofollow" href="https://www.auctiontime.fr/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1">Francais</a>
                                     </li>
                                     <li>
-                                        <img class="inline" src="/Content/images/MultiLanguageImages/it/flag.png"><a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.it">Italiano</a>
+                                        <img class="inline" src="/Content/images/MultiLanguageImages/it/flag.png"><a rel="nofollow" href="https://www.auctiontime.it/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1">Italiano</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="inner-wrap cf">
+                                <div class="inner-wrap cf">
                         <div id="header-banner" class="hide-mobile">
                             <a href="/WebListingsInput/Default.aspx?Consignment=1&amp;LP=MAT" class="at-banner">
                                 <img class="hide-1025" src="/Content/images/MultiLanguageImages/com/PostMachineBanner-sm.jpg" alt="Post a Machine on AuctionTime">
@@ -195,17 +399,17 @@
 <a class="active" href="/"><img src="/Content/images/_AuctionTime/HeaderIcons/AT.png"></a>
 <a href="/digital-editions/newsstand"><img src="/Content/images/HeaderIcons/news.png"></a>
 <a href="/listings/construction-equipment/auctions/online/list"><img src="/Content/images/HeaderIcons/construction.png"><span>Construction</span></a>
-<a href="/auction-board/farm-equipment/auctions/online/"><img src="/Content/images/HeaderIcons/farm.png"><span>Farm Equipment</span></a>
+<a href="/listings/farm-equipment/auctions/online/list"><img src="/Content/images/HeaderIcons/farm.png"><span>Farm Equipment</span></a>
 <a href="/listings/trucks/auctions/online/list"><img src="/Content/images/HeaderIcons/truck.png"><span>Trucks</span></a>
 <a href="/listings/trailers/auctions/online/list"><img src="/Content/images/HeaderIcons/trailer.png"><span>Trailers</span></a>
-<a href="/auction-board/all-attachments/auctions/online/"><img src="/Content/images/HeaderIcons/attachment.png"><span>Attachments</span></a>
+<a href="/Attachments"><img src="/Content/images/HeaderIcons/attachment.png"><span>Attachments</span></a>
 <a href="/listings/other-items/auctions/online/list"><img src="/Content/images/_AuctionTime/HeaderIcons/other.png"><span>OtherStock</span></a>
-<a href="/auction-board/watchlist/auctions/online/"><img src="/Content/images/_AuctionTime/HeaderIcons/star.png"><span>Watch List</span></a>
+<a href="/listings/watchlist/auctions/online"><img src="/Content/images/_AuctionTime/HeaderIcons/star.png"><span>Watch List</span></a>
 </div>
                     </div>
                     <div class="inner-wrap cf">
                         <div class="column12" id="subnavbg">
-                            <div id="cssmenu">
+                            <div id="cssmenu"><div id="menu-line" style="width: 1310px; left: 48px;"></div><div id="menu-button">+</div>
                                 <ul>
                                     <li class="left font12">
                                         &nbsp;&nbsp;Lot #:
@@ -213,10 +417,10 @@
                                         <input class="go-button" style="padding: 0 5px 0 5px !important;" type="button" value="Go" onclick="SubmitLotNumberSearch();">
                                     </li>
                                     <li class="left"><a class="" href="/">Equipment Search</a></li>
-<li class="left"><a href="/WebListingsInput/Default.aspx?Consignment=1&amp;LP=MAT">Post Equipment</a></li>
+<li class="left"><a href="/WebListingsInput/Default.aspx?Consignment=1&amp;LP=MAT">Sell Equipment</a></li>
 <li class="left"><a class="" href="/info/can-i-bid">Can I Bid?</a></li>
 <li class="left"><a class="" href="/info/how-to">How-To</a></li>
-<li class="has-sub left">
+<li class="has-sub left"><span class="submenu-button"></span>
 <a href="#">Find Auctioneers</a>
 <ul>
 <li><a href="/auctioneers/geographic-search">Geographic Search</a></li>
@@ -224,7 +428,7 @@
 </ul>
 </li>
 <li class="left"><a href="/feedback?BA=1">Become An Auctioneer</a></li>
-<li class="left"><a class="pre-approve" href="https://analyticstracking.sandhills.com/Financing/AuctionTime/178/SubnavWidget/" target="_blank">  <span class="express-icon" style="background: url(//media.sandhills.com/cdn/Images/Logos/ThirdParty/dollar-widget-wt.png)"> </span><span class="subnav-home-hidealltext">Get <span class="subnav-home-shrinkstring">Pre-Approved for </span>Financing</span></a></li><li class="left"><a class="fr8star-subnav" href="https://analyticstracking.sandhills.com/Shipping/AuctionTime/178/SubnavWidget" target="_blank">  <span class="fr8star-subnav-icon" style="background: url(//media.sandhills.com/cdn/Images/Logos/ThirdParty/fr8star-icon-grey.png)"> </span><span class="subnav-home-hidealltext">Get <span class="subnav-home-shrinkstring">a </span>Shipping <span class="subnav-home-shrinkstring">Estimate</span></span></a></li></ul>
+<li class="left"><a class="pre-approve" href="https://analyticstracking.sandhills.com/Financing/AuctionTime/178/SubnavWidget/" target="_blank">  <span class="express-icon" style="background: url(//media.sandhills.com/cdn/Images/Logos/ThirdParty/dollar-widget-wt.png)"> </span><span class="subnav-home-hidealltext">Get <span class="subnav-home-shrinkstring">Pre-Approved for </span>Financing</span></a></li><li class="left"><a class="fr8star-subnav" href="https://analyticstracking.sandhills.com/Shipping/AuctionTime/178/SubnavWidget/" target="_blank">  <span class="fr8star-subnav-icon" style="background: url(//media.sandhills.com/cdn/Images/Logos/ThirdParty/fr8star-icon-grey.png)"> </span><span class="subnav-home-hidealltext">Get <span class="subnav-home-shrinkstring">a </span>Shipping <span class="subnav-home-shrinkstring">Estimate</span></span></a></li></ul>
 
 
                                 
@@ -240,289 +444,54 @@
                     <div class="container cf">
                         
 
-<div class="locator-top-15"></div><div class="breadcrumbs-wrap fluid border-bottom row"><div class="inner-wrap"><div class="column12 cf"><ul id="" class="breadcrumbs"><li><a href="/">Home</a></li><li>Sandhills Publishing® Privacy Policy</li></ul></div></div></div>
+<div class="locator-top-15"></div><div class="breadcrumbs-wrap fluid border-bottom row"><div class="inner-wrap"><div class="column12 cf"><ul id="" class="breadcrumbs"><li><a href="/">Home</a></li><li>Sandhills Global, Inc. Privacy Policy</li></ul></div></div></div>
 <div class="fluid border row">
     <div class="inner-wrap">
         <div class="column12 cf">
-<p></p><h4>SANDHILLS PUBLISHING PRIVACY POLICY</h4><p></p>
-<p>Any reference to <b>we</b> or <b>us</b> in this Privacy Policy shall mean Sandhills Publishing Company a corporation registered in the State of Nebraska (USA) with registered address at 120 W. Harvest Drive, Lincoln, Nebraska, 68521, USA.</p>
-<p>This Privacy Notice tells you about your privacy rights and sets out how we, as a controller, collect, use, process and disclose your personal data relating to your interactions with the <a href="http://www.sandhills.com/ourbrands" target="_blank">Brands</a> and <a href="http://www.sandhillssystems.com" target="_blank">Services</a> and these corresponding websites (the Websites), which are owned and operated by the <a href="http://www.sandhills.com/sandhills-groups" target="_blank">Sandhills Group Companies</a>. This Privacy Notice should be read in conjunction with our <a href="/info/cookies-policy">Cookie Policy</a>.</p>
-<p>Our Privacy Policy is regularly reviewed to ensure that we continue to respect your privacy. We reserve the right to update this Privacy Policy from time to time by publishing the updated version on the Websites. We therefore encourage you to review our Privacy Policy periodically for the most up to date information.</p>
-<p>We take great care of any information that you give us, and in the following paragraphs we set out how any personal information you give us is treated. This Website is not intended for children and we do not knowingly collect data relating to children.</p>
-<p>If you have any questions regarding our Privacy Policy, please <a href="/info/contact-us" target="_blank">Contact Us</a>.</p>
-<p><strong>WHY DO WE HAVE THIS POLICY?</strong></p>
-<p>Your privacy is important to us, and we are committed to protecting your personal information from unauthorised use or disclosure.  We will therefore use your personal information, and transfer it to others, in accordance with this Privacy Policy.</p>
-<p>Our Privacy Policy applies whenever you visit the Websites, during the period you receive services from us, during the process of you ordering products from us and afterwards.</p>
-<p><strong>1.	WHAT INFORMATION DO WE COLLECT AND WHEN?</strong></p>
-<p>Personal data means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data). We only collect information that we will use for the purposes set out in this policy.</p>
-<p>
-    Specifically, we collect:
-    </p><ul class="bullet-list font14">
-        <li>
-            <strong>Information you submit to us</strong> You can submit information to us in the following ways:
-            <ul class="bullet-list ">
-                <li>Through forms, for example signing up to an offer, news or a competition;</li>
-                <li>By sending us emails and text messages (SMS or MMS);</li>
-                <li>By adding posts, reviews and other comments to the Websites, any Sandhills' mobile phone applications, or other community forums;</li>
-                <li>By interacting with us on social media platforms (such as Facebook or Twitter);</li>
-                <li>By speaking to us over the telephone; or</li>
-                <li>
-                    By registering accounts on the Websites or any Sandhills' mobile phone applications, including setting up passwords and preferred user names, contact details, account details, your preferences and interests.
-                    <br>
-                    (Please note: If you submit details to us of any other person (e.g. a friend), please make sure you have their permission before doing so.)
-                </li>
-            </ul>
-        </li>
-        <li>
-            <strong>Information we collect about you</strong>
-            <ul class="bullet-list">
-                <li>Full details of the purchases you make on the Websites or on the telephone, including the time and date of purchase, the products you purchase from us, any relevant delivery address and details of any relevant payment card.</li>
-                <li>Information on what you search for, view, click on and access in and through the Websites, our marketing emails and text messages (SMS or MMS). We may collect the time and geographic location of your device when you do so.  This information may also include where you came to the Websites from, and where you went when you left it. We also track how often you visit and use the Websites. We do this through the use of email and website cookies (see our <a href="/info/cookies-policy" target="_blank">Cookie Policy</a>).</li>
-                <li>Technical information about the devices you use to access the Websites. We collect each device’s unique identifying code (MAC address), relevant IP address, operating system and version, web browser and version, and geographic location</li>
-                <li>Your social media content (where this is in the public domain) and any messages you send us via social media. This information can include posts, comments, pictures and video (see paragraph 4 for more information)</li>
-                <li>Information from banking, credit card and credit reference agencies about your financial status and the status of any payment card presented to us (for example, if it has been reported stolen) to check we are likely to be paid for any transaction and to reduce the risk of fraud.</li>
-                <li>Profile information and insight from companies who already have information on you, such as credit reference agencies (customer insight companies). They give us their views on what your household may look like, your status, likely preferences and behaviours.</li>
-            </ul>
-        </li>
-
-    </ul>
-
-
-
-<p></p>
-<p>We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.</p>
-
-<p><strong>2.	 HOW DO WE USE YOUR INFORMATION?</strong></p>
-<p></p>
-<p></p>
-<p><strong></strong></p>
-<p></p>
-<p><strong></strong></p>
-<p>We will only use your personal data for the purposes and legal bases set out in the table below.</p>
-<div class="row">
-    <div class="fixed-column10 centered">
-        <table class="privacy-table">
-            <tbody>
-                <tr>
-                    <th>Why we use your personal data</th>
-                    <th>What our legal basis is for doing so</th>
-                </tr>
-                <tr>
-                    <td>
-                        <strong>To provide you with the Website</strong>, which requires a certain amount of technical information to be collected in order to work properly.
-                    </td>
-                    <td>
-                        The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to study how Website users use our products/services) provided such interests are not overridden by your interests and rights.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <strong>To power security measures and related services relating to your access to the Website</strong> for example to enable us to recognise your username and password and reset these if you forget them.
-                    </td>
-                    <td>
-                        The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to study how Website users use our products/services) provided such interests are not overridden by your interests and rights.
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>To enable you to order products from us on the Website</strong>, which again requires a certain amount of personal data to be collected, for example your payment card details so we can take payment and the products you buy so we can provide you with an invoice and receipt.</td>
-                    <td>The processing is necessary to perform a contract or enter into a contract with you </td>
-                </tr>
-                <tr>
-                    <td><strong>To enable us to run competitions and offers for which you have signed up</strong>, about which we need to be able to communicate with you.</td>
-                    <td>Where you have given consent to the processing of your personal data for direct marketing – which you may withdraw at any time</td>
-                </tr>
-                <tr>
-                    <td><strong>To gather feedback from you</strong> about the Website, our products, other services and activities from time to time. We may invite you to provide this feedback on occasion, for example by emailing you to ask if you would like to review a product you have bought. We may use independent research and feedback providers to do so on our behalf. </td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to define types of customers for our products and services, to keep our Site updated and relevant, to develop our business and to inform our marketing strategy) provided such interests are not overridden by your interests and rights.</td>
-                </tr>
-                <tr>
-                    <td><strong>To contact you from time to time about things you have told us you want to hear about</strong>, for example our products, news, offers, new competitions and sponsored events.</td>
-                    <td>Where you have given consent to the processing of your personal data for direct marketing – which you may withdraw at any time</td>
-                </tr>
-                <tr>
-                    <td><strong>To respond to any questions, suggestions, issues or complaints you have raised</strong> with us.</td>
-                    <td>
-                        The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.<br><br>
-                        The processing is necessary to perform a contract or enter into a contract with you.
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>To respond to any social media posts or other public comments you make</strong> where these are made to or about us, the Website, our products, services or other activities.</td>
-
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights. </td>
-                </tr>
-                <tr>
-                    <td><strong>To communicate with you about operational changes to the Website, our products, services,</strong> for example if we were to withdraw or change this privacy policy.</td>
-                    <td>
-                        The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.
-                        <br><br>The processing is necessary for us to comply with legal and regulatory obligations.
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>To perform any contract we have entered into with you</strong> but also to enforce a contract against you if you do not honour it, including seeking to collect any debts that you may owe us.</td>
-                    <td>
-                        The processing is necessary for us to comply with legal and regulatory obligations.<br>
-                        The processing is necessary to support our legitimate interests in managing our business (to recover debts due to us) provided such interests are not overridden by your interests and rights.<br>
-                        The processing is necessary to perform a contract or enter into a contract with you.
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>To gather statistics about how you and other people use the Website, and what you think of our adverts, offers, news, product information, competitions, sponsored events, social media and other digital content</strong>. We then analyse these statistics to understand if these things meet most people’s needs, or if they should be improved, and if so, what design or other changes (for example, around the nature and timing of communications) would be most beneficial for our customers and our business. </td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to define types of customers for our products and services, to keep our Site updated and relevant, to develop our business and to inform our marketing strategy) provided such interests are not overridden by your interests and rights.</td>
-                </tr>
-                <tr>
-                    <td><strong>To check that you have or are likely to have the means to pay us</strong> for any products you have ordered from us on the Website.</td>
-                    <td>
-                        The processing is necessary to support our legitimate interests in managing our business (to recover debts due to us) provided such interests are not overridden by your interests and rights.<br>
-                        The processing is necessary to perform a contract or enter into a contract with you.
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>To monitor use of the Website to see if it is being abused or threatened</strong> for example by people posting inappropriate comments in review areas or by potential hackers looking to undermine their security.</td>
-                    <td>
-                        The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.
-                        <br>The processing is necessary for us to comply with legal and regulatory obligations
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>To protect you and our business against any other criminal behaviour</strong>, including identity theft and fraud.</td>
-                    <td>
-                        The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.
-                        <br>The processing is necessary for us to comply with legal and regulatory obligations.
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>To understand you better</strong> and, in particular, your habits, your location from time to time and your personal circumstances. </td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to define types of customers for our products and services, to keep our Site updated and relevant, to develop our business and to inform our marketing strategy) provided such interests are not overridden by your interests and rights.</td>
-                </tr>
-                <tr>
-                    <td><strong>To maintain administrative and legal records about our business</strong> to enable us to understand what we have sold, how, when, where and at what price and account to the Revenue Commissioners for the related taxes that we have to pay.</td>
-                    <td>
-                        The processing is necessary to support our legitimate interests in managing our business (to keep our records updated) provided such interests are not overridden by your interests and rights.
-                        <br>The processing is necessary for us to comply with legal and regulatory obligations.
-                    </td>
-                </tr>
-                <tr>
-                    <td><strong>To enable us and our third party service providers to plan and manage our day-to-day business and related services as effectively as possible</strong>, for example in predicting likely sales volumes of each product, so we can try and make sure we have enough stock to meet likely demand.</td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to study how Website users use our products/services) provided such interests are not overridden by your interests and rights.</td>
-                </tr>
-                <tr>
-                    <td><strong>To enable us to understand what our customer and user base looks like</strong> across our business. We do this by combining your information with information about our other customers and users of the Website, so we can spot trends and common factors. </td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to study how Website users use our products/services) provided such interests are not overridden by your interests and rights.</td>
-                </tr>
-                <tr>
-                    <td><strong>To enable us to conduct focused market research</strong> based on trends that we identify, which we can then use to further improve our products and services for all our customers.</td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to study how customers use our products/services, to develop them and grow our business) provided such interests are not overridden by your interests and rights.</td>
-                </tr>
-                <tr>
-                    <td><strong>In the process of anonymising your information</strong> so that you are no longer identifiable to us.</td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to ensure data minimisation) provided such interests are not overridden by your interests and rights. </td>
-                </tr>
-                <tr>
-                    <td><strong>To test new systems and processes</strong> as we roll them out to make sure they work and will meet the high expectations we set for ourselves.</td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise) provided such interests are not overridden by your interests and rights. </td>
-                </tr>
-                <tr>
-                    <td><strong>To assist us in the development of new products and services over time</strong>, for example to gauge whether a new product is likely to appeal to a large proportion of our customer base.</td>
-                    <td>The processing is necessary to support our legitimate interests in managing our business (to develop our products/services and grow our business) provided such interests are not overridden by your interests and rights. </td>
-                </tr>
-                <tr>
-                    <td><strong>To analyse whether the money we spend on advertising</strong> on trade publications and trade websites, online and in search engines represents good value. </td>
-                    <td>Where you have given consent to the processing of your personal data for direct marketing – which you may withdraw at any time.</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</div>
-<p><strong>Where we rely on our legitimate business interests to allow us to process your personal data or we process your personal data for direct marketing, you have the right, at any time, to object.</strong></p>
-<p><strong>3.	WHO DO WE SHARE YOUR INFORMATION WITH?</strong></p>
-<p>
-    We cannot run our business or provide many of our services and benefits without involving other people and businesses and sometimes we pass your information to these other people and businesses as set out below.  We only share your information where we can do so in accordance with our legal data protection and privacy obligations.  We share the information we collect with:
-    </p><ul class="bullet-list">
-        <li><a href="http://www.sandhills.com/sandhills-groups" target="_blank">Sandhills Group Companies</a> and <a href="http://www.sandhills.com/ourbrands" target="_blank">Brands</a> and <a href="http://www.sandhillssystems.com" target="_blank">Services</a>  We do so because we hope to have a relationship with you across all these different brands and businesses, if not now, then in the future, and we want to be able to provide you with the same value and high quality of experience wherever you choose to interact with us.</li>
-        <li>Other people and businesses who help us provide the Websites, and related services to you, for example, information technology companies who design and host the Websites and payment services companies who enable you to use payment cards with us.</li>
-        <li>Advertiser and advertising networks which require the data to select and serve relevant adverts to you and others.  We may use the information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advert to that target audience.</li>
-        <li>Third parties who in our reasonable opinion make a claim that any content posted or uploaded by you to the Website constitutes a violation of their intellectual property rights, or of their right to privacy.</li>
-        <li>Analytics and search engine providers who assist us in the improvement and optimisation of the Websites.</li>
-        <li>Our insurers and insurance brokers where required in order for us to be able to obtain insurance against risks we face in running our business. They may retain this information for the purpose of ongoing risk assessment and insurance broking and underwriting services.</li>
-        <li>Banks and finance companies where we have allowed them to offer you the possibility of purchasing our products on credit or through a loan arranged online. They may retain this information, for example if you take any service they offer, for the purpose of providing you with that service.</li>
-        <li>Credit reference agencies who provide anti-fraud and credit score information to us, banks and finance companies who also provide anti-fraud services and customer insight companies (as set out above), in each case as necessary in order to benefit from their services. Where we do so for anti-fraud purposes, the recipient organisation may hold your information on file for the purpose of their fraud prevention services in future.</li>
-        <li>Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.</li>
-        <li>The prospective buyer of any part of our business or assets that we may sell.</li>
-        <li>Our professional advisers for example our lawyers, accountants and technology consultants when they need it to provide advice to us.</li>
-        <li>The police, local authorities, the courts and any other central or local government bodies where they request it and we may lawfully disclose it, for example for the prevention and detection of crime.</li>
-        <li>Other people who make a subject access request to us, where we are allowed to do so by law (see Managing Your Information below for what we mean by a subject access request).</li>
-    </ul>
-    We may also share the information we collect where we are legally obliged to do so, for example, to comply with a court order.
-<p></p>
-<p><strong>4.	SOCIAL MEDIA, BLOGS, REVIEWS, AND SIMILAR SERVICES</strong></p>
-<p>Any posts or comments you make to us on social media will be shared under the terms of the relevant social media platform (for example, Facebook or Twitter) on which they are made and could be made public by that platform. These platforms are controlled by other people, not us, so we are not responsible for this sharing. You should review the terms and conditions and privacy policies of the social media platforms you use to ensure you understand how they will use your information, what information relating to you they will place in the public domain and how you can stop them from doing so if you are unhappy about it.</p>
-<p>Any blog, review or other posts or comments you make about us, our products and services on any of our blog, review or user community services will be shared with all other members of that service and the public at large.</p>
-<p>You should ensure that any comments you make on these services, and on social media in general, are fit to be read by the public, and in particular are not offensive or defamatory. You are responsible for ensuring that any comments you make comply with any relevant policy on acceptable use of those services. </p>
-<p><strong>5.	SECURITY OF YOUR INFORMATION</strong></p>
-<p>Information provided through the Websites is stored on our secure servers or those of any third party we engage to provide our IT platform, and is encrypted using standard technology. </p>
-<p>Where we have given you, or you have chosen, a password which enables you to access your account or certain parts of the Websites, you are responsible for keeping the password confidential and must not share it with anyone. You are responsible for any actions carried out using your password except where there has been fraud.</p>
-<p><strong>6.	INTERNATIONAL TRANSFER OF YOUR INFORMATION</strong></p>
-<p>Although we are based in the US, we occasionally need to use international suppliers to help ensure you receive the very best products and services from us as well as coordinate with our international <a href="http://www.sandhills.com/sandhills-groups" target="_blank">Sandhills Group Companies</a></p>
-<p>To allow us to run our business on this basis, the information we collect may be transferred to, stored and used at premises in countries outside the US. When it is necessary to transfer your personal data outside the US, we will ensure appropriate safeguards are in place to protect thte privacy and integrity of such personal data. Please Contact Us if you wish to obtain information concerning such safeguards.</p>
-<p><strong>7.	HOW LONG DO WE KEEP YOUR INFORMATION FOR?</strong></p>
-<p>In accordance with our legal data protection and privacy obligations, we will only retain your information for as long as we need it to achieve the purpose(s) for which we obtained it in the first place, as required by law, and for the exercise or defence of legal claims. We will then either securely delete it or anonymise it so that it cannot be linked back to you (see paragraph 2 for full details of those purposes). </p>
-<p><strong>8.	MANAGING  YOUR INFORMATION</strong></p>
-<p>It is very important to us that all the information we hold about you remains accurate and up to date to reduce the risk of a misunderstanding. We need your help in doing so. If you have an online account with us, please ensure that the information (for example, contact information) you provide to us through that account remains accurate and up to date. Please review and update it regularly.</p>
-<p>You have several rights in relation to your personal data under applicable privacy and data protection law, which may be subject to certain limitations and restrictions. Depending on your country of residence or domicile, you may have other legal rights over the information we collect from you and your devices.  We will honour all such legal rights.  To see other available privacy policies for other countries, please see <a href="http://www.sandhills.com/jurisdictions" target="_blank">Jurisdictions</a>.</p>
-<p>We may request proof of identification to verify your request. We reserve the right to charge you a small administration fee to meet our costs in honouring your legal rights, where permitted by the relevant law.  We reserve the right not to comply with any requests we receive where we may lawfully do so, for example if we reasonably believe a request to be malicious, technically very onerous, to involve disproportionate effort or harmful to the rights of others.</p>
-<p>If you wish to exercise any of these rights, please <a href="/info/contact-us" target="_blank">Contact Us</a>.   We will respond to any valid requests within the time periods required by applicable privacy and data protection law.</p>
-<p>If you have any questions or complaints about our use of your information, please <a href="/info/contact-us" target="_blank">Contact Us</a>.  We will do our very best to answer any question and resolve any complaint to your satisfaction.  </p>
-
-<p><strong>9.	THIRD PARTY LINKS</strong></p>
-
-<p>The Websites may contain links to the websites of third parties.  If you follow a link to any third party website, please note that these websites will have their own privacy policies and we do not accept any responsibility or liability in respect of the same.</p>
-
-<p><strong>10.	CHANGES TO THIS PRIVACY NOTICE</strong></p>
-
-<p>We reserve the right to update this Privacy Notice from time to time. If we make any changes, we will post those changes here and update the "Last Updated" date at the bottom of this Privacy Notice. However, if we make material changes to Privacy Notice we will notify you by means of a prominent notice on the Website prior to the change becoming effective. Please review the Privacy Notice whenever you access or use this Website.</p>
-
-
-<p><strong>11.	CONTACT US - UPDATING YOUR PREFERENCES AND DETAILS</strong></p>
-<p>
-    If you:
-    </p><ul class="bullet-list">
-        <li>have any queries, comments or complaints about this Privacy Notice;</li>
-        <li>no longer want to participate in our services; or</li>
-        <li>wish to opt out of receiving further information as referred to in paragraph 8 of this Privacy Notice,</li>
-    </ul>
-<p></p>
-<p>please let us know by <a href="/info/contact-us" target="_blank">Contacting Us</a>.</p>
-<p>Please help us to keep your records up to date by notifying us of any changes to your personal details.</p>
-
-<p><strong>Last Updated: 23 May 2018</strong></p>
-<p><b>Copyright © by Sandhills Publishing Company 2018</b></p>
-
-
+            <h1 class="pagename border-bottom">Sandhills Global® Privacy Policy</h1>  <p>Any reference to <b>we</b> or <b>us</b> in this Privacy Policy shall mean Sandhills Global, Inc. a corporation registered in the State of Nebraska (USA) with registered address at 120 W. Harvest Drive, Lincoln, Nebraska, 68521, USA.</p>  <p> This Privacy Notice tells you about your privacy rights and sets out how we, as a controller, collect, use, process and disclose your personal data relating to your interactions with the <a href="https://www.sandhills.com/ourbrands" target="_blank">Brands</a> and              <a href="http://www.sandhillssystems.com/" target="_blank">Services</a> and these corresponding websites (the Websites), which are owned and operated by the <a href="https://www.sandhills.com/sandhills-groups" target="_blank">Sandhills Group Companies</a>. This Privacy Notice should be read in conjunction with our <a href="/info/cookies-policy">Cookies Policy</a>. </p>  <p>          Our Privacy Policy is regularly reviewed to ensure that we continue to respect your privacy. We reserve the right to update this Privacy Policy from time to time by publishing the updated version on the Websites. We therefore encourage you to review our Privacy Policy periodically for the most up to date information. </p>  <p>We take great care of any information that you give us, and in the following paragraphs we set out how any personal information you give us is treated. This Website is not intended for children and we do not knowingly collect data relating to children.</p>  <p>If you have any questions regarding our Privacy Policy, please <a href="/info/contact-us">Contact Us</a>.  </p>  <p><b>WHY DO WE HAVE THIS POLICY?</b></p> <p>    Your privacy is important to us, and we are committed to protecting your personal information from unauthorised use or disclosure.  We will therefore use your personal information, and transfer it to others, in accordance with this Privacy Policy. </p>  <p><b>1. &nbsp;&nbsp;WHAT INFORMATION DO WE COLLECT AND WHEN?</b></p> <p>          Personal data means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data). We only collect information that we will use for the purposes set out in this policy. </p>  <p>Specifically, we collect: </p> <ul class="bullet-list">   <li>                         <b>Information you submit to us</b> You can submit information to us in the following ways:                  <ul class="bullet-list">                                   <li>                                                         Through forms, for example signing up to an offer, news or a competition;                                            </li>                                                 <li>                                                         By sending us emails and text messages (SMS or MMS);                                 </li>                                       <li>                                                         By adding posts, reviews and other comments to the Websites, any mobile phone applications, or other community forums;                                      </li>                                       <li>                                                         By interacting with us on social media platforms (such as Facebook or Twitter);                                               </li>                                       <li>                                                         By speaking to us over the telephone; or                                     </li>                                       <li>By registering accounts on the Websites or any mobile phone applications, including setting up passwords and preferred user names, contact details, account details, your preferences and interests.</li>                  </ul>                     If you do not provide us with your personal data we may not be able to provide you with our services, products or respond to any questions or requests you submit to us via our Website. (Please note: If you submit details to us of any other person (e.g. a friend), please make sure you have their permission before doing so.)       </li>  </ul>  <ul class="bullet-list">           <li>                         <b>Information we collect about you</b>                  <ul class="bullet-list">                                   <li>                                                         <b>Full details of the purchases you make</b> on the Websites or on the telephone, including the time and date of purchase, the products you purchase from us, any relevant delivery address and details of any relevant payment card.                                    </li>                                                 <li>                                                         <b>Information on what you search for, view, click on and access</b> in and through the Websites, our marketing emails and text messages (SMS or MMS). We may collect the time and geographic location of your device when you do so. This information may also include where you came to the Websites from, and where you went when you left it. We also track how often you visit and use the Websites. We do this through the use of email and website cookies (see our <a href="/info/cookies-policy">Cookies Policy</a>).                                                 </li>                                       <li>                                                         <b>Technical information about the devices you use</b> to access the Websites. We collect each device’s unique identifying code (MAC address), relevant IP address, operating system and version, web browser and version, and geographic location.                                      </li>                                                 <li>                                                         <b>Your social media content (where this is in the public domain) and any messages you send us via social media</b>. This information can include posts, comments, pictures and video (see paragraph 4 for more information).                                           </li>                                       <li>                                                         <b>Information from banking, credit card and credit reference agencies</b> about your financial status and the status of any payment card presented to us (for example, if it has been reported stolen) to check we are likely to be paid for any transaction and to reduce the risk of fraud.                                   </li>                                       <li>                                                                 <b>Profile information and insight from companies who already have information on you, such as credit reference agencies (customer insight companies)</b>. They give us their views on what your household may look like, your status, likely preferences and behaviours.                                                </li>                       </ul>                                 We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.            </li> </ul>   <p><b>2.&nbsp;&nbsp;HOW DO WE USE YOUR INFORMATION?</b></p> <p>We will only use your personal data for the purposes and legal bases set out in the table below.</p>   <div class="column12">                <div class="column12 border-bottom left">                         <div class="column6 left">                                                 <b>Why we use your personal data</b>                                </div>                   <div class="column6 left">                                     <b>What our legal basis is for doing so</b>                         </div>   </div>  <div class="column12 border-bottom left">                     <div class="column6 left">                                           <b>To provide you with the Website</b>, which requires a certain amount of technical information to be collected in order to work properly.                                 </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to study how Website users use our products/services) provided such interests are not overridden by your interests and rights.                                </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To power security measures and related services relating to your access to the Website</b> for example to enable us to recognise your username and password and reset these if you forget them.                         </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to study how Website users use our products/services) provided such interests are not overridden by your interests and rights.                            </div>                 </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To enable you to order products from us on the Website</b>, which again requires a certain amount of personal data to be collected, for example your payment card details so we can take payment and the products you buy so we can provide you with an invoice and receipt.                   </div>                   <div class="column6 left">                                           The processing is necessary to perform a contract or enter into a contract with you.                          </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To enable us to run competitions and offers for which you have signed up</b>, about which we need to be able to communicate with you.                           </div>                   <div class="column6 left">                                           Where you have given consent to the processing of your personal data for direct marketing – which you may withdraw at any time.                    </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                    <b>To gather feedback from you</b> about the Website, our products, other services and activities from time to time. We may invite you to provide this feedback on occasion, for example by emailing you to ask if you would like to review a product you have bought. We may use independent research and feedback providers to do so on our behalf.                           </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to define types of customers for our products and services, to keep our Site updated and relevant, to develop our business and to inform our marketing strategy) provided such interests are not overridden by your interests and rights.                   </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To contact you from time to time about things you have told us you want to hear about</b>, for example our products, news, offers, new competitions and sponsored events.                     </div>                   <div class="column6 left">                                    Where you have given consent to the processing of your personal data for direct marketing – which you may withdraw at any time.                               </div>   </div>  <div class="column12 border-bottom left">                     <div class="column6 left">                                           <b>To respond to any questions, suggestions, issues or complaints you have raised</b> with us.                             </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.                                        <br> <br>                                            The processing is necessary to perform a contract or enter into a contract with you.                            </div>   </div>  <div class="column12 border-bottom left">                                 <div class="column6 left">                                           <b>To respond to any social media posts or other public comments you make</b> where these are made to or about us, the Website, our products, services or other activities.                             </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.                            </div>                 </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To communicate with you about operational changes to the Website, our products, services</b>, for example if we were to withdraw or change this privacy policy.                     </div>                   <div class="column6 left">                                                 The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.                                        The processing is necessary for us to comply with legal and regulatory obligations.                         </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                     <b>To perform any contract we have entered into with you</b> but also to enforce a contract against you if you do not honour it, including seeking to collect any debts that you may owe us.                   </div>                  <div class="column6 left">                                           The processing is necessary for us to comply with legal and regulatory obligations.                                   The processing is necessary to support our legitimate interests in managing our business (to recover debts due to us) provided such interests are not overridden by your interests and rights.                                                 The processing is necessary to perform a contract or enter into a contract with you.                          </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To gather statistics about how you and other people use the Website, and what you think of our adverts, offers, news, product information, competitions, sponsored events, social media and other digital content</b>. We then analyse these statistics to understand if these things meet most people’s needs, or if they should be improved, and if so, what design or other changes (for example, around the nature and timing of communications) would be most beneficial for our customers and our business.                 </div>                   <div class="column6 left">                                    The processing is necessary to support our legitimate interests in managing our business (to define types of customers for our products and services, to keep our Site updated and relevant, to develop our business and to inform our marketing strategy) provided such interests are not overridden by your interests and rights.                        </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                    <b>To check that you have or are likely to have the means to pay us</b> for any products you have ordered from us on the Website.                                </div>                   <div class="column6 left">                                                 The processing is necessary to support our legitimate interests in managing our business (to recover debts due to us) provided such interests are not overridden by your interests and rights.                                                The processing is necessary to perform a contract or enter into a contract with you.                          </div>                 </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To monitor use of the Website to see if it is being abused or threatened</b> for example by people posting inappropriate comments in review areas or by potential hackers looking to undermine their security.                        </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.                                            The processing is necessary for us to comply with legal and regulatory obligations.                     </div>   </div>  <div class="column12 border-bottom left">                  <div class="column6 left">                                           <b>To protect you and our business against any other criminal behaviour</b>, including identity theft and fraud.                     </div>                  <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to review issues with our products/services) provided such interests are not overridden by your interests and rights.                                  The processing is necessary for us to comply with legal and regulatory obligations.                     </div>   </div>  <div class="column12 border-bottom left">                     <div class="column6 left">                                           <b>To understand you better</b> and, in particular, your habits, your location from time to time and your personal circumstances.                    </div>                   <div class="column6 left">                                    The processing is necessary to support our legitimate interests in managing our business (to define types of customers for our products and services, to keep our Site updated and relevant, to develop our business and to inform our marketing strategy) provided such interests are not overridden by your interests and rights.                        </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                    <b>To maintain administrative and legal records about our business</b> to enable us to understand what we have sold, how, when, where and at what price and account to the Revenue Commissioners for the related taxes that we have to pay.                              </div>                   <div class="column6 left">                                                 The processing is necessary to support our legitimate interests in managing our business (to keep our records updated) provided such interests are not overridden by your interests and rights.                                            The processing is necessary for us to comply with legal and regulatory obligations.                             </div>                 </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To enable us and our third party service providers to plan and manage our day-to-day business and related services as effectively as possible</b>, for example in predicting likely sales volumes of each product, so we can try and make sure we have enough stock to meet likely demand.                      </div>                   <div class="column6 left">                                                 The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to study how Website users use our products/services) provided such interests are not overridden by your interests and rights.                 </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                           <b>To enable us to understand what our customer and user base looks like</b> across our business. We do this by combining your information with information about our other customers and users of the Website, so we can spot trends and common factors.                               </div>                   <div class="column6 left">                                    The processing is necessary to support our legitimate interests in managing our business (to keep our records updated and to study how Website users use our products/services) provided such interests are not overridden by your interests and rights.                               </div>   </div>  <div class="column12 border-bottom left">                     <div class="column6 left">                                           <b>To enable us to conduct focused market research</b> based on trends that we identify, which we can then use to further improve our products and services for all our customers.                     </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to study how customers use our products/services, to develop them and grow our business) provided such interests are not overridden by your interests and rights.                        </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                    <b>In the process of anonymising your information</b> so that you are no longer identifiable to us.                               </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to ensure data minimisation) provided such interests are not overridden by your interests and rights.                  </div>   </div>  <div class="column12 border-bottom left">                     <div class="column6 left">                                           <b>To test new systems and processes</b> as we roll them out to make sure they work and will meet the high expectations we set for ourselves.                                 </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise) provided such interests are not overridden by your interests and rights.                               </div>   </div>  <div class="column12 border-bottom left">                  <div class="column6 left">                                           <b>To assist us in the development of new products and services over time</b>, for example to gauge whether a new product is likely to appeal to a large proportion of our customer base.                           </div>                   <div class="column6 left">                                           The processing is necessary to support our legitimate interests in managing our business (to develop our products/services and grow our business) provided such interests are not overridden by your interests and rights.                                 </div>   </div>  <div class="column12 border-bottom left">                         <div class="column6 left">                                                 <b>To analyse whether the money we spend on advertising</b> on trade publications and trade websites, online and in search engines represents good value.                         </div>                   <div class="column6 left">                                     Where you have given consent to the processing of your personal data for direct marketing – which you may withdraw at any time.                     </div>   </div>  <p><b>Where we rely on our legitimate business interests to allow us to process your personal data or we process your personal data for direct marketing, you have the right, at any time, to object.</b></p>  </div>   <p><b>3.&nbsp;&nbsp;WHO DO WE SHARE YOUR INFORMATION WITH?</b></p> <p>       We cannot run our business or provide many of our services and benefits without involving other people and businesses and sometimes we pass your information to these other people and businesses as set out below.  We only share your information where we can do so in accordance with our legal data protection and privacy obligations.  We share the information we collect with: </p>  <ul class="bullet-list">          <li><a href="https://www.sandhills.com/sandhills-groups" target="_blank">Sandhills Group Companies</a> and <a href="https://www.sandhills.com/ourbrands" target="_blank">Brands</a> and <a href="http://www.sandhillssystems.com/" target="_blank">Services</a>  We do so because we hope to have a relationship with you across all these different brands and businesses, if not now, then in the future, and we want to be able to provide you with the same value and high quality of experience wherever you choose to interact with us. </li>       <li><b>Other people and businesses who help us provide the Websites, and related services to you</b>, for example, information technology companies who design and host the Websites and payment services companies who enable you to use payment cards with us.</li>    <li><b>Advertiser and advertising networks</b> which require the data to select and serve relevant adverts to you and others.  We may use the information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advert to that target audience.</li>                 <li><b>Third parties</b> who in our reasonable opinion make a claim that any content posted or uploaded by you to the Website constitutes a violation of their intellectual property rights, or of their right to privacy.</li>                 <li><b>Analytics and search engine providers</b> who assist us in the improvement and optimisation of the Websites.</li>   <li><b>Our insurers and insurance brokers</b> where required in order for us to be able to obtain insurance against risks we face in running our business. They may retain this information for the purpose of ongoing risk assessment and insurance broking and underwriting services.</li>    <li><b>Banks and finance companies</b> where we have allowed them to offer you the possibility of purchasing our products on credit or through a loan arranged online. They may retain this information, for example if you take any service they offer, for the purpose of providing you with that service.</li>        <li><b>Credit reference agencies</b> who provide anti-fraud and credit score information to us, banks and finance companies who also provide anti-fraud services and customer insight companies (as set out above), in each case as necessary in order to benefit from their services. Where we do so for anti-fraud purposes, the recipient organisation may hold your information on file for the purpose of their fraud prevention services in future.</li>   <li><b>Business partners, suppliers and sub-contractors</b> for the performance of any contract we enter into with them or you.</li>     <li><b>The prospective buyer</b> of any part of our business or assets that we may sell.</li>        <li><b>Our professional advisers</b> for example our lawyers, accountants and technology consultants when they need it to provide advice to us.</li>    <li><b>The police, local authorities, the courts</b> and any other central or local government bodies where they request it and we may lawfully disclose it, for example for the prevention and detection of crime.</li>          <li><b>Other people who make a subject access request to us</b>, where we are allowed to do so by law (see Managing Your Information below for what we mean by a subject access request).</li> </ul>  <p>We may also share the information we collect where we are legally obliged to do so, for example, to comply with a court order.</p>   <p><b>4.&nbsp;&nbsp;SOCIAL MEDIA, BLOGS, REVIEWS, AND SIMILAR SERVICES</b></p> <p>                Any posts or comments you make to us on social media will be shared under the terms of the relevant social media platform (for example, Facebook or Twitter) on which they are made and could be made public by that platform. These platforms are controlled by other people, not us, so we are not responsible for this sharing. You should review the terms and conditions and privacy policies of the social media platforms you use to ensure you understand how they will use your information, what information relating to you they will place in the public domain and how you can stop them from doing so if you are unhappy about it. </p> <p>   Any blog, review or other posts or comments you make about us, our products and services on any of our blog, review or user community services will be shared with all other members of that service and the public at large. </p> <p>You should ensure that any comments you make on these services, and on social media in general, are fit to be read by the public, and in particular are not offensive or defamatory. You are responsible for ensuring that any comments you make comply with any relevant policy on acceptable use of those services. </p>    <p><b>5.&nbsp;&nbsp;SECURITY OF YOUR INFORMATION</b></p> <p>Information provided through the Websites is stored on our secure servers or those of any third party we engage to provide our IT platform, and is encrypted using standard technology. </p> <p>Where we have given you, or you have chosen, a password which enables you to access your account or certain parts of the Websites, you are responsible for keeping the password confidential and must not share it with anyone. You are responsible for any actions carried out using your password except where there has been fraud.</p>   <p><b>6.&nbsp;&nbsp;INTERNATIONAL TRANSFER OF YOUR INFORMATION</b></p> <p>Although we are based in the US, we occasionally need to use international suppliers to help ensure you receive the very best products and services from us as well as coordinate with our international <a href="https://www.sandhills.com/sandhills-groups" target="_blank">Sandhills Group Companies.</a></p> <p>          To allow us to run our business on this basis, the information we collect may be transferred to, stored and used at premises in countries outside the US.    When it is necessary to transfer your personal data outside the US, we will ensure appropriate safeguards are in place to protect thte privacy and integrity of such personal data. Please <a href="/info/contact-us">Contact Us</a> if you wish to obtain information concerning such safeguards. </p>  <p><b>7.&nbsp;&nbsp;HOW LONG DO WE KEEP YOUR INFORMATION FOR?</b></p> <p>In accordance with our legal data protection and privacy obligations, we will only retain your information for as long as we need it to achieve the purpose(s) for which we obtained it in the first place, as required by law, and for the exercise or defence of legal claims. We will then either securely delete it or anonymise it so that it cannot be linked back to you (see paragraph 2 for full details of those purposes). </p>   <p><b>8.&nbsp;&nbsp;MANAGING YOUR INFORMATION</b></p> <p> It is very important to us that all the information we hold about you remains accurate and up to date to reduce the risk of a misunderstanding. We need your help in doing so. If you have an online account with us, please ensure that the information (for example, contact information) you provide to us through that account remains accurate and up to date. Please review and update it regularly. </p> <p>          You have several rights in relation to your personal data under applicable privacy and data protection law, which may be subject to certain limitations and restrictions. Depending on your country of residence or domicile, you may have other legal rights over the information we collect from you and your devices.  We will honour all such legal rights.  To see other available privacy policies for other countries, please see <a href="https://www.sandhills.com/Jurisdictions" target="_blank">Jurisdictions</a>. </p> <p>       We may request proof of identification to verify your request. We reserve the right to charge you a small administration fee to meet our costs in honouring your legal rights, where permitted by the relevant law.  We reserve the right not to comply with any requests we receive where we may lawfully do so, for example if we reasonably believe a request to be malicious, technically very onerous, to involve disproportionate effort or harmful to the rights of others. </p> <p>                 If you wish to exercise any of these rights, please <a href="/info/contact-us">Contact Us</a>.   We will respond to any valid requests within the time periods required by applicable privacy and data protection law. </p> <p>        If you have any questions or complaints about our use of your information, please <a href="/info/contact-us">Contact Us</a>.  We will do our very best to answer any question and resolve any complaint to your satisfaction. </p>   <p><b>9.&nbsp;&nbsp;THIRD PARTY LINKS</b></p> <p>The Websites may contain links to the websites of third parties.  If you follow a link to any third party website, please note that these websites will have their own privacy policies and we do not accept any responsibility or liability in respect of the same.</p>   <p><b>10.&nbsp;&nbsp;CHANGES TO THIS PRIVACY NOTICE</b></p> <p>            We reserve the right to update this Privacy Notice from time to time. If we make any changes, we will post those changes here and update the “Last Updated” date at the bottom of this Privacy Notice. However, if we make material changes to Privacy Notice we will notify you by means of a prominent notice on the Website prior to the change becoming effective. Please review the Privacy Notice whenever you access or use this Website. </p>  <p><b>11.&nbsp;&nbsp;CONTACT US - UPDATING YOUR PREFERENCES AND DETAILS</b></p> <p>If you:</p> <ul class="bullet-list">             <li>have any queries, comments or complaints about this Privacy Policy; </li> <li>no longer want to participate in our services; or</li>                 <li>wish to opt out of receiving further information as referred to in paragraph 8 of this Privacy Policy, </li>                 <li>please let us know by <a href="/info/contact-us">Contacting Us.</a> </li> </ul>  <p>Please help us to keep your records up to date by notifying us of any changes to your personal details.</p> <p>     <strong>Last Updated May 23, 2018</strong> </p> <p>              <strong>Copyright 2019 © Sandhills Global, Inc.</strong> </p>
         </div>
     </div>
 </div>
 
-                    </div>
+
+<div class="our-brands">
+    <ul>
+            <li><a href="https://www.machinerytrader.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/machinery/logo-small.png"></a></li>
+            <li><a href="https://www.tractorhouse.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/tractorhouse/logo-small.png"></a></li>
+            <li><a href="https://www.truckpaper.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/truck/logo-small.png"></a></li>
+            <li><a href="https://www.marketbook.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/marketbook/logo-small.png"></a></li>
+            <li><a href="https://www.controller.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/controller/logo-small.png"></a></li>
+            <li><a href="http://hibid.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/hibid/logo-small.png"></a></li>
+            <li><a href="https://www.rentalyard.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/rentalyard/logo-small.png"></a></li>
+            <li><a href="https://www.cranetrader.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/cranetrader/logo-small.png"></a></li>
+            <li><a href="https://www.forestrytrader.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/forestrytrader/logo-small.png"></a></li>
+            <li><a href="https://www.powersystemstoday.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/powersystemstoday/logo-small.png"></a></li>
+            <li><a href="https://www.motorsportsuniverse.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/motorsportsuniverse/logo-small.png"></a></li>
+            <li><a href="https://www.rvuniverse.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/rvuniverse/logo-small.png"></a></li>
+            <li><a href="https://www.oilfieldtrader.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/oilfieldtrader/logo-small.png"></a></li>
+            <li><a href="https://www.needturfequipment.com/?gtmlt=1" target="_blank"><img src="https://media.sandhills.com/cdn/Images/Logos/needturfequipment/logo-small.png"></a></li>
+            <li><a href="https://www.otherstock.com/?gtmlt=1" target="_blank"><img src="http://media.sandhills.com/img.axd?id=5002771831&amp;wid=0&amp;rwl=False&amp;p=&amp;ext=&amp;w=0&amp;h=0&amp;t=&amp;lp=&amp;c=True&amp;wt=False&amp;sz=Max&amp;rt=0&amp;checksum=IvQ53c8zsckjoL1ByAdPlGR7NFOh2peu"></a></li>
+
+    </ul>
+
+    <a class="all-brands" href="http://www.sandhills.com/ourbrands?gtmlt=1" target="_blank">View All Brands</a>
+</div>                    </div>
                 </div>
             </div>
             <div class="push"></div>
         </div>
         <footer>
-            <div id="footer">
+                                                                        <div id="footer">
                 <div class="inner-wrap cf">
                     <div class="column12">
-Copyright © by Sandhills Publishing Company 2018. All rights reserved.                        <span class="hide-mobile">
+Copyright © by Sandhills Global, Inc. 2019. All rights reserved.                        <span class="hide-mobile">
 
 <ul class="info-links">
     <li><a href="/info/site-map">Site Map</a></li>
 
-    
-
         <li><a href="/info/dmca-policy">DMCA Policy</a></li>
-        <li><a href="/info/legal">Legal Notice</a></li>
-        <li><a href="/info/privacy-policy">Privacy Policy</a></li>
-
+    <li><a href="/info/legal">Legal Notice</a></li>
+    <li><a href="/info/privacy-policy">Privacy Policy</a></li>
     <li class="cf"><a href="/info/cookies-policy">Cookies Policy</a></li>
 
         <li><a href="/info/sms-terms-conditions">SMS Terms &amp; Conditions </a></li>
@@ -531,23 +500,21 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
 </span>
                     </div>
                 </div>
-            </div>
+                                                                                    </div>
         </footer>
     </div>
-    <nav id="sidr">
+    <nav id="sidr" class="sidr left">
         <header id="menu-header">AuctionTime</header>
-                                        
+                                                                                
 
     <ul class="registration-links">
-            <li><a href="https://www.auctiontime.com/Registration/entry.aspx?to=http%3a%2f%2fwww.auctiontime.com%2finfo%2fprivacy-policy&amp;toTLD=.com&amp;BR=1">Register</a></li>
+            <li><a href="/sso/registration?to=http%3a%2f%2fwww.auctiontime.com%2finfo%2fprivacy-policy">Register</a></li>
             <li><a href="https://www.auctiontime.com/sso/login?to=http%3a%2f%2fwww.auctiontime.com%2finfo%2fprivacy-policy">Log In</a></li>
- 
-            <li><a href="/forum" id="about_us">Forum</a></li>
-    </ul>
-  
+                    <li><a href="/forum" id="about_us">Forum</a></li>
+            </ul>
 <ul>
         <li><a href="/account"><span class="fa fa-user m-right-6"></span>My Account</a></li>
-        <li><a href="#" class="infobox-trigger" data-infobox-id="dealer-login">Dealer Login</a></li>
+            <li><a href="#" class="infobox-trigger" data-infobox-id="dealer-login">Dealer Login</a></li>
 </ul>
 
 
@@ -560,22 +527,22 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
         <a class="show_div" href="#">Select Language &nbsp; <i class="fa fa-caret-down"></i></a>
         <ul class="hide" style="display: none;">
             <li>
-                <a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.de"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/de/flag.png"> Deutsch</a>
+                <a href="https://www.auctiontime.de/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/de/flag.png"> Deutsch</a>
             </li>
             <li>
-                <a href="https://www.auctiontime.com/?keeponsite=true"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/com/flag.png"> English</a>
+                <a href="http://www.auctiontime.com/info/privacy-policy"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/com/flag.png"> English</a>
             </li>
             <li>
-                <a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.co.uk"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/uk/flag.png"> English</a>
+                <a href="https://www.auctiontime.co.uk/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/uk/flag.png"> English</a>
             </li>
             <li>
-                <a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.es"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/es/flag.png"> Espanol</a>
+                <a href="https://www.auctiontime.es/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/es/flag.png"> Espanol</a>
             </li>
             <li>
-                <a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.fr"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/fr/flag.png"> Francais</a>
+                <a href="https://www.auctiontime.fr/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/fr/flag.png"> Francais</a>
             </li>
             <li>
-                <a href="/autologin?d=17&amp;tourl=%252finfo%252fprivacy-policy%253fTLDPrefSet%253dtrue&amp;stld=.it"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/it/flag.png"> Italiano</a>
+                <a href="https://www.auctiontime.it/info/privacy-policy?TLDPrefSet=true&amp;gtmlt=1"><img class="flag-alignment" src="/Content/images/MultiLanguageImages/it/flag.png"> Italiano</a>
             </li>
         </ul>
     </li>
@@ -583,7 +550,7 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
         <a class="show_div" href="#">Home &nbsp; <i class="fa fa-caret-down"></i></a>
         <ul class="hide" style="display: none;">
             <li><a href="/">Equipment Search</a></li>
-            <li><a href="/WebListingsInput/Default.aspx?Consignment=1&amp;LP=MAT">Post Equipment</a></li>
+            <li><a href="/WebListingsInput/Default.aspx?Consignment=1&amp;LP=MAT">Sell Equipment</a></li>
             <li><a href="/info/can-i-bid">Can I Bid?</a></li>
             <li><a href="/info/how-to">How-To</a></li>
             <li>
@@ -603,7 +570,7 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
                 <a class="show_div" href="#">Auction Dates &nbsp; <i class="fa fa-caret-down"></i></a>
                 <ul class="hide" style="display: none;">
                     <li><a href="/listings/construction-equipment/auctions/online/list">Show All</a></li>
-                    <li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=8%2f22%2f2018&amp;aucdateto=8%2f22%2f2018+11%3a59%3a00+PM">August 22, 2018</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=8%2f29%2f2018&amp;aucdateto=8%2f29%2f2018+11%3a59%3a00+PM">August 29, 2018</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=9%2f5%2f2018&amp;aucdateto=9%2f5%2f2018+11%3a59%3a00+PM">September 5, 2018</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=9%2f12%2f2018&amp;aucdateto=9%2f12%2f2018+11%3a59%3a00+PM">September 12, 2018</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=9%2f19%2f2018&amp;aucdateto=9%2f19%2f2018+11%3a59%3a00+PM">September 19, 2018</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=9%2f26%2f2018&amp;aucdateto=9%2f26%2f2018+11%3a59%3a00+PM">September 26, 2018</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=11%2f14%2f2018&amp;aucdateto=11%2f14%2f2018+11%3a59%3a00+PM">November 14, 2018</a></li>
+                    <li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=7%2f10%2f2019&amp;aucdateto=7%2f10%2f2019+11%3a59%3a00+PM">July 10, 2019</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=7%2f17%2f2019&amp;aucdateto=7%2f17%2f2019+11%3a59%3a00+PM">July 17, 2019</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=7%2f24%2f2019&amp;aucdateto=7%2f24%2f2019+11%3a59%3a00+PM">July 24, 2019</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=7%2f31%2f2019&amp;aucdateto=7%2f31%2f2019+11%3a59%3a00+PM">July 31, 2019</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=8%2f7%2f2019&amp;aucdateto=8%2f7%2f2019+11%3a59%3a00+PM">August 7, 2019</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=8%2f14%2f2019&amp;aucdateto=8%2f14%2f2019+11%3a59%3a00+PM">August 14, 2019</a></li><li><a href="/listings/construction-equipment/auctions/online/list?aucdatefrom=8%2f28%2f2019&amp;aucdateto=8%2f28%2f2019+11%3a59%3a00+PM">August 28, 2019</a></li>
                 </ul>
             </li>
             
@@ -627,10 +594,10 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
                 <a class="show_div" href="#">Auction Dates &nbsp; <i class="fa fa-caret-down"></i></a>
                 <ul class="hide" style="display: none;">
                     <li><a href="/listings/farm-equipment/auctions/online/list">Show All</a></li>
-                    <li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=8%2f15%2f2018&amp;aucdateto=8%2f15%2f2018+11%3a59%3a00+PM">August 15, 2018</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=8%2f22%2f2018&amp;aucdateto=8%2f22%2f2018+11%3a59%3a00+PM">August 22, 2018</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=8%2f29%2f2018&amp;aucdateto=8%2f29%2f2018+11%3a59%3a00+PM">August 29, 2018</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=9%2f5%2f2018&amp;aucdateto=9%2f5%2f2018+11%3a59%3a00+PM">September 5, 2018</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=9%2f12%2f2018&amp;aucdateto=9%2f12%2f2018+11%3a59%3a00+PM">September 12, 2018</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=9%2f19%2f2018&amp;aucdateto=9%2f19%2f2018+11%3a59%3a00+PM">September 19, 2018</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=9%2f26%2f2018&amp;aucdateto=9%2f26%2f2018+11%3a59%3a00+PM">September 26, 2018</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=11%2f7%2f2018&amp;aucdateto=11%2f7%2f2018+11%3a59%3a00+PM">November 7, 2018</a></li>
+                    <li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=7%2f10%2f2019&amp;aucdateto=7%2f10%2f2019+11%3a59%3a00+PM">July 10, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=7%2f17%2f2019&amp;aucdateto=7%2f17%2f2019+11%3a59%3a00+PM">July 17, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=7%2f24%2f2019&amp;aucdateto=7%2f24%2f2019+11%3a59%3a00+PM">July 24, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=7%2f31%2f2019&amp;aucdateto=7%2f31%2f2019+11%3a59%3a00+PM">July 31, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=8%2f7%2f2019&amp;aucdateto=8%2f7%2f2019+11%3a59%3a00+PM">August 7, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=8%2f14%2f2019&amp;aucdateto=8%2f14%2f2019+11%3a59%3a00+PM">August 14, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=8%2f21%2f2019&amp;aucdateto=8%2f21%2f2019+11%3a59%3a00+PM">August 21, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=8%2f28%2f2019&amp;aucdateto=8%2f28%2f2019+11%3a59%3a00+PM">August 28, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=9%2f25%2f2019&amp;aucdateto=9%2f25%2f2019+11%3a59%3a00+PM">September 25, 2019</a></li><li><a href="/listings/farm-equipment/auctions/online/list?aucdatefrom=12%2f18%2f2019&amp;aucdateto=12%2f18%2f2019+11%3a59%3a00+PM">December 18, 2019</a></li>
                 </ul>
             </li>
-            <li><a href="/auction-board/farm-equipment/auctions/online/" "="">Live Auction Board</a></li>
+            
             <li><a href="/listings/farm-equipment/auctions/online/list">Farm Equipment</a></li>
             <li><a href="/listings/farm-equipment/auction-results/search">Auction Results</a></li>
             <li><a href="/WebListingsInput/Default.aspx?Consignment=1&amp;LP=TH">Post Equipment</a></li>
@@ -651,7 +618,7 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
                 <a class="show_div" href="#">Auction Dates &nbsp; <i class="fa fa-caret-down"></i></a>
                 <ul class="hide" style="display: none;">
                     <li><a href="/listings/trucks/auctions/online/list">Show All</a></li>
-                    <li><a href="/listings/trucks/auctions/online/list?aucdatefrom=8%2f22%2f2018&amp;aucdateto=8%2f22%2f2018+11%3a59%3a00+PM">August 22, 2018</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=8%2f29%2f2018&amp;aucdateto=8%2f29%2f2018+11%3a59%3a00+PM">August 29, 2018</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=9%2f5%2f2018&amp;aucdateto=9%2f5%2f2018+11%3a59%3a00+PM">September 5, 2018</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=9%2f12%2f2018&amp;aucdateto=9%2f12%2f2018+11%3a59%3a00+PM">September 12, 2018</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=9%2f19%2f2018&amp;aucdateto=9%2f19%2f2018+11%3a59%3a00+PM">September 19, 2018</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=9%2f26%2f2018&amp;aucdateto=9%2f26%2f2018+11%3a59%3a00+PM">September 26, 2018</a></li>
+                    <li><a href="/listings/trucks/auctions/online/list?aucdatefrom=7%2f10%2f2019&amp;aucdateto=7%2f10%2f2019+11%3a59%3a00+PM">July 10, 2019</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=7%2f17%2f2019&amp;aucdateto=7%2f17%2f2019+11%3a59%3a00+PM">July 17, 2019</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=7%2f24%2f2019&amp;aucdateto=7%2f24%2f2019+11%3a59%3a00+PM">July 24, 2019</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=7%2f31%2f2019&amp;aucdateto=7%2f31%2f2019+11%3a59%3a00+PM">July 31, 2019</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=8%2f7%2f2019&amp;aucdateto=8%2f7%2f2019+11%3a59%3a00+PM">August 7, 2019</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=8%2f14%2f2019&amp;aucdateto=8%2f14%2f2019+11%3a59%3a00+PM">August 14, 2019</a></li><li><a href="/listings/trucks/auctions/online/list?aucdatefrom=8%2f21%2f2019&amp;aucdateto=8%2f21%2f2019+11%3a59%3a00+PM">August 21, 2019</a></li>
                 </ul>
             </li>
             
@@ -676,7 +643,7 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
                 <a class="show_div" href="#">Auction Dates &nbsp; <i class="fa fa-caret-down"></i></a>
                 <ul class="hide" style="display: none;">
                     <li><a href="/listings/trailers/auctions/online/list">Show All</a></li>
-                    <li><a href="/listings/trailers/auctions/online/list?aucdatefrom=8%2f22%2f2018&amp;aucdateto=8%2f22%2f2018+11%3a59%3a00+PM">August 22, 2018</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=8%2f29%2f2018&amp;aucdateto=8%2f29%2f2018+11%3a59%3a00+PM">August 29, 2018</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=9%2f5%2f2018&amp;aucdateto=9%2f5%2f2018+11%3a59%3a00+PM">September 5, 2018</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=9%2f12%2f2018&amp;aucdateto=9%2f12%2f2018+11%3a59%3a00+PM">September 12, 2018</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=9%2f19%2f2018&amp;aucdateto=9%2f19%2f2018+11%3a59%3a00+PM">September 19, 2018</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=9%2f26%2f2018&amp;aucdateto=9%2f26%2f2018+11%3a59%3a00+PM">September 26, 2018</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=11%2f7%2f2018&amp;aucdateto=11%2f7%2f2018+11%3a59%3a00+PM">November 7, 2018</a></li>
+                    <li><a href="/listings/trailers/auctions/online/list?aucdatefrom=7%2f10%2f2019&amp;aucdateto=7%2f10%2f2019+11%3a59%3a00+PM">July 10, 2019</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=7%2f17%2f2019&amp;aucdateto=7%2f17%2f2019+11%3a59%3a00+PM">July 17, 2019</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=7%2f24%2f2019&amp;aucdateto=7%2f24%2f2019+11%3a59%3a00+PM">July 24, 2019</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=7%2f31%2f2019&amp;aucdateto=7%2f31%2f2019+11%3a59%3a00+PM">July 31, 2019</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=8%2f7%2f2019&amp;aucdateto=8%2f7%2f2019+11%3a59%3a00+PM">August 7, 2019</a></li><li><a href="/listings/trailers/auctions/online/list?aucdatefrom=8%2f14%2f2019&amp;aucdateto=8%2f14%2f2019+11%3a59%3a00+PM">August 14, 2019</a></li>
                 </ul>
             </li>
             
@@ -700,10 +667,10 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
                 <a class="show_div" href="#">Auction Dates &nbsp; <i class="fa fa-caret-down"></i></a>
                 <ul class="hide" style="display: none;">
                     <li><a href="/listings/all-attachments/auctions/online/list">Show All</a></li>
-                    <li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=8%2f15%2f2018&amp;aucdateto=8%2f15%2f2018+11%3a59%3a00+PM">August 15, 2018</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=8%2f22%2f2018&amp;aucdateto=8%2f22%2f2018+11%3a59%3a00+PM">August 22, 2018</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=8%2f29%2f2018&amp;aucdateto=8%2f29%2f2018+11%3a59%3a00+PM">August 29, 2018</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=9%2f5%2f2018&amp;aucdateto=9%2f5%2f2018+11%3a59%3a00+PM">September 5, 2018</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=9%2f12%2f2018&amp;aucdateto=9%2f12%2f2018+11%3a59%3a00+PM">September 12, 2018</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=9%2f19%2f2018&amp;aucdateto=9%2f19%2f2018+11%3a59%3a00+PM">September 19, 2018</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=9%2f26%2f2018&amp;aucdateto=9%2f26%2f2018+11%3a59%3a00+PM">September 26, 2018</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=10%2f3%2f2018&amp;aucdateto=10%2f3%2f2018+11%3a59%3a00+PM">October 3, 2018</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=11%2f7%2f2018&amp;aucdateto=11%2f7%2f2018+11%3a59%3a00+PM">November 7, 2018</a></li>
+                    <li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=7%2f10%2f2019&amp;aucdateto=7%2f10%2f2019+11%3a59%3a00+PM">July 10, 2019</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=7%2f17%2f2019&amp;aucdateto=7%2f17%2f2019+11%3a59%3a00+PM">July 17, 2019</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=7%2f24%2f2019&amp;aucdateto=7%2f24%2f2019+11%3a59%3a00+PM">July 24, 2019</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=7%2f31%2f2019&amp;aucdateto=7%2f31%2f2019+11%3a59%3a00+PM">July 31, 2019</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=8%2f7%2f2019&amp;aucdateto=8%2f7%2f2019+11%3a59%3a00+PM">August 7, 2019</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=8%2f14%2f2019&amp;aucdateto=8%2f14%2f2019+11%3a59%3a00+PM">August 14, 2019</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=8%2f21%2f2019&amp;aucdateto=8%2f21%2f2019+11%3a59%3a00+PM">August 21, 2019</a></li><li><a href="/listings/all-attachments/auctions/online/list?aucdatefrom=8%2f28%2f2019&amp;aucdateto=8%2f28%2f2019+11%3a59%3a00+PM">August 28, 2019</a></li>
                 </ul>
             </li>
-            <li><a href="/auction-board/all-attachments/auctions/online/" "="">Live Auction Board</a></li>
+            
             <li><a href="/Attachments">Attachments</a></li>
             <li><a href="/listings/all-attachments/auction-results/search">Auction Results</a></li>
             <li>
@@ -723,7 +690,7 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
                 <a class="show_div" href="#">Auction Dates &nbsp; <i class="fa fa-caret-down"></i></a>
                 <ul class="hide" style="display: none;">
                     <li><a href="/listings/other-items/auctions/online/list">Show All</a></li>
-                    <li><a href="/listings/other-items/auctions/online/list?aucdatefrom=8%2f22%2f2018&amp;aucdateto=8%2f22%2f2018+11%3a59%3a00+PM">August 22, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=8%2f29%2f2018&amp;aucdateto=8%2f29%2f2018+11%3a59%3a00+PM">August 29, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=9%2f5%2f2018&amp;aucdateto=9%2f5%2f2018+11%3a59%3a00+PM">September 5, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=9%2f12%2f2018&amp;aucdateto=9%2f12%2f2018+11%3a59%3a00+PM">September 12, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=9%2f19%2f2018&amp;aucdateto=9%2f19%2f2018+11%3a59%3a00+PM">September 19, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=9%2f26%2f2018&amp;aucdateto=9%2f26%2f2018+11%3a59%3a00+PM">September 26, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=10%2f3%2f2018&amp;aucdateto=10%2f3%2f2018+11%3a59%3a00+PM">October 3, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=10%2f10%2f2018&amp;aucdateto=10%2f10%2f2018+11%3a59%3a00+PM">October 10, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=10%2f17%2f2018&amp;aucdateto=10%2f17%2f2018+11%3a59%3a00+PM">October 17, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=10%2f24%2f2018&amp;aucdateto=10%2f24%2f2018+11%3a59%3a00+PM">October 24, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=10%2f31%2f2018&amp;aucdateto=10%2f31%2f2018+11%3a59%3a00+PM">October 31, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=11%2f7%2f2018&amp;aucdateto=11%2f7%2f2018+11%3a59%3a00+PM">November 7, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=11%2f14%2f2018&amp;aucdateto=11%2f14%2f2018+11%3a59%3a00+PM">November 14, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=11%2f21%2f2018&amp;aucdateto=11%2f21%2f2018+11%3a59%3a00+PM">November 21, 2018</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=11%2f28%2f2018&amp;aucdateto=11%2f28%2f2018+11%3a59%3a00+PM">November 28, 2018</a></li>
+                    <li><a href="/listings/other-items/auctions/online/list?aucdatefrom=7%2f10%2f2019&amp;aucdateto=7%2f10%2f2019+11%3a59%3a00+PM">July 10, 2019</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=7%2f17%2f2019&amp;aucdateto=7%2f17%2f2019+11%3a59%3a00+PM">July 17, 2019</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=7%2f24%2f2019&amp;aucdateto=7%2f24%2f2019+11%3a59%3a00+PM">July 24, 2019</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=7%2f31%2f2019&amp;aucdateto=7%2f31%2f2019+11%3a59%3a00+PM">July 31, 2019</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=8%2f7%2f2019&amp;aucdateto=8%2f7%2f2019+11%3a59%3a00+PM">August 7, 2019</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=8%2f14%2f2019&amp;aucdateto=8%2f14%2f2019+11%3a59%3a00+PM">August 14, 2019</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=8%2f21%2f2019&amp;aucdateto=8%2f21%2f2019+11%3a59%3a00+PM">August 21, 2019</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=8%2f28%2f2019&amp;aucdateto=8%2f28%2f2019+11%3a59%3a00+PM">August 28, 2019</a></li><li><a href="/listings/other-items/auctions/online/list?aucdatefrom=9%2f4%2f2019&amp;aucdateto=9%2f4%2f2019+11%3a59%3a00+PM">September 4, 2019</a></li>
                 </ul>
             </li>
             
@@ -752,12 +719,9 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
 <ul class="info-links">
     <li><a href="/info/site-map">Site Map</a></li>
 
-    
-
         <li><a href="/info/dmca-policy">DMCA Policy</a></li>
-        <li><a href="/info/legal">Legal Notice</a></li>
-        <li><a href="/info/privacy-policy">Privacy Policy</a></li>
-
+    <li><a href="/info/legal">Legal Notice</a></li>
+    <li><a href="/info/privacy-policy">Privacy Policy</a></li>
     <li class="cf"><a href="/info/cookies-policy">Cookies Policy</a></li>
 
         <li><a href="/info/sms-terms-conditions">SMS Terms &amp; Conditions </a></li>
@@ -767,14 +731,14 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
     </nav>
     <a class="scrollToTop" href="#"></a>
     <script src="/bundles/modernizr?v=C8C8KQpjkBiYra8ii1mNxScTY1k4wRcVVQr0YJV-pak1"></script>
-<script src="/bundles/jquery?v=qb-fNcSiBZubJgXlnli-Tzj4gv8QBzJHneLh3Lh9z_w1"></script>
+<script src="/bundles/jquery?v=TBmjpvaL47H__eOclzjDz_7zMXfO7Uyhtyq-PqAUcGA1"></script>
 <script src="/bundles/jqueryui?v=TrsvDnBFWjqAfrZvkRSfD-AoCxpZwBjTYmDEnjE5VRw1"></script>
 <script src="/Scripts/dealer-login-1.1.0.js"></script>
 <script src="/Scripts/AuctiontimeMenu.js"></script>
 
 
 
-                                    <input type="hidden" id="hCookieConsentMessage" value="We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partner.">
+                                                                            <input type="hidden" id="hCookieConsentMessage" value="We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partner.">
     <input type="hidden" id="hCookieConsentDismiss" value="Got it!">
     <input type="hidden" id="hCookieConsentLink" value="Learn More">
     <input type="hidden" id="hCookieConsentHREF" value="/info/cookies-policy">
@@ -794,10 +758,12 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
             "EventTypeID-2": "For Rent",
             "EventTypeID-20": "For Lease",
             "NoCategoriesAvailable": "No Categories Available",
-            "ExpandYourSearch": "Expand Your Search"
+            "ExpandYourSearch": "Expand Your Search",
+            "AuctionValue": "Auction Value",
+            "RetailValue": "Retail Value"
         });
         if (!window.baseCatDictionary) window.baseCatDictionary = {};
-        $.extend(window.baseCatDictionary,  {13 : 'aircraft',464 : 'farm-equipment',4 : 'construction-equipment',28 : 'trailers',27 : 'trucks',26 : 'trucks-and-trailers',40000 : 'other-items',81 : 'construction-attachment',22000 : 'farm-attachment',35000 : 'truck-trailer-attachment',125 : 'aircraft-additional-item',132 : 'truck-trailer-additional-item',2000 : 'processor',5000 : 'computerpoweruser',7000 : 'cybertrend',30000 : 'aircraft-parts-components-avionics',12001 : 'turf-equipment',1015 : 'cranes'});
+        $.extend(window.baseCatDictionary,  {13 : 'aircraft',464 : 'farm-equipment',4 : 'construction-equipment',28 : 'trailers',27 : 'trucks',26 : 'trucks-and-trailers',40000 : 'other-items',81 : 'construction-attachment',22000 : 'farm-attachment',35000 : 'truck-trailer-attachment',125 : 'aircraft-additional-item',132 : 'truck-trailer-additional-item',2000 : 'processor',5000 : 'computerpoweruser',7000 : 'cybertrend',30000 : 'aircraft-parts-components-avionics',12001 : 'turf-equipment',1015 : 'cranes',1035 : 'forestry-equipment',150000 : 'recreational-vehicles',151000 : 'motorsports',152000 : 'oil-field-equipment',153000 : 'power-systems',300100 : 'specialty-crop-equipment',1040 : 'lifts'});
         var cb = function () {
             var $head = $("head");
             var $headlinklast = $head.find("link[rel='stylesheet']:last");
@@ -821,7 +787,7 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
         $('form').preventDoubleSubmission();
         $('img.lazyload').lazyload({ effect: "fadeIn" });
         $('.pagination select, .pagination-locator select').on('change', function () { window.location = window.Overrides.listingsBaseUrl + '/info/privacy-policy?page=%23page%23'.replace("%23page%23", $(this).val()); });
-        $('.pagination-blog select-blog, .pagination-locator-blog select').on('change', function () { 
+        $('.pagination-blog select-blog, .pagination-locator-blog select').on('change', function () {
             window.location = window.Overrides.listingsBaseUrl + '/info/privacy-policy'.replace("%23page%23", $(this).val()); });
         $('.listingsortorder').on('change', function () {
             var self = $(this);
@@ -831,6 +797,24 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
                 window.location = window.Overrides.listingsBaseUrl + '/info/privacy-policy?sortorder=%23sortorder%23&SCF=False'.replace("%23sortorder%23", self.val());
             }
         });
+        $('#sort-listings').click(function () {
+            $('.sort-filter').show();
+        });
+        $(".menu-close").click(function () {
+            $(".sort-filter").hide();
+        });
+        $('.mobile-controls-sort').click(function (event) {
+            var self = event.target.id;
+            if (isNaN(self) || self == 0) {
+                window.location = window.Overrides.listingsBaseUrl + '/info/privacy-policy?SCF=True'
+            } else {
+                window.location = window.Overrides.listingsBaseUrl + '/info/privacy-policy?sortorder=%23sortorder%23&SCF=False'.replace("%23sortorder%23", self);
+            }
+        });
+
+        var height = $('.mobile-controls').height();
+        $('cc-bottom').height(height);
+        $('cc-window').height(height);
         $('.submit-on-change').on('change', function () { $(this).submit(); });
         $('.mobile-list > div > ul > li > ul').addClass('closed').click(function (event) { event.stopPropagation(); });
         $('.mobile-list > div > ul > li').each(function () {
@@ -861,26 +845,7 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
 
 
 
-        <script type="text/javascript">
-            var ExrpessCookieName = 'ShowExpressAd3';
-            if (!cookieContainsValue('UserSettings', ExrpessCookieName)) {
-                setTimeout(function () {
-                    $('.exp-pad-mobile').show();
-                    $('#pagebody').addClass("express-move-down");
-                }, 1)
-                $(".close-exp-mobile").click(function () {
-                    $(".exp-pad-mobile").hide();
-                    $('#pagebody').removeClass("express-move-down");
-                });
-            }
-            $('.close-ad').click(function () {
-                if (!cookieContainsValue('UserSettings', ExrpessCookieName)) {
-                    var cookieValue = "'" + ExrpessCookieName + '=0&' + getCookie('UserSettings') + ';path=/';
-                    document.cookie = 'UserSettings=' + cookieValue + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
-                }
-            });
-        </script>
-                                    <script type="text/javascript">
+    <script type="text/javascript">
 
         function SubmitLotNumberSearch() {
             if ($("#txtLotNum").val().split(' ').join('') != '') {
@@ -907,8 +872,10 @@ Copyright © by Sandhills Publishing Company 2018. All rights reserved.         
             }
         }
     </script>
+
     
     <script src="/bundles/jqueryval?v=-iIRmHbQb_f-QdgT9WE9dTYXd3necwI8aBmqzNjltTY1"></script>
+<script src="/bundles/CrossBranding?v=zVdE1vqlR4T7BhcbfN3gdJNU5VDH4AkcyNsmKYGDack1"></script>
 
         <script type="text/javascript">
 
