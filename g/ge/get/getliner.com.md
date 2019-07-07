@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getliner.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507083844id_/https%3A//getliner.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getliner.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707084411id_/https%3A//getliner.com/terms) for the most accurate reproduction.*
 
 # None
 
