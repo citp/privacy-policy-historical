@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolutionbeauty.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110165506id_/https%3A//www.revolutionbeauty.com/en/Privacy-Policy/cc-4.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutionbeauty.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707151207id_/https%3A//www.revolutionbeauty.com/us/Privacy-Policy/cc-4.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Revolution Beauty
 
