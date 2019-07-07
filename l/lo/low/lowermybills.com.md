@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610142438id_/https%3A//www.lowermybills.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707051331id_/https%3A//www.lowermybills.com/legal/privacy) for the most accurate reproduction.*
 
 # Our Privacy Notice - LowerMyBills.com - LowerMyBills.com
 
