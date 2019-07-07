@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627220358id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707225830id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Telecom Subscriber Engagement Solutions
 
