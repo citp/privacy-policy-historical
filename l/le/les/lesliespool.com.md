@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesliespool.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102755id_/http%3A//www.lesliespool.com/privacyandsecuritypolicies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesliespool.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707022604id_/https%3A//www.lesliespool.com/privacyandsecuritypolicies.htm) for the most accurate reproduction.*
 
 # Privacy & Security Policies
 
@@ -72,7 +72,7 @@ We disclose to third parties the personal (or other) information collected about
 You may correct or update information collected about you through any of our Sites by contacting us at the email or mailing address noted below: 
 
   * Call 1-800-537-5437 
-  * Email service@lesliespool.com 
+  * Email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * Mail your request to: Customer Service, 2005 E. Indian School Rd., Phoenix, AZ 85016 
 
 
@@ -135,7 +135,7 @@ This privacy policy only addresses Leslie’s practices for the personal (and ot
 
 ## California Privacy Rights :
 
-California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates for those entities direct marketing purposes. Leslie’s does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about Leslie’s privacy practices, please contact us at service@lesliespool.com. 
+California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates for those entities direct marketing purposes. Leslie’s does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about Leslie’s privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Video Recording :
 
@@ -162,7 +162,7 @@ We reserve the right to make changes to this privacy policy at any time, with an
 If you have any questions or comments regarding this privacy policy or any of our Sites, you can contact us by: 
 
   * Calling Customer Service at 1-800-537-5437 
-  * Emailing Customer Service at service@lesliespool.com 
+  * Emailing Customer Service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * Writing us at: Leslie’s Poolmart, Inc., 2005 E. Indian School Rd., Phoenix, AZ 85016, Attn: Chief Information Officer/Privacy Policy 
 
 
