@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the askmethod.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613024844id_/http%3A//askmethod.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmethod.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707152216id_/https%3A//askmethod.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy | ASK METHOD ® | by Ryan Levesque
+# Privacy Policy
 
-**(RL & Associates LLC, [getaskbook.com](http://getaskbook.com/), [askmethodclass.com](http://askmethodclass.com/), [askmethod.com](http://askmethod.com/))**
+**(RL & Associates LLC, [getaskbook.com](http://getaskbook.com/), [askmethodclass.com](http://askmethodclass.com/), [askmethod.com](http://askmethod.com/))**
 
 Effective: May 2018
 
-This privacy policy applies to [askmethodclass.com](http://askmethodclass.com/), [askmethod.com](http://askmethod.com/), [getaskbook.com](http://getaskbook.com/), owned and operated by RL Associates, LLC. This privacy policy tells you how we collect, use, and protect your personal information.
+This privacy policy applies to [askmethodclass.com](http://askmethodclass.com/), [askmethod.com](http://askmethod.com/), [getaskbook.com](http://getaskbook.com/), owned and operated by RL Associates, LLC. This privacy policy tells you how we collect, use, and protect your personal information.
 
-By visiting our websites [http://askmethodclass.com](http://askmethodclass.com/), [http://askmethod.com](http://askmethod.com/), [http://getaskbook.com](http://getaskbook.com/), you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+By visiting our websites [http://askmethodclass.com](http://askmethodclass.com/), [http://askmethod.com](http://askmethod.com/), [http://getaskbook.com](http://getaskbook.com/), you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
@@ -72,28 +72,26 @@ We will retain your information for as long as your account is active or as need
 
 **EU 2016/679 – GENERAL DATA PROTECTION REGULATION (GDPR) COMPLIANCE**
 
-We strive to fully comply with the new regulations set forth in the GDPR established by the EU. By accessing this Site and our products, you hereby acknowledge that we may process personal data (information relating to an identified or identifiable natural person), including but not limited to: names, addresses, telephone numbers, email addresses, credit card details, financial information, posts on social media websites, and your and others’ IP addresses. To the extent any personal data we process is governed by the GDPR, it will be treated in compliance with the GDPR. 
+We strive to fully comply with the new regulations set forth in the GDPR established by the EU. By accessing this Site and our products, you hereby acknowledge that we may process personal data (information relating to an identified or identifiable natural person), including but not limited to: names, addresses, telephone numbers, email addresses, credit card details, financial information, posts on social media websites, and your and others’ IP addresses. To the extent any personal data we process is governed by the GDPR, it will be treated in compliance with the GDPR.
 
-Specifically, any personal data we process is collected for a legal and lawful reason, including, but not limited to, providing you with a tailored experience to our website, exposure and access to and our and our affiliates’ products, and help you advance your own business. Further, we protect any personal data collected and limit nature and scope of data collected to that which is adequate, relevant and limited to what is necessary in relation to the purposes for which it is being processed (‘data minimisation’). For example, if you purchase one of our products, we will process the personal data necessary to execute your purchase of the product and allow you to subsequently access and use the product. Such personal data may include your name, mailing address, telephone number, email address, password, payment information (credit card number, bank account information), and/or IP address. 
+Specifically, any personal data we process is collected for a legal and lawful reason, including, but not limited to, providing you with a tailored experience to our website, exposure and access to and our and our affiliates’ products, and help you advance your own business. Further, we protect any personal data collected and limit nature and scope of data collected to that which is adequate, relevant and limited to what is necessary in relation to the purposes for which it is being processed (‘data minimization’). For example, if you purchase one of our products, we will process the personal data necessary to execute your purchase of the product and allow you to subsequently access and use the product. Such personal data may include your name, mailing address, telephone number, email address, password, payment information (credit card number, bank account information), and/or IP address.
 
-You have the absolute right to withdraw your consent, request erasure, and/or object to our processing of any of your personal data that we may process. Simply send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the subject line: “I hereby [withdraw my consent, and/or request reassure, and/or object] to my data being processed under the GDPR” and include in the body of your email your name. Upon receipt of your email we will cease processing your personal data. Should you desire to exercise your right to erasure or object to our processing of your personal data, please also include this request in the body of the email, and we will follow the procedures set forth in GDPR Art. 17, 18, and/or 21. Note, however, that notwithstanding your exercise of your right to withdraw, object and/or request erasure, we will not provide any refunds for products purchased beyond the deadline(s) established for the respective product(s) you purchased.
+You have the absolute right to withdraw your consent, request erasure, and/or object to our processing of any of your personal data that we may process. Simply send an email to contact@askmethod.com with the subject line: “I hereby [withdraw my consent, and/or request reassure, and/or object] to my data being processed under the GDPR” and include in the body of your email your name. Upon receipt of your email we will cease processing your personal data. Should you desire to exercise your right to erasure or object to our processing of your personal data, please also include this request in the body of the email, and we will follow the procedures set forth in GDPR Art. 17, 18, and/or 21. Note, however, that notwithstanding your exercise of your right to withdraw, object and/or request erasure, we will not provide any refunds for products purchased beyond the deadline(s) established for the respective product(s) you purchased.
 
 Upon request, pursuant to GDPR Art. 12 and 15, we agree to provide you with information regarding any of your personal data that we have processed, including the following:
 
-  1. 1\. the purposes of the processing;
-  2. 2\. the categories of personal data concerned;
-  3. 3\. the recipients or categories of recipient to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations;
-  4. 4\. where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
-  5. 5\. the existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing;
-  6. 6\. the right to lodge a complaint with a supervisory authority;
-  7. 7\. where the personal data are not collected from the data subject, any available information as to their source;
-  8. 8\. the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
+  1. the purposes of the processing;
+  2. the categories of personal data concerned;
+  3. the recipients or categories of recipient to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organizations;
+  4. where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
+  5. the existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing;
+  6. the right to lodge a complaint with a supervisory authority;
+  7. where the personal data are not collected from the data subject, any available information as to their source;
+  8. the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
 
 
 
-We will strive to provide you with this information within one (1) month of such request. We further reserve the right to charge a reasonable fee for such request and/or refuse such request pursuant to GDPR Art. 12 (5). 
-
-We take the protection of personal data seriously and not only strive to process and retain it in the safest manner possible but also, we have measures in place that detect and alert us to any data breaches that may occur, and will notify you in the unlikely event that any of your personal data is affected by any breach. Unless you have provided us explicit consent and/or you have volunteered without solicitation such personal data, we do not process any personal data that reveals your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation. 
+We take the protection of personal data seriously and not only strive to process and retain it in the safest manner possible but also, we have measures in place that detect and alert us to any data breaches that may occur, and will notify you in the unlikely event that any of your personal data is affected by any breach. Unless you have provided us explicit consent and/or you have volunteered without solicitation such personal data, we do not process any personal data that reveals your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation.
 
 **AUTORESPONDERS**
 
@@ -122,7 +120,7 @@ We also use Google Analytics Advertiser Features to optimize our business. Adver
 
 By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site.  Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order.  The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message.
 
-You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Facebook**
 
