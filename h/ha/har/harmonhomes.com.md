@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonhomes.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508081141id_/http%3A//www.harmonhomes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonhomes.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707221300id_/http%3A//www.harmonhomes.com/privacy) for the most accurate reproduction.*
 
 # Harmonhomes.com - Privacy Policy | Page | Harmonhomes.com
 
