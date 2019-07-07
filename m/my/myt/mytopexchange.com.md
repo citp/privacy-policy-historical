@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytopexchange.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118193455id_/https%3A//mytopexchange.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytopexchange.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707194553id_/https%3A//mytopexchange.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Instaforex, Instaforex Nigeria, Buy, Sell, Fund, Withdraw, Perfect Money, Bitcoin, Neteller, Webmoney, Ethereum, Litecoin in Nigeria
+# MyTopExchange | Privacy Policy
 
 This privacy policy sets out how 'R-Global Integrated Systems' uses and protects any information that you give 'Mytopexchange.com' when you use this website. 
 
