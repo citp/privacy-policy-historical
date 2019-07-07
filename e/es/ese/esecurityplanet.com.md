@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esecurityplanet.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129205649id_/http%3A//www.esecurityplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esecurityplanet.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707103311id_/https%3A//www.esecurityplanet.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
