@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231152856id_/https%3A//www.templehealth.org/privacy-hipaa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707194218id_/https%3A//landing.templehealth.org/privacy-hipaa.html) for the most accurate reproduction.*
 
 # TUHS Disclaimer Page
 
 ## Non-Discrimination Notice
 
-Temple University Hospital, Inc., Jeanes Hospital, and the American Oncologic Hospital, doing business as Fox Chase Cancer Center do not exclude participation in, and no one is denied the benefits of, the delivery of quality medical care on the basis race, ethnicity, religion, sexual orientation, gender, gender identity/expression, disability, age, ancestry, color, national origin, physical ability, level of education, or source of payment. 
+It is the policy of Temple University Hospital, Inc., Jeanes Hospital, and the American Oncologic Hospital, doing business as Fox Chase Cancer Center, that there shall be no exclusion from, or participation in, and no one denied the benefits of, the delivery of quality medical care on the basis of race, ethnicity, religion, sexual orientation, gender, gender identity/expression, disability, age, ancestry, color, national origin, physical ability, level of education, or source of payment. 
 
 ## HIPAA
 
@@ -29,7 +29,7 @@ Effective October 4, 2016
     * Temple Physicians, Inc.
     * Temple Health System Transport Team, Inc.
     * Lewis Katz School of Medicine at Temple University
-    * Temple University Physicians
+    * Temple Faculty Physicians
     * Temple University School of Dentistry
     * Temple University School of Podiatry
     * Temple University College of Allied Health Professions
@@ -129,7 +129,7 @@ You may also file a complaint regarding the Breach Notification process with the
 (215) 926-9082 
   * Temple Health System Transport Team, Inc.   
 (215) 707-8829 
-  * Temple University Physicians   
+  * Temple Faculty Physicians   
 (215) 707-4048 
   * Lewis Katz School of Medicine at Temple University   
 (215) 707-4048 
