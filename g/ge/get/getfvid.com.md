@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfvid.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615061151id_/http%3A//www.getfvid.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfvid.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708004710id_/https%3A//www.getfvid.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Getfvid.com
 
