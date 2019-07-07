@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603162353id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707095416id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
 
 # Find&Save | Privacy Policy
 
@@ -103,3 +103,10 @@ Any information that we collect is subject to the privacy policy in effect at th
 ## Questions?
 
 Please contact us at OwnLocal Inc., 205 W. 9th Street, Austin, TX 78701 or via email at [support@findnsave.com](mailto:support@findnsave.com) if you have any questions about our Privacy Policy. 
+
+Thank you! 
+
+We'll Review this offer and take the appropriate actions.  
+We appreciate you helping us make Find&Save the best shopping experience around. 
+
+\- The Find&Save Team 
