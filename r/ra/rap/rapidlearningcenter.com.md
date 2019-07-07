@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628091418id_/http%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707233757id_/http%3A//rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Learning Center
 
@@ -11,7 +11,7 @@ Toll-Free: (877) RAPID-10
 or 1-877-727-4310
 
 24/7 Online Technical Support:  
-[The Rapid Support Center](https://web.archive.org/web/20190628091418id_/http%3A//www.rapidlearningcenter.com/contact.html)
+[The Rapid Support Center](https://web.archive.org/web/20190707233757id_/http%3A//rapidlearningcenter.com/contact.html)
 
 Secure Online Order:
 
@@ -70,4 +70,4 @@ Rapid Learning Center
 Yorba Linda, CA 92887  
 [TheSupport@RapidLearningCenter.com](mailto:TheWebmaster@RapidLearningCenter.com)
 
-[](https://web.archive.org/web/20190628091418id_/http%3A//www.rapidlearningcenter.com/smart-learning.html)
+[](https://web.archive.org/web/20190707233757id_/http%3A//rapidlearningcenter.com/smart-learning.html)
