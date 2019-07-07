@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volcanodiscovery.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418185428id_/https%3A//www.volcanodiscovery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcanodiscovery.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707144523id_/https%3A//www.volcanodiscovery.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy / VolcanoDiscovery
 
@@ -33,13 +33,11 @@ Guaranteed tours:
 
 ](https://www.volcanodiscovery.com/tours/guaranteed-departures.html)
 
-**25 May - 1 Jun 2019:[Etna Discovery](https://www.volcanodiscovery.com/etna/hiking/8days/tour.html)** \- Etna volcano (Italy)
-
 _: spaces available_ / _: guaranteed_ / _: few spaces left_ / _: booked out_
 
 Random pictures
 
-|  | 
+| | 
 
 Jump to: [Contact forms](https://www.volcanodiscovery.com/privacy.html#contact) | [Newsletter](https://www.volcanodiscovery.com/privacy.html#newsletter) | [Shop](https://www.volcanodiscovery.com/privacy.html#shop) | [Cookies](https://www.volcanodiscovery.com/privacy.html#cookies) | [Third party cookies (facebook etc)](https://www.volcanodiscovery.com/privacy.html#thirdpartycookies)
 
@@ -286,14 +284,12 @@ Allow Disallow
 
 ### More on VolcanoDiscovery:
 
-[](https://www.volcanodiscovery.com/photos/raung/august2015/impressions.html)
+[](https://www.volcanodiscovery.com/earthquakes/greece.html)
 
- **[Raung volcano photos](https://www.volcanodiscovery.com/photos/raung/august2015/impressions.html)** : One of the largest and most active volcanoes in East Java, rarely-visited and relatively unknown Raung became (in)famous during its recent eruption in 2015 when its frequent ash plumes forced the repeated closure of Bali's airport.
+**[Latest quakes in Greece](https://www.volcanodiscovery.com/earthquakes/greece.html)** : Greece has a lot of earthquake activity, but most of them occur around the margin of the Aegean microplate. The Cycladic islands are located in its center and therefore seismically comparably quiet.
 
-[](https://www.volcanodiscovery.com/earthquakes/today.html)
+[](https://www.volcanodiscovery.com/earthquakes/monthly/news.html)
 
-List and interactive map of recent earthquakes world-wide.
+ **[Monthy earthquake reports](https://www.volcanodiscovery.com/earthquakes/monthly/news.html)** : For each month since July 2012, we publish a summary of quake activity world-wide: find the list of largest quake, a map showing all significant quakes as well as detailed statistics on seismic activity during this time.
 
-[](https://www.volcanodiscovery.com/tours/eruption-special.html)
-
- **[Volcano& eruption special tours](https://www.volcanodiscovery.com/tours/eruption-special.html)**: Tours dedicated to usually a single volcano currently in eruption. These trip, sometimes offered only last-minute through our newsletter, are among the most adventurous and most popular in our program.
+[](https://www.volcanodiscovery.com/volcano_news.html)
