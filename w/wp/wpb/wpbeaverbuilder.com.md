@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpbeaverbuilder.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923012448id_/https%3A//www.wpbeaverbuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpbeaverbuilder.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707093935id_/https%3A//www.wpbeaverbuilder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beaver Builder
 
