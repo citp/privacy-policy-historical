@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manpowergroup.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423022757id_/https%3A//www.manpowergroup.com/wps/wcm/connect/manpowergroup/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpowergroup.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707144729id_/https%3A//www.manpowergroup.com/wps/wcm/connect/manpowergroup/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
