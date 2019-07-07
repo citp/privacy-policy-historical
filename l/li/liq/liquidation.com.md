@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611210711id_/https%3A//www.liquidityservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707084040id_/https%3A//www.liquidityservices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liquidity Services
 
