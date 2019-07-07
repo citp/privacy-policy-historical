@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather2travel.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413205116id_/https%3A//www.weather2travel.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather2travel.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707122630id_/https%3A//www.weather2travel.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Weather2Travel.com
 
