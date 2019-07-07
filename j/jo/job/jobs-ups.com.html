@@ -1,25 +1,31 @@
-<!--The following is the downloaded HTML source of the jobs-ups.com privacy policy that was archived on 2018-08-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180825125019id_/https%3A//www.jobs-ups.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobs-ups.com privacy policy that was archived on 2019-07-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190707035205id_/https%3A//www.jobs-ups.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Learn about the types of personal information we collect on the UPS Careers website, how we use this information and with whom we may share it.">
-	<title>Privacy Notice</title>
-	<link rel="stylesheet" href="https://tbcdn.talentbrew.com/company/1187/v2_0/fancybox/jquery.fancybox.css" media="screen">
-    <link rel="stylesheet" href="//tbcdn.talentbrew.com/company/1187/css/5769-Full.css">
+    <meta name="description" content="UPS Privacy Policy">
+	<meta name="format-detection" content="telephone=no">
+	<title>UPS Privacy Policy</title>
+	
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:title" content="UPS Privacy Policy">
+        <meta property="og:description" content="UPS Privacy Policy">
+        <meta property="og:image" content="https://tbcdn.talentbrew.com/company/1187/v3_0/img/og.jpg">
+
+	<!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="https://tbcdn.talentbrew.com/company/1187/v3_0/css/magnific-popup.css">
+
+
+    <link rel="stylesheet" href="//tbcdn.talentbrew.com/company/1187/css/9469-Full.css">
     
-        <link rel="shortcut icon" href="//tbcdn.talentbrew.com/company/1187/img/favicon/favicon-5769.png" type="image/png">
-    
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KKZK89"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>document.cookie += ";HttpOnly"</script>
-    <script>document.cookie += ";secure";</script>
-    
-    <script>document.getElementsByTagName("html")[0].className = document.getElementsByTagName("html")[0].className.replace("no-js", "js");</script>
+        <link rel="shortcut icon" href="//tbcdn.talentbrew.com/company/1187/img/favicon/favicon-9469.png" type="image/png">
+    <script id="conversable-load" src="https://s3.amazonaws.com/webchat.conversable/bootstrap.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KKZK89"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>document.getElementsByTagName("html")[0].className = document.getElementsByTagName("html")[0].className.replace("no-js", "js");</script>
     <meta name="msapplication-config" content="none"> 
 
 
 
-<script type="text/javascript">
+<script>
     function addLoadEvent(func) {
         var oldonload = window.onload;
         if (typeof window.onload != 'function') {
@@ -35,9 +41,6 @@
     }
 </script>
 
-	<meta property="og:title" content="Privacy Notice">
-	<meta property="og:description" content="Learn about the types of personal information we collect on the UPS Careers website, how we use this information and with whom we may share it.">
-		<meta property="og:image" content="">
 
 
     <script src="//tbcdn.talentbrew.com/js/client/adframe.js"></script>
@@ -52,11 +55,19 @@
             a.src = g;
             m.parentNode.insertBefore(a, m);
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-        ga('create', 'UA-26015351-1', 'auto');
-        ga('require', 'displayfeatures');
+        ga('create', 'UA-26015351-1', 'auto', {allowLinker: false});
+                ga('require', 'displayfeatures');
 
 
-        addLoadEvent(function () {
+        document.addEventListener("DOMContentLoaded", function() {
+            var getCookie = function (name) {
+                var value = "; " + document.cookie;
+                var parts = value.split("; " + name + "=");
+
+                if (parts.length == 2) {
+                    return parts.pop().split(";").shift();
+                }
+            };
             function createHiddenInput(id, value) {
                 var input = document.createElement('input');
                 input.type = 'hidden';
@@ -70,9 +81,9 @@
 
                 createHiddenInput('dimension3', '1187');
                 createHiddenInput('dimension4', '1187');
-                createHiddenInput('dimension8', 'Privacy Notice');
+                createHiddenInput('dimension8', 'UPS Privacy Policy');
 	               createHiddenInput('dimension10', 'ContentPage');
-                createHiddenInput('dimension11', 'Other;140265;Content');
+                createHiddenInput('dimension11', 'null;205211;Content');
                 sendCustomDimensions();
 
 
@@ -121,20 +132,29 @@
                 dimensionsToSend["dimension12"] = adBlockerStatus;
                 createHiddenInput('dimension12', adBlockerStatus);
 
-                if (typeof Cookies.get("SearchVisitorId") != 'undefined') {
-                    var visitorIdCookieData = Cookies.getJSON("SearchVisitorId");
-                    if (visitorIdCookieData.length > 0) {
-                        dimensionsToSend["dimension15"] = visitorIdCookieData;
-                        createHiddenInput('dimension15', visitorIdCookieData);
-                    }
+
+                var visitorIdCookieData = getCookie('SearchVisitorId');;
+
+                if (typeof visitorIdCookieData != 'undefined' && visitorIdCookieData.length > 0) {
+                    dimensionsToSend["dimension15"] = visitorIdCookieData;
+                    createHiddenInput('dimension15', visitorIdCookieData);
                 }
 
-                if (typeof Cookies.getJSON("SearchSessionId") == 'object') {
-                    var sessionIdCookieData = Cookies.getJSON("SearchSessionId");
+                var sessionIdCookieData = getCookie('SearchSessionId');
+                var sessionIdCookieDataObject;
+                try {
+                    sessionIdCookieDataObject = JSON.parse(sessionIdCookieData);
+                } catch (e) {
+                }
+                if (typeof sessionIdCookieDataObject == "object") {
                     dimensionsToSend["dimension16"] = sessionIdCookieData.SearchSessionId;
                     createHiddenInput('dimension16', sessionIdCookieData.SearchSessionId);
                 }
-
+                if (typeof sessionIdCookieData === 'undefined') {
+                    createHiddenInput('dimension17', 'null');
+                } else {
+                    createHiddenInput('dimension17', sessionIdCookieDataObject.Created);
+                }
                 var dimension17Element = document.getElementById("dimension17");
                 if (document.getElementById("dimension17") != undefined) {
                     dimensionsToSend["dimension17"] = (dimension17Element.value == "null" ? "null" : parseInt(dimension17Element.value).toString());
@@ -148,56 +168,129 @@
     </script>
 
 
-    
-    <!-- Hotjar Tracking Code for https://www.jobs-ups.com/ -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:790734,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script><script async="" src="https://static.hotjar.com/c/hotjar-790734.js?sv=6"></script>
-    
-</head>
-<body id="privacy" data-site-geolocation="true" data-location-geotype="none" data-geolocation-url="/search-jobs/SetSearchRequestGeoLocation">
-    <!-- Facebook SDK for Facebook Chatbot -->
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId            : '1121862697845699',
-          autoLogAppEvents : true,
-          xfbml            : true,
-          version          : 'v3.0'
-        });
-      };
-    
-      (function(d, s, id){
-         var js, fjs = d.getElementsByTagName(s)[0];
-         if (d.getElementById(id)) {return;}
-         js = d.createElement(s); js.id = id;
-         js.src = "https://connect.facebook.net/en_US/sdk.js";
-         fjs.parentNode.insertBefore(js, fjs);
-       }(document, 'script', 'facebook-jssdk'));
-    </script>
-    
-    <!-- Load Facebook SDK for JavaScript -->
-        <div id="fb-root"></div>
-        <script>(function(d, s, id)
-        { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1'; fjs.parentNode.insertBefore(js, fjs); }
+    <!--mp_linkcode_begins--> 
         
-        (document, 'script', 'facebook-jssdk'));</script>
+<!--        <script src="https://tbcdn.talentbrew.com/company/1187/v3_0/js/mp_linkcode.js"></script> -->
+    <!--mp_linkcode_ends--> 
+    <!--– mp_snippet_begins -->
+<!--<script>-->
+<!--MP.UrlLang='mp_js_current_lang';-->
+<!--MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');-->
+<!--MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');-->
+<!--MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');-->
+<!--MP.init();-->
+<!--</script>-->
+<!--– mp_snippet_ends -->
 
-        <!-- Your customer chat code -->
-        <div class="fb-customerchat" attribution="install_email" page_id="93397977942" theme_color="#0084ff">
-        </div>
-    <!-- End of Facebook SDK for Facebook Chatbot -->
+
+   
+
+</head>
+<body id="privacy" class="" data-site-geolocation="true" data-location-geotype="ip2ifnohtml5" data-geolocation-url="/search-jobs/GetSearchRequestGeoLocation">
+    <div class="ups-body"> 
+
+    <!--Old Chatbot Code-->
+    <!--<div-->
+    <!--            data-api_url="https://webchat.conversable.com"-->
+    <!--            data-config_id="7640d88e-9990-4b0a-8d27-f34556087780"-->
+    <!--            data-title="UPSJobs Chatbot"-->
+    <!--            data-greeting_title="UPSjobs Chatbot"-->
+    <!--            data-greeting_subtitle="Click here to chat"-->
+    <!--            data-greeting_cta="Hi, I'm the UPSjobs Chatbot"-->
+    <!--            data-greeting_ref="Title"-->
+    <!--            data-primary_color="#4a90e2"-->
+    <!--            data-secondary_color="#ffffff"-->
+    <!--            data-logo="https://s3.amazonaws.com/demo-assets.conversable/editor/2737b689-59f4-49d9-a273-4b1585550613"-->
+    <!--            data-locale="en-us"-->
+    <!--            data-greeting_initial_display="true"-->
+    <!--            id="conversable-chat"></div>-->
+    <!--          <script>(function(con, vers, able) {-->
+    <!--            var js, fjs = con.getElementsByTagName(vers)[0];-->
+    <!--            if (con.getElementById(able)) return;-->
+    <!--            js = con.createElement(vers); js.id = able;-->
+    <!--            js.src = 'https://s3.amazonaws.com/webchat.conversable/bootstrap.js';-->
+    <!--            fjs.parentNode.insertBefore(js, fjs);-->
+    <!--        }(document, 'script', 'conversable-load'));</script>-->
     
+      <!--New Chatbot Code-->
+    <!--div
+                data-api_url="https://webchat.conversable.com"
+                data-config_id="c7548a86-05b2-4153-876d-7e4ca1145f7f"
+                data-title="UPSJobs Chatbot"
+                data-greeting_title="UPSjobs Chatbot"
+                data-greeting_subtitle="Click here to chat"
+                data-greeting_cta="Hi, I'm the UPSjobs Chatbot"
+                data-greeting_ref="Title"
+                data-primary_color="#4a90e2"
+                data-secondary_color="#ffffff"
+                data-logo="https://s3.amazonaws.com/demo-assets.conversable/editor/2a5685e4-9311-4283-baf4-fb10c5381ab4"
+                data-locale="en-us"
+                data-greeting_initial_display="true"
+                id="conversable-chat"></div>
+              <script>(function(con, vers, able) {
+                var js, fjs = con.getElementsByTagName(vers)[0];
+                if (con.getElementById(able)) return;
+                js = con.createElement(vers); js.id = able;
+                js.src = 'https://s3.amazonaws.com/webchat.conversable/bootstrap.js';
+                fjs.parentNode.insertBefore(js, fjs);g
+            }(document, 'script', 'conversable-load'));</script>
+-->
+     <!--New Chatbot Code provided 10/18-->
+    <!--<div-->
+    <!--            data-api_url="https://webchat.conversable.com"-->
+    <!--            data-config_id="c7548a86-05b2-4153-876d-7e4ca1145f7f"-->
+    <!--            data-title="UPSJobs Chatbot"-->
+    <!--            data-greeting_title="UPSjobs Chatbot"-->
+    <!--            data-greeting_subtitle="Click here to chat"-->
+    <!--            data-greeting_cta="Hi, I'm the UPSjobs Chatbot"-->
+    <!--            data-greeting_ref="Title"-->
+    <!--            data-primary_color="#4a90e2"-->
+    <!--            data-secondary_color="#ffffff"-->
+    <!--            data-logo="https://s3.amazonaws.com/demo-assets.conversable/editor/2a5685e4-9311-4283-baf4-fb10c5381ab4"-->
+    <!--            data-locale="en-us"-->
+    <!--            data-greeting_initial_display="true"-->
+    <!--            id="conversable-chat"></div>-->
+    <!--          <script>(function(con, vers, able) {-->
+    <!--            var js, fjs = con.getElementsByTagName(vers)[0];-->
+    <!--            if (con.getElementById(able)) return;-->
+    <!--            js = con.createElement(vers); js.id = able;-->
+    <!--            js.src = 'https://s3.amazonaws.com/webchat.conversable/bootstrap.js';-->
+    <!--            fjs.parentNode.insertBefore(js, fjs);-->
+    <!--        }(document, 'script', 'conversable-load'));</script>-->
+
+    <!--- Chatbot Script approved
+    <div
+                data-api_url="https://webchat.conversable.com"
+                data-config_id="c7548a86-05b2-4153-876d-7e4ca1145f7f"
+                data-title="UPSJobs Chatbot"
+                data-greeting_title="UPSjobs Chatbot"
+                data-greeting_subtitle="Click here to chat"
+                data-greeting_cta="Hi, I'm the UPSjobs Chatbot"
+                data-greeting_ref="Title"
+                data-primary_color="#4a90e2"
+                data-secondary_color="#ffffff"
+                data-logo="https://s3.amazonaws.com/demo-assets.conversable/editor/a40e94fb-d173-447b-af34-b0626c7360b8"
+                data-locale="en-us"
+                data-greeting_initial_display="true"
+                id="conversable-chat"></div>
+              <script>(function(con, vers, able) {
+                var js, fjs = con.getElementsByTagName(vers)[0];
+                if (con.getElementById(able)) return;
+                js = con.createElement(vers); js.id = able;
+                js.src = 'https://s3.amazonaws.com/webchat.conversable/bootstrap.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'conversable-load'));</script> -->
+
+
+
+     
+ 
 	
 
-<input id="icinga2-client-host" name="icinga2-client-host" type="hidden" value="www.jobs-ups.com"><input id="icinga2-machine-name" name="icinga2-machine-name" type="hidden" value="BREWWEB17P"><input id="get-tracking-site-type" name="get-tracking-site-type" type="hidden" value="1"><input id="get-tracking-orgnaic-tags" name="get-tracking-orgnaic-tags" type="hidden" value="[{&quot;Domain&quot;:&quot;bing.com&quot;,&quot;Name&quot;:&quot;Bing&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.273830.BING.COM/B9640211.130788209;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;facebook.com&quot;,&quot;Name&quot;:&quot;Facebook&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.152606.FACEBOOK.COM/B9640211.130788211;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;glassdoor.com&quot;,&quot;Name&quot;:&quot;Glassdoor&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.715587.GLASSDOOR.COM/B9640211.130788208;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.com&quot;,&quot;Name&quot;:&quot;Google&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9640211.130788213;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;indeed.com&quot;,&quot;Name&quot;:&quot;Indeed&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Indeed/B9640211.130788214;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;simplyhired.com&quot;,&quot;Name&quot;:&quot;SimplyHired&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Simply_Hired/B9640211.130788215;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;linkedin.com&quot;,&quot;Name&quot;:&quot;LinkedIn&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.466581LINKEDIN.COM/B9640211.130788216;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;yahoo.com&quot;,&quot;Name&quot;:&quot;Yahoo&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.285959.YAHOO.COM/B9640211.130788210;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.ca&quot;,&quot;Name&quot;:&quot;Google Canada&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1324844GOOGLE.CA/B9640211.130788217;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;t.co&quot;,&quot;Name&quot;:&quot;Twitter&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1864118TWITTER.COM/B9640211.130788212;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false}]"><input id="get-tracking-optimized-tracking" name="get-tracking-optimized-tracking" type="hidden" value="True"><input id="search-client-type" name="search-client-type" type="hidden" value="1"><input id="search-visitor-id" name="search-visitor-id" type="hidden" value="SearchVisitorId"><input id="search-session-id" name="search-session-id" type="hidden" value="SearchSessionId">
+<input id="site-page-timestamp" name="site-page-timestamp" type="hidden" value="7/6/2019 11:52:06 PM"><input id="icinga2-client-host" name="icinga2-client-host" type="hidden" value="www.jobs-ups.com"><input id="icinga2-machine-name" name="icinga2-machine-name" type="hidden" value="BREWWEB19P"><input id="get-tracking-site-type" name="get-tracking-site-type" type="hidden" value="1"><input id="get-tracking-orgnaic-tags" name="get-tracking-orgnaic-tags" type="hidden" value="[{&quot;Domain&quot;:&quot;bing.com&quot;,&quot;Name&quot;:&quot;Bing&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.273830.BING.COM/B9640211.130788209;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;facebook.com&quot;,&quot;Name&quot;:&quot;Facebook&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.152606.FACEBOOK.COM/B9640211.130788211;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;glassdoor.com&quot;,&quot;Name&quot;:&quot;Glassdoor&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.715587.GLASSDOOR.COM/B9640211.130788208;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.com&quot;,&quot;Name&quot;:&quot;Google&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9640211.130788213;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;indeed.com&quot;,&quot;Name&quot;:&quot;Indeed&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Indeed/B9640211.130788214;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;simplyhired.com&quot;,&quot;Name&quot;:&quot;SimplyHired&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Simply_Hired/B9640211.130788215;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;linkedin.com&quot;,&quot;Name&quot;:&quot;LinkedIn&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.466581LINKEDIN.COM/B9640211.130788216;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;yahoo.com&quot;,&quot;Name&quot;:&quot;Yahoo&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.285959.YAHOO.COM/B9640211.130788210;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.ca&quot;,&quot;Name&quot;:&quot;Google Canada&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1324844GOOGLE.CA/B9640211.130788217;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;t.co&quot;,&quot;Name&quot;:&quot;Twitter&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1864118TWITTER.COM/B9640211.130788212;sz=1x1;ord=1234567890?' BORDER=0 WIDTH=1 HEIGHT=1 ALT=''>&quot;,&quot;IsExclusive&quot;:false}]"><input id="get-tracking-optimized-tracking" name="get-tracking-optimized-tracking" type="hidden" value="True"><input id="search-client-type" name="search-client-type" type="hidden" value="1"><input id="search-visitor-id" name="search-visitor-id" type="hidden" value="SearchVisitorId"><input id="search-session-id" name="search-session-id" type="hidden" value="SearchSessionId"><input id="site-tenant-id" name="site-tenant-id" type="hidden" value="1187">
+
+<!-- Do nothing if siteKey and personalization FE url don't exist -->
+
     <script>
         (function() {
             var gtmValues = {};
@@ -249,9 +342,8 @@
 
                 gtmValues["OrgID"] = '1187';
                 gtmValues["tbcn-division"] = '1187';
-                gtmValues["tbcn-contenttitle"] = 'Privacy Notice';
+                gtmValues["tbcn-contenttitle"] = 'UPS Privacy Policy';
                 gtmValues["pagetype"] = 'ContentPage';
-                    gtmValues['contentpage'] = Other;140265;Content;
 
 
 
@@ -262,7 +354,9 @@
             if (typeof visitorIdCookieData != 'undefined' && visitorIdCookieData.length > 0) {
                 gtmValues['visitorID'] = visitorIdCookieData;
             } else {
-                var expires = new Date().getMilliseconds() + 365 * 864e+5;
+                var date = new Date();
+                date.setTime(date.getTime() + (365 * 864e+5));
+                var expires = date.toGMTString();
                 var visitorId = uuidv4();
                 document.cookie = "SearchVisitorId=" + visitorId + "; expires=" + expires + "; path=/";
                 gtmValues['visitorID'] = visitorId;
@@ -307,63 +401,164 @@
     <!-- End Google Tag Manager -->
 
 	<div id="page">
-	<a id="skip-nav" class="access-link" href="#content">Skip Navigation</a>
+	
+	<a id="skip-nav" class="access-link" href="#content">Skip to main content</a>
     
-    <header>
-        <div class="top-bar"><a href="https://ups.managehr.com/candidate">Click here to Complete Your Application and other Employment Documents</a></div>
-        <div class="menu-bar wrapper">
-                    <a href="/" class="logo"><img src="//tbcdn.talentbrew.com/company/1187/img/logo/logo-5769-6384.png" alt="UNITED PARCEL SERVICE"></a>
+	    <header class="js-ajd-also-sticky">
+	        <p class="no-js-warning">This site functions best with JavaScript. Please enable JavaScript in your browser to experience all that this site has to offer.</p>
 
-<nav>
-    <button class="menu-toggle js-resize" aria-label="Menu" aria-pressed="false">
-          <span class="line"></span>
-          <span class="line"></span>
-          <span class="line"></span>
-    </button>
-    
-    <ul class="link-list" aria-expanded="false">
-                    <li><a href="/">Home</a></li>
-                <li data-expandable="true" class="link-group">
-                    <button class="expandable-parent">Career Areas</button>
-                    <ul class="sub-nav" aria-hidden="true" aria-expanded="false">
-                            <li><a href="/parttime">Part-time Seasonal &amp; Hourly</a></li>
-                            <li><a href="/drivers">Drivers &amp; Mechanics</a></li>
-                            <li><a href="/professional">Professional Roles</a></li>
-                    </ul>
-                </li>   
-                    <li><a href="/working-at-ups">Working at UPS</a></li>
-                    <li><a href="//pressroom.ups.com/pressroom/Home.page" target="_blank">About UPS</a></li>
-        <li class="change-location mobile-only">
-            <span>United States</span>
-            <a href="/location">Change Location</a>
-        </li>
+	        <div class="wrapper">
+	                
+<nav id="utility-nav" aria-label="utility">
+    <ul>
+        <li class="nav-change-location"><a href="/location">United States: <span>change location</span></a></li>
+        <li class="nav-button-wrapper"><button class="js-popup ja-link" data-popup="ja-form" data-custom-event="true" data-custom-category="Custom Event" data-custom-label="MEGNAV - Job Alert button">Get Job Alerts</button></li>
+        <li class="nav-button-wrapper"><a class="saved-jobs-link" href="/saved-jobs" data-custom-event="true" data-custom-category="Custom Event" data-custom-label="MEGNAV - Your saved jobs button">Saved Jobs</a></li>
+        <li class="nav-returning-user"><a href="https://ups.managehr.com/candidate/cookietest.aspx?check=True">Complete Your Application: <span>Login</span></a></li>
     </ul>
 </nav>
-<div class="extended-nav">
-    <button class="search-toggle" aria-pressed="false">Search Jobs</button>
+    <a href="/" class="logo"><img src="//tbcdn.talentbrew.com/company/1187/img/logo/logo-9469-10412.svg" alt="UNITED PARCEL SERVICE"></a>
+
+
+
+<nav id="site-nav" aria-label="site">
+
+  <!--<nav id="utility-nav" aria-label="utility">-->
+
+  <!--  <ul>-->
+  <!--    <li class="nav-change-location"><a href="/location">United States: <span>change location</span></a></li>-->
+  <!--    <li class="nav-contact"><a href="/contact-us">Contact Us</a></li>-->
+  <!--    <li class="nav-returning-user"><a href="https://ups.managehr.com/candidate/cookietest.aspx?check=True">Returning User: <span>Login</span></a></li>-->
+  <!--  </ul>-->
+
+
+  <!--</nav>-->
+  
+
+   
+<nav id="primary-nav" aria-label="primary">
+ 
+    <ul class="primary-nav-items">
+
+          <li class="nav-change-location"><a href="/location">United States: <span>change location</span></a></li>
+          
+          <li class="nav-careers"><a href="/" class="primary-nav-parent" aria-expanded="false">Jobs/Careers</a>
+          
+            <ul class="primary-nav-items primary-nav-child">
+           
+              <li class="nav-sub">
+                <div class="js-dropdown">
+                
+                    <h2>Job Types</h2>
+                    <button aria-expanded="false" class="primary-nav-parent">Job Types</button>
+                    <ul class="js-reveal" hidden="">
+                        <li><a href="/category/part-time-jobs/1187/12137/1">Part-Time</a></li>
+            			<li><a href="/category/full-time-jobs/1187/62255/1">Full-Time</a></li>
+            			<li><a href="/category/seasonal-jobs/1187/12811/1">Seasonal</a></li>
+                    </ul>
+                </div>  
+              </li>
+              
+              
+              <li class="nav-sub">
+                <div class="js-dropdown">
+                    <h2>Delivery&nbsp;&amp;&nbsp;Warehouse</h2>
+                    <button aria-expanded="false">Delivery&nbsp;&amp;&nbsp;Warehouse</button>
+                    <ul class="js-reveal" hidden="">
+                        <li><a href="/drivers">All Drivers</a></li>
+            			<li><a href="/category/delivery-driver-jobs/1187/4674/1">Package Delivery Driver</a></li>
+            			<li><a href="/category/package-handler-part-time-jobs/1187/4675/1">Package Handler (PT)</a></li>
+            			<li><a href="/warehouse-search">Warehouse (FT) </a></li>
+                    </ul>
+                </div>
+              </li>
+              
+              
+              <li class="nav-sub">
+                <div class="js-dropdown">
+                    <h2>Technicians &amp; Fleet</h2>
+                    <button aria-expanded="false">Technicians &amp; Fleet</button>
+                    <ul class="js-reveal" hidden="">
+                        <li><a href="/fleet-services">Automotive</a></li>
+            			<li><a href="/category/plant-technician-jobs/1187/62249/1">Plant</a></li>
+            			<li><a href="/category/aircraft-maintenance-technicians-jobs/1187/62250/1">Air</a></li>
+            			<li><a href="/category/automotive-fleet-supervisor-jobs/1187/62224/1">Automotive Fleet Supervisor</a></li>
+                    </ul>
+                </div>  
+              </li>
+              
+              
+              <li class="nav-sub">
+                <div class="js-dropdown">
+                    <h2>Engineering</h2>
+                    <button aria-expanded="false">Engineering</button>
+                    <ul class="js-reveal" hidden="">
+                        <li><a href="/engineering">All Engineers</a></li>
+            			<li><a href="/search-jobs/Industrial%20Engineering/1187/1?glat=40.7023010253906&amp;glon=-74.010498046875">Industrial Engineering</a></li>
+            			<li><a href="/category/plant-engineering-jobs/1187/21082/1">Plant Engineering</a></li>
+            			<li><a href="/engineering-internships">Engineering Internships</a></li>
+                    </ul>
+                </div>  
+              </li>
+              
+              
+              <li class="nav-sub">
+                <div class="js-dropdown">
+                    <h2>Corporate</h2>
+                    <button class="last-heading" aria-expanded="false">Corporate</button>
+                    <ul class="js-reveal" hidden="">
+                        <li><a href="/customer-solutions">Customer Solutions</a></li>
+            			<li><a href="/category/finance-accounting-and-tax-jobs/1187/4652/1">Finance</a></li>
+            			<li><a href="/global-business-services">Global Business Services</a></li>
+            			<li><a href="/it-careers">IT</a></li>
+            			<li><a href="/marketing">Marketing</a></li>
+            			<li><a class="last-link" href="/sales">Sales</a></li>
+                    </ul>
+                </div>  
+              </li>
+            </ul>
+          </li>
+          
+          <li class="nav-life"><a href="/life-at-ups">Life at UPS</a></li>
+          <li class="nav-faq"><a href="/faq" class="no-uppercase">FAQs</a></li>
+          <li class="nav-military"><a href="https://military.jobs-ups.com/">Military</a></li>
+          <li class="nav-button-wrapper"><button class="js-popup ja-link" data-popup="ja-form">Get Job Alerts</button></li>
+          <li class="nav-button-wrapper"><a class="saved-jobs-link" href="/saved-jobs">Your Saved Jobs</a></li>
+    
+    </ul>
+
+</nav>
+
+</nav>
+
+	        </div>
+	        
+        	<div id="search-linkedin-wrapper">
         
-    <div class="change-location desktop-only">
-        <span>United States</span>
-        <a href="/location">Change Location</a>
-    </div>
-</div>
+                <button id="job-search-button" type="button" aria-expanded="false">Search Jobs</button>
+            
+                <div id="job-search-container">     
+                    
 
 
+<form id="search-form-11fd776a6c" class="search-form" data-handle="expandable-toggle" data-expandable="false" action="/search-jobs" data-selector-name="searchform" data-filtered-categories="" data-location-geotype="ip2ifnohtml5" data-geolocation-url="/search-jobs/GetSearchRequestGeoLocation" data-module-name="Search Form" data-limited-facets="False" data-default-radius="15" data-location-cookie-lifespan="5" data-use-location-pin="true" data-ambient-search="true">
+	<button aria-expanded="false" class="search-toggle expandable-toggle">Search Jobs</button>
 
-
-<form id="search-form-7713927cc9" class="search-form" action="/search-jobs" data-selector-name="searchform" data-filtered-categories="" data-location-geotype="none" data-geolocation-url="/search-jobs/SetSearchRequestGeoLocation" data-module-name="Search Form" data-limited-facets="False" data-default-radius="15" data-location-cookie-lifespan="5" data-use-location-pin="true" data-handle="expandable-toggle" data-expandable="false">
-	<!--<a href="#search-form-fields" class="search-toggle expandable-toggle" aria-expanded="false">Search Jobs<span></span></a>-->
-	<div class="search-form-fields" aria-expanded="false">
-	    <div class="search-form-wrapper">
-    	    <h2>Search Jobs</h2>
-            <p>
-                <label for="search-location-7713927cc9">Location</label>
-    		    <input type="text" id="search-location-7713927cc9" class="search-location" autocomplete="off" placeholder="City, State, Postal Code, etc." name="l" value="" maxlength="150" data-lat="" data-lon="" data-kt="" data-lt="" data-lp="" data-ajax-url="/search-jobs/locations?term=" data-country-codes="" data-display-typeahead="true" data-error-message="Please try again. Choose a location from the suggestions or clear the field to submit your search.">
-                    <input type="button" id="search-location-pin-7713927cc9" class="location-pin" value="Use Location" aria-hidden="true">
-    		</p>
-            <p>
-    		    <label for="search-radius-7713927cc9">Radius</label>
-    	        <select class="search-radius" id="search-radius-7713927cc9" name="r"><option value="">Select a radius</option>
+	<div class="search-form-fields">
+	    <div class="wrapper-padded">
+	<h2 class="mobile-only">Search Jobs</h2>
+        <p>
+		    <label for="search-keyword-11fd776a6c">Keyword</label>
+		    <input type="search" id="search-keyword-11fd776a6c" class="search-keyword" placeholder="Drivers, Sales, etc." autocomplete="off" required="" aria-required="true" name="k" value="" maxlength="150">
+        </p>
+        <p>
+            <label for="search-location-11fd776a6c">Location</label>
+		    <input type="text" id="search-location-11fd776a6c" class="search-location" placeholder="City, State, or Postal Code" autocomplete="off" name="l" value="" maxlength="150" data-lat="" data-lon="" data-kt="" data-lt="" data-lp="" data-ajax-url="/search-jobs/locations?term=" data-country-codes="" data-display-typeahead="true" data-error-message="Please try again. Choose a location from the suggestions or clear the field to submit your search." data-first-on-enter="true">
+                <input type="button" id="search-location-pin-11fd776a6c" class="location-pin" value="Use Location" aria-hidden="true">
+		</p>
+		        <p class="radius">
+		    <label for="search-radius-11fd776a6c">Radius</label>
+	        <select class="search-radius" id="search-radius-11fd776a6c" name="r"><option value="">select</option>
 <option value="5">5 miles</option>
 <option value="15">15 miles</option>
 <option value="25">25 miles</option>
@@ -372,84 +567,64 @@
 <option value="75">75 miles</option>
 <option value="100">100 miles</option>
 </select>
-    		</p>
-    		<p>
-    		    <label for="search-keyword-7713927cc9">Keyword (Optional)</label>
-    		    <input type="search" id="search-keyword-7713927cc9" class="search-keyword" placeholder="Drivers, Sales, etc." autocomplete="off" required="" aria-required="true" name="k" value="" maxlength="150">
-            </p>
-            <input id="search-org-ids-7713927cc9" name="orgIds" type="hidden" value="1187">
-            <button id="search-submit-7713927cc9">Search Jobs</button>
-    		<p class="search-location-error" aria-hidden="true"></p>
-		</div>
+		</p>
+        <input id="search-org-ids-11fd776a6c" name="orgIds" type="hidden" value="1187"><input id="search-radius-unit-11fd776a6c" name="radiusUnit" type="hidden" value="miles">
+        <button id="search-submit-11fd776a6c">Search</button>
+		<p class="search-location-error" aria-hidden="true"></p>
 	</div>
-</form> 
+	
+	<!-- this will need to be taken out totally -->
+	
+	
+	<!--a class="linkedin-link" data-callout-action="job matching" data-target="LinkedIn Job Matching" data-selector-name="calloutactionlink" href="/job-match/191836">
+    Match your LinkedIn profile to UPS jobs
+    </a-->
+    
 
-<div class="linkedin-wrapper search-form-fields" aria-expanded="false">
-    <a data-callout-action="job matching" data-target="LinkedIn Job Matching Proper" data-selector-name="calloutactionlink" href="/job-match/140246">
-    <img src="//tbcdn.talentbrew.com/company/1187/v2_0/img/white-linkedin-logo.png" alt="LinkedIn logo" width="40" height="40">
-    <h2>Match UPS jobs to your LinkedIn profile.</h2>
-        
+    
+	</div>
+</form>
+    <a class="linkedin-link" data-callout-action="job matching" data-target="LinkedIn Job Matching" data-selector-name="calloutactionlink" href="/job-match/205209">
+    Match your LinkedIn profile to UPS jobs
     </a>
-</div>
 
 
-        </div>
-    </header>
-
-    
-    
-    <div class="banner"></div>	    
-
+                </div>
+            </div>
+	    </header>
+	    
 	<main id="content">
 		
 
-    
-    
-    
 
 
-    
-<div class="banner-intro ">
-    <div class="wrapper">
 
-        
-            
-            <div class="center-me">
-                <div class="banner-box">
-                    <h1><span class="i">UPS: Careers Privacy Notice</span></h1>
-                    <!--<span>Get There</span>-->
-                </div>
+        <div id="utility-banner">
+            <div class="headline-spacer">
+                <h1 class="center-headline">Privacy Policy</h1>
             </div>
-            <p class="banner-info"></p>
-            
-        
-
-    </div>
-</div>
-
-
-
+        </div>
  
 
 
 
+<div class="intro-text orange-line">
+    <div class="wrapper-padded">
+        <p>We at United Parcel Service, Inc., along with our subsidiaries and affiliates (collectively, “UPS”), respect your concerns about privacy. This Careers Privacy Notice describes the types of personal information we collect on the UPS Careers websites (the “Careers Sites”), how we may use the information and with whom we may share it. The notice also describes the measures we take to safeguard the personal information. In addition, we tell you how you can ask us to (i) access or change the personal information we maintain about you, (ii) refrain from sending you certain communications, and (iii) answer questions you may have about our privacy practices.</p>
+    </div>
+</div>
 
+<section class="universal-accordion">
 
+     <div class="wrapper-padded">
 
-<section class="wrapper intro">
-	<p>We at United Parcel Service, Inc., along with our subsidiaries and affiliates (collectively, “UPS”), respect your concerns about privacy. This Careers Privacy Notice describes the types of personal information we collect on the UPS Careers websites (the “Careers Sites”), how we may use the information and with whom we may share it. The notice also describes the measures we take to safeguard the personal information. In addition, we tell you how you can ask us to (i) access or change the personal information we maintain about you, (ii) refrain from sending you certain communications, and (iii) answer questions you may have about our privacy practices.</p>
-</section>
+		<h2>Hiring Process</h2>
 
-<div class="full-width-text">
-    <h2>Hiring Process</h2>
-    
-    <ul class="question-list">
-    
-        <li><a class="question-toggle color2-bg" tabindex="0">Information We Obtain</a>
-            <div class="question-dropdown hide1" tabindex="0">
+        <div class="js-accordion accordion" data-accordion-multiselectable="none">
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">Information We Obtain</h2>
                 <p>You may choose to provide personal information (such as name and contact details) through our Careers Sites. The types of personal information you may provide include:</p>
-                
-                <ul class="banked-list">
+                <ul>
                     <li>Individual and business contact information (such as name, physical address, email address, and telephone or fax number)</li>
                     <li>Prior addresses and length of time at each address</li>
                     <li>Username and password to access the Careers Sites</li>
@@ -466,21 +641,15 @@
                     <li>Other information about your qualifications</li>
                     <li>Requests for disability accommodations</li>
                 </ul>
-                
                 <p>If you apply for a U.S.-based position, you may provide information on your gender, race or ethnicity on a voluntary basis. UPS will not consider either this information or your choice to decline to provide it in evaluating your qualifications for employment with us. We may use this information to the extent necessary or appropriate for compliance with relevant legal or contractual obligations and for other internal purposes.</p>
-                
                 <p>In addition, when you visit our Careers Sites, we may collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on the sites, and dates and times of website visits. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you. We also may use third-party website analytics tools that collect information about visitor traffic on the Careers Sites. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of the Careers Sites.</p>
-                
                 <p>The providers of third-party apps, tools, widgets and plug-ins on the Careers Sites, such as third-party login services and Facebook “Like” buttons, also may use automated means to collect information regarding your interactions with these features. This information is subject to the privacy policies or notices of these providers.</p>
             </div>
-        </li>
-        
-        
-        <li><a class="question-toggle color2-bg" tabindex="0">How We Use The Information We Obtain</a>
-            <div class="question-dropdown hide1" tabindex="0">
+            
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">How We Use The Information We Obtain</h2>
                 <p>We may use the information we obtain to:</p>
-                
-                <ul class="banked-list">
+                <ul>
                     <li>Provide applicant support and respond to and communicate with you about your requests, questions and comments</li>
                     <li>Establish and manage your Careers Sites account</li>
                     <li>Evaluate you for available positions</li>
@@ -492,172 +661,190 @@
                     <li>Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities</li>
                     <li>Comply with applicable legal requirements and our policies</li>
                 </ul>
-
                 <p>In addition, we use information collected online through cookies, web beacons and other automated means for purposes such as (i) customizing our users’ visits to our websites, (ii) delivering content tailored to our users’ interests and the manner in which our users browse our websites, and (iii) managing our business. We also use this information to help diagnose technical and service problems, administer our websites, identify users of our websites, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our websites, which websites they come from, how users navigate through our websites, and how we may tailor our websites to better meet the needs of our users.</p>
-                
                 <p>We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.</p>
             </div>
-        </li>
-        
-        
-        <li><a class="question-toggle color2-bg" tabindex="0">Online Tracking</a>
-            <div class="question-dropdown hide1" tabindex="0">
-                <p>You may see our ads on other websites based on your visits to the Careers Sites because we engage in retargeting. For example, if you view a particular position on the Careers Sites, you may see an ad for that position on a third-party website. Our retargeting is administered by third-party vendors that track your activity on the Careers Sites and third-party sites via automated means, such as cookies and web beacons. Accordingly, we and our third-party vendors may collect information about our visitors’ online activities, over time and across third-party websites. To learn about how to opt out of this retargeting, <a href="http://www.aboutads.info/choices/">click here.</a></p>
-                
+            
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">Online Tracking</h2>
+                <p>You may see our ads on other websites based on your visits to the Careers Sites because we engage in retargeting. For example, if you view a particular position on the Careers Sites, you may see an ad for that position on a third-party website. Our retargeting is administered by third-party vendors that track your activity on the Careers Sites and third-party sites via automated means, such as cookies and web beacons. Accordingly, we and our third-party vendors may collect information about our visitors’ online activities, over time and across third-party websites. <a class="inline" href="http://optout.aboutads.info/?c=2&amp;lang=EN">To learn about how to opt out of this retargeting, click here.</a></p>
                 <p>The Careers Sites are not designed to respond to “do not track” signals from browsers.</p>
             </div>
-        </li>
-        
-        
-        <li><a class="question-toggle color2-bg" tabindex="0">Information We Share</a>
-            <div class="question-dropdown hide1" tabindex="0">
+            
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">Information We Share</h2>
                 <p>We do not sell or otherwise share personal information about you, except as described in this Careers Privacy Notice. We may share the personal information we obtain with our affiliates for the purposes described in this Careers Privacy Notice. We also share personal information with third parties who perform services on our behalf based on our instructions. These third parties are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.</p>
-                
+
                 <p>Information collected through third-party apps, tools, widgets and plug-ins (such as information obtained through third-party login services or relating to your use of a Facebook “Like” button) is collected directly by the providers of these features. This information is subject to the privacy policies of the providers of the features, and UPS is not responsible for those providers’ information practices.</p>
 
                 <p>We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).</p>
             </div>
-        </li>
-        
-        
-        <li><a class="question-toggle color2-bg" tabindex="0">Your Options</a>
-            <div class="question-dropdown hide1" tabindex="0">
+            
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">Your Options</h2>
                 <p>We offer you certain choices about how we communicate with you and what information we collect from you. If you visit the job application tools on our Careers Sites, you may update the personal information you have submitted there by visiting the profile section of your account or, for a limited time, revising an application. You also may contact us as described in the “How to Contact Us” section below to submit requests, update your preferences, or ask us to remove your information from our mailing lists pursuant to applicable law.</p>
-                
+
                 <p>If you inquire about employment with UPS and provide personal information about yourself (such as your address, telephone number and Social Security number), UPS is legally obligated to maintain such information in accordance with applicable law, including the recordkeeping obligations established by the Office of Federal Contract Compliance Programs and the Equal Employment Opportunity Commission. Once your personal information is submitted to UPS, we will not be able to grant a subsequent request to delete such personal information from our systems during the legally required record retention period.</p>
             </div>
-        </li>
-        
-        
-        <li><a class="question-toggle color2-bg" tabindex="0">Links To Other Websites</a>
-            <div class="question-dropdown hide1" tabindex="0">
+            
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">Links To Other Websites</h2>
                 <p>Our Careers Sites may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with UPS. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with UPS, any use of those websites, or the privacy practices of those websites.</p>
             </div>
-        </li>
-        
-         <li><a class="question-toggle color2-bg" tabindex="0">How We Protect Personal Information</a>
-            <div class="question-dropdown hide1" tabindex="0">
+            
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">How We Protect Personal Information</h2>
                 <p>We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.</p>
             </div>
-        </li>
-        
-         <li><a class="question-toggle color2-bg" tabindex="0">Updates To Our Careers Privacy Notice</a>
-            <div class="question-dropdown hide1" tabindex="0">
+            
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">Updates To Our Careers Privacy Notice</h2>
                 <p>This Careers Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our Careers Sites to notify you of any significant changes to our Careers Privacy Notice and indicate at the top of the notice when it was most recently updated.</p>
             </div>
-        </li>
-        
-         <li><a class="question-toggle color2-bg" tabindex="0">How To Contact Us</a>
-            <div class="question-dropdown hide1" tabindex="0">
-                <p>If you have any questions or comments about this Careers Privacy Notice, or if you would like us to update information we have about you or your preferences, please <a href="/contactus">contact us.</a></p>
+            
+            <div class="js-accordion__panel">
+                <h2 class="js-accordion__header">How To Contact Us</h2>
+                <p>If you have any questions or comments about this Careers Privacy Notice, or if you would like us to update information we have about you or your preferences, please <a class="inline" href="/contact-us">contact us.</a></p>
             </div>
-        </li>
-    </ul>
-</div>
+            
+        </div>
+
+
+    </div>
+
+</section>
+
+
+
+
+
+
+
+
+<aside>
+    
+    
+	
+	
+</aside>
 
 
 	</main>
-	
-	
-	
-    
-    
-	    
 	<footer>
-	    
+	    <div class="wrapper-padded">
+            
 
-<div class="stay-connected">
-    <div class="stay-connected-bg">
-        <div class="social-media wrapper" data-selector-name="socialmedia">
-            <h2>Stay Connected</h2>
-            <ul>
-                    <li><a class="social-media-facebook" target="_blank" href="//www.facebook.com/UPSjobs/">Facebook</a></li>
-                    <li><a class="social-media-twitter" target="_blank" href="//twitter.com/UPSjobs">Twitter</a></li>
-                    <li><a class="social-media-linkedin" target="_blank" href="//www.linkedin.com/company/ups?trk=cws-cpw-coname-0-0">LinkedIn</a></li>
-                    <li><a class="social-media-glassdoor" target="_blank" href="//www.glassdoor.com/Overview/Working-at-UPS-EI_IE3012.11,14.htm">Glassdoor</a></li>
-                    <li><a class="social-media-instagram" target="_blank" href="//www.instagram.com/upsjobs/">Instagram</a></li>
-            </ul>
-        </div>
+    <div class="social-media" data-selector-name="socialmedia">
+        <!--<h2></h2>-->
+        <ul>
+                <li><a class="social-media-facebook" href="//www.facebook.com/UPSjobs/" target="_blank">Facebook</a></li>
+                <li><a class="social-media-twitter" href="//twitter.com/UPSjobs" target="_blank">Twitter</a></li>
+                <li><a class="social-media-linkedin" href="//www.linkedin.com/company/ups/?trk=cws-cpw-coname-0-0" target="_blank">LinkedIn</a></li>
+                <li><a class="social-media-glassdoor" href="//www.glassdoor.com/Overview/Working-at-UPS-EI_IE3012.11,14.htm" target="_blank">Glassdoor</a></li>
+                <li><a class="social-media-instagram" href="//www.instagram.com/upsjobs/" target="_blank">Instagram</a></li>
+        </ul>
     </div>
-</div>    
 
-<div class="wrapper">
-	<ul>
-	    <li><a href="/contactus">Contact Us</a></li>
-		<li><a href="/disability">Disability Accommodation Request</a></li>
-		<li><a href="/faq">FAQ</a></li>
-		<li><a href="/pay">Pay Transparency Policy</a></li>
-		<li><a href="/status">Status Inquiries</a></li>
-		<li><a href="/statement">UPS EEO</a></li>
-		<li><a href="/privacy">Privacy Notice</a></li>
-		<li><a href="http://www.ups.com/content/us/en/resources/ship/terms/shipping/index.html?WT.svl=Footer">Service Terms and Conditions</a></li>
-		<li><a href="http://www.ups.com/content/us/en/resources/ship/terms/use.html?WT.svl=Footer">Website Terms of Use</a></li>
-		<li><a href="http://www.ups.com/content/us/en/resources/ship/fraud.html?WT.svl=Footer">Protect Against Fraud</a></li>
-	</ul>
-	<p>Copyright © 1994-2018 United Parcel Service of North America, Inc. All rights reserved.</p>
-</div>
+<nav>
+    <ul>
+        <li><a href="/contact-us">Contact Us</a></li>      
+        <li><a href="/disability-request">Disability Accommodation Request</a></li>        
+        <li><a href="/faq">FAQs</a></li>
+        <li><a href="/pay-transparency-policy">Pay Transparency Policy</a></li> 
+        <li><a href="/status-inquiries">Status Inquiries</a></li>
+        <li><a href="/EEO">UPS EEO</a></li>
+        <li><a href="/privacy-policy">Privacy Notice</a></li>
+        <li><a href="#religious-popup" class="religious-popup">Religious Accommodation Questions</a></li>
+        <li><a href="https://www.ups.com/us/en/help-center/legal-terms-conditions/service.page?WT.svl=Footer">Service Terms and Conditions</a></li>        
+        <li><a href="https://www.ups.com/us/en/help-center/legal-terms-conditions/website.page?WT.svl=Footer">Website Terms of Use</a></li>        
+        <li><a href="https://www.ups.com/us/en/help-center/legal-terms-conditions/fight-fraud.page?WT.svl=Footer">Protect Against Fraud</a></li>
+        <li><a href="/sitemap">Sitemap</a></li>
+    </ul>
+</nav>
 
+            <div id="religious-popup" class="benefit-popup mfp-hide">
+              <h3>Religious Accommodation Questions</h3>
+              <p>If you still have questions after reviewing the FAQ’s, please contact us at <a href="mailto:hrcompliance@ups.com">hrcompliance@ups.com.</a></p>
+          </div>
+            <p>Copyright © 1994-2019 United Parcel Service of America, Inc. All rights reserved.</p>
+        </div>
 	</footer>
 	</div>
 	
-
+	
+    	            
+    	
+    	            
+    
+	
+    
     <script src="//tbcdn.talentbrew.com/bundles/tb-core"></script>
 
+    <script src="//tbcdn.talentbrew.com/company/1187/js/9469-Full.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="https://tbcdn.talentbrew.com/company/1187/v3_0/js/jquery.magnific-popup.js"></script>
     
     
+     
+    <script src="https://tbcdn.talentbrew.com/company/1187/v3_0/js/accordion.js"></script>
     
-    <script src="https://tbcdn.talentbrew.com/company/1187/v2_0/fancybox/jquery.fancybox.js"></script>
+    <script>
+        
+        $(function () {
+            $('.js-accordion').accordion({ });
+        });
+        
+    </script>
+
+
     
-    <script src="//tbcdn.talentbrew.com/company/1187/js/5769-Full.min.js"></script>
-    
-    
-    <!--<script>-->
-    <!--    window['_jobchat_host'] = 'https://app.textrecruit.com/';-->
-    <!--    window['_jobchat_account'] = '38b68e14-7f01-4550-b78c-8ee1f739eb6a';-->
-    <!--    window['_jobchat_namespace'] = 'JC';-->
-    <!--    (function(w,d,namespace,s,u){-->
-    <!--        var o = d.createElement(s);-->
-    <!--        o.async=1;-->
-    <!--        o.src='https://d1x38v4drx7byr.cloudfront.net/js/jobchat.js';-->
-    <!--        var y=d.getElementsByTagName(s)[0];-->
-    <!--        y.parentNode.insertBefore(o,y);-->
-    <!--    })(window,document,window['_jc_namespace'],'script','user');-->
-    <!--</script>-->
-    
-    
-   
-   
     
 	
 
-<!-- GDPR Consent banner JS -->
-<script id="tmp-magic-bullet" src="https://services.tmpwebeng.com/magicbullet/" data-gdpr="true" data-gdpr-policy-url="/privacy" data-gdpr-client-name="UPS"></script>
-
-<!-- GDPR job alert message styles -->
-<style>
-	.data-form .gdpr-eu-tmp-notice {
-		margin-bottom: 1em;
-	}
-	 @media screen and (min-width: 1100px) {
-		.data-form .gdpr-eu-tmp-notice {
-            width: 50%;
-            margin-left: auto;
-		}
-	} 
-	.data-form .gdpr-eu-tmp-notice a {
-		color: #0000EE;
-	}
-	.data-form .gdpr-eu-tmp-notice .visually-hidden {
-		clip: rect(1px, 1px, 1px, 1px);
-		height: 1px;
-		overflow: hidden;
-		position: absolute;
-		white-space: nowrap;
-		width: 1px;
-	}
-
-
-</style>
-	
-
-<input type="hidden" id="dimension3" value="1187"><input type="hidden" id="dimension4" value="1187"><input type="hidden" id="dimension8" value="Privacy Notice"><input type="hidden" id="dimension10" value="ContentPage"><input type="hidden" id="dimension11" value="Other;140265;Content"><input type="hidden" id="dimension12" value="Active"></body></html>
+<!--GDPR Consent banner JS -->
+    <script id="tmp-magic-bullet" src="https://services.tmpwebeng.com/magicbullet/" data-a11y="true" data-gdpr="true" data-gdpr-policy-url="/privacy-policy" data-gdpr-client-name="UPS"></script> 
+    
+    <!--mp_easylink_begins-->
+<!--<script type="text/javascript" id="mpelid"-->
+<!--src="//ups.mpeasylink.com/mpel/mpel.js" async></script>-->
+<!--mp_easylink_ends-->
+    
+    <script>
+        $('.popup-video').magnificPopup({
+            closeOnBgClick: false,
+            type: 'iframe',
+            iframe: {
+             patterns: {
+              youtube: {
+              	index: 'youtube.com', 
+              	id: 'v=', 
+              	src: '//www.youtube.com/embed/%id%?rel=0&autoplay=1'
+              }
+             }
+            },
+            callbacks: {
+                close: function(){
+                    $('#hero-banner-video').removeClass("popup-active");
+                }
+            }
+        });
+         $('.religious-popup').magnificPopup({
+            type: 'inline',
+            midClick: true,
+            preloader: false
+        });
+    </script>
+    </div><!-- UPS Body Container -->
+    
+    <!--Chatbot Script with new logo--> 
+    <div data-api_url="https://webchat.conversable.com" data-config_id="c7548a86-05b2-4153-876d-7e4ca1145f7f" data-title="UPSJobs Chatbot" data-greeting_title="UPSjobs Chatbot" data-greeting_subtitle="Hi, I'm the UPSjobs Chatbot" data-greeting_cta="Click here to chat" data-greeting_ref="Title" data-primary_color="#4a90e2" data-secondary_color="#ffffff" data-logo="https://s3.amazonaws.com/demo-assets.conversable/editor/2737b689-59f4-49d9-a273-4b1585550613" data-locale="en-us" data-protocol="" data-greeting_initial_display="true" id="conversable-chat"></div>
+              <script>(function(con, vers, able) {
+                var js, fjs = con.getElementsByTagName(vers)[0];
+                if (con.getElementById(able)) return;
+                js = con.createElement(vers); js.id = able;
+                js.src = 'https://s3.amazonaws.com/webchat.conversable/bootstrap.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'conversable-load'));</script>
+ 
+<input type="hidden" id="dimension3" value="1187"><input type="hidden" id="dimension4" value="1187"><input type="hidden" id="dimension8" value="UPS Privacy Policy"><input type="hidden" id="dimension10" value="ContentPage"><input type="hidden" id="dimension11" value="null;205211;Content"><input type="hidden" id="dimension12" value="Active"><input type="hidden" id="dimension15" value="53941dc2-d2c3-038b-d431-fad4130ffbcf"><input type="hidden" id="dimension17" value="null"></body></html>
