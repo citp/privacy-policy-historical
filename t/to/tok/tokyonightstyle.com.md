@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyonightstyle.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423031651id_/https%3A//tokyonightstyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyonightstyle.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707160020id_/https%3A//tokyonightstyle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tokyo Night Style
 
