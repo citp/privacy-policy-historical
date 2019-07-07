@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520051658id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707100223id_/https%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
 
 # Serious Explorations' Privacy Policy
 
@@ -50,7 +50,7 @@ correct such data if it is inaccurate and delete it, when reasonably possible.
 
 * You may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html). 
 
-* Serious Explorations has been equipped with an affiliate program called Skimlinks.  
+* Serious Explorations has been equipped with an affiliate program called Viglink.  
 If you click an affiliated link on our website and buy anything from the associated site, Serious Explorations will directly benefit.  
-Unlike other affiliate programs, Skimlinks is automatic. Any link on this website that is associated with them will be automatically converted to an affiliate link.  
+Unlike other affiliate programs, Viglink is automatic. Any link on this website that is associated with them will be automatically converted to an affiliate link.  
 Visit 
