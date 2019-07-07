@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trading-pro.net privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606090725id_/http%3A//trading-pro.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trading-pro.net privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707145406id_/https%3A//trading-pro.net/privacy) for the most accurate reproduction.*
 
 # Privacy | TradingPRO
 
