@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redwolf.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330112200id_/https%3A//www.redwolf.in/index.php%3Froute%3Dinformation/information/agree%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwolf.in privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707060856id_/https%3A//www.redwolf.in/index.php%3Froute%3Dinformation/information/agree%26information_id%3D3) for the most accurate reproduction.*
 
 # 
 
