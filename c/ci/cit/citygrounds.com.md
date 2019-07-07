@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citygrounds.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325213145id_/https%3A//www.citygrounds.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citygrounds.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707042221id_/https%3A//www.citygrounds.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City Grounds
 
