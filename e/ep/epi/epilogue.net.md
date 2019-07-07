@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505062830id_/http%3A//www.epilogue.net/support/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707081506id_/http%3A//www.epilogue.net/support/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Epilogue - Art at its best!
 
