@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baseballprospectus.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630013702id_/https%3A//www.baseballprospectus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballprospectus.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707132346id_/https%3A//www.baseballprospectus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Baseball Prospectus
+# Privacy Policy - Baseball ProspectusBaseball Prospectus
 
 Effective as of May 25, 2018.
 
@@ -82,7 +82,7 @@ To request to view the information we’ve collected, please send an email to pr
 
 #### 5.2 Provisions Applicable to California, USA Residents
 
-California Civil Code Section § 1798.80 et al provides certain rights pertaining to the use and disclosure of Personal Information. For example, § 1798.83 permits Users of our Websites that are California residents to request certain information regarding our disclosure of Personal Information to third parties for direct marketing purposes. To make such a request, please send an email to [privacy@baseballprospectus.com](https://web.archive.org/web/20180630013702id_/https://www.baseballprospectus.com/privacy-policy/privacy@baseballprospectus.com) or write us at: PO Box 30796 Columbus, OH 43230.
+California Civil Code Section § 1798.80 et al provides certain rights pertaining to the use and disclosure of Personal Information. For example, § 1798.83 permits Users of our Websites that are California residents to request certain information regarding our disclosure of Personal Information to third parties for direct marketing purposes. To make such a request, please send an email to [privacy@baseballprospectus.com](https://web.archive.org/web/20190707132346id_/https://www.baseballprospectus.com/privacy-policy/privacy@baseballprospectus.com) or write us at: PO Box 30796 Columbus, OH 43230.
 
 Back to Top
 
