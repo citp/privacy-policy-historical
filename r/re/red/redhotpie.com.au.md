@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111124107id_/https%3A//redhotpie.com.au/Terms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707235624id_/https%3A//redhotpie.com.au/Terms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Online dating privacy policy on RedHotPie
 
@@ -43,7 +43,7 @@ redhotpie.com.au will not send you any messages that you have not requested. To 
 1\. All messages sent to you from RedHotPie contain an opt-out option or a link to the unsubscribe function.   
 2\. You can unsubscribe by logging into your account via Manage Account / Profile screen.   
 3\. You can at any time access the unsubscribe system to stop all messages send to an email address ([located here](https://web.archive.org/unsubscribe.aspx)).   
-4\. You can send an email, via our help system, telling us you wish to stop all messages ([located here](https://web.archive.org/web/20181111124107id_/https%3A//redhotpie.com.au/Support/SubmitTicket.aspx) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4ccc1c8d4e4d6c1c0cccbd0d4cdc18ac7cbc98ac5d1)). 
+4\. You can send an email, via our help system, telling us you wish to stop all messages ([located here](https://web.archive.org/web/20190707235624id_/https%3A//redhotpie.com.au/Support/SubmitTicket.aspx) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#365e535a46764453525e5942465f531855595b185743)). 
 
 ## Our Commitment To Data Security
 
@@ -55,7 +55,7 @@ You can access all your personally identifiable information that we collect onli
 
 RedHotPie Members have the following choices to modify or delete their information from our database:
 
-1\. Send an email to our customer service rep. at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#caa2afa6ba8ab8afaea2a5bebaa3afe4a9a5a7e4abbf)  
+1\. Send an email to our customer service rep. at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6ded3dac6f6c4d3d2ded9c2c6dfd398d5d9db98d7c3)  
 2\. Log in with your password and modify/delete your profile
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
