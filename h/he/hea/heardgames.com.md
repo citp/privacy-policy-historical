@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heardgames.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507162828id_/http%3A//www.heardgames.com/%3Fpage_id%3D5690) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heardgames.com privacy policy that was archived on 2019-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190707073959id_/http%3A//www.heardgames.com/%3Fpage_id%3D5690) for the most accurate reproduction.*
 
 # Privacy Policy – Heard Games | Video Games | Game Reviews | Game News | Comic Books
 
