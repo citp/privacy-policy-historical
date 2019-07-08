@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chennaispider.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508194436id_/http%3A//www.chennaispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaispider.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708225748id_/http%3A//chennaispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ChennaiSpider.com privacy policy
 
