@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banyanbotanicals.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616110728id_/https%3A//www.banyanbotanicals.com/info/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banyanbotanicals.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709015605id_/https%3A//www.banyanbotanicals.com/info/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Banyan Botanicals
 
