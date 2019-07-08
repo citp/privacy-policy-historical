@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtons.co.uk privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125014334id_/https%3A//www.foxtons.co.uk/help/termsconditions.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtons.co.uk privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708131612id_/https%3A//www.foxtons.co.uk/help/termsconditions.html) for the most accurate reproduction.*
 
 # Foxtons Terms & Conditions & Privacy Policy
 
@@ -32,23 +32,17 @@ The user confirms that the terms and conditions and use of this website shall be
 
 ### Privacy Policy
 
-At Foxtons we are committed to ensuring that your privacy is protected. This privacy notice, together with our Terms and Conditions and any other notice referred to in it, explains how we will collect your personal data and how we use your personal data when you visit our website.
+At Foxtons we are committed to ensuring that your privacy is protected. This privacy notice, together with our Terms and Conditions and any other notice referred to in it, explains how we collect and use your personal data when you visit our website or use our services.
 
-Foxtons Limited is data controller in respect of the personal data processed when you visit our website. If you have any questions or concerns in relation to this Privacy Notice you can contact our Data Protection Officer at [privacy@foxtons.co.uk](mailto:privacy@foxtons.co.uk) or by writing to the Data Protection Officer, Foxtons Limited, Building One, Chiswick Business Park, 566 Chiswick High Road, London W4 5BE.
+This website is not intended for children and we do not knowingly collect personal data from children.
 
-This website is not intended for children.
+This privacy notice was last amended in March 2019 and supersedes any earlier version.
 
-This privacy notice was last amended in May 2018. It supersedes any earlier version.
-
-**Third-party links**
-
-This website may include links to third party websites, plug-ins or applications which may allow third parties to collect or share your personal data. We are not responsible for their use of your personal data and cannot control it.
-
-#### 1\. WHAT INFORMATION WE MAY COLLECT AND HOW WE USE IT
+#### 1\. PERSONAL DATA WE COLLECT
 
 As a business we collect, use, store and transfer different types of personal data depending on who you are.
 
-If you are purchasing, renting, selling or letting a property through Foxtons, or purchasing, renting, selling or letting a property from one of our clients, we collect and use your personal data in order for us to provide you with our services. The personal data we collect and use may include: 
+If you are purchasing, renting, selling or letting a property through Foxtons, or purchasing, renting, selling or letting a property from one of our clients, we collect and use your personal data to provide you with our services. The personal data we collect and use may include:
 
   * Identity Data (name, marital status, title, date of birth, gender, username and password, purchases made by you, your interests and preferences, feedback and survey responses)
   * Contact Data (billing address, delivery address, email address and telephone numbers)
@@ -57,14 +51,13 @@ If you are purchasing, renting, selling or letting a property through Foxtons, o
   * Technical Data (internet protocol address, login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, identification number, online identified, location data and other similar identifying information required for the customer's device(s) to communicate with websites and applications on the internet)
   * Usage Data (how you use our website products and services, the full uniform resource locators clickstream to, through and from our site (including date and time), download errors, lengths of visit to certain pages, page interaction information, methods to browse away from the page and any phone numbers you use to call us)
   * Marketing and Communications Data (your marketing preferences from us and our third parties and your communication preferences)
+  * Call recordings (recordings of your conversations with us)
 
 
 
 We also may collect and use Aggregated Data. For example, when you visit our website we may aggregate data about your usage to tell us about how certain features on our website are used. This is not usually classified as personal data as whilst it derives from personal data (in the example, it is derived from your Usage Data) it does not reveal your identity to us. If we do link this Aggregated Data to your personal information, it will be treated as personal data in line with this policy.
 
-It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us. You can ask us to rectify or update your personal information at any time by email to privacy@foxtons.co.uk or by writing to The Data Protection Officer, Foxtons Limited, Building One, Chiswick Business Park, 566 Chiswick High Road, London W4 5BE.
-
-#### 2\. HOW IS YOUR PERSONAL DATA COLLECTED?
+#### 2\. HOW WE COLLECT PERSONAL DATA
 
 We use different methods to collect data from and about you including through:
 
@@ -79,32 +72,26 @@ You may give us your Identity, Contact and Financial Data by filling in forms or
   * contact us through social media;
   * walk-in to our branch offices or telephone our call centre;
   * enter a competition, promotion or survey; or
-  * give us some feedback. 
+  * give us some feedback; or 
+  * speak with us on the telephone and we record the call
 
 
 
-**Third parties or publicly available source**
+**Third parties or publicly available sources**
 
-We may receive personal data about you from various third parties and public sources as set out below:
+We may receive personal data about you from various third parties and public sources, for example:
 
-Contact, Financial and Transaction Data from providers of payment services such as Mastercard based inside the EU.
-
-Identity and Contact Data from data brokers or aggregators such as:
-
-  * TwentyCi based inside the EU
-  * Rightmove based inside the EU
-  * Zoopla Property Group based inside the EU
-  * Facebook based outside the EU
+  * Contact, Financial and Transaction Data from providers of payment services such as Mastercard based inside the EU.
+  * Identity and Contact Data from data brokers or aggregators such as TwentyCi, Rightmove, Zoopla (based inside the EU, or Facebook (based outside the EU)
+  * Identity and Contact Data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.
 
 
-
-Identity and Contact Data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.
 
 #### 3\. HOW WE USE YOUR PERSONAL DATA
 
-In the table below we summarise the ways that we plan to use your personal data and the purposes for which we will use your personal data. We will only use your personal data for the purposes for which we have collected it. If we need to process your personal data for a different purpose that is not compatible with the original purpose that we collected your personal data, we will let you know.
+We use your personal data for the purposes shown in the table below. We will only use your personal data for the purposes for which we collected it. If we need to process your personal data for a different purpose that is not compatible with the original purpose we will let you know.
 
-We may process your personal data for a different purpose and without your consent where it is necessary for us to comply with our legal obligations. 
+We may process your personal data for a different purpose without your consent where it is necessary for us to comply with our legal obligations.
 
 Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest  
 ---|---|---  
@@ -117,7 +104,7 @@ Marketing and Communications
 
 Necessary for our legitimate interests (for running our business, to recover debts due to us, to keep our records updated and to study how customers use our products/services)   
   
-To carry out our obligations arising from any contracts entered into between you and us and to provide with you the information, products and services you request from us Identity | Identity  
+To carry out our obligations arising from any contracts entered into between you and us and to provide with you the information, products and services you request from us | Identity  
 Contact   
 Financial   
 Transaction   
@@ -126,7 +113,8 @@ Marketing and Communications
 
 Necessary for our legitimate interests (for running our business and to recover debts due to us)  
   
-To provide you with information about other goods and services that we offer which we feel may interest you Identity  | Contact   
+To provide you with information about other goods and services that we offer which we feel may interest you | Identity  
+Contact   
 Technical   
 Usage  
 | Necessary for our legitimate interests (to develop our products/services and grow our business)  
@@ -148,9 +136,10 @@ Contact
 Financial   
 Transaction 
 
-Marketing and Communications
+Marketing and Communications  
+Call Recordings
 
-| Necessary for our legitimate interests (to develop our products/services and grow our business and provision of administration and IT services)  
+| Necessary for our legitimate interests (to develop our products/services and grow our business and provision of administration and IT services, for training and monitoring of our customer service standards and to help resolve disputes  
 To notify you about changes to our service | Identity   
 Contact   
 | Performance of a contract with you 
@@ -210,7 +199,7 @@ You can ask us to stop sending you marketing messages at any time by:
 
 
 
-If you do withdraw your consent to receiving marketing messages, we will still process your personal data in order to fulfil our contract with you and in accordance with our legal, accountancy and regulatory obligations.
+Where you withdraw your consent to receiving marketing messages, we will still process your personal data in order to fulfil our contract with you and in accordance with our legal, accountancy and regulatory obligations.
 
 If you no longer wish to be contacted by third parties for marketing purposes, please follow the instructions in their marketing communications, or consult their privacy policies about how to unsubscribe.
 
@@ -230,12 +219,12 @@ To read more about our use of cookies on the Foxtons website, please consult our
 
 #### 4\. DISCLOSURES OF YOUR PERSONAL DATA
 
-We may have to share your personal data with the parties set out below for the purposes set out in the "Purposes for which we will use your personal data" table above. We have agreements in place with our third parties that restrict their use of your personal data. We only allow third parties to use your personal data for specified purposes and in accordance with our instructions
+We may share your personal data with the parties set out below for the purposes set out in the "How we use your Personal Data" table above. We have agreements in place with our third parties that restrict their use of your personal data. We only allow third parties to use your personal data for specified purposes and in accordance with our instructions
 
 Category | Explanation  
 ---|---  
 Related Third Parties | Alexander Hall Associates Limited Mortgage Brokers (where you have consented for us to do so).  
-External Third Parties | Service providers acting as processors based in the United Kingdom who provide IT and system administration services, anti-money laundering service providers (such as NorthRow), tenancy deposit administrators (such as the Tenancy Deposit Scheme) and services to enable us to perform our contract with you.
+External Third Parties | Service providers acting as processors based in the United Kingdom who provide IT and system administration services, anti-money laundering service providers (such as NorthRow), tenancy deposit administrators (such as the Tenancy Deposit Scheme) and services to enable us to perform our contract with you, or carry out surveys to help us improve our services.
 
 Property developers acting as Processors or independent controllers based in the UK who process your personal data in order to arrange and facilitate your visit to their marketing suite.
 
@@ -247,30 +236,19 @@ HMRC, regulators and other authorities acting as processors or joint controllers
 
 • Conveyan  
 • Habitat  
-• Air Agents  
 • Global Property Ventures Limited (t/a Zero Deposit)
 
 If you are a tenant and we are helping you with the administration in moving, we will refer your personal information to Tenant Shop Limited which acts on our behalf to provide these services. Tenant Shop Limited may contact you about the other services that they provide if you consent for them to do so.
 
-If you are a landlord or a tenant and have agreed to use a Zero Deposit Guarantee product in place of a Deposit we will refer your personal information to Global Property Ventures Limited (t/a Zero Deposit).  
+We may forward your present and future contact details to utility suppliers, local authorities and credit or reference providers, including for the purposes of debt recovery.
+
+If you are a landlord or a tenant and have decided to use a Zero Deposit Guarantee product in place of a normal Deposit we will refer your personal information to Global Property Ventures Limited (t/a Zero Deposit).  
   
 Other Third Parties | Sometimes there may be third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.   
   
-**Anti-Money Laundering**
-
-Foxtons is committed to operating its business in a transparent and open manner consistent with our legal and regulatory obligations. We are aware that the real estate industry is a target for organised criminals seeking to launder the proceeds of criminal activity. We always seek to prevent this activity by cooperating fully with the authorities and reporting suspicious activity to the National Crime Agency.
-
-As part of this commitment, we adopt a strict compliance of all Anti-Money Laundering rules, with specific emphasis on the Proceeds of Crime Act 2002, the Money Laundering Regulations 2017, the Bribery Act 2010 and the Terrorism Act 2000.
-
-Foxtons policy commitment is applicable to all of our customers, including vendors, buyers, landlords and tenants. As a result we obtain and hold for a period of at least seven years evidence pertaining to our customers' identity and, where appropriate, we obtain proof of ownership of property and source/destination of funds. We will be unable to proceed with any work on behalf of our customers if we are unable to obtain this information. Customers' identity will be subject to an electronic identity check, which may also include a credit check.
-
-For a full list of acceptable identity documents, please [click here](https://web.archive.org/help/aml-documents.html)
-
-Foxtons is registered and supervised by HM Revenue & Customs for compliance with the Money Laundering Regulations 2017.
-
 #### 5\. DATA SECURITY
 
-Once we have received your personal data we will use reasonable and necessary procedures and security features to try and prevent unauthorised access. For example, we limit who can access your personal data to those individuals and third parties who need to know it and who are subject to a duty of confidentiality. If we become aware of a data breach we will notify the Information Commissioner's Office. If we believe that the data breach is serious, we may notify you in accordance with our legal requirements.
+We are, through technical and organisational means, committed to ensuring the security of, and prevention of unauthorised access to, your personal data. For example, we limit who can access your personal data to those individuals and third parties who need to know it and who are subject to a duty of confidentiality. If we become aware of a data breach we will, where we are required to, notify the Information Commissioner's Office. If we believe that the data breach is serious, we may notify you as well.
 
 #### 6\. INTERNATIONAL TRANSFERS 
 
@@ -278,40 +256,47 @@ We will not transfer your personal data outside of the European Economic Area, e
 
 #### 7\. DATA RETENTION
 
-We hold on to your personal data whilst you use our services (or whilst we provide services connected to you) and for at least seven years thereafter, for legal, regulatory and accounting purposes. If we need to hold on to your personal data for longer, we take into consideration the potential risks in continuing to store your data against why we might need to keep it. In some circumstances we might anonymise your personal data so it is not associated with you, and we may then use this information indefinitely. 
+We will retain your personal data whilst you use our services (or whilst we provide services connected to you) and for at least seven years thereafter, for legal, regulatory and accounting purposes. If we need to retain your personal data for longer, we will take into consideration the potential risks in continuing to store your data against why we might need to keep it. In some circumstances we might anonymise your personal data so it is not associated with you, and we may then use this information indefinitely.
 
 #### 8\. YOUR LEGAL RIGHTS
 
-Under data protection laws you have the right to protect and look after your personal data. You have the right to:
+To the extent provided by law, you have the right to:
 
-  * ask us for the personal data that we hold and process about you (this is commonly known as a data subject access request). You have rights to the following information: 
+  * access a copy of the the personal data that we hold and process about you. You have rights to the following information: 
     * the purpose(s) for which we are processing your information;
     * the categories of personal information we hold about you
     * the recipients or categories of recipient to whom the personal data have been or will be disclosed;
     * the period for which we will store your information, or the criteria used to determine that period;
-  * prevent the use of your personal data for marketing purposes by 
+  * object to the use of your personal data (including for marketing purposes) by 
     * informing a Foxtons telephone operator; or 
     * by ticking the relevant boxes on the data collection forms; or 
     * by logging into your ‘myfoxtons’ account (if you have done) and checking or unchecking relevant boxes to adjust your marketing preferences; or 
     * by emailing [privacy@foxtons.co.uk](mailto:privacy@foxtons.co.uk)
-Please note that even if you refuse marketing, we will still contact you to discuss the services you have asked us to provide to you or to tell you about changes to our terms and conditions.;
-  * ask that any inaccurate information we hold about you is corrected;
-  * ask that we delete the personal data we hold about you in certain situations;
-  * ask that we stop using your personal data for certain purposes;
+Please note that even if you refuse marketing, we will still contact you to discuss the services you have asked us to provide to you or to tell you about changes to our terms and conditions:
+  * rectification of any inaccurate information we hold about you;
+  * erasure of the personal data we hold about you (in certain situations);
   * ask that we do not make decisions about you using completely automated means; and/or
-  * ask that personal data we hold about you is given to you, or where technically feasible a third party chosen by you, in a commonly used, machine-readable format.
+  * ask that personal data we hold about you is, where technically feasible, transmitted to a third-party chosen by you, in a commonly used, machine-readable format.
 
 
 
-The rights listed above may apply in certain circumstances, and so we may not always be able to comply with your request to exercise these rights. We will usually respond to a request from you to exercise your rights within 1 month of receipt, but it might take longer if your request is particularly complex or if you have made a number of requests. Please be aware that we may need to process your personal data and/or request specific information from you to help us comply with your request. You will not usually have to pay a fee to exercise these rights, but we reserve the right to if your request is clearly unfounded, repetitive or excessive, alternatively we may refuse to comply with your request.
+The rights listed above may not apply in certain circumstances. Therefore we may not always be able to comply with your request. We will tell you if this is the case. We will usually respond to a request from you to exercise your rights within one month of receipt, but it might take longer if your request is particularly complex or if you have made a number of requests. Please be aware that we may need to process your personal data and/or request specific information from you to help us comply with your request. Generally, you do not have to pay a fee to exercise these rights, but you may have to pay a fee if your request is unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request.
 
-**Complaints and Feedback**
+#### 9\. HOW TO CONTACT US
 
-If you would like to speak to us about how we handle your personal data, please contact our Data Protection Officer in the first instance at [privacy@foxtons.co.uk](mailto:privacy@foxtons.co.uk). You can also complain to the Information Commissioner's Office who is the UK supervisory authority for data protection issues.
+We are registered as a Data Controller with the Information Commissioner’s Office, the UK supervisory authority for data protection issues. To contact us about how we handle your personal data, please contact our Data Protection Officer at privacy@foxtons.co.uk. Alternatively, write to us at Data Protection Officer, Foxtons Limited, Building One, Chiswick Park, 566 Chiswick High Road, London, W4 5BE. If you have a complaint about the way in which your personal data has been processed you have the right to contact the Information Commissioner's Office but you may be required to first complete our internal complaints procedure.
 
-### How to contact Foxtons
+### Money Laundering
 
-We welcome your views about our website and our Privacy Policy. If you would like to contact us with any queries or comments please send an e-mail to [enquiries@foxtons.co.uk](mailto:enquiries@foxtons.co.uk)
+Foxtons is committed to operating its business in a transparent and open manner consistent with our legal and regulatory obligations. We are aware that the real estate industry is a target for organised criminals seeking to launder the proceeds of criminal activity. We always seek to prevent this activity by cooperating fully with the authorities and reporting suspicious activity to the National Crime Agency. 
+
+As part of this commitment, we adopt a strict compliance of all Anti-Money Laundering rules, with specific emphasis on the Proceeds of Crime Act 2002, the Money Laundering Regulations 2017, the Bribery Act 2010 and the Terrorism Act 2000.
+
+Foxtons policy commitment is applicable to all of our customers, including vendors, buyers, landlords and tenants. As a result we obtain and hold for a period of at least seven years evidence pertaining to our customers' identity and, where appropriate, we obtain proof of ownership of property and source/destination of funds. We will be unable to proceed with any work on behalf of our customers if we are unable to obtain this information. Customers' identity will be subject to an electronic identity check, which may also include a credit check
+
+For a full list of acceptable identity documents, please [click here](https://www.foxtons.co.uk/help/aml-documents.html)
+
+We are registered and supervised by HM Revenue & Customs for compliance with the Money Laundering Regulations 2017.If you would like to speak to us about Anti-Money Laundering, please email [enquiries@foxtons.co.uk](mailto:enquiries@foxtons.co.uk)
 
 ### Indemnity
 
