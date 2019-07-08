@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dezzain.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195652id_/http%3A//www.dezzain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dezzain.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709012505id_/http%3A//www.dezzain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DEZZAIN.COM
 
