@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310114125id_/https%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708054245id_/http%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -53,6 +53,8 @@ Gofobo.com contains links to other sites. Gofobo is not responsible for the priv
 #### THIRD-PARTY ADVERTISING.
 
 Gofobo may share profile information in a personally identifiable manner and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. Advertisements that appear on this Web site, on mobile apps or in are delivered to users by our advertising partners. Our advertising partners may set cookies.
+
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you or your business. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the hashed or obfuscated personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms, including but not limited to, computers, mobile devices, and Smart TVs, over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. Your data may be transferred outside of the country from which it was originally collected. To learn more about interest-based advertising in general and to opt out, please visit <http://www.aboutads.info/choices>. To opt-out of the use of your mobile device ID for targeted advertising, please see <http://www.aboutads.info/appchoices>.
 
 #### Acquisition or Business Transfer.
 
