@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetslyrics.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607010759id_/https%3A//sweetslyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetslyrics.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708125348id_/https%3A//sweetslyrics.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
