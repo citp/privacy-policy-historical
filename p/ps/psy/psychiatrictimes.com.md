@@ -1,140 +1,137 @@
-> *The following text is extracted and transformed from the psychiatrictimes.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416211828id_/https%3A//www.psychiatrictimes.com/basic-page/privacy-policy-medica) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiatrictimes.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708183654id_/https%3A//www.psychiatrictimes.com/basic-page/mmh-privacy) for the most accurate reproduction.*
 
-# Privacy Policy Medica | Psychiatric Times
-
-**PRIVACY STATEMENT – UBM MEDICA LLC**  
-Effective date:  June 11, 2012
-
-UBM Medica LLC ("UBM Medica") offers conferences, medical information, and related offerings to medical professionals. We publish this privacy policy to let you know what data we collect about you as an individual professional, how we use that data, and what choices you have.
-
-This privacy policy covers all "personal" data we collect about you from face to face and virtual conferences and meetings, websites, email campaigns, and print publications. "Personal" data means data which identifies you as an individual and reflects your individual use of our products and services. It is data about you as a medical professional. Please note that a separate privacy policy covers our websites directed to consumers. If you are uncertain about which privacy policy applies to a particular website or web page, consult the privacy link at the bottom of the web page.
-
-Please note that you may choose to publish your personal information and your views in various of our online venues, for example, online communities, forums or virtual events. This Policy does not protect your public disclosures.
-
-**Information We Collect About You**  
-We collect the following data about you:
-
-▪ Information you give us about yourself, including data about your professional credentials and practice, when you register for or subscribe to any of our events, services or resources, register with us through a UBM Medica Network site or contact us directly. We may use medical or other databases to update or complete certain information about you.
-
-▪ If you are a medical doctor, we may ask the American Medical Association to verify your medical credentials. For more information about the AMA's own privacy practices, please click <http://www.ama-assn.org/ama/pub/footer/privacy-policy.shtml>.
-
-▪ Once you register we create an account for you, adding data about how you use and interact with our events, products, services, resources and email campaigns.
-
-We also use common Internet data collection technologies to collect data: We use "cookies" and associated web beacons. A cookie is simply a piece of code which is placed on your personal computer to recognize the computer as it accesses our websites. Many cookies are not "personal" cookies in that they are not associated with you as an identified individual.
-
-▪ We recognize or verify who is accessing our websites or content areas that require registration and so, may place "personal" cookies on your pc. We may also use this cookie to understand your interests and put you in touch with third parties that we expect will have additional information relevant to your interests.
-
-▪ Some but not all of our websites include online advertising. Cookies are also used to serve such advertising or content. We may display ads on our own sites on a personally identifiable basis. We allow other companies, called third party ad servers, to serve ads that appear on our sites as well. Please see the information under "Your Choices" for details about online advertising.
-
-Finally, we collect log data, including IP, or Internet Protocol, addresses used to access our websites, and other routine information about your browser and pc capabilities. We use this data to administer our systems. We or third party ad servers may use the information to limit the number of times you see a particular ad, to target information or ads on a geographic basis or to display ads in the format best matched to your pc's capabilities. We do not associate this log and technical capabilities data with your account in the routine course of our business.
-
-**How We Use Information About You**  
-Our primary business is to organize events and communities and provide respected information for medical professionals. We use data about you as an individual medical professional to:
-
-▪ Provide the events, services, and resources you request and manage your account.
-
-▪ Manage the services, particularly registration for certain websites, that require us to know who you are when you are online.
-
-▪ Display or deliver content, ours and other companies’, to you based on your professional needs and interests.
-
-▪ Contact you by email and postal mail about offerings from our business partners directed to your professional interests and areas of specialization. Please note that these emails may list either us or the partner in the "from" line. In either case, your name and contact information are not disclosed to the partner unless and until you contact or respond to the partner directly.
-
-▪ Invite you to participate in surveys and professional discussions.
-
-▪ Virtual Trade Shows: The platforms that UBM Medica uses to provide virtual trade shows will place a session cookie on your personal computer when you register for the event. We connect this session cookie with the registration information you provide to us for the event. The cookie is used to manage participation in the event, for certain other purposes, including if you choose to participate in our contests, and to track your visits if you choose to visit exhibitors’ booths or special sponsored sessions. If you disable or delete the session cookie, you will be bounced from the event. UBM Medica may also pass your registration data to any exhibitor if you visit that exhibitor's booth or sponsored section.
-
-▪ To offer you the opportunity to connect with your colleagues and with other companies that may be of interest to you.
-
-▪ Any other purpose which we disclose when you give the information to us.
-
-**Your Choices**  
-You have a choice about and control over:
-
-**Connecting directly with other companies for marketing purposes.**  
-In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and product information. When you choose to take advantage of that content or information, you choose to have your name and contact details transferred to that other company. We will put you in direct contact with other companies when you choose to:
-
-▪ Access sponsored or co-sponsored content on those portions of our web sites that require registration.
-
-▪ Register for a specific web cast, online event, newsletter, online resource, or other offering which is sponsored or co-sponsored by another company.
-
-▪ Register for a virtual event with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitors whose booths and resources you access a record of your visits.
-
-▪ Register for or attend a special sponsored sessions at a face to face event.
-
-_Please note:_ Sponsors may ask us to display their ads targeted to you on our web sites. In those instances, you may choose whether to respond by clicking on the link within the ad. Clicking on that link will connect you directly to the sponsor’s web pages and information.
-
-_Please note:_ career fairs, whether face to face or online, may be covered by a separate policy or policies.
-
-**Making information you provide public.**
-
-▪ Our online event venues also require that you register and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices for that venue.
-
-▪ We create online membership communities that allow you to publish your profile and post information and content. These communities provide privacy controls so that you can control how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide. Your profile will remain visible to the community unless and until you withdraw from the community AND contact the community’s HELP desk to request that your profile be hidden.
-
-**Receiving email marketing messages from us.   **  
-To remove your name from our email marketing lists, please follow the directions at the bottom of the email.
-
-**Whether your account information is up to date.**  
- Please help us keep your account current.
-
-▪ You may update your name, contact information, credentials, and specializations at any time by
-
-▪submitting updated information as you register for something you have not used before,
-
-▪returning to a registration page you have used and following the directions there, or
-
-▪sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4c1c7d1c69ac6d1d3ddc7c0c6d5c0dddbdaf4d7d9c4d9d1d0ddd7d59ad7dbd9 "mailto:user.registration@cmpmedica.com").
+# Privacy Policy | Psychiatric Times
 
 
 
 
-▪ To cancel or update subscriptions to print publications call the number listed in the magazine or check the website associated with the publication.
+**Privacy Policy**
 
-**Deleting or disabling cookies**.  
- To delete or disable cookies:
+  Multimedia Healthcare Communications, LLC ("we", "us" and "our") operates this and related websites and any content made available from or through the websites, including any subdomains thereof, or any related smartphone or mobile applications (the "Site(s)"), and the services offered on or in relation to the Sites, including news, providing information, sponsored programs, advertising, email communications, continuing medical education and discussion boards and forums (the "Services").
 
-▪ You may use the tools in your Internet browser to delete cookies, ours as well as any other company's, at any time.
+  This Privacy Policy ("Policy") describes what information we collect from individuals, how we use the information, with whom we share it, and how you can control your information.  By visiting or using the Site or Services, you are accepting the practices described in this Policy. We may amend this Policy at any time; if we make changes to this Policy, we will post those changes on this page so that you are always aware. Your continued use of the Site following any changes to this Policy will constitute your acceptance of such changes. If you disagree with how we may use your information under this Policy, you should not use the Site or Services.
 
-▪ However, we will not be able to offer you online events or career fairs unless you accept personal cookies for the duration of your time within the event or fair.
+This Statement was last revised May 28, 2019.  
+ 
 
-▪ You have a choice to accept our "persistent" cookies which are set if you choose automatic recognition for registration-only websites. If you disable that cookie for any particular registration-only site, you may still access that site but will need to enter your name and password each time.
+**1\. Collecting Information**
 
-Some but not all of our websites include online ads served by third parties. We do not control the cookies that other companies and their third party ad servers use to display ads to you on our websites.
+We collect information that users provide through registration on our Sites for some services and through our users’ use of the Site or Services. This collection of data may include “Personal Information” such as name, address, email address, phone or fax number, age, social media information, job title, credentials, affiliation or organization.  This can also include inquires made to the Site and/or content you share on the Site.
 
-▪ We currently allow the following third party ad servers to place those ads: DoubleClick ([www.doubleclick.com/privacy/index.aspx](https://www.doubleclick.com/privacy/index.aspx)), Atlas ([www.atlassolutions.com/privacy.aspx](http://www.atlassolutions.com/privacy.aspx)), MediaPlex ([www.mediaplex.com/mojo_privacy_statement.shtml](http://www.mediaplex.com/mojo_privacy_statement.shtml)), Pointroll ([www.pointroll.com/privacy-policy.aspx](http://www.pointroll.com/privacy-policy.aspx)), Eyeblaster ([www.eyeblaster.com/Content.aspx?page=privacy_policy](http://www.eyeblaster.com/Content.aspx?page=privacy_policy)), and Bizo ([www.bizo.com/business_audience/privacy_policy](https://www.bizo.com/business_audience/privacy_policy)). Please visit their websites for more information about the technologies they use, their privacy practices, and the choices each offers.
+It can also include the collection of “Non-Personally Identifiable Information” through tracking systems.  This includes information about your devices, including your IP address, location of the device, browser information, operating system, usage data, pages you visited on the Site, tally page views throughout our Sites, or other technical identifiers.  In market research studies, we may track what computers respond to a survey.  This information enables us to better provide Services and content and to respond to our users' needs. It also is used to help our advertisers and sponsors to better understand the demographics of our audience.
 
-▪ Many of the third party ad serving companies that serve ads to our websites are members of the Network Advertising Initiative ([http://www.networkadvertising.org/](https://www.networkadvertising.org/)). The NAI offers useful information and a single place to turn off ad serving from all its members.
+  * **Registration:  **Some services require user registration. For the registration process, we may require information such as, name, address, e-mail address, zip code, and other profession information such as education background, field of study, current position, and practice area. Registration will provide you with choices regarding the types of newsletters and other information we send.  By registering and consenting you agree that we may send you emails and other communications regarding information specific to our Service(s) or other opportunities we may provide.
 
-Online advertising technologies and practices, including behavioral advertising, are evolving. We may add to this list of third party servers from time to time without changing the effective date on this policy. Please check here periodically.
 
-**Disclosure of Information About You**  
-We do not otherwise disclose information about you to others except:
+  * **Forums:  **If you use a forum where you share information with other users, these discussions are open to the public.  Any information that you provide on a forum may be collected by us and/or by third parties.
 
-▪ to publish the names of speakers and attendees at our face to face events,
 
-▪ to investigate potential unauthorized access or misuse of our services,
+  * **Market Research** : When you participate in market research studies and surveys for us or on behalf of third party sponsors, in addition to the responses you choose to provide, you may be asked to provide Personal Information.
 
-▪ to protect our assets or rights,
 
-▪ in response to valid legal process,
+  * **Continuing Medical Education** : By participating in Continuing Medical Education (CME) or a Continuing Education (CE) activity through the Site you may be asked to provide Personal Information.   Additionally, there may be data collected and stored regarding credits that you earn, on-line participation and activity.
 
-▪ to vendors that process data on our behalf, or
 
-▪ as part of a merger or an acquisition by or other transfer to a third party of some or all of our business assets.
+  * **Sponsored Services** : You may utilize Services that feature third party advertisements.  You may encounter such Services through the Site or in e-mail communications.  You may be asked to provided Personal Information which may be provided directly to the third-party sponsor and/or used by us as described in this Privacy Policy. We may track your use of Sponsored Services through cookies and web beacons.
 
-**Children Under 13**  
-Our services are directed to medical professionals or, in the case of SearchMedica, adults with a need to research professional-level medical literature. Our websites and services are not intended for children 13 or under.
 
-**Security**  
-We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us, and you do so at your own risk. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
+  * **Cookies, Web Beacons, and Other Tracking Technologies** :  Whether or not you register to use the Site, cookies, web beacons, and other tracking technologies may be stored on your computer and used to track activity. This enables us to understand how visitors use our Sites, helps us improve the site for both users and advertisers, and customize the content, offerings, services, and advertisements.  Advertisers may include their cookies, web beacons, or other tracking technologies within their advertisements on the Site. Additionally, third party vendors, including Google, use cookies to serve third party ads based on your prior visits to the Site.  You can choose to disable or turn off cookies or third-party cookies in your web browser at any time.  However, please be aware that some of our Services will not function fully if your browser does not accept cookies. 
 
-**Changes to This Policy**  
-We may change the provisions of this policy from time to time and urge you to check back here periodically. Your continued use of any of the websites or pages within the scope of this policy will be your acceptance of the version of the policy in place at the time of your visit.
 
-**Contact Us**  
-If you have questions about this policy or its use, please contact us at _[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#c4b4b6adb2a5a7bdb6a1b5b1a1b7b0b784b1a6a9eaa7aba9)_.
 
-UBM Medica LLC  
-General Counsel  
-150 West 30th Street 20th Floor  
-New York, NY 10001
+**2\. Use of the information**
+
+  We may use your information for any lawful business purpose, including, but not limited to, corresponding with you, providing announcements, offering or furnishing products and services, personalizing the types of information you receive from us, assessing trends in your use of the Sites, developing content and functionality that helps us better serve your needs, improving the services we provide and engaging in advertising and marketing activities. In addition, here are some examples of the ways in which we may use information:
+
+  * To respond to your questions;
+  * To confirm or fulfill purchase and/or registration requests;
+  * To provide to you the services, events, subscriptions, or information you requested;
+  * To send you information about third party services through pop-ups, banners and emails.
+  * To target advertising and marketing communication to your interests and geographic location;
+  * To conduct and administer tests, surveys, sweepstakes, competitions and/or similar promotions;
+  * To contact you regarding CME/CE activities, news, or other resources and to advise you of products or services that may be available;
+  * To display content we think may be of interest to you and customize your visit to the Site and with communications;
+  * To notify you about website maintenance, updates, and new features;
+  * To contact you as needed to inform you of updates to or to address a suspected violation of the Terms of Use, this Privacy Policy, or any other rules or policies applicable to the Site;
+  * To send and manage educational outcomes measurement surveys;
+  * To get your feedback to assess user-satisfaction or other needs and interests;
+  * To perform information analysis, compliance audits, and data metrics;
+  * To evaluate the use and the effectiveness of the Services that we offer which can include the effectiveness of content, advertising or programs; and to help us create new tools, features, and services and improve our Site, content, and Services;
+  * To provide required reporting on CME/CE activity to the appropriate monitoring bodies and involved CME/CE providers;
+  * To study our CME/CE activities for effectiveness and understand educational needs;
+  * To maintain archival records of your participation for historical and research purposes, subject to retention limits imposed by applicable laws;
+  * To comply with applicable laws, rules, or regulations; and
+  * Otherwise in rendering, administering, and improving the Site, our Services, and our business.
+
+
+
+**3\. Sharing of the Information**
+
+We may share your information.
+
+  * **Business Administration:**  We use third party service providers that help facilitate, manage, and/or analyze our Services (including web servers, cloud storage systems and service providers, support teams, web analysis, and others). These companies are authorized to use your Personal Information only as necessary to provide these Services are subject to contractual obligations to maintain such information confidential subject to certain exceptions.  However, these third parties operate under their own privacy policies, and we are not responsible for those policies.
+  * **Legal Requirements** : We may share your information as necessary to comply with applicable legal requirements such as a law, regulation, search warrant, subpoena or court order legal requirements, as is necessary and permitted by applicable laws to protect and defend our rights or the rights of our users or third parties; or as is permitted under applicable laws to meet national security and similar requirements;
+  * **Subsidiaries, Affiliates, Business Transfers** : We may share any information that is collected with our subsidiaries and affiliates subject to the terms of this Policy. We reserve the right to disclose, share or otherwise transfer any information to our affiliates or to a third party in a corporate merger, acquisition, consolidation, the sale of substantially all of our assets, or other fundamental corporate change, whatever form it may take; 
+  * **Voluntary Consent:**  We may share your information to the extent you have voluntarily agreed or are clearly notified of and consent to by using the Services or as otherwise set forth in this Policy.  
+  * **Market Research** : If you consent to participate in a market study or survey, the information you provide is intended to give specific anonymous feedback to third parties. When you take part in such market research studies, your identity as a participant may be shared but your contact information will not be disclosed and your answers will remain anonymous. Collected information will not be shared in a manner that is correlated to your Personal Information.  However, if you receive payment for your participation, we may be required to share your Personal Information with the Sponsor of the study for their bookkeeping records and reporting requirements.
+  * **Advertisers and Sponsors:  **We may provide your Personal Information and/or Non-Personally Identifiable Information with our current or prospective advertisers and other business partners. This may include your name, your occupation, your title, your e-mail address, and/or some information so that the advertiser may evaluate your engagement as well as the performance of its campaign.
+  * **CME/CE:  **We may share your Personal Information with the accreditors of our continuing education programs.  Our Sponsors of continuing medical education activities may receive aggregated data about the activities they support in order to evaluate participation and outcomes measurement.
+
+
+
+**4.   Retaining the Information**
+
+We retain Personal Information in accordance with our general practices and as required or permitted by law. We will store your Personal Information only for as long as is required to fulfill the purposes set out above.
+
+**5.   Users Outside of the United States**
+
+This Site is operated in the United States.  By using our Site or providing us with your Personal Information, you are transferring your information to us in the United States where we collect, store and process that information.  We may provide information to the United States government or its agencies under applicable law.  We may process your information and transfer it to other countries where our staff or third-party service providers are located.   By using this Site and Services, and/or submitting your Personal Information, you agree to this collecting, processing, and storing of your data to and in the United States,
+
+**_Individuals Located in the European Union: Your Choices_**
+
+If you are within the European Union or provide Personal Information through this Website while located in the European Union, you are entitled to certain information and have certain options under the General Data Protection Regulation (“GDPR”) related to your Personal Information. 
+
+If you consent to the processing of your Personal Information, you may withdraw that consent at any time. You are entitled to request additional specific information regarding the processing of your Personal Information, including requesting access to, correction of, and deletion of your Personal Information from our databases. You can also restrict the processing of your data and/or request that your information be provided in a portable format. You may also request that your data be transferred to you or a third party. You also have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the GDPR. 
+
+_We may use your data for marketing purposes or disclose your information to any third party for such purposes with your consent that you may provide, for example by checking certain boxes on the forms we use to collect your data. You can also object to receiving further marketing at any time without detriment. We will inform you prior to collecting or using your Personal Information for any purpose not set forth in this Privacy Notice or previously consented to._
+
+To update your preferences and consents, ask us to remove your information from our mailing lists or submit a request, you may contact us at via e-mail at [info@mjhassoc.com](mailto:info@mjhassoc.com).
+
+**6.   Third-Party Sites**
+
+  Our Sites may provide links to third party websites and resources.  Such links are provided as a convenience to you and for informational purposes only.  We do not endorse them and are not responsible for and cannot control these third-party websites and resources, does not endorse them, and are not responsible for their availability, content, or delivery of services.  Additionally, our Sites may contain social media widgets including Twitter, Facebook and LinkedIn, and other features that may collect data and/or utilize cookies.   Third party sites and resources are not bound by this Policy; they may have their own policies or none at all. We encourage you to read such other third-party websites' privacy policies.
+
+  **7\. Opt-in  **
+
+  When you register with us, you may be prompted to opt-in to additional Service(s). Opting-in means you agree and consent to receive information relevant to the Service you selected, whether it is sent directly by us or sent by us on behalf of our advertisers. You may unsubscribe from the opt-in lists at any time by following the unsubscribe instructions contained at the end of the e-mail you receive.
+
+  **8\. Managing your Information**
+
+We are dedicated to providing privacy on the Internet.  If you wish to opt out of our sharing your Personal Information as described herein for marketing purposes, please contact us to opt out at [info@mjhassoc.com](mailto:info@mjhassoc.com) or at the address below.  
+
+In addition, we have provided you the opportunity to opt out of future ad serving cookies. In order to identify you as someone who has elected to opt out of receiving future cookies from ad serving companies, we will place an opt out cookie on your machine.  If you would like to opt out of ad serving cookies or read additional information about these cookies, go to 
+
+ _<http://www.aboutads.info/choices/>_
+
+.
+
+  You may unsubscribe to any of our email communications at any time by following the instructions contained at the end of every email we send. If you no longer wish to use any services or receive any information from us, you may request to have your personal information removed from our databases.  You may also request changes or corrections to your information may be submitted. 
+
+**9\. Children's Privacy**
+
+We are committed to protecting the privacy of children. The Website and Services are designed and intended for use by adults. We do not collect personally identifiable information from any person we know is under the age of 18.
+
+**10\. Security**
+
+While we will maintain the security of Personal Information, and protect the integrity of such information, with a commercially reasonable degree of care, we cannot guarantee the security of any information you disclose online.  If a breach occurs will take action to stop further data loss or unauthorized access, investigate how the breach occurred, and when appropriate contact law enforcement and/or government agencies.  We do not make any warranty, express, implied or otherwise, that we will be able to prevent loss, misuse, unauthorized access to, or alteration of information you provide to us.  We disclaim any and all liability for unauthorized access or use or compromise of your Personal Information to the maximum extent permitted by applicable laws.  You make any disclosure of information to us at your own risk.  We urge you to take every precaution to protect your information when you are on the internet, including when visiting the Site.  
+ 
+
+**11\. Contact Information**
+
+  Please contact us with any questions regarding this Privacy Policy or the processing of your Personal Information at [info@mjhassoc.com](mailto:info@mjhassoc.com) or the mailing address below.
+
+Mailing Address:
+
+Multimedia Healthcare Communications, LLC  
+2 Clarke Drive  
+Cranbury, NJ 08512
