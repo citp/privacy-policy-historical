@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swearnet.com privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109085920id_/https%3A//www.swearnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swearnet.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708100405id_/https%3A//www.swearnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SwearNet
 
