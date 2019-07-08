@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonaton.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413184243id_/https%3A//tonaton.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonaton.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708161718id_/https%3A//tonaton.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tonaton.com
 
@@ -51,7 +51,7 @@ Customer Support telephone number: 0302 746 911
 
 ### Unsubscribe information
 
-If at any time you wish to have your information removed from our active databases, please contact us. Additionally, you will be able to unsubscribe anytime by clicking on the unsubscribe link at the bottom of all our email communications.
+If at any time you wish to have your information reviewed or removed from our active databases, please contact us at [support@tonaton.com](mailto:support@tonaton.com). Additionally, you will be able to unsubscribe anytime by clicking on the unsubscribe link at the bottom of all our email communications.
 
 This website makes use of Display Advertising, and uses Remarketing technology with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on various websites across the Internet, using first-party cookies and third-party cookies together to inform, optimize, and serve ads based on past visits to our website.
 
