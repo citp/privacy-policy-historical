@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packaging-int.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113165431id_/https%3A//www.copybook.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packaging-int.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708090241id_/https%3A//www.copybook.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
