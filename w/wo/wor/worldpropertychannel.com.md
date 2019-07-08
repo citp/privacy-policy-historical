@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpropertychannel.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420114625id_/http%3A//www.worldpropertyjournal.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpropertychannel.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708223847id_/https%3A//www.worldpropertyjournal.com/policies.php) for the most accurate reproduction.*
 
 # Policies - WORLD PROPERTY JOURNAL Global News Center
 
@@ -70,11 +70,11 @@ Google Analytics is a web analysis service provided by Google Inc. ("Google"). G
 
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-For the opt-out: [tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en).
+For the opt-out: [tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA - [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of processing: USA - [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 
 Google Analytics Demographics and Interest Reports (Google)
 
@@ -88,7 +88,7 @@ WORLD PROPERTY JOURNAL uses data gathered Google Analytics for internal company 
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA - [Privacy Policy ](http://www.google.com/intl/en/policies/privacy/)
+Place of processing: USA - [Privacy Policy ](https://www.google.com/intl/en/policies/privacy/)
 
 WORLD PROPERTY JOURNAL™ will not sell, trade, or disclose to third parties any customer identifiable information derived from the registration for or use of an WORLD PROPERTY JOURNAL™ online service \-- including customer names and addresses -- without the consent of the customer (except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the customer or others). When WORLD PROPERTY JOURNAL™ uses other agents, contractors or companies to perform services on its behalf, WORLD PROPERTY JOURNAL™ will ensure that the company protects your customer identifiable information consistent with this Notice. If WORLD PROPERTY JOURNAL™ includes your name and any other customer identifiable information in a directory that WORLD PROPERTY JOURNAL™ creates from information we receive as an online service provider, the company will give you the opportunity to have your information excluded from that directory. Business directories that WORLD PROPERTY JOURNAL™ creates may, however, contain information obtained from other sources.
 
