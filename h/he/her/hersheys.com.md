@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325191811id_/https%3A//www.hersheys.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708053041id_/https%3A//www.hersheys.com/en_us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
