@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessandlifetips.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331014810id_/https%3A//www.businessandlifetips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessandlifetips.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708125633id_/https%3A//www.businessandlifetips.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Business and Life Tips
 
@@ -17,5 +17,3 @@ This site/blog may provide links to other websites that we may think are useful.
 We may use outside companies to display ads on this blog. These ads and notices may contain cookies. Third parties also may post content to our site. These postings may also contain cookies.  
 More details on our privacy policy can be found  [here. ](https://g.ezoic.net/privacy/businessandlifetips.com)  
 This privacy policy is subject to change without notice and was last updated on 3rd January, 2017. If you have any questions feel free to contact us directly here: john@businessandlifetips.com
-
-[](https://ad.admitad.com/g/nb5nhekah79498a7c8fb098db0fc4a/?i=4)
