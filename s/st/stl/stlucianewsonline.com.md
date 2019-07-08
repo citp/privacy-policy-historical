@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlucianewsonline.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621050305id_/https%3A//www.stlucianewsonline.com/privacy-policy-stlucianewsonline-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlucianewsonline.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708085740id_/https%3A//www.stlucianewsonline.com/privacy-policy-stlucianewsonline-com) for the most accurate reproduction.*
 
 # Privacy Policy - StLuciaNewsOnline.com - St. Lucia News Online
 
@@ -32,6 +32,6 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
  **How to Contact Us**
 
-If you have any questions or concerns about Andrews Media Services Corporation’s online policy for this site or its implementation you may contact us at [andrewsmediacorp@gmail.com](mailto:andrewsmediacorp@gmail.com).
+If you have any questions or concerns about Andrews Media Services Corporation’s online policy for this site or its implementation you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#11707f75637466627c74757870727e636151767c70787d3f727e7c).
 
 (1)(3)
