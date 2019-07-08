@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ids.ac.uk privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321092419id_/https%3A//www.ids.ac.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ids.ac.uk privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708202614id_/https%3A//www.ids.ac.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Institute of Development Studies
 
 ## Protecting your privacy
 
-The General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679) requires all organisations within the EU who process Personal Data to be transparent on how, why and what data is captured, stored and processed; the lawful basis for holding and processing personal data; how individuals canaccess information on themselves held by the organisation; and how they can control, or object to, the use of their personal data.
+The [UK Data Protection Act 2018](https://www.gov.uk/government/collections/data-protection-act-2018) requires all organisations within the EU who process Personal Data to be transparent on how, why and what data is captured, stored and processed; the lawful basis for holding and processing personal data; how individuals can access information on themselves held by the organisation; and how they can control, or object to, the use of their personal data.
 
 IDS is committed to protecting your privacy and complying with these regulations. This statement sets out how this is implemented across all of our communications channels, applications and networks, and details your rights in relation to your personal data that IDS captures, stores and uses. In addition to the above, we collect information automatically about visits to our website.
 
