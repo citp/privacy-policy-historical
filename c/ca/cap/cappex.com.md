@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405035355id_/https%3A//www.cappex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708073804id_/https%3A//www.cappex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cappex.com
 
-Last Updated: 10/15/2018
+Last Updated: 5/15/2019
 
-This Privacy Policy applies to web sites operated by Cappex.com, LLC ("Cappex"), including [www.cappex.com](https://www.cappex.com/),  [www.collegegreenlight.com](https://www.collegegreenlight.com/) and www.americanscholarships.com (each such web site being a "Cappex Site"). College Greenlight® is a service offered by Cappex.
+This Privacy Policy applies to web sites operated by Cappex.com, LLC ("Cappex"), including [www.cappex.com](https://www.cappex.com/) and  [www.collegegreenlight.com](https://www.collegegreenlight.com/) (each such web site being a "Cappex Site"). College Greenlight® is a service offered by Cappex.
 
-### 1\. GENERAL STATEMENT
+**1\. GENERAL STATEMENT**
 
 Cappex respects your privacy and is committed to protecting it. Our services require us to collect detailed personal information from you. We want you to have the information you need to make an informed decision about sharing your information with us. This Privacy Policy explains our information collection and sharing practices, as well as the choices you can make to limit our sharing your information.
 
@@ -28,23 +28,21 @@ Within this Privacy Policy, you will find the following:
 
 
 
-### 2\. TYPES OF PERSONAL INFORMATION WE COLLECT
+**2\. TYPES OF PERSONAL INFORMATION WE COLLECT**
 
 _Student Account Creation / Registration_  \- When you create an account on a Cappex Site, you are asked to provide certain information, such as name, address, phone number, e-mail address, password, date of birth and other academic and demographic variables relevant to the college selection/admission process. You may update this information at any time after your initial registration. If you are searching for scholarships, you may be asked to provide additional information that will help match you as a candidate for particular scholarships, including financial information, community involvement or disabilities.
 
 _Counselor Accounts_  \- Counselors and certain student supporters ("Counselors") have the ability to create accounts on Cappex Sites. If you create a Counselor account, we will collect your business contact information and it may be viewable by students, colleges and universities that use Cappex Sites. You always have the ability to update your counselor information and can have your account removed by contacting us at [support@cappex.com](mailto:support@cappex.com?subject=) .
 
-_Application Service_  \- You may choose to use the Cappex or College Greenlight application service, or (for students residing outside the United States) Cappex American Scholarships, which allows you to apply for admission to educational institutions through a Cappex Site ("Application Service"). You may be able to do this without registering on a Cappex Site. If you use the Application Service, Cappex will collect personally identifiable information similar to what is collected when you register to use a Cappex Site, along with transcripts and letters of recommendation, but the application information will only be shared only with institutions to which you choose to apply once you start that school's application and CBOs (defined below) or Counselors with whom you choose to share your applications.
+_Cappex Admissions Advising Users  _– We may collect personal information from users who subscribe to the Cappex Admissions Advising Service (the “Advising Service”) when such information is shared via online chat and other interactive tools on the Cappex Sites. Personal information collected through the Advising Service may be retained and used by our college advisors and other operational vendors to enable us to provide the Advising Service, but this information will not be added to your Cappex user profile and will not be shared with colleges, universities and sponsors as described in section 3 without your consent.
 
-_Cappex College Advisers Users_ – We may collect personal information from users who subscribe to the Cappex College Advising Service (the “Advising Service”) when such information is shared via online chat and other interactive tools on the Cappex Sites. Personal information collected through the Cappex College Advising Service may be retained and used by our college advisors and other operational vendors to enable us to provide the Advising Service, but this information will not be added to your Cappex user profile and will not be shared with colleges, universities and sponsors as described in section 3 without your consent.
-
-_Cappex American Scholarships Users –_ As mentioned above, students who reside outside the United States may use the Cappex American Scholarships application to apply directly to colleges and universities for both admission and the award of certain scholarships. The information contained in your application or profile created on [www.americanscholarships.com](http://www.americanscholarships.com/) will be shared only with the schools to which you choose to apply. If you create a profile on another Cappex Site, then your information may be shared with third parties in accordance with the applicable provisions of this privacy policy and other requirements of applicable law. _Collection of Information from Children_  \- Cappex Sites are intended for general audiences and are not directed to children under the age of 13. Cappex follows federal law and Federal Trade Commission guidelines regarding youth privacy and will not knowingly collect any personal information from children under the age of 13. If you are aware that a child under the age of 13 has created an account or provided us with personally identifiable information, please email us at [privacy@cappex.com](mailto:privacy@cappex.com?subject=) to have the account deleted.
+_Collection of Information from Children_  \- Cappex Sites are intended for general audiences and are not directed to children under the age of 13. Cappex follows federal law and Federal Trade Commission guidelines regarding youth privacy and will not knowingly collect any personal information from children under the age of 13. If you are aware that a child under the age of 13 has created an account or provided us with personally identifiable information, please email us at [privacy@cappex.com](mailto:privacy@cappex.com?subject=) to have the account deleted.
 
 _Referrals_  \- You may have received an invitation to register for a Cappex Site because we received your information from a third party that believes you would benefit from using a Cappex Site. If you decline the invitation, we do not retain the information we received from that party. Similarly, Cappex registrants can choose to let others know about Cappex through our referral feature by entering in a person's name and email address. If we received your email address through this channel, you may receive an invitation to register for a Cappex Site.
 
 _Cookies and Web Site Information_  \- We use cookies and web server logs to collect information about how you use Cappex Sites and to customize advertising that you may see on Cappex Sites. Information gathered through cookies and our web server logs may include the date and time of visits, your IP address, the pages viewed, time spent at our Cappex Site, and the web sites visited just before and just after a Cappex Site. This information may be appended to your profile information to provide you with better service and information and may be shared with colleges, universities and other sponsors as provided below. It also may be collected on an aggregate basis, and shared with or collected by third-party web analytics services to help Cappex understand our users' aggregated usage patterns and related trends. If you would like more information about advertising-related data collection practices and to know your choices about not having this information used by these online advertising companies, see: <http://www.networkadvertising.org/choices/>.
 
-### 3\. HOW WE USE AND SHARE THE INFORMATION WE COLLECT
+**3\. HOW WE USE AND SHARE THE INFORMATION WE COLLECT**
 
 We use and share the information you supply to Cappex in the following ways:
 
@@ -74,7 +72,7 @@ _Disclosure to Law Enforcement and Similar Disclosures_  \- Cappex will release
 
 _Sale or Merger_  \- If Cappex sells any part of its business, Cappex may transfer your information to its successor, regardless of your opt-out status.
 
-### 4\. YOUR PRIVACY CHOICES
+**4\. YOUR PRIVACY CHOICES**
 
 _Modifying Privacy Choices and Opt-outs_  \- You may deactivate your account or opt-out of receiving certain types of communications by clicking [here](https://www.cappex.com/page/account/management/index.jsp), which will take you to the "Manage your Account" page of the Cappex Site. If you deactivate your account, we will retain your information in our active database, but will not use it to contact you or share with colleges or other third parties. Cappex will communicate with you only according to your listed preferences. In order to opt-out of third party communications, you will need to contact the applicable third party. If you have any questions relating to opting-out, please contact us at [support@cappex.com](mailto:support@cappex.com?subject=) , and we will do our best to answer your questions.
 
@@ -82,17 +80,17 @@ _Updating Your Information_  \- You can update your personal information by cli
 
 _Closing your Account_  \- You may close your account on a Cappex Site by sending an email to [support@cappex.com](mailto:support@cappex.com?subject=) and we will remove your personal information from our active database. Once your account is closed, we will discard your personally identifiable data, but we may retain certain data for internal business purposes, such as analysis of non-personally identifiable data or as may be required by applicable law.
 
-### 5\. USE OUTSIDE OF THE UNITED STATES
+**5\. USE OUTSIDE OF THE UNITED STATES**
 
 Cappex Sites are operated in the United States. If you are located outside of the United States, any information you provide to us will be transferred to the United States. By using the Cappex Sites or by providing us with your information, you consent to this transfer.
 
-### 6\. OUR DATA SECURITY PROCEDURES
+**6\. OUR DATA SECURITY PROCEDURES**
 
 Cappex has reasonable security measures in place to keep the information you provide to us safe from unauthorized access. However, no method of information transfer over the Internet is 100% secure and we cannot guarantee the security of your information during its transmission or storage in our systems. We will assume that anyone who has the required login/password information for your account is you, so please keep this information confidential. Vendors and contractors who perform operational services for Cappex Sites and have access to your personally identifiable information are required to keep the information confidential.
 
 If you have any questions about security issues, please e-mail us at [privacy@cappex.com](mailto:privacy@cappex.com?subject=) , and we will try to answer your questions.
 
-### 7\. CALIFORNIA ONLINE PRIVACY PROTECTION ACT ("CALOPPA") DISCLOSURES REQUIRED BY 2013 AMENDMENT
+**7\. CALIFORNIA ONLINE PRIVACY PROTECTION ACT ("CALOPPA") DISCLOSURES REQUIRED BY 2013 AMENDMENT**
 
 Information provided in this Section 7 pursuant to CalOPPA is in addition to the disclosures contained in other sections of this Privacy Policy, which also address some CalOPPA requirements.
 
@@ -100,7 +98,7 @@ _Do Not Track ("DNT") Signals_  \- Web browsers offer you an option to send "Do
 
 _Third Party Collection of Personally Identifiable Information_  \- Other than as specified in this Privacy Policy, we generally do not allow third parties to collect your personally identifiable information provided on the Cappex Sites. In some cases, however, our third party service providers may collect information through the Cappex Site in order to assist Cappex in operating its web sites and services. Section 3 of this Privacy Policy contains additional information on how we share your information with third party service providers.
 
-### 8\. CHANGES TO THIS PRIVACY POLICY / QUESTIONS
+**8\. CHANGES TO THIS PRIVACY POLICY / QUESTIONS**
 
 _Changes to the Privacy Policy_  \- Cappex may update this Privacy Policy from time to time without notice to users other than posting the new Privacy Policy on this page. After posting such amended Privacy Policy, all information provided to us will be subject to the terms of the amended Privacy Policy. Please visit this page periodically so that you will be apprised of any changes.
 
@@ -110,5 +108,5 @@ Alternatively, you may contact us at:
 
 Chief Privacy Officer  
 Cappex.com, LLC  
-311 S. Wacker Dr., Suite 5900  
+200 W Jackson Street, Suite 2700  
 Chicago, IL 60606
