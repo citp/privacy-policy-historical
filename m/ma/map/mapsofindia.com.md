@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323185510id_/https%3A//www.mapsofindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708221310id_/https%3A//www.mapsofindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MapsofIndia.com
 
