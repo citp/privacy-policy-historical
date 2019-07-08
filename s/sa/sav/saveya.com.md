@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveya.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108235415id_/https%3A//saveya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveya.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708214710id_/https%3A//www.saveya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SaveYa
 
