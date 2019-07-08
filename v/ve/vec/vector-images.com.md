@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vector-images.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601024214id_/http%3A//vector-images.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vector-images.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708111632id_/https%3A//vector-images.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@ _Last updated: 15 Aug, 2011_
 
 Vector-Images.com collects some information about its users for statistical, billing and contact purposes. Vector-Images.com holds your data confidentially, it will not be sold to any third parties and it will not be seen by the public unless it is stated in this Agreement. 
 
-We reserve the right to change our policy in the future, and the most upadetes version is always posted at Vector-Images.com Website at http://vector-images.com/privacy/ 
+We reserve the right to change our policy in the future, and the most upadetes version is always posted at Vector-Images.com Website at https://vector-images.com/privacy/ 
 
 **What Information We Collect**
 
