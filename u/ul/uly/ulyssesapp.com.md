@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulyssesapp.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520194334id_/https%3A//ulysses.app/web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulyssesapp.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708022106id_/https%3A//ulysses.app/web-privacy-policy) for the most accurate reproduction.*
 
 # Ulysses › App Privacy Policy
 
