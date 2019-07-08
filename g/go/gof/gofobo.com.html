@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gofobo.com privacy policy that was archived on 2019-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190310114125id_/https%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gofobo.com privacy policy that was archived on 2019-07-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190708054245id_/http%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<title style="text-transform:capitalize;">Privacy</title>
@@ -27,9 +27,9 @@
 
 	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/fonts.css?v=3">
 
-	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/vendor.css??v=3" "="">
-	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/jquery-ui.css??v=3" "="">
-	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/datepicker.css??v=3" "="">
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/vendor.css??v=3">
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/jquery-ui.css??v=3">
+	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/datepicker.css??v=3">
 	<link rel="stylesheet" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/menu.css">
 	<link rel="stylesheet" type="text/css" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/dd.css">
 	<link rel="stylesheet" type="text/css" href="https://dk2d6nav3mn9d.cloudfront.net/assets/css/flags.css">
@@ -260,14 +260,14 @@ propertag.cmd = propertag.cmd || [];
 		<a class="text-no-dec desktop" href="/main/sweepstakes_browse">
 			<p class="bottom-text">Sweepstakes</p>
 		</a>
-				<a class="text-no-dec desktop" href="/main/gofobo_local_landing">
-			<p class="bottom-text">Local</p>
-		</a>
-				<a class="text-no-dec desktop" href="/main/movies">
+		<a class="text-no-dec desktop" href="/main/movies">
 			<p class="bottom-text">Movies/Events</p>
 		</a>
 		<a class="text-no-dec desktop" href="/main/verified_movie_ratings">
 			<p class="bottom-text">VERIFIED MOVIE RATINGS</p>
+		</a>
+		<a class="text-no-dec desktop" href="/main/trailers">
+			<p class="bottom-text">Trailers</p>
 		</a>
 		<div id="trigger-overlay" class="trigger"></div>
 	</div>
@@ -285,9 +285,9 @@ propertag.cmd = propertag.cmd || [];
 		<li><a href="/main/code_redeem">Redeem</a></li>		
 		<li><a href="/main/local_screenings">Screenings</a></li>
 		<li><a href="/main/sweepstakes_browse">Sweepstakes</a></li>
-		          <li><a href="/main/gofobo_local_landing">Local</a></li>	
-				<li><a href="/main/movies">Movies/Events</a></li>
+		<li><a href="/main/movies">Movies/Events</a></li>
 		<li><a href="/main/verified_movie_ratings">VERIFIED MOVIE RATINGS</a></li>
+        <li><a href="/main/trailers">Trailers</a></li>
 		<li style="padding-top:10px;">
 			<select class="langSel desktop" id="languageToggle" autocomplete="off">
 	<option value="US" selected="">United States</option>
@@ -405,7 +405,7 @@ propertag.cmd = propertag.cmd || [];
 
 				<h4 class="mt1">THIRD-PARTY ADVERTISING.</h4>
 				<p>Gofobo may share profile information in a personally identifiable manner and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. Advertisements that appear on this Web site, on mobile apps or in are delivered to users by our advertising partners. Our advertising partners may set cookies.</p>
-				
+				<p>Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you or your business.  Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID.  Our partners may link the hashed or obfuscated personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information.  Our partners use this information to recognize you across different channels and platforms, including but not limited to, computers, mobile devices, and Smart TVs, over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. Your data may be transferred outside of the country from which it was originally collected. To learn more about interest-based advertising in general and to opt out, please visit <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a>. To opt-out of the use of your mobile device ID for targeted advertising, please see <a href="http://www.aboutads.info/appchoices" target="_blank">http://www.aboutads.info/appchoices</a>.</p>
 				<h4 class="mt1">Acquisition or Business Transfer.</h4>
 				<p>We reserve the right to transfer your personal information in the event of a merger, acquisition or reorganization of ownership of gofobo.</p>
 
@@ -741,7 +741,8 @@ $(document).ready(function(e) {
             <div class="mt1"><a href="/main/gofobo_local_landing">Local</a></div>
 <!--       <div class="mt1"><a href="http://blog.gofobo.com/">Blog</a></div> --> 
      <div class="mt1"><a href="/main/newsletter">Newsletter</a></div>
-      <div class="mt1"><a href="/mobileapp">Get the App</a></div>
+        <div class="mt1"><a href="/main/trailers">Trailers</a></div>
+      <!-- <div class="mt1"><a href="/mobileapp">Get the App</a></div> -->
           </div>
     <div class="col">
       <div style="text-transform:uppercase" class="footer-bold">Support</div>
@@ -776,14 +777,15 @@ $(document).ready(function(e) {
     </div>
 	</div>
 </div>
-
 <script async="" type="text/javascript" src="/assets/js/classie.js"></script>
 <script async="" type="text/javascript" src="/assets/js/demo1.js"></script>
 
 <!-- STICKY AD -->
+
 <div class="proper-ad-unit ad-sticky">
   <div id="proper-ad-gofobo_sticky_1"> <script> propertag.cmd.push(function() { proper_display('gofobo_sticky_1'); }); </script> </div>
 </div>
+
 </div>
 	<script type="text/javascript" charset="utf-8">
 	// Place this code snippet near the footer of your page before the close of the /body tag
