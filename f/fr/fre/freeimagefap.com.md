@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeimagefap.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504191533id_/http%3A//www.freeimagefap.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeimagefap.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708075606id_/http%3A//www.freeimagefap.com/p/privacy) for the most accurate reproduction.*
 
 # Freeimagefap Is The Biggest Adult Porn Pics Site.
 
