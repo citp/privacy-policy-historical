@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeandme.eu privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612121106id_/http%3A//europeandme.eu/legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeandme.eu privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708020647id_/http%3A//europeandme.eu/legal-notice) for the most accurate reproduction.*
 
 # Imprint / Legal Notice – Europe and Me
 
