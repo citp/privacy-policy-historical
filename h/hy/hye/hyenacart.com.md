@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyenacart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002304id_/http%3A//hyenacart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyenacart.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708152642id_/https%3A//hyenacart.com/privacy.php) for the most accurate reproduction.*
 
-# Hyena Cart :: Privacy Policy
+# Privacy Policy :: Hyena Cart
 
 This privacy policy exists to let you know what information you provide to Hyena Cart is collected, and how this information is used and shared. Privacy is very important to us at Hyena Cart and you should know up-front that none of your information will be shared with third-parties, nor will you receive unsolicited email from Hyena Cart as a result of account registration. 
 
