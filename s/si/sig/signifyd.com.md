@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signifyd.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417074013id_/https%3A//www.signifyd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signifyd.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708210454id_/https%3A//www.signifyd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - how we collect use and disclose PI | Signifyd
 
@@ -24,7 +24,7 @@ We collect Personal Information that our users provide to us in a variety of way
 
 _Information from Other Sources_
 
-We may receive Personal Information about you from third parties, including public databases and industry-standard data vendors, and may combine this information with other Personal Information we maintain about you.  In addition, we collect information from our customers and their End Users to provide the Services as described above and in our [Terms of Service](https://web.archive.org/web/20190417074013id_/https://www.signifyd.com/privacy/h/terms/). We may also obtain information about you from publicly available sources.
+We may receive Personal Information about you from third parties, including public databases and industry-standard data vendors, and may combine this information with other Personal Information we maintain about you.  In addition, we collect information from our customers and their End Users to provide the Services as described above and in our [Terms of Service](https://web.archive.org/web/20190708210454id_/https://www.signifyd.com/privacy/h/terms/). We may also obtain information about you from publicly available sources.
 
 ### 2\. How We Use Your Information
 
