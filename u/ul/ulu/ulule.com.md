@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulule.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404061156id_/https%3A//www.ulule.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulule.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708081640id_/https%3A//www.ulule.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Ulule
 
