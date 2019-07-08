@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musickorea.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618092830id_/http%3A//musickorea.com/About/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musickorea.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708072756id_/http%3A//musickorea.com/About/privacy) for the most accurate reproduction.*
 
 # MUSIC KOREA: K-POP CDs Online Shop
 
