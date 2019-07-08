@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumtree.in privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508152935id_/http%3A//www.gumtree.in/privacy-policy-p26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.in privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708150856id_/http%3A//www.gumtree.in/privacy-policy-p26) for the most accurate reproduction.*
 
 # Privacy Policy - Your Local Classifieds
 
