@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7shifts.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406082037id_/https%3A//www.7shifts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7shifts.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708162847id_/https%3A//www.7shifts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 7shifts
 
