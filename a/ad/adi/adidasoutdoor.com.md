@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidasoutdoor.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328040415id_/https%3A//www.adidasoutdoor.com/about--privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidasoutdoor.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708144218id_/https%3A//www.adidasoutdoor.com/about--privacy-policy.html) for the most accurate reproduction.*
 
 # Adidas Five Ten | Privacy Policy
 
