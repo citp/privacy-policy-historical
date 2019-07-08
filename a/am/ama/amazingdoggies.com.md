@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingdoggies.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507201120id_/http%3A//amazingdoggies.com/amazingdoggies-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingdoggies.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708132754id_/http%3A//amazingdoggies.com/amazingdoggies-com-privacy-policy) for the most accurate reproduction.*
 
 # amazingdoggies.com Privacy Policy – Amazing Doggies
 
