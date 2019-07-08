@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zojirushi.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127201019id_/https%3A//www.zojirushi.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zojirushi.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708174424id_/https%3A//www.zojirushi.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | zojirushi.com
 
