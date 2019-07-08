@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viewranger.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331002329id_/https%3A//www.viewranger.com/help/legal/%3Ftype%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewranger.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708122402id_/https%3A//www.viewranger.com/help/legal/%3Ftype%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
 # None
 
-### Effective 5th March 2019
+### Effective 3rd July 2019
 
-[Previous Privacy Policy](https://web.archive.org/web/20190331002329id_/https%3A//www.viewranger.com/help/legal/privacy_en_preJul18.htm)
+[Previous Privacy Policy](https://web.archive.org/web/20190708122402id_/https%3A//www.viewranger.com/help/legal/privacy_en_preJul19.htm)
 
 ViewRanger takes your privacy seriously and we handle your information with care.
 
@@ -42,6 +42,8 @@ If you record a track while following a route, a record of the link between the 
 
 If you use the Buddy Beacon feature, your live locations are received and stored in ViewRanger, and can be seen by those with whom you choose to share your account identifier and Buddy Beacon PIN code.
 
+You can choose to add photographs to routes and tracks.
+
 ##### Purchases and content use
 
 Purchases of routes, maps and credit within the application are handled by your device's app store, and ViewRanger collects no personal details from those app stores.
@@ -54,17 +56,27 @@ If you download maps or routes within ViewRanger, including selecting a custom m
 
 Use of online maps is recorded to enable us to monitor and report aggregated and anonymised service usage.
 
-We do not directly handle payment card details. Payments are handled by the device's app store, or by our card payment service provider (Worldpay).
+We do not directly handle payment card details. Payments are handled by the device's app store, or by our card payment service providers (Worldpay and Stripe).
+
+If you purchase through the My.ViewRanger web site, payment details are handled by the Stripe payment service. In order to provide recurring subscriptions, or if you switch on the Remember me option at the checkout, Stripe will store your card details, and you can manage those details at <https://my.viewranger.com/user/payment>.
+
+Payment details for purchases within the app are handled by the Play Store, App Store or Amazon App Store, and can be accessed through the account section of those Store apps. Those payment details are never accessible to ViewRanger.
 
 ##### Location
 
 Content you create - routes, tracks, points of interest, map selections - contains location data and can contain time data.
+
+If you add photos to tracks, the photo may contain an embedded location, which is used to show the location of the photo on a map.
+
+} 
 
 If you send the Buddy Beacon, the locations and times you send are recorded to provide the beacon service.
 
 When you use the website, to display content relevant to your location, we ask your browser for a location, or lookup the approximate location of your Internet Protocol (IP) address using a service private to ViewRanger.
 
 When you browse for routes in the application or website, we receive the location of the map centre to allow us to show content relevant to that location. That location may be recorded to assist in personalising your service.
+
+If you search for a location using the what3words option, your location will be sent to what3words to enable them to show the 3 words for your current location, and to suggest the most appropriate 3 words for your current location as you type. This location and the search is not personally identifiable to you.
 
 Your device asks for your consent before ViewRanger first uses location, and you can withdraw that consent at any time via the device's Settings app.
 
@@ -86,7 +98,7 @@ You can rate and review routes that you have followed. When you leave a review, 
 
 If you make your buddy beacon public; upload tracks with a public status; follow another user; or download routes; that may show in the activity feeds.
 
-You can share links to your account profile page, routes and tracks. 
+You can share links to your account profile page, routes and tracks.
 
 ##### Analytics
 
@@ -170,6 +182,8 @@ If you enter a challenge, your accumulated activity within the challenge will be
 
 The Buddy Beacon is protected with the PIN that you choose, but you can choose to make your Buddy Beacon public.
 
+If routes that you publish, or tracks that you share, link to photos, those photos will also be publicly visible.
+
 ##### Service Providers
 
 We may share your information with third parties who provide services to ViewRanger. These service providers will only have access to the information necessary to provide limited functions on our behalf. They are required to keep your information secure.
@@ -200,7 +214,7 @@ You can control all ViewRanger email and notifications in the ViewRanger applica
 
 Other privacy settings are available in the ViewRanger application at menu tab, Settings, Privacy (and in older applications via menu tab, Help and feedback, Product Improvement), and on the website at <https://my.viewranger.com/user/account/profile>.
 
-The ViewRanger Service may display advertisements. Depending on your device or browser privacy settings, advertising tracking data may be shared with the advertising service. With effect from 25th May 2018, the advertising component of ViewRanger will seek your consent before first using personal and tracking data.
+The ViewRanger Service may display advertisements. Depending on your device or browser privacy settings, advertising tracking data may be shared with the advertising service. The advertising component of ViewRanger will seek your consent before first using personal and tracking data.
 
 ## Legal Basis and Our Legitimate Interests
 
@@ -236,6 +250,8 @@ Routes and tracks that you create can be exported to the widely-used GPX file fo
 
 Points of interest can be exported using the ViewRanger application. 
 
+Photographs can be managed via the My.ViewRanger web site's My photos page.
+
 Most of your personal data is immediately available to view in your account on the My.ViewRanger web site. You can inspect any additional data held using the 'Request personal data' option on the My profile page of the My.ViewRanger website.
 
 ##### Right to Change or Correct Data
@@ -267,6 +283,8 @@ ViewRanger may update this policy from time to time. Regulations and standards c
 If you disagree with changes to this privacy policy, contact ViewRanger support to have your account and data deleted.
 
 ## Revision History
+
+3rd July 2019: Added information about the use of photos; what3words; and the Stripe payment system.
 
 5th March 2019: Added detail of how data from Apple Health is used.
 
