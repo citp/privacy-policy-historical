@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnm.net privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508195102id_/http%3A//cfnm.net/cookies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnm.net privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708215010id_/http%3A//cfnm.net/cookies.php) for the most accurate reproduction.*
 
 # Privacy and Cookies Information
 
