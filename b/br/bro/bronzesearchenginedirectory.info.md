@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bronzesearchenginedirectory.info privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508052336id_/http%3A//bronzesearchenginedirectory.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronzesearchenginedirectory.info privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708134554id_/http%3A//bronzesearchenginedirectory.info/privacy) for the most accurate reproduction.*
 
 # privacy – living room ideas
 
