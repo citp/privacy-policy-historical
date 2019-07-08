@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tit4free.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826061135id_/http%3A//www.tit4free.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tit4free.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708130903id_/https%3A//www.tit4free.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - tit4free
+# Privacy Policy - Tit4free
 
 This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
