@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robooption.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530170309id_/https%3A//www.robomarkets.com/about/client/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robooption.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708114713id_/https%3A//www.robomarkets.com/about/client/security-policy) for the most accurate reproduction.*
 
 # Privacy policy - RoboMarkets
 
@@ -126,4 +126,4 @@ In respect of the Client’s rights, the Company informs you that you are able t
 
 ### Data Protection Officer
 
-To exercise all relevant rights, queries or complaints to any data protection matter between you and the Company, please in the first instance contact our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7115011e31031e131e1c10031a1405025f121e1c).
+To exercise all relevant rights, queries or complaints to any data protection matter between you and the Company, please in the first instance contact our Data Protection Officer at [dpo@robomarkets.com](mailto:dpo@robomarkets.com).
