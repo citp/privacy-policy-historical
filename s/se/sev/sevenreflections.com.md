@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenreflections.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608161338id_/http%3A//www.sevenreflections.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenreflections.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708022349id_/https%3A//www.sevenreflections.com/privacy) for the most accurate reproduction.*
 
 # Seven Reflections Privacy Policy
 
