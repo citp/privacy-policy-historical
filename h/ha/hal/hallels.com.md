@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallels.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607050232id_/http%3A//www.hallels.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallels.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708050324id_/http%3A//www.hallels.com/privacypolicy) for the most accurate reproduction.*
 
 # Hallels
 
