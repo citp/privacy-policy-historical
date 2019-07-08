@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enhancv.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112072048id_/https%3A//enhancv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enhancv.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708065120id_/https%3A//enhancv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Depending on your relationship with Enhancv, we’d collect different types of i
 
 What is it?
 
-When visiting one of our domains, we will collect information about your interaction with the site, like pages you visit and specific actions you take like signing up or sharing one of our [resume examples.](https://enhancv.com/successful-resumes.html)
+When visiting one of our domains, we will collect information about your interaction with the site, like pages you visit and specific actions you take like signing up or sharing one of our [resume examples.](https://enhancv.com/resume-examples/)
 
 When using the Enhancv platform for creating your resume, we will collect information about the way our platform is used, including features used, resume sections used, number of resumes created, design elements used, etc. All information you knowingly include in your resume, including email, address, telephone number, is also stored in our database.
 
@@ -102,7 +102,7 @@ Your account information is kept during your account’s lifetime in order to id
 
 What is it?
 
-If you are using one of our [paid plans](https://enhancv.com/pricing.html), you need to provide billing information and payment details (credit card or Paypal account).
+If you are using one of our [paid plans](https://enhancv.com/pricing/), you need to provide billing information and payment details (credit card or Paypal account).
 
 Payments are processed by [Braintree](https://www.braintreepayments.com/), a Level 1 PCI DSS compliant third-party and your credit card info is safely stored with them. Our partners never share with us payment details - we never receive your credit card or Paypal account information under any circumstances.
 
