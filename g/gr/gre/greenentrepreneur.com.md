@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the greenentrepreneur.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331041026id_/https%3A//www.greenentrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenentrepreneur.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709001825id_/https%3A//www.greenentrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Entrepreneur.com
+# Privacy Policy - Entrepreneur Media, Inc.
 
-Last Revised: May 4, 2017
+_If you have entered this website from the European Union or Norway, Iceland or Liechtenstein, please[click on this link](https://web.archive.org/privacy-policy/eu) to read important information about how your personal data is used and stored._
+
+Last Revised: June 25th, 2018
 
 **Your Privacy is Serious Business to Us!**
 
@@ -14,7 +16,7 @@ Maintaining the privacy of our website visitors and mobile application users is 
 
 
 
-This privacy policy ("Privacy Policy") describes how Entrepreneur Media, Inc. ("EMI") with registered address at [18061 Fitch, Irvine CA, 92614] may collect, use and share information you provide when using our Service, including your personal information. The term "Service" includes the website [www.entrepreneur.com](http://www.entrepreneur.com/) and its respective sub-domains, the Entrepreneur mobile application, and any related content, software, applications, widgets, materials and/or services made available by or on behalf of EMI. For purposes of this Privacy Policy, the terms "we," "us" and "our" refer to EMI and "you" refers to you, as a user of the Service.
+This privacy policy ("Privacy Policy") describes how Entrepreneur Media, Inc. ("EMI") with registered address at 18061 Fitch, Irvine CA, 92614 may collect, use and share information you provide when using our Service, including your personal information. The term "Service" includes the websites [www.entrepreneur.com](http://www.entrepreneur.com/) and [www.greenentrepreneur.com](http://www.greenentrepreneur.com/) together with any related subsites, sub-domains, mobile and software applications, services, features and/or content associated therewith (collectively, "our Websites"). For purposes of this Privacy Policy, the terms "we," "us" and "our" refer to EMI and "you" refers to you, as a user of our Service.
 
 We've tried to keep this Privacy Policy simple, but if you're not familiar with any of the terms used or have any questions, contact us at _[legal@entrepreneur.com](mailto:legal@entrepreneur.com)_. Your privacy matters to us at EMI, so whether you are new to our Service or are a regular or longtime user, it is important that you take the time to carefully read our Privacy Policy, so you can understand our practices as relates to your information.
 
@@ -26,7 +28,7 @@ We will ask for your consent before using your information in any manner and for
   2. How We Use Information We Collect
   3. The Advertising on Our Service
   4. Privacy and Choice
-  5. Minors and Children Under Age 13
+  5. Minors and Children Under Age 16
   6. Where We Store the Information
   7. The Information You Share
   8. Updating Your Personal Information
@@ -50,7 +52,7 @@ We collect information about you from the following two sources:
 
 **b. The information we collect from your use of our Service.** This information relates generally to what editorial and advertising content you view, and the products and services you use that we and our third-party providers offer. This information includes:
 
-(i) Device Information, We collect information about the devices you use to access our Service, such as hardware settings, browser type, browser language, the date and time of your request and referral URL.
+(i) Device Information, we collect information about the devices you use to access our Service, such as hardware settings, browser type, browser language, the date and time of your request and referral URL.
 
 (ii) Log Information. When you use our Service, we automatically collect and store certain information in _server logs_ , which automatically record certain information when you use our Service, including the following:
 
@@ -76,7 +78,7 @@ We may use the name you provide for your EMI Profile across all of the services 
 
 When you contact EMI, we retain a record of your communications to help solve any issues you might be facing, or to maintain a record to assist with legal claims. We will keep these records for a period of no more than 6 years. Provided you have consented thereto, we may use your email address to inform you about the products and services offered on our Service, such as letting you know about upcoming changes or improvements.
 
-We use information collected from cookies and other technologies, like _pixel tags_ , to improve your user experience and the overall quality of our services. You can reset your browser to reject all cookies or to indicate when a cookie is being sent. But you need to know that you may not be able to access or use some features and services on our Service without cookies. A _pixel tag_ is a type of technology which is placed on a website or within an email and used for the purpose of tracking activity on a website and is often used in combination with cookies. For further information about how we use and collect cookies, see our separate cookie policy located at [<https://www.entrepreneur.com/cookie-policy>].
+We use information collected from cookies and other technologies, like _pixel tags_ , to improve your user experience and the overall quality of our services. You can reset your browser to reject all cookies or to indicate when a cookie is being sent. But you need to know that you may not be able to access or use some features and services on our Service without cookies. A _pixel tag_ is a type of technology which is placed on a website or within an email and used for the purpose of tracking activity on a website and is often used in combination with cookies. For further information about how we use and collect cookies, see our separate cookie policy located at <https://www.entrepreneur.com/cookie-policy>.
 
 We do not track our users across third party websites and thus do not respond to Do Not Track ("DNT") signals. However, some third party websites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, certain website browsers allow you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked.
 
@@ -98,7 +100,7 @@ People have different concerns about privacy. Our goal is to be clear about what
 
 ## 5\. Minors and Children under the Age of 16.
 
-EMI does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register to use our Service. No one under age 16 is allowed to provide any personal information to EMI or on the Service. In the event that we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 16, please contact us at _[legal@entrepreneur.com](mailto:legal@entrepreneur.com)_.
+EMI does not knowingly collect or solicit personal information from anyone under the age of 16 or knowingly allow such persons to register to use our Service. No one under age 16 is allowed to provide any personal information to EMI or on our Service. In the event that we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 16, please contact us at _[legal@entrepreneur.com](mailto:legal@entrepreneur.com)_.
 
 ## 6\. Where We Store the Information
 
@@ -148,7 +150,7 @@ c. We restrict access to personal information to those of our employees, contrac
 
 ## 11\. The Scope of Our Privacy Policy.
 
-Our Privacy Policy applies to all of the services offered by EMI through its Service. However, our Privacy Policy does _not_ apply to the any of the following:
+Our Privacy Policy applies to all of the services offered through our Service. However, our Privacy Policy does _not_ apply to the any of the following:
 
 a. services offered by other companies or individuals on non-EMI websites or applications, including any such websites or applications which may be referenced on or linked from our Service; and
 
