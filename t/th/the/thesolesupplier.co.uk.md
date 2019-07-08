@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesolesupplier.co.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531162509id_/https%3A//thesolesupplier.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesolesupplier.co.uk privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709004531id_/https%3A//thesolesupplier.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Sole Supplier
 
