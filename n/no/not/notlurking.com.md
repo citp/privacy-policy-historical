@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notlurking.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206181348id_/http%3A//linkis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notlurking.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708051308id_/http%3A//linkis.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Linkis.com
 
