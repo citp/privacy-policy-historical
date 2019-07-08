@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblogtemplates.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110611id_/http%3A//www.weblogtemplates.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblogtemplates.net privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708115600id_/https%3A//weblyb.com/page/what-information-do-we-collect-we) for the most accurate reproduction.*
 
 # Privacy Policy
 
