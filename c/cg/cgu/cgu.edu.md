@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgu.edu privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828141240id_/https%3A//www.cgu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgu.edu privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708023225id_/https%3A//www.cgu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Claremont Graduate University
 
