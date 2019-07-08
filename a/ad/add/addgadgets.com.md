@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addgadgets.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607081646id_/http%3A//addgadgets.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addgadgets.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708135003id_/http%3A//addgadgets.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Windows Desktop Gadgets - Privacy Policy
 
