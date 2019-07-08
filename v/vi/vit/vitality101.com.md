@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitality101.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609130124id_/http%3A//www.vitality101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitality101.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708164924id_/https%3A//vitality101.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vitality 101
 
