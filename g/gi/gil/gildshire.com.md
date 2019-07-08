@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gildshire.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120114531id_/https%3A//www.gildshire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gildshire.com privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708062637id_/https%3A//www.gildshire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gildshire
+# Privacy Policy for Gildshire
 
 This Privacy Policy discloses the privacy practices for Gildshire. The Gildshire Services may contain links to other websites for your convenience and information. We are not responsible for the privacy practices or the content of those sites.
 
