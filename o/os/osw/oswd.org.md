@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oswd.org privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523190235id_/http%3A//oswd.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oswd.org privacy policy that was archived on 2019-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190708072737id_/http%3A//www.oswd.org/site/privacy) for the most accurate reproduction.*
 
 # Open Source Web Design - Privacy Policy
 
