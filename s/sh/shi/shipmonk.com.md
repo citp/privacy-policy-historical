@@ -1,100 +1,57 @@
-> *The following text is extracted and transformed from the shipmonk.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipmonk.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710014515id_/https%3A//www.shipmonk.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | ShipMonk
 
-**Go Daddy Respects Your Privacy**
+**Privacy Policy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting ShipMonk.com, you are accepting the practices described in this Privacy Notice.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+The information we learn from customers helps us personalize and continually improve your shipping experience at ShipMonk.com. Here are the types of information we gather.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+ **Information you give us:** We receive and store any information you enter on our Web site or give us in any other way. You provide most such information when you price, ship, participate in a contest or questionnaire, or communicate with customer service. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom packages have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in your address book; content of reviews and e-mails to us; personal description; and financial information, including Social Security and driver’s license numbers. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shipping for you, improving our site, and communicating with you.
 
-**Information Collection and Use**
+ **Automatic information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses ShipMonk.com. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; shipping history, which we sometimes aggregate with similar information from other customers to create features such as shipping circles and top shippers; the full Uniform Resource Locator (URL) clickstream to, though, and from our Web site, including date and time; cookie number; routes you searched for; and the phone number you used to call our 888 number. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at ShipMonk.com if we cannot recognize you, we want you to be aware that these tools exist.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+ **Behavioral “retargeting” Advertising:** We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, company, address, email address, or telephone number) cookies or web beacons to collect non-personally identifiable information such as IP address, pages viewed, and if a conversion and other information about your visits to this and other Web sites in order to provide advertisements about Products and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here for more information about behavioral advertising and how it uses your anonymous info, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+ **E-mail communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from ShipMonk.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please go to the My Account link in the header of any ShipMonk page and adjust your Newsletter preferences.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+ **Information from other sources:** We might receive information about you from other sources and add it to our account information. Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next shipment or communication more easily; account information, purchase or redemption information, and page-view information; pricing criteria and pricing result information; and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit services to some customers.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+ **Affiliated businesses we do not control:** We work closely with our affiliated businesses. Examples of co-branded and joint offerings include carriers which handle the delivery of your packages, and brokers which provide your packages with cargo insurance. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+ **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+ **Promotional offers:** Sometimes we send offers to selected groups of our customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please go to the My Account link in the header of any ShipMonk page and adjust your Newsletter preferences.
 
-**Security**
+ **Business transfers:** As we continue to develop our business, we might sell or buy business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that we, or substantially all of our assets are acquired, customer information will of course be one of the transferred assets.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+ **Protection of ShipMonk.com and others:** We release account and other personal information as necessary to enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of us, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 
-**Updating Your Information**
+ **Law Enforcement:** ShipMonk’s policy is to notify members of requests for their data unless it is prohibited from doing so by statute or court order. Law enforcement officials who believe that notification would jeopardize an investigation should obtain an appropriate court order or other process that specifically precludes member notification.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ **With your consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We reveal only the last five digits of your credit card numbers when confirming a shipment. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ShipMonk.com gives you access to a broad range of information about your account and your interactions with ShipMonk.com for the limited purpose of viewing and, in certain cases, updating that information. If you are under 18, you may use ShipMonk.com only with the involvement of a parent or guardian.
 
-      iii.      You may call us at: (480) 505-8800
+If you choose to visit ShipMonk.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Florida. If you have any concern about privacy at ShipMonk.com, please contact us with a thorough description, and we will try to resolve it.
 
-       iv.      You may fax us at: (480) 505-8844
+Our business changes constantly, and our Privacy Notice and the Terms of Use will change also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-**Sending Emails**
+If you have any questions about this privacy statement, the practices of this site or your dealings with ShipMonk.com, please contact Customer Support. Our Privacy Policy is subject to change without notice. Please visit this site often to keep up to date with our latest policies.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * Electronic Frontier Foundation – a civil liberties organization working to protect your rights online.
+  * Electronic Privacy Information Center – established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.
+  * Privacy Issues Page – from the Center for Democracy and Technology (CDT).
+  * The EPIC Cookies Page – definitions, links, and news.
+  * How to Protect Your Privacy – information from the Federal Trade Commission.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+The Client must (A) maintain a clear and conspicuous link in its privacy policy to Plaid’s privacy policy located at <https://plaid.com/legal> with a clear and conspicuous statement that each End User acknowledges and agrees that End User data and information will be treated in accordance with such policy, or (B) include a statement in the Client’s privacy policy that grants Plaid the same rights, power, and authority as specified in Plaid’s privacy policy. The following language will be deemed to comply with the preceding sentence: BedaBox LLC 8/4/2016 _Client uses Plaid Technologies, Inc. (“Plaid”) to gather End User’s data from financial_ _institutions. By using our service, you grant Client and Plaid the right, power, and_ _authority to act on your behalf to access and transmit your personal and financial_ _information from the relevant financial institution. You agree to your personal and_ _financial information being transferred, stored, and processed by Plaid in accordance_ _with the[Plaid Privacy Policy](https://plaid.com/legal)._
 
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+ _Exhibit A is located at[www.shipmonk.com/pricing](https://www.shipmonk.com/pricing)_
