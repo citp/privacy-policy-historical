@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421025336id_/https%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709120619id_/https%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy- ACT Government
 
 ## Scope
 
-This statement applies to the following Australian Capital Territory (ACT) Government websites and online facilities:
-
-  * [https://www.accesscanberra.act.gov.au](https://www.accesscanberra.act.gov.au/)
-  * [http://www.act.gov.au](http://www.act.gov.au/ "ACT Government Information Portal")
-  * [https://www.bookings.act.gov.au](https://www.bookings.act.gov.au/)
-  * [https://www.contactmyminister.act.gov.au](https://www.contactmyminister.act.gov.au/)
-  * [https://www.form.act.gov.au](https://www.form.act.gov.au/)
-  * [http://www.gamblingandracing.act.gov.au](http://www.gamblingandracing.act.gov.au/)
-
-
-
-These websites and online facilities are managed by [Access Canberra](https://www.accesscanberra.act.gov.au/), Chief Minister, Treasury and Economic Development Directorate.
+This statement applies to the Australian Capital Territory (ACT) Government websites and online facilities managed by Chief Minister, Treasury and Economic Development Directorate.
 
 For information about how the Chief Minister, Treasury and Economic Development Directorate handles your information, please refer to the [Chief Minister, Treasury and Economic Development Directorate Privacy Policy](http://www.cmd.act.gov.au/legal/privacy).
 
