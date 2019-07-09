@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tri-c.edu privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318051415id_/https%3A//www.tri-c.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tri-c.edu privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709184237id_/https%3A//www.tri-c.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,11 @@ The College encourages compliance with the privacy statements of each respective
 
 The College may provide links to other websites of interest to provide services for its users. The College is not responsible for the content and privacy practices of these websites. The use of such linked sites is subject to the privacy statements and use requirements of each respective site; please check each site for its respective privacy policy.
 
-**1.5 Policy Applicability**
+**1.5 Social Media, Social/Ad Retargeting & Pixels**
+
+The College’s online and mobile communications may contain links and pixels directed to other websites and social media platforms. Some links and pixels may retarget to College-sponsored content such as the Tri-C Jazz Fest.  Other links and pixels may redirect to websites or platforms such as Facebook, Twitter, or Pinterest, etc. The College is not responsible for the privacy practices, policies, or content of any of these websites or platforms. This Privacy Policy does not apply to any outside websites or platforms. The College has no control over the collection or use of Information, including personal information, on any external websites or platforms.
+
+**1.6 Policy Applicability**
 
 The Web Privacy Policy applies generally to the information collected by or submitted to official College websites. However, the amount and type of information collected may vary from site to site and web page unit controls.
 
@@ -84,11 +88,15 @@ The College does not divulge any information about an individual website user to
 
 The College complies with the Family Educational Rights and Privacy Act of 1974 (FERPA), as amended, which provides students the right to access a copy of their student records; permits students with the right to contest incorrect information in their student records; and limits the release of such information without students’ explicit written consent. Student "directory information" may be released without the student's written consent.
 
-Information regarding Student Education Records and FERPA is available by [clicking here [DH1]](https://web.archive.org/web/20190318051415id_/https%3A//www.tri-c.edu/administrative-departments/office-of-legal-services/student-education-records-and-ferpa.html). Questions regarding Student Education Records or FERPA should be directed to the Legal Services department at legal@tri-c.edu or 216-987-4856.
+Information regarding Student Education Records and FERPA is available by [clicking here [DH1]](https://web.archive.org/web/20190709184237id_/https%3A//www.tri-c.edu/administrative-departments/office-of-legal-services/student-education-records-and-ferpa.html). Questions regarding Student Education Records or FERPA should be directed to the Legal Services department at legal@tri-c.edu or 216-987-4856.
 
 **3.3 Health Insurance Portability and Accountability Act of 1996 (HIPAA)**
 
 Certain optional information submitted by users may be considered Protected Health Information (PHI). The College complies with the Health Insurance Portability and Accountability Act of 1996 (HIPAA), which regulates the use and disclosure of PHI.
+
+**3.4 Users from Outside the United States**
+
+The College’s website is provided and operated from within the United States and is subject to the applicable state and federal laws of the United States. Use of website user information by the College is intended for use only within the United States and its territories.  If you are located outside the United States, please be aware that your information is being transferred to and stored in the United States.  Use of this site outside of the United States is at your own risk, and you agree to comply with all applicable laws and use or nonuse of content.
 
 ### 4.0 Procedures and Responsibilities
 
