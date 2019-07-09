@@ -1,104 +1,18 @@
-<!--The following is the downloaded HTML source of the emailsherlock.com privacy policy that was archived on 2017-08-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170831023400id_/https%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emailsherlock.com privacy policy that was archived on 2019-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190709061352id_/https%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <title>EmailSherlock.com Privacy Policy</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
+		<title>EmailSherlock.com Privacy Policy</title>
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<link rel="canonical" href="">
 		<link href="/templates/July2016/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
 		<link href="/templates/July2016/styles/style.css" rel="stylesheet" type="text/css">
 		<link href="/templates/July2016/styles/responsive.css" rel="stylesheet" type="text/css">
-		<meta name="google-site-verification" content="Df-qAilVAP_cLwvsaHR_FzePRA4PJRsu18zG3HRGnXI">
 		<meta property="fb:app_id" content="538642846200264">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/jquery.js"></script>
-        <script type="text/javascript" src="/javascripts/jquery.tipsy.js"></script>
-        <script type="text/javascript" src="/socialshare/inc/js/jquery.plugins.js"></script>
-        <script type="text/javascript" src="/socialshare/inc/js/jquery.site.js"></script>
-        <script type="text/javascript" src="/javascripts/jquery.colorbox-min.js"></script>
-        <script type="text/javascript" src="/javascripts/lightbox.js"></script>
-        <script type="text/javascript" src="/javascripts/jquery-ui-1.8.13.custom.min.js"></script>
-		<script type="text/javascript" src="/javascripts/custom.js?a=fornocache"></script>
-		<!-- Clear Input Value -->
-		<script type="text/javascript">
-			
-					function doClear(theText) {
-						if (theText.value == theText.defaultValue) {
-							theText.value = ""
-						}
-					}
-			function doDefault(theText) {
-				if (theText.value == "") {
-					theText.value = theText.defaultValue
-				}
-			}
-			function getResults(query) {
-
-			    if(query === '&updateinfo=yes') {
-                    $('html, body').animate({
-                        scrollTop: $("#results").offset().top
-                    }, 1000);
-                }
-
-				if (query == undefined) {
-					query = '';
-				}
-				var email = '';
-				var getResults = '';
-				var dataString = 'email=' + email + query;
-				dataString += "&6bf60cb2f6c2048dbab0b59948d05551e16b19f9";
-				if (getResults == 1) {
-					$("body").css('cursor', 'wait');
-					$("#results").html('<img class="ajaxloader" src=\'/templates/July2016/images/ajaxloader.gif\' />');
-					$.ajax({
-						type: "GET",
-						url: "/dataSearch.php",
-						data: dataString,
-						cache: false,
-						success: function (html) {
-							$("#results").html(html);
-							$("body").css('cursor', 'default');
-							$('.friendslist a img').tipsy({title: 'alt', fade: true, html: true, gravity: 's'});
-							addResults(email);
-						}
-					});
-				}
-				return false;
-			}
-			$(document).ready(function () {
-				getResults();
-				$("#morelocations").live("click", function () {
-					$.ajax({
-						type: "POST",
-						url: "http://www.emailsherlock.com/moreLocations.php?",
-						data: "searchemail=",
-						success: function (msg) {
-							$(".searchresults:last").after(msg);
-							$("#morelocations").hide();
-						}
-					});
-					return false;
-				});
-			});
-        </script>
-
-        <script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-32348948-1']);
-			_gaq.push(['_setDomainName', 'emailsherlock.com']);
-			_gaq.push(['_trackPageview']);
-
-			(function () {
-				var ga = document.createElement('script');
-				ga.type = 'text/javascript';
-				ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(ga, s);
-			})();
-        </script>
 	</head>
 	<body>
 
@@ -115,7 +29,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="counter"><i>51,150,128</i> searches so far</div>
+				<div class="counter"><i>69,040,704</i> searches so far</div>
 			</div>
 		</header>
 
@@ -187,7 +101,6 @@
 					<div class="fnav cf">
 						<ul>
 							<li><a href="/">Email Search</a></li>
-							<li><a href="/email-statistics.html">Email Statistics</a></li>
 							<li><a href="/api.html">API</a></li>
 							<li><a href="/terms.html">Terms of Service</a></li>
 							<li><a href="/privacy.html">Privacy Policy</a></li>
@@ -206,5 +119,102 @@
 			</div>
 		</footer>
 
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/jquery.js"></script>
+		<script type="text/javascript" src="/javascripts/jquery.tipsy.js"></script>
+		<script type="text/javascript" src="/socialshare/inc/js/jquery.plugins.js"></script>
+		<script type="text/javascript" src="/socialshare/inc/js/jquery.site.js"></script>
+		<script type="text/javascript" src="/javascripts/jquery.colorbox-min.js"></script>
+		<script type="text/javascript" src="/javascripts/lightbox.js"></script>
+		<script type="text/javascript" src="/javascripts/jquery-ui-1.8.13.custom.min.js"></script>
+		<script type="text/javascript" src="/javascripts/custom.js?a=fornocache"></script>
+		<!-- Clear Input Value -->
+		<script type="text/javascript">
+			
+			function doClear(theText) {
+				if (theText.value == theText.defaultValue) {
+					theText.value = ""
+				}
+			}
+			function doDefault(theText) {
+				if (theText.value == "") {
+					theText.value = theText.defaultValue
+				}
+			}
+			function getResults(query) {
+
+				if(query === '&updateinfo=yes') {
+					$('html, body').animate({
+						scrollTop: $("#results").offset().top
+					}, 1000);
+				}
+
+				if (query == undefined) {
+					query = '';
+				}
+				var email = '';
+				var getResults = '';
+				var dataString = 'email=' + email + query;
+				var resultsFoundInDB = $('.results-from-db').length;
+				dataString += "&6bf60cb2f6c2048dbab0b59948d05551e16b19f9";
+
+				if (getResults == 1 && !resultsFoundInDB) {
+					$("body").css('cursor', 'wait');
+					$("#results").html('<img class="ajaxloader" src=\'/templates/July2016/images/ajaxloader.gif\' />');
+					$.ajax({
+						type: "GET",
+						url: "/dataSearch.php",
+						data: dataString,
+						cache: false,
+						success: function (html) {
+							$("#results").html(html);
+							$("body").css('cursor', 'default');
+							$('.friendslist a img').tipsy({title: 'alt', fade: true, html: true, gravity: 's'});
+							addResults(email);
+						}
+					});
+				} else if(resultsFoundInDB) {
+					$('#sherlock').after(extraResultGov(''));
+					$.ajax({
+						type: "GET",
+						url: "/dataSearch.php",
+						data: dataString + '&updateDbData=1',
+						cache: false
+					});
+				}
+
+				return false;
+			}
+			$(document).ready(function () {
+				getResults();
+				$("#morelocations").live("click", function () {
+					$.ajax({
+						type: "POST",
+						url: "https://www.emailsherlock.com/moreLocations.php?",
+						data: "searchemail=",
+						success: function (msg) {
+							$(".searchresults:last").after(msg);
+							$("#morelocations").hide();
+						}
+					});
+					return false;
+				});
+			});
+		</script>
+
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-32348948-1']);
+			_gaq.push(['_setDomainName', 'emailsherlock.com']);
+			_gaq.push(['_trackPageview']);
+
+			(function () {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
 	
 <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
