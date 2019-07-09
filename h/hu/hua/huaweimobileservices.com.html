@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the huaweimobileservices.com privacy policy that was archived on 2019-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190523165625id_/http%3A//consumer.huawei.com/en/privacy-policy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the huaweimobileservices.com privacy policy that was archived on 2019-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190709134350id_/http%3A//consumer.huawei.com/en/privacy-policy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en"><!--<![endif]--><!--head-begin--><head>
 	
@@ -28,16 +28,16 @@
         
         
             
-               <link rel="canonical" href="https://consumer.huawei.com/en/legal/privacy-policy/">
+               <link rel="canonical" href="https://consumer.huawei.com/en/privacy/privacy-policy/">
             
     	
     	<!-- <sly data-sly-use.str="com.huawei.consumer.site.core.models.StringReplaceHelper">
-        	<link rel="alternate" data-sly-use.str1="com.huawei.consumer.site.core.models.StringReplaceHelper"  href="https://https://consumer.huawei.com/en/legal/privacy-policy/" hreflang ="x-default" />
+        	<link rel="alternate" data-sly-use.str1="com.huawei.consumer.site.core.models.StringReplaceHelper"  href="https://https://consumer.huawei.com/en/privacy/privacy-policy/" hreflang ="x-default" />
         </sly> -->
        
 
 	  <!--  <sly data-sly-use.sitemapinfo="com.huawei.consumer.site.core.components.publics.SiteMapInfo">
-		  <sly data-sly-list.sitelist=""><link rel="alternate" data-sly-test=""  data-sly-use.str1="com.huawei.consumer.site.core.models.StringReplaceHelper"  href="https://https://consumer.huawei.com/en/legal/privacy-policy/" hreflang="" /> </sly>
+		  <sly data-sly-list.sitelist=""><link rel="alternate" data-sly-test=""  data-sly-use.str1="com.huawei.consumer.site.core.models.StringReplaceHelper"  href="https://https://consumer.huawei.com/en/privacy/privacy-policy/" hreflang="" /> </sly>
         </sly>-->
 
 
@@ -61,7 +61,7 @@
 			return null;
 	}
     // data layer javascript
-    window.digitalData={"page":{"pageInfo":{"pageName":"cbg:en:legal:privacy-policy","countryCode":"EN","siteCode":"en","siteCode2":"en","siteName":"Global (EN)","appNum":"A59919963","language":"en","site":"cbg","uri":"/en/legal/privacy-policy/","siteCodeForAPI":"worldwide"},"category":{"pageType":"legal","primaryCategory":"legal","subCategory1":"privacy-policy"}},"event":[]}
+    window.digitalData={"page":{"pageInfo":{"pageName":"cbg:en:privacy:privacy-policy","countryCode":"EN","siteCode":"en","siteCode2":"en","siteName":"Global (EN)","appNum":"A59919963","language":"en","site":"cbg","uri":"/en/privacy/privacy-policy/","siteCodeForAPI":"worldwide"},"category":{"pageType":"privacy-policy","primaryCategory":"privacy","subCategory1":"privacy-policy"}},"event":[]}
     
     window.encUser = getEncCookie("data_layer_enc");
 </script>
@@ -132,6 +132,24 @@ var site_language = window.digitalData.page.pageInfo.language
 var countryCode = window.digitalData.page.pageInfo.countryCode
 </script>
 
+
+ <script> 
+    var _url ="//"+location.host+"/content/dam/huawei-cbg-site/en/worldwide/js/onetrust-countries.json";
+    $.getJSON(_url,function(data){
+	var onetrustCountries = data["onetrustCountries"];
+	var reg = new RegExp(onetrustCountries);
+	if(!reg.test(location.href)){		 
+	   setOntrustCookie("sat_track",true);
+	}
+    })	
+
+function setOntrustCookie(c_name, value, expirehours) {
+    var exdate = new Date();
+    exdate.setTime(exdate.getTime() + expirehours * 60 * 60 * 1000);
+    document.cookie = c_name + "=" + escape(value) + ((expirehours == null) ? "" : ";expires=" + exdate.toGMTString()) + ";path=/";
+}
+</script>
+
 <!-- DTM launch-->
 
 
@@ -140,6 +158,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
   
 
 	</head><body class="huawei-v3 huawei-en  page-name-privacy-policy"><h1 class="header-tag-title" style="display:none">Privacy Policy</h1>
+ 
 
 
 
@@ -161,13 +180,13 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
     	 
             
     
-<link rel="stylesheet" href="//consumer-res.huawei.com/etc/designs/huawei-cbg-site/clientlib-v3/public-v3.min.49c0abbe4c343271c939e78d48470088.css" type="text/css">
+<link rel="stylesheet" href="//consumer-res.huawei.com/etc/designs/huawei-cbg-site/clientlib-v3/public-v3.min.b51e2cf715e2bef8bd3dad948e97218a.css" type="text/css">
 
 
 
             
     
-<script type="text/javascript" src="//consumer-res.huawei.com/etc/designs/huawei-cbg-site/clientlib-v3/public-v3.min.6d557cc83895ae689878c045d3cfbba6.js"></script>
+<script type="text/javascript" src="//consumer-res.huawei.com/etc/designs/huawei-cbg-site/clientlib-v3/public-v3.min.599f689582b301227cf73b38699af78b.js"></script>
 
 
 
@@ -183,7 +202,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
 		
         
     
-<link rel="stylesheet" href="//consumer-res.huawei.com/etc/designs/huawei-cbg-site/clientlib-v3/legal-v3.min.74d3a6f66f8054ca771433a3acfd9504.css" type="text/css">
+<link rel="stylesheet" href="//consumer-res.huawei.com/etc/designs/huawei-cbg-site/clientlib-v3/legal-v3.min.136269ea24afc6f52ddc433c7e097974.css" type="text/css">
 
 
 
@@ -213,30 +232,30 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                     </svg>
 				
                 
-                	We use cookies to improve our site and your experience. By continuing to browse our site you accept our cookie policy <a href="/en/legal/cookie-policy" title=" Find out more"> Find out more</a>
+                	We use cookies to improve our site and your experience. By continuing to browse our site you accept our cookie policy <a href="http://consumer.huawei.com/en/legal/cookie-policy" title=" Find out more"> Find out more</a>
 				
                 
             </div>
             
         </div>
     </div> 
-    <header id="header-v3" class="header-en">
-        
-        <div class="huawei-ie-tips">
-            <div class="huawei-ie-cnt">
-                <div class="huawei-ie-txt">For a better user experience, please use the latest version of Internet Explorer or switch to another browser.
-                    <a class="huawei-ie-close" href="javascript:;" title="close">
-                        <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
-                            <g fill="#3C3C3C" fill-rule="evenodd">
-                                <path d="M8 7l17 17-1 1L7 8z"></path>
-                                <path d="M7 24L24 7l1 1L8 25z"></path>
-                            </g>
-                        </svg>
-                    </a>
-                </div>
+    <!-- 954346 PDP页面旧版浏览器升级提示-->
+    <div class="huawei-ie-tips">
+        <div class="huawei-ie-cnt">
+            <div class="huawei-ie-txt">For a better user experience, please use the latest version of Internet Explorer or switch to another browser.
+                <a class="huawei-ie-close" href="javascript:;" title="close">
+                    <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+                        <g fill="#3C3C3C" fill-rule="evenodd">
+                            <path d="M8 7l17 17-1 1L7 8z"></path>
+                            <path d="M7 24L24 7l1 1L8 25z"></path>
+                        </g>
+                    </svg>
+                </a>
             </div>
         </div>
-
+    </div>
+    <header id="header-v3" class="header-en">
+        
         <div class="huawei-group"><div class="header-gblnav">
 	<div class="header-gblnav-default">
 		<div class="header-gblnav-dfbox">
@@ -280,7 +299,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
         <div class="header-wrap">
             
             <div class="logo-wrap">
-                <a cat="Navigation" act="Click On Logo" lab="<page title>" href="/en" class="logo a-common" title="HUAWEI"></a>
+                <a cat="Navigation" act="Click On Logo" lab="<page title>" href="http://consumer.huawei.com/en" class="logo a-common" title="HUAWEI"></a>
             </div>
             <div class="nav-wrap">
                 <div class="left-box">
@@ -361,7 +380,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                         
                         
                             <li class="nav-list">
-                                <a class="a-common jump-v3 products-name" href="https://huaweimobileservices.com/" target="_blank" rel="nooperner" cat="Navigation" act="Click On Mobile Services" lab="<page title>" title="Mobile Services">Mobile Services</a>
+                                <a class="a-common jump-v3 products-name" href="http://consumer.huawei.com/en/mobileservices" cat="Navigation" act="Click On Mobile Services" lab="<page title>" title="Mobile Services">Mobile Services</a>
                             </li>
                         
                     
@@ -373,7 +392,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                         
                         
                             <li class="nav-list">
-                                <a class="a-common jump-v3 products-name" href="/en/mobileservices/huawei-wallet" cat="Navigation" act="Click On Huawei Pay" lab="<page title>" title="Huawei Pay">Huawei Pay</a>
+                                <a class="a-common jump-v3 products-name" href="http://consumer.huawei.com/en/emui" cat="Navigation" act="Click On EMUI" lab="<page title>" title="EMUI">EMUI</a>
                             </li>
                         
                     
@@ -385,7 +404,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                         
                         
                             <li class="nav-list">
-                                <a class="a-common jump-v3 products-name" href="/en/emui" cat="Navigation" act="Click On EMUI" lab="<page title>" title="EMUI">EMUI</a>
+                                <a class="a-common jump-v3 products-name" href="http://consumer.huawei.com/en/support" cat="Navigation" act="Click On Support" lab="<page title>" title="Support">Support</a>
                             </li>
                         
                     
@@ -397,19 +416,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                         
                         
                             <li class="nav-list">
-                                <a class="a-common jump-v3 products-name" href="/en/support" cat="Navigation" act="Click On Support" lab="<page title>" title="Support">Support</a>
-                            </li>
-                        
-                    
-                        
-                        
-                        
-                            
-                        
-                        
-                        
-                            <li class="nav-list">
-                                <a class="a-common jump-v3 products-name" href="/en/community" cat="Navigation" act="Click On Community" lab="<page title>" title="Community">Community</a>
+                                <a class="a-common jump-v3 products-name" href="http://consumer.huawei.com/en/community" cat="Navigation" act="Click On Community" lab="<page title>" title="Community">Community</a>
                             </li>
                         
                     </ul>
@@ -427,7 +434,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                             </svg>
                         </a>
 
-                        <a href="/en/search/" class="all-search-url" style="display:none!important" id="all_search_url" title="Search"></a>
+                        <a href="http://consumer.huawei.com/en/search/" class="all-search-url" style="display:none!important" id="all_search_url" title="Search"></a>
                     </div>
                     
                         
@@ -440,7 +447,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
         </div>
     </header>
     <div class="app-nav app-en">
-
+		
         <div class="app-nav-wrap">
             <div class="app-nav-icon">
                 <span></span>
@@ -448,7 +455,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                 <span></span>
             </div>
             <div class="app-logo">
-                <a class="a-common" cat="Navigation" act="Click On Logo" lab="<page title>" href="/en" title="HUAWEI"></a>
+                <a class="a-common" cat="Navigation" act="Click On Logo" lab="<page title>" href="http://consumer.huawei.com/en" title="HUAWEI"></a>
             </div>
             
             <!-- 搜索图标动效1结构：用图片淡入淡出效果 -->
@@ -512,7 +519,8 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
     </div>
 
 <style>
-    @media (max-width: 1023px) {
+    
+@media (max-width: 1023px) {
         .huawei-v3 .app-nav .app-nav-icon span {
             display: block;
             position: absolute;
@@ -592,19 +600,19 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                                     </a></li>
 								
 									<li>
-										<a target="_self" href="https://consumer.huawei.com/en/phones/y9-2019/" class="a-common" cat="Menu:phones" act="Click on HUAWEI Y9 2019" lab="Header - <page title>" title="HUAWEI Y9 2019">
-											<img class="rmd_img" alt="HUAWEI Y9 2019" title="HUAWEI Y9 2019" lazy-src="/content/dam/huawei-cbg-site/common/mkt/homepage/nav/Y9-2019_Nav.png"><span>HUAWEI Y9 2019</span>
+										<a target="_self" href="https://consumer.huawei.com/en/phones/mate20-x-5g/" class="a-common" cat="Menu:phones" act="Click on HUAWEI Mate 20 X (5G) " lab="Header - <page title>" title="HUAWEI Mate 20 X (5G) ">
+											<img class="rmd_img" alt="HUAWEI Mate 20 X (5G) " title="HUAWEI Mate 20 X (5G) " lazy-src="/content/dam/huawei-cbg-site/common/mkt/homepage/nav/huawei-mate-20-x-5g.png"><span>HUAWEI Mate 20 X (5G) </span>
                                     </a></li>
 								
 								<li class="view-all-wrap" style="margin-top: 0px; opacity: 1;">
-									<a href="/en/phones" class="view-all a-common" cat="Menu:phones" act="Click on all products" lab="Header - <page title>" title="View All Phones">
+									<a href="http://consumer.huawei.com/en/phones" class="view-all a-common" cat="Menu:phones" act="Click on all products" lab="Header - <page title>" title="View All Phones">
 										<img class="rmd_img" alt="view all" lazy-src="/etc/designs/huawei-cbg-site/clientlib-v3/images/icon-phone.svg">
 										<span>View All Phones</span>
 									</a>
 								</li>
 							</ul>
 							<div class="app-view-wrap">
-								<a href="/en/phones" class="app-view-all a-common" cat="Menu:phones" act="Click on all products" lab="Header - <page title>" title="View All Phones">View All Phones</a>
+								<a href="http://consumer.huawei.com/en/phones" class="app-view-all a-common" cat="Menu:phones" act="Click on all products" lab="Header - <page title>" title="View All Phones">View All Phones</a>
 							</div>
 						</div>
 						 <div class="products-right">
@@ -613,7 +621,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
 								<span class="products-h2">Browse</span>
 								<div class="bot-line"></div>
 								<ul class="products-right-cnt-ul">
-									<li><a class="a-common" cat="Menu:phones" act="Click on Browse 1" lab="Phone Accessories - Accessories - <page title>" href="/en/accessories/?type=phones" title="Phone Accessories"><b>Phone Accessories</b></a></li>
+									<li><a class="a-common" cat="Menu:phones" act="Click on Browse 1" lab="Phone Accessories - Accessories - <page title>" href="http://consumer.huawei.com/en/accessories/?type=phones" title="Phone Accessories"><b>Phone Accessories</b></a></li>
 								</ul>
 							</div>
 						</div>
@@ -659,14 +667,14 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                                     </a></li>
 								
 								<li class="view-all-wrap" style="margin-top: 0px; opacity: 1;">
-									<a href="/en/laptops" class="view-all a-common" cat="Menu:laptops" act="Click on all products" lab="Header - <page title>" title="View All Laptops">
+									<a href="http://consumer.huawei.com/en/laptops" class="view-all a-common" cat="Menu:laptops" act="Click on all products" lab="Header - <page title>" title="View All Laptops">
 										<img class="rmd_img" alt="view all" lazy-src="/etc/designs/huawei-cbg-site/clientlib-v3/images/icon-laptop.svg">
 										<span>View All Laptops</span>
 									</a>
 								</li>
 							</ul>
 							<div class="app-view-wrap">
-								<a href="/en/laptops" class="app-view-all a-common" cat="Menu:laptops" act="Click on all products" lab="Header - <page title>" title="View All Laptops">View All Laptops</a>
+								<a href="http://consumer.huawei.com/en/laptops" class="app-view-all a-common" cat="Menu:laptops" act="Click on all products" lab="Header - <page title>" title="View All Laptops">View All Laptops</a>
 							</div>
 						</div>
 						 <div class="products-right">
@@ -675,7 +683,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
 								<span class="products-h2">Browse</span>
 								<div class="bot-line"></div>
 								<ul class="products-right-cnt-ul">
-									<li><a class="a-common" cat="Menu:laptops" act="Click on Browse 1" lab="Laptop Accessories - Accessories - <page title>" href="/en/accessories/?type=laptop" title="Laptop Accessories"><b>Laptop Accessories</b></a></li>
+									<li><a class="a-common" cat="Menu:laptops" act="Click on Browse 1" lab="Laptop Accessories - Accessories - <page title>" href="http://consumer.huawei.com/en/accessories/?type=laptop" title="Laptop Accessories"><b>Laptop Accessories</b></a></li>
 								</ul>
 							</div>
 						</div>
@@ -721,14 +729,14 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                                     </a></li>
 								
 								<li class="view-all-wrap" style="margin-top: 0px; opacity: 1;">
-									<a href="/en/tablets" class="view-all a-common" cat="Menu:tablets" act="Click on all products" lab="Header - <page title>" title="View All Tablets">
+									<a href="http://consumer.huawei.com/en/tablets" class="view-all a-common" cat="Menu:tablets" act="Click on all products" lab="Header - <page title>" title="View All Tablets">
 										<img class="rmd_img" alt="view all" lazy-src="/etc/designs/huawei-cbg-site/clientlib-v3/images/icon-tablet.svg">
 										<span>View All Tablets</span>
 									</a>
 								</li>
 							</ul>
 							<div class="app-view-wrap">
-								<a href="/en/tablets" class="app-view-all a-common" cat="Menu:tablets" act="Click on all products" lab="Header - <page title>" title="View All Tablets">View All Tablets</a>
+								<a href="http://consumer.huawei.com/en/tablets" class="app-view-all a-common" cat="Menu:tablets" act="Click on all products" lab="Header - <page title>" title="View All Tablets">View All Tablets</a>
 							</div>
 						</div>
 						 <div class="products-right">
@@ -737,7 +745,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
 								<span class="products-h2">Browse</span>
 								<div class="bot-line"></div>
 								<ul class="products-right-cnt-ul">
-									<li><a class="a-common" cat="Menu:tablets" act="Click on Browse 1" lab="Tablet Accessories - Accessories - <page title>" href="/en/accessories/?type=tablets" title="Tablet Accessories"><b>Tablet Accessories</b></a></li>
+									<li><a class="a-common" cat="Menu:tablets" act="Click on Browse 1" lab="Tablet Accessories - Accessories - <page title>" href="http://consumer.huawei.com/en/accessories/?type=tablets" title="Tablet Accessories"><b>Tablet Accessories</b></a></li>
 								</ul>
 							</div>
 						</div>
@@ -788,8 +796,8 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                                     </a></li>
 								
 									<li>
-										<a target="_self" href="https://consumer.huawei.com/en/smart-home/q2/" class="a-common" cat="Menu:more-products" act="Click on HUAWEI WiFi Q2" lab="Header - <page title>" title="HUAWEI WiFi Q2">
-											<img class="rmd_img" alt="HUAWEI WiFi Q2" title="HUAWEI WiFi Q2" lazy-src="/content/dam/huawei-cbg-site/en/mkt/v3/homepage/nav/more_pdu_04.png"><span>HUAWEI WiFi Q2</span>
+										<a target="_self" href="https://consumer.huawei.com/en/smart-home/5g-cpe-pro/" class="a-common" cat="Menu:more-products" act="Click on HUAWEI 5G CPE Pro" lab="Header - <page title>" title="HUAWEI 5G CPE Pro">
+											<img class="rmd_img" alt="HUAWEI 5G CPE Pro" title="HUAWEI 5G CPE Pro" lazy-src="/content/dam/huawei-cbg-site/common/mkt/homepage/nav/5g-cpe-pro_nav_white"><span>HUAWEI 5G CPE Pro</span>
                                     </a></li>
 								
 								
@@ -802,13 +810,13 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
 								<span class="products-h2">Browse</span>
 								<div class="bot-line"></div>
 								<ul class="products-right-cnt-ul">
-									<li><a class="a-common" cat="Menu:more-products" act="Click on Browse 1" lab="Wearables - <page title>" href="/en/wearables" title="Wearables"><b>Wearables</b></a></li>
+									<li><a class="a-common" cat="Menu:more-products" act="Click on Browse 1" lab="Wearables - <page title>" href="http://consumer.huawei.com/en/wearables" title="Wearables"><b>Wearables</b></a></li>
 								
-									<li><a class="a-common" cat="Menu:more-products" act="Click on Browse 2" lab="Accessories - <page title>" href="/en/accessories" title="Accessories"><b>Accessories</b></a></li>
+									<li><a class="a-common" cat="Menu:more-products" act="Click on Browse 2" lab="Accessories - <page title>" href="http://consumer.huawei.com/en/accessories" title="Accessories"><b>Accessories</b></a></li>
 								
-									<li><a class="a-common" cat="Menu:more-products" act="Click on Browse 3" lab="Smart Home - <page title>" href="/en/smart-home" title="Smart Home"><b>Smart Home</b></a></li>
+									<li><a class="a-common" cat="Menu:more-products" act="Click on Browse 3" lab="Smart Home - <page title>" href="http://consumer.huawei.com/en/smart-home" title="Smart Home"><b>Smart Home</b></a></li>
 								
-									<li><a class="a-common" cat="Menu:more-products" act="Click on Browse 4" lab="Mobile Broadband - <page title>" href="/en/mobile-broadband" title="Mobile Broadband"><b>Mobile Broadband</b></a></li>
+									<li><a class="a-common" cat="Menu:more-products" act="Click on Browse 4" lab="Mobile Broadband - <page title>" href="http://consumer.huawei.com/en/mobile-broadband" title="Mobile Broadband"><b>Mobile Broadband</b></a></li>
 								</ul>
 							</div>
 						</div>
@@ -1074,34 +1082,29 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
 
 
 	<div class="second-menu-component section">
-    <div class="second-navigation" style="top: 64px;">
-        <div class="second-mask-wrap"></div>
-        <div class="second-nav-wrap">
-          <div class="second-nav">
-            <div class="second-app-nav">
-              <a href="https://consumer.huawei.com/en/legal/privacy/" class="second-title">Privacy</a>
-              <a href="javascript:;" class="icon-app-privacy"></a>
-            </div>
-            <ul class="clearrfix second-ul">
-              <li class="privacy-tog" data-tog=".sec1">
-                <a href="https://consumer.huawei.com/en/legal/privacy#sec1">We care about your privacy as much as you do</a>
-              </li>
-              <li class="privacy-tog" data-tog=".sec2">
-                <a href="https://consumer.huawei.com/en/legal/privacy#sec2">Protecting your privacy</a>
-              </li>
-              <li class="privacy-tog" data-tog=".sec3">
-                <a href="https://consumer.huawei.com/en/legal/privacy#sec3">Managing your privacy</a>
-              </li>
-              <!-- <li class="privacy-tog" data-tog=".sec4">
-                <a href="#">Privacy Policy</a>
-              </li> -->
-              <li class="active">
-                <a href="https://consumer.huawei.com/en/legal/privacy-policy/">Privacy Statement</a>
-              </li>
-            </ul>
-          </div>
+  <div class="second-navigation" style="top: 64px;">
+    <div class="second-mask-wrap"></div>
+    <div class="second-nav-wrap">
+      <div class="second-nav">
+        <div class="second-app-nav">
+          <a href="http://consumer.huawei.com/en/privacy/whitepaper/" class="second-title">Privacy</a>
+          <a href="javascript:;" class="icon-app-privacy"></a>
         </div>
+        <ul class="clearrfix second-ul">
+          
+          <li class="privacy-tog" data-tog=".sec1">
+            <a href="http://consumer.huawei.com/en/privacy/whitepaper/#sec1">Protect Your Privacy</a>
+          </li>
+          <li class="privacy-tog" data-tog=".sec2">
+            <a href="http://consumer.huawei.com/en/privacy/whitepaper/#sec2">Manage Your Privacy</a>
+          </li>
+          <li class="active">
+            <a href="https://consumer.huawei.com/en/privacy/privacy-policy/">Privacy Statement</a>
+          </li>
+        </ul>
       </div>
+    </div>
+  </div>
       <script>
   
       // nav orgin code
@@ -1367,13 +1370,13 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
         	<ul class="clearfix">
             	<li>
 					
-					<a class="v3-common" cat="Breadcrumb" act="Click on <URL>" lab="<page title>" href="/en/" title="Home">Home</a>
+					<a class="v3-common" cat="Breadcrumb" act="Click on <URL>" lab="<page title>" href="http://consumer.huawei.com/en/" title="Home">Home</a>
 					<b></b>
                 </li>
             
             	<li>
 					
-					<a class="v3-common" cat="Breadcrumb" act="Click on <URL>" lab="<page title>" href="/en/legal/" title="Legal">Legal</a>
+					<a class="v3-common" cat="Breadcrumb" act="Click on <URL>" lab="<page title>" href="http://consumer.huawei.com/en/privacy/" title="Privacy">Privacy</a>
 					<b></b>
                 </li>
             
@@ -1396,47 +1399,43 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
     	<h3 class="list-h3">PRODUCTS<span class="arrow-icon"></span></h3>
         <ul>
 			<li>
-                <a class="menu_foot_products a-common" href="/en/phones" cat="Footer" act="Click on Phones" lab="<page title>" title="Phones"><b>Phones<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/phones.html" cat="Footer" act="Click on Phones" lab="<page title>" title="Phones"><b>Phones<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/laptops" cat="Footer" act="Click On Laptops" lab="<page title>" title="Laptops"><b>Laptops<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/laptops.html" cat="Footer" act="Click On Laptops" lab="<page title>" title="Laptops"><b>Laptops<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/tablets" cat="Footer" act="Click on Tablets" lab="<page title>" title="Tablets"><b>Tablets<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/tablets.html" cat="Footer" act="Click on Tablets" lab="<page title>" title="Tablets"><b>Tablets<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/wearables" cat="Footer" act="Click on Wearables" lab="<page title>" title="Wearables"><b>Wearables<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/wearables.html" cat="Footer" act="Click on Wearables" lab="<page title>" title="Wearables"><b>Wearables<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/accessories" cat="Footer" act="Click on Accessories" lab="<page title>" title="Accessories"><b>Accessories<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/accessories.html" cat="Footer" act="Click on Accessories" lab="<page title>" title="Accessories"><b>Accessories<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/smart-home" cat="Footer" act="Click on Smart Home" lab="<page title>" title="Smart Home"><b>Smart Home<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/smart-home.html" cat="Footer" act="Click on Smart Home" lab="<page title>" title="Smart Home"><b>Smart Home<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/mobile-broadband" cat="Footer" act="Click on Mobile Broadband" lab="<page title>" title="Mobile Broadband"><b>Mobile Broadband<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/mobile-broadband.html" cat="Footer" act="Click on Mobile Broadband" lab="<page title>" title="Mobile Broadband"><b>Mobile Broadband<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/emui" cat="Footer" act="Click on EMUI" lab="<page title>" title="EMUI"><b>EMUI<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/mobileservices.html" cat="Footer" act="Click on Mobile Services" lab="<page title>" title="Mobile Services"><b>Mobile Services<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/campaign/switch" cat="Footer" act="Click on Why Switch to HUAWEI" lab="<page title>" title="Why Switch to HUAWEI"><b>Why Switch to HUAWEI<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/emui.html" cat="Footer" act="Click on EMUI" lab="<page title>" title="EMUI"><b>EMUI<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="https://huaweimobileservices.com/" target="_blank" rel="nooperner" cat="Footer" act="Click on Mobile Services" lab="<page title>" title="Mobile Services"><b>Mobile Services<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
-            </li>
-        
-			<li>
-                <a class="menu_foot_products a-common" href="/en/mobileservices/huawei-wallet" cat="Footer" act="Huawei Pay" lab="<page title>" title="Huawei Pay"><b>Huawei Pay<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/campaign/switch.html" cat="Footer" act="Click on Why Switch to HUAWEI" lab="<page title>" title="Why Switch to HUAWEI"><b>Why Switch to HUAWEI<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         </ul>
     </div>
@@ -1451,23 +1450,23 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
     	<h3 class="list-h3">SUPPORT<span class="arrow-icon"></span></h3>
         <ul>
 			<li>
-                <a class="menu_foot_products a-common" href="/en/support/service-center" cat="Footer" act="Click on Find Service Centre" lab="<page title>" title="Find Service Centre"><b>Find Service Centre<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/support/service-center.html" cat="Footer" act="Click on Find Service Centre" lab="<page title>" title="Find Service Center"><b>Find Service Center<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/support/recycling" cat="Footer" act="Click on Recycling" lab="<page title>" title="Recycling"><b>Recycling<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/support/recycling.html" cat="Footer" act="Click on Recycling" lab="<page title>" title="Recycling"><b>Recycling<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/support/product-environmental-information" cat="Footer" act="Click on Product Environmental Information" lab="<page title>" title="Product Environmental Information"><b>Product Environmental Information<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/support/product-environmental-information.html" cat="Footer" act="Click on Product Environmental Information" lab="<page title>" title="Product Environmental Information"><b>Product Environmental Information<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/support/hotline" cat="Footer" act="Click on Contact Us" lab="<page title>" title="Call Us"><b>Call Us<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/support/hotline.html" cat="Footer" act="Click on Contact Us" lab="<page title>" title="Call Us"><b>Call Us<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/support/recycling/data-backup" cat="Footer" act="Click on Phone Backup and Restore" lab="<page title>" title="Phone Backup and Restore"><b>Phone Backup and Restore<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/support/recycling/data-backup.html" cat="Footer" act="Click on Phone Backup and Restore" lab="<page title>" title="Phone Backup and Restore"><b>Phone Backup and Restore<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         </ul>
     </div>
@@ -1486,15 +1485,15 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
     	<h3 class="list-h3">ABOUT HUAWEI<span class="arrow-icon"></span></h3>
         <ul>
 			<li>
-                <a class="menu_foot_products a-common" href="/en/about-us" cat="Footer" act="Click on About Us" lab="<page title>" title="About Us"><b>About Us<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/about-us.html" cat="Footer" act="Click on About Us" lab="<page title>" title="About Us"><b>About Us<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/press/news" cat="Footer" act="Click on News" lab="<page title>" title="News &amp; Events"><b>News &amp; Events<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/press/news.html" cat="Footer" act="Click on News" lab="<page title>" title="News &amp; Events"><b>News &amp; Events<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/sustainability" cat="Footer" act="Click on Sustainability @ Consumer BG" lab="<page title>" title="Sustainability @ Consumer BG"><b>Sustainability @ Consumer BG<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/sustainability.html" cat="Footer" act="Click on Sustainability @ Consumer BG" lab="<page title>" title="Sustainability @ Consumer BG"><b>Sustainability @ Consumer BG<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         
 			<li>
@@ -1518,7 +1517,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
             </li>
         
 			<li>
-                <a class="menu_foot_products a-common" href="/en/contact-us" cat="Footer" act="Click on Contact Us" lab="<page title>" title="Contact Us"><b>Contact Us<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
+                <a class="menu_foot_products a-common" href="http://consumer.huawei.com/en/contact-us.html" cat="Footer" act="Click on Contact Us" lab="<page title>" title="Contact Us"><b>Contact Us<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.5 16v1.5a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-11c0-1.1.9-2 2-2H8m5 0h6.5V11m0-6.5l-9 9" stroke="#1E1E1E" fill="none"></path></svg></b></a>
             </li>
         </ul>
     </div>
@@ -1543,8 +1542,6 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
 	                        	<li><a class="social_follow Twitter-icon" href="https://twitter.com/huaweimobile" target="_blank" cat="Social Follows" act="Follow on Twitter" lab="<page title>" title="Twitter"></a></li>
 	                        
 	                        	<li><a class="social_follow Instagram-icon" href="https://www.instagram.com/huaweimobile" target="_blank" cat="Social Follows" act="Follow on Instagram" lab="<page title>" title="Instagram"></a></li>
-	                        
-	                        	<li><a class="social_follow Googleplus-icon" href="https://plus.google.com/+HuaweiMobile" target="_blank" cat="Social Follows" act="Follow on Googleplus" lab="<page title>" title="Googleplus"></a></li>
 	                        
 	                        	<li><a class="social_follow Youtube-icon" href="https://www.youtube.com/c/huaweimobile" target="_blank" cat="Social Follows" act="Follow on Youtube" lab="<page title>" title="Youtube"></a></li>
 	                        
@@ -1741,15 +1738,15 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
 				 
                  
                 <ul class="clearfix" style="overflow: hidden;">
-                    <li><a class="a-common" cat="Footer" act="Click on Site Map" href="/en/sitemap" lab="<page title>" title="Site Map">Site Map</a></li>
+                    <li><a class="a-common" cat="Footer" act="Click on Site Map" href="http://consumer.huawei.com/en/sitemap.html" lab="<page title>" title="Site Map">Site Map</a></li>
                 
-                    <li><a class="a-common" cat="Footer" act="Click on Terms Of Use" href="/en/legal/terms-of-use" lab="<page title>" title="Terms Of Use">Terms Of Use</a></li>
+                    <li><a class="a-common" cat="Footer" act="Click on Terms Of Use" href="http://consumer.huawei.com/en/legal/terms-of-use.html" lab="<page title>" title="Terms Of Use">Terms Of Use</a></li>
                 
-                    <li><a class="a-common" cat="Footer" act="Click on Privacy" href="/en/legal/privacy" lab="<page title>" title="Privacy">Privacy</a></li>
+                    <li><a class="a-common" cat="Footer" act="Click on Privacy" href="http://consumer.huawei.com/en/legal/privacy.html" lab="<page title>" title="Privacy">Privacy</a></li>
                 
-                    <li><a class="a-common" cat="Footer" act="Click on Cookies" href="/en/legal/cookie-policy" lab="<page title>" title="Cookies">Cookies</a></li>
+                    <li><a class="a-common" cat="Footer" act="Click on Cookies" href="http://consumer.huawei.com/en/legal/cookie-policy.html" lab="<page title>" title="Cookies">Cookies</a></li>
                 
-                    <li><a class="a-common" cat="Footer" act="Click on Legal" href="/en/legal" lab="<page title>" title="Legal">Legal</a></li>
+                    <li><a class="a-common" cat="Footer" act="Click on Legal" href="http://consumer.huawei.com/en/legal.html" lab="<page title>" title="Legal">Legal</a></li>
                 </ul>              
     		</div> 
             <style>
@@ -1758,7 +1755,7 @@ var countryCode = window.digitalData.page.pageInfo.countryCode
                 }
             </style>
     		<div class="country">
-                <a class="a-common region_change" cat="Footer" act="GLOBAL" lab="<page title>" href="/en/worldwide" target="_blank" title="Global - English">
+                <a class="a-common region_change" cat="Footer" act="GLOBAL" lab="<page title>" href="http://consumer.huawei.com/en/worldwide.html" target="_blank" title="Global - English">
                     <span class="country-flag"><img class="lazy" data-src="//consumer-res.huawei.com/etc/designs/huawei-cbg-site/clientlib-v3/images/country-flag/en.png" alt=""></span>
                     <span class="country-name">Global - English</span>
                  </a>
@@ -1805,12 +1802,13 @@ html[dir=rtl] .huawei-v3 .footer-top .cnt-wrap .list li a svg{margin-left: 0;mar
             <div class="s-content-dialog s-show">
                 <div class="content">
                     <iframe id="loginFrame" frameborder="0"> </iframe>
-                    <div class="contact-close login-close"> <i></i></div>
+                    <div class="contact-close login-close"> <i></i></div>  
                 </div>
             </div>
         </div>
     </div>
 </div>
+<input type="hidden" class="cbg-support-privacy">
 <!--set as default contact --> 
 <input type="hidden" value="[default]" id="LAG_CONTACTDEFAULTTEXT">
 <input type="hidden" value="set as default contact" id="LAG_SETDEFAULTADDRESSTEXT">
@@ -1827,8 +1825,86 @@ html[dir=rtl] .huawei-v3 .footer-top .cnt-wrap .list li a svg{margin-left: 0;mar
     .support-perfect-dialog .login-phone.error:after { content: ""; }
 	.user-perfect-dialog .login-email.error-email:after {content:"";display: block;color: #ce3c40; margin-top: 5px;position: absolute;}
     .user-perfect-dialog .login-email.exist-emai:after {content:"";display: block;color: #ce3c40; margin-top: 5px;position: absolute;}
-</style>
- 
+    .login-dialog-component .login-desc{   
+    	display:none; 
+        position: absolute;
+   	 	bottom: 0;
+    	padding: 0 16% 20px;
+        width: 100%;
+    	-webkit-box-sizing: border-box; 
+        box-sizing: border-box;
+   	}
+    @media (max-width: 767px){
+    	.login-dialog-component .login-desc{  
+        	 padding: 0 4% 20px;
+        }
+    }
+	.s-dialog-fr-privacy{
+		    position: fixed;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+            z-index: 10000;
+    }
+.s-dialog-fr-privacy:after {
+        content: "";
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: .5;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+.s-dialog-fr-privacy .s-content-dialog{
+        position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    width: 400px;
+    background: #ffffff;
+    padding: 50px 20px 20px;
+    border-radius: 8px;
+}
+.s-dialog-fr-privacy .s-dialog-content {
+        font-size: 14px;
+    color: #000000;
+    line-height: 18px;
+}
+.s-dialog-fr-privacy .s-dialog-btn {
+    text-align: center;
+    padding-top: 20px;
+}
+.s-dialog-fr-privacy .s-btn {
+    display: inline-block;
+    padding: 7px 20px;
+    border: 1px solid #999999;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #000000;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.s-dialog-fr-privacy .s-ok-btn {
+        margin-left: 50px;
+    	    color: #ffffff;
+    background: #00cccc;
+
+}
+@media (max-width: 767px) {
+    .s-dialog-fr-privacy .s-content-dialog{
+		    max-width: 80%;
+    }
+    .s-dialog-fr-privacy .s-ok-btn {
+		    margin-left: 20px;
+    }
+}
+</style> 
 
 
         <!-- INCLUDE EXTERNAL JAVASCRIPT HERE -->
