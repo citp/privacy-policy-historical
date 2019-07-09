@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yp.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608085844id_/https%3A//www.dexyp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yp.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709200921id_/https%3A//www.dexyp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DexYP
 
