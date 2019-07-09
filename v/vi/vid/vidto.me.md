@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidto.me privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109001933id_/http%3A//vidto.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidto.me privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709204331id_/http%3A//vidto.me/privacy.html) for the most accurate reproduction.*
 
 # Vidto - Watch, publish, share videos
 
