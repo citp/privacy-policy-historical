@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepik.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624151636id_/https%3A//www.freepik.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepik.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709171344id_/https%3A//www.freepik.com/privacy_policy) for the most accurate reproduction.*
 
 # Free Vectors, Photos and PSD Downloads | Freepik
 
