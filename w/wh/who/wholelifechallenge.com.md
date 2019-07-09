@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholelifechallenge.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406152859id_/https%3A//www.wholelifechallenge.com/wlc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholelifechallenge.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709113941id_/https%3A//www.wholelifechallenge.com/wlc-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Whole Life Challenge
 
@@ -6,7 +6,7 @@
 
 **Whole Life Challenge Privacy Policy**
 
-Whole Life Challenge, Inc. respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using this Site (as defined below). We currently operate the website wholelifechallenge.com, including all of its subsites (typically any web pages that include wholelifechallenge.com as the URL, such as [www.wholelifechallenge.com/the-7-daily-habits/](http://www.wholelifechallenge.com/the-7-daily-habits/)) and all software, applications, products, features and services made available, displayed or offered by or through our web site or subsites (collectively, the “ **Site** ”). This Privacy Policy is incorporated into, and part of, the [Terms of Use](https://www.wholelifechallenge.com/terms-of-use/) (the “ **[Terms of Use](https://www.wholelifechallenge.com/terms-of-use/)** ”), which governs your use of this Site in general. This Site is published and maintained by or on behalf of Whole Life Challenge, Inc., with offices located at, 929 Colorado Avenue, #117, Santa Monica, CA 90401 (“ **WLC** ”).
+Whole Life Challenge, Inc. respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using this Site (as defined below). We currently operate the website wholelifechallenge.com, including all of its subsites (typically any web pages that include wholelifechallenge.com as the URL, such as [www.wholelifechallenge.com/the-7-daily-habits/](https://www.wholelifechallenge.com/the-7-daily-habits/)) and all software, applications, products, features and services made available, displayed or offered by or through our web site or subsites (collectively, the “ **Site** ”). This Privacy Policy is incorporated into, and part of, the [Terms of Use](https://www.wholelifechallenge.com/terms-of-use/) (the “ **[Terms of Use](https://www.wholelifechallenge.com/terms-of-use/)** ”), which governs your use of this Site in general. This Site is published and maintained by or on behalf of Whole Life Challenge, Inc., with offices located at, 929 Colorado Avenue, #117, Santa Monica, CA 90401 (“ **WLC** ”).
 
 WLC may be referred to in this Privacy Policy as “we,” “us,” “our,” or other similar pronouns.  Any capitalized terms that are not defined in this Privacy Policy have the meaning defined in the [Terms of Use](https://www.wholelifechallenge.com/terms-of-use/).
 
@@ -59,9 +59,9 @@ You can also use a browser plug-in such as [Ghostery](https://www.ghostery.com/
 
 We and third parties, including service providers, may engage in interest-based advertising to deliver advertisements and personalized content that we and other advertisers believe will be of interest to you. To the extent third party vendors are using cookies to perform these services for us or others, we do not control the use of this technology or the resulting information, and we are not responsible for any actions or policies of such third parties.
 
-Ads may be delivered to you based on your online or mobile behavior (on our Site and non-WLC sites), your search activity, your responses to one of our advertisements or e-mails, the pages you visit, your general geographic location, or other information. These ads may appear on our Site or on third party web sites. The service providers with whom we work to help us conduct interest-based advertising may be members of self-regulatory associations such as the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/) and the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/).  You may also see advertisements for third parties on our Site or other web sites or properties, based on your visits to, and activities on, our Site and other sites.
+Ads may be delivered to you based on your online or mobile behavior (on our Site and non-WLC sites), your search activity, your responses to one of our advertisements or e-mails, the pages you visit, your general geographic location, or other information. These ads may appear on our Site or on third party web sites. The service providers with whom we work to help us conduct interest-based advertising may be members of self-regulatory associations such as the [Network Advertising Initiative (NAI)](https://www.networkadvertising.org/) and the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/).  You may also see advertisements for third parties on our Site or other web sites or properties, based on your visits to, and activities on, our Site and other sites.
 
-To find out more about interest-based advertising, your choices or to opt out of the use of cookies to tailor content or advertising to you, you can visit these sites: [Digital Advertising Alliance](http://www.aboutads.info/choices/) or the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).  Note that if you choose to opt out, you won’t necessarily see fewer ads.  However, the ads you see may be less relevant to your interests.
+To find out more about interest-based advertising, your choices or to opt out of the use of cookies to tailor content or advertising to you, you can visit these sites: [Digital Advertising Alliance](http://www.aboutads.info/choices/) or the [Network Advertising Initiative](https://www.networkadvertising.org/managing/opt_out.asp).  Note that if you choose to opt out, you won’t necessarily see fewer ads.  However, the ads you see may be less relevant to your interests.
 
 **_Clear GIFs_**
 
@@ -81,7 +81,7 @@ Any or all of these activities with regard to Site usage information may be perf
 
 You have the right to “opt in” and “opt out” of certain of our uses of your Personal
 
-Information, including by contacting us at info@wholelifechallenge.com or by submitting a request in writing to Whole Life Challenge, Inc., 929 Colorado Avenue, #117, Santa Monica, CA 90401, Attn: Privacy Officer. At the time you are requested to provide Personal Information on this Site, you will have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities for their marketing purposes.  You may also make this request by sending an e-mail to info@wholelifechallenge.com[.](mailto:%20opt-out@wholelifechallenge.com.%20)   Users may opt not to receive our electronic newsletters or those of third parties when providing Personal Information. Users who opt in may remove themselves from mailing lists at any time through the My Profile pages or by following the instructions at the end of the e-mail they received from us.  If you opt not to provide certain Personal Information when registering for or using our Site, however, you may not be able to use some of our services such as participating in a challenge or using message boards.
+Information, including by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by submitting a request in writing to Whole Life Challenge, Inc., 929 Colorado Avenue, #117, Santa Monica, CA 90401, Attn: Privacy Officer. At the time you are requested to provide Personal Information on this Site, you will have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities for their marketing purposes.  You may also make this request by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)[.](https://web.archive.org/cdn-cgi/l/email-protection#113423217e61653c7e64655166797e7d747d7877747279707d7d747f76743f727e7c3f342321)   Users may opt not to receive our electronic newsletters or those of third parties when providing Personal Information. Users who opt in may remove themselves from mailing lists at any time through the My Profile pages or by following the instructions at the end of the e-mail they received from us.  If you opt not to provide certain Personal Information when registering for or using our Site, however, you may not be able to use some of our services such as participating in a challenge or using message boards.
 
 Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and
 
@@ -105,7 +105,7 @@ We may analyze user behavior as a measure of interest in, and use of, our Site a
 
 When you contribute to a public area or feature of our Site, such as a message board, chat room, bulletin board, list serve, blog, vlog, wiki or other open forum that we may make available on or through our Site, the information that you submit will be made available to the general public.   Such information may, for example, be accessed by everyone on the internet, be indexed by third party search engines, and be imported, exported, distributed, and redistributed by us and others without privacy limitations and once published or displayed may be impossible to remove. Such information may be associated with you by such outside parties based on what you provide or disclose.
 
-For these reasons, we recommend that you do not submit any sensitive information, including your home address, phone number, other information that would enable other users to locate you, or financial information, on these areas of our Site. If you do not consent to displaying your personal information such as your full name in connection with participation in a challenge, please do not participate in the challenge.  To request removal of your Personal Information from a public forum or other public area of our Site, please contact us at [info@wholelifechallenge.com](mailto:info@wholelifechallenge.com).
+For these reasons, we recommend that you do not submit any sensitive information, including your home address, phone number, other information that would enable other users to locate you, or financial information, on these areas of our Site. If you do not consent to displaying your personal information such as your full name in connection with participation in a challenge, please do not participate in the challenge.  To request removal of your Personal Information from a public forum or other public area of our Site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c75727a735c6b7473707970757a797f747d707079727b79327f7371).
 
 **How We Respond to Do Not Track Signals**
 
@@ -147,7 +147,7 @@ In the event that WLC, or substantially all of its assets, are acquired by one o
 
 We may use third-party advertising companies to serve ads when you visit our Site.  If so, a list of these ad serving companies will be available in the FAQ section of wholelifechallenge.com. These companies may use information (generally not including your name, address, e-mail address or telephone number) about your visits to this and other web sites in order to provide
 
-advertisements about goods and services of interest to you.  These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer Web site at [www.networkadvertising.org](http://www.networkadvertising.org/).
+advertisements about goods and services of interest to you.  These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer Web site at [www.networkadvertising.org](https://www.networkadvertising.org/).
 
 **Wireless Addresses**
 
@@ -177,7 +177,7 @@ You may review, correct or change the Personal Information that is stored in you
 
 on this Site by visiting the My Profile area of your account on this Site.
 
-You may send us new or updated information at any time by contacting us at info@wholelifechallenge.com. We will endeavor to respond to your request to access, update or delete your information, including your user account, as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.  
+You may send us new or updated information at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection). We will endeavor to respond to your request to access, update or delete your information, including your user account, as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.  
 
 **California Privacy Rights**
 
@@ -215,7 +215,7 @@ If you receive an e-mail or other correspondence requesting that you provide any
 
 web site that does not seem to be affiliated with our Site, or that otherwise seems suspicious
 
-to you, please do not provide such information, and report such request to us at [info@wholelifechallenge.com](mailto:info@wholelifechallenge.com).
+to you, please do not provide such information, and report such request to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85ecebe3eac5f2edeae9e0e9ece3e0e6ede4e9e9e0ebe2e0abe6eae8).
 
 **Consent to Processing Information for Persons Outside the United States**
 
@@ -249,7 +249,7 @@ practices, at any time, and will notify users of this Site by posting such chang
 
 **Contact Us**
 
-If you have any questions or comments regarding our privacy practices, you may contact us at [info@wholelifechallenge.com](mailto:info@wholelifechallenge.com) or through:
+If you have any questions or comments regarding our privacy practices, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4c25222a230c3b2423202920252a292f242d202029222b29622f2321) or through:
 
 Whole Life Challenge, Inc.
 
