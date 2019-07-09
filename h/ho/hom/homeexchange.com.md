@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517012612id_/https%3A//www.homeexchange.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709120448id_/https%3A//www.homeexchange.com/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Exchange - HomeExchange
 
