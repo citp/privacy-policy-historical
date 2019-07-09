@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soapboxmedia.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509143511id_/http%3A//www.soapboxmedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapboxmedia.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709173516id_/https%3A//www.soapboxmedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Issue Media Group, LLC ("Issue Media") takes your privacy seriously. Please read the following to learn more about how we collect, use, share, and protect information about you, as well as the choices you may make about how we use this information.
 
-Issue Media is committed to protecting the information you share with us, and we will not use your information in ways different from what is disclosed in this statement without your permission.  This Privacy Policy for www.soapboxmedia.com includes and incorporates the [Terms and Conditions of Use](http://www.soapboxmedia.com/about/termsofuse.aspx).
+Issue Media is committed to protecting the information you share with us, and we will not use your information in ways different from what is disclosed in this statement without your permission.  This Privacy Policy for www.soapboxmedia.com includes and incorporates the [Terms and Conditions of Use](https://www.soapboxmedia.com/about/termsofuse.aspx).
 
  **What Information Do We Collect?**
 
@@ -94,5 +94,5 @@ Issue Media Group
 
 Detroit MI 48201
 
-© Issue Media Group, LLC 2007.  
+© Issue Media Group, LLC 2015.  
 All rights reserved.
