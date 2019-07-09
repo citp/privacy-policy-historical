@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shasso.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301232529id_/https%3A//www.shasso.com/site/page%3Fview%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shasso.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709181507id_/https%3A//www.shasso.com/site/page%3Fview%3Dpolicy) for the most accurate reproduction.*
 
 # Shasso
 
