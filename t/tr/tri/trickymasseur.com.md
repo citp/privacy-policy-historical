@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trickymasseur.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509062822id_/http%3A//trickymasseur.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickymasseur.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709121311id_/http%3A//trickymasseur.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
