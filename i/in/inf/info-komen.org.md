@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the info-komen.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330210512id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the info-komen.org privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709105003id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Susan G. Komen®
 
@@ -62,8 +62,6 @@ The Sites may use cookies to enhance your experience while using the Sites. A �
 Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Sites will not function properly when you view them.
 
 The Sites also may use other technologies to track the specific pages viewed by visitors on the Sites or to target specific content that might be of interest to you. These technologies help us to understand how visitors use the Sites. However, you will have the option to opt out (or opt on if applicable law requires) of receiving such targeted content on those pages of our Sites where this technology is used.
-
-This Site uses Google Analytics to measure and optimize traffic flow, and also Google Analytics Demographics and Interest Reporting as part of the overall marketing plan for the Site. You may opt out of these Google Analytics Advertising Features by using Google’s [opt-out tools](https://tools.google.com/dlpage/gaoptout/). You can find [additional opt-out methods here](https://policies.google.com/technologies/ads?hl=e).
 
 **Does Komen SHARE the information that I have provided or that has been collected?**  
 Komen may need to share Personal Information with third parties in limited circumstances. For example, we may release Personal Information to third parties to perform services such as advising you of our upcoming events, products, volunteer opportunities, fundraising and partner-related product opportunities benefiting Komen, breast health/breast cancer information or processing credit card payments or hosting the Sites (and/or features available on the Sites). However, such third parties are obligated to maintain the confidentiality of Personal Information and are not authorized to use Personal Information for any purpose other than providing those services.
@@ -141,4 +139,4 @@ Attn: Privacy Manager, Donor Services
 Phone: 1-877 GO KOMEN (1.877.465.6636)  
 Fax: (972) 855-4301
 
-Revised: 01/15/19
+Revised: 07/07/15
