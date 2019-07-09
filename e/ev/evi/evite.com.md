@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601211008id_/https%3A//www.evite.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709194735id_/https%3A//www.evite.com/content/privacy_policy) for the most accurate reproduction.*
 
 # Evite Privacy Policy
 
