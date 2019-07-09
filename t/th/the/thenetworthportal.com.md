@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenetworthportal.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207225815id_/https%3A//thenetworthportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenetworthportal.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709110324id_/https%3A//thenetworthportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Net Worth Portal
 
