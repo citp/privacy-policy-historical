@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903220308id_/https%3A//www.traveltexas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709163616id_/https%3A//www.traveltexas.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use
+# Privacy Policy & Terms Of Use
 
 ##### **Updated May 2018**
 
@@ -8,26 +8,24 @@ This Privacy Policy describes the privacy practices of Travel Texas (“we,” �
 
 Click on the links below to jump to the different sections of our Privacy Policy:
 
-**
+  * **How We Collect Information**
+  * **Types of Information We Collect**
+  * **How We Use Your Information**
+  * **How We Share Your Information**
+  * **Minors**
+  * **Your Rights and Choices**
+  * **Marketing**
+  * **Cookies and Advertising**
+  * **Links to Other Websites and Third Party Content**
+  * **International Data Transfers**
+  * **How We Protect Information**
+  * **Data Retention**
+  * **Content Submitted by You**
+  * **Changes to Our Privacy Policy**
+  * **State Privacy Rights**
+  * **Contact Us**
 
-  * How We Collect Information
-  * Types of Information We Collect
-  * How We Use Your Information
-  * How We Share Your Information
-  * Minors
-  * Your Rights and Choices
-  * Marketing
-  * Cookies and Advertising
-  * Links to Other Websites and Third Party Content
-  * International Data Transfers
-  * How We Protect Information
-  * Data Retention
-  * Content Submitted by You
-  * Changes to Our Privacy Policy
-  * State Privacy Rights
-  * Contact Us
 
-**
 
 ##### **How We Collect Information**
 
@@ -85,7 +83,7 @@ We do not knowingly collect personal information from children under age 13. If 
 
 You have certain rights in relation to your personal information, including the right to request access to your personal information, correct any mistakes on our records, erase or restrict records where they are no longer required, object to use of personal information based on legitimate business interests, and ask not to be subject to automated decision making if the decision produces legal or other significant effects on you.
 
-We will respond to your request in writing, or orally if requested, as soon as practicable. We may request proof of identification to verify your request. For more details in relation to your rights, including how to exercise them, please contact us at [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
+We will respond to your request in writing, or orally if requested, as soon as practicable. We may request proof of identification to verify your request. For more details in relation to your rights, including how to exercise them, please contact us at [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
 
 ##### **Marketing**
 
@@ -106,9 +104,9 @@ The information that may be collected by automated means includes:
 
 
 
-Web browsers may offer users of our Site the ability to disable receiving certain types of cookies; however, if cookies are disabled, some features or functionality of our Site may not function correctly. To support and enhance the services, we may serve advertisements, and also allow third parties to serve advertisements, through the services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these ad networks and other parties. Advertisements served through the services may be targeted to users who fit a certain general profile category, which may be inferred from information you provide to us, based on your services usage patterns, or based on your activity on Third Party Services (as defined in this Privacy Policy). We do not provide personal information to any ad networks for use other than in connection with the services. To learn more about ad networks and to adjust your preferences, please click [here](https://www.networkadvertising.org/understanding-online-advertising).
+Web browsers may offer users of our Site the ability to disable receiving certain types of cookies; however, if cookies are disabled, some features or functionality of our Site may not function correctly. To support and enhance the services, we may serve advertisements, and also allow third parties to serve advertisements, through the services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these ad networks and other parties. Advertisements served through the services may be targeted to users who fit a certain general profile category, which may be inferred from information you provide to us, based on your services usage patterns, or based on your activity on Third Party Services (as defined in this Privacy Policy). We do not provide personal information to any ad networks for use other than in connection with the services. To learn more about ad networks and to adjust your preferences, please click [here](https://www.networkadvertising.org/understanding-online-advertising).
 
-Some of our business partners that collect information about your activities on our Site may be members of organizations or programs that provide you with choices regarding the use of your browsing behavior for purposes of targeted advertising. For example, you may opt out of receiving targeted advertising on websites through members of the Network Advertising Initiative by clicking [here](http://optout.networkadvertising.org/?c=1#!/) or the Digital Advertising Alliance by clicking [here](http://optout.aboutads.info/?c=2#!/). European users may opt out of receiving targeted advertising on websites through members of the European Interactive Digital Advertising Alliance by clicking [here](https://www.youronlinechoices.eu/), selecting your country, and then clicking “Choices” (or similarly-titled link). Mobile app users may opt out of receiving targeted advertising in mobile apps through members of the Digital Advertising Alliance by installing the AppChoices mobile app, available [here](https://youradchoices.com/appchoices), and selecting your choices. Please note that we may also work with other entities that may offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above.
+Some of our business partners that collect information about your activities on our Site may be members of organizations or programs that provide you with choices regarding the use of your browsing behavior for purposes of targeted advertising. For example, you may opt out of receiving targeted advertising on websites through members of the Network Advertising Initiative by clicking [here](http://optout.networkadvertising.org/?c=1#!/) or the Digital Advertising Alliance by clicking [here](http://optout.aboutads.info/?c=2#!/). European users may opt out of receiving targeted advertising on websites through members of the European Interactive Digital Advertising Alliance by clicking [here](https://www.youronlinechoices.eu/), selecting your country, and then clicking “Choices” (or similarly-titled link). Mobile app users may opt out of receiving targeted advertising in mobile apps through members of the Digital Advertising Alliance by installing the AppChoices mobile app, available [here](https://youradchoices.com/appchoices), and selecting your choices. Please note that we may also work with other entities that may offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above.
 
 ##### **Links to Other Websites and Third Party Content**
 
@@ -130,7 +128,7 @@ Our retention periods for personal information are based on our needs and legal 
 
 ##### **Content Submitted by You**
 
-Some features of the Site allow you to post content on our Site or social media pages, such as photos. Content that you provide may be shared publicly or with other users or third parties. To learn more about our UGC Terms & Conditions, please click [here](https://web.archive.org/ugcterms).
+Some features of the Site allow you to post content on our Site or social media pages, such as photos. Content that you provide may be shared publicly or with other users or third parties. To learn more about our UGC Terms & Conditions, please click [here](https://www.traveltexas.com/privacy-policy-terms-of-use/ugc-terms-and-conditions/).
 
 ##### **Changes to Our Privacy Policy**
 
@@ -140,6 +138,10 @@ We may at any time in our sole discretion revise or update this Privacy Policy. 
 
 To the extent information collected about you is collected or maintained by a governmental body of the State of Texas, that information may be subject to public disclosure under the Texas Public Information Act (Texas Government Code, Chapter 552). Non-governmental email addresses are not subject to disclosure unless you affirmatively consent to the disclosure of your e-mail address.
 
-Under Texas Government Code, Chapter 559, you are entitled, upon request, to: (i) know if information has been collected about that you by a state governmental body of the State of Texas; (ii) the receipt and review of the information any collected under sections 552.021 and 552.023 of the Texas Government Code; and (iii) the correction of inaccurate information under section 559.004 of the Texas Government Code, subject to any applicable exceptions. If you would like to request information about you that may be subject to this law, please submit a written request to us at: [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
+Under Texas Government Code, Chapter 559, you are entitled, upon request, to: (i) know if information has been collected about that you by a state governmental body of the State of Texas; (ii) the receipt and review of the information any collected under sections 552.021 and 552.023 of the Texas Government Code; and (iii) the correction of inaccurate information under section 559.004 of the Texas Government Code, subject to any applicable exceptions. If you would like to request information about you that may be subject to this law, please submit a written request to us at: [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
 
-California Residents: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer data which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like information identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and the contact information for such affiliates and/or third parties, please submit a written request to the following address: [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
+California Residents: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer data which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like information identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and the contact information for such affiliates and/or third parties, please submit a written request to the following address: [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
+
+##### **Contact Us**
+
+If you have any questions, requests or complaints regarding this Privacy Policy, please contact us at [privacy.traveltexas@gov.texas.gov](mailto:privacy.traveltexas@gov.texas.gov).
