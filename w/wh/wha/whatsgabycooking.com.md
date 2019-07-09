@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsgabycooking.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412140407id_/https%3A//whatsgabycooking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsgabycooking.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709211142id_/https%3A//whatsgabycooking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - What's Gaby Cooking
 
