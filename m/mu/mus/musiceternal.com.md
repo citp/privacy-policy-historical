@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musiceternal.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509171303id_/http%3A//www.musiceternal.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiceternal.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709173634id_/http%3A//www.musiceternal.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy-Policy: Privacy-Policy
 
