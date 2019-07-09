@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiqiq.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151402id_/https%3A//www.ticketiq.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiqiq.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709195111id_/https%3A//www.ticketiq.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TicketIQ
 
 TicketIQ is a secondary ticket marketplace with Low Price Guarantees. Prices are set by the seller and may be above or below face value.
 
