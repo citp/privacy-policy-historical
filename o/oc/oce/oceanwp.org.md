@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanwp.org privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305173946id_/https%3A//oceanwp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanwp.org privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709233056id_/https%3A//oceanwp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OceanWP
 
