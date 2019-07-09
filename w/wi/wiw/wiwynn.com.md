@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiwynn.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509194804id_/http%3A//www.wiwynn.com/english/page/index/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiwynn.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709030854id_/http%3A//www.wiwynn.com/english/page/index/1) for the most accurate reproduction.*
 
 # Wiwynn
 
