@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwellinggawker.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611024553id_/https%3A//dwellinggawker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwellinggawker.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709211330id_/https%3A//dwellinggawker.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | dwellinggawker
 
