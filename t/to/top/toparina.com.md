@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toparina.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610211353id_/http%3A//www.toparina.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toparina.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709135738id_/http%3A//toparina.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - Toparina.Com
 
