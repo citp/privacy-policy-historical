@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthyaffiliate.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817203038id_/https%3A//www.wealthyaffiliate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthyaffiliate.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709153929id_/https%3A//www.wealthyaffiliate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wealthy Affiliate
 
@@ -40,6 +40,8 @@ We automatically receive and record information in server logs from your browser
 We provide control through the account settings to limit the data we collect from you and how we use it, as well as to control things like email communication, username displayed, name, or email used for logging in. This information is visible to you within your [account settings](https://my.wealthyaffiliate.com/home/my_profile) at anytime. It is not important to us to know your real identity. If you prefer to be anonymous then you can change your name, username, and email to anything that you like. Likewise on your public profile, you can choose to enter an image and add a description. Images and profile descriptions can be removed at any time by visiting your public profile at:
 
 https://my.wealthyaffiliate.com/yourusername
+
+Wealthy Affiliate is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
 We use your information to fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting. If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, we would love to hear from you. You can contact us at any time.
 
