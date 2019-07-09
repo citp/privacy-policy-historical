@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherplanet.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608074729id_/http%3A//theeducatorsnetwork.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherplanet.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710005627id_/http%3A//theeducatorsnetwork.com/privacy_policy) for the most accurate reproduction.*
 
 # The Educator's Network, Inc.
 
