@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627085213id_/https%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709114921id_/http%3A//www.researchandmarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Research and Markets
 
@@ -56,7 +56,7 @@ We restrict access to personal information to Research and Markets' employees, c
 
 ## OPT-IN/OPT-OUT 
 
-If you do not want to receive e-mail correspondence from us, please visit click the unsubscribe link provided at the bottom of any of our marketing emails. If you encounter any problem or need additional help, please [contact us](https://www.researchandmarkets.com/info/contactus.asp). If you wish to receive e-mail or other mail from us, please visit: [Register Page](https://www.researchandmarkets.com/register.asp)
+If you do not want to receive e-mail correspondence from us, please visit click the unsubscribe link provided at the bottom of any of our marketing emails. If you encounter any problem or need additional help, please [contact us](https://www.researchandmarkets.com/contact-us). If you wish to receive e-mail or other mail from us, please visit: [Register Page](https://www.researchandmarkets.com/register.asp)
 
 ## FOR HOW LONG IS PERSONAL DATA RETAINED? 
 
@@ -73,7 +73,7 @@ Under current data protection laws and under GDPR you have certain rights. These
 
 **Right to Access:** You may request a copy of all personal data held about you by Research and Markets.
 
-**Right to Rectify:** You have the right to ask Research and Markets to correct any inaccuracies in the personal data held about you. 
+ **Right to Rectify:** You have the right to ask Research and Markets to correct any inaccuracies in the personal data held about you. 
 
 **Right to Erasure:** You have the right to ask that we erase any personal data we are processing about you. Please note that we may still be legally allowed or obliged to retain your information in instances such as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and defend or establish a legal claim. 
 
