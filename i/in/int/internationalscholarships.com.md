@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalscholarships.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624102723id_/https%3A//www.internationalscholarships.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalscholarships.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709090947id_/https%3A//www.internationalscholarships.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -267,7 +267,7 @@ We may need to modify this privacy policy from time to time to reflect our curre
 
 ## 19\. Data Privacy and Protection Provisions From Web Service Companies Like Google and Facebook
 
-EIC uses generally-available third party services on its websites, like Google Analytics, AdSense, AdWords, and Google Remarketing. EIC also includes links or integrates with Facebook, Instagram, LinkedIn and other social media platforms, as well as other web services companies like SalesForce, YesMail and others. Each of these third parties has its own data protection and privacy provisions, and detailed descriptions of each third-party, the service they provide and links to their data privacy and protection provisions are available on [this page](https://web.archive.org/web/20190624102723id_/https%3A//www.internationalscholarships.com/privacy-policy?tab=third-party-data). 
+EIC uses generally-available third party services on its websites, like Google Analytics, AdSense, AdWords, and Google Remarketing. EIC also includes links or integrates with Facebook, Instagram, LinkedIn and other social media platforms, as well as other web services companies like SalesForce, YesMail and others. Each of these third parties has its own data protection and privacy provisions, and detailed descriptions of each third-party, the service they provide and links to their data privacy and protection provisions are available on [this page](https://web.archive.org/web/20190709090947id_/https%3A//www.internationalscholarships.com/privacy-policy?tab=third-party-data). 
 
 ## 1\. Data protection provisions about the application and use of Facebook
 
