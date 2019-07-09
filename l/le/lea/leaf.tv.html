@@ -1,0 +1,235 @@
+<!--The following is the downloaded HTML source of the leaf.tv privacy policy that was archived on 2019-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190709070928id_/https%3A//www.leaf.tv/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="google-site-verification" content=" "><meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3"><meta property="og:site_name" content="LEAFtv"><link rel="preload" href="//www.leaf.tv/style.css" as="style"><link rel="icon" href="//www.leaf.tv/images/favicon.png" type="image/x-icon"><link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Playfair+Display&amp;display=swap" rel="stylesheet"><!-- Custom Dimension dataLayer --><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WGZCHF"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script title="dataLayer" type="text/javascript">
+  var dataLayer = [] || window.dataLayer;
+
+  function getPublishedDateISO() {
+    var pubDate ="" || "2018-11-29 12:39:18.799000" || null
+
+    if (pubDate) {
+      return new Date(pubDate.replace(/ /g, 'T')).toISOString()
+    } else {
+      return
+    }
+  }
+
+  function getUpdatedDateISO() {
+    var updateDate ="2018-11-29 12:39:18.799000" || null
+
+    if (updateDate) {
+      return new Date(updateDate.replace(/ /g, 'T')).toISOString()
+    } else {
+      return
+    }
+  }
+
+  function create_UUID() {
+     var pow = Math.pow(10, 10);
+     var uuid = Math.floor(Math.random()*pow) + '.' + Math.floor(Math.random()*pow);
+     return uuid;
+  }
+
+  function find_ppid() {
+     if(!localStorage.getItem('ppid')) {
+        ppid = create_UUID();
+        localStorage.setItem('ppid', ppid);
+        return ppid;
+     } else {
+        return localStorage.getItem('ppid');
+     }
+  }
+
+  var ppid = find_ppid() || '';
+
+  dataLayer.push({
+    "pagetype": "privacy-policy.template",
+    "subpagetype": "",
+    "pageview_type": "standard",
+    "studioid": "",
+    "content_id": "",
+    "content_name": "",
+    "author": "",
+    "lg_uuid": ppid,
+    "scroll": 0,"topic1": [],
+    "topic2": [],
+    "topic3": [],
+    "tags": [],
+    "published": getPublishedDateISO() || getUpdatedDateISO() || '', 
+    "updated": getUpdatedDateISO() || getPublishedDateISO() || ''
+  })
+</script><!-- End Custom Dimension dataLayer --><script type="text/javascript">
+  // Determine WebP Support
+// Adapted from https://github.com/Modernizr/Modernizr/blob/master/feature-detects/img/webp.js
+(function() {
+	webp_flag = false;
+ 	var image = new Image();
+	image.src = 'data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAAAUAgCdASoBAAEAL/3+/3+CAB/AAAFzrNsAAP5QAAAAAA==';
+	image.onload = function() {
+		webp_flag = (image.width == 1);
+	}
+})();
+
+if (typeof $ !== 'undefined'){
+	// Lazy Load Images
+	$.fn.lazyImage = function(callback) {
+		var imgLen = this.length,
+				count = 0;
+		return this.each(function() {
+			if ($(this).attr('data-src')) {
+				var imgTag = this, imgSrc = $(this).attr('data-src'), del;
+				if (webp_flag) {
+					// Checks that image is using DM Resize and is not a .gif file
+					if (imgSrc.match(/DM\-Resize/g) && imgSrc.match(/webp=1/g) && (imgSrc.indexOf('.gif') == -1)) {
+						imgSrc = imgSrc + '&format=webp&quality=80';
+					}
+				}
+				i = new Image();
+				i.onload = function() {
+					$(imgTag).attr('src',imgSrc).fadeTo(400,1,function() {
+						(count += 1) && (imgLen == count) && (typeof callback == 'function') && callback.call(this);
+					});
+				};
+				i.src = imgSrc;
+			}
+		});
+	};
+
+	// Post Load Scripts
+	function lazyScript(check, url, callback) {
+		if ( ! check() ) { return; }
+		$.ajax({
+			url: url,
+			dataType: 'script',
+			success: callback,
+			cache: true
+		});
+	};
+}
+
+
+
+// *** helper functions for removing jquery *** //
+
+// cross-browser doc ready function
+function docReady(callback) {
+	if (document.readyState != 'loading'){
+		callback();
+	} else if (document.addEventListener) {
+		document.addEventListener('DOMContentLoaded', callback);
+	} else {
+		document.attachEvent('onreadystatechange', function() {
+			if (document.readyState != 'loading')
+				callback();
+		});
+	}
+}
+
+// cross-browser add event listener (IE8)
+function addListener(el, eventName, handler) {
+	if (el && el.addEventListener)
+		el.addEventListener(eventName, handler);
+	else if (el && el.attachEvent) {
+		el.attachEvent('on' + eventName, function(){
+			handler.call(el);
+		});
+	} else
+		return false;
+		//console.error("couldn't attach event: " + eventName + " to element: " + el);
+}
+
+function removeClass(el, className){
+	if (el && el.classList)
+		el.classList.remove(className);
+	else if (el)
+		el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
+	else
+		return false;
+		//console.error("couldn't remove class: " + className + " from element: " + el);
+}
+
+function addClass(el, className){
+	if (el && el.classList)
+	  el.classList.add(className);
+	else if (el)
+	  el.className += ' ' + className;
+	else
+		return false;
+		//console.error("couldn't add class: " + className + " to element: " + el);
+}
+
+function hasClass(el, className){
+	if (el && el.classList)
+	  return el.classList.contains(className);
+	else if (el)
+	  return new RegExp('(^| )' + className + '( |$)', 'gi').test(el.className);
+	else
+		return null;
+}
+
+function getIndex(el){
+  let i = 0;
+  while (el.previousSibling != null){
+    if (el.previousSibling.nodeType == 1){
+      // only count actual elements, not text nodes
+      i++;
+    }
+    el = el.previousSibling;
+  }
+  return i;
+}
+
+//add forEach support for IE 8
+if (typeof Array.prototype.forEach != 'function') {
+  Array.prototype.forEach = function(callback){
+    for (var i = 0; i < this.length; i++){
+      callback.apply(this, [this[i], i, this]);
+    }
+  };
+}
+</script><!-- Permutative Global --><script> !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"5814efa5-d41d-4a89-b176-1cc26fae87cd","e4ecf9e0-0a2f-42d6-a720-8fff2402c221",{});  
+window.googletag=window.googletag||{},window.googletag.cmd=window.googletag.cmd||[],window.googletag.cmd.push(function(){if(0===window.googletag.pubads().getTargeting("permutive").length){var g=window.localStorage.getItem("_pdfps");window.googletag.pubads().setTargeting("permutive",g?JSON.parse(g):[])}});
+
+window.permutive.addon('web', {
+  "page": {
+    "pagetype": "privacy-policy.template",
+    "subpagetype": "",
+    "pageview_type": "standard",
+    "content_name": "","tags": [],
+    "published": window.getPublishedDateISO() || window.getUpdatedDateISO() || '', 
+    "updated": window.getUpdatedDateISO() || window.getPublishedDateISO() || '',
+    "topic1": [],
+    "topic2": [],
+    "topic3": [],
+    "content_name": "",
+    "scroll": 0,
+    "user": {
+      "lg_uuid": ppid
+    }
+  }
+})
+
+window.permutive.readyWithTimeout=function(e,i,t){var u=!1,n=function(){u||(e(),u=!0)};(t=t||1/0)!==1/0&&window.setTimeout(n,t),permutive.ready(n,i)};
+</script><script async="" src="https://cdn.permutive.com/5814efa5-d41d-4a89-b176-1cc26fae87cd-web.js"></script><!-- Bing Webmaster Tool Auth --><meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3"><script>
+      !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+      apstag.init({
+         pubID: '3066',
+         adServer: 'googletag',
+         videoAdServer: 'DFP'
+      });
+    </script><meta name="description" content=""><meta name="pagetype" scheme="DMINSTR2" content="Home"><meta property="og:url" content="https://www.leaf.tv/"><meta property="og:description" content=""><meta property="og:type" content="website"><meta property="og:title" content="LEAFtv"><meta property="og:image" content="//www.leaf.tv/images/leaf-logo.png"><link rel="canonical" href="https://www.leaf.tv/"><title>Privacy Policy | LEAFtv</title><!-- Index exchange scripts --><script async="" src="//js-sec.indexww.com/ht/p/183706-157682553092068.js"></script><script async="true" src="//js-sec.indexww.com/htv/htv-jwplayer.min.js"></script><script type="text/javascript" src="/scripts/ads-loader.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script><script src="//www.leaf.tv/scripts/helpers.js"></script><link rel="stylesheet" href="//www.leaf.tv/style.css"></head> <body> <div id="site"><!-- body-top --> <!-- google tag manager --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGZCHF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGZCHF');</script> <!-- end google tag manager --><!-- end body-top --><header id="site-header"> <div class="inner"> <a href="/" class="mobile-back-btn">&nbsp;</a> <div id="logo" class="header-item"> <a href="/" class="logo-icon svg logo-black"> <span>LEAFtv</span> </a> </div> <div id="menu" class="header-item"> <nav class="header-nav"> <ul class="category-list"> <li class="category-item feel-good"> <a class="category-link" href="/feel-good/">Feel Good</a> <ul class="sub-list"> <li class="sub-item"> <a class="sub-link" href="/feel-good/fitness/">Fitness</a> </li> <li class="sub-item"> <a class="sub-link" href="/feel-good/life-hacks/">Life Hacks</a> </li> <li class="sub-item"> <a class="sub-link" href="/feel-good/mindfulness/">Mindfulness</a> </li> <li class="sub-item"> <a class="sub-link" href="/feel-good/wellness/">Wellness</a> </li> </ul> </li> <li class="category-item eat-well"> <a class="category-link" href="/eat-well/">Eat Well</a> <ul class="sub-list"> <li class="sub-item"> <a class="sub-link" href="/eat-well/breakfast/">Breakfast</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/cocktails/">Cocktails</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/cooking-skills/">Cooking Skills</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/dessert/">Dessert</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/dinner/">Dinner</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/healthy-drinks/">Healthy Drinks</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/lunch/">Lunch</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/nutrition/">Nutrition</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/small-bites/">Small Bites</a> </li> </ul> </li> <li class="category-item dress-up"> <a class="category-link" href="/dress-up/">Dress Up</a> <ul class="sub-list"> <li class="sub-item"> <a class="sub-link" href="/dress-up/diy-beauty/">DIY Beauty</a> </li> <li class="sub-item"> <a class="sub-link" href="/dress-up/fashion/">Fashion</a> </li> <li class="sub-item"> <a class="sub-link" href="/dress-up/home-design/">Home + Design</a> </li> <li class="sub-item"> <a class="sub-link" href="/dress-up/tutorials/">Tutorials</a> </li> </ul> </li> <li class="category-item"> <a href="//www.leaf.tv/videos/" aria-label="Video Hub" class="category-link">Video Hub</a> </li> </ul> </nav> </div> <div id="search-icon" class="header-item"> <a href="#" class="svg search-magnifier"></a> </div> <div id="hamburger" class="header-item"> <span></span> <span></span> <span></span> <span></span> </div> </div> <div id="main-search"> <div id="search-wrapper"> <span class="svg close-icon"></span> <div id="search-form-wrapper"> <form action="/search" method="GET" class="form"> <div class="form-row"> <input type="text" name="google_kw" placeholder="search leaf.tv" autocomplete="off" autofocus="autofocus" value="" class="form-row__input"> <button type="submit" class="form-row__submit"> <span class="svg search-magnifier"></span> </button> </div> </form> </div> </div> </div> <div id="mobile-menu"> <nav class="header-nav"> <ul class="category-list"> <li class="category-item"> <form action="/search" method="GET" class="form"> <input type="text" name="google_kw" placeholder="search leaf.tv" autocomplete="off" autofocus="autofocus" value="" class="mobile-search-input"> <button type="submit" class="mobile-search-button"> <svg class="search-button-icon" width="19" height="19" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" alt="Search Button"> <title>Search Glass</title> <g transform="translate(1 1)" stroke-width="2" stroke="#000" fill="none" fill-rule="evenodd"> <circle cx="6.5" cy="6.5" r="6.5"></circle> <path d="M11.5 11.5l3.536 3.536" stroke-linecap="square"></path> </g> </svg> </button> </form> </li> <li class="category-item feel-good"> <a class="category-link" href="/feel-good/">Feel Good</a> <ul class="sub-list"> <li class="sub-item"> <a class="sub-link" href="/feel-good/fitness/">Fitness</a> </li> <li class="sub-item"> <a class="sub-link" href="/feel-good/life-hacks/">Life Hacks</a> </li> <li class="sub-item"> <a class="sub-link" href="/feel-good/mindfulness/">Mindfulness</a> </li> <li class="sub-item"> <a class="sub-link" href="/feel-good/wellness/">Wellness</a> </li> </ul> </li> <li class="category-item eat-well"> <a class="category-link" href="/eat-well/">Eat Well</a> <ul class="sub-list"> <li class="sub-item"> <a class="sub-link" href="/eat-well/breakfast/">Breakfast</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/cocktails/">Cocktails</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/cooking-skills/">Cooking Skills</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/dessert/">Dessert</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/dinner/">Dinner</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/healthy-drinks/">Healthy Drinks</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/lunch/">Lunch</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/nutrition/">Nutrition</a> </li> <li class="sub-item"> <a class="sub-link" href="/eat-well/small-bites/">Small Bites</a> </li> </ul> </li> <li class="category-item dress-up"> <a class="category-link" href="/dress-up/">Dress Up</a> <ul class="sub-list"> <li class="sub-item"> <a class="sub-link" href="/dress-up/diy-beauty/">DIY Beauty</a> </li> <li class="sub-item"> <a class="sub-link" href="/dress-up/fashion/">Fashion</a> </li> <li class="sub-item"> <a class="sub-link" href="/dress-up/home-design/">Home + Design</a> </li> <li class="sub-item"> <a class="sub-link" href="/dress-up/tutorials/">Tutorials</a> </li> </ul> </li> <li class="category-item"> <a href="//www.leaf.tv/videos/" aria-label="Video Hub" class="category-link">Video Hub</a> </li> </ul> </nav> </div> </header><main id="main" class="main-container"> <style>
+  .legal, .legal h6, .legal h3, .legal p, .legal li {
+    font-family: 'Playfair Display', serif;
+  }
+  .legal-bold, .legal strong, .legal b, .legal a {
+    font-family: 'Lato', sans-serif;
+  }
+</style> <div class="legal"> <h1>OUR PRIVACY POLICY</h1> <p><strong>Last Updated:</strong><span style="font-weight: 400;"> April 25, 2018</span></p> <p><span style="font-weight: 400;">This privacy policy (“</span><strong>Privacy Policy</strong><span style="font-weight: 400;">”) describes how information and data is collected from you when you use this online website, mobile website, application, digital service, or any related products, services, sites, features or functionality (each a “</span><strong>Service</strong> <span style="font-weight: 400;">”, collectively the “</span><strong>Services</strong><span style="font-weight: 400;">”) and how Leaf Group Ltd., including its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (“</span><strong>Leaf Group</strong> <span style="font-weight: 400;">”, “</span><strong>we</strong><span style="font-weight: 400;">”, “</span><strong>us</strong><span style="font-weight: 400;">”, or “</span><strong>our</strong><span style="font-weight: 400;">”), uses, shares and manages your information and data. By using any of the Services, you consent to the collection, use, processing, and sharing of your information as described in this Privacy Policy. </span></p> <h2>1. Our Privacy Principles</h2> <p><span style="font-weight: 400;">We are committed to recognizing and respecting your privacy rights by keeping you informed and processing and protecting your personal data in compliance with applicable law.</span></p> <p><span style="font-weight: 400;">Effective May 25th, 2018, if you are from the European Economic Area (“</span><strong>EEA</strong><span style="font-weight: 400;">”), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation (“</span><strong>GDPR</strong> <span style="font-weight: 400;">”).</span> </p> <h2>2. Information that We Collect from You</h2> <p><strong>Account Data You Directly and Voluntarily Provide to Us</strong></p> <p><span style="font-weight: 400;">We may collect and process some or all of the following information you make available to us if you register, download or use the Services, such as your:</span></p> <ul> <li><strong><strong>Name</strong></strong></li> <li><strong>Email Address</strong></li> <li><strong>Mailing Address</strong></li> <li><strong>Phone Number</strong></li> <li><strong>Interests</strong></li> <li><strong>User Name</strong></li> <li><strong>Password</strong></li> <li><strong>Other Registration Information</strong></li> <li><strong>Customer Support or Technical Information you provide when you contact us with questions about your use of the Services</strong></li> </ul> <p><strong>User Profile Data</strong></p> <p><span style="font-weight: 400;">We may also offer you the option to create a user profile that may be visible to other users of the Services. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile remains private, we will still be able to access and view the information you provide as part of your user profile.</span></p> <p><strong>Public Data You Post through the Services</strong></p> <p><span style="font-weight: 400;">If you post information on public areas of the Services, that data may be collected and used by us, other users of the Services, and the public generally, such as reviews, comments, and user content. We strongly recommend that you do not post any information through the Services that allows strangers to identify or locate you or that you otherwise do not want to share with the public.</span></p> <p><strong>Usage Data We Automatically Collect from You</strong></p> <p><span style="font-weight: 400;">In addition to the information you provide to us, the Services may collect and process additional data automatically, this data may include your:</span></p> <ul> <ul> <li style="font-weight: 400;"><strong>Device Registration Data </strong><span style="font-weight: 400;">(for example, the type of mobile device you use, your mobile device’s unique device or advertising ID, IP address, operating system and browser type),</span></li> </ul> </ul> <ul> <li><strong><strong>Device Settings</strong><span style="font-weight: 400;"> (for example, your language preference)</span></strong> </li> </ul> <ul> <li><strong>Mobile Carrier</strong></li> </ul> <ul> <li><strong>Information about how you use the Services</strong><span style="font-weight: 400;"> (for example, how many times you use the Services each day)</span></li> </ul> <ul> <li><strong>Requested and Referring URLs</strong></li> </ul> <ul> <li><strong>Location Data collected through your Device</strong><span style="font-weight: 400;"> (including, for example, precise location data such as GPS and WiFi information)</span></li> </ul> <h2>3. How We Use Your Information</h2> <p><strong>Improving the Services, Providing Support, and Communicating With You</strong></p> <p><span style="font-weight: 400;">We and our service providers may use the data you provide or that is collected through the Services to operate and improve the Services, our other sites, applications, products and services, to contact you from time to time to provide you with important information and notices relating to the Services, and to communicate with you about marketing promotions. </span></p> <p><strong>Advertising and Third Party Content and Links</strong></p> <p><span style="font-weight: 400;">The Services may be supported through advertising, and we may work with advertisers and advertising networks to provide advertising through the Services. We may provide these advertisers and advertising networks with the ability to collect data about how you interact with the Services and, if applicable, your mobile device. This data may include the unique device or advertising identifier associated with your device and your precise location data, in order to help analyze and serve targeted advertising on the Services and elsewhere (including third-party sites and applications). In addition, the Services may include third-party content and links to other third-party websites. These advertisers, advertising networks, and third parties may use cookies, pixels, and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user. </span></p> <p><span style="font-weight: 400;">For information about how tracking works for online advertising purposes you can visit&nbsp;</span><a href="http://www.aboutads.info/choices"><span style="font-weight: 400;">http://www.aboutads.info/choices</span></a> <span style="font-weight: 400;">&nbsp;or&nbsp;</span><a href="http://www.aboutads.info/appchoices"><span style="font-weight: 400;">http:///www.aboutads.info/appchoices</span></a><span style="font-weight: 400;">. We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit.</span></p> <p><span style="font-weight: 400;">If you access the Services through a browser, your browser may allow you to adjust your browser settings so that “Do Not Track” requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Services in response to any Do Not Track requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Services.</span></p> <p><strong>Analytics Services</strong></p> <p><span style="font-weight: 400;">We may also work with third party analytics companies to help us understand how the Services are being used, such as data collection, reporting, ad response measurement, website and mobile application analytics, and to assist with delivery of relevant marketing messages and advertisements.</span></p> <p><span style="font-weight: 400;">We may use Google Analytics, an analytics service provided by Google or other third party analytics services providers (“</span><strong>Analytics Services</strong><span style="font-weight: 400;">”) to collect information about your use of the Services. These Analytics Services may collect information about the content you view and your system information and geographic information. The information generated by the Analytics Services about your use of the Services will be transmitted to and stored by the Analytics Services. The information collected by the Analytics Services allows us to analyze your use of the Services.</span></p> <p><span style="font-weight: 400;">We encourage you to review your device and Services settings to ensure they are consistent with your preferences, including with respect to the collection and use of information. You may be able to stop further collection of certain data by the Services by updating your applicable device settings, or you may uninstall the Services. In addition, you may choose not to share your location details by adjusting your mobile device’s location services settings. For instructions on changing the relevant settings, please contact your service provider/carrier or device manufacturer.</span></p> <p><strong>Purchases and Payment Processors</strong></p> <p><span style="font-weight: 400;">If you make a purchase through the Services, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Services. Information collected from you by these third-party payment services is governed by the applicable third-party payment service’s privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.</span></p> <p><strong>Promotions, Sweepstakes, and Contests</strong></p> <p><span style="font-weight: 400;">From time to time, we may host a promotion, sweepstakes, or content on the Services. You may be asked to provide personal information or permit the transfer of your personal information to a third party in connection with such promotion, sweepstakes or content. The parties who privacy policy applies will be disclosed at point of collection or transfer and you will have a choice of whether or not you wish to permit such transfer or collection of information to a third party.</span></p> <p><span style="font-weight: 400;">If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us. If you are a registered user you may also be able to adjust your email settings by logging in to your account and adjusting your account settings.</span></p> <p><strong>Social Media and Sharing</strong></p> <p><span style="font-weight: 400;">The Services may use social networking or “share functionality” or may contain links to third-party social media sites or applications that are not owned or controlled by us. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Services. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature. </span></p> <p><span style="font-weight: 400;">We have no control over, and assume no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. You are subject to the policies of those third parties when and where applicable. </span></p> <h2>4. How We Share Your Information with Third Parties</h2> <p><span style="font-weight: 400;">We may share the information you provide or that we collect in some circumstances as follows:</span></p> <p><strong>With Advertisers</strong></p> <p><span style="font-weight: 400;">We may share your information with advertisers, third-party advertising networks and analytics companies who may use it to deliver targeted advertisements to you on the Services or third-party websites or advertisers. Similarly, these advertisers may share information with us about you that they have independently gathered or acquired. We may also share encrypted versions of information we have collected in order to enable our advertising partners to perform data analysis or for advertising-related use.</span></p> <p><strong>With Our Company Affiliates</strong></p> <p><span style="font-weight: 400;">We may share your information with members of the Leaf Group corporate family in order to provide joint content and services (like registration, transactions and customer support), or to improve your experience with the Services, products and other services.</span></p> <p><strong>With Our Partner Programs</strong></p> <p><span style="font-weight: 400;">If you are directed to the Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship or Services utilized.</span></p> <p><strong>For Marketing Campaigns</strong></p> <p><span style="font-weight: 400;">From time to time we may disclose certain information (name, mailing address and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to marketing companies for trade or rental purposes. If you prefer to opt-out of the use of your personal information by marketing companies for trade or rental purposes, please let us know at&nbsp;</span><strong>legal@leafgroup.com</strong> <span style="font-weight: 400;">.</span> </p> <p><strong>With Our Service Providers</strong></p> <p><span style="font-weight: 400;">We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.</span></p> <p><strong>As Required By Law or to Protect Rights and to Comply with Our Policies </strong></p> <p><span style="font-weight: 400;">To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if required to do so by law, or if requested in response to a subpoena or court order, we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large, or we believe that you have abused the Services by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our&nbsp;</span> <a href="https://www.hunker.com/terms-of-use"><span style="font-weight: 400;">Terms of Use</span></a><span style="font-weight: 400;">. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.</span></p> <p><strong>Business Transfers or Bankruptcy</strong></p> <p><span style="font-weight: 400;">In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable.</span></p> <h2>5. Your Access and Control of Your Information</h2> <p><span style="font-weight: 400;">We acknowledge your right to access and control your personal data</span><strong>.&nbsp;</strong></p> <p><strong>Accessing, Correcting or Deleting Your Information</strong></p> <p><span style="font-weight: 400;">To request access to or correction of your personal data, you may use our online form located at __________________________, or send an e-mail to&nbsp;</span><strong>legal@leafgroup.com</strong><span style="font-weight: 400;">&nbsp;or a letter to:</span></p> <p><strong>Leaf Group Ltd.</strong></p> <p><strong>Attn: Legal Department</strong></p> <p><strong>1655 26</strong><strong>th</strong><strong>&nbsp;Street</strong></p> <p><strong>Santa Monica, CA 90404</strong></p> <p><span style="font-weight: 400;">Please include your registration information you provided through the Services. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account. </span></p> <p><span style="font-weight: 400;">If you'd like us to delete information that you have provided through the Services, please contact us at</span> <strong>legal@leafgroup.com</strong><span style="font-weight: 400;"> and we will respond in a reasonable time. Please note that some or all of the information you provided may be required in order for the Services to function properly or may be automatically retained in backup storage or records retention archival storage.</span></p> <p><strong>Portability of Your Personal Data</strong></p> <p><span style="font-weight: 400;">Data portability is the ability to obtain some of your information in a format you can move from one service provider to another. Depending on the context, this applies to some of your information, but not to all of your information. Should you request it, we will provide you with an electronic file of your basic account information and the information under your sole&nbsp;control.</span></p> <p><strong>California Residents</strong></p> <p><span style="font-weight: 400;">If you are a California resident under the age of 18 and are a registered user of the Services, you may request that we remove content or information about you that you posted on the Services by: (a) submitting a request in writing to&nbsp;</span><strong>legal@leafgroup.com</strong> <span style="font-weight: 400;">; and&nbsp;(b) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if: (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.</span> </p> <h2>6. Transfer of Data Outside Your Country of Residence</h2> <p><span style="font-weight: 400;">If you are located outside of the United States and you choose to use the Services or provide your information to us, your data may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Services represents your consent and agreement to these practices. If you do not want your data transferred to or processed or maintained in the United States, you should not use the Services.</span></p> <p><strong>Privacy Shield</strong></p> <p><span style="font-weight: 400;">We comply with the </span><strong>EU-US Privacy Shield Framework</strong><span style="font-weight: 400;"> and the </span><strong>Swiss-US Privacy Shield Framework</strong><span style="font-weight: 400;"> as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of:</span></p> <ul> <li><strong><strong>Notice</strong></strong> </li> <li><strong>Choice</strong></li> <li><strong>Accountability for Onward Transfer</strong></li> <li><strong>Security</strong></li> <li><strong>Data Integrity and Purpose Limitation</strong></li> <li><strong>Access</strong></li> <li><strong>Recourse, Enforcement and Liability</strong></li> </ul> <p><span style="font-weight: 400;">If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit&nbsp;</span> <a href="https://www.privacyshield.gov/"><strong>https://www.privacyshield.gov/</strong></a><span style="font-weight: 400;">.</span></p> <p><span style="font-weight: 400;">In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at</span><strong>&nbsp;legal@leafgroup.com</strong> <span style="font-weight: 400;">.</span> </p> <p><span style="font-weight: 400;">We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the </span><strong>BBB EU PRIVACY SHIELD</strong> <span style="font-weight: 400;">, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit&nbsp;</span><a href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers/"><strong>http://www.bbb.org/EU-privacy-shield/for-eu-consumers/</strong></a><span style="font-weight: 400;">&nbsp;for more information and to file a complaint.</span></p> <p><span style="font-weight: 400;">Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.</span></p> <h2>7. The Privacy of Children</h2> <p><span style="font-weight: 400;">The Services are not intended for children under age 16. We do not knowingly collect or distribute personal information from or about children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at&nbsp;</span><strong>legal@leafgroup.com</strong> <span style="font-weight: 400;">.</span> </p> <h2>8. Security Measures</h2> <p><span style="font-weight: 400;">We provide industry-standard physical, electronic, and procedural safeguards to protect personal data we process and maintain. For example, we take reasonable measures to limit access to this data to authorized employees and contractors who need to know that information in order to operate, develop or improve our Services. Please be aware that, although we endeavor to provide reasonable security for data we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Services and you do so at your own risk.</span></p> <h2>9. Updates to this Privacy Policy</h2> <p><span style="font-weight: 400;">We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Services prior to the time the modified privacy policy takes effect. If you continue using the Services after the modified privacy policy takes effect, you will be bound by the modified privacy policy.</span></p> <h2>10. Contact Us</h2> <p><span style="font-weight: 400;">If you have questions about this Privacy Policy, you may contact us at&nbsp;</span><strong>legal@leafgroup.com</strong><span style="font-weight: 400;"> or send a letter to:</span></p> <p><strong>Leaf Group Ltd.</strong></p> <p><strong>Attn: Legal Department</strong></p> <p><strong>1655 26</strong><strong>th</strong><strong>&nbsp;Street</strong></p> <p><strong>Santa Monica, CA 90404</strong></p> <p><span style="font-weight: 400;">We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.</span></p> </div></main><footer id="site-footer"> <div class="inner"> <div id="footer-about"> <h4 class="title">About</h4> <nav id="about-nav"> <ul id="about-links"> <li class="about-item"> <a href="/about">About Us</a> </li> <li class="about-item"> <a href="/terms-of-use">Terms</a> </li> <li class="about-item"> <a href="/privacy-policy">Privacy Policy</a> </li> <li class="about-item"> <a href="/copyright-policy">Copyright Policy</a> </li> </ul> </nav> </div> <div id="footer-social"> <h4 class="title">Community</h4> <nav id="social-nav"> <ul id="social-links"> <li> <a href="https://www.facebook.com/LEAFtv-202292389783837/" target="_blank" data-event="footer follow" data-info="Facebook"> <span class="svg facebook-blue"></span> </a> </li> <li> <a href="https://www.pinterest.com/leaftv/" target="_blank" data-event="footer follow" data-info="Pinterest"> <span class="svg pinterest-red"></span> </a> </li> <li> <a href="https://twitter.com/leaftv" target="_blank" data-event="footer follow" data-info="Twitter"> <span class="svg twitter-blue"></span> </a> </li> <li> <a href="https://www.youtube.com/user/leaftv" target="_blank" data-event="footer follow" data-info="YouTube"> <span class="svg youtube-red"></span> </a> </li> </ul> </nav> </div> <div id="footer-copyright"> <span class="copyright">© 2019 Leaf Group Ltd. / Well+Good</span> </div> </div> </footer></div><script src="//www.leaf.tv/scripts/custom.js"></script>  </body></html>
