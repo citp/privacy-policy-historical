@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testbook.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413174942id_/https%3A//testbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testbook.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709194800id_/https%3A//testbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Testbook - India's No.1 Online Test Series
 
