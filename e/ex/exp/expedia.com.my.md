@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the expedia.com.my privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701233808id_/https%3A//www.expedia.com.my/g/rf/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.my privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709194955id_/https%3A//www.expedia.com.my/p/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Expedia Privacy Pledge | Expedia.com.my
 
 ## Privacy Policy
 
-This website (“Website”) is owned and operated by AAE Travel Pte. Ltd., a Singapore private company and joint venture between Expedia, Inc. and Air Asia Berhad. AAE Travel Pte. Ltd. understands that making bookings online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. This Privacy Policy applies to data collected on this Website. Our Website is intended for use by individuals who are over 18 years of age.
+This website (“Website”) is operated by BEX Travel Asia Pte Ltd. BEX Travel Asia Pte Ltd. understands that making bookings online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. This Privacy Policy applies to data collected on this Website. Our Website is intended for use by individuals who are over 18 years of age.
 
-The terms “we”, “us”, “our” and “AAE” refer to AAE Travel Pte. Ltd. and its subsidiaries and corporate affiliates (collectively, the “AAE Companies”). An AAE corporate affiliate shall mean any entity (whether a person, corporation, partnership or otherwise) that directly or indirectly, controls, are controlled by, or are under common control with AAE. An entity shall be deemed to be in “control” of another entity when it holds fifty (50%) percent or more of voting shares in that entity or has management control of that entity).The term “you” refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents.
+The terms “we”, “us”, “our” and “BEX” refer to BEX Travel Asia Pte Ltd. and its subsidiaries and corporate affiliates (collectively, the “BEX Companies”). An BEX corporate affiliate shall mean any entity (whether a person, corporation, partnership or otherwise) that directly or indirectly, controls, are controlled by, or are under common control with BEX. An entity shall be deemed to be in “control” of another entity when it holds fifty (50%) percent or more of voting shares in that entity or has management control of that entity).The term “you” refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents.
 
   * What information we collect from you
   * How we use your information
@@ -36,13 +36,13 @@ _Call Monitoring_. Calls to and from our customer service help desk may be recor
 
 #### How we use your information
 
-**Generally,** AAE collects, uses and discloses your personal information for the following purposes:
+**Generally,** BEX collects, uses and discloses your personal information for the following purposes:
 
   1. responding to your queries and requests and contacting you for customer service, if necessary
   2. measuring interest in and improve our products, services, and Website;
   3. customizing your experience with this Website
-  4. managing the administrative and business operations of AAE and complying with internal policies and procedures;
-  5. facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales) involving any of the AAE Companies;
+  4. managing the administrative and business operations of BEX and complying with internal policies and procedures;
+  5. facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales) involving any of the BEX Companies;
   6. matching any personal information held which relates to you for any of the purposes listed herein;
   7. resolving complaints and handling requests and enquiries;
   8. preventing, detecting and investigating crime, responding to queries from enforcement agencies, and analyzing and managing commercial risks;
@@ -50,7 +50,7 @@ _Call Monitoring_. Calls to and from our customer service help desk may be recor
   10. organizing promotional events;
   11. legal purposes (including but not limited to obtaining legal advice and dispute resolution);
   12. conducting investigations relating to disputes, billing or fraud and preventing potentially prohibited or illegal activities;
-  13. meeting or complying with any applicable rules, laws, regulations, codes of practice or guidelines issued by any legal or regulatory bodies which are binding on AAE (including but not limited to responding to regulatory complaints, disclosing to regulatory bodies and conducting audit checks, due diligence and investigations);
+  13. meeting or complying with any applicable rules, laws, regulations, codes of practice or guidelines issued by any legal or regulatory bodies which are binding on BEX (including but not limited to responding to regulatory complaints, disclosing to regulatory bodies and conducting audit checks, due diligence and investigations);
   14. enforcing our Terms of Use; and as otherwise described to you at the point of collection;
   15. facilitating and completing the provision of travel products and services, including providing you with travel confirmation, travel notifications and updates;
   16. facilitating daily operations of our travel products and services (including but not limited to managing your account, billing, customer service, customer verification, technical support, network maintenance and troubleshooting);
@@ -69,13 +69,13 @@ _Call Monitoring_. Calls to and from our customer service help desk may be recor
 
 Furthermore, where permitted by law,
 
-    1. AAE may also collect, use and disclose your personal information for the following _“AAE Additional Purposes”_ : 
+    1. BEX may also collect, use and disclose your personal information for the following _“BEX Additional Purposes”_ : 
       1. analytics and tracking, including facilitating the sale of analytical data
-      2. conducting market research and surveys to enable us to understand and determine customer location, preferences and demographics to develop special offers and marketing programmes in relation to AAE's travel products and services, and to improve our service delivery and your customer experience at our touchpoints;
-      3. providing additional travel products and services and benefits to you, including special offers, promotions, loyalty and reward programmes from AAE;
-      4. matching personal information with other data collected for other purposes and from other sources (including third parties) in connection with the provision, marketing or offering of travel products and services by AAE;
-      5. leads generation and management for marketing AAE's travel products and services;
-      6. administering contests, competitions and marketing campaigns, and personalizing your experience at AAE’s touchpoints;
+      2. conducting market research and surveys to enable us to understand and determine customer location, preferences and demographics to develop special offers and marketing programmes in relation to BEX's travel products and services, and to improve our service delivery and your customer experience at our touchpoints;
+      3. providing additional travel products and services and benefits to you, including special offers, promotions, loyalty and reward programmes from BEX;
+      4. matching personal information with other data collected for other purposes and from other sources (including third parties) in connection with the provision, marketing or offering of travel products and services by BEX;
+      5. leads generation and management for marketing BEX's travel products and services;
+      6. administering contests, competitions and marketing campaigns, and personalizing your experience at BEX’s touchpoints;
       7. rewarding you as part of any reward and recognition program you choose to join;
       8. communicating to you advertisements involving details of our travel products and services, special offers and rewards, either to our customers generally, or which we have identified may be of interest to you (including but not limited to upselling, cross selling);
       9. organizing promotional events and corporate social responsibility projects; and
@@ -83,9 +83,9 @@ Furthermore, where permitted by law,
 
 
 
-In addition, where permitted by law, your personal information may be disclosed, for AAE Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by AAE. For more information, see below.
+In addition, where permitted by law, your personal information may be disclosed, for BEX Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by BEX. For more information, see below.
 
-    1. AAE may also collect, use and disclose your personal information for the following _“Preferred Partners Additional Purposes”_ : 
+    1. BEX may also collect, use and disclose your personal information for the following _“Preferred Partners Additional Purposes”_ : 
       1. conducting market research and surveys to enable us to understand and determine customer location, preferences and demographics to develop special offers and marketing programmes with our preferred partners;
       2. matching personal information with other data collected for other purposes and from other sources (including third parties) in connection with the provision, marketing or offering of products and services (including promotions, loyalty and reward programmes) by our preferred partners;
       3. leads generation and management for marketing the products and services offered by our preferred partners;
@@ -96,34 +96,34 @@ In addition, where permitted by law, your personal information may be disclosed,
 
 
 
-In addition, where permitted by law, your personal information may be disclosed, for Preferred Partners' Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by AAE’s preferred partners. For more information, see below.
+In addition, where permitted by law, your personal information may be disclosed, for Preferred Partners' Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by BEX’s preferred partners. For more information, see below.
 
 In relation to particular travel products and services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use or disclose your personal information. If so, we will collect, use and disclose your personal information for these additional purposes as well, unless we have specifically notified you otherwise.
 
 You have a choice to withdraw your consent for receiving marketing or promotional materials/communication. You may contact us using the contact details found at the bottom of this privacy policy.
 
-Please be aware that once we receive confirmation that you wish to withdraw your consent for marketing or promotional materials/communication, it may take up to 30 working days for your withdrawal to be reflected in our systems. Therefore, you may still receive marketing or promotional materials/communication during this period of time. Please note that even if you withdraw your consent for the receipt of marketing or promotional materials, we may still contact you for other purposes in relation to the travel products and services that you hold or have subscribed to with AAE.
+Please be aware that once we receive confirmation that you wish to withdraw your consent for marketing or promotional materials/communication, it may take up to 30 working days for your withdrawal to be reflected in our systems. Therefore, you may still receive marketing or promotional materials/communication during this period of time. Please note that even if you withdraw your consent for the receipt of marketing or promotional materials, we may still contact you for other purposes in relation to the travel products and services that you hold or have subscribed to with BEX.
 
-All information that we collect from you is retained in the servers of the AAE Companies..
+All information that we collect from you is retained in the servers of the BEX Companies..
 
 _Email Communications_. We want to make it easy for you to take advantage of travel-related opportunities on our Website. One way we do this is by sending you email messages that contain information about your travel-related interests. For example, if you search for a flight to New York on our Website and have saved your itinerary or otherwise not yet booked your travel, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the email, you may receive an email about New York hotel offers or other destination information. We believe these email messages will provide you with useful information about travel-related special offers available through our Website. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send.
 
-AAE will take reasonable steps to protect your personal information against unauthorized disclosure. Subject to the provisions of any applicable law, your personal information may be disclosed, for the purposes listed above (where applicable), to the following:
+BEX will take reasonable steps to protect your personal information against unauthorized disclosure. Subject to the provisions of any applicable law, your personal information may be disclosed, for the purposes listed above (where applicable), to the following:
 
       * _Suppliers_ , such as hotel, airline, car rental, insurance companies and activity providers, who fulfill your travel reservations. Throughout this Website, all services provided by a third-party supplier are described as such. We encourage you to review the privacy policies of any third-party travel supplier whose products you purchase through this Website. Please note that these suppliers also may separately contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit.
       * _Third-party vendors_ who provide services or functions on our behalf, including banks, credit card processing, business analytics, customer service, marketing, promotions, distribution of surveys or sweepstakes programs, and fraud prevention. We may share your personal information with telecommunications, content or other service providers to facilitate their provision of content or services, or for interconnection, inter-operability, system operation and maintenance and billing between service providers. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our Website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
       * _Business partners_ with whom we may jointly offer products or services, for example financial institutions, credit card services, telecommunications providers or travel-related services, as well as commercial shops and retailers in relation to providing rewards and benefits. You can tell when a third party is involved in a product or service you have requested because their name will appear with ours. If you choose to sign up to these optional, jointly-offered services, we may share information about you, including your personal information, with those business partners so that they can contact you directly by email or post about the products and services that you have signed up to receive. Such personal information may include your contact information as well as other information necessary to provide the travel product or service you have requested. Those third party business partners will not use your personal information for direct marketing purposes, except when permitted to do so by applicable law. However, please note that we do not control the privacy practices of these third-party business partners.
       * _Referring websites._ If you were referred to this Website from another website, we may share some information about you with that referring website so that they can contact you directly by email or post about their products and services. We have not placed limitations on the referring websites use of your personal information and we encourage you to review the privacy policies of any website that referred you to this Website.
       * _Companies within our corporate family._ With your prior specific consent, we may share your personal information with our corporate affiliates in the leisure and travel sector and their respective employees. This sharing enables us to: provide you with information about products and services, both leisure- and travel-related, which might interest you; address your questions and requests in relation to your customer accounts, subscription and billing arrangements with us as well as our travel products and services; activate, deactivate, install, maintain and operate our systems and/or services.. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy.
-      * _Companies providing services to AAE Companies_ , such as insurance, auditing, legal or consultancy services, as well as agents, contractors or third party service providers who provide operational services to AAE, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call center, security or other services.
-      * _Others_ , including any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale) involving any of the AAE Companies; and any other party to whom you authorize us to disclose your personal information.
+      * _Companies providing services to BEX Companies_ , such as insurance, auditing, legal or consultancy services, as well as agents, contractors or third party service providers who provide operational services to BEX, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call center, security or other services.
+      * _Others_ , including any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale) involving any of the BEX Companies; and any other party to whom you authorize us to disclose your personal information.
 
 
 
 We also may share your information:
 
       * Where required by local or foreign law in the good faith belief that disclosure is necessary to comply with applicable laws or legal processes.
-      * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities covering both local and foreign investigations; and upon request from law enforcement agencies in your jurisdiction, for example in order to protect and defend the rights, property, or safety of the AAE Companies, their websites, or users of their websites; and in connection with our Terms of Use and other agreements.
+      * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities covering both local and foreign investigations; and upon request from law enforcement agencies in your jurisdiction, for example in order to protect and defend the rights, property, or safety of the BEX Companies, their websites, or users of their websites; and in connection with our Terms of Use and other agreements.
       * In connection with a corporate transaction, such as a sale of a subsidiary or a division, merger, consolidation, or asset sale, or in the unlikely event of winding-up.
 
 
@@ -164,7 +164,7 @@ If you have any questions about our use of cookies or other technologies, please
 
 #### Display of tailored advertising/Your choices
 
-_Data collected by business partners and ad networks to serve you with relevant advertising._ The advertisements you see on this Website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) other AAE Companies; (2) business partners, who collect information when you view or interact with one of their advertisements on our Websites; and (3) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our Websites and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you (such as email address) on our Website, nor do we share with them any personal information about you.
+_Data collected by business partners and ad networks to serve you with relevant advertising._ The advertisements you see on this Website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) other BEX Companies; (2) business partners, who collect information when you view or interact with one of their advertisements on our Websites; and (3) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our Websites and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you (such as email address) on our Website, nor do we share with them any personal information about you.
 
 Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative or the Digital Advertising Alliance, which offer a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/) or [here](http://www.aboutads.info/).
 
@@ -191,7 +191,7 @@ We want you to feel confident about using this Website to make hotel and travel 
 
 #### Where your data is stored
 
-AAE stores and processes Personal Data about Travelers in secure environments in the country or region where it is collected as well as in the United States. In order to provide its services, AAE must transfer your Personal Data to the United States, and possibly to other countries where our third party vendors are located. Such transfers of Personal Data will be conducted in accordance with local data protection laws.
+BEX stores and processes Personal Data about Travelers in secure environments in the country or region where it is collected as well as in the United States. In order to provide its services, BEX must transfer your Personal Data to the United States, and possibly to other countries where our third party vendors are located. Such transfers of Personal Data will be conducted in accordance with local data protection laws.
 
 #### External links
 
@@ -203,11 +203,11 @@ We may update this Privacy Policy in the future. We will notify you about materi
 
 #### How you can contact us
 
-If you have questions about either this Privacy Policy (or your travel planning or purchases) or any complaints about the processing of your personal information, please contact our data privacy officer at [aaeprivacy@aaetravel.com](mailto:aaeprivacy@aaetravel.com). You can also contact your local data protection authority for further information or to file a complaint.
+If you have questions about either this Privacy Policy or any complaints about the processing of your personal information, please contact our data privacy officer at [privacy@expedia.com](mailto:privacy@expedia.com). You can also contact your local data protection authority for further information or to file a complaint.
 
 We will do our best to respond to your request within 24 hours.   
-This Privacy Policy is effective as of 28 February 2017.
+This Privacy Policy is effective as of 1 November 2017.
 
-AAE Travel Pte. Ltd.   
+BEX Travel Asia Pte Ltd.   
 (Company Registration Number: 201113337M)   
 38 Beach Road, #09-12, South Beach Tower, Singapore 189787.
