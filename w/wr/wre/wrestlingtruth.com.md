@@ -1,33 +1,49 @@
-> *The following text is extracted and transformed from the wrestlingtruth.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426194614id_/http%3A//wrestlepundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingtruth.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709153103id_/https%3A//wrestlepundit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WrestlePundit.com
 
-As a fellow Internet user myself, I totally respect your online privacy. So it goes without saying that I’m fully committed to safeguarding your online privacy while you’re here at WrestlePundit.com.
+## Who we are
 
-And that’s precisely why I’ve decided to include the following, which discloses the information gathering and dissemination practices for this website. 
+Our website address is: https://wrestlepundit.com.
 
-_Please be assured that no personally identifiable information is gathered or sold to third parties. We may ask for a username and email address as part of the commenting process on website articles, but nothing more._
+## What personal data we collect and why
 
-**Log Files**
+### Email
 
-Like most standard websites, this website uses log files. These include: Internet Protocol addresses (IP addresses), browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and the number of clicks to analyze trends, administer the site, track user movement in the aggregate, and to gather broad demographic information for aggregate use. IP addresses, etc., are not linked to personally identifiable information.
+If you contact us we may collect the email address you use and any other identifying information you provide, such as a name or online alias.
 
-**Web Cookies and Beacons**
+Please do not give us other personal or sensitive information.
 
-Web cookies (also known as HTTP cookies, or just cookies) are parcels of text that are sent by a server to a Web browser, and then sent back unchanged by the browser each time it accesses that server. In other words, a cookie is a piece of data stored on a user’s computer that is tied to information about the user.
+### Comments
 
-Web beacons are objects that are embedded in a webpage or email that are invisible to the user, but allow checking that a user has viewed the page or email. Other names are web bug, tracking bug, tag or page tag.
+We do not collect any personal data through the commenting process on this website. The commenting system on this site is handled by Disqus. You should refer to [their sign-up terms and privacy policy](https://help.disqus.com/terms-and-policies) to see what data they may collect and how this may be used.
 
-This website does use cookies. Additionally, some of my business partners (for example, advertisers) may use cookies and web beacons as well. This site has no access to, or control of advertisers’ web cookies or web beacons.
+### Embedded content from other websites
 
-If you wish to disable cookies, you may do so through your individual browser options. Please check your browser’s help section for instructions on how to do this.
+Articles and posts on this site may include embedded content (e.g. videos, social media content, images, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-**Links**
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-This website contains links to other websites. Please be aware that I am not responsible for the privacy practices of other websites. I encourage you, when you leave this website, to read the privacy policy (or privacy statement) of each and every website you visit, as this particular privacy policy applies solely to this particular website.
+If you choose to “like” or “share” information from this website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to this site with other Personal Information.
 
-**Advertisers**
+Our website also contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other sites. When you go to other websites from here, we advise you to be aware and read their privacy policy.
 
-I use outside advertising networks and companies in order to display ads on this site. These ads may contain cookies and/or web beacons in order to collect data in the ad serving process. These such cookies and/or web beacons are collected by the companies and/or advertising networks, themselves. I do not have any access to this information.
+### Cookies
 
-I currently work with several advertising networks and companies, such as: Google Adsense.
+To improve your experience on our site or in the process of delivering personalised ads, we and our partners may use ‘cookies’. Cookies are an industry standard and most major websites use them. A cookie is a small text file that our site may place on your computer as a tool to remember your preferences and browsing information. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings.
+
+### Analytics
+
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
+
+By using this website, you consent to the processing of data about you by Google in the manner described in [Google’s Privacy Policy](http://www.google.com/policies/privacy/) and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the[ opt-out service provided by Google](https://tools.google.com/dlpage/gaoptout).
+
+### Third Party Advertisers
+
+We use third-party advertising companies, including Google AdSense, to display ads on some of our pages. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+Specifically, the [DoubleClick cookie](https://support.google.com/adsense/answer/2839090) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser.
+
+You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+
+You can review Google’s privacy policy regarding advertising [here](http://www.google.com/policies/privacy/ads/) and its partner sites [here](https://www.google.com/policies/technologies/partner-sites/). These pages also provide information on how to manage what information is collected and how to opt out of collection.
