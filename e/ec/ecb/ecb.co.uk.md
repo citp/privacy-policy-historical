@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507063833id_/https%3A//www.ecb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709164545id_/https%3A//www.ecb.co.uk/privacy) for the most accurate reproduction.*
 
 # England and Wales Cricket Board (ECB) - The Official Website of the ECB
 
