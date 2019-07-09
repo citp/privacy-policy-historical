@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newtabtvsearch.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701045146id_/http%3A//newtabtvsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtabtvsearch.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709190016id_/https%3A//newtabtvsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # 
 
-Newtabtv \- Privacy Policy
+NewTabTV plus \- Privacy Policy
 
 [Last Modified: March 12, 2018]
 
