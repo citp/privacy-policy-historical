@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frugalfun4boys.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011190023id_/https%3A//frugalfun4boys.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalfun4boys.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709073116id_/https%3A//frugalfun4boys.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure and Privacy Policy
+# Disclosure and Privacy Policy - Frugal Fun For Boys and Girls
 
 **This privacy policy was updated May 22, 2018.**
 
@@ -62,3 +62,5 @@ If you want to disable cookies, you can do so through the settings on your web b
 We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.  Links to Amazon in my posts are affiliate links, which means that if you buy something through a link, I will earn a small percentage of the sale at no additional cost to you.
 
 If you would like your information to be removed from our systems, please email me at frugalfun4boys@gmail.com
+
+[](https://www.pinterest.com/pin/create/button/)
