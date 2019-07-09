@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greeningz.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627124324id_/http%3A//greeningz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greeningz.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709045500id_/http%3A//greeningz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy | Greeningz
 
