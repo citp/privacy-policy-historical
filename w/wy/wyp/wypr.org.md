@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wypr.org privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415211427id_/https%3A//www.wypr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wypr.org privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709062603id_/https%3A//www.wypr.org/privacy) for the most accurate reproduction.*
 
 # Privacy | WYPR
+
+_Last update February, 2019_
 
 WYPR is committed to protecting your privacy. Below you will find information about our commitment to ensuring the privacy of your personally identifiable information. Please read it carefully. If you have any questions, please send us an email at [frontdesk@wypr.org](mailto:frontdesk@wypr.org) or call during business hours at 1-410-235-1660.
 
@@ -83,11 +85,11 @@ If you do not want to receive the benefits of targeted advertising, you may opt 
 
 We and service providers working on our behalf automatically collect certain information about your computer or device and your interactions with our Services through access logs, cookies, pixel tags and other tracking technologies. Depending on which services you use and how you access them, the information collected automatically may include:
 
-  * The Internet Protocol address (IP address) of the computer or device you used to access the NPR Services or play podcasts or other media content downloaded through our Services.
+  * The Internet Protocol address (IP address) of the computer or device you used to access the WYPR Services or play podcasts or other media content downloaded through our Services.
   * The domain name of your Internet Service Provider.
-  * The website, application, platform or service you visited before and after visiting an NPR Service.
-  * Search terms you enter using the NPR Services or on a referring website.
-  * Your approximate geographic location information (derived from request header information, such as your IP address) and/or more precise information about the specific location of your device if you have given NPR explicit consent to receive this information for an NPR application on your mobile device.
+  * The website, application, platform or service you visited before and after visiting an WYPR Service.
+  * Search terms you enter using the WYPR Services or on a referring website.
+  * Your approximate geographic location information (derived from request header information, such as your IP address) and/or more precise information about the specific location of your device if you have given NPR explicit consent to receive this information for an WYPRapplication on your mobile device.
   * The make, model, carrier and unique device identifier for your mobile device, the unique advertising identifier (for example, the Apple IDFA (Identifier for Advertisers) or Google Advertising ID) that allows mobile applications running on your mobile device to gather data for purposes of serving targeted advertising or personalized or "interest-based" sponsorship credits, and other information about your computer or mobile device and its browser, operating system, settings and software.
   * Automobile make (for certain connected car platforms).
   * The dates, times, duration, and frequency of your interactions with our Services.
