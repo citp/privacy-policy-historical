@@ -1,97 +1,214 @@
-> *The following text is extracted and transformed from the rrdvenue.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402122250id_/http%3A//www.rrdonnelley.com/rrdonnelley/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrdvenue.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709162634id_/https%3A//www.dfinsolutions.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Polices & Legal Notice | RR Donnelley
+# Privacy Notice | Donnelley Financial Solutions (DFIN)
 
-RR Donnelley & Sons Company and its worldwide subsidiaries (“RR Donnelley,” “we”,””our”) are committed to protecting your privacy. There are various ways that you might interact with RR Donnelley, and the information you provide when doing so allows us to improve our services. By using this website (“Site”) and by supplying your details to RR Donnelley, you consent to RR Donnelley collecting and processing your information. 
+## Scope of the Privacy Notice
 
-Our privacy policy explains:
+Donnelley Financial LLC (“DFIN”) and its worldwide subsidiaries (“we”, “our”) respect your privacy and know that you care about how we use and share your information. This notice describes the DFIN privacy policy relating to personal information that we collect, share, use and protect. By using this website and other websites that we operate and post a direct link to this Privacy Notice (Our Site), you are accepting and consenting to the practices described in this Privacy Notice.
 
-  * What information we collect, and why we collect it 
-  * How we use that information 
-  * How we protect that information 
-  * How you can control your information, including accessing, updating and deleting what we store 
-  * How we share information collected 
+Our Privacy Notice explains:
+
+  * The personal information we collect, and why we collect it.
+  * Employee information.
+  * How we use cookies and other technologies.
+  * How we use your personal information.
+  * How we share your personal information.
+  * How we protect your personal information.
+  * How we monitor and enforce.
+  * Compliance with other regulations.
+  * PIPEDA (Canada).
+  * Data transfers and privacy shield framework.
+  * Information processor activity.
+  * Children’s online privacy protection act (COPPA).
+  * Your rights and choices.
+  * Changes to this privacy notice.
+  * How to contact us.
 
 
 
-**Information We Collect & Share**  
-RR Donnelley may collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) 
+## The Personal Information We Collect and Why We Collect
 
-_which you voluntarily provide_
+Information you give us. This is information about you that you provide to us by filling in forms on our website [DFINsolutions.com](https://www.dfinsolutions.com/) (Our Site) or by corresponding with us by phone, electronic mail or otherwise. It includes information you provide when you register to use our site, subscribe to our service, social media functions on our site or other activities commonly carried out on the site, and when you report a problem with our site.
 
-through forms on our Site, through electronic mail you send to us, or through other means of communication between you and RR Donnelley. 
+The information you provide may include basic personal information such as your name, address, e-mail address, phone number, title and company. DFIN may collect more sensitive information from you such as financial and credit card information, social security and other government identification numbers where it is appropriate or necessary for conducting business.
 
-RR Donnelley only collects personal information of a more sensitive nature e.g. social security or other governmental ID numbers, credit card details and account numbers) where it is appropriate or necessary for conducting business. This information will be collected, stored, accessed and processed in a secure manner. RR Donnelley may also collect general non-personal information pertaining to users of our sites, including IP addresses, source domain names, specific web pages, length of time spent, and pages accessed. This information is collected, among other things, to aggregate statistical information, facilitate system administration and improve the Site. 
+Information we collect about you. With regard to each of your visits to our site, we may automatically collect information such as:
 
-RR Donnelley also collects, uses, and discloses identifiable information about individual contacts for RR Donnelley’s customers (“Business Contact Information”) in the ordinary course of its business for managing and maintaining customer relationships. In particular, RR Donnelley may obtain the following types of Business Contact Information: name, address, invoice information including bank account information, and order information. Unless otherwise specified or prohibited, RR Donnelley may share information with affiliates, business partners, service providers, subsidiaries or contractors who are required to provide you with services which you have requested from us.
+  * Technical information, including the Internet Protocol (IP) address used to connect your computer to the Internet, source domain names, your login information, browser type and version, time zone setting, length of time spent and operating system and platform.
+  * Information about your visit even if you have not created an account or logged in, including the full Uniform Resource Locators (URL), specific web pages, clickstream to, through and from our site including date and time, products and services you viewed or searched for, page response times, download errors, length of visits to certain pages and any phone number used to call our customer service number.
 
-RR Donnelley may also post links to third party websites as a service to you. These third party websites are operated by companies that are outside of our control, and your activities at those third party websites will be governed by the policies and practices of those third parties. We encourage you to review the privacy policies of these third parties before disclosing any information, as we are not responsible for the privacy policies of those websites.
 
-**How We Use Information**  
-RR Donnelley uses the information we collect to provide you with services which you request and to improve our existing services and the content of our Site. When you contact RR Donnelley, we may keep a record of your communication to help solve any issues that you might be facing. Depending on the country in which you live, work or access our Site(s), your information may be retained for a reasonable time for use in future contact with you, or for future improvements to RR Donnelley services. In the event the information you provide to us is an application for employment, that application will be held in accordance with our HR records management policy. You have the option to opt-out or opt-in for further communications from RR Donnelley.
 
-RR Donnelley may also use or disclose your personal information when RR Donnelley believes, in good faith, that such use or disclosure is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property or safety of RR Donnelley, RR Donnelley’s users, or others. RR Donnelley reserves the right to transfer and disclose your information if RR Donnelley becomes involved in a business divestiture, change of control, sale, merger, or acquisition of all or a part of its business.
+DFIN may also supplement the personal information we collect from you with information we receive from third parties, including our business partners, contractors, analytics and other service providers.
 
-**Web User Tracking – Use of Cookies**  
-Cookies are a technology that can be used to help personalize your use of a website. A cookie is an element of information that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or decline at any time. To enable RR Donnelley to access the effectiveness and usefulness of this Site, and to give you the best user experience, we collect and store information on pages viewed by you, your domain names and similar information. Our Site makes use of anonymous cookies for the purposes of:
+We process the personal data for certain legitimate reasons, among other things, to help us improve the overall accuracy of the information and its completeness, to help us better tailor our interactions with you and to help us identity and prevent fraud.
 
-  * Completion and support of Site activity;
+The information helps us to enhance the security of our information system and assess the effectiveness of our promotional and advertising campaigns. The information is also used to aggregate statistical data, facilitate system administration and improve our site.
+
+## Employee Information
+
+Personal information, also known as personally identifiable information (PII) or personal data, for purposes of this Privacy Notice, means any information that (i) directly and clearly identifies an individual, or (ii) can be used in combination with other information to identify an individual. Personal information does not include such information if it is anonymous or if it has been rendered de-identified by removing personal identifiers.
+
+Examples of personal information includes but not limited to:
+
+  * An individual’s name.
+  * Employee ID number.
+  * Home address.
+  * Home phone number.
+  * Email address.
+  * Names of family members.
+  * Date of birth.
+  * Network ID, IP Address, Network Activities and Communications.
+
+
+
+DFIN processes employee data for the performance of a contract that our employees are involved in such as payroll and benefits.
+
+DFIN also processes employee data to meet our legal obligations under applicable legislations such as tax or health laws.
+
+We also process employee data for legitimate business purposes including but not limited to:
+
+  * Employee communications, including development and training programs;
+  * Maintaining a global employee directory;
+  * Human Resource activities including recruitment process, management of employee performance, beneficiary information, compensation and benefits;
+  * Managing employee hiring such as background checks, emergency contact list, reference checks and terminations.
+  * Managing the security of our network infrastructure to protect company, employees and customers’ data through the use of monitoring technologies such as data loss prevention tools, next generation firewall, and security incident and event management tools.
+
+
+
+Sensitive employee data such as health information, compensation information and performance evaluations may be accessible by other DFIN employees on a need to know basis only if necessary with respect to legitimate human resource functions or related issues. Donnelley Financial does not sell, lease, or rent any employee personal or family data to any third party.
+
+DFIN will obtain clear affirmative consent from an employee before using such employee's personal data for any purpose inconsistent with the purpose described above.
+
+## Use of Cookies and Other Technologies
+
+When you visit our Site, we may automatically collect information such as your IP address, browser type and language, operating system, location, date and time using [cookies](https://web.archive.org/cookie-policy). A cookie is a small amount of data that is sent to your browser from a web server and stored on your device such as a phone or computer. The cookies are then sent back to the originating website on each subsequent visit to that website. As an example, a cookie may allow us to recognize your browser, whereas another cookie may store your preferences. This helps us to provide you with a good experience when you browse our site and allows us to improve our site. Cookies are a technology that can be used to help personalize your use of our site.
+
+DFIN may use other technologies such as web beacons and remarketing technology to advertise on other websites you may visit. In doing so, a third party may place a unique ad-serving cookie on your device and use technical information about your browser and your activity at our site to serve advertisements to you on websites that are not owned or operated by DFIN.
+
+You can set your browser to notify you when you receive a [cookie](https://web.archive.org/cookie-policy), giving you the chance to decide whether to accept or decline it at any time.
+
+To enable DFIN to assess the effectiveness and usefulness of our site, and to give you the best user experience, we collect and store information on pages viewed by you, your domain names and similar information. Our site makes use of anonymous cookies for the purposes of:
+
+  * Completion and support of site activity;
   * Site and system administration;
   * Research and development;
   * Anonymous user analysis, user profiling, and decision-making.
 
 
 
-**Security**  
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. 
+## How We Use Your Personal Information
 
-RR Donnelley uses reasonable measures to safeguard personally identifiable information, which measures are appropriate to the type of information maintained, and follows applicable laws regarding safeguarding any such information under our control. In addition, in some areas of our Sites, RR Donnelley may use encryption technology to enhance information privacy and help prevent loss, misuse, or alteration of the information under RR Donnelley’s control. RR Donnelley also employs industry-standard measures and processes for detecting and responding to inappropriate attempts to breach our systems.
+DFIN uses, stores and processes the personal information we collect to provide you with information, products and services which you request from us or similar products or services which you have already requested. The information is also used to improve our existing services and the content of our site.
 
-No method of transmission over the Internet, or method of electronic storage, can be 100% secure. Therefore, RR Donnelley cannot guarantee the absolute security of your information. The Internet by its nature is a public forum, and RR Donnelley encourages you to use caution when disclosing information online. Often, you are in the best situation to protect yourself online. You are responsible for protecting your username and password from third party access, and for selecting passwords that are secure.
+When you contact DFIN, we may keep a record of your communication to help solve any issues that you might be facing. Depending on the country in which you live, work or access our site(s), your information may be retained for a reasonable time for use in future contact with you, or for future improvements to DFIN services.
 
-**Monitoring and Enforcement**  
-RR Donnelley regularly reviews our compliance with our privacy policy. We also adhere to several self-regulatory frameworks in addition to complying with applicable law. If we receive formal written complaints, we will follow up with the person making the complaint. We work with the appropriate regulatory authorities to resolve any complaints that cannot be resolved directly. 
+In the event the information you provide to us is an application for employment, that application will be held in accordance with our HR records management policy. You have the option to opt-out or opt-in for further communications from DFIN.
 
-**Compliance**  
-RR Donnelley adheres to US and other international regulations such as PIPEDA, the European Union ("EU") Data Protection (95/46/EC) and ePrivacy (2002/58/EC) Directives (as transposed into national law), and the EU Safe Harbor Privacy Principles published by the US Department of Commerce ("Safe Harbor"), detailed below.
+DFIN may also use or disclose your personal information when DFIN believes, in good faith, that such use or disclosure is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property or safety of DFIN, DFIN’s users, or others. DFIN reserves the right to transfer and disclose your information if DFIN becomes involved in a business divestiture, change of control, sale, merger, or acquisition of all or a part of its business.
 
-**PIPEDA (Canada)**  
-RR Donnelley recognizes and has controls in place to ensure that the privacy of personal information about an "identifiable individual" used in the course of "commercial activity" is protected and managed in such a manner which meets or exceeds the guidelines set out in PIPEDA and applicable provincial legislation.
+## How We Share Your Personal Information
 
-**Safe Harbor (European Union)**  
-RR Donnelley recognizes that the EU has an "omnibus" information protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the "Directive"). Among other things, the Directive generally restricts the export of personal information from the European Economic Area to the United States, unless the US recipient can give "adequate protection" to such personal information when it is received or processed in the United States. RR Donnelley has signed up to Safe Harbor and has certified that it offers such "adequate protection". 
+DFIN may share personal information we collect about you with our affiliates, business partners, service providers, subsidiaries, vendors, consultants and other service providers to perform work on our behalf. The information may be shared with third parties to offer or provide related services.
 
-From time to time RR Donnelley affiliates pass to RR Donnelley in the United States certain individually identifiable information about individual contacts for RR Donnelley's customers in the EU ("EU Business Contact Information"), individuals in the EU who are customers or employees of RR Donnelley's customers ("EU Customer Information") and about individuals in the EU who are RR Donnelley’s or its affiliates' employees ("EU Employee Information"). EU Business Contact Information and EU Customer Information are collectively referred to as "EU Personal Information”. Information regarding RR Donnelley's practices concerning EU Employee Information is provided to affected EU employees through other company policies and procedures. In certain situations, individuals may seek to opt-out of disclosures of their EU Business Contact Information by contacting RR Donnelley as specified at the end of this Safe Harbor section. For more information about the Safe Harbor, please refer to the U.S. Department of Commerce website at <http://www.export.gov/safeharbor>.
+We may also share information with our customers when they need access to such personal information to fulfil specific transactions related to service you requested such as promotional campaigns. You may opt out of sharing your information with customers for related services by sending an email to [dataprivacy@dfinsolutions.com](mailto:dataprivacy@dfinsolutions.com). Upon receipt of your request to opt out of this information sharing, we will acknowledge your request and take appropriate measures in response.
 
-RR Donnelley may obtain in the US the following types of EU Business Contact Information: name, address, invoice information including bank account information, and order information. RR Donnelley uses EU Business Contact Information for the following purposes: managing customer relationships, managing orders, tracking payments and ensuring payment, and otherwise maintaining the customer relationship. RR Donnelley may disclose EU Business Contact Information to its affiliates, subsidiaries, business partners, and service providers for the purposes listed above.
+DFIN may share your information in response to a request for information, if upon review, we determine that disclosure is in accordance with, or required by, any applicable law, regulation or legal process.
 
-In situations where RR Donnelley discloses EU Business Contact Information to any third parties acting as service providers or "agents" on behalf of RR Donnelley, RR Donnelley will require the recipient to protect the disclosed EU Business Contact Information in accordance with the relevant Safe Harbor Principles, or otherwise take steps to ensure that the EU Business Contact Information is appropriately protected. With respect to any sharing of EU Business Contact Information for purposes of marketing RR Donnelley products and services, RR Donnelley obtains promises from its affiliates, subsidiaries and business partners that such entities will use and disclose such EU Business Contact Information for purposes of marketing RR Donnelley products and services only. In certain situations, individuals may seek to opt-out of disclosures of their EU Business Contact Information by contacting RR Donnelley as specified at the end of this Safe Harbor section.
+We may share your information if we determine that your actions are inconsistent with our user agreements or policies, or if we must protect the rights, property and safety of DFIN or others.
 
-RR Donnelley takes appropriate technical and organizational measures to safeguard EU Personal Information against unauthorized or unlawful processing of, or accidental loss, damage, misuse, unauthorized access, unauthorized disclosure, unauthorized alteration, or destruction, and maintains reasonable procedures to help ensure that such information is relevant for its intended use, accurate, complete, current and not excessive and that such information is not retained longer than is reasonably necessary.
+DFIN may post links to third party websites as a service to you. These third party websites are operated by companies that are outside of our control, and your activities at those third party websites will be governed by the policies and practices of those third parties. We encourage you to review the privacy policies of these third parties before disclosing any information, as we are not responsible for the privacy policies of those websites.
 
-RR Donnelley may disclose EU Personal Information as necessary in connection with the sale or transfer of all or part of its business, where required or permitted by law, where RR Donnelley believes that such disclosures are appropriate in connection with a law enforcement request or as otherwise permitted by Safe Harbor, or in order to investigate, prevent or take action regarding illegal activities or suspected fraud or in order to comply with, enforce or apply RR Donnelley agreements.
+DFIN may share your personal information in connection with or during negotiations of any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company.
 
-**Information Processor Activities**  
-RR Donnelley operates as an information processor for our business customers located in the EU. RR Donnelley’s business customers remain the information controllers with respect to any EU Customer Information that they provide to RR Donnelley for our provision of services. RR Donnelley therefore acts in accordance with the instructions of such customers regarding the collection, processing, storage, deletion and transfer of EU Customer Information, as well as other matters such as the provision of access to and rectification of EU Customer Information.
+## How We Protect Your Personal Information
 
-Individuals may contact the RR Donnelley Safe Harbor Privacy Contact identified below to review any personal information held about them. RR Donnelley reserves the right to take reasonable steps to authenticate the identity of any such individual seeking access to such personal information. Questions, comments, or access requests regarding the Safe Harbor or EU Personal Information should be directed to Peter Tiemeyer, the RR Donnelley Safe Harbor Privacy Contact at 4101 Winfield Road, Warrenville, Illinois 60555 USA; telephone 630.963.9494; e-mail [informationprivacy@rrd.com](mailto:informationprivacy@rrd.com). If you cannot resolve the issue directly with the RR Donnelley Safe Harbor Privacy Contact, you may contact your local information protection authority for further information.
+The security of your personal information is important to us. We use reasonable physical, electronic and procedural safeguards to protect the personal information we collect. DFIN uses reasonable measures to safeguard personally identifiable information from loss, theft, misuse, alteration and unauthorized access or destruction. In addition, we maintain appropriate physical, electronic, and procedural safeguards to protect your personal data, including:
 
-**Children’s Online Privacy Protection - COPPA**  
-RR Donnelley does not sell its services to children. As such, our Sites are designed for adult user interaction. We do not intentionally collect personally identifiable information from children under the age of 13. 
+  * Restricting access to personal data to our employees or service providers on a “need to know” basis;
+  * Enforcing policies and procedures for our employees in their handling of personal data; and
+  * Using technologies designed to safeguard data during its transmission, such as SSL encryption for the data you provide on some parts of our site and using appropriate security to safeguard the data that we have received.
 
-**Accessing and Updating Your Personal Information**  
-If you have provided RR Donnelley with your personal information, you may have the right to inspect the information stored by us for accuracy, or may request that the information be removed from our files. RR Donnelley will make a reasonable effort to comply with such requests except where it would require a disproportionate effort (for example developing a new system or changing an existing practice). We may require that you verify your identity before we act on a request to edit or remove your information. Please direct any questions about your information to RR Donnelley IT Governance at [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com).
 
-**Changes to this Privacy Policy**  
-RR Donnelley may change this privacy policy from time to time. If this privacy policy changes, the revised privacy policy will be posted at the "Privacy Policy " link on the Site's home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read " **Newly Revised Privacy Policy**." Please check the privacy policy frequently. Your continued use of the Site constitutes acceptance of such changes in the privacy policy, except where further steps are required by applicable law. This privacy policy was last updated on April, 2013. 
 
-**Contacting RR Donnelley**  
-Except for Canada and the EU, questions regarding this privacy policy should be directed to the Chief Information Security Officer, Peter Tiemeyer at 4101 Winfield Road, Warrenville, Illinois 60555 USA; telephone 630.963.9494; e-mail- [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com).
+DFIN also employs industry-standard measures and processes for detecting and responding to inappropriate attempts to breach our systems.
 
-In Canada, please direct questions to Stephen Wright, the Canadian Privacy Manager at 6100 Vipond Drive, Mississauga, Ontario L5T 2X1; telephone 905-362-3100; email - [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com). In the EU please direct questions to Benjamin Banks at Shannon Way, Ashchurch, Tewkesbury, Gloucestershire GL20 8BL England; telephone 44 203 047 5700; email [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com).
+There is, however, no method of transmission over the Internet, or method of electronic storage that can be 100% secure. Therefore, DFIN cannot guarantee the absolute security of your information. The Internet by its nature is a public forum, and DFIN encourages you to use caution when disclosing information online. Often, you are in the best situation to protect yourself online. You are responsible for protecting your username and password from third party access, and for selecting passwords that are secure.
 
-**Comments**  
-RR Donnelley welcomes your [comments](https://web.archive.org/contact/rrdonnelley.aspx). 
+## How We Monitor and Enforce
 
-  
+DFIN regularly reviews our compliance with our Privacy Notice. We also adhere to several self-regulatory frameworks in addition to complying with applicable laws. If we receive formal written complaints, we will follow up with the person making the complaint. We work with the appropriate regulatory authorities to resolve any complaints that cannot be resolved directly.
 
+## Compliance With Other Regulations
+
+DFIN adheres to US and other international regulations such as PIPEDA and the European Union (“EU”) General Data Regulation 2016/679.
+
+## PIPEDA (Canada)
+
+DFIN recognizes and has controls in place to ensure that the privacy of personal information about an “identifiable individual” used in the course of “commercial activity” is protected and managed in such a manner which meets or exceeds the guidelines set out in PIPEDA and applicable provincial legislation.
+
+## Data Transfer and Privacy Shield Framework
+
+DFIN is a global organization with legal entities and business processes in operation across borders. DFIN complies with the EU-U.S. Privacy Shield Framework and the Swiss–U.S Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data transferred from the European Union (EU), the United Kingdom (UK) and Switzerland to the United States, respectively.
+
+DFIN has certified to the Department of Commerce that it adheres to the [Privacy Shield Principles](https://www.privacyshield.gov/EU-US-Framework) of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability. Donnelley Financial is accordingly subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+If there is any conflict between the terms of this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit the Department of Commerce’s Privacy Shield Website at <https://www.privacyshield.gov/>.
+
+With respect to any sharing of EU, UK and Swiss Business Contact Information for the purposes of marketing DFIN products and services, DFIN obtains assurances from its affiliates, subsidiaries and business partners that such entities will use and disclose such EU, UK and Swiss Business Contact Information for purposes of marketing DFIN products and services only.
+
+In cases of onward transfer of EU, UK or Swiss Business Information to third parties pursuant to Privacy Shield, DFIN is potentially liable in the event of an improper disclosure. In certain situations, individuals may seek to opt-out of disclosures of their EU, UK and Swiss Business Contact Information by contacting DFIN as specified in the “How To Contact Us” section below.
+
+DFIN takes appropriate technical and organizational measures to safeguard EU, UK and Swiss personal data against unauthorized or unlawful processing of, or accidental loss, damage, misuse, unauthorized access, unauthorized disclosure, unauthorized alteration, or destruction, and maintains reasonable procedures to help ensure that such information is relevant for its intended use, accurate, complete, current and not excessive and that such information is not retained longer than is reasonably necessary.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DFIN is subject to the regulatory enforcement powers of the United States Federal Trade Commission. In certain situations, DFIN may disclose EU, UK and Swiss personal data as necessary in connection with the sale or transfer of all or part of its business, where required or permitted by law, where DFIN believes that such disclosures are appropriate in connection with a law enforcement request or as otherwise permitted by the Privacy Shield Principles, or in order to investigate, prevent or take action regarding illegal activities or suspected fraud or in order to comply with, enforce or apply DFIN agreements.
+
+In compliance with the Privacy Shield Principles, DFIN commits to resolve complaints about our collection or use of your personal data at no cost to the individual. European Union, United Kingdom and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should contact our Global Data Privacy department at [dataprivacy@dfinsolutions.com](mailto:dataprivacy@dfinsolutions.com). DFIN will respond to your inquiry within 45 days.
+
+In the event of a reported complaint that DFIN does not resolve itself, DFIN commits to cooperate with the EU Data Protection Authorities (DPAs), UK Information Commissioner (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by the EU DPA panel, or UK ICO or Swiss Commissioner with regard to human resource and non-human resource data transferred from the EU, UK and Switzerland to DFIN in the United States (US).
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+## Information Processor Activities
+
+DFIN operates as a data processor for our business customers located in the US, UK and EU and other locations worldwide. DFIN’s business customers remain the data controllers with respect to any Customer data that they provide to DFIN for our provision of services. DFIN therefore acts in accordance with the instructions of such customers regarding the collection, processing, storage, deletion, access, rectification, portability and transfer of Customer data.
+
+## Children’s Online Privacy Protection Act – COPPA
+
+DFIN does not sell or offer its services and products to children. As such, our sites are designed for adult user interaction. We do not intentionally collect personally identifiable information from children under the age of 13. If you are a parent or legal guardian of a minor under the age of 13 and believe that the minor has disclosed personal information to us, please contact us by following the “How to Contact Us” below.
+
+## Your Rights and Choices
+
+You may have the right to access and review the personal data stored by us to confirm its accuracy, and if necessary you may request that personal data is updated if it is inaccurate. You may also request that certain personal data be deleted from our files. You may be required log into your account to exercise these rights, or contact us at [dataprivacy@dfinsolutions.com](mailto:dataprivacy@dfinsolutions.com).
+
+DFIN will make reasonable efforts to comply with such requests, unless such requests are prohibited by law, or there is a legitimate business purpose to retain personal data. We reserve the right to verify your identity before any request to update or delete your personal data is processed by us. Please direct any questions about your personal data to DFIN Data Privacy at [dataprivacy@dfinsolutions.com](mailto:dataprivacy@dfinsolutions.com).
+
+In accordance with this Policy and the Privacy Shield Principles, but excluding any transfers of data to third parties performing tasks directly on our behalf and pursuant to our instructions, where we receive Personal Information directly from an EU, or UK or Swiss individual to which such Personal Information relates, we will offer the individual the opportunity to choose (opt out) whether his or her Personal Information is (1) disclosed to a third party; or (2) used for a purpose that is materially different than the purpose it was originally collected or subsequently authorized by the individual.
+
+Any individual who wishes to opt out can do so by contacting DFIN at the address provided below under the section of this Policy entitled “HOW TO CONTACT US”.
+
+In situations where we receive Personal Information pertaining to EU, UK and Swiss individuals directly from our clients (and not the individual to whom the Personal Information relates), we will cooperate with our clients’ reasonable requests to:
+
+  * assist them in informing the impacted individuals about (a) the possibility that we may disclose such individuals’ information to third parties and (b) the individual’s ability to opt out of such disclosures (except for disclosures to third parties performing tasks directly on our behalf and pursuant to our instructions); and
+  * reasonably ensure that we process the information for purposes compatible with the purposes for which it was originally collected or subsequently authorized by the impacted individuals. After we have notified our clients, they will then inform us if any individuals have opted out of such disclosures.
+
+
+
+In situations where DFIN process “Sensitive Personal Information” (which may include Personal Information relating to medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, the sex life of the individual, ideological views or activities, social security measures pertaining to an individual, or administrative or criminal proceedings and sanctions), we will seek informed express consent (opt in) from individuals if such information is to be disclosed to a third-party (except for disclosures to third parties performing tasks directly on our behalf and pursuant to our instructions) or used for purposes that are materially different from the purpose it was originally collected or subsequently authorized by the individual.
+
+## Changes to this Privacy Notice
+
+DFIN reserves the right at its absolute discretion to change this Privacy Notice from time to time. If this Privacy Notice changes, the revised version will be posted at the “Privacy Notice” link on the Site’s home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read “Newly Revised Privacy Notice.” Please check the Privacy Notice frequently. Your continued use of our sites constitutes acceptance of such changes in the Privacy Notice, except where further steps are required by applicable law. This Privacy Notice was last updated on March 28, 2019.
+
+## How to Contact Us
+
+If you have any questions regarding DFIN’s privacy practices, the use of your personal data, or about this Privacy Notice, please contact us at:
+
+Donnelley Financial Solutions (DFIN)  
+Global Data Privacy  
+35 West Wacker Dr.  
+Chicago, IL 60601  
+United States of America
+
+Email: [dataprivacy@dfinsolutions.com](mailto:dataprivacy@dfinsolutions.com)  
+Phone: 855-683-9454
