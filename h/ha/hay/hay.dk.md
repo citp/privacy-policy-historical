@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hay.dk privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510112011id_/https%3A//hay.dk/link/2756b5f4526b4d6786520466515f07c0.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hay.dk privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709120105id_/https%3A//hay.dk/link/2756b5f4526b4d6786520466515f07c0.aspx) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies
 
@@ -40,18 +40,17 @@ The legal basis for the processing is your consent, cf. GDPR, art. 6 (1)(a).
 _Our website_   
 HAY constantly strives to give you the very best user and shopping experience on our website. We do that in different ways, but an important part of it is being able to track your browsing on our site. We do that by using cookies. You can read more about cookies below. We also use your browsing data to recommend products that we think may be of interest to you.
 
-_Other contact_  
-When you contact us, we process the personal data you provide us with. Furthermore, we process information about your name and other personal data you provide us with when engaging with our social media platforms.
+ _Custom Cash  
+_ When you use Custom Cash in a HAY store, we process information about your Customer App ID, name, address, city, country, email address, mobile phone number, passport number, credit card information, bank account information, date of your purchase, information on the relevant goods, total amount of purchase, including VAT, VAT refund amount, invoice/receipt number. The Purpose of the processing is to create and issue the Tax Free Form. The legal basis for the processing is the contractual necessity, cf. GDPR art. 6 (1)(b)
 
-The purpose of the processing is to fulfill your request and provide you with an optimal service.
+ _Other contact  
+_ When you contact us, we process the personal data you provide us with. Furthermore, we process information about your name and other personal data you provide us with when engaging with our social media platforms. The purpose of the processing is to fulfill your request and provide you with an optimal service. The legal basis for the processing is our legitimate interest in fulfilling your request, cf. GDPR, art. 6 (1)(f).
 
-The legal basis for the processing is our legitimate interest in fulfilling your request, cf. GDPR, art. 6 (1)(f).
+**Security  
+** HAY has implemented several security measures to protect your personal information from being destroyed, lost/modified, unauthorized disclosure and accidental access. We always strive to protect your personal data in the best possible way.
 
-**Security**   
-HAY has implemented several security measures to protect your personal information from being destroyed, lost/modified, unauthorized disclosure and accidental access. We always strive to protect your personal data in the best possible way.
-
-**Disclosure to third parties**  
-We share your personal data with third parties who work with us to provide products and services. We share your personal data with the following categories:
+**Disclosure to third parties  
+** We share your personal data with third parties who work with us to provide products and services. We share your personal data with the following categories:
 
 \- Suppliers (e.g. warehouse partners, payment solution suppliers, carrier partners, customer service suppliers)
 
@@ -63,11 +62,11 @@ Third parties are prohibited from using or disclosing your personal data for any
 
 Your personal data may be processed outside the EEA by third parties, e.g. in countries ensuring an adequate level of protection or in accordance with the Privacy Shield Framework.
 
-**Storage Period**  
-We store and process the personal data as long as it is necessary to meet the above-mentioned purposes or as long as required by law. The storage period depends on the nature of the data and the purpose for storing the data.
+ **Storage Period  
+** We store and process the personal data as long as it is necessary to meet the above-mentioned purposes or as long as required by law. The storage period depends on the nature of the data and the purpose for storing the data.
 
-**Your Rights**   
-You have a number of rights in connection with our processing of your personal data.
+**Your Rights  
+** You have a number of rights in connection with our processing of your personal data.
 
 \- You are entitled to access to and copy of your personal data that has been processed by us
 
@@ -87,7 +86,8 @@ You have a number of rights in connection with our processing of your personal d
 
 If you wish to lodge a complaint to the Danish Data Protection Authority, please contact:
 
-The Danish Data Protection Agency (Datatilsynet)  
+The Danish Data Protection Agency (Datatilsynet)
+
 Borgergade 28, 5  
 1300 København K, Denmark  
 Phone: +45 3319 3200  
