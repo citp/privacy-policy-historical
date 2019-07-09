@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huaweimobileservices.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523165625id_/http%3A//consumer.huawei.com/en/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huaweimobileservices.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709134350id_/http%3A//consumer.huawei.com/en/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy | Legal | HUAWEI Global
 
