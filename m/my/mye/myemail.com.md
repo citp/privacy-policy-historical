@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myemail.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510060700id_/http%3A//www.myemail.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemail.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709145009id_/http%3A//www.myemail.com/privacy.htm) for the most accurate reproduction.*
 
 # Check Email from Anywhere in the World for Free.
 
