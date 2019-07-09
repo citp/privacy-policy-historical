@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418220957id_/https%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709091406id_/https%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mel's Kitchen Cafe
 
