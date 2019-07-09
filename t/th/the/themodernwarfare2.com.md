@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themodernwarfare2.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108072728id_/http%3A//www.themodernwarfare2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themodernwarfare2.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709123824id_/http%3A//www.themodernwarfare2.com/privacy) for the most accurate reproduction.*
 
 # The Modern Warfare 2 - Privacy Policy
 
