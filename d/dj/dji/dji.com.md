@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522193122id_/https%3A//www.dji.com/policy%3Fsite%3Dbrandsite%26from%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709193207id_/https%3A//www.dji.com/policy%3Fsite%3Dbrandsite%26from%3Dfooter) for the most accurate reproduction.*
 
 # DJI Privacy Policy - Everything You Need To Know
 
