@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517074732id_/https%3A//www.deluxe.com/policy/privacy-shield) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709103059id_/https%3A//www.deluxe.com/policy/privacy-shield) for the most accurate reproduction.*
 
 # Deluxe Small Business Sales, Inc. and Hostopia Ireland LTD Privacy Policy
 
