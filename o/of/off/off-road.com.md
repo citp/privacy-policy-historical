@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the off-road.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422180239id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Doff-road.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the off-road.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709214801id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Doff-road.com) for the most accurate reproduction.*
 
 # 
 
