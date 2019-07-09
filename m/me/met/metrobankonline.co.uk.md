@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrobankonline.co.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417171722id_/https%3A//www.metrobankonline.co.uk/about-us/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrobankonline.co.uk privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709081920id_/https%3A//www.metrobankonline.co.uk/about-us/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Legal | About us | Metro Bank
 
@@ -41,6 +41,8 @@ At the end of your relationship with us (for example, if you decide to close you
 
 To enable us to process personal information for the above purposes, we must share personal information with Credit Reference Agencies, Law enforcement, HM Revenue & Customs, Fraud detection organisations, UK Financial Regulators, External Auditors & Accountants and other Financial Service Organisations.
 
+The personal information we have collected from you will be shared with fraud prevention agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance or employment. Further details of how your information will be used by us and these fraud prevention agencies, and your data protection rights, can be found by clicking on this [link](http://www.cifas.org.uk/FPN).
+
 Our credit checks will be recorded by the Credit Reference Agency, and where we must ask if you are resident for tax purposes in another country, we will notify HMRC of that fact. Where we are requested by law enforcement to help investigate or prevent crime or terrorism, and to meet our legal obligations in this area, we share personal information with law enforcement agencies and other organisations.
 
 We will only share your information where:
@@ -63,7 +65,7 @@ Where you have provided information regarding the other applicant, you must ensu
 
 ## Processing personal data outside of the EU (EEA)
 
-We may occasionally send your data to countries (or international organisations) outside of the European Economic Area (EEA) that are deemed to have adequate data protection by the European Commission. In addition, we may transfer personal information to India & the USA. If we do so, we will ensure that the transfer is made pursuant to the model contract clauses published by the European Commission. A copy of the model contract clauses are available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en). In relation to transfers to the US, we may transfer personal information pursuant to the EU-US Privacy Shield.
+We may occasionally send your data to countries (or international organisations) outside of the European Economic Area (EEA) that are deemed to have adequate data protection by the European Commission. In addition, we may transfer personal information to India & the USA. If we do so, we will ensure that the transfer is made pursuant to the model contract clauses published by the European Commission. A copy of the model contract clauses are available on the [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) page. In relation to transfers to the US, we may transfer personal information pursuant to the EU-US Privacy Shield.
 
 Instances where we will transfer your data outside of the EU include:
 
@@ -224,4 +226,4 @@ If we determine that your personal data is to be used for a purpose not already 
 
 If you have any questions about this policy, the use of your personal information or want to exercise any of your rights, please contact our Data Protection Officer at [DataProtectionOfficer@metrobank.plc.uk](mailto:dataprotectionofficer@metrobank.plc.uk "Email: dataprotectionofficer@metrobank.plc.uk"), or please write to "Data Protection" at One Southampton Row, London, WC1B 5HA.
 
-If you are ultimately dissatisfied with our management of your information you have the right to lodge a complaint with the Information Commissioner’s Office. Please visit www.ico.org.uk for more information.
+If you are ultimately dissatisfied with our management of your information you have the right to lodge a complaint with the Information Commissioner’s Office. Please visit [www.ico.org.uk](http://www.ico.org.uk/) for more information.
