@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citefast.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420130123id_/https%3A//www.citefast.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citefast.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709232316id_/https%3A//www.citefast.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy policy | Citefast
 
@@ -165,4 +165,4 @@ Third party vendors, including Google, use cookies to serve ads based on a user'
 
 ##  Contact Us
 
-If you have any questions about this Privacy Policy, please contact us by using our [contact form](https://web.archive.org/web/20190420130123id_/https%3A//www.citefast.com/contact.php).
+If you have any questions about this Privacy Policy, please contact us by using our [contact form](https://web.archive.org/web/20190709232316id_/https%3A//www.citefast.com/contact.php).
