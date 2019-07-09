@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehomeschooldeals.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413080209id_/https%3A//www.freehomeschooldeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehomeschooldeals.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709093200id_/https%3A//www.freehomeschooldeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
