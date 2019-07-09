@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605235206id_/https%3A//www.blueman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709082433id_/https%3A//www.blueman.com/privacy-policy) for the most accurate reproduction.*
 
 # Read and understand our updated Privacy Policy | Blue Man Group
 
