@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsitter.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420143652id_/https%3A//petsitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsitter.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709131106id_/https%3A//petsitter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
