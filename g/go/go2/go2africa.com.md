@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go2africa.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515183314id_/https%3A//www.go2africa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2africa.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709064533id_/https%3A//www.go2africa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
