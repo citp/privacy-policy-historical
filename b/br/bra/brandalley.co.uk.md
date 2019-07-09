@@ -1,139 +1,107 @@
-> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918140506id_/https%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709214154id_/https%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies - BrandAlley
 
-### Data Protection Notice
+### BrandAlley UK Privacy Notice (Last Updated 1 May 2019)
 
-This notice explains how we will process your personal information.
+1\. BrandAlley is an online retailer of designer items at discounted prices. The company is based at Telephone House, 69-77 Paul Street, London EC2A 4NW.
 
-### Data Protection Principles
+2\. This privacy notice provides information about the personal data we process as a data controller, in compliance with the General Data Protection Regulation (GDPR).
 
-BrandAlley UK Limited complies with the principles of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. The eight principles relating to the processing of personal information are:
+3\. Our ICO registration number is ZA246524.
 
-  * fairly and lawfully processed
-  * processed for a limited time
-  * adequate, relevant and not excessive
-  * accurate
-  * not kept longer than necessary
-  * processed in accordance with your rights
-  * secure
-  * not transferred to countries without adequate protection.
+### What personal data do we process?
 
+The personal information we process include:
 
-
-Your privacy and security is of utmost importance to us. We will always follow these principles and ask you how you would like us (or our partners) to communicate with you. The Information Commissioner regulates compliance with the Data Protection Act. See details at end of the contact page. 
-
-### What we collect
-
-We may collect the following information:
-
-  * name
-  * contact information, including email address, mobile phone number and password
-  * demographic information, such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  * Names
+  * Gender
+  * Password
+  * Computer IP address
+  * Email addresses
+  * Delivery addresses
+  * Telephone numbers
+  * Last four digits of debit or credit card numbers
+  * Billing addresses
 
 
 
-The table below lists the cookies we collect and what information they store.
+### Why do we process these personal data and what is the legal basis for doing so?
 
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.  
-  
-### What we do with the information we gather
+4\. In order to browse the BrandAlley website and to make a purchase, you need to register with us and open a secure account. As part of the registration process, you are required to provide your name and gender, and to create a password. Your computer IP address is recorded so as to confirm the date and time of registration, and when your email preferences were set and changed.
 
-We require this information to understand your needs and provide you with a better service, and for the following reasons in particular:
+5\. This information is processed because it is in the legitimate interests of our business to do so. We need this information in order to run your account.
 
-  * internal record keeping
-  * we may use the information to improve our products and services
-  * we may periodically send promotional emails and SMS messages about new products, special offers and competitions or other information, which we think you may find interesting using the email address which you have provided
-  * from time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+6\. If you go on to on to make a purchase, you are required to provide your billing and delivery addresses, together with your debit or credit card number. These personal data are saved in your online account, as are the last four digits of the number on your bank card, if you choose to save your card details. This information is processed in anticipation of the contract for sale and in performance of the contract between us.
+
+7\. Promotional emails notifying you of sales and discounts are sent when you have given consent to this in your online account. This consent may be easily withdrawn at any time by altering the settings in your account, or hitting the unsubscribe button at the bottom of the email.
+
+### Whom do we collect personal data from and whom do we share it with?
+
+8\. The personal data we collect comes directly from you.
+
+9\. We share your personal data with the following organisations because it is in our legitimate interests to do so in order to run our business:
+
+  * Amazon Web Services for website hosting;
+  * Atlassian Jira and Confluence, software used for bug/issue tracking and project management;
+  * Avora, for reporting and data analytics;
+  * Desk.com and Zoho Desk who provide online help desk platforms which our customer service team and GFM use to log and manage customer enquiries;
+  * Emarsys, who deliver the marketing communications to our customers and members;
+  * GFM who provide telephony and customer support services on our behalf;
+  * LiveChat so that customers can communicate directly with our customer service team;
+  * Microsoft Outlook 365 and SendGrid, software used for sending and receiving emails;
+  * Prism/Whistl for warehousing, delivery of purchases to customers and authorising returns.;
+  * Sedcom for IT support;
+  * Trustpilot, a service that allows customers to review business performance;
+  * Wilder and Co for auditing and accounting purposes;
 
 
 
-### Security
+Where suppliers of products we sell on our website manage their own delivery of items, we share your personal information with them in order to perform our contract with you. A list of these suppliers may be obtained from our data protection lead.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+10\. Data is shared with Braintree and PayPal so that payment can be made and the contract for sale concluded.
+
+11\. Where you consent, personal information is shared with Mention Me which provides a friend referral system on our behalf.
+
+12\. We also share personal information with Channel Web Consulting, an IT support and development company based in India and our agreement with them contains the model contract clauses approved by the European Union. We share this information as it is in our legitimate interests so as to maintain and improve the functionality of our website.
 
 ### How we use cookies
 
-A cookie is a small file, which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+13\. Our website uses cookies, which are small files placed on your computer or smartphone hard drive which collect and store information about you. They allow us to recognise your device and store some information about your preferences or past actions. They allow us to respond to you as an individual when you visit our website, tailoring our operation to your needs, likes and dislikes.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+14\. Except where the cookies are necessary for the operation of the website, the completion of a purchase, or the provision of security, we obtain your consent before using cookies. They enable the sharing of information with:
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Although, this may prevent you from taking full advantage of the website.
-
-### Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information, which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [customerservice@brandalley.co.uk](mailto:customerservice@brandalley.co.uk)
+  * Emarsys, Google Analytics and Avora for tracking and reporting on your visit to our website;
+  * Google, Kenshoo, Pinterest, Snapchat, Bing and Facebook for advertising purposes to reach potential and/or existing customers and members. If you visit our website you might see BrandAlley advertisments delivered through the above mentioned platforms.
+  * Commission Junction and Rakuten, affiliate platforms used by BrandAlley, to ensure that the sales are successfully tracked and the correct amount of sales commission is paid to affiliate partners.
 
 
 
- We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen.
+### How long do we keep personal data for?
 
-You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: **BrandAlley,  2nd Floor, 120 Moorgate, London, EC2M 6UR**.
+15\. Personal data is retained for six months from the last log in to the person’s registered account (or from the creation of the account where there have been no subsequent log ins), except where the data is required for auditing and accounting purposes. Any personal data required for these purposes is retained for six years.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+### Your rights
 
-### Third Parties
+1\. We are committed to protecting your rights to privacy. They include:
 
-We would like to share your information with companies whose products or services we think may interest you. They may contact you by email, mail or telephone to let you know about any goods, services or promotions, which may be of interest to you. We will always give you an option to opt out at the point where you give us your details. We will never supply your information to a third party for marketing purposes if you tell us not to. By opting into relevant partner offers, you will be indicating your consent to receiving email, SMS, telephone and other marketing messages from us and our partners concerning finance, prize draws, travel, telecom, dating and other offers. You may unsubscribe from these messages at any time in the future by changing the settings in your account section.
+  * Right to be informed about what we do with your personal data;
+  * Right to have a copy of all the personal information we process about you;
+  * Right to rectification of any inaccurate data we process, and to add to the information we hold about you if it is incomplete;
+  * Right to be forgotten and your personal data destroyed;
+  * Right to restrict or “block” the processing of your personal data;
+  * Right to object to the processing we carry out based on our legitimate interest;
+  * Right to data portability;
+  * Rights in relation to profiling and automated decision making.
 
-You may also exercise your right to opt out of the use of your information being supplied to a third party  for marketing purposes at any time, by contacting us or by the methods explained in the section “Updating or deleting your personal information". 
 
-### Credit checks
 
-If you apply for credit to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors. 
+### Information Commissioner's Office
 
-### Updating or deleting your personal information
+1\. If you have questions about your personal data please contact our data protection lead:
 
-When you register online with BrandAlley, you can see, review and change your personal information by logging onto the site and going to ‘My account’. Please ensure you update your personal information if it changes or is inaccurate. Should you request that your account is closed and your personal information removed, please be assured that this will be done as soon as is reasonably possible. Personal information from closed accounts is retained in order to comply with legal obligations, prevent fraud, collect any fees owed, resolve disputes and troubleshoot problems etc, but always done within a legal framework.
+Bruce MacInnes, Chairman, BrandAlley UK Limited, Telephone House, 69-77 Paul Street, London EC2A 4NW.
 
-When you request to be removed from further marketing offers, you will be added to a suppression list to ensure your request is complied with. All personal data is processed in line with the requirements of the Data Protection Act 1998 and The Privacy and Electronic Communications (EC Directive) Regulations 2003.
-
-### Information Requests
-
-You have a right to ask for a copy of your information (for which we charge a small fee) and to ask us to correct any inaccuracies in your personal information (which is free). To make sure we follow your instructions correctly and to improve our service to you through training of our staff, we may monitor or record telephone calls.
-
-When you give us information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data, including sensitive personal data and to the transfer of their information abroad and to receive on their behalf any data protection notices.  
-
-### Notification of changes
-
-From time to time, we may make changes to the Privacy Policy. This may be in relation to changes in the law, best practice or changes in our services.  
-
-### Change of ownership
-
-In the event BrandAlley’s business assets are sold to or purchased by another company, then your data will be passed to that business as our data records form part of the assets of our business.
+2\. You may also contact the Information Commissioner’s Office on 0303 123 1113.
 
 ### Our details
