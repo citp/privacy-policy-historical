@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522142140id_/https%3A//www.anz.com.au/privacy/centre) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709201136id_/https%3A//www.anz.com.au/privacy/centre) for the most accurate reproduction.*
 
 # ANZ Privacy Centre | ANZ
 
