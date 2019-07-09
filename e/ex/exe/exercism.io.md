@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exercism.io privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529135804id_/https%3A//exercism.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercism.io privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709110407id_/https%3A//exercism.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Exercism
 
