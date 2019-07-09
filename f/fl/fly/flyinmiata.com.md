@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyinmiata.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924132725id_/https%3A//www.flyinmiata.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyinmiata.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709224213id_/https%3A//www.flyinmiata.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Flyin' Miata Privacy Policy
 
