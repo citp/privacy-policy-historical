@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithandcrown.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531030803id_/https%3A//www.smithandcrown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithandcrown.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709193345id_/https%3A//www.smithandcrown.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smith + Crown
 
