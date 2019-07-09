@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lioden.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531203022id_/https%3A//www.lioden.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lioden.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709122809id_/https%3A//www.lioden.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :|: Lioden
 
