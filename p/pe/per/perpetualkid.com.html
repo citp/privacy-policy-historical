@@ -1,61 +1,69 @@
-<!--The following is the downloaded HTML source of the perpetualkid.com privacy policy that was archived on 2018-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180926121637id_/https%3A//www.perpetualkid.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perpetualkid.com privacy policy that was archived on 2019-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190709203244id_/https%3A//www.perpetualkid.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
         <title>Perpetual Kid Privacy Policy</title>
         <meta name="description" content="Our Commitment To Privacy:  Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make "><link rel="canonical" href="https://www.perpetualkid.com/privacy-policy/">
         
          
-        <link href="https://cdn8.bigcommerce.com/s-iem2p/product_images/favicon%20%284%29.ico" rel="shortcut icon">
+        <link href="https://cdn11.bigcommerce.com/s-iem2p/product_images/48x48.png?t=1559609463" rel="shortcut icon">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <link data-stencil-stylesheet="" href="https://cdn8.bigcommerce.com/s-iem2p/stencil/8ded7b40-9800-0136-c832-089d3a013ac1/e/2b07c500-9fe0-0136-e3ec-01d67f7fe261/css/theme-8e46e5e0-9800-0136-c832-089d3a013ac1.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+        
+        <script async="" src="//load.sumo.com/" data-sumo-site-id="058a54075a9c4fd2ff91511241fb8cb7b6613319e3375b516dae478afb5f8edf" data-sumo-platform="bigcommerce"></script><script type="text/javascript" async="" src="//cdn-stamped-io.azureedge.net/files/widget.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script charset="utf-8" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        
+        <link data-stencil-stylesheet="" href="https://cdn11.bigcommerce.com/s-iem2p/stencil/93df4e30-7a4c-0137-99c2-0242ac110012/e/9126b8e0-8486-0137-0ed2-0242ac110011/css/theme-dd29e530-8431-0137-5ac6-0242ac11001d.css" rel="stylesheet">
 
         <!-- Start Tracking Code for analytics_facebook -->
 
-<script type="text/javascript" async="" src="https://sdk.beeketing.com/js/beeketing.js?20200130" id="0b4b955f2cd1865c9169851a8d40b1be"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+<script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-fbq('set', 'autoConfig', 'false', '211920639645013');
-fbq('init', '211920639645013');
-fbq('set', 'agent', 'plbigcommerce1.2', '211920639645013');
+fbq('set', 'autoConfig', 'false', '140328983094975');
+fbq('init', '140328983094975');
+fbq('set', 'agent', 'plbigcommerce1.2', '140328983094975');
 
-window.onload=function() {
-    var m,
-        productIdMap = {},
+window.onload = function() {
+    var productIdMap = {},
         productIdsOnPage = getUniqueProductIdsOnPage(),
-        urlParams = decodeURIComponent(window.location.search);
+        pathName = window.location.pathname;
 
     fbq('track', 'PageView');
 
     // Search events start -- only fire if the shopper lands on the /search.php page
-    if (window.location.pathname.indexOf('/search.php') !== -1) {
-        if ((m = /search_query=(.*)&/.exec(urlParams)) !== null) {
-            fbq('track', 'Search', { content_ids: productIdsOnPage, content_type: 'product_group', search_string: m[1] });
-        }
+    if (pathName.indexOf('/search.php') === 0 && getUrlParameter('search_query')) {
+        fbq('track', 'Search', {
+            content_ids: productIdsOnPage,
+            search_string: getUrlParameter('search_query')
+        });
     }
     // Search events end
 
     // Wishlist events start -- only fire if the shopper attempts to add an item to their wishlist
-    if (window.location.pathname.indexOf('/wishlist.php') !== -1 && (m = /added_product_id=(.\d)/.exec(urlParams)) !== null) {
-        fbq('track', 'AddToWishlist', { content_ids: [m[1]], content_type: 'product_group' });
+    if (pathName.indexOf('/wishlist.php') === 0 && getUrlParameter('added_product_id')) {
+        fbq('track', 'AddToWishlist', {
+            content_ids: [getUrlParameter('added_product_id')]
+        });
     }
     // Wishlist events end
 
     // Lead events start -- only fire if the shopper subscribes to newsletter
-    if (window.location.pathname.indexOf('/subscribe.php') !== -1 && (m = /result=success/.exec(urlParams)) !== null) {
+    if (pathName.indexOf('/subscribe.php') === 0 && getUrlParameter('result') === 'success') {
         fbq('track', 'Lead', {});
     }
     // Lead events end
 
     // Registration events start -- only fire if the shopper registers an account
-    if (window.location.pathname.indexOf('/login.php') !== -1 && (m = /action=account_created/.exec(urlParams)) !== null) {
+    if (pathName.indexOf('/login.php') === 0 && getUrlParameter('action') === 'account_created') {
         fbq('track', 'CompleteRegistration', {});
     }
     // Registration events end
 
     // Checkout events start -- only fire if the shopper lands on a /checkout* page
-    if(window.location.pathname.indexOf('/checkout') !== -1) {
-        if (urlParams.indexOf('process_payment') !== -1) {
+    if (pathName === '/checkout.php' || /^\/(embedded-)?checkout$/.test(pathName)) {
+        window.sessionStorage.setItem('fb_conversion_key_', 'true');
+
+        if (getUrlParameter('action') === 'process_payment') {
             fbq('track', 'AddPaymentInfo');
         } else {
             fbq('track', 'InitiateCheckout');
@@ -75,13 +83,21 @@ window.onload=function() {
             return acc;
         }, []);
     }
+
+    function getUrlParameter(name) {
+        var cleanName = name.replace(/[\[]/, '\[').replace(/[\]]/, '\]');
+        var regex = new RegExp('[\?&]' + cleanName + '=([^&#]*)');
+        var results = regex.exec(window.location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }
 }
 </script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=211920639645013&ev=PageView&noscript=1&a=plbigcommerce1.2"/></noscript>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=140328983094975&ev=PageView&noscript=1&a=plbigcommerce1.2"/></noscript>
 
 <!-- End Tracking Code for analytics_facebook -->
 
 <!-- Start Tracking Code for analytics_googleanalytics -->
+
 
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -128,24 +144,13 @@ window.onload=function() {
 
 <script src="https://conduit.mailchimpapp.com/js/stores/store_rjmcuk1519qdmp8vxr1s/conduit.js"></script>
 
-
 <!-- End Tracking Code for analytics_googleanalytics -->
 
 
 <script type="text/javascript">
-window.onAmazonLoginReady = function () {
-    amazon.Login.setClientId('amzn1.application-oa2-client.8240133b83da4e75901ed8aeb51193e9');
-    };
-
+var BCData = {"csrf_token":"66f244abed8f2d71f81c9425e1ed9fc93681e9c995f1ca99938f16954d77abeb"};
 </script>
-<script type="text/javascript" src="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js?sellerId=A10HOM84VIGUVP" defer=""></script>
-<script type="text/javascript" src="https://cdn8.bigcommerce.com/shared/bower/checkout-sdk/dist/checkout-button.umd-3af7a2cf091afdf96e749743e44aec1c37040b92.js" defer=""></script>
-<script type="text/javascript" src="https://cdn8.bigcommerce.com/r-dc9311770c5c5bf0221498ce009b9f22203706e0/vendor/bower_components/braintree-web/index.js" defer=""></script>
-<script type="text/javascript" src="https://cdn8.bigcommerce.com/r-dc9311770c5c5bf0221498ce009b9f22203706e0/javascript/braintree.js" defer=""></script>
-<script type="text/javascript">
-var BCData = {};
-</script>
-
+<script src="https://www.searchanise.com/widgets/bigcommerce/init.js?api_key=1h4U6w3t5R"></script><script src="https://swymprem.azureedge.net/code/swym_fb_pixel.js"></script>
         
 
         
@@ -153,7 +158,11 @@ var BCData = {};
         
         
         <!-- snippet location htmlhead -->
-    </head>
+        
+        
+<!-- START SHAREASALE --> <script>var shareasaleBCSSCID=shareasaleBCGetParameterByName("sscid");function shareasaleBCSetCookie(e,a,r,s,t){if(e&&a){var o,C=s?"; path="+s:"",n=t?"; domain="+t:"",i="";r&&((o=new Date).setTime(o.getTime()+r),i="; expires="+o.toUTCString()),document.cookie=e+"="+a+i+C+n}}function shareasaleBCGetParameterByName(e,a){a||(a=window.location.href),e=e.replace(/[\[\]]/g,"\\$&");var r=new RegExp("[?&]"+e+"(=([^&#]*)|&|#|$)").exec(a);return r?r[2]?decodeURIComponent(r[2].replace(/\+/g," ")):"":null}shareasaleBCSSCID&&shareasaleBCSetCookie("shareasaleBCSSCID",shareasaleBCSSCID,94670778e4,"/");</script>
+<!-- END SHAREASALE --> 
+    <script async="" src="https://cdn.reamaze.com/assets/reamaze.js"></script></head>
     <body class="page-type-page">
        
         <div id="st-container" class="st-container">
@@ -314,50 +323,12 @@ var BCData = {};
 
 
                 <header class="header" role="banner">
-    <div class="header-top">
-        <div class="header-top-left hidden-xs hidden-sm">
-            <div id="animated-promotion" class="text-left">
-                <ul class="owl-carousel" data-owl="{
-                    &quot;nav&quot;: false,
-                    &quot;dots&quot;: false,
-                    &quot;items&quot;: 1,
-                    &quot;margin&quot;: 30,
-                    &quot;autoplay&quot;: true,
-                    &quot;autoplayTimeout&quot;: 3000,
-                    &quot;autoplayHoverPause&quot;: false,
-                    &quot;loop&quot;: true,
-                    &quot;responsiveRefreshRate&quot;: 0,
-                    &quot;mouseDrag&quot;: false,
-                    &quot;animateIn&quot;: &quot;fadeInUp&quot;,
-                    &quot;animateOut&quot;: &quot;fadeOutUp&quot;
-                }">
-                    <li><a href="/gift-guide-online/">Shop our unique gifts <strong>2018 GIFT GUIDE</strong></a></li>
-                    <li><a href="/sale-items/"><strong>15% OFF Coupon</strong> Shop Our Sale!</a></li>
-                    <li><strong>NO SALES TAX</strong></li>
-                    <li><a href="/login.php">Register today + get 150 BONUS Gift Reward Points!</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="header-top-right text-right">
-            <button type="button" id="mobile-search-toggle" class="visible-xs visible-sm"><svg><use xlink:href="#icon-close"></use></svg><svg><use xlink:href="#icon-search"></use></svg></button>
-            <nav class="navUser">
-    <ul>
+
+      <div class="header-top-right text-right">
+        <button type="button" id="mobile-search-toggle" class="visible-xs visible-sm"><svg><use xlink:href="#icon-close"></use></svg><svg><use xlink:href="#icon-search"></use></svg></button>
+      </div>
 
 
-        
-
-
-            <li class="hidden-sm hidden-xs"><a href="/login.php"><span>Sign in</span></a></li>
-            <!-- <li class="hidden-sm hidden-xs last-child"><a href="/login.php?action=create_account"><span>Register</span></a></li> -->
-
-        <li id="mobileAccountSidebar" class="hidden-md hidden-lg"><a data-effect="st-effect-2" href="/account.php"><i class="fa fa-user"></i><span>Account</span></a></li>
-        <li class="custom-service hidden-sm hidden-xs"><a href="/customer-service/">Customer Service</a></li>
-
-    </ul>
-</nav>
-        </div>
-
-    </div>
     <div class="header-middle">
 
         <div id="st-trigger-effects" class="visible-sm visible-xs">
@@ -367,7 +338,7 @@ var BCData = {};
 
         <div class="header-logo animated fadeIn">
             <a href="https://www.perpetualkid.com/">
-        <img class="header-logo-image" src="https://cdn8.bigcommerce.com/s-iem2p/images/stencil/original/perpetual-kid-unique-gifts_1518542730__55921.original.gif" alt="PerpetualKid.com" title="PerpetualKid.com">
+        <img class="header-logo-image" src="https://cdn11.bigcommerce.com/s-iem2p/images/stencil/original/perpetual-kid-unique-gifts_1518542730__55921.original.gif" alt="PerpetualKid.com" title="Unique Gifts | Shop Perpetual Kid">
 </a>
         </div>
             <div id="quickSearch">
@@ -396,12 +367,13 @@ var BCData = {};
                 <a data-cart-preview="" href="javascript:void(0);">
                     <span><svg style="height: 28px; width: 28px;"><use xlink:href="#shopping-bag"></use></svg><span class="countPill cart-quantity">0</span></span>
                 </a>
+
                 <div id="cart-preview-dropdown">
                     <div class="triangle-with-shadow"></div>
                     <div class="cart-preview-inner">
-                        <div class="previewCart">
+                        <div class="previewCart alt" data-cart-preview-quantity="0">
         <div class="previewCart-emptyBody">
-            <div class="alert alert-warning text-center">Your cart is really sad because it's empty... Fill 'er up!</div>
+            <div class="alert alert-warning text-center">Your cart is really sad because it's empty...</div>
         </div>
 </div>
                     </div>
@@ -414,200 +386,14 @@ var BCData = {};
         <nav class="navPages">
     <ul class="navPages-list">
             <li class="navPages-item">
-                <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/unique-gifts/">
-    Unique Gift Guide
-    <span class="triangle-with-shadow"></span>
-</a>
-<div class="navPage-subMenu" id="navPages-189" tabindex="-1">
-    <ul class="navPage-subMenu-list">
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/halloween/"><span>Halloween</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/stocking-stuffers/"><span>Stocking Stuffers</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/back-to-school/"><span>Back To School</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/top-rated-gifts-for-2018"><span>Top Rated Gifts of 2018</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://www.perpetualkid.com/shop-gifts-by-theme/">
-                        <span>Shop By Theme</span>
-                    </a>
-                    <ul class="navPage-childList" id="navPages-414">
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/unicorns-rainbows/"><span>Unicorns + Rainbows</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/cool-as-sh-t-gifts/"><span>Cool As Sh*t Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/mermaid-gifts/"><span>Mermaids</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/sloths/"><span>Sloths</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/cats-cat-people/"><span>Cats + Cat People</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/dogs-dog-people/"><span>Dogs + Dog People</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/animal-lover-gifts/"><span>Gifts for Animal Lovers</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/donald-trump-gifts/"><span>Political Fun</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/smelly-stuff/"><span>Smelly Stuff</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/i-love-caffeine/"><span>I Love Caffeine!</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/gifts-for-stoners/"><span>Gifts for Stoners</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/glitter-bombs/"><span>Glitter Bombs + Everything with Glitter!</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/play-with-your-food/"><span>Play With Your Food!</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/educational-fun/"><span>Educational Fun</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/superheroes/"><span>Superheroes</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/music-gifts/"><span>Music Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/beer-gifts/"><span>Beer Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/wine-gifts/"><span>Wine Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/fart-gifts/"><span>Farts Are Funny</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/shark-stuff/"><span>Shark! Stuff</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/star-wars-fan/"><span>Star Wars Fan</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/pink-flamingos/"><span>Pink Flamingos</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/gifts-for-men/"><span>Gifts for Men</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/watermelon-gifts/"><span>Watermelon Lovers</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/i-love-bacon/"><span>I Love Bacon</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/donut-gifts/"><span>Donut Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/squirrels-unique-fall-gifts/"><span>Squirrels! Unique Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/popular-new-gifts-on-pinterest/"><span>Popular New Gifts on Pinterest</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/instagram-favorite-gifts/"><span>Instagram Favorite Gifts</span></a>
-                        </li>
-                    </ul>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://www.perpetualkid.com/shop-by-holiday/">
-                        <span>Shop By Holiday</span>
-                    </a>
-                    <ul class="navPage-childList" id="navPages-413">
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/fathers-day-gifts/"><span>Father's Day Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/st-patricks-day-gifts/"><span>St. Paddy's Day</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/easter-basket-gifts/"><span>Easter Basket Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/valentines-day/"><span>Valentine's Day Gifts</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/mothers-day-gifts/"><span>Mother's Day</span></a>
-                        </li>
-                    </ul>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://www.perpetualkid.com/shop-by-event/">
-                        <span>Shop By Event</span>
-                    </a>
-                    <ul class="navPage-childList" id="navPages-415">
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/winter-snow-gear-toys/"><span>Play In The Snow</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/beach-pool-inflatables-toys-rafts-floats/"><span>Pool Party</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/weekend-at-the-beach/"><span>Weekend Vacation</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/picnic-bbq-gear/"><span>Picnic &amp; BBQ Gear</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/party-decorations/"><span>Party Decorations</span></a>
-                        </li>
-                    </ul>
-            </li>
-    </ul>
-</div>
+                <a class="navPages-action" href="https://www.perpetualkid.com/new-just-arrived-gifts/">New!</a>
             </li>
             <li class="navPages-item">
-                <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/best-selling/">
-    Best Selling
-    <span class="triangle-with-shadow"></span>
-</a>
-<div class="navPage-subMenu" id="navPages-392" tabindex="-1">
-    <ul class="navPage-subMenu-list">
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/trending/"><span>#Trending</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/staff-favorites/"><span>Staff Favorites</span></a>
-            </li>
-    </ul>
-</div>
-            </li>
-            <li class="navPages-item">
-                <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/new-2018-gifts/">
-    What's New!
-    <span class="triangle-with-shadow"></span>
-</a>
-<div class="navPage-subMenu" id="navPages-180" tabindex="-1">
-    <ul class="navPage-subMenu-list">
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/just-arrived/"><span>Just Arrived</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/coming-soon/"><span>Coming Soon!</span></a>
-            </li>
-    </ul>
-</div>
+                <a class="navPages-action" href="https://www.perpetualkid.com/best-selling/">Best Sellers</a>
             </li>
             <li class="navPages-item">
                 <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/kitchen-bar-gadgets/">
-    Kitchen + Bar
+    Kitchen
     <span class="triangle-with-shadow"></span>
 </a>
 <div class="navPage-subMenu" id="navPages-151" tabindex="-1">
@@ -619,44 +405,44 @@ var BCData = {};
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/coffee-mugs/"><span>Coffee Mugs</span></a>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/drink-markers-coasters/"><span>Drink Markers + Coasters</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/salt-pepper-shakers/"><span>Salt + Pepper Shakers</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/kitchen-gadgets/"><span>Kitchen Gadgets</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/lunch-boxes-totes/"><span>Lunch Boxes + Totes</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/bar-gadgets/"><span>Bar Gadgets</span></a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/tea-infusers/"><span>Tea Infusers</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/glasses-shot-glasses/"><span>Glasses + Shot Glasses</span></a>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/bottle-openers-stoppers/"><span>Bottle Openers + Stoppers</span></a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/drink-markers-coasters/"><span>Drink Markers + Coasters</span></a>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/plates-bowls/"><span>Plates + Bowls</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/tea-infusers/"><span>Tea Infusers</span></a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/kitchen-gadgets/"><span>Kitchen Gadgets</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/cooking-gadgets/"><span>Cooking Gadgets</span></a>
             </li>
             <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/bar-gadgets/"><span>Bar Gadgets</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/bottle-openers-stoppers/"><span>Bottle Openers + Stoppers</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/lunch-boxes-totes/"><span>Lunch Boxes + Totes</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/plates-bowls/"><span>Plates + Bowls</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/cleaning-gadgets/"><span>Cleaning Gadgets</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/salt-pepper-shakers/"><span>Salt + Pepper Shakers</span></a>
             </li>
     </ul>
 </div>
             </li>
             <li class="navPages-item">
                 <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/desk-office-gadgets/">
-    Work + Desk
+    Work
     <span class="triangle-with-shadow"></span>
 </a>
 <div class="navPage-subMenu" id="navPages-162" tabindex="-1">
@@ -675,37 +461,37 @@ var BCData = {};
             </li>
             <li class="navPages-item">
                 <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/homegoods/">
-    Home Goods
+    Homegoods
     <span class="triangle-with-shadow"></span>
 </a>
 <div class="navPage-subMenu" id="navPages-159" tabindex="-1">
     <ul class="navPage-subMenu-list">
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/books/"><span>Books</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/gnomes-yard/"><span>Gnomes, Plants + Yard Flair</span></a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/soaps-sprays/"><span>Soaps + Sprays</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/funny-air-fresheners/"><span>Funny Air Fresheners</span></a>
             </li>
             <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/gnomes-yard/"><span>Gnomes, Plants + Yard Flair</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/lamps-lighting/"><span>Lamps + Lighting</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/candles/"><span>Candles</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/bath-shower-accessories/"><span>Bath Gear</span></a>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/soaps-sprays/"><span>Soaps + Sprays</span></a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/books/"><span>Books</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/keychain-car-decor/"><span>Keychain + Car Decor</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/home-accessories/"><span>Home Accessories</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/candles/"><span>Candles</span></a>
             </li>
     </ul>
 </div>
@@ -745,7 +531,7 @@ var BCData = {};
 </div>
             </li>
             <li class="navPages-item">
-                <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/baby-kid-gifts/">
+                <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/toys/">
     Toys
     <span class="triangle-with-shadow"></span>
 </a>
@@ -758,16 +544,13 @@ var BCData = {};
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/retro-toys/"><span>Retro Toys</span></a>
             </li>
             <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/sports/"><span>Sports</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/coloring-drawing/"><span>Coloring + Drawing</span></a>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/scratch-and-sniff-stickers"><span>Scratch + Sniff Smelly Stickers</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/toys-for-kids-of-all-ages/"><span>Toys For Kids of ALL Ages!</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/sports/"><span>Sports</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/snow-sleds-tubes-1/"><span>Snow Sleds + Tubes</span></a>
@@ -777,55 +560,182 @@ var BCData = {};
             </li>
             <li class="navPages-item">
                 <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/candy/">
-    Fun To Eat
+    Candy
     <span class="triangle-with-shadow"></span>
 </a>
 <div class="navPage-subMenu" id="navPages-219" tabindex="-1">
     <ul class="navPage-subMenu-list">
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/chewing-gum/"><span>Chewing Gum</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/mints-candies/"><span>Mints &amp; Candies</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/more-sweets-treats/"><span>More Sweets &amp; Treats</span></a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/chocolate/"><span>Chocolate!</span></a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/cbd/"><span>CBD Candy</span></a>
             </li>
     </ul>
 </div>
             </li>
             <li class="navPages-item">
-                <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/sale-perpetualkid-coupons/">
-    Sale
+                <a class="navPages-action has-subMenu" href="https://www.perpetualkid.com/unique-gifts/">
+    Gift Guide
     <span class="triangle-with-shadow"></span>
 </a>
-<div class="navPage-subMenu" id="navPages-303" tabindex="-1">
+<div class="navPage-subMenu" id="navPages-189" tabindex="-1">
     <ul class="navPage-subMenu-list">
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/sale-items/"><span>Coupon</span></a>
+                  <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://www.perpetualkid.com/shop-gifts-by-theme/"> 
+                        <span>Shop By Theme</span>
+                    </a>
+                    <ul class="navPage-childList" id="navPages-414">
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/cool-as-sh-t-gifts/"><span>Cool As Sh*t Gifts</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/donald-trump-gifts/"><span>Political Fun</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/gifts-for-stoners/"><span>Gifts for Stoners</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/unicorns-rainbows/"><span>Unicorns + Rainbows</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/cats-cat-people/"><span>Cats + Cat People</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/fart-gifts/"><span>Farts Are Funny</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/dogs-dog-people/"><span>Dogs + Dog People</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/mermaid-gifts/"><span>Mermaids</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/i-love-caffeine/"><span>I Love Caffeine!</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/play-with-your-food/"><span>Play With Your Food!</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/beer-gifts/"><span>Beer Gifts</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/wine-gifts/"><span>Wine Gifts</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/glitter-bombs/"><span>Glitter Bombs + Everything with Glitter!</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/winter-snow-gear-toys/"><span>Play In The Snow</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/sloths/"><span>Sloths</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/animal-lover-gifts/"><span>Gifts for Animal Lovers</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/smelly-stuff/"><span>Smelly Stuff</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/educational-fun/"><span>Educational Fun</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/music-gifts/"><span>Music Gifts</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/shark-stuff/"><span>Shark! Stuff</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/pink-flamingos/"><span>Pink Flamingos</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/gifts-for-men/"><span>Gifts for Men</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/watermelon-gifts/"><span>Watermelon Lovers</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/i-love-bacon/"><span>I Love Bacon</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/donut-gifts/"><span>Donut Gifts</span></a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="navPage-subMenu-item">
+                  <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://www.perpetualkid.com/shop-by-holiday/"> 
+                        <span>Shop By Holiday</span>
+                    </a>
+                    <ul class="navPage-childList" id="navPages-413">
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/easter-basket-gifts/"><span>Easter Basket Gifts</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/fathers-day-gifts/"><span>Father's Day Gifts</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/halloween/"><span>Halloween</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/mothers-day-gifts/"><span>Mother's Day</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/stocking-stuffers/"><span>Stocking Stuffers</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/st-patricks-day-gifts/"><span>St. Paddy's Day</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/valentines-day/"><span>Valentine's Day</span></a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="navPage-subMenu-item">
+                  <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://www.perpetualkid.com/shop-by-event/"> 
+                        <span>Shop By Event</span>
+                    </a>
+                    <ul class="navPage-childList" id="navPages-415">
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/beach-pool-inflatables-toys-rafts-floats/"><span>Pool Party</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/weekend-at-the-beach/"><span>Weekend Vacation</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/picnic-bbq-gear/"><span>Picnic &amp; BBQ Gear</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/party-decorations/"><span>Party Decorations</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/back-to-school/"><span>Back To School</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.perpetualkid.com/back-in-stock-soon/"><span>Back In Stock Soon!</span></a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.perpetualkid.com/coming-soon/"><span>Coming Soon!</span></a>
             </li>
     </ul>
 </div>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://www.perpetualkid.com/sale-perpetualkid-coupons/">SALE</a>
             </li>
     </ul>
 </nav>
     </div>
 
-<!--    <div class="header-bottom">
-        <p><strong>NO SALES TAX +</strong> <a href="/shipping-methods-rates/"><strong>FREE STANDARD SHIPPING* ON ORDERS $49+</strong></a></p>
-    </div>  -->
 
 </header>
 
                 <div class="body">
         <div id="top-body-banner">
-   <div class="container"><p></p>
-<a href="/sale-perpetualkid-coupons/"><img src="/product_images/uploaded_images/perpetualkid-coupon.gif" alt="Unique Gift Sale"></a>
+   <div class="container">
+
    </div>
-</div>      
+</div>
+     
     <div class="container_page">
         <div class="container">
     <div id="breadcrumbs-wrapper">
@@ -834,7 +744,7 @@ var BCData = {};
                    <a href="https://www.perpetualkid.com/" class="breadcrumb-label">Home</a>
            </li>
            <li class="breadcrumb is-active">
-                   <span class="breadcrumb-label">Privacy Policy</span>
+                   <a href="https://www.perpetualkid.com/privacy-policy/" class="breadcrumb-label">Privacy Policy</a>
            </li>
    </ul>
 </div>
@@ -872,106 +782,33 @@ var BCData = {};
 </div>
 </div>
                 
-    <!-- BEGIN Home Brand Slider
-    <div class="container"><P></P>
 
-
-<div id="homeBrands" class="wow fadeIn">
-    <div class="container">
-        <div class="owl-carousel" data-owl='{
-            "items": 5,
-            "nav": true,
-            "margin": 30,
-            "dots": false,
-            "slideBy": 5,
-            "responsive": {
-               "0": {
-                  "items": 1,
-                  "slideBy": 1
-               },
-               "420": {
-                  "items": 2,
-                  "slideBy": 2
-               },
-               "560": {
-                  "items": 3,
-                  "slideBy": 3
-               },
-               "768": {
-                  "items": 4,
-                  "slideBy": 4
-               },
-               "992": {
-                  "items": 4,
-                  "slideBy": 4
-               },
-               "1200": {
-                  "items": 5,
-                  "slideBy": 5
-               }
-            },
-            "responsiveRefreshRate": 0
-         }'>
-            <a href="/brands/Archie-McPhee.html" title="Archie McPhee"><img src="/product_images/uploaded_images/archie-mcphee.gif" alt="Archie McPhee" /></a>            
-            <a href="/brands/Big-Mouth-Toys.html" title="Big Mouth Toys"><img src="/product_images/uploaded_images/big-mouth-toys.gif" alt="Big Mouth Toys" /></a>
-            <a href="/brands/Fred-and-Friends-World-Wide-Fred.html" title="Fred & Friends"><img src="/product_images/uploaded_images/fred-and-friends-genuine-fred.gif" alt="Fred & Friends" /></a>
-            <a href="/brands/Blue-Q.html" title="BlueQ"><img src="/product_images/uploaded_images/blueq.gif" alt="BlueQ" /></a>
-            <a href="/brands/Knock-Knock.html" title="Knock Knock Gifts"><img src="/product_images/uploaded_images/knockknock-gifts.gif" alt="Knock Knock Gifts" /></a>
-            <a href="/brands/npw-gifts.html" title="NPW Gifts London"><img src="/product_images/uploaded_images/npw-gifts-london.gif" alt="NPW Gifts London" /></a>
-            <a href="/brands/Primitives-by-Kathy.html" title="Primitives By Kathy"><img src="/product_images/uploaded_images/primitives-by-kathy.gif" alt="Primitives By Kathy" /></a>
-
-            <a href="/brands/SuckUK.html" title="Suck UK Gifts"><img src="/product_images/uploaded_images/suck-uk-gifts.gif" alt="Suck UK Gifts" /></a>
-        </div>
-    </div>
-</div>
- END Home Brand Slider -->
 
 <footer id="footer-wrapper">
     <section id="main-footer">
         <div class="container">
 
-             <div id="footerSubcribeForm" class="wow fadeIn">
-    <h5>Sign Up For The Latest Coupons, Product Launches + Secret Sales</h5>
-    <form class="form" action="/subscribe.php" method="post" id="footerSubcribeFormSubmit">
-        <fieldset class="form-fieldset">
-            <input type="hidden" name="action" value="subscribe">
-            <input type="hidden" name="check" value="1">
-            <div class="form-field">
-                <div class="form-wrap">
-                    <input class="form-input" id="nl_first_name" name="nl_first_name" type="text" value="" placeholder="Your Name">
-                    <input class="form-input" id="nl_email" name="nl_email" type="email" value="" placeholder="Your email address">
-                    <input class="btn btn-primary btn-subcribe" type="submit" value="Subscribe">
-                </div>
-            </div>
-        </fieldset>
-    </form>
-</div>
- 
 
             <!-- Begin Footer Columns -->
             <div class="footer-columns">
              
-                  <div class="column-item wow fadeIn" data-wow-delay="300ms">
+                <div class="column-item wow fadeIn" data-wow-delay="300ms">
                     <h5>Shop Our Guides</h5>
                     <ul>
-                        <li><a href="/giftcertificates.php">Purchase Gift Certificates</a></li>
-                        <li><a href="/stocking-stuffers/">Stocking Stuffer Headquarters</a></li>
-                        <li><a href="/gift-guide-online/">2018 Gift Guide</a></li>
-                        <li><a href="/coming-soon/">2018 Holiday Look Book</a></li>
-                         <li><a href="/sitemap/">Sitemap</a></li>
+                        <li><a href="/unique-gifts/">2019 Gift Guide</a></li>
+                        <li><a href="/pool-beach-toys/">Summer Outdoor Toys</a></li>
+                        <li><a href="/cbd/">CBD Gummies</a></li>
+                         <li><a href="/stocking-stuffers/">2019 Stocking Stuffer Headquarters</a></li>
                     </ul>
                 </div>              
 
                 <div class="column-item wow fadeIn" data-wow-delay="400ms">
                     <h5>Our Top Brands</h5>
                     <ul>
-                        <li><a href="/brands/Big-Mouth-Toys.html">Big Mouth Toys</a></li>
-                        <li><a href="/brands/Blue-Q.html">Blue Q</a></li>
+                        <li><a href="/bigmouth-inc/">BigMouth Inc.</a></li>
+                        <li><a href="/brands/Blue-Q.html">Blue-Q</a></li>
                         <li><a href="/brands/Fred-and-Friends-World-Wide-Fred.html">Fred &amp; Friends</a></li>
                         <li><a href="/brands/Archie-McPhee.html">Archie McPhee</a></li>
-                        <li><a href="/brands/Knock-Knock.html">Knock Knock</a></li>
-                        <li><a href="/brands/npw-gifts/">NPW Gifts</a></li>
-                        <li><a href="/brands/Perpetual-Kid.html">PK Exclusives</a></li>
                     </ul>
                 </div>
 
@@ -979,11 +816,9 @@ var BCData = {};
                     <h5>Media Information</h5>
                     <ul>
                         <li><a href="/about-perpetual-kid/">About Us</a></li>
-                        <li><a href="/image-content-requests/">Media + Press Requests</a></li>
-                        <li><a href="/finger-monster-stories/">Finger Monster Stories</a></li>
-                        <li><a href="/eco-packing-peanut-fun-is-our-jam/">Eco-Packing</a></li>
-                        <li><a href="/affiliate-program/">Affiliate Program</a></li>
-                        <li><a href="https://blog.perpetualkid.com" target="_blank">Blog</a></li>
+                        <li><a href="/media-press-requests/">Media + Press Requests</a></li>
+                        <li><a href="/eco-packing-peanut-fun-is-our-jam/">Earth Friendly Packaging</a></li>
+                        <li><a href="/affiliate-program/">Join Our Affiliate Program</a></li>
                        </ul>
                 </div>
 
@@ -992,11 +827,26 @@ var BCData = {};
                 <div class="column-item wow fadeIn" data-wow-delay="500ms">
                     <h5>Customer Service</h5>
                     <ul>
+                        <li><nav class="navUser">
+    <ul>
+
+
+        
+
+
+            <li class="hidden-sm hidden-xs"><a href="/login.php"><span>Sign in</span></a></li>
+            <!-- <li class="hidden-sm hidden-xs last-child"><a href="/login.php?action=create_account"><span>Register</span></a></li> -->
+
+        <li id="mobileAccountSidebar" class="hidden-md hidden-lg"><a data-effect="st-effect-2" href="/account.php"><i class="fa fa-user"></i><span>Account</span></a></li>
+        <li class="custom-service hidden-sm hidden-xs"><a href="/customer-service/">Customer Service</a></li>
+
+    </ul>
+</nav>
+</li>
                         <li><a href="/customer-service/">Contact Us</a></li>
-                        <li><a href="/login.php/">Your Account</a></li>
+                        <li><a href="/account.php">Your Account</a></li>
                         <li><a href="/shipping-methods-rates/">Shipping Methods + Rates</a></li>
                         <li><a href="/#!rewards/">Rewards Program</a></li>
-                        <li><a href="/perpetual-kid-corporate-purchasing-and-wholesale/">Corporate + Bulk Orders</a></li>
                         <li><a href="/privacy-policy/">Privacy Policy</a></li>
                         <li><a href="/60-day-return-policy">60 Day Return Policy</a></li>
                          
@@ -1009,76 +859,31 @@ var BCData = {};
 
                 <!-- Go to www.addthis.com/dashboard to customize your tools -->
                 <div class="addthis_inline_follow_toolbox_7ks2"></div>
-            
-                         
                     </ul>
                 </div>
 
+ <div class="container text-center wow fadeIn">
+
+                                     <p>We're a fun small business known for our <a href="/unique-gifts/">Unique Gifts</a></p>
+ <p>© Copyright 2004-2019 Perpetual Kid, Inc.  All rights reserved. </p> </div>
             </div>
             <!-- End Footer Columns -->
 
 
-            <!-- Begin Three Columns 
-            <div class="bottom-columns">
 
-                <div class="column-item first wow fadeIn" data-wow-delay="100ms">
-                    <h5><a href="/60-day-return-policy/">Shop With Confidence</a></h5>
-                    <p>No Hassle 60 Day Return Policy </p>
-                    <div class="footer-payment-icons">
-    <p><img src="/product_images/uploaded_images/payments-we-accept.gif" alt="Amazon + PayPal Accepted" title="Credit Cards Accepted"></p>
-</div>
-                </div>
-
-                <div class="column-item second wow fadeIn" data-wow-delay="200ms">
-                    <h5>Safe + Secure Shopping</h5>
-                    <p>GeoTrust SSL and McAfee SECURE certification.</p>
-
-                        <ul class="footer-ssl-certificate">
-                            
-                        </ul>
-
-                </div>
-
-                <div class="column-item third wow fadeIn" data-wow-delay="300ms">
-                    <h5>Let's Get to Know Each Other!</h5>
-                    <p>Keep in touch with social media.</p>
-<ul class="social-icons">
-                        <li><a href="https://www.instagram.com/perpetualkid/" title="Instagram"><img src="/product_images/uploaded_images/icon-instagram.png" alt="Instagram"></a></li>
-                        <li><a href="https://www.facebook.com/PerpetualKidGifts/" title="Facebook"><img src="/product_images/uploaded_images/icon-face.png" alt="Facebook"></a></li>
-                        <li><a href="https://www.pinterest.com/perpetualkid/" title="Pinterest"><img src="/product_images/uploaded_images/icon-pinterest.png" alt="Pinterest"></a></li>
-                        <li><a href="https://twitter.com/perpetual_kid?lang=en" title="Twitter"><img src="/product_images/uploaded_images/icon-twitter.png" alt="Twitter"></a></li>
-                    </ul>
-                </div>
-
-            </div>
-
-             End Three Columns -->
-
-        </div>
-    </section>
-    <div id="bottom-footer">
-        <div class="container text-center wow fadeIn">
-                <div class="footer-copyright">
-                    <p>© 2018 PerpetualKid.com All Rights Reserved.</p>
-                </div>
-
- <p>We're a fun small business known for our <a href="/stocking-stuffers/">Stocking Stuffers</a> and <a href="/unique-gifts/">Unique Gifts</a></p>
-
-
-        </div>
     </div>
     
-</footer>
+</section></footer>
 
 
 
-                <script>window.__webpack_public_path__ = "https://cdn8.bigcommerce.com/s-iem2p/stencil/8ded7b40-9800-0136-c832-089d3a013ac1/e/2b07c500-9fe0-0136-e3ec-01d67f7fe261/dist/";</script>
-                <script src="https://cdn8.bigcommerce.com/s-iem2p/stencil/8ded7b40-9800-0136-c832-089d3a013ac1/e/2b07c500-9fe0-0136-e3ec-01d67f7fe261/dist/theme-bundle.main.js"></script>
-                <script src="https://cdn8.bigcommerce.com/s-iem2p/stencil/8ded7b40-9800-0136-c832-089d3a013ac1/e/2b07c500-9fe0-0136-e3ec-01d67f7fe261/modernizr-custom.js"></script>
+                <script>window.__webpack_public_path__ = "https://cdn11.bigcommerce.com/s-iem2p/stencil/93df4e30-7a4c-0137-99c2-0242ac110012/e/9126b8e0-8486-0137-0ed2-0242ac110011/dist/";</script>
+                <script src="https://cdn11.bigcommerce.com/s-iem2p/stencil/93df4e30-7a4c-0137-99c2-0242ac110012/e/9126b8e0-8486-0137-0ed2-0242ac110011/dist/theme-bundle.main.js"></script>
+                <script src="https://cdn11.bigcommerce.com/s-iem2p/stencil/93df4e30-7a4c-0137-99c2-0242ac110012/e/9126b8e0-8486-0137-0ed2-0242ac110011/modernizr-custom.js"></script>
 
                 <script>
                     // Exported in app.js
-                    window.stencilBootstrap("pages/page", "{\"themeSettings\":{\"amp_analytics_id\":\"\",\"homepage_new_products_count\":5,\"homepage_featured_products_count\":10,\"homepage_show_carousel\":true,\"homepage_carousel_autoplay\":true,\"homepage_carousel_navigation\":true,\"homepage_carousel_pagination\":false,\"homepage_carousel_title\":\"Bebas Neue W01\",\"homepage_carousel_description\":\"Google_Karla_700\",\"homepage_carousel_title_color\":\"#000000\",\"homepage_carousel_description_color\":\"#000000\",\"homepage_carousel_action_color\":\"#000000\",\"homepage_carousel_title_color_1\":\"#000000\",\"homepage_carousel_description_color_1\":\"#000000\",\"homepage_carousel_action_color_1\":\"#ffffff\",\"homepage_carousel_title_color_2\":\"#000000\",\"homepage_carousel_description_color_2\":\"#000000\",\"homepage_carousel_action_color_2\":\"#000000\",\"homepage_carousel_title_color_3\":\"#ffffff\",\"homepage_carousel_description_color_3\":\"#ffffff\",\"homepage_carousel_action_color_3\":\"#ffffff\",\"homepage_carousel_title_color_4\":\"#000000\",\"homepage_carousel_description_color_4\":\"#000000\",\"homepage_carousel_action_color_4\":\"#000000\",\"homepage_carousel_title_color_5\":\"#000000\",\"homepage_carousel_description_color_5\":\"#000000\",\"homepage_carousel_action_color_5\":\"#000000\",\"homepage_new_products_column_count\":4,\"homepage_featured_products_column_count\":4,\"homepage_blog_posts_count\":3,\"productpage_videos_count\":8,\"productpage_reviews_count\":4,\"productpage_related_products_count\":4,\"productpage_similar_by_views_count\":4,\"categorypage_products_per_page\":36,\"categorypage_products_column_count\":3,\"wishlist_products_column_count\":5,\"side_top_products_count\":8,\"brandpage_products_per_page\":36,\"searchpage_products_per_page\":30,\"show_product_quick_view\":true,\"show_product_brand\":false,\"show_copyright_footer\":true,\"show_powered_by\":false,\"show_template_by\":false,\"show_accept_visa\":true,\"show_accept_amex\":true,\"show_accept_mastercard\":true,\"show_accept_paypal\":true,\"show_accept_discover\":true,\"product_list_display_mode\":\"grid\",\"logo_size\":\"original\",\"brand_size\":\"190x250\",\"productgallery_size\":\"210x280\",\"product_size\":\"500x500\",\"productthumb_size\":\"90x120\",\"thumb_size\":\"100x100\",\"zoom_size\":\"1280x1280\",\"blog_size\":\"930x420\",\"cart_productthumb_size\":\"160x160\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"basic-price-color\":\"#000000\",\"retail-price-color\":\"#aaaaaa\",\"sale-price-color\":\"#db0b8b\",\"saving-price-color\":\"#db0b8b\",\"sale-badge-color\":\"#ffffff\",\"sale-badge-bgColor\":\"#cb004c\",\"sale-badge-border-color\":\"#cb004c\",\"new-badge-color\":\"#ffffff\",\"new-badge-bgColor\":\"#81c917\",\"new-badge-border-color\":\"#81c917\",\"body-font\":\"Google_Open+Sans_400\",\"body-secondary-font\":\"Google_Karla_400\",\"headings-font\":\"Google_Open+Sans_400\",\"logo-font\":\"Bebas Neue\",\"fontSize-root\":14,\"fontSize-h1\":32,\"fontSize-h2\":25,\"fontSize-h3\":22,\"fontSize-h4\":20,\"fontSize-h5\":15,\"fontSize-h6\":13,\"applePay-button\":\"black\",\"color-textBase\":\"#2d2d2d\",\"color-textBase--hover\":\"#000000\",\"color-textBase--active\":\"#000000\",\"color-textSecondary\":\"#989898\",\"color-textSecondary--hover\":\"#2d2d2d\",\"color-textSecondary--active\":\"#2d2d2d\",\"color-textLink\":\"#2d2d2d\",\"color-textLink--hover\":\"#5eb8e5\",\"color-textLink--active\":\"#000000\",\"color-textHeading\":\"#000000\",\"color-primary\":\"#2d2d2d\",\"color-primaryDark\":\"#454545\",\"color-primaryDarker\":\"#2d2d2d\",\"color-primaryLight\":\"#a5a5a5\",\"color-secondary\":\"#ffffff\",\"color-secondaryDark\":\"#e8e8e8\",\"color-secondaryDarker\":\"#e8e8e8\",\"color-error\":\"#ff7d7d\",\"color-errorLight\":\"#ffdddd\",\"color-info\":\"#666666\",\"color-infoLight\":\"#dfdfdf\",\"color-success\":\"#69d66f\",\"color-successLight\":\"#d5ffd8\",\"color-warning\":\"#d4cb49\",\"color-warningLight\":\"#fffdea\",\"color-black\":\"#000000\",\"color-white\":\"#ffffff\",\"color-whitesBase\":\"#f8f8f8\",\"color-grey\":\"#4f4f4f\",\"color-greyDarkest\":\"#2d2d2d\",\"color-greyDarker\":\"#454545\",\"color-greyDark\":\"#666666\",\"color-greyMedium\":\"#989898\",\"color-greyLight\":\"#a5a5a5\",\"color-greyLighter\":\"#dfdfdf\",\"color-greyLightest\":\"#e8e8e8\",\"button--font\":\"Google_Montserrat_400\",\"button--primary-color\":\"#ffffff\",\"button--primary-colorHover\":\"#000000\",\"button--primary-backgroundColor\":\"#000000\",\"button--primary-backgroundColorHover\":\"#ffffff\",\"button--alt-color\":\"#000000\",\"button--alt-colorHover\":\"#ffffff\",\"button--alt-bgColor\":\"#ffffff\",\"button--alt-bgColorHover\":\"#000000\",\"button--alt-borderColor\":\"#000000\",\"button--alt-borderColorHover\":\"#000000\",\"grid-add-to-cart-color\":\"#000000\",\"grid-add-to-cart-colorHover\":\"#178dc9\",\"grid-add-to-cart-bgColor\":\"#ffffff\",\"grid-add-to-cart-bgColorHover\":\"#f7f7f7\",\"list-add-to-cart-color\":\"#000000\",\"list-add-to-cart-colorHover\":\"#ffffff\",\"list-add-to-cart-bgColor\":\"#ffffff\",\"list-add-to-cart-bgColorHover\":\"#000000\",\"list-add-to-cart-borderColor\":\"#000000\",\"list-add-to-cart-borderColorHover\":\"#000000\",\"detail-add-to-cart-color\":\"#ffffff\",\"detail-add-to-cart-colorHover\":\"#ffffff\",\"detail-add-to-cart-bgColor\":\"#00a1cb\",\"detail-add-to-cart-bgColorHover\":\"#000000\",\"button--checkout-color\":\"#ffffff\",\"button--checkout-colorHover\":\"#ffffff\",\"button--checkout-bgColor\":\"#06bb1b\",\"button--checkout-bgColorHover\":\"#71ca2a\",\"button--modal-close-color\":\"#ffffff\",\"button--modal-close-colorHover\":\"#ffffff\",\"button--modal-close-bgColor\":\"#050200\",\"button--modal-close-bgColorHover\":\"#00a1cb\",\"button--disabled-color\":\"#ffffff\",\"button--disabled-backgroundColor\":\"#dadada\",\"button--disabled-borderColor\":\"#dadada\",\"icon-color\":\"#4f4f4f\",\"icon-color-hover\":\"#a5a5a5\",\"button--icon-svg-color\":\"#4f4f4f\",\"icon-ratingEmpty\":\"#dddddd\",\"icon-ratingFull\":\"#fc9217\",\"card-title-font\":\"Google_Karla_700\",\"card-title-color\":\"#2d2d2d\",\"card-title-color-hover\":\"#178dc9\",\"card-figcaption-button-background\":\"#ffffff\",\"card-figcaption-button-color\":\"#2d2d2d\",\"card--alternate-backgroundColor\":\"#ffffff\",\"card--alternate-borderColor\":\"#ffffff\",\"card--alternate-color--hover\":\"#ffffff\",\"form-label-font-color\":\"#000000\",\"input-font-color\":\"#454545\",\"input-placeholder-color\":\"#222222\",\"input-border-color\":\"#c2c2c2\",\"input-border-color-active\":\"#989898\",\"input-bg-color\":\"#ffffff\",\"input-disabled-bg\":\"#ffffff\",\"select-bg-color\":\"#f5f5f5\",\"select-arrow-color\":\"#828282\",\"checkRadio-color\":\"#4f4f4f\",\"checkRadio-backgroundColor\":\"#ffffff\",\"checkRadio-borderColor\":\"#dfdfdf\",\"alert-color\":\"#4f4f4f\",\"alert-color-alt\":\"#ffffff\",\"storeName-color\":\"#000000\",\"body-bg\":\"#ffffff\",\"header-backgroundColor\":\"#ffffff\",\"navPages-color\":\"#4f4f4f\",\"navPages-color-hover\":\"#a5a5a5\",\"navPages-subMenu-backgroundColor\":\"#f2f2f2\",\"navPages-subMenu-separatorColor\":\"#dfdfdf\",\"blockquote-cite-font-color\":\"#a5a5a5\",\"container-border-global-color-base\":\"#e8e8e8\",\"container-border-global-color-dark\":\"#454545\",\"container-fill-base\":\"#ffffff\",\"container-fill-dark\":\"#f2f2f2\",\"label-backgroundColor\":\"#bfbfbf\",\"label-color\":\"#ffffff\",\"overlay-backgroundColor\":\"#e2e2e2\",\"loadingOverlay-backgroundColor\":\"#ffffff\",\"pace-progress-backgroundColor\":\"#f3f2f2\",\"spinner-borderColor-dark\":\"#989898\",\"spinner-borderColor-light\":\"#ffffff\",\"hide_content_navigation\":false,\"optimizedCheckout-header-backgroundColor\":\"#ffffff\",\"optimizedCheckout-show-backgroundImage\":false,\"optimizedCheckout-backgroundImage\":\"\",\"optimizedCheckout-backgroundImage-size\":\"1780x190\",\"optimizedCheckout-show-logo\":\"none\",\"optimizedCheckout-logo\":\"\",\"optimizedCheckout-logo-size\":\"250x100\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-headingPrimary-color\":\"#000000\",\"optimizedCheckout-headingPrimary-font\":\"Google_Roboto_400\",\"optimizedCheckout-headingSecondary-color\":\"#000000\",\"optimizedCheckout-headingSecondary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-body-backgroundColor\":\"#ffffff\",\"optimizedCheckout-contentPrimary-color\":\"#020000\",\"optimizedCheckout-contentPrimary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-contentSecondary-color\":\"#666363\",\"optimizedCheckout-contentSecondary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#178dc9\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#178dc9\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#333333\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#555555\",\"optimizedCheckout-buttonPrimary-borderColor\":\"#178dc9\",\"optimizedCheckout-buttonPrimary-borderColorHover\":\"#333333\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"#555555\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-buttonSecondary-color\":\"#c25959\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#fdfeff\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#dfdfdf\",\"optimizedCheckout-link-color\":\"#178dc9\",\"optimizedCheckout-link-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#f5fbff\",\"optimizedCheckout-discountBanner-textColor\":\"#333333\",\"optimizedCheckout-discountBanner-iconColor\":\"#333333\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-step-backgroundColor\":\"#178dc9\",\"optimizedCheckout-step-textColor\":\"#ffffff\",\"optimizedCheckout-step-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-form-textColor\":\"#000000\",\"optimizedCheckout-formField-backgroundColor\":\"white\",\"optimizedCheckout-formField-borderColor\":\"#dad9d9\",\"headerTop-backgroundColor\":\"#ffffff\",\"headerTop-borderBottom\":\"#ebebeb\",\"headerTop-textColor\":\"#878787\",\"headerTop-textColorHover\":\"#178dc9\",\"headerBottom-backgroundColor\":\"#019cd1\",\"headerBottom-textColor\":\"#ffffff\",\"navUser-color\":\"#000000\",\"navUser-color-hover\":\"#000000\",\"wishlist-icon-color\":\"#e12278\",\"wishlist-icon-colorHover\":\"#cd045e\",\"cart-icon-color\":\"#178dc9\",\"cart-icon-colorHover\":\"#61ae24\",\"item-count-circle-color\":\"#ffffff\",\"item-count-circle-backgroundColor\":\"#06bb1b\",\"searchBox-textField-color\":\"#000000\",\"searchBox-textField-placeholder\":\"#000000\",\"searchBox-textField-backgroundColor\":\"#f2f2f2\",\"searchBox-icon-color\":\"#178dc9\",\"searchBox-icon-colorHover\":\"#178dc9\",\"header-custom-text-color\":\"#000000\",\"mainNav-topLevel-color\":\"#000000\",\"mainNav-topLevel-colorHover\":\"#178dc9\",\"mainNav-dropdown-backgroundColor\":\"#ffffff\",\"mainNav-dropdown-border-color\":\"#f3f3f3\",\"mainNav-dropdown-text-color\":\"#000000\",\"mainNav-dropdown-text-color-hover\":\"#178dc9\",\"mainNav-dropdown-text-backgroundColor-hover\":\"#f5f5f5\",\"megamenu-sub-parent-color\":\"#000000\",\"megamenu-sub-parent-colorHover\":\"#178dc9\",\"megamenu-sub-children-color\":\"#000000\",\"megamenu-sub-children-colorHover\":\"#000000\",\"footer-backgroundColor\":\"#ffffff\",\"footer-column-heading-color\":\"#000000\",\"footer-column-text-color\":\"#323232\",\"footer-column-link-color\":\"#178dc9\",\"footer-column-link-color-hover\":\"#000000\",\"footer-separated-border-color\":\"#e7e7e7\",\"insta-feed-bgColor\":\"#ffffff\",\"footer-bottom-background\":\"#00a1cb\",\"footer-copyright-text-color\":\"#FFFFFF\",\"footer-copyright-link-color\":\"#FFFFFF\",\"footer-copyright-link-colorHover\":\"#ffffff\",\"halothemes_sticky_navigation\":false,\"halothemes_newsletter_popup\":false,\"halothemes_megamenu\":false,\"halothemes_lazy_loading_effect\":true,\"copyright_alignment\":\"center\",\"halothemes_images_swap\":true,\"halo_ask_an_expert\":false,\"halothemes_contact_us_map\":false,\"breadcrumb-label-color\":\"#178dc9\",\"breadcrumb-label-color-hover\":\"#178dc9\",\"breadcrumb-label-color-active\":\"#178dc9\",\"footer-phone-email-color\":\"#ffffff\",\"footer-phone-email-background-color\":\"#00a1cb\",\"mobile_sidebar_trigger\":\"#000000\",\"mobile_sidebar_triggerHover\":\"#178dc9\",\"price_as_low_as\":false,\"restrict_to_login\":false,\"swatch_option_size\":\"22x22\",\"show_geotrust_ssl_seal\":false,\"geotrust_ssl_seal_size\":\"M\",\"show_subcategories\":false,\"bigcommerce_banners\":false},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":{\"header\":null,\"notice\":null,\"message\":null,\"securePath\":\"https://www.perpetualkid.com\",\"password\":null},\"urls\":{\"home\":\"https://www.perpetualkid.com/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\"},\"brands\":\"https://www.perpetualkid.com/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout.php\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":[]},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}}}").load();
+                    window.stencilBootstrap("pages/page", "{\"themeSettings\":{\"amp_analytics_id\":\"\",\"homepage_new_products_count\":5,\"homepage_featured_products_count\":10,\"homepage_show_carousel\":true,\"homepage_carousel_autoplay\":true,\"homepage_carousel_navigation\":true,\"homepage_carousel_pagination\":false,\"homepage_carousel_title\":\"Bebas Neue W01\",\"homepage_carousel_description\":\"Google_Karla_700\",\"homepage_carousel_title_color\":\"#000000\",\"homepage_carousel_description_color\":\"#000000\",\"homepage_carousel_action_color\":\"#000000\",\"homepage_carousel_title_color_1\":\"#000000\",\"homepage_carousel_description_color_1\":\"#000000\",\"homepage_carousel_action_color_1\":\"#ffffff\",\"homepage_carousel_title_color_2\":\"#000000\",\"homepage_carousel_description_color_2\":\"#000000\",\"homepage_carousel_action_color_2\":\"#000000\",\"homepage_carousel_title_color_3\":\"#ffffff\",\"homepage_carousel_description_color_3\":\"#ffffff\",\"homepage_carousel_action_color_3\":\"#ffffff\",\"homepage_carousel_title_color_4\":\"#000000\",\"homepage_carousel_description_color_4\":\"#000000\",\"homepage_carousel_action_color_4\":\"#000000\",\"homepage_carousel_title_color_5\":\"#000000\",\"homepage_carousel_description_color_5\":\"#000000\",\"homepage_carousel_action_color_5\":\"#000000\",\"homepage_new_products_column_count\":4,\"homepage_featured_products_column_count\":4,\"homepage_blog_posts_count\":3,\"productpage_videos_count\":8,\"productpage_reviews_count\":4,\"productpage_related_products_count\":12,\"productpage_similar_by_views_count\":12,\"categorypage_products_per_page\":90,\"categorypage_products_column_count\":3,\"wishlist_products_column_count\":5,\"side_top_products_count\":8,\"brandpage_products_per_page\":90,\"searchpage_products_per_page\":50,\"show_product_quick_view\":false,\"show_product_brand\":false,\"show_copyright_footer\":true,\"show_powered_by\":false,\"show_template_by\":false,\"show_accept_visa\":true,\"show_accept_amex\":true,\"show_accept_mastercard\":true,\"show_accept_paypal\":true,\"show_accept_discover\":true,\"product_list_display_mode\":\"grid\",\"logo_size\":\"original\",\"brand_size\":\"190x250\",\"productgallery_size\":\"210x280\",\"product_size\":\"500x500\",\"productthumb_size\":\"90x120\",\"thumb_size\":\"100x100\",\"zoom_size\":\"1280x1280\",\"blog_size\":\"930x420\",\"cart_productthumb_size\":\"160x160\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"basic-price-color\":\"#000000\",\"retail-price-color\":\"#aaaaaa\",\"sale-price-color\":\"#db0b8b\",\"saving-price-color\":\"#db0b8b\",\"sale-badge-color\":\"#ffffff\",\"sale-badge-bgColor\":\"#cb004c\",\"sale-badge-border-color\":\"#cb004c\",\"new-badge-color\":\"#ffffff\",\"new-badge-bgColor\":\"#81c917\",\"new-badge-border-color\":\"#81c917\",\"body-font\":\"Google_Open+Sans_400\",\"body-secondary-font\":\"Google_Karla_400\",\"headings-font\":\"Google_Open+Sans_400\",\"logo-font\":\"Bebas Neue\",\"fontSize-root\":14,\"fontSize-h1\":32,\"fontSize-h2\":25,\"fontSize-h3\":22,\"fontSize-h4\":20,\"fontSize-h5\":15,\"fontSize-h6\":13,\"applePay-button\":\"black\",\"color-textBase\":\"#2d2d2d\",\"color-textBase--hover\":\"#000000\",\"color-textBase--active\":\"#000000\",\"color-textSecondary\":\"#989898\",\"color-textSecondary--hover\":\"#2d2d2d\",\"color-textSecondary--active\":\"#2d2d2d\",\"color-textLink\":\"#2d2d2d\",\"color-textLink--hover\":\"#5eb8e5\",\"color-textLink--active\":\"#000000\",\"color-textHeading\":\"#000000\",\"color-primary\":\"#2d2d2d\",\"color-primaryDark\":\"#454545\",\"color-primaryDarker\":\"#2d2d2d\",\"color-primaryLight\":\"#a5a5a5\",\"color-secondary\":\"#ffffff\",\"color-secondaryDark\":\"#e8e8e8\",\"color-secondaryDarker\":\"#e8e8e8\",\"color-error\":\"#ff7d7d\",\"color-errorLight\":\"#ffdddd\",\"color-info\":\"#666666\",\"color-infoLight\":\"#dfdfdf\",\"color-success\":\"#69d66f\",\"color-successLight\":\"#d5ffd8\",\"color-warning\":\"#d4cb49\",\"color-warningLight\":\"#fffdea\",\"color-black\":\"#000000\",\"color-white\":\"#ffffff\",\"color-whitesBase\":\"#f8f8f8\",\"color-grey\":\"#4f4f4f\",\"color-greyDarkest\":\"#2d2d2d\",\"color-greyDarker\":\"#454545\",\"color-greyDark\":\"#666666\",\"color-greyMedium\":\"#989898\",\"color-greyLight\":\"#a5a5a5\",\"color-greyLighter\":\"#dfdfdf\",\"color-greyLightest\":\"#e8e8e8\",\"button--font\":\"Google_Montserrat_400\",\"button--primary-color\":\"#ffffff\",\"button--primary-colorHover\":\"#000000\",\"button--primary-backgroundColor\":\"#000000\",\"button--primary-backgroundColorHover\":\"#ffffff\",\"button--alt-color\":\"#000000\",\"button--alt-colorHover\":\"#ffffff\",\"button--alt-bgColor\":\"#ffffff\",\"button--alt-bgColorHover\":\"#000000\",\"button--alt-borderColor\":\"#000000\",\"button--alt-borderColorHover\":\"#000000\",\"grid-add-to-cart-color\":\"#000000\",\"grid-add-to-cart-colorHover\":\"#178dc9\",\"grid-add-to-cart-bgColor\":\"#ffffff\",\"grid-add-to-cart-bgColorHover\":\"#f7f7f7\",\"list-add-to-cart-color\":\"#000000\",\"list-add-to-cart-colorHover\":\"#ffffff\",\"list-add-to-cart-bgColor\":\"#ffffff\",\"list-add-to-cart-bgColorHover\":\"#000000\",\"list-add-to-cart-borderColor\":\"#000000\",\"list-add-to-cart-borderColorHover\":\"#000000\",\"detail-add-to-cart-color\":\"#ffffff\",\"detail-add-to-cart-colorHover\":\"#ffffff\",\"detail-add-to-cart-bgColor\":\"#00a1cb\",\"detail-add-to-cart-bgColorHover\":\"#000000\",\"button--checkout-color\":\"#ffffff\",\"button--checkout-colorHover\":\"#ffffff\",\"button--checkout-bgColor\":\"#06bb1b\",\"button--checkout-bgColorHover\":\"#71ca2a\",\"button--modal-close-color\":\"#ffffff\",\"button--modal-close-colorHover\":\"#ffffff\",\"button--modal-close-bgColor\":\"#050200\",\"button--modal-close-bgColorHover\":\"#00a1cb\",\"button--disabled-color\":\"#ffffff\",\"button--disabled-backgroundColor\":\"#dadada\",\"button--disabled-borderColor\":\"#dadada\",\"icon-color\":\"#4f4f4f\",\"icon-color-hover\":\"#a5a5a5\",\"button--icon-svg-color\":\"#4f4f4f\",\"icon-ratingEmpty\":\"#dddddd\",\"icon-ratingFull\":\"#fc9217\",\"card-title-font\":\"Google_Karla_700\",\"card-title-color\":\"#2d2d2d\",\"card-title-color-hover\":\"#178dc9\",\"card-figcaption-button-background\":\"#ffffff\",\"card-figcaption-button-color\":\"#2d2d2d\",\"card--alternate-backgroundColor\":\"#ffffff\",\"card--alternate-borderColor\":\"#ffffff\",\"card--alternate-color--hover\":\"#ffffff\",\"carousel-bgColor\":\"#ffffff\",\"carousel-title-color\":\"#444444\",\"carousel-description-color\":\"#333333\",\"carousel-dot-color\":\"#333333\",\"carousel-dot-color-active\":\"#757575\",\"carousel-dot-bgColor\":\"#ffffff\",\"carousel-arrow-color\":\"#999999\",\"carousel-arrow-bgColor\":\"#ffffff\",\"carousel-arrow-borderColor\":\"#ffffff\",\"form-label-font-color\":\"#000000\",\"input-font-color\":\"#454545\",\"input-placeholder-color\":\"#222222\",\"input-border-color\":\"#c2c2c2\",\"input-border-color-active\":\"#989898\",\"input-bg-color\":\"#ffffff\",\"input-disabled-bg\":\"#ffffff\",\"select-bg-color\":\"#f5f5f5\",\"select-arrow-color\":\"#828282\",\"checkRadio-color\":\"#4f4f4f\",\"checkRadio-backgroundColor\":\"#ffffff\",\"checkRadio-borderColor\":\"#dfdfdf\",\"alert-color\":\"#4f4f4f\",\"alert-color-alt\":\"#ffffff\",\"storeName-color\":\"#000000\",\"body-bg\":\"#ffffff\",\"header-backgroundColor\":\"#ffffff\",\"navPages-color\":\"#4f4f4f\",\"navPages-color-hover\":\"#a5a5a5\",\"navPages-subMenu-backgroundColor\":\"#f2f2f2\",\"navPages-subMenu-separatorColor\":\"#dfdfdf\",\"blockquote-cite-font-color\":\"#a5a5a5\",\"container-border-global-color-base\":\"#e8e8e8\",\"container-border-global-color-dark\":\"#454545\",\"container-fill-base\":\"#ffffff\",\"container-fill-dark\":\"#f2f2f2\",\"label-backgroundColor\":\"#bfbfbf\",\"label-color\":\"#ffffff\",\"overlay-backgroundColor\":\"#e2e2e2\",\"loadingOverlay-backgroundColor\":\"#ffffff\",\"pace-progress-backgroundColor\":\"#f3f2f2\",\"spinner-borderColor-dark\":\"#989898\",\"spinner-borderColor-light\":\"#ffffff\",\"hide_content_navigation\":false,\"optimizedCheckout-header-backgroundColor\":\"#ffffff\",\"optimizedCheckout-show-backgroundImage\":false,\"optimizedCheckout-backgroundImage\":\"\",\"optimizedCheckout-backgroundImage-size\":\"1780x190\",\"optimizedCheckout-show-logo\":\"none\",\"optimizedCheckout-logo\":\"\",\"optimizedCheckout-logo-size\":\"250x100\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-headingPrimary-color\":\"#000000\",\"optimizedCheckout-headingPrimary-font\":\"Google_Roboto_400\",\"optimizedCheckout-headingSecondary-color\":\"#000000\",\"optimizedCheckout-headingSecondary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-body-backgroundColor\":\"#ffffff\",\"optimizedCheckout-contentPrimary-color\":\"#020000\",\"optimizedCheckout-contentPrimary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-contentSecondary-color\":\"#666363\",\"optimizedCheckout-contentSecondary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#178dc9\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#178dc9\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#333333\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#555555\",\"optimizedCheckout-buttonPrimary-borderColor\":\"#178dc9\",\"optimizedCheckout-buttonPrimary-borderColorHover\":\"#333333\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"#555555\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-buttonSecondary-color\":\"#c25959\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#fdfeff\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#dfdfdf\",\"optimizedCheckout-link-color\":\"#178dc9\",\"optimizedCheckout-link-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#f5fbff\",\"optimizedCheckout-discountBanner-textColor\":\"#333333\",\"optimizedCheckout-discountBanner-iconColor\":\"#333333\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-step-backgroundColor\":\"#178dc9\",\"optimizedCheckout-step-textColor\":\"#ffffff\",\"optimizedCheckout-step-font\":\"Google_Open+Sans_400\",\"optimizedCheckout-form-textColor\":\"#000000\",\"optimizedCheckout-formField-backgroundColor\":\"white\",\"optimizedCheckout-formField-borderColor\":\"#dad9d9\",\"headerTop-backgroundColor\":\"#ffffff\",\"headerTop-borderBottom\":\"#ebebeb\",\"headerTop-textColor\":\"#878787\",\"headerTop-textColorHover\":\"#178dc9\",\"headerBottom-backgroundColor\":\"#019cd1\",\"headerBottom-textColor\":\"#ffffff\",\"navUser-color\":\"#000000\",\"navUser-color-hover\":\"#000000\",\"wishlist-icon-color\":\"#e12278\",\"wishlist-icon-colorHover\":\"#cd045e\",\"cart-icon-color\":\"#178dc9\",\"cart-icon-colorHover\":\"#61ae24\",\"item-count-circle-color\":\"#ffffff\",\"item-count-circle-backgroundColor\":\"#06bb1b\",\"searchBox-textField-color\":\"#000000\",\"searchBox-textField-placeholder\":\"#000000\",\"searchBox-textField-backgroundColor\":\"#f2f2f2\",\"searchBox-icon-color\":\"#178dc9\",\"searchBox-icon-colorHover\":\"#178dc9\",\"header-custom-text-color\":\"#000000\",\"mainNav-topLevel-color\":\"#000000\",\"mainNav-topLevel-colorHover\":\"#178dc9\",\"mainNav-dropdown-backgroundColor\":\"#ffffff\",\"mainNav-dropdown-border-color\":\"#f3f3f3\",\"mainNav-dropdown-text-color\":\"#000000\",\"mainNav-dropdown-text-color-hover\":\"#178dc9\",\"mainNav-dropdown-text-backgroundColor-hover\":\"#F5FBFF\",\"megamenu-sub-parent-color\":\"#000000\",\"megamenu-sub-parent-colorHover\":\"#178dc9\",\"megamenu-sub-children-color\":\"#000000\",\"megamenu-sub-children-colorHover\":\"#000000\",\"footer-backgroundColor\":\"#ffffff\",\"footer-column-heading-color\":\"#000000\",\"footer-column-text-color\":\"#323232\",\"footer-column-link-color\":\"#178dc9\",\"footer-column-link-color-hover\":\"#000000\",\"footer-separated-border-color\":\"#e7e7e7\",\"insta-feed-bgColor\":\"#ffffff\",\"footer-bottom-background\":\"#00a1cb\",\"footer-copyright-text-color\":\"#FFFFFF\",\"footer-copyright-link-color\":\"#FFFFFF\",\"footer-copyright-link-colorHover\":\"#ffffff\",\"halothemes_sticky_navigation\":true,\"halothemes_newsletter_popup\":false,\"halothemes_megamenu\":false,\"halothemes_lazy_loading_effect\":true,\"copyright_alignment\":\"center\",\"halothemes_images_swap\":true,\"halo_ask_an_expert\":false,\"halothemes_contact_us_map\":false,\"breadcrumb-label-color\":\"#178dc9\",\"breadcrumb-label-color-hover\":\"#178dc9\",\"breadcrumb-label-color-active\":\"#178dc9\",\"footer-phone-email-color\":\"#ffffff\",\"footer-phone-email-background-color\":\"#00a1cb\",\"mobile_sidebar_trigger\":\"#000000\",\"mobile_sidebar_triggerHover\":\"#178dc9\",\"price_as_low_as\":false,\"restrict_to_login\":false,\"swatch_option_size\":\"22x22\",\"show_geotrust_ssl_seal\":false,\"geotrust_ssl_seal_size\":\"M\",\"show_subcategories\":false,\"bigcommerce_banners\":false},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":{\"header\":null,\"notice\":null,\"message\":null,\"securePath\":\"https://www.perpetualkid.com\",\"password\":null},\"urls\":{\"home\":\"https://www.perpetualkid.com/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\"},\"brands\":\"https://www.perpetualkid.com/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout.php\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":[]},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}}}").load();
                 </script>
 
 
@@ -1104,6 +909,8 @@ var BCData = {};
 
                 <script>
 
+                    //Sticky Navigation
+                    window.stickyNavigation();
 
                     //Lazy Loading Effect
                     window.lazyLoadingEffect();
@@ -1118,6 +925,7 @@ var BCData = {};
                     <!-- END Halo Newsletter Popup -->
 
                 <!-- BEGIN Footer SubscribeForm Validate -->
+
                 <script>
                 $(document).ready(function(){
                     $('#footerSubcribeFormSubmit').submit(function(event){
@@ -1136,38 +944,59 @@ var BCData = {};
                 </script>
                 <!-- END Footer SubscribeForm Validate -->
 
-                
-<script type="text/javascript">
- var gts = gts || [];
- gts.push(["id", "22055"]);
- gts.push(["badge_position", "BOTTOM_RIGHT"]);
- gts.push(["locale", "en_US"]);
- (function() {
-     var gts = document.createElement("script");
-     gts.type = "text/javascript";
-     gts.async = true;
-     gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
-     var s = document.getElementsByTagName("script")[0];
-     s.parentNode.insertBefore(gts, s);
- })();
-</script>
 
-<script type="text/javascript" src="https://cdn8.bigcommerce.com/r-dc9311770c5c5bf0221498ce009b9f22203706e0/javascript/visitor_stencil.js"></script>
+
+                <script src="https://apis.google.com/js/platform.js?onload=renderBadge" async="" defer=""></script>
+
+<script type="text/javascript">
+window.renderBadge = function() {
+    if ("BOTTOM_RIGHT" === "INLINE") {
+        var ratingBadgeContainer = document.getElementById("");
+    } else {
+        var ratingBadgeContainer = document.createElement("div");
+        document.body.appendChild(ratingBadgeContainer);
+    }
+
+    window.gapi.load('ratingbadge', function() {
+        window.gapi.ratingbadge.render(
+            ratingBadgeContainer, {
+                "merchant_id": 7088881,
+                "position": "BOTTOM_RIGHT"
+        });
+    });
+}
+
+</script>
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/r-ff894926d932e8ca6fabb30b3f97db8ab81b6994/javascript/visitor_stencil.js"></script>
+<!-- START Fix -->
+<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+<!-- END Fix -->
+
 <!-- START Stamped.io Widget -->
+
 <script>
 (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.onload=myInit,e.src="//cdn-stamped-io.azureedge.net/files/widget.min.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
 
 function myInit(){ 
+    setTimeout( function(){
 StampedFn.init({ 
 apiKey: 'pubkey-8hUx3Ii048pi5wpvDJ9D338v52230J', 
 storeUrl: 'www.perpetualkid.com'
 });
+}, 1000);
 } 
     
-    setTimeout(function(){
-        var ratingCount = $('meta[itemprop="reviewCount"]').attr('content');
+function addEventListenerStamped(el, eventName, handler) { 
+   if (el.addEventListener) { el.addEventListener(eventName, handler); }
+   else { el.attachEvent('on' + eventName, function () { handler.call(el); }); } 
+}
+
+// Example
+// Listening for reviews widget loaded event
+addEventListenerStamped(document, 'stamped:reviews:loaded', function(e) {
+    var ratingCount = $('meta[itemprop="reviewCount"]').attr('content');
         var ratingValue = $('meta[itemprop="ratingValue"]').attr('content');
-        var inStock = ;
+        var inStock = null;
         inStock = (inStock) ? 'InStock' : '';
         
         var price = '';
@@ -1175,7 +1004,7 @@ storeUrl: 'www.perpetualkid.com'
             "@context": "http://schema.org",
             "@type": "Product",
             "name": "",
-            "image": "https://cdn8.bigcommerce.com/s-iem2p/stencil/8ded7b40-9800-0136-c832-089d3a013ac1/e/2b07c500-9fe0-0136-e3ec-01d67f7fe261/img/ProductDefault.gif",
+            "image": "https://cdn11.bigcommerce.com/s-iem2p/stencil/93df4e30-7a4c-0137-99c2-0242ac110012/e/9126b8e0-8486-0137-0ed2-0242ac110011/img/ProductDefault.gif",
             "brand": {
             "@type": "Thing",
                 "url": "",
@@ -1245,7 +1074,10 @@ storeUrl: 'www.perpetualkid.com'
         document.getElementsByTagName('head')[0].appendChild(org_data);
         document.getElementsByTagName('head')[0].appendChild(website_data);
 
-        },1000);
+              
+});
+        
+              
 </script>
 <link rel="stylesheet" type="text/css" href="//cdn-stamped-io.azureedge.net/files/widget.min.css">
 <!-- End Stamped.io Reviews Widget -->
@@ -1259,14 +1091,14 @@ div.setAttribute('data-product-id',"");
 div.setAttribute('data-name',""); 
 div.setAttribute('data-url', ""); 
 div.setAttribute('data-image-url', "[object Object]"); 
-document.querySelectorAll('.productDescription')[0].appendChild(div); 
+document.querySelectorAll('.customerReviews')[0].appendChild(div); 
 //]]></script>
 <script type="text/javascript">//<![CDATA[ 
 var div = document.createElement("div"); 
 div.setAttribute('id', 'stamped-badge-widget'); 
 div.setAttribute('class', 'stamped-product-reviews-badge stamped-main-badge'); 
 div.setAttribute('data-id',""); 
-document.querySelectorAll('.productView-title')[0].appendChild(div) 
+document.querySelectorAll('.productView-title')[0].after(div) 
 //]]></script>
 <!-- END Stamped.io Product Page Reviews Section Widget -->
 
@@ -1318,7 +1150,7 @@ display: none;
 }
 
 .summary-rating-bar-content {
-    background: #fc9217;
+    background: #ffd700;
     line-height: normal;
     color: #FFFFFF;
     display: flex;
@@ -1347,31 +1179,118 @@ window.sloyalty.customer_email = '';
 <!-- END SLOYALTY-->
 
 
-<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async=""></script>
 <!--Begin InStockNotify Stencil Script -->
-<script src="https://instocknotify.blob.core.windows.net/stencil/73d9d8e5-ce50-41e2-a2a9-61cf1e21b017.js?ts=20233928" type="text/javascript"></script>
-<!--End InStockNotify Stencil Script --><!-- Searchanise -->
-<script src="//www.searchanise.com/widgets/bigcommerce/init.js?api_key=1h4U6w3t5R"></script>
-<!-- Searchanise --><!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5303a21921903a85"></script>
-<script>
-// Check is commerce analytics installed
-var BKCommerceAnalyticsEnable = 0;
+<script src="https://instocknotify.blob.core.windows.net/stencil/73d9d8e5-ce50-41e2-a2a9-61cf1e21b017.js?ts=88341883" type="text/javascript"></script>
+<!--End InStockNotify Stencil Script -->
 
-var bkRawUrl = function(){return window.location.href}();
-(function (doc, scriptPath, apiKey) {
-      if (doc.getElementById(apiKey)) {return;}
-      var sc, node, today=new Date(),dd=today.getDate(),mm=today.getMonth()+1,yyyy=today.getFullYear();if(dd<10)dd='0'+dd;if(mm<10)mm='0'+mm;today=yyyy+mm+dd;
-      window.BKShopApiKey =  apiKey;
-      sc = doc.createElement("script");
-      sc.type = "text/javascript";
-      sc.async = !0;
-      sc.src = scriptPath + '?' + today;
-      sc.id = apiKey;
-      node = doc.getElementsByTagName("script")[0];
-      node.parentNode.insertBefore(sc, node);
-    })(document, 'https://sdk.beeketing.com/js/beeketing.js', '0b4b955f2cd1865c9169851a8d40b1be');
+<!--Begin Sumo Stencil Script -->
+<script async="">(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='058a54075a9c4fd2ff91511241fb8cb7b6613319e3375b516dae478afb5f8edf';j.dataset.sumoPlatform='bigcommerce';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
+<!--EndSumo Stencil Script -->
+
+<script src="https://swymprem.azureedge.net/code/swym-notepad-v2-bigcommerce.js" async=""></script><script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async=""></script>
+<!-- Searchanise -->
+<script src="//www.searchanise.com/widgets/bigcommerce/init.js?api_key=1h4U6w3t5R" async=""></script>
+<!-- Searchanise --><!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5303a21921903a85" async=""></script>
+  <script type="text/javascript">
+  var _support = _support || { 'ui': {}, 'user': {} };
+  _support['user'] = {
+    email: '',
+    name: '',
+  };
+  </script>
+  <script type="text/javascript">
+  if (!document.querySelector('script[src=\'https://cdn.reamaze.com/assets/reamaze.js\']')) {
+    var rmzScript = document.createElement('script');
+    rmzScript.async = true;
+    rmzScript.setAttribute('src', 'https://cdn.reamaze.com/assets/reamaze.js');
+    document.head.appendChild(rmzScript);
+  }
+
+  var _support = _support || { 'ui': {}, 'user': {} };
+  _support['account'] = 'perpetualkid-com';
+  _support['ui']['contactMode'] = 'default';
+  _support['ui']['enableKb'] = 'true';
+  _support['ui']['styles'] = {
+    widgetColor: 'rgba(72, 173, 200, 1)',
+  };
+  _support['ui']['widget'] = {
+    icon: 'chat',
+    label: {
+      text: 'Let us know if you have any questions! &#128522;',
+      mode: "notification",
+      delay: 15,
+      duration: 30,
+      sound: true,
+    },
+    position: 'bottom-left',
+  };
+  _support['apps'] = {
+    faq: {"enabled":false},
+    recentConversations: {},
+    orders: {"enabled":true}
+  };
+</script><script>
+    function swymCallbackFn(){
+        if (!window.swymThemeConfig) {
+            window.swymThemeConfig = {};
+        }
+        window.swymThemeConfig.defaultBCWishlistBtnSelector = 'form[data-wishlist-add] button[type="submit"]';
+        window.swymThemeConfig.customWishlistCtaSelector = 'form[data-wishlist-add] button[type="submit"] span';
+    }
+    if(!window.SwymCallbacks){
+        window.SwymCallbacks = [];
+    }
+    window.SwymCallbacks.push(swymCallbackFn);
 </script>
- 
+<script type="text/javascript">
+									 var swrv = {}; 
+									 swrv.store = 33;
+			</script><script type="text/javascript" id="swym-js-page-context">
+
+
+
+
+
+
+
+
+  
+  
+ var swymproduct = {};
+
+
+(function() {
+  window.swymJSObject = {
+    pid: "UopfYKLBoFv1NTOI4urbXKWBl3poXWCkxCRjNHlVonI=",
+    storeHash: "iem2p"
+  };
+  window.getSwymPageContext = function() {
+    var pageData = JSON.parse("{\"swym_pagetype\":\"page\",\"swym_cart\":[],\"swym_custid\":null,\"swym_wls\":null,\"swym_breadcrumbs\":[{\"url\":\"https://www.perpetualkid.com/\",\"name\":\"Home\"},{\"name\":\"Privacy Policy\",\"pageid\":\"18\",\"url\":\"https://www.perpetualkid.com/privacy-policy/\"}],\"et\":0}");
+    pageData.swym_product = swymproduct;
+    return pageData;
+  };
+  window.swymJSBCLoad = function() {
+    window.SwymPageContext = window.getSwymPageContext();
+    if(!window._swat) {
+      (function (s, w, r, e, l, a, y) {
+        r['SwymRetailerConfig'] = s;
+        r[s] = r[s] || function (k, v) {
+          r[s][k] = v;
+        };
+      })('_swrc', '', window);
+      _swrc('RetailerId', swymJSObject.pid);
+      _swrc('Callback', function(){initSwymBC();});
+    } else if(window._swat.postLoader) {
+      _swrc = window._swat.postLoader;
+      _swrc('RetailerId', swymJSObject.pid);
+      _swrc('Callback', function(){initSwymBC();});
+    } else {
+      initSwymBC();
+    }
+  };
+  swymJSBCLoad();
+})();
+</script>
                 <!-- snippet location footer -->
 
             </div>
