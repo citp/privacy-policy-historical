@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glutenfreeonashoestring.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102235617id_/https%3A//glutenfreeonashoestring.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glutenfreeonashoestring.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709051224id_/https%3A//glutenfreeonashoestring.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ Great gluten free recipes for every occasion.
+# Privacy Policy | Great gluten free recipes for every occasion.
 
 This privacy policy sets out how Gluten Free on a Shoestring uses and protects any information that you give while using www.glutenfreeonashoestring.com
 
