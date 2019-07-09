@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findallwords.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804054644id_/http%3A//www.findallwords.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findallwords.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709115452id_/http%3A//www.findallwords.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
