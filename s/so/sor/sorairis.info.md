@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorairis.info privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509165249id_/http%3A//sorairis.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorairis.info privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710005204id_/http%3A//sorairis.info/privacy) for the most accurate reproduction.*
 
 # privacy – sorairis.info
 
