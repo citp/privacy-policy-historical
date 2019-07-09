@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didyouknowblog.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003184947id_/http%3A//didyouknowblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didyouknowblog.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709045015id_/http%3A//didyouknowblog.com/privacy-policy) for the most accurate reproduction.*
 
 # did you know? - © Did You Know? 2015 - Privacy Policy and Copyright
 
