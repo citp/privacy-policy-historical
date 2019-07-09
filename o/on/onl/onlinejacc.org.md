@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinejacc.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403034252id_/http%3A//www.acc.org/footer-pages/privacy-policy%3F_ga%3D1.194751727.352761073.1452622978) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejacc.org privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709052134id_/http%3A//www.acc.org/footer-pages/privacy-policy%3F_ga%3D1.194751727.352761073.1452622978) for the most accurate reproduction.*
 
 # Privacy Policy - American College of Cardiology
 
