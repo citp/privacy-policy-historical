@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cincyshopper.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115055740id_/https%3A//cincyshopper.com/%3Fpage_id%3D2047) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincyshopper.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709044543id_/https%3A//cincyshopper.com/%3Fpage_id%3D2047) for the most accurate reproduction.*
 
 # Privacy Policy - CincyShopper
 
@@ -32,7 +32,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
 
-(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+(c) [http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/) (Opera);
 
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
@@ -73,7 +73,3 @@ We may change this Privacy Policy from time to time. The most recent version of 
 Contacting Us
 
 If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at jen@cincyshopper.com
-
-##  NEVER MISS MY RECIPES!
-
-Join my email list. Receive new posts and recipes via email:
