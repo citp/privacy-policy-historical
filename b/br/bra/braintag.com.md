@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braintag.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622165829id_/http%3A//www.braintag.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintag.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709190337id_/http%3A//braintag.com/page-privacy.html) for the most accurate reproduction.*
 
 # Analytics & Tracking Systems - Privacy policy
 
