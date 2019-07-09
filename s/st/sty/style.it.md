@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the style.it privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626033617id_/https%3A//www.farfetch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the style.it privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709181702id_/https%3A//www.farfetch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Farfetch
-
-**FARFETCH GROUP PRIVACY POLICY (“PRIVACY POLICY”)**
 
 LAST UPDATED: 24TH MAY 2018
 
@@ -16,7 +14,7 @@ This Privacy Policy provides information on how we collect and use personal data
 
 This Privacy Policy sets out the information that we collect, the reasons for which we collect that information, and how we can use and share that information. 
 
-The Website and the services provided by Farfetch are not intended to be used by children. If you have any questions about this Privacy Policy, including any requests to exercise your legal rights, you can contact the Farfetch Data Protection Officer at [privacy@farfetch.com](https://web.archive.org/web/20180626033617id_/https%3A//www.farfetch.com/privacy@farfetch.com). 
+The Website and the services provided by Farfetch are not intended to be used by children. If you have any questions about this Privacy Policy, including any requests to exercise your legal rights, you can contact the Farfetch Data Protection Officer at [privacy@farfetch.com](https://web.archive.org/web/20190709181702id_/https%3A//www.farfetch.com/privacy@farfetch.com). 
 
 **2\. THIRD PARTY WEBSITES**
 
@@ -143,7 +141,7 @@ If you want to delete any cookies that are already on your computer, please refe
 
 You can withdraw your consent to these cookies at any time through the following options:
 
-• Google Analytics cookies across all websites, please visit Google Analytics Opt-out Browser Add-on; • other third party cookies relating to behavioural advertising, please go to [www.aboutads.info](https://web.archive.org/web/20180626033617id_/https%3A//www.farfetch.com/www.aboutads.info). • any other type of cookies, you can clean the cookies through your browser settings.
+• Google Analytics cookies across all websites, please visit Google Analytics Opt-out Browser Add-on; • other third party cookies relating to behavioural advertising, please go to [www.aboutads.info](https://web.archive.org/web/20190709181702id_/https%3A//www.farfetch.com/www.aboutads.info). • any other type of cookies, you can clean the cookies through your browser settings.
 
 Please note that refusing cookies does not mean you will no longer receive online advertising. It does mean that the company or companies from which you opted out will no longer deliver adverts tailored to your web preferences and usage patterns, so you may see a greater number of adverts that are irrelevant to you and your preferences.
 
@@ -169,7 +167,7 @@ After you have terminated your use of our services, we may store your informatio
 
 **10\. WHAT ARE MY PRIVACY RIGHTS?**
 
-You have certain rights in relation to the personal data we hold about you, which we detail below. Some of these only apply in certain circumstances as set out in more detail below. We also set out how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights and that can include asking a set of security questions to ensure it is you. When you have appointed someone else to do the request on your behalf, that person and/or organization needs to show a valid power of attorney issued by you. We must respond to a request by you to exercise those rights without undue delay and at least within one month (although this may be extended by a further two months in certain circumstances). To exercise any of your rights, please contact us at [privacy@farfetch.com](https://web.archive.org/web/20180626033617id_/https%3A//www.farfetch.com/privacy@farfetch.com) or by writing to Data Protection Officer, at The Bower, 4th Floor, 211 Old Street, London EC1V 9NR. 
+You have certain rights in relation to the personal data we hold about you, which we detail below. Some of these only apply in certain circumstances as set out in more detail below. We also set out how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights and that can include asking a set of security questions to ensure it is you. When you have appointed someone else to do the request on your behalf, that person and/or organization needs to show a valid power of attorney issued by you. We must respond to a request by you to exercise those rights without undue delay and at least within one month (although this may be extended by a further two months in certain circumstances). To exercise any of your rights, please contact us at [privacy@farfetch.com](https://web.archive.org/web/20190709181702id_/https%3A//www.farfetch.com/privacy@farfetch.com) or by writing to Data Protection Officer, at The Bower, 4th Floor, 211 Old Street, London EC1V 9NR. 
 
 • **Access.** You have the right to know whether we process personal data about you, and if we do, to access data we hold about you and certain information about how we use it and who we share it with (including the categories of personal data we share with businesses for their direct marketing uses and the names and addresses of those businesses). Please note that in “My Account” dashboards, you can see information about you, namely your account details (such as name, email, phone number, date of birth), the addresses you use for billing and shipping, your order history and shopping preferences. 
 
@@ -224,7 +222,7 @@ You also have the right to object to our processing of data about you and we wil
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
-• by emailing us at [privacy@farfetch.com](https://web.archive.org/web/20180626033617id_/https%3A//www.farfetch.com/privacy@farfetch.com); or • by writing to the Data Protection Officer, at The Bower, 4th Floor, 211 Old Street, London EC1V 9NR. 
+• by emailing us at [privacy@farfetch.com](https://web.archive.org/web/20190709181702id_/https%3A//www.farfetch.com/privacy@farfetch.com); or • by writing to the Data Protection Officer, at The Bower, 4th Floor, 211 Old Street, London EC1V 9NR. 
 
 This is without prejudice to your right to launch a claim with the Information Commissioner’s Office (www.ico.org.uk) or the data protection supervisory authority in the EU country in which you live or work where you think we have infringed data protection laws.”
 
