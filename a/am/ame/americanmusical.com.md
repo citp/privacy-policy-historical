@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417044321id_/https%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709133829id_/https%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy at AmericanMusical.com
 
