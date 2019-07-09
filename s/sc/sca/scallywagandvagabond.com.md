@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scallywagandvagabond.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331052013id_/https%3A//scallywagandvagabond.com/about-this-scallywag/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scallywagandvagabond.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709105951id_/https%3A//scallywagandvagabond.com/about-this-scallywag/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
