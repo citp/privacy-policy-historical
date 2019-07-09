@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kempinski.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327175711id_/https%3A//www.kempinski.com/en/hotels/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kempinski.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709152214id_/https%3A//www.kempinski.com/en/hotels/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kempinski Hotels
 
