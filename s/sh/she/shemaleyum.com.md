@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shemaleyum.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123193145id_/http%3A//www.groobygirls.com/compliance/privacypolicy.php%3Fsite%3DGroobyGirls) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemaleyum.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709124939id_/https%3A//www.groobygirls.com/compliance/privacypolicy.php%3Fsite%3DGroobyGirls) for the most accurate reproduction.*
 
-# GroobyGirls - GDPR Policy
+# GroobyGirls GDPR Policy
 
 GDPR PRIVACY POLICY
 
