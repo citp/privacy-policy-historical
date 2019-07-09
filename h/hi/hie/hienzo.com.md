@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hienzo.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218042041id_/http%3A//www.hienzo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hienzo.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709060533id_/https%3A//www.hienzo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hienzo.com
 
 **Privacy Policy for hienzo.com/**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [Contact us](http://www.hienzo.com/contact-us).
+If you require any more information or have any questions about our privacy policy, please feel free to [Contact us](https://www.hienzo.com/contact-us).
 
 At hienzo.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by hienzo.com and how it is used.
 
@@ -17,7 +17,7 @@ hienzo.com does use cookies to store information about visitors preferences, rec
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on hienzo.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to hienzo.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
