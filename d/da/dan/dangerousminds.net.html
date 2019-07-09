@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dangerousminds.net privacy policy that was archived on 2019-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330153922id_/https%3A//dangerousminds.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dangerousminds.net privacy policy that was archived on 2019-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190709220132id_/https%3A//dangerousminds.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html itemscope="" itemtype="http://schema.org/Article" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -58,11 +58,11 @@
 </script>
 <link href="https://fonts.googleapis.com/css?family=Oswald:400,500,700" rel="stylesheet">
 <link href="https://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" media="all" href="/content/css/default.css?i=1">
-<link rel="stylesheet" type="text/css" media="all" href="/content/css/hamburgers.css?i=1">
-<link rel="stylesheet" type="text/css" media="all" href="/content/css/styles.css?i=1">
-<link rel="stylesheet" href="/content/css/social-share-kit.css?i=1" type="text/css">
-<link rel="stylesheet" href="/content/css/responsive.css?i=1" type="text/css">
+<link rel="stylesheet" type="text/css" media="all" href="/content/css/default.css?i=2">
+<link rel="stylesheet" type="text/css" media="all" href="/content/css/hamburgers.css?i=2">
+<link rel="stylesheet" type="text/css" media="all" href="/content/css/styles.css?i=2">
+<link rel="stylesheet" href="/content/css/social-share-kit.css?i=2" type="text/css">
+<link rel="stylesheet" href="/content/css/responsive.css?i=2" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="https://feeds.feedburner.com/dangerousminds/dot/net">
 <link rel="alternate" type="application/atom+xml" title="Atom" href="https://dangerousminds.net/site/atom">
 <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5c2e31d38052f3001140e1ab&amp;product=social-ab" async="async"></script>
@@ -249,7 +249,7 @@ if (skin_show) {
 }
 </script>
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-<script type="text/javascript" src="/content/js/site.js?i=1"></script>
+<script type="text/javascript" src="/content/js/site.js?i=2"></script>
 
 <script class="kxct" data-id="Jxmq4_BT" data-timing="async" data-version="3.0" type="text/javascript">
         window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
@@ -292,7 +292,7 @@ if (skin_show) {
             js.src = "https://embed-prod.vemba.io/vemba-embed.js";
             js.onload = function() {
                 var target = document.querySelector(sel);
-                let override = {
+                var override = {
                     autoplay: true,
                     mute_on_start: true,
                     autoplay_trigger: {
@@ -377,11 +377,17 @@ if (skin_show) {
                 }
                 //}
                 sel = sel1 + ' ' + sel2;
+
+            } else if (style==="in-paragraphs-last") {
+                sel = '#blog .entry #text';
+
             } else if (style==="between-posts") {
                 sel = "#blog .entry:nth-child(1)";
                 if ($(sel).length===0) {
                     sel = "#blog .entry";
                 }
+            } else if (style==="between-posts2") {
+                sel = "#blog .entry:nth-child(7)";
             }
             //console.log ( style + ' : ' + sel);
             return sel;
@@ -391,14 +397,14 @@ if (skin_show) {
 
         $( document ).ready(function() {
             //if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-            var thehtml = '<div class="entry"><div class="entry_inner">';
+
+            //FIRST
+            var thehtml = '<div attr="vemba" class="entry"><div class="entry_inner">';
             thehtml += '<div style="font-family:Helvetica,sans-serif;font-weight:bold;text-transform:uppercase;font-size:15px;padding-top:15px;padding-bottom:0px;border-bottom:0px solid black;margin-bottom:17px;"></div>';
             var venmba_rand = Date.now();
             thehtml += '<div id="vemba-holder-' + venmba_rand + '"></div>';
-
             thehtml += "</div></div>";
-
-
+            //
             var sel = getVembaSelector("between-posts");
             var did_it = false;
             $( sel ).each(function( index ) {
@@ -410,6 +416,27 @@ if (skin_show) {
                     //console.log ( this);
                 }
             });
+
+
+            //SECOND
+            var thehtml = '<div attr="vemba" class="entry"><div class="entry_inner">';
+            thehtml += '<div style="font-family:Helvetica,sans-serif;font-weight:bold;text-transform:uppercase;font-size:15px;padding-top:15px;padding-bottom:0px;border-bottom:0px solid black;margin-bottom:17px;"></div>';
+            var venmba_rand = Date.now();
+            thehtml += '<div id="vemba-holder-' + venmba_rand + '"></div>';
+            thehtml += "</div></div>";
+            //
+            var sel = getVembaSelector("between-posts2");
+            var did_it = false;
+            $( sel ).each(function( index ) {
+                if (did_it===false) {
+                    $(thehtml).insertAfter( this );
+                    var vembaid = getVembaID();
+                    newVembaInset('#vemba-holder-'+venmba_rand,vembaid);
+                    did_it=true;
+                }
+            });
+
+
             //}
         });
 
@@ -469,7 +496,7 @@ if (skin_show) {
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="107">
 <input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="fc432fe8e45efed5af7fd5b7ecf8e4d11bd60dd7">
+<input type="hidden" name="csrf_token" value="0c898b5883f5e615d071e55a36cc817f5da19b3e">
 </div>
 <input type="text" name="keywords" onfocus="this.value=''" value="SEARCH" class="sbinput" size="18" maxlength="100" onunfocus="send()">
 </form>
@@ -520,7 +547,7 @@ if (skin_show) {
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="107">
 <input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="fc432fe8e45efed5af7fd5b7ecf8e4d11bd60dd7">
+<input type="hidden" name="csrf_token" value="0c898b5883f5e615d071e55a36cc817f5da19b3e">
 </div>
 <input type="text" name="keywords" onfocus="this.value=''" value="SEARCH" class="sbinput" size="18" maxlength="100" onunfocus="send()">
 </form>
@@ -638,52 +665,23 @@ Privacy Policy
 </div></div>
 <div id="clear"></div>
 <div id="catinfo">
-<strong>03.29.2019</strong>
+<strong>07.09.2019</strong>
 </div>
 <div id="text">
 <p>
-Dangerous Minds is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy applies to Dangerous Minds advertising products and services (our "Service"), as well as our company websites located at http://dangerousminds.net/ (our "Websites").
-</p>
-<h2>Website Data Collection</h2>
-<p>
-Dangerous Minds is the sole owner of the information collected on our Websites. The information may consist of both Personally Identifiable Information ("PII") and Non-Personally Identifiable Information ("Non-PII"), and is collected in order to conduct business with current and prospective business clients. We do not sell or rent data collected via our Websites to other parties, but we may provide it to third-parties as necessary to conduct our business operations and for the performance of our Services with our customers. Dangerous Minds collects this data and uses it to provide requested information to prospective clients, to establish self-service advertiser and publisher accounts, and otherwise as necessary to conduct our business. Our Websites may contain links to other websites, such as sites providing news coverage of the company, to partner sites for case studies, and to industry association sites of which Dangerous Minds is a member. Dangerous Minds is not responsible for the privacy practices of these third-party websites.
-</p>
-<h2>Data Collected On Our Platform</h2>
-<p>
-Dangerous Minds collects data from across its Platform. This data, which may include anonymous identifiers such as cookies, do not identify you personally, and may come from such sources like your web browser. We use this Non-PII along with our technology to perform a variety of tasks, such as limiting the number of times a specific advertisement is presented to the browser (frequency capping), providing an advertisement to only certain types of browsers, or providing a report to a client on the number of its advertisements that were clicked. We may share this Non-PII with clients, vendors, and other companies that we conduct business with. We may also use some of this data to provide interest-based advertising, as discussed more fully below.
-</p>
-<h2>Interest-Based Advertising and Opt Out</h2>
-<p>
-Dangerous Minds works with its clients to provide ads that are likely to be more interesting and more relevant to their users. One way we do this is by using our technology, along with Non-PII related to your browser that is gathered across different sources. Examples of this data, which does not identify you personally (Non-PII), may include things like websites you have visited, or location information. We refer to this as interest-based advertising. For information regarding available choices for Opting Out of Dangerous Minds's use of this data for interest-based advertising across our Platform, click here.
-</p>
-<h2>Third-Party Websites</h2>
-<p>
-We may provide ads that link to third-party sites, or other third-party content ("Third-Party Content"). This Privacy Policy does not extend to Third-Party Content, or any services offered on Third-Party Content.
-</p>
-<h2>Data Collection On Behalf Of Third-Parties</h2>
-<p>
-We may, on behalf of our clients, collect information from end users. This may occur, for example, if someone submits information in response to an ad that we provide on behalf of an advertising client. Such information may consist of PII, non-PII, or both. In such situations, we collect the information and provide it to our client, and it will be subject to such client's privacy practices.
-</p>
-<h2>Children's Privacy</h2>
-<p>
-Dangerous Minds is very sensitive to the issue of children's privacy. Dangerous Minds’s websites, products, and services are not developed for, or directed at, children under the age of 13. If you believe your child has provided Dangerous Minds with personally identifiable data, or registered at one of Dangerous Minds’s websites, and you would like to have the data removed, please contact us using the contact info below.
-</p>
-<h2>Security</h2>
-<p>
-Dangerous Minds takes steps to protect the security of information that we collect. To that end, we have designed and deployed hardware, software, and networking solutions in an effort to reasonably secure and protect access to our systems and data.
-</p>
-<h2>Legal Disclaimer</h2>
-<p>
-We may need to disclose information, including PII, when in our good-faith judgment we are required to do so by law, or when such action is necessary to comply with a current judicial proceeding, a court order or legal process. We may also transfer all or some of the data discussed in this policy, in connection with a corporate merger, acquisition, sale of assets, bankruptcy, or other corporate change.
-</p>
-<h2>Changes to Privacy Policy</h2>
-<p>
-Dangerous Minds is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that any changes that we believe are material are made to the company's privacy practices, we will post a revised Privacy Policy on this website.
-</p>
-<h2>Contact</h2>
-<p>
-Any questions or concerns may be directed to hello@dangerousminds.net.
-</p>
+Dangerous Minds is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy applies to Dangerous Minds advertising products and services (our "Service"), as well as our company websites located at
+<a href="https://dangerousminds.net/">http://dangerousminds.net/</a> (our "Websites").</p><h2>Website Data Collection</h2><p>
+Dangerous Minds is the sole owner of the information collected on our Websites. The information may consist of both Personally Identifiable Information ("PII") and Non-Personally Identifiable Information ("Non-PII"), and is collected in order to conduct business with current and prospective business clients. We do not sell or rent data collected via our Websites to other parties, but we may provide it to third-parties as necessary to conduct our business operations and for the performance of our Services with our customers. Dangerous Minds collects this data and uses it to provide requested information to prospective clients, to establish self-service advertiser and publisher accounts, and otherwise as necessary to conduct our business. Our Websites may contain links to other websites, such as sites providing news coverage of the company, to partner sites for case studies, and to industry association sites of which Dangerous Minds is a member. Dangerous Minds is not responsible for the privacy practices of these third-party websites.</p><h2>Data Collected On Our Platform</h2><p>
+Dangerous Minds collects data from across its Platform. This data, which may include anonymous identifiers such as cookies, do not identify you personally, and may come from such sources like your web browser. We use this Non-PII along with our technology to perform a variety of tasks, such as limiting the number of times a specific advertisement is presented to the browser (frequency capping), providing an advertisement to only certain types of browsers, or providing a report to a client on the number of its advertisements that were clicked. We may share this Non-PII with clients, vendors, and other companies that we conduct business with. We may also use some of this data to provide interest-based advertising, as discussed more fully below.</p><h2>Interest-Based Advertising and Opt Out</h2><p>
+Dangerous Minds works with its clients to provide ads that are likely to be more interesting and more relevant to their users. One way we do this is by using our technology, along with Non-PII related to your browser that is gathered across different sources. Examples of this data, which does not identify you personally (Non-PII), may include things like websites you have visited, or location information. We refer to this as interest-based advertising. For information regarding available choices for Opting Out of Dangerous Minds's use of this data for interest-based advertising across our Platform, click here.</p><h2>Third-Party Websites</h2><p>
+We may provide ads that link to third-party sites, or other third-party content ("Third-Party Content"). This Privacy Policy does not extend to Third-Party Content, or any services offered on Third-Party Content.</p><h2>Data Collection On Behalf Of Third-Parties</h2><p>
+We may, on behalf of our clients, collect information from end users. This may occur, for example, if someone submits information in response to an ad that we provide on behalf of an advertising client. Such information may consist of PII, non-PII, or both. In such situations, we collect the information and provide it to our client, and it will be subject to such client's privacy practices.</p><h2>Children's Privacy</h2><p>
+Dangerous Minds is very sensitive to the issue of children's privacy. Dangerous Minds’s websites, products, and services are not developed for, or directed at, children under the age of 13. If you believe your child has provided Dangerous Minds with personally identifiable data, or registered at one of Dangerous Minds’s websites, and you would like to have the data removed, please contact us using the contact info below.</p><h2>Security</h2><p>
+Dangerous Minds takes steps to protect the security of information that we collect. To that end, we have designed and deployed hardware, software, and networking solutions in an effort to reasonably secure and protect access to our systems and data.</p><h2>Legal Disclaimer</h2><p>
+We may need to disclose information, including PII, when in our good-faith judgment we are required to do so by law, or when such action is necessary to comply with a current judicial proceeding, a court order or legal process. We may also transfer all or some of the data discussed in this policy, in connection with a corporate merger, acquisition, sale of assets, bankruptcy, or other corporate change.</p><h2>Changes to Privacy Policy</h2><p>
+Dangerous Minds is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that any changes that we believe are material are made to the company's privacy practices, we will post a revised Privacy Policy on this website.</p><h2>Reporting Copyright and other Intellectual Property</h2><p>&nbsp;You may not use the Dangerous Minds for any purpose or in any manner that infringes the rights of any third party. We encourage you to report any content on the site that you believe infringes your rights. Only the intellectual property rights owner or person authorized to act on behalf of the owner can report potentially infringing content. If you have a good faith belief that content on the site infringe your copyright, trademark, or other intellectual property rights, please follow the procedures set forth below.</p><p>In accordance with the Digital Millennium Copyright Act of 1998 (the "DMCA"), we have a designated agent for receiving notices of copyright infringement and Dangerous Minds follows the notice and take down procedures of the DMCA. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our copyright agent the following information required by the Online Copyright Infringement Liability Limitation Act of the DMCA, 17 U.S.C. 512: (a) a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (b) identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site; (c) identification of the material that is claimed to be infringing or to be the subject of infringing activity and information reasonably sufficient to permit us to locate the material; (d) information reasonably sufficient to permit us to contact the complaining party; (e) a statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (f) a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</p><p>If you believe that any content on the Sites violate your rights other than copyrights, please provide us with at least the following information: (a) a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (b) identification of the material that is claimed to be infringing or to be the subject of infringing activity and information reasonably sufficient to permit us to locate the material; (c) an explanation of what rights you own/have and why you believe the content infringes your rights sufficient for us to evaluate your complaint; and (d) accurate contact information for you.</p><p>Notice of claims of copyright or other intellectual property infringement must be sent to our Copyright Agent:&nbsp;</p><p>Email: hello AT dangerousminds.net</p><p>Please note that this procedure is exclusively for notifying us of claims that your copyrighted material or other intellectual property has been infringed.</p><p>We have a policy of terminating the accounts of users who (in our reasonable discretion) are repeat infringers.</p><p>It is often difficult to determine if your intellectual property rights have been violated or if the DMCA requirements have been met. We may request additional information before we remove any infringing material. If a dispute develops as to the correct owner of the rights in question, we reserve the right to remove your content along with that of the alleged infringer pending resolution of the matter.</p><p>Dangerous will provide you with notice if your materials have been removed based on a third party complaint of alleged infringement of the third party's intellectual property rights.
+&nbsp;</p><h2>Contact</h2><p>
+Any questions or concerns may be directed to hello@dangerousminds.net.</p>
 <div id="doubleline"></div>
 </div>
 <div class="posted">
@@ -773,13 +771,13 @@ googletag.cmd.push(function() {googletag.display('Mobile_MedRec_1');});
 <div id="sidebox">
 <div id="featuredside"><span>FEATURED ARTICLES</span></div>
 <ul>
-<li><a href="https://dangerousminds.net/comments/oliver_reed_as_a_prototype_alex_from_a_clockwork_orange_in_these_are_the_da" alt="Oliver Reed as a prototype Alex from ‘A Clockwork Orange’ in ‘These are the Damned’ | Dangerous Minds" class="feat-side">Oliver Reed as a prototype Alex from ‘A Clockwork Orange’ in ‘These are the Damned’</a></li>
-<li><a href="https://dangerousminds.net/comments/that_time_elton_john_crashed_a_stooges_show_wearing_a_gorilla_outfit" alt="That time Elton John crashed a Stooges show wearing a gorilla outfit | Dangerous Minds" class="feat-side">That time Elton John crashed a Stooges show wearing a gorilla outfit</a></li>
-<li><a href="https://dangerousminds.net/comments/lydia_lunch_and_penn_teller_in_barbecue_death_squad_from_hell_directe" alt="Lydia Lunch and Penn &amp; Teller in ‘Barbecue Death Squad from Hell,’ directed by Michael Nesmith | Dangerous Minds" class="feat-side">Lydia Lunch and Penn &amp; Teller in ‘Barbecue Death Squad from Hell,’ directed by Michael Nesmith</a></li>
-<li><a href="https://dangerousminds.net/comments/fangoria_editors_amazing_collection_of_classic_trash_horror_film_ads" alt="Fangoria editor’s amazing collection of classic trash horror film ads | Dangerous Minds" class="feat-side">Fangoria editor’s amazing collection of classic trash horror film ads</a></li>
-<li><a href="https://dangerousminds.net/comments/lux_interior_ten_years_gone_but_his_bones_keep_rockin_unheard_1981_intervie" alt="Lux Interior: Ten years gone, but his bones keep rockin’! Unheard 1981 interview! | Dangerous Minds" class="feat-side">Lux Interior: Ten years gone, but his bones keep rockin’! Unheard 1981 interview!</a></li>
-<li><a href="https://dangerousminds.net/comments/kool_keith_remixed_by_a_member_of_the_locust_a_dm_music_video_premiere" alt="‘Blast’: Kool Keith remixed by Planet B, featuring a member of the Locust (a music video premiere!) | Dangerous Minds" class="feat-side">‘Blast’: Kool Keith remixed by Planet B, featuring a member of the Locust (a music video premiere!)</a></li>
-<li><a href="https://dangerousminds.net/comments/the_horror_film_that_inspired_billy_idols_eyes_without_a_face_how_he_almost" alt="The horror film that inspired Billy Idol’s ‘Eyes Without a Face’ &amp; how he almost lost his eyeballs | Dangerous Minds" class="feat-side">The horror film that inspired Billy Idol’s ‘Eyes Without a Face’ &amp; how he almost lost his eyeballs</a></li>
+<li><a href="https://dangerousminds.net/comments/emerson_lake_palmer_love_em_or_hate_em" alt="Emerson, Lake &amp; Palmer: Love ‘em or hate ‘em? | Dangerous Minds" class="feat-side">Emerson, Lake &amp; Palmer: Love ‘em or hate ‘em?</a></li>
+<li><a href="https://dangerousminds.net/comments/dont_watch_alone_the_donts_rather_than_the_dos_of_movie_posters" alt="Don’t Watch Alone: The ‘Don’ts’ rather than the ‘Do’s’ of Movie Posters | Dangerous Minds" class="feat-side">Don’t Watch Alone: The ‘Don’ts’ rather than the ‘Do’s’ of Movie Posters</a></li>
+<li><a href="https://dangerousminds.net/comments/attention_rock_snobs_dig_luke_haines_righteous_in_the_afternoon_outsider_mu" alt="Attention rock snobs: Dig Luke Haines’ righteous outsider rock &amp; roll radio show | Dangerous Minds" class="feat-side">Attention rock snobs: Dig Luke Haines’ righteous outsider rock &amp; roll radio show</a></li>
+<li><a href="https://dangerousminds.net/comments/the_man_who_fell_to_earth_david_bowie_tries_to_fly_on_stage_fails_1973" alt="The Man Who Fell to Earth: David Bowie tries to fly, fails, 1973 | Dangerous Minds" class="feat-side">The Man Who Fell to Earth: David Bowie tries to fly, fails, 1973</a></li>
+<li><a href="https://dangerousminds.net/comments/obscure_occult_horror_film_gem_dark_august_1976_with_a_dm_premiere" alt="Obscure occult horror film gem, ‘Dark August,’ 1976 (with a DM premiere) | Dangerous Minds" class="feat-side">Obscure occult horror film gem, ‘Dark August,’ 1976 (with a DM premiere)</a></li>
+<li><a href="https://dangerousminds.net/comments/rebel_without_applause_that_time_john_gielgud_got_busted_for_cruising" alt="Rebel Without Applause: That time Sir John Gielgud got busted for cruising | Dangerous Minds" class="feat-side">Rebel Without Applause: That time Sir John Gielgud got busted for cruising</a></li>
+<li><a href="https://dangerousminds.net/comments/the_blissful_80s_power_pop_of_julian_leal" alt="The blissful ‘80s power pop of Julian Leal | Dangerous Minds" class="feat-side">The blissful ‘80s power pop of Julian Leal</a></li>
 </ul>
 </div>
 <div id="sidead2">
@@ -843,8 +841,8 @@ googletag.cmd.push(function() {googletag.display('Mobile_MedRec_1');});
 </script>
 <script type="text/javascript" src="https://assets.pinterest.com/js/pinit.js"></script>
 <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
-<script type="text/javascript" src="/content/js/jquery.colorbox-min.js?i=1"></script>
-<script type="text/javascript" src="/content/js/footer.js?i=1"></script>
+<script type="text/javascript" src="/content/js/jquery.colorbox-min.js?i=2"></script>
+<script type="text/javascript" src="/content/js/footer.js?i=2"></script>
 <script id="dsq-count-scr" src="https://dangerminds.disqus.com/count.js" async=""></script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
