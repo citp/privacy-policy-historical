@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrad.io privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408032942id_/https%3A//bitrad.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrad.io privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709222252id_/https%3A//bitrad.io/privacy) for the most accurate reproduction.*
 
 # Listen to music around the world and earn cryptocurrency
 
