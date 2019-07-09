@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ginva.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622100011id_/http%3A//ginva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ginva.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709144547id_/http%3A//ginva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ginva
 
