@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anarieldesign.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920223247id_/https%3A//www.anarieldesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anarieldesign.com privacy policy that was archived on 2019-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190709190212id_/https%3A//www.anarieldesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anariel Design
 
