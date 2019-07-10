@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangatown.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605174339id_/http%3A//www.mangatown.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangatown.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710151705id_/http%3A//www.mangatown.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy on MangaTown. Read Free Manga Online at MangaTown.com
 
