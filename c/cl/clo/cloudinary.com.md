@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610211348id_/https%3A//cloudinary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710155653id_/https%3A//cloudinary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloudinary
 
@@ -10,43 +10,43 @@ The summary of this policy will give you a quick and clear view of our practices
 
 ## A Summary of The Policy
 
-**The Personally Identifiable Information That You Provide Us**  – We receive and store any information you enter on our website or give us in any other way. If you register with the Service we will need your name, your company name, email address and password, for registration and notice purposes; your payment details to process your payment for the service and we will receive any personally identifiable information that you provide when contacting us. Read more.
+ **The Personally Identifiable Information That You Provide Us**  – We receive and store any information you enter on our website or give us in any other way. If you register with the Service we will need your name, your company name, email address and password, for registration and notice purposes; your payment details to process your payment for the service and we will receive any personally identifiable information that you provide when contacting us. Read more.
 
-**The Personally Identifiable Information That We Collect**  – We automatically log ‘traffic/session’ information including IP addresses and user agent. We collect session durations and additional activity information. Read more.
+ **The Personally Identifiable Information That We Collect**  – We automatically log ‘traffic/session’ information including IP addresses and user agent. We collect session durations and additional activity information. Read more.
 
-**The Personally Identifiable Information That You Upload**  – You can upload content with personally identifiable information. Please use caution and do not upload personally identifiable information of others without their appropriate consent. Read more.
+ **The Personally Identifiable Information That You Upload**  – You can upload content with personally identifiable information. Please use caution and do not upload personally identifiable information of others without their appropriate consent. Read more.
 
-**What Do We Do With Personally Identifiable Information?**  – We maintain the Service, make it better and continue developing it, and protect us and the Service from misuse and law violations. Read more.
+ **What Do We Do With Personally Identifiable Information?**  – We maintain the Service, make it better and continue developing it, and protect us and the Service from misuse and law violations. Read more.
 
-**Sharing Information with Others**  – We use service providers, for example, to process payments and send email messages. We will transfer information when we change our corporate structure, and we will share the information with our affiliate entities. Read more.
+ **Sharing Information with Others**  – We use service providers, for example, to process payments and send email messages. We will transfer information when we change our corporate structure, and we will share the information with our affiliate entities. Read more.
 
-**Disclosure of Information to Authorities**  – We will obey orders and other lawful requirements by authorities to disclose information. Read more.
+ **Disclosure of Information to Authorities**  – We will obey orders and other lawful requirements by authorities to disclose information. Read more.
 
-**Aggregated and Analytical Information**  – Aggregated data is not identifiable. We use it for legitimate business purposes and for standard analytical tools. Read more.
+ **Aggregated and Analytical Information**  – Aggregated data is not identifiable. We use it for legitimate business purposes and for standard analytical tools. Read more.
 
-**Your Choice**  – You may opt-out of our mailing lists and terminate your use of the Service. Our Service does not respond to Do Not Track (DNT) signals. If you are a California resident, you are entitled to your California privacy rights. Read more.
+ **Your Choice**  – You may opt-out of our mailing lists and terminate your use of the Service. Our Service does not respond to Do Not Track (DNT) signals. If you are a California resident, you are entitled to your California privacy rights. Read more.
 
-**Accessing Your Personally Identifiable Information**  – At any time you can request access to your personally identifiable information. Read more.
+ **Accessing Your Personally Identifiable Information**  – At any time you can request access to your personally identifiable information. Read more.
 
-**Your EU Data Subject Rights**  – If we process your personal data when you are in the EU, further terms apply to our processing in relation to your rights as a data subject under EU data protection laws. Read more.
+ **Your EU Data Subject Rights**  – If we process your personal data when you are in the EU, further terms apply to our processing in relation to your rights as a data subject under EU data protection laws. Read more.
 
-**Data retention**  – We retain data to provide the service and for legitimate and lawful purposes, as further explained in the data retention section of the policy. Read more.
+ **Data retention**  – We retain data to provide the service and for legitimate and lawful purposes, as further explained in the data retention section of the policy. Read more.
 
-**Transfer of Data Outside your Territory**  – We use cloud based services to store and process data in the European Union and in the United States and will store them at additional sites, at our discretion. These service providers provide us adequate security and confidentiality commitments. Read more.
+ **Transfer of Data Outside your Territory**  – We use cloud based services to store and process data in the European Union and in the United States and will store them at additional sites, at our discretion. These service providers provide us adequate security and confidentiality commitments. Read more.
 
-**EU-US Privacy Shield**  – We are self-certified to the EU-US Privacy Shield Framework, in connection with processing personally identifiable information from EU member states. The Federal Trade Commission (FTC) has jurisdiction over our compliance. Read more.
+ **EU-US Privacy Shield**  – We are self-certified to the EU-US Privacy Shield Framework, in connection with processing personally identifiable information from EU member states. The Federal Trade Commission (FTC) has jurisdiction over our compliance. Read more.
 
-**Cookies**  – We use cookies to make it easier for you to log-in and to facilitate Service activities. Read more.
+ **Cookies**  – We use cookies to make it easier for you to log-in and to facilitate Service activities. Read more.
 
-**Information Security**  – We implement systems, applications and procedures to secure your personally identifiable information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. Read more.
+ **Information Security**  – We implement systems, applications and procedures to secure your personally identifiable information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. Read more.
 
-**Dispute Resolution**  – Contact us at: [privacy@cloudinary.com](mailto:privacy@cloudinary.com) or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you. As an EU data subject, you may refer unresolved complaints to our designated recourse mechanism and invoke arbitration in certain cases. Further details are available at: [https://www.privacyshield.gov/participant?id=a2zt0000000011jAAA&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000011jAAA&status=Active). Read more.
+ **Dispute Resolution**  – Contact us at: [privacy@cloudinary.com](mailto:privacy@cloudinary.com) or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you. As an EU data subject, you may refer unresolved complaints to our designated recourse mechanism and invoke arbitration in certain cases. Further details are available at: [https://www.privacyshield.gov/participant?id=a2zt0000000011jAAA&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000011jAAA&status=Active). Read more.
 
-**Changes to this Privacy Policy**  – We will update our policy from time to time after giving proper notice. Read more.
+ **Changes to this Privacy Policy**  – We will update our policy from time to time after giving proper notice. Read more.
 
-**Incorporation to the Terms of Use**  – This policy is an integral part of the [Cloudinary Terms of Use](https://cloudinary.com/tos) or, if applicable, of any other Service subscription agreement entered into between you (or the entity that you are acting on its behalf) and us.
+ **Incorporation to the Terms of Use**  – This policy is an integral part of the [Cloudinary Terms of Use](https://cloudinary.com/tos) or, if applicable, of any other Service subscription agreement entered into between you (or the entity that you are acting on its behalf) and us.
 
-**Contact Us**  – Please contact our Privacy Compliance Team at: [privacy@cloudinary.com](mailto:privacy@cloudinary.com) for further information.
+ **Contact Us**  – Please contact our Privacy Compliance Team at: [privacy@cloudinary.com](mailto:privacy@cloudinary.com) for further information.
 
 ## The Cloudinary Privacy Policy
 
@@ -178,7 +178,7 @@ Where we process your personal data as a data controller, the processing is base
   * All processing of your personal data which are not based on the lawful grounds indicated below, are based on your consent.
   * We process your account and payment details to perform the contract with you.
   * We will process your personal data to comply with a legal obligation and to protect your and others’ vital interests.
-  * We will further rely on our legitimate interests, which we believe are not overridden by your fundamental rights and freedoms, for the following purposes: 
+  * We will further rely on our legitimate interests, which we believe are not overridden by your fundamental rights and freedoms, for the following purposes:
     * Communications with you, including direct marketing where you are our client or a user of our client, or where you make contact with us through our website and other digital assets.
     * Cyber security
     * Support, customer relations, service operations
