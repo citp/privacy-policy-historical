@@ -1,197 +1,314 @@
-> *The following text is extracted and transformed from the trade.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701232806id_/https%3A//www.trade.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711013132id_/https%3A//www.trade.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TRADE.com
 
-##  Privacy Policy 
-
-Leadcapital Markets Ltd, and its related entities hereafter “the Company”, is responsible for the protection of the privacy and the safeguarding of clients’ personal and financial information. By opening a trading account with the Company, the client hereby gives its consent to such collection, processing, storage and use of personal information by the company as explained below. 
-
-**The collection of personal information**
-
-The Company collects the necessary information required to open a client’s trading account, perform transactions and safeguard the clients’ assets and privacy and to provide clients with the services they require. In this respect, the Company gathers information from clients and may, in certain circumstances, gather information from banks and/or credit agencies, and/or clearing agencies and/or other sources which will help the Company to construct the clients’ profile based on their requirements and preferences in order to provide its services effectively. 
-
-The information the Company collects includes information required to communicate with and identify its clients. The Company may also collect certain demographic information, including, birth date, education, occupation, etc. The Company also assesses trading related information. 
-
-The Company uses clients’ personal information only as required to provide quality service and security to its clients. This information helps the Company to improve its services, customize browsing experience and enables it to inform its clients of additional products, services or promotions relevant to clients and in this respect the clients hereby consent to the usage of this data for such purposes. If the clients do not want to receive information of this nature for any reason, they can contact the Company at the following address: [support@trade.com](mailto:support@trade.com)
-
-**Protection of personal information**
-
-Any personal information provided by the client to the Company will be treated as confidential and shared only within the Company and its affiliates and will not be disclosed to any third party except under any regulatory or legal proceedings. In case such disclosure is required to be made by law or any regulatory authority, it will be made on a ‘need-to-know’ basis, unless otherwise instructed by the regulatory authority. Under such circumstances, the Company shall expressly inform the third party regarding the confidential nature of the information. 
-
-**Affiliates and Partners**
-
-The Company may share information with affiliates in the event such information is reasonably required by such affiliate in order to provide the products or services to its clients. The Company may share information with partners, affiliates and associates in order to offer additional similar products and services that meet clients’ needs and which are delivered in a manner that is useful and relevant only where clients have authorized the Company to do so. 
-
-**Non-affiliated third parties**
-
-The Company does not sell, license, lease or otherwise disclose clients’ personal information to third parties, except as described in this Privacy Policy. The Company reserves the right to disclose personal information to third parties where required by Law, regulatory and other government authority. The Company may also disclose information as necessary to credit reporting or collection agencies as reasonably required in order providing the services to Company and/or its clients. In addition, the Company may engage third parties to help carry out certain internal functions such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to its business. Use of the shared information is strictly limited to the performance of the above and is not permitted for any other purpose. All third parties with which the Company shares personal information are required to protect such personal information in accordance with all relevant legislation and in a manner similar to the way the Company protects the same. The Company will not share personal information with third parties which it considers will not provide its clients the required level of protection. In cases where clients have been introduced by a Business Introducer, such Business Introducer may have access to clients’ information. Hence, clients hereby consent to the sharing of information with such Business Introducer. 
-
-**REGULATORY DISCLOSURE**
-
-The Company reserves the right to disclose personal information to third parties where required by law, regulatory, law enforcement or other government authority of a competent jurisdiction in order to protect our rights and/or to comply with such legal proceedings. Such disclosure shall occur on a ‘need-to-know’ basis, unless otherwise instructed by a regulatory or other government authority. Under such circumstances, the Company shall expressly inform the third party regarding the the third party regarding the confidential nature of the information. 
-
-**Contact Clients**
-
-From time to time the Company may contact clients whether by phone or email for the purpose of offering them further information about the Company and/or financial market trading. In addition the Company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by the Company for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with the Company. Any person wishing to opt out of further contact with the Company at any time whatsoever is entitled to do so, simply by contacting the Company whether by phone or email and requesting that no further contact on behalf of the Company be made. 
-
-**Restriction of responsibility**
-
-The Company is not responsible for the privacy policies or the content of sites to which [company’s website] links and has no control of the use or protection of information provided by the clients or collected by those sites. Whenever a client elects to link to a co-branded web site or to a linked web site, the client may be asked to provide registration or other personal information. Please note that such information is recorded by a third party and will be governed by the privacy policy of that third party. 
-
-**Use of "COOKIES"**
-
-The Company uses cookies to secure clients’ trading activities and to enhance the performance of the [company’s website] web site. Cookies used by the Company do not contain personal information or other sensitive information. The Company may share web site usage statistics with reputable advertising companies and with its affiliated marketing companies. It is noted that the information collected by such advertising companies is not personally identifiable. To administer and improve the TRADE.com web site, the Company may use third parties to track and analyze usage and statistical volume information. The third party may use cookies to track behaviour and may set cookies on behalf of the Company. These cookies do not contain any personally 
-
-**Privacy Policy Updates**
-
-The Company may update this Privacy Policy from time to time. In the event that the Company materially changes this Policy including how it collects, processes or uses clients’ personal information, the revised Privacy Policy will be uploaded in the Company’s website. In this respect, the clients hereby agree to accept posting of a revised Privacy Policy electronically on the website as the actual notice of the Company to its clients. Any dispute over the Company’s Privacy Policy is subject to this notice and the Client Agreement. The Company encourages its clients to periodically review this Privacy Policy so that they are always aware of what information the Company collects, how it uses it and to whom it may disclose it, in accordance with the provisions of this Policy. 
-
-##  Data Protection Policy 
+Privacy Policy
 
 **1\. Introduction**
 
-**_Lead Capital Markets_** needs to collect and use certain types of information about the Individuals or Service Users who come into contact with, in order to carry on the work. This personal information must be collected and dealt appropriately, whether is collected on paper, stored in a computer database, or recorded on other material and there are safeguards to ensure this are under the Data Protection Law 138 (I) 2001. 
+(1) Trade Capital Markets (TCM) Limited (formerly Leadcapital Markets Limited) (referred to as “we”, “us”, “our”, “ours”, “ourselves” and ‘’the Company”) is authorised and regulated by the Cyprus Securities and Exchange Commission (“CySEC”) as a Cyprus Investment Firm (“CIF”) with CIF license number 227/14, to conduct designated Investment and Ancillary Services and Activities to the Client under the Provision of Investment Services, the Exercise of Investment Activities, the Operation of Regulated Markets and Other Related Matters Law of 2017, Law 87(Ι)/2017, as subsequently amended or replaced from time to time (“the Law”) and authorised by the FSCA, South Africa (FSP No. 47857).   
+(2) The Company is registered in Cyprus under the Companies Law, with registration number HE 324232. Its registered office is at 148 Strovolos Avenue, 1st Floor, Strovolos 2048 Nicosia, Cyprus, telephone: + 357 22 030446, email: [info@tradecapitalmarkets.com](mailto:info@tradecapitalmarkets.com)  
+(3) This Privacy Notice Policy (“Privacy Notice”) is issued pursuant to and reflects compliance with the requirements and/or obligations and/or duties introduced by the EU General Data Protection Regulation 2016/679 (“GDPR”), as amended and replaced from time to time, the e-privacy Directive 2002/58/EC as amended and replaced by the Directive 2009/136/EC, as amended and replaced from time to time, their implementing legislations and the Cyprus Law on Data Protection, as amended and replaced from time to time (collectively referred to as the “Data Protection Laws”), in regards with any and all Personal Data or Information (“Personal Data” or “Data”) processing activities carried out by the Company.
 
-With this policy we ensure that the company behaves in a fair and moral manner concerning the gathering, storing and handling of data. This process will be carried out with transparency and respect towards the rights of individuals who entrust it with their information. 
+**2\. Scope and Objective of the Privacy Notice**
 
-This policy applies to all parties (employees, job candidates, customers, suppliers etc.) who provide any amount of information to the company. The policy will be followed by all employees of the company and its subsidiaries as well as contractors, consultants, partners and any other external entity. Generally, it refers to anyone who is in close collaboration with the company or acts on its behalf and may need occasional access to data. 
+(1) The Company respects individuals’ rights to privacy and the protection of Personal Data. The scope of this Privacy Notice is to explain and elaborate on how we collect, use, process and store Personal Data in the course of our business.  
+(2) Personal Data means any information relating to an identified or identifiable natural person (“Data Subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.  
+(3) The Company may update the Privacy Notice from time to time. When we make any updates, we will communicate such updates to you and publish the updated Privacy Notice on our websites, namely [https://www.tradecapitalmarkets.com](https://www.tradecapitalmarkets.com/), [www.trade.com](http://www.trade.com/), [www.finexo.com](http://www.finexo.com/).  
+(4) We would encourage you to visit our websites regularly to stay informed about the purposes of processing of your Personal Data and your rights to control how we collect, use or process your Personal Data.
 
-**2\. Data Controller**
+**3\. The Personal Data we process**
 
-**_Lead Capital Markets_** is the Data Controller under the Law, which means that it determines what purposes personal information held, will be used for. It is also responsible for notifying the Information Commissioner of the data it holds or is likely to hold, and the general purposes that this data will be used for. 
+(1) We collect, use and process various categories of Personal Data at the start of, and for the duration of, your business relationship with us. The Company will limit the collection and processing of Personal Data to the necessary Data to meet the purpose and legal basis as described in Section 5 of this Privacy Notice.  
+(2) Personal Data may, inter alia, include:
 
-**3\. Disclosure**
+i. Basic Personal Data, including but not limited to name, residential address, date of birth, email address, telephone number, citizenship, marital status, family and next of kin information and contact details of such persons;  
+ii. Financial status information including but not limited to source of income, gross income, net worth, transactional and trading history, deposits and withdrawal requests, financial needs and goals;  
+iii. Purpose and reason of account including but not limited to the nature of the transactions and the anticipated account turnover;  
+iv. Employment status information including the industry of employment and position of employment;  
+v. Education information including but not limited to field of study and level of study;  
+vi. Visual images including but not limited to copies of passports, identity cards and driver’s license;  
+vii. Online profile and social media information and activity based on your interaction with us, our websites and applications including but not limited to trading account profile, login information, Internet Protocol (IP) address, smart device information, location coordinates, mobile phone network information, searches and site visits;  
+viii. Trading experience information;  
+ix. Bank account details including but not limited to IBAN number, SWIFT code, account number and Sort Code (where applicable).
 
-**_Lead Capital Markets_** may share data with other agencies such as the local authority, funding bodies and other voluntary agencies. 
+(3) The Company may also process certain special categories of Personal Data for specific and limited purposes and only on the basis of an explicit consent granted by you or on any other legal basis, as described in the Section 5 of this Privacy Notice.  
+(4) These special categories of Personal Data include:
 
-The Individual/Service User will be made aware in most circumstances how and with whom their information will be shared.  There are circumstances where the law allows disclosing data (including sensitive data) without the data subject’s consent Article 6(2) of the Law. 
+i. Physical or psychological health details or medical conditions;  
+ii. Information about racial or ethnic origin;  
+iii. Religious or philosophical beliefs;  
+iv. Biometric information, relating to the physical, physiological or behavioural characteristics of a person, including but not limited to using voice recognition or similar technologies whatsoever to prevent fraud and/or money laundering activities.
 
-These are: 
+(5) When you open an account with us, a unique account number will be issued as well as a User ID and password. Only certain employees of the Company shall have access to your account number and User ID. However, please note that you are fully responsible for the secrecy of your account number, User ID and password. As a result, if you disclose your account number, User ID and/or password by any means, to any person, you shall be considered as fully responsible for such action.  
+(6) Subject to the Law, the Company may process Personal Data about criminal convictions or offences and/or alleged offences for specific and limited activities and purposes including but not limited to perform checks to prevent and detect crime and comply with the Law relating to Anti-money laundering and terrorist financing, fraud, bribery, corruption and international sanctions. It may involve investigating and gathering intelligence on suspected financial crimes, fraud and threats and sharing Data between credit or financial organisations, CySEC or other Competent or other authorities, including non-governmental authorities in any jurisdiction within or outside the European Economic Area (“EEA”).
 
-  1. Carrying out a legal duty or as authorised by the Secretary of State 
-  2. Protecting vital interests of an Individual/Service User or other person 
-  3. The Individual/Service User has already made the information public 
-  4. Conducting any legal proceedings, obtaining legal advice or defending any legal rights 
-  5. Monitoring for equal opportunities purposes – i.e. race, disability or religion 
-  6. Providing a confidential service where the Individual/Service User’s consent cannot be obtained or where it is reasonable to proceed without consent: e.g. where we would wish to avoid forcing stressed or ill Individuals/Service Users to provide consent signatures. 
+**4\. How Personal Data is collected**
 
+(1) Your Personal Data is collected:  
+i. From you;  
+ii. From third parties – including subsidiaries or sister companies of the Company, third parties who provide services to you or us including but not limited to Business Introducers (hereinafter referred to as the “BIs”), Affiliates and/or Tied Agents, established or located within and/or outside the EEA;  
+iii. Credit reference and fraud prevention agencies, banks or other financial institutions, third authentication service providers and the providers of public registers;  
+iv. During our business relationship with you and the way you operate your account/s including but not limited to your trading activity, deposits, withdrawals;  
+v. From the technology that you use to access our services including location data from your mobile phone, or an IP address or telephone number and how you use it;  
+vi. From publicly available sources including the press, company registers and online search engines whatsoever.
 
-
-**_Lead Capital Markets_** regards the lawful and correct treatment of personal information is very important to successful working to maintain the confidence of those with whom we deal. 
-
-**_Lead Capital Markets_** intends to ensure that personal information is treated lawfully and correctly. 
-
-To this end, **_Lead Capital Markets_** will adhere to the Principles of Data Protection, as detailed in the Data Protection Law 138 (I) 2001. 
-
-Specifically, the Principles require that personal information: 
-
-  1. Shall be processed fairly and lawfully and, in particular, shall not be processed unless specific conditions are met, 
-  2. Shall be obtained only for one or more of the purposes specified in the Law, and shall not be processed in any manner incompatible with that purpose or those purposes, 
-  3. Shall be adequate, relevant and not excessive in relation to those purpose(s) 
-  4. Shall be accurate and, where necessary, kept up to date, 
-  5. Shall not be kept for longer than is necessary 
-  6. Shall be processed in accordance with the rights of data subjects under the Law, 
-  7. Shall be kept secure by the Data Controller who takes appropriate technical and other measures to prevent unauthorized or unlawful processing or accidental loss or destruction of, or damage to, personal information, 
-  8. Shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of Individuals/Service Users in relation to the processing of personal information. 
-
-
-
-**_Lead Capital Markets_** will, through appropriate management and strict application of criteria and controls: 
-
-  * Observe fully conditions regarding the fair collection and use of information 
-  * Meet its legal obligations to specify the purposes for which information is used 
-  * Collect and process appropriate information, and only to the extent that it is needed to fulfill its operational needs or to comply with any legal requirements 
-  * Ensure the quality of information used 
-  * Ensure that the rights of people about whom information is held, can be fully exercised under the Law. These include: 
+(2) It is your duty and responsibility to provide us with updates as to the Personal Data provided in order for such Data to remain current, accurate and correct and you acknowledge that we rely on the Personal Data provided to us in carrying out our obligations, under the law and our business relationship with you.  
+(3) Where you are a non-physical person providing to us Personal Data of any other individual or where you are an individual providing us with Personal Data of any individual other than yourself, you hereby undertake and represent that such individual, whose Personal Data is collected, used, processed and stored in accordance with this Privacy Notice, has been fully informed of and clearly consented in writing to such collection, use, processing and store of his/her Personal Data under this Privacy Notice and that he/she has been informed of his/her rights in relation to the Personal Data which is collected, used, processed and stored, under this Privacy Notice.  
 
 
-  * The right to be informed that processing is being undertaken, 
-  * The right of access to one’s personal information 
-  * The right to prevent processing in certain circumstances and 
-  * The right to correct, rectify, block or erase information which is regarded as wrong information) 
-  * Take appropriate technical and organizational security measures to safeguard personal information 
-  * Ensure that personal information is not transferred abroad without suitable safeguards 
-  * Treat people justly and fairly whatever their age, religion, disability, gender, sexual orientation or ethnicity when dealing with requests for information 
-  * Set out clear procedures for responding to requests for information 
+**5\. Purpose and Legal Basis of processing Clients’ Personal Data**
+
+(1) We would like to ensure that you fully understand the purpose and the legal basis of collecting, using, processing and storing of your Personal Data. Thus, in this Section we will describe the purposes for which your Personal Data may be used as well as the legal basis of processing of your Personal Data.
+
+**PURPOSE**  
+(2) We will only collect, use, process, store, share or transfer your Personal Data where it is necessary for us to carry out our lawful business activities and provide our services and/or products.
+
+**LEGAL BASIS**  
+(3) We have described the Legal Basis for which your Personal Data may be used in the following terms.   
+(4) We may process your Personal Data where it is necessary to enter into a contract with you for the provision of our products or services or to perform our obligations or duties under such contract.  
+(5) The Data that may be collected, used, processed and stored on the basis of contractual necessity include, inter alia, the following: 
+
+i. Client’s name;   
+ii. IP address;   
+iii. Email;  
+iv. Date of birth;  
+v. Bank Account details;  
+vi. History of Transactions;  
+vii. Payment method information;   
+viii. Withdrawal information;   
+ix. Information about payment cancellation;   
+x. Wire transfer Document; and  
+xi. Payment method ownership. 
+
+(6) Please note that if you do not agree to provide us with the Data outlined above, we may be obliged to suspend the operation of your account and/or the services and/or products provided to you.
+
+LEGAL & REGULATORY OBLIGATIONS   
+(1) When you register for a product or service and throughout your relationship with us, we are required by the Law to collect, use, process and store certain Personal Data about you. This may include Personal Data necessary: 
+
+i. To comply with any and all legal or regulatory obligations whatsoever under the Laws and Regulations, in any jurisdiction, within or outside the EEA;  
+ii. To be used in the Courts, Law Enforcement Agencies, Regulatory Agencies, and other public or Competent or tax authorities or other authorities, governmental or not, in any jurisdiction, within or outside the EEA;  
+iii. To carry out checks in relation to anti-money laundering and terrorist financing, bribery, fraud, and/or sanctions whatsoever as required by the laws and regulations;  
+iv. To protect our rights, privacy, safety or property whatsoever; and/or  
+v. To be used for the prevention, detection or investigation of crimes whatsoever.
+
+(2) The Data that may be collected, used, processed and stored on the basis of legal or regulatory obligations of the Company include, inter alia, the following: 
+
+i. Client’s name;  
+ii. Date of birth;  
+iii. Information on whether you are an US citizen;   
+iv. Anticipated account turnover;   
+v. Purpose and reason for account (e.g. speculation, hedging);   
+vi. Information about the Nature of transactions;   
+vii. Information about your source of income;   
+viii. Information about your Gross income;   
+ix. Information about your Net worth;   
+x. Politically Exposed Person (“PEP”) status;   
+xi. Information about trading experience;  
+xii. Copy of Passport, national ID or drivers’ license;   
+xiii. Third party proof of identity;  
+xiv. Telephone recordings/telephone verification between you and the Company or Company’s employees, associates, whatsoever, in regards with your trading activity or Orders or provision of services or enquiries or complaints or support or verification whatsoever;  
+xv. Tax Identification Number (“TIN”);   
+xvi. Citizenship; and  
+xvii. Trading activity/transactions [Trade Repositories (“CCPs”), Approved Reporting Mechanisms, (“ARMs”)].
+
+(3) Please note that if you don’t agree to provide us with the Data outlined above we may have to suspend the operation of your account and/or the services and/or products provided to you.   
 
 
+**6\. Legitimate Interest of the Company**
 
-**4\. Data collection**
+(1) We may collect, process, use, and store your Personal Data where it is in our legitimate interests and without prejudicing your interests or fundamental rights and freedoms.  
+(2) We may process your Personal Data to manage our business, financial affairs as well as to protect our employees, Clients and property. It is in our interests to ensure that our processes and systems operate effectively and that we can continue operating as a business. This may include processing of your Data to:
 
-Informed consent is when: 
+i. Monitor, maintain and improve internal business processes, information and data, technology and communications solutions and services;  
+ii. Ensure business continuity and disaster recovery responding to information technology and business emergencies;  
+iii. Ensure network and information security, including but not limited to monitoring authorised users’ access to our information technology for the purpose of preventing cyber-attacks, unauthorised use of our telecommunications, trading or other systems and websites, prevention or detection of crime and protection of your Personal Data;  
+iv. Provide assurance on the management of the Company’s material risks;  
+v. Perform general, financial and regulatory accounting and reporting; and  
+vi. Protect our legal rights and interests.
 
-  * An Individual/Service User clearly understands why their information is needed, who it will be shared with, the possible consequences of them agreeing or refusing the proposed use of the data 
-  * And then gives their consent. 
+(3) It is in the Company’s interest to ensure that we provides you with the most appropriate products and services. This may require processing of your Data to enable us to:
 
+i. Understand your actions, behaviour, preferences, expectations, feedback and financial history in order to improve our products and services, develop new products, new business opportunities and services, and to improve the relevance of products offered;  
+ii. Monitor and improve the performance and effectiveness of products and services.
 
+(4) The Data that may be collected, used, processed and stored on the basis of legitimate interest of the Company include, inter alia, the following:
 
-**_Lead Capital Markets_** will ensure that data is collected within the boundaries defined in this policy. This applies to data that is collected in person, or by completing a form. 
+i. Address, ZIP code, country of location;  
+ii. Information about employment status;  
+iii. Information about industry of employment;  
+iv. Information about position of employment;   
+v. Information about level of education;  
+vi. Information about field of study;   
+vii. Utility bill;   
+viii. Bank confirmation letter;   
+ix. Declaration of address;   
+x. Deposit Statement;   
+xi. Copy of Bank statement;   
+xii. Telephone recordings/telephone verification (for the purpose of customer service or support improvement whatsoever);   
+xiii. Payment method ownership;   
+xiv. Telephone number, email, fax (only for the purposes of the Section 9 of this Privacy Notice);   
+xv. Copy of Credit Card; and   
+xvi. Bank Account details. 
 
-When collecting data, **_Lead Capital Markets_** will ensure that the Individual/Service User: 
-
-  1. Clearly understands why the information is needed 
-  2. Understands what it will be used for and what the consequences are should the Individual/Service User decide not to give consent to processing 
-  3. As far as reasonably possible, grants explicit consent, either written or verbal for data to be processed 
-  4. Is, as far as reasonably practicable, competent enough to give consent and has given so freely without any duress 
-  5. Has received sufficient information on why their data is needed and how it will be used 
-
-
-
-**5\. Data Storage**
-
-Information and records relating to service users will be stored securely and will only be accessible to authorised staff and volunteers. Information will be stored for only as long as it is needed or required statute and will be disposed of appropriately. 
-
-It is **_Lead Capital Markets_** responsibility to ensure all personal and company data is non-recoverable from any computer system previously used within the organisation, which has been passed on/sold to a third party. 
-
-**6\. Data access and accuracy**
-
-All Individuals/Service Users have the right to access the information **_Lead Capital Markets_** holds about them. **_Lead Capital Markets_** will also take reasonable steps ensure that this information is kept up to date by asking data subjects whether there have been any changes. 
-
-In addition, **_Lead Capital Markets_** will ensure that: 
-
-  * It has a Data Protection Officer with specific responsibility for ensuring compliance with Data Protection 
-  * Everyone processing personal information understands that they are contractually responsible for following good data protection practice 
-  * Everyone processing personal information is appropriately trained to do so 
-  * Everyone processing personal information is appropriately supervised 
-  * Anybody wanting to make enquiries about handling personal information knows what to do 
-  * It deals promptly and courteously with any enquiries about handling personal information 
-  * It describes clearly how it handles personal information 
-  * It will regularly review and audit the ways it hold, manage and use personal information 
-  * It regularly assesses and evaluates its methods and performance in relation to handling personal information 
-  * All staff are aware that a breach of the rules and procedures identified in this policy may lead to disciplinary action being taken against them 
+(5) Please note that if you don’t agree to provide us with the Data outlined above we may have to suspend the operation of your account and/or the services and/or products provided to you.  
 
 
+**7\. Special Category of Data – Client’s Consent**
 
-This policy will be updated as necessary to reflect best practice in data management, security and control and to ensure compliance with any changes or amendments made to the Data Protection Law 138 (I) 2001. 
+(1) For special category of data as well as for research, statistical or marketing purposes we may only collect, use, process and store Personal Data where an explicit consent has been granted.  
+(2) The Data that may be collected, used, processed and stored on the basis of legitimate interest of the Company include, inter alia, the following:  
+i. Telephone number (for marketing or statistical or research purposes whatsoever).  
 
-**Glossary of Terms**
 
-**Data Controller** – The person who (either alone or with others) decides what personal information the Company will hold and how it will be held or used. 
+**8\. Client’s Rights**
 
-**Data Protection Law 138 (I) 2001** – The Cyprus legislation that provides a framework for responsible behaviour by those using personal information. 
+**OUTLINE**  
+(1) The Company takes all the appropriate measures to make sure that you are fully informed about your rights in regards with all Personal Data we collect, process, use and store.  
+(2) As a result, all rights and the circumstances under which such rights may be exercised are described in the table below. In the event you wish to exercise any of the rights described below or if you have any queries about how we collect, use, process or store your Personal Data that are not answered in this Privacy Notice, or if you wish to complain to our Data Protection Officer, please contact us at [dpo@tradecapitalmarkets.com](mailto:dpo@tradecapitalmarkets.com) or at +357 - 22030446 or at our office address: 148 Strovolos Avenue, 1st Floor, Strovolos 2048 Nicosia, Cyprus.  
+(3) Please note that in some cases, if you do not agree to the way we collect, use, process or store your Personal Data, it may not be possible for us to continue providing you with our services and/or Products and as a result your account will be suspended and/or closed.
 
-**Data Protection Officer** – The person(s) responsible for ensuring that the Company follows its data protection policy and complies with the Data Protection Law 138 (I) 2001. 
+EXPLANATION OF CLIENT’S RIGHTS
 
-**Individual/Service User** – The person whose personal information is being held or processed by the Company for example: a client, an employee, or supporter. 
+RIGHTS  |  EXPLANATION  
+---|---  
+  
+**Access** – You have the right to get access to the Personal Data including the records of any and all telephone conversations, email and/or text message correspondence, between you and the Company, held by the Company.
 
-**Explicit consent** – is a freely given, specific and informed agreement by an Individual/Service User in the processing of personal information about her/him. Explicit consent is needed for processing sensitive data. 
+| 
 
-**Notification** – Notifying the Information Commissioner about the data processing activities of the Company, as certain activities may be exempt from notification. 
+If you would like a copy of your Personal Data held by the Company, please contact us at dpo@tradecapitalmarkets.comor at +357 – 22030446 or at our office address: 148 Strovolos Avenue, 1st Floor, Strovolos 2048 Nicosia, Cyprus.  
+  
+**Rectification** – You have a right to rectification of inaccurate Personal Data and to update incomplete Personal Data.
 
-**Information Commissioner** – The Cyprus Information Commissioner responsible for implementing and overseeing the Data Protection Law 138 (I) 2001. 
+| 
 
-**Processing** – means collecting, amending, handling, storing or disclosing personal information. 
+In case you believe that any of the Personal Data held by the Company is inaccurate, you are entitled to request to restrict the processing of that Personal Data and rectify the inaccuracies.  
+Please note that if you request us to restrict processing your Personal Data we may have to suspend the operation of your account and/or the services and/or products provided.  
+  
+**Erasure** – You have a right to request to delete your Personal Data.
 
-**Personal Information** – Information about living individuals that enables them to be identified – e.g. name and address. It does not apply to information about organisations, companies and agencies but applies to named persons, such as individual volunteers or employees within (GROUP). 
+| 
 
-**Sensitive data** – refers to data about: 
+You may request to delete your Personal Data in case you believe that:  
+· the Company no longer needs to process your Personal Data for the purposes for which it was provided;  
+· the Company requested your consent to process your Personal Data but you withdraw your consent;  
+· the Company is not using your Personal Data in a lawful manner.  
+Please note that if you request us to restrict processing your Personal Data we may have to suspend the operation of your account and/or the services and/or products  
+  
+**Restriction** – You have a right to request us to restrict the processing of your Personal Data.
 
-  * Racial or ethnic origin 
-  * Political affiliations 
-  * Religion or similar beliefs 
-  * Trade union membership 
-  * Physical or mental health 
-  * Sexuality 
-  * Criminal record or proceedings 
+| 
 
+You may request us to restrict processing your Personal Data in case you believe that:  
+· any of your Personal Data held by the Company is inaccurate;  
+· the Company no longer needs to process your Personal Data for the purposes for which it was provided, but you require such Data to establish, exercise or defend legal proceedings;  
+· the Company is not using your Data in a lawful manner.  
+Please note that if you request us to restrict processing your Personal Data we may have to suspend the operation of your account and/or the services and/or products provided  
+  
+**Portability** – You have a right to data portability.
+
+| 
+
+Where the Company asks for your permission in order to process your Personal Data or where you have provided us with Data for the purposes of entering into a contract with us, you have a right to receive the Personal Data you provided to us in a portable format. Where it is feasible, you may also request us to provide it directly to third parties. However, in such case the Company shall not be responsible for any such third parties’ use of your Personal Data, which will be governed by their agreement with you and any privacy statement they provide to you.  
+  
+**Objection** – You have a right to object to the processing of your Personal Data.
+
+| 
+
+You have a right to object to us processing your Personal Data on the basis of the legitimate interest as described in the Section 5 of this Privacy Notice – unless we can demonstrate compelling and legitimate grounds for the processing, which may override your own interests, or where we need to process your Personal Data to investigate and protect us or others from legal proceedings.  
+  
+**Marketing** – You have a right to object to direct marketing.
+
+| 
+
+You have a right to object at any time to collect, use, process or store your Personal Data for direct marketing purposes, including profiling you for the purposes of direct marketing.  
+  
+**Withdraw consent** – You have a right to withdraw your consent.
+
+| 
+
+In case in which the Company relies on your permission to process your Personal Data, you have a right to withdraw your consent at any time by sending a written request at [dpo@tradecapitalmarkets.com](mailto:dpo@tradecapitalmarkets.com) or at our office address: 128 – 130 Limassol Avenue, 3rd floor, Office 301, Strovolos, CY 2015, Nicosia, Cyprus.   
+The Company is always making it clear where a consent is required in order to process your Personal Data.  
+  
+**Raise a complaint** – You have a right to raise a complaint with the Data Protection Commissioner’s Office.
+
+| 
+
+If you wish to make a complaint, you can contact our Data Protection Officer who will investigate the matter.  
+  
+**Not be subject to automated decision-making processing (including profiling)** – You have the right not to be subject to automated decision making.
+
+| 
+
+Even though you have the right not to be subject to a decision, based solely on automated processing of Personal Data the Company takes an automated-decision by processing your Personal Data in accordance with the Section 5 of this Policy and in the following cases:  
+  
+**9\. Changes to the way we use Client’s Personal Data**
+
+(1) The Company reserves the right to change the way and/or the purpose of processing and use of your Personal Data. As a result, where the Company decides to process or use your Personal Data for purpose other than the purpose for which such Personal Data were initially collected, processed and used and stored, it shall provide you with all relevant information of such change including the new purpose under which such Personal Data will be used and/or processed as well as all of your rights as described in the Section 7 of this Privacy Notice.  
+(2) Please note that if you do not agree to such changes of processing your Data, we may have to suspend the operation of your account and/or the services and/or products provided to you.  
+
+
+**10\. Communication**
+
+(1) We may directly contact you to provide you with information in regards with the operation and maintenance of your account including updated information about how we collect, use, process and store your Personal Data by telephone, fax, email or otherwise.  
+
+
+**11\. How we use and share Personal Data with Subsidiaries and sister companies**
+
+(1) We will only use and share your Personal Data where it is necessary for us to lawfully carry out our business activities and/or provide our services. Your Personal Data may be shared with and used, processed and stored by subsidiaries and/or other group companies.  
+12\. Sharing with Third Parties 
+
+(1) We will not share your Personal Data with anyone outside Trade Capital Markets (TCM) Limited or any of its subsidiaries or group companies except:
+
+i. Where we have your explicit and written consent;  
+ii. It is required for your product or service;  
+iii. Where it is requested by CySEC or any other regulatory authority having control or jurisdiction over the Company or you or your associates whatsoever or in whose territory the Company has Clients;  
+iv. With Competent authorities to investigate or prevent fraud, money laundering or other illegal activity;  
+v. It is reasonably required so as to execute orders and for the provision of ancillary services;  
+vi. With credit reference and fraud prevention agencies, third authentication service providers, banks and other financial institutions for credit checking, fraud prevention, anti-money laundering purposes, identification or due diligence checks of the Client. To do so they may check your details supplied against any particulars on any database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained by the Company;  
+vii. With any of the Company’s professional advisors provided that in each case the relevant professional shall be informed about the confidential nature of such Data and commit to the confidentiality obligations herein as well;  
+viii. With other service providers who create, maintain or process databases (whether electronic or not), offer record keeping services, email transmission services, messaging services or similar services which aim to assist the Company collect, storage, process and use your Personal Data or get in touch with you;  
+ix. With Trade Repository or similar under the Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties (CCPs) and trade repositories (TRs) (EMIR);  
+x. With Approved Reporting Mechanisms (ARM) under the Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No. 648/2012 (MIFIR);  
+xi. Market research organisations that provide telephone or email surveys with the purpose to improve the services of the Company, in accordance with the Section 7. In such cases only the contact details will be provided;  
+xii. With successors or assignees or transferees or buyers, with five (5) Business Days prior written notice to you;  
+xiii. With such third parties as we see fit to assist us in enforcing our legal or contractual rights against you including but not limited to debt collection agencies and legal advisors. You acknowledge that any of the persons listed in the previous sentence may be either within or outside the EEA;  
+xiv. It is required by the law and by law enforcement agencies, judicial bodies, the financial ombudsman, government entities, tax authorities or regulatory bodies and/or other competent authorities, governmental or not, whatsoever, established or located within or outside the EEA;  
+xv. With Affiliates, Tied Agents and/or BIs established or located within or outside the EEA;  
+xvi. With Payment Service Providers (hereinafter referred to as the “PSPs”);  
+xvii. With software, platform support or cloud hosting companies; and   
+xviii. With internal and external auditors whatsoever.
+
+(2) You accept and acknowledge that the Company, as a Foreign Financial Institution (FFI), is required to disclose Personal Data in relation to any US reportable person as per Foreign Account Tax Compliance Act (FATCA) reporting regulations. The Company is undertaking all reasonable steps in relation to maintaining compliance with FATCA and may ask from time to time for additional information from US reportable persons so that it can maintain appropriate records;  
+(3) You accept and acknowledge that the Company is required to disclose Personal Data reportable under the CRS Decree. The Company is undertaking all reasonable steps in relation to maintaining compliance with CRS and may ask you from time to time for additional information so that it can maintain appropriate records.  
+(4) Our third-parties to which we share and/or transfer your Personal Data are not allowed to use or disclose or share whatsoever for any other purpose other than the purpose to provide services, as agreed, to us.  
+(5) In the event that additional authorised users are added to your account (joint-account) we may share information about the use of the account by any authorised user with all other authorised users.  
+(6) We will not disclose to any third party your Personal Data for its own marketing purposes without your consent.  
+(7) Please note that your Personal Data is shared, transferred, collected, processed and stored in the following countries (EEA and non-EEA): UK, Cyprus, Bulgaria, Ireland, your country of residence, and/or Albania.  
+(8) If you would like a copy of your Personal Data held by the third parties or if you want to receive more details on how your Personal Data is collected, used, processed or stored by the third parties please contact us at dpo@tradecapitalmarkets.com or at +357 - 22030446 or at our office address: 148 Strovolos Avenue, 1st Floor, Strovolos 2048 Nicosia, Cyprus.  
+
+
+**13\. Transferring information outside the Republic of Cyprus**
+
+(1) We will not contact you at your telephone number or via email and/or by any other means to provide you with information about our services or products offered by Trade Capital Markets (TCM) Limited or to provide you with any other marketing material, unless you expressly instruct us to do so, or unless we are permitted under the Data Protection Laws to do so.  
+(2) You may unsubscribe anytime by clicking the unsubscribe link located on our electronic commercial information or by written request at [dpo@tradecapitalmarkets.com](mailto:dpo@tradecapitalmarkets.com) or at our office address: 148 Strovolos Avenue, 1st Floor, Strovolos 2048 Nicosia, Cyprus.
+
+**14\. Monitoring of calls, emails, text messages and other communication**
+
+(1) We may monitor or record calls, emails, text messages or other communications in accordance with the Laws as described in the Section 5 of this Privacy Notice. Such recordings may comprise conclusive evidence of the orders and/or instructions and/or requests or conversations. You have the right to request, and the Company upon such request, provide you with such records as described in the Section 8 of this Privacy Policy.  
+
+
+**15\. How long we store your Data**
+
+(1) We will store your Personal Data for as long as it is required for legal or business purposes. We are obliged by the law to retain your Personal Data for five (5) years or up to seven (7) years if requested by CySEC, after the termination of our Client Agreement. When your Personal Data is not needed, we securely delete or destroy it.
+
+**16\. Cookie Policy**
+
+(1) Cookies are small packages that a website stores on your computer or any other electronic device when you visit a website to enable you to perform numerous functions on the website as well as to regulate the content to your preferences. As a result, the Company uses cookies to ensure that the performance and the functionality of its website is robust and enhanced. Please visit our website to read our Cookie Policy.  
+
+
+**17\. Security information**
+
+(1) We are committed to ensuring that your Personal Data is secure with us and with the third parties who act on our behalf. For more information about the steps we are taking to protect your Personal Data please contact us at [dpo@tradecapitalmarkets.com](mailto:dpo@tradecapitalmarkets.com) or at +357 - 22030446 or at our office address: 148 Strovolos Avenue, 1st Floor, Strovolos 2048 Nicosia, Cyprus.  
 
