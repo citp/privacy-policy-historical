@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concursolutions.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515041104id_/https%3A//www.concur.com/en-us/processor-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concursolutions.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710133300id_/https%3A//www.concur.com/en-us/processor-privacy-statement) for the most accurate reproduction.*
 
 # Concur Technologies Processor Privacy Statement - SAP Concur
 
