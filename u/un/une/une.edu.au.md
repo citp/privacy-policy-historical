@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the une.edu.au privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328232036id_/https%3A//www.une.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the une.edu.au privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710090101id_/https%3A//www.une.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - University of New England (UNE)
 
