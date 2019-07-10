@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406234431id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710193946id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
 
 # Investment Opportunities for Everyone | StartEngine
 
@@ -78,7 +78,7 @@
 
 ### The Site is maintained in the United States of America.  By accessing the Site, you consent to and authorize the export of Personally Identifiable Information to the United States of America and its storage and use as specified in this Privacy Notice.
 
-### This Privacy Notice shall be governed by, construed and entered in accordance with the laws of the State of California applicable to contracts deemed to be made within such state, without regard to choice of law or conflict of law provisions thereof.  All disputes with respect to this Privacy Notice shall be brought and heard either in the shall be brought and heard either in the California state courts located in Los Angeles, California, or the federal district court of California located in Los Angeles County, California.  You consent to the in personam jurisdiction and venue of such courts.  YOU HEREBY WAIVE YOUR RIGHT TO A TRIAL BY JURY WITH RESPECT TO ANY CLAIM, ACTION OR PROCEEDING, DIRECTLY OR INDIRECTLY, ARISING OUT OF, OR RELATING TO, THIS AGREEMENT TO THE FULLEST EXTENT PERMITTED BY LAW.
+### This Privacy Notice shall be governed by, construed and entered in accordance with the laws of the State of California applicable to contracts deemed to be made within such state, without regard to choice of law or conflict of law provisions thereof.  All disputes with respect to this Privacy Notice shall be brought and heard either in the California state courts located in Los Angeles, California, or the federal district court of California located in Los Angeles County, California.  You consent to the in personam jurisdiction and venue of such courts.  YOU HEREBY WAIVE YOUR RIGHT TO A TRIAL BY JURY WITH RESPECT TO ANY CLAIM, ACTION OR PROCEEDING, DIRECTLY OR INDIRECTLY, ARISING OUT OF, OR RELATING TO, THIS AGREEMENT TO THE FULLEST EXTENT PERMITTED BY LAW.
 
 ### Effective Date
 
