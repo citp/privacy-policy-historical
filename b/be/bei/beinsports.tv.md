@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beinsports.tv privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404145507id_/https%3A//www.beinsports.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beinsports.tv privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710134502id_/https%3A//www.beinsports.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy - beIN SPORTS
 
