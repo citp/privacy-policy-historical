@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinspot.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306015619id_/https%3A//www.coinspot.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinspot.com.au privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710151654id_/https%3A//www.coinspot.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CoinSpot
 
