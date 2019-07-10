@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the kemifilani.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322103541id_/https%3A//www.kemifilani.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemifilani.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710152610id_/https%3A//www.kemifilani.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kemi Filani News
 
-**Privacy Policy** for https://kemifilani.com
+**Privacy Policy** for http://kemifilani.com
 
-The privacy of our visitors to https://kemifilani.com is important to us.
+The privacy of our visitors to http://kemifilani.com is important to us.
 
-At https://kemifilani.com,  
+At http://kemifilani.com,  
 we recognize that privacy of your personal information is important.  
 Here is information on what types of personal information we receive and  
-collect when you use and visit https://kemifilani.com, and how we  
+collect when you use and visit http://kemifilani.com, and how we  
 safeguard your information. **We never sell your personal information to third parties**.
 
-**Log Files**  
+ **Log Files**  
 As with most other websites, we collect and use the data contained in  
 log files. The information in the log files include your IP (internet  
 protocol) address, your ISP (internet service provider, such as AOL or  
@@ -20,7 +20,7 @@ Globacom Nigeria), the browser you used to visit our site (such as
 Internet Explorer, Safari or Firefox), the time you visited our site and  
 which pages you visited throughout our site.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 This blog use cookies and some of our business partners  
 (for example, advertisers) use cookies and web beacons when they  
 advertise on our site, which will also send these advertisers (such as  
@@ -33,7 +33,7 @@ showing mobile phones ads to someone who frequents Phone sites).
 
 This site has no access to, or control of advertisers’ cookies.
 
-**DoubleClick DART cookies**  
+ **DoubleClick DART cookies**  
 We also may use DART cookies for ad serving through Google’s  
 DoubleClick, which places a cookie on your computer when you are  
 browsing the web and visit a site using DoubleClick advertising  
@@ -64,4 +64,4 @@ does not mean you are permanently opted out of any advertising program.
 Unless you have settings that disallow cookies, the next time you visit a  
 site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [KemiFilani](https://kemifilani.com/)
+AdSense Privacy Policy Provided by [KemiFilani](http://kemifilani.com/)
