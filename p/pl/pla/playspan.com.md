@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126155432id_/http%3A//www.cybersource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710144844id_/https%3A//www.cybersource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - CyberSource
 
@@ -112,7 +112,7 @@ The Services are not directed to individuals under the age of thirteen (13), and
 
 ## Notice to European Users
 
-The Data Protection Act puts obligations on users of Personal Information and sets forth principles for its use. One principle states that information must be processed fairly and lawfully. This means that citizens of the European Union are entitled to know how we intend to use Personal Information. Details are publicly available at [www.ico.gov.uk](http://www.ico.gov.uk/) or from:
+The Data Protection Act puts obligations on users of Personal Information and sets forth principles for its use. One principle states that information must be processed fairly and lawfully. This means that citizens of the European Union are entitled to know how we intend to use Personal Information. Details are publicly available at [ico.org.uk](https://ico.org.uk/) or from:
 
 Information Commissioner's Office  
 Wycliffe House  
