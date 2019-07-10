@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the droom.in privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331153611id_/https%3A//droom.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droom.in privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710153112id_/https%3A//droom.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Droom
 
-**Last updated on March 27, 2018**
+**Last updated on May 31st, 2019**
 
 This section pertains to the Privacy Policy of [www.droom.in](http://droom.in/). and the Droom mobile application (hereinafter collectively referred to as "Website"). Through the Website we provide access to users to the products and services available therein (collectively referred to as "Services").
 
@@ -22,7 +22,7 @@ By visiting this Website/downloading the Droom mobile application you agree to b
 
 ## 1\. Collection of Personally Identifiable Information and other Information
 
-This Privacy Policy extends to both, users who visit the Website but do not transact business on the Website and as well as users who are registered on the Website and transact business on the Website. When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide Services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
+This Privacy Policy extends to both, users who visit the Website but do not transact business on the Website and as well as users who are registered on the Website and transact business on the Website. When you use our Website, we collect and store your personal information which is provided by you from time to time. We may also share your Personal or non-Personal information where it is required and share the same with third Parties for providing you the product or service and you provide us, your unconditional consent to do the same. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide Services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
 
 In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are mandatory/ required and which fields are optional. You always have the option to not provide information by choosing not to use a particular Service or feature on the Website. We may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analyzed on an aggregated basis. This information may include, but is not limited to, the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.
 
@@ -78,7 +78,7 @@ Our Website has stringent security measures in place to protect the loss, misuse
 
 ## 6\. Choice/Opt-Out
 
-We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you have any concern about privacy or grievances with the Website or any of its content or to report any abuse of laws or breach of the Privacy Policy and Terms of Use, please contact us ([legal.group@droom.in](mailto:legal.group@droom.in)) with a thorough description of such concerns/ issues faced by you and we will try to resolve the issue for you. If you want to remove your contact information from all Website lists and newsletters, please visit unsubscribe
+We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you have any concern about privacy or grievances with the Website or any of its content or to report any abuse of laws or breach of the Privacy Policy and Terms of Use, please contact us ([sudhanshu.kumar@droom.in](mailto:sudhanshu.kumar@droom.in)) with a thorough description of such concerns/ issues faced by you and we will try to resolve the issue for you. If you want to remove your contact information from all Website lists and newsletters, please visit [unsubscribe](https://droom.in/storemanager?section_id=notifications_ajax&tab=1&new_store_manager=1&data-model=notifications)
 
 ## 7\. ADVERTISEMENTS ON THE WEBSITE
 
@@ -94,9 +94,9 @@ If we decide to change our Privacy Policy, we will post those changes on this pa
 
 In accordance with Information Technology Act 2000 and rules made there under, in case you have any grievances about the use of this Website / any of the policies for use / availing the services on the Website, you may contact the grievance officer appointed by us. The name and contact details of the Grievance Officer are provided below:
 
-**Grievance Office:** **Vineet Bahl,**  
+**Grievance Office:** **Sudhanshu Kumar,**  
 **Droom Technology (P) Limited**  
 40A/5, Chandan Nagar, Sector-15, Part-2  
 Gurugram, Haryana-122001  
 Time: Mon to Sat (9:00 to 18:00)  
-Email: [legal.group@droom.in](mailto:legal.group@droom.in)
+Email: [sudhanshu.kumar@droom.in](mailto:sudhanshu.kumar@droom.in)
