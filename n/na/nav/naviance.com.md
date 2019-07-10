@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201222342id_/https%3A//www.naviance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710155359id_/https%3A//naviance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Center | Naviance
 
