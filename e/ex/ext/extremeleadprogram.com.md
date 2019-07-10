@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422061711id_/https%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710143509id_/https%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Extreme Lead Program
 
@@ -30,7 +30,7 @@ Personally Identifiable Information collected by Extreme Lead Program is securel
 
 What choices are available to Visitors regarding collection, use and distribution of the information?
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 654 Sheep Rd., Ste 100, New Lebanon, OH 45345
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 654 Sheep Rd., Ste 100, New Lebanon, OH 45345. For all marketing emails that we send there is an opt-out link at the bottom. All opt-out requests are handled automatically by our email software. For all marketing texts that we send you can simply reply with the word STOP all by itself to be automatically removed from any further messages.
 
 Are Cookies Used on the Site?
 
