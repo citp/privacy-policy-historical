@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter.io privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428020242id_/https%3A//hunter.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter.io privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710211953id_/https%3A//hunter.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Hunter
 
