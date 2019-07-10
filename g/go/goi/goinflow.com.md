@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goinflow.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095144id_/https%3A//www.goinflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goinflow.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710232939id_/https%3A//www.goinflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,7 +39,7 @@ Additionally, information such as your IP address, browser type, language, and t
 
 ### **Google Ad Content and Google Analytics**
 
-Our websites use Google Analytics to collect information about users on our site. Google Analytics tracks how often users visit, the pages being visited, browsing behavior, referring sites, and so forth. We use this information in order to improve our site. While Google Analytics records the IP address assigned to you on the date that you visit our site, Google Analytics does not track any identifying information. You can learn more about Google Analytics by reading the[ Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html). 
+Our websites use Google Analytics to collect information about users on our site. Google Analytics tracks how often users visit, the pages being visited, browsing behavior, referring sites, and so forth. We use this information in order to improve our site. While Google Analytics records the IP address assigned to you on the date that you visit our site, Google Analytics does not track any identifying information. You can learn more about Google Analytics by reading the[ Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html). 
 
 ### **Changes to the Privacy Policy**
 
