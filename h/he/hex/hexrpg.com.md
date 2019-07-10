@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920165147id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710155007id_/https%3A//www.hexrpg.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Hogwarts Extreme - The Interactive Harry Potter Experience
-
-## Privacy Policy
+# Privacy Policy | Hogwarts Extreme
 
 Hogwarts Extreme fully respects the privacy of its users and pledges to continually protect it by using the best means of technology available. This policy is provided as an informational tool for everyone. Please contact us if you have any questions through the "Contact" link located at the bottom of every page. 
 
 #### Operators / Contacting
 
-Hogwarts Extreme is ran by people across the world through electronic means. Therefore, means of contacting us can be achieved by clicking "Contact" at the very bottom of any page on Hogwarts Extreme. Also, you may view everyone that is currently running Hogwarts Extreme on the [About Us](https://web.archive.org/aboutus.php) page. The About Us page is always kept up to date with the latest staff information. 
+Hogwarts Extreme is ran by people across the world through electronic means. Therefore, means of contacting us can be achieved by clicking "Contact" at the very bottom of any page on Hogwarts Extreme. Also, you may view everyone that is currently running Hogwarts Extreme on the [About Us](https://web.archive.org/about-us.php) page. The About Us page is always kept up to date with the latest staff information. 
 
 #### Information We Collect
 
@@ -40,7 +38,7 @@ Links to other websites exist on Hogwarts Extreme and can mostly be found under 
 
 #### Parents
 
-Please view our [COPPA Policy](https://web.archive.org/web/20170920165147id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
+Please view our [COPPA Policy](https://web.archive.org/coppa-policy.php) for information. 
 
 #### Updating of this Policy
 
