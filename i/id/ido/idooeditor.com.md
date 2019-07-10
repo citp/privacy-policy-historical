@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idooeditor.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525112527id_/http%3A//www.idooeditor.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idooeditor.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710074432id_/http%3A//www.idooeditor.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Video Editor Software,Best Video Editor Software,Free Video Editor Software Download, Video Editor Software Download,Video Editor Software
 
