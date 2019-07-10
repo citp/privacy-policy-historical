@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizzstar.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120202124id_/http%3A//quizzstar.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzstar.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710123131id_/http%3A//quizzstar.com/pages/privacy) for the most accurate reproduction.*
 
 # QuizzStar
 
@@ -157,9 +157,3 @@ For more information users are referred to view VicMan LLC’s website (<http://
 QUIZZSTAR reserves the right to modify its data protection and security data at any time without prior notice, always under Spain’s current and applicable personal data protection legislation. 
 
 **© 2018. QUIZZSTAR. All rights reserved.**
-
-Lorem ipsum dolor sit amet 
-
-Lorem ipsum dolor sit amet 
-
-Lorem ipsum dolor sit amet 
