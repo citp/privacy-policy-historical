@@ -1,20 +1,47 @@
-> *The following text is extracted and transformed from the skype-emoticons.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402083126id_/http%3A//www.skype-emoticons.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skype-emoticons.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710123830id_/http%3A//www.skype-emoticons.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Skype-Emoticons.com
+# Privacy Policy – SKYPE
 
-At Skype-Emoticons.com, we recognize that privacy of your personal information is important. We never sell your personal information to third parties. 
+**IF YOU NEED MORE INFORMATION OR HAVE OTHER QUESTIONS ABOUT THE PRIVACY POLICY ON**  
+**[WWW.SKYPE-EMOTICONS.COM](http://skype-emoticons.com/), PLEASE CONTACT THE ADMIN VIA E-MAIL BY FILLING OUT THE FORM ON THE CONTACT PAGE.**  
+At , the privacy of visitors to this blog is very important. This privacy policy document describes the type of personal information received and collected by  
+**www.skype-emoticons.com** and how the personal information is used.
 
-Log Files  
-Skype-Emoticons.com has access to it's log files, which reveal general information such as your IP (internet protocol) address, your ISP (internet service provider), your browser, referred agent, the time you visited our site and which pages you visited throughout our site. This information is used to help us to improve our site design to best match the needs of the visitors. 
+**LOG FILES**  
+Like most other websites,  
+**www.skype-emoticons.com** also uses log files. Information in log files includes internet protocol (IP) address, browser type, Internet Service Provider (ISP), trace date / time, reffering or exit pages and clicks made by visitors to analyze trends, manage sites, track user activity on the site , and to gather demographic information.
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
+The IP address and other information are not related to personal information.
 
-DoubleClick DART cookies  
-We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (?interest based targeting?). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses ?non personally identifiable information?. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.google.com/ads/preferences/>. 
+**COOKIES AND WEB BEACONS**  
+**www.skype-emoticons.com uses cookies**  to store information about visitor preferences, record certain user information on pages visited, customize content-based Web pages based on the type of browser that visitors use or other information that visitors submit through the browser used.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+**DoubleClick DART Cookie**  
+. ::  **Google** , as a third party vendor, uses cookies to serve ads on  
+**www.skype-emoticons.com** .
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. 
+. :: The use of  **DART cookies by Googl** e allows Google to display ads that are appropriate to users based on visits on  
+**www.skype-emoticons.com** and other sites on the Internet.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+. :: Users can cancel the use of DART cookies by visiting the Google ad and content network privacy policy at the following URL:
+
+**http://www.google.com/policies/technologies/ads/**
+
+Some of my advertising partners may use cookies and web beacons on the site. My advertising partners include: Google Adsense, Chitika & idblogNetwork.
+
+These third-party ad servers or ad networks use technology to send advertisements and links that appear on  
+**www.skype-emoticons.com** directly to your browser. They automatically receive your IP address. Other technologies (such as cookies, JavaScript or Web Beacons) can also be used by third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertisements you see.
+
+**www.skype-emoticons.com** does not have access to or control over cookies used by third party advertisers.
+
+You should consult the privacy policies of each third party ad server for more detailed information about their activities and to get instructions on how to cancel certain activities.
+
+**The Privacy Policy  ** **www.skype-emoticons.com**  cannot control these activities.
+
+If you want to disable cookies, you can do this through choices in your browser.
+
+More information about cookie management with certain web browsers can be found on each browser’s website.
+
+**www.skype-emoticons.com** complies and complies with the rules under Google. To read Google’s rules, please visit:
+
+http://www.google.com/policies/privacy/
