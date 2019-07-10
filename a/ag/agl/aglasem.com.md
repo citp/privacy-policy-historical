@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aglasem.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408125745id_/https%3A//aglasem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aglasem.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710165334id_/https%3A//aglasem.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | aglasem.com
+# Privacy Policy – aglasem.com
 
 We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the AglaSem EduTech Pvt. Ltd. (hereinafter “AglaSem”) The use of the Internet pages of the AglaSem EduTech Pvt. Ltd. is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. 
 
