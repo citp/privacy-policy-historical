@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the streamit-online.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622122927id_/http%3A//stream-it.online/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamit-online.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710134102id_/http%3A//streamit-online.com/privacy) for the most accurate reproduction.*
 
-# Stream-It-Privacy
+# Privacy
 
-## StreamIt Online – Privacy Policy
+## StreamItOnline – Privacy Policy
 
 **[Last Revised: May 21, 2018]**
 
@@ -95,7 +95,7 @@ We do not sell, trade, or rent users' Personal Information to other parties. We 
 
 Applicable data protection and privacy laws may provide you with the ability to exercise some user rights regarding your Personal Information collected by the Company (which might be different in each jurisdiction). The user rights are as follow: **(i)** you may request to access your Personal Information that we hold;  **(ii)** you may  request the rectification of your Personal Data that we hold; **(iii)** you may request the erasure of your Personal Information that we hold (as long as we do not have a legitimate reason for retaining the data); **(iv)** you may request to restrict processing of your Personal Information; **(v)** you may object to processing of your Personal Information by us; **(vi)** you may request to exercise your right of data portability; **(vii)** you may exercise your right to file a complaint to a supervisory authority in your jurisdiction; and **(viii)** you have the right to withdraw consent. 
 
-To exercise any of the above user rights, please contact us at: [support@stream-it.online](mailto:support@stream-it.online) . In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take, however not more than one (1) month, unless otherwise required or permitted under applicable law. 
+To exercise any of the above user rights, please contact us at: [support@streamit-online.com](mailto:support@streamit-online.com) . In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take, however not more than one (1) month, unless otherwise required or permitted under applicable law. 
 
 Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply. Please note we may charge a small fee for such request, all in accordance with applicable laws. 
 
@@ -103,13 +103,13 @@ Unless we are instructed otherwise by users, we retain the Non-Personal Informat
 
 **7\. Children Information**
 
-You represent and warrant that, (i) if you are located in the US, you are at least 13 years of age; or if you are located in any other GEO, you are above the age defined as "child" under applicable laws in your jurisdiction (collectively " **Child** " or " **Children** "); and (ii) you are of legal competence to enter into this Privacy Policy. If you are under 18, please be sure to read the terms of this Privacy Policy with your parents or legal guardians. The Services are not directed or intended for Children, as defined under applicable law, and we do not knowingly collect or solicit information from children. If we obtain actual knowledge that a User is considered as a Child under applicable law, we will take steps to immediately delete such User's Personal Information. If you become aware or have any reason to believe that a Child has shared any information with us, please contact us at: [support@stream-it.online](mailto:support@stream-it.online)
+You represent and warrant that, (i) if you are located in the US, you are at least 13 years of age; or if you are located in any other GEO, you are above the age defined as "child" under applicable laws in your jurisdiction (collectively " **Child** " or " **Children** "); and (ii) you are of legal competence to enter into this Privacy Policy. If you are under 18, please be sure to read the terms of this Privacy Policy with your parents or legal guardians. The Services are not directed or intended for Children, as defined under applicable law, and we do not knowingly collect or solicit information from children. If we obtain actual knowledge that a User is considered as a Child under applicable law, we will take steps to immediately delete such User's Personal Information. If you become aware or have any reason to believe that a Child has shared any information with us, please contact us at: [support@streamit-online.com](mailto:support@streamit-online.com)
 
 **8\. Security**
 
 Your privacy is very important to the Company and therefore we are committed to protecting your Personal Information from unauthorized access, use or disclosure. We have implemented physical, technical and administrative security measures for the Services that comply with applicable laws and industry standards. The Personal Information collected by the Company is stored in the Google Big Query Cloud servers, for more information regarding the data security provided by Google, please see: [ https://cloud.google.com/security/ ](https://cloud.google.com/security/) . 
 
-Company seeks to minimize the amount of data that it stores on its servers in the first place. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted gain unauthorized access to the Personal Information please contact us at: [support@stream-it.online](mailto:support@stream-it.online). 
+Company seeks to minimize the amount of data that it stores on its servers in the first place. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted gain unauthorized access to the Personal Information please contact us at: [support@streamit-online.com](mailto:support@streamit-online.com). 
 
 Further, in the event of a data incident, in which we discover your Personal Information may be at risk, then we will take reasonable efforts to notify you and the applicable authority (if required, subject to applicable laws). 
 
@@ -123,8 +123,8 @@ Our Service does not respond to Do Not Track signals. For more information about
 
 **11\. Contacting us**
 
-If you have any questions about this Privacy Policy, or the practices of our Service, please contact us at [support@stream-it.online](mailto:support@stream-it.online)
+If you have any questions about this Privacy Policy, or the practices of our Service, please contact us at [support@streamit-online.com](mailto:support@streamit-online.com)
 
 **_Data protection officer_ **
 
-Our data protection officer's contact details are: [dpo@stream-it.online](mailto:dpo@stream-it.online). 
+Our data protection officer's contact details are: [dpo@streamit-online.com](mailto:dpo@streamit-online.com). 
