@@ -1,61 +1,424 @@
-<!--The following is the downloaded HTML source of the javhdporn.com privacy policy that was archived on 2019-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190608014147id_/http%3A//javhdporn.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the javhdporn.com privacy policy that was archived on 2019-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190710153209id_/http%3A//javhdporn.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-                                                    <link rel="alternate" href="https://javhd.com/en/privacy" hreflang="x-default">
-                    <link rel="alternate" href="https://javhd.com/en/privacy" hreflang="en">
-        <link rel="canonical" href="https://javhd.com/en/privacy">
-                    <link rel="alternate" href="https://javhd.com/ja/privacy" hreflang="ja">
-                    <link rel="alternate" href="https://javhd.com/zh/privacy" hreflang="zh-Hans">
-                    <link rel="alternate" href="https://javhd.com/tw/privacy" hreflang="zh-Hant">
-                    <link rel="alternate" href="https://javhd.com/th/privacy" hreflang="th">
-                    <link rel="alternate" href="https://javhd.com/ko/privacy" hreflang="ko">
-                    <link rel="alternate" href="https://javhd.com/vi/privacy" hreflang="vi">
-                    <link rel="alternate" href="https://javhd.com/id/privacy" hreflang="id">
+    <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msapplication-config" content="none">
+    <meta name="viewport" content="width=1000">
+    
+<link rel="manifest" href="/manifest.json">
+<script async="" src="https://javhd.com/ascripts/gcu.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+    var OneSignal = window.OneSignal || [];
 
-                 <title>JAVHD.COM - Privacy Policy</title>
-<meta name="keywords" content=", , , , , Privacy Policy">
-<meta name="description" content="">
-<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
-    <meta name="ROBOTS" content="NOINDEX, FOLLOW">
- 
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/images/favicons/apple-touch-icon-57x57.png">
-    <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
-    <script async="" src="https://javhd.com/ascripts/gcu.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    function nowDate() {
+        dateNow = new Date();
+        var DD = dateNow.getDate(),
+            MM = dateNow.getMonth() + 1,
+            YYYY = dateNow.getFullYear();
 
-            <link rel="stylesheet" href="https://c1.cdnjav.com/assets/javhd.com/assets/build/9.3bb0e1d1.css"><link rel="stylesheet" href="https://c1.cdnjav.com/assets/javhd.com/assets/build/mobile_app.725ba9b5.css">
-    
-            <script src="https://c1.cdnjav.com/assets/javhd.com/assets/build/runtime.8cf5d468.js"></script><script src="https://c1.cdnjav.com/assets/javhd.com/assets/build/9.543d9a38.js"></script><script src="https://c1.cdnjav.com/assets/javhd.com/assets/build/mobile_app.f1240efb.js"></script>
-    
-    
-    
+        if (DD < 10) {
+            DD = '0' + DD
+        }
+        if (MM < 10) {
+            MM = '0' + MM
+        }
+
+        return YYYY + "-" + MM + "-" + DD
+    }
+
+    function getSelectedTestGroup(test) {
+        if (!("Notification" in window)) {
+            return {
+                variant: 'not_support_desktop_notification',
+            };
+        }
+        var groups = {};
+        var totalWeight = 0;
+        for (var index in test.groups) {
+            var group = test.groups[index];
+            totalWeight += group.weight;
+            groups[group.variant] = group;
+        }
+
+        var variant = window.localStorage.getItem('test_group_name:' + test.name);
+        var inTest = window.localStorage.getItem('in_test_group');
+
+        console.log(' Notification.permission=' + Notification.permission);
+        if (variant && groups[variant]) {
+            console.log('Get ' + variant + ' group from storage for ' + test.name + ' test');
+            return groups[variant];
+        } else if (inTest || Notification.permission !== "default") {
+            console.log('Select old_user group for ' + test.name + ' test');
+            return {
+                variant: 'old_user',
+            };
+        }
+
+        var weight = Math.floor(Math.random() * Math.floor(totalWeight)) + 1;
+        var currentWeight = 0;
+        for (variant in groups) {
+            currentWeight += groups[variant].weight;
+            if (currentWeight < weight) {
+                continue;
+            }
+            console.log('Select ' + variant + ' group for ' + test.name + ' test');
+            window.localStorage.setItem('test_group_name:' + test.name, variant);
+            window.localStorage.setItem('in_test_group', test.name + ':' + variant);
+            return groups[variant];
+        }
+    }
+
+    // var oneSignalABTest = {
+    //     name: 'TASK-8625',
+    //     groups: [
+    //         {
+    //             variant: 'current',
+    //             weight: 75,
+    //         },
+    //         {
+    //             variant: 'current_AA',
+    //             weight: 25,
+    //         },
+    //     ]
+    // };
+
+    // var oneSignalSelectedGroup = getSelectedTestGroup(oneSignalABTest);
+
+    var oneSignalAppId = 'd021ebf6-2738-415b-9d60-1169e4decd48'; // prod
+    // var oneSignalAppId = 'bb5fb199-e5b4-4bc0-b750-8f621497dfef'; // dev
+
+    function oneSignalInit() {
+        if (window.location.host !== 'javhd.com') {
+            return;
+        }
+
+        if (!("Notification" in window)) {
+            console.log("This browser does not support desktop notification");
+            // PUSH: page hit from browser not supporting web push notifications
+            gl('send', 'GOAL_REACHED', {'goal_id': 439});
+            return;
+        }
+
+        var pushIcons = '/assets/images/push-icons/2.jpg';
+        var pushIconsImage = new Image();
+        pushIconsImage.src = pushIcons;
+
+        var oneSignalLocales = {
+            en: {
+                promptOptions: {
+                    actionMessage: 'We&apos;d like to show you notifications for the latest news and updates.',
+                    acceptButtonText: 'Allow',
+                    cancelButtonText: 'No thanks',
+                }
+            },
+            zh: {
+                promptOptions: {
+                    actionMessage: '我们想向您展示最新资讯和更新内容通知。',
+                    acceptButtonText: '允许',
+                    cancelButtonText: '不，谢谢',
+                }
+            },
+            'zh-tw': {
+                promptOptions: {
+                    actionMessage: '我們想向您展示最新資訊和更新內容通知。',
+                    acceptButtonText: '允許',
+                    cancelButtonText: '不，謝謝',
+                }
+            },
+            th: {
+                promptOptions: {
+                    actionMessage: 'เราต้องการแสดงการแจ้งเตือนเกี่ยวกับข่าวและอัปเดตให้คุณ',
+                    acceptButtonText: 'อนุญาต',
+                    cancelButtonText: 'ไม่ ขอบคุณ',
+                }
+            },
+            vi: {
+                promptOptions: {
+                    actionMessage: 'Chúng tôi muốn hiển thị thông báo về các tin tức và cập nhật mới nhất cho bạn.',
+                    acceptButtonText: 'Cho phép',
+                    cancelButtonText: 'Không, cảm ơn',
+                }
+            },
+            id: {
+                promptOptions: {
+                    actionMessage: 'Kami ingin menunjukkan kepada Anda pemberitahuan untuk berita dan pembaruan terkini.',
+                    acceptButtonText: 'Mengizinkan',
+                    cancelButtonText: 'Tidak, terima kasih',
+                }
+            },
+            ko: {
+                promptOptions: {
+                    actionMessage: '최신 소식 및 업데이트에 관한 알림을 보내드리고자 합니다.',
+                    acceptButtonText: '허용',
+                    cancelButtonText: '거부',
+                }
+            },
+            ja: {
+                promptOptions: {
+                    actionMessage: '最新のニュースと更新 に対する通知をお届けします。',
+                    acceptButtonText: '許可しま す',
+                    cancelButtonText: 'いいえ、結構です',
+                }
+            },
+            es: {
+                promptOptions: {
+                    actionMessage: 'Nos gustaría mostrarle notificaciones de las últimas noticias y actualizaciones.',
+                    acceptButtonText: 'Permitir',
+                    cancelButtonText: 'No, gracias.',
+                }
+            },
+            ar: {
+                promptOptions: {
+                    actionMessage: '\u0646\u0648\u062f \u0623\u0646 \u0646\u0639\u0631\u0636 \u0644\u0643 \u0625\u0634\u0639\u0627\u0631\u0627\u062a \u0623\u062d\u062f\u062b \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0648\u0627\u0644\u0645\u0633\u062a\u062c\u062f\u0627\u062a',
+                    acceptButtonText: "\u0633\u0645\u0627\u062d",
+                    cancelButtonText: '\u0644\u0627\u060c \u0634\u0643\u0631\u064b\u0627',
+                }
+            },
+            fr: {
+                promptOptions: {
+                    actionMessage: 'Nous souhaiterions vous envoyer des notifications sur les toutes dernières informations et mises à jour.',
+                    acceptButtonText: 'Autoriser',
+                    cancelButtonText: 'Non merci',
+                }
+            },
+        };
+
+        var userLocale = window.navigator.language.toLowerCase();
+        if (typeof oneSignalLocales[userLocale] === 'undefined') {
+            userLocale = userLocale.split('-')[0]
+        }
+        if (typeof oneSignalLocales[userLocale] === 'undefined') {
+            userLocale = 'en';
+        }
+        console.log("The userLocale is:" + userLocale);
+
+        var promptOptions = oneSignalLocales[userLocale].promptOptions;
+
+        OneSignal.push(function () {
+            console.log('OneSignal init', oneSignalAppId);
+
+            var tourId = '';
+            OneSignal.sendTag('pre', 'l:' + tourId + ' gl:' + gl.getSID(), function (tag) {
+                console.log("OneSignal sendTag done", tag);
+            });
+
+            var oneSignalTags = {
+                is_landing: !(tourId === '_homepage' || tourId === ''),
+                landing_name: tourId,
+                networkname: 'javbucks',
+                memberid: '',
+                email: '',
+                updated: nowDate(),
+                status: 'GUEST',
+                expire_date: '',
+                user_locale: 'en',
+                // AB_test: oneSignalABTest.name,
+                // AB_variant: oneSignalSelectedGroup.variant,
+                globica_sid: gl.getSID()
+            };
+
+            OneSignal.getUserId(function (userId) {
+                console.log("OneSignal User ID:", userId);
+                if (userId) {
+                    OneSignal.getTags(function (tags) {
+                        console.log("OneSignal getTags", tags);
+                        if (tags.memberid && !'') {
+                            return;
+                        }
+                        OneSignal.sendTags(oneSignalTags, function (tags) {
+                            console.log("OneSignal sendTags done", tags);
+                        });
+                    });
+                } else {
+                    OneSignal.sendTags(oneSignalTags, function (tags) {
+                        console.log("OneSignal sendTags done", tags);
+                    });
+                }
+            });
+
+            if ('') {
+                OneSignal.setExternalUserId('javbucks.');
+            }
+
+            OneSignal.init({
+                appId: oneSignalAppId,
+                autoRegister: false,
+                notifyButton: {
+                    enable: false,
+                },
+                persistNotification: true,
+                promptOptions: jQuery.extend({}, promptOptions, {actionMessage: jQuery('<span>').append(promptOptions.actionMessage).text()}),
+                welcomeNotification: {
+                    disable: true
+                }
+            });
+
+            OneSignal.push(["getNotificationPermission", function (permission) {
+                console.log("Push notifications permission " + permission);
+                if (permission === 'default') {
+                    // PUSH: page visit of not subscribed user
+                    gl('send', 'GOAL_REACHED', {'goal_id': 374});
+                    try {
+                        var oneSignalData = JSON.parse(localStorage.getItem('onesignal-notification-prompt'));
+                        if (oneSignalData.value === '"dismissed"') {
+                            // PUSH: pre prompt - dismissed by timeout
+                            gl('send', 'GOAL_REACHED', {'goal_id': 382});
+                        }
+                    } catch (e) {
+
+                    }
+                }
+            }]);
+
+            OneSignal.on('subscriptionChange', function (isSubscribed) {
+                console.log("The user's subscription state is now:", isSubscribed);
+                if (isSubscribed) {
+                    // PUSH: subscription - allowed
+                    gl('send', 'GOAL_REACHED', {'goal_id': 380});
+                } else {
+                    // PUSH: subscription - disallowed
+                    gl('send', 'GOAL_REACHED', {'goal_id': 381});
+                }
+            });
+
+            OneSignal.on('popoverAllowClick', function () {
+                // PUSH: pre prompt - accepted
+                gl('send', 'GOAL_REACHED', {'goal_id': 376});
+            });
+
+            OneSignal.on('popoverCancelClick', function () {
+                // PUSH: pre prompt - denied
+                gl('send', 'GOAL_REACHED', {'goal_id': 377});
+            });
+
+            OneSignal.on('popoverShown', function () {
+                jQuery('#onesignal-popover-container')
+                    .find('.popover-body-message')
+                    .html(promptOptions.actionMessage);
+                jQuery('#onesignal-popover-allow-button')
+                    .text(promptOptions.acceptButtonText);
+                jQuery('#onesignal-popover-container')
+                    .find('.popover-body-icon')
+                    .find('img')
+                    .attr('src', pushIcons);
+                // PUSH: pre prompt - show
+                gl('send', 'GOAL_REACHED', {'goal_id': 375});
+            });
+
+            OneSignal.on('popupLoad', function () {
+                // PUSH: prompt - show
+                gl('send', 'GOAL_REACHED', {'goal_id': 378});
+            });
+
+            OneSignal.on('popupClose', function () {
+                // PUSH: prompt - denied or closed
+                gl('send', 'GOAL_REACHED', {'goal_id': 379});
+            });
+
+            if (Notification.permission === "granted") {
+                // Automatically subscribe user if deleted cookies and browser shows "Allow"
+                OneSignal.getUserId()
+                    .then(function (userId) {
+                        if (!userId) {
+                            OneSignal.registerForPushNotifications();
+                        }
+                    })
+            } else if (Notification.permission === "default") {
+                OneSignal.showHttpPrompt();
+            }
+        });
+    };
+
+    var onesignalInterval = setInterval(function () {
+        if (typeof window.gl !== "undefined") {
+            clearInterval(window.onesignalInterval);
+            window.gl('function', function () {
+                oneSignalInit();
+            });
+        }
+    }, 500);
+
+</script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+            <link rel="stylesheet" href="https://c1.cdnjav.com/assets/javhd.com/assets/build/0.21595b78.css"><link rel="stylesheet" href="https://c1.cdnjav.com/assets/javhd.com/assets/build/desktop_app.8c1ebbf8.css">
+
+                    <link href="/assets/js/fancybox2/source/jquery.fancybox2.css" rel="stylesheet" type="text/css">
+        
+        
+                        
             
-    
+            <script src="https://c1.cdnjav.com/assets/javhd.com/assets/build/runtime.8cf5d468.js"></script><script src="https://c1.cdnjav.com/assets/javhd.com/assets/build/41.309a6772.js"></script><script src="https://c1.cdnjav.com/assets/javhd.com/assets/build/0.6b805d07.js"></script><script src="https://c1.cdnjav.com/assets/javhd.com/assets/build/desktop_app.db8d6f0b.js"></script>
+
+                    <script type="text/javascript" src="/assets/js/fancybox2/source/jquery.fancybox.js"></script>
+        
+        
+                        
         
     
-    <script>
-        var show_more_text = 'Show more';
-        var loading_text = 'Loading...';
-        var vm_sugg_text = 'View More Suggestions';
+    <script type="text/javascript">
+        var loading_flag = 0;
+        var homepage = "http://javhdporn.com/en";
+        var searchUrl = "http://javhdporn.com/en/search";
+        var cancelUrl = "http://javhdporn.com/en/user/cancel";
+        var passwordUrl = "http://javhdporn.com/change-password";
+                var joinRightNow = "Join Right Now";
+                var upgradeNow = "Upgrade Now";
+                var ilikeit = "Like It!";
+    </script>
 
-            </script>
     
-    <link href="//static.javhd.com/player/jplayer/jplayer.min.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="//static.javhd.com/player/jplayer/jplayer.min.js"></script>
-    
+            <script type="text/javascript">
+            function setCookie(cname, cvalue, exdays) {
+                var d = new Date();
+                d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+                var expires = "expires=" + d.toUTCString();
+                document.cookie = cname + "=" + cvalue + "; " + expires;
+            }
+
+            var ref = document.referrer;
+            if ((ref.indexOf("google") != -1) || (ref.indexOf("search.yahoo") != -1) || (ref.indexOf("bing") != -1)) {
+                //add cookie
+                setCookie('organic', 'yes', 100);
+            }
+        </script>
     
                 <script>
     var showWarning="";
+    function setCookie(name, value, seconds) {
+        if (seconds) {
+            var date = new Date();
+            date.setTime(date.getTime()+(seconds*1000));
+            var expires = "; expires="+date.toGMTString();
+        } else {
+            var expires = "";
+        }
+        document.cookie = name+"="+value+expires+"; path=/";
+    }
+
+    function getCookie(cookie_name) {
+        var cookie = document.cookie, length = cookie.length;
+        if(length) {
+            var cookie_start = cookie.indexOf(cookie_name + '=');
+            if(cookie_start != -1) {
+                var cookie_end = cookie.indexOf(';', cookie_start);
+                if(cookie_end == -1) {
+                    cookie_end = length;
+                }
+                cookie_start += cookie_name.length + 1;
+                return decodeURIComponent(cookie.substring(cookie_start, cookie_end));
+            }
+        }
+        return false;
+    }
 
     if (!getCookie('warning-cookies') && showWarning) {
         var html = '<div class="warning-cookies js-warning-cookies"><p class="warning-cookies__text">We use cookies to ensure that we give you the best experience on our website. If you continue we assume that you consent to receive all cookies on our website. <a class="warning-cookies__link" href="http://javhdporn.com/en/privacy">More info</a></p><button class="warning-cookies__close js-warning-cookies-close"><svg class="warning-cookies__close-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.7 22.3L13.4 12 23.7 1.7c0.4-0.4 0.4-1 0-1.4 -0.4-0.4-1-0.4-1.4 0L12 10.6 1.7 0.3c-0.4-0.4-1-0.4-1.4 0 -0.4 0.4-0.4 1 0 1.4L10.6 12 0.3 22.3c-0.4 0.4-0.4 1 0 1.4 0.4 0.4 1 0.4 1.4 0L12 13.4l10.3 10.3c0.4 0.4 1 0.4 1.4 0C24.1 23.3 24.1 22.7 23.7 22.3z"></path><rect width="24" height="24" fill="none"></rect></svg></button></div>';
-        var styles = '.warning-cookies{position:relative;top:0;left:0;right:0;padding:8px 32px 8px 8px;background:#333;line-height:30px;z-index:201}.warning-cookies__text{color:#a8a8a8;font-size:12px;line-height:14px;margin:0;}.warning-cookies__link{color:#a8a8a8;text-decoration:underline}.warning-cookies__link:hover{color:#fff}.warning-cookies__close{position:absolute;top:8px;right:8px;color:#a8a8a8;border:0;margin:0;padding:0;background:0 0;cursor:pointer;outline:0}.warning-cookies__close:hover{color:#fff}';
+        var styles = '.warning-cookies{position:fixed;top:0;left:0;right:0;padding:8px 50px 8px 20px;background:#333;line-height:30px;z-index:201}.warning-cookies__text{color:#a8a8a8;font-size:12px;line-height:14px;margin:0;}.warning-cookies__link{color:#a8a8a8;text-decoration:underline}.warning-cookies__link:hover{color:#fff}.warning-cookies__close{position:absolute;top:8px;right:20px;color:#a8a8a8;border:0;margin:0;padding:0;background:0 0;cursor:pointer;outline:0}.warning-cookies__close:hover{color:#fff}body{padding-top:30px}.resize-layout .warning-cookies{position:fixed}@media (max-width: 1000px){.resize-layout .warning-cookies{position:absolute}}.resize-layout #header{top:30px}';
 
         document.write(html);
         $('<style class="js-warning-cookies-styles">'+ styles +'</style>').appendTo(document.head);
@@ -71,68 +434,75 @@
             $warningStyles.detach();
         });
     })
-</script>
-                                                                                                                                                                                                                                                                                                                                                                                                            
-            <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter47878910 = new Ya.Metrika2({ id:47878910, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ut:"noindex" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/47878910?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
-    </head>
+</script>        
+                                                    <link rel="alternate" href="https://javhd.com/en/privacy" hreflang="x-default">
+                    <link rel="alternate" href="https://javhd.com/en/privacy" hreflang="en">
+        <link rel="canonical" href="https://javhd.com/en/privacy">
+                    <link rel="alternate" href="https://javhd.com/ja/privacy" hreflang="ja">
+                    <link rel="alternate" href="https://javhd.com/zh/privacy" hreflang="zh-Hans">
+                    <link rel="alternate" href="https://javhd.com/tw/privacy" hreflang="zh-Hant">
+                    <link rel="alternate" href="https://javhd.com/th/privacy" hreflang="th">
+                    <link rel="alternate" href="https://javhd.com/ko/privacy" hreflang="ko">
+                    <link rel="alternate" href="https://javhd.com/vi/privacy" hreflang="vi">
+                    <link rel="alternate" href="https://javhd.com/id/privacy" hreflang="id">
 
-<body class="en">
+                            <link rel="alternate" media="only screen and (max-width: 640px)" href="/en/privacy?vt=m">
+            
+    
+     <title>JAVHD.COM - Privacy Policy</title>
+<meta name="keywords" content=", , , , , Privacy Policy">
+<meta name="description" content="">
+<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
+    <meta name="ROBOTS" content="NOINDEX, FOLLOW">
+     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/images/favicons/apple-touch-icon-57x57.png">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
 
+        <script></script>
 
-<svg width="0" height="0" style="display:none;">
-    <defs>
-        <g id="icon-user" fill="currentColor"><path d="M16.489,9.754c0.808-0.764,0.749-2.433,0.094-3c0.521-1.385,1.189-2.997,0.907-4.409C17.144,0.614,14.686,0,12.686,0 c-1.551,0-3.435,0.391-4.029,1.461C8.06,1.527,7.599,1.774,7.284,2.198C6.416,3.37,7.009,5.169,7.436,6.735 C6.781,7.303,6.703,8.99,7.511,9.754c0.111,1.588,1.05,2.561,1.489,2.934v2.408c-0.421,0.157-0.833,0.309-1.234,0.456 c-3.471,1.276-5.979,2.199-6.713,3.668C0.012,21.301,0,23.411,0,23.5C0,23.776,0.224,24,0.5,24h23c0.276,0,0.5-0.224,0.5-0.5 c0-0.089-0.012-2.199-1.053-4.28c-0.735-1.47-3.243-2.392-6.714-3.668c-0.4-0.148-0.813-0.299-1.233-0.456v-2.408 C15.439,12.314,16.378,11.342,16.489,9.754z"></path></g>
-
-        <g id="icon-heart" fill="currentColor"><path d="M16.407,0 C14.344,0 12.07,1.259 11,4.022 C9.945,1.304 7.729,0.064 5.719,0.064 C1.965,0.064 0,3.637 0,7.165 C0,13.359 10.0313721,19.4503784 10.7073975,19.789 C10.9017696,19.8863612 11.1066106,19.8770465 11.306,19.789 C12.0334473,19.4677734 22,14.42 22,6.573 C22,2.258 19.187,0 16.407,0 Z"></path></g>
-
-        <g id="icon-login" fill="currentColor"><path d="M12,24c6.616,0,12-5.384,12-12c0-6.617-5.384-12-12-12C5.383,0,0,5.383,0,12C0,18.616,5.383,24,12,24z M12,5 c2.205,0,4,1.794,4,4c0,1.418-0.731,2.696-1.931,3.419l0.925,6.005c0.022,0.143-0.02,0.29-0.115,0.401 C14.784,18.935,14.646,19,14.5,19h-5c-0.146,0-0.285-0.065-0.38-0.175c-0.095-0.111-0.137-0.257-0.114-0.401l0.922-6.005 C8.731,11.696,8,10.418,8,9C8,6.794,9.794,5,12,5z"></path></g>
-
-        <g id="icon-logout" fill="currentColor"><path d="M11,12.5h0.002c0.552,0,1-0.446,1-0.998l0.014-6.5c0-0.553-0.446-1.001-0.999-1.002 c-0.546,0.019-1.001,0.445-1.001,0.998l-0.014,6.5C10.002,12.05,10.448,12.499,11,12.5z"></path><path d="M11,20.5c-4.136,0-7.5-3.364-7.5-7.5c0-2.644,1.351-5.042,3.614-6.415c0.473-0.286,1.087-0.137,1.373,0.336 c0.287,0.472,0.137,1.087-0.336,1.373C6.491,9.302,5.5,11.062,5.5,13c0,3.032,2.468,5.5,5.5,5.5s5.5-2.468,5.5-5.5 c0-1.938-0.991-3.698-2.651-4.706c-0.473-0.286-0.623-0.901-0.336-1.373c0.286-0.473,0.9-0.622,1.373-0.336 C17.149,7.958,18.5,10.356,18.5,13C18.5,17.136,15.136,20.5,11,20.5z"></path></g>
-
-        <g id="icon-hd" fill="currentColor"><path d="M2,0 L23,0 C24.105,0 25,0.895 25,2.002 L25,14.001 C25,15.105 24.105,15.999 23,15.999 L2,15.999 C0.896,15.999 0,15.105 0,14.001 L0,2.002 C0,0.895 0.896,0 2,0 Z"></path><path fill="#FFFFFF" d="M19.655,10.007 C19.329,10.596 18.917,11.048 18.42,11.363 C18.004,11.632 17.552,11.805 17.064,11.882 C16.575,11.959 16.055,11.997 15.503,11.997 L13,11.997 L13,4 L15.482,4 C16.044,4 16.57,4.035 17.061,4.107 C17.551,4.179 18.012,4.352 18.441,4.628 C18.968,4.965 19.383,5.418 19.687,5.99 C19.992,6.561 20.144,7.233 20.144,8.006 C20.144,8.751 19.981,9.418 19.655,10.007 Z M17.801,6.639 C17.62,6.265 17.342,5.973 16.966,5.761 C16.694,5.611 16.408,5.529 16.109,5.514 C15.81,5.5 15.453,5.493 15.038,5.493 L15,5.493 L15,10.499 L15.038,10.499 C15.489,10.499 15.869,10.491 16.179,10.474 C16.489,10.458 16.783,10.363 17.063,10.187 C17.392,9.979 17.643,9.693 17.815,9.328 C17.986,8.962 18.072,8.517 18.072,7.99 C18.072,7.464 17.982,7.014 17.801,6.639 Z M9.742,8.452 L7.008,8.452 L7.008,11.997 L5,11.997 L5,4 L7.008,4 L7.008,6.927 L9.742,6.927 L9.742,4 L11.751,4 L11.751,11.997 L9.742,11.997 L9.742,8.452 Z"></path></g>
-
-        <g id="icon-thumb-up" fill="currentColor"><path d="M6.43,20.312c1.598,0.229,2.972,0.607,3.743,0.941C11.062,21.637,11.902,22,13.5,22H19c1.103,0,2-0.897,2-2 c0-0.411-0.125-0.794-0.339-1.112C21.44,18.614,22,17.871,22,17c0-0.411-0.125-0.794-0.339-1.112C22.44,15.614,23,14.871,23,14 c0-0.411-0.125-0.794-0.339-1.112C23.44,12.614,24,11.871,24,11c0-1.102-0.897-2-2-2h-6.299c0.422-1.29,1.198-4.018,0.78-5.508 c-0.638-2.271-1.963-2.448-2.353-2.448c-0.929,0-1.628,0.763-1.628,1.774c0,3.158-3.45,8-6,8c-0.276,0-0.5,0.223-0.5,0.5v8.5 C6,20.066,6.183,20.277,6.43,20.312z"></path><path d="M0.5,22h4C4.775,22,5,21.776,5,21.5v-12C5,9.224,4.775,9,4.5,9h-4C0.224,9,0,9.224,0,9.5v12C0,21.776,0.224,22,0.5,22z M3.5,19C3.775,19,4,19.223,4,19.5C4,19.775,3.775,20,3.5,20C3.224,20,3,19.775,3,19.5C3,19.223,3.224,19,3.5,19z"></path></g>
-
-        <g id="icon-thumb-down" fill="currentColor"><path d="M17.57, 2.732c-1.598-0.229-2.972-0.607-3.743-0.94c-0.89-0.385-1.729-0.748-3.327-0.748H5c-1.102,0-2,0.898-2,2c0,0.411,0.125,0.794,0.339,1.112C2.56,4.431,2,5.173,2,6.044c0,0.411,0.125,0.794,0.339,1.112C1.56,7.431,1,8.173,1,9.044c0,0.411,0.125,0.794,0.339,1.112C0.56,10.431,0,11.173,0,12.044C0,13.146,0.897,14,2,14h6.299	c-0.422,1.29-1.198,4.062-0.78,5.552C8.156,21.823,9.481,22,9.872,22c0.929,0,1.628-0.763,1.628-1.774c0-3.158,3.45-8,6-8c0.276,0,0.5-0.223,0.5-0.5v-8.5C18,2.977,17.817,2.767,17.57,2.732z"></path><path d="M23.5,1.044h-4c-0.275,0-0.5,0.224-0.5,0.5V13.5c0,0.276,0.225,0.5,0.5,0.5h4c0.276,0,0.5-0.224,0.5-0.5V1.544C24,1.268,23.776,1.044,23.5,1.044z M20.5,4.044c-0.275,0-0.5-0.223-0.5-0.5c0-0.275,0.225-0.5,0.5-0.5c0.276,0,0.5,0.225,0.5,0.5C21,3.821,20.776,4.044,20.5,4.044z"></path></g>
-
-        <g id="icon-photo" fill="currentColor"><path d="M22.5,5h-15V4.5C7.5,3.673,6.827,3,6,3H4C3.173,3,2.5,3.673,2.5,4.5V5h-1C0.673,5,0,5.673,0,6.5V10h8 c0.276,0,0.5,0.224,0.5,0.5S8.276,11,8,11H0v1h8c0.276,0,0.5,0.224,0.5,0.5S8.276,13,8,13H0v1h8c0.276,0,0.5,0.224,0.5,0.5 S8.276,15,8,15H0v3.5C0,19.327,0.673,20,1.5,20h21c0.827,0,1.5-0.673,1.5-1.5v-12C24,5.673,23.327,5,22.5,5z M16.5,18 c-3.033,0-5.5-2.467-5.5-5.5C11,9.469,13.467,7,16.5,7S22,9.469,22,12.5C22,15.533,19.533,18,16.5,18z"></path><path d="M16.5,8c-2.481,0-4.5,2.019-4.5,4.5c0,2.482,2.019,4.5,4.5,4.5c2.481,0,4.5-2.018,4.5-4.5C21,10.019,18.981,8,16.5,8z M18.5,14c0,0.276-0.224,0.5-0.5,0.5h-3c-0.276,0-0.5-0.224-0.5-0.5v-3c0-0.276,0.224-0.5,0.5-0.5h3c0.276,0,0.5,0.224,0.5,0.5V14 z"></path></g>
-
-        <g id="icon-share" fill="currentColor"><path d="M19.5,8H13v5.5c0,0.829-0.672,1.5-1.5,1.5S10,14.329,10,13.5V8H3.5C3.224,8,3,8.224,3,8.5v15C3,23.776,3.224,24,3.5,24 h16c0.276,0,0.5-0.224,0.5-0.5v-15C20,8.224,19.776,8,19.5,8z"></path><path d="M16.354,4.647l-4.5-4.5c-0.195-0.195-0.512-0.195-0.707,0l-4.5,4.5c-0.195,0.195-0.195,0.512,0,0.707 s0.512,0.195,0.707,0L11,1.707V13.5c0,0.276,0.224,0.5,0.5,0.5s0.5-0.224,0.5-0.5V1.707l3.646,3.646 c0.195,0.195,0.512,0.195,0.707,0C16.549,5.158,16.549,4.842,16.354,4.647z"></path></g>
-
-        <g id="icon-globe" fill="currentColor"><path d="M15.463,6H8.547c-0.651,1.61-0.991,3.286-1.042,5h9C16.453,9.286,16.113,7.61,15.463,6z"></path><path d="M6.557,12H0.013c0.035,1.788,0.449,3.477,1.158,5h6.307C6.921,15.321,6.614,13.648,6.557,12z"></path><path d="M12.004,23.323l0.101-0.134c1.292-1.723,2.284-3.459,3.009-5.189h-6.22c0.726,1.73,1.718,3.468,3.011,5.192L12.004,23.323z"></path><path d="M16.5,12H7.51c0.062,1.643,0.388,3.314,0.989,5h7.01C16.111,15.314,16.438,13.643,16.5,12z"></path><path d="M16.492,6c0.596,1.613,0.919,3.288,0.966,5h6.493c-0.145-1.81-0.694-3.505-1.561-5H16.492z"></path><path d="M1.482,6c-0.83,1.487-1.335,3.18-1.446,5h6.515c0.047-1.712,0.37-3.387,0.967-5H1.482z"></path><path d="M16.53,17h6.349c0.706-1.524,1.112-3.213,1.119-5h-6.546C17.395,13.648,17.088,15.321,16.53,17z"></path><path d="M11.105,23.792C9.676,21.886,8.596,19.944,7.836,18H1.693c1.972,3.382,5.482,5.709,9.54,5.962L11.105,23.792z"></path><path d="M16.172,18c-0.759,1.942-1.839,3.884-3.267,5.788l-0.128,0.172c4.092-0.275,7.624-2.598,9.583-5.959H16.172z"></path><path d="M7.927,5c0.761-1.697,1.82-3.321,3.211-4.828l0.13-0.142C7.4,0.252,4.12,2.144,2.112,5H7.927z"></path><path d="M12.872,0.172c1.391,1.507,2.45,3.131,3.211,4.828h5.658c-2.043-2.832-5.29-4.733-8.993-4.961L12.872,0.172z"></path><path d="M12.005,0.706l-0.133,0.144C10.661,2.163,9.716,3.554,9.006,5h5.998c-0.709-1.446-1.655-2.837-2.866-4.149L12.005,0.706z"></path></g>
-
-        <g id="icon-model" fill="currentColor"><circle cx="11.5" cy="4" r="4"></circle><path d="M11.5,9c-3.364,0-6,4.173-6,9.5C5.5,18.776,5.724,19,6,19h3v4.5C9,23.776,9.224,24,9.5,24h4c0.276,0,0.5-0.224,0.5-0.5 V19h3c0.276,0,0.5-0.224,0.5-0.5C17.5,13.173,14.864,9,11.5,9z"></path></g>
-
-        <g id="icon-list" fill="currentColor"><path d="M23.5,1h-15C8.224,1,8,1.224,8,1.5v5C8,6.776,8.224,7,8.5,7h15C23.775,7,24,6.776,24,6.5v-5C24,1.224,23.775,1,23.5,1z"></path><path d="M23.5,9h-15C8.224,9,8,9.224,8,9.5v5C8,14.776,8.224,15,8.5,15h15c0.275,0,0.5-0.224,0.5-0.5v-5C24,9.224,23.775,9,23.5,9z"></path><path d="M23.5,17h-15C8.224,17,8,17.224,8,17.5v5C8,22.776,8.224,23,8.5,23h15c0.275,0,0.5-0.224,0.5-0.5v-5C24,17.224,23.775,17,23.5,17z"></path><path d="M5.5,1h-5C0.224,1,0,1.224,0,1.5v5C0,6.776,0.224,7,0.5,7h5C5.775,7,6,6.776,6,6.5v-5C6,1.224,5.775,1,5.5,1z"></path><path d="M5.5,9h-5C0.224,9,0,9.224,0,9.5v5C0,14.776,0.224,15,0.5,15h5C5.775,15,6,14.776,6,14.5v-5C6,9.224,5.775,9,5.5,9z"></path><path d="M5.5,17h-5C0.224,17,0,17.224,0,17.5v5C0,22.776,0.224,23,0.5,23h5C5.775,23,6,22.776,6,22.5v-5C6,17.224,5.775,17,5.5,17z"></path></g>
-
-        <g id="icon-video" fill="currentColor"><path d="M14.5,5.001h-13c-0.827,0-1.5,0.672-1.5,1.5v11c0,0.826,0.673,1.5,1.5,1.499h13c0.827,0.001,1.5-0.673,1.5-1.499v-11 C16,5.673,15.327,5.001,14.5,5.001z"></path><path d="M23.276,6.053l-6,3C17.107,9.138,17,9.311,17,9.501v5c0,0.188,0.107,0.361,0.276,0.447l6,3 C23.611,18.114,24,17.87,24,17.501v-11C24,6.129,23.609,5.887,23.276,6.053z"></path></g>
-
-        <g id="icon-eye" fill="currentColor"><path d="M0.108,12.31C0.325,12.583,5.482,19,12.001,19c6.518,0,11.675-6.417,11.891-6.69c0.145-0.182,0.145-0.439,0-0.62C23.676,11.415,18.519,5,12.001,5C5.482,5,0.325,11.415,0.108,11.69C-0.036,11.871-0.036,12.128,0.108,12.31z M12.001,7.5c2.48,0,4.5,2.018,4.5,4.5s-2.02,4.5-4.5,4.5c-2.482,0-4.5-2.018-4.5-4.5S9.519,7.5,12.001,7.5z"></path><circle cx="12.001" cy="12" r="3.5"></circle></g>
-
-        <g id="icon-search" fill="currentColor"><path d="M9,18c2.131,0,4.089-0.749,5.633-1.992l7.658,7.697c0.389,0.392,1.021,0.393,1.414,0.003c0.392-0.39,0.393-1.023,0.004-1.414l-7.668-7.706C17.264,13.052,18,11.111,18,9c0-4.963-4.037-9-9-9S0,4.037,0,9C0,13.962,4.037,18,9,18z M9,2c3.859,0,7,3.14,7,7c0,3.859-3.141,7-7,7c-3.86,0-7-3.141-7-7C2,5.14,5.14,2,9,2z"></path></g>
-
-        <g id="icon-privat" fill="currentColor">
-    <path fill-rule="evenodd" d="M39.215,2.217 L39.215,9.161 L37.158,9.161 L37.158,2.217 L34.645,2.217 L34.645,0.629 L41.775,0.629 L41.775,2.217 L39.215,2.217 ZM32.951,9.161 L32.453,7.567 L29.635,7.567 L29.143,9.161 L26.945,9.161 L30.074,0.629 L32.008,0.629 L35.160,9.161 L32.951,9.161 ZM31.041,3.020 L30.127,5.979 L31.961,5.979 L31.041,3.020 ZM22.305,9.161 L19.457,0.629 L21.736,0.629 L23.430,6.841 L25.129,0.629 L27.426,0.629 L24.555,9.161 L22.305,9.161 ZM16.639,0.629 L18.690,0.629 L18.690,9.161 L16.639,9.161 L16.639,0.629 ZM11.840,6.149 L10.727,6.149 L10.727,9.161 L8.670,9.161 L8.670,0.629 L12.027,0.629 C12.520,0.629 12.965,0.685 13.363,0.797 C13.762,0.908 14.102,1.072 14.383,1.289 C14.664,1.506 14.880,1.774 15.030,2.094 C15.181,2.415 15.256,2.786 15.256,3.208 C15.256,3.536 15.221,3.828 15.150,4.084 C15.080,4.339 14.979,4.564 14.849,4.757 C14.718,4.951 14.561,5.119 14.377,5.261 C14.193,5.404 13.990,5.528 13.768,5.633 L15.549,9.073 L15.549,9.161 L13.346,9.161 L11.840,6.149 ZM12.906,2.531 C12.707,2.322 12.414,2.217 12.027,2.217 L10.727,2.217 L10.727,4.561 L12.027,4.561 C12.418,4.561 12.712,4.459 12.909,4.254 C13.106,4.048 13.205,3.762 13.205,3.395 C13.205,3.028 13.106,2.740 12.906,2.531 ZM6.689,5.513 C6.404,5.753 6.057,5.939 5.647,6.070 C5.236,6.201 4.775,6.266 4.264,6.266 L2.916,6.266 L2.916,9.161 L0.859,9.161 L0.859,0.629 L4.264,0.629 C4.775,0.629 5.236,0.702 5.647,0.846 C6.057,0.991 6.404,1.192 6.689,1.450 C6.975,1.708 7.193,2.013 7.346,2.367 C7.498,2.720 7.574,3.106 7.574,3.524 C7.574,3.938 7.498,4.313 7.346,4.649 C7.193,4.985 6.975,5.273 6.689,5.513 ZM5.418,3.035 C5.371,2.877 5.298,2.737 5.198,2.616 C5.099,2.495 4.972,2.398 4.817,2.326 C4.663,2.254 4.478,2.217 4.264,2.217 L2.916,2.217 L2.916,4.678 L4.264,4.678 C4.478,4.678 4.663,4.650 4.817,4.593 C4.972,4.537 5.099,4.458 5.198,4.356 C5.298,4.255 5.371,4.133 5.418,3.993 C5.465,3.852 5.488,3.700 5.488,3.536 C5.488,3.360 5.465,3.193 5.418,3.035 Z"></path>
-</g>
-        <g id="icon-online" fill="currentColor">
-    <path fill-rule="evenodd" d="M39.710,7.154 L39.710,8.606 L34.370,8.606 L34.370,0.482 L39.542,0.482 L39.542,1.934 L36.350,1.934 L36.350,3.674 L39.002,3.674 L38.774,5.102 L36.350,5.102 L36.350,7.154 L39.710,7.154 ZM28.874,5.102 C28.826,5.030 28.760,4.926 28.676,4.790 C28.592,4.654 28.504,4.512 28.412,4.363 C28.320,4.215 28.232,4.072 28.148,3.932 C28.064,3.792 27.994,3.678 27.938,3.590 C27.946,3.710 27.956,3.856 27.968,4.028 C27.980,4.200 27.992,4.374 28.004,4.549 C28.016,4.726 28.026,4.898 28.034,5.066 C28.042,5.234 28.046,5.374 28.046,5.486 L28.082,8.606 L26.102,8.606 L26.102,0.482 L27.722,0.482 L30.062,3.962 C30.134,4.074 30.214,4.200 30.302,4.340 C30.390,4.480 30.480,4.622 30.572,4.766 C30.664,4.910 30.750,5.048 30.830,5.180 C30.910,5.312 30.978,5.426 31.034,5.522 C31.026,5.394 31.018,5.246 31.010,5.078 C31.002,4.910 30.992,4.736 30.980,4.556 C30.968,4.376 30.958,4.201 30.950,4.034 C30.942,3.866 30.938,3.718 30.938,3.590 L30.902,0.482 L32.882,0.482 L32.882,8.606 L31.190,8.606 L28.874,5.102 ZM22.634,0.482 L24.614,0.482 L24.614,8.606 L22.634,8.606 L22.634,0.482 ZM17.138,0.482 L19.118,0.482 L19.118,7.154 L21.974,7.154 L21.974,8.606 L17.138,8.606 L17.138,0.482 ZM11.642,5.102 C11.594,5.030 11.528,4.926 11.444,4.790 C11.360,4.654 11.272,4.512 11.180,4.363 C11.088,4.215 11.000,4.072 10.916,3.932 C10.832,3.792 10.762,3.678 10.706,3.590 C10.714,3.710 10.724,3.856 10.736,4.028 C10.748,4.200 10.760,4.374 10.772,4.549 C10.784,4.726 10.794,4.898 10.802,5.066 C10.810,5.234 10.814,5.374 10.814,5.486 L10.850,8.606 L8.870,8.606 L8.870,0.482 L10.490,0.482 L12.830,3.962 C12.902,4.074 12.982,4.200 13.070,4.340 C13.158,4.480 13.248,4.622 13.340,4.766 C13.432,4.910 13.518,5.048 13.598,5.180 C13.678,5.312 13.746,5.426 13.802,5.522 C13.794,5.394 13.786,5.246 13.778,5.078 C13.770,4.910 13.760,4.736 13.748,4.556 C13.736,4.376 13.726,4.201 13.718,4.034 C13.710,3.866 13.706,3.718 13.706,3.590 L13.670,0.482 L15.650,0.482 L15.650,8.606 L13.958,8.606 L11.642,5.102 ZM6.734,7.514 C6.422,7.882 6.030,8.168 5.558,8.372 C5.086,8.576 4.530,8.678 3.890,8.678 C3.258,8.678 2.712,8.588 2.252,8.408 C1.792,8.228 1.414,7.964 1.118,7.616 C0.822,7.268 0.604,6.846 0.464,6.349 C0.324,5.854 0.254,5.286 0.254,4.646 C0.254,4.022 0.332,3.448 0.488,2.924 C0.644,2.400 0.878,1.948 1.190,1.568 C1.502,1.188 1.896,0.894 2.372,0.686 C2.848,0.477 3.406,0.374 4.046,0.374 C4.678,0.374 5.222,0.470 5.678,0.662 C6.134,0.854 6.510,1.126 6.806,1.478 C7.102,1.830 7.320,2.260 7.460,2.768 C7.600,3.276 7.670,3.846 7.670,4.478 C7.670,5.102 7.592,5.671 7.436,6.188 C7.280,6.704 7.046,7.146 6.734,7.514 ZM5.456,3.470 C5.404,3.126 5.316,2.828 5.192,2.576 C5.068,2.324 4.898,2.128 4.682,1.988 C4.466,1.848 4.198,1.778 3.878,1.778 C3.358,1.778 2.980,2.020 2.744,2.504 C2.508,2.988 2.390,3.658 2.390,4.514 C2.390,4.922 2.416,5.294 2.468,5.630 C2.520,5.966 2.608,6.256 2.732,6.500 C2.856,6.744 3.026,6.934 3.242,7.070 C3.458,7.206 3.730,7.274 4.058,7.274 C4.578,7.274 4.954,7.042 5.186,6.578 C5.418,6.114 5.534,5.454 5.534,4.598 C5.534,4.190 5.508,3.814 5.456,3.470 Z"></path>
-</g>
-
-        <g id="icon-right" fill="currentColor">
-    <path d="M1,14a1,1,0,0,1-.71-1.71L5.59,7,.29,1.71A1,1,0,0,1,1.71.29l6,6a1,1,0,0,1,0,1.41l-6,6A1,1,0,0,1,1,14Z"></path>
-</g>
-    </defs>
-</svg>
-
-
-
+            <link href="//static.javhd.com/player/jplayer/jplayer.min.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="//static.javhd.com/player/jplayer/jplayer.min.js"></script>    
+            <!-- Yandex.Metrika counter -->
+        <script type="text/javascript"> (function (d, w, c) {
+                (w[c] = w[c] || []).push(function () {
+                    try {
+                        w.yaCounter47878991 = new Ya.Metrika2({
+                            id: 47878991,
+                            clickmap: true,
+                            trackLinks: true,
+                            accurateTrackBounce: true,
+                            webvisor: true,
+                            ut: "noindex"
+                        });
+                    } catch (e) {
+                    }
+                });
+                var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () {
+                    n.parentNode.insertBefore(s, n);
+                };
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "https://mc.yandex.ru/metrika/tag.js";
+                if (w.opera == "[object Opera]") {
+                    d.addEventListener("DOMContentLoaded", f, false);
+                } else {
+                    f();
+                }
+            })(document, window, "yandex_metrika_callbacks2"); </script>
+        <noscript>
+            <div><img src="https://mc.yandex.ru/watch/47878991?ut=noindex" style="position:absolute; left:-9999px;"
+                      alt=""/></div>
+        </noscript> <!-- /Yandex.Metrika counter -->
+            
 
 
     
     
     
 
-<script type="text/javascript">
+<script>
     (function (e, t, n, a, c, i) {
         e.globicaObjectName = a, e[a] = e[a] || function () {
             (e[a].q = e[a].q || []).push(arguments);
@@ -144,7 +514,7 @@
         'networkname': 'javbucks',
         'pagetype': 'PRIVACY',
         'pageid': '',
-        'templatetype': 'mobile',
+        'templatetype': 'desktop',
         'locale': 'en',
         'zone': 'NONAUTHORIZED',
         'user_status': 'GUEST',
@@ -172,119 +542,279 @@
             });
         })
     });
-</script>
+</script></head>
+
+<body class="en    ">
+
+<div class="js-app_config" data-locale="en" data-nats="MC4wLjIuMi4wLjAuMC4wLjA" data-formprices="null" data-user-status="GUEST" data-user-member-id=""></div>
+
 
 <script></script>
 
-        <header class="b-header">
-    <div class="b-header-logo"><a class="b-header-logo-link" href="http://javhdporn.com/en" title="javhdporn.com" data-ga-category="mobmainpage" data-ga-section="topbar" data-ga-id="logo">
-            <svg width="100%" viewBox="0 0 198 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                <g id="SVG-EXPORT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                    <g id="Light">
-                        <g id="JAVHD-light">
-                            <path d="M128.474995,28.331359 C128.905812,26.1681332 131.047846,24.4144921 133.249731,24.414492 L193.59983,24.4144897 C195.806027,24.4144897 197.594502,26.2076504 197.594502,28.4228232 L197.594502,78.7227199 C197.594502,80.9364614 195.812459,82.7310535 193.602241,82.7310535 L117.641013,82.7310548 L128.474995,28.331359 Z" id="Rectangle-1-Copy" fill="#1C89E3"></path>
-                            <path d="M138.817171,35.4534832 L138.817171,71.584847 L145.839736,71.584847 L145.839736,56.4675702 L153.183945,56.4675702 L153.183945,71.584847 L160.206509,71.584847 L160.206509,35.4534832 L153.183945,35.4534832 L153.183945,49.9274717 L145.839736,49.9274717 L145.839736,35.4534832 L138.817171,35.4534832 Z M164.54654,71.4776323 C165.940331,71.6384544 168.138233,71.8528839 170.336135,71.8528839 C175.375227,71.8528839 178.966921,70.7271292 181.379252,68.3684052 C184.542087,65.5808222 186.418344,60.3809078 186.418344,53.0903062 C186.418344,46.0677414 184.810124,41.2966859 181.700896,38.509103 C179.39578,36.3648084 176.232945,35.2926611 171.676319,35.2926611 C168.888736,35.2926611 166.315583,35.5606979 164.54654,35.9895568 L164.54654,71.4776323 Z M171.569104,41.0822565 C171.997963,40.9214344 172.48043,40.9214344 172.962896,40.9214344 C177.197878,40.9214344 179.127743,45.424453 179.127743,52.8222694 C179.127743,62.7932392 176.179338,66.1168958 172.802074,66.1168958 C172.426822,66.1168958 171.890749,66.1168958 171.569104,66.0096811 L171.569104,41.0822565 Z" id="HD" fill="#FFFFFF"></path>
-                            <path d="M15.5386755,57.125639 C15.5386755,67.782541 11.6188955,69.6199379 6.96415666,69.6199379 C4.8817735,69.6199379 3.28936285,69.4974448 1.6969522,69.0074723 L0.349527802,82.4817163 C2.18692471,83.216675 5.12675975,83.7066475 8.43407418,83.7066475 C20.1934144,83.7066475 31.7077683,80.1543468 31.7077683,56.3906802 L31.7077683,0.166334956 L15.5386755,0.166334956 L15.5386755,57.125639 Z M66.4026171,63.862761 L69.9549178,82.7267025 L85.5115449,82.7267025 L69.4649453,0.166334956 L50.2335243,0.166334956 L32.3495278,82.7267025 L47.9061549,82.7267025 L51.5809487,63.862761 L66.4026171,63.862761 Z M52.8761495,51.368462 L55.9384777,34.2194242 C56.7959296,29.4421923 58.0208608,20.8676734 58.8783127,15.3554827 L59.2457921,15.3554827 C59.9807509,20.8676734 61.083189,29.0747129 61.9406409,34.0969311 L64.6354897,51.368462 L52.8761495,51.368462 Z M110.438822,82.7267025 L126.889106,0.166334956 L111.663753,0.166334956 L106.029069,35.4443555 C104.559152,44.7538332 103.211727,54.6757764 102.109289,64.4752266 L101.864303,64.4752266 C100.761865,54.7982696 99.0469612,44.63134 97.5770436,35.8118349 L91.6973735,0.166334956 L76.3495278,0.166334956 L92.4323323,82.7267025 L110.438822,82.7267025 Z" id="JAV" fill="#DDDDDD"></path>
-                        </g>
-                    </g>
-                </g>
-            </svg>
-        </a></div>
     
-        <a class="btn btn-join js-gaBtnJoin" href="/en/join" data-ga-category="mobmainpage" data-ga-section="topbar" data-ga-id="registration">Join Now</a>
+<svg width="0" height="0" style="display:none;">
+  <defs>
+      <g id="icon-login" fill="currentColor"><path d="M12,24c6.616,0,12-5.384,12-12c0-6.617-5.384-12-12-12C5.383,0,0,5.383,0,12C0,18.616,5.383,24,12,24z M12,5 c2.205,0,4,1.794,4,4c0,1.418-0.731,2.696-1.931,3.419l0.925,6.005c0.022,0.143-0.02,0.29-0.115,0.401 C14.784,18.935,14.646,19,14.5,19h-5c-0.146,0-0.285-0.065-0.38-0.175c-0.095-0.111-0.137-0.257-0.114-0.401l0.922-6.005 C8.731,11.696,8,10.418,8,9C8,6.794,9.794,5,12,5z"></path></g>
 
-                    <a class="btn btn-login" href="https://secure.javhd.com/login/?back=javhdporn.com&amp;path=L2VuL3ByaXZhY3k&amp;lang=en&amp;nats=MC4wLjIuMi4wLjAuMC4wLjA" data-ga-category="mobmainpage" data-ga-section="topbar" data-ga-id="memberslogin">Login</a>
-                            <a href="http://javhdporn.com/en/freezone" class="btn link-freezone " title="Free Videos">Free</a>
-    </header>
+      <g id="icon-user" fill="currentColor"><path d="M16.489,9.754c0.808-0.764,0.749-2.433,0.094-3c0.521-1.385,1.189-2.997,0.907-4.409C17.144,0.614,14.686,0,12.686,0 c-1.551,0-3.435,0.391-4.029,1.461C8.06,1.527,7.599,1.774,7.284,2.198C6.416,3.37,7.009,5.169,7.436,6.735 C6.781,7.303,6.703,8.99,7.511,9.754c0.111,1.588,1.05,2.561,1.489,2.934v2.408c-0.421,0.157-0.833,0.309-1.234,0.456 c-3.471,1.276-5.979,2.199-6.713,3.668C0.012,21.301,0,23.411,0,23.5C0,23.776,0.224,24,0.5,24h23c0.276,0,0.5-0.224,0.5-0.5 c0-0.089-0.012-2.199-1.053-4.28c-0.735-1.47-3.243-2.392-6.714-3.668c-0.4-0.148-0.813-0.299-1.233-0.456v-2.408 C15.439,12.314,16.378,11.342,16.489,9.754z"></path></g>
 
-    <div class="b-content">
-        <div class="b-search-wrapper"><div class="b-search"><form id="main_search" action="http://javhdporn.com/en/search"><label class="b-search-input"><input class="b-search-input-text" type="text" name="q" id="q" value=""><button class="b-search-input-button" type="submit">Go</button></label></form></div></div>            <div class="b-terms">
-    <h2>Privacy Policy</h2>
-    <div>
-        <strong>Our Commitment To Privacy</strong>
-        <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.</p>
-        <p>This notice applies to all information collected or submitted on www.javhd.com web site.</p>
-    </div>
-    <div>
-        <strong>What information do we collect?</strong>
-        <p>We collect information from you when you sign up our sites, subscribe to our newsletter or respond to a survey. When signing up on our sites, as appropriate, you may be asked to enter your - name, e-mail address, mailing address and billing information (as a credit card number). You may, however, visit our site anonymously.</p>
-    </div>
-    <div>
-        <strong>What do we use your information for?</strong>
-        <p>Any of the information we collect from you may be used in one of the following ways:</p>
-        <ul>
-            <li>– To personalize your experience (your information helps us to better respond to your individual needs).</li>
-            <li>– To improve our websites (we continually strive to improve our websites offerings based on the information and feedback we receive from you).</li>
-            <li>– To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).</li>
-            <li>– To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</li>
-            <li>– To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</li>
-        </ul>
-    </div>
-    <div>
-        <strong>How do we protect your information?</strong>
-        <p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.</p>
-        <p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.</p>
-        <p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p>
-    </div>
-    <div>
-        <strong>Do we use cookies?</strong>
-        <p>Yes (Cookies are small files that a site or its service provider transfers to yur computer`s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help Compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Cookies are used for a variety of purposes. For instance, when you return to the Site after logging in, cookies provide information to the Site so that the Site will remember you. We may also use temporary or "session" cookies to help you watch videos. These cookies will expire when you place an order. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Google Chrome or Safari) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your experience on the Site smoother, like the features mentioned above, and some of our services will not function properly. Some of our business partners may also use cookies on the Site; however, we have no access to, or control over, these cookies and do not accept any responsibility for such use.</p> <p>The Site use a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in code on the pages of web sites. We may use these technical methods to analyze the traffic patterns on the Site, such as the frequency with which our users visit various parts of the Site. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf.</p> <p>The Site includes third party advertising and links to other web sites. These companies are called "network advertisers". We do not provide any personally identifiable information to these network advertisers. Network advertisers who place advertisements on the Site, or third parties with whom we have a relationship, may also use cookies and web beacons to collect non-personally identifiable information. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on the Site and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Once you have clicked on an advertisement and have left the Site, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site. You should contact these advertisers directly if you have any questions about their use of the information that they collect.</p>    </div>
-    <div>
-        <strong>Do we disclose any information to outside parties?</strong>
-        <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-    </div>
-    <div>
-        <strong>Third party links</strong>
-        <p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
-    </div>
-    <div>
-        <strong>Online Privacy Policy Only</strong>
-        <p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
-    </div>
-    <div>
-        <strong>Terms and Conditions</strong>
-        <p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <a href="https://javhd.com/en/terms">https://javhd.com/en/terms</a></p>
-    </div>
-    <div>
-        <strong>Your Consent</strong>
-        <p>By using our site, you consent to our on-line privacy policy.</p>
-    </div>
-    <div>
-        <strong>Changes to our Privacy Policy</strong>
-        <p>If we decide to change our privacy policy, we will post those changes on this page.</p>
-    </div>
-    <div>
-        <strong>Questions and Contact Information</strong>
-        <p>All questions to <span class="hidden_company"></span> regarding this Privacy Policy must be directed to: <img src="/assets/images/mobile/mail.png" alt="contact" style="margin-bottom:-3px;"></p>
+      <g id="icon-heart" fill="currentColor"><path d="M16.407,0 C14.344,0 12.07,1.259 11,4.022 C9.945,1.304 7.729,0.064 5.719,0.064 C1.965,0.064 0,3.637 0,7.165 C0,13.359 10.0313721,19.4503784 10.7073975,19.789 C10.9017696,19.8863612 11.1066106,19.8770465 11.306,19.789 C12.0334473,19.4677734 22,14.42 22,6.573 C22,2.258 19.187,0 16.407,0 Z"></path></g>
 
+      <g id="icon-logout" fill="currentColor"><path d="M11,12.5h0.002c0.552,0,1-0.446,1-0.998l0.014-6.5c0-0.553-0.446-1.001-0.999-1.002 c-0.546,0.019-1.001,0.445-1.001,0.998l-0.014,6.5C10.002,12.05,10.448,12.499,11,12.5z"></path><path d="M11,20.5c-4.136,0-7.5-3.364-7.5-7.5c0-2.644,1.351-5.042,3.614-6.415c0.473-0.286,1.087-0.137,1.373,0.336 c0.287,0.472,0.137,1.087-0.336,1.373C6.491,9.302,5.5,11.062,5.5,13c0,3.032,2.468,5.5,5.5,5.5s5.5-2.468,5.5-5.5 c0-1.938-0.991-3.698-2.651-4.706c-0.473-0.286-0.623-0.901-0.336-1.373c0.286-0.473,0.9-0.622,1.373-0.336 C17.149,7.958,18.5,10.356,18.5,13C18.5,17.136,15.136,20.5,11,20.5z"></path></g>
 
-<p class="hidden_addr"></p>
+      <g id="icon-hd" fill="currentColor"><path d="M2,0 L23,0 C24.105,0 25,0.895 25,2.002 L25,14.001 C25,15.105 24.105,15.999 23,15.999 L2,15.999 C0.896,15.999 0,15.105 0,14.001 L0,2.002 C0,0.895 0.896,0 2,0 Z"></path><path fill="#FFFFFF" d="M19.655,10.007 C19.329,10.596 18.917,11.048 18.42,11.363 C18.004,11.632 17.552,11.805 17.064,11.882 C16.575,11.959 16.055,11.997 15.503,11.997 L13,11.997 L13,4 L15.482,4 C16.044,4 16.57,4.035 17.061,4.107 C17.551,4.179 18.012,4.352 18.441,4.628 C18.968,4.965 19.383,5.418 19.687,5.99 C19.992,6.561 20.144,7.233 20.144,8.006 C20.144,8.751 19.981,9.418 19.655,10.007 Z M17.801,6.639 C17.62,6.265 17.342,5.973 16.966,5.761 C16.694,5.611 16.408,5.529 16.109,5.514 C15.81,5.5 15.453,5.493 15.038,5.493 L15,5.493 L15,10.499 L15.038,10.499 C15.489,10.499 15.869,10.491 16.179,10.474 C16.489,10.458 16.783,10.363 17.063,10.187 C17.392,9.979 17.643,9.693 17.815,9.328 C17.986,8.962 18.072,8.517 18.072,7.99 C18.072,7.464 17.982,7.014 17.801,6.639 Z M9.742,8.452 L7.008,8.452 L7.008,11.997 L5,11.997 L5,4 L7.008,4 L7.008,6.927 L9.742,6.927 L9.742,4 L11.751,4 L11.751,11.997 L9.742,11.997 L9.742,8.452 Z"></path></g>
+
+      <g id="icon-thumb-up" fill="currentColor"><path d="M6.43,20.312c1.598,0.229,2.972,0.607,3.743,0.941C11.062,21.637,11.902,22,13.5,22H19c1.103,0,2-0.897,2-2 c0-0.411-0.125-0.794-0.339-1.112C21.44,18.614,22,17.871,22,17c0-0.411-0.125-0.794-0.339-1.112C22.44,15.614,23,14.871,23,14 c0-0.411-0.125-0.794-0.339-1.112C23.44,12.614,24,11.871,24,11c0-1.102-0.897-2-2-2h-6.299c0.422-1.29,1.198-4.018,0.78-5.508 c-0.638-2.271-1.963-2.448-2.353-2.448c-0.929,0-1.628,0.763-1.628,1.774c0,3.158-3.45,8-6,8c-0.276,0-0.5,0.223-0.5,0.5v8.5 C6,20.066,6.183,20.277,6.43,20.312z"></path><path d="M0.5,22h4C4.775,22,5,21.776,5,21.5v-12C5,9.224,4.775,9,4.5,9h-4C0.224,9,0,9.224,0,9.5v12C0,21.776,0.224,22,0.5,22z M3.5,19C3.775,19,4,19.223,4,19.5C4,19.775,3.775,20,3.5,20C3.224,20,3,19.775,3,19.5C3,19.223,3.224,19,3.5,19z"></path></g>
+
+      <g id="icon-thumb-down" fill="currentColor"><path d="M17.57, 2.732c-1.598-0.229-2.972-0.607-3.743-0.94c-0.89-0.385-1.729-0.748-3.327-0.748H5c-1.102,0-2,0.898-2,2c0,0.411,0.125,0.794,0.339,1.112C2.56,4.431,2,5.173,2,6.044c0,0.411,0.125,0.794,0.339,1.112C1.56,7.431,1,8.173,1,9.044c0,0.411,0.125,0.794,0.339,1.112C0.56,10.431,0,11.173,0,12.044C0,13.146,0.897,14,2,14h6.299	c-0.422,1.29-1.198,4.062-0.78,5.552C8.156,21.823,9.481,22,9.872,22c0.929,0,1.628-0.763,1.628-1.774c0-3.158,3.45-8,6-8c0.276,0,0.5-0.223,0.5-0.5v-8.5C18,2.977,17.817,2.767,17.57,2.732z"></path><path d="M23.5,1.044h-4c-0.275,0-0.5,0.224-0.5,0.5V13.5c0,0.276,0.225,0.5,0.5,0.5h4c0.276,0,0.5-0.224,0.5-0.5V1.544C24,1.268,23.776,1.044,23.5,1.044z M20.5,4.044c-0.275,0-0.5-0.223-0.5-0.5c0-0.275,0.225-0.5,0.5-0.5c0.276,0,0.5,0.225,0.5,0.5C21,3.821,20.776,4.044,20.5,4.044z"></path></g>
+
+      <g id="icon-flag" fill="currentColor"><path d="M20.699,7.534l-15-6.5C5.367,0.893,5,1.134,5,1.493v13c0,0.355,0.363,0.602,0.699,0.459l15-6.5 C21.1,8.279,21.1,7.708,20.699,7.534z"></path><path d="M3-0.007c-0.553,0-1,0.448-1,1v22c0,0.553,0.447,1,1,1s1-0.447,1-1v-22C4,0.441,3.553-0.007,3-0.007z"></path></g>
+
+      <g id="icon-keyboard" fill="currentColor"><path d="M27 16L25 16C24.4 16 24 15.6 24 15L24 13C24 12.4 24.4 12 25 12L27 12C27.6 12 28 12.4 28 13L28 15C28 15.6 27.6 16 27 16ZM27 10L19 10C18.4 10 18 9.6 18 9L18 7C18 6.4 18.4 6 19 6L27 6C27.6 6 28 6.4 28 7L28 9C 28 9.6 27.6 10 27 10ZM27 4L25 4C24.4 4 24 3.6 24 3L24 1C24 0.4 24.4 0 25 0L27 0C27.6 0 28 0.4 28 1L28 3C28 3.6 27.6 4 27 4ZM21 16L7 16C6.4 16 6 15.6 6 15L6 13C6 12.4 6.4 12 7 12L21 12C21.6 12 22 12.4 22 13L22 15C22 15.6 21.6 16 21 16ZM21 4L19 4C18.4 4 18 3.6 18 3L18 1C18 0.4 18.4 0 19 0L21 0C21.6 0 22 0.4 22 1L22 3C22 3.6 21.6 4 21 4ZM15 10L13 10C12.4 10 12 9.6 12 9L12 7C12 6.4 12.4 6 13 6L15 6C15.6 6 16 6.4 16 7L16 9C16 9.6 15.6 10 15 10ZM15 4L13 4C12.4 4 12 3.6 12 3L12 1C12 0.4 12.4 0 13 0L15 0C15.6 0 16 0.4 16 1L16 3C16 3.6 15.6 4 15 4ZM9 10L7 10C6.4 10 6 9.6 6 9L6 7C6 6.4 6.4 6 7 6L9 6C9.6 6 10 6.4 10 7L10 9C10 9.6 9.6 10 9 10ZM9 4L7 4C6.4 4 6 3.6 6 3L6 1C6 0.4 6.4 0 7 0L9 0C9.6 0 10 0.4 10 1L10 3C10 3.6 9.6 4 9 4ZM3 16L1 16C0.4 16 0 15.6 0 15L0 13C0 12.4 0.4 12 1 12L3 12C3.6 12 4 12.4 4 13L4 15C4 15.6 3.6 16 3 16ZM3 10L1 10C0.4 10 0 9.6 0 9L0 7C0 6.4 0.4 6 1 6L3 6C3.6 6 4 6.4 4 7L4 9C4 9.6 3.6 10 3 10ZM3 4L1 4C0.4 4 0 3.6 0 3L0 1C0 0.4 0.4 0 1 0L3 0C3.6 0 4 0.4 4 1L4 3C4 3.6 3.6 4 3 4Z"></path></g>
+
+      <g id="icon-photo" fill="currentColor"><path d="M22.5,5h-15V4.5C7.5,3.673,6.827,3,6,3H4C3.173,3,2.5,3.673,2.5,4.5V5h-1C0.673,5,0,5.673,0,6.5V10h8 c0.276,0,0.5,0.224,0.5,0.5S8.276,11,8,11H0v1h8c0.276,0,0.5,0.224,0.5,0.5S8.276,13,8,13H0v1h8c0.276,0,0.5,0.224,0.5,0.5 S8.276,15,8,15H0v3.5C0,19.327,0.673,20,1.5,20h21c0.827,0,1.5-0.673,1.5-1.5v-12C24,5.673,23.327,5,22.5,5z M16.5,18 c-3.033,0-5.5-2.467-5.5-5.5C11,9.469,13.467,7,16.5,7S22,9.469,22,12.5C22,15.533,19.533,18,16.5,18z"></path><path d="M16.5,8c-2.481,0-4.5,2.019-4.5,4.5c0,2.482,2.019,4.5,4.5,4.5c2.481,0,4.5-2.018,4.5-4.5C21,10.019,18.981,8,16.5,8z M18.5,14c0,0.276-0.224,0.5-0.5,0.5h-3c-0.276,0-0.5-0.224-0.5-0.5v-3c0-0.276,0.224-0.5,0.5-0.5h3c0.276,0,0.5,0.224,0.5,0.5V14 z"></path></g>
+
+      <g id="icon-share" fill="currentColor"><path d="M19.5,8H13v5.5c0,0.829-0.672,1.5-1.5,1.5S10,14.329,10,13.5V8H3.5C3.224,8,3,8.224,3,8.5v15C3,23.776,3.224,24,3.5,24 h16c0.276,0,0.5-0.224,0.5-0.5v-15C20,8.224,19.776,8,19.5,8z"></path><path d="M16.354,4.647l-4.5-4.5c-0.195-0.195-0.512-0.195-0.707,0l-4.5,4.5c-0.195,0.195-0.195,0.512,0,0.707 s0.512,0.195,0.707,0L11,1.707V13.5c0,0.276,0.224,0.5,0.5,0.5s0.5-0.224,0.5-0.5V1.707l3.646,3.646 c0.195,0.195,0.512,0.195,0.707,0C16.549,5.158,16.549,4.842,16.354,4.647z"></path></g>
+
+      <g id="icon-globe" fill="currentColor"><path d="M15.463,6H8.547c-0.651,1.61-0.991,3.286-1.042,5h9C16.453,9.286,16.113,7.61,15.463,6z"></path><path d="M6.557,12H0.013c0.035,1.788,0.449,3.477,1.158,5h6.307C6.921,15.321,6.614,13.648,6.557,12z"></path><path d="M12.004,23.323l0.101-0.134c1.292-1.723,2.284-3.459,3.009-5.189h-6.22c0.726,1.73,1.718,3.468,3.011,5.192L12.004,23.323z"></path><path d="M16.5,12H7.51c0.062,1.643,0.388,3.314,0.989,5h7.01C16.111,15.314,16.438,13.643,16.5,12z"></path><path d="M16.492,6c0.596,1.613,0.919,3.288,0.966,5h6.493c-0.145-1.81-0.694-3.505-1.561-5H16.492z"></path><path d="M1.482,6c-0.83,1.487-1.335,3.18-1.446,5h6.515c0.047-1.712,0.37-3.387,0.967-5H1.482z"></path><path d="M16.53,17h6.349c0.706-1.524,1.112-3.213,1.119-5h-6.546C17.395,13.648,17.088,15.321,16.53,17z"></path><path d="M11.105,23.792C9.676,21.886,8.596,19.944,7.836,18H1.693c1.972,3.382,5.482,5.709,9.54,5.962L11.105,23.792z"></path><path d="M16.172,18c-0.759,1.942-1.839,3.884-3.267,5.788l-0.128,0.172c4.092-0.275,7.624-2.598,9.583-5.959H16.172z"></path><path d="M7.927,5c0.761-1.697,1.82-3.321,3.211-4.828l0.13-0.142C7.4,0.252,4.12,2.144,2.112,5H7.927z"></path><path d="M12.872,0.172c1.391,1.507,2.45,3.131,3.211,4.828h5.658c-2.043-2.832-5.29-4.733-8.993-4.961L12.872,0.172z"></path><path d="M12.005,0.706l-0.133,0.144C10.661,2.163,9.716,3.554,9.006,5h5.998c-0.709-1.446-1.655-2.837-2.866-4.149L12.005,0.706z"></path></g>
+
+      <g id="icon-models" fill="currentColor"><g transform="translate(9.0555557, 0.000000)"><circle cx="6.5" cy="4" r="4"></circle><path d="M6.5,9 C3.136,9 0.5,13.173 0.5,18.5 C0.5,18.776 0.724,19 1,19 L4,19 L4,23.5 C4,23.776 4.224,24 4.5,24 L8.5,24 C8.776,24 9,23.776 9,23.5 L9,19 L12,19 C12.276,19 12.5,18.776 12.5,18.5 C12.5,13.173 9.864,9 6.5,9 Z"></path></g><g transform="translate(0.0000000, 1.499023)"><ellipse cx="4.69444444" cy="2.91682943" rx="2.88888889" ry="2.91682943"></ellipse><path d="M4.69444444,6.56286621 C2.26488889,6.56286621 0.361111111,9.60584851 0.361111111,13.4903361 C0.361111111,13.6915973 0.522888889,13.8549398 0.722222222,13.8549398 L2.88888889,13.8549398 L2.88888889,17.1363729 C2.88888889,17.3376341 3.05066667,17.5009766 3.25,17.5009766 L6.13888889,17.5009766 C6.33822222,17.5009766 6.5,17.3376341 6.5,17.1363729 L6.5,13.8549398 L8.66666667,13.8549398 C8.866,13.8549398 9.02777778,13.6915973 9.02777778,13.4903361 C9.02777778,9.60584851 7.124,6.56286621 4.69444444,6.56286621 Z"></path></g><g transform="translate(22.0000000, 1.499023)"><ellipse cx="4.69444444" cy="2.91682943" rx="2.88888889" ry="2.91682943"></ellipse><path d="M4.69444444,6.56286621 C2.26488889,6.56286621 0.361111111,9.60584851 0.361111111,13.4903361 C0.361111111,13.6915973 0.522888889,13.8549398 0.722222222,13.8549398 L2.88888889,13.8549398 L2.88888889,17.1363729 C2.88888889,17.3376341 3.05066667,17.5009766 3.25,17.5009766 L6.13888889,17.5009766 C6.33822222,17.5009766 6.5,17.3376341 6.5,17.1363729 L6.5,13.8549398 L8.66666667,13.8549398 C8.866,13.8549398 9.02777778,13.6915973 9.02777778,13.4903361 C9.02777778,9.60584851 7.124,6.56286621 4.69444444,6.56286621 Z"></path></g></g>
+
+      <g id="icon-folder-video" fill="currentColor"><path d="M23.5,6H21V4.5C21,4.225,20.776,4,20.5,4H8V2.5C8,2.225,7.776,2,7.5,2h-7C0.224,2,0,2.225,0,2.5V19c0,1.655,1.346,3,3,3 h17.5c1.93,0,3.5-1.569,3.5-3.5v-12C24,6.225,23.776,6,23.5,6z M17.752,14.433l-6,3.5C11.417,18.125,11,17.886,11,17.5v-7 c0-0.383,0.416-0.625,0.752-0.432l6,3.5C18.082,13.762,18.083,14.238,17.752,14.433z M20,6H5.5C5.224,6,5,6.225,5,6.5V19 c0,1.103-0.897,2-2,2c-1.102,0-2-0.897-2-2V3h6v1.5C7,4.777,7.224,5,7.5,5H20V6z"></path></g>
+
+      <g id="icon-video" fill="currentColor"><path d="M14.5,5.001h-13c-0.827,0-1.5,0.672-1.5,1.5v11c0,0.826,0.673,1.5,1.5,1.499h13c0.827,0.001,1.5-0.673,1.5-1.499v-11 C16,5.673,15.327,5.001,14.5,5.001z"></path><path d="M23.276,6.053l-6,3C17.107,9.138,17,9.311,17,9.501v5c0,0.188,0.107,0.361,0.276,0.447l6,3 C23.611,18.114,24,17.87,24,17.501v-11C24,6.129,23.609,5.887,23.276,6.053z"></path></g>
+
+      <g id="icon-camera-2" fill="currentColor"><circle cx="4" cy="10" r="1"></circle><path d="M14.5,8c-2.757,0-5,2.243-5,5s2.243,5,5,5s5-2.243,5-5S17.257,8,14.5,8z M14.5,16.5c-1.93,0-3.5-1.57-3.5-3.5 s1.57-3.5,3.5-3.5S18,11.07,18,13S16.43,16.5,14.5,16.5z"></path><path d="M21.444,6h-1.635C19.29,4.962,18.648,3,17,3h-5c-1.208,0-1.694,0.926-3.25,3H6V5.5C6,4.701,5.273,4,4.444,4H3.5 C2.716,4,2.028,4.701,2.028,5.486L2.013,6.028C0.368,6.207,0,7.295,0,8.223v10.388C0,20.13,0.931,21,2.556,21h18.889 C23.069,21,24,20.13,24,18.611V8.223C24,7.209,23.557,6,21.444,6z M4,12c-1.102,0-2-0.896-2-2c0-1.102,0.898-2,2-2 c1.103,0,2,0.898,2,2C6,11.104,5.103,12,4,12z M14.5,19c-3.309,0-6-2.691-6-6c0-3.309,2.691-6,6-6c3.308,0,6,2.691,6,6 C20.5,16.309,17.808,19,14.5,19z"></path></g>
+
+      <g id="icon-headphone" fill="currentColor"><circle cx="4" cy="10" r="1"></circle><path d="M22,10.051V9.5C22,8.121,20.878,7,19.5,7h-0.025C19.216,3.098,15.967,0,12,0S4.784,3.098,4.525,7H4.5 C3.122,7,2,8.121,2,9.5v0.551c-1.14,0.232-2,1.241-2,2.449s0.86,2.217,2,2.449V15.5C2,16.879,3.122,18,4.5,18h2 C6.776,18,7,17.776,7,17.5v-10C7,7.224,6.776,7,6.5,7H5.525C5.782,3.649,8.585,1,12,1s6.218,2.649,6.475,6H17.5 C17.224,7,17,7.224,17,7.5v10c0,0.276,0.224,0.5,0.5,0.5h2c0,1.654-1.346,3-3,3h-1.05c-0.232-1.142-1.24-2-2.45-2 c-1.381,0-2.5,1.119-2.5,2.5S11.619,24,13,24c1.21,0,2.218-0.858,2.45-2h1.05c2.044,0,4-1.56,4-4.212 c0.881-0.387,1.5-1.266,1.5-2.288v-0.551c1.14-0.232,2-1.241,2-2.449S23.14,10.283,22,10.051z"></path></g>
+
+      <g id="icon-secure" fill="currentColor"><path d="M12,24c4.41,0,8-3.589,8-8c0-2.021-0.76-3.864-2-5.274V5.5l-0.008-0.09C17.424,2.275,14.904,0,12,0 S6.575,2.275,6.008,5.41L6,10.726C4.759,12.136,4,13.979,4,16C4,20.411,7.588,24,12,24z M12.5,16.86v2.64 c0,0.275-0.225,0.5-0.5,0.5c-0.276,0-0.5-0.225-0.5-0.5v-2.64C11.202,16.688,11,16.368,11,16c0-0.552,0.448-1,1-1 c0.551,0,1,0.448,1,1C13,16.368,12.797,16.688,12.5,16.86z M12,1c2.406,0,4.503,1.909,5,4.546v4.22C15.629,8.664,13.891,8,12,8 c-1.893,0-3.629,0.664-5,1.766v-4.22C7.496,2.909,9.592,1,12,1z"></path></g>
+
+      <g id="icon-confidential" fill="currentColor"><path d="M11.5,16h1c0.276,0,0.5-0.224,0.5-0.5c0-0.275-0.224-0.5-0.5-0.5h-1c-0.276,0-0.5,0.225-0.5,0.5	C11,15.776,11.224,16,11.5,16z"></path><path d="M17.786,4.955l-2.339-4.679c-0.134-0.268-0.474-0.358-0.725-0.192L12,1.899L9.277,0.084 C9.031-0.08,8.689,0.006,8.553,0.276l-2.31,4.62C10.682,6.353,13.336,6.32,17.786,4.955z"></path><path d="M18.083,20.007L20.44,20.4c-0.125-1.328-0.392-4.376-0.434-6.4h-0.528c-0.302,3.252-3.487,6.073-6.466,7.883 C14.386,22.592,15.536,23,16,23h0.005h0.005h2.681l-1.138-2.276C17.372,20.361,17.676,19.941,18.083,20.007z"></path><path d="M4.523,14H3.995c-0.042,2.024-0.31,5.072-0.434,6.4l2.357-0.394c0.403-0.067,0.711,0.353,0.53,0.717L5.309,23h7.738 C9.697,21.399,4.898,18.028,4.523,14z"></path><path d="M22.243,7.563l-3.504-1.947c-4.899,1.813-8.57,1.816-13.478,0L1.757,7.563C1.358,7.784,1.442,8.389,1.892,8.488 C1.916,8.494,3.324,8.801,5.5,9.076v0.665c-0.459,0.411-0.638,1.161-0.445,1.981c0.21,0.888,0.763,1.517,1.467,1.713 c0.067,0.666,0.291,1.275,0.607,1.828C6.709,15.3,6.3,15.356,5.915,15.424C6.926,17.826,9.619,19.947,12,21.33 c2.381-1.383,5.074-3.504,6.085-5.906c-0.385-0.068-0.795-0.124-1.214-0.16c0.316-0.553,0.54-1.162,0.607-1.828 c0.704-0.196,1.257-0.825,1.467-1.713c0.193-0.82,0.015-1.57-0.445-1.981V9.076c2.176-0.275,3.583-0.582,3.608-0.588 C22.558,8.389,22.642,7.784,22.243,7.563z M17.971,11.493C17.861,11.958,17.541,12.5,17,12.5c-0.276,0-0.5,0.224-0.5,0.5 c0,2.6-3.158,4.5-4.5,4.5S7.5,15.6,7.5,13c0-0.276-0.224-0.5-0.5-0.5c-0.541,0-0.861-0.542-0.971-1.007 c-0.112-0.476-0.06-1.056,0.471-1.184V9.193C6.975,9.244,7.476,9.292,8,9.334V10c0,0.553,0.448,1,1,1h1c0.552,0,1-0.447,1-1 V9.489c0.165,0.003,1.835,0.003,2,0V10c0,0.553,0.448,1,1,1h1c0.552,0,1-0.447,1-1V9.334c0.524-0.042,1.025-0.09,1.5-0.141v1.116 C18.031,10.438,18.083,11.018,17.971,11.493z"></path><path d="M4.053,23.276l1.061-2.122l-2.031,0.339c-0.322,0.055-0.613-0.214-0.58-0.543c0.003-0.034,0.238-2.391,0.384-4.654 C1.81,16.83,0,17.815,0,20.246V23.5C0,23.776,0.224,24,0.5,24h4C4.126,24,3.888,23.607,4.053,23.276z"></path><path d="M21.114,16.296c0.129,2.007,0.396,4.653,0.396,4.704c0,0.278-0.227,0.491-0.505,0.5 c-0.028,0.002-2.119-0.346-2.119-0.346l1.061,2.122C20.112,23.606,19.874,24,19.5,24h4c0.276,0,0.5-0.224,0.5-0.5v-3.254 C24,17.815,22.19,16.83,21.114,16.296z"></path></g>
+
+      <g id="icon-eye" fill="currentColor"><path d="M0.108,12.31C0.325,12.583,5.482,19,12.001,19c6.518,0,11.675-6.417,11.891-6.69c0.145-0.182,0.145-0.439,0-0.62C23.676,11.415,18.519,5,12.001,5C5.482,5,0.325,11.415,0.108,11.69C-0.036,11.871-0.036,12.128,0.108,12.31z M12.001,7.5c2.48,0,4.5,2.018,4.5,4.5s-2.02,4.5-4.5,4.5c-2.482,0-4.5-2.018-4.5-4.5S9.519,7.5,12.001,7.5z"></path><circle cx="12.001" cy="12" r="3.5"></circle></g>
+
+      <g id="icon-check" fill="currentColor"><path d="M12.002,0c-6.617,0-12,5.385-12,12c0,6.616,5.383,12,12,12c6.616,0,12-5.384,12-12C24.001,5.385,18.618,0,12.002,0z M17.342,8.866l-7.502,7.001c-0.197,0.182-0.503,0.182-0.695-0.013l-2.498-2.5c-0.195-0.195-0.195-0.512,0-0.707 c0.195-0.196,0.512-0.196,0.707,0l2.158,2.158l7.147-6.67c0.201-0.188,0.518-0.178,0.706,0.024 C17.555,8.36,17.544,8.677,17.342,8.866z"></path></g>
+
+      <g id="icon-trophy" fill="currentColor"><path d="M24.001,2.5c0-0.295-0.261-0.523-0.501-0.5l-2.022,0.006c0.018-0.481,0.029-0.981,0.029-1.506c0-0.276-0.225-0.5-0.5-0.5 h-18c-0.276,0-0.5,0.224-0.5,0.5c0,0.523,0.011,1.02,0.028,1.5H0.507c-0.276,0-0.5,0.224-0.5,0.5 c-0.046,4.116,0.714,8.287,4.835,8.488c2.414,3.459,5.63,2.837,5.63,6.003C10.427,19.466,9.749,21,6.507,21 c-0.276,0-0.5,0.224-0.5,0.5v2c0,0.276,0.224,0.5,0.5,0.5H17.5c0.275,0,0.5-0.224,0.5-0.5v-2c0-0.276-0.225-0.5-0.5-0.5 c-2.866,0-4.028-1.159-4.028-4c0-3.173,3.223-2.583,5.659-6.012C23.304,10.788,24.032,6.522,24.001,2.5z M1.001,3h1.584 c0.207,3.173,0.812,5.347,1.606,6.9C1.427,9.292,0.975,5.825,1.001,3z M15.284,5.912L13.805,6.93l0.668,1.905 c0.072,0.208,0,0.439-0.177,0.569c-0.178,0.13-0.419,0.129-0.596-0.004L12,8.125l-1.7,1.274c-0.177,0.133-0.418,0.134-0.596,0.004 c-0.177-0.13-0.249-0.361-0.177-0.569l0.668-1.905L8.716,5.912c-0.18-0.125-0.259-0.351-0.193-0.56C8.588,5.143,8.781,5,9,5h1.69 l0.862-1.724c0.169-0.339,0.725-0.339,0.895,0L13.31,5H15c0.219,0,0.412,0.143,0.477,0.352 C15.543,5.561,15.464,5.787,15.284,5.912z M19.792,9.899c0.807-1.55,1.424-3.722,1.635-6.893l1.579-0.005 C23.025,5.82,22.557,9.287,19.792,9.899z"></path></g>
+
+      <g id="icon-search" fill="currentColor"><path d="M9,18c2.131,0,4.089-0.749,5.633-1.992l7.658,7.697c0.389,0.392,1.021,0.393,1.414,0.003c0.392-0.39,0.393-1.023,0.004-1.414l-7.668-7.706C17.264,13.052,18,11.111,18,9c0-4.963-4.037-9-9-9S0,4.037,0,9C0,13.962,4.037,18,9,18z M9,2c3.859,0,7,3.14,7,7c0,3.859-3.141,7-7,7c-3.86,0-7-3.141-7-7C2,5.14,5.14,2,9,2z"></path></g>
+
+      <g id="icon-webcam" fill="currentColor"><path d="M11.5 8c-1.104 0-2 .898-2 2a.5.5 0 0 0 1 0 1 1 0 0 1 1-1 .5.5 0 0 0 0-1z"></path><path d="M23.854 23.146l-4.848-4.848c2.139-1.924 3.494-4.702 3.494-7.799C22.5 4.71 17.789 0 12 0 6.21 0 1.5 4.71 1.5 10.5c0 3.097 1.355 5.875 3.494 7.799L.146 23.147a.5.5 0 0 0 .707.707l4.919-4.919A10.438 10.438 0 0 0 12 21c2.332 0 4.482-.774 6.227-2.065v-.001l4.919 4.92a.5.5 0 0 0 .708-.708zM12 3a1.001 1.001 0 0 1 0 2 1 1 0 0 1 0-2zm-4.5 7.5C7.5 8.019 9.519 6 12 6s4.5 2.019 4.5 4.5S14.481 15 12 15s-4.5-2.019-4.5-4.5z"></path></g>
+      <g id="icon-privat" fill="currentColor">
+    <path fill-rule="evenodd" d="M39.215,2.217 L39.215,9.161 L37.158,9.161 L37.158,2.217 L34.645,2.217 L34.645,0.629 L41.775,0.629 L41.775,2.217 L39.215,2.217 ZM32.951,9.161 L32.453,7.567 L29.635,7.567 L29.143,9.161 L26.945,9.161 L30.074,0.629 L32.008,0.629 L35.160,9.161 L32.951,9.161 ZM31.041,3.020 L30.127,5.979 L31.961,5.979 L31.041,3.020 ZM22.305,9.161 L19.457,0.629 L21.736,0.629 L23.430,6.841 L25.129,0.629 L27.426,0.629 L24.555,9.161 L22.305,9.161 ZM16.639,0.629 L18.690,0.629 L18.690,9.161 L16.639,9.161 L16.639,0.629 ZM11.840,6.149 L10.727,6.149 L10.727,9.161 L8.670,9.161 L8.670,0.629 L12.027,0.629 C12.520,0.629 12.965,0.685 13.363,0.797 C13.762,0.908 14.102,1.072 14.383,1.289 C14.664,1.506 14.880,1.774 15.030,2.094 C15.181,2.415 15.256,2.786 15.256,3.208 C15.256,3.536 15.221,3.828 15.150,4.084 C15.080,4.339 14.979,4.564 14.849,4.757 C14.718,4.951 14.561,5.119 14.377,5.261 C14.193,5.404 13.990,5.528 13.768,5.633 L15.549,9.073 L15.549,9.161 L13.346,9.161 L11.840,6.149 ZM12.906,2.531 C12.707,2.322 12.414,2.217 12.027,2.217 L10.727,2.217 L10.727,4.561 L12.027,4.561 C12.418,4.561 12.712,4.459 12.909,4.254 C13.106,4.048 13.205,3.762 13.205,3.395 C13.205,3.028 13.106,2.740 12.906,2.531 ZM6.689,5.513 C6.404,5.753 6.057,5.939 5.647,6.070 C5.236,6.201 4.775,6.266 4.264,6.266 L2.916,6.266 L2.916,9.161 L0.859,9.161 L0.859,0.629 L4.264,0.629 C4.775,0.629 5.236,0.702 5.647,0.846 C6.057,0.991 6.404,1.192 6.689,1.450 C6.975,1.708 7.193,2.013 7.346,2.367 C7.498,2.720 7.574,3.106 7.574,3.524 C7.574,3.938 7.498,4.313 7.346,4.649 C7.193,4.985 6.975,5.273 6.689,5.513 ZM5.418,3.035 C5.371,2.877 5.298,2.737 5.198,2.616 C5.099,2.495 4.972,2.398 4.817,2.326 C4.663,2.254 4.478,2.217 4.264,2.217 L2.916,2.217 L2.916,4.678 L4.264,4.678 C4.478,4.678 4.663,4.650 4.817,4.593 C4.972,4.537 5.099,4.458 5.198,4.356 C5.298,4.255 5.371,4.133 5.418,3.993 C5.465,3.852 5.488,3.700 5.488,3.536 C5.488,3.360 5.465,3.193 5.418,3.035 Z"></path>
+</g>
+      <g id="icon-online" fill="currentColor">
+    <path fill-rule="evenodd" d="M39.710,7.154 L39.710,8.606 L34.370,8.606 L34.370,0.482 L39.542,0.482 L39.542,1.934 L36.350,1.934 L36.350,3.674 L39.002,3.674 L38.774,5.102 L36.350,5.102 L36.350,7.154 L39.710,7.154 ZM28.874,5.102 C28.826,5.030 28.760,4.926 28.676,4.790 C28.592,4.654 28.504,4.512 28.412,4.363 C28.320,4.215 28.232,4.072 28.148,3.932 C28.064,3.792 27.994,3.678 27.938,3.590 C27.946,3.710 27.956,3.856 27.968,4.028 C27.980,4.200 27.992,4.374 28.004,4.549 C28.016,4.726 28.026,4.898 28.034,5.066 C28.042,5.234 28.046,5.374 28.046,5.486 L28.082,8.606 L26.102,8.606 L26.102,0.482 L27.722,0.482 L30.062,3.962 C30.134,4.074 30.214,4.200 30.302,4.340 C30.390,4.480 30.480,4.622 30.572,4.766 C30.664,4.910 30.750,5.048 30.830,5.180 C30.910,5.312 30.978,5.426 31.034,5.522 C31.026,5.394 31.018,5.246 31.010,5.078 C31.002,4.910 30.992,4.736 30.980,4.556 C30.968,4.376 30.958,4.201 30.950,4.034 C30.942,3.866 30.938,3.718 30.938,3.590 L30.902,0.482 L32.882,0.482 L32.882,8.606 L31.190,8.606 L28.874,5.102 ZM22.634,0.482 L24.614,0.482 L24.614,8.606 L22.634,8.606 L22.634,0.482 ZM17.138,0.482 L19.118,0.482 L19.118,7.154 L21.974,7.154 L21.974,8.606 L17.138,8.606 L17.138,0.482 ZM11.642,5.102 C11.594,5.030 11.528,4.926 11.444,4.790 C11.360,4.654 11.272,4.512 11.180,4.363 C11.088,4.215 11.000,4.072 10.916,3.932 C10.832,3.792 10.762,3.678 10.706,3.590 C10.714,3.710 10.724,3.856 10.736,4.028 C10.748,4.200 10.760,4.374 10.772,4.549 C10.784,4.726 10.794,4.898 10.802,5.066 C10.810,5.234 10.814,5.374 10.814,5.486 L10.850,8.606 L8.870,8.606 L8.870,0.482 L10.490,0.482 L12.830,3.962 C12.902,4.074 12.982,4.200 13.070,4.340 C13.158,4.480 13.248,4.622 13.340,4.766 C13.432,4.910 13.518,5.048 13.598,5.180 C13.678,5.312 13.746,5.426 13.802,5.522 C13.794,5.394 13.786,5.246 13.778,5.078 C13.770,4.910 13.760,4.736 13.748,4.556 C13.736,4.376 13.726,4.201 13.718,4.034 C13.710,3.866 13.706,3.718 13.706,3.590 L13.670,0.482 L15.650,0.482 L15.650,8.606 L13.958,8.606 L11.642,5.102 ZM6.734,7.514 C6.422,7.882 6.030,8.168 5.558,8.372 C5.086,8.576 4.530,8.678 3.890,8.678 C3.258,8.678 2.712,8.588 2.252,8.408 C1.792,8.228 1.414,7.964 1.118,7.616 C0.822,7.268 0.604,6.846 0.464,6.349 C0.324,5.854 0.254,5.286 0.254,4.646 C0.254,4.022 0.332,3.448 0.488,2.924 C0.644,2.400 0.878,1.948 1.190,1.568 C1.502,1.188 1.896,0.894 2.372,0.686 C2.848,0.477 3.406,0.374 4.046,0.374 C4.678,0.374 5.222,0.470 5.678,0.662 C6.134,0.854 6.510,1.126 6.806,1.478 C7.102,1.830 7.320,2.260 7.460,2.768 C7.600,3.276 7.670,3.846 7.670,4.478 C7.670,5.102 7.592,5.671 7.436,6.188 C7.280,6.704 7.046,7.146 6.734,7.514 ZM5.456,3.470 C5.404,3.126 5.316,2.828 5.192,2.576 C5.068,2.324 4.898,2.128 4.682,1.988 C4.466,1.848 4.198,1.778 3.878,1.778 C3.358,1.778 2.980,2.020 2.744,2.504 C2.508,2.988 2.390,3.658 2.390,4.514 C2.390,4.922 2.416,5.294 2.468,5.630 C2.520,5.966 2.608,6.256 2.732,6.500 C2.856,6.744 3.026,6.934 3.242,7.070 C3.458,7.206 3.730,7.274 4.058,7.274 C4.578,7.274 4.954,7.042 5.186,6.578 C5.418,6.114 5.534,5.454 5.534,4.598 C5.534,4.190 5.508,3.814 5.456,3.470 Z"></path>
+</g>
+
+      <g id="icon-right" fill="currentColor">
+    <path d="M1,14a1,1,0,0,1-.71-1.71L5.59,7,.29,1.71A1,1,0,0,1,1.71.29l6,6a1,1,0,0,1,0,1.41l-6,6A1,1,0,0,1,1,14Z"></path>
+</g>
+      <g id="icon-star" fill="currentColor">
+    <path d="M11.99 2C6.47 2 2 6.48 2 12C2 17.52 6.47 22 11.99 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 11.99 2ZM16.23 18L12 15.45L7.77 18L8.89 13.19L5.16 9.96L10.08 9.54L12 5L13.92 9.53L18.84 9.95L15.11 13.18L16.23 18Z"></path>
+</g>
+
+      <g id="icon-vod-right" fill="currentColor">
+    <path d="M8.59 16.34L13.17 11.75L8.59 7.16L10 5.75L16 11.75L10 17.75L8.59 16.34Z"></path>
+</g>
+      <g id="icon-play" fill="currentColor">
+    <path d="M1.5,6.86l4-2.43A1.07,1.07,0,0,0,6,3.5H6a1.07,1.07,0,0,0-.51-.93L1.5.14A1,1,0,0,0,0,1.07V5.93A1,1,0,0,0,1.5,6.86Z"></path>
+</g>
+
+      <g id="icon-close" fill="currentColor">
+    <path d="M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z"></path>
+</g>
+
+      <g id="icon-next" fill="currentColor">
+    <path d="M6 18L14.5 12L6 6V18ZM16 6V18H18V6H16Z"></path>
+</g>
+
+      <g id="icon-hd-vod" fill="currentColor">
+    <path d="M3.5 2H1.5V0H0V6H1.5V3.5H3.5V6H5V0H3.5V2ZM10 0H6.5V6H10C10.8 6 11.5 5.3 11.5 4.5V1.5C11.5 0.7 10.8 0 10 0ZM10 4.5H8V1.5H10V4.5Z"></path>
+</g>
+
+      <g id="icon-vod-error" fill="currentColor">
+    <path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM13 17H11V15H13V17ZM13 13H11V7H13V13Z"></path>
+</g>
+
+  </defs>
+</svg>
+<div id="wrap">
+    <div id="limits"></div>
+<div class="hidden geo-msg"></div>
+<div id="header">
+    <div class="center">
+                    <a href="http://javhdporn.com/en" class="logo"></a>
+                <ul class="lang">
+            <li><a href="/en/privacy" title="English" class="en"></a></li>
+            <li class="last"><a href="/ja/privacy" title="日本語" class="ja"></a></li>
+            <li class="last"><a href="/zh/privacy" title="中文 (简体)" class="zh"></a></li>
+            <li class="last"><a href="/tw/privacy" title="中文 (繁體)" class="tw"></a></li>
+            <li class="last"><a href="/ko/privacy" title="한국어" class="ko"></a></li>
+            <li class="last"><a href="/th/privacy" title="ไทย" class="th"></a></li>
+            <li class="last"><a href="/vi/privacy" title="Tiếng Việt" class="vi"></a></li>
+            <li class="last"><a href="/id/privacy" title="Indonesia" class="id"></a></li>
+    </ul>
+        <div class="menu">
+                            <a href="http://javhdporn.com/en" title="Home" onclick="gl(&quot;send&quot;, &quot;GOAL_REACHED&quot;, {&quot;goal_id&quot;: 223, &quot;user_status&quot;: &quot;GUEST&quot;, &quot;user_member_id&quot;: &quot;&quot;});" data-ga-category="undefined" data-ga-section="topbar" data-ga-id="home">Home</a>
+            
+            <a href="http://javhdporn.com/en/japanese-porn-videos" class="js-gl-header-videos
+                                                            " title="Our Japanese Sex Videos">Videos
+                <div class="fl2-link__red-circle"></div>
+            </a>
+
+                            <a href="http://javhdporn.com/en/freezone" class="link-freezone " title="Free Videos">Free
+                    <div class="fl2-link__red-circle"></div>
+                </a>
+            
+                                        <a href="javascript:void(0);" class="js-gl-header-models  menu-sub" title="Our Asian Porn Models" data-sub="models">Models ▾</a>
+                <a href="javascript:void(0);" class="js-gl-header-categories  menu-sub" title="JavHD Categories" data-sub="categories">Categories ▾</a>
+                                    <a href="http://javhdporn.com/en/sites" title="More Asian Porn Sites" class="js-gl-header-sites ">Sites</a>
+                            
+                                                <a href="http://javhdporn.com/en/why-us">Why us</a>
+                    <a href="http://www.jvbill.com/process" target="_blank" title="Easy Troubleshooting">Support</a>
+                            
+            
+        </div>
+        <div id="menu-sub_categories" class="block-content block-categories menu-sub_list"><p><a class="" href="http://javhdporn.com/en/sex-categories" title="JavHD Categories">View All 38 Categories<span>▸</span></a></p><ul><li><a class="" href="/en/japanese-porn-videos/category/asian-creampie" rel="/en/japanese-porn-videos/category/asian-creampie" title="Creampie">Creampie</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-big-tits" rel="/en/japanese-porn-videos/category/asian-big-tits" title="Big tits">Big tits</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-hardcore-porn" rel="/en/japanese-porn-videos/category/asian-hardcore-porn" title="Hardcore">Hardcore</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-teens" rel="/en/japanese-porn-videos/category/asian-teens" title="Teen">Teen</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-anal" rel="/en/japanese-porn-videos/category/asian-anal" title="Anal">Anal</a></li><li><a class="" href="/en/japanese-porn-videos/category/japanese-group-sex" rel="/en/japanese-porn-videos/category/japanese-group-sex" title="Group Sex">Group Sex</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-blowjob" rel="/en/japanese-porn-videos/category/asian-blowjob" title="Blowjob">Blowjob</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-milf" rel="/en/japanese-porn-videos/category/asian-milf" title="MILF">MILF</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-amateur" rel="/en/japanese-porn-videos/category/asian-amateur" title="Amateur">Amateur</a></li><li class="last"><a class="" href="/en/japanese-porn-videos/category/asian-cum-porn" rel="/en/japanese-porn-videos/category/asian-cum-porn" title="Cumshot">Cumshot</a></li></ul><ul><li><a class="" href="/en/japanese-porn-videos/category/asian-gangbang" rel="/en/japanese-porn-videos/category/asian-gangbang" title="Gang bang">Gang bang</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-shaved-pussy" rel="/en/japanese-porn-videos/category/asian-shaved-pussy" title="Shaved Pussy">Shaved Pussy</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-pov-porn" rel="/en/japanese-porn-videos/category/asian-pov-porn" title="POV">POV</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-bikini" rel="/en/japanese-porn-videos/category/asian-bikini" title="Bikini">Bikini</a></li><li><a class="" href="/en/japanese-porn-videos/category/Japanese-school-girls" rel="/en/japanese-porn-videos/category/Japanese-school-girls" title="Schoolgirl">Schoolgirl</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-lingerie" rel="/en/japanese-porn-videos/category/asian-lingerie" title="Lingerie">Lingerie</a></li><li><a class="" href="/en/japanese-porn-videos/category/japanese-mature-porn" rel="/en/japanese-porn-videos/category/japanese-mature-porn" title="Mature">Mature</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-threesome-porn" rel="/en/japanese-porn-videos/category/asian-threesome-porn" title="Threesome">Threesome</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-double-penetration" rel="/en/japanese-porn-videos/category/asian-double-penetration" title="Double penetration">Double penetration</a></li><li class="last"><a class="" href="/en/japanese-porn-videos/category/asian-masturbation" rel="/en/japanese-porn-videos/category/asian-masturbation" title="Masturbation">Masturbation</a></li></ul><ul><li><a class="" href="/en/japanese-porn-videos/category/asian-squirting" rel="/en/japanese-porn-videos/category/asian-squirting" title="Squirting">Squirting</a></li><li><a class="" href="/en/japanese-porn-videos/category/japanese-cosplay-porn" rel="/en/japanese-porn-videos/category/japanese-cosplay-porn" title="Cosplay">Cosplay</a></li><li><a class="" href="/en/japanese-porn-videos/category/japanese-outdoor-porn" rel="/en/japanese-porn-videos/category/japanese-outdoor-porn" title="Outdoor">Outdoor</a></li><li><a class="" href="/en/japanese-porn-videos/category/Japanese-facial" rel="/en/japanese-porn-videos/category/Japanese-facial" title="Facial">Facial</a></li><li><a class="" href="/en/japanese-porn-videos/category/Japanese-bondage" rel="/en/japanese-porn-videos/category/Japanese-bondage" title="Bondage">Bondage</a></li><li><a class="" href="/en/japanese-porn-videos/category/Japanese-bukkake" rel="/en/japanese-porn-videos/category/Japanese-bukkake" title="Bukkake">Bukkake</a></li><li><a class="" href="/en/japanese-porn-videos/category/asian-hairy-pussy" rel="/en/japanese-porn-videos/category/asian-hairy-pussy" title="Hairy pussy">Hairy pussy</a></li><li><a class="" href="/en/japanese-porn-videos/category/japanese-office-porn" rel="/en/japanese-porn-videos/category/japanese-office-porn" title="Office Lady">Office Lady</a></li><li><a class="" href="/en/japanese-porn-videos/category/japanese-sex-toys" rel="/en/japanese-porn-videos/category/japanese-sex-toys" title="Toys">Toys</a></li><li class="last"><a class="" href="/en/japanese-porn-videos/category/asian-lesbians" rel="/en/japanese-porn-videos/category/asian-lesbians" title="Lesbian">Lesbian</a></li></ul></div>
+        <div id="menu-sub_models" class="block-content block-models menu-sub_list">
+            <p><a class="" href="http://javhdporn.com/en/models" title="View All 895 Models">View All 895 Models<span>▸</span></a></p>
+            <ul>
+                                                <li><a class="" href="http://javhdporn.com/en/model/Yui-Hatano" title="Yui Hatano"><span>1
+                            .</span> Yui Hatano</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/maria-ozawa" title="Maria Ozawa"><span>2
+                            .</span> Maria Ozawa</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Miku-Ohashi" title="Miku Ohashi"><span>3
+                            .</span> Miku Ohashi</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Miho-Ichiki" title="Miho Ichiki"><span>4
+                            .</span> Miho Ichiki</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Ameri-Ichinose" title="Ameri Ichinose"><span>5
+                            .</span> Ameri Ichinose</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Aika" title="Aika"><span>6
+                            .</span> Aika</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Yui-Oba" title="Yui Oba"><span>7
+                            .</span> Yui Oba</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/yui-komine" title="Yui Komine"><span>8
+                            .</span> Yui Komine</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Mei-Matsumoto" title="Mei Matsumoto"><span>9
+                            .</span> Mei Matsumoto</a></li>
+                                                                                <li class="last"><a class="" href="http://javhdporn.com/en/model/Reiko-Kobayakawa" title="Reiko Kobayakawa"><span>10
+                            .</span> Reiko Kobayakawa</a></li>
+                            </ul>
+            <ul>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Akari-Asagiri" title="Akari Asagiri"><span>11
+                            .</span> Akari Asagiri</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Miku-Airi" title="Miku Airi"><span>12
+                            .</span> Miku Airi</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Azusa-Nagasawa" title="Azusa Nagasawa"><span>13
+                            .</span> Azusa Nagasawa</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Nozomi-Nishiyama" title="Nozomi Nishiyama"><span>14
+                            .</span> Nozomi Nishiyama</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Megumi-Shino" title="Megumi Shino"><span>15
+                            .</span> Megumi Shino</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Nami-Itoshino" title="Nami Itoshino"><span>16
+                            .</span> Nami Itoshino</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Sana-Anzyu" title="Sana Anzyu"><span>17
+                            .</span> Sana Anzyu</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Rie-Tachikawa" title="Rie Tachikawa"><span>18
+                            .</span> Rie Tachikawa</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Mayuka-Akimoto" title="Mayuka Akimoto"><span>19
+                            .</span> Mayuka Akimoto</a></li>
+                                                                                <li class="last"><a class="" href="http://javhdporn.com/en/model/Mikuru-Shiina" title="Mikuru Shiina"><span>20
+                            .</span> Mikuru Shiina</a></li>
+                            </ul>
+            <ul>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Kyouko-Maki" title="Kyouko Maki"><span>21
+                            .</span> Kyouko Maki</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Rei-Mizuna" title="Rei Mizuna"><span>22
+                            .</span> Rei Mizuna</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Eririka-Katagiri" title="Eririka Katagiri"><span>23
+                            .</span> Eririka Katagiri</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Kaori-Maeda" title="Kaori Maeda"><span>24
+                            .</span> Kaori Maeda</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Kaede-Niiyama" title="Kaede Niiyama"><span>25
+                            .</span> Kaede Niiyama</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/suzuka-ishikawa" title="Suzuka Ishikawa"><span>26
+                            .</span> Suzuka Ishikawa</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Suzu-Ichinose" title="Suzu Ichinose"><span>27
+                            .</span> Suzu Ichinose</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Saya-Niiyama" title="Saya Niiyama"><span>28
+                            .</span> Saya Niiyama</a></li>
+                                                                                <li><a class="" href="http://javhdporn.com/en/model/Sara-Yurikawa" title="Sara Yurikawa"><span>29
+                            .</span> Sara Yurikawa</a></li>
+                                                                                <li class="last"><a class="" href="http://javhdporn.com/en/model/Kotone%20Kuroki" title="Kotone Kuroki"><span>30
+                            .</span> Kotone Kuroki</a></li>
+                                                            </ul>
+        </div>
+        <ul class="link-list">
+                            <li>
+                <span data-url="https://secure.javhd.com/login/?back=javhdporn.com&amp;path=L2VuL3ByaXZhY3k&amp;lang=en&amp;nats=MC4wLjIuMi4wLjAuMC4wLjA" title="" class="link2 login-btn">
+                    <svg class="icon" width="16px" heigth="16px" viewBox="0 0 24 24"><use xlink:href="#icon-login"></use></svg>
+                    <span class="hint-holder"><i></i><span>Login</span></span>
+                </span>
+                </li>
+                <li><span data-url="/en/join" title="Get Access Now" class="link1 js-gaBtnJoin">Get Access Now</span></li>
+                    </ul>
     </div>
 </div>
-                    </div>
+        
+    
+        
+    
+    <div id="main">
+                            <div class="center"><div class="clear"></div><div class="terms"><h2>Privacy Policy</h2><div class="clear"></div><div><strong>Our Commitment To Privacy</strong><p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.</p><p>This notice applies to all information collected or submitted on www.javhd.com web site.</p></div><div><strong>What information do we collect?</strong><p>We collect information from you when you sign up our sites, subscribe to our newsletter or respond to a survey. When signing up on our sites, as appropriate, you may be asked to enter your - name, e-mail address, mailing address and billing information (as a credit card number). You may, however, visit our site anonymously.</p></div><div><strong>What do we use your information for?</strong><p>Any of the information we collect from you may be used in one of the following ways:</p><ul><li>To personalize your experience (your information helps us to better respond to your individual needs).</li><li>– To improve our websites (we continually strive to improve our websites offerings based on the information and feedback we receive from you).</li><li>– To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).</li><li>– To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</li><li>– To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</li></ul></div><div><strong>How do we protect your information?</strong><p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.</p><p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.</p><p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p></div><div><strong>Do we use cookies?</strong><p>Yes (Cookies are small files that a site or its service provider transfers to yur computer`s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help Compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Cookies are used for a variety of purposes. For instance, when you return to the Site after logging in, cookies provide information to the Site so that the Site will remember you. We may also use temporary or "session" cookies to help you watch videos. These cookies will expire when you place an order. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Google Chrome or Safari) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your experience on the Site smoother, like the features mentioned above, and some of our services will not function properly. Some of our business partners may also use cookies on the Site; however, we have no access to, or control over, these cookies and do not accept any responsibility for such use.</p><p>The Site use a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in code on the pages of web sites. We may use these technical methods to analyze the traffic patterns on the Site, such as the frequency with which our users visit various parts of the Site. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf.</p><p>The Site includes third party advertising and links to other web sites. These companies are called "network advertisers". We do not provide any personally identifiable information to these network advertisers. Network advertisers who place advertisements on the Site, or third parties with whom we have a relationship, may also use cookies and web beacons to collect non-personally identifiable information. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on the Site and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Once you have clicked on an advertisement and have left the Site, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site. You should contact these advertisers directly if you have any questions about their use of the information that they collect.</p></div><div><strong>Do we disclose any information to outside parties?</strong><p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p></div><div><strong>Third party links</strong><p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p></div><div><strong>Online Privacy Policy Only</strong><p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p></div><div><strong>Terms and Conditions</strong><p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <a href="https://javhd.com/en/terms">https://javhd.com/en/terms</a></p></div><div><strong>Your Consent</strong><p>By using our site, you consent to our on-line privacy policy.</p></div><div><strong>Changes to our Privacy Policy</strong><p>If we decide to change our privacy policy, we will post those changes on this page.</p></div><div><strong>Questions and Contact Information</strong><p>All questions to <span class="hidden_company"></span> regarding this Privacy Policy must be directed to: <img src="/assets/images/mail.png" alt="contact" style="margin-bottom:-3px;"></p><p class="hidden_addr"></p></div></div></div>                                            </div>
+</div>
 
-            
+    <link rel="stylesheet" href="https://c1.cdnjav.com/assets/javhd.com/assets/build/desktop_component_footer.9d108182.css">
+    <script src="https://c1.cdnjav.com/assets/javhd.com/assets/build/desktop_component_footer.7474fa06.js"></script>
+
+<div class="jem-layout__footer jem-layout__footer--javhdporn"><div class="jem-footer jem-footer--font-size-12"><div class="jem-footer__menu"><div class="center"><ul class="jem-footer-menu"><li class="jem-footer-menu__item jem-float-right"><span class="jem-footer-menu__link" data-url="https://secure.javhd.com/login/?back=javhdporn.com&amp;path=L2VuL3ByaXZhY3k&amp;lang=en&amp;nats=MC4wLjIuMi4wLjAuMC4wLjA">Login</span></li><li class="jem-footer-menu__item"><a href="http://javhdporn.com/en" class="jem-footer-menu__link">Home</a></li><li class="jem-footer-menu__item"><a class="jem-footer-menu__link  " href="http://javhdporn.com/en/japanese-porn-videos" title="Our Japanese Sex Videos">Videos</a></li><li class="jem-footer-menu__item"><a class="jem-footer-menu__link  " href="http://javhdporn.com/en/models">Models</a></li><li class="jem-footer-menu__item"><a class="jem-footer-menu__link  " href="http://javhdporn.com/en/sex-categories">Categories</a></li><li class="jem-footer-menu__item"><a class="jem-footer-menu__link  " href="http://javhdporn.com/en/sites">Sites</a></li><li class="jem-footer-menu__item"><a class="jem-footer-menu__link " href="http://javhdporn.com/en/why-us">Why us?</a></li><li class="jem-footer-menu__item"><a class="jem-footer-menu__link" href="http://www.jvbill.com/process" target="_blank">Support</a></li></ul></div></div><div class="center"><div class="jem-float-right"><div class="jem-footer__nav"><ul class="jem-footer-nav jem-footer-nav--list-unstyled"><li class="jem-footer-nav__item with-mobile-link"><a class="jem-footer-nav__link" href="/en/privacy?vt=m"><span class="jem-icon jem-icon--mobile"></span>Mobile Version</a></li><li class="jem-footer-nav__item"><span class="jem-footer-nav__link" data-url="http://javhdporn.com/en/topsearches">Top Searches</span></li><li class="jem-footer-nav__item"><span class="jem-footer-nav__link" data-url="http://javhdporn.com/en/sitemap">Sitemap</span></li></ul></div></div><div class="jem-float-left"><div class="jem-footer__nav"><ul class="jem-footer-nav"><li class="jem-footer-nav__item"><span class="jem-footer-nav__link" data-url="http://javhdporn.com/en/terms">Terms of Use</span></li><li class="jem-footer-nav__item"><span class="jem-footer-nav__link" data-url="http://javhdporn.com/en/privacy">Privacy Policy</span></li><li class="jem-footer-nav__item"><span class="jem-footer-nav__link" data-url="http://javhdporn.com/en/dmca">DMCA</span></li><li class="jem-footer-nav__item"><span class="jem-footer-nav__link" data-url="https://javbucks.com/">Webmasters</span></li><li class="jem-footer-nav__item"><span class="jem-footer-nav__link" data-url="http://javhdporn.com/en/content_providers">Content Providers</span></li></ul><p><span class="jem-footer-nav__link" data-url="http://javhdporn.com/en/statement2257">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</span></p><p><span class="jem-footer-nav__link" data-url="http://www.jvbill.com/process" data-target-blank="_blank">JVBill.com</span>,
+                            <span class="jem-footer-nav__link" data-url="https://support.ccbill.com/" data-target-blank="_blank">CCBill.com</span>,
+                            <span class="jem-footer-nav__link" data-url="https://www.webbilling.com/" data-target-blank="_blank">WebBilling.com</span>,
+                            <span class="jem-footer-nav__link" data-url="https://secure.vend-o.com/customers/profile/login/" data-target-blank="_blank">Vend-o.com</span>,
+                            <span class="jem-footer-nav__link" data-url="http://cs.segpay.com/" data-target-blank="_blank">SegPayEU.com</span>,
+                            <span class="jem-footer-nav__link" data-url="https://www.centrobill.com/" data-target-blank="_blank">CentroBill.com</span>
+                            our authorized sales agent.
+                        </p></div></div><div class="jem-footer__bottom"><div class="jem-footer__languages"><ul class="jem-languages" id="languageBox"><li class="jem-languages__item jem-languages__item--active"><a class="jem-languages__link" href="/en/privacy" title="English"><img class="jem-languages__flag" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjAiIHdpZHRoPSIyNyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPiAgPGRlZnM+ICAgIDxjbGlwUGF0aCBpZD0iYSI+ICAgICAgPHBhdGggZmlsbC1vcGFjaXR5PSIuNjciIGQ9Ik0tODUuMzMzIDBoNjgyLjY3djUxMmgtNjgyLjY3eiIvPiAgICA8L2NsaXBQYXRoPiAgPC9kZWZzPiAgPGcgY2xpcC1wYXRoPSJ1cmwoI2EpIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4MCkgc2NhbGUoLjk0KSI+ICAgIDxnIHN0cm9rZS13aWR0aD0iMXB0Ij4gICAgICA8cGF0aCBmaWxsPSIjMDA2IiBkPSJNLTI1NiAwSDc2OC4wMnY1MTIuMDFILTI1NnoiLz4gICAgICA8cGF0aCBkPSJNLTI1NiAwdjU3LjI0NGw5MDkuNTM1IDQ1NC43NjhINzY4LjAyVjQ1NC43N0wtMTQxLjUxNSAwSC0yNTZ6TTc2OC4wMiAwdjU3LjI0M0wtMTQxLjUxNSA1MTIuMDFILTI1NnYtNTcuMjQzTDY1My41MzUgMEg3NjguMDJ6IiBmaWxsPSIjZmZmIi8+ICAgICAgPHBhdGggZD0iTTE3MC42NzUgMHY1MTIuMDFoMTcwLjY3VjBoLTE3MC42N3pNLTI1NiAxNzAuNjd2MTcwLjY3SDc2OC4wMlYxNzAuNjdILTI1NnoiIGZpbGw9IiNmZmYiLz4gICAgICA8cGF0aCBkPSJNLTI1NiAyMDQuODA0djEwMi40MDJINzY4LjAyVjIwNC44MDRILTI1NnpNMjA0LjgxIDB2NTEyLjAxaDEwMi40VjBoLTEwMi40ek0tMjU2IDUxMi4wMUw4NS4zNCAzNDEuMzRoNzYuMzI0bC0zNDEuMzQgMTcwLjY3SC0yNTZ6TS0yNTYgMEw4NS4zNCAxNzAuNjdIOS4wMTZMLTI1NiAzOC4xNjRWMHptNjA2LjM1NiAxNzAuNjdMNjkxLjY5NiAwaDc2LjMyNEw0MjYuNjggMTcwLjY3aC03Ni4zMjR6TTc2OC4wMiA1MTIuMDFMNDI2LjY4IDM0MS4zNGg3Ni4zMjRMNzY4LjAyIDQ3My44NDh2MzguMTYyeiIgZmlsbD0iI2MwMCIvPiAgICA8L2c+ICA8L2c+PC9zdmc+" width="21" height="16" alt=""></a></li><li class="jem-languages__item"><a class="jem-languages__link" href="/ja/privacy" title="日本語"><img class="jem-languages__flag" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjAiIHdpZHRoPSIyNyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPiAgPGRlZnM+ICAgIDxjbGlwUGF0aCBpZD0iYSI+ICAgICAgPHBhdGggZmlsbC1vcGFjaXR5PSIuNjciIGQ9Ik0tODguMDAxIDMyaDY0MHY0ODBoLTY0MHoiLz4gICAgPC9jbGlwUGF0aD4gIDwvZGVmcz4gIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1wYXRoPSJ1cmwoI2EpIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4OC4wMDEgLTMyKSIgc3Ryb2tlLXdpZHRoPSIxcHQiPiAgICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNLTEyOCAzMmg3MjB2NDgwaC03MjB6Ii8+ICAgIDxlbGxpcHNlIHJ4PSIxOTQuOTMiIHJ5PSIxOTQuOTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNjguNDQgOC42MTgpIHNjYWxlKC43NjU1NCkiIGN5PSIzNDQuMDUiIGN4PSI1MjMuMDgiIGZpbGw9IiNkMzAwMDAiLz4gIDwvZz48L3N2Zz4=" width="21" height="16" alt=""></a></li><li class="jem-languages__item"><a class="jem-languages__link" href="/zh/privacy" title="中文 (简体)"><img class="jem-languages__flag" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBoZWlnaHQ9IjIwIiB3aWR0aD0iMjciIHZpZXdCb3g9IjAgMCA2NDAgNDgwIj4gIDxkZWZzPiAgICA8cGF0aCBpZD0iYSIgZmlsbD0iI2ZmZGUwMCIgZD0iTS0uNTg4LjgxTDAtMSAuNTg4LjgxLS45NTItLjMxSC45NTJ6Ii8+ICA8L2RlZnM+ICA8cGF0aCBkPSJNMCAwaDY0MHY0ODBIMHoiIGZpbGw9IiNkZTI5MTAiLz4gIDx1c2UgeGxpbms6aHJlZj0iI2EiIHRyYW5zZm9ybT0ibWF0cml4KDcxLjk5OTEgMCAwIDcyIDExOS45OTkgMTIwKSIgd2lkdGg9IjMwIiBoZWlnaHQ9IjIwIi8+ICA8dXNlIHhsaW5rOmhyZWY9IiNhIiB0cmFuc2Zvcm09Im1hdHJpeCgtMTIuMzM1NjIgLTIwLjU4NzEgMjAuNTg2ODQgLTEyLjMzNTc3IDI0MC4yOTEgNDcuOTk2KSIgd2lkdGg9IjMwIiBoZWlnaHQ9IjIwIi8+ICA8dXNlIHhsaW5rOmhyZWY9IiNhIiB0cmFuc2Zvcm09Im1hdHJpeCgtMy4zODU3MyAtMjMuNzU5OTggMjMuNzU5NjggLTMuMzg1NzggMjg3Ljk1IDk1Ljc5NikiIHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCIvPiAgPHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJtYXRyaXgoNi41OTkxIC0yMy4wNzQ5IDIzLjA3NDYgNi41OTkxOSAyODcuOTU5IDE2OC4wMTIpIiB3aWR0aD0iMzAiIGhlaWdodD0iMjAiLz4gIDx1c2UgeGxpbms6aHJlZj0iI2EiIHRyYW5zZm9ybT0ibWF0cml4KDE0Ljk5OTEgLTE4LjczNTU3IDE4LjczNTMzIDE0Ljk5OTI5IDIzOS45MzMgMjE2LjA1NCkiIHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCIvPjwvc3ZnPg==" width="21" height="16" alt=""></a></li><li class="jem-languages__item"><a class="jem-languages__link" href="/tw/privacy" title="中文 (繁體)"><img class="jem-languages__flag" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDgwIiB3aWR0aD0iNjQwIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+ICA8ZGVmcz4gICAgPGNsaXBQYXRoIGlkPSJhIj4gICAgICA8cGF0aCBmaWxsLW9wYWNpdHk9Ii42NyIgZD0iTTAgMGg2ODIuNjd2NTEySDB6Ii8+ICAgIDwvY2xpcFBhdGg+ICA8L2RlZnM+ICA8ZyBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcGF0aD0idXJsKCNhKSIgdHJhbnNmb3JtPSJzY2FsZSguOTM3NSkiIHN0cm9rZS13aWR0aD0iMXB0Ij4gICAgPHBhdGggZmlsbD0iI2RlMjExMCIgZD0iTTAgMGg3Njh2NTEySDB6Ii8+ICAgIDxwYXRoIGZpbGw9IiMwODM5OWMiIGQ9Ik0wIDBoMzg1LjY5djI1NkgweiIvPiAgICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjgyLjA5OCAxNzguNTU1bC00Ny4zMzItOS43MzMgMTAuMDgzIDQ3LjI2LTM2LjEzMy0zMi4wODgtMTQuOTA0IDQ1Ljk3LTE1LjI0NC00NS44NjctMzUuODg2IDMyLjM2NyA5LjczMy00Ny4zMzItNDcuMjYgMTAuMDczIDMyLjA4OC0zNi4xMjMtNDUuOTY5LTE0LjkwNCA0NS44NTUtMTUuMjQ0LTMyLjM1Ni0zNS44OSA0Ny4zMzIgOS43My0xMC4wNzMtNDcuMjYyIDM2LjEyMyAzMi4wOTMgMTQuOTA0LTQ1Ljk3IDE1LjI0NCA0NS44NTkgMzUuODg2LTMyLjM2LTkuNzMzIDQ3LjMzNSA0Ny4yNi0xMC4wOC0zMi4wODggMzYuMTMyIDQ1Ljk3IDE0Ljg5My00NS44NTYgMTUuMjQ0eiIvPiAgICA8cGF0aCBmaWxsPSIjMDA1Mzg3IiBkPSJNMjM4LjQ3IDE3NC45MjRsLTE0LjkzNSA3LjkzMi0xNC41NyA4LjYwOC0xNi45MTgtLjU4My0xNi45MTkuMTk4LTE0LjM2LTguOTQxLTE0Ljc1OS04LjI3NS03Ljk1My0xNC45MDYtOC42MzEtMTQuNTIuNTc0LTE2Ljg3NC0uMTg4LTE2Ljg4MyA4Ljk2NS0xNC4zMiA4LjI5OC0xNC43MTYgMTQuOTM1LTcuOTM0IDE0LjU3LTguNjA3IDE2LjkxOS41OCAxNi45MjgtLjE5MyAxNC4zNjIgOC45NCAxNC43NDcgOC4yNzUgNy45NTMgMTQuOTAxIDguNjMyIDE0LjUyLS41NzQgMTYuODc0LjE4NyAxNi44ODMtOC45NjUgMTQuMzIzeiIvPiAgICA8cGF0aCBkPSJNMjQ0LjYzNyAxMjguMjhjMCAyOC42NDYtMjMuMjIyIDUxLjg2Ny01MS44NjYgNTEuODY3cy01MS44NjctMjMuMjIxLTUxLjg2Ny01MS44NjYgMjMuMjIyLTUxLjg2NiA1MS44NjctNTEuODY2IDUxLjg2NiAyMy4yMjEgNTEuODY2IDUxLjg2NnoiIGZpbGw9IiNmZmYiLz4gIDwvZz48L3N2Zz4=" width="21" height="16" alt=""></a></li><li class="jem-languages__item"><a class="jem-languages__link" href="/ko/privacy" title="한국어"><img class="jem-languages__flag" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNjAwIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iLTM2IC0yNCA3MiA0OCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTS0zNi0yNGg3MnY0OGgtNzJ6Ii8+PGcgdHJhbnNmb3JtPSJyb3RhdGUoLTU2LjMxKSI+PGcgaWQ9ImIiPjxwYXRoIGlkPSJhIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIgZD0iTS02LTI1SDZtLTEyIDNINm0tMTIgM0g2Ii8+PHVzZSB5PSI0NCIgeGxpbms6aHJlZj0iI2EiLz48L2c+PHBhdGggc3Ryb2tlPSIjZmZmIiBkPSJNMCAxN3YxMCIvPjxjaXJjbGUgcj0iMTIiIGZpbGw9IiNjZDJlM2EiLz48cGF0aCBmaWxsPSIjMDA0N2EwIiBkPSJNMC0xMkE2IDYgMCAwIDAgMCAwYTYgNiAwIDAgMSAwIDEyIDEyIDEyIDAgMCAxIDAtMjR6Ii8+PC9nPjxnIHRyYW5zZm9ybT0icm90YXRlKC0xMjMuNjkpIj48dXNlIHhsaW5rOmhyZWY9IiNiIi8+PHBhdGggc3Ryb2tlPSIjZmZmIiBkPSJNMC0yMy41djNNMCAxN3YzLjVtMCAzdjMiLz48L2c+PC9zdmc+" width="21" height="16" alt=""></a></li><li class="jem-languages__item"><a class="jem-languages__link" href="/th/privacy" title="ไทย"><img class="jem-languages__flag" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDgwIiB3aWR0aD0iNjQwIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+CiAgPGcgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogICAgPHBhdGggZmlsbD0iIzAwMWI5YSIgZD0iTTAgMTYyLjU0NGg2NDB2MTYwLjAwM0gweiIvPgogICAgPHBhdGggZmlsbD0iI2U3MDAwMCIgZD0iTTAgLjA0Mmg2NDB2ODIuNUgwek0wIDQwMC4wMDNoNjQwdjgwSDB6Ii8+CiAgPC9nPgo8L3N2Zz4=" width="21" height="16" alt=""></a></li><li class="jem-languages__item"><a class="jem-languages__link" href="/vi/privacy" title="Tiếng Việt"><img class="jem-languages__flag" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDgwIiB3aWR0aD0iNjQwIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+ICA8ZGVmcz4gICAgPGNsaXBQYXRoIGlkPSJhIj4gICAgICA8cGF0aCBmaWxsLW9wYWNpdHk9Ii42NyIgZD0iTS04NS4zMzQgMGg2ODIuNjd2NTEyaC02ODIuNjd6Ii8+ICAgIDwvY2xpcFBhdGg+ICA8L2RlZnM+ICA8ZyBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcGF0aD0idXJsKCNhKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODAuMDAxKSBzY2FsZSguOTM3NSkiPiAgICA8cGF0aCBmaWxsPSIjZWMwMDE1IiBkPSJNLTEyOCAwaDc2OHY1MTJoLTc2OHoiLz4gICAgPHBhdGggZD0iTTM0OS41OSAzODEuMDVsLTg5LjU3Ni02Ni44OTMtODkuMTM3IDY3LjU1IDMzLjE1Mi0xMDkuNzctODguOTczLTY3Ljc4NCAxMTAuMDgtLjk0NSAzNC4xNDItMTA5LjQ0IDM0Ljg3MyAxMDkuMTkgMTEwLjA4LjE0NC04OC41MTcgNjguNDIzIDMzLjg4NCAxMDkuNTN6IiBmaWxsPSIjZmYwIi8+ICA8L2c+PC9zdmc+" width="21" height="16" alt=""></a></li><li class="jem-languages__item"><a class="jem-languages__link" href="/id/privacy" title="Indonesia"><img class="jem-languages__flag" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDgwIiB3aWR0aD0iNjQwIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+CiAgPGcgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2Utd2lkdGg9IjFwdCI+CiAgICA8cGF0aCBmaWxsPSIjZTcwMDExIiBkPSJNMCAwaDYzOS45NTh2MjQ4Ljk0N0gweiIvPgogICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMjQwaDYzOS45NTh2MjQwSDB6Ii8+CiAgPC9nPgo8L3N2Zz4K" width="21" height="16" alt=""></a></li></ul></div><p class="jem-footer__copy">© 2019 JAVHD</p><a class="jem-rta-logo" href="http://www.rtalabel.org/" target="_blank">Restricted to Adults</a></div></div></div><script>
+
+            // secondOffer func
+            function customGo(url) {
+                window.open(url, '_blank');
+            }
+
+            function popunClick(url) {
+                var popUnderURL = "https://enter.ichiav.com/track/MjY3NzguMi4yNy4zMTcuNC4wLjAuMC4w";
+                if (url) {
+                    customGo(url);
+                }
+                setTimeout(function () {
+                    document.location.assign(popUnderURL);
+                }, 20);
+            }
+
+            $(document).ready(function () {
+                $('.js-gaBtnJoin').attr({'onclick': 'popunClick();', 'target': '_blank'})
+            });
+
+            // secondOffer end
+        </script></div>
 
 
-<link rel="stylesheet" href="https://c1.cdnjav.com/assets/javhd.com/assets/build/mobile_component_footer.c6d196fe.css">
 
 
-<div class="jem-layout__mobile-footer jem-layout__mobile-footer--javhdporn _privacy"><div class="jem-footer"><div class="b-footer-links"><div class="b-footer-links-inner"><span class="btn-link-wrapper"><a class="btn btn-link " href="http://javhdporn.com/en/japanese-porn-videos">Videos</a></span><span class="btn-link-wrapper"><a class="btn btn-link " href="http://javhdporn.com/en/models">Models</a></span><span class="btn-link-wrapper"><a class="btn btn-link " href="http://javhdporn.com/en/sex-categories">Categories</a></span><span class="btn-link-wrapper"><a class="btn btn-link " href="http://javhdporn.com/en/sites">Our Sites</a></span><span class="btn-link-wrapper"><a class="btn btn-link " href="http://javhdporn.com/en/topsearches/tags">Top Tags</a></span><span class="btn-link-wrapper"><a class="btn btn-link " href="http://javhdporn.com/en/topsearches">Top Searches</a></span></div><a class="btn btn-join js-gaBtnJoin" href="/en/join">Get instant access now
-                                    <i class="arr"></i></a></div><div class="jem-footer__nav"><ul class="jem-footer-menu"><li class="jem-footer-menu__item"><a class="jem-footer-nav__link" href="http://javhdporn.com/en/terms">Terms of Use</a></li><li class="jem-footer-menu__item"><a class="jem-footer-nav__link" href="http://javhdporn.com/en/privacy">Privacy Policy</a></li><li class="jem-footer-menu__item"><a class="jem-footer-nav__link" href="http://javhdporn.com/en/dmca">DMCA</a></li></ul><ul class="jem-footer-menu"><li class="jem-footer-menu__item"><a class="jem-footer-nav__link" href="https://secure.javhd.com/login/?back=javhdporn.com&amp;path=L2VuL3ByaXZhY3k&amp;lang=en&amp;nats=MC4wLjIuMi4wLjAuMC4wLjA">Login</a></li><li class="jem-footer-menu__item"><a class="jem-footer-nav__link" href="http://jvbill.com/process" target="_blank" title="Support">Support</a></li><li class="jem-footer-menu__item change-viewport"><a class="jem-footer-nav__link" href="/en/privacy?vt=d">javhdporn.com Desktop</a></li><li class="jem-footer-menu__item change-locale"><button type="button" class="btn-lang" onclick="document.getElementById('footer-lang').classList.toggle('is-show')"><i class="flag-en" title="English"></i></button></li><li id="footer-lang" class="b-footer-lang"><a class="b-footer-lang__item" href="/en/privacy" title="English"><i class="flag-en"></i> English</a><a class="b-footer-lang__item" href="/ja/privacy" title="日本語"><i class="flag-ja"></i> 日本語</a><a class="b-footer-lang__item" href="/zh/privacy" title="中文 (简体)"><i class="flag-zh"></i> 中文 (简体)</a><a class="b-footer-lang__item" href="/tw/privacy" title="中文 (繁體)"><i class="flag-tw"></i> 中文 (繁體)</a><a class="b-footer-lang__item" href="/ko/privacy" title="한국어"><i class="flag-ko"></i> 한국어</a><a class="b-footer-lang__item" href="/th/privacy" title="ไทย"><i class="flag-th"></i> ไทย</a><a class="b-footer-lang__item" href="/vi/privacy" title="Tiếng Việt"><i class="flag-vi"></i> Tiếng Việt</a><a class="b-footer-lang__item" href="/id/privacy" title="Indonesia"><i class="flag-id"></i> Indonesia</a></li></ul><p><a class="jem-footer-nav__link" href="http://javhdporn.com/en/statement2257">18 U.S.C.
-                        2257 Record-Keeping Requirements Compliance Statement</a></p><p><a class="jem-footer-nav__link" href="http://www.jvbill.com/process" data-target-blank="_blank">JVBill.com</a>,
-                    <a class="jem-footer-nav__link" href="https://support.ccbill.com/" data-target-blank="_blank">CCBill.com</a>,
-                    <a class="jem-footer-nav__link" href="https://www.webbilling.com/" data-target-blank="_blank">WebBilling.com</a>,
-                    <a class="jem-footer-nav__link" href="https://secure.vend-o.com/customers/profile/login/" data-target-blank="_blank">Vend-o.com</a>,
-                    <a class="jem-footer-nav__link" href="http://cs.segpay.com/" data-target-blank="_blank">SegPayEU.com</a>,
-                    <a class="jem-footer-nav__link" href="https://www.centrobill.com/" data-target-blank="_blank">CentroBill.com</a>
-                    our authorized sales agent.
-                </p></div><p class="jem-footer__copy">© 2019 JAVHD</p><a class="jem-rta-logo" href="http://www.rtalabel.org/" target="_blank">Restricted to Adults</a></div></div>
-
-
-
-
+    <img src="https://ctrack.trafficjunky.net/ctrack?action=list&amp;type=add&amp;id=tour&amp;context=javhd&amp;cookiename=client_tracking" style="display: none;">
 
     <img style="position: fixed; z-index: -1; opacity: 0;" src="https://tds-01.atas.io/rt/v1/bc6a585a-f29f-4fdc-90ae-8381f0a780ee.gif">
+
+<script></script>
+<script></script>
+
+<img style="display:none;" src="https://trafforsrv.com/retargeting.php?id=1811">
+<img style="display:none;" src="//tsyndicate.com/api/v1/retargeting/set/63bc36dd-2bd4-4f6e-a9fa-977bed2253af" height="1" width="1">
+<img style="display:none;" src="//tracker.ero-advertising.com/tracking/rtpixel.php?id=394&amp;uid=66978" width="1" height="1">
+<img alt="" src="//r.remarketingpixel.com/px.gif?akey=4914551104443913bc4432a8cf3db7c6" style="position: absolute; left: -10000px;">
+
 
 
 </body></html>
