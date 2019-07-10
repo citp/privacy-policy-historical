@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmartprice.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417045835id_/https%3A//www.mysmartprice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartprice.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710150729id_/https%3A//www.mysmartprice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MySmartPrice
 
