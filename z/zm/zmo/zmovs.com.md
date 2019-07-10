@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmovs.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831202849id_/http%3A//zmovs.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmovs.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710160142id_/https%3A//zmovs.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page - Zmovs.com
 
