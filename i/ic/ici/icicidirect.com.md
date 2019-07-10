@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icicidirect.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403042650id_/https%3A//www.icicidirect.com/newsiteContent/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicidirect.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710152813id_/https%3A//www.icicidirect.com/newsiteContent/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
