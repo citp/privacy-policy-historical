@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camdolls.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301042416id_/https%3A//www.camdolls.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camdolls.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710132512id_/http%3A//camdolls.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Cam Sex, Live Porn, Live Sex Chat, Naked CamGirls free on CAMDOLLS.COM
 
