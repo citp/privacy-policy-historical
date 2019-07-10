@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the molbase.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604162955id_/https%3A//www.molbase.com/help/281/4053) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molbase.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710171410id_/https%3A//www.molbase.com/help/281/4053) for the most accurate reproduction.*
 
 # Privacy Policy_About Us-MOLBASE
 
