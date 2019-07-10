@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sc2casts.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720135540id_/https%3A//sc2casts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sc2casts.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710122338id_/https%3A//sc2casts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SC2Casts.com
 
