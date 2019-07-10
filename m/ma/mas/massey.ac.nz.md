@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611033800id_/https%3A//www.massey.ac.nz/massey/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710155048id_/https%3A//www.massey.ac.nz/massey/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Massey University
 
