@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datacamp.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616081311id_/https%3A//www.datacamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacamp.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710155338id_/https%3A//www.datacamp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DataCamp
 
@@ -16,7 +16,7 @@ If you use our service though a Free Plan or Individual Plan, we are the **data 
 
 If you are using our service as part of a Business Plan or Classroom Plan, DataCamp is the **data processor** of your personal data. The organization that contracted with us for the subscription is the data controller.
 
-This privacy policy is part of our [Terms of Use](https://web.archive.org/terms-of-use). Terms used but not defined in this privacy policy have the meanings provided in the [Terms of Use](https://web.archive.org/terms-of-use).
+This privacy policy is part of our [Terms of Use](https://web.archive.org/terms-of-use/). Terms used but not defined in this privacy policy have the meanings provided in the [Terms of Use](https://web.archive.org/terms-of-use/).
 
 * * *
 
@@ -52,7 +52,7 @@ We will take all steps reasonably necessary to ensure that your data is treated 
 
 In some cases, we share some of your personal data with external services that we need to run our own services. These services are mentioned near the respective data type in the table above and in other sections.
 
-Regardless of any choices you make regarding your personal data, Datacamp may disclose personal data if it believes in good faith that such disclosure is necessary (i) in connection with any legal investigation; (ii) to comply with relevant laws or to respond to subpoenas or warrants served on Datacamp; (iii) to protect or defend the rights or property of Datacamp or users of the Site or Services; and/or (iv) to investigate or assist in preventing any violation or potential violation of the law, this policy, or our [Terms of Use](https://web.archive.org/terms-of-use).
+Regardless of any choices you make regarding your personal data, Datacamp may disclose personal data if it believes in good faith that such disclosure is necessary (i) in connection with any legal investigation; (ii) to comply with relevant laws or to respond to subpoenas or warrants served on Datacamp; (iii) to protect or defend the rights or property of Datacamp or users of the Site or Services; and/or (iv) to investigate or assist in preventing any violation or potential violation of the law, this policy, or our [Terms of Use](https://web.archive.org/terms-of-use/).
 
 Other than that we do not share your personal data with any other party. We are not selling or trading your personal data with any third party.
 
