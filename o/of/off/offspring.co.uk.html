@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the offspring.co.uk privacy policy that was archived on 2017-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171010163754id_/https%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the offspring.co.uk privacy policy that was archived on 2019-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190710165050id_/https%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,10 +7,10 @@
 		<meta charset="UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M92JN3"></script><script type="text/javascript" src="dtagent_ICA23STVbjpqrx_7000000061013.js" data-dtconfig="agentUri=dtagent_ICA23STVbjpqrx_7000000061013.js|rid=RID_-599156343|rpid=2129291319|bandwidth=300|lastModification=1505819433399|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Offspring - B2C|domain=offspring.co.uk"></script><link rel="canonical" href="https://www.offspring.co.uk/view/content/privacy-info-page"><link rel="icon" href="//media.office.co.uk/offspring/styles/images/icon.ico?version=2.12.3" type="image/x-icon">
+<link rel="canonical" href="https%3A%2F%2Fwww.offspring.co.uk%2Fview%2Fcontent%2Fprivacy-info-page"><link rel="icon" href="//media.office.co.uk/offspring/styles/images/icon.ico?version=4.0.2" type="image/x-icon">
 
 <!--Optimization is ON -->
-	   <link rel="stylesheet" type="text/css" href="//media.office.co.uk/_ui/responsive/site-offspring/css/style-concat-min.css?version=2.12.3">
+	   <link rel="stylesheet" type="text/css" href="//media.office.co.uk/_ui/responsive/site-offspring/css/style-concat-min.css?version=4.0.2">
 	<!-- ********************* Load Bootstrap JS and from _ui folder *********************************** -->
  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -18,8 +18,40 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M92JN3"></script><script src="https://cdn.polyfill.io/v2/polyfill.js?features=default-3.6,es2015,es2016,es2017,es2018,fetch,NodeList.prototype.forEach,NodeList.prototype.@@iterator"></script>
+<script type="text/javascript">
+    if (window.NodeList && !NodeList.prototype.forEach) {
+        NodeList.prototype.forEach = function (callback, thisArg) {
+            thisArg = thisArg || window;
+            for (var i = 0; i < this.length; i++) {
+                callback.call(thisArg, this[i], i, this);
+            }
+        };
+    }
+</script>
+
+<script>
+function getCookie (name) {
+    var re = new RegExp(name + "=([^;]+)");
+    var value = re.exec(document.cookie);
+    return (value != null) ? unescape(value[1]) : null;
+}
+function isHashedUserId (userId) {
+    if (!userId) return false;
+    if (userId.length <= 9) return false;
+    return true;
+}
+var userIdVal = getCookie('userId');
+console.log('before deleting ', getCookie('userId'));
+if( userIdVal === 'anonymous' || isHashedUserId( userIdVal ) ){
+    document.cookie = 'userId=""; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+}
+console.log('after delete, before Monetate', getCookie('userId'));
+</script>
+
+<script src="//media.office.co.uk/_ui/responsive/site-offspring/../common/js/analyticsmediator.js?version=4.0.2"></script>
 <!--Optimization is ON -->
-	   <script src="//media.office.co.uk/_ui/responsive/site-offspring/../common/js/responsive-header-min.js?version=2.12.3"></script>
+	   <script src="//media.office.co.uk/_ui/responsive/site-offspring/../common/js/responsive-header-min.js?version=4.0.2"></script>
 	
 
 
@@ -87,12 +119,289 @@
 	</script>
 <title></title>
 <meta name="description" content="Offspring: A wide range of trainers that will satisfy all your sneaker needs?"><meta name="keywords" content="offspring, trainers, sneakers, nike, converse, adidas, puma, converse, new balance"><meta property="og:description" content="Offspring: A wide range of trainers that will satisfy all your sneaker needs?">
+
+
+
+<script typ="text/javascript">
+    window.DY = window.DY || {};
+</script>
+
+    
+    
+    
+    
+        <script type="text/javascript">
+            DY.recommendationContext = {type: 'OTHER', lng: 'en_GB_offspring'};
+        </script>
+    
+
+
+
+
+
+<link rel="dns-prefetch" href="//cdn-eu.dynamicyield.com">
+
+<script type="text/javascript" src="//cdn-eu.dynamicyield.com/api/9876172/api_dynamic.js"></script>
+<script type="text/javascript" src="//cdn-eu.dynamicyield.com/api/9876172/api_static.js"></script>
+
+<script type="text/javascript">
+    String.prototype.toProperCase = function () {
+        return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+    };
+
+    window.mediator.subscribe("trackAddToCart", function(data){
+        var DYEvent = {
+            name: "Add to Cart",
+            properties : {
+                dyType: "add-to-cart-v1",
+                value: data.entry.basePrice.value,
+                currency: data.entry.basePrice.currencyIso,
+                productId: data.entry.product.code,
+                quantity: 1,
+                size: data.entry.product.code.substring(10, 13),
+                cart: data.cartStatus
+            }
+        };
+        DY.API("event", DYEvent);
+        
+    });
+
+    window.mediator.subscribe("trackAddToWishlist", function(data){
+        var DYEvent = {
+            name: "Add to Wishlist",
+            properties: {
+                dyType: "add-to-wishlist-v1",
+                productId: data.code,
+                size: data.size
+            }
+        };
+        DY.API("event", DYEvent);
+        
+    });
+
+    window.mediator.subscribe("trackChangeSize", function(data){
+        var base_product = window.dataLayer[0].productId;
+        if (base_product) {
+            var sku_id = data.length != 13 ? base_product + data : data;
+            var DYEvent = {
+                context: {
+                    type: 'PRODUCT',
+                    data: [sku_id]
+                },
+                url: window.location.href.replace(base_product, sku_id),
+                countAsPageview: true
+            };
+            DY.API('spa', DYEvent);
+        }
+    });
+
+    window.mediator.subscribe("trackFilterResults", function(data){
+        var DYEvent = {
+            name: "Filter Items",
+            properties: {
+                dyType: "filter-items-v1",
+                filterType: data.facet.toProperCase()
+            }
+        };
+        if (isNaN(data.value)){
+            DYEvent.properties.filterStringValue = data.value;
+        } else {
+            DYEvent.properties.filterNumericValue = data.value;
+        }
+        DY.API("event", DYEvent);
+        
+    });
+
+    window.mediator.subscribe("trackKeywordSearch", function(data){
+       console.log(data);
+    });
+
+    window.mediator.subscribe("trackSortResults", function(data){
+        var DYEvent = {
+            name: "Sort Items",
+            properties: {
+                dyType: "sort-items-v1",
+                sortBy: data.endsWith("_r") ? data.split("_r")[0] : data,
+                sortOrder: data.endsWith("_r") ? "DESC" : "ASC"
+            }
+        };
+        DY.API("event", DYEvent);
+        
+    });
+
+    window.mediator.subscribe("trackEnterPromoCode", function(data){
+        var DYEvent = {
+            name: "Promo Code Entered",
+            properties: {
+                dyType: "enter-promo-code-v1",
+                code: data
+            }
+        };
+        DY.API("event", DYEvent);
+    });
+
+    window.mediator.subscribe("trackRemoveFromCart", function(data){
+        /* Create a view of the cart AFTER this item has been removed */
+        var entryNumbers = Array.isArray(data) ? data : JSON.parse(data);
+        var items = [];
+        var removed = {};
+        for (var i in QLJS.miniCartData.items){
+            var cartItem = QLJS.miniCartData.items[i];
+            if (cartItem.entryNumbers[0] !== entryNumbers[0]){
+                items.push({
+                    productId: cartItem.product.code,
+                    quantity: cartItem.quantity,
+                    itemPrice: cartItem.basePrice,
+                    size: cartItem.product.ukSizeCode
+                });
+            } else {
+                removed.value=cartItem.totalPrice;
+                removed.productId = cartItem.product.code;
+                removed.quantity = cartItem.quantity;
+                removed.size = cartItem.product.ukSizeCode;
+            }
+        }
+        /* Create the event */
+        var DYEvent = {
+            name: "Remove from Cart",
+            properties: {
+                dyType: "remove-from-cart-v1",
+                value: removed.value,
+                currency: QLJS.miniCartData.selectedCurrency,
+                productId: removed.productId,
+                quantity: removed.quantity,
+                size: removed.size,
+                cart: items
+            }
+        };
+        DY.API("event", DYEvent);
+        
+    });
+
+    window.mediator.subscribe("trackNewsletterSignup", function(data){
+        sha256(data).then(function(hashed){
+            var DYEvent = {
+                name: "Newsletter Subscription",
+                properties: {
+                    dyType: "newsletter-subscription-v1",
+                    hashedEmail: hashed
+                }
+            };
+            DY.API("event", DYEvent);
+            
+        });
+    });
+
+    window.mediator.subscribe("syncCart", function(){
+        QLJS.deleteCookie("triggerCartSync");
+        var items = [];
+        for (var i in QLJS.miniCartData.items){
+            var cartItem = QLJS.miniCartData.items[i];
+            items.push({
+                productId: cartItem.product.code,
+                quantity: cartItem.quantity,
+                itemPrice: cartItem.basePrice
+            });
+        }
+
+        var DYEvent = {
+            name: "Sync cart",
+            properties: {
+                dyType: "sync-cart-v1",
+                currency: QLJS.miniCartData.selectedCurrency,
+                cart: items
+            }
+        };
+
+        DY.API("event", DYEvent);
+
+    });
+
+    window.mediator.subscribe("trackLoginEvent", function(data){
+        sha256(data).then(function (uidsha) {
+            var loginEvent = {
+                name: "Login",
+                properties: {
+                    dyType: "login-v1",
+                    hashedEmail: uidsha
+                }
+            };
+            DY.API("event", loginEvent);
+
+            $.ajax({
+                cache: false,
+                url: "/view/component/basket/minibasketAjax",
+                success: function (miniCartData) {
+                    QLJS.miniCartData = miniCartData;
+                    setTimeout(function () {
+                        window.mediator.publish("syncCart");
+                    }, 10);
+                }
+            });
+        });
+    });
+
+    window.mediator.subscribe("trackSignupEvent", function(data){
+        sha256(data).then(function (uidsha) {
+            var signupEvent = {
+                name: "Signup",
+                properties: {
+                    dyType: "signup-v1",
+                    hashedEmail: uidsha
+                }
+            };
+
+            DY.API("event", signupEvent);
+        });
+    });
+
+    async function sha256(message) {
+        // encode as UTF-8
+        const msgBuffer = new TextEncoder('utf-8').encode(message);
+
+        // hash the message
+        const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+
+        // convert ArrayBuffer to Array
+        const hashArray = Array.from(new Uint8Array(hashBuffer));
+
+        // convert bytes to hex string
+        const hashHex = hashArray.map(b => ('00' + b.toString(16)).slice(-2)).join('');
+        return hashHex;
+    }
+
+    window.mediator.subscribe("trackCartRecreation", function(miniCartData) {
+        if (miniCartData.createdFromCookie == true) {
+            var DYEvent = {
+                name: "Sync cart",
+                properties: {
+                    dyType: "sync-cart-v1",
+                    currency: miniCartData.currency, // Optional non-default currency used
+                    cart: []
+                }
+            };
+            for (var i in miniCartData.items) {
+                var cartItem = {
+                    productId: miniCartData.items[i].product.code,
+                    quantity: miniCartData.items[i].quantity,
+                    itemPrice: miniCartData.items[i].basePrice
+                }
+                DYEvent.properties.cart.push(cartItem);
+            }
+            DY.API("event", DYEvent);
+        }
+    });
+</script>
+
+
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"></head>
-    <body>
+    <body id="body">
     	
 
 
     
+
 
 
 
@@ -131,25 +440,6 @@
 
 
 
-    
-
-
-
-
-
-
-
-
-
-
-<!-- Begin Monetate ExpressTag Sync v8.1. Place at start of document head. DO NOT ALTER. -->
-<script type="text/javascript">var monetateT = new Date().getTime();</script>
-<script type="text/javascript" src="//se.monetate.net/js/2/a-b624f895/p/offspring.co.uk/entry.js"></script>
-<!-- End Monetate tag. -->
-
-
-
-
 
         
 
@@ -159,29 +449,33 @@
        
 	     
 
-<div class="headerPromos" style="text-transform:uppercase; background-color:rgba(196,18,48,1.00);"><div class="container"><div class="row" style="background-color:rgba(196,18,48,1.00);"><ul> <li class="col-sm-4 text-center"><span>
-<a style="color:#FFFFFF" href="http://www.offspring.co.uk/view/category/offspring_catalog/6?pageSize=30&amp;SHOP+BY=his">SHOP HIS</a></span>
-</li> <li class="col-sm-4 text-center"><span>
-<a style="color:#FFFFFF" href="http://www.offspring.co.uk/view/search?search=sale+topstrip">UP TO 60% OFF MID SEASON SALE </a></span>
-</li><li class="col-sm-4 text-center"><span>
-<a style="color:#FFFFFF" href="http://www.offspring.co.uk/view/search?pageSize=30&amp;search=sale+topstrip&amp;SHOP+BY=hers+sale">Shop Hers</a></span>
-</li> 
-</ul></div></div></div>
+<div class="headerPromos" style="text-transform:uppercase; background-color: #e6e6e6;">
+    <div class="currency-container hidden-sm">
+        <span>Currency:</span>
+        <select class="currency-select">
+        </select>
+    </div>
+	<div class="container">
+    <div class="row" style="background-color: #e6e6e6 !important;">
+        <ul>
 
+   <li class="col-sm-4 text-center"><span>
+               <a style="color:#be0323" href="view/content/deliveryinfo-page">FREE UK DELIVERY*</a></span>
+            </li>
+ 
 
-
-
-<!--<div class="headerPromos" style="text-transform:uppercase"><div class="container"><div class="row"><ul> <li class="col-sm-4 text-center"><span>
-<a href="/view/content/deliveryinfo-page">FREE UK DELIVERY</a></span>
-</li> <li class="col-sm-4 text-center"><span>
-<a href="/view/content/clickandcollectinfo-page">FREE Click & Collect - 110 locations in UK </a></span>
-</li><li class="col-sm-4 text-center"><span>
-<a href="/view/content/offspring-international-deliveries">Worldwide shipping from £3.50</a></span>
-</li> 
-</ul></div></div></div>-->
-
-
-
+            
+               <li class="col-sm-4 text-center"><span>
+               <a style="color:#be0323" href="/view/category/offspring_catalog/6">UP TO 60% OFF SALE</a></span>
+           </li><li class="col-sm-4 text-center"><span>
+               <a style="color:#be0323" href="/studentdiscount">10% STUDENT DISCOUNT</a></span>
+     </li>
+          
+         
+         </ul>
+      </div>
+   </div>
+</div>
 		
       <div class="container">
         <div class="navbar-header">
@@ -191,138 +485,236 @@
 		      <span class="icon-bar"></span>
 		      <span class="icon-bar"></span>
      	  </a>
-          <a class="navbar-brand" rel="home" href="/" title="Offspring"><img class="img-responsive" src="/_ui/responsive/site-offspring/images/office-logo_sml.png" alt="Offspring"></a>
+          <a class="navbar-brand" rel="home" href="/" title="Offspring">
+          	<img class="img-responsive" src="/_ui/responsive/site-offspring/images/office-logo_sml.png" alt="Offspring">
+          </a>
         </div>
         
-		     
+		    
 
 <div id="slidemenu">
-<ul class="nav navbar-nav">
-
-<li class="dropdown">
-<a href="/view/category/offspring_catalog/NEWIN" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">New In</a>
-
-			<ul class="dropdown-menu">
-				<li><a href="/view/category/offspring_catalog/NEWIN?SHOP+BY=his">Men</a></li>
-				<li><a href="/view/category/offspring_catalog/NEWIN?SHOP+BY=hers">Women</a></li>
-
-                               
-			</ul></li>
-		
+	<ul class="nav navbar-nav">
 		<li class="dropdown">
-		<a href="/view/category/offspring_catalog/1" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-="" expanded="false">Men</a>
+			<a href="/view/category/offspring_catalog/NEWIN?pageSize=100&amp;sort=releaseDate" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">New In</a>
 			<ul class="dropdown-menu">
-				<li><a href="/view/category/offspring_catalog/1?BRAND=Adidas">adidas</a></li>
-				<li><a href="/view/category/offspring_catalog/1?BRAND=Asics">Asics</a></li>
-                                <li><a href="/view/category/offspring_catalog/1?BRAND=Converse">Converse</a></li>
-				<li><a href="/view/category/offspring_catalog/1?BRAND=Jordan">Jordan</a></li>
-				<li><a href="/view/category/offspring_catalog/1?BRAND=New+Balance">New Balance</a></li>
-				<li><a href="/view/category/offspring_catalog/1?BRAND=Nike">Nike</a></li>
-				<li><a href="/view/category/offspring_catalog/1?BRAND=Puma">Puma</a></li>
-				<li><a href="/view/category/offspring_catalog/1?BRAND=Reebok">Reebok</a></li>
-				<li><a href="/view/category/offspring_catalog/1?BRAND=Vans">Vans</a></li>
-				<li><a href="/brand">View All Brands</a></li>
-                                <li>&nbsp;</li>
+				<span class="arrow"></span>
+				<li><a href="/mens?pageSize=100&amp;sort=releaseDate">Men</a></li>
+				<li><a href="/womens?pageSize=100&amp;sort=releaseDate">Women</a></li>
+				<li><a href="/view/category/offspring_catalog/NEWIN?pageSize=100&amp;sort=releaseDate" class="link view-all">View All</a></li>
+			</ul>
+		</li>
 
-			</ul></li>
-		<li class="dropdown"><a href="/view/category/offspring_catalog/2" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Women</a>
-			<ul class="dropdown-menu">
-				<li><a href="/view/category/offspring_catalog/2?BRAND=Adidas">adidas</a></li>
-				<li><a href="/view/category/offspring_catalog/2?BRAND=Converse">Converse</a></li>
-                                <li><a href="/view/category/offspring_catalog/2?BRAND=Jordan">Jordan</a></li>
-				<li><a href="/view/category/offspring_catalog/2?BRAND=New+Balance">New Balance</a></li>
-				<li><a href="/view/category/offspring_catalog/2?BRAND=Nike">Nike</a></li>
-				<li><a href="/view/category/offspring_catalog/2?&amp;BRAND=Puma">Puma</a></li>
-				<li><a href="/view/category/offspring_catalog/2?BRAND=Reebok">Reebok</a></li>
-				<li><a href="/view/category/offspring_catalog/2?&amp;BRAND=Vans">Vans</a></li>
-				<li><a href="/brand">View All Brands</a></li>
-                                <li>&nbsp;</li>
-
-                                
-			</ul></li>
-		<li class="dropdown"><a href="/brand" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-="" expanded="false">Brands</a>
-			<ul class="dropdown-menu brands">
-				<div>
-					<li><a href="/brand/adidas">adidas</a></li>
-					<li><a href="/brand/Adidas_Raf_Simons">adidas Raf Simons</a></li>
-					<li><a href="/brand/Adidas_Rick_Owens">adidas Rick Owens</a></li>					
-					<li><a href="/brand/Adidas_Stella_McCartney">adidas Stella McCartney</a></li>				
-
-	
-					<li><a href="/brand/adidasy3">Adidas Y3</a></li>
-					<li><a href="/brand/adidas_Yeezy">Adidas Yeezy</a></li>
-					<li><a href="/brand/android_homme">Android Homme</a></li>
-					<li><a href="/brand/asics">Asics</a></li>
-					<li><a href="/brand/Avvikk">Avvikk</a></li>
-                                        <li><a href="/brand/birkenstock">Birkenstock</a></li>
-					<li><a href="/view/brand/Casbia">Casbia</a></li>					
-					<li><a href="/brand/clarks_originals">Clarks Originals</a></li>
-					<li><a href="/brand/converse">Converse</a></li>
-					<li><a href="/brand/converse_jack_purcell">Converse Jack
-							Purcell</a></li>
-					<li><a href="/brand/Diemme">Diemme</a></li>
-					<li><a href="/brand/Filling_Pieces">Filling Pieces</a></li>
-					<li><a href="/brand/fred_perry">Fred Perry</a></li>
-					<li><a href="/brand/jason_markk">Jason Markk</a></li>
-					<li><a href="/brand/jordan">Jordan</a></li>
-					<li><a href="/brand/Mercer">Mercer</a></li>
-					<li><a href="/brand/Native">Native</a></li>
-					<li><a href="/brand/new_balance">New Balance</a></li>
-					<li><a href="/brand/nike">Nike</a></li>
-                                        <li><a href="/brand/Oki_Kutsu">Oki Kutsu</a></li>
-                                        <li><a href="/brand/onitsuka_tiger">Onitsuka Tiger</a></li>
-					<li><a href="/brand/Pairs_in_Paris">Pairs in Paris</a></li>
-					<li><a href="/brand/puma">Puma</a></li>
-					<li><a href="/brand/ralph_lauren">Ralph Lauren</a></li>
-					<li><a href="/brand/redwing">Redwing</a></li>
-					<li><a href="/brand/reebok">Reebok</a></li>
-					<li><a href="/view/brand/Saucony">Saucony</a></li>
-					<li><a href="/brand/Stance">Stance</a></li>
-					<li><a href="/brand/superga">Superga</a></li>
-					<li><a href="/brand/timberland">Timberland</a></li>
-					<li><a href="/brand/vans">Vans</a></li>
-
-
+		<li class="dropdown">
+			<a href="/mens" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Men</a>
+			<ul class="dropdown-menu columns-3">
+				<span class="arrow"></span>
+				<li class="col-sm-4">
+					<ul>
+						<li class="subtitle">Top Brands</li>
+						<li><a href="/mens?BRAND=Nike">Nike</a></li>
+                                                <li><a href="/mens?BRAND=Adidas">adidas</a></li>
+						<li><a href="/mens?BRAND=Converse">Converse</a></li>
+						<li><a href="/mens?BRAND=Jordan">Jordan</a></li>
+						<li><a href="/mens?BRAND=Vans">Vans</a></li>
+                        <li><a href="/mens">View all Mens</a></li>
+                          &nbsp;
+						
+					</ul>
+				</li>
+				<li class="col-sm-4">
+					<ul>
+						<li class="subtitle">Collections</li>
+					       <li><a href="/mens?range=Air+Max+1">Air Max 1</a></li> 
+					      <li><a href="/mens?&amp;range=Air+Max+97">Air Max 97</a></li> 
+                                                  <li><a href="/mens?&amp;range=Air+Max+98">Air Max 98</a></li> 
+						<li><a href="/mens?range=Air+Force+1">Air Force 1</a></li>
+                                                <li><a href="/view/search?search=all+star+70s&amp;SHOP+BY=his">All Star 70's</a></li>
+                                                <li><a href="/mens?range=Ultra+Boost">Ultra Boost</a></li>
+						<li><a href="/mens?&amp;range=Vapormax">Vapormax</a></li>
+                         &nbsp;
+                                                
+                                   
+					</ul>
+					</li><li class="col-sm-4">
+					<ul>
+					<li class="subtitle">Category</li>
+					   <li><a href="/mens?SHOE+TYPE=Boots">Boots</a></li>
+                                              <li><a href="/mens?SHOE+TYPE=Casual">Casual Shoes</a></li>
+                                               <li><a href="/designer-trainers">Designer Trainers</a></li>
+                                               <li><a href="/clothing">Clothing</a></li>
+					     <li><a href="/view/search?search=backpacks">Backpacks</a></li>
+					     <li><a href="/view/search?search=accessories">Shoe Care &amp; Accessories</a></li>
+						
+                        &nbsp;
+                                         
+					</ul>
+					</li>			
+			</ul>
+		</li>
+		<li class="dropdown">
+            <a href="/womens" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Women</a>
+			<ul class="dropdown-menu columns-3">
+				<span class="arrow"></span>
+				<li class="col-sm-4">
+					<ul>
+						<li class="subtitle">Top Brands</li>
+						<li><a href="/womens?BRAND=Nike">Nike</a></li>
+						<li><a href="/womens?BRAND=Adidas">adidas</a></li>
+						<li><a href="/womens?BRAND=Converse">Converse</a></li>
+                                                 <li><a href="/womens?BRAND=New+Balance">New Balance</a></li>
+                                                <li><a href="/womens?BRAND=Vans">Vans</a></li>
+						<li><a href="/womens?BRAND=Fila">Fila</a></li>
+					        <li><a href="/womens">View all Women</a></li>
+						 &nbsp;
 					
-				</div>
-				<span>
-                                      <a href="/brand"><strong>View All Brands</strong></a><span> </span></span>
-			</ul></li>
-
-
-
-<li class="dropdown">
-                        <a href="class=" dropdown-toggle"="" data-toggle="dropdown" role="button" aria-expanded="false">TRENDING</a>
-
+					</ul>
+				</li>
+				<li class="col-sm-4">
+					<ul>
+					<li class="subtitle">Collections</li>
+					<li><a href="/womens?range=Air+Force+1">Air Force 1</a></li>
+					<li><a href="/womens?range=Air+Max+97">Air Max 97</a></li>
+                                        <li><a href="/womens?&amp;range=Air+Max+98">Air Max 98</a></li>
+	                               <li><a href="/view/search?search=all+star+70s&amp;SHOP+BY=hers">All Star 70's</a></li>
+                                       <li><a href="/womens?range=Old+Skool">Old Skool</a></li>
+                                       <li><a href="/womens?&amp;range=Ultra+Boost">Ultra Boost</a></li>
+                                        <li><a href="/womens?&amp;range=Vapormax">Vapormax</a></li>
+				
+						 &nbsp;
+                                        
+	                                 
+					</ul>
+					</li><li class="col-sm-4">
+					<ul>
+						
+					<li class="subtitle">Category</li>
+						<li><a href="/womens/canvas-trainers">Canvas Classics</a></li>
+			                         <li><a href="/chunky-trainers?SHOP+BY=hers">Chunky Trainers</a></li>
+                                                <li><a href="/womens/nude-trainers">Neutral Sneakers</a></li>
+                                                 <li><a href="/view/search?search=backpacks">Backpacks</a></li>
+                                                   <li><a href="/clothing">Clothing</a></li>
+						 <li><a href="/view/search?search=accessories">Shoe Care &amp; Accessories</a></li>
+                                      &nbsp;
+	                                        
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li class="dropdown">
+			<a href="/kids" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Kids</a>
 			<ul class="dropdown-menu">
+				<span class="arrow"></span>
+				<li><a href="/kids?BRAND=Adidas">adidas</a></li>
+				<li><a href="/kids?BRAND=Nike">Nike</a></li>
+				<li><a href="/kids?BRAND=Vans">Vans</a></li>
+				<li><a href="/kids?BRAND=Converse">Converse</a></li>
+				<li><a href="/kids">View All</a></li>
+			</ul>
+		</li>
+		<li class="dropdown">
+			<a href="/brand" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-="" expanded="false">Brands</a>
+			<ul class="dropdown-menu columns-3 dropdown-menu--center">
+				<span class="arrow"></span>
+				<li class="col-sm-4">
+					<ul>
+						<li><a href="/brand/adidas">adidas</a></li>
+						<li><a href="/brand/adidas_Raf_Simons">adidas Raf Simons</a></li>
+						<li><a href="/brand/adidas_Stella_McCartney">adidas Stella McCartney</a></li>
+                                     <li><a href="/brand/adidas_Wang">adidas Wang</a></li>
+						<li><a href="/brand/adidasy3">adidas Y3</a></li>
+						<li><a href="/brand/adidas_Yeezy">adidas Yeezy</a></li>
+					   	<li><a href="/brand/asics">Asics</a></li>
+					        <li><a href="/brand/birkenstock">Birkenstock</a></li>
+                                             	<li><a href="/brand/clarks_originals">Clarks Originals</a></li>
+					</ul>
+				</li>
+				<li class="col-sm-4">
+					<ul>
+					
+						<li><a href="/brand/converse">Converse</a></li>
+                                                <li><a href="/brand/dr_martens">Dr.Martens</a></li>
+						<li><a href="/brand/Fila">Fila</a></li>
+						<li><a href="/brand/Filling_Pieces">Filling Pieces</a></li>
+						<li><a href="/brand/jason_markk">Jason Markk</a></li>
+						<li><a href="/brand/jordan">Jordan</a></li>
+						<li><a href="/brand/new_balance">New Balance</a></li>
+						<li><a href="/brand/nike">Nike</a></li>
+						<li><a href="/brand/Offspring_Apparel">Offspring Apparel</a></li>
+                                                <li><a href="/brand/poste">Poste</a></li>
+					</ul>
+				</li>
+				<li class="col-sm-4">
+					<ul>
+						
+						<li><a href="/brand/puma">Puma</a></li>
+						<li><a href="/brand/redwing">Redwing</a></li>
+						<li><a href="/brand/reebok">Reebok</a></li>
+						<li><a href="/view/brand/Saucony">Saucony</a></li>
+						<li><a href="/brand/Stepney_Workers_Club">Stepney Worker's Club</a></li>
+						<li><a href="/brand/timberland">Timberland</a></li>
+						<li><a href="/brand/vans">Vans</a></li>
+                                                <li><a href="/brand/Vans_Anaheim">Vans Anaheim</a></li>
+                                                <li><a href="/brand/Veja">Veja</a></li>
+						<li><a href="/brand" class="link view-all">View All Brands</a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
 
-                                <li><a href="/release-dates">Launch Calendar</a></li>
-                                <li><a href="/nike-air-max-trainer-releases">The Evolution of Air</a></li>
-				<li><a href="/view/search?search=classictrend+omn">Retro Trainers</a></li>
-				<li><a href="/view/search?search=luxuryoffspring+omn">Luxury Sneakers</a></li>
-		                <li><a href="/jordan-releases">#WEAREJORDAN</a></li>
-                                <li><a href="/blog/">BLOG</a></li>
-                                
-			</ul></li>
+		<li><a href="/view/category/offspring_catalog/6">Sale</a></li>
 
-                 <li><a href="/view/category/offspring_catalog/6">Sale</a></li>
+		<li class="dropdown">
+			<a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">TRENDING</a>
+			<ul class="dropdown-menu">
+ 		 		<span class="arrow"></span>
+                               <li><a href="/view/search?search=animal+print">Animal Print</a></li>
+                               <li><a href="/view/content/offspringhq">#OFFSPRINGHQ</a></li>
+		                <li><a href="/nike-air-max-trainer-releases">The Evolution of Air</a></li>
+				<li><a href="/view/search?search=luxuryoffspring"> The Premium Collection</a></li>
+                                <li><a href="/jordan-releases">#WEAREJORDAN</a></li>
+			</ul>
+		</li>
 
 		<!-- store locator and my account link for hamburger menu-->
-		<li class="slidemenu-hamburger"><a href="/view/content/storelocator">Store Locator</a></li>
-		<li class="slidemenu-hamburger"><a href="/view/secured/content/myaccount">My Account</a></li>
-		<li class="slidemenu-hamburger"><a href="/studentdiscount">Student
-				Discount</a></li>
-		<li class="slidemenu-hamburger"><a href="/view/content/clickandcollectinfo-page">Click &amp; Collect</a></li>
+		<li class="slidemenu-hamburger">
+			<a href="/view/content/storelocator">Store Locator</a>
+		</li>
+		<li class="slidemenu-hamburger">
+			<a href="/view/secured/content/myaccount">My Account</a>
+		</li>
+		<li class="slidemenu-hamburger">
+			<a href="/studentdiscount">Student Discount</a>
+		</li>
+		<li class="slidemenu-hamburger">
+			<a href="/view/content/clickandcollectinfo-page">Click &amp; Collect</a>
+		</li>
 		<!-- Help, delivery -->
-		<li class="slidemenu-hamburger"><a href="/view/content/contactus-page">Help</a></li>
-		<li class="slidemenu-hamburger"><a href="/view/content/deliveryinfo-page">Delivery</a></li>
-		<li class="slidemenu-hamburger"><a href="/view/content/returnsinfo-page">Returns</a></li>
-		<li class="slidemenu-hamburger"><a href="/view/content/privacy-info-page">Privacy Policy</a></li>
-		<li class="slidemenu-hamburger"><a href="/view/content/terms-info-page">Terms &amp; Conditions</a></li>
+		<li class="slidemenu-hamburger">
+			<a href="/view/content/contactus-page">Help</a>
+		</li>
+		<li class="slidemenu-hamburger">
+			<a href="/view/content/deliveryinfo-page">Delivery</a>
+		</li>
+		<li class="slidemenu-hamburger">
+			<a href="/view/content/returnsinfo-page">Returns</a>
+		</li>
+		<li class="slidemenu-hamburger">
+			<a href="/view/content/privacy-info-page">Privacy Policy</a>
+		</li>
+		<li class="slidemenu-hamburger">
+			<a href="/view/content/terms-info-page">Terms &amp; Conditions</a>
+		</li>
+		<li class="dropdown currency-nav js-currencyNav">
+			<a class="slidemenu-hamburger dropdown-toggle" role="button" data-toggle="dropdown" aria-expanded="false">Currency
+				<span class="selected-currency"></span>
+			</a>
+			<ul class="dropdown-menu multi-column columns-4 currency-list" role="menu">
+			</ul>
+		</li>
 	</ul>
 </div>
 	    
-		     
+		    
 
 
 
@@ -330,36 +722,36 @@
 
 
 
-<script type="text/javascript">
-$(document).ready(function() {
-    QLJS.setUpMiniBasketAjax();
-});
-</script>
-<div class="myBasket empty-minicart" id="mb"> 
-     <ul class="quick-links">
-	    <li><a rel="external" href="/view/content/basket" class="cart">Shopping Cart</a></li>
-	    <li class="quantity"></li>
-	    <!-- <li class="title"> _Item(s)</li> -->
-     </ul>
-    <div class="myBasket_popup"> 
-	    <div class="myBasket_contents" style="display: none; position: absolute;">
-	    	<div class="myBasket_inner_contents"></div>
-	    </div>
-    </div>
-    <script id="myBasketContentsTemplate" type="text/x-jquery-tmpl">
+
+
+<ul class="dropdown--right nav navbar-nav">
+
+  <li class="myBasket empty-minicart dropdown" id="mb">
+      <a rel="external" href="/view/content/basket" class="cart nav--link" id="basketLabel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shopping Cart</a>
+      <span class="quantity"></span>
+      <div class="dropdown-menu dropdown-menu--right" aria-labelledby="basketLabel">
+        <input class="empty--msg" type="hidden" value="There are currently no items in your bag">
+  	    <div class="myBasket_inner_contents"></div>
+      </div>
+      <script type="text/javascript">
+      $(document).ready(function() {
+          QLJS.setUpMiniBasketAjax();
+      });
+      </script>
+      <script id="myBasketContentsTemplate" type="text/x-jquery-tmpl">
         {{if totalQuantity > 0}}
             <ul>
                 {{each items}}
                     <li class="containerShadow219">
                         <div class="myBasket_contents_item clearfix">
-							<div class="l-image-wrapper">
+  						            <div class="l-image-wrapper col-xs-4">
                             <a href="{{= product.productPageUrl}}">
                                 {{if product.picture['thumbnail'].url.length}}
-									<img src="{{= product.picture["thumbnail"].url}}" alt="{{= product.picture["thumbnail"].alttext}}"/>
+  								              <img src="{{= product.picture["thumbnail"].url}}" alt="{{= product.picture["thumbnail"].alttext}}"/>
                                 {{/if}}
                             </a>
-							</div>
-							<div class="l-content-wrapper">
+  						          </div>
+  						          <div class="l-content-wrapper col-xs-8">
                             <div class="myBasket_contents_info">
                                 <div class="name"> {{= product.name}}</div>
                                 {{if product.shoeColour.name.length > 10}}
@@ -373,39 +765,22 @@ $(document).ready(function() {
 
                             <div class="myBasket_contents_pricevalue txtRight">
                                 <div class="qty">{{= quantity}}</div>
-                                <div class="price">{{html htmlFormattedTotalPrice}}</div>
+                                <div class="price js-price-format js-price-format-mini-basket" data-value="{{= totalPriceCurr}}">{{html htmlFormattedTotalPrice}}</div>
                             </div>
-							</div>
-
-                                        
+  						            </div>         
                         </div>
                     </li>
                 {{/each}}
             </ul>
-	       
+           
            
     
-           <div class="floatPropertiesRight">
-               <a href=/view/content/basket class="p_small actionBtn mb_viewbasket btn btn-primary">View Bag</a>
-           </div>
-    
-    
-            {{else}}
-           <div class="myBasket_contents_empty">
-              There are currently no items in your bag
-            </div>
-
-           {{/if}}
-    </script>
-    
-    
-
-</div>
-
-
+           <a href=/view/content/basket class="p_small actionBtn mb_viewbasket btn btn-primary">View Bag</a>
+          {{/if}}
+      </script>
+  </li>
 	    
-		     
-
+		    
 
 
 
@@ -413,124 +788,49 @@ $(document).ready(function() {
 
 
 <script type="text/javascript">
-	$(document).ready(function() {
-		var timeouts = new Array;
-	
-		$(".account").hover(function() {
-			$(".myAccountHeader_contents").css("display", "block");
-		}, function() {});
-	
-		$(".account").mouseover(function() {
-			while (timeouts.length > 0) {
-				clearTimeout(timeouts.pop());
-			}
-		});
-		
-		$(".myAccountHeader_contents").mouseover(function() {
-			while (timeouts.length > 0) {
-				clearTimeout(timeouts.pop());
-			}
-		});
-	
-		$(".account").mouseout(function() {
-			timeouts.push(setTimeout(function() {
-				$(".myAccountHeader_contents").stop(true, true).fadeOut();
-			}, 100));
-		});
-		
-		$(".myAccountHeader_contents").mouseout(function() {
-			timeouts.push(setTimeout(function() {
-				$(".myAccountHeader_contents").stop(true, true).fadeOut();
-			}, 100));
-		});
-	});
+$.ajax({
+    cache: false,
+    url: "/view/resources/getUserInfo",
+    success: function(userInfo) {
+        QLJS.setUpGTMUserAjax(userInfo);
+        var loginStatus =  userInfo.anonymousCustomer ? 'Login if you are an OFFSPRING existing customer or register and make ordering simple. <br/> <br/> <a href="/view/secured/content/myaccount">Login/Register</a>' : '<a href="/j_spring_security_logout">Logout</a>';
+        document.body.querySelector('.myAccountHeader_inner_contents').innerHTML = loginStatus;
+
+        if (!userInfo.anonymousCustomer){
+            window.analytics = {}; window.analytics.userInfo = userInfo;
+        }
+
+		if (userInfo.newlyRegistered){
+			window.mediator.publish("trackSignupEvent", window.analytics.userInfo.email);
+		}
+
+		if (userInfo.userLogin){
+			window.mediator.publish("trackLoginEvent", window.analytics.userInfo.email);
+		}
+	}
+});
 </script>
-
-<script type="text/javascript">
-    $(document).ready(function() {
-        $.ajax({
-            cache: false,
-            url: "/view/resources/getUserInfo",
-            success: function(userInfo) {
-                QLJS.setUpGTMUserAjax(userInfo);
-                if (userInfo.anonymousCustomer) {
-					$(".myAccountHeader_inner_contents").html('Login if you are an OFFSPRING existing customer or register and make ordering simple. <br/> <br/> <a href="/view/secured/content/myaccount">Login/Register</a>');
-                }else{
-                	$(".myAccountHeader_inner_contents").html('<a href="/j_spring_security_logout">Logout</a>');
-                }
-            }
-        });
-    });
-</script>
-
-
-<div id="myAccountHeader">
-	<ul class="quick-links">
-		<li><a href="/view/secured/content/myaccount" class="account hidden-xs">Account</a></li>
-	</ul>
-</div>
-
-<div class="myAccountHeader_popup"> 
-	<div class="myAccountHeader_contents" style="display: none; position: absolute;">
+<li class="dropdown">
+	<a id="accountLabel" href="/view/secured/content/myaccount" class="account nav--link hidden-xs" aria-haspopup="true" aria-expanded="false">Account</a>
+	<div class="dropdown-menu dropdown-menu--right" aria-labelledby="accountLabel">
 		<div class="myAccountHeader_inner_contents"></div>
 	</div>
-</div>
+</li>
 	    
-		     <script type="text/javascript">
-$(document).ready(function() {
-		var timeouts = new Array;
-	
-		$("#storeLocatorHeader .location").hover(function() {
-			$(".storeLocatorHeader_contents").css("display", "block");
-		}, function() {});
-	
-		$("#storeLocatorHeader .location").mouseover(function() {
-			while (timeouts.length > 0) {
-				clearTimeout(timeouts.pop());
-			}
-		});
-		
-		$(".storeLocatorHeader_contents").mouseover(function() {
-			while (timeouts.length > 0) {
-				clearTimeout(timeouts.pop());
-			}
-		});
-	
-		$("#storeLocatorHeader .location").mouseout(function() {
-			timeouts.push(setTimeout(function() {
-				$(".storeLocatorHeader_contents").stop(true, true).fadeOut();
-			}, 100));
-		});
-		
-		$(".storeLocatorHeader_contents").mouseout(function() {
-			timeouts.push(setTimeout(function() {
-				$(".storeLocatorHeader_contents").stop(true, true).fadeOut();
-			}, 100));
-		});
-	});
-</script>
-
-<div id="storeLocatorHeader">
-	<ul class="quick-links">
-		<li>
-			<a href="/view/content/storelocator" class="location hidden-xs">Location</a>
-		</li>
-	</ul>
-</div>
-
-<div class="storeLocatorHeader_popup"> 
-	<div class="storeLocatorHeader_contents" style="display: none; position: absolute;">
-		<div class="storeLocatorHeader_inner_contents">Locate your nearest Offspring store</div>
-	</div>
-</div>
+		    <li class="dropdown">
+	<a href="/view/content/storelocator" class="location nav--link hidden-xs" id="storeLabel" aria-haspopup="true" aria-expanded="false">Location</a>
+    <ul class="dropdown-menu dropdown-menu--right" aria-labelledby="storeLabel">
+    	Locate your nearest Offspring store
+    </ul>
+</li>
 	    
-		     
+		    
 
-<ul class="quick-links">
-			  <li class="active"><a href="#" class="search" id="search_link">Search</a></li>
-      </ul>
+<li><a href="#" class="search nav--link" id="search_link">Search</a></li>
+<!-- opening ul is held in minibasket -->
+</ul>
 	    
-		     
+		    
 
 <script>$(document).ready( function() { window.universal_variable = window.universal_variable || {}; window.universal_variable.user = window.universal_variable.user || {}; window.universal_variable.product = window.universal_variable.product || {};});</script>
 	    
@@ -539,11 +839,11 @@ $(document).ready(function() {
 </header>
 
 <div id="page-content" class="privacy-info-page">
-<section class="no-margin-top">
-	<div class="container-fluid privacy-info-page">
-		<!-- Main component for a primary marketing message or call to action -->
-		 
+	<section class="no-margin-top">
+		<div class="container-fluid privacy-info-page">
 			
+			
+				
 
 
 
@@ -608,19 +908,19 @@ $(document).ready(function() {
 	          appendTo: "#autocomplete",
 	          select: function( event, ui ) {
 	        	  $(this).val(ui.item.value);
-				  QLJS.submitToLower('#searchform');
+				  $('#searchform').submit();
 	          }
 	        });
 	      });
-	      
+
     </script>
 
 
-		 
-        
-		<div class="container">
-	   	
-			
+			 
+	        
+			<div class="container">
+		   	
+				
 
 <div id="breadcrumbs" class="clearBoth darkergrey hidden-xs">
 	<span>
@@ -646,33 +946,695 @@ $(document).ready(function() {
 		
 	//--></script>
 </div>
-		
 			
+				
 
-<div class="customerService"><div class="col-xs-12 col-sm-4 col-md-4 col-lg-3"><div class="categoryTree_container containerShadow189 row"><div class="categoryTree"><ul> <li class="categoryTree_facetTree"><span class="categoryTree_bold">HOW CAN WE HELP</span> <ul class="categoryTree_facet expanded"> <li><a href="contactus-page" id="contact-us"><span class="facetNameVal">Contact us</span></a></li> <li><a href="orders-info-page" id="orders-info"><span class="facetNameVal">Orders</span></a></li> <li><a href="deliveryinfo-page" id="delivery-info"><span class="facetNameVal">Delivery</span></a></li> <li><a href="clickandcollectinfo-page" id="click-and-collect-info"><span class="facetNameVal">Click and collect</span></a></li> <li><a href="returnsinfo-page" id="returns-info"><span class="facetNameVal">Returns</span></a></li> <li><a href="size-guide" id="size-guide-info"><span class="facetNameVal">Size guide</span></a></li> <li><a href="terms-info-page" id="terms-and-conditions"><span class="facetNameVal">Terms and conditions</span></a></li> </ul> </li> <li class="categoryTree_facetTree"><span class="categoryTree_bold">USEFUL INFO</span> <ul class="categoryTree_facet expanded"> <li><a href="aboutus-info-page" id="about-us"><span class="facetNameVal">About us</span></a></li> <li><a href="careers-info" id="careers"><span class="facetNameVal">Careers</span></a></li> <li><a href="privacy-info-page" id="privacy-policy"><span class="facetNameVal">Privacy policy</span></a></li> </ul> </li> </ul></div></div></div>
-		
-			
-
-<div id="privacy-policy" class="col-xs-12 col-sm-8 col-md-8 col-lg-9"><h3 class="title bold">Privacy Policy</h3> <div class="componentContainer left" style="width: 100%;"><div class="tabbed_componentContainer grey"><div class="mycontainerShadow containerShadow"><div class="componentContainer_content grey"><p>&nbsp;</p> <p>As a UK based website we endeavour to ensure that all personal information or "data" provided is handled in accordance with the 1998 UK Data Protection Act and use technology that protects your information (including credit card details) from unauthorised use or access. However, no information transferred over the Internet or wireless network can be guaranteed to be completely secure.</p><p>We always try to protect your personal privacy and this Privacy Policy is here to help you understand what we may do with any information you share with us. This Privacy Policy only relates to our website <a href="http://www.Offspring.co.uk" class="pagenta">Offspring.co.uk</a> and does not extend to any websites that are linked from our website.</p><p>You can access our website homepage and browse our site without disclosing your personal data, but if you do give us your personal details, you are accepting these terms. If you do not agree with this privacy statement, do not give us your details. This privacy statement is part of our Terms and Conditions. We reserve the right to change this Privacy Policy from time to time and we advise you to read through them each time you use the site.</p><p>In this Privacy Policy, we, us and our, refer to Offspring part of OFFICE Limited, registered in England &amp; Wales.</p><p>Our registered office is<br>Office Holdings LTD<br>Classic House,<br>Martha's Buildings,<br>180 Old Street,<br>London EC1V 9BP</p> <hr><h4>ABOUT OFFSPRING</h4> <div><p>In these terms and conditions, we, us and our, refer to Offspring part of OFFICE Limited, registered in England &amp; Wales.</p><p>Our registered office is<br>Office Holdings LTD<br>Classic House,<br>Martha's Buildings,<br>180 Old Street,<br>London EC1V 9BP</p><p>Our company registration number is 1764341<br>Our VAT registration number is 340010335</p></div> <hr><h4>INFORMATION WE MAY COLLECT FROM YOU</h4> <div><p>If you want to buy goods from us, you will have to register (this process will create your own personal account on our site).</p></div> <hr><h4>REGISTRATION: CREATING AN ACCOUNT</h4> <div><p>Registration involves you giving us the following personal information:</p><p>Your title, name and address where your payment card is registered (including option to save different delivery addresses)</p><p>Contact phone number and e-mail address</p><p>Once you have placed your order, you will then be able to check on your order status, manage your address book and speed up the ordering process. Registration also enables you to update your email preferences.</p></div> <hr><h4>PLACING AN ORDER</h4> <div><p>When you place an order with Offspring, we ask for your name, e-mail address, delivery address, contact and credit card details as well as expiry date. We keep a record of this information so that we can recognise you and fulfil any orders you place securely with Offspring. We retain details of your orders, copies of any e-mail correspondence you send us in order to maintain high standards of customer service.</p><p>We may also collect the following information:</p><p>demographic information such as preferences and interests</p><li>other information relevant to customer surveys and/or offers </li></div> <hr><h4>HOW WE WILL USE YOUR DETAILS</h4> <div><p>We are committed to protecting your personal information and we will endeavour only to use or disclose personal information collected from you for the efficient delivery of our services to you and to work towards improving those services.</p><p>In order to process your order we will send you a confirmation email or we may need to contact you by telephone or email to verify details before we are able to process and dispatch your order or we may be unable to accept your order. Your card details will only be shared with any third parties as is necessary to process your transaction. We need to contact card issuers for validation checks and authorisation on all card payments. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. Offspring will validate the names, addresses and other information supplied during the order process against commercially available records (e.g Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the Offspring.co.uk website you consent to such checks being made. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible.</p><p>We also use your information to deliver the goods to you, or we might give your details to our carrier if they deliver on our behalf.</p><p>We may also use the information to improve our website and personalise your experience during your visit. If we are sold or merged with another company we may transfer, sell or assign information about your relationship with us to third parties, including information that identifies you and other information concerning your relationship with us.</p><p>If you “opt in” to receive information from OFFSPRING by post and/or email and/or SMS and/or MMS and/or Mobile Push and/or telephone we may periodically contact you about new products, special offers, promotions or other information which we think you may find interesting using the contact details which you have provided.</p><p>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or mail. We may use the information to customise the website according to your interests.</p></div> <hr><h4>UNSUBSCRIBING</h4> <div><p>If you change your mind and decide you do not wish to receive information from OFFSPRING you can unsubscribe at any time by following the instructions in the message you have received from us (e.g. by clicking on the “unsubscribe” link in any email) or by emailing us at <a href="mailto:customerservice@offspring.co.uk">help@offspring.co.uk</a>.</p></div> <hr>
-
-<h4>ABOUT COOKIES AND THE WAY WE USE THEM</h4><div><p>In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at <a href="http://allaboutcookies.org">www.allaboutcookies.org</a> but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.</p><p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We use this information for statistical analysis purposes and then the data is removed from the system.</p><p>We use Post-Click Tracking tags to track customer activity following a marketing email linking to Offspring.co.uk. The cookies will allow us to send targeted and relevant marketing emails to those customers opted in. The data collected will only contain email address, transaction quantity and transaction amount.</p><p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
-
-<p>Our website uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites, apps and emails. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. You can opt-out of interest based advertising by visiting the following websites:</p>
-<a href="http://go.pardot.com/e/126241/choices-/3yy9lv/114140805" class="underline">http://go.pardot.com/e/126241/choices-/3yy9lv/114140805</a><p></p>
-<a href="http://go.pardot.com/e/126241/2017-04-12/3yy9lx/114140805" class="underline">http://go.pardot.com/e/126241/2017-04-12/3yy9lx/114140805</a><p></p>
-<p>We may share data, such as technical identifiers derived from your registration information on our [website/app] or our CRM system with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use. To read more about their linking capabilities, please refer to their privacy policy listed in the above-mentioned platforms or listed below.</p>
-<p>Criteo privacy policy: <a href="http://go.pardot.com/e/126241/privacy-/3yy9lz/114140805" class="underline">http://go.pardot.com/e/126241/privacy-/3yy9lz/114140805</a></p>
-<p>AffiliateWindow policy: <a href="https://www.awin.com/gb/legal/privacy-policy" class="underline">https://www.awin.com/gb/legal/privacy-policy</a></p>
-
-<p>Please note: <span style="color: #c31132;">We do not use cookies to store any of your personal or financial information on your computer.</span></p></div><hr>
-
-<h4>WHERE WE STORE YOUR PERSONAL DATA</h4><div><p>All information that you supply us with is stored on our secured servers. Any payment details will be encrypted using SSL technology to try to prevent unauthorised access.</p></div> <hr><h4>SECURITY</h4> <div><p>We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties.</p></div><hr><h4>DATA PROTECTION</h4><div><p>We comply with all of the applicable data protection laws in the UK. We do not share any data collected via our website with any third party partners but we may send you emails on their behalf if you opt in to receive email from third parties.</p></div><hr><h4>LINKS TO THIRD PARTIES</h4><div><p>We may provide links to third party websites from time to time that we believe may be of interest to you. We do not control nor vet these websites. We advise you to read the Privacy Policy applicable to each third party site you visit and we will not accept any responsibility for or liability in respect of either the contents or your use of these third party sites.</p></div><hr><h4>LINKS TO OTHER WEBSITES</h4><div><p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p></div><hr><h4>CONTROLLING YOUR PERSONAL INFORMATION</h4><div><p>You may choose to restrict the collection or use of your personal information in the following ways:</p><ul><li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by Offspring or companies of Offspring’s careful selection for direct marketing purposes</li><li>if you have previously agreed to Offspring using your personal information for direct marketing purposes, you may change your mind at any time by unsubscribing via our marketing emails or emailing us at <a href="mailto:customerservice@offspring.co.uk">help@offspring.co.uk</a></li><li>if you have previously agreed to Offspring sharing your personal information with companies of Offspring’s careful selection for direct marketing purposes, you may change your mind at any time by emailing us at <a href="mailto:customerservice@offspring.co.uk">help@offspring.co.uk</a></li></ul><p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p><p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Data Protection Offspring, Ecommerce Team, Classic House,<br>Martha's Buildings, 180 Old Street, London EC1V 9BP</p><p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p></div><hr><h4>CONTACT US</h4> <div><p>If you have any questions, please feel free to contact us by email at: <a href="mailto:customerservice@offspring.co.uk">help@offspring.co.uk</a></p><p>&nbsp;</p></div></div></div></div></div></div>
-		 
+<div class="customerService">
+	<div id="left-nav" class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+		<div class="categoryTree_container containerShadow189 row">
+			<div class="categoryTree">
+				<ul>
+					<li class="categoryTree_facetTree"><span class="categoryTree_bold">HOW CAN WE HELP</span>
+						<ul class="categoryTree_facet expanded">
+							<li><a href="contactus-page"><span class="facetNameVal">Contact us</span></a></li>
+							<li><a href="orders-info-page"><span class="facetNameVal">Orders</span></a></li>
+							<li><a href="deliveryinfo-page"><span class="facetNameVal">Delivery</span></a></li>
+							<li><a href="clickandcollectinfo-page"><span class="facetNameVal">Click and collect</span></a></li>
+							<li><a href="returnsinfo-page"><span class="facetNameVal">Returns</span></a></li>
+							<li><a href="size-guide"><span class="facetNameVal">Size guide</span></a></li>
+							<li><a href="terms-info-page"><span class="facetNameVal">Terms and conditions</span></a></li>
+							<li><a href="IG-terms"><span class="facetNameVal">Competition Terms and conditions</span></a></li>
+							<li><a href="reebok-competition"><span class="facetNameVal">Community Lab Terms And Conditions</span></a></li>
+						</ul>
+					</li>
+					<li class="categoryTree_facetTree"><span class="categoryTree_bold">USEFUL INFO</span>
+						<ul class="categoryTree_facet expanded">
+							<li><a href="aboutus-info-page"><span class="facetNameVal">About us</span></a></li>
+							<li><a href="careers-info"><span class="facetNameVal">Careers</span></a></li>
+                                                        <li><a href="/assets/Office_responsive/Documents/Office_Gender_Pay_Gap.pdf" target="_blank"><span class="facetNameVal">Gender Pay Gap Report</span></a></li>
+							<li><a href="privacy-info-page"><span class="facetNameVal">Privacy policy</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
 		</div>
 	</div>
-</div></section>
-<footer id="footer">
-	<div class="container">
+			
+				
+
+<style type="text/css">
+    td {
+    border: solid black 1px;
+    margin: 10px;
+    padding: 10px;
+    }
+    tr {
+        border: solid black 1px;
+    }
+    table {
+        border: solid black 1px;
+    }
+
+    li {
+        list-style: square;
+    }
+
+    .cookiesEssential {
+        background: #BE0323;
+        background: -moz-linear-gradient(left, #BE0323 0%, #A3031E 73%, #2E0108 100%);
+        background: -webkit-linear-gradient(left, #BE0323 0%, #A3031E 73%, #2E0108 100%);
+        background: linear-gradient(to right, #BE0323 0%, #A3031E 73%, #2E0108 100%);
+    }
+
+    .bg-white {
+       background: white; 
+    }
+</style>
+
+<div id="privacy-policy" class="col-xs-12 col-sm-8 col-md-8 col-lg-9">
+    <h3 class="title bold">OFFSPRING PRIVACY AND COOKIES POLICY</h3>
+    <div class="componentContainer left" style="width: 100%;">
+        <div class="tabbed_componentContainer grey">
+             <div class="mycontainerShadow containerShadow">
+                <div class="componentContainer_content grey">
+                    <p>&nbsp;</p> 
+                    <p><strong>OFFSPRING ("we", "our" or "OFFSPRING") is committed to protecting the privacy of third parties (including its customers and all visitors to the websites <a href="http://www.office.co.uk" target="_blank" class="underline">www.office.co.uk</a>, <a href="http://www.offspring.co.uk" target="_blank" class="underline">www.OFFSPRING.co.uk</a> and <a href="http://www.offcutsshoes.co.uk" target="_blank" class="underline">www.Offcutsshoes.co.uk</a> (the "Websites") and our OFFICE Apps). Please read the following Privacy and Cookies Policy which explains how we use and protect your information.</strong></p>
+                   
+                    <p><strong><i>Key points to note</i></strong></p>
+
+                    <ul>
+                        <li><strong>This Privacy and Cookies Policy will apply to your use of the Websites, which are operated by OFFSPRING ("Office Holdings Limited") of Classic House, Martha's Buildings, 180 Old Street, London, EC1V 9BP.  It will also apply when we provide services to you in person (e.g. when you buy shoes from us at one of our stores).</strong></li>
+                        <li><strong>When you use our Websites or request services from us (such as buying shoes) we may collect Personal Information from you. This Privacy and Cookies Policy explains what Personal Information we collect and how we will only process this information (i) to provide our services to you, (ii) to comply with our legal obligations, (iii) for the purposes of our legitimate business interests (namely to analyse the use of our Websites and products to continually improve our business and your customer experience) or (iv) where we have your consent.</strong></li>
+                        <li><strong>You can ask us to stop using some of your Personal Information at any time and have the right to ask us to delete some of the Personal Information that we hold about you. Just contact us at <a href="mailto:help@OFFSPRING.co.uk" class="underline">help@OFFSPRING.co.uk</a>. You can also use this email address if you have any questions about this Privacy and Cookies Policy.</strong></li>
+                        <li><strong>In addition to this Privacy and Cookies Policy please take the time to read our Terms and Conditions.</strong></li>
+                    </ul>
+
+                    <p style="font-size:12px;font-weight:bold"><ins>INDEX</ins></p>
+
+                    <div style="text-decoration: underline">
+                    <p><a href="#C1">1. WHAT IS THE PURPOSE OF THIS POLICY?</a></p>
+                    <p><a href="#C2">2. WHO CONTROLS THE COLLECTION OF PERSONAL INFORMATION</a></p>
+                    <p><a href="#C3">3. CHILDREN'S PERSONAL INFORMATION</a></p>
+                    <p><a href="#C4">4. INFORMATION WE MAY COLLECT FROM YOU</a></p>
+                    <p><a href="#C5">5. WHOSE PERSONAL INFORMATION MIGHT WE COLLECT AND WHY?</a></p>
+                    <p><a href="#C6">-5.1 People who register or place an order with us</a></p>
+                    <p><a href="#C7">-5.2 People who apply for a job with OFFSPRING</a></p>
+                    <p><a href="#C8">-5.3 People who provide services to us and other business contacts</a></p>
+                    <p><a href="#C9">6. TECHNICAL INFORMATION WE MAY COLLECT FROM YOU</a></p>
+                    <p><a href="#C10">7. PERSONAL INFORMATION THAT WE RECEIVE FROM OTHER SOURCES</a></p>
+                    <p><a href="#C11">8. HOW WE WILL USE YOUR DETAILS</a></p>
+                    <p><a href="#C12">9. SHARING YOUR PERSONAL INFORMATION</a></p>
+                    <p><a href="#C13">10. TRANSFERS OF YOUR PERSONAL INFORMATION OUTSIDE THE EEA</a></p>
+                    <p><a href="#C14">11. ABOUT COOKIES AND HOW WE USE THEM</a></p>
+                    <p><a href="#C15">12. SECURITY</a></p>
+                    <p><a href="#C16">13. YOUR CONTROL OVER YOUR PERSONAL INFORMATION</a></p>
+                    <p><a href="#C17">14. HOW LONG WE RETAIN YOUR PERSONAL INFORMATION</a></p>
+                    <p><a href="#C18">15. LINKS TO THIRD PARTIES</a></p>
+                    <p><a href="#C19">16. 3RD PARTY AD SERVING</a></p>
+                    <p><a href="#C20">17. WHAT IS THE DATA PROTECTION LEGISLATION?</a></p>
+                    <p><a href="#C21">18. COMPLAINTS</a></p>
+                    <p><a href="#C22">19. CHANGES TO THIS PRIVACY AND COOKIES POLICY</a></p>
+                     <p><a href="#C23">20. I'VE RECEIVED AN EMAIL FROM YOU THAT LOOKS SUSPICIOUS</a></p>
+                    <p><a href="#C24">21. CONTACT US</a></p>
+                </div>
+
+                     
+
+                    <hr>
+
+                    <h4 id="C1">1. WHAT IS THE PURPOSE OF THIS POLICY?</h4>
+                    <div>
+                        <p>We always try to protect your personal privacy and this Privacy and Cookies Policy is here to help you understand what we may do with any information you share with us. This Privacy and Cookies Policy only relates to the processing of your Personal Information by OFFSPRING or on our behalf. OFFSPRING only accepts responsibility for our Websites and does not extend to any websites that are linked from our Websites.</p>
+
+                        <p>We will only use information from which you can be identified, such as your name, contact details and financial information (<strong>"Personal Information"</strong>) which is provided to us, or otherwise obtained by us, in accordance with this Privacy Statement. We will ensure that your Personal Information is handled in accordance with the "Data Protection Legislation" (as defined at the end of this policy).</p>
+
+                        <p>You can access our Websites homepages and browse our Websites without providing your Personal Information to us (save for some limited information we may collect depending on your browser settings), but if you do choose to give us your Personal Information by contacting us through the Websites (or otherwise engaging with us), you acknowledge that we may collect, use and transfer your Personal Information as set out in this Privacy and Cookies Policy. If you do not agree with this Privacy and Cookies Policy, do not give us your details.</p>
+
+                        <p>This Privacy and Cookies Policy is part of our Terms and Conditions. We reserve the right to change this Privacy and Cookies Policy from time to time and you should therefore check this page frequently to ensure that you are happy with any changes.</p>
+                    </div> 
+
+                    <hr>
+
+                    <h4 id="C2">2. WHO CONTROLS THE COLLECTION OF PERSONAL INFORMATION</h4>
+                    <div>
+                        <p>In this Privacy and Cookies Policy, <strong>"OFFSPRING", "we", "us" and "our",</strong> refer to OFFSPRING, part of OFFICE Holdings Limited, registered in England and Wales with registered office, Office Holdings LTD, Classic House, Martha's Buildings, 180 Old Street, London, EC1V 9BP. Our company registration number is 1764341. Our VAT registration number is 340010335.</p>
+
+                        <p>For the purposes of the Data Protection Legislation, we are deemed to be the "data controller" in respect of any Personal Information that you provide to us in connection with the operation of our business or we otherwise obtain about you.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C3">3. CHILDREN'S PERSONAL INFORMATION</h4>
+                    <div>
+                        <p>You may only engage or register with us or buy products from us if you are aged 18 or over.</p>
+
+                        <p>Some of the products on our Websites are for children. We are aware that we must take extra precautions when processing the Personal Information of children. If you are under the age of 18, and your parent or guardian has given you permission and supervises your use of our Websites, you are welcome to browse our Websites but if you want to do anything further, including contacting us, registering with us or buying products from us, you must ask a parent or guardian to do so for you.</p>
+
+                        <p><strong>Parents take note!</strong> If you have given your child permission to use our Websites you are responsible for reading this Privacy and Cookies Policy and ensuring that you understand how we will make use of your child’s Personal Information. You will also be responsible for supervising your child’s use of our Websites and services.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C4">4. INFORMATION WE MAY COLLECT FROM YOU</h4>
+                    <div>
+                        <p>When you engage with us (e.g. purchase shoes or other products from us, use, register or create an online account on our Websites, subscribe to any of our services, sign up to updates, post content on our Websites, voluntarily provide us with feedback, contact us via social media websites, or otherwise), we may collect the below Personal Information from you.  Please ensure that the Personal Information that you provide to us is accurate and complete and notify us if any changes are made to your Personal Information so that we may update our records.</p>
+
+                        <p>This Personal Information may include:</p>
+
+                    <ul>
+                        <li>your title, name and surname;</li>
+                        <li>your contact phone number and e-mail address.</li>
+                        <li>your date of birth (so we can send you a birthday treat!)</li>
+                        <li>demographic information such as preferences and interests; and</li>
+                        <li>other information relevant to customer surveys and/or offers.</li>
+                    </ul>  
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C5">5. WHOSE PERSONAL INFORMATION MIGHT WE COLLECT AND WHY?</h4>
+                    <div>
+                        <p>In particular, we will collect and process the following information:</p>
+
+                        <p id="C6"><strong>-5.1 People who register or place an order with us</strong></p>
+
+                        <p>When you place an order with OFFSPRING, we ask for your name, e-mail address, delivery address, billing address, mobile phone number and credit card details (as well as expiry date) or other payment details. We keep a record of this information so that we can recognise you and fulfil any orders you place securely with OFFSPRING. We retain details of your orders and copies of any e-mail, social media or written correspondence you send us in order to maintain high standards of customer service. Once you have placed your order, you will then be able to check on your order status, manage your address book and stored payment methods and speed up the ordering process.</p>
+
+                         <p id="C7"><strong>-5.2 People who apply for a job with OFFSPRING</strong></p>
+
+                        <p>Where you apply for a job with us, we may collect from you and third parties (where relevant) Personal Information such as your CV, any references, your right to work, your name and contact details and any other information that you supply to us as part of your application.  Unless you ask us to keep such information on file for future opportunities or we need to retain such information for compliance with our legal obligations, if you are unsuccessful, we will only retain this Personal Information for as long as is reasonably necessary to process your application.</p>
+
+                        <p id="C8"><strong>-5.3 People who provide services to us and other business contacts</strong></p>
+
+                        <p>Where you or your employer (or any other third party you work for) provide services to us, you and/or they may provide us with some of your Personal Information in connection with the provision of the services, such as your name, business contact details and other ID information. We will only process such Personal Information in connection with the provision of the services (such as using your contact details to discuss the services) and in accordance with this Privacy and Cookies Policy. In addition, where necessary, we may also share your Personal Information with our customers or other third parties in order to provide our services (e.g. if you or your business provide a courier service, we may share your business contact details with our customers so that they can contact you about a delivery).</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C9">6. TECHNICAL INFORMATION WE MAY COLLECT FROM YOU</h4>
+                    <div>
+                        <p>We also automatically collect certain limited information about your device, your visits to our Websites and when you contact our staff through the online chat help system which may be considered Personal Information. Technical Information may include:</p>
+
+                        <ol class="d" type="a">
+                            <li><strong>Device data.</strong> We may collect information about the type of device or platform you use (such as a computer or mobile device) to access our Websites and your choice of web browser.</li>
+
+                            <li><strong>Location data.</strong> Your use of our Websites may generate geographical data, such as the location or time zone of a device or IP address, which we may collect.</li>
+
+                            <li><strong>Log data about your visit.</strong> Your use of our Websites automatically generates information about your unique visit which we may collect. This can include uniform resource locators (URLs), data about your internet service provider, the number and timing of clicks to and from the content on our Websites, which events you view, page response times, download errors, length of visits to certain pages, page interaction data (such as scrolling, clicks, and mouse-overs), email engagement rates and activities, and methods used to browse away from the page. Typically we will not be able to identify you from this information.</li>
+
+                            <li><strong>Data about your interactions.</strong> Our websites may provide you with the opportunity to interact with content in certain ways, such as by sharing content on social media. These interactions create data which we may collect, for example, the contents of a post or comment, or whether a link or image was shared using a particular social media network.</li>
+                        </ol>
+
+                        <p>Some of the technical data set out above will be collected by cookies that we use on our Websites. For more information on the ways in which we make use of cookies, please see below at section 11.</p>
+
+                        <p>For more information, please see the relevant section of our Terms and Conditions <a href="https://www.offspring.co.uk/view/content/terms-info-page" target="_blank" class="underline">www.offspring.co.uk/view/content/terms-info-page</a></p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C10">7. PERSONAL INFORMATION THAT WE RECEIVE FROM OTHER SOURCES</h4>
+                    <div>
+                        <p>We may receive Personal Information from third parties who collect Personal Information from you and pass it on to us. For example, our staff may give us emergency contact information as part of our emergency scenario planning and details of their dependents and of other people in relation to their employee benefits arrangements.  Where this is the case the third party is responsible for ensuring you are aware of this policy and to ensure you are happy with the ways in which your Personal Information will be used.</p>  
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C11">8. HOW WE WILL USE YOUR DETAILS</h4>
+                    <div>
+                        <p>We are committed to protecting your Personal Information and we will only use or disclose your Personal Information to (i) perform the contract we have with you, (ii) comply with our legal obligations, (iii) for our legitimate business interests (such as to analyse and improve our Websites, products and services), (iv) personalise your experience when you visit our Websites, (v) where you apply for a job with us, process your application and (vi) for any other purposes for which you have given your explicit consent.</p>
+
+                        <p>In order to process your order we will send you a confirmation email or we may need to contact you by telephone or email to verify your details before we are able to process and dispatch your order or we may be unable to accept your order.</p>
+
+                        <p>Where you have explicitly consented or where we otherwise have a right to do so, we may from time to time contact you by post, electronic mail or mobile phone messaging about new products, special offers or other information which we think you may find interesting using the contact information which you have provided. Registration enables you to update your preferences of the marketing that you wish to receive and how we send it to you. You may opt out of receiving these marketing communications by simply following the instructions outlined in the email or mobile phone message.</p>
+
+                        <p>From time to time, we may also use your information to contact you for market research purposes by email or mail. This will only happen where you have opted-in to receive such communications. We may also use the information to customise the Websites according to your interests.</p> 
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C12">9. SHARING YOUR PERSONAL INFORMATION</h4>
+                    <div>
+                        <p>We will not share your Personal Information with third parties unless we have your explicit consent, need to share this information to enable us  to fulfil our contract with you, are required by law or where otherwise necessary for our internal business processes.</p>
+
+                        <p>For example, where you purchase products from us, if you pay by card, your card details will be shared with third parties as necessary to process your transaction. We need to contact card issuers for validation checks and authorisation on all card payments. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. OFFSPRING will validate the names, addresses and other information supplied during the order process against commercially available records (e.g. Electoral Roll data, Credit Reference Services) and a third party may be instructed to complete these checks. By ordering from our Websites (or via our App) you acknowledge that such checks shall be made. We may also need to provide your Personal Information to PayPal or other payment processors. Any Personal Information you provide may also be disclosed to a registered Credit Reference Agency which may keep a record of the information. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible. We also share your Personal Information to third parties for purposes of delivery of the products to you and for the purpose of processing your order.</p>
+
+                        <p>Where you have explicitly opted-in to such communications, OFFSPRING may, from time to time, share your Personal Information with its affiliated company, OFFSPRING. OFFSPRING may contact you by post, by electronic mail services or mobile phone messaging about new products, special offers or other information which we think you may find interesting using the delivery or email address which you have provided. You may opt-out of receiving any such communications by following the instructions outlined in the communication, contacting us using the details below or contacting OFFSPRING directly.</p>
+
+                        <p>Where you have explicitly opted-in to such communications, OFFSPRING may, from time to time, share your Personal Information with its affiliated company, Offcutsshoes. Offcutsshoes may contact you by post, by electronic mail services or mobile phone messaging about new products, special offers or other information which we think you may find interesting using the delivery or email address which you have provided. You may opt-out of receiving any such communications by following the instructions outlined in the communication, contacting us using the details below or contacting Offcutsshoes directly.</p>
+
+                        <p>If we are sold or merged with another company we may disclose your information to a potential buyer, including your Personal Information and other information concerning your relationship with us, so that they can continue to provide our products and services to you.</p>
+
+                        <p>We may share your Personal Information with third parties, such as Facebook, Instgram or via other third party advertising that may appear on other websites you use, where we have a legitimate business interest for doing so. Where we are relying on legitimate business interests for the processing of data, we will first consider whether or not these interests are outweighed by your interests, rights and freedoms.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C13">10. TRANSFERS OF YOUR PERSONAL INFORMATION OUTSIDE THE EEA</h4>
+                    <div>
+                        <p>All your Personal Information is stored on our secure servers or those of our group companies or suppliers which may be situated outside of the European Economic Area <strong>("EEA")</strong>. All such transfers take place in accordance with the Data Protection Legislation.</p>
+
+                        <p>Your Personal Information may also be processed by staff operating outside the EEA who work for us or for one of our group companies or suppliers. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this Privacy and Cookies Policy and the Data Protection Legislation when it is processed in, or otherwise accessed from, a location outside the EEA. This means that we will only transfer your Personal Information to third parties outside the EEA if that third party (a) is situated in a country that has been confirmed by the European Commission to provide adequate protection to Personal Information, (b) has agreed (by way of written contract containing the European Commission-approved "model clauses" or by some other form of data transfer mechanism approved by the European Commission) to provide all protections to your Personal Information as required by the Data Protection Legislation or (c) we have your explicit consent to do so. Where any transfer takes place under a written contract, you have the right to request a copy of that contract and may do so by contacting us using the details below. For the avoidance of doubt, in the event that the UK is no longer a part of the EEA, references in this paragraph to the EEA shall mean the EEA and the UK.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C14">11. ABOUT COOKIES AND HOW WE USE THEM</h4>
+                    <div>
+                        <p>Cookies are small pieces of information in the form of text files that are sent to your browser from our web server and are stored on your computer. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than information about how you use the site and the data you choose to share with us (including data you automatically share with us by way of your browser settings).</p>
+
+                        <p>There are essentially 3 different types of cookies that we use on our Websites:</p>
+
+                        <ul class="list">
+                            <li><strong>Cookies essential to website operations</strong> - These cookies allow you to browse the OFFSPRING website, search for products and add items to your basket.</li>
+                            <li><strong>Non-essential but helpful cookies</strong> - These cookies help improve your experience on the site by allowing us to make alternative product suggestions based on which products you view.</li>
+                            <li><strong>Analytics and Marketing cookies</strong> - Analytical cookies monitor how you use our site and help us identify areas where we can improve the site. Marketing cookies are used when you visit the site via our emails or via other partner sites (affiliates) and give us visibility of how you found our site.</li>
+                        </ul>
+
+                        <p>You can set up your computer so that it rejects cookies and you will find instructions on how to do this at <a href="http://www.allaboutcookies.org" target="_blank" class="underline">www.allaboutcookies.org</a>. It may be that your browser provider will ask you to set your preferences for cookies. Please note that the choices you make will affect the content you see on OFFSPRING.co.uk. If you have all cookies disabled on your computer, your shopping experience on our Websites will be limited to browsing and researching – you won't be able to add products to your shopping basket or buy from us online. Please view our section 'Managing Cookies' below for more information.</p>
+
+                        <p>Full details of the cookies that we use (as of May 25 2018) are listed below</p>
+
+                        <p style="font-size:12px;font-weight:bold">MANAGING COOKIES</p>
+
+                    <p><strong><ins>To enable cookies</ins></strong></p>
+
+                    <p>To verify the type and version of web browser you use to access the Internet:</p>
+
+                    <p>For PCs: click on 'Help' at the top of your browser window and select the 'About' option</p>
+
+                    <p>For Macs: with the browser window open and active, click on the Apple menu and select the 'About' option</p>
+
+                    <p><strong><ins>How to check cookies are enabled</ins></strong></p>
+
+                    <p><strong>Google Chrome</strong></p>
+                    <ul class="list">
+                        <li>From the Chrome menu in the top right corner of the browser, select Settings.</li>
+                        <li>At the bottom of the page, click Show advanced settings....</li>
+                        <li>Under Privacy, select Content settings.... To manage cookie settings, check or uncheck the options under "Cookies".</li>
+                    </ul>
+
+                    <p><strong>Microsoft Internet Explorer</strong></p>
+                    <ul class="list">
+                        <li>Click on settings icon  at the top of your browser window and select "Internet options" , then click on the "Privacy" tab</li>
+                        <li>Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser</li>
+                        <li>Please note that settings above "Medium" will disable cookies</li>
+                    </ul>                    
+
+                    <p><strong>Mozilla Firefox</strong></p>
+                    <ul class="list">
+                        <li>Click the menu button and choose Options.</li>
+                        <li>Select the Privacy and Security panel and go to the History section.</li>
+                        <li>In the drop-down menu next to Firefox will, choose Use custom settings for history.</li>
+                        <li>If you are troubleshooting problems with cookies, make sure that Accept third-party cookies is NOT set to Never.</li>
+                        <li>Choose how long cookies are allowed to be stored.</li>
+                        <li>Close the about:preferences page. Any changes you've made will automatically be saved.</li>
+                    </ul>  
+
+                    <p><strong>Safari</strong></p>
+                    <ul class="list">
+                        <li>Choose Safari &gt; Preferences, click Privacy</li>
+                        <li>Change which cookies and website data are accepted: Select a "Cookies and website data" option:</li>
+                        <li>Always block: Safari doesn’t let any websites, third parties, or advertisers store cookies and other data on your Mac. This may prevent some websites from working properly.</li>
+                        <li>Allow from current website only: Safari accepts cookies and website data only from the website you’re currently visiting. Websites often have embedded content from other sources. Safari does not allow these third parties to store or access cookies or other data.</li>
+                        <li>Allow from websites I visit: Safari accepts cookies and website data only from websites you visit. Safari uses your existing cookies to determine whether you have visited a website before. Selecting this option helps prevent websites that have embedded content in other websites you browse from storing cookies and data on your Mac.</li>
+                        <li>Always allow: Safari lets all websites, third parties, and advertisers store cookies and other data on your Mac.</li>
+                    </ul>
+
+                   <p style="font-size:12px;font-weight:bold">Cookies essential to website operations</p>
+
+                   <table class="cookiesTable">
+                       <tbody>
+                           <tr class="bg-light-gray">
+                            <td class="cookiesEssential" colspan="3">
+                                <strong>1st party cookies</strong>
+                            </td>
+                        </tr>
+
+                        <tr class="bg-white">
+                            <td class="col-sm-3 col-xs-3">
+                                <strong>Cookie Name</strong>
+                            </td>
+                            <td class="col-sm-6 col-xs-6">
+                                <strong>Description</strong>
+                            </td>
+                            <td class="col-sm-3 col-xs-3">
+                                <strong>Duration</strong>
+                            </td>                                                        
+                        </tr>
+
+                        <tr>
+                            <td>
+                                JSESSIONID
+                            </td>
+                            <td>
+                                Unique session ID
+                            </td>
+                            <td>
+                                Session
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                CARTCOOKIE
+                            </td>
+                            <td>
+                                Cart/Basket ID
+                            </td>
+                            <td>
+                                1 month
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                userId
+                            </td>
+                            <td>
+                                Customer UID
+                            </td>
+                            <td>
+                                Up to 5 years
+                            </td>
+                        </tr> 
+                        <tr>
+                            <td>
+                                cookiePrompt
+                            </td>
+                            <td>
+                                Used to track cookie policy acceptance
+                            </td>
+                            <td>
+                                Up to 600 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                firstVisitTS
+                            </td>
+                            <td>
+                                Timestamp of first visit
+                            </td>
+                            <td>
+                                Up to 2 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                alreadyOpenedBasket
+                            </td>
+                            <td>
+                                Used for event tracking
+                            </td>
+                            <td>
+                                Up to 1 day
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                selectedCurrency
+                            </td>
+                            <td>
+                                Multi-currency functionality
+                            </td>
+                            <td>
+                                Up to 5 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                addAddressVisibility
+                            </td>
+                            <td>
+                                Showing / hiding the add address form
+                            </td>
+                            <td>
+                                Up to 5 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                awaid
+                            </td>
+                            <td>
+                                Affiliate tracking
+                            </td>
+                            <td>
+                                Up to 1 month
+                            </td>
+                        </tr>                                                                    
+                       </tbody>
+                   </table>
+
+                   <br>
+
+                   <p style="font-size:12px;font-weight:bold">Analytics and Marketing</p>
+
+                   <table class="cookiesTable">
+                       <tbody>
+                           <tr class="bg-light-gray">
+                            <td class="cookiesEssential" colspan="3">
+                                <strong>3rd party cookies</strong>
+                            </td>
+                        </tr>
+
+                        <tr class="bg-white">
+                            <td class="col-sm-3 col-xs-3">
+                                <strong>Cookie Name</strong>
+                            </td>
+                            <td class="col-sm-6 col-xs-6">
+                                <strong>Description</strong>
+                            </td>
+                            <td class="col-sm-3 col-xs-3">
+                                <strong>Duration</strong>
+                            </td>                                                        
+                        </tr>
+
+                        <tr>
+                            <td>
+                                Criteo
+                            </td>
+                            <td>
+                                <p>Our website uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites, apps and emails. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. You can opt-out of interest based advertising by visiting the following websites: <a href="http://go.pardot.com/e/126241/choices-/3yy9lv/114140805" target="_blank" class="underline">Click Here</a> and <a href="http://go.pardot.com/e/126241/2017-04-12/3yy9lx/114140805" target="_blank" class="underline">Click Here</a></p>
+
+                                <p>We may share data, such as technical identifiers derived from your registration information on our [website/app] or our CRM system with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use. To read more about their linking capabilities, please refer to their privacy policy listed in the above-mentioned platforms or listed below.</p>
+
+                                <p>Criteo privacy policy: <a href="http://go.pardot.com/e/126241/privacy-/3yy9lz/114140805" target="_blank" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                13 Months
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Google
+                            </td>
+                            <td>
+                                These cookies enable Google Analytics. This helps us take site data to improve the website and your experience whilst on the website, and to tailor marketing to you.
+                            </td>
+                            <td>
+                                Up to 2 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Google Adwords
+                            </td>
+                            <td>
+                                These cookies enable Google Adwords to track what advertisements you click on whilst on the website.
+                            </td>
+                            <td>
+                                Up to 30 days
+                            </td>
+                        </tr> 
+                        <tr>
+                            <td>
+                                Affiliate Window
+                            </td>
+                            <td>
+                                <p>These cookies give us information on who directed you to the website. We may choose to reward some external websites for directing you to our website.</p><p>
+
+                                </p><p>Affiliate Window privacy policy: <a href="https://www.awin.com/gb/legal/privacy-policy" target="_blank" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                Up to 30 days
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                Monetate
+                            </td>
+                            <td>
+                                <p>We use Monetate to serve personalised experiences based on your previous interactions with the site. This cookie stores an anonymous identifier. We use this to recognise the visitor when he / she comes back and to map the visitor to the anonymous profile that we store on our secure servers.</p>
+
+                                <p>Monetate privacy policy: <a href="https://www.monetate.com/platform-privacy-policy" target="_blank" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                Up to 5 years
+                            </td>
+                        </tr>    
+                        <tr>
+                            <td>
+                                BazaarVoice
+                            </td>
+                            <td>
+                                <p>Bazaarvoice uses session cookies and persistent cookies. In general, session cookies help with navigation and usability on websites, only record information during one visit to a website and then erased, are enabled by default in order to provide the best user experience possible, and are known as Tier 1 technologies under applicable US government guidance. In general, persistent cookies are used for analytics, compliance and authenticity functions. They stay on a user's computer and record information every time they visit, are stored on the hard drive of the user's computer until the user manually deletes them from a browser folder, or until they expire, which can be months or years after they were placed on the computer.</p>
+
+                                <p>BazaarVoice cookie policy: <a href="https://bazaarvoice.secure.force.com/cp/CPcookies" target="_blank" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                1 year
+                            </td>
+                        </tr>  
+                        <tr>
+                            <td>
+                                Salecycle
+                            </td>
+                            <td>
+                                <p>Salecycle cookies help us to understand your shopping journey to send you targeted and tailored messages if you add items to your basket and then leave the website. We process data for marketing under legitimate interest.</p>
+
+                                <p>Salecycle privacy policy: <a href="https://bazaarvoice.secure.force.com/cp/CPcookies" target="_blank" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                6 months
+                            </td>
+                        </tr>  
+                        <tr>
+                            <td>
+                                Sessioncam (Website recording)
+                            </td>
+                            <td>
+                                <p>Our web site may use SessionCam for analysis. SessionCam is a product that has been developed by SessionCam LTD. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. Data collected by SessionCam from the OFFSPRING website is for OFFSPRING internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting</p>
+
+                                <p>Sessioncam privacy policy: <a href="https://sessioncam.com/privacy-policy-cookies/" target="_blank" class="underline">Click Here</a></p>
+                            </td>
+                            <td>
+                                6 months
+                            </td>
+                        </tr> 
+                        <tr>
+                            <td>
+                                Adobe CRM
+                            </td>
+                            <td>
+                                <p>To make our emails and SMS marketing more tailored and relevant to you, we collect data to help understand your shopping journey and how you interact with marketing material so that we can improve what we send you via targeted and tailored marketing messages.</p>
+                            </td>
+                            <td>
+                                Up to 2 years
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Spredfast
+                            </td>
+                            <td>
+                                <p>Spredfast Experiences allows brands to aggregate social content and to redisplay that content on their websites. The Spredfast scripts within the embed do not directly use cookies to store information about visitors to OFFSPRING.co.uk</p>
+                            </td>
+                            <td>
+                                N/A
+                            </td>
+                        </tr>
+                    </tbody>
+                   </table>
+
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C15">12. SECURITY</h4>
+                    <div>
+                        <p>We take security seriously and we take precautions to keep your Personal Information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect and endeavour to only work with third parties who provide equivalent protections (for example, if you provide us with your credit card information, the information is encrypted to ensure its security). However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties.</p>
+
+                        <p>Please note, that the transmission of information via the internet is not completely secure and, although we will take steps to protect your Personal Information, we cannot guarantee the security of your Personal Information transmitted via the Website and/or our apps – any transmission is therefore at your own risk.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C16">13. YOUR CONTROL OVER YOUR PERSONAL INFORMATION</h4>
+                    <div>
+                        <p>You may choose to restrict the collection or use of your Personal Information in the following ways:</p>
+
+                        <ul class="list">
+                            <li>Whenever you purchase a product from OFFICE, OFFSPRING or Offcutsshoes you may opt-out of receiving marketing communications from the relevant company by ticking the email marketing and/or mobile text alerts opt-out boxes at checkout.</li>
+
+                            <li>Whenever you are asked to fill in a form on any of the Websites, but you do not purchase product(s) from OFFICE, OFFSPRING or Offcutsshoes, there is a box that you can click to indicate that you want the information to be used by OFFICE, OFFSPRING [and/]or Offcutsshoes for direct marketing purposes. By leaving this box un-ticked, unless you have explicitly opted-in for the relevant communications at another time, you will not receive the relevant communications.</li>
+
+                            <li>If you change your mind and decide you do not wish to receive communications from OFFICE, Offspring, Offcutsshoes or any of our group companies, you can unsubscribe by clicking on the 'unsubscribe' link at the top or bottom of any emails or text messages you receive from us, or by emailing us at  <a href="mailto:help@OFFSPRING.co.uk" class="underline">help@OFFSPRING.co.uk</a>.Please also note that, if we ask you to "opt in" at the point of checkout and you have already subscribed with us, we won't treat you as unsubscribing just because you don't re opt-in with every purchase.</li>
+                        </ul>
+
+                        <p>You may request a copy of the Personal Information that we hold about you under the Data Protection Legislation, for which no fee will be payable. If you would like a copy of the Personal Information we hold about you, please contact us using the details below, or write to OFFSPRING HR (SAR), OFFSPRING, Classic House, Martha's Buildings, 180 Old Street, London EC1V 9BP and we will respond to give you all the information we are required to provide by law.  Alternatively, you can email your request to <a href="mailto:SAR@offspring.co.uk" class="underline">SAR@OFFSPRING.co.uk</a>. In most instances we will provide the information within one month of receipt of your request, unless the request is particularly complex or we receive a large number of requests within that period, where we have the right to extend this period for two additional months. In this instance we will notify you of the delay and our justification.</p>
+
+                        <p>You have the right to request that we amend your Personal Information (or part thereof) if you believe that any information we are holding on you is incorrect or incomplete. You also have the right to ask us to erase or stop processing any Personal Information we have about you where there is no longer a legal ground for us to hold it and, in some circumstances, you have the right to request that we transfer any information we hold about you to a specified third party.  If you wish to exercise any of these rights, please write to or email us as soon as possible, at the above address or using the details below. We will promptly correct any information found to be incorrect.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C17">14. HOW LONG WE RETAIN YOUR PERSONAL INFORMATION</h4>
+                    <div>
+                        <p>Unless otherwise instructed by you, we will retain your Personal Information for only as long as we require for the purposes for which it was collected. Once the relevant purpose has been satisfied, we will securely delete or anonymise your Personal Information unless we are required to retain a copy of such information under applicable law.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C18">15. LINKS TO THIRD PARTIES</h4>
+                    <div>
+                        <p>We may provide links to third party websites from time to time that we believe may be of interest to you. We do not control these websites and advise you to read the privacy statement applicable to each third party site you visit and we will not accept any responsibility for or liability in respect of either the contents or your use of these third party sites.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C19">16. 3RD PARTY AD SERVING</h4>
+                    <div>
+                        <p>We allow other companies, called third-party ad servers or ad networks, to serve advertisements on our behalf. We do not provide any customer Personal Information to these advertisers or third-party websites. Currently we have relationships with the following third-party ad networks: <a href="http://www.criteo.com" target="_blank" class="underline">www.criteo.com</a>.</p>
+
+                        <p>Criteo: services rely on the use of online identifiers (e.g. cookie IDs, mobile advertising) linked to browsing events on our websites. While Criteo does not collect directly identifying information that would allow to identify individuals, online identifiers are usually considered as indirectly identifying information (or "pseudonymous data") by EU authorities and therefore covered by the EU definition of personal data.</p>
+
+                        <p>If you consent to it, including any consents obtained by way of browser settings, Criteo places cookies on the browsers of individuals who visit our Websites (and those of its other clients). Please note that Criteo shall act as a data controller of the Personal Information it collects and you should consult their privacy policy as to how they will process your Personal Information, available at the following address: <a href="http://www.criteo.com/privacy" target="_blank" class="underline">www.criteo.com/privacy</a>. Criteo's privacy policy includes information for users on how to opt-out of being cookie retargeted.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C20">17. WHAT IS THE DATA PROTECTION LEGISLATION?</h4>
+                    <div>
+                        <p>Data Protection Legislation means any law applicable from time to time relating to the processing of Personal Information and/or privacy, as in force at the date of this Agreement or as re-enacted, applied, amended, superseded, repealed or consolidated, including without limitation, the UK Data Protection Act 1998, the General Data Protection Regulation (EU) 2016/679, and the Privacy and Electronic Communications (EC Directive) Regulations 2003, in each case including any legally binding regulations, direction and orders issued from time to time under or in connection with any such law).</p>
+                    </div>
+
+                    <hr>                                                                           
+
+                    <h4 id="C21">18. COMPLAINTS</h4>
+                    <div>
+                        <p>Should you have any queries or complaints in relation to how we use your Personal Information, please contact us at help@OFFSPRING.co.uk using the details set out at section 20 below. Should you wish to take any complaints or queries further, you have the right to contact the Information Commissioner's Office regarding such issues.</p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C22">19. CHANGES TO THIS PRIVACY AND COOKIES POLICY</h4>
+                    <div>
+                        <p>We may change this Privacy and Cookies Policy from time to time and any changes we make will be posted on our Websites and, where appropriate, notified to you when you next access any of the Websites or make a purchase with us. It is your responsibility to ensure that you are aware of the latest version of this Privacy and Cookies Policy and your continued use of our Websites will be deemed to be your acceptance of any revised terms.</p>
+                    </div>
+
+                    <hr>
+                    <h4 id="C22">20. I'VE RECEIVED AN EMAIL FROM YOU THAT LOOKS SUSPICIOUS</h4>
+                    <div>
+                        <p>Any emails sent from OFFSPRING will be from an <a href="https://www.offspring.co.uk/" class="underline">offspring.co.uk</a> email address.  Should you be unsure if an email you have received is genuine, we’d suggest checking the sender email address.  If this isn’t an <a href="https://www.offspring.co.uk/" class="underline">offspring.co.uk</a> domain, we’d recommend you delete the email and do not open any links within the content.  We’re really sorry if you have received a phishing email that appears to be from OFFSPRING and would like to assure you that we’ll never contact you by phone or emails asking for you to confirm password.  </p>
+                    </div>
+
+                    <hr>
+
+                    <h4 id="C23">21. CONTACT US</h4>
+                    <div>
+                        <p>If you have any questions, please feel free to contact us by email at: <a href="mailto:help@OFFSPRING.co.uk" class="underline">help@OFFSPRING.co.uk</a> Alternatively, you may call our team on 0330 100 1906, Monday to Thursday: 9am to 7pm, Friday: 9am to 6pm and Saturday 9.30am to 4.30pm.</p>                                       
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+			 
+			</div>
+		</div>
+	</div></section>
+	<footer id="footer">
 		
 			
 
@@ -685,88 +1647,163 @@ document.getElementsByTagName('head')[0].appendChild(viewportMeta);
 		
 			
 
-<div class="row no-gutter" id="footer-section01">
-			<div class="col-sm-6 email-signup">
-				 <form id="contactForm" method="post" role="form" name="contact-form" action="" class="form-horizontal">
-					<div class="form-group">
-                      <label for="email" class="control-label panel-title">Sign up for new releases</label>
-                      <iframe src="https://t.eml.office.co.uk/webApp/ofcOfficeSimpleRegistrationWebApp?b=2&amp;s=OSPdskFTR" frameborder="0" width="301" height="50" scrolling="no" style="position: relative; top: -10px;"></iframe>
+<div class="footer-wrapper">
+    <div id="footer-section01">
+        <div class="col-xs-12 col-sm-5 col-md-4 col-lg-5 email-signup">
+            <form id="contactForm" method="post" role="form" name="contact-form" class="form-horizontal">
+                <div class="secure-checkout-inner">
+                    <div class="form-group">
+                        <label for="email" class="control-label panel-title">Sign up for new releases</label>
+                        <div class="email-sign-up clearfix">
+                            <div class="email-sign-up__success js-signupSuccess">
+                                <p>Thank You For Signing Up</p>
+                            </div>
+                            <div class="email-sign-up__inner-wrapper js-signupInnerWrapper">
+                                
+                                    <input id="EMAIL_FIELD" name="EMAIL_FIELD" placeholder="Email address" type="text" value="" size="30" class="email_input js-email">
+                                    <div class="email_gender">
+                                        Female
+                                        <input type="radio" id="GENDER_FIELD_FEM" name="GENDER_FIELD" value="Female"> Male
+                                        <input type="radio" id="GENDER_FIELD_MAL" name="GENDER_FIELD" value="Male">
+                                    </div>
+                                    <input type="submit" data-action="/view/emailsignup/simple"  ="" value="SIGN UP" class="js-email_submit email_submit">
+                                
+                                <div class="tc_links">
+                                    <a href="https://www.offspring.co.uk/view/content/privacy-info-page">View our Privacy Policy</a>
+                                    <div class="email-sign-up__error js-signupError">
+                                        <p>Request failed</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-				</form>
-			</div>
-			<div class="col-sm-6 secure-checkout">
-				<div class="secure-checkout-inner">
-				
-						<h4 class="panel-title">SECURE CHECKOUT</h4>
-						<img src="/_ui/responsive/site-offspring/images/office-payment_sprites.png" alt="payment methods" class="payment-method-logos img-responsive">
-					
-				</div>
-			</div>
-		</div>
-		<div class="row no-gutter hidden-xs" id="footer-section02">
-			<div class="col-sm-4 col-md-5"><a href="/view/content/storelocator" class="location">STORE LOCATOR</a></div>
-			<div class="col-sm-4 col-md-4"><a href="/studentdiscount" class="students">10% OFF FOR STUDENTS</a></div>
-			<div class="col-sm-4 col-md-3"><a href="/view/content/clickandcollectinfo-page" class="clickcollect">CLICK &amp; COLLECT</a></div>
-		</div>
-		<div class="row no-gutter" id="footer-section03">
-			<div class="col-sm-4 col-md-5">
-				<div class="panel-group" id="help-links" role="tablist" aria-multiselectable="true">
-				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingOne">
-				      <h4 class="panel-title">
-				        <a data-toggle="collapse" data-parent="#help-links" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-				          HELP/INFORMATION <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
-				        </a>
-				      </h4>
-				    </div>
-				    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-				      <div class="panel-body">
-				        <ul>
-				        	<li><a href="/view/content/contactus-page">Contact Us</a></li>
-				        	<li><a href="/view/content/deliveryinfo-page">Delivery &amp; Returns</a></li>
-				        	<li><a href="/view/secured/content/myaccount">My Account</a></li>
-				        	<li><a href="/view/content/terms-info-page">Terms &amp; Conditions</a></li>
-				        	<li><a href="/view/content/privacy-info-page">Privacy Policy</a></li>
-                                                 <li><a href="/view/content/sitemap">Sitemap</a></li>
-				        </ul>
-				      </div>
-				    </div>
-				  </div>
-				</div>
-			</div>
-			<div class="col-sm-4 col-md-4">
-				<div class="panel-group" id="about-links" role="tablist" aria-multiselectable="true">
-				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingTwo">
-				      <h4 class="panel-title">
-				        <a data-toggle="collapse" data-parent="#about-links" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-				          ABOUT US <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
-				        </a>
-				      </h4>
-				    </div>
-				    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-				      <div class="panel-body">
-				        <ul>
-				        	<li><a href="/view/content/aboutus-info-page">About Offspring</a></li>
-				        	<li><a href="/view/content/storelocator">Store Locator</a></li>
-				        	<li><a href="/view/content/careers-info">Careers</a></li>
-				        	<li><a href="/affiliates">Become an affiliate</a></li>
-				        </ul>
-				      </div>
-				    </div>
-				  </div>
-				</div>
-			</div>
-			<div class="col-sm-4 col-md-3">
-				<h4 class="panel-title">STAY CONNECTED</h4>
-				<ul class="social-links">
-		        	<li><a target="_blank" href="https://www.facebook.com/OffspringShoes" class="facebook">Facebook</a></li>
-		        	<li><a target="_blank" href="https://twitter.com/OffspringShoes" class="twitter">Twitter</a></li>
-		        	<li><a target="_blank" href="https://instagram.com/offspringhq" class="instagram">Instagram</a></li>
-		        	<li><a target="_blank" href="http://www.offspring.co.uk/blog" class="blog">Offspring Blog</a></li>
-		        </ul>
-			</div>
-		</div>
+                </div></form>
+            
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 secure-checkout">
+            <div class="secure-checkout-inner">
+                <h4 class="panel-title">SECURE CHECKOUT</h4>
+                <div class="img-wrap">
+                    <img src="/_ui/responsive/site-offspring/images/office-payment_sprites.png" alt="payment methods" class="payment-method-logos img-responsive">
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-md-4 col-lg-3 currency-convertor">
+            <div class="secure-checkout-inner">
+                <h4 class="panel-title">Currency</h4>
+                <select class="currency-select">
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row no-gutter hidden-xs" id="footer-section02">
+        <div class="col-sm-5 col-md-5">
+            <a href="/view/content/storelocator" class="location">STORE LOCATOR</a>
+        </div>
+        <div class="col-sm-4 col-md-3">
+            <a href="/studentdiscount" class="students">10% OFF FOR STUDENTS</a>
+        </div>
+        <div class="col-sm-3 col-md-4">
+            <a href="/view/content/clickandcollectinfo-page" class="clickcollect">CLICK &amp; COLLECT</a>
+        </div>
+    </div>
+    <div class="row row-no-mt-xs no-gutter" id="footer-section03">
+        <div class="col-sm-5 col-md-5">
+            <div class="panel-group" id="help-links" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#help-links" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                HELP/INFORMATION
+                                <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <ul>
+                                <li>
+                                    <a href="/view/content/contactus-page">Contact Us</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/deliveryinfo-page">Delivery &amp; Returns</a>
+                                </li>
+                                <li>
+                                    <a href="/view/secured/content/myaccount">My Account</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/terms-info-page">Terms &amp; Conditions</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/privacy-info-page">Privacy Policy</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/sitemap">Sitemap</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4 col-md-3">
+            <div class="panel-group" id="about-links" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#about-links" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                ABOUT US
+                                <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <ul>
+                                <li>
+                                    <a href="/view/content/aboutus-info-page">About Offspring</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/storelocator">Store Locator</a>
+                                </li>
+                                <li>
+                                    <a href="/view/content/careers-info">Careers</a>
+                                </li>
+                                <li>
+                                    <a href="/affiliates">Become an affiliate</a>
+                                </li>
+                                <li>
+                                    <a href="/assets/Office_responsive/Documents/Office_Gender_Pay_Gap.pdf" target="_blank">Gender Pay Gap Report</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3 col-md-4">
+            <div class="panel-group">
+                <h4 class="panel-title">STAY CONNECTED</h4>
+                <ul class="social-links">
+                    <li>
+                        <a target="_blank" href="https://www.facebook.com/OffspringShoes" class="facebook">Facebook</a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://twitter.com/OffspringShoes" class="twitter">Twitter</a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://instagram.com/offspringhq" class="instagram">Instagram</a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://www.offspring.co.uk/blog" class="blog">Offspring Blog</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
 		
 			<script type="text/javascript">
 var accountID="UA-1321678-7";
@@ -779,7 +1816,7 @@ ga('create', accountID, 'auto');
 ga('require', 'displayfeatures');
 ga('send', 'pageview');
 
-if (localVars.pageType == "Checkout:Confirmation") {
+if (localVars.pageType == "Checkout:Confirmation" || localVars.pageType == "Checkout:SpcConfirmation") {
     ga('require', 'ecommerce', 'ecommerce.js');
     ga('ecommerce:addTransaction', {
         'id': localVars.orderId,
@@ -848,132 +1885,382 @@ if (localVars.pageType == "Checkout:Confirmation") {
 
 
 
-<!--  Tracking Code -->
-<script type="text/javascript">
-    window.monetateQ = window.monetateQ || [];
-    var path = location.pathname;
-    var monetatePageType = "unknown";
-    if (path.indexOf("login") != -1) {
-    	monetatePageType = "login";
-    } else if (path.indexOf("my-account") != -1 || path.indexOf("myaccount") != -1) {
-    	monetatePageType = "account";
-    } else if (path.indexOf("basket") != -1) {
-    	monetatePageType = "basket";
-    } else if (isCheckoutPath(path)) {
-    	monetatePageType = detectCheckoutPageType(path);
-    }
+<div class="banner_content currency_info hidden">
 
-    
-        if (monetatePageType === "unknown") {
-            monetatePageType = "CONTENT";
-        }
-    
-    window.monetateQ.push([ "setPageType", monetatePageType.toLowerCase() ]);
+    <script type="text/javascript">
 
-    
-        var breadcrumbName = [];
-        
-        breadcrumbName.push("Home");
-        
-        window.monetateQ.push([ "addBreadcrumbs", breadcrumbName ]);
-    
-    
-    window.monetateQ.push([ "trackData" ]);
+        $(document).ready(function() {
+            var cookieSelectedCurrency = QLJS.getCookie("selectedCurrency");
+            var multicurrencyEnabled = 'true';
 
-    function isCheckoutPath(path) {
-    	return path.indexOf("checkout") >= 0;
-    }
-    
-    function isCheckoutLoginPath(path) {
-        return path.indexOf("checkoutLogin") >= 0;
-    }
-    
-    function isCheckoutDeliveryTypePath(path) {
-        return path.indexOf("checkoutDeliveryType") >= 0;
-    }
-    
-    function isCheckoutDetailsPath(path) {
-        return path.indexOf("checkoutDetails") >= 0 || path.indexOf("checkout/details") >= 0;
-    }
-    
-    function isCheckoutBillingPath(path) {
-        return path.indexOf("checkoutBilling") >= 0;
-    }
-    
-    function isCheckoutPaymentPath(path) {
-        return path.indexOf("checkoutPayment") >= 0;
-    }
-    
-    function isCheckoutConfirmationPath(path) {
-        return path.toLowerCase().indexOf("confirmation") >= 0;
-    }
-    
-    function detectCheckoutPageType(path) {
-    	if (isCheckoutLoginPath(path)) {
-    		return "checkoutLogin";
-    	}
-    	if (isCheckoutDetailsPath(path)) {
-    		return "delivery";
-    	}
-    	if (isCheckoutDeliveryTypePath(path)) {
-            return "deliveryType";
-        }
-    	if (isCheckoutBillingPath(path)) {
-            return "billing";
-        }
-    	if (isCheckoutPaymentPath(path)) {
-    		return "payment";
-    	}
-    	if (isCheckoutConfirmationPath(path)) {
-    		return "purchase";
-    	}
-    }
-    
-    function trackAddToCart_monetate(cartModification) {
-        window.monetateQ = window.monetateQ || [];
-        var cartDetails = [];
-        cartDetails.push({
-            "productId" : cartModification.entry.product.code,
-            "quantity" : cartModification.entry.quantity,
-            "unitPrice" : cartModification.entry.basePrice.value,
-            "currency" : cartModification.entry.basePrice.currencyIso
+            
+
+                
+                var defaultCurrency =  {};
+                defaultCurrency['name'] = 'Pound Sterling';
+                defaultCurrency['isoCode'] = 'GBP';
+                defaultCurrency['gbpConversionRate'] = '1.0';
+                defaultCurrency['currencySymbolPosition'] = 'LEFT';
+                defaultCurrency['roundingRule'] = 'null';
+                defaultCurrency['decimalSeparator'] = '.';
+                defaultCurrency['thousandsSeparator'] = ',';
+                defaultCurrency['flagIconURL'] = '';
+                defaultCurrency['decimalDigits'] = '2';
+                defaultCurrency['currencySymbol'] = '£';
+
+                if (!cookieSelectedCurrency) {
+                    //if there is no cookie but there is a currency selection
+                    QLJS.setCookie("selectedCurrency", defaultCurrency['isoCode'], 1825);
+                    cookieSelectedCurrency = QLJS.getCookie("selectedCurrency");
+                } else if (!(cookieSelectedCurrency === defaultCurrency['isoCode'])) {
+                    $.ajax({
+                        type: 'POST',
+                        url: '/view/component/currencyInfo/setCurrency',
+                        data: {
+                            currency: cookieSelectedCurrency
+                        }
+                    })
+                }
+
+            
+
+            
+            var selectableCurrencies = [];
+            var currency =  {};
+
+            
+                currency =  {};
+                currency['name'] = 'Pound Sterling';
+                currency['isoCode'] = 'GBP';
+                currency['gbpConversionRate'] = '1.0';
+                currency['currencySymbolPosition'] = 'LEFT';
+                currency['roundingRule'] = 'null';
+                currency['decimalSeparator'] = '.';
+                currency['thousandsSeparator'] = ',';
+                currency['flagIconURL'] = '';
+                currency['decimalDigits'] = '2';
+                currency['currencySymbol'] = '£';
+                selectableCurrencies.push(currency);
+            
+                currency =  {};
+                currency['name'] = 'Euro';
+                currency['isoCode'] = 'EUR';
+                currency['gbpConversionRate'] = '1.12';
+                currency['currencySymbolPosition'] = 'RIGHT';
+                currency['roundingRule'] = '0';
+                currency['decimalSeparator'] = ',';
+                currency['thousandsSeparator'] = '.';
+                currency['flagIconURL'] = '';
+                currency['decimalDigits'] = '2';
+                currency['currencySymbol'] = ' €';
+                selectableCurrencies.push(currency);
+            
+                currency =  {};
+                currency['name'] = 'US Dollar';
+                currency['isoCode'] = 'USD';
+                currency['gbpConversionRate'] = '1.25';
+                currency['currencySymbolPosition'] = 'LEFT';
+                currency['roundingRule'] = '0';
+                currency['decimalSeparator'] = '.';
+                currency['thousandsSeparator'] = ',';
+                currency['flagIconURL'] = '';
+                currency['decimalDigits'] = '2';
+                currency['currencySymbol'] = '$';
+                selectableCurrencies.push(currency);
+            
+
+            QLJS.selectableCurrencies = selectableCurrencies;
+
+
+            //currency exchange
+            
+                
+                    $.each(selectableCurrencies, function( index, value ) {
+                        var currencyName = value.isoCode + " (" + value.currencySymbol.trim() +")",
+                            currencyIso = value.isoCode,
+                            currencyHTML = "<img src='/_ui/responsive/site-office/images/flags/"+currencyIso+"-flag.png' /> " + currencyName,
+                            currencySelected = false;
+                        if (cookieSelectedCurrency === value.isoCode){
+                            currencySelected = true;
+                            QLJS.changePrices(cookieSelectedCurrency, selectableCurrencies, true);
+                        }else{
+                            currencySelected = false;
+                        }
+
+                        $("select.currency-select").each(function() {
+                            $(this).append($('<option>', {
+                                value: currencyIso,
+                                html : currencyHTML,
+                                selected : currencySelected,
+                                title: currencyHTML,
+                                class: currencyIso
+                            }));
+                        });
+
+                        $('select.currency-select').selectpicker('refresh');
+
+                        if (currencySelected === false){
+                            $("ul.currency-list:not(.in-modal)").each(function () {
+                                $(this).append($('<li>', {
+                                    class: currencyIso + " currency-item",
+                                    value: currencyIso,
+                                    html: currencyHTML
+                                }));
+                            });
+                        } else {
+                            $(".selected-currency").each(function () {
+                                $(this).html('<span class="'+ currencyIso +' currency-item" value="'+ currencyIso +'">'+currencyHTML+'</span>');
+                            });
+                        }
+
+                        $("ul.currency-list.in-modal").each(function () {
+                            $(this).append($('<li>', {
+                                class: currencyIso + " currency-item",
+                                value: currencyIso,
+                                html: currencyHTML
+                            }));
+                        });
+
+                    });
+
+
+                    $('#genericCurModal').on('hidden.bs.modal', function (e) {
+                        QLJS.setCookie("hasUserSelectedCurr", "true", 1825);
+                    })
+
+                    // If the Akamai cookie exist and is set to true
+                    if ( QLJS.getCookie('akamaiMulticurrency') && QLJS.getCookie('akamaiMulticurrency') === "true" ) {
+                        // if hasUserSelectedCurr doesn't exist, or is set to false
+                        if ( !QLJS.getCookie('hasUserSelectedCurr') || QLJS.getCookie('hasUserSelectedCurr') === "false" ) {
+                            // Make sure there modal exist in the DOM
+                            if( $('#genericCurModal').length > 0 ) {
+                                // Show the currency modal
+                                $('#genericCurModal').modal('show');
+                            }
+                        }
+                    }
+
+                    $(".currency").css("visibility", "visible");
+
+                    
+                        
+                           $(".currency-select").change(function() {
+                                var currencySelIso = $(this).val();
+                                var cookieCurrency = QLJS.getCookie("selectedCurrency");
+                                if (currencySelIso.length == 0) {
+                                    return true;
+                                }
+                                if ( document.location.href.indexOf('/basket') > -1 || $(".empty-minicart").length === 0) {
+
+                                    if( $('.productList').length > 0 ) {
+                                        // If the page is PLP
+                                        QLJS.ajaxCurrency(currencySelIso, false);
+                                        var pageReload = QLJS.changeFacetPrices(currencySelIso, selectableCurrencies);
+                                        if (pageReload === true) {
+                                            location.reload();
+                                        }
+
+                                    } else {
+                                        // Any other page than PLP
+                                        QLJS.ajaxCurrency(currencySelIso, true);
+                                    }
+                                }else{
+                                    if (cookieCurrency != currencySelIso){
+
+                                        if( $('.productList').length > 0 ) {
+                                             // If the page is PLP
+                                            QLJS.changeFacetPrices(currencySelIso, selectableCurrencies);
+                                            QLJS.changePrices(currencySelIso, selectableCurrencies);
+
+                                        } else {
+                                            // Any other page than PLP
+                                            QLJS.changePrices(currencySelIso, selectableCurrencies);
+                                        }
+                                    }
+                                    //changes all other selects to the new currency
+                                    $(".currency-select").not(this).val(currencySelIso).selectpicker('refresh');
+                                    QLJS.remainingCurrenciesDropdown(currencySelIso, selectableCurrencies);
+                                    QLJS.updateSelectedCurrency(currencySelIso, selectableCurrencies);
+                                }
+
+                            });
+                        
+                        
+                    
+
+                    //selecting new currency from item
+                    $(".currency-list").on("click", "li.currency-item", function () {
+
+                        var currencySelIso = $(this).attr("value"),
+                            currencyHTML = $(this).html();
+
+                        // Check with remaining currency are available (all currency - current one)
+                        // and generate the listing with the remaining options
+                        QLJS.remainingCurrenciesDropdown(currencySelIso, selectableCurrencies);
+
+
+                        if ( document.location.href.indexOf('/basket') > -1 || $(".empty-minicart").length === 0) {
+                            QLJS.ajaxCurrency(currencySelIso, true);
+                        }else{
+                            QLJS.changePrices(currencySelIso, selectableCurrencies);
+                            //changes all other selects to the new currency
+                            $(".currency-select").not(this).val(currencySelIso).selectpicker('refresh');
+                            $(".selected-currency").each(function () {
+                                $(this).html('<span class="'+ currencySelIso +' currency-item" value="'+ currencySelIso +'">'+currencyHTML+'</span>');
+                            });
+                        }
+
+                        // If it's currency modal
+                        if( $(this).parents('#genericCurModal') ) {
+                            // If a currency is selected, setting the currency is already taken care of
+                            // so dismiss the modal
+                            $('.currency-list.in-modal').hide(); // for visual transition
+                            $('#genericCurModal').modal('hide');
+                        }
+                    });
+
+                    
+
+                        // Facets only applies for Offspring
+
+                        //  On facet price range search
+                        $(".js-facet-price-form .js-facet-filter-btn").click(function(e){
+                            e.preventDefault();
+
+                            // Sets variables
+                            var cookieSelectedCurrency = QLJS.getCookie("selectedCurrency"),
+                                $from = $(".js-price-from"),
+                                $to = $(".js-price-to"),
+                                exchange,
+                                convertedFrom,
+                                convertedTo,
+                                valueFrom,
+                                valueTo,
+                                $facetForm = $(".js-facet-price-form");
+
+                            // Replace commas by dot to make "valid" numbers
+                            valueFrom = $from.val();
+                            valueFrom = valueFrom.replace(",",".").trim();
+                            valueTo = $to.val();
+                            valueTo = valueTo.replace(",",".").trim();
+
+                            // Get the exchange rate, and rounding rules
+                            selectableCurrencies.filter(function (current) {
+                                if(current.isoCode == cookieSelectedCurrency){
+                                    exchange =  current.gbpConversionRate;
+                                }
+                            });
+
+                            // FROM value
+                            // convert the "from" input to the selected currency
+                            if (!isNaN(valueFrom)) {
+                                convertedFrom = QLJS.reverseExchangePrice(valueFrom, exchange);
+                                // Store the converted values to the hidden input
+                                // to submit the request and filter products
+                                $facetForm.find(".js-price-from-base").val(convertedFrom);
+                            }
+
+                            // TO value
+                            // convert the "to" input to the selected currency
+                            if (!isNaN(valueTo)) {
+                                convertedTo   = QLJS.reverseExchangePrice(valueTo, exchange);
+                                // Store the converted values to the hidden input
+                                // to submit the request and filter products
+                                $facetForm.find(".js-price-to-base").val(convertedTo);
+                            }
+
+                            // Submit the form now
+                            $facetForm.trigger("submit");
+
+                        });
+
+                        // If you are the PLP with the URL parameters for the price range:
+                        if(QLJS.getParameterByName("price_min") || QLJS.getParameterByName("price_max")) {
+                            var defaultPriceVal = "";
+                            // set variables
+                            var min = defaultPriceVal;
+                            if (QLJS.getParameterByName("price_min")) {
+                            	min = QLJS.getParameterByName("price_min").trim();
+                            }
+                            var max = defaultPriceVal;
+                            if (QLJS.getParameterByName("price_max")) {
+                            	max = QLJS.getParameterByName("price_max").trim()
+                            }
+
+                            var $from = $(".js-price-from"),
+                                $to = $(".js-price-to"),
+                                convertedFrom,
+                                convertedTo;
+
+                            // Store the converted values to the hidden input
+                            // to submit the request and filter products
+                            $(".js-price-from-base").attr("value",min);
+                            $(".js-price-to-base").attr("value",max);
+
+                            selectableCurrencies.filter(function (current) {
+                                if(current.isoCode == cookieSelectedCurrency){
+                                    exchange =  current.gbpConversionRate;
+                                }
+                            });
+
+                            // On page load if the currency is different than GBP
+                            if (cookieSelectedCurrency !== "GBP") {
+                                // from the URL in GBP, convert it back to the selected
+                                // currency and display that value in the input range
+                                if (min !== "") {
+                                  convertedFrom = QLJS.exchangePrice(min, exchange),
+                                  convertedFrom = Math.floor(convertedFrom);
+                                  $from.attr("value", convertedFrom);
+                                } else {
+                                  $from.attr("value", "");
+                                }
+
+                                if (max !== "") {
+                                  convertedTo = QLJS.exchangePrice(max, exchange),
+                                  convertedTo = Math.floor(convertedTo);
+                                  $to.attr("value", convertedTo);
+                                } else {
+                                  $to.attr("value", "");
+                                }
+                            }
+
+                        }
+
+                    
+                
+                
+            
         });
 
-        window.monetateQ.push([ "setPageType", monetatePageType.toLowerCase() ]);
-        window.monetateQ.push([ "addProductDetails", [ "" ] ]);
-        window.monetateQ.push([ "addCategories", [ "" ] ]);
-        window.monetateQ.push([ "addCartRows", cartDetails ]);
-        window.monetateQ.push([ "trackData" ]);
-    };
-    
-   function trackCartData_monetate(miniCartData) {
-// !!! leave it commented for now because it's working but not sure if we are going to need it !!!
-//      window.monetateQ = window.monetateQ || [];
-//         var cartDetails = [];
-//         for ( var i = 0; i < miniCartData.items.length; i++) {
-//             cartDetails.push({
-//                 "productId" : miniCartData.items[i].product.code,
-//                 "quantity" : miniCartData.items[i].quantity,
-//                 "unitPrice" : miniCartData.items[i].basePrice,
-//                 "currency" : miniCartData.currency
-//             });
-//         }
+    </script>
 
-//         window.monetateQ.push([ "setPageType", monetatePageType.toLowerCase() ]);
-//         window.monetateQ.push([ "addProductDetails", [ "" ] ]);
-//         window.monetateQ.push([ "addCategories", [ "" ] ]);
-//         window.monetateQ.push([ "addCartRows", cartDetails ]);
-//         window.monetateQ.push([ "trackData" ]);
-    };
-</script>
-
-			
-	</div>
-</footer>
 </div>
 
+		
+			
+
+<div id="genericCurModal" class="modal modal--currency fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"></button>
+        <div class="modal-title text-center">Choose your currency</div>
+      </div>
+      <div class="modal-body text-center">
+        <p>You can now pay in Euros &amp; Dollars at Offspring.co.uk <br> Please select the currency you wish to shop in.</p>
+          <div class="row mt15">
+            <ul class="currency-list in-modal">
+            </ul>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+			
+	</footer>
+</div>
         <!--Optimization is ON -->
-	   <script async="" src="//media.office.co.uk/_ui/responsive/site-offspring/../common/js/responsive-footer-min.js?version=2.12.3"></script>
+	   <script async="" src="//media.office.co.uk/_ui/responsive/site-offspring/../common/js/responsive-footer-min.js?version=4.0.2"></script>
 	
         <div class="mobile-menu-overlay"></div>
     
