@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handy-tab.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018093807id_/http%3A//handy-tab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handy-tab.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710160615id_/https%3A//handy-tab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Handy Tab
 
@@ -49,4 +49,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
 Axel Division LP  
-39/5 Granton Crescent, Edinburgh, EH51BN, United Kingdom
+39/5 Granton Crescent, Edinburgh, EH5 1BN, United Kingdom
