@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moosend.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427210334id_/https%3A//moosend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosend.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710133108id_/https%3A//moosend.com/privacy-policy) for the most accurate reproduction.*
 
 # Read our GDPR Compliant Privacy Policy
 
