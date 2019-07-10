@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graduates24.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330195305id_/https%3A//www.graduates24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graduates24.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710115349id_/https%3A//www.graduates24.com/privacy) for the most accurate reproduction.*
 
 # Graduates24 Graduate,Internship,Leanership,bursary programme
 
