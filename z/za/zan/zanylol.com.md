@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zanylol.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630082443id_/http%3A//zanylol.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zanylol.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710114724id_/http%3A//zanylol.com/policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
