@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searchtuner.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230075845id_/http%3A//www.searchtuner.com/clkn/http/www.searchtuner.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchtuner.com privacy policy that was archived on 2019-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190710133538id_/http%3A//www.searchtuner.com/clkn/http/www.searchtuner.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -771,28 +771,34 @@ window.WebFont.load(lp.webFontLoad);
   lp.jQuery(document).ready(updateViewport);
   window.addEventListener('orientationchange', updateViewport);
 </script>
-<script type="text/javascript">// See README.md for documentation
-lp.jQuery().ready(function($) {
-  $('input[name^=ubafs-]', 'form').remove();
+<script type="text/javascript">Array.prototype.slice
+  .call(document.querySelectorAll('.lp-pom-form form input[name^=ubafs-]'))
+  .forEach(function(input) {
+    input.parentNode.removeChild(input);
+  });
 
-  var info = JSON.stringify({
+Array.prototype.slice.call(document.querySelectorAll('.lp-pom-form form')).forEach(function(form) {
+  var jevField = document.createElement('input');
+  jevField.type = 'hidden';
+  jevField.name = 'ubafs-jev';
+  jevField.id = jevField.name;
+  jevField.value = JSON.stringify({
     date: new Date(),
     agent: navigator.userAgent,
     screen: {
       availWidth: screen.availWidth,
       availHeight: screen.availHeight,
       width: screen.width,
-      height: screen.height
+      height: screen.height,
     },
     window: {
       innerWidth: window.innerWidth,
-      innerHeight: window.innerHeight
+      innerHeight: window.innerHeight,
     },
-    hasPlugins: ('length' in navigator.plugins && navigator.plugins.length > 0)
+    hasPlugins: 'length' in navigator.plugins && navigator.plugins.length > 0,
   });
 
-  var jevField = $('<input type="hidden" id="ubafs-jev" name="ubafs-jev">').val(info);
-  $('form').append(jevField);
+  form.appendChild(jevField);
 });
 </script>
 <!-- lp:insertions end body:after -->
