@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eset.eu privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522211013id_/https%3A//www.eset.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eset.eu privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710131455id_/https%3A//www.eset.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ESET
 
