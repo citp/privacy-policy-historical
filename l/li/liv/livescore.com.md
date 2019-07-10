@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livescore.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005024801id_/http%3A//www.livescore.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710123459id_/https%3A//www.livescore.com/policy) for the most accurate reproduction.*
 
-# LiveScore.com : Privacy Policy
+# Privacy Policy for LiveScore.com | Live Sport Scores and Updates
 
 ### INTRODUCTION
 
