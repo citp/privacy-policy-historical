@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the interactiveavenues.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331011216id_/http%3A//www.interactiveavenues.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactiveavenues.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711015454id_/http%3A//www.interactiveavenues.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Online Marketing Company - Digital Media, SEO, SEM, SMO Agency in India - Interactive Avenues
+# Our Privacy Policy | Interactive Avenues
 
 This privacy policy describes how Interactive Avenues Pvt. Ltd. (“Company”) uses and protects the information that you give to the Company while using this website.
 
-This Privacy Policy is as per the Indian Information Technology Act, 2000 and the Information Technology (Reasonable security and procedures and sensitive personal data or information) Rules, 2011 prescribed thereunder, (“Applicable Law”) that is intended to provide visitors to our website with clear and complete information about the data and information that we collect in connection with our Services and the way that data and information is stored and used by our Company. 
+This Privacy Policy is as per the Indian Information Technology Act, 2000 and the Information Technology (Reasonable security and procedures and sensitive personal data or information) Rules, 2011 prescribed thereunder, (“Applicable Law”) that is intended to provide visitors to our website with clear and complete information about the data and information that we collect in connection with our Services and the way that data and information is stored and used by our Company.
 
 ##### Information We Collect
 
