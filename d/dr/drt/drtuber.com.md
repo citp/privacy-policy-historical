@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drtuber.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425185725id_/https%3A//www.drtuber.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drtuber.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710124847id_/https%3A//www.drtuber.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DrTuber.com
 
