@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntknetwork.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626223740id_/https%3A//ntknetwork.com/email-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntknetwork.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710223256id_/https%3A//ntknetwork.com/email-privacy-policy) for the most accurate reproduction.*
 
 # Email Privacy Policy | NTK Network
 
