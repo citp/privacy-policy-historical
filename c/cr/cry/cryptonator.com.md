@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cryptonator.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120202743id_/https%3A//www.cryptonator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptonator.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710144639id_/https%3A//www.cryptonator.com/privacy) for the most accurate reproduction.*
 
 # Cryptonator Privacy policy
 
 * * *
 
-This Privacy Policy governs the manner in which Global Technical Enterprise Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the cryptonator.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Global Technical Enterprise Ltd.
+This Privacy Policy governs the manner in which OOO Kriptonator collects, uses, maintains and discloses information collected from users (each, a "User") of the cryptonator.com website ("Site"). This privacy policy applies to the Site and all products and services offered by OOO Kriptonator.
 
 ### Personal identification information
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ### How we use collected information
 
-Global Technical Enterprise Ltd may collect and use Users personal information for the following purposes:
+OOO Kriptonator may collect and use Users personal information for the following purposes:
 
   * To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * To personalize user experience: we may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -57,7 +57,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### Changes to this privacy policy
 
-Global Technical Enterprise Ltd has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+OOO Kriptonator has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms
 
@@ -67,8 +67,7 @@ By using this Site, you signify your acceptance of this policy and [user agreeme
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, including requests for access to personal information and/or correction of personal information, please contact us at:
 
-Global Technical Enterprise Ltd  
-4210, Office Tower, Convention Plaza, 1 Harbour Road, Wanchai, Hong Kong  
-[contact@cryptonator.com](mailto:contact@cryptonator.com)
+OOO Kriptonator  
+ul. Molodogvardeiskaya 33, Moscow 121351 Russian Federation 
 
-_This document was last updated on October 31, 2014_
+_This document was last updated on April 10, 2019_
