@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcafe.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425171116id_/https%3A//xcafe.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcafe.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710162348id_/https%3A//xcafe.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | xCafe.com
 
