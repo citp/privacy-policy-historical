@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kucoin.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331073918id_/https%3A//www.kucoin.com/news/en-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kucoin.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710144358id_/https%3A//www.kucoin.com/news/en-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -122,7 +122,7 @@ We will collect your personal data in accordance with the legislative purpose of
 
 (c)third parties to whom disclosure by us is for one or more of the Purposes and such third parties would in turn be collecting and processing your personal data for one or more of the Purposes.
 
-19.You may withdraw your consent for the collection, use and/or disclosure of your personal data in our possession or under our control by emailing us at _[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#93f7e3fcd3f8e6f0fcfafdbdf0fcfe)_. We will process your request [within a reasonable time] from such a request for withdrawal of consent being made, and will thereafter not collect, use and/or disclose your personal data in the manner stated in your request, unless an exception under the law or a provision in the law permits us to. However, your withdrawal of consent could result in certain legal consequences arising from such withdrawal, including us being unable to perform the transactions requested by you in the Site.
+19.You may withdraw your consent for the collection, use and/or disclosure of your personal data in our possession or under our control by emailing us at _[dpo@kucoin.com](mailto:dpo@kucoin.com)_. We will process your request [within a reasonable time] from such a request for withdrawal of consent being made, and will thereafter not collect, use and/or disclose your personal data in the manner stated in your request, unless an exception under the law or a provision in the law permits us to. However, your withdrawal of consent could result in certain legal consequences arising from such withdrawal, including us being unable to perform the transactions requested by you in the Site.
 
 20.We may collect, use, disclose or process your personal data for other purposes that do not appear above. However, we will notify you of such other purpose at the time of obtaining your consent, unless processing of your personal data without your consent is permitted by the DPA or by law.
 
@@ -142,9 +142,9 @@ We will collect your personal data in accordance with the legislative purpose of
 
  **Rights**
 
-26.You have the right to ask us not to use your personal data for marketing purposes. Please let us know if you want to withdraw your consent by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+26.You have the right to ask us not to use your personal data for marketing purposes. Please let us know if you want to withdraw your consent by emailing us at dpo@kucoin.com. 
 
-27.You have the right to access and/or correct any personal data that we hold about you, subject to exceptions under the law. This right can be exercised at any time by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will need enough information from you in order to ascertain your identity as well as the nature of your request, so as to be able to deal with your request. With respect to your access request, we may charge a fee in order to process it.
+27.You have the right to access and/or correct any personal data that we hold about you, subject to exceptions under the law. This right can be exercised at any time by emailing us at dpo@kucoin.com. We will need enough information from you in order to ascertain your identity as well as the nature of your request, so as to be able to deal with your request. With respect to your access request, we may charge a fee in order to process it.
 
 28.For a request to access personal data, once we have sufficient information from you to deal with the request, we will seek to provide you with the relevant personal data within 30 days. Where we are unable to respond to you within the said 30 days, we will notify you of the soonest possible time within which we can provide you with the information requested.
 
@@ -156,7 +156,7 @@ We will collect your personal data in accordance with the legislative purpose of
 
 31.If you have any complaint or grievance regarding about how we are handling your personal data or about how we are complying with the DPA (when in force), we welcome you to contact us with your complaint or grievance. 
 
-32.Please contact us with your complaint or grievance by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+32.Please contact us with your complaint or grievance by emailing us at dpo@kucoin.com.
 
 33.Where you are sending an email in which you are submitting a complaint, your indication at the subject header that it is a DPA complaint would assist us in attending to your complaint speedily by passing it on to the relevant staff in our organization to handle. For example, you could insert the subject header as “DPA Complaint”. 
 
@@ -176,4 +176,4 @@ We will collect your personal data in accordance with the legislative purpose of
 
 38.For the avoidance of doubt, in the event that Seychelles data protection law permits an organisation such as us to collect, use or disclose your personal data without your consent, such permission granted by the law shall continue to apply.
 
-If you have any queries on this Privacy Policy or any other queries in relation to how we may manage, protect and/or process your personal data, please do not hesitate to contact our Data Protection Officer at _[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#0367736c436876606c6a6d2d606c6e)_.
+If you have any queries on this Privacy Policy or any other queries in relation to how we may manage, protect and/or process your personal data, please do not hesitate to contact our Data Protection Officer at _[dpo@kucoin.com](mailto:dpo@kucoin.com)_.
