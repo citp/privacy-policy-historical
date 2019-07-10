@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isiknowledge.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525202224id_/https%3A//clarivate.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isiknowledge.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710152025id_/https%3A//clarivate.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy notice - Clarivate
 
