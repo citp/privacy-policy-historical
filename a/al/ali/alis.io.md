@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alis.io privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009215030id_/http%3A//alis.io/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alis.io privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710200459id_/http%3A//alis.io/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
