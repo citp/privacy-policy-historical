@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the malcare.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924022505id_/https%3A//www.malcare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malcare.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710121521id_/https%3A//www.malcare.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MalCare
+# MalCare's Privacy Policy - Sharing Of Information And Your Rights
 
 **This Privacy Policy was last updated on May 24, 2018**
 
