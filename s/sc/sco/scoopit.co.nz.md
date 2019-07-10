@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoopit.co.nz privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608231818id_/http%3A//scoopit.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopit.co.nz privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710103802id_/http%3A//scoopit.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy | Scoopit
 
