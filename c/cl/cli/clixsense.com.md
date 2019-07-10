@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clixsense.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227183257id_/https%3A//www.clixsense.com/en/About-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixsense.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710154724id_/https%3A//www.clixsense.com/en/About-Privacy_Policy) for the most accurate reproduction.*
 
 # About: Privacy Policy - ClixSense
 
-Last Updated May 24, 2018
+Last Updated March 5, 2019
 
 **What information do we collect?**  
 We collect information from you when you register on our site, fill out a form or engage in any other activity on or use of our site. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, date of birth or gender. You may, however, visit our site anonymously. We believe in minimizing data collected and limiting its use and purpose to only that 1) for which we have been given permission by customers, 2) as necessary to deliver our services and 3) as we might be required or permitted for legal, compliance or other lawful purposes.
@@ -56,6 +56,9 @@ ClixSense may share your personal information and/or social-demographic informat
 
 
 If you are eligible for a client survey opportunity offered through a Third-Party MR Company, the Third-Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the client survey through email or website. We will not share your name, or phone number with the Third-Party MR Companies. In connection with the sharing of your information with a Third-Party MR Company, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States, and by agreeing to this privacy policy you are agreeing to the processing and exportation of your personal information as set forth in this Section. If you have any questions about this data sharing, please [contact us](https://web.archive.org/en/Help-Submit_a_Ticket) or you can opt-out by [closing your account](https://www.clixsense.com/en/My_Account-Profile_and_Settings). If you opt-out, it is the responsibility of us to inform the Third-Party MR Companies. Please note that ClixSense is solely liable and responsible for managing all opt-out requests. Your participation in such survey opportunities does not entitle you to any benefits offered by, or membership with, the Third-Party MR Companies.
+
+**Business Transitions**  
+In the event ClixSense goes through a business transition, such as a merger, consolidation, restructuring, acquisition by another company, sale or assignment of rights or assets or a portion thereof, or other company change, we may transfer users’ information, including Personal Information, and other collected business data in connection with that business transition (e.g., to a subsequent owner, co-owner, or operator of ClixSense and Features, or any affiliates and trusted agents, service providers, or partners of the foregoing), including during the course of any due diligence process.
 
 **Third party links**  
 We include or offer third party products or services on our website. These third-party sites may have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked sites beyond what is legally mandated. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
