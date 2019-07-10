@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trips-shop.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607190644id_/http%3A//trips-shop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trips-shop.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710051645id_/http%3A//trips-shop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Deals and Price Comparison from Hundreds of Airlines
 
