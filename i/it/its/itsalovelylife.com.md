@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsalovelylife.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315014054id_/https%3A//itsalovelylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsalovelylife.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710133156id_/https%3A//itsalovelylife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – It's a Lovely Life!
+# Privacy Policy | It's a Lovely Life!
 
 Looking for our TOS/Terms and Conditions? You can find them [here](https://itsalovelylife.com/tos/).
 
