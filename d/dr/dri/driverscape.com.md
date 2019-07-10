@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverscape.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530031532id_/https%3A//www.driverscape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverscape.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710150552id_/http%3A//driverscape.com/privacy) for the most accurate reproduction.*
 
 # Pivacy Policy - Driver Scape
 
