@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h-98reale.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218095833id_/http%3A//h-98reale.com/feed/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h-98reale.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710135116id_/http%3A//h-98reale.com/feed/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
