@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftconmedia.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702070053id_/https%3A//shiftconmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftconmedia.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710071157id_/https%3A//shiftconmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shiftconmedia
 
