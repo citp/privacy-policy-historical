@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazemeter.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516070708id_/https%3A//www.ca.com/us/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazemeter.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710131832id_/https%3A//www.ca.com/us/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - CA Technologies
 
