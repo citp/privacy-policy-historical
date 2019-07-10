@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214200615id_/https%3A//www.icf.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710212157id_/https%3A//www.icf.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Online Privacy Statement | ICF
 
