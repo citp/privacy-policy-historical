@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222103934id_/https%3A//www.phaseone.com/en/Legal/Cookie-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710185508id_/https%3A//www.phaseone.com/en/Legal/Cookie-Policy) for the most accurate reproduction.*
 
 # Phase One Cookie Policy
 
 1.                 Background and purpose
 
-Phase One (we" / “our” / “us”) use cookies on our website at [www.phaseone.com](http://www.phaseone.com/) and all associated subdomains to improve the websites’ performance and enhance the user experience. By continuing to use the website you agree to our use of cookies.
+Phase One (we" / “our” / “us”) use cookies on our website at [www.phaseone.com](http://www.phaseone.com/), [www.captureone.com](https://www.captureone.com/), and all associated subdomains to improve the websites’ performance and enhance the user experience. By continuing to use the website you agree to our use of cookies.
 
 Website owner contact information:
 
@@ -39,7 +39,7 @@ Further, cookies help us to personalize web content and meet the desires of our 
 
 ~~4~~ **. **          ****Cookies on phaseone.com****
 
-We use cookies on [https://www.phaseone.com](https://www.phaseone.com/) and all associated phaseone.com subdomains to collect information about your device when your device accesses or uses our services. The cookie, the functionality and the collected information varies. For the time being, the applied cookies collect the information detailed in sections 5 and 6.
+We use cookies on [https://www.phaseone.com](https://www.phaseone.com/), [https://www.captureone.com](https://www.captureone.com/), and all associated phaseone.com and captureone.com subdomains to collect information about your device when your device accesses or uses our services. The cookie, the functionality and the collected information varies. For the time being, the applied cookies collect the information detailed in sections 5 and 6.
 
 **5.                  **********First-party cookies****
 
