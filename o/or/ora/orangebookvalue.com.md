@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the orangebookvalue.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322201523id_/https%3A//orangebookvalue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangebookvalue.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710163237id_/https%3A//orangebookvalue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OBV
 
 Last updated on : March 28,2018
 
 This section pertains to the Privacy Policy of [www.orangebookvalue.com](https://orangebookvalue.com/) and the Orange Book Value mobile application (hereinafter referred to as **“Website”** ). Through the Website we provide access to users to the products and services available therein (collectively referred to as **"Services"** ).   
-The Website is owned and operated by Droom Technology Private Limited, a company incorporated under the Companies Act, 2013 with its registered office at 90/31B, First Floor, Malviya Nagar, New Delhi 100017, New Delhi, India (hereinafter referred to as **"Droom"** ). Our Privacy Policy is incorporated as part of the Website Terms of Use. 
+The Website is owned and operated by Droom Technology Private Limited, a company incorporated under the Companies Act, 2013 with its registered office at 90/31B, First Floor, Malviya Nagar, New Delhi 100017, New Delhi, India (hereinafter referred to as **"Droom"** ). Our Privacy Policy is incorporated as part of the Website Terms of Use. 
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read this Privacy Policy and our Terms of Use carefully before using our Services. By using the Website’s Services, you agree to the provisions of this Privacy Policy. If you do not want to be bound by our Privacy Policy, please do not use our Services. 
 
@@ -77,7 +77,7 @@ If we decide to change our Privacy Policy, we will post those changes on this pa
 In accordance with Information Technology Act 2000 and rules made there under, in case you have any grievances about the use of this Website / any of the policies for use / availing the services on the Website, you may contact the grievance officer appointed by us. The name and contact details of the Grievance Officer are provided below:   
 Grievance Redressal Officer:
 
-Ravi Yadav  
+Sudhanshu Kumar  
 Droom Technology (P) Limited  
 40A/5, Chandan Nagar, Sector 15 - Part II,  
 Gurgaon - 122001, Haryana -India.  
