@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818160731id_/https%3A//prizegrab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2019-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190710150509id_/https%3A//prizegrab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 REVISION DATE: 05/24/15
 
-Thank you for visiting [www.prizegrab.com](https://web.archive.org/web/20180818160731id_/http://prizegrab.com/privacy/www.prizegrab.com) and participating in our Sponsored Sweepstakes. We take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. This Policy is limited solely to online transactions and do not apply to any off line privacy rights or obligations, data collection and data transfers. 
+Thank you for visiting [www.prizegrab.com](https://web.archive.org/web/20190710150509id_/https%3A//prizegrab.com/www.prizegrab.com) and participating in our Sponsored Sweepstakes. We take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. This Policy is limited solely to online transactions and do not apply to any off line privacy rights or obligations, data collection and data transfers. 
 
 ### Collection of Information.
 
