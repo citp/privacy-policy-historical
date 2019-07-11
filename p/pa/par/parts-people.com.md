@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parts-people.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118095738id_/https%3A//www.parts-people.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts-people.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711114613id_/https%3A//www.parts-people.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice | Information Collection, Use, and Sharing | Parts-People.com
 
