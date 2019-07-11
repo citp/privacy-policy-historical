@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eturbonews.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618111709id_/http%3A//www.eturbonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eturbonews.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711223248id_/https%3A//www.eturbonews.com/etn-privacy-policy) for the most accurate reproduction.*
 
-# eTN Privacy Policy - eTurboNews (eTN)
+# eTN Privacy Policy | Buzz travel | eTurboNews |Travel News
 
 eTurboNews, Inc (eTN) publishes this Internet Privacy Policy to inform you of our practices concerning the collection and use of information you provide us through interactions with this website and the other eTN-affiliated websites. This policy is not applicable to information gathered by other methods or controlled by other agreements.
 
@@ -58,7 +58,7 @@ o eTN occasionally conducts subscriber and/or user surveys to better target our 
 
 o eTN operates several websites featuring its travel-related content and services. eTN may share personal information collected from users of its websites internally across these websites to better serve its users.
 
-eTN has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in eTN services and promotions, eTN provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from eTN provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact [subscription@eturbonews.com](mailto:subscription@eturbonews.com)
+eTN has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in eTN services and promotions, eTN provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from eTN provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact [subscription@www.eturbonews.com](mailto:subscription@www.eturbonews.com)
 
 From time to time we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future we will post the policy changes to our website.
 
@@ -96,7 +96,7 @@ This eTN website is not intended for use by children and eTN does not knowingly 
 
 Update/Change Your Data
 
-To update your email address or change your email preferences please contact [subscription@eturbonews.com](mailto:subscription@eturbonews.com)
+To update your email address or change your email preferences please contact  subscription@etn.travel
 
 Changes to this Privacy Policy
 
@@ -120,10 +120,20 @@ Because this Site is intended for use on a business-to-business basis, this prov
 
 To the extent an California resident using this Site for personal, family, or household purposes seeks information covered the law, this Site qualifies for the alternative option. As stated in our Privacy Policy, users of the Site may opt-out or opt-in to the use of your personal information by third parties. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information during the preceding year for marketing purposes. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to such use when you provide personal information on the Site. Please note that whenever you opt-in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-California residents who utilize this Site for personal, family, or household purposes may request further information about our compliance with this law by e-mailing [subscription@eturbonews.com](mailto:subscription@eturbonews.com) You should put the statement “Your California Privacy Rights” in the subject field of your email. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
+California residents who utilize this Site for personal, family, or household purposes may request further information about our compliance with this law by e-mailing  publisher@etn.travel You should put the statement “Your California Privacy Rights” in the subject field of your email. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
 
 Your Consent To This Policy
 
 By using our website, you consent to the collection and use of information by eTN as specified in this policy. Please also note that your use of the website is governed by the eTN Terms and Conditions. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the website, products and/or services.
 
-Please send any questions about eTN’s Privacy Policy to[ publisher@eturbonews.com](mailto:publisher@eturbonews.com)
+Please send any questions about eTN’s Privacy Policy to publisher@etn.travel
+
+## Additional information
+
+### Plugin: Smush
+
+Note: Smush does not interact with end users on your website. The only input option Smush has is to a newsletter subscription for site admins only. If you would like to notify your users of this in your privacy policy, you can use the information below.
+
+Smush sends images to the WPMU DEV servers to optimize them for web use. This includes the transfer of EXIF data. The EXIF data will either be stripped or returned as it is. It is not stored on the WPMU DEV servers.
+
+Smush uses a third-party email service (Drip) to send informational emails to the site administrator. The administrator’s email address is sent to Drip and a cookie is set by the service. Only administrator information is collected by Drip.
