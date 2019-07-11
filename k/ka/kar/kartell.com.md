@@ -1,92 +1,193 @@
-> *The following text is extracted and transformed from the kartell.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615133942id_/http%3A//www.kartell.com/cms/legal/privacyPolicy.asp%3Ftskay%3D52EE612B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kartell.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711093035id_/http%3A//www.kartell.com/cms/legal/privacypolicy.asp%3Ftskay%3D52EE612B) for the most accurate reproduction.*
 
 # Kartell Online Store - Legal Area
 
-|  |  Welcome to our web site ("kartell.com"). Please read our Privacy Policy carefully. This Privacy Policy applies when you visit or surf our web site without purchasing any product, when you register with kartell.com, and when you use our services for purchasing products. If you haven't already done so, please also read the [General Terms and Condition of Use](https://web.archive.org/cms/legal/useterms.asp) of kartell.com, which contain information on privacy as well as on the security systems used by the web site. kartell.com is managed by YOOX S.p.A. ("YOOX") with registered office in Via Nannetti, 1 - 40069, Zola Predosa (Bologna), Italy. YOOX controls the use of kartell.com users' personal data together with Kartell, whose registered address is in via delle Industrie 1, 20080 Noviglio (MI) Milano, Tax Code 11349160157 (jointly referred to as "YOOX and Kartell"). 
+|  |  Welcome to our website kartell.com.  
+For Kartell your privacy and the security of your personal data are very important; therefore we collect and manage your personal data with the utmost care and take specific measures to keep them secure. Below, you will find the main information on the processing by Kartell of your personal data in relation to your browsing on kartell.com and the use of the services offered. For detailed information on how Kartell manages your personal data, please read our **Informativa Privacy**.  
+Please also read the ‘[Cookie Policy](https://web.archive.org/cms/legal/cookiepolicy.asp)’ and the ‘[General Terms and Conditions of Use](https://web.archive.org/cms/legal/useterms.asp)’ of the site kartell.com, which contain detailed information regarding the conditions of our services. Some services may be subject to specific legal terms, in which case we will give you all the appropriate information from time to time. 
 
-**1\. Our Policy**   
-Everyone has the right to protection of his/her personal data. YOOX and Kartell respect its users' right to be informed regarding the collection of and other operations involving their personal data. In using data that may directly or indirectly identify you personally, we will apply a principle of strict necessity. For this reason, we have designed kartell.com in such a way that the use of your personal data will be kept to a minimum and will not exceed the purposes for which your personal data was collected and/or processed; we do not process your personal data when we can provide you with services through the use of anonymous data (such as marketing research made for improving our services) or by other means which allow YOOX and Kartell to identify you, apart from when it is strictly necessary or upon request by competent public authorities or the police (for example, in case of traffic data or your IP address).   
-YOOX and Kartell determine the purposes and means for processing your personal data, including security measures, as YOOX and Kartell control kartell.com users' personal data.   
-This Privacy Policy provides you with all information needed to understand how we collect data which may identify kartell.com's users. For further information on our Privacy Policy, please contact us at [privacy@kartell.com](mailto:privacy@kartell.com), or at YOOX S.p.A., Via Nannetti, 1 - 40069, Zola Predosa (Bologna), Italy or Kartell at its registered office indicated above. 
+### Who is the Holder?
 
-**2\. Who Processes Your Personal Data**   
-YOOX and Kartell control the use of kartell.com users' personal data; YOOX and Kartell autonomously determine the purposes and means of processing personal data and the instruments used, including those for security measures. Due to organisational and operational purposes only, we have appointed certain entities that will also process personal data belonging to kartell.com's users for purposes strictly connected to the performance of services on kartell.com, including the sale of products.   
-The above mentioned processors have been chosen by YOOX and Kartell because of their experience in processing personal data and they provide sufficient guarantees regarding compliance with data processing laws (including the technical security measures governing the processing to be carried out). In processing the personal data of kartell.com's users, the processors shall act only on instructions from YOOX and Kartell. We regularly check that our processors comply with our instructions and that they continue to provide sufficient guarantees regarding their full compliance with the provisions on personal data processing.  
-Some of the processors of your personal data are: 
+The following is the main information on the processing of your personal data carried out by Kartell S.p.A. with headquarters at via delle Industrie 1, 20080 Noviglio (MI), Milano, Tax Code and VAT no. 11349160157 (Kartell), as Data Controller.  
+For any clarification, questions or requirements related to your privacy and the processing of your personal data, you can contact us at any time by sending a request to our [Customer Care](https://web.archive.org/cms/help/contactform.asp) or by writing to the address of the headquarters of Kartell.
 
-  * [United Parcel Service](http://www.ups.com/), for for purposes related to shipping, delivering and returning products purchased on kartell.com; 
-  * BT Italia S.p.A., for purposes related to the housing of YOOX servers; 
-  * Prestige International UK ltd, for for purposes connected to providing call centre and Customer Care services to kartell.com's users.
+### What data do we process and why?
 
-Aside from the companies appointed for personal data processing, your information will be made available also to third parties, autonomous controllers, for purposes related to supplying services requested by user (for example, for purchase transactions). For more information on the matter, see section 5 (To Whom Your Personal Data Will Be Disclosed).
+The personal data that Kartell manages are those that you provide when you complete an order and purchase goods, and those that we collect while you browse or when you use the services offered on kartell.com. Kartell can then collect data about you, such as personal data including name and surname, shipping address and billing address, browsing data and your purchase habits.  
+Your personal data is processed for the following purposes:
 
-Please contact our Customer Care or send us an e-mail at [privacy@kartell.com](mailto:privacy@kartell.com) in order to receive a full list of data processors. 
+  * Conclude and execute the purchase contract for goods offered on kartell.com;
+  * Provide you with the services of kartell.com such as signing up for the newsletter; 
+  * Allow registration to the site and use of services reserved for registered users; 
+  * Manage your requests forwarded to our Customer Care.
 
-**3\. How We Use Personal Data and for What Purposes**   
-Your personal data is collected and processed by YOOX and Kartell for purposes which are strictly connected to the use of the web site, its services and to the purchase of products on the web site. However, your personal data may also be used for other processing operations within the limits of such purposes.   
-In particular, your personal data shall be processed for the following purposes: 
 
-  * when you register with our website we collect your personal data (for example, your personal details, password, e-mail address, gender) through the registration form (My Account) in order to provide you with services in kartell.com’s reserved access areas and to send you our Newsletter, when specifically requested; 
-  * when you require assistance from our Customer Care, we collect your personal data (for example, your name and surnames, e-mail address and password) for purposes strictly necessary to providing you with Customer Care services related to kartell.com services and to the purchase of products on kartell.com; 
-  * when you execute purchasing procedures for products sold on kartell.com, we collect your personal data (such as personal details, e-mail address, address, Credit Card numbers, bank code, tax code and telephone number) on your order form only for the purpose of selling the products ordered by you; 
-  * when you require technical assistance, we collect your personal data in order to provide you with information on net-surfing, browser compatibility and viewing or loading kartell.com web pages ; 
-  * when creating a Wish List, we process your personal data in order to customise our services for the purchase of products on kartell.com.
 
-Your personal data is mostly processed by electronic means and in some circumstances by paper-based means, such as when the processing of your personal data is required for preventing fraud on kartell.com. Your personal data shall be stored in a way which allows YOOX and Kartell to identify you for the period necessary for the purposes which the data was collected for and subsequently processed and, in any case, in accordance with applicable law. Please report any modification of your personal data to [privacy@kartell.com](mailto:privacy@kartell.com) in order to ensure that your personal information is always accurate and up-to-date, relevant and complete.   
-Your personal data shall not be disclosed to third parties for purposes which are not permitted by law or without your explicit consent.   
-Your personal data may only be disclosed to third parties when it is necessary for processing an order. For example, your personal data is disclosed to Banca Sella S.p.A. for the performance of electronic distance payment services using Credit/Debit Card when you purchase a product on kartell.com. Moreover, your data may be disclosed to the police or to judicial authorities, according to law and upon a formal request by such entities, for example in the event YOOX and Kartell need to prevent fraud on kartell.com (anti-fraud services).   
-Data processors will also have access to your personal data as stated in section 2 for the specific purposes stated therein. In all the above circumstances, your consent for data processing is not required. Your personal data will not be transferred abroad to non-EU countries that do not ensure an adequate level of protection of individuals. Should this be necessary in order to supply services or to execute a contract for the purchase of products, your personal data shall be transferred to such non-EU countries only after the execution of specific contracts between YOOX, Kartell, and such entities in accordance with applicable law and regulations.   
-We wish to inform you that YOOX and Kartell shall process its users' personal data for purposes that are strictly connected to the supply of services on kartell.com, execution of contracts related to the sale and purchase of products on kartell.com and, after receiving your consent, to send you information on new commercial initiatives which are strictly connected to the web site's activities and services.   
-YOOX and Kartell shall process your personal data for direct marketing purposes, including by e-mail, only after receiving your consent. YOOX and Kartell may have access to third parties' personal data which was directly disclosed by their users, for example when a user bought a product to be sent to a friend, when the user paying for the product is different from the recipient of the product, or when a user wishes to recommend to a friend a service of kartell.com or the sale of a particular product.   
-In all of the above cases, please make sure you receive the consent of such individuals before disclosing their personal data to YOOX and Kartell and make sure you inform them about this Privacy Policy; you will be the only person liable in connection with the disclosure of information and data regarding such third parties if they have not provided you with their express consent for it and for any improper and unlawful use of that information. In any event, YOOX shall fulfil any obligation to inform third parties required by law and, when necessary, shall request their express consent upon registering in its archives the personal information of the user indicated. 
+In the aforementioned cases, the processing of your personal data is legitimate as it is necessary to execute an agreement with you or to provide you with the service you have specifically requested. We also conduct statistical surveys and analyses with data in aggregate form to understand how users interact and use the site, to improve our offer and our services.  
+Only with your express consent, however, we process your personal data to:
 
-**4\. What Happens if You Do Not Disclose Your Personal Data to YOOX and Kartell**   
-Granting your personal data to YOOX and Kartell (in particular, your personal details, your e-mail address, your address, your Credit/Debit Card numbers and bank code and your telephone number) is necessary for processing your order for the purchase of products on kartell.com, supplying other services provided on the web site upon your request, or when your personal information is needed to fulfil obligations required by law or regulations.   
-The refusal to provide YOOX and Kartell with some of your personal data necessary for performing the above purposes may consequently prevent YOOX and Kartell from processing your order for the purchase of products sold on kartell.com or from supplying other services provided on kartell.com, such as Customer Care services, sending the Newsletter, using the Wish List or fulfilling obligations required by law and other regulations. Therefore, failing to provide data may constitute, in some cases, a legitimate and justified reason for not processing your order for the purchase of products sold on kartell.com or not providing kartell.com’s services.   
-Disclosure of further personal data to YOOX and Kartell other than that required for fulfilling legal or contractual obligations or for providing the services requested, is, on the contrary, optional and does not have any effect on the use of the web site and of its services or on the purchase of products on kartell.com (for example, if we ask you the name of your favourite designer).   
-In some circumstances and if required, from time to time we will duly inform you if the personal data you are disclosing to YOOX and Kartell is compulsory or optional. We will point out to you whether the disclosure of your data is compulsory or optional by marking with an appropriate symbol (*) the information that is compulsory or data needed for providing the required services on kartell.com and for the purchase of products on kartell.com. Failing to provide optional personal data will not imply any obligation or disadvantage to our users. 
+  * Carry out commercial communications activities;
 
-**5\. To Whom Your Personal Data Will Be Disclosed**   
-Personal data will be disclosed to third party companies that provide, on behalf of YOOX and Kartell, specific services as data processors or to other recipients of personal data collected by YOOX and Kartell that autonomously process your personal data only for the performance of a contract for purchasing products on kartell.com (for example, Banca Sella S.p.A.) and only when such purpose does not exceed the purposes for which your personal data was collected and subsequently processed and, in any case, according to applicable laws and regulations.   
-Personal data will not be disclosed to third parties or disseminated or transferred without informing our users of such disclosure/dissemination/transfer, without their consent and, in any case, in accordance with the law. 
 
-**6\. How We Collect Your Data on kartell.com**   
-When you are using kartell.com, some personal data might be collected automatically (through "cookies"), for example, when we automatically collect users' IP addresses and other information regarding the users' data traffic or the users' preferences in the choice of services provided on this web site and of the products purchased through the provided services. This information and data are collected directly and automatically by the web site as part of its operational functions. This information and data are then processed in a collective and anonymous way for commercial purposes in order to optimize the services provided on kartell.com for the needs and preferences of the web site's users.   
-In other circumstances, YOOX and Kartell directly collect personal data and information from its users when they register online with kartell.com or when they send purchase orders of products sold on the web site in order to finalise e-commerce transactions. YOOX and Kartell will process such data only for the purposes and within the limits of what is stated in the section regarding data collection and may be disclosed to third parties only for the purposes related to providing the services requested by the user. 
 
-**7\. Security Measures**   
-We have adopted security measures to protect personal data against accidental or unlawful destruction, accidental loss, alteration, unauthorised disclosure or access, and against all other reasons for data processing that do not comply with our Privacy Policy. Nevertheless, YOOX and Kartell cannot guarantee that the security measures adopted for the protection of the web site and for data and information transmission on kartell.com will prevent or exclude any risk of unauthorised access or of loss of data.   
-It is advisable that your computer be provided with software devices that protect network data transmission/receipt (such as updated antivirus systems) and that your Internet service provider take appropriate measures for the security of network data transmission (such as, for example, firewalls and anti-spam filtering). 
+### Who will process your data?
 
-**8\. Opt-in/Opt out**   
-YOOX and Kartell process your personal data only after receiving your consent, freely expressed, in order to send you advertising material and direct marketing or other commercial communications, including by e-mail, which do not fall within customer requested services provided by kartell.com. Each time your consent is required, we will inform you in advance and we will give you the option to either provide or refuse your consent for the use of your personal data, including your e-mail address, for the above purposes, by ticking the appropriate boxes.   
-We wish to inform you that YOOX and kartell.com may process your personal data also without your consent in certain circumstances provided by law, such as when such processing is necessary for performing a legal obligation to which YOOX and kartell.com are subject or when such processing is necessary for performing obligations undertaken in contracts with the users (such as, for example, if you purchased products on kartell.com or if you asked to use specific services through our web site).   
-In any case, we wish to inform you that YOOX and Kartell guarantee that its users may exercise, at any time and without having to state their reasoning, their right not to receive future communications connected to particular services upon request. 
+Your personal data is processed by the duly trained personnel of our company and, for organisational and functional needs related to the provision of services on kartell.com, by our suppliers. The latter have been evaluated and chosen by Kartell for their proven reliability and competence. Some of these subjects may also be based in non-EU countries and, in these cases, the transfer of your personal data in these countries is carried out in compliance with the guarantees established by law.
 
-**9\. Your Right to Access Personal Data and Further Rights**   
-You are entitled to obtain, at any time, confirmation from YOOX and Kartell as to whether or not data relating to you is being processed, whether the data is not yet registered, and the communication in intelligible form of the data undergoing processing.   
-Moreover, you are entitled to receive from YOOX and Kartell information on the source of your personal data; the purposes and way of processing your personal data; the logic involved in any electronic data processing; details of the data controller and of the data processors; the names of the entities and categories of entities to whom your personal data may be disclosed or who may access your personal data, for example, as a data controller or a party so appointed.   
-You can easily find part of the above information in our Privacy Policy. For further information, send an e-mail to [privacy@kartell.com](mailto:privacy@kartell.com). You are entitled to obtain at any time from YOOX and Kartell: 
+### How long do we keep your data?
 
-  * the updating, adjustment or, when you have an interest in such, the integration of your personal data; 
-  * the deletion, the transformation into an anonymous form or blocking of your personal data (unlawfully processed), including data which does not need to be stored for the purposes for which it was collected and subsequently processed; 
-  * the confirmation that the operations under letters a) and b) have been reported (together with the contents of the same) to whom the data was disclosed or disseminated, except when it becomes impossible or if the means used are clearly disproportionate to the right’s protection.
+We keep your personal data for a limited period of time depending on the purpose for which it was collected, at the end of which your personal data will be deleted or otherwise rendered anonymous in an irreversible way. The retention period is different depending on the purpose of the processing: for example, the data collected during the purchase of goods on kartell.com are processed until the conclusion of all administrative and accounting formalities, so they are filed in accordance with tax legislation local (ten years), while those used to send our newsletter are retained until you ask us to stop sending.  
+For more information see our **Privacy Policy**.
 
-You are entitled to object, in whole or in part: 
-  * for legitimate reasons, to the processing of your personal data, even if it is related to the purposes for which it was collected; 
-  * to the processing of your personal data for advertising or direct marketing purposes or in order to carry out marketing research or commercial communications.
+### What are your rights?
 
-You may freely exercise your rights at any time, provided that you do so in compliance with applicable laws, by sending your request to YOOX and Kartell at the following e-mail address: [privacy@kartell.com](mailto:privacy@kartell.com). We will reply to you as necessary. 
+At any time, depending on the specific processing, you can: withdraw consent to the processing, know which of your personal data we have in our possession, its origin and how it is used, request the update, correction or integration as well, in the cases provided for by the current provisions, the cancellation, the limitation of processing or oppose their processing. If you wish, you can request to receive personal data held by Kartell that concern you in a format readable by electronic devices and, where technically possible, we can transfer your data directly to a third party indicated by you. If you believe that the processing of your personal data has been carried out illegitimately, you can file a complaint with one of the supervisory authorities responsible for compliance with the rules on personal data protection. In Italy, the complaint can be presented to the Guarantor for the Protection of Personal Data (<http://www.garanteprivacy.it/>).
 
-**10\. Links to Other Web Sites**   
-kartell.com contains links to other web sites which may have no connection with kartell.com or with YOOX and Kartell. YOOX and Kartell do not control or monitor such web sites or their web content. YOOX and Kartell shall not be held liable for the web content of such sites and for the rules adopted by them in terms of your privacy and the processing of your personal data while you are visiting those web sites. Please, pay attention when you connect to these web sites through the links provided on kartell.com and read their terms and conditions of use and their privacy policy carefully.  
-kartell.com's Privacy Policy does not apply to third party web sites. kartell.com provides links to other web sites exclusively to help its users in their searches and net-surfing activities and to allow links to other web sites on the Internet. When YOOX and Kartell provide links to other web sites, YOOX and Kartell do not recommend the use of these web sites and do not provide any guarantees regarding their web content or the services and products supplied and sold by these web sites to Internet users. 
+This information may undergo changes and additions over time, so we invite you to periodically check the contents. Where possible, we will try to inform you promptly of any changes made.
 
-**11\. Contacts**   
-If you wish to receive further information on how YOOX and Kartell process your personal data, please send an e-mail to [privacy@kartell.com](mailto:privacy@kartell.com). Should you require any further information on your rights and on personal data protection law you can contact the personal data protection authority at the following address: [www.garanteprivacy.it](http://www.garanteprivacy.it/).   
-**  
-12.** **Governing Law  
-** This Privacy Policy is governed by Italian law and, in particular, by the Italian Personal Data Protection Code (legislative decree no. 196 of 30 June 2003) which governs the processing of personal data - also held overseas - carried out by anyone who is domiciled or has registered offices in Italy. The Italian Personal Data Protection Code guarantees that processing of personal data will be carried out in compliance with fundamental rights and freedom of individuals, as well as of their dignity, with particular reference to confidentiality, identity and to the right to personal data protection. 
+### Informativa Privacy
 
-**13.** **Modification and Updating of kartell.com Privacy Policy**  
-YOOX and Kartell may amend or simply update all or part of kartell.com's Privacy Policy, including when amendments are made to legal provisions or regulations which govern data protection and protect your rights. The amendments and the updating of kartell.com Privacy Policy shall be notified to our users on kartell.com's homepage as soon as such amendments or updates have been introduced and shall be binding as soon as they are published on the web site in this section. Therefore, you are requested to regularly access this section in order to check the publication of the most recent and updated Privacy Policy of kartell.com.
+1\. General information 2\. What personal data do we collect? 3\. How do we use personal data collected? 4\. My Account 5\. Legal basis of the processing 6\. Who will process your data? 7\. Transfer of extra EU data 8\. How long do we keep the data?  9\. Your rights 10\. Security measures 11\. Complaints 12\. Changes to this information 13\. Legislative references and useful links
+
+## 1\. General information
+
+### Who is the Data Controller?
+
+Kartell S.p.A. with headquarters at via delle Industrie 1, 20080 Noviglio (MI), Milano, Tax Code and VAT no. 11349160157 (Kartell) is the Data Controller, that is, the subject who decides how and why to process your personal data.  
+You can always contact Kartell by contacting our [Customer Care](https://web.archive.org/cms/help/contactform.asp).
+
+## 2\. What personal data do we collect?
+
+The categories of personal data that Kartell collects and processes when you browse or purchase on kartell.com, are as follows:
+
+  1. We collect the personal data necessary to conclude and execute your purchase on kartell.com such as name and surname, email address, shipping address, billing address, telephone and payment details;
+  2. We collect your email address when you sign up for our newsletter service;
+  3. We process the personal data you provide when you contact our Customer Care to provide the assistance requested; 
+  4. With your consent, we collect and use your personal data for commercial communications; 
+  5. For the registration of your My Account, we collect your name and surname, your email address, password and your date of birth. If you are a registered user, we collect information about your access to the reserved area of ??the site. By express consent, through the analysis of your personal data, we can process information regarding your interests and preferences with respect to our products and services, in order to present proposals and offers in line with your tastes.
+  6. we collect information about your browsing on kartell.com, such as the pages you visit and how you interact with the single page and we save this information on our servers.
+
+
+
+We inform you that Kartell does not process personal data relating to minors. If you access kartell.com and use the services offered by Kartell you declare that you are of legal age.
+
+## 3\. How do we use personal data collected?
+
+Kartell collects and processes your personal data for the following purposes:
+
+  1. Conclude and execute the purchase agreement for the products offered on kartell.com. When you complete your purchase, we ask you for the personal data necessary for the execution of the agreement, such as payment, anti-fraud checks if you choose to pay by credit or debit card, billing, shipping of the product and possible management of the return.
+  2. Registration on the site and use of the services offered to registered users. Registration on the site is possible through the inclusion of some personal information, necessary to ensure your identification and the performance of the services offered to registered users.
+  3. Provision of services offered on kartell.com. For this purpose, Kartell needs to collect the personal data necessary to perform the specific service requested by you in relation to each service and its characteristics.
+  4. Management of requests to Customer Care, which uses the personal data you provide to meet your requests for information and requests for assistance.
+  5. statistical analysis and surveys. We use some information about your use of the site, your browsing and use of the related services to perform analysis and statistical surveys in order to improve our offer and our services.
+  6. Sending commercial communications following the purchase of one of our products, so-called soft spam. Following the purchase of one of our products on the site, we will send you communications containing our commercial proposals on products and related services to the email address you provided during the conclusion of the order.
+  7. Subject to your express consent, we may use the contact details you have provided for commercial communications on our products and services, in order to update you on news, new arrivals, exclusive products, our offers and promotions.
+
+
+
+If you wish to authorise the activities referred to in point g) and then do not wish to receive further communications from Kartell or if you wish to limit the way in which you are contacted, you can interrupt these communications at any time by simply clicking on the appropriate 'unsubscribe' link at the bottom of each communication, or by accessing your My Account or you can always contact Kartell through our [Customer Care](https://web.archive.org/cms/help/contactform.asp). We inform you that you may receive further communications from us even after submitting your unsubscription request, as some submissions may have already been planned, our systems may take some time to process your request.  
+In relation to all the activities mentioned above, we will process your personal data mainly through IT and electronic tools; the tools we use guarantee high safety standards, in full compliance with current legislation.
+
+## 4\. My Account
+
+When creating your My Account Kartell offers you the opportunity to use the following services:
+
+  * My profile: manage your personal data and your consent
+  * My orders: follow the shipment and check the history of your orders
+  * My cards: save your credit card details to quickly complete your purchases
+  * Address Book: save all your addresses to quickly complete your purchases
+  * Wish List: create your wish list: you can save up to 50 items, be notified of their availability and add them to the Shopping Bag at any time.
+
+
+
+With your express consent, Kartell may use your contact details for commercial communications on products and services, in order to update you on news, new arrivals, exclusive products, and for the conduct of opinion polls and market research, in order to detect your degree of satisfaction and improve the services offered.  
+To ensure that the information in our possession is correct and allow us to perform the activities described above, we invite you to access the 'My profile' section of your My Account and, if you deem it necessary, to update them.
+
+## 5\. Legal basis of processing
+
+We only process your personal data when there are legal requirements for doing so under the current legislation, and specifically:
+
+  1. to enter into and perform a contract to which you are party.  
+When we process your data to enter into a purchase agreement with you, we take care to only use the minimum amount of information needed to perform it. This basis legitimises the personal data processing that occurs in the following activities:
+    * signing and performance of a contract to purchase products offered on kartell.com,
+    * registration on the Website, and use of the services reserved to registered users
+    * provision of services offered on kartell.com,
+    * management of your requests by our Customer Care.
+Providing your personal data for such activities is a contractual obligation. You may freely decide whether or not to provide your data. However, without the required data, we will be unable to enter into or perform the contract or your requests. This means you will be unable to purchase products and may not use the services of Kartell, and that Kartell may not manage your requests.
+  2. to fulfil a legal obligation.  
+In the event that a contract to purchase goods is entered on kartell.com, your data will be processed in order to carry out the legal obligations to which Kartell is subject. You are free to decide whether or not to enter into a contract, and whether or not you provide your data, but if you do, your data will be needed and will be processed to carry out the aforementioned legal obligations to which Kartell is bound.
+  3. for our legitimate interest.  
+Some of your personal data if you purchase products on kartell.com with a credit or debit card, may be processed to conduct antifraud activities: we have a legitimate interest in conducting such activities to prevent and combat any fraudulent activity. At the same time, we have a legitimate interest in processing personal data in case of a dispute by or against kartell.com.
+  4. based on your consent.  
+We will perform the following processing exclusively in the event that you have given your express consent:  
+
+    * conducting of marketing activities and opinion and market research surveys.
+
+
+
+To provide your consent for these optional activities. You are free to decide whether or not to provide your consent, but if you do not, it will not be possible for Kartell to conduct the marketing activities, opinion and market research surveys, or to conduct analyses of your shopping habits.
+
+## 6\. Who will process your data?
+
+Your personal data will be processed by the internal personnel of Kartell, which has been specifically instructed and authorised for such processing.  
+Your personal data will also be transferred to third parties, which we use to provide our services on kartell.com; these parties have been adequately selected and provide a suitable guarantee of compliance with personal data processing rules. These parties act as independent controllers or have been appointed as processors (or sub-processors appointed by the latter) and carry out their activity according to the instructions provided by Kartell and under its control, or under the control of the processor.  
+The third parties in question belong to the following categories: site manager, bank operators, internet provider, companies specialised in IT and electronic services, carriers, agencies that conduct marketing activity, companies specialised in market research and data processing.  
+Your data may be disclosed to the police, or judicial or administrative authorities, in conformity with the law, to investigate and prosecute crimes, prevent and safeguard from threats to public safety, in order to allow Kartell to investigate, exercise, or defend a legal right, as well as due to other reasons related to the protection of the rights and freedoms of other parties.
+
+## 7\. Transfer of extra EU data
+
+Some of the third parties listed in the previous paragraph no. 6 'Who will process your data?' may be located in countries outside the European Union that nevertheless offer an adequate level of data protection, as established by specific decisions of the European Commission (<http://www.garanteprivacy.it/home/provvedimenti-normativa/normativa/normativa-comunitaria-e-intenazionale/trasferimento-dei-dati-verso-paesi-terzi#1>).  
+The transfer of your personal data to countries that do not belong to the European Union and that do not ensure adequate levels of protection will be performed only after conclusion between Kartell and said subjects of specific agreements, containing safeguard clauses and appropriate guarantees for the protection of your personal data, the so-called 'standard contractual clauses', also approved by the European Commission, or if the transfer is necessary for the conclusion and execution of an agreement between you and Kartell (for the purchase of goods offered on our website, for registration on the website or use of services on the website) or for the management of your requests.
+
+## 8\. How long do we retain the data? 
+
+We keep your personal data for a limited period of time, which differs depending on the type of activity for which the personal data processing provides. Once this period has elapsed, your data will be definitively deleted, or in any event rendered irreversibly anonymous.  
+Your personal data is kept in accordance with the terms and criteria specified below:
+
+  1. data collected to enter into and perform contracts to purchase goods on kartell.com: until the administrative and accounting formalities have been fulfilled (and just for the minimum data needed) until the end of the legal warranty provided for under the current legislation. Billing-related data shall be kept for ten years from the billing date;
+  2. data from a registered user: the data shall be kept until you request deletion of your My Account;
+  3. payment-related data: until certification of the payment and fulfilment of the relative administrative and accounting formalities following the expiration of the withdrawal right and the terms applied to dispute the payment;
+  4. data collected in connection with the use of services offered on kartell.com: this data is kept until the service is terminated or upon request to cancel the user's registration in the service; 
+  5. data connected to the requests of users to our Customer Care: the data used to assist you shall be kept until your request has been fulfilled;
+  6. data used for commercial communications to users who purchase products on kartell.com (soft spam): this data is kept until the service is stopped or the user deregisters from the service;
+  7. data provided for commercial communication activities, opinion surveys and market research: until deregistration from the service or following the request by a user to interrupt activity, and nevertheless within two years of the last interaction of any kind of the user with Kartell;
+
+
+
+In any event, due to technical reasons, termination of the processing and the consequential final deletion or irreversible anonymization of the relative personal data shall be final within thirty days of the terms noted above.
+
+## 9\. Your rights
+
+You can exercise your rights with reference to the specific processing of your personal data by Kartell at any time. Find below their general description and how to exercise them.
+
+  1. Access your data and modify it: you have the right to access your personal data and to request that it be correct, modified or integrated with other information. If you wish, we will provide you with a copy of your data in our possession
+  2. Revoke your consent: you can revoke a consent you have given for the processing of your personal data in relation to any activity for marketing purposes at any time. In this regard, we remind you that marketing activities are considered the sending of commercial and promotional communications, the conduct of opinion polls and market research, in order to detect your degree of satisfaction and improve the services offered. Once we receive your request, it will be our duty to promptly cease to process your personal data based on this consent, while different processing or that which is based on other assumptions will continue to be carried out in full compliance with the provisions in force.
+  3. Opposition to the processing of your data: you have the right to object at any time to the processing of your personal data made on the basis of our legitimate interest, explaining the reasons that justify your request; before accepting it, Kartell will have to evaluate the reasons for your request.
+  4. Delete your data: you may request the cancellation of your personal data in the cases provided for by current legislation. Once your request has been received and examined and if it is legitimate, it will be our duty to timely cease to process your personal data and to delete it
+  5. Request that the processing of your personal data is temporarily limited: in this case, Kartell will continue to keep your personal data but will not process it, unless it is subject to your different request and the exceptions established by law. Processing of your personal data can be limited when you dispute the accuracy of your personal data, when the processing is illegal but you oppose the cancellation of your data, when we no longer need your personal data but you need to exercise your right in court and when you oppose your processing, in the period in which we evaluate the reasons for your request.
+  6. Request your data or transfer it to a party other than Kartell (right to data portability). You can ask to receive your data that we process based on your consent or on the basis of an agreement with you in a standard format. If you wish, where technically possible and at your request, we may transfer your data directly to a third party that you indicate.
+
+
+
+In order to exercise some of your rights described above, you can access your My Account or alternatively you can contact our [Customer Care](https://web.archive.org/cms/help/contactform.asp) or write to the address of the Data Controller above. In order to ensure that our users' data is is not illegitimately used or infringed upon by third parties, we may ask you for some information to be sure of your identity before accepting your request to exercise one of the rights indicated.
+
+## 10\. Security measures
+
+We protect your personal data with specific technical and organisational security measures, aimed at preventing your personal data from being used illegitimately or fraudulently. In particular, we use security measures that guarantee: the pseudonymisation or the encryption of your data; the confidentiality, integrity, availability of your data as well as the resilience of the systems and services that process them; the ability to restore data in the event of a data breach. In addition, Kartell agrees to test, verify and regularly evaluate the effectiveness of technical and organisational measures in order to guarantee continuous improvement in the security of processing.
+
+## 11\. Complaints
+
+If you believe that the processing of your personal data has been carried out unlawfully, you can file a complaint with one of the competent control authorities for compliance with the rules on personal data protection.  
+In Italy, a claim may be filed with the Italian Personal Data Protection Authority [Autorità Garante per la Protezione dei Dati Personali] ("Protection Authority"). More information on how to present them is available on the website of the Guarantor, at <http://www.garanteprivacy.it/>.
+
+## 12\. Changes to this information
+
+The constant development of our services may lead to changes in the characteristics of the processing of your personal data described up to now. Consequently, this privacy policy may be subject to changes and additions over time, which may also be necessary with regard to new regulatory measures regarding the protection of personal data.  
+Therefore, we invite you to periodically check the contents: where possible, we will try to inform you promptly on the changes made and their consequences.  
+In any case, the updated version of the privacy statement will be published on this page, with indication of the date of its last update.
+
+## 13\. Legislative references and useful links
+
+The processing of your personal data is carried out by Kartell in full compliance with the regulations on the matter pursuant to [General Data Protection Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) The rules on the processing of Italian personal data and the provisions of the Italian Supervisory Authority (<http://www.garanteprivacy.it/>) and, where applicable, the competent foreign control authorities.
+
+Last updated 19/07/2018
