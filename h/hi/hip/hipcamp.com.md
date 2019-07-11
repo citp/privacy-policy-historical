@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipcamp.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202515id_/https%3A//www.hipcamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipcamp.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711141812id_/https%3A//www.hipcamp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hipcamp
 
@@ -89,3 +89,10 @@ San Francisco, California 94103
 ##### Hipcamp is everywhere you want to camp.
 
 Discover unique experiences on ranches, nature preserves, farms, vineyards, and public campgrounds across the U.S. Book tent camping, treehouses, cabins, yurts, primitive backcountry sites, car camping, airstreams, tiny houses, RV camping, glamping tents and more. 
+
+[](https://hipca.mp/MeetTheApp)
+
+Meet the Hipcamp App.
+
+Plan your next adventure, from anywhere.   
+Available for iOS on [the App Store.](https://hipca.mp/MeetTheApp)
