@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caseinterview.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321214006id_/https%3A//www.caseinterview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseinterview.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711032654id_/https%3A//www.caseinterview.com/privacy) for the most accurate reproduction.*
 
 # Privacy/Terms of Use | Caseinterview
 
