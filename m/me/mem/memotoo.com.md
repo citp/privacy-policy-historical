@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memotoo.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109150928id_/http%3A//www.memotoo.com/index.php%3Frub%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memotoo.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711092859id_/https%3A//www.memotoo.com/index.php%3Frub%3Dprivacy) for the most accurate reproduction.*
 
 # Memotoo: Privacy Policy
 
@@ -7,7 +7,7 @@
 _**your data are your property**_
 
 .  
-This Privacy Policy is part of the [**Memotoo Terms of Use**](https://web.archive.org/web/20181109150928id_/http%3A//www.memotoo.com/index.php?rub=conditions).  
+This Privacy Policy is part of the [**Memotoo Terms of Use**](https://web.archive.org/web/20190711092859id_/https%3A//www.memotoo.com/index.php?rub=conditions).  
 By using this site, you agree to be bound by this Privacy Policy and respect it.
 
 **
