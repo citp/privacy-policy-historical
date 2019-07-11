@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227004311id_/https%3A//www.colehaan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711184957id_/https%3A//www.colehaan.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Cole Haan - Privacy Policy
+# Privacy Policy | Cole Haan
 
 This policy was last updated on November 8, 2018.
 
