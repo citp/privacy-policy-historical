@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the spyropress.com privacy policy that was archived on 2018-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180119110327id_/https%3A//spyropress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyropress.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711043520id_/https%3A//spyropress.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SpyroPress’s Privacy Policy - Best WordPress Theme 2018
+# SpyroPress’s Privacy Policy - Best WordPress Theme 2019
 
 Skip to content
 
-[](http://spyropress.com/)
+[](https://spyropress.com/)
 
-[Home](http://spyropress.com/ "Go to Best WordPress Theme 2018.")SpyroPress’s Privacy Policy
+[Home](https://spyropress.com/ "Go to Best WordPress Theme 2019.")SpyroPress’s Privacy Policy
 
 ## Welcome to Spyropress’s Privacy Policy
 
@@ -33,11 +33,11 @@ Skip to content
 
   7. Although we generally collect personal information directly from you, we may on occasion also collect information about you from other people (such as the payment provider account details required to process a transaction) and by using tracking technologies such as cookies, web beacons and other web analytics software or services.
 
-
+[](https://1.envato.market/c/1266135/448853/4415)
 
 ### How do we use personal information?
 
-  8. We may use your personal information in order for us to:
+  8. We may use your personal information in order for us to: 
     1. operate the Sites and provide you with services described on the Sites, like to verify your identity when you sign in to any of our Sites, to facilitate and process transactions that take place on the Sites, to respond to support tickets and to help facilitate the resolution of any disputes
     2. Customise our services and websites, like advertising that may appear on the Sites, in order to provide a more personalised experience
     3. update you with operational news and information about our Sites and services like to notify you about changes to our Sites, website disruptions or security updates
@@ -53,7 +53,7 @@ Skip to content
 
 ### When may we disclose your personal information?
 
-  9. We may disclose personal information to people like:
+  9. We may disclose personal information to people like: 
     1. companies that are in the SpyroPress group of companies
     2. subcontractors and service providers who assist us in connection with the ways we may use personal information (as set out above)
     3. our professional advisers (lawyers, accountants, financial advisers etc)
@@ -81,7 +81,7 @@ Skip to content
 ### Cookies (not the type you eat!) and web analytics
 
   17. For more information about how we use cookies, web beacons and similar technologies see our cookie policy and for more general information on cookies, see http://www.allaboutcookies.org.
-  18. Generally speaking, when you visit our Sites, there’s certain information that’s recorded which is generally anonymous information and may not reveal your true super-hero identity. If you’re logged into your account some of this information could be associated with your account. We’re talking about the following kinds of details:
+  18. Generally speaking, when you visit our Sites, there’s certain information that’s recorded which is generally anonymous information and may not reveal your true super-hero identity. If you’re logged into your account some of this information could be associated with your account. We’re talking about the following kinds of details: 
     1. your IP or proxy server IP
     2. basic domain information
     3. your Internet service provider is sometimes captured depending on the configuration of your ISP connection
@@ -92,6 +92,7 @@ Skip to content
     8. the size of file you look at
     9. the website which referred you to our Sites
     10. the operating system which your computer uses.
+[](https://1.envato.market/c/1266135/419349/4415)
   19. Occasionally, we may use third party advertising companies to serve ads based on prior visits to some Sites. These advertising companies use cookies to anonymously collect data. No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information about you as a user.
 
 
@@ -116,4 +117,4 @@ Skip to content
 
 ### How can you contact us?
 
-Please contact us via email: [Support@cmssuperheroes.com](mailto:support@cmssuperheroes.com)
+Please contact us via email: webmaster@spyropress.com
