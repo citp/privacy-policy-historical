@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alljapanesepass.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201094348id_/https%3A//alljapanesepass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alljapanesepass.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711072327id_/https%3A//alljapanesepass.com/privacy) for the most accurate reproduction.*
 
-# None
+# AllJapanesePass.com - Privacy Statement
 
 **Our Commitment To Privacy**
 
