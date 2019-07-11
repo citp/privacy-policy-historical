@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedev.tv privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419010331id_/https%3A//www.gamedev.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedev.tv privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711024705id_/https%3A//www.gamedev.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — GameDev.tv
 
