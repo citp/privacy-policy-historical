@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the nxtgen.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115142144id_/https%3A//nxtgen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxtgen.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711223150id_/https%3A//nxtgen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NxtGen Data Center solutions and cloud technologies
+# Privacy Policy | NxtGen Datacenter Solutions and Cloud Technologies
+
+  1. [Home](https://web.archive.org/web/20190711223150id_/https%3A//nxtgen.com/index)
+  2. Privacy Policy
+
+
 
 NxtGen does not collect and use your information for commercial purposes. However we collect and use the following information to provide, improve and protect our Services:
 
