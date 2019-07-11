@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinfiniteactuary.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530161517id_/https%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfiniteactuary.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711214655id_/https%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Infinite Actuary
 
