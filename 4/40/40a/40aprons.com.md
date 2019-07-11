@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 40aprons.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330203441id_/https%3A//40aprons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 40aprons.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711125515id_/https%3A//40aprons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 40 Aprons
 
@@ -6,7 +6,7 @@ Effective as of May 25, 2018
 
 As the owner of this website (the “Site”), [Cheryl Malik] (“we” or “us”) understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
 
-**Our Use of Cookies**
+ **Our Use of Cookies**
 
 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
@@ -44,7 +44,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
 
-**Interest-Based Advertising**
+ **Interest-Based Advertising**
 
 Advertising Privacy Statement
 
@@ -56,15 +56,15 @@ For European Economic Area Residents
 
 If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-**Email Addresses**
+ **Email Addresses**
 
 We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion.  [if you have provided your email address to us, we promise to use it only for the purposes for which it is provided.  We will not use your email address to contact you for unrelated reasons.] You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
 
-**Transactional Data**
+ **Transactional Data**
 
 [We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our Site] (“ **Transactional Data** “). The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions.  [Payment processing on our Site is handled by our payment services providers, Paypal. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at <https://www.paypal.com/us/webapps/mpp/ua/privacy-full>.
 
-**Additional Rights of EEA (European Economic Area) Residents**
+ **Additional Rights of EEA (European Economic Area) Residents**
 
 If you are a resident of a country in the EEA, you have the rights, among others, to:
 
@@ -82,22 +82,22 @@ If you believe that our processing of your personal information infringes data p
 
 You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following:
 
-**Cheryl Malik, 648 Riverside Drive #316, Memphis TN 38103  
+ **Cheryl Malik, 648 Riverside Drive #316, Memphis TN 38103  
 ****cheryl at 40aprons dot com  
 731-472-0619**
 
-**Sale of Business or Assets**
+ **Sale of Business or Assets**
 
 In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
 
-**Changes to the Privacy Policy**
+ **Changes to the Privacy Policy**
 
 We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
 
-**Contacting Us**
+ **Contacting Us**
 
 If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at  **cheryl at 40aprons dot com**
 
 Or write to us at:
 
-**Cheryl Malik, 648 Riverside Drive #316, Memphis TN 38103**
+ **Cheryl Malik, 648 Riverside Drive #316, Memphis TN 38103**
