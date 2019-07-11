@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msupayment.in privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105073855id_/http%3A//msupayment.in/termscondition.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msupayment.in privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711080540id_/http%3A//msupayment.in/termscondition.pdf) for the most accurate reproduction.*
 
 # 
 
