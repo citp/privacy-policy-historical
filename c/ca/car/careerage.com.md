@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerage.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510055759id_/http%3A//www.careerage.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerage.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712010802id_/http%3A//www.careerage.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # CareerAge.com Privacy Policy
 
