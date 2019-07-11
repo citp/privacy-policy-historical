@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denso-ten.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407202833id_/http%3A//www.denso-ten.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denso-ten.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711092033id_/https%3A//www.denso-ten.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DENSO TEN
 
