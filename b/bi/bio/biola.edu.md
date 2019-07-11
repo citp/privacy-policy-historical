@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biola.edu privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525062154id_/https%3A//www.biola.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biola.edu privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711051313id_/https%3A//www.biola.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Biola University
 
@@ -17,7 +17,7 @@ _ Certain areas of our website collect voluntary information that is personally 
     * TouchNet Information Systems, Inc. (student account payments and non-student online payments and purchases) — [TouchNet privacy policy](http://www.touchnet.com/web/display/TN/Privacy+Policy)
     * Vendini, Inc. (Biola Ticket Office purchases) — Select the Policies link at the bottom of each event’s ticket sales page
     * MBS Direct (online Biola Bookstore purchases) — [MBS Sales privacy policy  
-](http://www.mbsdirect.net/disclaimer.php)
+](https://www.mbsdirect.net/disclaimer/privacy-policy.php)
 The university does **_not_** knowingly collect personally identifiable information from children (defined herein as minors younger than thirteen years of age) without obtaining parental consent. Implied parental consent includes, but is not limited to: use of parent login, use of parent-supplied credit card and inclusion of parent personal information on registration forms. Some Biola departments provide services to children. As a part of the online registration process for such services, we may request information such as a child’s name, address, cell phone, email, gender, grade level, birth date, school attended, clothing size, church and ethnicity. This information is never sold or otherwise provided to third parties, although some information may be provided to other Biola departments in order to provide the child with information about Biola. Before registering online for a service, Biola requests that all children have their parents read this Privacy Policy as well as any additional Privacy Policy associated with the service for which they are registering, and that parents continue their involvement throughout the registration process.
 
 
