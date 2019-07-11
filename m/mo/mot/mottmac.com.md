@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mottmac.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504171817id_/https%3A//www.mottmac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mottmac.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711130021id_/https%3A//www.mottmac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Mott MacDonald
 
@@ -6,8 +6,6 @@ Create document Page
 added  Remove   
 page  Add   
 page 
-
-[Home](https://web.archive.org/)  /  Privacy policy
 
 ### Company registration details and Group
 
@@ -88,7 +86,7 @@ There are four main legal bases that we rely on when it comes to processing some
 
 (4) “Compliance with a legal obligation” – this is where we might need to process your personal data in order to comply with a common law or statutory obligation, such as disclosures for compliance with HMRC requirements, requirements relating to money laundering or other such disclosures. We will only process your personal data for this reason if it is necessary and we would not otherwise be able to comply with that legal obligation without such processing.
 
-_Marketing:_ As mentioned above, we may market to you on the basis that we have legitimate interests to market our business and we may have identified the organisation that you work for as a business that we would like to market to. We will therefore rely on legitimate interests as our legal basis for processing your personal data that may be connected to your organisation’s contact records for this purpose, however we will balance this against your rights as a data subject and will no longer market to you if you wish to unsubscribe from receiving such marketing communications directly to your contact details. Alternatively, where we do not have a legitimate interest to market to you, then we will seek your consent to do so, which will then be our legal basis for contacting you in that way.
+ _Marketing:_ As mentioned above, we may market to you on the basis that we have legitimate interests to market our business and we may have identified the organisation that you work for as a business that we would like to market to. We will therefore rely on legitimate interests as our legal basis for processing your personal data that may be connected to your organisation’s contact records for this purpose, however we will balance this against you rights as a data subject and will no longer market to you if you wish to unsubscribe from receiving such marketing communications directly to your contact details. Alternatively, where we do not have a legitimate interest to market to you, then we will seek your consent to do so, which will then be our legal basis for contacting you in that way.
 
   1. Notice about what we do with your data
   2. Choice on providing us with your personal data
@@ -122,15 +120,15 @@ Third parties provide certain services available on our behalf. We may provide p
 
 Where we provide your personal data to third parties who are acting on our behalf (known as “Data Processors”) we will have in place a written agreement with each third party confirming on what basis the third party will handle your personal data and will ensure that there are sufficient safeguards and processes in place to protect your personal data.
 
-The third parties that we may send your personal data to are either within the European Economic Area (“EEA”), Group companies under the protection of our Binding Corporate Rules, or third parties where other suitable protection mechanism as laid out in the GDPRs are available (see section 5 below).
+The third parties that we may send your personal data to are either within the European Economic Area (“EEA”), Group companies under the framework of Standard Contractual Clauses (“SCCs”) adopted by the European Commission, or third parties where another suitable protection mechanism as laid out in the GDPRs is available (see section 5 below).
 
 #### 5\. International transfers
 
 We are part of a global group of companies with offices in locations in the UK, Europe and countries such as India, USA, Australia and China.
 
-From time to time we may transfer your personal data from within the EEA to our offices outside of the EEA, such as those listed above. To ensure that your personal data will be adequately handled in such circumstances, we will have put in place “binding corporate rules” by the implementation date of the GDPRs for our group companies to comply with. “Binding corporate rules” set out rules by which all of our group companies have to abide and these rules set out that your personal data will be handled in a way that matches the GDPRs so that where your personal data is being transferred to one of our global companies it will be processed in line with our EEA-based companies, regardless of which country they are in (even if they are outside of the EEA).
+From time to time we may transfer your personal data from within the EEA to our offices outside of the EEA, such as those listed above. To ensure that your personal data will be adequately handled in such circumstances, we have entered into SCCs which are binding on all of our group companies.
 
-Separate to the above, we may also transfer your personal data to countries outside of the EEA to other people or companies for one of the legal bases for processing your personal data as indicated above. Where we do so, we will put in place safeguards in accordance with applicable law (including Articles 44 to 50 of the GDPR). These safeguards may include taking steps to check that for any country or international organisation to which your personal data will be been transferred offers an adequate level of protection to protect your personal data, as well as (if applicable) the use of EU Model Clauses in any contract with that third party for steps to be taken to keep your personal data secure.
+Separate to the above, we may also transfer your personal data to countries outside of the EEA to other people or companies for one of the legal bases for processing your personal data as indicated above. Where we do so, we will put in place safeguards in accordance with applicable law (including Articles 44 to 50 of the GDPR). These safeguards may include taking steps to check that for any country or international organisation to which your personal data will be been transferred offers an adequate level of protection to protect your personal data, as well as (if applicable) the use of standard contractual clauses in any contract with that third party for steps to be taken to keep your personal data secure.
 
 #### 6\. How we decide to how long to retain your personal data
 
