@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undercontrolgame.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227073142id_/http%3A//undercontrolgame.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercontrolgame.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712003247id_/http%3A//undercontrolgame.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy – Under Control
 
@@ -66,4 +66,4 @@ Your information with limited access rights (including personal information) can
 
 Any information we collect is subject to this Privacy Policy in effect at the time such information is collected. We may, however, modify and revise our privacy policy from time to time without prior warning or notification. We strongly advise you to visit this page and read this Privacy Policy every time you access any of the Sites, Game or Services.
 
-This Privacy Policy is the legal part of the Terms of Service, which is published at: <http://undercontrolgame.com/en/terms>.
+This Privacy Policy is the legal part of the Terms of Service, which is published at: [terms](http://undercontrolgame.com/en/terms).
