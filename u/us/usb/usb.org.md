@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502001910id_/https%3A//usb.org/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711152919id_/https%3A//www.usb.org/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | USB-IF
 
