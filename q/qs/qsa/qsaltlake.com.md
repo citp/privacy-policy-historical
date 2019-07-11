@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsaltlake.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401195244id_/https%3A//qsaltlake.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsaltlake.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711083847id_/https%3A//qsaltlake.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | QSaltLake Magazine
 
