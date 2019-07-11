@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406153428id_/https%3A//www.vivid.com/privacy/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711140225id_/https%3A//www.vivid.com/privacy/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Vivid | Celebrity Sex Tapes | Vivid Privacy Policy
 
