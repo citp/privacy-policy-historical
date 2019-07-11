@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the remove.bg privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417203330id_/https%3A//www.remove.bg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remove.bg privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711220153id_/https%3A//www.remove.bg/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – remove.bg
-
-## English version
-
-This english translation of our Privacy Policy is provided for your convenience but has no legal force. The legally binding version is currently only available in german. We are currently working on providing a full english version. 
-
-[ Go to the german version ](https://web.archive.org/privacy/de)
 
 ##  How do we use uploaded images? 
 
@@ -23,82 +17,84 @@ If you want to know more, you will find the long version below.
 
 ##  1\. General 
 
-The protection of your personal data is of particular concern to us. We process your data exclusively on the basis of the legal regulations (GDPR, DSG, TKG 2003). In the following we inform you about the processing of your personal data by us and the claims and rights to which you are entitled according to the data protection regulations. 
+The protection of your personal data is very important to us. We process your data exclusively on the basis of legal regulations (GDPR, the Austrian Data Protection Act, the Austrian Telecommunications Act 2003). Below we will inform you about how we process your personal data and the rights and entitlements you have under data protection regulations. 
 
-Person responsible for data processing: 
+Data controller: 
 
-Benjamin Groessing  
+Kaleido AI GmbH  
 Loewelstrasse 12/36-37  
 1010 Vienna  
 +43 720 230 340 
 
-If you have any complaints, questions or suggestions on the subject of data protection, please do not hesitate to contact us at any time. 
+We are always at your disposal for any complaints, questions or suggestions about data protection. 
 
-On the one hand, we process data that you provide to us yourself, on the other hand we process data that we receive through your use of our online presence. 
+On the one hand, we process data that you disclose to us yourself, and on the other, data that we receive through your use of our website. 
+
+If this privacy policy is presented by the data controller in a language other than German, the translation was prepared by an independent specialist translator certified to ISO 17100:2015 and proofread by at least one other specialist translator. If, in the case of dispute, a court insists on a German-language contract text, then only the original German-language contract text shall be valid; under no circumstances shall a retranslation of the translated version be used. 
 
 ##  2\. We process personal data that you provide to us as follows: 
 
 ###  2.1 Data processing in the context of contacting us: 
 
-If you contact us (e.g. by e-mail or telephone), your data will be processed to carry out pre-contractual measures or to fulfil the contract for processing the enquiry or processing it. 
+If you contact us (e.g. by e-mail or telephone), your data is processed to carry out pre-contractual measures or to fulfill the contract for processing or dealing with your inquiry. 
 
-###  2.2 General data processing within the scope of the business relationship: 
+###  2.2 General data processing in the context of the business relationship: 
 
-The processing of your data takes place for the fulfilment of a contractual relationship or is based on a legal basis in the context of a business relationship (or for the handling of this). The processing of your data takes place for the formal treatment of the business cases to be procured by us as well as for the completion of the sales of services. 
+Your data is processed to fulfill a contractual relationship or has a legal basis in the context of a business relationship (or for processing that relationship). Your data is processed to deal with business transactions formally and to process the sale of services. 
 
-The transmission of the relevant data in each individual case is based on a legal basis or to fulfill a contractual relationship. In addition, the data is transmitted to the following categories of recipients: banks, legal representatives, chartered accountants, auditors and tax consultants, courts, competent administrative authorities, contractual and business partners, insurance companies. 
+The transmission of the relevant data in each individual case has a legal basis or fulfills a contractual relationship. In addition, transmission is carried out to the following categories of recipients: Banks, legal representatives, accountants, auditors and tax advisers, courts, competent administrative authorities, contract and business partners, insurance companies 
 
-###  2.3 Data processing for the purpose of direct marketing: 
+###  2.3 Data processing for direct marketing purposes: 
 
-The processing of your data takes place on the basis of your consent or on the basis of a legitimate interest in initiating business with regard to your own supply or service offer. The justified interest results from our interest in sending you news in order to inform you about news from our company, offers and events as well as to advertise our own range of services. 
+Your data is processed on the basis of your consent or of a legitimate interest in initiating a business transaction concerning our own offer of delivery or service. The legitimate interest results from our interest in sending you messages, informing you about news from our company, offers and events and promoting our own range of services. 
 
-The transmission of the relevant data in each individual case takes place on the basis of your consent. 
+Transmission of the relevant data in each individual case is based on your consent. 
 
-##  3 We process personal data which we receive through your use of our online presence as follows: 
+##  3\. We process personal data that we receive through your use of our website as follows: 
 
 ###  3.1 Server logs: 
 
 No personal data is required for the use of our website. However, our web server still collects the data that your Internet browser communicates to us (including the IP address of the requesting computer, together with the date, time, the request, which file is requested (name and URL), the amount of data transferred to you, a message as to whether the request was successful, identification data of the browser and operating system used, and the website from which the access was made (should the access take place via a link). 
 
-The legal basis of the processing is based on our legitimate interest in ensuring system security, technically administering the website and optimising service quality. 
+The legal basis for processing is based on our legitimate interest in ensuring system security, managing the website technically and optimizing the service quality. 
 
-In the event of a hacking attack, this data will be passed on to the law enforcement authorities. Any further transmission to third parties will not take place. The server logs are stored for a maximum of 3 months. 
+These data will be forwarded to the authorities should a hacking attack occur. No other transmission to third parties takes place. The server logs are stored for a maximum of 3 months. 
 
 ###  3.2 Cookies: 
 
-We use cookies to make visiting our website attractive and to enable the use of certain functions. Cookies are small text files that the website stores on your computer in order to recognize it (long-term cookies). These may contain information about the use of the website. The information contained in the cookies is used to save the individual selections you have made (e.g. the items stored in a shopping basket), so that they can be restored to their original state when you call up the respective page again. We also use cookies to create non-personalized statistics. Most web browsers automatically accept cookies. You can avoid this by changing the settings of your browser. You can remove cookies stored on your computer at any time by deleting the temporary Internet files. The data is processed on the basis of your consent. 
+We use cookies to make your visit to our website attractive and to allow the use of certain features. Cookies are small text files that the website saves on your computer in order to recognize it (permanent cookies). These may contain information about your use of the website. The information contained in the cookies is used to store the individual selections made by you (e.g. the items you place in a shopping cart) so that they can be retrieved if you leave the page and return to it later. We also use cookies to create non-personalized statistics. Cookies are automatically accepted by most web browsers. You can prevent this by changing the settings in your browser. You can remove cookies stored on your computer at any time by deleting the temporary internet files. Data processing is based on your consent. 
 
-We process data about your use of our website via the providers listed below in order to be able to adapt it to your interests in the best possible way. 
+We use the providers listed below to process data about your use of our website in order to adapt it to your interests in the best possible way. 
 
-Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will generally be transmitted to and stored by Google on servers in the United States. We use IP anonymization, therefore your IP address is shortened by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases is the full IP address transmitted to a Google server in the USA and shortened there. Google will use this information on our behalf for the purpose of evaluating your use of this website, compiling reports on website activity for us and providing us with other services relating to website activity and internet usage. The IP address transmitted by your browser as part of Google Analytics is not combined with other data from Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the website. In addition, you can prevent Google from collecting the data generated by the cookie and related to your use of the websites (including your anonymous IP address) and Google from processing this data by downloading and installing the browser plug-in available under the following link (<http://tools.google.com/dlpage/gaoptout?hl=en>). 
+Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses so-called “cookies", text files that are stored on your computer and that allow analysis of your use of the website. The information generated by the cookie about your use of the website is usually transmitted to a Google server in the USA and stored there. We use IP anonymization, so your IP address will first be truncated by Google within Member States of the European Union or in other states that are signatories to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be sent to a Google server in the US and truncated there. Google will use this information on our behalf to evaluate your use of this website, to compile reports on website activity for us, and to provide us with other services related to website activity and internet usage. The IP address provided by Google Analytics within the framework of Google Analytics will not be combined with any other Google data. You can prevent the storage of cookies by a corresponding setting in your browser software; please note, however, that in this case you may not be able to use all functions of the websites in full. You can also prevent the collection by Google of the data generated by the cookie and related to your use of the website (including your anonymized IP address) and processing of that data by Google by following the link below (http://tools.google.com/dlpage/gaoptout?hl=de) and downloading and installing the browser plugin provided. 
 
-Google Analytics uses the following cookies: _ga (storage duration two years), _gid (storage duration one day), _gat (storage duration one minute). 
+Google Analytics uses the following cookies: _ga (storage period of two years), _gid (storage period of one day), _gat (storage period of one minute). 
 
-##  4\. Further Information: 
+##  4\. Further information: 
 
-You have the right to access the data stored pursuant to Art. 15 DSGVO, to correct inaccurate data pursuant to Art. 16 DSGVO, to delete data pursuant to Art. 17 DSGVO, to limit the processing of data pursuant to Art. 18 DSGVO, to transfer data pursuant to Art. 20 DSGVO and to object to unreasonable data processing pursuant to Art. 21 DSGVO. 
+You have the right to information about the stored data according to Art. 15 GDPR, to rectification of inaccurate data according to Art. 16 GDPR, to deletion of data according to Art. 17 GDPR, to restriction of data processing according to Art. 18 GDPR, to data portability according to Art. 20 GDPR and to objection to unreasonable data processing according to Art. 21 GDPR. 
 
-If processing is carried out on the basis of a declaration of consent, you have the opportunity to revoke this at any time without affecting the legality of the processing carried out on the basis of the consent until revocation. 
+If processing takes place on the basis of a declaration of consent, you have the option to withdraw it at any time without affecting the lawfulness of the processing on the basis of that consent up to the time of withdrawal. 
 
-You have the right to complain to the supervisory authority - in Austria the data protection authority is responsible. The address is as follows: 
+You have the right to lodge a complaint with the supervisory authorities - in Austria, the Data Protection Authority is responsible. Its address is: 
 
-Austrian data protection authority  
+Austrian Data Protection Authority  
 Wickenburggasse 8  
 1080 Vienna  
-Phone: +43 1 52 152-0  
+Telephone: +43 1 52 152-0  
 E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-We need the data that we request from you in order to provide our services within the framework of the contractual relationship or to provide information that you have requested from us or to send you our newsletter and other information. If you do not provide the data collected, we will not be able to provide our services. 
+We require the data that we ask you to provide to perform our services within the contractual relationship, to provide information that you have requested from us and to send our newsletters and other information. If you do not provide the data we collect, we will not be able to perform our services. 
 
-An automated decision making including profiling does not take place. Should we process your personal data for a purpose other than that for which we have collected the data, we will inform you of this fact and inform you of this other purpose. 
+No automated decision-making, including profiling, is carried out. If we process your personal data for a purpose other than the one for which we collected this information, we will inform you of this fact and of that other purpose. 
 
 * * *
 
-##  Supplementary details 
+##  Supplementary information 
 
-We provide our services in cooperation with third parties. You can find the categories of recipients of personal data under point 2.2 of our privacy policy. 
+We provide our services in cooperation with third parties. The categories of persons receiving personal data can be found under point 2.2 of our Privacy Policy. 
 
-In addition, we provide the following list of Third Party Data Processors: 
+In addition, we provide the following list of third-party data processors: 
 
   * Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
   * Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen, DE 
@@ -110,4 +106,4 @@ In addition, we provide the following list of Third Party Data Processors:
 
 
 
-Please note that the list is subject to change and may vary from case to case. Your right to information pursuant to Art. 15 DSGVO remains unaffected. 
+Please note that the list is subject to change and may differ in individual cases. Your right to information according to Art. 15 GDPR remains unaffected. 
