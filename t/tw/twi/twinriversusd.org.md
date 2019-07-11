@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinriversusd.org privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203233911id_/http%3A//www.twinriversusd.org/documents/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinriversusd.org privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711085727id_/http%3A//www.twinriversusd.org/documents/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
