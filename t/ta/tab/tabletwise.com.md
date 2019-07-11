@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabletwise.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411005555id_/https%3A//www.tabletwise.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabletwise.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711052526id_/https%3A//www.tabletwise.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TabletWise
 
@@ -14,7 +14,7 @@ We provide you this privacy policy (the "Policy") to help you understand the kin
 
 By visiting this Site or using the Services, you are accepting the policies and practices described in this Policy. Each time you visit the Site or use the Services, you agree and expressly consent to our collection, use, and disclosure of the information that you provide as described in this Policy. If you do not agree to any of these terms, you should not use the Services. This Policy applies to all users, including both users who are simply viewing content available via the Services and users who have registered as members of the Site.
 
-We may, at our sole discretion, modify this Policy at any time. Use of information we collect now is subject to the Policy in effect at the time such information is used. If we make material changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email or by updating this page. By accessing the Services at any time after such modifications, you are agreeing to be bound by the updated Policy. This Privacy Policy was last modified on March 26, 2019.
+We may, at our sole discretion, modify this Policy at any time. Use of information we collect now is subject to the Policy in effect at the time such information is used. If we make material changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email or by updating this page. By accessing the Services at any time after such modifications, you are agreeing to be bound by the updated Policy. This Privacy Policy was last modified on May 2nd, 2019.
 
 In addition to this general Policy, each Service may have additional privacy provisions that are specific to the particular Service. These supplemental disclosures are made adjacent to the particular Service at the time we collect the information. These supplemental disclosures also govern the use of your information.
 
@@ -39,6 +39,10 @@ As you use the Site and Services, certain information may also be passively coll
     3. #### Information We Receive From Third Parties
 
 We may also combine online and/or offline information received from third parties with the information we have already collected from you via our Sites and Services. The third party information is used for a variety of purposes including to verify other information about you (e.g., verify your mailing address to send you requested products or services), to conduct research and to enhance the content, services, and advertising we provide to you.
+
+    4. #### Information We Receive From Authentication Services
+
+You can log on to our site using single sign-on services such as Google, Facebook, Yahoo, and Microsoft. These services allow us to authenticate your identity and provide you the option to share certain personal information with us, such as your name, email address, and contacts address book. We collect personal information from these services to the extent you authorize us to do so, and our collection, use and disclosure of this data is governed by this privacy policy. We do not share this collected data with any third party.
 
 
 
@@ -319,4 +323,7 @@ You can visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harb
 Please contact us using the email address: support@tabletwise.com
 
 
+  
 
+
+Signup to access thousands of classes
