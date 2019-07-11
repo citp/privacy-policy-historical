@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyadventuresinparenting.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331195228id_/https%3A//crazyadventuresinparenting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyadventuresinparenting.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711164609id_/https%3A//crazyadventuresinparenting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crazy Adventures in Parenting
 
