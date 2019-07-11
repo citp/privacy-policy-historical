@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the marketingterms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120831id_/http%3A//www.marketingterms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingterms.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711141811id_/https%3A//marketingterms.wpengine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marketing Terms
 
 At marketingterms.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by marketingterms.com and how we use it.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, marketingterms.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 marketingterms.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
 → Google, as a third party vendor, uses cookies to serve ads on marketingterms.com.
 
@@ -43,8 +43,8 @@ You can find more information about opting out from online behavioral advertisin
 
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-**Update**
+ **Update**
 
 This Privacy Policy was last updated on: Sunday, February 1st, 2015.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us using the [contact form](http://www.marketingterms.com/contact/).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us using the [contact form](https://www.marketingterms.com/contact/).
