@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chloe.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222081059id_/https%3A//www.chloe.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chloe.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711133733id_/https%3A//www.chloe.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal
 
@@ -125,6 +125,6 @@ If you have any questions or comments about this Privacy Policy, or privacy matt
 If you have any questions about this Privacy Policy or the manner in which your information may be processed, please contact us at:  
 Chloé SAS, 5/7 avenue Percier 75008 Paris – FRANCE
 
-[digital@chloe.com](mailto:digital@chloe.com)
+[contact.us@chloe.com](mailto:contact.us@chloe.com)
 
 Last updated: May 2018
