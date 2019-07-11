@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gensler.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326224931id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gensler.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711063922id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gensler
 
@@ -59,7 +59,7 @@ Please note that our Site may contain links to third parties’ websites whose p
 
 **Cookies**
 
-Cookies are small text files that store website data on your computer. They are widely used in order to make websites work more efficiently, as well as to help collect data. A cookie makes your next visit to the website easier if you are using the same PC, laptop, tablet or mobile phone and the same internet browser. To find out more about cookies, including how to see what cookies have been set, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](https://web.archive.org/web/20190326224931id_/https%3A//www.gensler.com/www.allaboutcookies.org).
+Cookies are small text files that store website data on your computer. They are widely used in order to make websites work more efficiently, as well as to help collect data. A cookie makes your next visit to the website easier if you are using the same PC, laptop, tablet or mobile phone and the same internet browser. To find out more about cookies, including how to see what cookies have been set, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](https://web.archive.org/web/20190711063922id_/https%3A//www.gensler.com/www.allaboutcookies.org).
 
 The table below explains the cookies we use and why:
 
