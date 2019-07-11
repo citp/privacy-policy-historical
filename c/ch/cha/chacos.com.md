@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chacos.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214104829id_/https%3A//www.chacos.com/US/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chacos.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711221050id_/https%3A//www.chacos.com/US/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Chaco Privacy Policy
 
