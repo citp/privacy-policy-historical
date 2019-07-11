@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themresort.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503105126id_/https%3A//www.pngaming.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themresort.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711071059id_/https%3A//www.pngaming.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Penn National Gaming
 
