@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designshock.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530082924id_/https%3A//www.designshock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designshock.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711111421id_/https%3A//www.designshock.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
