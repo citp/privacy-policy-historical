@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmusicplus.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407075950id_/http%3A//www.gmusicplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmusicplus.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711185856id_/http%3A//www.gmusicplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GMusicPlus.com
 
