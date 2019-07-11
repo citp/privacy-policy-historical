@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createdby-diane.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320033035id_/https%3A//www.createdby-diane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createdby-diane.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711181305id_/https%3A//www.createdby-diane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Created by Diane
 
