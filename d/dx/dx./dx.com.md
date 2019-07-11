@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dx.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101101507id_/https%3A//help.dx.com/about/index/aid/C6EHPtbSrarkkwU/cid/CvBXPICEr6jkkw.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dx.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711181245id_/https%3A//help.dx.com/about/index/aid/C6EHPtbSrarkkwU/cid/CvBXPICEr6jkkw.html) for the most accurate reproduction.*
 
 # Privacy Policy-Help Center
 
