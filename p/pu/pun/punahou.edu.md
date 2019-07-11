@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punahou.edu privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413063757id_/https%3A//www.punahou.edu/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punahou.edu privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711233608id_/https%3A//www.punahou.edu/privacy-and-terms) for the most accurate reproduction.*
 
 # Privacy and Terms - Punahou School
 
