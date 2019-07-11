@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theindusparent.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402213238id_/https%3A//www.theindusparent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindusparent.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711192023id_/https%3A//www.theindusparent.com/privacy-policy) for the most accurate reproduction.*
 
-# Indian Parenting Magazine for raising happy, healthy and confident children
+# Indian Parenting Magazine for raising happy, healthy and confident children | theIndusParent
 
 **Privacy Policy**
 
