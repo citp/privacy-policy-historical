@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spdate.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516214354id_/https%3A//spdate.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spdate.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711161622id_/https%3A//spdate.com/privacypolicy) for the most accurate reproduction.*
 
 # Spdate – website for meetings! Communication without limits
 
