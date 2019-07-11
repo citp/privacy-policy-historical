@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnarbox.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118202344id_/https%3A//www.gnarbox.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnarbox.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711065646id_/https%3A//www.gnarbox.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – GNARBOX
 
