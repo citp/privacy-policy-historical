@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backbase.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917163736id_/https%3A//backbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backbase.com privacy policy that was archived on 2019-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190711101625id_/https%3A//www.backbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Backbase
 
@@ -19,9 +19,9 @@ The following Services are subject to this Privacy Policy:
 
 Please note that we also have specific Privacy Policies for
 
-– Academy: the use and ordering of (online) trainings and the use of the [Academy website](https://backbase.com/services-partners/backbase-academy/) –[ Academy Privacy Policy](https://backbase.com/wp-content/uploads/2018/01/privacy.pdf);
+– Academy: the use and ordering of (online) trainings and the use of the [Academy website](https://www.backbase.com/services-partners/backbase-academy/) –[ Academy Privacy Policy](https://www.backbase.com/wp-content/uploads/2018/01/privacy.pdf);
 
-– Recruitment: your job application via our [Online Recruitment System](https://careers.backbase.com/) – [ Recruitment Privacy Policy](https://backbase.com/privacy-policy-online-recruitment/);
+– Recruitment: your job application via our [Online Recruitment System](https://careers.backbase.com/) – [ Recruitment Privacy Policy](https://www.backbase.com/privacy-policy-online-recruitment/);
 
 – [Backbase Community](https://community.backbase.com/privacy) – [Community Privacy Policy](https://community.backbase.com/privacy).
 
@@ -144,7 +144,7 @@ If you provided your consent when signing up to our Services, or at a later stag
 
 You have the right to access, correct, update or delete your data as well as any other right applicable in your jurisdiction by accessing the Preference Center, clicking on the link provided in our communication emails, or accessing the relevant section of the Backbase websites or apps.
 
-In order to delete your data, you need to access the Preference Center on the Backbase [website](https://backbase.com/preferences-center/) and delete your account. Note that after the deletion of your personal data, it cannot be recovered and any data and content stored on the Services will also be permanently deleted. We will also delete your personal data once it is no longer necessary for the purposes for which it was originally collected.
+In order to delete your data, you need to access the Preference Center on the Backbase [website](https://www.backbase.com/preferences-center/) and delete your account. Note that after the deletion of your personal data, it cannot be recovered and any data and content stored on the Services will also be permanently deleted. We will also delete your personal data once it is no longer necessary for the purposes for which it was originally collected.
 
 Backbase will need to hold your personal information locked where required by applicable laws and during the relevant statutes of limitations, even if you ask for its deletion. This term should typically not exceed 5 years in most jurisdictions. Backbase will not delete your personal data where it refers to an active relationship or a product or service explicitly requested by you (e.g. a recent purchase made at a Backbase Services).
 
@@ -162,7 +162,7 @@ We will update our Privacy Policy from time to time to ensure you are promptly i
 
 ## 8\. Contacting Backbase
 
-Please contact Backbase with any questions or comments about this Privacy Policy from following Backbase global website: <https://backbase.com/about/contact/>
+Please contact Backbase with any questions or comments about this Privacy Policy from following Backbase global website: <https://www.backbase.com/about/contact/>
 
 Also, you can contact Backbase’s marketing affiliates specified below according to your place of residence:
 
