@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinspiry.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406045555id_/https%3A//pinspiry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinspiry.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713003435id_/https%3A//pinspiry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Pinspiry
 
