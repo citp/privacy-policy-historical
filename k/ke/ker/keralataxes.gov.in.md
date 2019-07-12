@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralataxes.gov.in privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615134124id_/http%3A//keralataxes.gov.in/2018/10/29/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralataxes.gov.in privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712054620id_/http%3A//keralataxes.gov.in/2018/10/29/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Kerala GST – State Goods and Services Tax Department
 
