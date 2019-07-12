@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perforce.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507051637id_/https%3A//www.perforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perforce.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712131438id_/https%3A//www.perforce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perforce
 
