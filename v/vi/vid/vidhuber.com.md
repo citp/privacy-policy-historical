@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidhuber.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127032615id_/http%3A//vidhuber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidhuber.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712162152id_/http%3A//vidhuber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - VidHuber
 
