@@ -1,53 +1,73 @@
-> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215037id_/https%3A//www.officesupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712212536id_/https%3A//www.officesupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## We track IP Addresses.
+This privacy policy ("Policy") describes how Discount Office Items Inc. ("Discount Office Items Inc.", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide on the [OfficeSupply.com](http://officesupply.com/) website and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-Your IP address is used to help diagnose problems with our server, and to administer the Web site, in addition your IP address is used to help identify you and your shopping cart (in conjunction with a cookie.) We also use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
+## Collection of personal information
 
-## This site may contain links to other sites.
+We receive and store any information you knowingly provide to us when you create an account, make a purchase, fill any online forms on the Website. When required this information may include your email address, name, phone number, address, credit card information, or other Personal Information. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website's features. Users who are uncertain about what information is mandatory are welcome to contact us.
 
-OfficeSupply.com is not responsible for the privacy practices or the content of such Web sites, unless otherwise specified below your information is never shared with other companies.
+## Collection of non-personal information
 
-## This site requires Unique Identifiers.
+When you visit the Website our servers automatically record information that your browser sends. This data may include information such as your device's IP address, browser type and version, operating system type and version, language preferences or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics.
 
-This site uses an order form for customers to request information, products, and services, it also collects visitor's contact information (like their email address), in some circumstances their unique identifiers (like their pets name, or mothers maiden name), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future informational mailings; see the choice/opt-out section below, users may NOT opt out of receiving order notifications, or other contacts which are deemed essential by OfficeSupply.com.
+## Use of collected information
 
-## This site collects Financial Information.
+Any of the information we collect from you may be used to personalize your experience; improve our Website; improve customer service and respond to queries and emails of our customers; process transactions; send notification emails such as password reminders, updates, etc; run and operate our Website and Services. Non-Personal Information collected is used only to identify potential cases of abuse and establish statistical information regarding Website usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
 
-Financial information that is collected is used to bill the customer for products and services. Unique identifiers (such as pets name, and mothers maiden name) are collected from Web site visitors to verify the user's identity.
+## Billing and payments
 
-## This site may contain Surveys.
+In case of services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted. Where necessary for processing future payments and subject to your prior consent, your financial information will be stored in encrypted form on secure servers of our reputed payment gateway service provider who is beholden to treating your Personal Information in accordance with this Privacy Policy. All direct payment gateways adhere to the latest security standards as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. Sensitive and private data exchange happens over a SSL secured communication channel and is encrypted and protected with digital signatures, and our Website is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users. Scans for malware are performed on a regular basis for additional security and protection.
 
-Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. This site may also run contests in which case we may ask visitors for contact information (like their email address). Generally this information is used to verify eligibility, however we may also use contact data from our contests to send users information about OfficeSupply.com. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration and bill the user for products and services.
+## Product and service providers
 
-## About our System Security.
+We may contract with other companies to provide certain products and services. These service providers are not authorized to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may share Personal Information for these purposes only with third-parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to Personal Information Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose Personal Information for their own marketing or other purposes.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Information is stored in a password protected database system. Whenever sensitive information is accessed it is transmitted using strong SSL encryption.
+## Privacy of children
 
-## This site provides the choice to Opt In or Out.
+We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Website or Service. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Website or Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Website or Service, please contact us.
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Each time an information email is distributed, you have the option to use unique unsubscribe url which is attached to each outgoing email. Customers may unsubscribe at any time by simply logging into their accounts.
+## Newsletters
 
-## We provide the ability to Correct/Update YOUR information.
+We offer electronic newsletters to which you may voluntarily subscribe at any time. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by contacting us. However, you will continue to receive essential transactional emails.
 
-This site gives users the following options for changing and modifying information previously provided. Simply visit the customer login area of this website.
+## Cookies
 
-## Contacting the Web Site.
+The Website uses "cookies" to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We may use cookies to collect, store, and track information for statistical purposes to operate our Website and Services. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to use and experience the features of the Website and Services.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/contact) via our contact page.
+In addition to using cookies and related technologies as described above, we also may permit certain third-party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on the Website. These companies may deliver ads that might also place cookies and otherwise track user behavior.
 
-## Secure Shopping
+## Advertisement
 
-We want you to be safe and secure when ordering online. Therefore strong precautions are taken to protect the information of the users of our Site. When users submit sensitive information via the Site, that Information is protected both online and off-line. Our website is also tested daily by a third party security system called Hacker Safe (ScanAlert).
+We may display online advertisements and we may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. We do not share personally identifiable information about individual customers with advertisers. In some instances, we may use this aggregated and non-identifying information to deliver tailored advertisements to the intended audience.
 
-We take credit card information security seriously and use a variety of technical solutions to make shopping safe at our Site. Furthermore, your information is encrypted and is protected utilizing the industry standard Secure Sockets Layer (SSL) encryption software. SSL encrypts all of your personal information, including your credit card number, your name, and your address, so that the information cannot be read as it travels over the Internet. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+## Links to other websites
 
-If at any point you do not feel comfortable ordering on the web or simply need more product information please call one of our helpful customer service representatives or simply [send us an email](https://web.archive.org/contact).
+Our Website contains links to other websites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other websites or third-parties. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that may collect Personal Information.
 
-## Email Privacy
+## Information security
 
-We will not sell, trade, or in any way allow any other company to receive your email address. Your email address is simply a way for us to provide a better shopping experience to the customers we do business with. When you provide a valid email address to us at the time of the sale or when signing up for our optional mailing list it allows us to keep you updated on your order status, problems with your order, or contacting you for more information as it relates to your order. When you checkout you may also signup for our optional mailing list. We occasionally will send promotional newsletters to customers that opt in to receive our specials. By providing your email, you consent to receive communication from from OfficeSupply.com and other properties owned by the parent company; Discount Office Items Inc. You may opt out at any time you wish simply by logging into your account and changing your preferences.
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Website cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
 
-Please be sure to add sales@officesupply.com to your email address book so you may continue receiving emails from OfficeSupply.com.
+## Data breach
+
+In the event we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third-parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do we will mail you a letter.
+
+## Legal disclosure
+
+We will disclose any information we collect, use or receive if required or permitted by law, such as to comply with a subpoena, or similar legal process, and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In the event we go through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, your user account and personal data will likely be among the assets transferred.
+
+## Changes and amendments
+
+We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do we will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes.
+
+## Acceptance of this policy
+
+You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Website and its Services.
+
+## Contacting us
+
+If you have any questions about this Policy, please contact us.
+
+This document was last updated on October 31, 2018
