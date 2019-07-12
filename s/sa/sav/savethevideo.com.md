@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savethevideo.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209172631id_/https%3A//www.savethevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethevideo.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712210605id_/https%3A//www.savethevideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - SaveTheVideo.com
 
-### Your privacy at SaveTheVideo.com (Last updated: 25/07/2018)
+### Your privacy at SaveTheVideo.com (Last updated: 05/03/2019)
 
 #### Privacy summary
 
@@ -32,7 +32,7 @@ This information is stored temporarly in log files on our servers for a short ti
 
 #### Cookies
 
-Cookies are text files stored on your computer, SaveTheVideo.com does not use cookies directly but we use third party services that make use of cookies to collect traffic data and provide advertising services.
+Cookies are text files stored on your computer, SaveTheVideo.com uses cookies to provide advertising services, we also use third party services that make use of cookies to collect traffic data and provide advertising services.
 
 We collect anonymous usage information on visitors to our site through the use of [Google Analytics](https://analytics.google.com/) which may use tracking cookies to gather anonymous browser, operating system, geographic, and web site navigation information, to opt out of Google Analytics [Install Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
 
