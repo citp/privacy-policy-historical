@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharemods.com privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720081814id_/https%3A//sharemods.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemods.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712100856id_/https%3A//sharemods.com/pages/privacy.html) for the most accurate reproduction.*
 
 # ShareMods.com - Upload & Share Mods
 
@@ -100,6 +100,9 @@ We also uses Google Analytics, a web analytics service provided by Google, Inc. 
 
 Data Retention.  
 We will hold your Personal Information on our systems for as long as is necessary for the relevant activity. If you cancel your registration and your account is deleted Sharemods.com will no longer use the Personal Information, and personal information will be deleted immediately. 
+
+Credit card security.  
+All purchases on Sharemods.com are handled by third party card processing company. Sharemods.com does not arrange and/or save numbers or any information from your credit cards. 
 
 Compliance with Laws and Law Enforcement.  
 Sharemods.com cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Personal Information and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate for any of the following reasons: to respond to legal requests (including court orders and subpoenas); to protect the safety, property, or rights of Sharemods.com, any our members, or any third party; to prevent or stop any illegal, unethical, or legally actionable activity; or to comply with the law. 
