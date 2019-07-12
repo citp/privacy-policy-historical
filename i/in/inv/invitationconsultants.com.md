@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175305id_/https%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712175341id_/https%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
 
@@ -15,11 +15,7 @@ Click here to verify:  [](https://www.mcafeesecure.com/RatingVerify?ref=www.invi
 ## Privacy:
 
   
-
-
-Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers www.invitationconsultants.com and www.graduation-announcements-store.com (collectively "the site"). 
-
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Customer Service at hello@invitationconsultants.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe - http://www.truste.com/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security. 
+Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security. 
 
 (back to top)
 
