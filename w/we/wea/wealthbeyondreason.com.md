@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818212443id_/http%3A//www.greaterminds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712074117id_/http%3A//www.greaterminds.com/privacy-policy) for the most accurate reproduction.*
 
 # Greater Minds Privacy Policy
 
