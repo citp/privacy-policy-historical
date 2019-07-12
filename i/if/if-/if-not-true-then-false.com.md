@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if-not-true-then-false.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126004426id_/https%3A//www.if-not-true-then-false.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if-not-true-then-false.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713004225id_/https%3A//www.if-not-true-then-false.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – If Not True Then False
 
