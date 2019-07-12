@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmarker.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331191007id_/https%3A//www.bigmarker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmarker.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712095056id_/https%3A//www.bigmarker.com/privacy) for the most accurate reproduction.*
 
 # BigMarker Legal Docs
 
