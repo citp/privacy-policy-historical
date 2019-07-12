@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401024016id_/https%3A//www.emptymirrorbooks.com/privacy-policy-gdpr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712190827id_/https%3A//www.emptymirrorbooks.com/privacy-policy-gdpr) for the most accurate reproduction.*
 
-# Privacy Policy - Empty Mirror
+# Privacy Policy • Empty Mirror
 
 ## Privacy Policy (compliant with the EU’s GDPR)
 
@@ -169,7 +169,7 @@ A cookie is a tiny text file stored on your computer. Cookies store information 
 
 
 
-You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/). 
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/?c=2&lang=EN) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/). 
 
 We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
 
