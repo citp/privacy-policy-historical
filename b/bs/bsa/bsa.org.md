@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bsa.org privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017071501id_/http%3A//www.bsa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsa.org privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712124502id_/https%3A//www.bsa.org/privacy-policy) for the most accurate reproduction.*
 
-# BSA Privacy Policy
+# Privacy Policy | BSA | The Software Alliance
 
 Effective Date: _May 2018_
 
@@ -57,7 +57,7 @@ See below to learn more.
 
 
 
-## 1\. COLLECTION AND USE
+### 1\. COLLECTION AND USE
 
 The categories of Personal Data we collect, which may be collected both on the Site and offline, and our uses of Personal Data depend on the context, as described below:
 
@@ -82,9 +82,9 @@ The categories of Personal Data we collect, which may be collected both on the S
 
 We do not use automated decision-making without human intervention, including profiling, in a way that produces legal effects concerning individuals (e.g., not offering an employment opportunity) or that otherwise significantly affects individuals.
 
-Some jurisdictions require an explanation of the legal basis for the collection and processing of Personal Data. We have several different legal grounds on which we collect and process Personal Data, including: (a) as necessary to perform a transaction (such as when we respond to your requests); (b) as necessary to comply with a legal obligation (such as when we use Personal Data for record keeping to substantiate tax liability); (c) consent (where you have provided consent as appropriate under applicable law); and (d) as necessary for legitimate interests (such as when we act to maintain our business generally or to pursue our rights or the rights of our members).
+Some jurisdictions require an explanation of the legal basis for the collection and processing of Personal Data. We have several different legal grounds on which we collect and process Personal Data, including: (a) as necessary to perform a transaction (such as when we respond to your requests); (b) as necessary to comply with a legal obligation (such as when we use Personal Data for record keeping to substantiate tax liability); (c) consent (where you have provided consent as appropriate under applicable law); and (d) as necessary for legitimate interests (such as when we act to maintain our business generally or to pursue our rights or the rights of our members). 
 
-## 2\. SHARING
+### 2\. SHARING
 
 We may share Personal Data:
 
@@ -100,27 +100,35 @@ We may share Personal Data:
 
 We may also share statistical or other information that does not identify individuals personally with third parties.
 
-## 3\. SECURITY
+ 
 
-BSA employs reasonable technical and organizational measures designed to protect Personal Data from loss, misuse, alteration or unintentional destruction. We also require that third-party service providers acting on our behalf also provide such reasonable security measures. However, no security measure can guarantee against compromise. While we take steps designed to protect Personal Data, you also play a role in protecting your Personal Data. You should not share any login information, including passwords, with anyone. If you have any reason to believe that your login information or password have been compromised, please contact us as detailed below. 
+### 3\. SECURITY
 
-## 4\. INTERNATIONAL TRANSFERS
+BSA employs reasonable technical and organizational measures designed to protect Personal Data from loss, misuse, alteration or unintentional destruction. We also require that third-party service providers acting on our behalf also provide such reasonable security measures. However, no security measure can guarantee against compromise. While we take steps designed to protect Personal Data, you also play a role in protecting your Personal Data. You should not share any login information, including passwords, with anyone. If you have any reason to believe that your login information or password have been compromised, please contact us as detailed below.
 
-We may transfer Personal Data to jurisdictions outside of the individual's home country as necessary for the purposes described in this Privacy Statement, including to countries that may not provide the same level of data protection as the individual's home country. We provide appropriate protections for cross-border transfers as required by law for international data transfers, including for Personal Data transferred to third parties. With respect to such transfers from the European Economic Area (“ **EEA** ”) to the United States and other non-EEA jurisdictions, we implement standard contractual clauses approved by the European Commission and other approved mechanisms to protect such Personal Data as required by applicable law. As permitted by such laws, individuals may request a copy of the suitable mechanisms we have in place by contacting us as detailed below. 
+ 
 
-## 5\. RETENTION AND STORAGE
+### 4\. INTERNATIONAL TRANSFERS
 
-We will retain Personal Data for no longer than the period necessary to fulfil the purposes outlined in this Privacy Statement and as otherwise needed to comply with applicable law and our internal policies.
+We may transfer Personal Data to jurisdictions outside of the individual's home country as necessary for the purposes described in this Privacy Statement, including to countries that may not provide the same level of data protection as the individual's home country. We provide appropriate protections for cross-border transfers as required by law for international data transfers, including for Personal Data transferred to third parties. With respect to such transfers from the European Economic Area (“ **EEA** ”) to the United States and other non-EEA jurisdictions, we implement standard contractual clauses approved by the European Commission and other approved mechanisms to protect such Personal Data as required by applicable law. As permitted by such laws, individuals may request a copy of the suitable mechanisms we have in place by contacting us as detailed below.
 
-## 6\. CHILDREN
+ 
 
-BSA does not knowingly collect Personal Data from children under 16 through operation of the Site. If BSA has actual knowledge that Personal Data about a child under 16 years old has been collected, then BSA will take the appropriate steps to delete such Personal Data.
+### 5\. RETENTION AND STORAGE
 
-## 7\. RIGHTS
+We will retain Personal Data for no longer than the period necessary to fulfil the purposes outlined in this Privacy Statement and as otherwise needed to comply with applicable law and our internal policies. 
 
-As permitted by applicable law, you may have the right to obtain confirmation of the existence of certain Personal Data relating to you, to verify its content, origin and accuracy, as well as the right to access, review, port, delete or to block or withdraw consent to the processing of certain Personal Data (without affecting the lawfulness of processing based on consent before its withdrawal), by contacting us as detailed below. Before acting on any such request, BSA will need to verify your identity. To the extent BSA does not have sufficient information about you or is unable to verify your identity, we may not be able to honor your request. Please note that we may need to retain certain Personal Data as required or permitted by applicable law. 
+### 6\. CHILDREN
 
-## 8\. CHOICES
+BSA does not knowingly collect Personal Data from children under 16 through operation of the Site. If BSA has actual knowledge that Personal Data about a child under 16 years old has been collected, then BSA will take the appropriate steps to delete such Personal Data. 
+
+### 7\. RIGHTS
+
+As permitted by applicable law, you may have the right to obtain confirmation of the existence of certain Personal Data relating to you, to verify its content, origin and accuracy, as well as the right to access, review, port, delete or to block or withdraw consent to the processing of certain Personal Data (without affecting the lawfulness of processing based on consent before its withdrawal), by contacting us as detailed below. Before acting on any such request, BSA will need to verify your identity. To the extent BSA does not have sufficient information about you or is unable to verify your identity, we may not be able to honor your request. Please note that we may need to retain certain Personal Data as required or permitted by applicable law.
+
+ 
+
+### 8\. CHOICES
 
 You have the following choices regarding our use and disclosure of your Personal Data:
 
@@ -128,11 +136,10 @@ You have the following choices regarding our use and disclosure of your Personal
   
 
   * **Cookies and Similar Technologies.** Please review your browser or computer settings for certain cookies and see below to exercise certain choices regarding cookies.
-  
 
+ 
 
-
-## 9\. COOKIES AND SIMILAR TRACKING TECHNOLOGIES - INTEREST-BASED ADVERTISING
+### 9\. COOKIES AND SIMILAR TRACKING TECHNOLOGIES - INTEREST-BASED ADVERTISING
 
 In accordance with applicable law, BSA uses and allows third parties to use essential and non-essential cookies, web beacons and similar technologies (collectively, “ **cookies** ”) on our Site.
 
@@ -176,17 +183,21 @@ _What are your options if you do not want cookies on your computer?_
 
 
 
-**Do-Not-Track Signals.  **We currently do not employ technology that recognizes “do-not-track” signals from your browser.
+**Do-Not-Track Signals.  **We currently do not employ technology that recognizes “do-not-track” signals from your browser. 
 
-## 10\. LINKS TO OTHER WEBSITES
+### 10\. LINKS TO OTHER WEBSITES
 
 The Site may contain links and references to other internet websites administered by BSA or its affiliates where this Privacy Statement may not apply, as well as unaffiliated third-party websites. When you click a link to visit a third-party website, you will be subject to that website's privacy practices. We encourage you to familiarize yourself with the privacy and security practices of the linked third-party websites before providing any Personal Data on those websites.
 
-## 11\. CHANGES TO THIS PRIVACY STATEMENT
+ 
+
+### 11\. CHANGES TO THIS PRIVACY STATEMENT
 
 BSA may update this Privacy Statement from time to time as our organization's strategy and focus changes or as required by law. The effective date of our Privacy Statement is posted above, and we encourage individuals to visit our Site periodically to stay informed about BSA's privacy practices. We will post the updated version of the Privacy Statement on our Site and ask for consent to the changes if legally required.
 
-## 12\. CONTACTING US
+ 
+
+### 12\. CONTACTING US
 
 If you have questions or comments regarding this Privacy Statement or BSA's privacy practices, please contact us at [GlobalPrivacy@bsa.org](mailto:GlobalPrivacy@bsa.org).
 
