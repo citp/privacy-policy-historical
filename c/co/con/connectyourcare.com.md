@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415064858id_/https%3A//www.connectyourcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712230255id_/https%3A//www.connectyourcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and End User Terms of Use | ConnectYourCare
 
@@ -6,7 +6,7 @@ Privacy Policy last updated: October 15, 2018
 
 ### Financial Notice of Privacy Practices
 
-To read more about our privacy policy as it applies to ConnectYourCare as an IRS-approved non-bank custodian of Health Savings Accounts, please read our [ConnectYourCare Notice of Privacy Practices](https://www.connectyourcare.com/assets/notice-privacy-practices.pdf).
+To read more about our privacy policy as it applies to ConnectYourCare as an IRS-approved non-bank custodian of Health Savings Accounts, please read our [ConnectYourCare Notice of Privacy Practices](https://3yq4681caa0jsu34447gi9n1-wpengine.netdna-ssl.com/assets/notice-privacy-practices.pdf).
 
 * * *
 
