@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the respondent.io privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822072037id_/https%3A//www.respondent.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respondent.io privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712182751id_/https%3A//www.respondent.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Respondent
 
