@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414012145id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712225007id_/https%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Download Free Games - Download Free Games
 
@@ -86,7 +86,7 @@ Cookies are used on many download links to track referrals from this site. All f
 
 With respect to Ad Servers: We are currently partnering with Google Adsense to deliver ads.
 
-Google Adsense Privacy Policy Information – <http://www.google.com/privacy.html>
+Google Adsense Privacy Policy Information – <http://www.google.com/policies/privacy/>
 
 **Privacy Standards**
 
