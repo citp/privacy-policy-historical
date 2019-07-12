@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the give.zone privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528212307id_/https%3A//give.zone/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the give.zone privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712155956id_/https%3A//give.zone/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
