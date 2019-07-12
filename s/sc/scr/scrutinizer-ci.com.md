@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrutinizer-ci.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317222800id_/https%3A//scrutinizer-ci.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrutinizer-ci.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712214104id_/https%3A//scrutinizer-ci.com/privacy-policy) for the most accurate reproduction.*
 
 # Measure and Improve Code Quality continuously with Scrutinizer
 
