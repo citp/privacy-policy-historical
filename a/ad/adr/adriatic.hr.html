@@ -1,19 +1,131 @@
-<!--The following is the downloaded HTML source of the adriatic.hr privacy policy that was archived on 2017-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170907150141id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adriatic.hr privacy policy that was archived on 2019-07-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190712214025id_/https%3A//www.adriatic.hr/en/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en"><head>
-        <link rel="stylesheet" type="text/css" media="screen" href="http://static.adriatic.hr/css/info.css?v=201709071320">
-        <link rel="stylesheet" type="text/css" media="print" href="http://static.adriatic.hr/css/print.css?v=201709071320">
-        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="http://static.adriatic.hr/js/frontend/libs/plugins/head.min.js?v=201702171030"></script>        
+<!DOCTYPE html><html lang="en" class="first second"><head>
+                <meta http-equiv="x-ua-compatible" content="IE=edge">
+        <link rel="stylesheet" type="text/css" media="screen" href="https://i.croatiaimages.com/a/desktopInfo.0714cd52da.css">
+        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script>
+(function () {
+    "use strict";
+    var serverLogEndPoint = '/en/ajax/jserr-report';
+    function initializeErrorHandler() {
+        if (typeof window !== 'undefined' && !window.onerror) {
+            var dbgErrCount = 0;
+            window.onerror = function (errorMsg, url, lineNumber, column, errorObj) {
+                if (dbgErrCount < 4) {
+                    var errorInfo = {
+                        'errorMsg': errorMsg,
+                        'url': url,
+                        'ip': (window.local_vac_ip != 'undefined') ? window.local_vac_ip : '',
+                        'userAgent': navigator.userAgent,
+                        'lineNumber': lineNumber,
+                        'column': column,
+                        'stack': typeof errorObj !== 'undefined' && errorObj !== null? (errorObj.stack ? errorObj.stack : null) : null
+                    }
+                    var filename = typeof errorObj !== 'undefined' && errorObj !== null ? (errorObj.fileName ? errorObj.fileName : null) : null;
+                    if (filename !== null) {
+                        errorInfo.filename = filename;
+                    }
+                    if (typeof navigator.connection !== 'undefined'
+                        && typeof navigator.connection.downlink !== 'undefined') {
+                        errorInfo.networkSpeed = navigator.connection.downlink;
+                    }
+                    var ieInfo = ieVersion();
+                    if (ieInfo.isIe) {
+                        errorInfo.isIe = {
+                            'isIe': ieInfo.isIe,
+                            'ieVersion': ieInfo.trueVersion,
+                            'ieActingVersion': ieInfo.actingVersion,
+                            'ieCompatibilityMode': ieInfo.compatibilityMode,
+                            'ieDocumentMode': ieInfo.documentMode
+                        }
+                    }
+                    handleError(errorInfo);
+                }
+                dbgErrCount++;
+                return false;
+            };
+        }
+    }
+    function handleError(errorData) {
+        var xmlhttp = new XMLHttpRequest();
+
+        xmlhttp.open("POST", serverLogEndPoint, true);
+        xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xmlhttp.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+
+        if (typeof JSON !== 'undefined') {
+            xmlhttp.send('dbg='+JSON.stringify(errorData));
+        } else {
+            var info = errorObjToString(errorData);
+            xmlhttp.send(info);
+        }
+    }
+    function errorObjToString(errorData) {
+        var info = 'dbg='+errorData.errorMsg+
+            ', url='+errorData.url+
+            ', userAgent='+errorData.userAgent+
+            ', ip='+errorData.ip+
+            ', line='+errorData.lineNumber+
+            ', column='+errorData.column;
+        if (typeof errorData.networkSpeed !== 'undefined') {
+            info += ', networkSpeed='+errorData.networkSpeed;
+        }
+        if (errorData.isIe) {
+            info += ', isIe='+errorData.isIe+
+            ', ieVersion='+errorData.ieVersion+
+            ', ieActingVersion='+errorData.ieActingVersion+
+            ', ieCompatibilityMode='+errorData.ieCompatibilityMode+
+            ', ieDocumentMode='+errorData.ieDocumentMode;
+        }
+        return info;
+    }
+    function ieVersion() {
+        var value = {
+            isIe: false,
+            trueVersion: 0,
+            actingVersion: 0,
+            compatibilityMode: false,
+            documentMode: 0
+        };
+        value.isIe = !!navigator.userAgent.match(/Trident/g) || !!navigator.userAgent.match(/MSIE/g);
+        if (!value.isIe) {
+            return value;
+        }
+
+        var trident = navigator.userAgent.match(/Trident[ ]*\/[ ]*(\d+)/);
+        if (trident) {
+            value.trueVersion = parseInt(trident[1], 10) + 4;
+        }
+
+        var msie = navigator.userAgent.match(/(MSIE |rv:)(\d+)/);
+        if (msie) {
+            value.actingVersion = parseInt(msie[1]);
+        } else {
+            value.actingVersion = value.trueVersion;
+        }
+
+        if (value.isIe && value.trueVersion > 0 && value.actingVersion > 0) {
+            value.compatibilityMode = value.trueVersion != value.actingVersion;
+        }
+        if (value.isIe && typeof document.documentMode !== 'undefined') {
+            value.documentMode = document.documentMode
+        }
+
+        return value;
+    }
+    window.gm_authFailure = function() {
+        window.onerror('Google maps error', window.location.href)
+    }
+    initializeErrorHandler();
+})();
+</script>
+        
 
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Vacation in Croatia 2019 - Adriatic.hr</title>
 
-    <title>Vacation in Croatia 2017 - Adriatic.hr</title>
-
-<meta name="robots" content="index, follow">
-<meta name="verify-v1" content="dahUA6KJNIMH5j4zgPnuEOMpRl0t17Hz1acCzNjjyDk="><!-- google sitemaps -->
 <meta name="msvalidate.01" content="585598C21E66C553C6B3251C67FE0A58"><!-- bing -->
-<meta name="google-site-verification" content="6uci1IIjz12Okx9tFjjo9QVNzjP-GlbI2YjiBBxPdLM">
 <meta name="y_key" content="8656fc61230f87dc"><!-- yahoo site explorer -->
 <meta name="yandex-verification" content="5089322374498492">
 <meta name="author" content="Adriatic.hr - Travel agency">
@@ -38,7 +150,7 @@
             <meta property="og:locale:alternate" content="es">
     
     <meta property="og:url" content="">
-    <meta property="og:title" content="Vacation in Croatia 2017 - Adriatic.hr">
+    <meta property="og:title" content="Vacation in Croatia 2019 - Adriatic.hr">
     <meta property="og:description" content="">
     <meta property="og:type" content="website">
     <meta property="og:image" content="">
@@ -47,16 +159,12 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@adriatic_hr">
     <meta name="twitter:creator" content="@adriatic_hr">
-    <meta name="twitter:title" content="Vacation in Croatia 2017 - Adriatic.hr">
+    <meta name="twitter:title" content="Vacation in Croatia 2019 - Adriatic.hr">
     <meta name="twitter:description" content="">
     <meta name="twitter:image" content="">
 
     <!-- Facebook -->
     <meta name="fb:page_id" content="49207247893">
-
-<!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
         <link rel="shortcut icon" href="/css/i/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/css/i/favicon.png" type="image/x-icon">
 
@@ -68,201 +176,219 @@
 <link rel="apple-touch-icon" sizes="72x72" href="/css/i/adriatic-hr-ipad-144.png">
 <!-- Retina iPad -->
 <link rel="apple-touch-icon" sizes="144x144" href="/css/i/adriatic-hr-ipad-144.png">        <link rel="image_src" href="/images/social/thumbnail.png">
-        <link rel="alternate" hreflang="en" href="/en/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="hr" href="/hr/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="cs" href="/cs/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="de" href="/de/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="fr" href="/fr/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="it" href="/it/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="hu" href="/hu/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="pl" href="/pl/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="ro" href="/ro/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="ru" href="/ru/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="sk" href="/sk/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="sl" href="/sl/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="nl" href="/nl/local/text/doc/zastita_privatnosti">
-<link rel="alternate" hreflang="es" href="/es/local/text/doc/zastita_privatnosti">
+        <link rel="alternate" hreflang="en" href="/en/privacy-policy">
+<link rel="alternate" hreflang="hr" href="/hr/zastita-privatnosti">
+<link rel="alternate" hreflang="cs" href="/cs/ochrana-osobnich-udaju">
+<link rel="alternate" hreflang="de" href="/de/datenschutzerklarung">
+<link rel="alternate" hreflang="fr" href="/fr/politique-de-confidentialite">
+<link rel="alternate" hreflang="it" href="/it/tutela-della-privacy">
+<link rel="alternate" hreflang="hu" href="/hu/privacy-policy">
+<link rel="alternate" hreflang="pl" href="/pl/ochrona-prywatnosci">
+<link rel="alternate" hreflang="ro" href="/ro/polita-de-taina">
+<link rel="alternate" hreflang="ru" href="/ru/politika-konfidencialnosti">
+<link rel="alternate" hreflang="sk" href="/sk/ochrana-osobnych-udajov">
+<link rel="alternate" hreflang="sl" href="/sl/zastita-privatnosti">
+<link rel="alternate" hreflang="nl" href="/nl/privacy-policy">
+<link rel="alternate" hreflang="es" href="/es/privacy-policy">
                 
-                    <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '631411923627655');
-fbq('track', 'PageView');
-</script>
-
-<noscript>
-    <img height="1" width="1" style="display:none" alt="noscript" src="https://www.facebook.com/tr?id=631411923627655&ev=PageView&noscript=1"/>
-</noscript>
-            </head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    </head>
 
     <body class="lang-en  ">
+        
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v3.2">
+</script>
+        <span id="siteUserInfo" data-userauthenticated="false"></span>
+
+                
+<script>!!window.requestAnimationFrame || document.write('\x3Cscript src="https://i.croatiaimages.com/a/ie9polyfills.0a45e5e251.js">\x3C/script>')</script>
+<script>!(!window.Map || !window.Set) || document.write('\x3Cscript src="https://i.croatiaimages.com/a/ie10polyfills.5a38b01e4f.js">\x3C/script>')</script>
+<script>
+    function doesNotNeedIE11Polyfills(window, Object, document) {
+        if (!('classList' in document.documentElement)) {
+            return false;
+        }
+        document.documentElement.classList.add('first', 'second');
+        return !(!(typeof Object.assign === 'function') || !window.Promise || !window.NodeList.prototype.forEach || typeof window.Number.isNaN !== 'function' || !document.documentElement.classList.contains('second'));
+    }
+    doesNotNeedIE11Polyfills(window, Object, document) || document.write('\x3Cscript src="https://i.croatiaimages.com/a/ie11polyfills.f6b37daed7.js">\x3C/script>')
+</script>
+        <div id="newsletterPopup" class="hidden">
+    <h2>
+        Join Adriatic.hr club and get <span>exclusive deals</span>, find out about promotions first and enjoy all our benefits.    </h2>
+
+    <div id="newsletterContent">
+        <form id="newsletterForm" action="/en/ajax/newsletter/subscribe" method="post" name="newsletter" data-newsletter-success="E-mail address &amp;&amp;1&amp;&amp; is successfully subscribed to our mailing list." data-is-subscribed-url="/en/newsletter/isSubscribedAndEmail" novalidate="">
+            <label>E-mail address:</label>
+            <input id="newsletterEmail" type="email" name="newsletter[email]" placeholder="example@example.com">
+            <button type="submit">Sign up and save money</button>
+        </form>
+    </div>
+
+    <p>
+        By subscribing to Adriatic.hr club newsletter I confirm that I have read and accepted Adriatic.hr's <a href="/en/privacy-policy#newsletter-data" target="_blank">Privacy policy</a>    </p>
+    <p>You can unsubscribe from our newsletter at any time.</p>
+</div>
+
         <div class="modal" style="display:none;"></div>
         <div id="topInfoBar">
                                     <noscript>
-	<div class="topInfoBox">
-		<p>We are sorry, but you will need to enable JavaScript to have full experience of the website.		<a target="_blank" rel="nofollow" href="http://www.enable-javascript.com/">Enabling JavaScript</a></p>
-	</div>
+    <div class="topInfoBox">
+        <p>
+            We are sorry, but you will need to enable JavaScript to have full experience of the website.            <a target="_blank" rel="nofollow" href="https://www.enable-javascript.com/">Enabling JavaScript</a>        </p>
+    </div>
 </noscript>        </div>
         <div id="utilityBarWrap">
             <div id="utilityBar">
-                
-<ul id="userLanguage">
-	<li>
-		<span id="langArrow"></span>
-		<span class="flagIcon flag-en"></span>
-		English	</li>
-	<li>
-		<ul id="allLanguages" data-language-url="/en/language-url">
-						<li>
-				<a href="/cs/local/text/doc/zastita_privatnosti" data-lang="cs" class="languageChange ">
-					<span class="flagIcon flag-cs"></span>
-					Čeština				</a>
-			</li>
-						<li>
-				<a href="/de/local/text/doc/zastita_privatnosti" data-lang="de" class="languageChange ">
-					<span class="flagIcon flag-de"></span>
-					Deutsch				</a>
-			</li>
-						<li>
-				<a href="/en/local/text/doc/zastita_privatnosti" data-lang="en" class="languageChange selected">
-					<span class="flagIcon flag-en"></span>
-					English				</a>
-			</li>
-						<li>
-				<a href="/es/local/text/doc/zastita_privatnosti" data-lang="es" class="languageChange ">
-					<span class="flagIcon flag-es"></span>
-					Español				</a>
-			</li>
-						<li>
-				<a href="/fr/local/text/doc/zastita_privatnosti" data-lang="fr" class="languageChange ">
-					<span class="flagIcon flag-fr"></span>
-					Français				</a>
-			</li>
-						<li>
-				<a href="/hr/local/text/doc/zastita_privatnosti" data-lang="hr" class="languageChange ">
-					<span class="flagIcon flag-hr"></span>
-					Hrvatski				</a>
-			</li>
-						<li>
-				<a href="/it/local/text/doc/zastita_privatnosti" data-lang="it" class="languageChange ">
-					<span class="flagIcon flag-it"></span>
-					Italiano				</a>
-			</li>
-						<li>
-				<a href="/hu/local/text/doc/zastita_privatnosti" data-lang="hu" class="languageChange ">
-					<span class="flagIcon flag-hu"></span>
-					Magyar				</a>
-			</li>
-						<li>
-				<a href="/nl/local/text/doc/zastita_privatnosti" data-lang="nl" class="languageChange ">
-					<span class="flagIcon flag-nl"></span>
-					Nederlands				</a>
-			</li>
-						<li>
-				<a href="/pl/local/text/doc/zastita_privatnosti" data-lang="pl" class="languageChange ">
-					<span class="flagIcon flag-pl"></span>
-					Polski				</a>
-			</li>
-						<li>
-				<a href="/ro/local/text/doc/zastita_privatnosti" data-lang="ro" class="languageChange ">
-					<span class="flagIcon flag-ro"></span>
-					Română				</a>
-			</li>
-						<li>
-				<a href="/ru/local/text/doc/zastita_privatnosti" data-lang="ru" class="languageChange ">
-					<span class="flagIcon flag-ru"></span>
-					Русский				</a>
-			</li>
-						<li>
-				<a href="/sk/local/text/doc/zastita_privatnosti" data-lang="sk" class="languageChange ">
-					<span class="flagIcon flag-sk"></span>
-					Slovenčina				</a>
-			</li>
-						<li>
-				<a href="/sl/local/text/doc/zastita_privatnosti" data-lang="sl" class="languageChange ">
-					<span class="flagIcon flag-sl"></span>
-					Slovenščina				</a>
-			</li>
-					</ul>
-	</li>
+                <ul id="userLanguage">
+    <li>
+        <span id="langArrow"></span>
+        <span class="flagIcon tooltip flag-en" title="English"></span>
+    </li>
+    <li>
+        <ul id="allLanguages" data-language-url="/en/language-url">
+                        <li>
+                <a href="/cs/ochrana-osobnich-udaju" data-lang="cs" class="languageChange ">
+                    <span class="flagIcon flag-cs"></span>
+                    Čeština                </a>
+            </li>
+                        <li>
+                <a href="/de/datenschutzerklarung" data-lang="de" class="languageChange ">
+                    <span class="flagIcon flag-de"></span>
+                    Deutsch                </a>
+            </li>
+                        <li>
+                <a href="/en/privacy-policy" data-lang="en" class="languageChange selected">
+                    <span class="flagIcon flag-en"></span>
+                    English                </a>
+            </li>
+                        <li>
+                <a href="/es/privacy-policy" data-lang="es" class="languageChange ">
+                    <span class="flagIcon flag-es"></span>
+                    Español                </a>
+            </li>
+                        <li>
+                <a href="/fr/politique-de-confidentialite" data-lang="fr" class="languageChange ">
+                    <span class="flagIcon flag-fr"></span>
+                    Français                </a>
+            </li>
+                        <li>
+                <a href="/hr/zastita-privatnosti" data-lang="hr" class="languageChange ">
+                    <span class="flagIcon flag-hr"></span>
+                    Hrvatski                </a>
+            </li>
+                        <li>
+                <a href="/it/tutela-della-privacy" data-lang="it" class="languageChange ">
+                    <span class="flagIcon flag-it"></span>
+                    Italiano                </a>
+            </li>
+                        <li>
+                <a href="/hu/privacy-policy" data-lang="hu" class="languageChange ">
+                    <span class="flagIcon flag-hu"></span>
+                    Magyar                </a>
+            </li>
+                        <li>
+                <a href="/nl/privacy-policy" data-lang="nl" class="languageChange ">
+                    <span class="flagIcon flag-nl"></span>
+                    Nederlands                </a>
+            </li>
+                        <li>
+                <a href="/pl/ochrona-prywatnosci" data-lang="pl" class="languageChange ">
+                    <span class="flagIcon flag-pl"></span>
+                    Polski                </a>
+            </li>
+                        <li>
+                <a href="/ro/polita-de-taina" data-lang="ro" class="languageChange ">
+                    <span class="flagIcon flag-ro"></span>
+                    Română                </a>
+            </li>
+                        <li>
+                <a href="/ru/politika-konfidencialnosti" data-lang="ru" class="languageChange ">
+                    <span class="flagIcon flag-ru"></span>
+                    Русский                </a>
+            </li>
+                        <li>
+                <a href="/sk/ochrana-osobnych-udajov" data-lang="sk" class="languageChange ">
+                    <span class="flagIcon flag-sk"></span>
+                    Slovenčina                </a>
+            </li>
+                        <li>
+                <a href="/sl/zastita-privatnosti" data-lang="sl" class="languageChange ">
+                    <span class="flagIcon flag-sl"></span>
+                    Slovenščina                </a>
+            </li>
+                    </ul>
+    </li>
 </ul>
 
-<script type="text/javascript">
+<script>
 /* <![CDATA[ */
-	head(function() {
-		Ad.Menu.initLanguageSwitch();
-	});
+    $(function() {
+        Ad.Menu.initLanguageSwitch();
+    });
 /* ]]> */
-</script>                <div class="socialWrap clearfix">
-			<div class="socialSeperator"></div>
-	<a href="https://www.pinterest.com/adriatichr" class="tooltip iconPinterest" title="Pinterest" data-tracking-category="Društvene mreže" data-tracking-action="Pinterest" data-tracking-label="en" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/adriatic" class="tooltip iconLinkedin" title="LinkedIn" data-tracking-category="Društvene mreže" data-tracking-action="LinkedIn" data-tracking-label="en" target="_blank"></a>
-	<a href="https://plus.google.com/108077044475850718969" rel="publisher" class="tooltip iconGoogleplus" title="Google+" data-tracking-category="Društvene mreže" data-tracking-action="Google+" data-tracking-label="en" target="_blank"></a>
-	<a href="https://twitter.com/#!/Adriatic_hr" class="tooltip iconTwitter" title="Twitter" data-tracking-category="Društvene mreže" data-tracking-action="Twitter" data-tracking-label="en" target="_blank"></a>
-	<a href="https://www.facebook.com/pages/Adriatichr/49207247893" class="tooltip iconFacebook" title="Facebook" data-tracking-category="Društvene mreže" data-tracking-action="Facebook" data-tracking-label="en" target="_blank"></a>
-</div>
+</script>
                 <div class="utilityIcon" id="userSignInSignOut">
             <div class="relative fLeft">
-            <a class="utilityIconLink signIn" id="signIn" href="/en/login" title="Click here to sign in">
-                <span class="utilityTheIcon newUser"></span>
+            <a class="utilityIconLink signIn tooltip" id="signIn" href="/en/login" title="Click here to sign in">
+                <span class="newUser"></span>
                 <span class="inUtility">Sign in</span>
             </a>
         </div>
         <div class="relative fLeft">
-            <a class="utilityIconLink signUp" id="signUp" href="/en/apply" title="Click here to create new account">
+            <a class="utilityIconLink signUp tooltip" id="signUp" href="/en/apply" title="Click here to create new account">
                 <span class="inUtility">Register</span>
             </a>
         </div>
         <div class="clear"></div>
-    </div>                <div class="utilityIcon">
+    </div>
+                <div class="utilityIcon">
     <a class="utilityIconLink" href="/en/providersprivate/index">
         Homeowners    </a>
 </div>
-<div class="utilityIcon">
-    <a class="utilityIconLink" href="/en/favorites/show/type/1">
-        <span class="utilityTheIcon myFavHeart">
-            <span class="utilityNumber nShortlist" style="display:none">
+<div class="utilityIcon tooltip" title="Show my Short list">
+    <a href="/en/favorites/show">
+        <span class="moveToFavourites">
+            <span class="nShortlist">
                 0            </span>
         </span>Shortlist    </a>
 </div>
-<div class="utilityIcon">
-    <a class="utilityIconLink" href="/en/compare/show">
-        <span class="utilityTheIcon compareIt">
-            <span class="utilityNumber nCompare" style="display:none">
+<div class="utilityIcon tooltip" title="Show the Compare list">
+    <a href="/en/compare/show">
+        <span class="moveToCompare">
+            <span class="nCompare">
                 0            </span>
         </span>Compare    </a>
 </div>
 <div class="utilityIcon">
     
 
-<a class="utilityIconLink" href="/chat/client.php?locale=en&amp;group=0" target="_blank" onclick="if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('/chat/client.php?locale=en&amp;group=0&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'mibew', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;return false;">
-    <span class="utilityTheIcon liveChat"></span>Live Chat    </a>
 
-</div>            </div>
+<a class="liveChatIcon utilityIconLink" href="/chat/client.php?locale=en&amp;group=0" target="_blank" onclick="if (navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('/chat/client.php?locale=en&amp;group=0&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'mibew', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;return false;">
+    Live Chat    </a>
+
+</div>
+            </div>
         </div>
 
         <header id="serviceHeader" class="clearfix">
-            <div class="serviceHeaderSeparator"></div>
             <div id="serviceHeaderWrap">
                 <div itemscope="" itemtype="https://schema.org/TravelAgency">
-    <a href="http://www.adriatic.hr/en" id="logo" class="pjaxLink pjaxBack pjaxHome">
-        <img itemprop="logo" src="http://static.adriatic.hr/images/logos/logo-adriatic.hr-en.png" alt="Adriatic.hr - The Shortest Way to the Adriatic">
+    <a href="https://www.adriatic.hr/en" id="logo" class="pjaxLink pjaxBack pjaxHome">
+        <img itemprop="logo" src="https://static.adriatic.hr/images/logos/logo-adriatic.hr-en.svg" alt="Adriatic.hr - The Shortest Way to the Adriatic">
         <h6 itemprop="name">Adriatic.hr</h6>
     </a>
-    <meta itemprop="image" content="http://static.adriatic.hr/images/about/agency/buildingFinalPhoto_large.jpg">
-    <meta itemprop="url" content="http://www.adriatic.hr/en/about">
+    <meta itemprop="image" content="https://static.adriatic.hr/images/about/agency/buildingFinalPhoto_large.jpg">
+    <meta itemprop="url" content="https://www.adriatic.hr/en/about">
     <meta itemprop="telephone" content="385 21 456 456">
     <meta itemprop="faxNumber" content="+385 21 456 789">
     <meta itemprop="email" content="info@adriatic.hr">
-    <meta itemprop="sameAs" content="https://www.facebook.com/Adriatic.hr/">
-    <meta itemprop="sameAs" content="https://plus.google.com/+adriatichr/posts">
-    <meta itemprop="sameAs" content="https://www.instagram.com/adriatic_hr/">
+    <meta itemprop="sameAs" content="https://on.fb.me/AdriaticHr">
+    <meta itemprop="sameAs" content="https://twitter.com/Adriatic_hr">
+    <meta itemprop="sameAs" content="https://www.pinterest.com/adriatichr">
+    <meta itemprop="sameAs" content="https://www.instagram.com/adriatic_hr">
     <meta itemprop="sameAs" content="https://www.linkedin.com/company/adriatic.hr">
-    <meta itemprop="sameAs" content="http://m.adriatic.hr">
 
     <span itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
         <meta itemprop="streetAddress" content="Poljička cesta 26">
@@ -271,66 +397,55 @@ fbq('track', 'PageView');
         <meta itemprop="addressCountry" content="Croatia">
     </span>
 
-        <meta itemprop="openingHours" content="Mo-Fr 08:00-20:00">
-
-            <meta itemprop="openingHours" content="Sa 08:00-20:00">
-    
-            <meta itemprop="openingHours" content="Su 08:00-20:00">
-    
     <span itemprop="location" itemscope="" itemtype="https://schema.org/Place">
         <span itemprop="geo" itemscope="" itemtype="https://schema.org/GeoCoordinates">
             <meta itemprop="latitude" content="43.505788">
             <meta itemprop="longitude" content="16.460522">
         </span>
     </span>
+
     <div id="contactBanner">
         <div class="bannerSegment">
-            <div class="bannerIcon whitePhoneIcon">Contact phone</div>
-            <div class="vSeparator">
-                <div class="bannerInfo">
-                                                                                                                <span class="contactLabel">United Kingdom</span><br>
-                                                            <span class="contactInfo" itemprop="telephone">0800 048 8079</span><br>
-                                                                                                                                                <div id="weSpeakYourLanguageDiv">
-                            We speak English                        </div>
-                                    </div>
-            </div>
+            <div class="bannerIcon whitePhoneIcon"></div>
+            <div class="bannerInfo">
+                                                                                            <span class="contactLabel">United Kingdom</span><br>
+                                                    <span class="contactInfo" itemprop="telephone">0800 048 8079</span><br>
+                                                                                                                </div>
         </div>
 
-        <div class="bannerSegment">
-            <div class="bannerIcon whiteClockIcon">Business hours</div>
-            <div class="vSeparator">
-                <div class="bannerInfo">
-                                                                <span class="contactLabel">
-                            Mon - Sat                        </span>
-                        <br>
-                        <span class="contactInfo">
-                            <span>08:00</span>h
-                            -
-                            <span>20:00</span>h
-                        </span>
-                        <br>
-                        <span class="contactLabel" content="Sunday">
-                            Sun                        </span>
-                        <br>
-                        <span class="contactInfo">
-                            <span>08:00</span>h
-                            -
-                            <span>20:00</span>h
-                        </span>
-                                    </div>
+        
+<div class="bannerSegment">
+            <meta itemprop="openingHours" content="Mon-Fri 08:00-22:00">
+    
+            <meta itemprop="openingHours" content="Sat 08:00-22:00">
+    
+            <meta itemprop="openingHours" content="Sun 08:00-22:00">
+    
+    <div class="bannerIcon whiteClockIcon"></div>
+    <div class="bannerInfo">
+                    <span class="contactLabel">Mon - Sat</span>
+            <br>
+            <span class="contactInfo">
+                <span>08:00</span>h - <span>22:00</span>h
+            </span>
+        
+                    <br>
+            <span class="contactLabel" content="Sunday">Sun</span>
+            <br>
+            <span class="contactInfo">
+                <span>08:00</span>h - <span>22:00</span>h
+            </span>
             </div>
-        </div>
+</div>
 
         <div class="bannerSegment">
-            <div class="bannerIcon whiteAdriaticIcon">Adriatic.hr</div>
-            <div class="vSeparator">
-                <div class="bannerInfo">
-                    <a href="/en/about">About us</a><br>
-                    <a href="/en/contact">Contact</a><br>
-                    <a href="/en/guestbook">Guestbook</a><br>
-                    <a href="/en/business">Partners</a><br>
-                    <a href="/en/providersprivate/index">Homeowners</a>                </div>
-            </div>
+            <div class="bannerIcon whiteBusinessIcon"></div>
+            <div class="bannerInfo">
+                <a href="/en/about">About us</a><br>
+                <a href="/en/contact">Contact</a><br>
+                <a href="/en/guestbook">Guestbook</a><br>
+                <a href="/en/business">Partners</a><br>
+                <a href="https://iznajmljivanje.adriatic.hr/adriatic-hr-suradnja/besplatno-oglasite-smjestaj/">Homeowners</a>            </div>
         </div>
     </div>
     <div class="clear"></div>
@@ -343,13 +458,11 @@ fbq('track', 'PageView');
             <a href="/en" id="homepageTab" class="menuTitle homepageTab pjaxLink pjaxBack pjaxHome">
                 <span class="homepageIcon">Home</span>
             </a>
-            <span class="separator">&nbsp;</span>
         </li>
                                                                             
 <li>
     <a class="menuTitle" id="privatepageTab" href="javascript:;">
 Private accommodation</a>
-    <span class="separator">&nbsp;</span>
     <div class="submenu tab1" id="privatepageMenu">
                                                                                         
                                     <div class="menuColumn">
@@ -411,52 +524,52 @@ Private accommodation</a>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/brac">
-								Brač (474)							</a>
+								Brač (541)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/kvarner/crikvenica">
-								Crikvenica (285)							</a>
+								Crikvenica (297)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/dubrovnik">
-								Dubrovnik (397)							</a>
-						</li>
-											<li>
-							<span class="destIcon"></span>
-							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/dugi-otok">
-								Dugi otok (249)							</a>
+								Dubrovnik (266)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/hvar">
-								Hvar (819)							</a>
+								Hvar (823)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/korcula">
-								Korčula (672)							</a>
+								Korčula (627)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/kvarner/krk">
-								Krk (295)							</a>
+								Krk (342)							</a>
+						</li>
+											<li>
+							<span class="destIcon"></span>
+							<a class="pjaxLink pjaxMenu" href="/en/accommodation/kvarner/losinj">
+								Lošinj (282)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/makarska">
-								Makarska (1203)							</a>
+								Makarska (1344)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/omis">
-								Omiš (787)							</a>
+								Omiš (810)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/kvarner/opatija">
-								Opatija (305)							</a>
+								Opatija (260)							</a>
 						</li>
 									</ul>
 			</li>
@@ -471,52 +584,52 @@ Private accommodation</a>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/kvarner/pag">
-								Pag (1264)							</a>
+								Pag (1510)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/pasman">
-								Pašman (272)							</a>
+								Pašman (298)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/peljesac">
-								Pelješac (689)							</a>
+								Pelješac (737)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/kvarner/rab">
-								Rab (392)							</a>
+								Rab (509)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/rogoznica">
-								Rogoznica (280)							</a>
+								Rogoznica (323)							</a>
+						</li>
+											<li>
+							<span class="destIcon"></span>
+							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/split">
+								Split (264)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/trogir">
-								Trogir (344)							</a>
+								Trogir (448)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/ugljan">
-								Ugljan (332)							</a>
-						</li>
-											<li>
-							<span class="destIcon"></span>
-							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/vis">
-								Vis (249)							</a>
+								Ugljan (298)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/zadar">
-								Zadar (681)							</a>
+								Zadar (729)							</a>
 						</li>
 											<li>
 							<span class="destIcon"></span>
 							<a class="pjaxLink pjaxMenu" href="/en/accommodation/dalmatia/ciovo">
-								Čiovo (519)							</a>
+								Čiovo (532)							</a>
 						</li>
 									</ul>
 			</li>
@@ -535,15 +648,11 @@ Private accommodation</a>
                             Low Price                        </a>
                     </li>
                                                                                 <li>
-                        <a class="pjaxLink pjaxMenu" href="/en/best-buy">
-                            Best Buy                        </a>
-                    </li>
-                                                                                <li>
-                        <a class="pjaxLink pjaxMenu" href="/en/private-accommodation/croatia?dc_t=special%7Criviera">
+                        <a class="pjaxLink pjaxMenu" href="/en/special-discount">
                             Special discount                        </a>
                     </li>
                                                                                 <li>
-                        <a class="pjaxLink pjaxMenu" href="/en/last-minute/holiday-rentals">
+                        <a class="pjaxLink pjaxMenu" href="/en/last-minute">
                             Last Minute                        </a>
                     </li>
                                                                                 <li>
@@ -582,38 +691,37 @@ Private accommodation</a>
                                                                 
                                     <li>
     <a class="menuTitle" href="javascript:;">Hotels</a>
-    <span class="separator">&nbsp;</span>
     <div class="submenu tab2">
         <div class="menuColumn">
             <ul>
                                     <li>
                         <a href="/en/hotels">Croatia Hotels</a>
                                                     <ul>
-                                                                    <li><a href="/en/hotels?features=forfamilies">Hotels for families</a></li>
-                                                                    <li><a href="/en/hotels?features=economic">Hotels at affordable prices</a></li>
+                                                                    <li><a href="/en/hotels?forfamilies=1">Hotels for families</a></li>
+                                                                    <li><a href="/en/hotels?economic=1">Hotels at affordable prices</a></li>
                                                                     <li><a href="/en/hotels?category=5">Five star hotels</a></li>
-                                                                    <li><a href="/en/hotels?features=allinclusive">All inclusive hotels</a></li>
+                                                                    <li><a href="/en/hotels?allinclusive=1">All inclusive hotels</a></li>
                                                                     <li><a href="/en/resorts">Vacation villages</a></li>
                                                             </ul>
                                             </li>
                             </ul>
         </div>
         <div class="menuColumn borderLeft fRight">
-            <a class="noPadding" href="/en/private-accommodation/croatia?category=family_owned_hotel">
+            <a class="noPadding" href="/en/hotels">
                 <span class="menuBannerImg">
-                    <img src="http://static.adriatic.hr/images/menu/hotels.jpg" alt="Small family-run hotels">
+                    <img src="https://static.adriatic.hr/images/menu/hotels-first-minute.jpg" alt="Hotels">
                 </span>
-                <span class="menuBannerTitle">Small family-run hotels</span>
+                <span class="menuBannerTitle">Hotels</span>
             </a>
         </div>
     </div>
-</li>                
+</li>
+                
                 
                                                                 
                 
                                     <li>
     <a class="menuTitle" href="javascript:;">Other services</a>
-    <span class="separator">&nbsp;</span>
     <div class="submenu tab3">
         <div class="menuColumn">
             <ul>
@@ -629,16 +737,12 @@ Private accommodation</a>
                                                                     <li><a href="/en/motor-boats">Motor boats</a></li>
                                                             </ul>
                                             </li>
-                                    <li>
-                        <a href="/en/rentacar">Rent-a-car</a>
-
-                                            </li>
                             </ul>
         </div>
         <div class="menuColumn borderLeft fRight">
             <a class="noPadding" href="/en/lighthouses">
                 <span class="menuBannerImg">
-                    <img src="http://static.adriatic.hr/images/naslovnica/lighthouse.jpg" alt="Lighthouses">
+                    <img src="https://static.adriatic.hr/images/naslovnica/lighthouse.jpg" alt="Lighthouses">
                 </span>
                 <span class="menuBannerTitle">Lighthouses</span>
             </a>
@@ -649,7 +753,8 @@ Private accommodation</a>
                                                                 
                 
                 
-                                    <li><a class="menuTitle" href="javascript:;">Croatia</a><span class="separator">&nbsp;</span>
+                                    <li>
+    <a class="menuTitle" href="javascript:;">Croatia</a>
     <div class="submenu tab4" id="menuCroatia">
         <div class="menuColumn">
             <ul>
@@ -661,19 +766,19 @@ Private accommodation</a>
                                                                                                                                                 <li><a href="/en/guide/islands/lo-3">Islands</a></li>
                                                                                                                                                 <li><a href="/en/guide/national-parks/lo-4">National Parks</a></li>
                                                                                                                                                 <li><a href="/en/guide/coves/lo-11">Coves</a></li>
-                                                                                                                                                <li><a href="/en/guide/about-croatia-beaches/140">Beaches</a></li>
+                                                                                                                                                <li><a href="/en/guide/beaches-in-croatia/lo-140">Beaches</a></li>
                                                                                                 </ul>
                                                                     </li>
                                                                                                             <li><a href="/en/blog">Blog</a>
                                                                                                                 </li>
                                                                                                             <li><a href="/en/wallpapers">Wallpapers</a>
                                                                                                                 </li>
-                                                                                                            <li><a href="/en/ecards/list">E-cards</a>
-                                                                                                                </li>
                                                                                                                                             <li>
                                     <a href="/en/croatia-visa">Visas for Croatia                                        <span class="menuNewFeature">i</span>
                                     </a>
                                                                                                                                             </li>
+                                                                                                            <li><a href="/en/e-book">E-book</a>
+                                                                                                                </li>
                                                 </ul>
         </div>
         <div class="menuColumn borderLeft fRight" id="menuImgWrap">
@@ -681,10 +786,9 @@ Private accommodation</a>
         </div>
     </div>
 </li>
-<script type="text/javascript">
-/* <![CDATA[ */
-    head(function(){
-        var guides = [{"title":" Cres island \n","image":"https:\/\/s3-eu-west-1.amazonaws.com\/vacation-croatia\/data\/regije\/Kvarner\/rivijere\/Cres\/sl_1.jpg","url":"\/en\/guide\/kvarner-island-cres\/ri-31"},{"title":"Pore\u010d Riviera\n","image":"https:\/\/vacation-croatia.s3.amazonaws.com\/data\/regije\/Istra\/rivijere\/Porec\/sl_1.jpg","url":"\/en\/guide\/istria-riviera-porec\/ri-52"},{"title":"Ugljan island\n","image":"https:\/\/s3-eu-west-1.amazonaws.com\/vacation-croatia\/data\/regije\/Sjeverna%20Dalmacija\/rivijere\/Ugljan\/sl_1.jpg","url":"\/en\/guide\/dalmatia-island-ugljan\/ri-28"},{"title":"Bra\u010d island\n","image":"https:\/\/vacation-croatia.s3-eu-west-1.amazonaws.com\/data\/regije\/Srednja%20Dalmacija\/rivijere\/Brac\/sl_1.jpg","url":"\/en\/guide\/dalmatia-island-brac\/ri-5"},{"title":"Bra\u010d island\n","image":"https:\/\/vacation-croatia.s3-eu-west-1.amazonaws.com\/data\/regije\/Srednja%20Dalmacija\/rivijere\/Brac\/sl_1.jpg","url":"\/en\/guide\/dalmatia-island-brac\/ri-5"},{"title":"Bra\u010d island\n","image":"https:\/\/vacation-croatia.s3-eu-west-1.amazonaws.com\/data\/regije\/Srednja%20Dalmacija\/rivijere\/Brac\/sl_1.jpg","url":"\/en\/guide\/dalmatia-island-brac\/ri-5"},{"title":"Dugi Otok island\n","image":"https:\/\/vacation-croatia.s3.amazonaws.com\/data\/regije\/Sjeverna%20Dalmacija\/rivijere\/Dugi%20otok\/sl_1.jpg","url":"\/en\/guide\/dalmatia-island-dugi-otok\/ri-40"},{"title":" Cres island \n","image":"https:\/\/s3-eu-west-1.amazonaws.com\/vacation-croatia\/data\/regije\/Kvarner\/rivijere\/Cres\/sl_1.jpg","url":"\/en\/guide\/kvarner-island-cres\/ri-31"}],
+<script>
+    $(function () {
+        var guides = [{"title":"Trogir Riviera\n","image":"https:\/\/i.croatiaimages.com\/rivieras\/6\/central-dalmatia-trogir-croatia-1-720x480.jpg","url":"\/en\/guide\/dalmatia-riviera-trogir\/ri-6"},{"title":"Umag Riviera\n","image":"https:\/\/i.croatiaimages.com\/rivieras\/66\/istria-umag-croatia-1-720x480.jpg","url":"\/en\/guide\/istria-riviera-umag\/ri-66"},{"title":" Labin Riviera\n","image":"https:\/\/i.croatiaimages.com\/rivieras\/54\/istria-labin-croatia-1-720x480.jpg","url":"\/en\/guide\/istria-riviera-labin\/ri-54"},{"title":"Hvar island\n","image":"https:\/\/i.croatiaimages.com\/rivieras\/17\/central-dalmatia-island-hvar-croatia-1-720x480.jpg","url":"\/en\/guide\/dalmatia-island-hvar\/ri-17"},{"title":"Bra\u010d island\n","image":"https:\/\/i.croatiaimages.com\/rivieras\/5\/central-dalmatia-island-brac-croatia-1-720x480.jpg","url":"\/en\/guide\/dalmatia-island-brac\/ri-5"},{"title":"Hvar island\n","image":"https:\/\/i.croatiaimages.com\/rivieras\/17\/central-dalmatia-island-hvar-croatia-1-720x480.jpg","url":"\/en\/guide\/dalmatia-island-hvar\/ri-17"},{"title":"Central Istria Riviera\n","image":"https:\/\/i.croatiaimages.com\/rivieras\/78\/istria-central-istria-croatia-1-720x480.jpg","url":"\/en\/guide\/istria-riviera-central-istria\/ri-78"},{"title":"Lika and Gorski kotar\n","image":"https:\/\/i.croatiaimages.com\/rivieras\/90\/lika-and-gorski-kotar-gorski-kotar-croatia-1-720x480.jpg","url":"\/en\/guide\/lika-and-gorski-kotar\/re-8"}],
             guide = guides[Math.floor(Math.random()*guides.length)];
 
         if (guide) {
@@ -698,220 +802,306 @@ Private accommodation</a>
             $('#menuCroatia').css('width', '235px').find('#menuImgWrap').hide();
         }
     });
-/* ]]> */
-</script>                                                                                                    </ul>
+</script>
+                                                                                                                        </ul>
 </nav>                    <div class="clear"></div>
-                
-            </div>
+                            </div>
         </header>
         <main id="serviceWrapper">
-                                            <script type="text/javascript">
-                /* <![CDATA[ */
-                    head(function() {
+                                            <script>
+                    $(function () {
                         Ad.Menu.highlightActive('Useful Info');
                     });
-                /* ]]> */
                 </script>
-                        <div id="contentWrap">
-                                                    
-                <div id="serviceContent" class="clearfix">
-                    
+            
+            <div id="contentWrap">
+                                
+                <div id="serviceContent" class="clearfix ">
+                                        
                     
 <div id="pjaxFragment" data-title="Zaštita privatnosti - Adriatic.hr">
-	<div id="presentationOpacity"><span id="presentationLoader"></span></div>
-	<div id="pjaxHolder">
-					
-	
-				
+    <div id="presentationOpacity"><span id="presentationLoader"></span></div>
+    <div id="pjaxHolder">
+                    
+    
+                
 
 <div id="contentTitleBar">
-	
-<script type="text/javascript">
-/* <![CDATA[ */
+    
+<script>
+    var content = ''+
+                            ' <li> ' +
+            '<a class="printer tooltip" onclick="window.print();" title="Print" href="javascript:;">Print</a>  '+
+        ' </li> '+
+                '';
 
-		window.___gcfg = {
-			lang: 'en'
-		};
+    var scriptElem = document.createElement('script');
 
-		(function() {
-			var po = document.createElement('script'); 
-			po.type = 'text/javascript'; 
-			po.async = true;
-			po.src = 'https://apis.google.com/js/plusone.js';
-			var s = document.getElementsByTagName('script')[0]; 
-			s.parentNode.insertBefore(po, s);
-		})();
-		var content = ''+
-		 
-		 
-		 
-									' <li> ' +
-				'<a class="printer tooltip" onclick="window.print();" title="Print" href="javascript:;">Print</a>  '+
-			' </li> '+
-								'';
-	
-	head(function(){
-		$('.contentIcons').html(content);
-	});
-/* ]]> */
+    $(function() {
+        document.getElementsByClassName("contentIcons").innerHTML = content;
+    });
 </script>
 
 <ul class="contentIcons">
 </ul>
-	<h1 class="pageTitle">Privacy Policy</h1>
-</div>				<div id="leftContent">
-			<div class="localText">
-												Privacy statement serves us for protection of privacy of our users. You can 
-look at Adriatic.hr pages for free, without any commitment of revealing your 
-identity or leaving any kind of your private data. In case that you decide to 
-use our services, it's necessary to leave us your personal data, so that we 
-could complete your reservation and to lease asked service. Your personal data 
-remains protected. We assure you that we are collecting only information that we 
-need to complete our procedure of reservation of our service. In that process we 
-are using only information that we receive directly from you.<br>
+    <h1 class="pageTitle">
+        Privacy Policy    </h1>
+</div>
+                <div id="leftContent" class="txt privacyTxt">
+            <div class="localText">
+                                                <p>Adriatic.hr d.o.o., tourist agency, Poljička cesta 26, 21000 Split, Croatia, <a href="https://www.adriatic.hr">www.adriatic.hr</a>, <a href="mailto:info@adriatic.hr?subject=Info%20concern">info@adriatic.hr</a> (below: Adriatic.hr) respects the privacy and rights of the users of its website. Our obligations, defined by regulations about personal data protection, are dealt with very seriously. Therefore, we have compiled this document, as to describe the ways in which we use and process personal data.</p>
+
+<p>With this communication, we wish to explain to all our users the ways we handle the personal data we collect: which data is saved, for how long, and in which way they are used. Here you may also find out more about how to contact us in case you have questions regarding your personal data.</p>
+<p>Adriatic.hr offers services of online booking of accommodation through its own website, as well as through other online service providers and social networks. The following information are related to all the platforms listed above.</p>
+
+<h2>Which personal data are collected by Adriatic.hr and how are they used?</h2>
+
+<strong>Visit to our website:</strong>
+<dl>
+<dt>Which personal data are collected?</dt>
+<dd>
+By coming to our website, our web server automatically collects information about your computer's IP address, the type of web browser, domain name, time of access, address of the website you came from and information about the pages you visited on our website and actions you made during your browsing on our website. Certain data (but not personal data) are also saved in cookies in your web browser. More details will be given in the text that follows.
+</dd>
+
+<dt>What are they used for?</dt>
+<dd>
+The data collected by our web server are automatically used and accumulated for statistical purposes on website usage, all to the scope of improving the quality of our website. We would like to point out that our web server does not collect your e-mail address or any other information which might identify you.
+</dd>
+
+<dt>For how long are they saved and with whom are they shared?</dt>
+<dd>
+The collected information are automatically deleted in a short time period and are not shared.
+</dd>
+</dl>
+
+<strong>Booking of accommodation:</strong>
+<dl>
+<dt>Which personal data are collected?</dt>
+<dd>
+The personal data collected from you during the booking process or registration on our website are your name and surname, country, phone number and e-mail address.
 <br>
-Here we would like to try to explain our reasons for collecting information, the 
-way of processing them and the level of protection of your personally 
-identifiable information.<br>
 <br>
-<b>Collecting information about you</b>
+In some special circumstances, we might ask you to provide additional information, depending on the terms and conditions of the service provider. These are exclusively information needed by the service provider in order for the service to be delivered in the best possible way.
+</dd>
+
+<dt>What are they used for?</dt>
+<dd>
+In order to provide you with the high quality service you ordered, it is necessary that you are informed in a timely manner about all actions and activities related to that service. In doing so, we contact you by phone only if we assess that it is in your best interest that the information reaches you as soon as possible, and we send all other information related to your inquiry or booking by e-mail: payment instructions, reminders, voucher, invoice, instructions on arriving to your destination... In doing so, no promotional or marketing notifications come to your e-mail address, unless you had explicitly requested so during the registration process.
+</dd>
+
+<dt>With whom are they shared?</dt>
+<dd>
+Data of the users of our booking services are shared exclusively with the service provider. In doing so, we only share the data necessary for fulfilling of the obligation originating from accommodation service providing.
+</dd>
+
+<dt>For how long are they saved?</dt>
+<dd>
+If you have become our user exclusively for the purpose of using one of our services, your data will be saved for the needs of administrative / accounting processing of your booking, maximum 6 months after the end of your stay.
+</dd>
+</dl>
+
+<strong>Payment:</strong>
+<dl>
+<dt>Which personal data are collected?</dt>
+<dd>
+If you choose to pay for one of our services by credit card on our website (not mandatory), you will be asked to provide your credit card information. In case you make the payment in another way, you will be asked to provide us with the confirmation of the payment.
+</dd>
+
+<dt>What are they used for and with whom are they shared?</dt>
+<dd>
+In order to make the payment and confirm the booking of your service to the service provider. Information about the credit cards you had inserted during payment process are given directly to our provider of online credit card charge services.
+<br>
+<br>
+In case you are entitled to a refund for your booking of accommodation, we must share certain information about your booking with charge service provider and the financial institution in charge of the refund. This may include the copy of your booking confirmation or IP address used for the booking. In case it becomes inevitable for discovering or preventing fraud attempts, these information may be shared with associated financial institutions.
+</dd>
+
+
+<dt>For how long are they saved?</dt>
+<dd>
+Your credit card information are never saved, we forward them directly to our provider of online credit card charge services for further processing. The provider of online credit card charge services saves them in accordance with credit card payment regulations.
+</dd>
+</dl>
+
+<strong>Recommend a friend:</strong>
+<dl>
+<dt>Which personal data are collected?</dt>
+<dd>
+Once you choose to send your friends instructions about the usage of recommendation discount through our website, you will be asked to provide the e-mail addresses of your friends.
+</dd>
+
+<dt>What are they used for, for how long are they saved and with whom are they shared?</dt>
+<dd>
+E-mail addresses inserted to send recommendation discount to your friends are used one time only in order to send instructions for the usage of the discount to these addresses. The same e-mail will be sent to your e-mail address. E-mail addresses of your friends are not saved anywhere and are not shared.
+</dd>
+</dl>
+
+<strong>Guestbook:</strong>
+<dl>
+<dt>Which personal data are collected and with whom are they shared?</dt>
+<dd>
+In case you want to leave a comment in our <i>Guestbook</i>, you will have to list your name, surname and e-mail address. Everything you insert in the comment section of the <i>Guestbook</i> will be published on our website. If you have chosen the anonymous mode in the <i>Guestbook</i>, your personal data will not be visible to the visitors of our website, and you will be contacted by e-mail in case you have reported a problem. If you have not chosen the anonymous mode, your name and surname will be published along with your comment on our website. We retain the right to not publish inappropriate content or entry from a nonexistent e-mail address.
+</dd>
+
+<dt>What are they used for and for how long are they saved?</dt>
+<dd>
+To the purpose of positioning, justification of credibility and promotion of services provided by Adriatic.hr, we want to enable access to positive and negative experiences of our guests with the Agency to other visitors. Your comments are saved for 10 years since entry date. After the expiration of this time period they are anonymized (we no longer show your name).
+</dd>
+</dl>
+
+<strong>Accommodation rating:</strong>
+<dl>
+<dt>Which personal data are collected and with whom are they shared?</dt>
+<dd>
+Everything you insert in the comment section of the accommodation you stayed at will be published on all our websites and our partners' websites. In case you have selected the anonymous mode for <i>Accommodation rating</i>, your personal data will not be visible on the website, only the comment will be. In case you have not selected the anonymous mode, your name and surname (provided to us during booking process) will be published along with your comment on all our websites and our partners' websites. We retain the right to not publish inappropriate content or entry from a nonexistent e-mail address.
+</dd>
+
+<dt>What are they used for and for how long are they saved?</dt>
+<dd>
+Guests' comments are one of the constituent sales elements of online business. Guests' comments are collected in order to provide our potential guests with an insight into positive and negative characteristics of the service they might want to acquire. Accommodation ratings are saved at longest for 10 years since entry date. After the expiration of this time period they are anonymized (we no longer show your name).
+</dd>
+</dl>
+
+<strong id="newsletter-data">Adriatic.hr newsletters:</strong>
+<dl>
+<dt>Which personal data are collected?</dt>
+<dd>
+In case you have given us your consent to receive notifications about our promotional activities, you will share your e-mail address with us. In the process, we also save information about the language you used to browse through our web pages, in order to send you our newsletter on a language you understand. You may withdraw your consent by <a href="https://www.adriatic.hr/en/newsletter/unsubscribe">unsubscribing</a> from the recipients list.
+</dd>
+
+<dt>What are they used for?</dt>
+<dd>
+In order for us to inform you, from time to time, about changes in our offer, special opportunities and promotional actions, enabling you to always be on track with all novelties.
+</dd>
+
+<dt>For how long are they saved and with whom are they shared?</dt>
+<dd>
+Your e-mail address is deleted at the moment you unsubscribe from our recipients list. If you have given us that same address for some other reason, it will not be deleted, but your consent for receiving promotional messages will be removed. Your e-mail address is not shared.
+</dd>
+</dl>
+
+<strong>Registered users (property owners, business partners, guests and others):</strong>
+<dl>
+<dt>Which personal data are collected?</dt>
+<dd>
+At the moment you register on our website, you choose to be a user of all advantages of Adriatic.hr advantage club (loyalty discount for every new booking, recommendation discount, visa cost refund, fuel cost refund, highway toll reimbursement and so on). In doing so, you will provide us with your name and surname, phone number and e-mail address, as well as a password you will later use to log in.
+<br>
+<br>
+In case you wish to do further business with us, whether by advertising your accommodation on our website or to sell our accommodation units on your website, you will be asked to provide all information necessary to compile a Contract.
+</dd>
+
+<dt>What are they used for and for how long are they saved?</dt>
+<dd>
+Your personal data are used in order to provide you with the service you requested. E-mails you receive from us may be related to notifications about the status of your user account or the requested service. In doing so, we do not send you any promotional messages, unless you choose to receive them.
+<br>
+<br>
+In case you have chosen to be our property owner, affiliate partner or sub-agent, your data will be used to contact you in relation to cooperation agreements and and contract stipulation. All further matters will be regulated by Cooperation agreement.
+<br>
+<br>
+Our registered users' data are saved for 10 years since your last access to our website or 10 years since the end of your last booking.
+</dd>
+</dl>
+
+<p>None of the collected data will be used for purposes not listed in this document.</p>
+
+
+<strong>Other:</strong>
+<p>Tourist agency "Adriatic.hr" may disclose personal data outside of the above listed only in cases prescribed by law or judicial decision, i.e. in case a need appears to protect the rights and property of its own website, or the need to protect personal safety of the users or general public.</p>
+
+<p>We would like to stress that, being subject to several legal regulations, we have the obligation to save certain information in the form, on the way, and during the time period not defined by this document.</p>
+
+<h2>In what way does Adriatic.hr ensure the security of collected data?</h2>
+<p>Adriatic.hr pays close attention to this statement and considers that the credibility of its operation depends also on the correspondence between the Agency's activities and actions with this document. Therefore, Adriatic.hr takes special care about the security of collected users' data, as well as to protection against loss, modification, unauthorized disclosure and any form of data abuse. Questionnaire compiling, mail contact forms, booking requests... are all surveilled and highly protected processes.</p>
+
+<p>Adriatic.hr computer system is designed and uses software which disable every unauthorized access to your data. Our web server is additionally protected from unauthorized accesses (physical or electronic). Your personal data is stored on computers with limited and crypted access.</p>
+
+<h2>Use of cookies</h2>
+<p>A cookie is a text file which, during your first visit to our website, your web browser saves on your computer, enabling faster loading of websites visited previously. Cookies do not contain personal data, but it helps us to provide you with special services while browsing through our website.</p>
+
+<p>One of the main advantages of cookies is time saving and an easier view of websites, since a cookie tells your web browser that you have returned to a previously loaded website. Statistical information about visits to certain information are created through cookies, hence their great importance in recognizing the users' wishes, therefore enabling us to adjust the course of development of both our offer and our website.</p>
+
+<p>Cookies are also used for Google Analytics, a service for website analysis owned by Google Inc., as well as to marketing purposes in which we give our visitors outside of Adriatic.hr website information of their potential interest, in the form of Google ads.</p>
+
+<p>Cookie is an option offered to you by your web browser. Most web browsers are adjusted as to automatically accept cookies, but if you wish, you can change the settings of your web browser as to reject cookies, or change Google settings on this <a href="https://adssettings.google.com/u/0/authenticated">website</a>.</p>
+
+<h2>How can you manage personal data you provided us with?</h2>
+<p>We would like to stress that you may excercize the rights defined by regulations on personal data protection, some of which are listed here:</p>
+
 <ul>
-  <li>Tourist agency "Adriatic.hr" collects information about your identity and 
-  the other personally identifiable information only in case that you decide to 
-  use the service from our offer after which you will have to pay advance for 
-  the service.</li>
-  <li>In case that you decide to leave your personal information in our "Guest 
-  book", your data will become public and other persons will be able to access 
-  the information you have left while signing our "Guest book". In that case, 
-  Adriatic.hr is not responsible for any misuse of your data.</li>
-  <li>When you visit Adriatic.hr site, our Web server automatically collects 
-  information about IP address of your computer, type of your browser, name of 
-  your domain, time of your access, Web page address from which you are coming 
-  from and all the information about the pages you have visit on our site. That 
-  data we use for running our statistics about the use of pages, so that we 
-  could improve the quality of our site. <br>
-  We are pointing out that our Web server does not collect your E-mail address 
-  or any other information which could be personally identifiable.</li>
-  <li>When you visit our pages you can complete our survey, which we are using 
-  to develop design of our pages using your answers. Completing surveys is 
-  optional, so you are completing them with your free will. You don't have to 
-  answer the asked questions, and all the data you have left is remaining 
-  secret. Only when we want to analyze our survey we are giving group results of 
-  survey to the third parties.</li>
-  <li>Occasionally we organize games and contests on our Web pages. Their rules 
-  are available on our site while the game or contest is on. When you are 
-  signing-in for the contest, you are automatically agreeing with published 
-  rules of that contest. We want to point out that one of the rules of the games 
-  or contests is a publication of the name of the winner, even without asking 
-  for her or his permission.</li>
+<li>
+<strong>I want to be informed</strong> - We hope that this document has brought some light onto information about which personal data are collected, to which purposes are they used, for how long they are saved, and so on. In case you might need any additional information, feel free to send us an inquiry to the contact address listed below.
+</li>
+
+<li>
+<strong>Which information do I have access to</strong> – If you are our registered user, you can access your user account and see which information you have given us in the registration form. An insight into the possible information we have, and which are not part of the user account, may be given to you by sending an inquiry to the address listed below.
+</li>
+
+<li>
+<strong>I want to change my personal information</strong> – You are free to edit your user account anytime, and possible information unrelated to your user account may be changed if you contact us.
+</li>
+
+<li>
+<strong>I want to be deleted (forgotten)</strong> – You are free to contact us in order for us to fulfill your request.
+</li>
+
+<li>
+<strong>I do not want to receive newsletters anymore</strong> - If you want to unsubscribe from our newsletters' recipients list, please see detailed instructions on unsubscribing, which are sent at the bottom of every e-mail (newsletter).
+</li>
 </ul>
-<b>Use of collected information</b><br>
-<br>
-We use your personal information:<ul>
-  <li>to start the process of reservation of the service you want, so that we 
-  are able to send you our preliminary calculation, after which you will pay the 
-  advance.</li>
-<li>to enable online credit card payments. All transactions are protected by SSL (secure sockets layer).</li>
-  <li>to send you on your email address all the relevant material and information 
-  about selected service (direction how to reach your destination, voucher...).</li>
-  <li>to pass your personal data to a person who will give you directly the 
-  service for which you have made a reservation, even before consumption of the 
-  selected service. Through that direct contact you will be able to solve all 
-  dilemmas or misunderstandings that you have about the service in the best 
-  possible way.</li>
-  <li>to inform you occasionally about changes in our offer, special rates, 
-  upgraded information...and to provide you with all the information about the 
-  growth of our site.</li>
-</ul>
-We are not going to use collected information for purposes that are not 
-mentioned in this statement. Your personal data, travel agency "Adriatic.hr" 
-does not sell, trade, rent or give to third parties, unless it's necessary for 
-the procedure of the realization of selected service.<br>
-<br>
-In case that you don't want to receive information about changes on our pages, 
-announcements about our offer or other promotional information, don't hesitate 
-to inform us about that. After we receive your notice, your name will be soon 
-removed from our list.<br>
-<br>
-Tourist agency "Adriatic.hr" can reveal personal information only in case when 
-court decide that, or in the case that there is need to protect rights or 
-property of our web pages, or the need to protect personal safety of our users 
-or public.<br>
-<br>
-<b>Security of collected information</b><br>
-<br>
-Adriatic.hr gives a great importance to this statement and we think that 
-credibility of our business depends on the fact how much the agency activity is 
-in accordance with this statement. Therefore, Adriatic.hr, specially cares that 
-collected information about the user are safe and protected from loss, changes, 
-unauthorized access or any kind of misuse. Filing in questionnaires, surveys, 
-mail forms, requests for reservation...is highly protected process.<br>
-<br>
-Our computer system use programs which could recognize every unauthorized access 
-to your data, after which they react quickly. Our Web server is highly protected 
-from unauthorized access (physical or electronic). Your data is stored in 
-password-controlled servers with limited access.<br>
-<br>
-<b>How are we going to contact you?</b><br>
-<br>
-Standard reservation procedure of the service from our offer, together with all 
-the questions or problems regarding selected service will be solved through the 
-contact information you gave us ( E-mail, telephone or fax).<br>
-<br>
-<b id="cookies">Use of cookies</b> <br>
-<br>
-Cookie is a text file that is placed on your hard disk by a web browser, after 
-you visit our pages for the first time. Cookie provides faster reading of 
-already visited sites. Cookie does not contain any personal information, but it 
-helps us to provide you special services while you are on Web.<br>
-<br>
-The main advantage of cookies is saving time and easier access to the site. The 
-purpose of a cookie is to tell the Web browser that you have returned to a 
-specific page. Statistical information about the visit of the certain 
-information are created using cookies, therefore they are important in 
-recognizing users wishes and determination of the development of our offer and 
-our site.
-<br>
-Cookies are also used for Google Analytics, a tool for website analysis by the company Google, and as a marketing tool for displaying relevant information to selected audience in form of Google Ads, outside the website Adriatic.hr<br>
-<br>
-Cookie is an option that is offered by your Web browser. Most Web Browsers are 
-adapted to accept cookies automatically, but if you want you can modify your 
-browser settings to decline cookies or change your Google options at <a href="https://www.google.com/settings/u/0/ads/authenticated" target="_blank">this address</a><br>
-<br>
-<b>Changing or deleting your personal data</b><br>
-<br>
-The data you have once inscribe in our custom database in order to get your own 
-Adriatic.hr ID, can be changed. Also, on your request we are obligatory to erase 
-them.<br>
-<br>
-<b>Changes to the Statement</b><br>
-<br>
-Privacy statement occasionally can be updated. When we update it, we are 
-obligatory to change the date of the statement. In case that there are 
-significant changes of this statement, we will announce that on our Web pages or 
-we will send you the notice directly. We are recommending to our visitors and 
-users to occasionally read this statement, so they could be more informed about 
-their privacy protection.<br>
-<br>
-We are consider that you are accepting this Privacy Statement when you are 
-visiting our site or when you are using our services.<br>
-<br>
-<br>
-Split, 18.04.2016.<br>			</div>
-		</div>
-					<div id="contentSidebar">
-								
+
+<p>In case you have any questions related to your personal data or need to file a request related to it, you are free to contact us at e-mail address <a href="mailto:privacy@adriatic.hr?subject=Privacy%20concern">privacy@adriatic.hr</a>, where our designated employee for personal data protection, Mr Mislav Begović, will send you a response within the legal framework.</p>
+
+<p>If you feel your legal rights were violated in any possible way, by contacting our <a href="mailto:privacy@adriatic.hr?subject=Privacy%20concern">privacy@adriatic.hr</a>, are not happy with our response or similar, you may file a complaint to the competent supervisory authority, Agency for Personal Data Protection - Agencija za zaštitu osobnih podataka (<a href="http://www.azop.hr">www.azop.hr</a>).</p>
+
+<h2>Changes to the Statement</h2>
+<p>We retain the right to make changes to this statement with time, which might bring about a change in the publication date. We would therefore like to ask our visitors and users to access this statement from time to time, in order to be accurately informed about the ways in which we protect their privacy.</p>
+
+<p>Continuing to be an active visitor of our website and using our services, we consider all regulations of the Statement on privacy protection accepted.</p>
+
+Split, 24 May 2018            </div>
+        </div>
+                    <div id="contentSidebar">
+                
+    <div class="sidebarMenu">
+        <h3>About us</h3>
+        <ul>
+                            
+                
+                                    <li>
+                        <a href="/en/about">Adriatic.hr</a>                    </li>
+                                            
+                
+                                    <li>
+                        <a href="/en/about/our-journey">Our journey</a>                    </li>
+                                            
+                
+                                    <li>
+                        <a href="/en/partners-network">Partner network</a>                    </li>
+                                            
+                
+                                    <li>
+                        <a href="/en/about/generalinfo">General info</a>                    </li>
+                                            
+                
+                                    <li>
+                        <a href="/en/about/posao">Join our team</a>                    </li>
+                                    </ul>
+    </div>
+
     <div class="sidebarMenu">
         <h3>Useful Info</h3>
         <ul>
                             
                 
                                     <li>
-                        <a href="/en/faq/index">FAQ</a>                    </li>
+                        <a href="/en/faq">FAQ</a>                    </li>
                                             
                 
                                     <li>
-                        <a href="/en/rules">House Rules</a>                    </li>
+                        <a href="/en/rules">House rules: private accommodation</a>                    </li>
+                                            
+                
+                                    <li>
+                        <a href="/en/local/buildingHouseRules">House rules: business building</a>                    </li>
                                             
                 
                                     <li>
@@ -942,11 +1132,15 @@ Split, 18.04.2016.<br>			</div>
                                             
                 
                                     <li class="active">
-                        <a href="/en/local/text/doc/zastita_privatnosti">Privacy Policy</a>                    </li>
+                        <a href="/en/privacy-policy">Privacy Policy</a>                    </li>
                                             
                 
                                     <li>
-                        <a href="/en/sitemap/index">Sitemap</a>                    </li>
+                        <a href="/en/about/guarantees">Guarantees</a>                    </li>
+                                            
+                
+                                    <li>
+                        <a href="/en/sitemap">Sitemap</a>                    </li>
                                             
                 
                                     <li>
@@ -955,87 +1149,106 @@ Split, 18.04.2016.<br>			</div>
                 
                                     <li>
                         <a href="/en/favorites/manual">Comparison / Shortlist</a>                    </li>
-                                            
-                
-                                    <li>
-                        <a href="/en/bugreport/index">Report a bug</a>                    </li>
                                     </ul>
     </div>
-			</div>
-			<div class="clear"></div>
-			</div>
+            </div>
+            <div class="clear"></div>
+            </div>
 </div>
                                     </div>
             </div>
         </main>
 
-        <div id="historyWrap" data-historyurl="/en/history/recent"></div>
         <footer>
+            <div id="historyWrap" data-historyurl="/en/history/recent"></div>
             <div id="serviceFooter">
                 <div id="serviceFooterContent">
-                    <div class="newsletterFooterBox">
-	<span>Subscribe to our news and updates here</span>
-	<input id="newsletterFooterEmail" placeholder="E-mail" type="text">
-	<button id="newsletterFooterYes">Send</button>
-	<span id="newsletterFooterError"></span>
-</div>
+                        <div class="newsletterFooterBox">
+        <span>Join the Adriatic.hr newsletter club to get our news and updates</span>
+        <input id="newsletterFooterEmail" placeholder="E-mail" type="text">
+        <button id="newsletterFooterYes">Send</button>
+        <span id="newsletterFooterError"></span>
+    </div>
+
+
+<ul class="socialIcons footer">
+    <li>
+        
+<a class="iconFacebook tooltip" href="https://on.fb.me/AdriaticHr" target="_blank" title="Facebook" data-tracking-category="Društvene mreže" data-tracking-action="Facebook" data-tracking-label="en"></a>
+    </li>
+    <li>
+        
+<a class="iconTwitter tooltip" href="https://twitter.com/Adriatic_hr" target="_blank" title="Twitter" data-tracking-category="Društvene mreže" data-tracking-action="Twitter" data-tracking-label="en"></a>
+    </li>
+    <li>
+        
+<a class="iconInstagram tooltip" title="Instagram" href="https://www.instagram.com/adriatic_hr" target="_blank" data-tracking-category="Društvene mreže" data-tracking-action="Instagram" data-tracking-label="en"></a>
+    </li>
+    <li>
+        
+<a class="iconLinkedin tooltip" title="LinkedIn" href="https://www.linkedin.com/company/adriatic.hr" target="_blank" data-tracking-category="Društvene mreže" data-tracking-action="LinkedIn" data-tracking-label="en"></a>
+    </li>
+    <li>
+        
+<a class="iconPinterest tooltip" title="Pinterest" href="https://www.pinterest.com/adriatichr" target="_blank" data-tracking-category="Društvene mreže" data-tracking-action="Pinterest" data-tracking-label="en"></a>
+    </li>
+</ul>
 
 <div class="footerContact">
-	<span>Adriatic.hr</span>
-	<br>
-	<div>
-		<span>Poljička cesta 26</span>
-		<br>
-		<span>21000</span>
-		<span>Split</span>,
-		<span>Croatia</span>
-	</div>
+    <span>Adriatic.hr</span>
+    <br>
+    <div>
+        <span>Poljička cesta 26</span>
+        <br>
+        <span>21000</span>
+        <span>Split</span>,
+        <span>Croatia</span>
+    </div>
 </div>
 <div class="footerContact">
-	<span class="contactLabel">tel:</span> <span>+385 21 456-456</span><br>
-	<span class="contactLabel">fax:</span> <span>+385 21 456-789</span><br>
-	<span class="contactLabel">gsm:</span> <span>+385 91 234-5641</span>
+    <span class="contactLabel">tel:</span> <span>+385 21 456-456</span><br>
+    <span class="contactLabel">fax:</span> <span>+385 21 456-789</span><br>
+    <span class="contactLabel">gsm:</span> <span>+385 91 234-5641</span>
 </div>
 <div class="footerContact">
-	<span class="contactLabel">e-mail:</span> <a href="mailto:info@adriatic.hr" class="underline">info@adriatic.hr</a><br>
-	<span class="contactLabel">VAT number:</span> 16364086764<br>
-	<span class="contactLabel">ID:</span> HR-AB-21-020038491
+    <span class="contactLabel">e-mail:</span> <a href="mailto:info@adriatic.hr" class="underline">info@adriatic.hr</a><br>
+    <span class="contactLabel">VAT number:</span> 16364086764<br>
+    <span class="contactLabel">ID:</span> HR-AB-21-020038491
 </div>
 <div class="footerContact">
-	<span class="footerLogo htz tooltip" title="Croatian National Tourist Board">Croatian National Tourist Board</span>
-	<span class="footerLogo uhpa tooltip" title="Association of Croatian Travel Agencies">Association of Croatian Travel Agencies</span>
+    <span class="footerLogo htz tooltip" title="Croatian National Tourist Board">Croatian National Tourist Board</span>
+    <span class="footerLogo uhpa tooltip" title="Association of Croatian Travel Agencies">Association of Croatian Travel Agencies</span>
 </div>
 
 <div class="footerPayment">
-	Payment secured by SSL encription	<br>
-	<span class="footerLogo paymentLogo verisign tooltip" title="VeriSign SSL - secure credit card payment">VeriSign SSL - secure credit card payment</span>
-	<span class="footerLogo paymentLogo maestro tooltip" title="Maestro">Maestro</span>
-	<span class="footerLogo paymentLogo mastercard tooltip" title="Mastercard">Mastercard</span>
-	<span class="footerLogo paymentLogo visacard tooltip" title="Visa">Visa</span>
-	<div class="clear"></div>
+    Payment secured by SSL encription    <br>
+    <span class="footerLogo paymentLogo verisign tooltip" title="VeriSign SSL - secure credit card payment">VeriSign SSL - secure credit card payment</span>
+    <span class="footerLogo paymentLogo maestro tooltip" title="Maestro">Maestro</span>
+    <span class="footerLogo paymentLogo mastercard tooltip" title="Mastercard">Mastercard</span>
+    <span class="footerLogo paymentLogo visacard tooltip" title="Visa">Visa</span>
+    <div class="clear"></div>
 </div>
 
 <div class="clear"></div>
 
-<script type="text/javascript">
-/* <![CDATA[ */
-	head(function() {
-		Ad.FooterNewsletter.init({
-			'subscribeUrl': "/en/newsletter/subscribe",
-			'successText': "E-mail address &&1&& is successfully subscribed to our mailing list.",
-		});
-	});
-/* ]]> */
-</script>                </div>
+    <script type="text/javascript">
+        $(function() {
+            Ad.FooterNewsletter.init({
+                'subscribeUrl': "/en/ajax/newsletter/subscribe",
+                'successText': "E-mail address &&1&& is successfully subscribed to our mailing list.",
+            });
+        });
+    </script>
+                </div>
             </div>
             <div id="footerBottomWrap">
                 <div id="footerBottom">
 	<ul id="footerCopy">
-		<li>© <a href="/en">Adriatic.hr</a> (2000-2017)</li>
+		<li>© <a href="/en">Adriatic.hr</a> (2000-2019)</li>
 		<li><a href="/en/terms/website">Website Terms and Conditions</a></li>
-		<li><a href="/en/local/text/doc/zastita_privatnosti">Privacy Policy</a></li>
-		<li><a href="/en/faq/index">FAQ</a></li>
-		<li class="last"><a href="/en/sitemap/index">Sitemap</a></li>
+		<li><a href="/en/privacy-policy">Privacy Policy</a></li>
+		<li><a href="/en/faq">FAQ</a></li>
+		<li class="last"><a href="/en/sitemap">Sitemap</a></li>
 	</ul>
 
 	<div id="debugWrapper">
@@ -1056,17 +1269,20 @@ Split, 18.04.2016.<br>			</div>
 </div>            </div>
         </footer>
 
+        <div class="toastWrap"></div>
+
         
 
-<a class="fixedChat" href="/chat/client.php?locale=en&amp;group=0" target="_blank" onclick="if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('/chat/client.php?locale=en&amp;group=0&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'mibew', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;removeBubble();return false;">
-    <span class="utilityTheIcon liveChat"></span>Live Chat            <span class="messageBubble" id="chatBubble">
+
+<a class="liveChatIcon fixedChat" href="/chat/client.php?locale=en&amp;group=0" target="_blank" onclick="if (navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('/chat/client.php?locale=en&amp;group=0&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'mibew', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;removeBubble();return false;">
+    Live Chat            <span class="messageBubble" id="chatBubble">
             <span class="infoClose" id="hideBubble"></span>
             Can we help you?        </span>
     </a>
 
-    <script type="text/javascript">
+    <script>
     /* <![CDATA[ */
-        head(function(){
+        $(function(){
             removeBubble = function() {
                 $('#chatBubble').remove();
             };
@@ -1077,8 +1293,12 @@ Split, 18.04.2016.<br>			</div>
                 $(this).parent().remove();
                 $.cookie('hide_bubble', true, { path: '/' });
             });
-
-                            var currentTimeHour = 17;
+                            // ako trenutačno nema dostupnog referenta, nastavljamo provjeravati za slučaj da se naknadno pojavi;
+                // ovo je važno da ne bismo gubili ljude kad zapnu na formi za rezervaciju a u trenutku učitavanja stranice
+                // nije bilo dostupnih referenata u chatu - jer da ne provjeravamo naknadno, korisnik ne bi dobio obavijest
+                // o dostupnosti referenta dok ne klikne na neki drugi dio stranice, a dotad možda već izgubi interes
+                // za rezervaciju (Indira)
+                var currentTimeHour = 23;
 
                 if (currentTimeHour >= 8 && currentTimeHour < 22) {
                     var checkAgentInterval = setInterval(function(){
@@ -1090,7 +1310,7 @@ Split, 18.04.2016.<br>			</div>
                                 if (response.isAnyLocaleLanguageAgentOnline) {
                                     $('.fixedChat').replaceWith(response.link);
                                     setTimeout(function(){
-                                        $('#chatBubble').addClass('show');
+                                        $('#chatBubble').show();
                                     }, 1000);
                                     clearInterval(checkAgentInterval);
                                 }
@@ -1102,21 +1322,22 @@ Split, 18.04.2016.<br>			</div>
         /* ]]> */
     </script>
         <div class="noticeCookiesUse">
-	Adriatic.hr uses "cookies" on our website to provide you with a better user experience. By using our website you consent to their use.	<a href="/en/local/text/doc/zastita_privatnosti#cookies">Learn more...</a>	<a class="buttonNew mini link blue" id="cookieCloseBtn">Close</a>
+	Adriatic.hr uses "cookies" on our website to provide you with a better user experience. By using our website you consent to their use.	<a href="/en/privacy-policy#cookies">Learn more...</a>	<a class="buttonNew mini link blue" id="cookieCloseBtn">Close</a>
 </div>
-<script type="text/javascript">
+<script>
 /* <![CDATA[ */
-	head(function(){
+	$(function(){
 		$('#cookieCloseBtn').click(function() {
 			$(this).parent().remove();
 			$.cookie('allow_cookie_use', true, { path: '/', expires: 365 });
 		});
 	});
 	/* ]]> */
-</script>        <div id="errorPane" style="display:none"></div>
+</script>
+        <div id="errorPane" style="display:none"></div>
 
                     <!-- Google Code for Posetili adriatic.hr Remarketing List -->
-<script type="text/javascript">
+<script>
 /* <![CDATA[ */
 	var google_conversion_id = 1036584983;
 	var google_conversion_language = "en";
@@ -1127,115 +1348,134 @@ Split, 18.04.2016.<br>			</div>
 /* ]]> */
 </script>
 <div class="hide">
-	<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
+	<script src="https://www.googleadservices.com/pagead/conversion.js"></script>
 </div>
 <noscript>
 	<div style="display:inline;">
 		<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1036584983/?label=TVAPCIf0vgIQl5Ck7gM&amp;guid=ON&amp;script=0"/>
 	</div>
-</noscript>                <script>
+</noscript>
+                            <script>
+!function(f,b,e,v,n,t,s){if (f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if (!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '631411923627655');
+fbq('track', 'PageView');
+</script>
+
+<noscript>
+    <img height="1" width="1" style="display:none" alt="noscript" src="https://www.facebook.com/tr?id=631411923627655&ev=PageView&noscript=1"/>
+</noscript>
+                    
+        
+<div id="yandexMetricaTag" data-tag-id="52484440">
+    <script>
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym('52484440', "init", {
+            id:'52484440',
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: false        });
+    </script>
+</div>
+
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/52484440" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+
+        <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'UA-303433-1', 'auto');
+ga('set', 'anonymizeIp', true);
 
 
 ga('require', 'displayfeatures');
-ga('require', 'linkid', {'levels': 5}, 'linkid.js');
+ga('require', 'linkid', {'levels': 5});
 ga('send', 'pageview');
 </script>
 
-        <script type="text/javascript">head.load([{"label1":"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.11.2\/jquery.min.js"},{"label2":"http:\/\/static.adriatic.hr\/js\/frontend\/build\/core-bundle.js?v=201709071320"}])</script>        <script type="text/javascript">
-        /* <![CDATA[ */
-
-        // Global
-        var requestList = {},
-            lang_culture = "en",
-            local_vac_ip = "54.173.35.129",
-            no_cookies_text = "We are sorry, but you will need to enable cookies for user parts of the website.",
-            no_cookies_link = '<a href="https://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser" target="_blank">'+
-                'Enable Cookies</a>',
-            is_bot_check = false;
-
-        head(function() {
-            Ad.Error.initializeAjaxErrorHandler();
-            triggerOnload();
-            Ad.Dom.browserCheck(no_cookies_text, no_cookies_link);
-            Ad.ExitPopup.init({
-                'dontForgetText': "Don't forget to sign up for our newsletter.",
-                'isSubscribedAndEmailUrl': "/en/newsletter/IsSubscribedAndEmail",
-                'subscribeUrl': "/en/newsletter/subscribe",
-                'waitText': "Wait a second!",
-                'getNewsText': "Receive information about our latest offers, discounts and benefits<br>and get the most affordable accommodation.",
-                'emailText': "E-mail",
-                'sendText': "Send",
-                'signUpHereText': "Subscribe to our news and updates here",
-                'successText': "E-mail address &&1&& is successfully subscribed to our mailing list.",
-            });
-        });
-
-                //google print tracking
-        try{
-            (function() {
-                window.mqlListenerCount = 0; //chrome fix for multiple matchMedia events fired
-                var afterPrint = function() {
-                    ga('send', 'event', 'Print Intent', document.location.pathname);
-                    setTimeout(function(){ window.mqlListenerCount = 0; },2000); //clear counter
-                };
-
-                if (window.matchMedia) {
-                    var mediaQueryList = window.matchMedia('print');
-                    mediaQueryList.addListener(function(mql) {
-                        if (!mql.matches && window.mqlListenerCount < 1) {
-                            window.mqlListenerCount++;
-                            afterPrint();
-                        }
-                    });
-                }
-
-                window.onafterprint = afterPrint;
-            }());
-        } catch(e) {}
-        
-        //google event tracking
-        function setGaqPush(category, action, label, value) {
-            if(typeof(ga) !== 'undefined') {
-                if(typeof(value) !== 'undefined') {
-                    if (typeof(value) == 'number')
-                        value = parseInt(value,10);
-
-                    ga('send', 'event', jQuery.trim(category), jQuery.trim(action), jQuery.trim(label), value);
-                } else {
-                    ga('send', 'event', jQuery.trim(category), jQuery.trim(action), jQuery.trim(label));
-                }
-            }
-        }
-        //google pageview tracking
-        function setGaqPage() {
-            if (typeof(ga) !== 'undefined') {
-                ga('set', { location: window.location.protocol + '//' + window.location.hostname + window.location.pathname + window.location.search });
-                ga('send', 'pageview');
-            }
-        }
-        /* ]]> */
+        <script>
+            // Global
+            var requestList = {},
+                lang_culture = "en",
+                local_vac_ip = "207.241.231.43",
+                no_cookies_text = "We are sorry, but you will need to enable cookies for user parts of the website.",
+                no_cookies_link = '<a href="https://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser" target="_blank">'+
+                    'Enable Cookies</a>',
+                is_bot_check = true;
         </script>
+
+        <script src="https://i.croatiaimages.com/a/desktopCommon.4054e70b07.js"></script>
+        <script>
+    $(function() {
+                                    });
+</script>
+
+        <script>
+            $(function () {
+                Ad.Error.initializeAjaxErrorHandler();
+                triggerOnload();
+                Ad.Dom.browserCheck(no_cookies_text, no_cookies_link);
+            });
+
+                            //google print tracking
+                try {
+                    (function () {
+                        window.mqlListenerCount = 0; //chrome fix for multiple matchMedia events fired
+                        var afterPrint = function () {
+                            ga('send', 'event', 'Print Intent', document.location.pathname);
+                            setTimeout(function () { window.mqlListenerCount = 0; }, 2000); //clear counter
+                        };
+
+                        if (window.matchMedia) {
+                            var mediaQueryList = window.matchMedia('print');
+                            mediaQueryList.addListener(function (mql) {
+                                if (!mql.matches && window.mqlListenerCount < 1) {
+                                    window.mqlListenerCount++;
+                                    afterPrint();
+                                }
+                            });
+                        }
+
+                        window.onafterprint = afterPrint;
+                    }());
+                } catch (e) {}
+                    </script>
+
+            <a id="googleReviews" href="https://search.google.com/local/reviews?placeid=ChIJswkh5R5eNRMR3kHnauVu6vU&amp;hl=en" target="_blank">
+        <span class="reviewSummary"><span>4.6</span> / 114 reviews</span>
+        <img src="https://static.adriatic.hr/images/google/google-reviews-logo.svg" alt="Adriatic.hr - Google Reviews">
+    </a>
         
-<script type="text/javascript">
+<script>
 	/* <![CDATA[ */
-	head(function() {
+	$(function() {
 		Ad.recentHistory.init();
 	});
 	/* ]]> */
 </script>
 
-        <script type="text/javascript">
+        
+
+        <script>
 	/* <![CDATA[ */
-	head(function() {
+	$(function() {
 		Ad.GAdimensions.sendHrental('', 'other', '', '', '');
 	});
 	/* ]]> */
-</script>    
+</script>
+        <link rel="stylesheet" type="text/css" media="print" href="https://i.croatiaimages.com/a/desktopPrint.71afda8c75.css">
+    
 
 </body></html>
