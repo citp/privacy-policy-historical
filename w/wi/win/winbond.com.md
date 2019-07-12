@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winbond.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512162130id_/http%3A//www.winbond.com/hq/about-winbond/Legal/privacy-policy/%3F__locale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winbond.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712100505id_/http%3A//www.winbond.com/hq/about-winbond/Legal/privacy-policy/%3F__locale%3Den) for the most accurate reproduction.*
 
 # Winbond - Privacy Policy
 
