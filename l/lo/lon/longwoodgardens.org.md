@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829041451id_/https%3A//longwoodgardens.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712194452id_/https%3A//longwoodgardens.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Longwood Gardens
 
