@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620030632id_/https%3A//www.homesandproperty.co.uk/Service/privacy-policy-a93341.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712230505id_/https%3A//www.homesandproperty.co.uk/Service/privacy-policy-a93341.html) for the most accurate reproduction.*
 
 # Privacy Policy | Homes and Property
 
