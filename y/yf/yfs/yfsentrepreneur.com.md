@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yfsentrepreneur.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093955id_/https%3A//yfsmagazine.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yfsentrepreneur.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712041120id_/https%3A//yfsmagazine.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy — YFS Magazine
 
