@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the penandthepad.com privacy policy that was archived on 2019-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190412212500id_/https%3A//penandthepad.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the penandthepad.com privacy policy that was archived on 2019-07-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190713003607id_/https%3A//penandthepad.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="wa_lr" scheme="DMINSTR2" content="en-US"><meta name="wa_lid" scheme="DMINSTR2" content="0001"><meta name="google-site-verification" content=" "><meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3"><meta property="og:site_name" content="Pen and the Pad"><script type="text/javascript" async="" data-ev-tag-pid="46" data-ev-tag-ocid="374" src="https://c.betrad.com/pub/tag.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WGZCHF"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script>
     if ('serviceWorker' in navigator) {
@@ -63,16 +63,60 @@ _h.node=function(text){var el=document.createElement('div');el.innerHTML=text;re
 if(parent!==null){parent.appendChild(script)}};window._h=_h})()</script><!-- Custom Dimension dataLayer --><script title="dataLayer" type="text/javascript">
   var dataLayer = [] || window.dataLayer;
 
+  function getPublishedDateISO() {
+    var pubDate ="" || "1986-05-16 00:00:00" || null
+
+    if (pubDate) {
+      return new Date(pubDate.replace(/ /g, 'T')).toISOString()
+    } else {
+      return
+    }
+  }
+
+  function getUpdatedDateISO() {
+    var updateDate ="1986-05-16 00:00:00" || null
+
+    if (updateDate) {
+      return new Date(updateDate.replace(/ /g, 'T')).toISOString()
+    } else {
+      return
+    }
+  }
+
+  function create_UUID() {
+     var pow = Math.pow(10, 10);
+     var uuid = Math.floor(Math.random()*pow) + '.' + Math.floor(Math.random()*pow);
+     return uuid;
+  }
+
+  function find_ppid() {
+     if(!localStorage.getItem('ppid')) {
+        ppid = create_UUID();
+        localStorage.setItem('ppid', ppid);
+        return ppid;
+     } else {
+        return localStorage.getItem('ppid');
+     }
+  }
+
+  var ppid = find_ppid() || '';
+
   dataLayer.push({
-    "event": "head.template",
     "pagetype": "privacy-policy.template",
     "subpagetype": "",
+    "pageview_type": "standard",
     "studioid": "",
+    "content_id": "",
     "content_name": "",
-    "publish_date": "1986-05-16 00:00:00",
-    "rating": "",
     "author": "",
-    "structure_rating": "","has_image" : "FALSE"})
+    "lg_uuid": ppid,
+    "scroll": 0,"topic1": [],
+    "topic2": [],
+    "topic3": [],
+    "tags": [],
+    "published": getPublishedDateISO() || getUpdatedDateISO() || '', 
+    "updated": getUpdatedDateISO() || getPublishedDateISO() || ''
+  })
 </script><!-- End Custom Dimension dataLayer --><script type="text/javascript">
   // Determine WebP Support
 // Adapted from https://github.com/Modernizr/Modernizr/blob/master/feature-detects/img/webp.js
@@ -202,7 +246,30 @@ if (typeof Array.prototype.forEach != 'function') {
     }
   };
 }
-</script><!-- Bing Webmaster Tool Auth --><meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3"><script type="text/javascript">
+</script><!-- Permutative Global --><script> !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"5814efa5-d41d-4a89-b176-1cc26fae87cd","e4ecf9e0-0a2f-42d6-a720-8fff2402c221",{});  
+window.googletag=window.googletag||{},window.googletag.cmd=window.googletag.cmd||[],window.googletag.cmd.push(function(){if(0===window.googletag.pubads().getTargeting("permutive").length){var g=window.localStorage.getItem("_pdfps");window.googletag.pubads().setTargeting("permutive",g?JSON.parse(g):[])}});
+
+window.permutive.addon('web', {
+  "page": {
+    "pagetype": "privacy-policy.template",
+    "subpagetype": "",
+    "pageview_type": "standard",
+    "content_name": "","tags": [],
+    "published": window.getPublishedDateISO() || window.getUpdatedDateISO() || '', 
+    "updated": window.getUpdatedDateISO() || window.getPublishedDateISO() || '',
+    "topic1": [],
+    "topic2": [],
+    "topic3": [],
+    "content_name": "",
+    "scroll": 0,
+    "user": {
+      "lg_uuid": ppid
+    }
+  }
+})
+
+window.permutive.readyWithTimeout=function(e,i,t){var u=!1,n=function(){u||(e(),u=!0)};(t=t||1/0)!==1/0&&window.setTimeout(n,t),permutive.ready(n,i)};
+</script><script async="" src="https://cdn.permutive.com/5814efa5-d41d-4a89-b176-1cc26fae87cd-web.js"></script><!-- Bing Webmaster Tool Auth --><meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3"><script type="text/javascript">
     !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
 
     apstag.init({
@@ -210,8 +277,6 @@ if (typeof Array.prototype.forEach != 'function') {
      adServer: 'googletag'
     });
     </script><title>Pen &amp; Pad | Your Writing &amp; Literary Resource</title><meta name="description" content=""><meta name="pagetype" scheme="DMINSTR2" content="Home"><meta property="og:url" content="https://penandthepad.com/"><meta property="og:description" content=""><meta property="og:type" content="website"><meta property="og:title" content="Pen and the Pad"><meta property="og:image" content="//penandthepad.com/images/leaf-logo.png"><link rel="canonical" href="https://penandthepad.com/"><!-- <style>.leaderboard-ad{display:none}.link-unit{margin-bottom:20px}@media (min-width:750px){.leaderboard-ad{display:block;text-align:center}}.desktop-header{display:none}.mobile-header{display:flex;align-items:center;position:sticky;top:0;justify-content:space-between;padding:0 5px 5px;background-color:#fff;z-index:999}.mobile-header .logo{height:50px}.mobile-header .back-button{font-size:3rem;color:#000}.mobile-header .hamburger-button{font-size:3rem;color:#000}@media (min-width:414px){.mobile-header{padding:0 10px 5px}}@media (min-width:768px){.mobile-header{display:none}.desktop-header{display:flex;justify-content:space-between;padding:0 10px 3px 10px;border-bottom:1px solid #000;margin:10px 0}.desktop-header .logo-section{margin-left:0}.desktop-header .logo-section .logo{height:65px}.desktop-header .desktop-nav{display:flex;background-color:#fff;align-items:flex-end;margin-bottom:9px}.desktop-header .desktop-nav .nav-item{margin:0 15px}.desktop-header .desktop-nav .nav-item .title-font{font-family:Futura,"Trebuchet MS",Arial,sans-serif;font-variant:all-small-caps;font-size:1.7rem}.desktop-header .social-shares-desktop-nav{display:none}}@media (min-width:992px){.mobile-header{display:none}.desktop-header{display:flex;justify-content:space-between;padding:0 10px 3px 10px;border-bottom:1px solid #000;margin:10px auto;max-width:1400px}.desktop-header .logo-section{margin-left:25px}.desktop-header .logo-section .logo{height:100px}.desktop-header .desktop-nav{display:flex;background-color:#fff;align-items:flex-end;margin-bottom:9px}.desktop-header .desktop-nav .nav-item{margin:0 15px}.desktop-header .desktop-nav .nav-item .title-font{font-family:Futura,"Trebuchet MS",Arial,sans-serif;font-variant:all-small-caps;font-size:1.7rem;color:#000}.desktop-header .social-shares-desktop-nav{display:flex;align-items:flex-end;margin-bottom:14px}.desktop-header .social-shares-desktop-nav .social-icon{position:relative;width:30px;height:30px;margin:0 5px}.desktop-header .social-shares-desktop-nav .social-icon .social-svg{position:absolute}}.related-content-top-bar{display:none}.article{display:flex;margin:1% 0;width:100%}.article-main-col{position:relative;padding:0;width:100%}.article-title{text-align:center;margin-bottom:4%}.article-title h1{font-size:2rem}.article-title .title-wrapper{display:block;margin-bottom:6%}.article-title .article-pubdate{color:#fff;background-color:#000;font-family:Futura,"Trebuchet MS",Arial,sans-serif;font-size:1rem;padding:5px}.article-title .article-byline{font-style:italic;font-size:1rem;color:#fff;background-color:#000;font-family:Futura,"Trebuchet MS",Arial,sans-serif;padding:5px}.article-title .breadcrumbs{margin-top:10px;text-align:left}.article-title .breadcrumbs a{color:#666}.freestyle-content .article-image{height:300px;background-position:center;background-size:cover;background-repeat:no-repeat}.article-sidebar{display:none}@media (min-width:414px){.article-main-col{padding:0 2%;width:auto}.article-title{margin-bottom:2%}.article-title .title-wrapper{margin-bottom:8%}.article-title .article-pubdate{font-size:1.25rem}.article-title .article-byline{font-size:1.25rem}}@media (min-width:768px){.article{margin:0}.article-title{margin:3% 0 2% 0}.article-title h1{font-size:2.5rem}.article-title .title-wrapper{margin-bottom:3%}.freestyle-content .article-image{height:500px}}@media (min-width:992px){.article-title{text-align:left;margin:1% 0 3%}.article-title h1{font-size:3rem}.article-main-col{padding:1% 3% 1% 7%;max-width:59%}.related-content-top-bar{position:relative;display:flex;border-bottom:1px grey solid;margin-bottom:10px;padding:10px}.related-content-top-bar .bar-item{display:flex;flex:1 1 auto;padding:0 1%;border-right:1px grey solid}.related-content-top-bar .bar-item .bar-item-photo{display:block;width:75%;margin:7px;height:120px;background-position:center;background-size:cover}.related-content-top-bar .bar-item .bar-item-text{width:25%;display:flex;flex-direction:column;padding:1%;color:#000}.related-content-top-bar .bar-item .bar-item-text .bar-item-text-title{font-family:Futura,"Trebuchet MS",Arial,sans-serif;font-size:1 rem}.related-content-top-bar .bar-item .bar-item-text .bar-item-text-byline{margin-top:5px;font-style:italic;color:#e30000}.related-content-top-bar .bar-item:last-child{border-right:none}.article-sidebar{position:sticky;top:10px;display:flex;flex-shrink:0;flex-direction:column;width:300px;margin:2% 2%;align-self:flex-start}.article-sidebar .related-content{margin:10% 0}.article-sidebar .related-content .related-content-article-panel{display:flex;flex-direction:column;margin-bottom:10%}.article-sidebar .related-content .related-content-article-panel .related-content-article-image{min-height:200px;background-position:center;background-size:cover;background-repeat:no-repeat}.article-sidebar .related-content .related-content-article-panel .related-content-article-title{font-family:Futura,"Trebuchet MS",Arial,sans-serif;font-size:1.5rem;text-align:center;color:#000}.article-sidebar .related-content .related-content-article-panel .related-content-article-byline{font-family:Futura,"Trebuchet MS",Arial,sans-serif;font-size:1.25rem;text-align:center;font-style:italic;color:#e30000}}.socialshares{display:flex;position:fixed;width:100%;justify-content:space-around;bottom:0;left:0;background-color:#fff;padding:1% 0 3%;z-index:999}.socialshares .social-icon{position:relative;width:35px;height:35px;margin:0 5px}.socialshares .social-icon .social-svg{position:absolute;fill:#000}@media (min-width:375px){.socialshares .social-icon{width:40px;height:40px}}@media (min-width:414px){.socialshares .social-icon{width:44px;height:44px;margin:0 5px}}@media (min-width:768px){.socialshares .social-icon{margin:0 10px}}@media (min-width:992px){.socialshares{bottom:27%;left:1.5%;width:40px;flex-direction:column;background-color:#fff;padding:0}.socialshares .social-icon{width:40px;height:40px;margin:5px 0}}#mobile-menu{height:100%;width:0;position:fixed;top:0;right:0;background-color:rgba(0,0,0,.8);overflow-x:hidden;z-index:9999}#mobile-menu .close-button{font-size:5rem;position:absolute;top:1%;right:5%;color:#fff}#mobile-menu .mobile-menu-nav{display:flex;flex-direction:column;padding:35% 8%}#mobile-menu .mobile-menu-nav .nav-item{margin:2% 0}#mobile-menu .mobile-menu-nav .nav-item h2{color:#fff}@media (min-width:960px){ #mobile-menu{display:none}}html{font-size:12px}#page{max-width:1400px;margin:0 auto}a{text-decoration:none}h1{font-family:Futura,"Trebuchet MS",Arial,sans-serif;font-size:3rem;font-weight:lighter}h2{font-family:Futura,"Trebuchet MS",Arial,sans-serif;font-size:2rem;font-weight:lighter;margin:3% 0 1% 0}a:visited{color:#000}.text-shadow{text-shadow:-2px -2px #fff,-4px 0 #fff,0 0 #fff,3px 2px #fff}.underline{background-size:1px 1em;box-shadow:inset 0 .825em #fff,inset 0 -.15em #e30000;display:inline}.byline:before{content:'By '}.active{border-bottom:#e30000 solid 3px}.citation-widget .popup{background-color:#fff;border:#477daf 1px solid;display:none;left:90px;min-height:90px;min-width:220px;max-width:500px;padding:5px;position:absolute;text-align:left;top:0;width:calc(100vw - 150px);z-index:50}.citation-widget .popup h5{margin:5px 0}.citation-widget button{background-color:#477daf;border-radius:8px;border:0;color:#fff}.citation-widget button.choose-style{opacity:.8}.citation-widget button.copy-citation{float:right;font-weight:700}.citation-widget .popup .copied-flash{background-color:#fffa74;display:none;line-height:14px;padding:2px 5px}.citation-widget button.active{background-color:#3d87e7}.citation-widget .popup .output .style{color:#444;display:none;line-height:16px;padding:7px}.citation-widget .popup .output .style.active{display:block}@media (max-width:680px){.citation-widget .popup{left:0}}</style> --><script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
-
-    </script><script>
       var googletag = googletag || {};
       googletag.cmd = googletag.cmd || [];    
       var dynamicSlots = [],
@@ -229,7 +294,8 @@ if (typeof Array.prototype.forEach != 'function') {
         googletag.defineOutOfPageSlot("/6117/penandthepad", "outofpage").addService(googletag.pubads());
       } else {
         googletag.defineOutOfPageSlot("/6117/penandthepad", "outofpage").addService(googletag.pubads());
-      }
+      }googletag.pubads().setTargeting('lg_uuid', window.dataLayer.lg_uuid || '');
+    
 
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
@@ -249,7 +315,13 @@ if (typeof Array.prototype.forEach != 'function') {
         googletag.cmd.push(function() {
               try {
                 apstag.setDisplayBids();
-                googletag.pubads().refresh();
+		
+                if (!(window.localStorage && window.localStorage._pdfps) && window.permutive && window.permutive.readyWithTimeout) {
+	           window.permutive.readyWithTimeout(function () {  googletag.pubads().refresh(); }, "realtime",  1500);
+	        } else {    
+                   googletag.pubads().refresh();
+                }
+		
               } catch(e) { }
         });
       });
