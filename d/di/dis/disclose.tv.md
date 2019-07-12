@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522184208id_/https%3A//www.disclose.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713005245id_/https%3A//www.disclose.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Disclose.tv
 
