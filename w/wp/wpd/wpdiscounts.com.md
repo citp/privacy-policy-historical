@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpdiscounts.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714111019id_/https%3A//wpdiscounts.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdiscounts.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712035616id_/https%3A//wpdiscounts.com/about/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - WPdiscounts
 
@@ -12,7 +12,7 @@ We may collect personal identification information from visitors in a variety of
 
 ### Information That is Gathered from Visitors
 
-In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit. This information is not used to track individual visitors to this website.
+In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit. This information is not used to track individual visitors to this website. 
 
 ### Cookies
 
