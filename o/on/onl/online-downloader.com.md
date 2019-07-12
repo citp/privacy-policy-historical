@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the online-downloader.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184457id_/http%3A//online-downloader.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-downloader.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713000845id_/http%3A//online-downloader.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Online YouTube Downloader: Download YouTube Videos, Facebook, Vimeo, YouKu, Yahoo and many others! - ( Online-Downloader.com )
+# Privacy Policy - Online Video Downloader & MP3, MP4 Converter - for free!
 
 ## Free Online Converter Customer Privacy Policy
 
