@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyineverything.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418152438id_/https%3A//beautyineverything.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyineverything.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712111546id_/https%3A//beautyineverything.com/privacy) for the most accurate reproduction.*
 
 # Beauty in Everything
 
