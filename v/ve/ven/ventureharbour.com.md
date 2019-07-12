@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ventureharbour.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301004958id_/https%3A//www.ventureharbour.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventureharbour.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712134730id_/https%3A//www.ventureharbour.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy - Venture Harbour
 
