@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dotapicker.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603213357id_/http%3A//dotapicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotapicker.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712090926id_/http%3A//dotapicker.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-This Privacy Policy governs the manner in which Dotapicker.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://dotapicker.com](http://dotapicker.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Dotapicker.com.
+This Privacy Policy governs the manner in which Dotapicker.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.dotapicker.com](http://www.dotapicker.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Dotapicker.com.
 
 **Personal identification information**
 
@@ -54,9 +54,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[http://dotapicker.com](http://dotapicker.com/)  
+[http://www.dotapicker.com](http://www.dotapicker.com/)  
 Iasi, Romania  
-<http://dotapicker.com/contact>
+<http://www.dotapicker.com/contact>
 
 This document was last updated on September 02, 2014
 
