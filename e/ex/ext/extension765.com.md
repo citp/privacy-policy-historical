@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extension765.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618192906id_/http%3A//extension765.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extension765.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712065121id_/http%3A//extension765.com/legal) for the most accurate reproduction.*
 
 # A one-of-a-kind marketplace from Steven Soderbergh. - Extension 765
 
