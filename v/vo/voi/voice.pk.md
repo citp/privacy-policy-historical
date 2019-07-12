@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214175727id_/https%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712235005id_/https%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Voice.pk
 
