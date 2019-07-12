@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytddownloader.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630131932id_/https%3A//www.ytddownloader.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytddownloader.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712203051id_/http%3A//www.ytddownloader.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - YTD Video Converter - Free video downloader
 
