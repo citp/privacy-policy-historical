@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043313id_/https%3A//www.nshss.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712233030id_/https%3A//www.nshss.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NSHSS
-
-This is the web site of **The National Society of High School Scholars**.
+# Privacy Policy | NSHSS | National Society of High School Scholars
 
 Our postal address is:  
- **International Headquarters  
+**International Headquarters  
 1936 North Druid Hills Road   
 Atlanta, Georgia  30319**
 
@@ -45,4 +43,4 @@ International Headquarters
 Atlanta, GA 30319  
 E-mail: support@nshss.org
 
-This Privacy Policy was last revised on June 2, 2014.
+This Privacy Policy was last revised on June 16, 2017.
