@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themepalace.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905154557id_/https%3A//themepalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themepalace.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712222720id_/https%3A//themepalace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ In the event that Personal Information is compromised as a result of a breach of
 ##### All Users
 
   * _Decline to Submit Information_ : You may, of course, decline to submit Personal Information through the Service, in which case Theme Palace may not be able to provide certain services to you. 
-  *   * _Update Account Information_ : You may update or correct your account information and email preferences at any time by logging in to [your account](https://themepalace.com/my-account/) settings page. You can also exercise any of your rights by contacting us directly at [info[at]themepalace[dot]com](mailto:info@themepalace.com).
+  *   * _Update Account Information_ : You may update or correct your account information and email preferences at any time by logging in to [your account](http://themepalace.com/my-account/) settings page. You can also exercise any of your rights by contacting us directly at [info[at]themepalace[dot]com](mailto:info@themepalace.com).
   * _Unsubscribe from emails_ : To unsubscribe from a particular newsletter, click the “unsubscribe” link at the bottom of that email newsletter. When we send newsletters to subscribers we may allow advertisers or partners to include messages in those newsletters, or we may send dedicated newsletters and marketing messages on behalf of those advertisers or partners. We may disclose your opt-out choices to third parties so that they can honor your preferences in accordance with applicable laws.
   * _Blocking cookies_ : Certain browsers may be configured to notify you when you receive cookies, or allow you to restrict or disable certain cookies. If you choose to disable cookies, however, that could affect certain features of the Service that use cookies to enhance their functionality. Please see here for Information About Our Use of Cookies And Similar Technologies.
 
