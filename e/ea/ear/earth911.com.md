@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the earth911.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330081446id_/https%3A//earth911.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth911.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712215348id_/https%3A//earth911.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth911.com
-
-## Privacy Policy
 
 We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
