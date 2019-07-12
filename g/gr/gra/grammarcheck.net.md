@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarcheck.net privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523060453id_/https%3A//www.grammarcheck.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarcheck.net privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712212706id_/https%3A//www.grammarcheck.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
