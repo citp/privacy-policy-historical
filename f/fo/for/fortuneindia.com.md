@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortuneindia.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321170123id_/https%3A//www.fortuneindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortuneindia.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712213529id_/https%3A//www.fortuneindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
