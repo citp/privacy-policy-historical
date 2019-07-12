@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleofcricket.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526022407id_/https%3A//circleofcricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleofcricket.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712025708id_/https%3A//circleofcricket.com/privacy) for the most accurate reproduction.*
 
 # 
 
