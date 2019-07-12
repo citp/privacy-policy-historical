@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427104553id_/https%3A//www.fticonsulting.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2019-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190712095434id_/https%3A//www.fticonsulting.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Information Security | FTI Consulting
 
