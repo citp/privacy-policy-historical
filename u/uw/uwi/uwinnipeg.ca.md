@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwinnipeg.ca privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413163450id_/https%3A//www.uwinnipeg.ca/privacy/web-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwinnipeg.ca privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713163322id_/https%3A//www.uwinnipeg.ca/privacy/web-privacy-notice.html) for the most accurate reproduction.*
 
 # Web Privacy Notice | Privacy | The University of Winnipeg
 
