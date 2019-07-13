@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the londonpass.com privacy policy that was archived on 2019-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603051040id_/https%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the londonpass.com privacy policy that was archived on 2019-07-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190713055226id_/https%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js no-touch csstransforms3d csstransitions"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,7 +16,7 @@ library_tolerance=2500,
 use_existing_jquery=false,
 /* DO NOT EDIT BELOW THIS LINE */
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=412390&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190603051040id_%2Fhttps%253A%2F%2Fwww.londonpass.com%2Fprivacy.php&amp;r=0.8146306621866848" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=412390&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190713055226id_%2Fhttps%253A%2F%2Fwww.londonpass.com%2Fprivacy.php&amp;r=0.15774276528217013" type="text/javascript"></script>
 <!-- End VWO Asynchronous Code --><script type="text/javascript"> 
 (function(a,b,c,d,e,f,g){e['ire_o']=c;e[c]= e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};f=d.createElement(b);g=d.getElementsByTagName(b)[0];f.async=1;f.src=a;g.parentNode.insertBefore(f,g);})('//d.impactradius-event.com/A1344395-086b-4a28-a1ba-fd9912a82afb1.js','script','ire',document,window); 
 </script>
@@ -275,13 +275,7 @@ src="https://www.facebook.com/tr?id=444063689061131&ev=PageView&noscript=1"
 <p>We use cookies on our website and in relation to the App.&nbsp; For details of our cookie policy please refer to our<strong><a href="https://www.londonpass.com/cookies.php"> Cookie Policy</a></strong></p>
     </div>
 
-            <div id="home_why_base" class="attraction_promo">
-           <div class="container container_capped clearfix">
-              <p><span id="home_why_base_left">Offer extended - Save up to a further 24% for a limited time only (            <strong class="countdown hasCountdown">Offer ends in 03:49:21</strong>
-)</span><span id="home_why_base_right"><a href="/london-pass-prices.php">Buy now</a></span></p>
-           </div>
-        </div>
-
+    
     <div class="container container_capped clearfix">
       <div id="attraction_tp">
          		 <h2>Trusted by over 3 million customers, here's what they have to say</h2>
@@ -314,6 +308,7 @@ src="https://www.facebook.com/tr?id=444063689061131&ev=PageView&noscript=1"
                               <div class="footer_col_1_menu">
                   <h3>Quick Links</h3>
                   <ul>
+                      <li><a href="/how-it-works/skip-the-lines.html">Skip the Lines</a></li>
                       <li><a href="/things-to-do-in-london/">Things to do in London</a></li>
                       <li><a href="/things-to-do-in-london/top-10-things-to-do-in-london.html">London Top 10</a></li>
                       <li><a href="https://concierge.londonpass.com/" target="_blank">London Pass Concierge</a></li>
@@ -756,7 +751,7 @@ $(document).ready(function() {
             return keyValue ? keyValue[2] : null;
            }
            var sku='Sign Up For Updates';
-           var orderId='a4f8aca793635209f6d55ab4ebd00624footer';
+           var orderId='b2e05598c2a308925725a70ae3d8c1ecfooter';
            var clickId=readCookie('clickId');
            ire('trackConversion', 16627, {
             orderId: orderId,
@@ -940,6 +935,12 @@ $(document).ready(function() {
       e.preventDefault();
     }); 
 
+    $("#att_glider h1").click(function(){
+      $(this).next().animate( {opacity: 'toggle', height: 'toggle'} );
+      $(this).toggleClass("opened");
+    });
+    
+
     
 });
 
@@ -1007,30 +1008,6 @@ window.cookieconsent.initialise({
 </script>
 
 
-<script type="text/javascript" src="/js/jquery.countdown.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-
- function ItemExpired() {
-  window.location.reload();
- }
-
- $(function () {
-  var nowdate=new Date();
-  var tsdiff = Math.round((nowdate.getTime()) / 1000)-(nowdate.getTimezoneOffset()*60)-1559542239;
-  expiry=new Date(2019,6-1,3,10,0,tsdiff);
-  $('.countdown').countdown({
-   until: expiry,
-   labels: ['yrs', 'mons', 'wks', 'days,', 'hours', 'mins', 'secs'],
-   labels1: ['yr', 'mon', 'wk', 'day,', 'hour', 'min', 'sec'],
-   layout:'Offer ends in {d<}{dn}:{d>}{hnn}:{mnn}:{snn}',
-   format:'dhMs',
-   onExpiry: ItemExpired
-  });
- });
-
-});
-</script>
 
  
 
