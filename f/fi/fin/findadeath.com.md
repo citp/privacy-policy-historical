@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findadeath.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514060419id_/https%3A//findadeath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findadeath.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713211920id_/https%3A//findadeath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Celebrity Deaths: Find a Death
 
