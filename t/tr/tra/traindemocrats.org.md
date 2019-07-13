@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traindemocrats.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515031831id_/https%3A//www.traindemocrats.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traindemocrats.org privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713114340id_/https%3A//traindemocrats.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Democratic Training Committee
 
