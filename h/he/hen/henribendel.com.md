@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henribendel.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917073509id_/https%3A//www.henribendel.com/us/customer-service/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henribendel.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714013644id_/https%3A//www.henribendel.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -132,7 +132,7 @@ We use third-party service providers and contractors to help handle parts of our
 
 **3.  Other Marketers**
 
-We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges.  Other merchants may, in turn, use this information to send you offers for their products and services. We will obtain your consent for this sharing in jurisdictions where it is legally required.  If you don't want this information shared with these merchants and exchanges, please [click here](https://www.henribendel.com/us/nondisclosure_form.html?cid=nondisclosure_form) 
+We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges.  Other merchants may, in turn, use this information to send you offers for their products and services. We will obtain your consent for this sharing in jurisdictions where it is legally required.  If you don't want this information shared with these merchants and exchanges, please contact by emailing us at Support@Henribendel.com. 
 
 **4.  Law Enforcement and Emergency Response**
 
@@ -164,7 +164,7 @@ Your browser may offer the ability to block or delete cookies from your device. 
 
 **5.  Other Marketers**
 
-If you don't want your basic contact and purchase information shared with other merchants and exchanges for their direct marketing purposes, please [click here](https://www.henribendel.com/us/nondisclosure_form.html?cid=nondisclosure_form).
+If you don't want your basic contact and purchase information shared with other merchants and exchanges for their direct marketing purposes, please contact by emailing us at Support@Henribendel.com. 
 
 **6.  Our Sister Brands**
 
@@ -176,7 +176,7 @@ If you don't want your contact and purchase information shared with our sister b
 
 **HOW DO YOU UPDATE YOUR PERSONAL INFORMATION?**
 
-We need your help to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information, and other account information, by logging onto our Services (e.g., Your Account on the Henri Bendel website). You may also update or modify your postal mailing information by emailing us at by emailing us at Support@Henribendel.com.
+We need your help to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information, and other account information, by logging onto our Services (e.g., Your Account on the Henri Bendel website). You may also update or modify your postal mailing information by emailing us at Support@Henribendel.com.
 
 ### 
 
