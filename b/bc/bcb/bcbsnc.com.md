@@ -1,96 +1,212 @@
-> *The following text is extracted and transformed from the bcbsnc.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602182241id_/http%3A//www.bcbsnc.com/members/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsnc.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713195238id_/https%3A//www.bluecrossnc.com/about-us/policies-and-best-practices/privacy-policy) for the most accurate reproduction.*
 
-# BCBSNC Member's Notice of Privacy Practices
+# Privacy Policy | Blue Cross and Blue Shield of North Carolina
 
-  | 
+## Web Privacy Policy
 
-  
+Blue Cross and Blue Shield of North Carolina (Blue Cross NC) respects the privacy of everyone visiting our website or using any of the solutions or tools used on our website.
 
+The following guide covers how we handle the personal information you provide us either directly on bcbsnc.com or indirectly, through software applications (including web, desktop or mobile applications), data-capture devices and other websites, whether operated by third-party service providers or by us.
 
-This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully. The privacy of your medical information is important to us. 
+This Web Privacy Policy doesn't address, and we're not responsible for, the privacy, information or other practices of any third party, including any third-party service provider or vendor, and any third-party operating software applications or websites to which bcbsnc.com contains a link. Having such a link on bcbsnc.com does not imply that we or any of our affiliates endorse the linked application or website.
 
-**Our Responsibilities**
+We may need to change this online privacy statement from time to time to address new issues relating to our website or the solutions or tools we provide on our website. We recommend you check this policy page regularly.
 
-Blue Cross and Blue Shield of North Carolina is committed to protecting the privacy of the medical information and other personal information we keep regarding our members. We call this information Protected Health Information or "PHI" throughout this notice. We are required by law to maintain the privacy of your Protected Health Information. We are also required to give you this notice about our privacy practices, our legal duties, and your rights concerning your PHI. We must follow the privacy practices that are described in this notice while it is in effect. This notice takes effect on April 14, 2003 and will remain in place until we replace it.
+## What is Personal and Protected Health Information?
 
-We reserve the right to change this notice and our privacy practices at any time. We also reserve the right to make the changes in our privacy practices and the new notice effective for all PHI that we already have about you as well as for PHI that we may receive in the future. Before we make a material change in our privacy practices, we will update this notice and send the new notice to our health plan subscribers within 60 days of the time we make the change.
+Personal information and Protected Health Information (PHI) are data that identify you. We and our third-party service providers may collect personal information from you, including your:
 
-You may request a copy of this notice at any time by calling the customer service number on the back of your identification card or writing to us at P. O. Box 2291, Durham, NC 27702. You may also obtain a copy from our Web site, www.bcbsnc.com. For more information or questions about our privacy practices please contact the Privacy Office at the address provided above. 
-
-**How We Use and Disclose Your Protected Health Information**
-
-We may use and disclose your protected health information as permitted by federal and state privacy laws and regulations. We have described below how we are most likely to use and disclose your protected health information under these laws and regulations. Generally, we will only use and disclose your PHI as authorized by you or as permitted or required by law. If you cease to be a member, we will no longer disclose your PHI, except as permitted or required by law. 
-
-The federal health care privacy regulations known as "HIPAA" generally do not take precedence over state or other applicable privacy laws that provide individuals greater privacy protections. As a result, when a state law requires us to impose stricter standards to protect your health information, we will follow the state law rather than the HIPAA Privacy Regulations. For example, where such laws have been enacted, we will follow more stringent state privacy laws that relate to uses and disclosures of the protected health information concerning HIV or AIDS, mental health, substance abuse/chemical dependency, genetic testing or reproductive rights. 
-
-We may use and disclose your PHI for the following purposes: 
-
-Payment. We may use and disclose your PHI for payment purposes or to otherwise fulfill our responsibilities for coverage and providing benefits as established under your policy. For example, we may use or disclose your PHI to pay claims from your health care providers for their services that are covered under your health plan, determine your eligibility for benefits, coordinate benefits, determine the medical necessity of the treatment that you received or plan to receive, obtain premiums, issue explanations of benefits to the person who subscribes to the health plan in which you participate, and other purposes related to payment. 
-
-Health Care Operations. We may use and disclose your PHI to support our business functions. These functions include, but are not limited to: quality assessment and improvement, reviewing the competence or qualifications of your health care provider and evaluating the performance of your health care provider; conducting training programs, accreditation, certification, licensing or credentialing activities, rating our risk and determining our premiums for your health plan, medical review, legal services and auditing, business management and general administrative activities, including activities relating to privacy, customer service and resolution of grievances, business planning and business development. For example, we may use or disclose your PHI: (i) to inform you about one of our disease management programs; (ii) to respond to a customer service inquiry from you; (iii) in connection with fraud and abuse investigations and compliance programs; or (iv) to survey you concerning how effectively we are providing services. We may also disclose your PHI to the North Carolina Department of Insurance during a review of our health insurance operations. We may also disclose your PHI to non-affiliated third parties where allowed by law and as necessary to help us fulfill our obligations to you. 
-
-Your Authorization. You may give us written authorization to use or disclose your PHI for any purpose. If you give us an authorization, you may revoke it at any time by giving us written notice. Your revocation will not affect any use or disclosures permitted by your authorization while it is in effect. Without your authorization, we may not use or disclose your PHI for any reason except as described in this notice. 
-
-Your Family and Friends. We may disclose PHI to a family member, a friend or other persons whom you indicate are involved in your care or payment for your care. We may use or disclose your name, location and general condition or death to notify or help with notification of a family member, your personal representative, or other persons involved in your care about your situation. If you are incapacitated or in an emergency, we may disclose your PHI to these persons if we determine that the disclosure is in your best interest. If you are present, we will give you the opportunity to object before we disclose your PHI to these persons. 
-
-Your Health Care Provider. We may use and disclose your PHI to assist health care providers in connection with their treatment or payment activities. For example, we may disclose your PHI when needed by a health care professional to render medical treatment to you. 
-
-Underwriting. We may receive your PHI for underwriting, premium rating or other activities relating to the creation, renewal or replacement of a contract of health insurance or health benefits. We will not use or further disclose this PHI for any other purpose, except as required by law, unless the contract of health insurance or health benefits is placed with us. If the contract is placed with us, we will only use or disclose your PHI as described in this notice. 
-
-Business Associates. We may contract with individuals and entities called business associates to perform various functions on our behalf or to provide services to you. To perform these functions or services, business associates may receive, create, maintain, use or disclose your PHI, but only after the business associate has agreed in writing to safeguard your PHI. For example, we may disclose your PHI to a business associate who will administer your health plan's prescription benefits, or perform preenrollment medical screenings. 
-
-Required by Law and Law Enforcement. We may use or disclose your PHI when we are required to do so by state or federal law. We are required to disclose your PHI to the Secretary of the U.S. Department of Health and Human Services when the Secretary is investigating or determining our compliance with federal privacy laws. We may disclose your PHI in connection with legal proceedings such as in response to an order from a court or administrative tribunal, or in response to a subpoena. We may also disclose your PHI for law enforcement purposes. 
-
-Abuse or Neglect. We may disclose your PHI to a government authority that is authorized by law to receive reports of abuse, neglect or domestic violence. 
-
-Workers' Compensation. We may disclose your PHI to comply with workers' compensation laws and other similar laws that provide benefits for work-related injuries or illnesses. 
-
-Public Health and Safety, Health Oversight Activities. We may use or disclose your PHI for public health activities for the purpose of preventing or controlling disease, injury or disability. We may also disclose your PHI to a health oversight agency for activities authorized by law such as audits, investigations, inspections, licensure or disciplinary actions. 
-
-Research. We may disclose your PHI to researchers when an institutional review board or privacy board has reviewed the research proposal and established protocols to protect the privacy of your PHI. We may also make limited disclosures of your PHI for actuarial studies. 
-
-Marketing. We may use your PHI to contact you with information about our health-related products and services, product enhancements or upgrades, or about treatment alternatives that may be of interest to you. 
-
-Employers or Organization Sponsoring A Group Health Plan. We may disclose your PHI and the PHI of others enrolled in your group health plan to the employer or other organization that sponsors your group health plan. Please see your group health plan document for a full explanation of the limited uses and disclosures that the plan sponsor may make of your PHI in providing plan administration. We may also disclose summary information about the enrollees in your group health plan to the plan sponsor to use to obtain premium bids for the health insurance coverage offered through your group health plan or to decide whether to modify, amend or terminate your group health plan. 
-
-Death and Organ Donation. We may disclose the PHI of a deceased person to a coroner, medical examiner, funeral director, or organ procurement organization to assist them in performing their duties. 
-
-Military Activity, National Security, Protective Services. If you are or were in the armed forces, we may disclose your PHI to military command authorities. We may also disclose your PHI to authorized federal officials for conducting national security and intelligence activities, and for the protection of the President of the United States, other federal officials or foreign heads of state. 
-
-Correctional Institutions. If you are an inmate, we may disclose your PHI to a correctional institution or law enforcement official for: (i) providing health care to you; (ii) your health and safety and the health and safety of others, or (iii) the safety and security of the correctional institution. 
+  * Name
+  * Mailing address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
+  * Credit Card or debit card number
+  * Health plan membership number
 
 
 
+If you share any personal information with us or our third-party service providers, you're representing that you have the authority to do so.
 
-**Information We Collect About You**
+## How We Handle Your Personal Information 
 
-In the normal course of our operations, we may collect information from: (i) You (through information you give us on your applications for insurance or on other forms, through telephone or in-person interviews with you, and through information you provide to an insurance agent or your employer such as your address, telephone number, or your health status, or other types of insurance coverage you have; (ii) Your Transactions with us, such as your claims history; (iii) Other Insurance Companies that currently insure you or that have insured you in the past, such as your claims history; (iv) Your Employer, such as information your employer receives from you for purposes of eligibility for insurance coverage; or (v) Your Health Care Providers who currently treat you or have treated you in the past, such as information about your health status. 
+Our Web Privacy Policy also describes how we handle personal information you may provide when you visit bcbsnc.com.
 
-**Our Policies for Protecting Your Protected Health Information**
+We don't use or disclose personal information you give us online, unless it's required or permitted under federal and state laws that apply to us. These laws closely regulate how we may handle your information.
 
-We protect the PHI that we maintain about you by using physical, electronic, and administrative safeguards that meet or exceed applicable law. When our business activities require us to provide PHI to third parties, they must agree to follow appropriate standards of security and confidentiality regarding the PHI provided. Access to your PHI is also restricted to appropriate business purposes. 
+Under these laws, we're permitted to use and disclose your personal information to support the services provided on this website, as well as our offline business functions.
 
-We have developed privacy policies to protect your PHI. All employees receive training on these policies and they must sign a privacy acknowledgment form, binding them to abide by our policies and procedures. 
+We'll disclose information to government officials or others if we're legally required to do so. In addition, certain statutory authorizations allow us to disclose personal information in emergency situations or to protect our rights and property.
 
-In addition to these safeguards, we have developed a variety of other protections, including: (i) using only aggregate or non-identifiable information for research or quality measurement purposes whenever possible; (ii) using confidentiality provisions in our contracts with third parties to protect the confidentiality of your personal information and restrict use and disclosure of this information. (iii) restricting access to personal information through internal procedures and pass code access to computer systems; and (iv) restricting access to personal information by physical security measures in certain areas of our business operations, including employee badges, and restricted business areas. 
+We also may disclose your personal information to our agents or business associates who perform various functions on our behalf, but we require these third parties to agree in writing to safeguard your information appropriately. In addition, we don't sell or rent your personal information to third parties.
 
-**Your Rights**
+We and our third-party service providers may use your personal information to:
 
-The following is a list of your rights with respect to your PHI. 
+Respond to your inquiries and fulfill your requests
 
-Right to Access, Inspect and Copy Your PHI. You have the right to see or get a copy of the PHI that we maintain about you. Your request must be in writing. You may visit our office to look at the PHI, or you may ask us to mail it to you. We will charge a reasonable fee to cover the cost of copying the information. We will contact you to review the fee and obtain your agreement to pay the charges. If you wish to access your PHI, please call the number on the back of your identification card and request an access to PHI form. 
+Send you administrative information, including information regarding any solutions or tools we provide on our website and changes to our terms, conditions and policies
 
-Right To Correct, Amend or Delete Your PHI. You have the right to ask us to correct, amend or delete your PHI. Your request must be in writing. We are not required to agree to make the correction, amendment or deletion. For example, we will not generally make a correction, amendment or deletion if we did not create the PHI or if we believe that the PHI is correct. If we deny your request, we will provide you a written explanation. You have the right to file a statement explaining why you disagree with our decision and setting forth what you believe is the correct, relevant and fair information. We will file the statement with your PHI and we will provide it to anyone who receives any future disclosures of your PHI. If we accept your request to correct, amend or delete your PHI, we will make reasonable efforts to inform others, including people you name, of the amendment and include the changes in any future disclosures of your PHI. If you wish to correct or amend your PHI, please call the telephone number on the back of your identification card and request an amendment of PHI form. 
+Allow you to share data from a tool or solution we provide on our website to your friends
 
-Right to Request an Accounting of Disclosures. You have a right to receive a list of certain instances in which we or our business associates disclosed your PHI for purposes other than our treatment, payment or health care operations and certain other activities. You are entitled to this accounting of disclosures for the six years prior to the date you make the request, but not for disclosures made before April 14, 2003. We will provide you with the date on which we made a disclosure, the name of the person or entity that received your PHI, a description of the PHI that we disclosed, the reason for the disclosure, and certain other information. If you request this list more than once in a 12-month period, we may charge you a reasonable fee for preparing the list. Your request must be in writing and you may call the number on the back of your identification card and request an accounting of disclosures form. 
+Personalize your experience on our website by presenting products or offers tailored to you
 
-Right to Request Restrictions. You have the right to ask us to place additional restrictions on our use or disclosure of your PHI for our treatment, payment and health care operations. We are not required to agree to these restrictions. In most instances, we will not agree to these restrictions unless you have requested Confidential Communications as described below. 
+Send you communications related to your health plan and, if you choose to opt in, related marketing promotions
 
-Right to Confidential Communications. If you believe that a disclosure of your PHI could endanger you, you may ask us to communicate with you confidentially at a different location. For example, you may ask us to contact you at your work address or other place instead of your home address. You may call the number on the back of your identification card to request a confidential communications form. Once we have received your confidential communications request, we will only communicate with you as directed on the confidential communications form, and we will also terminate any prior authorizations that you have filed with us. 
+In addition, we may use personal information you submit to our website to create aggregated, anonymous data, which we'll use to tailor our site to your interests, develop new features, and monitor the usage of our site. We may perform statistical analyses of these aggregate data and disclose the results as permitted by law.
 
-Right to File a Privacy Complaint. You may complain to us if you believe that we have violated your privacy rights. You may also file a complaint with us by contacting the Chief Privacy Official, P.O. Box 2291, Durham, NC 27702-2291. You may also file a complaint with the Secretary of the U. S. Department of Health and Human Services in Washington, D.C. We will not take any action against you or in any other way retaliate against you for filing a complaint with the Secretary or with us. 
+## How We Handle Your Protected Health Information (PHI)
 
-Right to Obtain a Copy of this Privacy Notice. You have a right to request a copy of this notice at any time by calling the number on the back of your identification card or you may obtain a copy from our Web site. Even if you agreed to receive this notice electronically, you are still entitled to a paper copy of this notice. 
+Federal law requires that we publish a Notice of Privacy Practices describing how we handle our members' PHI collected both online and offline. You may want to read this Notice to learn how we process your protected health information as well as what rights you have concerning such information.
+
+We don't use or disclose any PHI you submit to our website or our tools and services unless it's required or permitted under federal and state laws that apply to us or our website.
+
+These laws closely regulate how we may handle your PHI. Under these laws, we're permitted to use and disclose your PHI to support the services we provide on this website, as well as our offline business functions.
+
+We may disclose your PHI to our agents or business associates who perform various functions on our behalf, but we require these third parties to agree in writing to safeguard your PHI appropriately. We don't sell or rent your PHI to third parties.
+
+We'll disclose information to government officials or others if we're legally required to do so. In addition, certain statutory authorizations allow us to disclose personal information in emergency situations or to protect our rights and property.
+
+We may use the PHI you submit to create aggregated, anonymous data, which we'll use to tailor our site to your interests, develop new features and monitor the usage of our site. We may also perform statistical analysis of this aggregate data and disclose the results as permitted by law.
+
+We may disclose, transfer or sell the personal information collected through our website as an asset of the company in conjunction with due diligence for or completion of a merger, reorganization or sale to a third party of our company or a major portion of its assets.
+
+Although we don't currently anticipate such an event, changes to our Web Privacy Policy might result.
+
+We and our third-party service providers may use Protected Health Information to:
+
+  * Respond to your inquiries and fulfill your requests, such as to send newsletters to you
+  * Send you administrative information, including information regarding Blue Cross NC and changes to our terms, conditions and policies
+  * Personalize your Blue Cross NC experience by presenting products and offers tailored to you
 
 
-|  
+
+In addition, we may use protected health information for our business purposes, such as quality improvement, data analysis, audits, new product development, service improvement, usage and trend identification, and promotional campaign effectiveness.
+
+## Other Information
+
+In addition, we may collect a variety of other information types that aren't individually identifiable, including:
+
+  * Type of browser you use
+  * Files you request
+  * Operating system you use
+  * IP address from the pages you visited
+  * URLs of the pages that you came from and go to
+  * Geographic location from where you request information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information
+  * Aggregated information
+
+
+
+We may be required to share information you provide us through our website in other, limited circumstances in which we may share or transfer the information you provide us through our website, for example, to respond to judicial process, to comply with state, federal, or local laws, to protect the security or integrity of our databases or website, to take precautions against liability, in the event of a corporate reorganization or, to the extent required by law, to provide information to law enforcement agencies.
+
+## How We May Use and Disclose Other Information
+
+Because other information isn't personally identifiable, we reserve the right to use and disclose other information for any purpose.
+
+If we match other information with either personal information or PHI (such as your name and ZIP Code or your name and a medical condition), we treat the combination as personal information or PHI, as appropriate, as long as the information is combined.
+
+## Cookies
+
+We use what's known as cookies to improve your experience on our site. Cookies are small pieces of data we place in your computer's browser to store your preferences.
+
+Cookies themselves don't generate personal information about you. We don't attempt to link cookie data to your personal information. We use cookies only to make your experience on our website more enjoyable.
+
+If you choose not to accept cookies, you may be unable to take full advantage of our website's features.
+
+## Mobile
+
+This information by itself doesn't itself identify you to Blue Cross NC, though the information may be unique or consist of or contain details you consider personal.
+
+If you use products and services that are location-enabled (for example, Google Maps) while accessing our website, tools or services, you may be sending us your location information. This information may reveal your actual location, such as GPS data.
+
+We may record your phone number when you:
+
+  * Send it to us
+  * Ask us to remember it
+  * Make a call to us
+  * Receive from us or send to us a text or SMS (short message service)
+
+
+
+The information we collect for mobile may include:
+
+  * Device or hardware IDs and device type
+  * Type of request
+  * Your phone carrier
+  * Your carrier user ID
+  * The content of your request
+  * Basic usage stats about your device
+
+
+
+Some of our products, tools and services may allow you to download and/or personalize the content you receive from us. For these products and services, we record information about your downloads and preferences, along with any information you provide about yourself. If the product, tool or service requires you to log in with your Blue Cross NC account, this information will be associated with your Blue Cross NC account.
+
+## Security
+
+We've taken steps to protect information collected from our online visitors against unauthorized access and use.
+
+The chat feature and all online forms that include information captured from our users are secured using a Secured Socket Layer (SSL), which encrypts the information as it travels from a desktop to our server.
+
+We're committed to ensuring transaction security and privacy. We obtain certification from industry-recognized security vendors to ensure our systems meet security standards.
+
+As an additional security measure, we use a firewall to prevent unauthorized access to our site. Site personnel monitor activity logs at regular intervals to look for unauthorized intrusions.
+
+For your protection, please don't send e-mail to us that contains your personal health information. We cannot guarantee the security of these emails before they reach us, in contrast to the security precautions in place when you send us personal information through an online form on this website. If you're a member, we suggest you use the Blue Connect Inbox to send secure messages and receive secure messages from us.
+
+In addition, our Enterprise Security program protects our information and the supporting infrastructure against unauthorized use, disclosure, modification, damage and loss. Enterprise Security promotes a culture that understands and respects the value of protecting information while following legal, regulatory and accreditation requirements and standards that govern online security.
+
+Research, planning and implementation of technologies, tools and training programs are used to secure our critical electronic information.
+
+## Protecting Your Information Online
+
+Once someone else has your personal information or PHI, that information is no longer in your control. It can be reused, sold, lost, stolen or misused. Protecting your personal information online is a good and necessary action to take. One of the most obvious reasons would be to prevent identity theft. A good rule of thumb is to always ask yourself this question when it comes to your personal information: Can this information be used to reset the password for my online bank account or some other sensitive online account? If so, then you shouldn't share that kind of information online or anywhere else for that matter.
+
+Here are some simple actions to protect your personal information online:
+
+  * Weigh the benefit against the risk - is what you are getting out of this transaction worth the exposure of your data?
+  * Read the fine print - understand what websites plan to do with your data, and decide if this is acceptable to you. Provide only the minimum amount of information necessary.
+  * Create an account using a nickname or made-up name, and use an online email account that you don't normally use and don't care if it gets spam.
+
+
+
+Use these basic technical controls to prevent yourself from falling victim to a security breach:
+
+  * Use anti-virus software.
+  * Make sure all your devices have the latest security updates.
+  * Don't use the same password for all your accounts.
+  * Use a passphrase to strengthen your passwords.
+  * Use a password longer than 10 characters. The longer the password, the better your chances of not getting hacked.
+  * Enable encryption on your home router, disable remote access features, use its firewall and change its default name.
+  * Be cautious when using free, but not always secure, public Wi-Fi. 
+  * Know what devices are connected to your network.
+  * Delete any emails that are out of the ordinary.
+  * If you receive a phone call from technical support and you didn't ask them to contact you, don't give away any personal information. Typically, you call technical support when you need help, not the other way around.
+  * Create backups of your computer.
+
+
+
+## Links to Third-Party Web Sites
+
+We may provide links and pointers to websites maintained by other companies or third-party websites. From time to time, we may provide materials from other parties or companies on this website.
+
+Know that these third-party websites are independently owned and operated by someone other than Blue Cross NC. These websites have their own privacy practices and policies. We provide these materials and links to other websites "as is" and without warranties of any kind, either express or implied.
+
+To the fullest extent permissible pursuant to applicable law, we disclaim all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness. We don't warrant or make any representations regarding the use or the results of the use of the third-party materials in the third-party websites in terms of their correctness, accuracy, timeliness, reliability or otherwise.
+
+## Children's information
+
+Although parents are free to use this website on behalf of their children, we don't direct this site to children or knowingly collect personal information from children. We're pleased to work with parents and guardians to delete from our records personal information that a child may have disclosed improperly on this website.
+
+## Changes in our corporate status
+
+We may disclose, transfer or sell personal information collected through our website as an asset of the company in conjunction with due diligence for or completion of a merger, reorganization or sale to a third party of our company or a major portion of its assets. Although we don't currently anticipate such an event, changes to our privacy policy might result.
+
+## Privacy Policy Changes
+
+This Web Privacy Policy is effective September 1, 2015. We may change this policy page at any time without notice.
+
+## Contact us
+
+We're sincerely committed to protecting your personal privacy. While information is the cornerstone of our ability to provide superior service, our most important asset is our members' trust. Keeping member information secure and using it in a responsible manner is a top priority for us.
+
+If you have any questions or concerns about the information provided via this website, please [contact us](https://www.bluecrossnc.com/contact-us "Contact Us").
