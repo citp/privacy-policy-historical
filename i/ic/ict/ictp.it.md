@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ictp.it privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325054926id_/https%3A//www.ictp.it/terms-of-use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ictp.it privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713112932id_/https%3A//www.ictp.it/terms-of-use.aspx) for the most accurate reproduction.*
 
 # ICTP - Data Protection and Web Terms of Use
 
