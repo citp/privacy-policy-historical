@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207041531id_/http%3A//www.lysol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714013411id_/https%3A//www.lysol.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Lysol®
 
-2018-09-19
+Last update 2019-04-03
 
 **PRIVACY POLICY**
 
@@ -12,27 +12,43 @@ This privacy policy applies only to the websites controlled by Reckitt Benckiser
 
  **Sections**
 
-  * [ _A. Information Collected_](http://legal.rb.com/us/privacy-policy/#ainformationcollected)
-  * [ _B. Use of Information Collected Via the Sites_](http://legal.rb.com/us/privacy-policy/#buseofinformationcollectedviathesites)
-  * [ _C. Sharing and Disclosure of Information_](http://legal.rb.com/us/privacy-policy/#csharinganddisclosureofinformation)
-  *  _D. Google Analytics_
-  * [ _E. Collection and Use of Information from Children Under the Age of 13_](http://legal.rb.com/us/privacy-policy/#dcollectionanduseofinformationfromchildrenundertheageof13)
-  * [ _F. International Transfer of Information_](http://legal.rb.com/us/privacy-policy/#einternationaltransferofinformation)
-  * [ _G_. Opt-Out](http://legal.rb.com/us/privacy-policy/#foptout)
-  * [ _H.  Forums, Chat Rooms and Other Public Posting Areas_](http://legal.rb.com/us/privacy-policy/#gforumschatroomsandotherpublicpostingareas)
-  * [ _I. Third Party Web Sites_](http://legal.rb.com/us/privacy-policy/#hthirdpartywebsites)
-  * [ _J. Assignment_](http://legal.rb.com/us/privacy-policy/#iassignment)
-  * [ _K. Changes to this Privacy Policy_](http://legal.rb.com/us/privacy-policy/#jchangestothisprivacypolicy)
-  * [ _L. Security_](http://legal.rb.com/us/privacy-policy/#ksecurity)
-  * [ _M. Your Rights_](http://legal.rb.com/us/privacy-policy/#lyourrights)
-  * [ _N. Governing Law / Venue / Forum_](http://legal.rb.com/us/privacy-policy/#mgoverninglawvenueforum)
-  * [ _O. Contacting RB_](http://legal.rb.com/us/privacy-policy/#ncontactingrb)
-  * P. Additional Information for Non-U.S. Residents
-  * [EU- _U.S.  _and Swiss-U.S.  _PRIVACY SHIELD_](http://legal.rb.com/us/privacy-policy/#euusprivacyshield)
-  * [ _YOUR CALIFORNIA PRIVACY RIGHTS_](http://legal.rb.com/us/privacy-policy/#yourcaliforniaprivacyrights)
-  * [ _Dates_](http://legal.rb.com/us/privacy-policy/#dates)
+·        [ _A. Information Collected_](http://legal.rb.com/us/privacy-policy/#ainformationcollected)
 
+·        [ _B. Use of Information Collected Via the Sites_](http://legal.rb.com/us/privacy-policy/#buseofinformationcollectedviathesites)
 
+·        [ _C. Sharing and Disclosure of Information_](http://legal.rb.com/us/privacy-policy/#csharinganddisclosureofinformation)
+
+·         _D. Google Analytics_
+
+·        [ _E. Collection and Use of Information from Children Under the Age of 13_](http://legal.rb.com/us/privacy-policy/#dcollectionanduseofinformationfromchildrenundertheageof13)
+
+·        [ _F. International Transfer of Information_](http://legal.rb.com/us/privacy-policy/#einternationaltransferofinformation)
+
+·        [ _G. Opt-Out_](http://legal.rb.com/us/privacy-policy/#foptout)
+
+·        [ _H. Forums, Chat Rooms and Other Public Posting Areas_](http://legal.rb.com/us/privacy-policy/#gforumschatroomsandotherpublicpostingareas)
+
+·        [ _I. Third Party Web Sites_](http://legal.rb.com/us/privacy-policy/#hthirdpartywebsites)
+
+·        [ _J. Assignment_](http://legal.rb.com/us/privacy-policy/#iassignment)
+
+·        [ _K. Changes to this Privacy Policy_](http://legal.rb.com/us/privacy-policy/#jchangestothisprivacypolicy)
+
+·        [ _L. Security_](http://legal.rb.com/us/privacy-policy/#ksecurity)
+
+·        [ _M. Your Rights_](http://legal.rb.com/us/privacy-policy/#lyourrights)
+
+·        [ _N. Governing Law / Venue / Forum_](http://legal.rb.com/us/privacy-policy/#mgoverninglawvenueforum)
+
+·        [ _O. Contacting RB_](http://legal.rb.com/us/privacy-policy/#ncontactingrb)
+
+·         _P. Additional Information for Non-U.S. Residents_
+
+·        [ _EU-U.S. and Swiss-U.S. PRIVACY SHIELD_](http://legal.rb.com/us/privacy-policy/#euusprivacyshield)
+
+·        [ _YOUR CALIFORNIA PRIVACY RIGHTS_](http://legal.rb.com/us/privacy-policy/#yourcaliforniaprivacyrights)
+
+·        [ _Dates_](http://legal.rb.com/us/privacy-policy/#dates)
 
  **A. Information Collected**
 
@@ -44,7 +60,7 @@ We collect two types of information from visitors to the Sites: (1) Personally I
 
 "Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name. RB collects and stores the personally identifiable information that you have provided to us on the Sites, including as follows::
 
-We may collect your first and last name and product or service details if you contact us with a question related to our products or services; We may collect your first and last name, mailing address and billing information if you purchase a product or service on the Sites; We may collect registration details about a product that you purchase from RB and this information may be tied to your name and mailing address; We may collect your first and last name, mailing information, email address and billing information if you download information from a Site; We may collect your name, email address or phone number if you contact us with a question; We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes; and/or We may collect your name and mobile phone number if you consent to receive autodialed and/or pre-recorded telemarketing messages from or on behalf of us at your mobile number. If you do not want RB to collect your personally identifiable information, please do not provide it to us.
+We may collect your first and last name and product or service details if you contact us with a question related to our products or services; We may collect your first and last name, mailing address and billing information if you purchase a product or service on the Sites; We may collect registration details about a product that you purchase from RB and this information may be tied to your name and mailing address; We may collect your first and last name, mailing information, email address and billing information if you download information from a Site; We may collect your name, email address or phone number if you contact us with a question; We may collect your first and last name, date of birth, email address, and/or photograph(s) if you choose to participate in a contest or sweepstakes; and/or We may collect your name and mobile phone number if you consent to receive autodialed and/or pre-recorded telemarketing messages from or on behalf of us at your mobile number. If you do not want RB to collect your personally identifiable information, please do not provide it to us.
 
 (2) Non-Personally Identifiable Information
 
@@ -68,7 +84,7 @@ Product Information -- We may collect registration information or other details 
 
 We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
 
-To deliver services; To alert you to special offers, updated information and other new products or services from RB, or other third parties, or to forward promotional materials to you (subject to your right to opt out of receiving such alerts or promotional materials as outlined in Section G below); To complete a transaction or service requested by you; To ensure the Sites are relevant to your needs; To help us create and publish content most relevant to you; To notify you about a material change to this privacy policy or our Terms of Use, if necessary; To allow you access to limited-entry areas of the Sites; and To contact you in response to sign up forms such as Contact Us or other inquiry. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion.
+To deliver services; To alert you to special offers, updated information and other new products or services from RB, or other third parties, or to forward promotional materials to you (subject to your right to opt out of receiving such alerts or promotional materials as outlined in Section G below); To complete a transaction or service requested by you; To ensure the Sites are relevant to your needs; To help us create and publish content most relevant to you; To notify you about a material change to this privacy policy or our Terms of Use, if necessary; To allow you access to limited-entry areas of the Sites; and To contact you in response to sign up forms such as Contact Us or other inquiry. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion including, where consent is obtained, to publicly post photographs you submitted in connection with the sweepstakes or contest for RB’s promotional purposes. 
 
 (2) Non-Personally Identifiable Information
 
@@ -102,23 +118,19 @@ We use non-personally identifiable information collected on the Sites in the man
 
  **D. Google Analytics**
 
-Our Sites use Google Analytics, a web analytic service provided by Google, Inc. Google Analytics employs cookies that are stored to your computer in order to facilitate an analysis of your use of our Sites. Google Analytics uses javascript ad cookies to help us analyze how visitors use our Sites. For more information on Google Analytics cookies, please visit [ _www.google.com/policies_](http://www.google.com/policies). To opt-out of being tracked by Google Analytics across all websites, please visit [ _http://tools.google.com/dlpage/gaoptout_](http://tools.google.com/dlpage/gaoptout). This allows you to download and install a Google Analytics cookie-free web browser referred to as the “Google Analytics Opt-out Brower Add-On.”
+Our Sites use Google Analytics, a web analytic service provided by Google, Inc. Google Analytics employs cookies that are stored to your computer in order to facilitate an analysis of your use of our Sites. Google Analytics uses javascript ad cookies to help us analyze how visitors use our Sites. For more information on Google Analytics cookies, please visit [www.google.com/policies](http://www.google.com/policies). To opt-out of being tracked by Google Analytics across all websites, please visit <http://tools.google.com/dlpage/gaoptout>. This allows you to download and install a Google Analytics cookie-free web browser referred to as the “Google Analytics Opt-out Brower Add-On.”
 
-  1.  _Display Advertising_
-
-
+1.    _Display Advertising_
 
 Our Sites have implemented and use display advertising, and we utilize Google Analytics to implement specific features called (i) Remarketing, and (ii) Demographics and Interest Reporting. These are features of Google’s Advertising / AdWords that allow us to optimize the delivery of ad content specifically targeted to a visitor’s interests based upon previous visits to our Sites. They also provide us with information about the age and gender of our visitors, along with the interests they express through their online travel and purchasing activities.
 
-If you’d like more information about Remarketing in Google Analytics, please visit [ _https://support.google.com/analytics/answer/2611268?hl=en_](https://support.google.com/analytics/answer/2611268?hl=en). For more information about Demographics and Interest Reporting, please visit [ _https://support.google.com/analytics/answer/2799357?hl=en_](https://support.google.com/analytics/answer/2799357?hl=en). 
+If you’d like more information about Remarketing in Google Analytics, please visit <https://support.google.com/analytics/answer/2611268?hl=en>. For more information about Demographics and Interest Reporting, please visit <https://support.google.com/analytics/answer/2799357?hl=en>. 
 
-If you would like to opt-out of Google Analytics for display advertising, you may do so by using the Ads Preferences Manager at [ _https://adssettings.google.com/authenticated?hl=en_](https://adssettings.google.com/authenticated?hl=en). Alternatively, you can disable the use of cookies for interest-based advertising via the advertising network initiative, by following the instructions at <http://optout.networkadvertising.org/?c=1#!/>.
+If you would like to opt-out of Google Analytics for display advertising, you may do so by using the Ads Preferences Manager at <https://adssettings.google.com/authenticated?hl=en>. Alternatively, you can disable the use of cookies for interest-based advertising via the advertising network initiative, by following the instructions at <http://optout.networkadvertising.org/?c=1#!/>.
 
 For more information about how we use cookies through Google Analytics, please read our Cookie Policy. 
 
-  1. Google Tag Manager (GTM)
-
-
+2.    _Google Tag Manager (GTM)_
 
 GTM is a tag management system to manage JavaScript and HTML tags used for tracking and analytics on websites. Tags are small code elements that, among other things, are used to measure traffic and visitor behavior; to understand the effect of online advertising and social channels; to set up remarketing and orientation towards target groups; and to test and optimize websites. GTM makes it easier for us to integrate and manage our tags. We use GTM on our Sites to include the Google Analytics tracking tool. 
 
@@ -130,11 +142,11 @@ RB does not knowingly collect or solicit Personal Information from anyone under 
 
 If you choose to provide us with personally identifiable information, RB may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.  
 
- **G**. Opt-Out
+ **G. Opt-Out**
 
 From time to time, we communicate with users who subscribe to our services via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional and you have consented to receiving such e-mails by providing your email address.
 
-However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites. For e-mails, the opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until we have had time to make the opt out effective. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. For text messages, should you choose to “unsubscribe” or stop receiving such messages, you can contact us directly at  _consumer.relations@rb.com_  or reply with the message “STOP” to a message after it is received. Further, you hereby confirm consent to receiving a confirmatory message in response to your STOP request. Message and data rates may apply.
+However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites. For e-mails, the opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until we have had time to make the opt out effective. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. For text messages, should you choose to “unsubscribe” or stop receiving such messages, you can contact us directly at [consumer.relations@rb.com](mailto:consumer.relations@rb.com) or reply with the message “STOP” to a message after it is received. Further, you hereby confirm consent to receiving a confirmatory message in response to your STOP request. Message and data rates may apply.
 
  **H. Forums, Chat Rooms and Other Public Posting Areas**
 
@@ -172,7 +184,7 @@ This Agreement shall be governed by the laws of the State of New Jersey and by t
 
  **O. Contacting RB**
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at  _consumer.relations@rb.com_  or write to us at:
+If you have any questions about this privacy policy or our privacy practices, please contact us at [consumer.relations@rb.com](mailto:consumer.relations@rb.com) or write to us at:
 
 Reckitt Benckiser LLC 
 
@@ -184,13 +196,13 @@ Attn: Consumer Relations
 
  All information you provide in any written communication will also be covered by this policy.
 
-P. Additional Information for Non-U.S. Residents
+ **P. Additional Information for Non-U.S. Residents**
 
 This Site and material provided on this Site are solely for promoting products, programs, and business operations within the United States. If you provide Personally Identifiable Information to us (including through the Contact Us section), it may be transferred to and processed on computers in the United States. and other countries. Do not provide us with your Personally Identifiable Information if you do not want your Personally Identifiable Information to be transferred to the United States. or to other countries, or if the laws in your country restrict these types of transfers. Your provision of Personally Identifiable Information to us will be handled in accordance with this Privacy Policy. Your provision of Personally Identifiable Information to us through this Site means that you agree to this Privacy Policy.
 
-EU- **U.S.  **AND SWISS-U.S.  **PRIVACY SHIELD**
+ **EU-U.S. AND SWISS-U.S. PRIVACY SHIELD**
 
-RB complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Economic Area (EEA) (which includes the member states of the European Union plus Iceland, Liechtenstein and Norway) and Switzerland to the United States. In doing so, RB has certified that, in respect of all personal data it receives from the EEA and Switzerland, it will adhere to the Privacy Shield Principles of: Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the terms in this policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To access the Privacy Shield List, and to find details of RB's certification, please visit [ _www.privacyshield.gov_](http://www.privacyshield.gov/).
+RB complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Economic Area (EEA) (which includes the member states of the European Union plus Iceland, Liechtenstein and Norway) and Switzerland to the United States. In doing so, RB has certified that, in respect of all personal data it receives from the EEA and Switzerland, it will adhere to the Privacy Shield Principles of: Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the terms in this policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To access the Privacy Shield List, and to find details of RB's certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
 
 RB's participation in the Privacy Shield applies to all personal data that is subject to this privacy policy and is received from the EEA and Switzerland. RB will comply with the Privacy Shield Principles in respect of such personal data. Please note that some Non-Personally Identifiable Information (as described above) that originates from the EEA or Switzerland may be classed as personal information for the purposes of Privacy Shield Framework (e.g., IP addresses; cookie IDs and other online identifiers; and profile information that is not necessarily linked to a named individual).
 
@@ -198,7 +210,7 @@ Where RB transfers personal data from the EEA or Switzerland to its third-party 
 
 If you believe that RB is processing your personal data within the scope of its Privacy Shield certification, you may direct any inquiries or complaints concerning its Privacy Shield compliance in the following ways:
 
-(1) In the first instance, please send your inquiry or complaint to  _consumer.relations@rb.com_  or by writing to one of the following mailing addresses:
+(1) In the first instance, please send your inquiry or complaint to [consumer.relations@rb.com](mailto:consumer.relations@rb.com) or by writing to one of the following mailing addresses:
 
 Reckitt Benckiser LLC 
 
@@ -220,9 +232,9 @@ SL1 3UH
 
 RB will respond within forty-five (45) days.
 
-(2) Whether you are from the EEA or Switzerland, if you are not satisfied with RB's response, or for complaints that cannot be resolved with RB directly, RB has committed to refer unresolved privacy complaints under the Privacy Shield via the American Arbitration Association – International Centre for Dispute Resolution, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by us, please visit: [ _http://go.adr.org/privacyshield.html_](http://go.adr.org/privacyshield.html) for more information and to file a complaint directly with the AAA.
+(2) Whether you are from the EEA or Switzerland, if you are not satisfied with RB's response, or for complaints that cannot be resolved with RB directly, RB has committed to refer unresolved privacy complaints under the Privacy Shield via the American Arbitration Association – International Centre for Dispute Resolution, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by us, please visit: <http://go.adr.org/privacyshield.html> for more information and to file a complaint directly with the AAA. 
 
-(3) If you are from Switzerland and you believe that your information has not been processed in compliance with the Swiss-U.S. Privacy Shield Framework, you may raise your concern with the Swiss Federal Data Protection and Information Commissioner (“FDPIC”). RB will cooperate with the FDPIC and comply with the information and advice provided to it by the FDPIC in relation to unresolved complaints. For more information about the FDPIC, please visit <https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html>.
+(3) If you are from Switzerland and you believe that your information has not been processed in compliance with the Swiss-U.S. Privacy Shield Framework, you may raise your concern with the Swiss Federal Data Protection and Information Commissioner (“FDPIC”). RB will cooperate with the FDPIC and comply with the information and advice provided to it by the FDPIC in relation to unresolved complaints. For more information about the FDPIC, please visit <https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html>.
 
 (4) Your complaint can be made or referred to the U.S. Department of Commerce or the U.S. Federal Trade Commission for further investigation.
 
@@ -246,6 +258,4 @@ Attn: Consumer Relations
 
 Effective Date: September 30, 2016
 
-Last Updated: September 17, 2018 
-
-1
+Last Updated: April 3, 2019
