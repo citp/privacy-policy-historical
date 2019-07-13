@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gathersuccess.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519052356id_/http%3A//www.gathersuccess.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gathersuccess.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713090316id_/http%3A//www.gathersuccess.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure, GDPR , PDPA & Privacy Policy | GatherSuccess
 
