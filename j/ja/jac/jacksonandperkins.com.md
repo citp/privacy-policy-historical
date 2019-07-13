@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630055214id_/https%3A//www.jacksonandperkins.com/privacy-policy/a/534) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713143603id_/https%3A//www.jacksonandperkins.com/privacy-policy/a/534) for the most accurate reproduction.*
 
 # Privacy Policy
 
