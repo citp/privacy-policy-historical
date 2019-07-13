@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725055440id_/https%3A//westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713113304id_/https%3A//westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy notice discloses the privacy practices for www.westcoastuniversity.edu.  This privacy notice applies solely to information collected by this website, except where stated otherwise. 
+This privacy notice discloses the privacy practices for www.westcoastuniversity.edu. This privacy notice applies solely to information collected by this website, except where stated otherwise. 
 
 ## What personally identifiable information does West Coast University collect from me?
 
@@ -10,7 +10,7 @@ West Coast University collects information in several ways from different parts 
 
 In addition to registration, we may ask you for personal information at other times, including, (but not limited to), when you download a file (such as a .PDF file) from us, when you ask us to contact you, when you join our mailing list; and when you report a problem with one of our sites or services. If you contact West Coast University, we may keep a record of that correspondence. West Coast University may also occasionally ask users to complete surveys that we use for research. Wherever West Coast University collects personal information we make an effort to include a link to this Privacy Policy on that page.
 
-To be removed from any future communication, email or otherwise, [click here.](http://westcoastuniversity.edu/cpl/opt-out.html)
+To be removed from any future communication, email or otherwise, [click here.](https://web.archive.org/cpl/opt-out.html)
 
 ## What are cookies and how does West Coast University use them?
 
@@ -40,7 +40,7 @@ West Coast University does not sell or rent user information to anyone. We will 
 
 ## How does West Coast University secure my information?
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.  Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to provide you with the service requested have access to your information. The computers/servers on which we store personally identifiable information are kept in a secure environment.
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to provide you with the service requested have access to your information. The computers/servers on which we store personally identifiable information are kept in a secure environment.
 
 ## How could my submitted information be corrected or what do I do if I have concerns over misuse of my personal data?
 
@@ -55,7 +55,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 ## How will I be notified of any privacy policy changes?
 
- If a substantial privacy notice revision occurs, you will be notified by the university and the new privacy statement will be available for review. 
+If a substantial privacy notice revision occurs, you will be notified by the university and the new privacy statement will be available for review. 
 
 ## What else should I know about my privacy?
 
