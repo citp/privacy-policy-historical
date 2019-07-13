@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tefl.net privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517040425id_/https%3A//www.tefl.net/elt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.net privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713130137id_/https%3A//www.tefl.net/elt/privacy) for the most accurate reproduction.*
 
 # Teflnet: Privacy Notice
 
@@ -52,7 +52,7 @@ These cookies are used to analyse trends, administer the website, track visitor 
 
 ### How to manage cookies
 
-You can set your browser to accept or reject some or all cookies. For instructions on managing cookies, please see your browser’s Help section or visit [AboutCookies.org](https://www.aboutcookies.org/). Be aware that some parts of TEFL.net may not function after you change your cookie settings.
+You can set your browser to accept or reject some or all cookies. For instructions on managing cookies, please see your browser’s Help section or visit AboutCookies.org. Be aware that some parts of TEFL.net may not function after you change your cookie settings.
 
 ## How long we keep your personal data
 
