@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msdsonline.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905052543id_/https%3A//www.msdsonline.com/wp-content/uploads/2017/09/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msdsonline.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713050301id_/https%3A//www.msdsonline.com/wp-content/uploads/2017/09/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -48,7 +48,7 @@ VelocityEHS is responsible for the processing of personal data it receives, unde
 Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.
 The Company complies with the Privacy Shield Principles for all onward transfers of personal
 data from the EU and Switzerland, including the onward transfer liability provisions.
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks ,
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks,
 VelocityEHS is subject to the regulatory enforcement powers of the U.S. Federal Trade
 Commission. In certain situations, we may be required to disclose personal data in response to
 lawful requests by public authorities, including to meet national security or law enforcement
@@ -124,15 +124,15 @@ process and protect our customers’ data in accordance with privacy regulations
 confidentiality requirements.
 The Company may also collect, from you, the following personal information about your
 contacts:
-     •  [Name and email address], in order to forward a job posting
-     •  [Name and email address], in order to refer our products or services
-     •  [Email address], in order to share an article, blog post or other content
-     •  Through our “import contacts” feature we may collect the [name, email address, phone
-        number] of your contacts in order to [provide description of use/purpose of collection
-        e.g. to connect you with people you know who also use our service]
+     •   [Name and email address], in order to forward a job posting
+     •   [Name and email address], in order to refer our products or services
+     •   [Email address], in order to share an article, blog post or other content
+     •   Through our “import contacts” feature we may collect the [name, email address, phone
+         number] of your contacts in order to [provide description of use/purpose of collection
+         e.g. to connect you with people you know who also use our service]
 When you provide us with personal information about your contacts we will only use this
 information for the specific reason for which it is provided.
-     VelocityEHS                                  4                        Privacy Policy
+     VelocityEHS                                   4                        Privacy Policy
 
 
 If you believe that one of your contacts has provided us with your personal information and you
@@ -168,7 +168,7 @@ software may record information such as how often you use the site(s), the event
 within the application, aggregated usage, performance data, and where the application was
 downloaded from. We do not link the information we store within the analytics software to any
 personally identifiable information you submit within the application.
-     VelocityEHS                                  5                       Privacy Policy
+    VelocityEHS                                   5                       Privacy Policy
 
 
 Web Beacons
@@ -201,7 +201,7 @@ groups, technology companies or regulators, including no consistent standard of 
 user intent. VelocityEHS takes privacy and meaningful choice seriously and will make efforts to
 continue to monitor developments around DNT browser technology and the implementation of
 a standard.
-    VelocityEHS                                     6                     Privacy Policy
+     VelocityEHS                                   6                      Privacy Policy
 
 
 Mobile
@@ -241,13 +241,13 @@ Sharing with Service Providers
 We may share your information with third parties who provide services on our behalf to help
 with our business activities. These companies are authorized to use your personal information
 only as necessary to provide these services to us. These services may include:
-       •  Fulfilling orders and delivering packages
-       •  Payment processing
-       •  Providing customer service
-       •  Sending marketing communications
-       •  Fulfilling subscription services
-       •  Conducting research and analysis
-       •  Providing cloud computing infrastructure
+       •   Fulfilling orders and delivering packages
+       •   Payment processing
+       •   Providing customer service
+       •   Sending marketing communications
+       •   Fulfilling subscription services
+       •   Conducting research and analysis
+       •   Providing cloud computing infrastructure
 It is our policy not to sell lists containing personal information about Site users, registrants or
 subscribers. VelocityEHS may provide aggregate statistics about our clients, sales, traffic
 patterns, and related site information to reputable third-party vendors, but these statistics will
@@ -268,9 +268,9 @@ use that information for the specific reason for which it was provided to us.
 Examples of the types of personal information that may be obtained from public sources or
 purchased from third parties and combined with information we already have about you, may
 include:
-       •  Purchased marketing data about our customers from third parties that is combined with
-          information we already have about you, to create more tailored advertising and
-          products.
+       •   Purchased marketing data about our customers from third parties that is combined with
+           information we already have about you, to create more tailored advertising and
+           products.
      VelocityEHS                                  8                      Privacy Policy
 
 
@@ -304,7 +304,7 @@ like to discontinue receiving this information, you may update your email prefer
 the “Unsubscribe” link found in emails we send to you or at your member profile on our website
 or by contacting us through one of the methods listed below:
 E-mail: Privacy@EHS.com
-    VelocityEHS                                   9                       Privacy Policy
+    VelocityEHS                                  9                        Privacy Policy
 
 
 By Mail/Phone or Fax:
@@ -340,11 +340,11 @@ practices of the owner of that linked site. You should read their privacy polici
 how they use and protect personal information that they collect. VelocityEHS is not
 responsible for the privacy or information practices of its suppliers or any third-party Web
 sites.
-    VelocityEHS                                 10                        Privacy Policy
+    VelocityEHS                                  10                       Privacy Policy
 
 
 Who Can You Contact for More Information?
 Please direct any other questions regarding our privacy practices or this Privacy Policy to
 VelocityEHS at Privacy@EHS.com or by our customer service line at 1-888-362-2007.
-Last updated May 2018, VelocityEHS, All rights reserved.
-    VelocityEHS                                11                    Privacy Policy
+Last updated May 15th 2018, VelocityEHS, All rights reserved.
+    VelocityEHS                                 11                   Privacy Policy
