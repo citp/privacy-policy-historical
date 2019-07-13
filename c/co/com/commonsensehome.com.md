@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonsensehome.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424194754id_/https%3A//commonsensehome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensehome.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713043341id_/https%3A//commonsensehome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
