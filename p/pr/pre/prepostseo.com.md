@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepostseo.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413184110id_/https%3A//www.prepostseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepostseo.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713112308id_/https%3A//www.prepostseo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
