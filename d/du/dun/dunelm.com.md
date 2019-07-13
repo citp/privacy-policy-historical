@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunelm.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018053434id_/https%3A//www.dunelm.com/info/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelm.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713020730id_/https%3A//www.dunelm.com/info/help/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Dunelm
 
@@ -312,7 +312,6 @@ Category | Cookie name | Description
 ---|---|---  
 BloomReach Organic Search Analytics cookies | _br_uid_2 | Created by the BloomReach tracking pixel library (BrTrk). It creates a unique anonymous identifier for every browser or device. This cookie is set to expire after 1 year by default.  
 SNAP Analytics | _br_mzs | An analytics cookie that records the start and end of sessions. It is also used to route a specific shopper's traffic to the appropriate BloomReach SNAP web servers. This cookie is set to expire after 30 minutes by default.  
-SNAP Analytics | _br_mzs | An analytics cookie that records the start and end of sessions. It is also used to route a specific shopper's traffic to the appropriate BloomReach SNAP web servers. This cookie is set to expire after 30 minutes by default.  
 | _br_mzv | An analytics cookie that records visit information such as first visit, last visit, and referrer information. This cookie is set to expire after 2 years by default.  
 A/B Testing | _br_meu | To continually improve BloomReach SNAP services, A/B tests are performed to measure and compare the performance of various algorithms and features. This cookie that contains unique identifiers for the shopper's experiment segments. It is created and updated by the REST API service. This cookie is set to expire after 1 year by default.  
 | _br_me | Contains per-experiment analytics and performance data. It is created and updated by the REST API service. This cookie is set to expire after 1 year by default.  
@@ -344,29 +343,29 @@ Note: Registered customers are prompted to log on before they can view sensitive
 
 You may notice some cookies that aren't related to Dunelm. If you go on to a web page that contains embedded content, for example from YouTube, you may be sent cookies from these websites. We don't control these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
 
-Partner | Purpose | Dunelm | Worldstores  
----|---|---|---  
-Awin | Awin is a global affiliate network that brings together over 100,000 contributing publishers and 6,000 advertisers. An Awin Cookie will be used by affiliate window when you purchase from us through another site. To opt out see http://www.networkadvertising.org/choices  | ✓ |  |   
-Bazaarvoice | BazaarVoice manages and moderates all product review submissions.  | ✓ |  |   
-Bidswitch |  |  | ✓ | ✓  
-Bing | Bing offers and online advertising service, where Dunelm pay to display brief advertising copy, product listings, and video content. Bing use cookies to track how visitors get to and interact with websites. | ✓ | ✓ | ✓  
-Coremetrics | Coremetrics provides reports on the activity of visitors on Dunelm.com. The insights that we gain from the these reports help us improve the customer experience. | ✓ |  |   
-Criteo | Criteo is a personalised retargeting advertising company to display personalised online display advertising following a visit to Dunelm.com To opt out see <http://www.networkadvertising.org/choices/> | ✓ | ✓ | ✓  
-Digital Window |  |  | ✓ | ✓  
-DoubleClick Spotlight | Google's program to allow us to control the time and location of where online ads appear. | ✓ | ✓ | ✓  
-Facebook | The online social networking service, will use cookies to track how visitors get to websites | ✓ | ✓ | ✓  
-Global Digital Audiences | Identifies relevant customer audiences for marketing purposes. | ✓ |  |   
-Google | Google AdWords is an online advertising service, where Dunelm pay to display brief advertising copy, product listings, and video content. Google Adwords use cookies to track how visitors get to and interact with websites. Google Remarketing collects technical data relating to your browsing navigation to display personalized advertisements. Google Analytics is a web analytics service that tracks and reports on website traffic and conversion. GA Audiences / Google Tag Manager is a tag management system created by Google used to provide analytics.  | ✓ | ✓ | ✓  
-Hotjar Script | Hotjar allows us to see how vistors are really using our website by collecting feedback from journeys, forms and polls. | ✓ | ✓ | ✓  
-Kenshoo HD | Anonymous tracking of users who engage our adverts and/or website. They may collect the time and date of the engagement, Details about the device, operation system and browser used by the User, The URL of the landing page of the Customer Website, The URL of the referring website and The search term used by the User to reach the Customer Website To opt out see <http://match.xg4ken.com/services/fb/optout> | ✓ |  |   
-Monetate | Monetate builds and runs A/B and multivariate tests aswel as personalised content that can target segments of customers. | ✓ | ✓ | ✓  
-New Relic | New Relic monitors and measures the speed and performance of our websites and infrastructure. | ✓ | ✓ | ✓  
-Pinterest  | The social media service that helps you discover, share and collect your interests. Use cookies to track traffic. | ✓ |  |   
-Quantcast | Quantcast gives us a deeper understanding of our customer base, location, brand loyalties and interests. | ✓ |  |   
-Qubit | A tag management solution to aid the maintenance of all these third party cookies. | ✓ |  |   
-Rich Relevance | Rich Relevance offers personalised shopping experiences and product recommendations based on learned behaviours from all visitors. | ✓ |  |   
-Twitter | The online news and social networking service where users post and interact with messages. Uses cookies to track visitors. | ✓ |  |   
-Ve Interactive | Creates perspnalised experiences for customers |  | ✓ | ✓  
+Partner | Purpose | Dunelm  
+---|---|---  
+Awin | Awin is a global affiliate network that brings together over 100,000 contributing publishers and 6,000 advertisers. An Awin Cookie will be used by affiliate window when you purchase from us through another site. To opt out see http://www.networkadvertising.org/choices  | ✓  
+Bazaarvoice | BazaarVoice manages and moderates all product review submissions.  | ✓  
+Bidswitch |  |   
+Bing | Bing offers and online advertising service, where Dunelm pay to display brief advertising copy, product listings, and video content. Bing use cookies to track how visitors get to and interact with websites. | ✓  
+ContentSquare | ContentSquare is a solution which aggregates usage and frequency data to improve user experience. Statistics created are anonymous. To be excluded from this monitoring, please click here.  
+You can see more information via [www.contentsquare.com/privacy-policy/](https://www.contentsquare.com/privacy-policy/) | ✓  
+Coremetrics | Coremetrics provides reports on the activity of visitors on Dunelm.com. The insights that we gain from the these reports help us improve the customer experience. | ✓  
+Criteo | Criteo is a personalised retargeting advertising company to display personalised online display advertising following a visit to Dunelm.com To opt out see <http://www.networkadvertising.org/choices/> | ✓  
+Digital Window |  |   
+DoubleClick Spotlight | Google's program to allow us to control the time and location of where online ads appear. | ✓  
+Facebook | The online social networking service, will use cookies to track how visitors get to websites | ✓  
+Google | Google AdWords is an online advertising service, where Dunelm pay to display brief advertising copy, product listings, and video content. Google Adwords use cookies to track how visitors get to and interact with websites. Google Remarketing collects technical data relating to your browsing navigation to display personalized advertisements. Google Analytics is a web analytics service that tracks and reports on website traffic and conversion. GA Audiences / Google Tag Manager is a tag management system created by Google used to provide analytics.  | ✓  
+Hotjar Script | Hotjar allows us to see how vistors are really using our website by collecting feedback from journeys, forms and polls. | ✓  
+Kenshoo HD | Anonymous tracking of users who engage our adverts and/or website. They may collect the time and date of the engagement, Details about the device, operation system and browser used by the User, The URL of the landing page of the Customer Website, The URL of the referring website and The search term used by the User to reach the Customer Website To opt out see <http://match.xg4ken.com/services/fb/optout> | ✓  
+Monetate | Monetate builds and runs A/B and multivariate tests aswel as personalised content that can target segments of customers. | ✓  
+New Relic | New Relic monitors and measures the speed and performance of our websites and infrastructure. | ✓  
+Pinterest  | The social media service that helps you discover, share and collect your interests. Use cookies to track traffic. | ✓  
+Qubit | A tag management solution to aid the maintenance of all these third party cookies. | ✓  
+Rich Relevance | Rich Relevance offers personalised shopping experiences and product recommendations based on learned behaviours from all visitors. | ✓  
+Twitter | The online news and social networking service where users post and interact with messages. Uses cookies to track visitors. | ✓  
+Ve Interactive | Creates perspnalised experiences for customers |   
   
 #### Managing cookies
 
