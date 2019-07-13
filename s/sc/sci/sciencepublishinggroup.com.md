@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencepublishinggroup.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221225549id_/http%3A//sciencepublishinggroup.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencepublishinggroup.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713144816id_/http%3A//www.sciencepublishinggroup.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy:: Science Publishing Group
 
