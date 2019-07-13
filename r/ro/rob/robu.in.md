@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robu.in privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903210211id_/https%3A//robu.in/10137-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robu.in privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714012133id_/https%3A//robu.in/10137-2) for the most accurate reproduction.*
 
 # Privacy policy - Robu.in | Indian Online Store | RC Hobby | Robotics
 
@@ -10,22 +10,22 @@ When you browse our store, we also automatically receive your computer’s inter
 
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-##  SECTION 2 – CONSENT
+## SECTION 2 – CONSENT
 
- **How do you get my consent?**
+**How do you get my consent?**
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.  
 **How do I withdraw my consent?**
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@robu.in or mailing us at: MACFOS Plot no PAP/J-131, Bhosari Telco Road, Bhosari MIDC, Pimpri Chinchwad, Pune, MH, 411026, India
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@robu.in or mailing us at: MACFOS PRIVATE LIMITED Plot no PAP/J-146, Bhosari Telco Road, Bhosari MIDC, Pimpri Chinchwad, Pune, MH, 411026, India
 
-##  SECTION 3 – DISCLOSURE
+## SECTION 3 – DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-##  SECTION 4 – Payment
+## SECTION 4 – Payment
 
 If you choose a direct payment gateway to complete your purchase, then our system stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
@@ -33,7 +33,7 @@ All direct payment gateways adhere to the standards set by PCI-DSS as managed by
 
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-##  SECTION 5 – THIRD-PARTY SERVICES
+## SECTION 5 – THIRD-PARTY SERVICES
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
@@ -48,13 +48,13 @@ Once you leave our store’s website or are redirected to a third-party website 
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-##  SECTION 6 – SECURITY
+## SECTION 6 – SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-##  COOKIES
+## COOKIES
 
 Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
@@ -70,16 +70,16 @@ The first two cookies contain information about the cart as a whole and helps Wo
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-##  SECTION 8 – CHANGES TO THIS PRIVACY POLICY
+## SECTION 8 – CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-##  QUESTIONS AND CONTACT INFORMATION
+## QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@robu.in or by mail at MACFOS
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@robu.in or by mail at MACFOS PRIVATE LIMITED
 
 [Re: Privacy Compliance Officer]
 
-[Plot no PAP/J-131, Bhosari Telco Road, Bhosari MIDC, Pimpri Chinchwad, Pune, MH, 411026, India]
+[Plot no PAP/J-146, Bhosari Telco Road, Bhosari MIDC, Pimpri Chinchwad, Pune, MH, 411026, India]
