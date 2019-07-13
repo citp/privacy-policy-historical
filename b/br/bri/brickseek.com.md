@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickseek.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405084952id_/https%3A//brickseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickseek.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713135709id_/https%3A//brickseek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BrickSeek
 
