@@ -1,313 +1,184 @@
-> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812214540id_/http%3A//www.londoncapitalgroup.com/sites/default/files/legal/Data_Protection_and_Privacy_Policy_October_2011.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713200847id_/https%3A//www.intertrader.com/en/terms-agreements/privacy-notice) for the most accurate reproduction.*
 
-# Data Protection and Privacy Policy
+# INTERTRADER PRIVACY NOTICE - Intertrader
 
-Data Protection and Privacy Policy
-Data Protection Act
-London Capital Group Limited (LCG) may process information relating to you (including
-personal data as defined under the Data Protection Act 1998), including holding such
-information in a manual format or electronic database, in order to satisfy any contractual,
-regulatory or statutory requirements we may have. Unless we receive specific written
-instructions to the contrary, by providing this information you agree that we may process
-this information in order to fulfill such obligations.
-Privacy Policy
-Introduction:
-Protecting the security and privacy of your personal information is important to LCG and to
-the way it conducts its business in compliance with laws on privacy, data protection and data
-security. LCG hopes the policy outlined below will help you understand what information
-LCG may collect, how it uses and safeguards that information and with whom it may share it.
-At LCG, we are committed to maintaining the highest standards of integrity in our business.
-In the course of our business, it is necessary to collect Personal Information about our
-potential clients. We take this activity seriously and seek to provide fair, secure and
-appropriate methods for the handling of Personal Information. All such activities are
-intended to be consistent with both generally accepted privacy ethics and standard business
-practices. Your Personal Information may be shared with a limited number of trusted
-partners and/or affiliates of LCG where such use is restricted to the management of your
-account and will not breach any elements of the UK Data Protection Act 1998.
-If you have any questions or comments about LCG’s Privacy Policy, please contact our
-Customer Support team via the details on the Contacts page.
-Personally Identifiable Information
-Through its websites, LCG will not collect any personally identifiable information about you
-(e.g. your name, address, telephone number or e-mail address ("personal information")),
-unless you voluntarily choose to provide it (e.g. by registration, email enquiry, survey). If you
-do not want your personal information collected, please do not submit it. When you do
-provide personal information, LCG usually uses it to respond to your enquiry, or provide you
-access to specific account information, and to support its customer relationship with you.
-LCG may store and process personal information and share it within the LCG group of
-companies to better understand your business needs and how LCG can improve its products
-and services; or LCG (or a third party on its behalf) may use Personal Information to contact
-you about a LCG offer in support of your business needs or to conduct online surveys to
-understand better its customers' needs and profiles.
-If you choose not to have your personal information used to support its customer
-relationship programmes (especially direct-marketing or market-research), LCG will respect
-your choice. LCG do not now (and do not intend to in the future) sell, rent or otherwise
-market your personal information to third parties.
-You may opt out of receiving marketing emails at any time by selecting the 'unsubscribe' link
-at the top of the emails or by emailing our Customer Support team (via the details on the
-Contacts page) with your request.
-Children
-No personal information should be submitted to LCG’s websites by children without the
-consent of their parent or guardian. LCG encourages all parents or guardians to instruct their
+Intertrader takes your privacy seriously where we deal with your personal information. This means information that identifies you personally such as your name, credit card information, photo and contact details or data that can be linked with such information in order to identify you directly or indirectly **(“information”).**
+
+This Privacy Notice (the “Privacy Notice”) sets out the basis on which any of your information will be collected, stored and used by us and reflects our commitment to maintain the confidentiality of your information and to provide all our customers with the best possible service.
+
+References to **“Intertrader”** , **“us”** , “ **we** “, “ **our** ” in this Notice mean Intertrader Limited which is owned and controlled by GVC Holdings PLC with registered address at Suite 6, Atlantic Suites, Europort Avenue, Gibraltar.
+
+**You have the right to object to us using, sharing or carrying out any activity with your personal information (in certain circumstances) including using your personal information for direct marketing (i.e. receiving emails from us notifying you about other products which we think will be of interest to you or being contacted with varying potential opportunities). Contact us at any time with the details provided in the contact section below for more details and to exercise this right where applicable.**
+
+#### 1\. WHAT PERSONAL INFORMATION DOES INTERTRADER COLLECT?
+
+  
+We collect and process your personal information in the following ways:
+
+**Information you give us directly**
+
+  * You give us information about yourself when you register for an account with us or for our risk-free demo. Information including contact details, age, gender, address details, financial details such as your income/savings, details of your trading experience and knowledge and payment details such as credit and debit card information.
+  * You give us information about yourself when you register for any of our webinars. Information including your name and contact details.
+  * You give us information about you when you like, post or otherwise interact with our social media pages such as Facebook, Twitter and Google+. This is generally contents of your public profile.
+  * You give us information about you via completing our surveys or entering our contests from time to time. Participation in these surveys or contests is completely voluntary, and, therefore, you have the choice of whether or not to disclose such information. Information requested may include contact information (such as name, correspondence address and telephone number), and demographic information (such as zip or postal code or age).
+  * You may choose to provide additional information to us when you contact us or otherwise interact with us, including via e-mail, letter, phone or chat function and through your use of our services.
 
 
-children in the safe and responsible use of their personal information while using the
-Internet. LCG will not knowingly collect or use any personal information collected from
-children for any purpose whatsoever, including disclosure to third parties.
-Non-Personal Information Collected Automatically
-When you access its websites, LCG may automatically (i.e. not by registration) collect
-information that is not personally identifiable (e.g. type of Internet browser and computer
-operating system used; domain name of the website from which you came; number of visits,
-average time spent, pages viewed). LCG may use this information and share it within the
-LCG group to measure the use of its website and improve its content.
-Third Party Sites
-This web site contains links to other web sites. Please be notified that LCG cannot be held
-responsible for the privacy practices of other web sites. We encourage all visitors to be aware
-and read the privacy statements of each and every web site that collects personally
-identifiable information.
-Privacy Statement Changes
-LCG may change this privacy statement at any time. You are advised to read this statement
-each and every time you access the site so that you are satisfied with the privacy conditions
-under which you provide LCG with your personal information.
-UK Data Protection Act 1998
-The Government of the United Kingdom passed a Data Protection Act in 1998. LCG is bound
-to comply with the principles of good practice in the processing of personal data. Details of
-Data Protection registration may be found on their website www.dpr.gov.uk
-Retention of records
-We will keep Personal Information only as long as it is necessary, including for the purposes
-of updating the product or services or as required by law. When the Personal Information is
-no longer required, it will be destroyed either by shredding or other approved destruction
-methods to prevent unauthorised parties from gaining access to the information during and
-after the process.
-We will safeguard information in our custody.
-Security
-LCG takes precautions to ensure the security of your personal information and strives to
-keep it accurate. LCG carefully protects your personal information from loss, destruction,
-falsification, manipulation, and unauthorised access or unauthorised disclosure and has
-developed and will maintain security procedures to safeguard Personal Information against
-loss, theft, copying, and unauthorised disclosure, use or modification. Access to Personal
-Information is restricted to employees and authorised service providers who need it to
-perform their work.
-Cookies - How is your Personal Information collected by our website?
-Personal Information may be submitted on our website in two areas:
-    a) Public Area
-If you do provide your name and address on the public area of this website in order to
-request information about our products and services, you may voluntarily provide additional
-personal information. You will be asked to provide your Personal Information in this area for
-the purposes of registering with LCG and opening an account with us.
-    b) Private Area
-If you are already one of our customers and have opened an account with us, you must use a
-password to enter the LCG website. A “session cookie” is used to enable you to leave and re-
+
+We keep records of communications when you contact us or otherwise interact with us, including via e-mail, letter, online, telephone or live chat function on our platforms;
+
+**Information you provide about another person**
+
+  * You give us information about another person where you opt into our special offers which may involve referrals for promotional purposes.
 
 
-      enter our website without re-entering your password. Our web server will record the pages
-      you visit within our website.
-      To ensure a good quality of service we may monitor and record any communication you have
-      with us whether in writing, by phone or by electronic mail. E-mail is not encrypted to/ from
-      either the public or private areas of this website. LCG recommends that you do not send us
-      Personal Information by e-mail.
-      How we use Cookies on our Site and what Information we collect.
-      Like most websites, LCG uses cookies to improve your experience on our websites. We do not
-      link the information we store in cookies to any personally identifiable information you
-      submit while on our site. If you choose to opt out of cookies you may still use our site, but
-      your ability to use some areas will be limited. In certain circumstances, there may be
-      instances where our content management system generates a wholly anonymous and non-
-      intrusive cookie to your system that has not been outlined below.LCG uses the following
-      cookies;
-      Strictly necessary
-Cookie                Name                    Purpose                                    Type
-Limited Risk          LRA                     Part of the account opening process to     Persistent (1 day)
-Identifier                                    define whether the user is more suited to
-                                              a limited risk account.
-Unique                AppNo/apln              Generates a unique application reference Session
-application                                   if you choose to apply for an account.
-reference number
-Logged in to          ASP.NET_sessionId       Allows our web servers to respond to       Session
-platform                                      your actions on our website.
-Risk Warning          count                   Displays a risk warning to those on their  Persistent (10
-                                              first visit to the website.                years)
-Terms and             Terms(date)             Allows us to inform you of terms and       Persistent (10
-Conditions                                    conditions changes when you log into our years)
-                                              live trading platform.
-Application form      page                    Allows the users details to be joined      Session
-steps                                         together through various application
-                                              steps.
-Failed Application Client                     Reports back if an account application     Session
-                      UncompletedId           has failed.
-Geographic            CCID                    This cookie records the country you are    Persistent (30
-location                                      visiting from based on your IP address.    days)
-                                              It is used for geographic specific content
-                                              and allows webpages to present content
-                                              specific to your location.
+
+**Information we collect automatically**
+
+  * When you interact with our services, our servers keep an activity log unique to you that collects certain administrative and traffic information including source IP address, time of access, date of access, web page(s) visited, language use, software crash reports and type of browser used.
 
 
-Returning user    RetUser          This cookie is used to recognise and store Persistent (30
-                                   if you are visiting our Site (including all days)
-                                   language versions) for the first time.
-Returning user    DomRetUser       This cookie is used to recognise and store Persistent (30
-language                           if you are visiting our Site for the first  days)
-                                   time and to store the language version of
-                                   our Site selected by you.
-Fonts             sifrFetch        This cookie is used to improve your         Session
-                                   browsing experience by improving Site
-                                   performance. The cookie is set when
-                                   normal (html) text is replaced with a
-                                   ‘fancy’ representation. Prevents the font
-                                   replacement script from checking if
-                                   ‘fancy’ fonts are already in place which
-                                   could slow down your browser.
-Referrer          ITWMID, WMID     Webmaster ID – This cookie shows us         Persistent (30
-                                   how you found our Site and which            days)
-                                   website you came from. This helps us
-                                   know which of our online marketing
-                                   channels is most effective. They allow us
-                                   to reward some external websites and
-                                   affiliates for directing you to us
-Identify traffic  SITE_PARAMS      This cookie stores all arguments and        Persistent (1800
-with tracking                      their values passed in the query string of  days)
-codes                              the url (after question mark).
-Referrers         TDPEH            These cookies are used in conjunction       Persistent (30
-                                   with the WMID cookie to determine the       days)
-                  TDUID VALUE      source of website traffic.
-      Functionality Cookies
- Create Account   cemail           Creates an account ID in our system          Persistent (1
- ID record                         based on the user’s e-mail address when      day)
-                                   they fill out an application form.
- Promotional      promocode        Contains a promotional code to populate      Session
- Offer                             the live application form if applicable.
- Javascript       has_js           Used to determine whether the user’s         Session
- Identifier                        browser accepts Javascript.
- Game Identifier  GameID           During a promotional trading game we         Persistent (30
-                                   may use this cookie to identify if you are   days)
-                                   enrolled.
- LiveChat         Pid              LivePerson LiveChat service uses cookies     Session
-                  LivePersonID     to enhance the user experience by
-                  HumanClickKEY    recognising a user's return visit. The
-                  HumanClickCHATK  cookies are being set in .liveperson.com
-                  EY               domain.
-                  HumanClickACTIVE
+
+#### 2\. HOW DOES INTERTRADER USE MY PERSONAL INFORMATION?
+
+  
+We may use your information for the following purposes:
+
+**To provide a requested service or carry out a contract with you**
+
+  * To collect payment, deliver our services to you and to process your online transactions and fulfil your orders.
+  * To provide you with customer support and service messages, including messages requesting your feedback on our services and notifying you about changes to our platforms, services or changes to our terms, conditions and policies
+  * To enforce any contract entered into between you and us for the provision of our services.
+  * To conduct security reviews at any time to validate your identity, age, the registration information provided by you and to verify your use of our services and your financial transactions for potential breach of our General Terms and Conditions and of applicable law. Security reviews may include for example, ordering a credit report and/or otherwise verifying the information you provide against third-party databases.
+  * To process any of your online transactions and payments (including disclosing your personal information to third party payment processors, ESPs, and other financial institutions as necessary).
 
 
-                  HumanClickSiteCont   Policy
-                  ain                  http://www.liveperson.com/policies/pri
-                  erID_22070814        vacy
-Video download    BC_BANDWIDTH         BC_BANDWIDTH - BrightCove Video             Session
-                                       Cloud service cookie detects initial
-                                       bandwidth capability for progressive
-                                       download deliveries. BrightCove sets also
-                                       additional cookies in .tubemogul.com
-                                       domain.
-                                       Policy:
-                                       http://support.brightcove.com/en/docs/
-                                       video-cloud-player-cookies
-      Performance Cookies
-Google Analytics _umta                 Google Analytics is a web analytics         Persistent
-                  _umtb                service which sets a cookie in order to     30 minutes
-                  _umtc                evaluate your use of our Sites.             30 minutes
-                  _umtz                                                            6 months
-                  _umtv                Google analytics cookies are used by        Persistent
-                                       Vimeo Player, YouTube Player, Twitter,
-                                       Facebook, LiveChat, Add2Any social
-                                       widget
-                                       Policies/ How to reject or delete these
-                                       cookies
-                                       http://www.google.com/policies/privacy
-                                       /
-                                       https://www.facebook.com/about/privac
-                                       y/
-                                       https://twitter.com/privacy
-                                       http://vimeo.com/privacy
-Video             _tmid                BrightCove Video Cloud service cookie       Persistent (1
-downloads                              identifies unique viewers and new           year)
-                                       viewers.
-                                       Policy
-                                       http://support.brightcove.com/en/docs/
-                                       video-cloud-player-cookies
-Adform            TPC                  Creates a randomly generated user ID to     Session &
-                  uid                  identify repeat visits by users and help us Persistent (up to
-                  C                    to understand users’ journeys on our site.  60 days)
-                  cid
-                  GCM
-ClickDensity /    Vidi                 Gathers typical web performance data        Persistent (5
-Intellitracker    ltc                  such as information on referrer, content    years)
-                                       and page interactions.
-      Targeting or advertising cookies
-      3rd Party
-Cookie            Name                 Purpose                                     Type
-Affiliates        Agentid              Allows us to credit affiliate websites for  Persistent (90
+
+**In accordance with your preferences  **
+
+  * To contact you, including by email, SMS and telephone to provide you with information regarding our products, services and promotions. We will only do this in line with your marketing preferences. You can opt-out of this at any time.
+  * To share your contact details, including name, email address, contact telephone number and account status with selected media partners and affiliates for the purposes of them being able to offer their own marketing services to you. We only do this where we have your consent and in line with your marketing preferences. You can opt-out of this at any time.
+  * To enter you into surveys or promotions you have agreed to.
+  * We place cookies and use similar technologies in accordance with our Cookies Notice for more information please refers to our [Cookie Notice](https://www.intertrader.com/en/terms-agreements/intertrader-cookie-notice/).
+  * By accepting any contest prize or winnings from Us, you consent to use of your name and likeness for advertising and promotional purposes without additional compensation, except where prohibited by law.
+  * On other occasions where we ask you for your permission, we will use your personal information for the purpose which we explain at that time.
 
 
-                                           driving traffic to our website.              days)
-Trade              GUID                    Allows us to credit affiliate websites for   Persistent (90
-doubler                                    driving traffic to our website               days)
-*                  *Media6Degrees          m6d’s technology uses “network               Persistent (180
-Media6Degrees                              neighbour” data to help us deliver           days)
-                                           relevant online advertisements. “network
-                                           neighbours” are generally two or more
-                                           people that visit the same website pages
-                                           while surfing the Internet.
-                                           m6d is a member of the Network
-                                           Advertising Initiative (NAI) and is in
-                                           compliance with the NAI’s Self-
-                                           Regulatory Principles.
-                                           Policy
-                                           http://m6d.com/info/privacy-policy/
-                                           http://m6d.com/info/consumer-
-                                           assistance/
-* Adform           * Adform                Adform’s technology is used to create        Persistent (60
-                                           and deliver online marketing campaigns.      days)
-                                           Adform supports strict online privacy
-                                           and security standards and has
-                                           implemented several techniques to
-                                           monitor advertising material for
-                                           potentially unsafe content and unlawful
-                                           privacy breaches.
-                                           Policy
-                                           http://www.adform.com/site/privacy-
-                                           policy/
-    We would strongly recommend that you allow cookies on our website to ensure you have the
-    best possible experience. Turning off cookies may result in reduced performance of our
-    website and trading platform, however if you would still like to opt out of cookies, you can do
-    this through your website browser. Our customer support team would be happy to talk you
-    through this process if you require assistance.
-    Session Cookies.
-    We use session cookies for the following purposes:
-            To allow you to carry information across pages of our site and avoid having to re-
-            enter information.
-            Within registration to allow you to access stored information.
-            Non personal data for tagging purposes only (by random number)
-    Persistent Cookies.
-    We use persistent cookies for the following purposes:
-       To help us recognise you as a unique visitor (just a number) when you return to our
-       website and to allow us to tailor content or advertisements to match your preferred
-       interests or to avoid showing you the same adverts repeatedly.
-       To compile anonymous, aggregated statistics that allow us to understand how users use
-       our site and to help us improve the structure of our website.
+
+Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. you can opt-out of this at any time by updating you marketing preference.
+
+**Where we have a legitimate Interest**
+
+  * To provide customer support services.
+  * To investigate and address enquiries, questions and complaints and respond to any feedback.
+  * To develop and improve our platforms to enhance your customer experience and personalise our platforms and services for you;
+  * To improve the quality of the services we provide to customers.
+  * Customer telephone and chat conversations will be recorded to allow us to improve the quality of our customer service and our products, train staff and to record of what is said in the event of a subsequent complaint.
+  * To assist your participation in promotions, market research and events and information where you have indicated or we have inferred and interest in our products.
+  * We monitor use of our platforms and online services, and use your personal information to help us improve and protect our content, services and platforms, both online and offline.
+  * We monitor customer accounts to prevent the use of unfair practices in our
+  * To ensure effective operational management and internal administration of our business, document retention, compliance with regulatory guidance and exercise or defence of legal claims.
+  * To have our product services team contact you were you have indicated an interest in our products.
+  * We may be required to share your data with trusted third parties who provide us with services relevant to our provision our services, including customer support, information security, payments, marketing, data analysis, research and surveys.
+  * We will use personal information in connection with legal claims, and for compliance, regulatory and investigative purposes as necessary (including disclosure of such information in connection with legal process or litigation).
+  * We use your personal information in order to build up a profile of your demographics, likely behaviours and preferences. This is used to inform the decisions we make in relation to the services, content and promotions we offer. We also report on the different contribution to our commercial performance from different customer profiles. We create profiles through manual or automated processes, including from third-party providers.
 
 
-   To internally identify you by account name, name, email address, customer ID, currency
-   and location (geographic and computer ID/IP address).
-   To differentiate users who are on the same network to enable us to correctly allocate bets
-   to the appropriate account.
-   Within research surveys to ensure you are not invited to complete a questionnaire too
-   often or after you have already done so.
-Third Party Cookies
-Third parties serve cookies via this site. These are used for the following purposes:
-  To serve advertisements on our site and track whether these advertisements are clicked on
-  by users.
-  To control how often you are shown a particular advertisement.
-  To tailor content to your preferences.
-  To count the number of anonymous users of our site.
-  For website usage analysis
-Use of Web Beacons
-Some of our Web pages may contain electronic images known as Web beacons (sometimes
-known as clear gifs) that allow us to count users who have visited these pages. Web beacons
-collect only limited information which includes a cookie number, time and date of a page
-view, and a description of the page on which the Web beacon resides. We may also carry web
-beacons placed by third party advertisers. These beacons do not carry any personally
-identifiable information and are only used to track the effectiveness of a particular campaign.
-Disabling/Enabling Cookies
-You have the ability to accept or decline cookies by modifying the settings in your browser.
-However, you may not be able to use all the interactive features of our site if cookies are
-disabled.
-To find out how to enable/disable cookies see www.allaboutcookies.org
-October 2012
+
+**Where we have a legal obligation**
+
+  * To protect, investigate and deter against fraudulent, unauthorised or illegal activity. Including to undertake necessary security and identify verification checks.
+  * In response to requests by government or law enforcement authorities conducting an investigation.
+  * When required by the Gibraltar Financial Services Commission for regulatory purposes. For example, by recording customer telephone and chat conversations.
+
+
+
+#### 3\. DOES INTERTRADER SHARE MY PERSONAL INFORMATION?
+
+  
+We share your personal information in the following circumstances:
+
+  * We share with other companies in the GVC Group, which includes GVC Holdings PLC and its direct and indirect subsidiary companies for internal reasons, primarily for business and operational purposes in line with this privacy notice;
+  * We share your personal information where we engage the services of trusted third-party suppliers to provide technical support and maintain your account with us. Such third parties include but not limited to providers of platforms hosting, maintenance, call centre operation, marketing, data analysis, research and surveys.
+  * We share your personal information with third-party electronic payment processors and/or financial institutions to process financial transactions when you use our live trading services.
+  * We share your personal information with trusted third-party suppliers of information verification services for the purposes of validating the personal information you provide to us in the course of using our services.
+  * We may share the information that you provide to us if we are under a duty to disclose or share your information in order to comply with (and/or where we believe we are under a duty to comply with) any legal obligation; or in order to enforce our terms of use and any other agreement; or to protect the rights, property, safety, or security of Intertrader, third parties, visitors to our platforms or the public.
+  * Where you are found to have attempted to defraud us, our other group companies, or any other user of our services in any way including but not limited to payment fraud, or if we suspect you of fraudulent payment, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), We reserve the right to share this information (together with your identity) with other Group , banks, credit card companies, and appropriate agencies.
+  * As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or merges with us your personal information will be disclosed to such entity.  Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information will be considered an asset of ours and as such it is possible they will be sold or transferred to third parties.
+
+
+
+We take steps to ensure that our arrangements with third-party suppliers (including online vendors) protect your privacy. We do not sell, rent or exchange your personal information with any third party for commercial reasons beyond the essential requirement for debit card validation when depositing or withdrawing funds, credit agencies should you wish to open a credit account with us and fraud prevention agencies.
+
+#### 4\. HOW LONG DOES INTERTRADER KEEP MY PERSONAL INFORMATION?
+
+  
+Information that we collect will be retained only for as long as is necessary to fulfil the purposes outlined above in this Privacy Notice (this will generally be for the duration of time where you utilise our services) or to comply with our legal obligations. We may retain your information further for a period of time specifically required by applicable regulations or laws, such as retaining the information for tax and accounting and financial services regulations record keeping obligations.
+
+When determining the relevant retention periods for your personal information, we will take into account factors including:
+
+  * our contractual obligations and rights in relation to the information involved;
+  * legal obligation(s) under applicable law to retain data for a certain period of time;
+  * statute of limitations under applicable law(s);
+  * (potential) disputes; and
+  * guidelines issued by relevant data protection authorities.
+
+
+
+Otherwise, we securely erase your information once this is no longer needed.
+
+#### 5\. DOES INTERTRADER MAKE AUTOMATED DECISIONS ABOUT ME?
+
+  
+We may use automated decision making (i.e. decisions taken without human intervention), including profiling, to; create a description of your demographics, past behaviours, likely future behaviours and preferences.
+
+This helps us;
+
+  * to provide you the personally targeted content and offers through our platforms, and through our marketing communications;
+  * to provide you differential services to customers related to payments and withdrawals, customer service and other operational services; and
+  * to comply with legal and regulatory regulations, fraud or anti-money laundry and responsible trading .
+
+
+
+If you disagree with the outcome of an automated decision please contact Us using the details in the Rights section and we will review the decision.
+
+#### 6\. DOES INTERTRADER TRANSFER MY PERSONAL INFORMATION ABROAD?
+
+  
+We store your personal information on our servers based in Austria. This is within the European Union.
+
+As with any multinational organisation, we are often required to transfer data internationally. Accordingly, data about you may be transferred globally (if your data is collected within the European Economic Area, this means that your data may be transferred outside of it).
+
+Where your personal information is transferred to a country or territory outside the European Economic Area, and where this is to a country that is not subject to an adequacy decision approved by the EU Commission, We will take steps with the aim of ensuring that your privacy information continue to be protected. For example, by using third party’s Processor Binding Corporate Rules, Intra-group privacy agreements, EU Commission approved standard contractual clauses or verifying that third parties are certified under an approved certification mechanism according to international privacy rules.
+
+#### 7\. HOW DOES INTERTRADER KEEP MY PERSONAL INFORMATION SECURE?
+
+  
+We understand the importance of information security and the techniques needed to secure information. We store all of the personal information we receive directly from you in a password-protected database residing within our secure network behind active state-of-the-art firewall software. Our services support SSL Version 3 with 128-bit encryption and TLS 1.2 with 256 bit encryption. We take steps to ensure all our subsidiaries, agents, affiliates and suppliers also employ adequate levels of security.
+
+#### 8\. WHAT ARE MY PRIVACY RIGHTS?
+
+  
+By law, you have a number of rights (subject to certain conditions) when it comes to your information. Further information and advice about your rights can be obtained from the data protection regulator in your country. You can exercise any of these rights by contacting us through our contact information below.
+
+  * **The right to object to processing**. You have the right to object to certain types of processing, including processing for direct marketing (i.e. receiving emails from us notifying you about other products which we think will be of interest to you or being contacted with varying potential opportunities).
+  * **The right to be informed**. You have the right to be provided with clear, transparent and easily understandable information about how we use your information and your rights. This is why we’re providing you with the information in this Notice.
+  * **The right of access**. You have the right to obtain access to your information (if we’re processing it), and certain other information (similar to that provided in this Privacy Notice). This is so you’re aware and can check that we’re using your information in accordance with data protection law.
+  * **The right to rectification.** You are entitled to have your information corrected if it is inaccurate or incomplete. You can request that we rectify any errors in information that we hold.
+  * **The right to erasure.** This is also known as ‘the right to be forgotten’ and, in simple terms, enables you to request the deletion or removal of your information that we hold.
+  * **The right to restrict processing**. You have rights to ‘block’ or supress further use of your information. When processing is restricted, we can still store your information, but will not use it further. We keep lists of people who have asked for further use of their information to be ‘blocked’ to make sure the restriction is respected in the future.
+  * **The right to data portability.** You have rights to obtain and reuse your information for your own purposes across different services. For example, if you decide to switch to a new provider, this enables you to move, copy or transfer your information easily between our IT systems and theirs safely and securely, without affecting its usability. This is not a general right however and there are exceptions.
+  * **The right to lodge a complaint.** You have the right to lodge a complaint about the way we handle or process your information with your national data protection regulator. See contact section above.
+  * **The right to withdraw consent.** If you have given your consent to anything we do with your information (i.e. we rely on consent as a legal basis for processing your information), you have the right to withdraw your consent at any time (although if you do so, it does not mean that anything we have done with your personal data with your consent up to that point is unlawful). You can withdraw your consent to the processing of your information at any time.
+
+
+
+#### 9\. CHANGES TO OUR PRIVACY NOTICE
+
+  
+We may periodically make changes to this Privacy Notice and will notify you of these changes where required by law to do so.  We recommend that you revisit this Privacy Notice regularly.
+
+  
+If you have any questions, or wish to exercise any of your rights, please contact us at [_compliance@intertrader.com_](mailto:compliance@intertrader.com)
+
+If your country has a data protection authority, you have a right to contact it with any questions or concerns. If we cannot resolve your questions or concerns, you also have the right to seek judicial remedy before a national court.
