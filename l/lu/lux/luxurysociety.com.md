@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxurysociety.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728213429id_/https%3A//luxurysociety.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurysociety.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713205105id_/https%3A//www.luxurysociety.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Luxury Society
 
