@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ict-peces.eu privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603190944id_/http%3A//www.ict-peces.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ict-peces.eu privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713075643id_/http%3A//ict-peces.eu/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
