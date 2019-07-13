@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangapanda.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627054256id_/http%3A//www.mangapanda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangapanda.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713214430id_/http%3A//www.mangapanda.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
