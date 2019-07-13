@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603051040id_/https%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713055226id_/https%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.*
 
 # London Pass Privacy Policy - Leisure Pass Group
 
