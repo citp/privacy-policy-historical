@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicrecordsnow.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721105044id_/https%3A//www.publicrecordsnow.com/static/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecordsnow.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714003801id_/https%3A//www.publicrecordsnow.com/static/view/privacy) for the most accurate reproduction.*
 
 # PublicRecordsNOW - Privacy Policy
 
@@ -91,7 +91,7 @@ To the extent that user credit card-specific information, or alternate user paym
 
 We value your privacy and, upon request, can block your records from being shown in many, but not all, of our search results. To do so please click the link below: 
 
-  * [www.peoplefinders.com/manage](http://www.peoplefinders.com/manage)
+  * [Click here to opt out](https://web.archive.org/static/view/optout/)
 
 
 * ### No Rights of Third Parties
@@ -104,14 +104,16 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 * ### How to Contact Us
 
-If you have any questions about this Privacy Policy, please contact us via email or in writing at:  
-PublicRecordsNow.com  
-1821 Q St  
-Sacramento, CA 95811 
+You can: 
+
+  * [Click here to contact us](https://web.archive.org/static/view/contact/)
+
 
 * ### Your California Privacy Rights
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of PublicRecordsNow.com who are California residents to request certain information regarding disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to:  
-California Info Request/PublicRecordsNow.com  
-1821 Q St  
-Sacramento, CA 95811 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of PublicRecordsNow.com who are California residents to request certain information regarding disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request:  
+
+
+  * [Click here to contact us](https://web.archive.org/static/view/contact/)
+
+
