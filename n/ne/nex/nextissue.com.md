@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextissue.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917153423id_/https%3A//www.texture.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextissue.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713190042id_/https%3A//www.texture.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Texture
 
