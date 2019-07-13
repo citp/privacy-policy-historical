@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceu.edu privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407173056id_/https%3A//www.ceu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceu.edu privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713182628id_/https%3A//www.ceu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Central European University
 
