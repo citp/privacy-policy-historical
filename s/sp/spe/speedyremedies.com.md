@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the speedyremedies.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328110745id_/http%3A//www.speedyremedies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedyremedies.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713050039id_/https%3A//www.speedyremedies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home Remedies by SpeedyRemedies
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it. This privacy policy is applicable to websites falling under the primary holder [www.speedyremedies.com](http://www.speedyremedies.com/)
+We take your privacy seriously. This policy describes what personal information we collect and how we use it. This privacy policy is applicable to websites falling under the primary holder [www.speedyremedies.com](https://www.speedyremedies.com/)
 
 Routine Information Collection
 
