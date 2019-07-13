@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingnotworking.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518084944id_/https%3A//help.workingnotworking.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingnotworking.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713054153id_/https%3A//help.workingnotworking.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Working Not Working Help Center
 
