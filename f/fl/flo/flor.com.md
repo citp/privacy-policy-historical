@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flor.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819095952id_/http%3A//www.flor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flor.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713021807id_/https%3A//www.flor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,9 +85,9 @@ Our company contact points:
 
 Toll Free: 1-866-952-4093
 
-Email: kbrannigan@FLOR.com
+Email: support@FLOR.com
 
-Mail: FLOR, 600 W. Van Buren Street Suite 800, Chicago, Illinois  60607
+Mail: FLOR, 1280 West Peachtree St NW, Atlanta, Georgia  30309
 
 Attn: Customer Service
 
