@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tech.com.pk privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726004333id_/https%3A//www.tech.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech.com.pk privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714005001id_/https%3A//techwafer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Tech
+# Privacy Policy – TechWafer
 
-This privacy policy applies to the Site and all products and services offered by  **The Tech**
+This privacy policy applies to the Site and all products and services offered by  **TechWafer  **(previously The Tech)
 
 ### Personally Provided Information
 
-You do not have to give us personal information to visit **TECH.COM.PK.**  If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfil the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
+You do not have to give us personal information to visit **TechWafer.com.**  If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
 
 ### Website Traffic Analysis Software
 
@@ -20,13 +20,13 @@ If users wish to subscribe to our e-mail newsletters, we ask for contact informa
 
 ### Third Party Advertising Partners
 
-All users of tech.com.pk must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on.
+All users of techwafer.com must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on.
 
-For, instance one of our partners, Google uses the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) on  **TECH.COM.PK**  displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
+For, instance one of our partners, Google uses the [DoubleClick DART cookie](https://www.doubleclickbygoogle.com/) on  **TechWafer.com**  displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
 
 ### Non-personal identification information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our SitThe non-personalnal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
 #### Compliance with children’s online privacy protection act
 
@@ -34,11 +34,11 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 #### External Links
 
-Our websites contain links to other sites.  **TECH.COM.PK**  is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personal information.
+Our websites contain links to other sites.  **TechWafer.com**  is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personal information.
 
 #### Changes to this Privacy Policy
 
-The **TECH.COM.PK**  has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+The **TechWafer**  has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 #### Your acceptance of these terms
 
@@ -46,6 +46,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 #### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at  **contact@tech.com.pk**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at  **contact@techwafer.com**
 
-This page can be updated without any notice so please keep visiting this. This page was last updated on 24-Sept-2015.
+This page can be updated without any notice so please keep visiting this. This page was last updated on 24-Sept-2018.
