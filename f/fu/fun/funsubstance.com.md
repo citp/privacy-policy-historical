@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the funsubstance.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816215025id_/http%3A//funsubstance.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funsubstance.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713034857id_/https%3A//funsubstance.com/page/privacy) for the most accurate reproduction.*
 
 # FunSubstance - privacy
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/funsubstance.com).  
+
 
 Last Modified: 14 June 2012 **We take your privacy very seriously.**
 
