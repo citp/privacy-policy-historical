@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the viraliq.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411155220id_/https%3A//viraliq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraliq.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713141559id_/https%3A//viraliq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viral IQ
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
-We do not collect information from visitors of our site.
-
- **When do we collect information?**
-
-We collect information from you when you or enter information on our site.
-
- **How do we use your information?**
-
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We do not collect personal information from visitors of our site.
 
  **Do we use ‘cookies’?**
 
@@ -46,22 +38,17 @@ Google’s advertising requirements can be summed up by Google’s Advertising P
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
+ **Opting out**
+
+You can read more about opting out from different types of advertisements here
+
+NAI: [optout.networkadvertising.org](http://optout.networkadvertising.org/)  
+DAA: [optout.aboutads.info](http://optout.aboutads.info/)
+
  **COPPA (Children Online Privacy Protection Act)**
 
 When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-We do not specifically market to children under 13.
+We do not specifically market to children under 16.
 
- **Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via in site notification
-
- **•** Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-Last Edited on 2015-07-20
+This policy is effective as of 1 May 2019.
