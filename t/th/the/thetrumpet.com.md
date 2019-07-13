@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407133927id_/https%3A//www.thetrumpet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713062812id_/https%3A//www.thetrumpet.com/privacy-policy) for the most accurate reproduction.*
 
 # theTrumpet.com | World News, Economics and Analysis Based on Bible Prophecy
 
