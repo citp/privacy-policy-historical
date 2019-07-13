@@ -1,237 +1,312 @@
-> *The following text is extracted and transformed from the bestwestern.co.uk privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825032341id_/https%3A//www.bestwestern.co.uk/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwestern.co.uk privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713232813id_/https%3A//www.bestwestern.co.uk/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Best Western
+# Privacy Policy | Use of Personal Information on our Website | Best Western
 
-**Last Updated:**  May 2018
+**LAST UPDATED:   January 1, 2019**
 
-Best Western International, Inc. (referred to herein as “ **BWI** ,” “ **we** ,” and “ **us** ”) and Interchange and Consort Hotels t/a Best Western Hotels Great Britain (referred to herein as " **BWGB** ," " **we** ," and " **us** ") is committed to protecting your privacy and wants you to be familiar with how we collect, use, and disclose Personal Data (as defined below). This Privacy Policy (this " **Policy** ") describes our practices in connection with information that we collect through our websites and mobile applications (collectively, the " **Site** ") and by other means as described in this Policy. This Policy also applies to the collection, use, and disclosure of such information by our group (collectively known as " **Best Western** " and “ **BW Group Companies** ”). References to “ **BWI** ,” " **BWGB** ," “ **BW Group Companies** ,” " **we** " and " **us** " throughout this Policy, depending upon the context, collectively refer to BWI, BWGB Best Western and BW Group Companies.
+This policy describes how Best Western International, Inc. Interchange and Consort Hotels t/a Best Western Hotels Great Britain and its subsidiaries (“BWI,” “BWGB,” “BW Group Companies,” “we,” or “us”), collect, use, and share personal information.  Please note that Best Western® branded hotels and properties (“Licensed Hotels”) are independently owned and operated and are not owned, managed, or controlled by BWI.  In addition, outside of the United States, companies that are not owned by BWI are sometimes permitted to license the Best Western® brands.  Although these companies are referred to by BWI as “Affiliates” they are not under its ownership or control.  When you provide information to a Licensed Hotel or to an Affiliate, those companies may have their own privacy practices and policies. 
 
-This Policy does not address the collection, use, or disclosure of information by third parties, including entities authorised by Best Western or by an authorised licensee of Best Western to operate Best Western® branded hotels and properties (" **Licensed Hotels** "), and third-party affiliated organisations permitted to sublicense Licensed Hotels outside the United Kingdom in various countries and territories throughout the world (" **Affiliates** "). Please be aware that Licensed Hotels and Affiliates are independent entities neither owned nor controlled by Best Western and BW Group Companies. Licensed Hotels and Affiliates might have their own privacy policies, which might be different from this Policy. To learn about the privacy practices of any of the Licensed Hotels or Affiliates, please review their respective privacy policies, not this Policy.
+You can select among various topics by clicking on the following options below:
 
-While this Policy is intended to describe the broadest range of our information processing activities globally, those activities may be more limited in some jurisdictions based on the restrictions of their laws. To the extent any of the activities described herein are not permitted under the laws of your country, state, or province, you agree that the remaining portions of this Policy that are permissible shall apply to the maximum extent permitted by law.
+**Use and Processing of the Information We Collect **
 
-## PERSONAL INFORMATION WE COLLECT
+**Sharing of Information**
 
-Best Western may collect " **Personal Data** " from you, meaning information that identifies you as an individual or from which you may be identified.   Depending on the processing activity, we have identified a number of reasons for doing so, as follows:
+**Your Choices**
 
-We collect:
+**How We Protect Personal Information**
 
-  * contact information, such as your name, mailing address, e-mail address, and telephone number;
-  * credit card number or other payment account number, billing address, and other payment and billing information (" **Payment Information** ");
-  * records and copies of your correspondence if you contact us;
-  * guest stay information, including the hotels where you have stayed, date of arrival and departure, and goods and services purchased;
-  * information collected through the use of closed circuit television systems, card key and other security systems; and
-  * in limited cases, information relating to the credit of customers.
+**How Long We Retain Information**
 
+**Countries Used for Processing**
 
+**Miscellaneous **
 
-We have identified that the lawful condition for this processing is that it is to fulfil a contract to which you are a party, namely to enable us to book hotel accommodation that you have requested.
+**Contact Information**  
 
-By using this Site or by providing Personal Data (as defined below) to Best Western, you agree to this processing activity taken by us with respect to your Personal Data as set forth in this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site or provide any Personal Data to Best Western through our Site or otherwise.
+**Use and Processing of the Information We Collect** ****
 
-Any other use of this data, such as to send marketing messages, offer you deals that you may be interested in, or send you information on offers and deals from carefully chosen third parties, will only be done with your consent.
+The following chart provides examples of the type of information that we collect from you and how we use that information. 
 
-We also might hold and process some special categories of data, should you provide it to us, to fulfil any specific requirements that you have.  This may include:
+**Context**
 
-  * physical or mental health conditions that require specific accommodation;
-  * racial or ethnic origins, should you have specific requirements
+| 
 
+**Types of Information**
 
+| 
 
-As well as collecting data directly from you, we will collect Personal Information from a variety of sources including:
+**Primary Purpose for Collection  
+and Use of Information**  
+  
+---|---|---  
+  
+Room Reservations
 
-  * through the Site;
-  * through reservation and call centres;
-  * through social media and brand channels (e.g. Facebook, Twitter);
-  * From Best Western subsidiaries, Licensed Hotels, Affiliates, or other third parties; or
-  * when you otherwise voluntarily provide it to us, including in connection with our loyalty program (i.e. BWR).
+| 
 
+We collect your contact information, payment information, reservation information, and accommodation preferences. That information is collected directly from you when you make a room reservation. In a small number of cases we collect information about a guest’s health. For example, a guest may voluntarily choose to provide information about a disability as part of a request for an accommodation preference. 
 
+| 
 
-We may also combine Personal Data we collect with publicly available Personal Data and Personal Data we receive from others or cross-reference with others. The collection and use of Personal Data, whether separately or combined, is done in accordance with and for the purposes described in this Policy.
+We use your information in order to perform our contractual obligations, fulfill your requests for a reservation, and to take steps in anticipation of those obligations. In some jurisdictions we also need your information to comply with legal obligations to collect and maintain information about guests. We also have a legitimate interest in analysing trends and patterns among guests. In the rare circumstances in which we collect information about a guest’s health, that information is collected only for the purpose of accommodating a guest’s needs and is used for no other purpose.  
+  
+Best Western Rewards® (“BWR”)
 
-Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else. Entry into website forms can be removed by visiting <https://sessioncam.com/choose-for-form-data-not-to-be-recorded/> and selecting ‘Enable Masking of All Data’, whilst tracking on the website entirely can be removed by visiting <https://sessioncam.com/choose-not-to-be-recorded/> and selecting ‘Disable Tracking Completely’.
+| 
 
-## Best Western Rewards (“BWR”) Programme
+BWR is Best Western’s loyalty rewards program. We collect your contact information, communication preferences, reservation history, redemption details, and partner loyalty program elections. Information is collected when you register for BWR, redeem reward points, make a hotel reservation, update your BWR account, or link your BWR account to a partner loyalty program.
 
-The Best Western Rewards programme is administered by Best Western International, Inc. (BWI), and as such your account information will be transferred to BWI in the United States of America, where it will be used, stored and processed in compliance with the U.S.-EU Privacy Shield and the U.S.-Swiss Privacy Shield Framework, which ensures that the data protection in place is to the levels you would expect.
+| 
 
-To enroll in the BWR program, you must provide us with some of your Personal Information, such as your name, e-mail address, mailing address, and phone number, which is required to create and manage your account, administer the BWR program, and provide the benefits of the BWR program to you.  We will also process information associated with the reward program such as your online user account details, profile or password details and any frequent flyer or travel partner program affiliation;
+We use your information in order to perform our contractual obligations to you. For example, we use the information to allow you to earn and redeem rewards, points, or credits in connection with loyalty programs. We also have a legitimate interest in marketing to you and analysing trends and patterns among our rewards members. For complete BWR program terms see [www.bestwesternrewards.com](http://www.bestwesternrewards.com/).   
+  
+Best Western Travel Card® 
 
-The lawful condition for this processing is determined that it is in the legitimate interests of BWI to maintain, build and grow a customer base, and to reward our member’s loyalty through the programme.
+| 
 
-Enrolling in or maintaining a membership in the BWR program constitutes your acceptance of the BWR terms and conditions (available at www.bestwesternrewards.com) and your express written agreement to all actions taken by us with respect to your Personal Information in compliance with this Policy. Your continued use of the Site after expiration of the BWR program constitutes your implied consent to all actions taken by us with respect to your Personal Information in compliance with this Policy.
+We collect your contact information and payment information when you purchase a Best Western Travel Card®. 
 
-Any other use of this data, such as to send marketing messages, offer you deals that you may be interested in, or send you information on offers and deals from carefully chosen third parties, will only be done with your consent.
+| 
 
-## HOW WE USE THE PERSONAL INFORMATION WE COLLECT
+We use your information in order to perform our contractual obligations to you. We also have a legitimate interest in marketing to you and analyzing trends and patterns among our Best Western Travel Card holders. 
 
-Best Western collects Personal Data about guests, visitors to the Site, and others, so that we can provide an experience that is responsive to the needs of such individuals. Best Western may collect, use, and disclose Personal Data for one or more of the following purposes:
+For complete Best Western Travel Card terms and conditions see [www.travelcard.bestwestern.com](http://www.travelcard.bestwestern.com/).   
+  
+Cookies and First Party Tracking
 
-  * Fulfillment of Reservation or Information Requests: To fulfill your requests such as completing a credit card transaction or booking a reservation at any Licensed Hotel worldwide through our central reservation system (who could be located outside the UK/EEA), or responding to your requests that we send marketing, informational or other newsletters to you (and to personalize such newsletters and the Site to your preferences). For example, when you make a reservation through Best Western's central reservation system, we may collect Payment Information from you, and may use and disclose such Payment Information to fulfill your reservation. BWI and BWGB maintain worldwide accessible websites, call centres, and database computers in the United States of America, United Kingdom and other locations around the world, which are intended to help Best Western conduct business and to facilitate the operation and maintenance of its central reservation system.
-  * Membership Programs: To administer and operate voluntary membership programs, including loyalty programs such as BWR, which allows members to earn and redeem rewards, points, or credits in connection with the programs. For complete BWR program terms and conditions, visit [www.bestwesternrewards.com](http://www.bestwesternrewards.com/).
-  * Best Western Travel Card®: To process and ship a Best Western Travel Card, which is a stored value card redeemable for lodging charges (room rate and applicable taxes) for stays at Licensed Hotels worldwide. We may also use your Personal Information as necessary to permit your use and redemption of a Best Western Travel Card. For complete Best Western Travel Card terms and conditions, see [www.travelcard.bestwestern.com](http://www.travelcard.bestwestern.com/).
-  * Administrative and Other Communications: To send you important information regarding the Site, changes to our terms, conditions and policies, or other administrative information (e.g., information about your travel reservations, such as reservation confirmations).
-  * Marketing Communications: We may use your Personal Data to determine whether you are eligible for and/or inform you, if you have provided your consent, of products, programs, enhancements, events, special offers, and services of Best Western and third parties (including Licensed Hotels and Affiliates) that might be of interest to you. We promise to only send you relevant and timely marketing communications and we will give you the opportunity to decline to receive some or all these communications every time we send them. For more information, see the "Your Choices" section of this Policy below and if you wish you can [Opt-out here](https://www.bestwestern.co.uk/contact-preferences) to receiving further communications. Please allow us up to one month to process all data regarding your opt out.
-  * Promotions. To operate sweepstakes, contests, or other marketing or promotional activities (collectively, "Promotions"). We typically ask you for certain Personal Data when you enter or participate in such Promotion and, if applicable, win a prize, and we use such Personal Data to administer the Promotion. Participation in these Promotions is completely voluntary, and you have a choice whether to disclose your Personal Data. You should carefully review the rules, if any, of each Promotion in which you participate, as it may contain additional important information about Best Western's use of your Personal Data. To the extent that the Promotion’s rules concerning the treatment of your Personal Data conflict with this Policy, the Promotion’s rules shall control.
-  * Surveys: To conduct or facilitate surveys and to ask for your responses to questionnaires to provide better products and services to guests and Site visitors. Completion of any surveys or questionnaires is strictly voluntary.
-  * Customer Care: To track, process, and respond to customer care enquiries and to enhance and improve the customers experience. We may also transmit your Personal Data to third party service providers, Affiliates, and Licensed Hotels to allow those third parties to track, process, and respond to customer care inquiries.
-  * Internal Business Purposes: For our internal business purposes, such as data analysis, audits, developing new products, enhancing the Site, improving our services, identifying usage trends and visiting patterns, determining the effectiveness of our Promotions, and meeting contractual obligations (e.g., a contractual obligation with regard to earning or redeeming BWR points or miles through our airline partners).
-  * Our Rights and Legal Obligations: To: (i) comply with legal and regulatory requirements or demands in accordance with applicable law, a court order, subpoena or other legal process, (ii) detect, prevent, or take action against illegal activities, suspected fraud, or situations involving potential threats to the rights, privacy, safety, or property of Best Western, Licensed Hotels, Affiliates, you, or others; or (iii) enforce or apply our [Terms of Use](https://www.bestwestern.com/content/best-western/en_US/legal/terms-of-use.html?m=1) and/or other agreements and policies.
-  * E-mails to Friends: To permit you to forward information about our products, services, and Licensed Hotels to another individual, such as a friend or co-worker. If you wish to use this feature, you may be required to provide to us, and we may use, the applicable individual's name and e-mail address to facilitate your sending of such messages to such individual (and any Personal Data—such as your name and your email address—provided in connection with sending such information, will be disclosed to such individual). By using this functionality, you affirm that you are entitled to use and to provide to us the recipient's name and e-mail address for this purpose. We will not seek to use the applicable individual's Personal Data for any purpose other than to allow the e-mail to be sent, unless we disclose such other purpose to you at the time that you provide such Personal Data to us or unless we have separately collected such Personal Data through other means.
-  * Co-brand credit card: To promote and assess eligibility for Best Western's co-brand credit cards.
-  * We may also use your Personal Data in other ways as described when you provide such information to us or for other purposes with your consent.
+| 
 
+We use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. 
 
+| 
 
-## HOW WE SHARE AND DISCLOSE PERSONAL INFORMATION
+We have a legitimate interest in making our website operate efficiently and analyzing trends and patterns among our website visitors.  
+  
+Cookies and Third Party Tracking
 
-  * BW Group Companies: We may share your Personal Data with BW Group Companies so that they may use such Personal Data for the purposes described in this Policy. BW Group Companies are required to protect your Personal Data consistent with this Policy. Best Western is the entity that is responsible for the management of such jointly used Personal Data.
-  * Licensed Hotels, Affiliates, and Third Parties: We may also share your Personal Data with Licensed Hotels, Affiliates, BW Group Companies and other third parties located around the world for the purposes described in this Policy (e.g., to send your reservation information to the applicable Licensed Hotel or Affiliate, to provide Licensed Hotels, Affiliates, or other third parties with information on the rewards, points, or credits earned by you in connection with BWR, and to allow Licensed Hotels, Affiliates, and third parties to determine whether you are eligible for and/or inform you, if you have provided your consent, of products, programs, services, and promotions that they believe might be of interest to you).
-  * Third-Party Service Providers: Best Western relies on numerous third-party service providers to provide certain products and services on our behalf, including reservation services, credit card/payment processing and billing, IT services, customer care, e-mail delivery services, communication and delivery of promotional and marketing materials via e-mail and direct mail, administering guest surveys and Promotions, administration, data analysis, and other similar services. We may share your Personal Data for the purpose of enabling these third parties to provide such services or as otherwise necessary for the ongoing operation of Best Western's business, including operation of programs such as BWR and Best Western Travel Card. Some of these third-party service providers may be located overseas and in particular outside the UK/EEA. When we do outsource the processing of your Personal Data to third parties or provide your Personal Data to third party service providers, we require those third parties to protect your Personal Data with reasonable security measures and to limit their use only to the purposes for which we have disclosed it to them.
-  * BWR Partners: Best Western may also share your Personal Data with companies that we have partnered with or that are participants in our BWR program to allow you to earn and redeem rewards, points, or credits in connection with your BWR membership and in accordance with your chosen earning and spending preferences (e.g., selection of a particular airline partner through which you can earn BWR points).
-  * Promotions: Personal Data submitted in connection with Promotions may be shared with third-party sponsors of such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion.
-  * Assignment: In the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of Best Western’s or the BW Group Companies’ business, assets, or stock (including in connection with any bankruptcy or similar proceedings), we may transfer any and all information that we collect pursuant to this Policy. Any successor, assignee or transferee may use your Personal Data as described in this Policy.
-  * Social Networking Forums: Best Western may make available interactive services (e.g., message boards, forums, and blogs) through which you may post information and materials on the Site. Please note that any information you disclose through such services becomes public information and may be available to visitors to the Site and to the general public. We urge you to exercise discretion and caution when deciding to disclose your Personal Information, or any other information, through these services. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PERSONAL DATA THAT YOU VOLUNTARILY DISCLOSE THROUGH SUCH SERVICES.
-  * Law Enforcement; Emergencies; Compliance. We may disclose your Personal Data: (i) when we have reason to believe that it is necessary to identify, contact, or bring legal action against persons or entities that may be causing injury to you, Best Western, BW Group Companies, Licensed Hotels, Affiliates, or others; (ii) when we believe that applicable law or regulation (including laws and regulations outside your country of residence) requires it; (iii) as mandated by subpoena, court order, or legal process; (iv) to establish or exercise our legal rights, defend against legal claims, or protect our operations or those of any BW Group Companies, Licensed Hotels, or Affiliates; (v) to protect the rights, privacy, safety, or property of Best Western, BW Group Companies, Licensed Hotels, Affiliates, you, or others; and (vi) to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use or other agreements or policies, or as otherwise required or permitted by law.
-  * Credit Authorization: When you apply for a Best Western co-brand credit card, your Personal Data will be used and disclosed to appropriate third parties in accordance with applicable laws for the purpose of determining whether you are eligible for the credit card and whether the card issuer will grant and/or maintain a line of credit to you.
-  * Responsibility When Information Is Transferred. If a service provider that receives Personal Information from us about an EU data subject or Swiss data subject takes an action that is contrary to the principles of the EU-US Privacy Shield or Swiss-US Privacy Shield, we shall be liable for those actions unless we prove that we are not responsible for causing them.
+| 
 
+We participate in behavior-based advertising. This means that a third party uses technology ( _e.g.,_ a cookie) to collect information about your use of our website so that it can provide advertising about products and services tailored to your interests on our website or on other websites. 
 
+| 
 
-## BWGB - CONTROLLER OF YOUR PERSONAL DATA
+We have a legitimate interest in engaging in behavior-based advertising.  
+  
+Email Interconnectivity
 
-Best Western is registered with the Information Commissioners office. For the purposes of the General Data Protection Regulation 2018, we are a data controller for the information described in this privacy policy.
+| 
 
-## NON-PERSONAL INFORMATION
+If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains, or make reservations.
 
-Best Western may also collect “Non-Personal Information,” meaning aggregated and/or anonymized information, demographic information, and any other information that does not reveal your specific identity. Because Non-Personal Information does not personally identify you, we may use and share such information with BW Group Companies, Licensed Hotels, Affiliates, and other third parties for any purpose, including without limitation to facilitate and improve your ongoing access to and use of our Site, to best tailor our services to suit personal interests, to analyze visiting patterns, enhance and improve customer service, and for our other business purposes. As you navigate the Site, we and our service providers may collect certain Non-Personal Information such as your computer type (Windows or Macintosh), screen resolution, OS version, Internet browser, and Internet browser version using automatic data collection technologies, such as "cookies" and so-called "pixel tags," "web beacons," "clear GIFs," and other similar technologies.
+| 
 
-In addition, we may engage third party tracking and advertising providers to act on Best Western's behalf to track and analyse your usage of our Site through the use of such automatic data collection technologies. These third parties collect and share with us, as we may request, Site usage information about visits to our Site, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our Site, help us target and track use of our Internet banner advertisements on our Site and on other sites, and track use of other links from our marketing partners' sites to our Site. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+We have a legitimate interest in understanding how you interact with our communications to you.  
+  
+Customer Care 
 
-## Cookies
+| 
 
-Cookies are small text files placed on your computer or mobile device by a website’s server and are commonly used on the internet. It contains anonymous information, for example a unique identifier and the name of the website, as well as some numbers and digits. We use them to:
+If you contact us with an issue we will collect your name and e-mail address, as well as any other content that you send to us in order to reply.
 
-  * remember your preferences, and items you have placed in your shopping cart; 
-  * collect information that will help us understand visitors' browsing habits on our website;
-  * compile statistical reports on website activity, e.g. number of visitors and the pages they visit;
-  * temporarily store any information which you may enter in tools, such as calculators or demonstrations on our website;
-  * in some cases, remember information about you when you visit our site. We may need to do this to provide some of our services;
-  * in some cases, information about your booking so you can return to it at a later stage.
+| 
 
+We have a legitimate interest in receiving and acting upon the information that you provide to us concerning issues that you raise.  
+  
+Mailing List
 
+| 
 
-We also collect Non-Personal Information when you voluntarily provide this information to us. Additionally, we may aggregate or anonymize Personal Data in a manner such that the end product does not personally identify you or any other individual (e.g., by using Personal Data to calculate the percentage of our Site users who are from a particular geographic location).
+When you opt-in or sign up for one of our mailing lists we collect your email address or postal address. 
 
-We do not store any personal information in cookies that others could read and understand.
+| 
 
-We use three types of cookie: 
+We share information about our products and services or the products and services of other companies, if you consent to receive that information. We also have a legitimate interest in sharing information with you about our services and those of our partners.  
+  
+Mobile Devices
 
-Session cookies – these are temporary and are deleted as soon as you close your browser. 
+| 
 
-Persistent cookies – these are stored on your computer until they expire, or you remove them. Persistent cookies store your personal preferences such as your language preferences on multi-lingual sites to make subsequent visits easier. They also for example remember questions we have asked you previously, such as a request to complete an online survey. A persistent cookie will prevent you from being asked to complete the same survey every time you visit the website.
+We collect information from your mobile device such as unique identifying information broadcast from your device when visiting our websites or applications.
 
-Third Party cookies - In addition, we may engage third party tracking and advertising providers to act on Best Western's behalf to track and analyze your usage of our Site through the use of such automatic data collection technologies. These third parties collect and share with us, as we may request, Site usage information about visits to our Site, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our Site, help us target and track use of our Internet banner advertisements on our Site and on other sites, and track use of other links from our marketing partners' sites to our Site. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting and is not shared with anybody else. For information about how you can opt-out of receiving targeted advertising from many providers, see the “Your Choices” section of our Privacy Policy. 
+| 
 
-Our website may also use software to improve your user journey by identifying areas you have visited before or areas you may be interested in. To do this we may drop persistent and session cookies onto your computer or device. The information collected is safely stored and is also used for aggregated and statistical reporting. We will not collect any Personal Data.
+We have a legitimate interest in identifying unique visitors and in understanding how users interact with us on their mobile devices.  
+  
+Partner Promotion
 
-## Accepting or rejecting cookies
+| 
 
-Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. The “Help” function within your browser should tell you how to do this. 
+We collect information that you provide as part of co-branded promotions with other companies. For example, we collect information if you apply for a Best Western co-branded credit card.
 
-If you disable or refuse cookies, please note that some parts of this Site may then be inaccessible or not function properly. Please note: If you wish to make a booking online, the Best Western International, Inc. booking engine requires you to have cookies enabled in your browser in order to complete the online reservation. This is a necessary part of our secure system for online booking. If you do not wish to have cookies enabled then you can telephone one of our central reservations agents to book with us over the telephone on 08457 74 74 74 or if you prefer you can always email us via [reservations@bestwestern.co.uk](mailto:reservations@bestwestern.co.uk). 
+| 
 
-If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Alternatively, the websites [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/) have produced a series of web pages which explain how cookies work and how they can be managed. 
+We have a legitimate interest in fulfilling our promotions. That interest includes sharing your information with our partners to, among other things, determine your eligibility for a promotion.  
+  
+Surveys
 
-## IP ADDRESSES
+| 
 
-Your IP address is a number that your Internet Service Provider automatically assigns to the computer that you are using to access the Site. This number is identified and logged automatically in our server log files whenever users visit the Site, along with the time of each visit and the page(s) that were visited. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites. We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems, validation of a legitimate user session via Google® captcha and administering the Site. Please note that we treat IP addresses, server log files, and related information as Non-Personal Information, except when we are required to do otherwise under applicable law.
+When you participate in a survey we collect information that you provide through the survey. 
 
-## DO NOT TRACK
+| 
 
-Your web browser may let you choose your preference as to whether you want to allow websites to collect information over time about your online activities across different websites or online services. At this time, the Site does not respond to such “Do Not Track” or similar preferences you may have configured in your web browser, and the Site may continue to collect information in the manner described in this Policy. However, as stated in the “Non-Personal Information” section above, we do allow you to exercise some choice in the information collected by adjusting your browser’s cookie settings.
+We have a legitimate interest in understanding your opinions and collecting information relevant to our organization to improve our services.  
+  
+Sweepstakes or Contests
 
-## THIRD-PARTY SITES
+| 
 
-The Site may contain links to third-party websites. These linked sites (which may include the websites of Licensed Hotels, Affiliates, and various BWR partners or other third parties) are not under Best Western's control, and we are not responsible for the privacy practices or the contents of any such linked site (or any link contained in any linked site). We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by Best Western or the BW Group Companies. If you decide to access any of the third-party websites linked to this Site, you do so entirely at your own risk and subject to the terms and conditions of use and privacy policies for such websites. If you provide any Personal Data through any such third-party website, your transaction will occur on such third-party website (not this Site) and your Personal Data will be treated in accordance with the privacy policy of that third party. **PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES, INCLUDING LICENSED HOTELS AND AFFILIATES**.
+When you participate in a sweepstakes or contest we collect information about you that includes contact information to notify you if you are selected.
 
-## SECURITY & INTEGRITY
+| 
 
-Because the security of your Personal Data is important to us, we have implemented security measures that provide reasonable precautions against the unauthorized access, disclosure, alteration, or destruction of Personal Data. The Personal Data we collect from you online is stored by us and/or our service providers and protected through a combination of physical and electronic access controls, firewall technology, and other reasonable security measures. Nevertheless, such security measures cannot prevent all loss, access, misuse, or alteration of Personal Data, and, to the fullest extent permitted by law, we are not responsible for any damages or liabilities relating to any such incidents. Where required by law, we will notify you of any such loss, access, misuse, or alteration of Personal Data that may affect you, so that you can take the appropriate actions to protect your rights.
+We have a legitimate interest in operating sweepstakes. In some contexts, we are also required by law to collect information about those that enter into our sweepstakes, and we have a legitimate interest in complying with those laws.  
+  
+Website Interactions
 
-Please do not send us your payment information or Sensitive Personal Data through e-mail or any undesignated area (e.g., submission of your credit card number in a "comment" field). If you have reason to believe that your interaction with us is no longer secure (e.g., if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the alleged problem by contacting our Customer Care Department as set forth below in this Policy. Please note that, if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the alleged problem.
+| 
 
-## YOUR CHOICES
+We use technology to monitor how you interact with our website. This may include the links you click on or information that you type into our online forms. 
 
-You may always choose what Personal Data (if any) you wish to provide to us. However, if you choose not to provide certain details, some of your experiences with us may be affected (for example, we cannot take a reservation without a name, and if we cannot disclose your Personal Data to Licensed Hotels or Affiliates, we may be unable to provide you with all or certain reservation services, other services, or membership-program-related benefits. Similarly, if we cannot disclose your Personal Data to other third parties, such as BWR partners (e.g., airlines, card issuers and other third parties), we may not be able to provide all of the available membership program services to you (e.g., earning of frequent customer points with such companies), or the provision of such services may be delayed).
+| 
 
-Data privacy under the General Data Protection Regulation 2018 may require us to obtain your consent before we send you information that you have not specifically requested. In certain circumstances, your consent may be implied (e.g., where communications are required in order to fulfil your requests and/or where you have volunteered information for use by us). In other cases, we may be required to seek your consent expressly (e.g., where the information collected is regarded to be Sensitive Information under local regulations).
+We have a legitimate interest in understanding how you interact with our website to better improve it and to understand your preferences and interests in order to select offerings that you might find most useful.  
+  
+Web Logs
 
-If you do not wish for us to use your contact information to promote our own or third parties' products or services you can [Opt-out here](https://www.bestwestern.co.uk/my-best-western/my-profile), or you can contact us as set forth in the “Contacting Us” section of this Policy below. If you have received a promotional e-mail from us and no longer wish to receive such e-mails going forward, you may opt-out by using the unsubscribe function in the e-mail you have received from us. Please note that when you unsubscribe from receiving promotional e-mails from us, your contact details will be “suppressed” rather than deleted. This will ensure that your request is recorded and retained unless you provide a later consent that overrides it.
+| 
 
-If you have a BWR account, we ask you to indicate your communication preferences at the time you become a member of the BWR program. Once you have indicated your preferences, you can change them by logging into your account.
+We collect information, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, click-activity, referring website, and/or a date/time stamp for visitors.
 
-Please note that if you opt-out as described above, we will not be able to remove your Personal Data from the databases of Licensed Hotels, Affiliates, or other third parties with which we have already shared your Personal Data.
+| 
 
-We are entitled to assume you do not object to our doing any of the things mentioned in this statement unless you tell us otherwise in writing or in any other approved manner. However please allow up to one month for us to process all data regarding your privacy choices. Opting out does not apply to service messages such as booking confirmation emails and statements.
+We have a legitimate interest in monitoring our networks and the visitors to our websites. Among other things, it helps us understand which of our services is the most popular.  
+  
+WiFi Access
 
-If you do not opt-out, in all future marketing communications we will give you the opportunity to decline to receive further mailings. Except where expressly permitted by the General Data Protection Regulation 2018, we will only deal with the personal details you give us as set out above unless you agree otherwise. We have appropriate security measures in place to protect this information.
+| 
 
-## SUBJECT ACCESS RIGHTS
+Although we do not provide WiFi networks at Licensed Hotels, we do provide access to WiFi at BWI offices ( _e.g_., our headquarters). We collect information about individuals that access those WiFi networks. 
 
-Best Western may allow you to review certain Personal Data through the Site or through other online means. Information about the availability of reviewing your Personal Data is generally available at the Site or on the printed materials where such type of Personal Data was first submitted.
+| 
 
-Pursuant to applicable law, you have 
+We have a legitimate interest in providing WiFi networks and in collecting information for fraud and security purposes.  
+  
+Employment Candidates
 
-  * The right to request access, deletion or changes to the Personal Information we maintain about you and, where appropriate, request that we update such Personal Information you believe is incomplete, inaccurate or out of date. 
-  * The right to inquire whether we maintain Personal Information that relates to you. Although Best Western will attempt in good faith to respond to your request, we may not be able to provide, delete, or change your Personal Information in all circumstances. For example, Best Western may not be able to change, provide, or delete Personal Information about you if it would impose an undue burden or expense, or require Best Western to also change information relating to another person. 
-  * In addition, in some circumstances pursuant to applicable law, you may have the right to request that we cease using Personal Information about you on the grounds that such Personal Information was acquired by unjust means or used in violation of law. 
+| 
 
+If you apply to work for us we collect information necessary to evaluate your application. 
 
+| 
 
-Best Western will honour such requests as required and within the time specified by applicable law and will endeavour to provide these services for free.  However, where permitted by law, may charge an appropriate fee to cover the costs of responding to your request, if that request is seen to be unreasonable.
+We use information about prospective employees in connection with our legal obligations and our legitimate interest in evaluating candidates.   
+  
+Employees 
 
-You are generally entitled to ask us what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We promise to respond to your request within 30 days of receipt. In certain limited circumstances we are entitled to refuse your request. If you believe that any of your personal details which we are processing are inaccurate or incorrect please contact us immediately.
+| 
 
-When making a subject access request, please be sure to include your full name, address and telephone number, your membership number if applicable and details of your recent stay at a Best Western Hotel so we can ascertain your identity and whether we have any Personal Data regarding you, or in case we need to contact you to obtain any additional information, we may require to make that determination. You can submit your request using our Subject Access Request form [here](https://web.archive.org/company/personal-information-request-form) if you so wish. We are not responsible for updating, removing or suppressing information from the databases of Licensed Hotels, Affiliates, and other third parties with whom we have already shared your Personal Data, or for limiting their use of your Personal Data.
+If you are or were an employee of BWI we collect information necessary to your employment.
 
-Should you require any additional support regarding these rights, you can contact our Data Protection Officer using the details in the ‘Contacting Us’ section of this Policy.
+| 
 
-## RETENTION PERIOD
+We use information about current employees in connection with our employment obligations. In some contexts, we are also required by law to collect information about our employees and we have a legitimate interest in complying with those laws. We also have a legitimate interest in using employment information to have efficient staffing and work force operations.   
+  
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including business partners, Affiliates, or publicly available sources.  For example, if you make a reservation at one of our Licensed Hotels, that hotel transmits information to us as part of our legitimate interest in, among other things, maintaining a global reservation system and providing for customer service and support. 
 
-Best Western only collects Personal Data that it believes is necessary to perform the services that you seek from Best Western and to exercise its rights and comply with its obligations as otherwise outlined in this Policy. We will keep your Personal Data only as long as we need it for the purposes for which we collect it or as otherwise permitted by law.
+In addition to the purposes and uses described above, we use information in the following ways: 
 
-The nature of the data means it is difficult to define an absolute retention time for the data held, as it is not possible to define when a customer has become inactive.  As long as you have an account with us, we will consider you to be an active customer.  BWI will monitor customer data and delete that known to be no longer required, but should you wish to determine whether we hold your personal data, and wish to have any personal data erased, you may invoke your rights as described in the section above.
+  * For internal administrative purposes as well as to manage our relationships.
+  * To conduct analytics.
+  * To identify you when you visit our websites or Licensed Hotels. 
+  * To provide service to you and to improve our services and product offerings.
+  * To respond to inquiries related to support, employment opportunities, or other requests.
+  * To send marketing and promotional materials, including information relating to our products, services, sales, or promotions.
+  * To streamline the reservation or checkout process.
+  * For the safety and security of guests, staff, and other visitors.
 
-## NOTE REGARDING THE USE OF THE SITE BY MINORS
 
-The Site is not directed to minors (as defined by applicable law), and we request that such individuals do not provide Personal Data through the Site. If we learn we have collected or received Personal Information from a minor under the age of 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a minor under the age of 13, please contact us as set forth in the “Contacting Us” section of this Policy.
 
-## JURISDICTIONAL / DATA TRANSFER ISSUES
+Although the sections above describe our primary purpose in collecting your information, in many situations we have more than one purpose.  For example, if you make a room reservation we collect your information so that we, or so that a Licensed Hotel, can perform a contract with you, but we also collect your information as we have a legitimate interest in maintaining your information after your transaction is complete so that we can quickly and easily respond to any questions about your stay.  As a result, our collection and processing of your information may be based upon our need to perform a contract, our obligations under law, our legitimate interest in conducting our business, and/or your consent.
 
-The Site is operated from the United Kingdom in accordance with laws of England & Wales, and visitors to our Site should be aware that the laws of England & Wales may differ from those of your country of residence. BWGB does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk and are responsible for complying with all local laws, rules, and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
+**Sharing Of Information**
 
-As an Affiliate of BWI, data submitted to and processed by BWGB is subject to transfer and storage within the United States of America. BWI complies with the U.S.-EU Privacy Shield and the U.S.-Swiss Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland. BWI has submitted its self-certification that it adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view BWI's certification once it is approved by the U.S. Department of Commerce, please visit http://www.privacyshield.gov. Please note that a violation of BWI’s commitment to Privacy Shield may be investigated by the Federal Trade Commission and/or the United States Department of Commerce. 
+In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:
 
-If you feel that BWI has mishandled your Personal Information in violation of the Privacy Shield Privacy Principles, please contact BWGB using the details in the ‘Contact Us’ section of this Policy with a description of your complaint. After receiving such description, a representative from BWI's Customer Care Department will contact you to set up a time and manner to discuss your complaint. BWI is dedicated to addressing all legitimate complaints about its adherence to this Policy and the Privacy Shield Privacy Principles and will make a good faith effort to engage in communications to address such complaints. For unresolved complaints under the Privacy Shield Privacy Principles, BWI has agreed to participate in the JAMS EU Privacy Shield Program, an independent dispute resolution program. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by BWI, please visit the JAMS Program Website at https://jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim for more information and/or to file a complaint. If your complaint is not resolved by BWI, or through the JAMS process, under limited circumstances a binding arbitration option may be available before a Privacy Shield Panel.
+  1. **Licensed Hotels and Affiliates**. We share your information with the Licensed Hotels that will be fulfilling a reservation.We also share your information with Affiliates in the geographic area of a Licensed Hotel in which you have stayed or you intend to stay.Depending upon the context, Licensed Hotels and Affiliates use your information for a variety of purposes, including preparing for your stay, providing you with accommodations, marketing, or redeeming rewards points.
+  2. **BWR Partners**.We share information with independent companies that we have partnered with or that are participants in our BWR program to allow you to earn and redeem rewards, points, or credits in connection with your BWR membership and in accordance with your chosen earning and spending preferences.For example, you may decide to select a particular airline partner through which you can earn BWR points.We also share information with independent companies if you have selected that you would like to receive promotions and marketing material from Best Western’s third party-business partners.
+  3. **Partner Marketing and Promotions**. We share information with independent companies if you have selected that you would like to receive promotions or marketing material from Best Western’s third party-business partners.We also offer contests, sweepstakes, or other promotions with third party partners.If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third-party partner, the information that you provide will be shared with us and with them.Their use of your information is not governed by this privacy policy.
+  4. **Travel Agents and Online Travel Websites**.We share your information with travel agents, and/or online travel websites that you use in order to process your reservation request and to comply with any requirements or needs of those entities.
+  5. **Service Providers**. We share your information with service providers.Among other things, service providers help us to administer our databases, websites, marketing, communications, and surveys; service providers provide us with technical and logistical support; service providers process payments on our behalf; and service providers assist in the fulfillment of reservations and orders.If a service provider receives information from us about an EU data subject or a Swiss data subject and takes an action that is contrary to the principles of the EU-US Privacy Shield or the Swiss-US Privacy Shield, we shall be liable for those actions unless we prove that we are not responsible for causing them.
+  6. **Public**.Some of our websites may provide the opportunity to post comments or reviews in a public forum.If you decide to submit information on these pages, that information may be publicly available.
+  7. **Other Disclosures without Your Consent**. We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws or for national security requirements within the United States or the other jurisdictions in which we operate.We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary. We also may share information with our corporate affiliates ( _e.g_., subsidiaries, joint ventures, or other companies under common ownership or control).In addition, if another company acquires or plans to acquire our company, business, or our assets, we will also share information with that company, including at the negotiation stage.
+  8. **Other Disclosures with Your Consent.** We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
 
-By submitting any Personal Data to us, you consent to the transfer of such Personal Data to and the processing of such Personal Data in countries other than your country of residence, including countries outside the UK/EEA that may provide a different level of data security than in your country of residence. In addition, if we need to transfer any Personal Data to Licensed Hotels, Affiliates, or other third parties pursuant to this Policy, please be advised that such entities may or may not be located in countries that are considered "adequate" pursuant to the General Data Protection Regulation 2018 or other laws.
 
-## CALIFORNIA USERS: YOUR CALIFORNIA PRIVACY RIGHTS
 
-California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose Personal Information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information sharing. We have such a policy in place. You may opt-out of information sharing or find out about any rights you may have under California Civil Code section 1798.83 by emailing BWI at [CustomerCare@bestwestern.com](mailto:CustomerCare@bestwestern.com) or by contacting us as set forth below under “Contacting Us.” Please note that in order to fulfil certain rewards, we must share your information with our BWI Subsidiaries, Affiliates or third-party service providers. In addition, when you make a reservation or stay at a Licensed Hotel or through an Affiliate, you are providing your information directly to that Licensed Hotel or Affiliate and the restrictions contained in this Section will not apply to BWI with respect to such information. Please follow the instructions provided to you by any third-party service providers to unsubscribe from their messages. If you have opted-out as described above, and thereafter you elect to initiate a transaction that requires us to share your information with such third party again, then your previous opt-out preferences will not apply.
+**Your Choices**
 
-## CONTACTING US
+You can make the following choices regarding your personal information:
+
+  1. **Promotional Emails**. You can stop receiving promotional emails by following the unsubscribe instructions in emails that you receive.If you decide not to receive promotional emails, we may still send you service related communications. 
+  2. **Promotional Mailings.** If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and postal code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
+  3. **Promotional Text Messages.** If you receive a text message from us that contains promotional information you can opt-out of receiving future text messages by replying “STOP.”
+  4. **Access to Your Personal Information**. You can request access to your personal information by completing and submitting a [Request Form](https://www.bestwestern.co.uk/company/personal-information-request-form). If required by law, upon request, we will grant you reasonable access to the personal information that we have about you.
+  5. **Changes to Your Personal Information**. We rely on you to update and correct your personal information.Most of our websites allow you to modify or delete your account profile.Note that we may keep historical information in our backup files as permitted by law.If our website does not permit you to update or correct certain information you can request that your information be changed by completing and submitting a [Request Form](https://www.bestwestern.co.uk/company/personal-information-request-form).Although BWI will attempt in good faith to respond to your request, we may not be able to change your information in all circumstances.For example we may not be able to change your information if doing so would impose an undue burden or expense, or if it would require us to change information relating to another person.
+  6. **Deletion of Your Personal Information**. You can request information about how long we keep a specific type of information by contacting us at the address described below.You can request that your information be deleted by completing and submitting a [Request Form](https://www.bestwestern.co.uk/company/personal-information-request-form). If required by law we will delete your personal information after such a request is made.You should note that there are some situations in which we may decline to delete your information.For example, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.
+  7. **Revoking Consent or Objecting to Processing**.You can revoke consent to processing (where such processing is based upon consent) or object to our processing by completing and submitting a [Request Form](https://www.bestwestern.co.uk/company/personal-information-request-form).If you revoke consent or object to further processing we may no longer be able to provide you services.In some cases, we may limit or deny your request if the law permits or requires us to do so, or if we are unable to adequately verify your identity. 
+  8. **Online Tracking.** We do not currently recognise automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions. 
+  9. **California Residents.** California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing.If you are a California resident and would like a copy of such notice, please submit a written request to us using the information in the “Contact Information” section below.
+
+
+
+**How We Protect Personal Information**
+
+No method of transmission over the Internet or of electronic storage is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any breach to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
+
+Some of our websites permit you to create an account.  When you do you will be prompted to create a password.  You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you.  You should notify us of any unauthorized use of your password or account.
+
+**How Long We Retain Information**
+
+We retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law.  For example, we retain BWR information for as long as an individual remains a BWR member because BWR points do not expire and the information is needed in order to allow the individual to redeem their rewards.  We retain information in our reservation system, in full or in summary form, for three years following a guest’s departure in order to process your reservation, provide post-reservation customer support, and provide invoicing and recordkeeping.  We typically retain information in our customer care complaint system for three years after receipt, unless the information is needed for an ongoing purpose such as to address an open issue. 
+
+**Countries Used for Processing**
+
+BWI operates from the United States in accordance with the laws of the United States.  Individuals that provide information to BWI or visit BWI’s website should be aware that the laws of the United States may differ from those of your country of residence.  For example, there may be situations in which we are required to share your information with United States law enforcement personnel.  The following provides additional information for data received by BWI from other countries or transmitted by BWI to other countries:
+
+  * **Transmission of Information from the European Union.** BWI complies with the U.S.-EU Privacy Shield and the U.S.-Swiss Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland. BWI has submitted its self-certification that it adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principals shall apply. Once your information is received in the United States, if BWI transmits it to a processor outside of the EEA, BWI will take steps to ensure that the processor complies with the substantive principles of the GDPR and/or Privacy Shield.If you would like more information concerning the protections applied for a particular onward transfer you can contact us using the information below.To learn more about the Privacy Shield program and to view BWI's certification please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/).Please note that a violation of BWI’s commitment to Privacy Shield may be investigated by the Federal Trade Commission and/or the United States Department of Commerce. If you feel that BWI has mishandled your Personal Information in violation of the Privacy Shield Privacy Principles, please contact BWI using the contact information below with a written description of your complaint. After receiving such written description, a representative from BWI's Customer Care Department will contact you to set up a time and manner to discuss your complaint. BWI is dedicated to addressing all legitimate complaints about its adherence to this Policy and the Privacy Shield Privacy Principles and will make a good faith effort to engage in communications to address such complaints. For unresolved complaints under the Privacy Shield Privacy Principles, BWI has agreed to participate in the JAMS EU Privacy Shield Program, an independent dispute resolution program established in the EU which is free of charge to you. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by BWI, please visit the JAMS Program Website at https://jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim for more information and/or to file a complaint.If your complaint is not resolved by BWI, or through the JAMS process, under limited circumstances a binding arbitration option may be available before a Privacy Shield Panel, or you may have the right to lodge a complaint with your local data protection agency.
+  * **Transmission of Information to Other Countries**. In addition to having your information transferred to the United States where BWI is located, if you are making a reservation at a Licensed Hotel in a foreign country your information will be sent to that hotel, as well as to any Affiliate associated with that hotel.In addition, we may send your information to a vendor or partner in a foreign country for purposes of administering our BWR program and marketing efforts.
+
+
+
+**Miscellaneous**
+
+The following additional information relates to our privacy practices:
+
+  * **Third Party Applications, Websites, and Social Media**.We have no control over the privacy practices of websites or applications that we do not own. Our websites or our communications may also contain plug-ins and other features that integrate third party social media platforms. If you interact with these, the third parties who operate these platforms may be able to identify you, determine how you use our website, and link and store this information with your social media profile. 
+  * **Changes to This Privacy Policy.** We may change our privacy policy and practices over time.To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy. 
+
+
+
+**Contact Information**  
+
+We will attempt to respond to any questions, comments, or complaints concerning our privacy practices.  Please feel free to contact us using the following information:. 
 
 If you would like to update your information or modify your communication preferences, please contact us by e-mail at [marketing@bestwestern.co.uk](mailto:marketing@bestwestern.co.uk), by phone on 01904 695482 or write to us at the following address:
 
-Best Western GB, Amy Johnson Way, Clifton Moor, York, YO30 4GP
+Best Western GB,
+
+Amy Johnson Way,
+
+Clifton Moor,
+
+York,
+
+YO30 4GP
 
 Should you have any questions about this privacy statement or your personal data, please contact our Data Protection Officer at [dpo@bestwestern.co.uk](mailto:dpo@bestwestern.co.uk) or by phoning 01904 695400.
 
-Please note that e-mail communications will not necessarily be secure; accordingly, you should not include payment information or Sensitive Personal Data in your e-mail correspondence to us.
+Please note that e-mail communications will not necessarily be secure; accordingly you should not include Payment Information or Sensitive Information in e-mail correspondence to us.
 
-## CHANGES TO THE POLICY
-
-Best Western reserves the right to change, modify, or amend this Policy at any time. The date this Policy was last revised is at the top of this page. If we make a material change to this Policy, we will indicate on the Site that our privacy practices have changed and will provide a link to the new policy. If we make material changes to how we use your Personal Information, we will notify you by e-mail to the e-mail address specified in your account (if applicable) and/or through a notice on the Site’s home page, and we will provide you with an opportunity to opt-out of such new or different use. Any changes to the Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
+If you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.
