@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpfreely.org privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818061323id_/https%3A//www.helpfreely.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpfreely.org privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713204735id_/https%3A//www.helpfreely.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Helpfreely - Privacy Policy
 
@@ -10,7 +10,7 @@ OVERVIEW
 
 Helpfreely.org faciliates fundraising that benefits nonprofits, associations, and any other eligible organizations (“Cause”), made possible by the online purchases of products or services that supporters of these Causes complete while shopping at participating merchant partners (“Partner”). Helpfreely.org is fully owned by the H.F.F., and references made to “we” or “our” or “us” in this privacy policy ("Privacy Policy") or mentions of Helpfreely.org refer to both Helpfreely.org and the H.F.F.
 
-The purpose of this Privacy Policy is to explain how data is collected, used, and shared with respect to our Services (the " **Services** "), the Helpfreely.org website (the “ **Site** ”), and our Helpfreely Application (“Helpfreely App™”). Users and Causes may use our Services, including the Helpfreely App™, at no cost to them. If you would like additional information, you can view our Terms of Service at [www.helpfreely.org/es/terms-and-conditions/](https://web.archive.org/en/terms-and-conditions/) and our FAQs at [www.helpfreely.org/faq.](https://web.archive.org/en/faq/) Your use of any of the Helpfreely.org Services means that you allow us to use, collect, and share information that you provide as explained below in this Privacy Policy.
+The purpose of this Privacy Policy is to explain how data is collected, used, and shared with respect to our Services (the " **Services** "), the Helpfreely.org website (the “ **Site** ”), and our Helpfreely Application (“HelpfreelyApp™”). Users and Causes may use our Services, including the HelpfreelyApp™, at no cost to them. If you would like additional information, you can view our Terms of Service at [www.helpfreely.org/es/terms-and-conditions/](https://web.archive.org/en/terms-and-conditions/) and our FAQs at [www.helpfreely.org/faq.](https://web.archive.org/en/faq/) Your use of any of the Helpfreely.org Services means that you allow us to use, collect, and share information that you provide as explained below in this Privacy Policy.
 
 **Free Access and Use of Our Website**
 
@@ -18,7 +18,7 @@ Helpfreely.org offers its users free and open access to the Site. However, some 
 
 **Personal Data Provided by Users at Registration**
 
-If you are a Registered User, we inform you that the personal data provided, whether yours or of a third party whose consent is legitimately collected, and any other personal data provided throughout the relationship will be included in a database owned by the H.F.F. in order to facilitate:
+Following the General Data Protection Regulation (GDPR), if you are a Registered User, we inform you that the personal data provided, whether yours or of a third party whose consent is legitimately collected, and any other personal data provided throughout the relationship will be included in a database owned by the H.F.F. in order to facilitate:
 
   * Access to a private User admin (“Admin”);
   * Becoming a supporter of the H.F.F ("Heroes");
