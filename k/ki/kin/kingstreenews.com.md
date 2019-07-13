@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingstreenews.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410232814id_/https%3A//www.kingstreenews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingstreenews.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713122310id_/https%3A//www.kingstreenews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | kingstreenews.com
 
