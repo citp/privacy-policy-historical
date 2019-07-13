@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the prepostseo.com privacy policy that was archived on 2019-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190413184110id_/https%3A//www.prepostseo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prepostseo.com privacy policy that was archived on 2019-07-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190713112308id_/https%3A//www.prepostseo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy Policy</title>
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
-<meta name="Publisher" content="PrePost SEO"><meta name="Revisit-After" content="7 Days"><meta name="distribution" content="LOCAL"><meta name="Rating" content="General"><meta name="allow-search" content="yes"><meta name="googlebot" content="noodp">
+<meta name="Publisher" content="PrePost SEO"><meta name="Revisit-After" content="7 Days"><meta name="Rating" content="General">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link rel="preconnect" href="https://ajax.googleapis.com" crossorigin="">
 <link href="https://apis.google.com" rel="preconnect" crossorigin="">
@@ -20,7 +20,8 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,100,300" rel="stylesheet">
 <link href="https://www.prepostseo.com/assets/pps-frontend/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<link href="https://www.prepostseo.com/assets/pps-frontend/lib/theme.css?v=3.6" rel="stylesheet">
+<link href="https://www.prepostseo.com/assets/pps-frontend/lib/theme.css?v=4.7" rel="stylesheet">
+
 <script type="text/javascript">
 var base_url = "https://www.prepostseo.com/";
 </script>
@@ -33,7 +34,7 @@ $(".model-bg").click(function(){$(".model-box").hide();$(this).fadeOut(800);});
 $(".close-model").click(function(){$(".model-box").hide();$(".model-bg").fadeOut(800);});
 function showModel(title, data){$(".model-heading").html(title);$(".model-body").html(data);$(".model-box").fadeIn(500);$(".model-bg").show();}
 </script>	
-	<header>
+	<header style="visibility: hidden;">
     
 
 <div class="container-fluid noP" style="position:relative;">
@@ -60,7 +61,9 @@ function showModel(title, data){$(".model-heading").html(title);$(".model-body")
         <li class="nav-menu"><a href="https://www.prepostseo.com/word-count-character-count-tool">Word Counter</a></li>
         <li class="nav-menu hidden-xs"><a href="https://www.prepostseo.com/grammar-checker">Grammar Check</a></li>
         <li class="nav-menu"><a href="https://www.prepostseo.com/reverse-image-search">Reverse Image Search</a></li>
-                <li class="nav-menu"><a href="https://www.prepostseo.com/plans"><i class="fa fa-star text-primary"></i> Premium Plans</a></li>
+        
+                <li class="nav-menu"><a href="https://www.prepostseo.com/tool/">Tools</a></li>
+        <li class="nav-menu"><a href="https://www.prepostseo.com/plans"><i class="fa fa-star text-primary"></i> Premium Plans</a></li>
         
         <li class="nav-menu hidden-lg hidden-md hidden-sm"><a href="https://www.prepostseo.com/blog/"><i class="fa fa-newspaper-o"></i> Blog</a></li>
         <li class="nav-menu hidden-lg hidden-md hidden-sm"><a href="https://www.prepostseo.com/contact"><i class="fa fa-phone"></i> Contact Us</a></li>
@@ -90,37 +93,15 @@ function showModel(title, data){$(".model-heading").html(title);$(".model-body")
             </div>
         </div>
     </div>
-
-    <script>
-		$("#crossNS").click(function(){
-			var snVal = $("#inputSN").val().trim();
-			if(snVal.length > 1){ $("#inputSN").val("");
-			} else { 
-				$(".sbNew").removeClass("showB");
-			}
-		});
-		$(".topsearch").click(function(){
-			if($(".sbNew").hasClass("showB")){
-				$(".sbNew").removeClass("showB");
-			} else {
-				$(".sbNew").addClass("showB");
-				$("#inputSN").focus();
-				$(document).mouseup(function(e){
-					var container = $(".sbNew");
-					if (!container.is(e.target) && container.has(e.target).length === 0) { container.removeClass("showB");}
-				});
-				
-			}
-		});
-	</script>
 </div>
-
 
 <div style="clear:both;"></div>
     </header>
     
 
-    
+    <script>
+	document.getElementsByTagName('header')[0].style.visibility = 'hidden';
+</script>
     
     <!-- Banner -->
     <hr style="margin:0px;">
@@ -217,12 +198,12 @@ function showModel(title, data){$(".model-heading").html(title);$(".model-body")
         </div>
          
         <div class="col-sm-4 noP" style="padding-right:20px;">
-        	<p class="fh">Prepostseo Services</p> <hr style=" margin:10px 0;"> <a style="color:#3ACD99;" href="https://www.prepostseo.com/blog/"><strong>PREPOSTSEO BLOG</strong></a><a href="https://www.prepostseo.com/plagiarism-checker-api">Plagiarism APIs</a><a href="https://wordpress.org/plugins/prepost-seo/" target="_blank" rel="nofollow noreferrer">Wordpress PrePost SEO Plugin</a><a href="https://www.prepostseo.com/seo-tools-widgets">SEO Tools Widgets</a>
+        	<p class="fh">Prepostseo Services</p> <hr style=" margin:10px 0;"> <a style="color:#3ACD99;" href="/blog/"><strong>PREPOSTSEO BLOG</strong></a><a href="/plagiarism-checker-api">Plagiarism APIs</a><a href="https://wordpress.org/plugins/prepost-seo/" target="_blank" rel="nofollow noreferrer">Wordpress PrePost SEO Plugin</a><a href="/seo-tools-widgets">SEO Tools Widgets</a><a href="https://www.prepostseo.com/tool/">More Tools</a>
             
         </div>
         <div class="col-sm-4 noP" style="padding-right:20px;">
         	
-        	<p class="fh">Resources</p> <hr style=" margin:10px 0;"> <a href="https://www.prepostseo.com/about">About us</a><a href="https://www.prepostseo.com/contact">Contact us </a><a href="https://www.prepostseo.com/advertise">Advertise</a><a href="https://www.prepostseo.com/faqs">FAQs</a><a href="https://www.prepostseo.com/privacy-policy">Privacy Policy</a><a href="https://www.prepostseo.com/refund-policy">Refund Policy</a><a href="https://www.prepostseo.com/terms-of-use">Terms of use</a>
+        	<p class="fh">Resources</p> <hr style=" margin:10px 0;"> <a href="/about">About us</a><a href="/contact">Contact us </a><a href="/advertise">Advertise</a><a href="/faqs">FAQs</a><a href="/privacy-policy">Privacy Policy</a><a href="/refund-policy">Refund Policy</a><a href="/terms-of-use">Terms of use</a>
         </div>      
             </div>
 </div>
@@ -240,7 +221,7 @@ function showDabay(){
 </script>
 <script src="https://www.prepostseo.com/assets/pps-frontend/lib/bootstrap/js/bootstrap.min.js"></script>
 <script src="https://use.fontawesome.com/43844833b2.js"></script>
-<script src="https://www.prepostseo.com/assets/lib/js/functions.js?v=1.2"></script>
+<script src="https://www.prepostseo.com/assets/lib/js/functions.js?v=1.4"></script>
 <script type="text/javascript" src="https://www.prepostseo.com/assets/lib/js/lazy.js"></script>
 
     </footer>
