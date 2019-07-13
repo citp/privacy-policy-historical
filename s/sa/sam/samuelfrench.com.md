@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samuelfrench.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331135852id_/https%3A//www.samuelfrench.com/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuelfrench.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713201545id_/https%3A//www.samuelfrench.com/resources/privacy) for the most accurate reproduction.*
 
 # Privacy | Samuel French
 
