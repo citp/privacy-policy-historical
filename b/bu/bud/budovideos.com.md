@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budovideos.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117124948id_/https%3A//www.budovideos.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budovideos.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713234708id_/https%3A//www.budovideos.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Budovideos.com - Privacy Policy – Budovideos Inc
 
