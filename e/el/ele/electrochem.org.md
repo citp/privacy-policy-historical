@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electrochem.org privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413121154id_/https%3A//www.electrochem.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrochem.org privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713164359id_/https%3A//www.electrochem.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ECS
 
