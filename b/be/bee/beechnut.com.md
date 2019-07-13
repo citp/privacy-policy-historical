@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416192906id_/https%3A//www.beechnut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713055214id_/https%3A//www.beechnut.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Beechnut
 
