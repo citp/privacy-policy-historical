@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the are.na privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528134242id_/https%3A//www.are.na/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the are.na privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713171324id_/https%3A//www.are.na/privacy) for the most accurate reproduction.*
 
 # Are.na / Privacy
 
@@ -30,15 +30,15 @@ We collect and process the following data from registered users:
 
 ### You can access information on all data stored about you
 
-Contact [help@are.na](mailto:help@are.na) and we will provide you with all information on data we have about you.
+Contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b434e475b6b4a594e05454a) and we will provide you with all information on data we have about you.
 
 ### You have the right to be ‘forgotten’ by us
 
-Contact [help@are.na](mailto:help@are.na) if you want to remove all of your personal data from Are.na.
+Contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e464b425e6e4f5c4b00404f) if you want to remove all of your personal data from Are.na.
 
 ### You have the right to correct any personal data stored about you
 
-Contact [help@are.na](mailto:help@are.na) if there's any personal data about you that should be corrected.
+Contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0c6469607c4c6d7e6922626d) if there's any personal data about you that should be corrected.
 
 ### You have the right to withdraw your consent
 
@@ -46,11 +46,11 @@ If you signed up to our newsletter you can always unsubscribe at any time. You c
 
 ### You have the right to port your data to another service
 
-Contact [help@are.na](mailto:help@are.na) for a copy of your data in a plain text format.
+Contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#48202d243808293a2d662629) for a copy of your data in a plain text format.
 
 ### You have the right to file a complaint regarding our use of your data
 
-If you have any concerns please contact [help@are.na](mailto:help@are.na) so we can address them and help you. If we fail in this, you can address any complaint to your national data protection authorities.
+If you have any concerns please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#86eee3eaf6c6e7f4e3a8e8e7) so we can address them and help you. If we fail in this, you can address any complaint to your national data protection authorities.
 
 ### WHAT ABOUT CHILDREN?
 
@@ -78,7 +78,7 @@ Are.na may amend this Privacy Statement from time to time. Use of information we
 
 ### QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding privacy, please send us a detailed message at info@are.na. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy, please send us a detailed message at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will make every effort to resolve your concerns.
 
 #### Effective Date: July 15, 2014
 
