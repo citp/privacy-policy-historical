@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092622id_/https%3A//www.postandcourier.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713183859id_/https%3A//www.postandcourier.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | postandcourier.com
 
