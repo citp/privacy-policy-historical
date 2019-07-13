@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyfeed.co.uk privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102105722id_/http%3A//www.dailyfeed.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfeed.co.uk privacy policy that was archived on 2019-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190713205722id_/https%3A//www.dailyfeed.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Daily Feed
+# Privacy Policy • Daily Feed
 
 **Privacy Policy**
 
