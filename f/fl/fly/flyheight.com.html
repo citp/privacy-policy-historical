@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the flyheight.com privacy policy that was archived on 2019-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190514162406id_/https%3A//flyheight.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flyheight.com privacy policy that was archived on 2019-07-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190714130432id_/https%3A//flyheight.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="op: http://media.facebook.com/op#"><head> <title>   Privacy Policy  - FlyHeight  </title> <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="_token" content="tmtz5sTek5lRmYMAUhVw4kcZjB8vAmBQyJ7gfPiy">
+<meta name="_token" content="KF2q8SiCzJu3Ry7I1ueZm1i5kReinsn4pYuhI19d">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <meta property="fb:pages" content="1014435515345313">
+
+<meta property="fb:app_id" content="“476711899802876”">
+<meta property="og:type" content="“website”">
 
 <meta property="og:url" content="http://flyheight.com/privacy-policy">
 <link rel="shortcut icon" href="http://flyheight.com/public/images/favicon.png" type="image/x-icon">
@@ -22,11 +25,9 @@ _atrk_opts = { atrk_acct:"JeOcr1hNdI20fn", domain:"flyheight.com",dynamic: true}
 <!-- End Alexa Certify Javascript -->  
 
 
-<!-- <script src="https://cdn.siteswithcontent.com/js/push/subscribe.js?v=1.1.0"></script> -->
-
-  <link media="all" type="text/css" rel="stylesheet" href="http://flyheight.com/public/vid_theme/vendor/bootstrap/css/bootstrap.min.css">
+<!-- <script src="https://cdn.siteswithcontent.com/js/push/subscribe.js?v=1.1.0"></script> -->  <link media="all" type="text/css" rel="stylesheet" href="http://flyheight.com/public/vid_theme/vendor/bootstrap/css/bootstrap.min.css">
  <link media="all" type="text/css" rel="stylesheet" href="http://flyheight.com/public/vid_theme/vendor/fontawesome-free/css/all.min.css">
-   <link media="all" type="text/css" rel="stylesheet" href="http://flyheight.com/public/vid_theme/theme-two/osahan.css">
+   <link media="all" type="text/css" rel="stylesheet" href="http://flyheight.com/public/vid_theme/css/osahan.css">
   <style type="text/css"> .v-pagination li a { padding: .25rem .5rem; font-weight: 700; } .v-pagination ul { display: flex; justify-content: center!important; } .v-pagination li.active { background: #ff516b none repeat scroll 0 0; border-radius: 2px; color: #fff; height: 24px; margin: 0 7px; text-align: center; width: 30px; } .v-pagination li.active a { color: white !important; } .video-slider-right-list { /*background: #fff none repeat scroll 0 0; border-radius: 2px; box-shadow: 0 0 11px #ececec;*/ height: 393px; overflow: auto; padding: 7px; } .navbar-brand img { vertical-align: -webkit-baseline-middle !important; } .category-item img { width: 100%; object-fit: fill; border-radius: 0px; height: 80px; } .category-item h6 { white-space: unset; line-height: 20px; } </style>  
 	<script type="text/javascript">
    // PubGuru
@@ -38,7 +39,9 @@ _atrk_opts = { atrk_acct:"JeOcr1hNdI20fn", domain:"flyheight.com",dynamic: true}
     pgjs.publisher.logo = 'https://www.mydomain.com/img/logo.png';
     pgjs.gdpr.consentDuration = 90;*/
     pgjs.publisherCookieWrap = function() {
+
     	    	pgjs.loadJS("https://m2d.m2.ai/pghb.flyheight.com.js");
+
     	pgjs.loadJS('https://www.googletagmanager.com/gtag/js?id=UA-46097565-1');
     	window.dataLayer = window.dataLayer || [];
     	function gtag(){dataLayer.push(arguments);}
@@ -65,12 +68,9 @@ _atrk_opts = { atrk_acct:"JeOcr1hNdI20fn", domain:"flyheight.com",dynamic: true}
 	
 	
 	
-	
-	
-
 		<div id="wrapper">
 
-		<ul class="sidebar navbar-nav" style=" top: 53px; padding-top: 15px;"> <li class="nav-item"> <a class="nav-link" href="http://flyheight.com/channels"> <i class="fas fa-fw fa-users"></i> <span>Channels</span> </a> </li>  <li class="nav-item"> <a class="nav-link" href="https://flyheight.com/rewards"> <i class="fas fa-hand-holding-usd"></i> <span>Make Money</span> </a> </li>  <li class="nav-item"> <a class="nav-link" href="http://flyheight.com/upload_video"> <i class="fas fa-fw fa-cloud-upload-alt"></i> <span>Upload Video</span> </a> </li>  </ul>		<div id="content-wrapper">
+		<ul class="sidebar navbar-nav" style=" top: 53px; padding-top: 15px;">    <li class="nav-item"> <a class="nav-link" href="http://flyheight.com/channels"> <i class="fas fa-fw fa-users"></i> <span>  Channels </span> </a> </li>   <li class="nav-item"> <a class="nav-link" href="http://flyheight.com/upload_video"> <i class="fas fa-fw fa-cloud-upload-alt"></i> <span>Upload Video</span> </a> </li>   </ul>		<div id="content-wrapper">
 
 						
 			<div class="container-fluid pb-0">
@@ -231,12 +231,27 @@ ol.ol1 {list-style-type: decimal}
 			interval: 10000000000
 		})
 	});
+
+
+	(function($){
+		setInterval(() => {
+			$.each($('iframe'), (arr,x) => {
+				let src = $(x).attr('src');
+				if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
+					$(x).remove();
+				}
+			});
+		}, 300);
+	})(jQuery);
+
 </script>			
 		</div>
 	</div>
 	
 
 			
+		
 	
 		
-	</body></html>
+	
+		</body></html>
