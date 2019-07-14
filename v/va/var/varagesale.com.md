@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varagesale.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327231908id_/https%3A//www.varagesale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varagesale.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714184335id_/https%3A//www.varagesale.com/privacy) for the most accurate reproduction.*
 
 # VarageSale - Privacy Policy
 
