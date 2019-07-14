@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kusonime.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823170056id_/https%3A//kusonime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kusonime.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714100806id_/https%3A//kusonime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kusonime
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [https://kusonime.com/contact-person/](https://web.archive.org/cdn-cgi/l/email-protection#7e0e0c17081f1d073e27110b0c2d170a1b501d1113).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [https://kusonime.com/contact-person/](https://web.archive.org/cdn-cgi/l/email-protection#5b2b29322d3a38221b02342e2908322f3e75383436).
 
 At https://kusonime.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by https://kusonime.com/ and how we use it.
 
