@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204224546id_/https%3A//www.crispygamer.com/cookies-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714191114id_/https%3A//www.crispygamer.com/cookies-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy
 
@@ -36,11 +36,11 @@ Google stores the information collected by these cookies on servers in the Unite
 
 In order to provide website visitors with more choice on how data is collected by Google Analytics, Google has developed the Google Analytics Opt-out Browser Add-on. The add-on communicates with the Google Analytics JavaScript (ga.js) to stop data being sent to Google Analytics. The Google Analytics Opt-out Browser Add-on does not affect usage of the website in any other way. A link to further information on the Google Analytics Opt-out Browser Add-on is provided below for your convenience.
 
-[http://tools.google.com/dlpage/gaoptout?hl=None](https://tools.google.com/dlpage/gaoptout?hl=None)
+<http://tools.google.com/dlpage/gaoptout?hl=None>
 
 For more information on the usage of cookies by Google Analytics please see the Google website. A link to the privacy advice for this product is provided below for your convenience.
 
-[http://www.google.com/analytics/learn/privacy.html](https://www.google.com/analytics/learn/privacy.html)
+<http://www.google.com/analytics/learn/privacy.html>
 
 ## Disabling Cookies
 
@@ -48,7 +48,7 @@ If you would like to restrict the use of cookies you can control this in your In
 
   * **Internet Explorer:  **<http://windows.microsoft.com/en-GB/windows7/Block-enable-or-allow-cookies>
   * **Google Chrome** : [https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies "Disabling cookies in Google Chrome")
-  * **Mozilla Firefox** : [http://support.mozilla.org/en-US/kb/Blocking%20cookies](https://support.mozilla.org/en-US/kb/Blocking%20cookies "Disabling cookies in Mozilla Firefox")
+  * **Mozilla Firefox** : <http://support.mozilla.org/en-US/kb/Blocking%20cookies>
   * **Apple Safari** : <http://docs.info.apple.com/article.html?artnum=32467>
 
 
