@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514021420id_/http%3A//www.sinobiological.com/privacy-policy-a-02.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714082014id_/http%3A//www.sinobiological.com/privacy-policy-a-02.html) for the most accurate reproduction.*
 
 # Sino Biological Inc. Privacy Policy
 
