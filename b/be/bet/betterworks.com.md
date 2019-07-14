@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterworks.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530104424id_/https%3A//www.betterworks.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterworks.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714030550id_/https%3A//www.betterworks.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Betterworks
 
