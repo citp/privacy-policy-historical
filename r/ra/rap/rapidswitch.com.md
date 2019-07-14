@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidswitch.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514124553id_/http%3A//www.rapidswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidswitch.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714192816id_/https%3A//www.rapidswitch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rapidswitch
+# Privacy Policy | RapidSwitch
 
 ## Privacy Details
 
@@ -85,34 +85,17 @@ NUMBER | DESCRIPTION OF RIGHT
 **Right 5** | A right to receive personal data, which you have provided to us, in a structured, commonly used and machine readable format. You also have the right to require us to transfer this personal data to another organisation, at your request.  
 **Right 6** | A right to object to our processing of personal data held by us about you (including for the purposes of sending marketing materials to you).  
 **Right 7** | A right to object to any automated decision making (this is decision making without any human involvement), including profiling, where the decision has a legal or significant impact on you.  
-**Right 8** | A right to withdraw your consent, where we are relying on it to use your personal data (for example, to provide you with marketing information about our services or products).
-
-If you have consented to receive communications from us, you can contact us at any time to have your details removed from lists used by us or to update your marketing preferences. Please email marketing-preferences@iomart.com and quote your email/telephone number/account number in the body of the email, telling us what you would like us to do.
-
-You can also:  
-Click “unsubscribe” on any of our marketing emails, and we will ensure we don’t send you any communications of this nature in future.  
+**Right 8** | A right to withdraw your consent, where we are relying on it to use your personal data (for example, to provide you with marketing information about our services or products). If you have consented to receive communications from us, you can contact us at any time to have your details removed from lists used by us or to update your marketing preferences. Please email marketing-preferences@iomart.com and quote your email/telephone number/account number in the body of the email, telling us what you would like us to do. You can also: Click “unsubscribe” on any of our marketing emails, and we will ensure we don’t send you any communications of this nature in future.  
   
 If you have any concerns regarding our processing of your personal data, or are not satisfied with our handling of any request by you in relation to your rights, please get in touch with our Data Protection Officer at the contact details set out below in the first instance. You always have the right to make a complaint to the Information Commissioner’s Office (“ **ICO** “).  The ICO is the UK’s independent body set up to uphold information rights.  You can find out more about the ICO on its website (<https://ico.org.uk/>). Their address is:
 
-First Contact Team  
-Information Commissioner’s Office  
-Wycliffe House  
-Water Lane  
-Wilmslow  
-SK9 5AF
+First Contact Team Information Commissioner’s Office Wycliffe House Water Lane Wilmslow SK9 5AF
 
 ## Contact Us and Complaints
 
-Please address any questions, comments and requests regarding our data processing practices to our Data Protection Officer in the first instance.  You can write to us at any time in relation to your rights, including to receive details of the personal information we have about you.  Please contact us at [dpo@iomart.com](mailto:dpo@iomart.com) or write to:
+Please address any questions, comments and requests regarding our data processing practices to our Data Protection Officer in the first instance.  You can write to us at any time in relation to your rights, including to receive details of the personal information we have about you.  Please contact us at [dpo@iomart.com](mailto:dpo@iomart.com "Email iomart's Data Protection Officer") or write to:
 
-Data Protection Officer,  
-iomart Group Plc,  
-Lister Pavilion,  
-Kelvin Campus,  
-West of Scotland Science Park,  
-Glasgow  
-G20 0SP  
-United Kingdom ** **
+Data Protection Officer, iomart Group Plc, Lister Pavilion, Kelvin Campus, West of Scotland Science Park, Glasgow G20 0SP United Kingdom ** **
 
 Please quote your name and account number (if you are a customer).  If you are requesting information, please also include details of the information you require a copy of as this will help us locate the relevant information.  Please be aware that we will take all reasonable steps to confirm your identity before providing you with the information you have requested.
 
@@ -193,10 +176,4 @@ _From time to time we may provide anonymised_ _information of a general nature t
 
 _The controller of this website is: iomart Group Plc, a UK Public Limited Company with the company number SC204560._
 
-_Registered office and head office:  
-__Lister Pavilion,  
-__Kelvin Campus,  
-__West of Scotland Science Park,  
-__Glasgow  
-__G20 0SP  
-__United Kingdom_
+_Registered office and head office:_ _Lister Pavilion,_ _Kelvin Campus,_ _West of Scotland Science Park,_ _Glasgow_ _G20 0SP_ _United Kingdom_
