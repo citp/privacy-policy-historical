@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolcenter.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529215334id_/https%3A//www.poolcenter.com/poolcenter/storeus/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolcenter.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715012100id_/https%3A//www.poolcenter.com/poolcenter/storeus/security) for the most accurate reproduction.*
 
 # Privacy and Security Terms of PoolCenter.com
 
