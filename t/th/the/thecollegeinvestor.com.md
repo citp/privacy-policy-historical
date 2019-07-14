@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecollegeinvestor.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526150217id_/https%3A//thecollegeinvestor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecollegeinvestor.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714051324id_/https%3A//thecollegeinvestor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
