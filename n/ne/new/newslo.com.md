@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newslo.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630064738id_/https%3A//newslo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newslo.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714073109id_/http%3A//newslo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Newslo
 
@@ -102,3 +102,5 @@ Contact us
 This website is owned and operated by Wnets.
 
 If you have any questions about our cookies or this cookies policy, please contact us.
+
+[](http://www.adworkmedia.com/go.php?camp=4817&pub=82808&id=1&sid=)
