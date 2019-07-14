@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dobberhockey.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623010605id_/https%3A//dobbersports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobberhockey.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714061512id_/https%3A//dobbersports.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dobber Sports
+# Privacy Policy – DobberSports
 
 **Privacy Policy**
 
@@ -20,7 +20,7 @@ Collecting this data allows us to quickly and easily contact you. For example, w
 
 DobberHockey would like to make it clear that none of our advertisers, clients, or partners have access to your personal data. In addition, DobberHockey will never disclose your personal data to any outside party without your knowledge and consent except under the most exceptional circumstances such as: police authorities force us to by law/warrant; it is required for DobberHockey to protect ourselves against actions taken against us which threaten our rights and/or property, or those of our visitors, clients, partners, advertisers, or retailers.
 
-Our sites provides users the opportunity to opt-out of receiving promotional/marketing information from us by sending email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b1a1f1612153b1f1419191e09131418101e0255181416) or by removing your email address from the “Your Details” section of the site.
+Our sites provides users the opportunity to opt-out of receiving promotional/marketing information from us by sending email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e687828b8f88a68289848483948e89858d839fc885898b) or by removing your email address from the “Your Details” section of the site.
 
 **External Links**
 
@@ -50,4 +50,4 @@ If you have any questions about this privacy statement, the practices of Dobber 
 
 **Ads**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [](http://www.networkadvertising.org/managing/opt_out.asp)<http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
