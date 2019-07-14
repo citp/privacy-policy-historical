@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aan.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326174907id_/https%3A//www.aan.com/AAN-Resources/Details/about-the-aan/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aan.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714043618id_/https%3A//www.aan.com/AAN-Resources/Details/about-the-aan/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
