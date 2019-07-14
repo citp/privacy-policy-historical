@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arzoo.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223202511id_/http%3A//www.arzoo.com/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arzoo.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714062642id_/https%3A//www.arzoo.com/privacypolicy.do) for the most accurate reproduction.*
 
 # Cheap Air Tickets, Flights Tickets, Airfare, Holiday Packages, Online Hotels Booking, Amusement Theme Parks Tickets in Mumbai India - Arzoo.com
 
-#### Effective April 15, 2006
+#### Effective Feb 01, 2019
 
 Your privacy is very important to ARZOO.COM (INDIA) PRIVATE LIMITED ("Arzoo.com" or "Arzoo" or "we" or "us"). This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services ("you") on our Site, in telephone or e-mail communications, or in interviews, surveys, sweepstakes, contests, or promotions. 
 
