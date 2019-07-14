@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403020154id_/http%3A//www.funkykit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714050700id_/http%3A//www.funkykit.com/privacy) for the most accurate reproduction.*
 
 # Privacy - FunkyKit
 
