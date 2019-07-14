@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanliterature.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620163037id_/https%3A//americanliterature.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanliterature.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714050522id_/https%3A//americanliterature.com/privacy) for the most accurate reproduction.*
 
 # American Literature Privacy Policy
 
