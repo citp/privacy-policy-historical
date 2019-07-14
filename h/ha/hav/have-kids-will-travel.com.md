@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the have-kids-will-travel.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607222213id_/http%3A//have-kids-will-travel.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the have-kids-will-travel.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714191003id_/http%3A//have-kids-will-travel.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – have-kids-will-travel.com
 
