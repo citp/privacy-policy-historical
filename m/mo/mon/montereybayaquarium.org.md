@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403024415id_/https%3A//www.montereybayaquarium.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714075115id_/https%3A//www.montereybayaquarium.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Monterey Bay Aquarium
 
-This Privacy Policy applies to _**all**_ information provided by you or otherwise collected from you by the Monterey Bay Aquarium in _any_ manner, including in person or through the mail, and online or through mobile applications or platforms.
+This Privacy Policy applies to _all_ information provided by you or otherwise collected from you by the Monterey Bay Aquarium in _any_ manner, including in person or through the mail, and online or through mobile applications or platforms.
 
 **Effective Date: May 4, 2016**
 
@@ -25,7 +25,7 @@ This Privacy Policy applies to _**all**_ information provided by you or otherwis
 
 The Monterey Bay Aquarium Foundation (the "Aquarium," "we," or "us") is committed to respecting the privacy rights of our Guests—that is, our in-person and virtual visitors, members and donors. Our policy covers information we collect through the mail, over the phone, in person at the Aquarium or off site at Aquarium events and online through our websites (including through application programming interfaces), e-newsletters, e-books and mobile applications, (collectively, "Services"). We created this Privacy Policy (the "Policy") to give you confidence as you visit, join, donate, or use our Services and to demonstrate our commitment to fair information practices and the protection of privacy. We have designed our privacy policy to be easy to navigate and understand and to provide transparency into our practices and principles.
 
-With respect to our membership and fundraising practices, we adhere to [A Donor Bill of Rights](http://www.afpnet.org/files/ContentDocuments/Donor_Bill_of_Rights.pdf), which requires that we handle all information about our Members and Donors with respect and with confidentiality to the extent provided by law. Members and Donors always have the opportunity for their names to be deleted from any lists that we may intend to share pursuant to this Policy.
+With respect to our membership and fundraising practices, we adhere to [A Donor Bill of Rights](https://afpglobal.org/donor-bill-rights), which requires that we handle all information about our Members and Donors with respect and with confidentiality to the extent provided by law. Members and Donors always have the opportunity for their names to be deleted from any lists that we may intend to share pursuant to this Policy.
 
 ## 2\. INFORMATION COLLECTION PRACTICES.
 
