@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finduniversity.ph privacy policy that was archived on 2019-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190518091411id_/http%3A//www.finduniversity.ph/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finduniversity.ph privacy policy that was archived on 2019-07-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190714182333id_/http%3A//finduniversity.ph/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	FindUniversity.ph - Privacy Policy
@@ -11,21 +11,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="content-language" content="en"><meta name="google-site-verification" content="IHIwMYfvcLfIKdUG4zAC5QeQCNY66YBjT022kFZo61s">
     <meta name="robots" content="noindex, nofollow">
 
-
 <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
+    var gptadslots = [];
+    var googletag = googletag || {cmd:[]};
 </script>
-
 <script>
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/21734062380/FindU_Script', [1, 1], 'div-gpt-ad-1550031504751-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();
-  });
+    googletag.cmd.push(function () {
+        //Adslot declarations
+        gptadslots.push(googletag.defineSlot('/21734062380/FindU_Script', [[1,1]], 'div-gpt-ad-1550031504751-0')
+            .addService(googletag.pubads()));
+        gptadslots.push(googletag.defineOutOfPageSlot('/21734062380/FindU_Desktop_Pagelevel1', 'div-gpt-ad-3199985-1')
+            .addService(googletag.pubads()));
+        gptadslots.push(googletag.defineSlot('/21734062380/FindU_Desktop_Pagelevel1', [[1,1]], 'div-gpt-ad-3199985-2')
+            .addService(googletag.pubads()));
+        gptadslots.push(googletag.defineOutOfPageSlot('/21734062380/FindU_Mobile_Pagelevel1', 'div-gpt-ad-6357382-1')
+            .addService(googletag.pubads()));
+        gptadslots.push(googletag.defineSlot('/21734062380/FindU_Mobile_Pagelevel1', [[1,1]], 'div-gpt-ad-6357382-2')
+            .addService(googletag.pubads()));
+
+        googletag.pubads().enableSingleRequest();
+        
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
 </script>
+<!-- ADPUB-13 styles -->
+<style type="text/css">
+    .ad-side-container{
+        margin-top: 20px;
+        min-height: 600px;
+        position: relative;
+    }
+
+    .ad-side.ad-desktop{
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .ad-side{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .ad-mid1,
+    .ad-mid2 {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+</style>
+<!-- ADPUB-13 styles -->
 <!-- ADPUB-13 DESKTOP: FOR HEADER -->
 <script>
 googletag.cmd.push(function() {
@@ -187,7 +223,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <strong><span>Powered by <img src="/images/edukasyon_hat.png" alt="Powered by Edukasyon.ph"> Edukasyon.ph</span><span class="divider">|</span></strong>
     <a class="ShowRedirectPopup" href="https://www.edukasyon.ph/schools/senior-high-schools" title="SHS">SHS</a>
     <a class="ShowRedirectPopup" href="https://www.edukasyon.ph/scholarships" title="Scholarships">Scholarships</a>
-    <a class="ShowRedirectPopup" href="https://www.edukasyon.ph/study-abroad" title="Study Abroad">Study Abroad</a>
+    <a href="/studyabroad.aspx" title="Study Abroad">Study Abroad</a>
     <a class="ShowRedirectPopup" href="https://blog.edukasyon.ph/" title="Blog">Blog</a>
     <a class="ShowRedirectPopup" href="https://www.edukasyon.ph/review-centers" title="Review Centers">Review Centers</a>
     <a class="ShowRedirectPopup" href="https://www.edukasyon.ph/short-and-nano-courses" title="Online Education">Online Education</a>
@@ -206,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="Close">×</span>
         <div class="ContentBody">
             <div class="Logo"></div>
-            <h1>Apply to Schools Online with Edukasyon.ph</h1>
+            <div class="ModalTitle">Apply to Schools Online with Edukasyon.ph</div>
             <p>Sign up for an <b>Edukasyon.ph</b> account and apply directly to your chosen college or university.</p>
             <p>Discover scholarships and other offerings that suit your needs.<br>
                 What's more: <b>Edukasyon.ph</b> has exclusive short courses, study abroad fairs, and all the latest information on all your education needs.
@@ -239,9 +275,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
 <div class="SearchBox" id="searchBox">
     <div class="SearchInner">
-        <div class="SearchField"><span>Location</span><select name="_FU_location" id="_FU_location" class="Location"></select></div>
-        <div class="SearchField"><span>Degree</span><select name="_FU_degreeLevel" id="_FU_degreeLevel" class="Degree" onchange="_FU_ClearField('_FU_orderBy');_FU_ClearField('_FU_orderByParam');"></select></div>
-        <div class="SearchField"><span>Field of Study</span><select name="_FU_category" id="_FU_category" class="Category" onchange="_FU_ClearField('_FU_major');_FU_ClearField('_FU_orderByParam');"></select></div>
+        <div class="SearchField"><span>Location</span><select name="_FU_location" id="_FU_location" class="Location"><option value=""> Any Location </option><option value="region:abroad" class="top">Study Abroad! - Powered by Edukasyon.ph</option><option value="region:national-capital-region" class="Top">NCR (Metro Manila)</option><option value="city:quezon-city$region:national-capital-region" class="Sub">Quezon City</option><option value="city:manila$region:national-capital-region" class="Sub">Manila</option><option value="city:caloocan-city$region:national-capital-region" class="Sub">Caloocan City</option><option value="city:makati$region:national-capital-region" class="Sub">Makati</option><option value="city:pasig-city$region:national-capital-region" class="Sub">Pasig City</option><option value="city:paranaque-city$region:national-capital-region" class="Sub">Paranaque City</option><option value="city:pasay$region:national-capital-region" class="Sub">Pasay</option><option value="city:mandaluyong$region:national-capital-region" class="Sub">Mandaluyong</option><option value="city:taguig-city$region:national-capital-region" class="Sub">Taguig City</option><option value="city:las-pinas$region:national-capital-region" class="Sub">Las Pinas</option><option value="city:muntinlupa-city$region:national-capital-region" class="Sub">Muntinlupa City</option><option value="city:valenzuela-city$region:national-capital-region" class="Sub">Valenzuela City</option><option value="city:marikina-city$region:national-capital-region" class="Sub">Marikina City</option><option value="city:san-juan-city$region:national-capital-region" class="Sub">San Juan City</option><option value="city:malabon-city$region:national-capital-region" class="Sub">Malabon City</option><option value="region:calabarzon" class="Top">Region IV-A (Calabarzon)</option><option value="province:batangas" class="Sub">Batangas</option><option value="province:cavite" class="Sub">Cavite</option><option value="province:laguna" class="Sub">Laguna</option><option value="province:quezon" class="Sub">Quezon</option><option value="province:rizal" class="Sub">Rizal</option><option value="city:calamba-city$region:calabarzon" class="Sub">Calamba City</option><option value="city:dasmarinas-city$region:calabarzon" class="Sub">Dasmarinas City</option><option value="city:lucena-city$region:calabarzon" class="Sub">Lucena City</option><option value="city:antipolo-city$region:calabarzon" class="Sub">Antipolo City</option><option value="city:cainta$region:calabarzon" class="Sub">Cainta</option><option value="city:lipa-city$region:calabarzon" class="Sub">Lipa City</option><option value="city:batangas-city$region:calabarzon" class="Sub">Batangas City</option><option value="city:san-pablo-city$region:calabarzon" class="Sub">San Pablo City</option><option value="city:imus$region:calabarzon" class="Sub">Imus</option><option value="city:bacoor-cavite$region:calabarzon" class="Sub">Bacoor</option><option value="region:central-luzon" class="Top">Region III (Central Luzon)</option><option value="province:aurora" class="Sub">Aurora</option><option value="province:bataan" class="Sub">Bataan</option><option value="province:bulacan" class="Sub">Bulacan</option><option value="province:nueva-ecija" class="Sub">Nueva Ecija</option><option value="province:pampanga" class="Sub">Pampanga</option><option value="province:tarlac" class="Sub">Tarlac</option><option value="province:zambales" class="Sub">Zambales</option><option value="city:tarlac-city$region:central-luzon" class="Sub">Tarlac City</option><option value="city:cabanatuan-city$region:central-luzon" class="Sub">Cabanatuan City</option><option value="city:olongapo-city$region:central-luzon" class="Sub">Olongapo City</option><option value="city:san-jose-del-monte-city$region:central-luzon" class="Sub">San Jose del Monte City</option><option value="region:central-visayas" class="Top">Region VII (Central Visayas)</option><option value="province:bohol" class="Sub">Bohol</option><option value="province:cebu" class="Sub">Cebu</option><option value="province:negros-oriental" class="Sub">Negros Oriental</option><option value="province:siquijor" class="Sub">Siquijor</option><option value="city:cebu-city$region:central-visayas" class="Sub">Cebu City</option><option value="city:dumaguete-city$region:central-visayas" class="Sub">Dumaguete City</option><option value="region:davao-region" class="Top">Region XI (Davao)</option><option value="province:compostela-valley" class="Sub">Compostela Valley</option><option value="province:davao-del-norte" class="Sub">Davao del Norte</option><option value="province:davao-del-sur" class="Sub">Davao del Sur</option><option value="province:davao-oriental" class="Sub">Davao Oriental</option><option value="city:davao-city$region:davao-region" class="Sub">Davao City</option><option value="region:western-visayas" class="Top">Region VI (Western Visayas)</option><option value="province:aklan" class="Sub">Aklan</option><option value="province:antique" class="Sub">Antique</option><option value="province:capiz" class="Sub">Capiz</option><option value="province:guimaras" class="Sub">Guimaras</option><option value="province:iloilo" class="Sub">Iloilo</option><option value="province:negros-occidental" class="Sub">Negros Occidental</option><option value="city:iloilo-city$region:western-visayas" class="Sub">Iloilo City</option><option value="region:ilocos-region" class="Top">Region I (Ilocos Region)</option><option value="province:ilocos-norte" class="Sub">Ilocos Norte</option><option value="province:ilocos-sur" class="Sub">Ilocos Sur</option><option value="province:la-union" class="Sub">La Union</option><option value="province:pangasinan" class="Sub">Pangasinan</option><option value="city:san-fernando-city$region:ilocos-region" class="Sub">San Fernando City</option><option value="region:bicol-region" class="Top">Region V (Bicol Region)</option><option value="province:albay" class="Sub">Albay</option><option value="province:camarines-norte" class="Sub">Camarines Norte</option><option value="province:camarines-sur" class="Sub">Camarines Sur</option><option value="province:catanduanes" class="Sub">Catanduanes</option><option value="province:masbate" class="Sub">Masbate</option><option value="province:sorsogon" class="Sub">Sorsogon</option><option value="city:naga-city$region:bicol-region" class="Sub">Naga City</option><option value="region:mimaropa" class="Top">Region IV-B (Mimaropa)</option><option value="province:marinduque" class="Sub">Marinduque</option><option value="province:occidental-mindoro" class="Sub">Occidental Mindoro</option><option value="province:oriental-mindoro" class="Sub">Oriental Mindoro</option><option value="province:palawan" class="Sub">Palawan</option><option value="province:romblon" class="Sub">Romblon</option><option value="city:puerto-princesa-city$region:mimaropa" class="Sub">Puerto Princesa City</option><option value="region:zamboanga-peninsula" class="Top">Region IX (Zamboanga Peninsula)</option><option value="province:zamboanga-del-norte" class="Sub">Zamboanga del Norte</option><option value="province:zamboanga-del-sur" class="Sub">Zamboanga del Sur</option><option value="province:zamboanga-sibugay" class="Sub">Zamboanga Sibugay</option><option value="city:zamboanga-city$region:zamboanga-peninsula" class="Sub">Zamboanga City</option><option value="region:eastern-visayas" class="Top">Region VIII (Eastern Visayas)</option><option value="province:biliran" class="Sub">Biliran</option><option value="province:eastern-samar" class="Sub">Eastern Samar</option><option value="province:leyte" class="Sub">Leyte</option><option value="province:northern-samar" class="Sub">Northern Samar</option><option value="province:samar" class="Sub">Samar</option><option value="province:southern-leyte" class="Sub">Southern Leyte</option><option value="city:tacloban$region:eastern-visayas" class="Sub">Tacloban</option><option value="region:soccsksargen" class="Top">Region XII (Soccsksargen)</option><option value="province:cotabato" class="Sub">Cotabato</option><option value="province:sarangani" class="Sub">Sarangani</option><option value="province:south-cotabato" class="Sub">South Cotabato</option><option value="province:sultan-kudarat" class="Sub">Sultan Kudarat</option><option value="city:cotabato-city$region:soccsksargen" class="Sub">Cotabato City</option><option value="region:cagayan-valley" class="Top">Region II (Cagayan Valley)</option><option value="province:batanes" class="Sub">Batanes</option><option value="province:cagayan" class="Sub">Cagayan</option><option value="province:isabela" class="Sub">Isabela</option><option value="province:nueva-vizcaya" class="Sub">Nueva Vizcaya</option><option value="province:quirino" class="Sub">Quirino</option><option value="city:tuguegarao-city$region:cagayan-valley" class="Sub">Tuguegarao City</option><option value="region:cordillera-administrative-region" class="Top">CAR (Cordillera Administrative Region)</option><option value="province:abra" class="Sub">Abra</option><option value="province:apayao" class="Sub">Apayao</option><option value="province:benguet" class="Sub">Benguet</option><option value="province:ifugao" class="Sub">Ifugao</option><option value="province:kalinga" class="Sub">Kalinga</option><option value="province:mountain-province" class="Sub">Mountain Province</option><option value="city:baguio-city$region:cordillera-administrative-region" class="Sub">Baguio City</option><option value="region:northern-mindanao" class="Top">Region X (Northern Mindanao)</option><option value="province:bukidnon" class="Sub">Bukidnon</option><option value="province:camiguin" class="Sub">Camiguin</option><option value="province:lanao-del-norte" class="Sub">Lanao del Norte</option><option value="province:misamis-occidental" class="Sub">Misamis Occidental</option><option value="province:misamis-oriental" class="Sub">Misamis Oriental</option><option value="city:cagayan-de-oro$region:northern-mindanao" class="Sub">Cagayan de Oro</option><option value="region:caraga-region" class="Top">Region XIII (Caraga)</option><option value="province:agusan-del-norte" class="Sub">Agusan del Norte</option><option value="province:agusan-del-sur" class="Sub">Agusan del Sur</option><option value="province:dinagat-islands" class="Sub">Dinagat Islands</option><option value="province:surigao-del-norte" class="Sub">Surigao del Norte</option><option value="province:surigao-del-sur" class="Sub">Surigao del Sur</option><option value="city:butuan-city$region:caraga-region" class="Sub">Butuan City</option><option value="region:autonomous-region-of-muslim-mindanao" class="Top">ARMM (ARMM)</option><option value="province:basilan" class="Sub">Basilan</option><option value="province:lanao-del-sur" class="Sub">Lanao del Sur</option><option value="province:maguindanao" class="Sub">Maguindanao</option><option value="province:sulu" class="Sub">Sulu</option><option value="province:tawi-tawi" class="Sub">Tawi-Tawi</option><option value="city:marawi-city$region:autonomous-region-of-muslim-mindanao" class="Sub">Marawi City</option></select></div>
+        <div class="SearchField"><span>Degree</span><select name="_FU_degreeLevel" id="_FU_degreeLevel" class="Degree" onchange="_FU_ClearField('_FU_orderBy');_FU_ClearField('_FU_orderByParam');"><option value=""> Any Degree </option><option value="UnderGraduate">Bachelor's</option><option value="Graduate">Master's</option><option value="Diploma">Certificate</option><option value="Doctor">Doctorate</option></select></div>
+        <div class="SearchField"><span>Field of Study</span><select name="_FU_category" id="_FU_category" class="Category" onchange="_FU_ClearField('_FU_major');_FU_ClearField('_FU_orderByParam');"><option value=""> Any Field </option><option value="113" class="Top">Business</option><option value="5" class="Sub">Business Administration</option><option value="59" class="Sub">Accountancy</option><option value="112" class="Sub">Management</option><option value="22" class="Sub">Marketing</option><option value="114" class="Sub">Finance &amp; Banking</option><option value="176" class="Sub">Bookkeeping</option><option value="115" class="Sub">HR</option><option value="111" class="Sub">Entrepreneurship</option><option value="17" class="Sub">Economics</option><option value="156" class="Sub">Real Estate</option><option value="159" class="Sub">Advertising</option><option value="11" class="Top">IT, ComSci &amp; Programming</option><option value="57" class="Sub">Information Technology (IT)</option><option value="103" class="Sub">Computer Science</option><option value="34" class="Sub">Computer Engineering</option><option value="6" class="Top">Teacher Education</option><option value="52" class="Sub">Secondary Education</option><option value="55" class="Sub">Elementary Education</option><option value="56" class="Sub">Math &amp; Science Teachers</option><option value="151" class="Sub">Educational Management</option><option value="54" class="Sub">Physical Education Teachers</option><option value="126" class="Sub">Early Childhood Education</option><option value="109" class="Sub">Special Education</option><option value="179" class="Sub">Guidance and Counselling</option><option value="116" class="Sub">Religion &amp; Values Education</option><option value="53" class="Sub">Industrial &amp; Technical Teachers</option><option value="149" class="Sub">Health Education</option><option value="84" class="Sub">Art Education</option><option value="14" class="Top">Tourism, Hospitality &amp; Culinary</option><option value="78" class="Sub">HRM</option><option value="77" class="Sub">Tourism</option><option value="82" class="Sub">Culinary Arts</option><option value="163" class="Sub">Housekeeping</option><option value="162" class="Sub">Bartending</option><option value="80" class="Sub">Cruise Line Operations</option><option value="144" class="Top">Professional &amp; Technical Courses</option><option value="147" class="Sub">Computer Technology</option><option value="142" class="Sub">Electronics Technology</option><option value="124" class="Sub">Automotive Technology</option><option value="122" class="Sub">Electrical Technology</option><option value="121" class="Sub">Industrial Technology</option><option value="125" class="Sub">Drafting Technology</option><option value="97" class="Sub">Food Technology</option><option value="138" class="Sub">Refrigeration &amp; Air Cond.</option><option value="123" class="Sub">Mechanical Technology</option><option value="119" class="Sub">Agricultural Technology</option><option value="170" class="Sub">Welding &amp; Fabrication</option><option value="146" class="Sub">Garments &amp; Apparel</option><option value="161" class="Sub">Civil Technology</option><option value="137" class="Sub">Aircraft Maintenance &amp; Tech.</option><option value="164" class="Sub">Carpentry &amp; Wood Tech</option><option value="130" class="Top">Language</option><option value="63" class="Sub">English</option><option value="64" class="Sub">Filipino</option><option value="13" class="Top">Social Science</option><option value="101" class="Sub">Criminology</option><option value="71" class="Sub">Psychology</option><option value="67" class="Sub">Political Science</option><option value="94" class="Sub">Social Work</option><option value="153" class="Sub">Community Development</option><option value="66" class="Sub">Sociology</option><option value="73" class="Sub">International Studies</option><option value="180" class="Sub">International Relations</option><option value="68" class="Sub">Anthropology</option><option value="127" class="Top">Administration</option><option value="128" class="Sub">Office Administration</option><option value="110" class="Sub">Public Administration</option><option value="148" class="Sub">Customs Administration</option><option value="152" class="Sub">Healthcare Administration</option><option value="129" class="Sub">Legal Management</option><option value="7" class="Top">Engineering</option><option value="34" class="Sub">Computer Engineering</option><option value="33" class="Sub">Civil Engineering</option><option value="36" class="Sub">Electronics &amp; Commun. Eng.</option><option value="35" class="Sub">Electrical Engineering</option><option value="40" class="Sub">Mechanical Engineering</option><option value="38" class="Sub">Industrial Engineering</option><option value="133" class="Sub">Marine Engineering</option><option value="120" class="Sub">Agricultural Engineering</option><option value="31" class="Sub">Chemical Engineering</option><option value="37" class="Sub">Geodetic Engineering</option><option value="134" class="Sub">Environmental Engineering</option><option value="177" class="Sub">Sanitary Engineering</option><option value="158" class="Sub">Aeronautical Engineering</option><option value="41" class="Sub">Mining Engineering</option><option value="12" class="Top">Medical &amp; Healthcare</option><option value="23" class="Sub">Nursing</option><option value="29" class="Sub">Midwifery</option><option value="135" class="Sub">Caregiving</option><option value="61" class="Sub">Medical Technology</option><option value="24" class="Sub">Pharmacy</option><option value="26" class="Sub">Radiologic Technology</option><option value="25" class="Sub">Physical Therapy</option><option value="152" class="Sub">Healthcare Administration</option><option value="96" class="Sub">Nutrition</option><option value="62" class="Sub">Medicine</option><option value="149" class="Sub">Health Education</option><option value="150" class="Sub">Public Health</option><option value="105" class="Sub">Dentistry</option><option value="95" class="Sub">Occupational Therapy</option><option value="92" class="Sub">Veterinary</option><option value="108" class="Sub">Optometry</option><option value="4" class="Top">Communication &amp; Info. Science</option><option value="104" class="Sub">Communication</option><option value="58" class="Sub">Information Management</option><option value="18" class="Sub">Library &amp; Information Science</option><option value="90" class="Sub">Visual Communication</option><option value="131" class="Sub">Journalism</option><option value="171" class="Sub">Broadcasting</option><option value="107" class="Sub">Public Relations</option><option value="8" class="Top">Science</option><option value="19" class="Sub">Mathematics</option><option value="43" class="Sub">Biology</option><option value="47" class="Sub">Environmental Studies &amp; Ecology</option><option value="44" class="Sub">Chemistry</option><option value="42" class="Sub">Physics</option><option value="50" class="Sub">Physiology</option><option value="49" class="Sub">Microbiology</option><option value="93" class="Sub">Statistics</option><option value="45" class="Sub">Geology</option><option value="1" class="Top">Agriculture</option><option value="117" class="Sub">Animal Science &amp; Production</option><option value="118" class="Sub">Crop Science &amp; Agronomy</option><option value="98" class="Sub">Fisheries</option><option value="102" class="Sub">Forestry</option><option value="119" class="Sub">Agricultural Technology</option><option value="120" class="Sub">Agricultural Engineering</option><option value="20" class="Top">Humanities</option><option value="70" class="Sub">Philosophy</option><option value="65" class="Sub">History</option><option value="21" class="Sub">Literature &amp; Writing</option><option value="75" class="Sub">Linguistics</option><option value="76" class="Sub">Philippine Studies</option><option value="3" class="Top">Arts and Design</option><option value="145" class="Sub">Graphic Design</option><option value="90" class="Sub">Visual Communication</option><option value="168" class="Sub">Animation</option><option value="136" class="Sub">Fine Arts</option><option value="91" class="Sub">Interior Design</option><option value="84" class="Sub">Art Education</option><option value="132" class="Sub">Theater &amp; Performing Arts</option><option value="87" class="Sub">Industrial Design</option><option value="88" class="Sub">Painting</option><option value="2" class="Top">Architecture</option><option value="10" class="Top">Law</option><option value="143" class="Top">Religion &amp; Theology</option><option value="139" class="Top">Maritime</option><option value="141" class="Sub">Marine Transportation</option><option value="133" class="Sub">Marine Engineering</option><option value="100" class="Top">Music</option><option value="169" class="Top">Aircraft &amp; Aviation</option><option value="140" class="Sub">Aviation</option><option value="137" class="Sub">Aircraft Maintenance &amp; Tech.</option></select></div>
         <div class="FindButton"><a href="javascript:_FU_SearchTop();" title="Find schools">Search</a></div>
     </div>
 </div>
@@ -253,7 +289,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <input type="hidden" id="_FU_orderByParam" value="">
 <script type="text/javascript" src="/_resources/search.js"></script>
 <script type="text/javascript">
-    $(document).ready(function (){});
+    $(document).ready(function (){_FU_SetSelectedCategory('_FU_category','57');_FU_SetSelectedDegreeLevel('_FU_degreeLevel','UnderGraduate');});
 </script>
 
             <div class="Clear"></div>
@@ -285,11 +321,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
 </style>
 <div id="Body">
-<form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
+<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExODAwMzM1OTBkZP/eKGcsKvN+HepBTSBen6Rm1tWF">
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLG8cOfCQLq1p3KCAK1qe6IBgKRtbKGAwKK2LqaBMMzClK2sNCkvOasdyKqgynBlSTe">
 
 <style>
     .aws-modal {
@@ -497,68 +532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         }); 
     });
 </script>
-<div id="ctl00_ucAwsPopup_divModalContainer" class="aws-modal">
-    <div id="divModal" class="aws-modal-content">
-        <div class="aws-modal-content-top">
-            <div class="aws-modal-content-top-left">
-                <img src="/images/aws-logo-60.png" class="aws-logo">
-            </div>
-            <div class="aws-modal-content-top-right">
-                
-                <a class="aws-close">×</a>
-            </div>
-        </div>
-        <div class="aws-modal-content-bottom">
-            <div class="aws-modal-content-bottom-left">
-                <h2 class="aws-header">Get online training from Amazon. Register for FREE!</h2>
-                <p class="aws-message">
-                    We're offering online resources for web-based careers through AWS Educate, 
-                    Amazon's global online education initiative! Get access to a curriculum from the world's
-                    leading universities. Registration is free!
-                </p>
-                <p class="aws-note">
-                    The course is open to 14 years old and above only.
-                </p>
-                <a id="ctl00_ucAwsPopup_btnLearnMore" class="aws-button aws-learn-more-button" href="javascript:__doPostBack('ctl00$ucAwsPopup$btnLearnMore','')">Learn More</a>
-                <a id="ctl00_ucAwsPopup_btnRegister" class="aws-button aws-register-button" href="javascript:__doPostBack('ctl00$ucAwsPopup$btnRegister','')">Register for FREE!</a>
-            </div>
-            <div class="aws-modal-content-bottom-right">
-                <img src="/images/aws-illustration-30.png">
-            </div>
-        </div>
-    </div>
-    <div id="divModalMobile" class="aws-modal-content-mobile">
-        <div class="aws-modal-content-section-mobile">
-            <img src="/images/aws-logo-60.png" class="aws-logo-mobile">
-            
-            <a class="aws-close">×</a>
-        </div>
-        <div class="aws-modal-content-section-mobile">
-            <img src="/images/aws-illustration-30.png">
-        </div>
-        <div class="aws-modal-content-section-mobile">
-            <h2 class="aws-header-mobile">Get online training from Amazon. Register for FREE!</h2>
-        </div>
-        <div class="aws-modal-content-section-mobile">
-            <p class="aws-message-mobile">
-                We're offering online resources for web-based careers through AWS Educate, 
-                Amazon's global online education initiative! Get access to a curriculum from the world's
-                leading universities. Registration is free!
-            </p>
-        </div>
-        <div class="aws-modal-content-section-mobile">
-            <p class="aws-note-mobile">
-                The course is open to 14 years old and above only.
-            </p>
-        </div>
-        <div class="aws-modal-content-section-mobile">
-            <a id="ctl00_ucAwsPopup_btnLearnMoreMobile" class="aws-button aws-register-button-mobile" href="javascript:__doPostBack('ctl00$ucAwsPopup$btnLearnMoreMobile','')">Register for FREE!</a>
-        </div>
-        <div class="aws-modal-content-section-mobile">
-            <a id="ctl00_ucAwsPopup_btnRegisterMobile" class="aws-button aws-learn-more-button-mobile" href="javascript:__doPostBack('ctl00$ucAwsPopup$btnRegisterMobile','')">Learn More</a>
-        </div>
-    </div>
-</div>
+
 
 
 <div class="Bg">
@@ -641,24 +615,47 @@ FUP takes proper care to safeguard against unauthorized disclosures of your Pers
                 
 
                 <div class="Clear"></div>
-                <!-- /21734062380/FindU_Script -->
-                    <div id="div-gpt-ad-1550031504751-0">
-                        <script>
-                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1550031504751-0'); });
-                        </script>
-                    </div>
+                <!-- FindU_Script -->
+                <div id="div-gpt-ad-1550031504751-0">
+                    <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1550031504751-0'); });
+                    </script>
+                </div>
+                <!-- FindU_Desktop_Pagelevel1 ### Size: Out of Page -->
+                <div id="div-gpt-ad-3199985-1" class="ad-desktop">
+                    <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-3199985-1'); });
+                    </script>
+                </div>
+                <!-- FindU_Desktop_Pagelevel1 ### Size: [[1,1]] -->
+                <div id="div-gpt-ad-3199985-2" class="ad-desktop">
+                    <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-3199985-2'); });
+                    </script>
+                </div>
+                <!-- FindU_Mobile_Pagelevel1 ### Size: Out of Page -->
+                <div id="div-gpt-ad-6357382-1" class="ad-mobile">
+                  <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-6357382-1'); });
+                  </script>
+                </div>
+                <!-- FindU_Mobile_Pagelevel1 ### Size: [[1,1]] -->
+                <div id="div-gpt-ad-6357382-2" class="ad-mobile">
+                  <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-6357382-2'); });
+                  </script>
+                </div>
                 <div class="ad-side-container">
-                <!-- ADPUB-13 DESKTOP: AD SIDE -->
-                <div class="ad-side ad-desktop">
-                    <div id="div-gpt-ad-1540545899312-0" style="height:600px; width:160px;">
-                        <script>
-                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1540545899312-0'); });
-                        </script>
+                    <!-- ADPUB-13 DESKTOP: AD SIDE -->
+                    <div class="ad-side ad-desktop">
+                        <div id="div-gpt-ad-1540545899312-0" style="height:600px; width:160px;">
+                            <script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1540545899312-0'); });
+                            </script>
+                        </div>
                     </div>
+                    <!-- ADPUB-13 DESKTOP: AD SIDE -->
                 </div>
-                <!-- ADPUB-13 DESKTOP: AD SIDE -->
-                </div>
-
                 <!-- ADPUB-13 MOBILE: AD MID 1 -->
                 <div class="ad-mid1 ad-mobile">
                     <div id="div-gpt-ad-1539065232194-0">
