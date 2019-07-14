@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pofex.com privacy policy that was archived on 2018-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180719133002id_/https%3A//www.pofex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pofex.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714151607id_/https%3A//www.pofex.com/privacy.php) for the most accurate reproduction.*
 
 # Pofex - Privacy
 
-This privacy policy discloses the privacy practices for **http://www.pofex.com/**. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
+This privacy policy discloses the privacy practices for **https://www.pofex.com/**. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
 What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. What choices are available to you regarding the use of your data. The security procedures in place to protect the misuse of your information. How you can correct any inaccuracies in the information. Information Collection, Use, and Sharing
 
@@ -16,7 +16,7 @@ Third party vendors, including Google, use cookies to serve ads based on a user'
 
 Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/).
 
 **Your Access to and Control Over Information**
 
@@ -42,4 +42,4 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page. 
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately http://www.pofex.com/contact.php. 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately https://www.pofex.com/contact.php. 
