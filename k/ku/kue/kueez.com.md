@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kueez.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515151713id_/https%3A//en.kueez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kueez.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714123007id_/https%3A//en.kueez.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kueez
 
@@ -188,7 +188,7 @@ If you believe that we might have any such data, please contact us at [[email p
 
 Kueez has appointed Privacy veteran Aner Rabinovitz of PrivacyTe.am as its Data Protection Officer, for monitoring and advising on Kueez's ongoing Privacy compliance, and serving as a point of contact on Privacy matters for data subjects and supervisory authorities. Aner may be reached at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Kueez has designated Dr. Andreas Mätzler as its representative in the European Union for data protection matters, pursuant to Article 27 of the GDPR. Inquiries regarding Kueez's EU privacy practices may be sent to Dr. Mätzler at [Schellinggasse](https://web.archive.org/cdn-cgi/l/email-protection#e8989a819e898b91a898899a838985c58198c68b8785) 3/10, Vienna 1010, Austria, or by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#29464f4f404a4c694e4d595b045b4c59074c5c) (please add the following subject to all correspondences: 14102729. If you are a GDPR-protected individual, you also have the right to lodge a complaint with an EU supervisory authority. 
+Kueez has designated Dr. Andreas Mätzler as its representative in the European Union for data protection matters, pursuant to Article 27 of the GDPR. Inquiries regarding Kueez's EU privacy practices may be sent to Dr. Mätzler at [Schellinggasse](https://web.archive.org/cdn-cgi/l/email-protection#6010120916010319201001120b010d4d09104e030f0d) 3/10, Vienna 1010, Austria, or by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#87e8e1e1eee4e2c7e0e3f7f5aaf5e2f7a9e2f2) (please add the following subject to all correspondences: 14102729. If you are a GDPR-protected individual, you also have the right to lodge a complaint with an EU supervisory authority. 
 
 ### PARTNERS
 
