@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionaloutlook.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624175552id_/http%3A//www.nutritionaloutlook.com/basic-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionaloutlook.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715012715id_/https%3A//nutritionaloutlook.com/mmh-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nutritional Outlook
 
@@ -92,7 +92,7 @@ If you consent to the processing of your Personal Information, you may withdraw 
 
 _We may use your data for marketing purposes or disclose your information to any third party for such purposes with your consent that you may provide, for example by checking certain boxes on the forms we use to collect your data. You can also object to receiving further marketing at any time without detriment. We will inform you prior to collecting or using your Personal Information for any purpose not set forth in this Privacy Notice or previously consented to._
 
-To update your preferences and consents, ask us to remove your information from our mailing lists or submit a request, you may contact us at via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9af3f4fcf5daf7f0f2fbe9e9f5f9b4f9f5f7).
+To update your preferences and consents, ask us to remove your information from our mailing lists or submit a request, you may contact us at via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82ebece4edc2efe8eae3f1f1ede1ace1edef).
 
 **6.   Third-Party Sites**
 
@@ -104,7 +104,7 @@ To update your preferences and consents, ask us to remove your information from 
 
   **8\. Managing your Information**
 
-We are dedicated to providing privacy on the Internet.  If you wish to opt out of our sharing your Personal Information as described herein for marketing purposes, please contact us to opt out at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ed84838b82ad8087858c9e9e828ec38e8280) or at the address below.  
+We are dedicated to providing privacy on the Internet.  If you wish to opt out of our sharing your Personal Information as described herein for marketing purposes, please contact us to opt out at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7811161e1738151210190b0b171b561b1715) or at the address below.  
 
 In addition, we have provided you the opportunity to opt out of future ad serving cookies. In order to identify you as someone who has elected to opt out of receiving future cookies from ad serving companies, we will place an opt out cookie on your machine.  If you would like to opt out of ad serving cookies or read additional information about these cookies, go to 
 
@@ -125,7 +125,7 @@ While we will maintain the security of Personal Information, and protect the int
 
 **11\. Contact Information**
 
-  Please contact us with any questions regarding this Privacy Policy or the processing of your Personal Information at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f1989f979eb19c9b999082829e92df929e9c) or the mailing address below.
+  Please contact us with any questions regarding this Privacy Policy or the processing of your Personal Information at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98f1f6fef7d8f5f2f0f9ebebf7fbb6fbf7f5) or the mailing address below.
 
 Mailing Address:
 
