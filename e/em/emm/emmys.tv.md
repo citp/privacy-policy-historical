@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emmys.tv privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403044928id_/https%3A//www.emmys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emmys.tv privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714074757id_/https%3A//www.emmys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Television Academy
 
