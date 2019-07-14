@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloble.io privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809005236id_/http%3A//bloble.io/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloble.io privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714135428id_/http%3A//bloble.io/privacy.txt) for the most accurate reproduction.*
 
 # 
 
