@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoezone.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330051537id_/https%3A//www.shoezone.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoezone.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714170200id_/https%3A//www.shoezone.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shoe Zone
 
