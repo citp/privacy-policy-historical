@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auphonic.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614071950id_/https%3A//auphonic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auphonic.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714153516id_/https%3A//auphonic.com/privacy) for the most accurate reproduction.*
 
 # Auphonic Privacy Policy
 
