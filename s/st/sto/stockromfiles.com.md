@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockromfiles.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425060019id_/https%3A//stockromfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockromfiles.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714113149id_/https%3A//stockromfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stock ROM Files
 
