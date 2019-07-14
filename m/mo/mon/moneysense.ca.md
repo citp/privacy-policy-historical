@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509150217id_/https%3A//www.moneysense.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714140604id_/https%3A//www.moneysense.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MoneySense
 
