@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directmirror.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331121052id_/https%3A//www.wowdeals.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directmirror.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715003600id_/https%3A//www.wowdeals.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WoWDeals : All Deals in One Place
 
