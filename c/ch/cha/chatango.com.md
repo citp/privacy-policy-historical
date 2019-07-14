@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatango.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308003256id_/http%3A//chatango.com/page%3Ffull_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatango.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714125947id_/http%3A//chatango.com/page%3Ffull_privacy) for the most accurate reproduction.*
 
 # Chatango Terms of Use
 
