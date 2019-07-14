@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828102513id_/https%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714080352id_/https%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
