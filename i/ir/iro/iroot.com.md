@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iroot.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509063547id_/http%3A//www.iroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iroot.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715003130id_/http%3A//www.iroot.com/privacy-policy) for the most accurate reproduction.*
 
 # iRoot Privacy Policy
 
