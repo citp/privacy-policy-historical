@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the artrenewal.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224095335id_/https%3A//www.artrenewal.org/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artrenewal.org privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714151727id_/https%3A//www.artrenewal.org/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# ARC / Privacy Policy
+# Privacy Policy - Art Renewal Center
 
 [ ](https://web.archive.org/)
+
+[ ](https://web.archive.org/Home/ContentLink?url=https%3a%2f%2fwww.artrenewal.org%2f14thARCSalon%2fHome%2fIndex&section=slider)
 
 [Home](https://web.archive.org/) / [About Us](https://web.archive.org/AboutUs/Home)
 
