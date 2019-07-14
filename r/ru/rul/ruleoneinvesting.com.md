@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruleoneinvesting.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322051757id_/https%3A//www.ruleoneinvesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruleoneinvesting.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714063300id_/https%3A//www.ruleoneinvesting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rule One Investing
 
