@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barkvines.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513180438id_/http%3A//barkvines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barkvines.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714093252id_/http%3A//www.barkvines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
