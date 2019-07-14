@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329153442id_/http%3A//www.brecks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714141318id_/http%3A//brecks.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - Breck's
 
@@ -59,4 +59,4 @@ If you would like to give us your feedback regarding our privacy policy and prac
 
 * * *
 
-**Have another question? Call Customer Service at** 513-354-1511. Return to the [**Customer Service Help**](https://web.archive.org/Help) page or send an e-mail directly to Customer Service .
+**Have another question? Call Customer Service at** 513-354-1511. Return to the [**Customer Service Help**](https://web.archive.org/contact_us) page or send an e-mail directly to [ **Customer Service**](https://web.archive.org/contact_us).
