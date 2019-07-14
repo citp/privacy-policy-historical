@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grid.org privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512043808id_/http%3A//www.univa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grid.org privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714032203id_/http%3A//www.univa.com/privacy.php) for the most accurate reproduction.*
 
 # Univa Corporation- Privacy Policy
 
@@ -105,8 +105,8 @@ Please note that we have extended the program code of Google Analytics to includ
 You can prevent Google's collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under the following link (https://tools.google.com/dlpage/gaoptout?hl=de). 
 
 Further information on Google Analytics can be found under  
-http://www.google.com/analytics/terms/de.html and   
-http://www.google.com/intl/de/analytics/privacyoverview.
+https://www.google.com/analytics/terms/de.html and   
+https://www.google.com/intl/de/analytics/privacyoverview.
 
 ### Your rights
 
