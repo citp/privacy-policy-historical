@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whats-on-netflix.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202220id_/https%3A//www.whats-on-netflix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whats-on-netflix.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714124218id_/https%3A//www.whats-on-netflix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - What's on Netflix
 
@@ -120,7 +120,7 @@ We do not share your Personal Data with strangers. Personal Data about you is in
 This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Website, possibly based on User interests.  
 This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
 Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Website. For more information, please check the privacy policies of the relevant services.  
-In addition to any opt out offered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the [Network Advertising Initiative opt-out page](https://optout.networkadvertising.org/).
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the Network Advertising Initiative opt-out page.
 
 #### DoubleClick for Publishers (Google Inc.)
 
@@ -176,7 +176,7 @@ Sovrn is an advertising service provided by Sovrn Holdings, Inc.
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: United States – [Privacy Policy](https://www.sovrn.com/privacy-policy/) – [Opt Out](https://info.evidon.com/pub_info/2672?v=1&nt=0&nw=false).
+Place of processing: United States – [Privacy Policy](https://www.sovrn.com/sovrn-legal-policies/) – [Opt Out](https://info.evidon.com/pub_info/2672?v=1&nt=0&nw=false).
 
 #### bRealTime (EMX Digital LLC)
 
@@ -184,7 +184,7 @@ bRealTime is an advertising service provided by EMX Digital LLC (a subsidiary of
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: United States – [Privacy Policy](http://www.brealtime.com/privacy-policy/) – [Opt Out](http://optout.aboutads.info/?lang=EN&c=2#!/).
+Place of processing: United States – [Privacy Policy](https://www.brealtime.com/privacy-policy/) – [Opt Out](http://optout.aboutads.info/?lang=EN&c=2#!/).
 
 #### Playground XYZ (Playground XYZ Holdings Pty Ltd.)
 
@@ -192,7 +192,7 @@ Playground XYZ is an advertising service provided by Playground XYZ Holdings Pty
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: Australia – [Privacy Policy](https://playground.xyz/privacy/privacy-policy.pdf) – [Opt Out](https://web.archive.org/cdn-cgi/l/email-protection#5c2c2e352a3d3f251c2c303d253b2e33293238242526723f3331).
+Place of processing: Australia – [Privacy Policy](https://playground.xyz/privacy/privacy-policy.pdf) – [Opt Out](https://web.archive.org/cdn-cgi/l/email-protection#7303011a0512100a33031f120a14011c061d170b0a095d101c1e).
 
 #### GumGum (GumGum, Inc.)
 
@@ -208,7 +208,7 @@ JustPremium is an advertising service provided by JustPremium BV
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: Netherlands – Privacy Policy – [Opt Out](https://web.archive.org/cdn-cgi/l/email-protection#f383819a8592908ab3b9868087a381969e9a869edd909c9e).
+Place of processing: Netherlands – Privacy Policy – [Opt Out](https://web.archive.org/cdn-cgi/l/email-protection#8afaf8e3fcebe9f3cac0fff9fedaf8efe7e3ffe7a4e9e5e7).
 
 #### District M (District M, Inc.)
 
@@ -232,7 +232,7 @@ Ad You Like is an advertising service provided by Ad You Like
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: United States – [Privacy Policy](https://www.adyoulike.com/privacy_policy.php) – [Opt Out](https://web.archive.org/cdn-cgi/l/email-protection#e694819682a687829f89938a8f8d83c885898b).
+Place of processing: United States – [Privacy Policy](https://www.adyoulike.com/privacy_policy.php) – [Opt Out](https://web.archive.org/cdn-cgi/l/email-protection#87f5e0f7e3c7e6e3fee8f2ebeeece2a9e4e8ea).
 
 #### Sonobi (Sonobi, Inc.)
 
@@ -243,6 +243,10 @@ Personal Data collected: Cookies and Usage Data.
 Place of processing: United States – [Privacy Policy](https://sonobi.com/privacy-policy/) – [Opt Out](https://sonobi.com/opt-out/).
 
 We only work with Processing partners who are able to ensure adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it.
+
+## Akismet
+
+We collect information about visitors who comment on Sites that use our Akismet anti-spam service. The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
 
 We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our systems for possible vulnerabilities and attacks. ** **
 
