@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanjoker.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607190316id_/http%3A//www.urbanjoker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanjoker.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715002010id_/http%3A//urbanjoker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UrbanJoker
 
