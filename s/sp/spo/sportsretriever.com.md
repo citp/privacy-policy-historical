@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsretriever.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514084026id_/http%3A//sportsretriever.com/sr-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsretriever.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714085336id_/http%3A//www.sportsretriever.com/sr-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Retriever
 
