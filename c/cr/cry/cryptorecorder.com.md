@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptorecorder.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330170451id_/https%3A//cryptorecorder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptorecorder.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714230200id_/https%3A//cryptorecorder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Crypto Recorder
 
