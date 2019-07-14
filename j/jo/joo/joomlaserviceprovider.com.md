@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlaserviceprovider.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514085557id_/http%3A//www.joomlaserviceprovider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaserviceprovider.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714120627id_/http%3A//www.joomlaserviceprovider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joomla Service Provider
 
