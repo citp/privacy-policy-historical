@@ -1,175 +1,155 @@
-> *The following text is extracted and transformed from the yogscast.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523071428id_/http%3A//www.yogscast.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogscast.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714064827id_/http%3A//yogscast.com/yogscast-privacy-policy) for the most accurate reproduction.*
 
-# About: Privacy Policy | Yogscast
+# Yogscast Privacy Policy — Yogscast
 
-* ### INFORMATION WE COLLECT ABOUT YOU
+## **  Yogscast Privacy Policy**
 
-In General: Maker Studios is the sole owner of the information collected on this Website. We collect information from our users in a number of different ways, as detailed below. The information we collect depends on what you do when you visit our Site. Please note that we, as a general matter do not collect personally-identifying information about you, including your name, email address, telephone number or postal address, when you visit our Site,  **unless you choose to provide such information to us by registering with us and setting up an account.**  If at any time you do provide us with such information, we will collect it. For example, when you choose to like or follow our Site and/or log on to your social media accounts from our Site Maker Studios may collect your name and email address associated therewith.
+Last updated on [28/03/2019]
 
-#### Information You Provide:
+ **A quick summary:** this document explains:
 
-  1.  **Registration:**  In order to post comments and enable features that operate in conjunction with certain third party social networking websites from the Website, you must create an account using an email account and your name. Registrations for additional features may require additional information such as home address, email address, home telephone number, employer name, work address, gender, viewing preferences, and other information that is not otherwise publicly available.
+  *  _What information we and our partners collect when you use Yogscast’s products and services;_
 
-  2.  **Log Files and Analytical Information:**  For each visitor to our Website, we automatically gather certain information and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We collect and store this information on an individual basis and in aggregate, or combined, form. We also collect both user-specific and aggregate information on what pages visitors' access or visit. We use this information to analyze trends, to administer the site, to track users' movements around the site, and to gather demographic information about our user base as a whole. We also use this information to improve the content of our web pages, and to customize the content and layout of our pages. All of this is done with the intention of making our Site more useful to visitors. We do not correlate this information with data about individual users.
+  *  _Where that information is stored and how it is protected;_
 
-We use one or more third-party tracking services to track non-personally identifiable information about visitors to our Site in the aggregate. These third-party services may use JavaScript, pixels, transparent GIF files, and other means to enable us to learn which advertisements bring users to our Website. Any information we track in this manner is anonymous, limited to usage and volume statistics, and is used to provide insight into the effectiveness of our online marketing initiatives and strategies.
+  *  _How we use that information;_
 
-  3.  **Website Activities**  From time to time, we may provide you the opportunity to participate in surveys or contests on the Website, or to participate in other voluntary activities through the site. We may request personally-identifying information from you, along with other information, in order for you to participate. Participation in these activities is completely voluntary; therefore, you can elect not to disclosure your personal information by not participating in the activity.
+  *  _How long we retain that information; and_
 
-We use the information we collect through these activities to monitor the interests and attitudes of visitors to our site, to ensure that our site provides information that is relevant and helpful, to contact activity participants, and to carry out the activity.
+  *  _Your rights in relation to that information._
 
-  4.  **Device information:**  We may collect information such as your hardware model, operating system version, mobile network information and other unique device specific information to improve services.
 
-  5.  **Cookies**  We use both session cookies and persistent cookies on this Website. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We may link the information we store in cookies to your personal information in order to provide a faster and more pleasant online experience. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this Site. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site will be limited.
 
-We use session cookies to make it easier for you to navigate our Site. We use session cookies to record session information, such as which web pages a user has visited, and to track user activity on the Site. Session cookies expire when you close your browser.
 
-We use persistent cookies to track and target the interests of our users to enhance the experience on our Site. Persistent cookies remain on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your browser's "help" file.
+This Privacy Policy explains to you how your personal information is collected and stored and what happens to it regarding the Yogscast Services. Because we know legal wording is not much fun, we have included a short and informal summary of each section (but the full version is the legally binding one). If you have any queries you can contact us at [contact@yogscast.com](mailto:contact@yogscast.com). 
 
-In addition, certain advertisements may make use of cookies, beacon data, metadata, usage data, and streaming data to collect information regarding advertisement performance and end user interests which may be shared with third parties. These advertisements do not collect any personally identification information from users.
+**WHO WE ARE AND WHAT THIS PRIVACY POLICY GOVERNS**
 
+ **This Privacy Policy explains the different kinds of information Yogscast can collect from you when you're using the Yogscast Services. Legally, we cannot and will not collect personal information about children below 13 without parental/guardian involvement. We will comply with applicable privacy laws, including the EU’s GDPR.**
 
+  *  ** _About Us._** We are Yogscast (incorporated and registered in England and Wales with company number 07620479) of Victoria House, 26 Queen Victoria Street, Reading, Berkshire, RG1 1TG, United Kingdom as well as the Yogscast group of companies (“Yogscast”). 
 
-* ### USE OF PERSONALLY-IDENTIFYING INFORMATION BY MAKER STUDIOS
+  * **_Which services does this Privacy Policy apply to?_ **All of our YouTube channels, video games and products, our websites, user accounts, customer and technical support, The Yogscast Store, official forums, wikis, blogs, social media services and other products and services - “Yogscast Services” for short.
 
-We will use personally-identifying information in connection with the purpose for which you provided it (e.g., to contact you with a response to a request for information or consideration). We will communicate with you by email or telephone.
+  *  ** _What information does this Privacy Policy apply to?_** Specifically, this Privacy Policy governs personal data (or, in the USA, personally identifiable information) and applicable non-personal information (or, in the USA, non-personally identifiable information), which we collect from you when you are using the Yogscast Services ("personal data" means information which, on its own or in combination with other information, can be used to identify you).
 
-Maker Studios may also use this information to send you information on products, services, special offers and promotions in which you might have an interest. The means by which Maker Studios will use to contact you with this information will depend on the type of information you have provided. For example, if you provide us with your email address, you may receive periodic promotional emails from us. If you provide us with your postal address, you may receive periodic mailings from us with information on new products and services.
+  *  ** _What about children?_ **We recognise we have a special obligation to protect personal information obtained from children. Legally you must be at least 13 years old to use the Yogscast Services (but this might be older depending on whether or not a particular Yogscast Service has a required minimum age rating) as per our Terms of Service. We do not knowingly collect personal information from any child under the age of 13 without consent from their parent or guardian. If you are a parent or guardian and are concerned about the transfer of personal information about your child, please contact [contact@yogscast.com](mailto:contact@yogscast.com).
 
-If you do not wish to receive special offers and other promotional information from us, you may opt out of receiving such communications, as discussed below.
+  *  ** _What about GDPR?_** We respect your right to privacy and will only process personal information in accordance with applicable legislation in the EU (which includes the General Data Protection Regulation (EU) 2016/679 or the GDPR as it is often referred to), the USA and elsewhere. For personal information contained in this Privacy Policy which is used by Yogscast in connection with the Yogscast Services, Yogscast is the data controller under EU data protection legislation.
 
-* ### USE OF PERSONALLY-IDENTIFYING INFORMATION BY THIRD PARTIES
+  *  **WHAT INFORMATION IS COVERED?**
 
-As a general rule, Maker Studios will not disclose any of your personal information except to our affiliated companies and except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it, or under the circumstances described below. The following describes some of the ways in which your information may be disclosed.
 
-We do not rent or sell email addresses, postal addresses or telephone contact information to third parties, or otherwise share any personally-identifying information we collect, with any third parties (other than our affiliated entities) except as set forth below.
 
-  1. We reserve the right to transfer personally-identifying information to a third party in conjunction with the sale or similar transfer of Maker Studios and/or its assets.
 
-  2. We reserve the right to transfer personally-identifying information to a third party as required by law or when we believe that disclosure is necessary to protect our rights, to comply with a court order or other legal process, and otherwise to cooperate with authorities in connection with investigations of crimes or other wrongdoing.
+ **We may collect certain information when you use the Yogscast Services such as your name and email address (more information below). We do not receive or store your payment details. Please also read our Cookie Policy**<http://yogscast.com/yogscast-cookie-policy> **.**
 
-If we do share personally-identifying information with an entity working on our behalf, we will employ commercially-appropriate procedures to help ensure that the disclosed information is used only for authorized purposes by authorized persons, and that safeguards are in place to help maintain the security, integrity and privacy of the information.
+  *  ** _What information might we collect from you?_** When you sign up for, download, watch use or play the Yogscast Services then we will collect certain information from you. The information that we collect varies depending on the particular Yogscast Services used, but this may include:
 
-You may opt out of having your information shared with entities working on our behalf, as discussed below. However, should you do so, you should be aware that we may not thereafter be able to provide you with our full range of services.
+  * Technical Details. When you use, play, watch or access the Yogscast Services we or third parties on our behalf may collect technical details about the device you are using, including: internet and/or network connection (including IP address); MAC address, any console device identifier; your operating system, browser type or other software; and your hardware or other technical details.
 
+  * Your Activities. When you use, play, watch or access the Yogscast Services we or third parties on our behalf may collect details of how you use our services, including: metrics information about when and how you use the services; traffic data; language preferences; in-game purchases; achievements; scores; use statistics; time spent playing; and your geographical location data.
 
+  * Your Communications. If you contact us (e.g. via email or call for customer support) or post in chat sessions, forums, on our social media pages, or other areas of the Yogscast Services, we may collect and maintain a record of your account/contact details and the content of your communications. 
 
-* ### OPT OUT PROCEDURES
+  * User Accounts and Newsletters. To access certain Yogscast Services (e.g. games or forums or the Yogscast Store) you may need to create a user account. Or if you sign up to a newsletter, you will be asked to provide us with certain information. This will be displayed to you at the time you start to use the applicable Yogscast Services (e.g. when you sign up for a newsletter) and may include your name, username, age, birthdate, a photo or avatar, email address, country of residence and contact information. 
 
-If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at [privacy@makerstudios.com.](mailto:privacy@makerstudios.com) To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice). Please allow a reasonable time for us to process your request. Please note that, although you can opt not to receive promotional messages, we reserve the right to send you informational email messages about any user account you establish on this Website or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).
+  * The Yogscast Store. If you buy something from the Yogscast Store, you may need to provide information like your name, email address and address in order for us to fulfill your order. 
 
-Many browsers are offering “do no track” opt out options within their technology. As there is no standardized definition of what exactly ‘do not track' means or how the signals are transmitted, we are unable to honor “do not track” requests at this time. If you do not wish for us to share your personally-identifying information with any third parties working on our behalf to serve our customers, please let us know by sending your request to:
+  * Third Party Accounts. In certain circumstances (e.g. joining our forums) you may be able to log into certain Yogscast Services via third party accounts (e.g. Facebook or Twitter). If you choose to do so, you are asked to share certain information with us (the exact information will depend on the particular third party account displayed to you on the permissions page when you attempt to log in, but may include your name, location, gender, birth date, email address, photo, profile URL and friends list).
 
-Contact Address
-    Maker Studios
-    Attn: Legal Department
-    1976 S. La Cienega Blvd., Suite 224
-    Los Angeles, CA 90034
-    Email: [privacy@makerstudios.com](mailto:privacy@makerstudios.com)
 
-As our partners vary from time to time, please also visit <http://www.networkadvertising.org/managing/opt_out.asp.com> and select the Rubicon Project, Inc. and LiveRail Inc. along with any other network advertisers listed. To help us process your request, please provide sufficient information to allow us to identify you in our records. Please allow a reasonable time for us to process your request.
 
-* ### INFORMATION ACCESS
 
-Upon request we provide Site visitors with access to their own personally-identifying contact information (e.g., name, address, phone number) that we maintain about them. You can access this information by sending your request to:
+Some of the information types referred to above may be collected on an aggregated or anonymised (e.g. hashed) basis, or we may use it or share it in an aggregated or anonymised way, for research or analysis into the way our services operate and are used.
 
-Contact Address
-    Maker Studios
-    Attn: Legal Department
-    1976 S. La Cienega Blvd., Suite 224
-    Los Angeles, CA 90034
-    Email: [privacy@makerstudios.com](mailto:privacy@makerstudios.com)
+ ** _What about the storage of payment details?_** The processing and storage of payment details is a matter for the relevant platform and the applicable payment methods/processors. Yogscast will not receive, process or store any of your payment details. This is because the payment transactions themselves are completed through the relevant platforms (e.g. PayPal, Steam, Apple’s App Store or Google Play) via the user account you have associated with that platform account. If you make in-game purchases within a Yogscast game or product, we are notified by the payment processor once a transaction takes place but we will not receive any of your actual payment details. 
 
-To help us process your request, please provide sufficient information to allow us to identify you in our records.
+**_What about cookies?_** We and third parties on our behalf also collect information about you via cookies and other advertising tracking technologies. You can find out more about our use of cookies and such technologies in our Cookie Policy here: <http://yogscast.com/yogscast-cookie-policy>. The Cookie Policy forms part of this Privacy Policy. 
 
-We reserve the right to ask for information verifying your identity prior to disclosing any information to you. Should we ask for verification, the information you provide to verify your identify will be used only for that purpose, and all copies of this information in our possession will be destroyed when the process is complete.
+  * **WHERE IS YOUR INFORMATION STORED?**
 
-We also offer visitors the opportunity to have inaccuracies corrected in all information we maintain about them. Contact:
 
-Contact Address
-    Maker Studios
-    Attn: Legal Department
-    1976 S. La Cienega Blvd., Suite 224
-    Los Angeles, CA 90034
-    Email: [privacy@makerstudios.com](mailto:privacy@makerstudios.com)
 
-To help us process your request, please provide sufficient information to allow us to identify you in our records.
 
-* ### SECURITY
+ **We will store your information in Europe where possible. We will do our best to keep this information secure. No information security system is perfect so please remember to be careful.**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it, and to guard that information against loss, misuse or alteration. When you enter sensitive and/or personally-identifying information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+ ** _Where will your information be stored?_** The information we hold will primarily be stored and processed in the EU, but there may be circumstances where we need to work with trusted third parties outside of the EU in order to provide the Yogscast Services to you (e.g. where we run game servers in the US). By submitting your personal information, you explicitly agree to such transfer, storing or processing of data outside the EU. We will take all steps reasonably necessary to ensure that this information is treated securely and in accordance with this Privacy Policy.
 
-Please note, however, that no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we use commercially-reasonable means to protect your personal information, we cannot guarantee its absolute security.
+All information we hold is stored on our secure servers which we own or license from appropriate third parties. We use industry standard procedures and security standards to prevent unauthorised access to our servers, however no online service or website can be completely secure, so please protect the account information in your possession as well.
 
-* ### CHILDREN
+  *  ** _HOW IS YOUR INFORMATION USED?_**
 
-Maker Studios does not offer its services or promote its Website to, nor does it intentionally collect or retain personal information from, children who are younger than 13 years of age. Visitors to the Website are cautioned, however, that the collection of personal information submitted in an e-mail or through the Website will be treated as though it was submitted by an adult, and may, unless exempted from access by Federal or State law, be subject to public access. If you believe your child may have submitted information to Maker Studios without indicating their actual age and would like it removed, or to submit a parental consent form please contact us at the below and we will address it immediately.
 
-Contact Address
-    Maker Studios
-    Attn: Legal Department
-    1976 S. La Cienega Blvd., Suite 224
-    Los Angeles, CA 90034
-    Email: [privacy@makerstudios.com](mailto:privacy@makerstudios.com)
 
-Please be advised, however, that the removal described under this paragraph does not ensure complete or comprehensive removal of the content or information already posted on the Website, online service, online application, or mobile application by the registered user. You can help by deleting your own posts and contacting us at the address above to request removal.
 
-* ### THIRD PARTY SITES
+ **We will use your information to run, maintain and improve the Yogscast Services as well as to communicate with you (e.g. with newsletters or emails). Sometimes we may share information with partners in order to run our services.**
 
-This Privacy Policy applies only to information collected by this Website.
+ ** _How might your information be used?_** We may use the information above in order to (for example):
 
-From time to time, this Website may link you to other sites ("Linked Sites") that are not owned by Maker Studios. We do not control the collection or use of any information, including personally-identifying information, which occurs during your visit to the Linked Sites. Further, we make no representations about the privacy policies or practices of the Linked Sites, and Maker Studios is not responsible for the privacy practices of these Linked Sites.
+  *  **Perform our agreement with you:** provide the Yogscast Services to you, including: to carry out our obligations arising from any contracts between you and us; allow you to participate in interactive features of the Yogscast Services when you choose to do so; and provide you with chat functionality and other communication systems.
 
-Be careful of disclosing any of your personally identifiable information when leaving our Site. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personally identifiable information.
+  *  **For our legitimate commercial interests:** monitor the performance of the Yogscast Services; ensure that the Yogscast Services are presented in the most effective manner for you and your device(s); enforce our Terms of Service and other policies; notify you about changes to the Yogscast Services; provide, maintain, protect and improve the Yogscast Services; and to protect Yogscast and Yogscast Services users. 
 
-* ### CHANGES TO THIS POLICY
+  * **Comply with our legal obligations:** where we are required to do so by law; and comply with intellectual property protection obligations we have under applicable laws including the Digital Millennium Copyright Act and the E-Commerce Directive.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change materially at some time in the future, we will post the policy changes to our Website. If we have collected personally-identifying information from you, we will notify you about the changes prior to making use of your information in new ways and will provide you with a reasonable opportunity to opt out of the new procedures before they are implemented. We will also honor opt out requests made following implementation of the new procedures, as discussed above.
+  *  **Based on consent:** provide you with marketing information about products or services that you request from us or which we feel may interest you where you have asked us to do so.
 
-* ### CALIFORNIA PRIVACY RIGHTS
 
-Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us, once per calendar year, information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2013 will receive information regarding 2012 sharing activities). To obtain this information from us, please contact us at the following email address: [privacy@makerstudios.com](mailto:privacy@makerstudios.com) and write "Request for California Privacy Information" for the subject of your message. We will send you a reply e–mail within 30 days containing the requested information once we confirm your request. Not all information sharing is covered by the "Shine the Light" requirements and only that information which is covered will be included in our response.
 
-* ### QUESTIONS/CONCERNS
 
-If you believe that this Site is not following its stated information policy, you may contact us at the above address, or state or local chapters of the Better Business Bureau.
+ ** _Will we ever share any of your information with other parties?_**
 
-* ### CONSENT
+  * We will never share your information with third parties for their own marketing purposes without first obtaining your consent. 
 
-By using this site, you consent to the collection and use of this information by Maker Studios. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+  * We may engage third party service providers in the course of providing the Yogscast Services to you (e.g. data storage, server hosting, running The Yogscast Store, customer and technical support, product analytics, advertising, organising events etc) which may require them to access your information on our behalf. We will ensure there are appropriate contractual arrangements in place with any such third party service providers to protect your information. Those third parties may also collect some information directly from you (e.g. IP address, unique identifiers etc) subject to their own privacy policies. 
 
-The following Community Guidelines are here to help you understand what it means to be a member of  **Yogscast.**  Your use of our Site is subject to these Guidelines, Privacy Policy and our Terms of Use.
+  * We may work with third party service providers (e.g. ad network and measurement services) to display advertising on the Yogscast Services and to manage our ads on third party sites. We may share certain information (such as your email address, country of residence and your age) with third parties so that we can better target ads and content to you. You can choose to prevent your device’s ad identifier being used for interest-based advertising by updating the settings on your device and you may be able to opt-out from the collection of information by some of our advertising partners as further detailed in our Cookie Policy <http://yogscast.com/yogscast-cookie-policy>. 
 
-*  **Show respect to other people.**  Insults, threats and abuse are not acceptable. We're a community of many types of individuals, who all have the right to feel comfortable and who may not think what you think, believe what you believe or see what you see. Trolling and flaming will not be tolerated and will result in a suspension or a ban.
+  * We may share your information within the Yogscast company group for the purpose of providing the Yogscast Services. 
 
-*  **No Hate Speech.**  We encourage free speech and defend everyone's right to express unpopular points of view. But we don't permit hate speech (speech which attacks or demeans a group based on race or ethnic origin, religion, disability, gender, age, veteran status, and sexual orientation/gender identity).
+  * In the unlikely event of a reorganisation or merger of Yogscast we may transfer personal information to an involved third party who will protect this to at least the same level as we do in this Privacy Policy.
 
-*  **Profane language is not allowed.**  If you wouldn't want your grandma to read it, don't post it.
 
-*  **TYPING IN ALL CAPS IS CONSIDERED YELLING AND MAKES THINGS MORE DIFFICULT TO READ.**  Save our eyes. Don't type in all caps.
 
-*  **Linking to porn or shock sites will result in a ban.**  If you wouldn't want your grandma seeing it, don't post it.
 
-*  **Discussion of any illegal activities is prohibited.**
+ **HOW YOU USE YOUR INFORMATION AND THIRD PARTIES?**
 
-*  **Post your topic in the forum in which it belongs.**  No one will think to look for collaboration work in the site suggestions forum. If you're not sure on where your topic belongs, just read the sticky posts, or read the other threads in the forum. That should give you a good idea of what belongs where.
+ ** _You have the option to share your own personal information with other parties, in which case it will be governed by those parties’ own privacy policies – make sure to take a look at them._**
 
-*  **Do not post meaningless junk.**  This isn't Facebook or Twitter. We don't care that you're eating some really awesome cereal. If your post isn't insightful or informative please keep it off of the forums. 
+Please remember that any communications you have via the Yogscast Services may reveal details about you. Also, any information you post publicly will be publicly available to other people. We are not responsible for your use of any otherwise private personal information which you make available, or the activities of other users or other third parties to whom you give or make available your information or content. The Yogscast Services may, from time to time, contain or connect you with third party content or services. Our Privacy Policy does not extend to external sites or companies, so please refer directly to their privacy policies.
 
-*  **Do not spam.**  Posting the same topic repeatedly is spamming. Excessive bumping of topics is spamming. If a topic doesn't receive a reply within one day, then bumping is allowed. Peer review posts should not be bumped by the original poster unless they are replying to feedback. 
+ **DATA RETENTION**
 
-*  **No advertising.**  If you want to advertise your channel, website, social media, etc. please do so in your signature. We do not allow advertisements. If you're unsure about something that could potentially be an advertisement, please send a message to [yogscast@gmail.com](mailto:yogscast@gmail.com)
+ ** _We retain your information for as long as needed to provide the Yogscast Services to you or longer where permitted by law._**
 
-*  **No selling or buying.**  If you want to advertise your services (graphics work, eBay page, whatever) please do so in your signature. We do not allow selling or buying on the forum. 
+ ** _How long do we retain your data for?_** As long as necessary for the purpose for which the data was originally collected. As detailed below, depending on where you live you may have certain legal rights to object to our collection and use of your data, but this may mean some or all Yogscast Services become unavailable to you. We also reserve the right to retain your information as necessary to comply with our legal obligations, resolve disputes, maintain appropriate business records and enforce our agreements.
 
-*  **Signatures**  are limited to text only, and must follow the same guidelines as posts. We reserve the right to remove a signature without warning if it violates any of our guidelines. Do not make the font in your signature huge. It will either be edited, or deleted by a staff member. 
+  *  **YOUR RIGHTS**
 
-*  **No backseat moderation.**  We reserve the right, but do not have an obligation, to monitor and/or review all post. If there is a problem with a post, hit the report button that is at the bottom of every single post. Unless you are a staff member or moderator it is not your place to moderate the forum. 
 
-Please note that all of the rules apply across the forum globally to posts, signatures, avatars, private messages, etc. Failure to follow any of the rules may result in having your forum account suspended or banned at the discretion of the Maker Studios staff.
 
-We reserve the right to alter the guidelines and rules at any time, with or without notice. Check this post often for any changes. Ignorance of the rules is not a free pass from a suspension or ban. If you don't feel that you can abide by these Community Guidelines as outlined above, then Yogscast may not be for you. We developed these guidelines to ensure that everyone within the support community has the experience they want.
 
-If you feel that you have been unjustly punished, please send [yogscast@gmail.com](mailto:yogscast@gmail.com) a message and it will be looked into.
+ ** _You have rights about how your personal information is used, which can vary depending on where you live. If you have any questions, please contact us at contact@yogscast.com._**
 
-Use of the  **Yogscast**  forum is a privilege, not a right.
+  *  ** _Can you ask us to stop processing your personal information?_** You have the right to ask us not to process your personal information for marketing purposes. You can change your email settings to unsubscribe from email communications. Our Cookie Policy <http://yogscast.com/yogscast-cookie-policy> also details how you can deactivate certain types of cookies and other ad tracking technologies that may be used in providing certain Yogscast Services.
+
+  *  ** _What are your rights?_** Depending on where you live, you may have additional privacy rights. For example, in the EU (particularly under the new GDPR) you have the right to access and obtain a copy of your personal data we possess; you have the legal right to ask us to rectify/correct your personal data; and you may have the legal right to contact us to request that we delete your personal data from our system. We will use commercially reasonable efforts to honour your request, but we may decline requests that are unreasonably repetitive, are disproportionate, infringe the privacy of others or as otherwise permitted by law. Please note though that by withdrawing your consent or otherwise objecting to certain processing of your information, certain Yogs Services may no longer function properly or be completely unavailable to you. 
+
+  * Under California law, California residents who have an established business relationship with us have the right to request certain information with respect to the types of personal information we have shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to: Yogscast Limited at Victoria House, 26 Queen Victoria Street, Reading, Berkshire, RG1 1TG, United Kingdom. This same California law permits us to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. You may exercise that choice by contacting us at the address above.
+
+  *  ** _Who should you contact if you would like to exercise these rights?_** If you would like to exercise any of these rights or have any queries regarding them, please contact: contact@yogscast.com.
+
+  *  **OTHER**
+
+
+
+
+ **We can change this Privacy Policy, but if we do we will put the changed version online. Please feel free to contact us if you have any questions with regards to the changes at contact@yogscast.com. Please read our Terms of Service at**<http://yogscast.com/yogscast-terms-service> **.**
+
+  *  ** _Will we ever change this Privacy Policy?_** Possibly, but if we do we will make the changed Privacy Policy available online, make reasonable efforts to notify you of this and update the “Last Updated” date. Once we change the Privacy Policy, it will become legally binding on you as of the date of publication (i.e. the new “Last Updated” date). You are welcome to contact us if you have specific questions about the changes at contact@yogscast.com. If you do not agree to those changes, regardless of whether you email us then unfortunately you must cease using all Yogscast Services.
+
+  *  ** _Are there any other documents you should read?_** We'd also like to remind you that our Terms of Service has more information about how we operate the Yogscast Services <http://yogscast.com/yogscast-terms-service>.
+
+
+
