@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunelondon.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010033342id_/https%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelondon.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714130717id_/https%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Dune London
 
@@ -42,7 +42,7 @@ We may collect the following information about you: 
 
 This list is not exhaustive and sometimes we may need to collect additional data for the purposes set out in this Notice. Some of your personal data is collected directly, for example, when you make a purchase on our websites or enter a competition. Other personal data is collected indirectly, for example, your browsing or shopping activity. Please see our Recruitment Privacy Notice if you are applying for a role at Dune. 
 
-We work, from time to time, closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) who provide services to us and may receive information about you from them. In particular, all payments are provided through a trusted third party payment service provider.  We may also collect personal data from third parties who have your consent to pass your details to us. 
+We work, from time to time, closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) who provide services to us and may receive information about you from them. In particular, all card payments are provided through a trusted third party payment service provider.  Worldpay will use your information to process and manage payments to us. Please see Worldpay's [Privacy Policy](https://www.worldpay.com/uk/comprehensive-privacy-policy) for more information. We may also collect personal data from third parties who have your consent to pass your details to us. 
 
   **How your information is used  **
 
@@ -118,7 +118,7 @@ Transfer it to organisations that are part of Privacy Shield. This is a framewor
 
 We will not retain your data for longer than necessary for the purposes set out in this Privacy Notice. Different retention periods apply for different types of data. 
 
-  **Your Privacy Rights**
+**Your Privacy Rights**
 
 You have the right to contact us (see the Contact section below) in order to find out what information we hold about you (please note that a small fee may be payable) or to access or correct any information we hold about you.  You can also request the erasure of the information that we hold about you (see the Contact section below) 
 
@@ -172,6 +172,14 @@ JSESSIONID    | This is a cookie in J2EE web application which is used in sess
 stc114990    | Third party cookie which is used to store all other cookie data. The cookie name includes the site ID.  
 Session%5Fsrc    | This cookie is used to collect information about how visitors arrive on this Website after interacting with marketing campaigns. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including where the visitor came from before visiting this Website.  
   
+**Sub2**
+
+We work with Sub2 Technologies Limited ("Sub2"), a company which acts as our data processor in order to maximise website user engagement. We share with Sub2 (or Sub2 accesses directly from your website use) information about you and how you use our website, including any information that you provide to us. This information is then used for the purposes of providing you with marketing which is more relevant to you and your interests.
+
+**Content Square**
+
+Content Square is a solution which aggregates usage and frequency data to improve user experience. Statistics created are anonymous.To be excluded from this monitoring, please click here.
+
 **How can you control the use of cookies?**
 
 You can amend your browser settings to block some or all cookies. To do this, follow the instructions provided by your preferred web browser. For your ease of reference we have provided the links below which provide instructions on how to remove and delete cookies for some of the more common web browsers. Please be aware that if you block cookies from the websites, some or all the website's functions may not perform as intended: 
@@ -185,6 +193,10 @@ You can amend your browser settings to block some or all cookies. To do this, fo
 • **[Safari](https://support.apple.com/kb/PH21411?locale=en_US)**
 
 Mobile phone users may have to refer to their handset manual for details on how to block cookies using their mobile browser. For more information about online behavioural advertising cookies and opt-out controls, please go to **<http://www.youronlinechoices.eu/>**. More information regarding opting out of platform based advertising can be found at **[http://appnexus.com/platform-policy#choices](https://www.appnexus.com/en/company/platform-privacy-policy)**. 
+
+We may also use technologies, such as our own cookies, to provide you with relevant online display advertising tailored to your interests. Our marketing partner, Conversant, assists us in managing these technologies. To opt out of our cookies used for this online advertising or to submit a data subject request specific to these technologies, click _[here](http://dtmc.dunelondon.com/adinfo/choice/prod/?type=fpc&cid=2945&cname=Dune%20London&cmagic=892c3b&clogo=DuneLondon.png&loc=uk&lang=en-us)_.
+
+If you would like to review or modify your marketing consent and preferences please click here.
 
 **Security  **
 
@@ -210,7 +222,7 @@ Cambridge Road 
 Leicestershire   
 LE8 6LG   
 United Kingdom   
-0333 240 7306 
+01202 560396 
 
 **How to complain  **
 
