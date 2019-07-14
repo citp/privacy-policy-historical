@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givepulse.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106190212id_/https%3A//www.givepulse.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givepulse.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714143032id_/https%3A//www.givepulse.com/policies) for the most accurate reproduction.*
 
 # Policies | GivePulse
 
