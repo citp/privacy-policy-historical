@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasysp.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328012820id_/https%3A//www.fantasysp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasysp.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714120003id_/https%3A//www.fantasysp.com/privacy) for the most accurate reproduction.*
 
 # FantasySP Privacy Policy
 
