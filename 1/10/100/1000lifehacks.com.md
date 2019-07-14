@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000lifehacks.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609011446id_/http%3A//1000lifehacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000lifehacks.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714174900id_/http%3A//1000lifehacks.com/privacy-policy) for the most accurate reproduction.*
 
 # 1000 Life Hacks
 
