@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missguided.eu privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408151923id_/https%3A//www.missguided.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missguided.eu privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714131735id_/https%3A//www.missguided.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Missguided
 
@@ -25,44 +25,25 @@ We collect information when you use our sites. We collect it in different ways b
 
 ###  WHAT ARE MY RIGHTS? 
 
-**Information provision**
-You have the right to be give the following information each time we collect information from you: (a) our identity and contact details; (b) what we're going to use your information for and the "legal basis" and whether we need your information for a statutory or contractual purpose, if you are obligated to provide it and the consequences of failure to provide the information; © who we will share your information with; (d) whether your information will go outside the European Economic Area and if it does what we're doing to protect it; (e) how long we're keeping your data for; (f) your rights in respect of our use of your data (see below); (g) if we're collecting data with your explicit consent, the fact you have the right to withdraw consent at any time; (h) that you can contact the Information Commissioners Office (www. ico.org.uk) or your local supervisory authority for data protection matters if you have a complaint about our use of your information; (I) if we make any automated decisions about you, the logic involved and and the significance and envisaged consequences for you. 
-
-
-**Access**
+**Information provision** You have the right to be give the following information each time we collect information from you: (a) our identity and contact details; (b) what we're going to use your information for and the "legal basis" and whether we need your information for a statutory or contractual purpose, if you are obligated to provide it and the consequences of failure to provide the information; © who we will share your information with; (d) whether your information will go outside the European Economic Area and if it does what we're doing to protect it; (e) how long we're keeping your data for; (f) your rights in respect of our use of your data (see below); (g) if we're collecting data with your explicit consent, the fact you have the right to withdraw consent at any time; (h) that you can contact the Information Commissioners Office (www. ico.org.uk) or your local supervisory authority for data protection matters if you have a complaint about our use of your information; (I) if we make any automated decisions about you, the logic involved and and the significance and envisaged consequences for you.  **Access**
 
 You have the right to ask us the following about our use of your information: (a) the purpose of our use; (b) what type of information is used; © who we share your information with; (d) how long we keep your information; (e) what rights you have in relation the information we hold; (f) whether you have a right to lodge a complaint with the Information Commissioners Office or other supervisory authority; (g) if we have collected your information from another person, who that person is; (h) whether we make any decisions about you automatically (g) whether your information goes outside the European Economic Area. You can also ask us for a copy of the data we have. 
-
-
-
 
 **Rectification**
 
 You can ask us to correct any details you think we have which are incorrect. 
 
-
-
-
 **Erasure**
 
 You can ask us to delete information about you if any of the following apply: (a) it is no longer required by us for the purpose for which we collected it from you; (b) if we collected it with your explicit consent, when you withdraw that consent; © if you have grounds to object to us using it (see below) and we do not have any overriding legitimate grounds for using it; (d) if we have unlawfully used your information; (e) if you need us to delete it so that you can comply with a legal obligation. Please note however, we may need to still keep certain information to comply with our legal obligation or for claims purposes. 
-
-
-
 
 **Restriction**
 
 You can ask us to stop using your information if any of the following apply, (a) you don't think we have the correct details for you; (b) our use is unlawful and you do not want us to delete your information; © when you object to processing (see below); (d) we no longer require the information for the purpose for which we collected it; (e) where we collected the information with your explicit consent (f) if you object to our use (see below) and we do do not have any overriding legitimate grounds for using it; (g) if you need us to delete it so that you can comply with a legal obligation. Please not when you make a request we can still store your information and use it for claims purposes or if it is necessary to protect another person. 
 
-
-
-
 **Portability**
 
 You have the right to ask us to send your information to you or another person where we originally collected your information with your explicit consent. We must provide this in a structured, commonly used and machine readable format. Please note this does not include information which we have inferred or derived, for example, information we have collected about you to understand your shopping habits with Missguided in order to give you a good customer experience. 
-
-
-
 
 **Objection**
 
