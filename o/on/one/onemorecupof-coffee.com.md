@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemorecupof-coffee.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508114212id_/https%3A//onemorecupof-coffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorecupof-coffee.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714024303id_/https%3A//onemorecupof-coffee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
