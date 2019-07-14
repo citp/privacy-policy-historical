@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pamgolding.co.za privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526210142id_/http%3A//www.pamgolding.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pamgolding.co.za privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714172419id_/https%3A//www.pamgolding.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pam Golding Properties
 
@@ -31,7 +31,7 @@ We are committed to **ensuring that your privacy is protected**. Below, we’ve 
     1. We have a Facebook page. When you communicate with us through our Facebook page (for example, when you post a comment, upload media, send a personal message or become a fan of us by clicking the " _Like_ " button) we may receive personal information about you (such as your (user) name, profile photo, your hometown, your email address and/or your gender). The manner in which your personal information is used will be described in the applicable Facebook privacy policy. You should read the Facebook privacy policy together with this Privacy Policy and the terms of use and/or other privacy statements on Facebook. 
     2. PGP encourages you to carefully read the Facebook privacy policy, terms of use and other privacy statements on Facebook which may differ from this Privacy Policy.
   6. **How we use your personal information**
-    1. PGP will only use your personal information to compile the Website, provide you with information, communicate with you, respond to enquiries made by you, manage our relationship with you and provide services or marketing material to you, including alerts on new properties matching your search criteria (where you have opted to receive such material or submitted your details to receive regular information from us via email).
+    1. PGP will only use your personal information to compile the Website, provide you with information, communicate with you, respond to enquiries made by you, manage our relationship with you and provide services or marketing material to you, including alerts on new [property for sale](https://www.pamgolding.co.za/buy-property) or [rent ](https://www.pamgolding.co.za/rent-property)matching your search criteria (where you have opted to receive such material or submitted your details to receive regular information from us via email).
     2. Further to the above, by using the Website, you consent to PGP using or disclosing your personal information for purposes of:
       1. statistical and/or data analysis; 
       2. processing any contact, communication or transaction which you have initiated, requested or otherwise indicated an interest in; 
