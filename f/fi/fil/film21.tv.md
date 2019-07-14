@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the film21.tv privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515042730id_/http%3A//www.film21.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the film21.tv privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714211619id_/http%3A//film21.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
