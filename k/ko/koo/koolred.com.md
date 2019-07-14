@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koolred.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513223234id_/http%3A//koolred.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolred.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714073533id_/http%3A//koolred.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
