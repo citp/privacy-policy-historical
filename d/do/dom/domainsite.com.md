@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113235451id_/https%3A//www.domainsite.com/policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2019-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190714204150id_/http%3A//domainsite.com/policies/privacy-policy.php) for the most accurate reproduction.*
 
 # Domain Names, Web Hosting, and SSL Certificates | DomainSite
 
