@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eshipglobal.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008141518id_/http%3A//eshipglobal.ipage.com/PrivacyPolicy_eShipGlobal.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshipglobal.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715212250id_/http%3A//eshipglobal.ipage.com/PrivacyPolicy_eShipGlobal.pdf) for the most accurate reproduction.*
 
 # Privacy Update: eShipGlobal and GDPR
 
