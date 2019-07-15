@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bolterandchainsword.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907064740id_/http%3A//www.bolterandchainsword.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolterandchainsword.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715223828id_/http%3A//www.bolterandchainsword.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Bolter and Chainsword
 
