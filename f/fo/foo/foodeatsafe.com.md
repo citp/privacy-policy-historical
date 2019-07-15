@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodeatsafe.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231044844id_/http%3A//www.foodeatsafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodeatsafe.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715210208id_/http%3A//www.foodeatsafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Food Eat Safe
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Contact Us](https://web.archive.org/cdn-cgi/l/email-protection#c5adb1b1b5ffeaeab2b2b2eba3aaaaa1a0a4b1b6a4a3a0eba6aaa8eaa6aaabb1a4a6b1e8b0b6ea).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Contact Us](mailto:http://www.foodeatsafe.com/contact-us/).
 
 At www.foodeatsafe.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.foodeatsafe.com and how we use it.
 
