@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630174006id_/https%3A//www.tomtop.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715160322id_/https%3A//www.tomtop.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -Tomtop.com
 
@@ -36,9 +36,9 @@ Providing,improving,and developing our products and services: We use personal d
 
 Offering and measuring targeted advertisements and services: Subject to your prior express consent,we may use personal data to personalize your experience with our products and services and on third-party websites and applications and to determine the effectiveness of our promotional campaigns. 
 
-NOTE: For any of the uses of your data described above that require your prior express consent,note that you may withdraw your consent by support@tomtop.com. 
+NOTE: For any of the uses of your data described above that require your prior express consent,note that you may withdraw your consent by netshop01.com. 
 
- Promoting safety and security: We use personal data to help verify accounts and user activity,as well as to promote safety and security,such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies.Such processing is based on our legitimate interest in helping ensure the safety of our products and services. 
+Promoting safety and security: We use personal data to help verify accounts and user activity,as well as to promote safety and security,such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies.Such processing is based on our legitimate interest in helping ensure the safety of our products and services. 
 
 **2..Cookies and Similar Technologies**
 
@@ -100,7 +100,7 @@ We may periodically change this Privacy Statement to keep pace with new technolo
 
 However,there may be cases where changes to the Privacy Statement may be more significant.In such cases,we will first provide a more prominent notice. 
 
-Your continued use of the our products and services after the effective date of the Privacy Statement means that you accept the revised Privacy Statement.If you do not agree to the revised Privacy Statement,please refrain from using our products or services and contact support@tomtop.com. 
+Your continued use of the our products and services after the effective date of the Privacy Statement means that you accept the revised Privacy Statement.If you do not agree to the revised Privacy Statement,please refrain from using our products or services and contact netshop01.com. 
 
 **9.How can you control marketing emails?**  
 We provide options to opt out of marketing and sales emails, if you have remained opted in, we hope you enjoy receiving our emails, but if you would prefer not to be kept up-to-date with our special offers.You can unsubscribe at any time using the Unsubscribe link in each newsletter.
@@ -109,4 +109,4 @@ We provide options to opt out of marketing and sales emails, if you have remaine
 
 If you have any further question about the privacy policy. Here is the details of our information.  
 TOMTOP   
-Email: support@tomtop.com 
+Email: netshop01.com 
