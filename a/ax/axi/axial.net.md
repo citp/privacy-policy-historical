@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the axial.net privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317232408id_/https%3A//www.axial.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axial.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716000615id_/https%3A//www.axial.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated August 4, 2015
+Updated June 18, 2019
 
 This Privacy Policy explains how Axial Networks, Inc. and its subsidiaries and affiliates (collectively, “Axial”, “we”, “our” and “us”) collects, uses, shares and protects information obtained from members and from visitors to its website, www.axial.net (the “Site”) and the services, features, content, platform, tools or applications we offer (collectively with the Site, the “Services”). If you are a member with access to Axial’s Services, you have agreed and are additionally subject to the [Terms of Service](https://web.archive.org/legal/terms), which incorporates this Privacy Policy by reference. By visiting the Site or using the Services, you consent to the collection, disclosure and use of your information under the terms of this Privacy Policy.
 
@@ -94,6 +94,16 @@ If you contact us for troubleshooting, we may also keep a record of that fact to
   * To help us improve our services to you, we may engage another business to help us to carry out certain internal functions such as account processing, fulfillment, member service, member satisfaction surveys or other data collection activities relevant to our business.
   * We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non-Personal Information about you that they have independently developed or acquired.
   * As stated above, a Payment Processor may collect and store financial information. We may from time to time request and receive some of your financial information for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business.
+
+
+
+## Additional Limits on Use of Your Google User Data
+
+Notwithstanding anything else in this Privacy Policy, if you provide the App access to the following types of your Google data, the App's use of that data will be subject to these additional restrictions:
+
+  * Axial Services will only use access to read, write, modify, or control Gmail message bodies (including attachments), metadata, headers, and settings to provide a web email client that allows users to compose, send, read, and process emails and will not transfer this Gmail data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets.
+  * Axial Services will not use this Gmail data for serving advertisements.
+  * Axial Services will not allow humans to read this data unless we have your affirmative agreement for specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the App's internal operations and even then only when the data have been aggregated and anonymized.
 
 
 
