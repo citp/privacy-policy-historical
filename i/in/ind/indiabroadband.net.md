@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabroadband.net privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516083011id_/http%3A//www.indiabroadband.net/suggestions-complaints/19774-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabroadband.net privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715234114id_/http%3A//www.indiabroadband.net/suggestions-complaints/19774-privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
