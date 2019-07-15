@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwgb.edu privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305053441id_/https%3A//www.uwgb.edu/UWGBCMS/media/policies/files/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwgb.edu privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715104007id_/https%3A//www.uwgb.edu/UWGBCMS/media/policies/files/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
