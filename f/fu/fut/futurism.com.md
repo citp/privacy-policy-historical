@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurism.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506095124id_/https%3A//futurism.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurism.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715232218id_/https%3A//futurism.com/policies/privacy) for the most accurate reproduction.*
 
 # Futurism - Privacy Policy
 
