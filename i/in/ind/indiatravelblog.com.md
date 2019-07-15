@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatravelblog.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627101100id_/https%3A//www.indiatravelblog.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatravelblog.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715040121id_/https%3A//www.indiatravelblog.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaTravelBlog.com privacy policy
 
