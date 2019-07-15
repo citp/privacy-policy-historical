@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pariksha.nic.in privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515020040id_/http%3A//pariksha.nic.in/Footer_Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pariksha.nic.in privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715080757id_/http%3A//pariksha.nic.in/Footer_Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
