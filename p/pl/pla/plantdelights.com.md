@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plantdelights.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402163725id_/http%3A//www.plantdelights.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantdelights.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715044422id_/https%3A//www.plantdelights.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Plant Delights Nursery Privacy Policy
+# Privacy Policy of Plant Delights Nursery, Inc.
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -29,7 +29,7 @@ Your personal information is contained behind secured networks and is only acces
 
 We implement a variety of security measures when a user places an order to maintain the safety of your personal information.
 
-For your convenience we may store your credit card information for more than 90 days in order to expedite future orders, and to automate the billing process.
+We do not store your payment information.
 
 ### Do we use cookies?
 
@@ -53,7 +53,7 @@ If you disable cookies, you will not be able to complete an order on our site. H
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ### Third party links
 
@@ -118,7 +118,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-**If at any time you would like to unsubscribe from receiving future emails** you can email us at office@plantdelights.com or follow the instructions at the bottom of each email and we will promptly remove you from correspondence. 
+**If at any time you would like to unsubscribe from receiving future emails** you can email us at [sales@plantdelights.com](mailto://sales@plantdelights.com) or follow the instructions at the bottom of each email and we will promptly remove you from correspondence.
 
 ### Contacting Us
 
@@ -128,7 +128,7 @@ Plant Delights Nursery, Inc.
 9241 Sauls Rd  
 Raleigh, NC 27603  
 United States  
-office@plantdelights.com  
+[sales@plantdelights.com](mailto://sales@plantdelights.com)  
 919-772-4794
 
-Last Edited on 2015-05-05
+Last Edited on 2019-02-4
