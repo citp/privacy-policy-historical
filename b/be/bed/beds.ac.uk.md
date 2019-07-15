@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beds.ac.uk privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605120341id_/https%3A//www.beds.ac.uk/about-us/our-university/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beds.ac.uk privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715062851id_/https%3A//www.beds.ac.uk/about-us/our-university/privacy-policy) for the most accurate reproduction.*
 
 # Student Privacy Policy - beds.ac.uk | University of Bedfordshire
 
