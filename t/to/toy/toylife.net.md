@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toylife.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515065120id_/http%3A//www.toylife.net/%3Fpage_id%3D725) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toylife.net privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715080121id_/http%3A//www.toylife.net/%3Fpage_id%3D725) for the most accurate reproduction.*
 
 # Privacy Policy – Life News
 
