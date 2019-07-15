@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620081739id_/https%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715055924id_/https%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Survey Anyplace
 
