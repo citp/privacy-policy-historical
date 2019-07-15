@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domains.ph privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709155813id_/https%3A//new.dot.ph/corporate/pps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domains.ph privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715095623id_/https%3A//www.dot.ph/corporate/pps) for the most accurate reproduction.*
 
 # dotPH | Privacy Policy Statement dotPH
 
@@ -33,7 +33,7 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.  
-Consumers can access this information by visiting us at <https://new.dot.ph/domain_manager>
+Consumers can access this information by visiting us at <https://www.dot.ph/domain_manager>
 
 We offer visitors the ability to have inaccuracies corrected in contact information and unique identifiers.  
 Consumers can have this information corrected by logging in to our site or contacting us at the email address and phone numbers shown above.
