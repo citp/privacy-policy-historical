@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430190940id_/https%3A//cadencebank.com/legal/privacy-policy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715102638id_/https%3A//cadencebank.com/legal/privacy-policy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy and Security
 
-[Privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://web.archive.org/-/media/pdfs/2018-privacy-notice_with-affiliate-optout.ashx)
+[Privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://web.archive.org/-/media/pdfs/2019-privacy-notice---june-2019.ashx?la=en&hash=F9502B7E1AE5CBAD4879164FA506ED4D1511EDD2)
 
 The directors, management and all associates of Cadence Bank, N. A. appreciate and respect the privacy of our customer’s personal financial information. We understand that our customers furnish sensitive information to the bank in the course of our daily business, and the bank is committed to treating this information responsibly. We know that our customers expect privacy and security for their personal and financial affairs. The bank will take reasonable and appropriate steps to safeguard sensitive information that has been entrusted to us by our customers. 
 
@@ -27,9 +27,9 @@ At Cadence, trust has always been key in developing relationships with our custo
 
 The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-  * Social Security number and  **Credit History**
-  * **Account balances**  and  **Transaction or loss history**
-  * **Account transactions**  and  **Checking account information**
+  * Social Security number and Credit History
+  * Account balances and Transaction or loss history
+  * Account transactions and Checking account information
 
   
 **HOW?** | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons the Cadence and its affiliates chooses to share; and whether you can limit this sharing.  
@@ -37,23 +37,23 @@ The types of personal information we collect and share depend on the product or 
 **Reasons we can share your personal information** |  **Does Cadence and its affiliates share?** |  **Can you limit this sharing?**  
 ---|---|---  
   
-**For our everyday business purposes-**   
+**For our everyday business purposes—**   
 such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus. 
 
 | Yes | No  
   
-**For our marketing purposes-**   
+**For our marketing purposes—**   
 to offer our products and services to you
 
 | Yes | No  
 **For joint marketing with other financial companies** | Yes | No  
   
-**For our affiliates' everyday business purposes-**   
+**For our affiliates' everyday business purposes—**   
 information about your transactions and experiences
 
 | Yes | No  
   
-**For our affiliates' everyday business purposes-**   
+**For our affiliates' everyday business purposes—**   
 information about your creditworthiness
 
 | Yes | Yes  
@@ -66,20 +66,24 @@ information about your creditworthiness
 **To limit our sharing** | 
 
   * Cadence Bank Customers: Call 800-636-7622 to speak to a customer service representative.
-  * Linscomb & Williams/Trust Customers: Call 1-713-871-4165 to speak to a representative.
-  * Town & Country Insurance Agency, Inc. DBA Cadence Insurance: Call 1-713-461-8979 to speak to a representative.
+  * Linscomb & Williams/Trust Customers: Call 1-800-960-1200 to speak to a representative.
 
 
 
 **Please note:**
 
-If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
+If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
   
 ---|---  
-**Questions?** | Call 1-800-636-7622 or go to www.cadencebank.com  
+**Questions?** | Call 800-636-7622 or go to [www.cadencebank.com](https://web.archive.org/)  
   
-**Who is providing this notice?** | This notice is provided by Cadence Bank N.A.; Cadence Bancorporation and Cadence Bancorp LLC; each a financial holding company; Linscomb & Williams and Town & Country Insurance Agency, Inc. DBA Cadence Insurance.  
+
+
+###  **Who we are**
+
+|    
 ---|---  
+**Who is providing this notice?** | This notice is provided by Cadence Bank, N.A.; Cadence Bancorporation, a financial holding company; Cadence Bank’s subsidiaries, Linscomb & Williams and Altera Payroll & Insurance Inc.; and Alostar a division of Cadence Bank.  
   
 
 
@@ -96,18 +100,18 @@ We also maintain other physical, electronic and procedural safeguards to protect
 
 | We collect your personal information, for example, when you 
 
-  * Open an account or Buy securities from us 
-  * Apply for a loan or Give us your contact information 
-  * Make deposits or withdrawals from your account 
+  * Open an account or Buy securities from us
+  * Apply for a loan or Give us your contact information
+  * Make deposits or withdrawals from your account
 
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
 **Why can't I limit all sharing?** | 
 
 Federal law gives you the right to limit only
 
-  * sharing for affiliates' everyday business purposes- information about your creditworthiness 
-  * affiliates from using your information to market to you 
-  * sharing for non-affiliates to market to you 
+  * Sharing for affiliates' everyday business purposes—information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for non-affiliates to market to you
 
 
 
@@ -126,21 +130,21 @@ State laws and individual companies may give you additional rights to limit shar
 
 | 
 
-Companies related by common ownership or control. They can be financial and nonfinancial companies.
+Companies related by common ownership or control. They can be financial and non-financial companies.
 
-  * Our affiliates include companies with the Cadence name and financial companies such as insurance agencies, securities broker-dealers, and investment advisors.
+  * _Our affiliates include companies with the Cadence name and financial companies such as insurance agencies, securities broker-dealers, and investment advisors._
 
   
 **Non-affiliates** | 
 
-Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+Companies not related by common ownership or control. They can be financial and non-financial companies.
 
   * _We do not share with non-affiliates so they can market to you._
 
   
 **Joint marketing** | 
 
-A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+A formal agreement between non-affiliated financial companies that together market financial products or services to you.
 
   * _Our joint marketing partners include service and insurance providers._
 
