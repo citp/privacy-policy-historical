@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasmission.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822040840id_/https%3A//mamasmission.com/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasmission.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715172950id_/https%3A//mamasmission.com/disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mama's Mission
 
