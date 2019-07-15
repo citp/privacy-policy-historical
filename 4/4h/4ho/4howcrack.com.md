@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4howcrack.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606021247id_/https%3A//4howcrack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4howcrack.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715090746id_/https%3A//4howcrack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy GDPR Compliant 2019 | 4HowCrack
 
