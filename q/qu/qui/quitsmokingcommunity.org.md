@@ -1,47 +1,71 @@
-> *The following text is extracted and transformed from the quitsmokingcommunity.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608070121id_/https%3A//quitsmokingcommunity.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quitsmokingcommunity.org privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715141022id_/https%3A//vapingdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Vaping Daily
 
-Your privacy is critically important to us. At Quit Smoking Community, we have a few fundamental principles on privacy:
+Welcome to Vapingdaily.com (the “Site”) (“Us”, “We”, or VapingDaily). This Vaping Daily Privacy Policy (“Policy”) details what kind of information we collect when you use our site and its related functions, as well as how we save, store, and reveal that information to you. This Policy may be added to other notices on our site. Other Services offered by our site may also have additional privacy statements attached to them. Any personal data shared with us via the use of one of our Services constitutes an expression of consent to the movement of data to servers in the US, where they are stored, used, and disclosed in accordance with this policy.
 
-  * We don’t ask you for personal information unless we truly need it. (Your gender and income level don’t matter in your quest to quit smoking!)
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for communicating smoking cessation information with you.
+## Information We Collect
 
+**ON BEHALF OF THIRD PARTIES**
 
+### YOUR PERSONAL DATA
 
-Quit Smoking Community (“Quit Smoking Community” or “QSC”) respects your privacy and it is our policy to protect any information we may collect while operating our websites.
+No personal data is collected. In other words, we do not obtain your name, address, telephone number or invasive information.  
+Vaping Daily does not collect any of that information at all, whether personal or invasive information.
 
-## Website Visitors
+### WHY YOUR DATA IS USED
 
-Like most website operators, Quit Smoking Community collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Quit Smoking Community’s purpose in collecting non-personally identifying information is to better understand how Quit Smoking Community’s visitors use its website. From time to time, Quit Smoking Community may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Vaping Daily has Google Analytics, (a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, which we will refer to in the future simply as Google), connected to the website that helps us track a user’s activity. Activity such as what pages were visited before landing on our page, what links were clicked to lead to other websites, scrolling of our pages and any keystrokes in forms on our pages. No personal information is collected or stored by Google.
 
-Quit Smoking Community also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Quit Smoking Community only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
+The reason this information is useful is to get a clearer understanding of who reads our site. Google takes all of that data and gives us a concise report of how people use the site and any demographic information which may help us improve our website.  
+This means we can craft our content to better serve our readers by understanding what it is they may want by using our site.
 
-## Gathering of Personally-Identifying Information
+### WHAT HAPPENS WITH THE DATA
 
-Certain visitors to Quit Smoking Community’s website choose to interact with Quit Smoking Community in ways that require Quit Smoking Community to gather personally-identifying information. The amount and type of information that Quit Smoking Community gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to provide a username and email address. In each case, Quit Smoking Community collects such information only as far as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Quit Smoking Community. Quit Smoking Community does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities such as commenting or participating in surveys and giveaways.
+Though we don’t collect the data ourselves, any partners or affiliates may track cookies (user data which is carried from our site to another) to be able to analyze trends or to gather information about our user base so they can effectively market their products to our site visitors. This is how specific ads can be tailored to a user’s search and explains how it seems particular ads are following them.  
+You may opt out of the collection and storage of data by Google Analytics at any time. For more details on how to deactivate Google Analytics, please refer to https://tools.google.com/dlpage/gaoptout?hl=en.
 
-## Aggregated Statistics
+### ON OUR BEHALF
 
-Quit Smoking Community may collect statistics about the behavior of visitors to its websites. Quit Smoking Community may display this information publicly or provide it to others in our effort to be transparent with our users and the community. However, Quit Smoking Community does not disclose personally-identifying information other than as described below.
+We don’t collect or store any user data from our visitors. Cookies are enabled on our site when consented to, so we can remember users’ settings, track how the user engages with our website and understand more about the demographics of our users.  
+Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our site may be limited.
 
-## Protection of Certain Personally-Identifying Information
+### DO WE SHARE YOUR INFORMATION?
 
-Quit Smoking Community discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Quit Smoking Community’s behalf or to provide services available at Quit Smoking Community’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Quit Smoking Community’s websites, you consent to the transfer of such information to them. Quit Smoking Community will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Quit Smoking Community discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Quit Smoking Community believes in good faith that disclosure is reasonably necessary to protect the property or rights of Quit Smoking Community, third parties or the public at large. If you are a registered user of an Quit Smoking Community website and have supplied your email address, Quit Smoking Community may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Quit Smoking Community and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Quit Smoking Community takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Vaping Daily does not collect any personal information and will not share any of that type of information with third parties.  
+By posting comments on our blog pages, a user can decide for themselves how much of their personal information is seen by others reading the site. The information that might be shared with third parties only pertains to data such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc., with interested third parties to help them understand our audience activity.  
+The only time Vaping Daily will share any personally identifiable information is when we may be required by law to do so. Though it is highly unlikely to occur due to the nature of our site, we may be subpoenaed and need to comply with law enforcement to provide user data. In other circumstances, it may be required on our part to share user information to protect our security or integrity of our website. This could happen if a user is trying to compromise our site, for example.
 
-## Cookies
+### COMPROMISE OF PERSONAL INFORMATION
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Quit Smoking Community uses cookies to help Quit Smoking Community identify and track visitors, their usage of Quit Smoking Community website, and their website access preferences. Quit Smoking Community visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Quit Smoking Community’s websites, with the drawback that certain features of Quit Smoking Community’s websites may not function properly without the aid of cookies.
+If personal information is compromised as a breach of security, Vaping Daily will promptly notify our customers in compliance with applicable law.
 
-## Business Transfers
+### HOW LONG IS USER INFORMATION KEPT?
 
-If Quit Smoking Community, or substantially all of its assets, were acquired, or in the unlikely event that Quit Smoking Community goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Quit Smoking Community may continue to use your personal information as set forth in this policy.
+If you have an e-mail subscription, we will retain your information for as long as you are subscribed. We will maintain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. To opt out of this arrangement, just unsubscribe from our email list at any time.  
+If you are a visitor to the Vaping Daily, we will retain your information for as long as necessary but no longer than ten (10) years after your last visit to our sites.
 
-## Ads
+### WHAT WE WOULD LIKE TO DO WITH YOUR INFORMATION
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Quit Smoking Community and does not cover the use of cookies by any advertisers.
+With whatever personal information you consent for us to use, we would like to be able to inform you of any news or changes related to our site, send offers or promotions or other similar instances. None of that information used for those purposes will be shared with any other parties.  
+You may opt-out at any time by sending us an e-mail at info@vapingdaily.com.
 
-## Privacy Policy Changes
+### WHAT ARE YOUR RIGHTS?
 
-Although most changes are likely to be minor, Quit Smoking Community may change its Privacy Policy from time to time, and in Quit Smoking Community’s sole discretion. Quit Smoking Community encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+All changes to this Privacy Policy are effective when they are posted on this page. When we materially change the policy, we will let you know via email and a prominent notice on our site, before the change becoming effective and update the ‘effective date’ at the top of this page.  
+If at any point you would like to see how your information is being handled, or to opt out of any collecting of your data you have previously consented to, you can contact us at any time and let us know about your concerns.
+
+### HOW WE COMPLY WITH THE NEW DATA PROTECTION ACT AKA GDPR
+
+Vaping Daily takes the responsibility of safely handling our user data seriously and has taken on the additional work of complying EU GDPR framework as set forth by the European Union regarding the collection, use, and retention of personal data from European Union member countries.  
+VapingDaily has certified that it adheres to the requirements of notice, choice, onward transfer, security, data integrity, access, and enforcement. In other words, we will always alert our users of any breach of data, if data has been shared with another party in the case of a transfer of ownership of the website, or in the case of a law enforcement action.  
+Users can ask us for access to what type of data and how it is stored by sending us an e-mail to the address provided.
+
+## Contact Us
+
+If you have any questions regarding the Privacy Policy or would like more information from us, please contact us at info@vapingdaily.com.
+
+**US Office:**  
+Quit Smoking Community LLC  
+1325 Drury Lane, South Lyon, MI 48178  
+Phone: (650) 560-4503
