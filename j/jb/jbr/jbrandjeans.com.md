@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbrandjeans.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927055925id_/https%3A//www.jbrandjeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbrandjeans.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715033224id_/https%3A//www.jbrandjeans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | J Brand®
 
@@ -44,7 +44,7 @@ When we collect personal data through forms, fields marked with an asterisk are 
 
  _Legal basis for processing your personal data is as follows:_
 
- __• Processing of data relating to customer relationship management and management of your orders are either based on the performance of a contract between you and J Brand (e.g. when you create an account with us or you order a product from us), or based on our legitimate interests (transaction security helps us to prevent fraud);
+• Processing of data relating to customer relationship management and management of your orders are either based on the performance of a contract between you and J Brand (e.g. when you create an account with us or you order a product from us), or based on our legitimate interests (transaction security helps us to prevent fraud);
 
 • Processing of data linked with the sending of commercial communications are based on your specific consent;
 
@@ -90,7 +90,9 @@ We will keep your personal data for as long as we need it to achieve the purpose
   * • Data relating to your subscription to our newsletter will be kept until you request us to unsubscribe or delete it or after a certain period of user inactivity (as defined by our local standards on the retention policy);
   * • When you send us a request regarding our products or our brand, your data will be kept for the time necessary to handle such request;
   * • Personal data within cookies set on your terminal will be kept for as long as we need it to achieve the purpose for which it has been collected (e.g. session identification cookies are just kept for the duration of the ongoing session).
-  * 
+  *   
+
+
 
 
 We might keep some personal data for a longer time to comply with legal or regulatory obligations (e.g. to meet our obligations linked with invoicing) or to protect our legitimate business interests (e.g. to bring a claim before the Court). In such a case, the personal data will be kept for the duration of the legal obligation or until the date of prescription of any legal action and/or claim.
@@ -245,7 +247,7 @@ Suite 260
 
 Los Angeles, CA 90021
 
-If you wish to contact our Data Protection Officer, please contact him at: [dpo@fastretailing.com](mailto:dpo@fastretailing.com)
+If you wish to contact our Data Protection Officer, please contact him at: dpo_eu@fastretailing.com
 
 J BRAND INC
 
