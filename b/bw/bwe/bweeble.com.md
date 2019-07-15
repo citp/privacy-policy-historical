@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bweeble.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615151036id_/http%3A//bweeble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bweeble.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715135646id_/http%3A//bweeble.com/privacy) for the most accurate reproduction.*
 
 # Bweeble - Social List Builder
 
