@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925012028id_/https%3A//www.cb2.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715200323id_/https%3A//www.cb2.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CB2
 
@@ -46,7 +46,7 @@ The Google Analytics and Adobe Analytics products we use collect only anonymized
 
 #### In-Store Information:
 
-In some of our US store locations, if you choose to use our Wi-fi technology, we may track location analytics. This data is used to improve store layout and enhance customer shopping experience in our stores. To collect the data, we allow a third party provider to use a technology that senses the presence of smartphones. Certain device information, like device ID and location, is collected. Additional personal information is only collected if you consent to that collection. To learn more about customer location and your choices from our Service Providers, visit [www.smart-places.org](https://web.archive.org/web/20180925012028id_/https%3A//www.cb2.com/customer-service/www.smart-places.org).
+In some of our US store locations, if you choose to use our Wi-fi technology, we may track location analytics. This data is used to improve store layout and enhance customer shopping experience in our stores. To collect the data, we allow a third party provider to use a technology that senses the presence of smartphones. Certain device information, like device ID and location, is collected. Additional personal information is only collected if you consent to that collection. To learn more about customer location and your choices from our Service Providers, visit [www.smart-places.org](https://web.archive.org/web/20190715200323id_/https%3A//www.cb2.com/customer-service/www.smart-places.org).
 
 We use cameras in our stores for security and loss prevention purposes. We also use cameras to track store traffic, though this use does not personally identify shoppers.
 
@@ -106,7 +106,7 @@ Back to Top
 
 ## Browser Do Not Track
 
-The services do not support Do Not Track at this time. Do Not Track (DNT) is a privacy preference you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For all the details, including how to turn on Do Not Track, visit [donottrack.us](https://web.archive.org/web/20180925012028id_/https%3A//www.cb2.com/customer-service/donottrack.us).
+The services do not support Do Not Track at this time. Do Not Track (DNT) is a privacy preference you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For all the details, including how to turn on Do Not Track, visit [donottrack.us](https://web.archive.org/web/20190715200323id_/https%3A//www.cb2.com/customer-service/donottrack.us).
 
 ## Your Information Sharing Choices
 
