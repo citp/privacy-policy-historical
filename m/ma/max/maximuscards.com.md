@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximuscards.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513100651id_/http%3A//www.maximuscards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximuscards.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715215918id_/http%3A//www.maximuscards.com/privacy.html) for the most accurate reproduction.*
 
 # MaximusCards - Get iTunes, XBox Live Points, PSN Card, Nintendo Wii Points, Warcraft and PC Game - Privacy Site
 
