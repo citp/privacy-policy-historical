@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sageintacct.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128135654id_/https%3A//www.sageintacct.com/privacy_policy_website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sageintacct.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715084751id_/https%3A//www.sageintacct.com/node/855) for the most accurate reproduction.*
 
 # Website Privacy Policy | Sage Intacct
 
@@ -22,13 +22,13 @@ We collect demographic and contact information, such as your name, title, compan
 
 If you choose to use our referral service to tell a colleague about our site, we will ask you for your friend's name, email address, and phone number. We will automatically send your friend a one-time email inviting him or her to visit the site. Sage Intacct stores this information for tracking the success of our referral program.
 
-Your friend may contact us at [info@intacct.com](mailto:info@intacct.com) to request that we remove this information from our database.
+Your friend may contact us at [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com) to request that we remove this information from our database.
 
 ### Service providers
 
 We use other third parties such as an email service provider to send out emails on our behalf, teleconference services to provide you with webinars and demos, and a hosting service provider to host and provide our content. When you sign up to receive any of these services, we will share your personal information only as necessary with the third party solely for the purpose of providing that service.
 
-We provide the information to our trusted distribution partners who work on behalf of or with Sage Intacct under confidentiality agreements. These companies may use your information to help Sage Intacct communicate with you about offers from Sage Intacct and our partners. These companies do not have any independent right to share this information. If you would like to opt out of having your information shared with these third parties you may contact us at [info@intacct.com](mailto:info@intacct.com).
+We provide the information to our trusted distribution partners who work on behalf of or with Sage Intacct under confidentiality agreements. These companies may use your information to help Sage Intacct communicate with you about offers from Sage Intacct and our partners. These companies do not have any independent right to share this information. If you would like to opt out of having your information shared with these third parties you may contact us at [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com).
 
 ### Legal disclaimer
 
@@ -44,7 +44,7 @@ We will retain your information for as long as you remain identified as a potent
 
 ### Security
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [info@intacct.com](mailto:info@intacct.com).
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com).
 
 Sage Intacct, our advertising partners, analytics, and service providers use cookies or similar tracking technologies. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
@@ -66,11 +66,11 @@ Our Site includes links to other websites whose privacy practices may differ fro
 
 ### Testimonials
 
-We post customer testimonials on our website which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request the removal of your testimonial you may do so by contacting us at [info@intacct.com](mailto:info@intacct.com).
+We post customer testimonials on our website which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request the removal of your testimonial you may do so by contacting us at [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com).
 
 ### Public forums
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@intacct.com](mailto:info@intacct.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Social media widgets
 
@@ -82,6 +82,6 @@ We may update this privacy statement to reflect changes to our information pract
 
 ### Contact us
 
-You may direct questions regarding our website privacy policy to [info@intacct.com](mailto:info@intacct.com) or, by telephone, to Sage Intacct's customer support staff at 877-704-3700 or via postal mail at 300 Park Avenue, Suite 1400, San Jose, CA, 95110.
+You may direct questions regarding our website privacy policy to [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com) or, by telephone, to Sage Intacct's customer support staff at 877-704-3700 or via postal mail at 300 Park Avenue, Suite 1400, San Jose, CA, 95110.
 
->[](https://privacy.truste.com/privacy-seal/validation?rid=6d0897ce-41ee-4da1-a46c-cbd740c2671e)
+[](https://privacy.truste.com/privacy-seal/validation?rid=6d0897ce-41ee-4da1-a46c-cbd740c2671e)
