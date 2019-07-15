@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enscape3d.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116221621id_/https%3A//enscape3d.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enscape3d.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715081042id_/https%3A//enscape3d.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Enscape™
 
