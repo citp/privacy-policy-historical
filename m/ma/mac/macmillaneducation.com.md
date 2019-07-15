@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmillaneducation.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627081216id_/http%3A//www.macmillanenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillaneducation.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715072112id_/http%3A//www.macmillanenglish.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Macmillan English
 
