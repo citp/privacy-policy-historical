@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waimaotong.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511205755id_/https%3A//www.waimaotong.com/about/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waimaotong.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716000829id_/https%3A//www.waimaotong.com/about/3.html) for the most accurate reproduction.*
 
 # Privacy Policy_waimaotong
 
