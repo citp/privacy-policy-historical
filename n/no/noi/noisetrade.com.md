@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noisetrade.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628074116id_/https%3A//noisetrade.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisetrade.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715210714id_/https%3A//noisetrade.com/info/privacy) for the most accurate reproduction.*
 
 # NoiseTrade | Thousands of Albums. Completely Free. Completely Legal.
 
@@ -8,9 +8,9 @@ NoiseTrade LLC is an artist discovery platform that allows artists and authors t
 
 We collect personal information from the customer to provide user accounts, fan accounts, and email marketing to artists/labels, authors/publishers on https://noisetrade.com. We also send periodic marketing email messages to our customers, as do our artists, authors, labels, and publishing partners.
 
-Our Data Protection Officer and data protection representatives can be contacted directly here:
+Our Compliance Team can be contacted directly here:
 
-  * [dpo@noisetrade.com](mailto:dpo@noisetrade.com)
+  * [compliance@noisetrade.com](mailto:compliance@noisetrade.com)
 
 
 
@@ -26,11 +26,11 @@ IP address| Customer supplied
   
 ### The personal data we collect will be used for the following purposes:
 
-  * Email marketing 
+  * **Email marketing**
     * Periodic marketing emails from NoiseTrade.
     * Periodic contest emails from NoiseTrade.
     * Periodic marketing emails from artists / labels and/or authors / publishers who are contracted data processors for NoiseTrade.
-  * Tip Processing 
+  * **Tip Processing**
     * Payment and refund processing.
 
 
@@ -90,11 +90,11 @@ All of the above requests will be forwarded on should there be a third party inv
 
 ## Complaints
 
-In the event that you wish to make a complaint about how your personal data is being processed by NoiseTrade LLC (or third parties), or how your complaint has been handled, you have the right to lodge a complaint directly with the supervisory authority and NoiseTrade LLC’s data protection representatives Data Protection Officer.
+In the event that you wish to make a complaint about how your personal data is being processed by NoiseTrade LLC (or third parties), or how your complaint has been handled, you have the right to lodge a complaint directly with the supervisory authority and NoiseTrade LLC’s Compliance Team.
 
 ### The details for each of these contacts are:
 
- | Supervisory authority contact details| Data Protection Officer (DPO) contact details  
+ | Supervisory authority contact details| Compliance Team contact details  
 ---|---|---  
 Contact Name:| Information Commissioner's Office| Caedmon Judd  
 Address line 1:| Wycliffe House| 265 Canal Street  
@@ -102,7 +102,7 @@ Address line 2:| Water Lane| Suite 602
 Address line 3:| Wilmslow| New York, NY 10013  
 Address line 4:| Cheshire|    
 Address line 5:| SK9 5AF|    
-Email:| [https://ico.org.uk](https://ico.org.uk/)| [dpo@noisetrade.com](mailto:dpo@noisetrade.com)  
+Email:| [https://ico.org.uk](https://ico.org.uk/)| [compliance@noisetrade.com](mailto:compliance@noisetrade.com)  
 Telephone:| 0303 123 1113| (914) 222 5719  
   
 ## Online privacy statement
@@ -164,9 +164,9 @@ NoiseTrade LLC at your request, can confirm what information we hold about you a
 
 In many cases email communication is enough for verification. However, we may require further proof of your identity. NoiseTrade LLC accepts the following forms of ID when information on your personal data is requested: Passport, driving licence, birth certificate, utility bill (from last 3 months), current vehicle registration document, bank statement (from last 3 months), rent book (from last 3 months).
 
-### Contact details of the Data Protection Officer
+### Contact details of the Compliance Team
 
-  | Data Protection Officer contact details  
+  | Compliance Team contact details  
 ---|---  
 Contact Name:| Caedmon Judd  
 Address line 1:| 265 Canal Street  
@@ -174,7 +174,7 @@ Address line 2:| Suite 602
 Address line 3:| New York, NY 10013  
 Address line 4:|    
 Address line 5:|    
-Email:| [dpo@noisetrade.com](mailto:dpo@noisetrade.com)  
+Email:| [compliance@noisetrade.com](mailto:compliance@noisetrade.com)  
 Telephone:| (914) 222 5719  
   
 ### Children Under 13
@@ -193,4 +193,4 @@ We may use your email address without further consent for non-marketing or admin
 
 NoiseTrade takes commercially reasonable precautions to safeguard your information against theft and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
-If you have any questions about our Privacy Policy or our use of your information you can e-mail us at [dpo@noisetrade.com](mailto:dpo@noisetrade.com).
+If you have any questions about our Privacy Policy or our use of your information you can e-mail us at [compliance@noisetrade.com](mailto:compliance@noisetrade.com).
