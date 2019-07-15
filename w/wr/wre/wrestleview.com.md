@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestleview.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408155752id_/https%3A//www.wrestleview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestleview.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715194925id_/https%3A//www.wrestleview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WWE News and Results, RAW and Smackdown Results, Impact News, ROH News
 
