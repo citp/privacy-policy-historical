@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snakkle.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404072127id_/https%3A//www.snakkle.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snakkle.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715092756id_/https%3A//www.snakkle.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy
 
