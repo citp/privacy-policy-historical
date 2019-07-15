@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidearoom.net privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212074259id_/https%3A//www.theidearoom.net/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidearoom.net privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715201602id_/https%3A//www.theidearoom.net/disclosure-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - The Idea Room
 
@@ -56,7 +56,7 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 
 ## **FOR EUROPEAN ECONOMIC AREA RESIDENTS.**
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cda4a3aba28daca9b9a5bfa4bba8e3aea2a0). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#325b5c545d725356465a405b44571c515d5f). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
 ## **WE DO NOT DISCLOSE INFORMATION TO OUTSIDE PARTIES.**
 
