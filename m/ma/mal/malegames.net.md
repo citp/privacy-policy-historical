@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malegames.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515034617id_/http%3A//www.malegames.net/%3Fpage_id%3D4328) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malegames.net privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715123716id_/http%3A//www.malegames.net/%3Fpage_id%3D4328) for the most accurate reproduction.*
 
 # Privacy Policy – MaleGames is dedicated to all things in the visual medium and that of course included the world of video games. Our gaming section is dedicated to bringing you the latest news, reviews, and hard hitting editorials about the games and industry you care about. With the latest trailers, previews, and thoughts from our talented staff, we’re a great place to share your gaming passion
 
