@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightster.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901125319id_/https%3A//bravebison.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightster.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715135913id_/https%3A//bravebison.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brave Bison
 
