@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifieds4free.biz privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016063655id_/http%3A//classifieds4free.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifieds4free.biz privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715195915id_/http%3A//classifieds4free.biz/privacy.php) for the most accurate reproduction.*
 
 # 
 
