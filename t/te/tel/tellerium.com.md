@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellerium.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516064634id_/http%3A//tellerium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellerium.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715230315id_/http%3A//tellerium.com/privacy-policy) for the most accurate reproduction.*
 
 # Telerium.tv - Start your own livestream free and easy
 
