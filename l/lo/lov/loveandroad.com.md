@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandroad.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824160019id_/https%3A//loveandroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandroad.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715214538id_/https%3A//loveandroad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Love & Road
 
@@ -112,3 +112,5 @@ The Website does not knowingly collect any personally identifiable information f
 At any time, please contact us at contact [at] loveandroad [dot] com for questions related to this Privacy Policy. 
 
 Last updated: May 11, 2018.
+
+[](https://www.pinterest.com/pin/create/button/)
