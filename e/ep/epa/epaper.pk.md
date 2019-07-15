@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epaper.pk privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027225208id_/http%3A//www.epaper.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epaper.pk privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715185049id_/http%3A//www.epaper.pk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Today is Saturday, October 27, 2018
+Today is Monday, July 15, 2019
 
 Epaper.pk cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By visiting and registering at Epaper.pk.com portal you are accepting the practices outlined in this Privacy Policy. 
 
