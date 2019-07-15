@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captaincalculator.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221111253id_/https%3A//captaincalculator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captaincalculator.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715090151id_/https%3A//captaincalculator.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Captain Calculator
 
