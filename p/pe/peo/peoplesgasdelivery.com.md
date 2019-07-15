@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesgasdelivery.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411215516id_/https%3A//accel.peoplesgasdelivery.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesgasdelivery.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715023505id_/https%3A//accel.peoplesgasdelivery.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy (Peoples Gas)
 
