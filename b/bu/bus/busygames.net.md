@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busygames.net privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511234103id_/http%3A//www.busygames.net/%3Fpage_id%3D6707) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busygames.net privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715134516id_/http%3A//www.busygames.net/%3Fpage_id%3D6707) for the most accurate reproduction.*
 
 # Privacy Policy – World of Warcraft – Our Guide to Keeping Busy Until Battle for Azeroth Arrives – busygames.net
 
