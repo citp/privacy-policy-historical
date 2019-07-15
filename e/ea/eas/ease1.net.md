@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ease1.net privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002050916id_/http%3A//ease1.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ease1.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716000134id_/http%3A//ease1.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
