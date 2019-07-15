@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryrebel.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331110655id_/https%3A//countryrebel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryrebel.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715034800id_/https%3A//countryrebel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Country Rebel
 
@@ -30,7 +30,7 @@ ANY OF THE INFORMATION WE COLLECT FROM YOU MAY BE USED IN ONE OF THE FOLLOWING W
 
 THE EMAIL ADDRESS YOU PROVIDE FOR ORDER PROCESSING, MAY BE USED TO SEND YOU INFORMATION AND UPDATES PERTAINING TO YOUR ORDER OR REQUEST, IN ADDITION TO RECEIVING OCCASIONAL COMPANY NEWS, UPDATES, PROMOTIONS, RELATED PRODUCT OR SERVICE INFORMATION, ETC.
 
-**NOTE:** IF AT ANY TIME YOU WOULD LIKE TO UNSUBSCRIBE FROM RECEIVING FUTURE EMAILS, WE INCLUDE DETAILED UNSUBSCRIBE INSTRUCTIONS AT THE BOTTOM OF EACH EMAIL.
+ **NOTE:** IF AT ANY TIME YOU WOULD LIKE TO UNSUBSCRIBE FROM RECEIVING FUTURE EMAILS, WE INCLUDE DETAILED UNSUBSCRIBE INSTRUCTIONS AT THE BOTTOM OF EACH EMAIL.
 
   * TO ADMINISTER A CONTEST, PROMOTION, SURVEY OR OTHER SITE FEATURE
 
