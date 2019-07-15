@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxjcy.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516064019id_/http%3A//www.xxjcy.com/static/privacy_policy-1968.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxjcy.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715154203id_/http%3A//www.xxjcy.com/static/privacy_policy-1968.html) for the most accurate reproduction.*
 
 # Privacy Policy of Our Site - About Us
 
