@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceworldreport.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506173124id_/https%3A//www.scienceworldreport.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceworldreport.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715101017id_/https%3A//www.scienceworldreport.com/privacypolicy) for the most accurate reproduction.*
 
 # Science World Report
 
