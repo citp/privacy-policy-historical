@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbebo.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131164136id_/http%3A//youbebo.com/index.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbebo.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715153107id_/http%3A//youbebo.com/index.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Go47.com
 
