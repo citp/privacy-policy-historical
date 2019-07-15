@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tellerium.com privacy policy that was archived on 2019-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190516064634id_/http%3A//tellerium.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tellerium.com privacy policy that was archived on 2019-07-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190715230315id_/http%3A//tellerium.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- Head --><head>
     <meta charset="utf-8">
@@ -365,66 +365,67 @@
             </div>
         </div>
     </div>
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA-71190659-1', 'auto');
-        ga('send', 'pageview');
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-143062966-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-143062966-1');
     </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 
     <!-- Form validation JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqBootstrapValidation/1.3.7/jqBootstrapValidation.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.6/typed.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.6/typed.min.js"></script>
 
 
-<script>
-text = $('#embed_code').val();
+    <script>
+    text = $('#embed_code').val();
 
-$(document).on('click', '.embd', function () {
-  $(".embd").removeClass("btn-primary");
-  $(this).toggleClass("btn-primary");
-  switch ( $( ".embd" ).index( this ) ) {
-    case 0 :
-      $('#embed_code').val(text);
-      break;
-    case 1 :
-      ntext = text.replace("360", "480");
-      $('#embed_code').val(ntext);
-      break;
-    case 2 :
-      ntext = text.replace("640", "720").replace("360", "480");
-      $('#embed_code').val(ntext);
-      break;
-    case 3 :
-      ntext = text.replace("640", "1280").replace("360", "720");
-      $('#embed_code').val(ntext);
-      break;
-    case 4 :
-      ntext = text.replace("640", "1920").replace("360", "1080");
-      $('#embed_code').val(ntext);
-      break;
-  }
+    $(document).on('click', '.embd', function () {
+      $(".embd").removeClass("btn-primary");
+      $(this).toggleClass("btn-primary");
+      switch ( $( ".embd" ).index( this ) ) {
+        case 0 :
+          $('#embed_code').val(text);
+          break;
+        case 1 :
+          ntext = text.replace("360", "480");
+          $('#embed_code').val(ntext);
+          break;
+        case 2 :
+          ntext = text.replace("640", "720").replace("360", "480");
+          $('#embed_code').val(ntext);
+          break;
+        case 3 :
+          ntext = text.replace("640", "1280").replace("360", "720");
+          $('#embed_code').val(ntext);
+          break;
+        case 4 :
+          ntext = text.replace("640", "1920").replace("360", "1080");
+          $('#embed_code').val(ntext);
+          break;
+      }
 
-});
-</script>
+    });
+    </script>
 
-<script>
-$('body').on('click.modal.data-api', '[data-toggle="modal"]', function(){ $($(this).data("target")+' .modal-content').load($(this).attr('href')); });
-    
-function togglePassword() {
-    var x = document.getElementById("streamkey");
-    if (x.type === "password") {
-        x.type = "text";
-    } else {
-        x.type = "password";
+    <script>
+    $('body').on('click.modal.data-api', '[data-toggle="modal"]', function(){ $($(this).data("target")+' .modal-content').load($(this).attr('href')); });
+
+    function togglePassword() {
+        var x = document.getElementById("streamkey");
+        if (x.type === "password") {
+            x.type = "text";
+        } else {
+            x.type = "password";
+        }
     }
-}
-</script>
+    </script>
 
 
 </body></html>
