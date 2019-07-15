@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the curated.co privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828082336id_/https%3A//curated.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curated.co privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716004948id_/https%3A//curated.co/privacy) for the most accurate reproduction.*
 
 # Curated: Grow your audience by collecting and sharing engaging content
 
-This privacy policy applies to Curated Software ("us", "we", or "our"), which operates the [Curated](http://curated.co/) website (the "Service").
+This privacy policy applies to Curated Software ("us", "we", or "our"), which operates the [Curated](https://curated.co/) website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
