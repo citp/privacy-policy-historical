@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329060204id_/https%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715071902id_/https%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Brian Tracy
 
