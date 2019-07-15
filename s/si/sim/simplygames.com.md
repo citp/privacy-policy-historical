@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015125441id_/http%3A//www.simplygames.com/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715110857id_/https%3A//www.simplygames.com/terms-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions/Privacy Policy | SimplyGames
 
