@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urduplanet.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410093944id_/http%3A//www.urduplanet.com/showthread.php%3Ft%3D88971) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urduplanet.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715164710id_/http%3A//www.urduplanet.com/showthread.php%3Ft%3D88971) for the most accurate reproduction.*
 
 # Privacy Policy - Urdu Planet Forum -Pakistani Urdu Novels and Books| Urdu Poetry | Urdu Courses | Pakistani Recipes Forum
 
