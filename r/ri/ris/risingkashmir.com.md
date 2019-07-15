@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the risingkashmir.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515032538id_/http%3A//risingkashmir.in/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risingkashmir.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715080312id_/http%3A//risingkashmir.in/pages/privacy-policy) for the most accurate reproduction.*
 
 # Rising Kashmir
 
