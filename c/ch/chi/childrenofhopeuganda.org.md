@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childrenofhopeuganda.org privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514175011id_/http%3A//www.childrenofhopeuganda.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrenofhopeuganda.org privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715230747id_/http%3A//childrenofhopeuganda.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
