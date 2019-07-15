@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwnewspress.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630054234id_/https%3A//www.stwnewspress.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwnewspress.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715072316id_/https%3A//www.stwnewspress.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | stwnewspress.com
 
@@ -78,6 +78,6 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-[](http://www.stwnewspress.com/readerschoice)
+Visitation: Sunday 7/14/19, 2pm-6pm and Monday, 7/15/19, 9am-8pm with family greeting guests from 6pm-8pm at Dighton Marler Funeral Home, Perry . Celebration of Life on Tuesday, 7/16/19 at 1pm at the First Christian Church in Perry. 
 
-Wayne passed away Friday, June 14, 2019 at his residence. Graveside services will be 10:30AM Friday, June 28, 2019 at Sunset Memorial Gardens, Stillwater. Services have been entrusted to the care of Dighton-Marler Funeral Home, Stillwater. 
+Jamie Harney, 30, died July 9th, 2019. Visitation will be 12:00-2:00pm on Saturday, July 13, 2019 at Strode Funeral Home. Services will be 12:00pm Sunday, July 14, 2019 at Otoe-Missouri Building, Red Rock. Burial in Otoe-Missouri Cemetery. 
