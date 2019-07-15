@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickinson.edu privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531024342id_/https%3A//www.dickinson.edu/info/20043/about/3700/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickinson.edu privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715214222id_/https%3A//www.dickinson.edu/info/20043/about/3700/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement | Privacy Statement | Dickinson College
 
