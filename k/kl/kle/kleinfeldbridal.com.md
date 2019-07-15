@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kleinfeldbridal.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411230149id_/https%3A//www.kleinfeldbridal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleinfeldbridal.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715145814id_/https%3A//www.kleinfeldbridal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kleinfeld Bridal
 
