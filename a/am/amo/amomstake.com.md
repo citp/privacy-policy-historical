@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amomstake.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416004951id_/https%3A//www.amomstake.com/disclosure-privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amomstake.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715112803id_/https%3A//www.amomstake.com/disclosure-privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Disclosure, Privacy Policy, Terms & Conditions - A Mom's Take
 
