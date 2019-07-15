@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123125954id_/https%3A//wearpact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715130656id_/https%3A//wearpact.com/privacy) for the most accurate reproduction.*
 
-# Super Soft Organic Apparel | Wear PACT
+# Privacy Policy | Pact
 
 ###### Our Commitment To Privacy
 
