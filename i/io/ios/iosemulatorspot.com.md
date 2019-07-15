@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iosemulatorspot.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516082320id_/http%3A//www.iosemulatorspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iosemulatorspot.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715232321id_/http%3A//www.iosemulatorspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iOSEmulatorSpot
 
