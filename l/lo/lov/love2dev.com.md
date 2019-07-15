@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love2dev.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608091238id_/https%3A//love2dev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love2dev.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715150645id_/https%3A//love2dev.com/privacy) for the most accurate reproduction.*
 
 # Love2Dev Customer Privacy Statement
 
