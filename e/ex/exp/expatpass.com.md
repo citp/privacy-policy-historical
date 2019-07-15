@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expatpass.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105175930id_/http%3A//www.expatpass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatpass.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715161554id_/http%3A//www.expatpass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ExpatPass
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Contact Us](https://web.archive.org/cdn-cgi/l/email-protection#3f574b4b4f051010484848115a474f5e4b4f5e4c4c115c5052105c50514b5e5c4b124a4c10).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Contact Us](mailto:http://www.expatpass.com/contact-us/).
 
 At www.expatpass.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.expatpass.com and how we use it.
 
