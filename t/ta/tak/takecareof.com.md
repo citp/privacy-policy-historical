@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takecareof.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628104239id_/https%3A//takecareof.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takecareof.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715133212id_/https%3A//takecareof.com/privacy) for the most accurate reproduction.*
 
 # Care/of: Personalized Daily Vitamin Packs
 
