@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websvalue.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513151828id_/http%3A//www.websvalue.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websvalue.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716015608id_/http%3A//www.websvalue.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WebsValue.com
 
