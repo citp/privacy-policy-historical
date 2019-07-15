@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606173228id_/http%3A//www.hays.com/general-content/privacy-policy-428297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715130300id_/http%3A//www.hays.com/general-content/privacy-policy-428297) for the most accurate reproduction.*
 
 # Privacy Policy | US jobs and recruitment | Hays
 
