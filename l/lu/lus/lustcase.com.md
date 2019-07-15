@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lustcase.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818031024id_/https%3A//cdn.lustcase.com/html/pp.html%3F2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lustcase.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715160526id_/https%3A//cdn.lustcase.com/html/pp.html%3F2) for the most accurate reproduction.*
 
 # lustcase.com Privacy Policy
 
