@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficadlinks.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618100917id_/http%3A//www.trafficadlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficadlinks.com privacy policy that was archived on 2019-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190715200150id_/http%3A//www.trafficadlinks.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Ad Links by Worldprofit Free Traffic Exchange | Free Advertising Free Web Traffic
 
