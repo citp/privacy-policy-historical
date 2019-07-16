@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emagicone.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518202224id_/https%3A//emagicone.com/privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagicone.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716134537id_/https%3A//emagicone.com/privacy-statements) for the most accurate reproduction.*
 
 # eMagicOne | Privacy Statement - eMagicOne
 
