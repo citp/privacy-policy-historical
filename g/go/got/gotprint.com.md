@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotprint.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624225701id_/https%3A//www.gotprint.com/store/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotprint.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717012137id_/https%3A//www.gotprint.com/store/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
