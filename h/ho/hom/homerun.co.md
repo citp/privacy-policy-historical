@@ -1,84 +1,32 @@
-> *The following text is extracted and transformed from the homerun.co privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221101725id_/https%3A//www.homerun.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homerun.co privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717011846id_/https%3A//www.homerun.co/privacy-statement) for the most accurate reproduction.*
 
 # Homerun: Privacy Policy
 
-Homerun protects your personal data and privacy. Therefore, we conduct our online recruitment service in compliance with the applicable laws on data privacy such as the Dutch Data Protection Act ( _Wet bescherming persoonsgegevens_ ).
+We are Homerun B.V., located at Singel 542, 1017 AZ Amsterdam, The Netherlands. Trade Register number 66911524. Our VAT number is NL856750189B01. Phone: +31 20 261582. Email: [info@homerun.co](mailto:info@homerun.co). We offer recruitment software that enables our customers to create a career site and personalised job openings. 
 
-This document sets out what kind of personal data we collect and how we store, protect and use your personal data. The conditions apply to users of Homerun as well as to non-users (visitors of our website). Homerun therefore recommends that you read this Privacy Policy carefully.
+This Privacy Statement applies to processing of personal data on our public websites including, but not limited to: www.homerun.co, www.artofwork.co, library.artofwork.co, interviews.artofwork.co, playbooks.homerun.co, updates.homerun.co, help.homerun.co, blog.homerun.co, developers.homerun.co, www.getrevue.co/profile/homerun (together the “Websites”). It is not related to processing of candidate data by our customers on their respective career sites, and it also does not relate to the use of our own career site at jobs.homerun.co. This document is intended to inform you, as a user of our Websites, about which personal data we collect, how we use this data and for which purposes we do that.
 
-#### 1\. What information does Homerun collect and process?
+We comply with all provisions of the General Data Protection Regulation (GDPR) of the European Union (EU).
 
- **Homerun account**  
-In order to make use of the services offered by Homerun, it is necessary to create a personal Homerun account. When you create such an account, you enter certain information about yourself. As a candidate your name, surname and email address are obligatory. As a fellow worker of a company with a Homerun account (“ **Fellow worker** ”) your name, surname, email address and company name are obligatory. You are not obliged to provide all the data. This information is sufficient for you to use Homerun.
+If you are younger than sixteen years, you cannot use our Websites without the permission of your parents or legal guardian.
 
- **Automatically Generated Data**  
-Homerun requires certain information in order for the Homerun service to work as optimally as possible (for example, to display web pages correctly and to keep the website secure). That is why Homerun collects automatically generated data about your browsing behaviour during your use of its service. Examples of collected information are the type of browser you are using and the pages on the Homerun website you visit.
+ **We collect the following personal data:**  
+\- Your email address, if you provide it. When you provide your email address in order to subscribe to our newsletter, you provide consent for us to send email newsletters relating to our services.   
+\- Conversations you have with our staff through the chat functionality on some of our websites. We use this assist you in the use of the website or our services. We do this on the basis of our legitimate business interests, specifically informing you about the functionality of our software and/or selling our software to you. The chat functionality is provided by Intercom, which is based in the United States of America, and adheres to the EU-U.S. Privacy Shield Framework.
 
-#### 2\. Cookies
+We will keep your personal data only for the period necessary to fulfil the purposes for which it was collected or processed, unless we have to keep it for legitimate business, tax or legal purposes. For newsletter subscribers, this means we store your email address until you withdraw consent by unsubscribing, which can be done at any time.
 
-When using the services offered by Homerun, various cookies are saved on your computer, which can then be accessed. Cookies are small pieces of information (in the form of text) that a server sends to the browser with the intention that the browser sends this information back to the server the next time a user visits the website. Cookies of Homerun cannot damage your computer or the files saved on it. Using your browser, you can easily remove these cookies.
+We will not share your personal data with third parties unless it is needed in order to provide the requested service to you, or when we have a legal obligation to do so. Any third parties will process your personal data in conformance with this statement.
 
-When you visit the Homerun website, Homerun cookies and cookies from third parties may be saved on your computer. Homerun cookies are made by or for Homerun and are stored on your computer by Homerun. Homerun has access to these cookies. This type of cookies is called ‘first party cookies’. Such cookies are used by Homerun, for example, to remember your language settings or to remember your account information.
+You have the right to obtain from us: information about how we process your personal data, as well as a copy of the personal data which we have stored about you. You also have the right to correct, update, shield or delete your personal data in our records, as well as data portability of your personal data to a third party, and to report any misuse of your personal data.
 
-Cookies from third parties are made by third parties, and are stored on your computer by third parties. Third parties have access to these cookies. This type of cookies is called ‘third party cookies’. It is important to know that Homerun has no authority over and/or knowledge of the content and operation of such third party cookies. Furthermore, Homerun cannot be held responsible for these cookies.
+If you have any questions, comments or concerns about how we handle personal data or if you wish to make use of your rights described above, please contact us at privacy@homerun.co. If you have any complaints about this statement or about how we handle your personal data you can also file a complaint at the Dutch Data Protection Agency (Autoriteit Persoonsgegevens). For more information see [this page](https://autoriteitpersoonsgegevens.nl/).
 
-You can configure your browser so that you do not receive any cookies the next time you use Homerun. However, it is then possible that you will no longer be able to make full use of Homerun or access (parts of) the Homerun service.
+We may update this statement at a later stage. If we make significant changes, we will post a notification on our Websites; the new statement will be effective immediately upon posting. By continuing to access our Websites, you agree to be bound by the revised statement.
 
-If you use cookies, do not forget to log out of Homerun f you access it on a public computer. Also, keep your password secret to avoid others using your Homerun account without your consent.
+ **Cookies**  
+Cookies are text files that are set by our Website(s) into the browser on your computer or mobile device. The next time you visit, those cookies allow us to recognise your device. We use cookies across our Websites mostly for analytical reasons: to analyse visitor behaviour (e.g. which pages are viewed often) in order to optimise the usability of the Websites.
 
-#### 3\. How is the information that you provide shared?
+We make use of the following third party tools which use cookies. We use Google Tag Manager to implement third party tools. We use the Facebook pixel, Twitter pixel, LinkedIn pixel and Google AdWords Remarketing pixel in order to measure conversion of our advertisements on social media. For general website analytics we use Google Analytics. For website usage analytics we make use of MixPanel and Hotjar. The website is translated through use of Localize, which uses functional cookies to remember the preferred language. We use YouTube and Vimeo to display product videos. The chat functionality is provided by Intercom and uses functional cookies to remember earlier conversations. Our Help Center articles are served by Zendesk.
 
-Information about our users is an integral part of our business. Homerun does not rent or sell your personal information. The information of your account, though, is available to other users when you log in to your account (except for your password, also Homerun does not have access to your password). As a candidate your information will be shared with potential companies where you apply. As a Fellow worker your information will be shared with colleagues of your company. The address of a user will not be shared with other users without consent. For the other information of your account, we urge you to think carefully about including any specific information you may deem private in your account, messages or other content (location or otherwise) that you create in the Service. Homerun may use your information only as described in this Privacy Policy and uses the information for the following purposes:
-
-  * To provide Homerun services.
-
-
-
-Homerun uses the information to provide its services, such as to operate the Homerun website and service and to provide additional services in the future.
-
-  * To communicate with you about Homerun and to send you information concerning Homeruns own services.
-
-
-
-Homerun uses your data for example, to let you know when changes are made in the application procedure.
-
-We at Homerun do not like spam and assume that you do not either. Therefore, Homerun will send you information regarding the Homerun services only when we think you will appreciate such information. If you do not wish to receive such e-mails, please indicate this in your profile settings.
-
-  * To configure Homerun to your wishes and needs
-
-
-
-Homerun uses the information about you so that it can better respond to your wishes and needs. For example: for all applicants, we can store preferences for different application procedures.
-
-  * For protection purposes and to generate anonymous statistical data
-
-
-
-Your IP address is included in the automatically generated data. Homerun records these addresses to determine which computers visit the Homerun service in order to protect the Homerun website against hacking. This information can also be used to find out the culprits if Homerun users are harassed or if fake profiles are used. Homerun also uses the automatically generated data to generate anonymous user statistics. Third parties that produce user statistics and perform web analyses for Homerun may obtain automatically generated data, including your IP address.
-
- **Use by third parties**  
-Homerun will only provide your personal data to third parties if it is obliged to do so on account of national or international laws, case law and/or regulations, if considers it necessary to do so in defence of its own rights or if you have given permission to do so.
-
- **Third party services**  
-On the Homerun website and the Homerun service, third party services are also offered (such as: the services of our payment service provider). If you use such services, it is possible that you have to give your personal information to a party other than Homerun. The Homerun website may also include hyperlinks (for instance to our payment service), via which you leave Homerun and end up on a third party website. Homerun has no authority over third party websites and/or the services to which you are linked. It is, therefore, possible that a different privacy policy is applicable to the use of these third party services and/or websites. This Homerun Privacy Policy only relates to (personal) data which have been obtained via the Homerun website or Homerun service. Homerun does not accept any responsibility or liability for (the operation and/or content of) third party websites and services.
-
-#### 4\. How does Homerun protect your personal information?
-
-Homerun takes appropriate technical and organizational measures to protect your (personal) information against loss or any form of unlawful use. For example, passwords are stored encrypted so that nobody has access to them, not even the people who work for Homerun.
-
-#### 5\. Transfer of data to countries outside the EU
-
-For technical and operational reasons, it may be necessary for your (personal) data to be transferred to (the servers of) companies, such as Google, affiliated to Homerun located in the United States or other countries outside of Europe. Since legislation concerning data protection may then not offer the same protection as in the European Union, you hereby agree that your (personal) information can be transferred to the United States or another country outside of Europe.
-
-#### 6\. Can this Privacy Policy be changed?
-
-It is possible for the Privacy Policy to be amended in the future. That would then be mentioned on this page. So it is recommended to regularly have a look at this page.
-
-#### 7\. Questions?
-
-Privacy rightly is a sensitive subject. We at Homerun have written this Privacy Statement in an effort to make it as non-legal and readable as possible. The internet’s a beautiful place, but it’s very important you retain maximum control over your personal data. For that reason, you can always view your (personal) data in the settings of your profile and, if necessary, make changes or delete them.
-
-Should you, however, for still have questions about privacy – for whatever reaons – please feel free to us direct at [info@homerun.co](mailto:info@homerun.co) or fill out the form on our website to ask your question direct at us,
-
- **Homerun**  
-February 2015
+You can use the settings within your browser to control the cookies that are set on your computer.  To learn more, please look at the cookie settings available in your specific web browser(s): [Google Chrome](https://support.google.com/chrome/answer/95647) \- [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) \- [Internet Explorer](https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies) \- [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac). You may also visit [youronlinechoices.eu](http://youronlinechoices.eu/) for details on how to remove cookies of specific parties and for further information on cookies.
