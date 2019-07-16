@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynewestaddiction.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512011514id_/http%3A//www.mynewestaddiction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewestaddiction.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716051442id_/http%3A//www.mynewestaddiction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Newest Addiction
 
