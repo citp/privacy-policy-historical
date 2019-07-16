@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the televisionfinance.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515112817id_/http%3A//www.televisionfinance.net/%3Fpage_id%3D5619) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionfinance.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716193950id_/http%3A//www.televisionfinance.net/%3Fpage_id%3D5619) for the most accurate reproduction.*
 
 # Privacy Policy – The latest Business News: breaking personal finance, company, financial and economic news, plus insight and analysis into UK and global markets.
 
