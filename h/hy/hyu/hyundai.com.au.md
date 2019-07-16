@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305061709id_/https%3A//www.hyundai.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716131348id_/https%3A//www.hyundai.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hyundai Australia
 
