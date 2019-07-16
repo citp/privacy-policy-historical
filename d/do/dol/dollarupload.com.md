@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarupload.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203165445id_/http%3A//dollarupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarupload.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716155126id_/http%3A//dollarupload.com/privacy.php) for the most accurate reproduction.*
 
 # Make Money For Every Download and Install | Pay Per Download | Pay Per Install | DollarUpload
 
@@ -118,4 +118,4 @@ If any provision of this Privacy Policy is found to be illegal, void, or unenfor
 
 This page was lasted updated on March 31, 2015. 
 
-[Contact Us](https://web.archive.org/web/20181203165445id_/http%3A//dollarupload.com/contact.php)
+[Contact Us](https://web.archive.org/web/20190716155126id_/http%3A//dollarupload.com/contact.php)
