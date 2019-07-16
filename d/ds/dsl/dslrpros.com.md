@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dslrpros.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920221943id_/http%3A//www.dslrpros.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslrpros.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716113922id_/https%3A//www.dslrpros.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
+# DSLRPros Online Privacy Policy Agreement
 
 **Privacy Policy**
 
-By purchasing products or services provided by Neat Brands, LLC., You, the Customer, agree to the following policies:
+By purchasing products or services provided by Enterprise UAS, LLC., You, the Customer, agree to the following policies:
 
 **ONLINE PRIVACY POLICY AGREEMENT**
 
-Neat Brands, LLC. (DSLRpros), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with DSLRpros of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+Enterprise UAS, LLC. (DSLRpros), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with DSLRpros of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
 THEREFORE, this Privacy Policy Agreement shall apply to DSLRpros, and thus it shall govern any and all data collection and usage thereof. Through the use of http://dslrpros.com you are herein consenting to the following data procedures expressed within this agreement.
 
@@ -43,7 +43,7 @@ DSLRpros does not knowingly collect personal identifiable information from child
 
 **Unsubscribe or Opt-Out**
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to info@dslrpros.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. If you do not wish to receive marketing information, email us at SUPPORT@ DSLRPros.com. Email messages will also provide you with an opportunity to opt-out of receiving this information. Please note, changes to your preference may not be effective immediately.
 
 **Links to Other Web Sites**
 
@@ -65,4 +65,4 @@ Through the use of this website, you are hereby accepting the terms and conditio
 
 **How to Contact Us**
 
-If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us via email at info@dslrpros.com
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us via email at support@dslrpros.com
