@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pick-up-artist-forum.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910160756id_/http%3A//www.pick-up-artist-forum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pick-up-artist-forum.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717015602id_/https%3A//www.pick-up-artist-forum.com/privacy.php) for the most accurate reproduction.*
 
-# #1 PUA Forum - Become The Ultimate Pick Up Artist
+# - PUA Forum
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
