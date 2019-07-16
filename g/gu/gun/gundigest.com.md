@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gundigest.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422074343id_/https%3A//gundigest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundigest.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716165228id_/https%3A//gundigest.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gun Digest
 
