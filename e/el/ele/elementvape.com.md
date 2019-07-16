@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementvape.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502054256id_/https%3A//www.elementvape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementvape.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716210345id_/https%3A//www.elementvape.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,7 +59,7 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 
 **Online Policy Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. Terms and Conditions Please also visit our [Terms and Conditions](https://www.elementvape.com/terms-and-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+This online privacy policy applies only to information collected through our website and not to information collected offline. Terms and Conditions Please also visit our [Terms and Conditions](http://elementvape.stage55.endertech.net/terms-and-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your consent**
 
