@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeintwo.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510085611id_/http%3A//lifeintwo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeintwo.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716040710id_/http%3A//lifeintwo.com/info/privacy) for the most accurate reproduction.*
 
 # Life in Two
 
@@ -41,8 +41,8 @@ Sometimes LIFEINTWO can give general, social-demographic information to some of 
 Contents published by members in their personal ads, search criteria and presentation are accessible at LIFEINTWO site and by email (newsletter). Furthermore, this information can be broadcasted by LIFEINTWO or LIFEINTWO's partners through the newsletters, other web sites, any electronic means of communication (email, SMS, etc), by audio-visual means (radio, television, etc.) or press (newspapers, magazines, etc).
 
 Please refer to the provisions of art. 5 "Intellectual property" for anything related to contents intellectual property rights. Members have the right to delete such content from the site at any time by terminating their contract with LIFEINTWO, according to the provisions of art. 5 of the terms and conditions: "Termination of contract and profile removal". Since it concerns information available in the announcement, in the research criteria and in the Member's presentation, the data will be definitively deleted only after the next update or after the next modification of the communication means (printed, audiovisual or digital) which include the Member's contents.   
-Pursuant to applicable law on data protection in the European Economic Area (EEA), the data controller of the website is LIFEINTWO TEKKA DIGITAL SA based in Balestra 12, 6900 Lugano, Switzerland (fax: +41 91 604 6487)  
-The member expressly authorizes TEKKA DIGITAL SA to transfer the information provided to LIFEINTWO and the above mentioned rights and benefits to LIFEINTWO's partners and successors.
+Pursuant to applicable law on data protection in the European Economic Area (EEA), the data controller of the website is LIFEINTWO TEKKA DIGITAL SA based in Balestra 12, 6928 Manno, Switzerland (fax: +41 91 604 6487)  
+The member expressly authorizes SKIB SAGL to transfer the information provided to LIFEINTWO and the above mentioned rights and benefits to LIFEINTWO's partners and successors.
 
 ## 1.4. Purpose of data processingRead >>
 
@@ -51,7 +51,7 @@ Furthermore, LIFEINTWO processes Members' information for the following purposes
 
 ## 1.5. Person in charge of the data processingRead >>
 
-The person in charge of Processing is TEKKA DIGITAL SA company, the provider of LIFEINTWO service, headquartered in Via Balestra 12, 6900 Lugano, Switzerland (fax: +41 91 604 6487). The data and www.LIFEINTWO.com site are protected at the headquarters of the Person in charge of the data processing.  
+The person in charge of Processing is SKIB SAGL company, the provider of LIFEINTWO service, headquartered in Via Pobiette, 11, 6928 Manno, Switzerland (fax: +41 91 604 6487). The data and www.LIFEINTWO.com site are protected at the headquarters of the Person in charge of the data processing.  
 The Member can contact at any time, by sending an email to the [Support](http://www.help-tkd.com/en_GB/contact/index/pid/21), to the Person in charge of data processing, in order to obtain a confirmation whether there exists personal data related to him/her, even if he/she has not signed up to become a member yet and have them communicated in an intelligible way.  
 Furthermore, the Member has the right to ask the Person in charge of Personal Data Processing to delete his/her personal data (by that, it is means to destroy such information without any possibility to restore it), transform it into anonymous form (changing the data into anonymous format) or to freeze the treatment of their personal data (conserving the data by temporarily suspending any kind of processing.)   
 The Member has the right to object to the processing of any personal data concerning him/her, in whole or partly, on legitimate grounds, even if they are relevant to the purpose of the collection, or they can object to the processing of personal data concerning him/her to send advertisement, direct sales, conduct market research or commercial communication.
