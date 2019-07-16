@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionweekonline.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530070551id_/https%3A//fashionweekonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionweekonline.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716114402id_/https%3A//fashionweekonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fashion Week Online®
 
