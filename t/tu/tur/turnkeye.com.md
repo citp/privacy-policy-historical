@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turnkeye.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023012913id_/http%3A//astrio.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnkeye.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716033237id_/https%3A//astrio.net/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ASTRIO
 
 #### We respect your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy.
 
