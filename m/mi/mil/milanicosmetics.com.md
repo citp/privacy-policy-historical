@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512175526id_/https%3A//www.milanicosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716044015id_/https%3A//www.milanicosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Milani Cosmetics
 
