@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523110040id_/https%3A//www.travelport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716065043id_/https%3A//www.travelport.com/privacy) for the most accurate reproduction.*
 
 # Travelport Travel Commerce Platform privacy policy for the GDS | Travelport
 
