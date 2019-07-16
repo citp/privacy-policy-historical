@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamebook.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523021231id_/http%3A//www.lamebook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamebook.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716195618id_/http%3A//www.lamebook.com/privacy) for the most accurate reproduction.*
 
 # Lamebook – Funny Facebook Statuses, Fails, LOLs and More – The Original » Privacy
 
