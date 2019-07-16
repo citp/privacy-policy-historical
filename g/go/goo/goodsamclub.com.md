@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413030842id_/https%3A//www.goodsam.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716212357id_/https%3A//www.goodsam.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Rights | Good Sam Club
 
