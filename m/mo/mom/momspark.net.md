@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momspark.net privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327120701id_/https%3A//momspark.net/mom-sparks-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momspark.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716172851id_/https%3A//momspark.net/mom-sparks-privacy-policy) for the most accurate reproduction.*
 
 # Mom Spark's Privacy Policy | Mom Spark - Mom Blogger
 
