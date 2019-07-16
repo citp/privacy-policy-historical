@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturalindia.net privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324083357id_/https%3A//www.culturalindia.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturalindia.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716195417id_/https%3A//www.culturalindia.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Culturalindia.net
 
