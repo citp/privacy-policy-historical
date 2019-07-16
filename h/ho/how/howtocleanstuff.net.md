@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525054809id_/http%3A//www.howtocleanstuff.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716173630id_/http%3A//www.howtocleanstuff.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » How To Clean Stuff.net
 
@@ -7,10 +7,6 @@ Hi! The section below is our privacy statement. It tells you what information we
 The short version is: We collect only the information you freely give us, and we use it only to improve the site. We currently do not send out emails to our users unless requested, and we never sell your information to other companies. You will not be spammed by us!
 
 ## Privacy Policy Statement
-
-  
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/howtocleanstuff.net).  
-
 
 This is the website of HowToCleanStuff.net.
 
