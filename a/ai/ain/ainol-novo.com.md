@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ainol-novo.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515061232id_/http%3A//www.ainol-novo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ainol-novo.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716030646id_/http%3A//www.ainol-novo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
