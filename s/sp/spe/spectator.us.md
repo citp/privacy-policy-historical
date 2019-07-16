@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectator.us privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212152629id_/https%3A//spectator.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectator.us privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716114041id_/https%3A//spectator.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spectator USA
 
@@ -116,4 +116,4 @@ SW1H 9HP.
 
 and we will make any efforts we can to determine and solve the problem promptly.
 
-_This Policy was last updated on 18th May 2017._
+ _This Policy was last updated on 18th May 2017._
