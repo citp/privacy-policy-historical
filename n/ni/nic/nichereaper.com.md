@@ -1,5 +1,412 @@
-> *The following text is extracted and transformed from the nichereaper.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922204147id_/http%3A//nichereaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichereaper.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716205244id_/http%3A//mattg.com/legal) for the most accurate reproduction.*
 
-# Privacy Policy | NicheReaper WP
+# Home
 
-Privacy Policy NicheReaper.com WEBSITE PRIVACY POLICY The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to NicheReaper.com to help our customers retain their privacy when they take advantage of all the Internet has to offer. We believe your business is no one else’s. Your privacy is important to you and to us. So we’ll protect the information you share with us. To protect your privacy, NicheReaper.com follow different principles in accordance with worldwide practices for customer privacy and data protection. We won’t sell or give away your name, mail address, phone number, email address or any other information to anyone. We’ll use state-of-the-art security measures to protect your information from unauthorized users. NOTICE We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create your membership and/or subscribe to member updates or other in house mail. We use your Personal Information for four primary purposes: To make the site easier for you to use by not having to enter information more than once. To help you quickly find software, services or information. To help us create content most relevant to you. To alert you to product upgrades, special offers, updated information and other new services from NicheReaper.com CONSENT If you choose not to register or provide personal information, you cannot access the member area. If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our member update or special offers. If you do not want us to communicate with you about other offers regarding NicheReaper.com products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from NicheReaper.com. ACCESS We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time from your member profile. There, you can: View and edit personal information you have already given us. Tell us whether you want us to send you member updates or special offers. SECURITY NicheReaper.com  has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser. These security measures are in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. NicheReaper.com strictly protect the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the USA or any other country where NicheReaper.com, its subsidiaries, affiliates or agents are located. You also have a significant role in protecting your information. No one can share these see or edit your personal information without knowing your user name and password, so do not with others. NOTICE CONCERNING CHILDREN AND TO PARENTS We adhere to the Children’s Privacy Act. You must be 18 years of age to join or use NicheReaper.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission (www.ftc.gov ). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User’s account and delete any personal information. ENFORCEMENT If for some reason you believe NicheReaper.com has not adhered to these principles, please notify us at: support @ nichereaper.com or by certified mail, return receipt requested, Diva Media Ltd, PO Box 5134, Leamington Spa, CV31 9HA, United Kingdom. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line. ELECTRONIC PRODUCT REGISTRATION When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you’ve already left with us (we call that information your personal profile). If you haven’t previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can click on Update Profile, and edit any of the Personal Information in your profile. If you haven’t already created a membership, we will ask you to do so. This ensures that only you can access your information. CUSTOMER PROFILES As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification username, which helps us ensure that only you can access your profile. When you register, you create your profile, your username and password. It is your passport to seamless travel across your member area, allowing you to download software and order more plugin modules without having to fill out registration forms with information you’ve already provided. Even if you switch computers, you won’t have to re-register – just use your Registration ID to identify yourself. WHAT WE DO WITH THE INFORMATION YOU SHARE When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, our 3rd party payment processors such as paypal and ClickBank will ask for your credit card number and billing address. They use this information only to bill you for the product(s) you order at that time. We occasionally hire other companies to provide limited services on our behalf, including programming, answering customer questions about products or services, sending email and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION Except as otherwise provided in this Privacy Policy, NicheReaper.com will not share your personal information with any third parties without your consent. NicheReaper.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on NicheReaper.com; (b) protect and defend the rights or property of NicheReaper.com and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site. If your information is lost or stolen, you must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly. The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We also make email services, bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, photo albums, file cabinets and/or other message or communication facilities designed to enable User to communicate with others (each a “Communication Service” and collectively “Communication Services”) available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information. UPDATES AND CHANGES TO PRIVACY POLICY We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
+**The following describes the Privacy Policy for https://mattg.com website which is owned and operated by Matt Garrett Ltd.**
+
+This notice provides you with details of how we collect and process your personal data through your use of our site https://mattg.com, including any information you may provide through our site when you purchase a product or service, sign up to our newsletter or take part in a prize draw or contest.
+
+By providing us with your data, you warrant to us that you are over 18 years of age.  
+
+Matt Garrett Ltd. is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).   
+
+
+ **Our full contact details are:  **  
+
+
+ **Full name of legal entity:  **Matt Garrett Ltd.  
+
+
+ ******Email address:** email@mattgarrett.com 
+
+ ******Postal address:** Suite 58, 20 Winchcombe Street, Cheltenham, Gloucestershire, GL52 2LY UNITED KINGDOM 
+
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office. They can be found at [www.ico.org.uk](https://www.ico.org.uk/). We should be grateful if you would contact us in the first instance if you do have a complaint so that we can try to resolve it for you.   
+
+
+ **It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at email@mattgarrett.com or by using the[contact form](http://mattg.com/legal/index.html#form3-5) at the foot of this page.**  
+
+
+ **Your Privacy  **  
+
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information. 
+
+  
+ **State Law & Accompanying Rights **
+
+ **  
+**Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.  
+
+  
+ **Our Commitment To Children’s Privacy  **
+
+ **  
+**Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.  
+
+  
+Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors. 
+
+  
+ **Google Analytics  **
+
+ **  
+**Matt Garrett Ltd. uses Google Analytics to help analyse how users use the site. The tool uses “cookies,” which are text files placed on your computer, to collect standard Internet log information and visitor behaviour information in an anonymous form. The information generated by the cookie about your use of the website (including your IP address) is transmitted to Google. This information is then used to evaluate visitors’ use of this website and to compile statistical reports on website activity.  
+
+  
+We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information of visitors to our site. Google will not associate your IP address with any other data held by Google. Neither we nor Google will link, or seek to link, an IP address with the identity of a computer user. 
+
+  
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+
+  
+ **Other Collection of Personal Information  **
+
+When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information. 
+
+Other information may be collected as well, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience. 
+
+  
+Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you. 
+
+  
+At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested. 
+
+  
+A prime example of limited access to our website is where content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private. 
+
+ **Website Cookies**
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may not function correctly and could even become inaccessible.
+
+ **What Data We Collect About You**
+
+Personal data means any information capable of identifying an individual. It does not include anonymised data. 
+
+We may process certain types of personal data about you as follows: 
+
+• Identity Data may include your first name, maiden name, last name, username, marital status, title, date of birth and gender. 
+
+• Contact Data may include your billing address, delivery address, email address and telephone numbers. 
+
+• Financial Data may include your bank account and payment card details. 
+
+• Transaction Data may include details about payments between us and other details of purchases made by you. 
+
+• Technical Data may include your login data, internet protocol addresses, browser type and version, browser plug-in types and versions, time zone setting and location, operating system and platform and other technology on the devices you use to access this site. 
+
+• Profile Data may include your username and password, purchases or orders, your interests, preferences, feedback and survey responses. 
+
+• Usage Data may include information about how you use our website, products and services. 
+
+• Marketing and Communications Data may include your preferences in receiving marketing communications from us and our third parties and your communication preferences. 
+
+We may also process Aggregated Data from your personal data but this data does not reveal your identity and as such in itself is not personal data. An example of this is where we review your Usage Data to work out the percentage of website users using a specific feature of our site. If we link the Aggregated Data with your personal data so that you can be identified from it, then it is treated as personal data. 
+
+**Sensitive Data**
+
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences. 
+
+Where we are required to collect personal data by law, or under the terms of the contract and you do not provide us with that data when requested, we may be unable to perform the contract (EG; To deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel an order of a product or service but if we do, we will notify you at the time. 
+
+**How We Collect Your Personal Data**
+
+We collect data about you through a range of different methods including: 
+
+• **Direct interactions:** You may provide data by filling in forms on our site (or otherwise) or by communicating with us by post, phone, email or otherwise, including when you: 
+
+• Place an order for our products or services; 
+
+• Create an account or login on our site; 
+
+• Subscribe to our services or publications; 
+
+• Request resources or marketing information be sent to you; 
+
+• Enter a contest, sweep stake, competition, prize draw, promotion or survey.
+
+• Give us feedback. 
+
+• **Automated technologies or interactions:** As you use our site, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns. We collect this data by using cookies, server logs and similar technologies. We may also receive Technical Data about you if you visit other websites that use our cookies. 
+
+• **Third parties or publicly available sources:** We may receive personal data about you from various third parties and public sources. 
+
+• **Analytics providers** such as Google based outside the EU;
+
+  
+• **Advertising networks** based inside OR outside the EU; and 
+
+  
+• **Search information providers** based inside OR outside the EU. 
+
+• **Contact, Financial and Transaction Data** from providers of technical, payment and delivery services based inside OR outside the EU.
+
+• **Identity and Contact Data** from data brokers or aggregators based inside OR outside the EU. 
+
+• **Identity and Contact Data** from publicly availably sources such as Companies House and the Electoral Register based inside the EU. 
+
+**How we use your personal data**
+
+We will only use your personal data when legally permitted to do so. The most common uses of your personal data are: 
+
+• Where we need to perform the contract between us. 
+
+• Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests. 
+
+• Where we need to comply with a legal or regulatory obligation. 
+
+Generally, we do not rely on consent as a legal ground for processing your personal data, other than in relation to sending marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by emailing us at email@mattgarrett.com
+
+ **Lawful basis and purposes for processing personal data**
+
+In this section we have set out a description of the ways we intend to use your personal data and the legal basis on which we will process such data. 
+
+We may process your personal data for more than one lawful reason, depending on the specific purpose for which we are using your data. Please email us at email@mattgarrett.com if you need details about the specific legal basis we are relying on to process your personal data where more than one purpose has been detailed below. 
+
+**To register you as a new customer**
+
+        Type of data: Identity and Contact.  
+
+
+        Lawful basis: Performance of a contract with you.
+
+ **To process and deliver orders including**
+
+ **(1) The management of payments and**       **  
+    (2) To ** **collect and recover moneis owed to us.**
+
+        Type of data: Identity, Contact, Financial, Transaction, Marketing and Communications.
+
+        Lawful basis: 1) Performance of a contract with you.  2) For our legitimate business 
+
+        interests to enable the collection of debts owed to us.
+
+ **To manage our relationship with you which will include:  **
+
+ **(1) Notifying you about**   **changes to our terms and conditions or privacy policy  **
+
+ **(2) Asking you to take a survey or leave a review**
+
+        Type of data: Identity, Profile, Contact, Marketing and Communications.
+
+        Lawful basis: 1) Performance of a contract with you , 2) Necessary to comply with
+
+a legal obligation  (3) Necessary for our legitimate interests to keep our records up to 
+
+date and to analyise how customers use our products/services.
+
+ **To enable you to take part in a prize draw, competition, sweep stakes or complete a survey**
+
+        Type of data: Identity, Contact, Profile, Usage, Marketing and Communications **  
+**         Lawful basis: 1) Performance of a contract with you , (2) Necessary for our legitimate
+
+interests to keep our records up to date and to analyise how customers use our         products/services, to enable us to develop them and grow our business.
+
+ **To operate and protect our business and our website** (including troubleshooting, analysis of 
+
+data, system maintenance, support, testing, reporting and hosting of data.
+
+        Type of data: Identity, Contact, Technical data
+
+        Lawful basis: (1) Necessary for our legitimate business interests, provision of administration         and IT services, network security, to prevent fraud and in the context of a business         reorganisation or group restructuring exercise . (2) Necessary to comply with a legal
+
+obligation.
+
+ **To deliver relevant content and advertising to you and measure and understand the**
+
+ **     effectiveness of our advertising**
+
+        Type of data: Identity, Contact, Profile, Usage, Marketing and Communications, Technical.
+
+        Lawful basis: Necessary for our legitimate interests to study how customers use our         products/services, to develop them, to grow our business and to develop our marketing 
+
+        strategy.
+
+ **To use data analytics to improve our websites, products/services, marketing and**      **advertising, customer experience and**   **relationships.**
+
+Type of data: Usage, Technical
+
+        Lawful basis:  Necessary for our legitimate business interests to define types of customers         for our products and services, to keep our site updated and relevant, to develop our         business and marketing strategy.
+
+ **To make suggestions and recommendations to you about goods or services that may be of**
+
+ **     interest to you**
+
+        Type of data: Identity, Contact, Profile, Usage, Technical.
+
+        Lawful basis: Necessary for our legitimate business interests, to grow and develop our         business.
+
+ **Handling of Personal Information  **
+
+ **  
+**Note that any personal information you provide to others apart from us or our vendors is wholly optional. As an example, you might disclose something in a blog post comment. That “private” information is now “public,” and we have no control over that. In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place.  
+
+  
+Our primary intention for collecting personal and private information from you is simply to conduct our business. We can use this internally to better serve you. Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so. 
+
+  
+Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.” However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way. 
+
+However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion. 
+
+While we are staunch privacy advocates, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law. 
+
+On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information. 
+
+ **Disclosures of your personal data.**
+
+We may have to share your personal data with the parties set out below for the purposes set out in the section above titled "Lawful basis and purposes for processing personal data"
+
+• Service providers who provide IT and system administration services.   
+
+
+• Professional advisers including lawyers, bankers, auditors and insurers.
+
+• Revenue & Customs, regulators and other authorities based in the United Kingdom and other relevant jurisdictions who require reporting of processing activities in certain circumstances. 
+
+• Third parties to whom we sell, transfer, or merge parts of our business or our assets.  
+
+We only permit such third parties to process your personal data for specified purposes and in accordance with our instructions. 
+
+**Marketing communications**
+
+You will receive marketing communications from us if you have: 
+
+(a) requested information from us or purchased goods or services from us; or 
+
+(b) if you provided us with your details and ticked the box at the point of entry of your details for us to send you marketing communications; and 
+
+(c) in each case, you have not opted out of receiving that marketing. 
+
+We will get your express opt-in consent before we share your personal data with any third party for marketing purposes. 
+
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you OR by emailing us at email@mattgarrett.com at any time, or by using the [contact form](http://mattg.com/legal/index.html#form3-5) on this page.
+
+Where you opt out of receiving our marketing communications, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions. 
+
+**Change of purpose   **
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another purpose and that purpose is compatible with the original purpose. 
+
+If we need to use your personal data for a purpose unrelated to the purpose for which we collected the data, we will notify you and we will explain the legal ground of processing. 
+
+We may process your personal data without your knowledge or consent where this is required or permitted by law. 
+
+**Third party service providers outside of the European Economic Area.**
+
+Many of our third parties service providers are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA. 
+
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is implemented: 
+
+• We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission; or 
+
+• Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or 
+
+• Where we use providers based in the United States, we may transfer data to them if they are part of the EU-US Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. 
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time. 
+
+Please email us at email@mattgarrett.com if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 
+
+**Data Security**
+
+We have in place appropriate security measures to protect your personal data and to prevent it from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. Additionally, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know such data. They will only process your personal data on our instructions and they are subject to a duty of confidentiality. 
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so. 
+
+**Retention of Data**
+
+We only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. 
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. 
+
+We are legally required to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for tax purposes. 
+
+In some circumstances you can ask us to delete your data: see below for further information. 
+
+We reserve the right to anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you. 
+
+**Google Adsense and the DoubleClick DART Cookie  **
+
+ **  
+**Google, as a third party advertisement vendor, may use cookies to serve ads on this website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.  
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html>
+
+**Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.**
+
+ **  
+**Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at<http://www.networkadvertising.org/managing/opt_out.asp>[ ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+  
+ **Links to Third Party Websites  **
+
+ **  
+**We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.  
+
+  
+ **Comments Policy  **
+
+ **  
+**As you know, Web 2.0 is all about the conversation. But without a few simple ground rules, that conversation can turn into a shouting match that discourages others from entering into the fray.  
+
+So here is Matt Garrett Ltd. comments policy. By posting on my blog, you agree to the following: 
+
+You may comment without registering. You can log-in via Disqus, OpenID, Twitter, Facebook—or not at all. It’s up to you. You may post anonymously. I don’t recommend this, but you may do so if you wish. I may change this rule if it is abused. 
+
+  
+You may post follow-up questions. If you have a question, chances are you are not alone. Others are likely thinking similarly. Therefore, I would rather receive your comments on Matt Garrett Ltd. than via email. It is a better use of my time to address everyone at once rather than answer several similar emails. 
+
+  
+You may disagree with me. I welcome debate. However, I ask that if you disagree with me—or anyone else, for that matter—do so in a way that is respectful. In my opinion, there is way too much shouting in the public square to tolerate it here. 
+
+  
+Matt Garrett Ltd. reserves the right to delete your comments. This is my blog. I don’t have an obligation to publish your comments. The First Amendment gives you the right to express your opinions on your blog not mine. 
+
+  
+Specifically, I will delete your comments if you post something that is, in my sole opinion, (a)snarky; (b) off-topic; (c) libelous, defamatory, abusive, harassing, threatening, profane, pornographic, offensive, false, misleading, or which otherwise violates or encourages others to violate my sense of decorum and civility or any law, including intellectual property laws; or (d) “spam,” i.e., an attempt to advertise, solicit, or otherwise promote goods and services. You may, however, post a link to your site or your most recent blog post. 
+
+  
+You retain ownership of your comments. I do not own them and I expressly disclaim any and all liability that may result from them. By commenting on my site, you agree that you retain all ownership rights in what you post here and that you will relieve me from any and all liability that may result from those postings. 
+
+  
+You grant Matt Garrett Ltd. a license to post your comments. This license is worldwide, irrevocable, non-exclusive, and royalty-free. You grant me the right to store, use, transmit, display, publish, reproduce, and distribute your comments in any format, including but not limited to a blog, in a book, a video, or presentation. 
+
+  
+In short, my goal is to host interesting conversations with caring, honest, and respectful people. I believe this simple comments policy will facilitate this. 
+
+ **Your Legal Rights**
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. These include the right to: 
+
+• Request access to your personal data. 
+
+• Request correction of your personal data. 
+
+• Request erasure of your personal data. 
+
+• Object to processing of your personal data. 
+
+• Request restriction of processing your personal data. 
+
+• Request transfer of your personal data. 
+
+• Right to withdraw consent. 
+
+These rights are explained in detail here:
+
+If you wish to exercise any of the rights set out above, please email us at email@mattgarrett.com. 
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. 
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. 
+
+We try to respond to all legitimate requests within 30 days. On occasion it may take us longer if your request is particularly complex or you have made a number of requests. 
+
+  
+ **CHANGE NOTICE:** As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by Matt Garrett Ltd., in order to protect you and our Matt Garrett Ltd. website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect. 
+
+  
+ **COPYRIGHT WARNING:** The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at Matt Garrett Ltd. have paid to license the use of these legal notices and administrative pages on https://mattg.com for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators. 
+
+ **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by emailing us at email@mattgarrett.com
