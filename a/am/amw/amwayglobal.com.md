@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amwayglobal.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101030229id_/https%3A//www.amwayglobal.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amwayglobal.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716181555id_/https%3A//www.amwayglobal.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice: View the security information for Amway Global
 
-Thank you for visiting [www.amwayglobal.com](http://amwayglobal.wpengine.com/). As used in this Privacy Policy, the terms “our,” “we” and “us” refer to Amway unless the context clearly provides otherwise.
+Thank you for visiting [amwayglobal.wpengine.com](http://www.amwayglobal.com/). As used in this Privacy Policy, the terms “our,” “we” and “us” refer to Amway unless the context clearly provides otherwise.
 
 We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Policy is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
 
