@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bourncreative.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620230338id_/http%3A//www.bourncreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourncreative.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716022026id_/https%3A//www.bourncreative.com/privacy-policy) for the most accurate reproduction.*
 
 # Bourn Creative, LLC Privacy Policy | Bourn Creative
 
@@ -110,4 +110,4 @@ Bourn Creative, LLC abides by the safe harbor framework set forth by the U.S. De
 
 Bourn Creative, LLC reserves the right to change or update this privacy policy, or any other of our policies or practices, at any time without notice. Any changes or updates will be effective immediately upon posting to this website. Under certain circumstances, we may also elect to notify you of changes or updates to our privacy policy by additional means, such as posting a notice on the front page of our website to sending you an e-mail. We encourage you to review this privacy policy often for changes.
 
-For information regarding our disclaimer notice please [visit this page](http://www.bourncreative.com/disclaimer-notice "Disclaimer Notice").
+For information regarding our disclaimer notice please [visit this page](https://www.bourncreative.com/disclaimer-notice "Disclaimer Notice").
