@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yrc.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604025225id_/http%3A//yrc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yrc.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716053329id_/http%3A//yrc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YRC Freight - LTL Carrier Since 1924
 
