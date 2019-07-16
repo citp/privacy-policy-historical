@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ynap.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624142959id_/http%3A//www.ynap.com/pages/careers/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynap.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716083825id_/http%3A//www.ynap.com/pages/careers/privacypolicy) for the most accurate reproduction.*
 
 # Candidate Privacy Notice | YOOX NET-A-PORTER GROUP
 
