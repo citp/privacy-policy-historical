@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewildchild.co.za privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525113234id_/http%3A//thewildchild.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewildchild.co.za privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716211338id_/https%3A//thewildchild.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
