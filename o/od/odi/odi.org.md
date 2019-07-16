@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odi.org privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502000804id_/https%3A//www.odi.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odi.org privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716035232id_/https%3A//www.odi.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Overseas Development Institute (ODI)
 
