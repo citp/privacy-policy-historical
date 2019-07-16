@@ -1,41 +1,60 @@
-> *The following text is extracted and transformed from the vapesourcing.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317114508id_/http%3A//vapesourcing.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapesourcing.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716150222id_/https%3A//vapesourcing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VapeSourcing
 
-[](http://vapesourcing.com/member-discount "how to get 10% discount off in vapesourcing")
+What information do we collect?
 
-Vapesourcing is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you. Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information.
+1) We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail.
 
-## Information We Collect
+2) When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
 
-The Service collects information from you in two ways: directly from your input and automatically through the Service's technologies.
+3) Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
-## Information You Provide
+How do we use your information?
 
-The types of personal information that the Service collects directly from you may include:  
-Contact details, such as your name, email address, postal address and telephone number;  
-Usernames and passwords;  
-Payment information, such as a credit or debit card number;  
-In order to access certain content and to make use of additional functionality and features of the Service, we ask you to register for an account by completing and submitting a registration form, which may request additional information.  
-If you choose to register and sign in by using a third party account (such as your Facebook account), the authentication of your login is handled by the third party and the Service will collect your name, email address and any other information about your third-party account that you agree to share with us at the time you give permission for your account on the Service to be linked to your third party account.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication or surf the website in the following ways:
 
-## Use of Your Information
+1) To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-We may use your personal information to:  
-Provide the Service to you, such as allow access to or delivery of our products or services, process or fulfill an order or transaction, or administer surveys or promotional programs;  
-Respond to your requests, inquiries, comments or concerns;  
-Provide technical, product and other support and help keep the Service working, safe and secure;  
-Offer you customized content and individualized personalization of the Service to make it more relevant to your interests and needs;  
-Enhance, evaluate and improve the Service, its advertisements and promotional campaigns and our products and services and to develop new products and services;  
-Identify and analyze usage trends, including for the purposes of research, audits, reporting and paying royalties and license fees to third-party content providers;  
-Notify you about changes or updates to the Service and our products and services;   
-Provide you special offers, promotions, surveys and other information about the Service as well as products, events and services of ours, our affiliates and non-affiliated third parties such as societies and sponsors.  
-We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for the purposes described above.
+2) To allow us to better service you in responding to your customer service requests.
 
-## Data Security
+3) To quickly process your transactions.
 
-Vapesourcing takes precautions to safeguard your personal information against loss, theft and misuse and unauthorized access, disclosure, alteration and destruction through the use of appropriate administrative, physical and technical security measures.
+4) To administer a contest, promotion or survey.
 
-## Contact
+If you have subscribed to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you unsubscribe, remove or modify information you have provided to us?" section below. If you have not subscribed to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact us.
+How do we protect visitor information?
+
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+
+Do we use "cookies"?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.  
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly.
+
+How can you unsubscribe, remove or modify information you have provided to us?
+
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.  
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+Third party links
+
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+Questions and feedback
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+
+Online Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+Your Consent
+
+By using our site, this means you consent to our privacy policy.
