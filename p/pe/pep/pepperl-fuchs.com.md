@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperl-fuchs.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125034318id_/https%3A//www.pepperl-fuchs.com/global/en/34171.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperl-fuchs.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716094651id_/https%3A//www.pepperl-fuchs.com/global/en/34171.htm) for the most accurate reproduction.*
 
 # Data protection information regarding use of the Pepperl+Fuchs website
 
