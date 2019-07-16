@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahensnest.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919053927id_/http%3A//ahensnest.com/privacy-policy-ahensnestcom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahensnest.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716234743id_/http%3A//ahensnest.com/privacy-policy-ahensnestcom) for the most accurate reproduction.*
 
-# Privacy Policy - A Hen's Nest - NW PA Mom Blog
+# Privacy Policy - A Hen's Nest - NW PA Single Woman Mom Blog
 
 At A Hen's Nest, the privacy of our visitors is of extreme importance to us. This [privacy policy](http://ahensnest.com/privacy-policy-ahensnestcom) document outlines the types of personal information is received and collected by A Hen's Nest and how it is used.
 
