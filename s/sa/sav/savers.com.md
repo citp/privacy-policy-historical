@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savers.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105042012id_/https%3A//www.savers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savers.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716184812id_/https%3A//www.savers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Savers
 
-Effective Date:   June 20, 2018
+Effective: June 20, 2018
 
   
 TVI, Inc. (“TVI”), doing business as Savers, Value Village, and Unique stores and VALUE VILLAGE STORES (“VALUE VILLAGE”), doing business as Value Village and Village des Valeurs (jointly “Savers”), are committed to protecting your privacy. To make your experience at our website more convenient and enable participation in programs like the Super Savers Club Card®, Super Savers Club™ and FUNDrive® programs, we gather information from you. As detailed below, we maintain the privacy of your information using secure technologies and adhere to policies that help prevent unauthorized use of your personal information.
@@ -106,10 +106,10 @@ The Sites may provide links to websites operated by third parties. While we choo
 **What About Contests, Sweepstakes or Games?**  
 When we run a contest or sweepstakes or game relating to our Sites or Programs, it will be accompanied by a set of rules. The rules for each contest, sweepstakes or game will specify how the information gathered from you for entry will be used and disclosed if it is different than as described in this Privacy Statement.  In conjunction with your entry in such contest or sweepstakes, Personal Information will be collected only if you voluntarily submit it; though participation in the contest or sweepstakes may require that you provide some Personal Information.
 
-_Assignment and Business Transaction_  
+**Assignment and Business Transaction**  
 We may change our ownership or corporate organization while providing the Sites and Programs.  We may also sell certain assets associated with the Sites and Programs.  As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged.  Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Statement, as it may be amended from time to time and we will comply with privacy laws applicable in your jurisdiction which may require us to provide you with notifications.  Nevertheless, in the event the transaction is completed, your Personal Information will remain protected by privacy laws applicable in your jurisdiction, although we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Statement.
 
-**For more information**  
+**For More Information**  
 If you have any further questions regarding our privacy practices or you wish to access and/or update your Personal Information, please email us at [customercare@savers.com](https://web.archive.org/help/contact) or contact us at
 
 Savers/Value Village  
@@ -119,9 +119,5 @@ Bellevue, WA 98004
 Telephone: (425) 462-1515  
 Fax: (425) 451-2250
 
-Mailing Address  
-P.O. Box 808  
-Bellevue, WA 98009
-
-**_Your California Privacy Rights_**  
+**Your California Privacy Rights**  
 California Civil Code Section 1798.83 permits customers of Savers who are California residents to request certain information regarding its disclosure of their Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [customercare@savers.com](https://web.archive.org/help/contact).
