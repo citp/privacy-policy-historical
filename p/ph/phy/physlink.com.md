@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physlink.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430013416id_/https%3A//www.physlink.com/siteinfo/PrivacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physlink.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716221118id_/https%3A//www.physlink.com/siteinfo/PrivacyStatement.cfm) for the most accurate reproduction.*
 
 # Privacy Statement for PhysLink.com
 
