@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constant.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516224459id_/https%3A//www.constant.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717013942id_/https%3A//www.constant.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Constant.com
 
