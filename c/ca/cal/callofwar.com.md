@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callofwar.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906051302id_/https%3A//www.callofwar.com/index.php%3Fid%3D276) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callofwar.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716215451id_/https%3A//www.callofwar.com/index.php%3Fid%3D276) for the most accurate reproduction.*
 
 # None
 
