@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the car-part.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615065246id_/http%3A//car-part.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car-part.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716164848id_/http%3A//car-part.com/privacy.htm) for the most accurate reproduction.*
 
 # Car-Part.com--Used Auto Parts Market
 
