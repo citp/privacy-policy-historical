@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipehub.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509075547id_/http%3A//www.recipehub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipehub.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716073141id_/http%3A//www.recipehub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
