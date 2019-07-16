@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316114930id_/https%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716103437id_/https%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Users Privacy Policy | Resume Genius
 
@@ -223,7 +223,7 @@ For more information on how to control cookies, check your browser or device’s
 
   * [Apple Safari](https://support.apple.com/kb/ph19214?locale=en_US)
   * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
-  * [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+  * [Microsoft Edge](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
   * [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
   * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
   * [Opera](http://www.opera.com/help/tutorials/security/cookies/)
