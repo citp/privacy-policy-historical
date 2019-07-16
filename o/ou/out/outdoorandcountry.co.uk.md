@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorandcountry.co.uk privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118030326id_/https%3A//www.outdoorandcountry.co.uk/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorandcountry.co.uk privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716104952id_/https%3A//www.outdoorandcountry.co.uk/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Outdoor and Country
 
@@ -25,7 +25,7 @@ We are Outdoor and Country Retail Ltd., we collect personal data from you in ord
 
 ### 1\. Who we are
 
-We are Outdoor and Country Retail Ltd (Outdoor and Country), a company registered in England and Wales with registered company number 09866355. Our registered address and address for correspondence is The Old School, Stone Road, Blackbrook, Newcastle, ST5 5EG, United Kingdom. You may also contact us via email with any questions related to this Privacy Notice at [data.controller@outdoorandcountry.co.uk](mailto:data.controller@outdoorandcountry.co.uk)
+We are Outdoor and Country Retail Ltd (Outdoor and Country), a company registered in England and Wales with registered company number 09866355. Our registered address and address for correspondence is The Old School, Stone Road, Blackbrook, Newcastle, ST5 5EG, United Kingdom. You may also contact us via email with any questions related to this Privacy Notice at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cca8adb8ade2afa3a2b8bea3a0a0a9be8ca3b9b8a8a3a3beada2a8afa3b9a2b8beb5e2afa3e2b9a7)
 
 The name of the designated person responsible for overseeing our processing of personal identifiable information is Jonathan Capener.
 
