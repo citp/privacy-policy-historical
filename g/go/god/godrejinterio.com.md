@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godrejinterio.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204023349id_/http%3A//www.godrejinterio.com/GodrejInterio/pdf/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godrejinterio.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716090426id_/http%3A//www.godrejinterio.com/GodrejInterio/pdf/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Godrej & Boyce Mfg. Ltd. respect your privacy and is committed to protecting it through Company’s compliance with this privacy policy. This policy describes:
 
