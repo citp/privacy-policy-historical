@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlands.edu privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510121742id_/https%3A//www.redlands.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlands.edu privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716145601id_/https%3A//www.redlands.edu/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy, confidentiality policy | University of Redlands
 
@@ -54,7 +54,7 @@ Questions
           University of Redlands  
           Office of Information Security  
           P.O. Box 3080, Redlands, CA 92373-0999  
-          infosecurity@redlands.edu  
+          [infosecurity@redlands.edu](mailto:infosecurity@redlands.edu)  
  **  
 **
 
