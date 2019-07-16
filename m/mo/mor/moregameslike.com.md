@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moregameslike.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403122504id_/https%3A//www.moregameslike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moregameslike.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716052156id_/https%3A//www.moregameslike.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Games Like
 
