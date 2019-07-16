@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracking202.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517023254id_/http%3A//tracking202.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracking202.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716174654id_/http%3A//tracking202.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights - Prosper202 Self-Hosted Tracking ClickServer & Analytics Platform For Digital Marketers
 
@@ -21,7 +21,7 @@ Prosper202.com may collect statistics about the behavior of visitors to its webs
 We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non- personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) or Networking Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
 
 As well as:  
-“California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of their personally identifiable information to third parties for their direct marketing purposes. You may request a list of all of the third parties with whom we share your PII by sending an e-mail to privacy@tracking202.com and place “California Third Party Disclosure” in the subject line. Please allow up to thirty days for a response.
+“California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of their personally identifiable information to third parties for their direct marketing purposes. You may request a list of all of the third parties with whom we share your PII by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and place “California Third Party Disclosure” in the subject line. Please allow up to thirty days for a response.
 
 **Cookies**
 
