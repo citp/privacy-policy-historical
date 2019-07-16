@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awaregames.net privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510121435id_/http%3A//www.awaregames.net/%3Fpage_id%3D5371) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awaregames.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716061530id_/http%3A//www.awaregames.net/%3Fpage_id%3D5371) for the most accurate reproduction.*
 
 # Privacy Policy – All the latest and hottest game news and rumors.
 
