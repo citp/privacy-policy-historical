@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectindia.in privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515222422id_/http%3A//ww43.connectindia.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectindia.in privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716043844id_/http%3A//ww43.connectindia.in/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
