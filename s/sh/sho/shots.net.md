@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426112100id_/https%3A//www.shots.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716235618id_/https%3A//shots.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | shots
 
