@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofunnygames.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505102919id_/http%3A//www.ofunnygames.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofunnygames.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716043221id_/https%3A//www.ofunnygames.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Online
 
@@ -6,7 +6,7 @@ OFUNNYGAMES PRIVACY POLICY
 
 Ofunnygames is committed to providing an entertaining, fun and educational service. Ofunnygames.com is a property of Ofunnygames Limited "Ofunnygames". Ofunnygames respects the privacy concerns of visitors to Ofunnygames.com. Ofunnygames does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
-[Ofunnygames.com](http://www.ofunnygames.com/undefined/) is one of  [ValueClick](http://www.valueclickmedia.com/) Publishers, all [ValueClick](http://www.valueclickmedia.com/) Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”). 
+[Ofunnygames.com](https://ofunnygames.com/undefined/) is one of  [ValueClick](http://www.valueclickmedia.com/) Publishers, all [ValueClick](http://www.valueclickmedia.com/) Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”). 
 
 **Example #1:**
 
@@ -48,7 +48,7 @@ To protect your child's privacy and security, we will take reasonable steps to h
 
  **Changes to this Privacy Policy**
 
-This Privacy Policy is part of the Ofunnygames main Terms and Conditions which you agree to by accessing the Ofunnygames.com webstie and/or services. You agree that Ofunnygames Limited may change this Privacy Policy and the main Ofunnygames Terms and Conditions at any time. Our current Privacy Policy will be posted here: [http://ofunnygames.com/privacy-policy.html](http://www.ofunnygames.com/privacy-policy.html) which is part of our Terms and Conditions posted here: [http://ofunnygames.com/terms-of-service.html](http://www.ofunnygames.com/terms-of-service.html)
+This Privacy Policy is part of the Ofunnygames main Terms and Conditions which you agree to by accessing the Ofunnygames.com webstie and/or services. You agree that Ofunnygames Limited may change this Privacy Policy and the main Ofunnygames Terms and Conditions at any time. Our current Privacy Policy will be posted here: [http://ofunnygames.com/privacy-policy.html](https://ofunnygames.com/privacy-policy.html) which is part of our Terms and Conditions posted here: [http://ofunnygames.com/terms-of-service.html](https://ofunnygames.com/terms-of-service.html)
 
  **Internet Safety**
 
