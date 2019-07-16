@@ -1,108 +1,125 @@
-> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226113224id_/https%3A//www.quakeroats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716185047id_/https%3A//www.quakeroats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuakerOats.com
 
 ### THE QUAKER OATS COMPANY (“Quaker”)
 
-Effective 2012 (last updated June 14, 2015)
+Effective Date: July 1, 2014 (last updated April 02, 2019)
 
-**THIS PRIVACY POLICY APPLIES TO THE SITES AND APPS WHERE IT APPEARS.**
+It is our aim through this PEPSICO UNITED STATES PRIVACY POLICY (“Policy”) to explain what information we collect about you and why we collect the information. We also want to make sure you understand how we collect and use the information. Our goal is to earn and keep your trust as you visit websites and applications about our products and brands.
 
-This Policy describes how we treat personal information on the websites where it is located. It also applies to our mobile sites, applications, social media pages, emails, banner ads, and promotions. This includes our company website at [www.quakeroats.com ](http://www.quakeroats.com/)and Quaker brand websites.
+This Policy describes how we treat personal information on the websites (“sites”) and mobile or social media applications (“apps”) where this Policy appears. This Policy does not describe our practices on sites or apps where it is not referenced. 
 
-We may change this policy from time to time. We will notify you of any material changes to our Policy as required by law. The most recent version of the policy will be posted here. Please check here often for updates.
+Your use of our apps and sites indicates you agree to our collection and use of your information as set forth in this Policy.
 
-**WHAT INFORMATION WE COLLECT.**
+**WHAT INFORMATION DO WE COLLECT?**
 
-**Contact information.** We might collect your name and email address if you register on our site. We might also collect your phone number or mailing address. We might collect your friend’s email address for our send-a-friend feature.
+**We collect contact information.** For example, we may collect your name and street address if you register on our site. We may also collect your phone number or email address.
 
-**Information you submit or post.** We collect the information you post in a public space on our websites. We also collect information when you contact us.
+**We collect payment information.** If you make purchases with us, we (or our business partners who process credit cards for us) may collect your billing information. This includes your credit card number.
 
-**Demographic information.** We may collect information like your gender and birthdate. We may collect information about your product preferences. We might collect this when you contact us or enter a promotion. We may collect your zip code (for example, to help you find a store that sells our products.)
+**We collect information you submit or post.** We collect the information you post in a public space on our site. This includes comments and videos or photos. We also collect information when you contact us. This may include information about your physical activities or your nutrition preferences. If you contact us through a social media site, we may collect your social media user identifier.
 
-**Other information.** If you use our website, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your location. We might look at how often you use the app and where you downloaded it.
+**We collect demographic information and interests.** We may collect information such as your gender and age, household or lifestyle information, and your zip code.
 
-**HOW WE COLLECT INFORMATION.**
+**We collect device usage information.** We may collect information about the browser you are using, and we may look at what site you came from, or what site you visit when you leave us. We may also collect information about your operating system, ISP information and IP addresses.
 
-**We collect information directly from you.** We collect information if you sign up for emails, eNewsletters, enter our recipe box, enter a promotion or fill out an online survey. We also collect information if you contact us.
+**We collect location information.** Using technologies such as GPS or Wi-Fi, we may collect information about your location. If you use our mobile apps, we may also access your device’s location information. We may also collect mobile device identifiers. We may collect precise location information.
 
-**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
+**We collect job application information.** We collect information if you apply for a job with us. This information may include your education and work history, your skills and qualifications for the position. We may ask about how you learned about the position. If applicable, we may ask about your driving record and your ability to perform the position. We may also collect the last four digits of your social security number and your nationality.
 
-**We may get information about you from third parties.** For example, our business partners or social media platforms may give us information about you.
+**We collect information about third parties.** From time to time, we may allow you to send an email or message to a friend through one of our sites or apps. If you choose to do this, we will need that person’s name and email address.
 
-**HOW WE USE INFORMATION.**
+**HOW DO WE COLLECT INFORMATION?**
 
-**We use information to respond to your requests or questions.** We may use your information to respond to your comments and questions, or to notify you if you win a contest or sweepstakes.
+**We collect information directly from you.** We collect information from you when you: 
 
-**We use information to improve our products and services.** We may use your information to make our websites and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties.
+  * make a purchase with us
+  * register on one of our sites or apps
+  * join our loyalty programs
+  * apply for a job
+  * sign up for our email newsletters and other notifications
+  * participate in promotions such as sweepstakes or contests
+  * fill out a survey
+  * contact us through our sites and apps
+  * otherwise submit it to us
 
-**We use information for security purposes.** We may use information to protect our company, our customers, and our websites.
 
-**We use information for marketing purposes.** For example, we might send you information about new products and special offers. We might tell you about new promotions, features or updates. These might be third party offers or products we think you might find interesting. We may also use push notifications on our mobile apps. To manage this, read the“[Your Choices](https://web.archive.org/docs/default-source/privacypolicy/quaker_tracking_disclosure_document_2014.doc?sfvrsn=2)”section below. 
 
-**We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.
+**We collect information from you passively.** We use tracking tools like browser cookies and mobile device IDs. We do this on our websites, in emails that we send to you, and in media advertising. We collect information about usage and browser information over time. We may have third parties collect personal information this way. We also collect information about you from our mobile apps.
 
-**We use information as otherwise disclosed to you at the time we collect it.**
+**Third parties may also share information about you with us.** For example, our business partners may give us information about you. We may receive information from companies who compile information about shoppers and their preferences. Social media platforms may also give us information about you, and we may get information about your interactions with our ads on third-party sites. 
 
-**We use information as otherwise permitted by law.**
+**WE COMBINE INFORMATION FROM DIFFERENT SOURCES.**
 
-**SHARING INFORMATION**
+**We combine information.** For example, we may combine information we have collected offline with information we collect online. We combine information we have collected across third-party sites, including social media sites. We combine information across devices such as computers and mobile devices. We may also combine information from third parties with information we already have.
 
-**We may share information within the PepsiCo, Inc. family of companies.** This includes Pepsi-Cola, Frito-Lay, Gatorade, and Tropicana. This also includes future subsidiaries or affiliates. For a full list of PepsiCo brands and companies, visit <http://www.pepsico.com/Brands.html>.
+**HOW WE USE THE INFORMATION WE COLLECT.**
 
-**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who perform services for us. We may also share information with companies that operate our websites or run a promotion for us.
+**We use information to help us effectively provide you products and services.** We use your information to respond to your questions or enable you to participate in our programs. This may include sweepstakes or contests. Another example is that we may use your information to process your registration with sites and apps. We may use your friends’ email addresses to send them information you requested we send them. We also use your information to process orders for you. We may also contact you if you have won a prize or promotion.
 
-**We may share information with joint promotion partners.** Sometimes we conduct joint promotions with third parties. If your register for one of those joint promotions your information may be collected by both Quaker and the third party. Or, we may give you the option to have us share your information with the promotion partner. Your information will be used by us and/or by them as described in our posted privacy policies.
+**We use information to improve our products and services.** One of our goals is that you have a positive experience with our sites, apps, and products. Therefore, we may use your information to improve your experience with our sites, apps, and products. We might use your information to personalize your experience with us. We may use information you provide or that third-party partners give us to personalize your experience. 
 
-**We will share information if we think we have to in order to comply with the law or to protect ourselves.** We will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
+**We use information for security purposes.** We may use your information to help protect you, our sites and apps, our company, our customers, and our consumers. 
 
-**We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our customer list as part of that transaction.
+**We use information for marketing purposes.** For example, we might send you information about products, offers, features, or updates. We might also use your information to serve you ads about products and offers. Those ads may appear on third-party platforms which may include social media. These might be our own offers or products, or third-party offers or products we think you might find interesting. We may provide you with information through email or push notification.
 
-**We may share information for other reasons we may describe to you.**
+**We use information to get feedback from you about how we’re doing and for other transactional purposes.** We may contact you about this Policy or the Terms of Use posted to the sites or apps you are using. We may also communicate with you about a job application or your questions about our products or promotions. 
 
-**We may share anonymous information.** We may share information that does not identify a particular individual. We may share this information with advertisers, business partners or other third parties. For example, we may share how many men and women entered a contest.
+**We use information as the law allows us or as we may notify you.**
 
-**YOUR CHOICES ABOUT SHARING AND MARKETING PRACTICES.**
+**WE SHARE INFORMATION WITH THE PEPSICO FAMILY OF COMPANIES, BRANDS AND AFFILIATED THIRD PARTIES.**
 
-**You can opt out of receiving our marketing emails.** Some of our sites permit you create an account and/or receive marketing emails. To stop receiving our marketing emails from us, follow the instructions in any promotional message you get from us. You can also log into your account and go to the "My Profile" page to change your preferences. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
+**We share information within the PepsiCo family of companies and brands.** This includes current and future PepsiCo subsidiaries, affiliates, and joint venture partners. This also includes current brands such as Pepsi, Frito-Lay, Gatorade, Quaker, and Tropicana; and all future brands. For a list of PepsiCo brands, visit <http://www.pepsico.com/brands/product-information>. We may also share information with third parties with which we have an ownership interest or commercial relationship, such as companies whose products we distribute.
 
-**You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [here](https://web.archive.org/ad_tracking.aspx)
+**We share information with our business partners and third-party vendors.** For example, we may share information with joint promotion partners. If you register for a joint promotion, your information may be collected by both us and the third party. This might include retailers. Your information will be used by us as described in this Policy or by promotion partners as described in their policies. We may also share information with companies who serve as our vendors or third parties who perform services on our behalf. They may help us deliver products or services to you. We may share information with companies who operate our sites and apps or who run our promotions. 
+
+**We will share information if we think we must in order to comply with the law or to protect our company.** For example, we will share information to respond to a court order or subpoena. We may share information if a government agency or investigatory body requests it. This includes United States and non-United States law enforcement or regulatory authorities. We may also share information if we are investigating potential fraud.
+
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may include your information as part of that transaction.
+
+**If there are additional reasons we may share information, we will describe those to you.**
+
+**YOU HAVE CERTAIN CHOICES ABOUT HOW WE USE YOUR INFORMATION.**
+
+**You can opt out of email marketing.** To stop receiving promotional emails from us, follow the instructions in any promotional email message you get from us. If you opt out of getting marketing email messages, you may continue to receive non-marketing email messages from us where permitted by law.
+
+**You can control cookies and tracking tools.** To learn how to manage how we and our vendors use cookies and other tracking tools, and to read our About Our Ads policy, please click [here](https://web.archive.org/ad_policy).
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. To modify the push notifications you get from our app, you can alter your preferences in your profile.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS.**
 
-If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry. 
+If you reside in California, you have the right to ask us one time per year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an [email](https://contact.pepsico.com/quaker/contact-us), or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry. 
 
-**OUR SITES ARE NOT FOR KIDS.**
+**CHILDREN’S PRIVACY.**
 
-Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [contact us](https://cu.pepsico.com/quaker) to remove the information. Our contact information is listed below.
-
-Parents, you can learn more about how to protect children's privacy on-line here: <http://www.business.ftc.gov/privacy-and-security/childrens-privacy>. 
+It is not our intention to collect personally identifiable information from children under age 13. If you are a parent or legal guardian and think that your child under 13 has given us information, you can contact us at <https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online> and we will take appropriate steps. You can also write to us at the address listed below. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy online here <https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online>
 
 **WE USE STANDARD SECURITY MEASURES.**
 
-The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law. 
+We use appropriate and reasonable security measures on our websites and apps. This includes taking steps to address physical and digital protection as may be required by relevant law. 
 
-**WE STORE INFORMATION IN THE UNITED STATES.**
+**THIS SITE OR APP IS INTENDED FOR A UNITED STATES AUDIENCE.**
 
-If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country. 
+This site or app is intended for people who are in the United States audience. If you are outside of the United States, please visit the site designated for you. You can find it by going here <http://www.pepsico.com/home/Globalsites>. If you live outside of the United States and choose to use this site or app, you understand that it is at your own risk. You also understand that your information will be sent to and stored in the United States. The United States may not afford the same level of protection as laws in your own country. 
 
-**WE MAY LINK TO OTHER SITES OR HAVE THIRD PARTY SERVICES ON OUR SITE WE DON'T CONTROL.**
+**WE MAY LINK TO OTHER SITES OR APPS OR HAVE THIRD PARTY SERVICES AND TOOLS ON OUR PLATFORMS WE DON’T CONTROL.**
 
-If you click on a link to a third party site, you will be taken to websites we do not control. This includes social media sites. This policy does not apply to the privacy practices of third party websites. Read the privacy policy of other websites carefully. We are not responsible for these third party policies or practices. 
-
-Our site may also serve third party content that contains the third party’s own cookies or tracking technologies. We do not control the use of those technologies. 
-
-**OUR ADS MAY BE SERVED BASED ON TRACKING.**
-
-We may work with online advertising companies to show you relevant and useful ads. This includes ad served on other companies’ sites. These ads may be served based on information collected by us or third parties. For example, information a third party collects when you register for a site, like your zip code. This might be used to target an ad for people in your area. These ads may be also based on your activities on our websites or on third party sites.
+We may link to third-party websites or platforms. Our sites and apps may also include third-party content that collects information. Third party content may include tools like cookies and tracking technologies. These third parties may use your information for their own purposes. This may include behavioral advertising and analytic purposes. We do not control these third parties or their use of these technologies, so please read their privacy policies carefully. 
 
 **FEEL FREE TO CONTACT US IF YOU HAVE MORE QUESTIONS.**
 
-If you have questions about this Policy, please [contact us](https://cu.pepsico.com/quaker). You can also write to us or call at:
+If you have questions about this Policy or our data practices, please click on the “General question” box located at <https://contact.pepsico.com/pepsico/contact-us> to submit your question. You can also write to us or call at:
 
-The Quaker Oats Company  
-P.O. Box 049003  
-Chicago, IL 60604-9003  
-(312) 821-1000
+PepsiCo, Inc.  
+Attn: Consumer Relations  
+700 Anderson Hill Road  
+Purchase, NY 10577  
+1-800-433-2652
 
-©2016 The Quaker Oats Company. All rights reserved. 
+©2019 The Quaker Oats Company. All rights reserved. 
+
+**WE MAY UPDATE THIS POLICY.**
+
+From time to time, we may change this Policy. When we do, we will notify you of any material changes as required by law. This will include posting an updated copy here. Please check periodically for updates.
