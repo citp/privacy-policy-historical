@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonsons.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523205023id_/https%3A//www.cartoonsons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonsons.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716040127id_/https%3A//www.cartoonson.tv/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to the CartoonsOn Privacy Policy - CartoonsOn
 
