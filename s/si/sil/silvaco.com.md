@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvaco.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503190148id_/https%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvaco.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716225855id_/https%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.*
 
 # SILVACO - Privacy Statement
 
@@ -79,15 +79,7 @@ Sensitive and private data exchange between individuals and Silvaco’s public a
 
 We will not share your personal data outside the confines of business-critical needs. The data will only be shared between our companies and not with 3rd party companies, with the exception of processing business related functions, e.g. payroll. 
 
-## 7\. EU-US Privacy Shield
-
-Silvaco does not and will not share, sell, or otherwise provide personal data outside the confines of internal business-critical needs. EU-US Privacy Shield 
-
-Silvaco complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the EU to the United States. The company has certified to the Department of Commerce its adherence to the Privacy Shield Principles. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification, please visit www.privacyshield.gov. Our participation in the Privacy Shield applies to all Personal Information that is received from the European Union and European Economic Area. 
-
-In compliance with the Privacy Shield Principles, Silvaco commits to resolving complaints about our collection or use of personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at: privacy@silvaco.com 
-
-## 8\. Your Rights
+## 7\. Your Rights
 
 You have the right to be provided with information as to the nature of the personal information stored or processed about you by Silvaco, and you may request deletion or amendments to your personal information at any time. Please email privacy@silvaco.com to review, update, and revise your personal information using the Data Subject Access Request (DSAR) form. Silvaco reserves the right to require valid identification for any requester, to ask for information that clarify and/or narrow the request, and to deny any request that is inconsistent with this Policy and the GDPR. 
 
@@ -97,17 +89,17 @@ Individuals remain responsible to notify Silvaco if they discover errors in thei
 
 Information that is not critical to meet business needs may be permanently deleted in accordance with the Directive. 
 
-## 9\. Additional Enforcement Rights and Mechanisms
+## 8\. Additional Enforcement Rights and Mechanisms
 
 If you believe your personal information has been collected, shared, or processed in violation of this Policy, you may report your concern to the Data Compliance Officer at Silvaco by emailing dco@silvaco.com. If you have questions about or complaints regarding implementation of this policy, please contact Silvaco via email (privacy@silvaco.com or by visiting the corporate headquarters at: 
 
 Silvaco, Inc., 2811 Mission College Blvd, 6th floor, Santa Clara, CA 95054 or email us at privacy@silvaco.com
 
-## 10\. Obligations to Data Protection Authorities
+## 9\. Obligations to Data Protection Authorities
 
 Silvaco will respond diligently and appropriately to requests from Data Protection Authorities (DPAs) about this Policy or compliance with applicable data protection privacy laws and regulations. Silvaco will (i) cooperate with inquiries from the DPA responsible for the entity exporting the data and (ii) respect its decisions, consistent with applicable law and due process rights. 
 
-## 11\. Your Consent and Updates to this Policy
+## 10\. Your Consent and Updates to this Policy
 
 You acknowledge that this Privacy Policy is part of the Terms & Conditions for your use of our Sites, and collection of your “personal data”, and you agree that using the Sites signifies your assent to Silvaco’s Privacy Policy. Silvaco reserves the right to change this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. As we may make changes from time to time without notifying you, we suggest that you periodically consult this Policy. Your continued use of the Sites after the effective date of any modification to the Policy will be deemed to be your agreement to the changed terms. 
 
