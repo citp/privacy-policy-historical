@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jessicainthekitchen.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618134256id_/https%3A//jessicainthekitchen.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessicainthekitchen.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716110942id_/https%3A//jessicainthekitchen.com/policies) for the most accurate reproduction.*
 
 # Privacy Policy - Jessica In The Kitchen
 
