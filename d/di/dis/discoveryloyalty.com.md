@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoveryloyalty.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615021826id_/https%3A//www.discoveryloyalty.com/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveryloyalty.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716060003id_/https%3A//www.discoveryloyalty.com/Legal) for the most accurate reproduction.*
 
 # Privacy Policy - Global Hotel Alliance
 
