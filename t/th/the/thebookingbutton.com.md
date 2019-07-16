@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebookingbutton.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407235214id_/https%3A//www.siteminder.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookingbutton.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716032832id_/https%3A//www.siteminder.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy | SiteMinder
 
@@ -14,8 +14,8 @@
 * * *
 
     1. When we say ‘we’ or ‘us’ in this policy, we are generally referring to the separate legal entities that make up the SiteMinder Group. These include: 
-      * Online Ventures Pty Ltd (t/a Siteminder), a company registered in Australia (ABN 59 121 931 744) with our registered office at 88 Cumberland Street, The Rocks, NSW 2000, Australia
-      * Siteminder Distribution Limited, a company registered in England and Wales (Company Number: 07242801) with our registered office at Waterfront, Hammersmith Embankment, Manbre Road, London, W6 9RH;
+      * Online Ventures Pty Ltd (t/a SiteMinder), a company registered in Australia (ABN 59 121 931 744) with our registered office at 88 Cumberland Street, The Rocks, NSW 2000, Australia
+      * SiteMinder Distribution Limited, a company registered in England and Wales (Company Number: 07242801) with our registered office at Waterfront, Hammersmith Embankment, Manbre Road, London, W6 9RH;
       * Online Ventures Hospitality Limited, a company registered in Ireland (Company Number: 581051) with our registered office at 5 Dock Road, Galway, Ireland; and
       * SiteMinder Hospitality Corporation, a company registered in Delaware with our registered office The Colonnade, Tower 1, Suite 350, 15301 North Dallas Parkway, Addison, TX 75001, USA.
     2. It also includes any other businesses we add to this group in the future. If you would like more information about which SiteMinder Group company you are dealing with, check the terms and conditions of your contract with us.
