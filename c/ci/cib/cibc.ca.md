@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cibc.ca privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105225145id_/https%3A//www.cibc.com/en/privacy-security/online-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cibc.ca privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716103852id_/https%3A//www.cibc.com/en/privacy-security/online-privacy-statement.html) for the most accurate reproduction.*
 
 # CIBC Digital Privacy Statement | Legal | CIBC
 
@@ -95,23 +95,21 @@ Your privacy choices
 **  
 Cookies:**
 
-CIBC’s digital banking cannot be used without session cookies enabled in your web browser. Session cookies are also used for added security and convenience when banking on our site. 
-
-Depending on the web browser you use, you may be able to configure it to accept session cookies but disable persistent cookies (with the exception of Flash cookies). If you do this, you will still be able to use CIBC sites; however, your browser will not remember your personal preferences (e.g., language preference) when you return to the site. Please check your browser's online help for further information on how to change your cookie settings.
-
-If your browser is using Adobe Flash Player version 10.3 or later, you can use the [Adobe Flash Player Settings ManagerOpens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to configure how your browser should handle Flash cookies, either globally for [all sitesOpens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) or for [specific sitesOpens a new window in your browser](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html), or to delete any or all such cookies. Please use these links to visit the Adobe Flash Player site for detailed instructions or to use the convenient tools that they have made available to enable you to quickly delete Flash cookies from your system.
-
-You can block or disable third-party cookies in your browser settings so that your browser accepts only first party cookies, which are those cookies belonging to the site you are currently browsing (e.g., cookies from CIBC when you are on CIBC's site). You may also opt-out of CIBC personalized marketing on third-party sites by [visiting this siteOpens a new window in your browser](http://preferences-mgr.truste.com/).
+You can block or disable third-party cookies in your browser settings so that your browser accepts only first party cookies, which are those cookies belonging to the site you are currently browsing (e.g., cookies from CIBC when you are on CIBC's site).
 
 **Interest-based advertising and opting-out**
 
-Interest-based advertisement uses information collected from your browsing behaviour to help predict your preferences and provide you with advertisements that will likely be more relevant to you on our site and third-party sites.
+Interest-based advertising uses information collected from your browsing behaviour to help predict your preferences and provide you with CIBC-related advertisements that will be more relevant to you on our mobile apps, our website and third-party websites.
 
-CIBC is committed to your privacy and providing you with the control to change your opt-in preferences.
+CIBC is a member of the Digital Advertising Alliance of Canada’s (DAAC) AdChoices program. AdChoices is a self-regulated program for companies participating in online interest-based advertising. The program aims to give Canadians more information and choices about the advertising they get. To learn more about this program, visit [youradchoices.caOpens a new window in your browser.](http://www.youradchoices.ca/)
 
-To opt-out visit [this siteOpens a new window in your browser](http://preferences-mgr.truste.com/). This page scans all of the advertising cookies held on your browser, and shows you companies that use cookies while you browser their sites, in a list. You can select the check box (or boxes) under the Opt-out column and select “Submit Opt-outs.”  
+To opt out of interest-based advertising from some or all AdChoices program participants, use the [AdChoices’ Opt-Out Tool (for browser data)Opens a new window in your browser](https://www.adobe.com/ca/privacy/opt-out.html). This page will scan all of the advertising cookies held on your browser, and a check box will appear under the opt-out column beside companies that are using cookies while you browse sites. To manage your preferences and opt out, check the box (or boxes) and select submit. [AdChoices’ Mobile AppChoices tool (for app data)Opens a new window in your browser](http://youradchoices.ca/appchoices/) also lets you opt out of cross-app data collection for the purposes of interest-based advertisements.
 
-CIBC also works with the Adobe Marketing Cloud to provide interest-based advertisements. To opt-out from receiving these types of advertisements directly through Adobe, set your preferences on the [Adobe siteOpens a new window in your browser](https://www.adobe.com/ca/privacy/opt-out.html). You can opt-out of interest-based advertising, under the “Adobe interest-based ads” section and you can opt-out from tracking, through the “Adobe websites” section.  
+CIBC also works with the Adobe Marketing Cloud to provide interest-based advertisements. To opt out from receiving these types of advertisements and from Adobe Analytics, [set your preferences directly through AdobeOpens a new window in your browser](https://www.adobe.com/ca/privacy/opt-out.html). You can opt out of interest-based advertising, under the “Adobe interest-based ads” section, and you can opt-out from ad tracking through the “Adobe websites” section.
+
+To opt out of interest-based Google advertisements, [set your preferences using Google’s Ad SettingsOpens a new window in your browser](https://adssettings.google.com/anonymous?sig=ACi0TCjjsAkjXWYv-KMyXPk4dTr0zDksoF4gco2eNLcpFIoIv9qjgbW8SDms0ETLRbd8tdXoAdqt8UnQz3_r4FkGiFQDWjoptM1QwIT5xelLyqwUJd3XA_s&hl=en). You can also opt out of Google Analytics with [Google’s opt-out browser add-onOpens a new window in your browser](https://tools.google.com/dlpage/gaoptout).
+
+If you opt-out of interest-based advertising, you may still get CIBC advertising, but it won't be tailored to you.
 
 **Location information:**
 
