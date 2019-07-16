@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsamurai.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512065441id_/http%3A//www.domainsamurai.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsamurai.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716202638id_/http%3A//domainsamurai.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy - Domain Samurai
 
