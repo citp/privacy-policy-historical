@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktrackprofit.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616054927id_/http%3A//clicktrackprofit.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktrackprofit.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716211732id_/http%3A//clicktrackprofit.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
