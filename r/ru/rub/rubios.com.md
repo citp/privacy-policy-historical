@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210104537id_/https%3A//www.rubios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716182257id_/https%3A//www.rubios.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Rubio's
 
-**Our Commitment to Privacy**
+**RECENT PRIVACY POLICY CHANGES**
 
-At Rubios.com our foremost consideration is to ensure that our visitors have a safe and secure online experience with us. We consider the information you choose to share with us personal and confidential and we are extremely committed to protecting your privacy. Rubio's is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. We believe that it is important that you understand how we treat the information that we receive from you. We created this Website Privacy Policy in order to ensure the confidence of visitors to this Website, and to demonstrate our commitment to fair practices and the protection of privacy. This Privacy Policy has been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models still may not be established or mature. Accordingly, this Privacy Policy is subject to change at Rubio's sole and unilateral discretion, at any time with or without advance notice. Any such changes will be posted on this Site. Any such change, update or modification will be effective immediately upon its posting on this Site.
+We've recently made changes to our privacy policy. These changes are: 
+
+1\. We have clarified that we collect and use cookies when you navigate and browse our website unless you disable them in your browser. 
+
+2\. We have clarified that we may use your personal information for marketing purposes and may share your personal information with our service providers who support our business and who are bound to keep your information confidential and only use it for the purposes for which we disclose it to them. We will not share your information with third parties or for purposes other than as described in our privacy policy.
+
+ **Our Commitment to Privacy**
+
+At rubios.com, our foremost consideration is to ensure that our visitors have a safe and secure online experience with us. We consider the information you choose to share with us personal and confidential and we are extremely committed to protecting your privacy. Rubio's is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. We believe that it is important that you understand how we treat the information that we receive from you. We created this Website Privacy Policy in order to ensure the confidence of visitors to this Website, and to demonstrate our commitment to fair practices and the protection of privacy. This Privacy Policy has been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models still may not be established or mature. Accordingly, this Privacy Policy is subject to change at Rubio's sole and unilateral discretion, at any time with or without advance notice. Any such changes will be posted on this Site. Any such change, update or modification will be effective immediately upon its posting on this Site.
 
  **VeriSign**
 
@@ -16,11 +24,13 @@ VeriSign is the leading provider of critical infrastructure services that make t
 
 We collect two types of information: Traffic Data and Personal Information. We automatically track and collect the following information when you visit our Site: your (i) IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser (collectively, "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. For example, we use this information for statistical purposes, such as measuring the average time spent on the Site and the pages viewed on the Site.
 
-**Cookies**
+ **Cookies**
 
-On part of our site, we may use cookies to store and track information about you on our website. A cookie is a small amount of data that is sent to your browser from a web server and subsequently stored on your computer's hard drive. Primarily, we will use cookies during credit card transactions to remind us who you are and enable us to access your account information so you do not have to re-enter it on subsequent visits. In all cases in which cookies are used, your Personal Information will not be collected unless you expressly agree to provide it. Most browsers are initially set to accept cookies. Further information about cookies can be found at <http://www.microsoft.com/info/cookies.htm>.
+We share our information with contractors, service providers, and other third parties that we use to support our business and who are bound by contractual obligations to keep your information confidential and to only use it for the purposes for which we disclose it to them.
 
-**Personal Information**
+As you navigate through and interact with our site, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including through the use of cookies. A cookie is a small file placed on the hard drive of your computer. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our website. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. However, if you do not consent to our use of cookies or select this setting you may be unable to access certain parts of our sites. You can find more information about cookies at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+ **Personal Information**
 
 At the time you subscribe to the e-club (Rubio's Beach Club), make a gift card purchase, order online, book a fundraiser, or agree to participate in a contest/promotion, we collect and store the following types of information:
 
@@ -42,7 +52,7 @@ From time-to-time, Rubio's will request additional information from customers th
 
 Our goal is to provide you with a site that best meets your needs, wants and interests. Therefore, we primarily use the information we've collected to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services.
 
-The email addresses that we collect are used by us to contact consumers for marketing purposes and are not shared with other organizations for commercial purposes whatsoever.
+The information that we collect is used by us to contact consumers for marketing purposes. We do not share, sell, or otherwise disclose your information for purposes other than those outlined in this privacy notice. 
 
 If you placed a gift card order or ordered online, we use your personal information to fulfill your order.
 
@@ -52,7 +62,7 @@ Rubio's takes your online privacy very seriously. As such, we employ policies an
 
 Access to your information is controlled by strict internal procedures.
 
-When you register as a visitor to the site, you will choose a user identifaction name and a password. You are solely responsible for maintaining the confidentiality of your password and user ID. As such, you are responsible for any and all activities that occur within your account, including, but not limited to, properly exiting a session on the site. Additionally, you agree to notify us immediately of any unauthorized use of your password, account, or any other breach of security.
+When you register as a visitor to the site, you will choose a user identification name and a password. You are solely responsible for maintaining the confidentiality of your password and user ID. As such, you are responsible for any and all activities that occur within your account, including, but not limited to, properly exiting a session on the site. Additionally, you agree to notify us immediately of any unauthorized use of your password, account, or any other breach of security.
 
  **Children Under 13**
 
@@ -72,8 +82,7 @@ By using our website, you agree to the collection and use of this information in
 To update, correct or delete your personal information, you can contact us at:
 
 Rubio's Restaurants, Inc.  
-220 Faraday Ave, Suite 250  
+2200 Faraday Ave, Suite 250  
 Carlsbad, CA 92008
 
-We may also be reached via e-mail.  
-Or, you may reach us by telephone, toll-free at 1-800-354-4199.
+You may reach us by telephone, toll-free at 1-800-354-4199.
