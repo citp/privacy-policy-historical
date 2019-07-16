@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jainuniversity.ac.in privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301073734id_/https%3A//www.jainuniversity.ac.in/Jain-University-Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jainuniversity.ac.in privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716021037id_/https%3A//www.jainuniversity.ac.in/Jain-University-Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Jain (Deemed-to-be University) - Banagalore, India
 
