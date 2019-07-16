@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodsam.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413030842id_/https%3A//www.goodsam.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsam.com privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716212357id_/https%3A//www.goodsam.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Rights | Good Sam Club
 
@@ -10,7 +10,7 @@ CWGS Enterprises, LLC
 PO Box 6888  
 Englewood, CO 80155-6888  
 800-234-3450  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#741d1a121b34131b1b100715195a171b19)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82ebece4edc2e5edede6f1e3eface1edef)
 
 ## Types of information we collect and how we collect it
 
@@ -84,11 +84,11 @@ We will disclose personal information and non-personal information as required b
 
 In many cases, if you have established an account with one of our business units, you can review your communication preferences through the "My Account" section of our websites. Communication preferences are permissions that you have granted us to communicate with you on specific areas of interest. You may make modifications to your communication preferences directly through this section of "My Account".
 
-If you don't have an account, can't find your account or our site doesn’t provide an account section, you can simply contact us via email by clicking "Contact Us" located at the bottom of all of our web pages or send an email directly to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8c1c6cec7e8cfc7c7ccdbc9c586cbc7c5). Please include information in the email that will help us identify your account so we can assist you with your inquiry or request.
+If you don't have an account, can't find your account or our site doesn’t provide an account section, you can simply contact us via email by clicking "Contact Us" located at the bottom of all of our web pages or send an email directly to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9df4f3fbf2ddfaf2f2f9eefcf0b3fef2f0). Please include information in the email that will help us identify your account so we can assist you with your inquiry or request.
 
 ### E-mail Communications
 
-You can use much of our site without giving us any personally identifiable information. When you register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from us and our third-party marketing partners. At any time you can request that we not send e-mails to you anymore either by unsubscribing from the communication or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e68f888089a68189898295878bc885898b).
+You can use much of our site without giving us any personally identifiable information. When you register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from us and our third-party marketing partners. At any time you can request that we not send e-mails to you anymore either by unsubscribing from the communication or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d44434b426d4a4242495e4c40034e4240).
 
 ### Direct Mail Communications
 
@@ -100,7 +100,7 @@ We do not control third parties' collection or use of your information. However 
 
 ### California Privacy Rights
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3d54535b527d5a5252594e5c50135e5250). Our website currently does not honor browser “do not track” signals.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#721b1c141d32151d1d1601131f5c111d1f). Our website currently does not honor browser “do not track” signals.
 
 ## The Type of Security We Provide
 
