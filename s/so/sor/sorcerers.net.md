@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612023832id_/http%3A//www.sorcerers.net/Main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2019-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190716140520id_/https%3A//sorcerers.net/Main/privacy.php) for the most accurate reproduction.*
 
 # Sorcerer's Place - Privacy Policy
 
@@ -178,7 +178,7 @@ Adventurer currently exploring SP: 1
 
 * * *
 
-Forumites currently online: [Blackthorne TA](http://www.sorcerers.net/community/members/Blackthorne%20TA.584) and 81 guests  
+Forumites currently online: 72 users  
   
 Supporter Login  
 ---  
