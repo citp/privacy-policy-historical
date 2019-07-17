@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005121523id_/https%3A//www.cigar.com/help/privacy-policy/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717160516id_/https%3A//www.cigar.com/help/privacy-policy/18) for the most accurate reproduction.*
 
-# Privacy Policy - CIGAR.com
+# Help - Privacy Page - CIGAR.com
 
 Back  
 To  
@@ -61,6 +61,8 @@ We engage third parties to perform services such as payment processing and autho
 To opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). You can also set a Do Not Track preference in your browser.
 
 We also partner with companies that offer products and services we believe may be of interest to our customers. If you purchase a product from us, we may share your name with another company whose products and services might interest you. If you do not want to have your name shared for this purpose, [contact us](https://web.archive.org/help/contact-us) at any time.
+
+Our web site may use SessionCam for analysis. SessionCam is a product that has been developed by SessionCam LTD. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. Data collected by SessionCam from "insert company name" website is for "insert company name" internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting.
 
  **EMAILS**
 
