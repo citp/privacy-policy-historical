@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseoffaucis.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518041420id_/http%3A//www.houseoffaucis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoffaucis.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717212521id_/http%3A//www.houseoffaucis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - House of Faucis
 
