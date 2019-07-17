@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobispirit.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401015817id_/https%3A//mobispirit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobispirit.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717191841id_/https%3A//mobispirit.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MobiSpirit
 
