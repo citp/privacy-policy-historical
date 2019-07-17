@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-americanheroes.net privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628102451id_/http%3A//www.all-americanheroes.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-americanheroes.net privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717062406id_/http%3A//www.all-americanheroes.net/privacy.php) for the most accurate reproduction.*
 
 # 
 
