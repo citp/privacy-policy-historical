@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fromachefskitchen.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023060226id_/https%3A//www.fromachefskitchen.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromachefskitchen.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717151758id_/https%3A//www.fromachefskitchen.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - From A Chef's Kitchen
-
-This Privacy Policy is updated and effective May 25, 2018.
 
 This Privacy Policy outlines the type of personal information that is received, collected and used by [From A Chef’s Kitchen](https://www.fromachefskitchen.com/).  If you are a resident of the European Union, please note that as we are located in the United States.  Your information is processed outside the European Economic Area (“EEA”).  Regardless of where your personal information is located, the measures we use to protect your personal information is stated below.
 
@@ -30,8 +28,6 @@ From A Chef’s Kitchen
 P. O. Box 3083
 
 Collierville, TN  38027
-
-### INFORMATION WE COLLECT
 
   * #### VOLUNTARY USER-PROVIDED INFORMATION
 
@@ -165,23 +161,3 @@ We collect your email address in order to send information, respond to inquiries
 **      •** Honor opt-out/unsubscribe requests quickly
 
 **      •** Allow users to unsubscribe by using the link at the bottom of each email.  We will promptly remove you from ALL correspondence.
-
-### **CHANGES TO THIS PRIVACY STATEMENT**
-
-We may update its Privacy Policy from time to time so you should review this Privacy Policy periodically.  When we change the policy in a material way, we will update the ‘last modified’ date at the top of this Privacy Policy.  Changes to this Privacy Policy are effective when they are posted on this page.
-
-### HOW TO CONTACT US
-
-If there are any questions regarding this Privacy Policy you may contact us using the information below:
-
-Email:  **carol@fromachefskitchen.com**
-
-–OR–
-
-From A Chef’s Kitchen
-
-P. O. Box 3083
-
-Collierville, TN  38027
-
-Last Edited on 5-25-18
