@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l4dmaps.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617012332id_/https%3A//www.gamemaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l4dmaps.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717213437id_/https%3A//www.gamemaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GameMaps
 
