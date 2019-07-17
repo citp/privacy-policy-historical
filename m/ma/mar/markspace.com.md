@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markspace.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617051917id_/https%3A//www.markspace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markspace.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717225128id_/https%3A//www.markspace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mark/Space
 
