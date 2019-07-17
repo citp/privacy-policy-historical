@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancestudio-pro.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626231017id_/https%3A//dancestudio-pro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancestudio-pro.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717212235id_/https%3A//dancestudio-pro.com/privacy) for the most accurate reproduction.*
 
 # None
 
