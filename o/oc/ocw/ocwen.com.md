@@ -1,83 +1,91 @@
-> *The following text is extracted and transformed from the ocwen.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119091657id_/http%3A//www.ocwen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocwen.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717110900id_/http%3A//www.ocwen.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Online Privacy Policy 
+## Our privacy policy
 
-This website is operated by Ocwen Financial Corporation (collectively, with our subsidiaries and affiliates, the “Company”). We are committed to respecting your privacy and value your trust. This privacy notice tells you what information we collect, how we use it and how we protect it.
+Ocwen Financial Corporation (referred to as "we", "us", or "our") recognizes the importance of protecting the privacy of certain information collected about our customers, prospective customers, and visitors of our website (referred to as "Customers", "you" or "your") located at _www.ocwen.com_ (“Website”). This privacy policy discloses what information we gather, how we use it, how we share it with others, and how to correct or change it. It is our intention to give you an understanding about how we collect your information and the use we make of it in the course of our business. We generally gather two types of information about Customers: (1) non-public personally identifiable information that Customers provide through voluntary use and registration on our Website, and (2) data we gather through aggregated tracking, mainly by tallying page views throughout our Website.  
 
-## Online Information Collection
 
-You can visit us on the World Wide Web without telling us who you are or revealing any information about yourself, including your e-mail address. In this case, our web servers collect the name of the domain you used to access the Internet, such as “aol.com” or “yahoo.com,” your IP Address, as well as the website you came from and the website you visit next. We may select outside companies who provide services on our behalf and use this information in the course of delivering advertisements to you and to measure the number of visits, average time spent, page views, and other statistics about visitors to our website, in general. We may also use this data to monitor site performance and to make our website easier and more convenient to use.
+**DISCLOSURE FOR CALIFORNIA USERS:**
 
-We may aggregate statistics that we gather about our customers, sales, traffic patterns, and services, and provide these statistics to third parties. However, when we provide these statistics to third parties, they will not include any personal information that identifies you, unless you have agreed to receive personally-tailored information.
+PHH AND OTHER PARTIES NOT AFFILIATED WITH US MAY COLLECT PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOUR ONLINE ACTIVITIES OVER TIME AND ACROSS DIFFERENT WEBSITES WHEN YOU USE OUR WEBSITE OR THE SERVICES OFFERED ON OUR WEBSITE. WE DO NOT HAVE ANY PROTOCOL THAT OFFERS YOU THE CHOICE TO OPT-OUT OF INTERNET TRACKING. YOU MAY RESET YOUR WEB BROWSER TO DISABLE DO NOT TRACK SIGNALS IF YOUR WEB BROWSER SUPPORTS SUCH FUNCTIONALITY. IF YOU HAVE ANY QUESTIONS REGARDING OUR INTERNET TRACKING METHODS PLEASE EMAIL US AT [ **digitalmedia@phh.com**](mailto:digitalmedia@phh.com).   
 
-When you fill out a form on our website, such as the Contact Us form, we collect information to help us answer your inquiry. This may include but is not limited to, information such as: first name, last name, phone number, street address, zip code and email address.
 
-## Online Information Disclosure
+**DISCLOSURE FOR CALIFORNIA CONSUMERS:**
 
-There are instances in which your personal information is shared with third parties and we want you to understand when and with whom we may share the information you have provided to us through this website.
+PLEASE EMAIL US AT [**digitalmedia@phh.com**](mailto:digitalmedia@phh.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it IF YOU HAVE A REQUEST TO (A) DISCLOSE WHAT PERSONAL INFORMATION WE HAVE COLLECTED ABOUT YOU ON THE WEBSITE, (B) TO ACCESS YOUR PERSONAL INFORMATION WE HAVE COLLECTED ABOUT YOU ON THE WEBSITE, (C) CHANGE OR CORRECT ANY PERSONAL INFORMATION WE HAVE COLLECTED ABOUT YOU ON THE WEBSITE, (D) DELETE ANY PERSONAL INFORMATION WE HAVE COLLECTED ABOUT YOU ON THE WEBSITE AS MAY BE REQUIRED BY APPLICABLE LAW, AND/OR (E) OPT-IN/OPT-OUT OF CERTAIN INFORMATION SHARING PRACTICES IN CONNECTION WITH THE PERSONAL INFORMATION WE HAVE COLLECTED ABOUT YOU ON THE WEBSITE. 
 
-We may disclose personal information we collect on this website to others that provide services to you. Disclosure of personal information to these service providers is done to better serve you.
+## How does Ocwen Financial Corporation collect information?
 
-We may disclose identifying information collected on this website, such as name, address, and phone number, within the Ocwen family of companies to fulfill your requests, or offer other products and services we think may be of interest to you. We may make additional disclosures of information as permitted or required by law. For example, we may disclose information to law enforcement agencies or state insurance authorities.
+**Optional Registration**  
+We collect information by specifically requesting it from you. Generally this occurs when you register at the Website or request information or a service. Usually, we and our service partners use your information to operate the Website and to deliver value-added services to you. Our Website also uses your information to inform you about other products or services available from us.
 
-If you choose to complete an online form, one of our representatives may contact you. Once your information has been shared, their privacy policies will govern how they use and disclose your information. If you do not want your information to be shared, please do not complete an online form on this website. 
+The information we collect about you may come from any or all of the following sources:
 
-## Cookies
+  * Information from you based on completed applications, other forms and other communications with us (this information may include your name, address, social security number, assets, liabilities and income);
+  * As a result of your transactions with us, with our affiliates (businesses within the Ocwen Financial Corporation family of companies as described below), and with other businesses (this information may include your loan approval amount, loan balance, payment history and other loan account information);
+  * From providers of services to us, such as appraisers, appraisal management companies, real estate agents and brokers, and insurance agencies (this information may include the appraised value, purchase price and other details about the property securing your loan); and
+  * From consumer reports (this information may include your credit and employment history, credit score and other credit information).   
 
-Cookies are small pieces of data stored by your internet browser on your computer’s hard drive. We, along with thousands of other websites, use cookies to enhance your web viewing experience and to measure your website usage. With the help of cookies, we may present you with customized offerings or content that may be of interest to you. We may also use cookies to recognize you on subsequent visits or to remember your user name so you do not have to re-enter it each time you visit our website. You may be able to set your browser to notify you when you receive a cookie or to prevent cookies from being sent. Please note by not accepting cookies, you may limit the functionality we can provide to you when you visit our website.
 
-## Links to Other Websites
 
-We are not responsible for the information collection practices of other websites when you link to them from our website. We cannot guarantee how those parties use cookies or whether they place on your computer cookies that may identify you personally. You should carefully review the privacy policies of each website you visit to understand how they collect, use, and disclose information.
 
-## Information from Children
+  
+**Aggregated Usage Tracking**  
 
-We do not knowingly solicit information from children and we do not intentionally market our products or services to children.
 
-## E-mail Communications
+Aggregated usage tracking is conducted through the use of Internet Protocol (IP) addresses and cookies, as described below. Such information enables us to tailor our content to fit Customers' needs better and to help our advertisers understand our audience. 
 
-Occasionally, we may send you e-mail communications with information that may be useful to you, including information about our products and services or about offerings from other affiliated companies or third parties. You will be given the option of not receiving any such e-mail messages, if you choose.
+Use of Internet Protocol (IP) Addresses  
 
-## Encryption
 
-We use encryption and authentication tools to protect information we gather on our website. E-mail communications outside of our website, however, may not be protected. If you are sending us an e-mail communication that includes highly confidential information, you may want to call us or send it by regular mail.
+An IP address is a unique number that is automatically assigned to your computer whenever you're surfing the Internet so that your computer can be identified by the main computers known as web servers that "serve up" or display web pages.
 
-## Access
+Ocwen Financial Corporation collects IP addresses for the purposes of system administration, to report aggregated information to our advertisers, and to audit the use of our Website. When Customers request pages from Ocwen Financial Corporation, our servers log the Customers' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a Customer's session will be logged, but the Customer will remain anonymous to us. We can and will use IP addresses to identify a Customer when we feel it is necessary to enforce compliance with our Website terms of use agreement, other terms of service of Ocwen Financial Corporation, or to protect our service, website, customers or others.
 
-In some cases, you may be able to update certain information that you provided to us. This may require you to use a unique user name and password (or “PIN”). Also, where the capability exists, you may request that we modify or delete information we have gathered during your visit to our website.
+Use of Cookies  
 
-## Visitors/Registered Users
 
-As a visitor to our website, you may have access to certain features without telling us who you are or revealing any information about yourself.. We may require you to become a registered member in order to gain access to and use other features. Once you become a registered member, we may collect personal information when you use our website.
+What are cookies? Cookies are small pieces of information that a website sends to your computer for record-keeping purposes. This information is stored in a file on your computer. Cookies make web-surfing easier for you by saving your preferences so that we can use the saved information to facilitate your use of our Website when you return to the Website. Our use of cookies does not tell us your individual identity. We never save passwords, social security numbers or credit card information in cookies. The use of cookies is an industry standard, and as such, you'll find that most major websites use them. Cookies are used to recognize you when you visit our Website more than once so that information doesn't have to be repeatedly gathered. We do not store any of your personal information with cookies.
 
-The practices and policies contained in this Privacy Policy replace all previous notices or statements with respect to the same subject. This Privacy Policy will not apply to your relationships with companies that are not affiliated with the Company, such as banks and independent insurance agents. Their privacy policies will govern how they collect, use and disclose personal information that you allow them to access. This Privacy Policy applies only to the information collection practices of this website.
+You can delete your cookie file at any time. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that the Website will not function properly if you refuse cookies. For example, without cookies, you will not be able to set personalized preferences, and/or may have difficulty completing marketing transactions.
 
-## Our Privacy Policies — Our Commitment to Customers
+You may occasionally get cookies from our partners. Ocwen Financial Corporation does not control these cookies. The use of cookies sent by third-party servers is standard in the Internet industry.
 
-Consumers purchasing (or applying for) a product or service from the Company or one of its affiliates are subject to the privacy policy of the Company. If multiple products or services are purchased or applied for, the privacy policy of the company collecting the data applies. Customers who purchase our products and services will be provided with the privacy policy for each company to which they provide personal information.
+**With whom does Ocwen Financial Corporation share my information?**
 
-## Our Security Procedures
+As a visitor and user of our Website, you may be asked to provide nonpublic personal information such as your name, social security number, loan number, e-mail address and other personal information. As a visitor and user of our Website and during your loan application process, you are considered a "consumer" under applicable federal law. During your relationship with us as a consumer, we will not share any of your nonpublic personal information with anyone outside of our company except 1) at your direction and with your consent; or 2) as required or permitted by applicable law.
 
-We maintain procedures and technology designed to prevent unauthorized access to personal information. We maintain physical, electronic, and procedural protections in accordance with applicable standards to protect personal information. We restrict access to personal information to employees and service providers for legitimate business purposes to assist in providing products or services to you. Employees who violate our Privacy Policy are subject to disciplinary action.
+When you close your loan with us, you will become our "customer". As a customer, we are required to provide you with disclosures about our information sharing practices and an opportunity to opt-out of certain sharing practices. At your loan closing and at least once annually during the term of your customer relationship with us, you will receive our complete customer privacy policy which includes an opportunity for you to opt-out of having your nonpublic personal information shared outside of our company (other than as permitted by law). If you are a resident of California or Vermont, we will not share your nonpublic information outside of our company unless you affirmatively opt-in to such information sharing. 
 
-## Opting Out
+We may share any or all of the information we collect about you as permitted by law. For example, we are permitted to share information about you with companies that assist us in processing or servicing your loan (such as appraisers or title companies), government entities in response to a subpoena or other regulatory requirement, secondary market loan investors and consumer reporting agencies.
 
-You may opt-out of information sharing by choosing not to complete any of the online forms on this website. Please note that by completing those forms you are consenting to receive contact from a Company representative. If you do not wish to receive contact, or have your information shared with one of our partners, please do not complete any of the forms on this website.
+Ocwen Financial Corporation may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the terms of use agreement or other terms of service of Ocwen Financial Corporation, or may be causing injury to or interference (either intentionally or unintentionally) with any rights or property of Ocwen Financial Corporation, other Ocwen Financial Corporation Customers, or anyone else. Under these circumstances, we may disclose or access account information when the law requires it or permits it.
 
-## Change In Online Privacy Policy
+**Former Customers of Ocwen Financial Corporation**
 
-We reserve the right to modify or supplement our Privacy Policy at any time. If we make material changes, we will post our current Privacy Policy on our website.
+In the event you cease to be a customer of ours for any reason, we will maintain and disclose your information consistent with the privacy policies and practices that apply to our then-current customers. Please note, however, you will no longer receive annual Privacy Pledges once you cease being a customer of ours. **  
+**
 
-## Targeted Advertising
+**What happens when you link to a third-party site?**
 
-We may also use technologies to collect information about your online activities over time while you are on our website.  We believe that this online behavioral tracking helps to provide you with more relevant advertising Third parties may also use similar technologies to collect information about your online activities over time and across different third party sites, including your use of this Ocwen website.  Please note that the Ocwen website does not respond or honor “Do Not Track” requests. 
+You should be aware that when you are on our Website you could hyperlink or be directed to other websites that are beyond our control and/or outside our service. For example, if you "click" on a banner advertisement, the "click" may transfer you off the Website. These other websites may include websites of advertisers, sponsors and partners that may use the logo of Ocwen Financial Corporation as part of a co-branding agreement. These other websites may send their own cookies to Customers, collect data, or solicit information.
 
-[](https://player.vimeo.com/video/137411702 "Helping Homeowners")
+Ocwen Financial Corporation does not control such websites, and, therefore, is not responsible for their contents or the hyperlinks or advertising they choose to place on such websites. The inclusion of hyperlinks to these websites by Ocwen Financial Corporation does not imply any endorsement of the material on such websites or any association with their operators. The policy of Ocwen Financial Corporation does not extend to anything that is inherent in the operation of the Internet, which is beyond the control of Ocwen Financial Corporation.
 
-## OCWEN CARES:
+Please keep in mind that whenever you give out information online (for example, via message boards or chat) that information can be collected and used by people you don't know. While Ocwen Financial Corporation strives to protect their Customers' information and privacy, we cannot guarantee the security of any information you disclose online, and you disclose such information at your own risk.
 
-### HELPING HOMEOWNERS AND COMMUNITIES
+**Is my information secure from others using the Website?**
 
-If a Call-Out section is required, use a full-width box. This uses the light blue color, Hex: 1c93e8. All font sizes should remain the same, but the color is white, Hex: ffffff
+The security of all information associated with our Customers is an important concern to us, so Ocwen Financial Corporation employs industry standard practices and complies with federal regulations in regard to web-based services and confidentiality of customer data. Our controls include strong user authentication and encryption via 128 bit SSL (Secure Sockets Layer) protocols on all webpages on the Website where any non-public personally identifiable information is provided or displayed. Ocwen Financial Corporation has developed a "default deny" network security strategy utilizing multiple layers of security including routers, multiple firewalls, a DMZ (demilitarized zone) hosting all web services with all data maintained safely on secured internal networks that is dynamically retrieved only through authorized proxy services. We exercise care in providing secure transmission of your information from your computer to our servers. All Internet-based communications with us have been designed to protect the information sent to and from our Website from unauthorized access or interception. We restrict access to information about you to those employees or others who need to know that information to provide information, products or services to you. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your information, Ocwen Financial Corporation can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
+
+**How To Contact Us?**   
+
+
+Please email us at [digitalmedia@phh.com](mailto:digitalmedia@phh.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it if you have any questions or concerns regarding this privacy policy or have a request to change or correct any personal information we have collected about you on the Website.  **  
+**
+
+## YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY
+
+By using the Website, you signify your agreement to the privacy policy of Ocwen Financial Corporation. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. Your continued use of the Website following the posting of changes to these terms will mean you accept those changes.
