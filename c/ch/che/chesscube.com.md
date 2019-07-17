@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chesscube.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814193114id_/http%3A//www.chesscube.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesscube.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717122530id_/http%3A//www.chesscube.com/about/privacy) for the most accurate reproduction.*
 
-# CHESSCUBE Privacy Policy - ChessCube ChessCube
+# CHESSCUBE Privacy Policy - ChessCubeChessCube
 
 At ChessCube, Privacy is very important. We are committed to safeguarding the privacy of our website visitors and members. While you are using our website, we collect information about your visit in order to make your experience better. The Privacy Policy below sets out how we treat this information. By using [www.ChessCube.com](http://chesscube.com/), you are agreeing to the policies as set out below.
 
@@ -151,4 +151,4 @@ Please let us know if the personal information that we hold about you needs to b
 
 * #### Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcafa9acacb3aea89cbfb4b9afafbfa9beb9f2bfb3b1) or by post to ChessCube, P.O. Box 1696 Milnerton 7435, South Africa.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88fbfdf8f8e7fafcc8ebe0edfbfbebfdeaeda6ebe7e5) or by post to ChessCube, P.O. Box 1696 Milnerton 7435, South Africa.
