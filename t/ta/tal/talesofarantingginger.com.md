@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talesofarantingginger.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618123415id_/https%3A//talesofarantingginger.com/giveaway-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talesofarantingginger.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717021347id_/https%3A//talesofarantingginger.com/giveaway-policy) for the most accurate reproduction.*
 
 # Privacy, disclosure & Giveaway Policy | Tales of a Ranting Ginger
 
