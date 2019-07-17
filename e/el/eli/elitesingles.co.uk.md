@@ -1,253 +1,354 @@
-> *The following text is extracted and transformed from the elitesingles.co.uk privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129082835id_/https%3A//www.elitesingles.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.co.uk privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717221249id_/https%3A//www.elitesingles.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EliteSingles
 
-Finding a suitable partner for you requires collecting personal data to process and use. As a reputable dating service we at EliteSingles place a great emphasis on the responsible use and protection of your data. Therefore, we have established a comprehensive system of technical and organisational measures that provide maximum data security:
+**Privacy Policy 2018**
 
-\- For example, all the data that you send to us after registration or Login (e.g. contact information, profile information, payment information when ordering a paid membership) is SSL-encrypted (Secure Socket Layer)  
-\- Firewalls protect the information from unauthorised access  
-\- Access to your information is granted only to a few selected and properly trained personnel and only in certain cases (see also point 2 data security and encryption in this document)
+Spark Networks Services GmbH cares about your personal data, which is why we have drafted this Privacy Policy for you. This Privacy Policy is meant to help you understand what data we collect, why we collect it, what we do with it and how we safeguard it. We encourage you to read this Privacy Policy carefully when using our websites or services or transacting business with us.
 
-Our Privacy Policy has been drafted in compliance with the relevant European data protection law.  
-Since the contact with other EliteSingles users is always made via a private messaging system, at no point will your personal contact details such as email address or full name be transmitted. So only you can decide for yourself if and when you provide such information to your EliteSingles contacts. For this, we advise you to heed our guide to safe dating on the Internet
+All personal data collected from you will be processed in accordance with this Privacy Policy. If you have any further questions please contact us, our contact information can be found at the bottom of this Privacy Policy.
 
-## 1\. The protection of your personal information at EliteSingles
+**Clarification**
 
-The website is operated by Affinitas GmbH, Kohlfurter strasse 41/43, 10999 Berlin. It is the responsible entity for the purposes of the Data Protection Act of Germany.  
-EliteSingles is a reputable internet site that helps you to find the right partner for you. The protection of your personal information is very important to us. We comply with the strict regulations of the German and European data protection law.  
-The Federal Data Protection Act (BDSG) and the Telemedia Act (TMG) have the protection of personal data as the subject matter. This includes data assigned to your person (e.g. name or email address). Information that cannot be assigned or can only be assigned with disproportionate investment of time, cost and labor to a specific or identifiable person, being excluded as anonymous data (see § 3 para 6 BDSG).
+From now on in this Privacy Policy “Spark Networks Services GmbH” all, its subsidiaries and brands will be referred to, as “We” and Data Subjects will be referred to as “You”
 
-To operate the offer of EliteSingles, personal data are collected, processed or utilised ("used"). In accordance with statutory requirements, we can, for the purposes of advertising, market research and to improve our services further analyse user profiles under a pseudonym, but only if you have not made use of your legal right to object to this use of your data at any time.  
-In the following we would like to explain in more detail how we ensure the protection of your personal data and what data will be used in what way if you decide to use EliteSingles.  
-If you have questions or concerns on this, our customer service is at your disposal at any time. You can reach our customer service at:
+_Contents_
 
-Affinitas GmbH,  
-EliteSingles,  
-Customer Care,  
-Kohlfurter strasse 41/43  
-10999 Berlin
+Your Personal Information
 
-E-Mail: security@elitesingles.co.uk
+Tools used to Process Data
 
-## 2\. Data security and protection
+Tools used to safeguard your Data
 
-All information you submit at registration or login to us (e.g. contact information, profile information, payment information when ordering a paid membership) is encrypted. This encryption protects the confidentiality of data exchange between you and our web server, and helps to prevent misuse of data, e.g. by interception.  
-The encryption technique we use SSL (Secure Socket Layer). It is an accepted and widely used technology. In view of our databases all technical precautions have been taken to save your data in a secure environment. Access to your information is limited to only a few selected employees and will be granted only for purposes of quality control and review of complaints and for thwarting fraud
+User Rights
 
-## 3\. Collection, processing and use of data at EliteSingles
+Further Information
 
-EliteSingles is a serious matchmaking service on the internet that brings people together who are looking for a long-lasting relationship via a scientifically-based matching method. To provide this service, we collect, process and use a range of personal information. In many cases, data are only used in pseudonym form or anonymously. A more detailed description on this topic can be found below.
+EliteSingles is an internet-based service which brings people together who are looking for a long-lasting relationship. To successfully provide this service, we collect and use your personal information.
 
-### I. Without Registration
+Please note that this Privacy Policy applies to all our services, including the Website and the Apps (together, the “ **Services** ”). When using our Services, you may find links to other websites, apps and services, or tools that enable you to share information with other websites, apps and services. We are not responsible for the privacy practices of these other websites, apps and services and we recommend that you review the privacy policies of each of these websites, apps or services before sharing any personal data.
 
-When you visit the public pages of EliteSingles that are accessible without registration, we need and we collect no personal information from you. When you visit our website, we store data by default, but without reference to:
+**If you do not agree to any of the provisions of this Privacy Policy, you should not use our Services**.
 
-a) IP address (Internet Protocol address) of the accessing computer  
-b) The website from which you visit us (referrer)  
-c) The sites that you visit from our  
-d) The date and time of your visit  
-e) The type of browser settings  
-f) Operating System
+### Your Personal Information
+
+All the personal information we collect is related to providing and improving our Services and its features and falls into three general categories:
+
+  * Information you provide to us
+  * Information collected automatically
+  * Information we obtain from third parties
+
+
+
+In many cases, personal information is only used in pseudonym form or anonymously.
+
+What Personal Information we collect:
+
+  1. _Without Registration_
+
+
+
+When you visit our websites, we store the following data by default:
+
+  * IP address (Internet Protocol address) of the accessing computer
+  * The website from which you visit us (referrer)
+  * The sites that you visit from our website
+  * The date and time of your visit
+  * The type of browser settings
+  * Operating System
+
+
 
 This data is used by us for statistical purposes without reference to individuals.
 
-### II. With Registration
-
-If you want to use the services of EliteSingles described in detail in the EliteSingles Terms and Conditions, we need some personal information from you in order to provide the desired service.
-
-We only use the personal data that you actively provide us (e.g. contact information for the registration, profile information or photos). In many cases, you can decide which data and information you reveal about yourself in the context of profiling and / or search. Data that are strictly necessary for the provision of the contract are always marked separately as required (e.g. email address) so that you know what data you need to enter for the use of the service and what you can do without.
-
-For more detailed information please see below. To learn more about the exact procedure and the method of matchmaking, please note our detailed information in the EliteSingles Help page.
-
-**With the free registration you will be prompted to provide the following details without which a registration cannot be completed:**
-
-a) Gender  
-b) Gender of the partner you are seeking  
-c) Email address  
-d) Password
-
-**Our scientific personality test follows after registration. First, we ask for the following information to identify suitable partners:**
-
-a) Postcode  
-b) Date of birth  
-c) Height  
-d) Marital Status  
-e) Education  
-f) Occupation  
-g) Income
-
-During the personality test you will be asked to answer a series of personal questions (eg. partner preferences, personal characteristics and desired traits in a partner). Information such as ethnicity or religion is called sensitive personal data, which is subject to increased legal protection and protected by us with increased technological care. Without your consent, this information may not be divulged. We collect this data and other profile information (eg. interests and preferences), because they are the basis of our matching service and the basis of your ELITESINGLES profile. Direct contact information (eg. e-mail address, postal code) does not appear on the profile and is therefore not visible to other members. 
-
-**If you purchase an ELITESINGLES Paid Membership, the following data is collected during the payment process:**
-
-a) First and Last Name  
-b) Bank account details or credit card information  
-c) Home address
-
-Your payment data is processed by our payment service provider Adyen GmbH, Hackescher Markt 4, 10178 Berlin, Germany ("Adyen"). To facilitate payment processing your payment information is stored and made available when making further orders of premium memberships. The payment data is available only after the initial payment is completed, and is shown shortened for your protection. Of course you can add new payment methods for checkout. For questions or concerns, and to enforce the Clause 5 rights listed, please call the number below Clause 5. The provided EliteSingles contact information.
-
-**To log in on EliteSingles you use your specified e-mail address and your chosen password. During every visit to the EliteSingles service, utilisation data is forwarded by your Internet browser and stored in log files called Server Log Files. This data contains:**
-
-a) IP address (Internet Protocol address) of the accessing computer  
-b) User ID on the EliteSingles platform  
-c) Name of the page  
-d) Date and time of access  
-e) The referrer URL from which you came to the requested page  
-f) Amount of data transferred  
-g) Status indication whether download was successful  
-h) Session Cookies  
-i) Session identification number
-
-This data is evaluated anonymously by us for statistical purposes.
-
-The use of personal data for the provision of the EliteSingles service
-
-The collection of personal data at EliteSingles is done principally with the aim of giving the customer a safe, smooth, efficient, and personal experience when using the EliteSingles service. The data is therefore used to provide the services requested and desired by the customer. However, they also serve to detect and investigate potentially prohibited or illegal activities, and for the enforcement of the Terms and Conditions of the contract.
-
-**In the following, the use of personal data is described in more detail:**
-
-a) Other members can see your profile information and entries on the EliteSingles page. Premium members can also see the photos you upload on EliteSingles.
-
-b) Your profile - and thus your profile information and uploaded photos - is suggested to other members as part of our matching method. The matching can be switched off in your account. When switched off, your profile will not be suggested to any other members and at the same time you do not get any partner suggestions.
-
-c) Other members can see when you visit their profile page. Conversely, you can also see which members have visited your profile. This is an essential element of the contact between members. In general it is an important part of the services of social networking sites, and thus the service of EliteSingles. Therefore, this cannot be turned off via the user account.
-
-d) Other members can send you messages. However, at no point does EliteSingles give out your e-mail address. Messages are only sent through your EliteSingles mailbox. You can always "block" undesirables if you want to make it so they can no longer contact you.
-
-e) EliteSingles sends various notifications via email to every registered user.
-
-  * i. In the context of customer relationship and customer service messages we will inform you if, for example, other members have visited your profile, you have been sent a message, been smiled at or if there are new members that fit your search criteria. You can always disable these service messages on your user account under message options.
-  * ii. We also send you information and special offers pertaining to EliteSingles, such as tips and useful information about the partner search, surveys and special offers for your EliteSingles membership. You can disable the EliteSingles info and special offers messages with your user account under message options.
-  * iii. Information messages pertaining to the service, such as the confirmation of customer service and information on the release of images and texts, and on the conclusion of a paid membership, in the form of contract documents, payment processing information, etc., are part of our service and therefore cannot be cancelled.
-  * iv. We would also like to inform you via e-mail about EliteSingles Partner offers and events. To protect you and EliteSingles from abuse, we introduced the"double opt-in" procedure, i.e. you only receive the newsletter, if you have ordered it by e-mail or in your user account and confirmed your email address. You can unsubscribe at any time by deactivating this either in the message options, or by following the unsubscribe process in the newsletter.
-  * v. If you change your message options, it can take up to 48 hours before it is activated. Nevertheless, depending on the message options, the cancellation is still successful, and after this period you will receive no additional messages from us.
-  * vi. We hereby notify you that we carry out statistical analysis on opening and viewing behavior of our emails. This is done with the help of small graphics that are embedded in the messages (called pixels). If you do not wish to have your viewing behavior analysed, you can disable graphics by default in your email client. For more information, please see instructions offered in your email client, i.e. Microsoft Outlook or Mozilla Thunderbird. Once images are deactived, the messages are not displayed in full, and message functionality may be limited.
+  1. _With Registration_
 
 
 
-f) EliteSingles sets a filter to protect users from unsolicited mail. For example, automatic filters prevent the sending of messages with certain pay numbers or certain inappropriate keywords.
+We only use the personal information that you actively provide us (e.g. contact information for registration, profile information or photos). In many cases, you can decide what personal information you reveal about yourself in your profile and / or in your search activity. Personal information that is strictly necessary for the provision of the contract is always marked separately as required (e.g. email address) so that you know what information you need to enter for the use of the Services and what you can do without.
 
-g) Identity Verification: Premium members can send a copy of their identity card by e-mail, fax or post, along with their additional security code to us. Our customer care then checks whether certain information (e.g. date of birth) coincide with the date of birth on the identity card displayed on the website. Upon successful identity verification, the profile is marked with a symbol. EliteSingles does not store the ID copies and destroys them after identity verification.
+We provide Free Memberships and Paid Memberships.
 
-**Features:**
+  1. _Free Membership_
 
-a) Under the photos and entries of other profiles there is a “Like" button that can be clicked. With the "Like" function, you can express that you like statements or pictures in the profile of another member with one click. As a consequence, the other member is notified. In your own profile you can see how many members like a particular text field or photo of you. You can also see which members have clicked "Like" on a certain profile element.
 
-b) “Message Read”: Premium members can use this function to detect whether their messages have been clicked on by the recipient. When a message is clicked by the recipient, the sender gets a message about the time it was accessed. You can disable this feature allows in the user account.
 
-c) Import photos from Facebook: If you have a user profile on Facebook, you can transfer photos from this profile to your EliteSingles profile. To do this you must click on the appropriately labeled button to connect to Facebook and log in there with your Facebook user data. After successful login a window will appear were all your Facebook user account pictures are stored. You can select up to 24 photos and import them into your EliteSingles profile.
+With the Free Membership you will be prompted to provide the following details, without which registration cannot be completed:
 
-d) Personality Profile: In order to find suitable partners among other EliteSingles members, an individual personality profile is created for each EliteSingles member using the answers given in the EliteSingles personality test. You can find this personality profile in your profile as a separate menu item. It can be seen both by yourself, as well as by other members. It covers five major dimensions of your personality and, in addition, three related sub-dimensions ("facets"). Basic and Premium Members only see the results of the main dimensions.
+  * Gender
+  * Gender of the partner you are seeking
+  * E-mail address
+  * Password
 
-For additional information about the expiration of the service in general, and answers to other questions about EliteSingles, see our detailed descriptions on the EliteSingles Help page.
 
-### III. Data Transfer to Third Parties
 
-When we transmit data in the framework of the provision of the service to other members, this is only in connection with the user name you choose. Under no circumstances do we share with other members direct contact information (such as your name, your address, or your e-mail address). Communication at EliteSingles is exclusively done via your internal mailbox so that you can decide for yourself to whom you disclose your contact details. Some data that you specified when creating your EliteSingles profile are always visible to other registered users. These data include age, gender, height, ethnicity, religion, occupation, smoking habits and children.
+Our personality test follows your registration. First, we ask for the following information to identify suitable partners:
 
-You can decide on the settings on your account, whether you want to continue to have your profile suggested to other members through our matching process.
+  * Postal code
+  * Date of birth
+  * Height
+  * Marital Status
+  * Education
+  * Occupation
+  * Income
 
-Personal data will only be passed on to third parties if necessary to provide the service offered (e.g. payment processing for fee-based memberships), and if you have given us your consent or disclosure in accordance with relevant statutory provisions that are required or permitted (e.g. if we have to comply with a request, a governmental investigative or security agency). An overview of possible third parties resulting is available in our Public Register.
 
-In addition to internal EliteSingles checks, outsourced partners including Apollo Solutions Ltd., Informatics Park, La Tour Koenig, Pointe aux Sables and Mauritius ("Apollo Solutions") also check uploaded photos of EliteSingles members for authenticity to ensure a high quality of service and to protect our members from scammers.
 
-Since the data protection laws outside the EU are generally less severe than in the EU, Apollo Solutions transfers personal data to processors approved by the EU Commission who have standard contractual clauses and are obliged to take all necessary measures to protect personal data according to EU standards. The protection of your personal data is thus completely ensured.
+During the personality test, you will be asked to answer a series of personal questions (e.g. partner preferences, personal characteristics and desired traits in a partner). Information such as ethnicity or religion is considered sensitive personal data, which is subject to increased legal protection and protected by us with increased technological care. We collect this data and other profile information (e.g. interests and preferences), because they are the basis of our matching service and the basis of your EliteSingles profile. Direct contact information (e.g. e-mail address, postal code) does not appear on your profile and is therefore not visible to other members.
 
-### IV. Use of Cookies
+  1. _Paid Membership_
 
-EliteSingles uses "cookies" to make your interaction with the platform individually identifiable and optimised. A cookie is a text file that is either stored temporarily in the computer's memory ("session cookies") or saved on the hard drive ("permanent cookie"). Cookies contain information about your previous requests to the appropriate server or information on what offers have been made so far. Cookies are not used to run programs or deliver viruses to your computer. The main purpose of cookies is to provide a tailor-made offer and make the use of the Service as comfortable as possible.
 
-Most browsers are initially set to accept cookies. However, you can configure your browser so that it rejects or requests you to confirm the acceptance of cookies. If you choose to decline cookies, however, this may have the consequence that not all of our offerings are available to you.
 
-EliteSingles uses session cookies, partner and affiliate cookies and permanent cookies:  
-a) Session Cookies are not stored on your hard drive and are deleted when the browser is closed. Session cookies are used for login authentication and to balance the system load. b) Partner and Affiliate Cookies are used if you access our services via an external advertising space. These cookies are used to settle accounts with the cooperation partners and do not contain personal information from you. c) Permanent cookies are used to save your personal settings. This allows for personalisation and improves the EliteSingles service, because you are able to find your personal settings again on subsequent visits.
+If you purchase a Paid Membership, the following personal information is collected during the payment process:
 
-### V. Use of Google Universal Analytics
+  * First and Last Name
+  * Bank account details or credit card information, which are collected by our trusted third-party services provider
+  * Home address
 
-EliteSingles analyses members’ online behavior. We create anonymous user profiles in order to improve our service to you. For this we use Google Analytics, among other things (with the feature Universal Analytics), a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google"), but with the extension "_anonymizeIp ()".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
 
-The information generated by the cookie about your use of the website will be transmitted to a Google server in the USA and stored there. Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing others with website and internet related services. Reports created by Google contain demographic and interests data that have been based on your interaction with advertisements, or your visits to sites of advertisements. Google may also transfer this information to third parties unless required by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We point out, however, that you may not be able to use all features of this website in this case.
+  1. _Cookies_
 
-You can object to the collection and analysis of your use of the Service Google Universal Analytics. Please use the browser add-on to disable Google Universal Analytics.
 
-For more information on Terms of Use and Privacy Policy can be found at:
 
-[www.google.com/analytics/terms/gb.html](http://www.google.com/analytics/terms/gb.html)
+We use "cookies" to make your interaction with the platforms individually identifiable and optimized. A cookie is a text file that is either stored temporarily in the computer's memory ("session cookies") or saved on the hard drive ("permanent cookie"). Cookies may contain information about your previous requests to the appropriate server or information on what offerings have been made to you so far. Cookies are not used to run programs or deliver viruses to your computer. The main purpose of cookies is to provide tailor-made offerings and make the use of the Services as comfortable as possible.
+
+Most browsers are initially set to accept cookies. However, you can configure your browser so that it rejects cookies or requests you to confirm the acceptance of cookies. If you choose to decline cookies, however, this may have the consequence that not all our offerings are available to you.
+
+We use session cookies, partner and affiliate cookies and permanent cookies.
+
+  * Session Cookies: we mostly use "session cookies", which are not stored on your hard drive and are deleted when the browser is closed. Session cookies are used for login authentication and to balance the system load.
+  * Partner and Affiliate Cookies: we use these cookies if you access our Services via an external advertising space. These cookies are used to settle accounts with our cooperation partners and do not contain personal information from you.
+  * Permanent cookies: we use "permanent cookies" to save your personal use settings. This allows for personalization and improves the we service, because you can find your personal settings again on subsequent visits.
+
+
+  1. **Lawfulness of Processing and Consent**
+
+
+
+We only use your personal information where we have a lawful basis (in other words, a legal right). Lawful bases, according to Art. 6, 9 GDPR, include
+
+  * consent (where you have given consent, e.g. regarding newsletter subscriptions),
+  * contract (where processing is necessary for the performance of a contract with you, e.g. the Terms of Use and/or a Paid Membership),
+  * compliance with a legal obligation (e.g. tax retention obligations and money laundering audits, which may make it necessary to store or otherwise process your data)
+  * protection of the vital interests of you or another natural person (e.g. if we receive indications of a possible self-endangerment of a user), and
+  * “legitimate interests pursued by us or by a third party, except where such interests are overridden by the interests of fundamental rights and freedoms of our users which require protection of personal data”.  Legitimate interests include:
+
+
+  * ensuring the security and operability of our IT systems;
+  * improving and personalizing our Services, including by analyzing usage behavior;
+  * using third-party services for analytic and remarketing purposes, as set out below; and
+  * using personal data for the examination, assertion, exercise and defense of legal claims.
+
+
+
+If we use personal information for a purpose which by law requires your consent, we will always ask for your explicit agreement and record your consent.
+
+You can revoke your given consent and thus opt-out at any time and/or object to future use of your personal information.
+
+You can always object to the processing of your data on the basis of a legitimate interest.
+
+To opt-out or make an objection a simple message to us is sufficient. You can do this by sending us an e-mail at [dataprotection@elitesingles.co.uk](mailto:dataprotection@elitesingles.co.uk)
+
+If you have any other questions about the lawful bases upon which we collect and use your personal data, please contact us using the contact details as set out below.
+
+  1. _Children_
+
+
+
+The Services offered by us are not directed to children under the age of 16. We do not knowingly collect personally identifiable information from anyone under 16 years of age. If we identify that we have collected information from users under the age of 16, we will take immediate measures to delete their data.
+
+### Tools used to Process Data
+
+(a) Use of Analysis Programs and Remarketing
+
+EliteSingles analyses members’ online behavior. We create anonymous user profiles to improve our service to you. For this we use Google Analytics (with, among other things, the feature Universal Analytics), a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google"), but with the extension "anonymizeIp".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
+
+The information generated by the cookie about your use of the websites - including your IP address- will be transmitted to a Google server in the USA and stored there. Google will use this information to evaluate your use of the websites, compiling reports on website activity for operators and providing others with website- and internet-related services. Reports created by Google contain demographic and interests data that have been based on your interaction with advertisements, or your visits to sites of advertisements. Google may also transfer this information to third parties, unless prohibited by law, or third parties may already process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We point out, however, that you may not be able to use all features of our Services in this case. By using our website, you agree to the processing of data about you by Google in the manner described above and for the aforementioned purpose.
+
+You can object to the collection and analysis of your use of the Google Analytics service. Please use the browser add-on to disable Google Universal Analytics. You can also use the [cookie settings](https://adssettings.google.com/) in Google's privacy policy to prevent Google from using cookies for advertising purposes: https://adssettings.google.com/
+
+For more information on Terms of Use and Privacy Policy can be found at: [www.google.com/analytics/terms/gb.html](http://www.google.com/analytics/terms/gb.html)
 
 <http://www.google.com/intl/en/analytics/privacyoverview.html>[ ](http://www.google.com/intl/en/analytics/privacyoverview.html)
 
-### VI. Use of Google DoubleClick
+(b) Use of Google DoubleClick
 
-EliteSingles uses the remarketing technology of Google (Google DoubleClick). Through this technology users who have already visited the EliteSingles site and have shown interest in the service, are again targeted with advertising on the pages owned by the Google partner network. These advertisements are different to those aimed at users who have not shown interest in the EliteSingles services. The ad overlay is done through the use of cookies, which are small text files that are stored on the user's computer. With the help of text files, user behavior can be analyzed when you visit the site and then used for targeted product recommendations and interest-based advertising.
+EliteSingles uses the remarketing technology of Google (Google DoubleClick). Through this technology, users who have already visited the EliteSingles site and have shown interest in the service are again targeted with advertising on the pages owned by the Google partner network. These advertisements are different to those aimed at users who have not shown interest in the EliteSingles services. This ad overlay is done through the use of cookies, which are small text files that are stored on the user's computer. With the help of text files, your user behavior can be analyzed when you visit the site.  This analysis can then be used for targeted product recommendations and interest-based advertising.
 
-If you prefer not to receive interest-based advertising, you can disable the use of cookies by Google for these purposes by configuring the deactivation settings https://www.google.com/settings/ads/onweb/ or install the plugin available there.
+If you prefer not to receive interest-based advertising, you can disable the use of cookies by Google for these purposes by configuring the deactivation settings at:
 
-### VII. Use of Facebook Social Plugins
+<https://www.google.com/settings/ads/onweb/> or install the plugin available there.
 
-EliteSingles uses social plugins ("plugins") provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). These plugins are identified by a Facebook logo. If you use a social plugin on an EliteSingles site, your browser establishes a direct connection with the Facebook servers. Facebook then transmits the plugin content to your browser, and then integrates it into the website.
+As an alternative to the browser plug-in or within browsers on mobile devices, you can disable the "Personalized Advertising" button in [Google Advertising Settings](https://www.google.com/settings/ads): <https://www.google.com/settings/ads>
 
-Thereby Facebook obtains the information that you have accessed on the corresponding EliteSingles page. If you are logged in to Facebook, Facebook can assign the EliteSingles visit to your Facebook account. If you interact with the Facebook plugins (e.g. press the "Like" button), the corresponding information is transmitted from your browser to Facebook and stored there. For the purpose and scope of data collection and the further processing and use of data by Facebook, and your rights in this respect and settings options for protecting your privacy, please refer to the privacy policies of Facebook.
+(c) Facebook Plugins
 
-If you do not want Facebook to collect data of this kind, we recommend that you log out before your visit EliteSingles on Facebook.
+We use social plugins ("plugins") provided by the social network Facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). These plugins are identified by a Facebook logo. If you use a social plugin on an EliteSingles site, your browser establishes a direct connection with the Facebook servers. Facebook then transmits the plugin content to your browser, and then integrates it into the websites.
 
-### VIII. Use of Google+ Social Plugins
+In this way, Facebook obtains the information that you have accessed on the corresponding EliteSingles page. If you are logged in to Facebook, Facebook can assign the EliteSingles visit to your Facebook account. If you interact with the Facebook plugins (e.g. press the "Like" button), the corresponding information is transmitted from your browser to Facebook and stored there.
 
-EliteSingles uses the "+1" the social network Google Plus, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA button ("Google+").
+For more information about the purpose and scope of personal information collected by Facebook, and Facebook’s processing and use of personal information, as well as your rights and options for protecting your privacy, please refer to the privacy policies of Facebook.
 
-When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to the servers of Google. The contents of the "+1" button is transmitted from Google directly to your browser which embeds the latter into the website.
+If you do not want Facebook to collect personal information of this kind, we recommend that you log out of Facebook before you visit EliteSingles.
 
-We therefore have no impact on the amount of data collected with the Google+ button.
+(d) Use Google+ Social Plugins
 
-According to Google, no personal information is collected without clicking on the button.  The IP address is only collected from members who are logged in.
+We use the "+1" the social network Google Plus, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA button ("Google+").
 
-Information on the purpose and scope of data collection, further processing and use of data by Google as well as your rights in this respect as well as settings options for protecting your privacy, can be accessed using the Google privacy policies. Click on the "+1" button and the corresponding FAQ (eg https: // support. google.com/plus/answer/1319578 refer).
+When you visit a page of our websites that contains a social plugin, your browser establishes a direct connection to the servers of Google. The contents of the "+1" button is transmitted from Google directly to your browser which embeds the latter into the websites.
 
-If you do not want Google+ to collect data about you, we advise you to log out of Google+ before your EliteSingles visit. .
+We therefore have no control over the amount of data that is collected with the Google+ button.
 
-### IX. Use of Twitter Social Plugins
+According to Google, no personal information is collected without clicking on the button.  IP addresses are only collected from members who are logged in.
 
-EliteSingles continues to use social plugins ("plugins") from the social network twitter.com, operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. The plugins are marked with a Twitter logo. When you select an EliteSingles website that contains a social plugin, your browser establishes a direct connection with the Twitter servers. Twitter transmits the contents of the plugin directly to your browser, which integrates it into the website. This gives Twitter the information that you have accessed on the corresponding page EliteSingles. If you are currently logged into Twitter, Twitter can assign your visit to your Twitter account. If you are using the Twitter plugins to interact (eg. a tweet to an article post), the corresponding information is transmitted from your browser directly to Twitter and stored there. Purpose and scope of data collection and the further processing and use of data by Twitter as well as your rights in this respect and settings options for Protecting your privacy can be found in the Twitter Privacy Policy under https://twitter.com/privacy.
+For more information about the purpose and scope of personal information collection by Google, and Google’s processing and use of personal information, as well as your rights and options for protecting your privacy, please refer to the privacy policies of Google.
+
+Click on the "+1" button and the corresponding FAQ (e.g. https://support. google.com/plus/answer/1319578).
+
+If you do not want Google+ to collect data about you, we advise you to log out of Google+ before you visit EliteSingles.
+
+(e) Use of Twitter Social Plugins
+
+We use social plugins ("plugins") from the social network Twitter.com, operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. The plugins are marked with a Twitter logo. When you select an EliteSingles website that contains a social plugin, your browser establishes a direct connection with Twitter’s servers. Twitter transmits the contents of the plugin directly to your browser, which integrates it into the websites. This gives Twitter the information that you have accessed on the corresponding EliteSingles page. If you are currently logged into Twitter, Twitter can assign your visit to your Twitter account. If you are using the Twitter plugins to interact (e.g. a tweet to an article post), the corresponding information is transmitted from your browser directly to Twitter and stored there.
+
+For more information about the purpose and scope of personal information collection by Google, and Google’s processing and use of personal information, as well as your rights and options for protecting your privacy, please refer to the Twitter Privacy Policy at <https://twitter.com/privacy>.
 
 If you do not want Twitter to collect data about you, we advise you to log out of Twitter before your EliteSingles visit.
 
-### X. Checking and verification of personal data
+(f) Outbrain
 
-In order to protect our customers from people who abuse the EliteSingles service, we analyse the platform and consider customer input for plausibility using various automated monitoring tools in addition to the internal monitoring done by our customer care agents. However, EliteSingles does not assume responsibility or a legal obligation in doing this. Also, certain character strings or logins of different members, for example, those which originate from the same computer, can result in the blocking of suspicious activity.
+Outbrain is a premium discovery platform that helps connect marketers to their target audience through personalized recommendations on the world's leading publishers. We use Outbrain to improve our products and to give our customers the best user-experience. If you want to learn more about Outbrain please visit: https://www.outbrain.com/
 
-EliteSingles reserves the right to enforce an automated filtering of messages. Here certain word lists and personally written texts are checked for their compliance with our terms and conditions. For example pornographic or offensive words and texts are automatically matched with customers and blocked. We also try to protect our members from scammers by undertaking anti-scamming checks.
+To opt-out please visit: <https://www.outbrain.com/legal/privacy#privacy-policy>
 
-Should a suspicion of abuse of the EliteSingles service arise from these checks, the legal consequences for members are listed in the general Terms and Conditions. EliteSingles can also prevent the acceptance and delivery of incoming and outgoing messages, if there is high probability that it is a message containing any illegal and / or content in defiance to the terms and conditions. A notice of rejected or non-delivered messages is not carried out.
+(g) Piwik
 
-### **4\. Consent and right to objection**
+This website uses Piwik, a web analytics open-source software. Piwik uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address anonymized prior to its storage) will be stored on the server of the service provider in Germany. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
 
-If we use data for a purpose, which by provisions of law requires your consent, we will always ask for your explicit agreement and record your consent. You can revoke your given consent at any time and / or object to future use of your data.
+(h) Ve Interactive
 
-To revoke consent or make an objection a simple message to us is sufficient. For this you can use the following contact information:
+We use the services of Ve Interactive DACH GmbH (Französische Straße 47, 10117 Berlin, hereinafter "Ve"). In providing its services, Ve collects personal data from users who visit our websites. For this purpose Ve uses cookies and other similar technologies. Detailed information about the technologies Ve uses is available in Ve's cookiepolicy.
 
-Affinitas GmbH  
-Kohlfurter Strasse 41/43  
+A listing of the purposes for which Ve collects personal data is listed in Ve's privacy Policy. In general, through the use of cookies, Ve collects personal data from users, especially contact information and behavioral data. Ve usesthis personal information to draw conclusions about the user's personal preferences and to personalize the user's web experience, for example by displaying personalized offers when visiting customer websites or similarly personalizing the customer's website to the user and displaying personalized advertisements when visiting customer websites or websites of third parties. Ve and we are jointly responsible for the collection of personal dataaccording to Art. 26 GDPR. Details can be found in Ve's privacy policy.
+
+End users can prevent the processing of their personal data by Ve by various means. The available options for preventing data processing are contained in Ve's privacy policy, among others operating the opt-out button under <https://www.ve.com/de/datenschutzerklaerung#opting-out> or using the opt-out mechanism of IAB Europe at <http://www.youronlinechoices.com/opt-out-interface>.
+
+(i) Zendesk
+
+We use the chat program Zendesk Chat, a service of Zendesk, Inc. 1019 Market Street, San Francisco, CA 94103, USA ("Zendesk") to improve communication with visitors. If you have general or specific questions or problems about our products, our website and other Services or our company, you can send us a message via Zendesk. You will be shown whether someone is currently online to answer you immediately. If not, we will answer your request during our business hours. In this context we process data exclusively for the purpose of communication with you.
+
+When using Zendesk, the IP address of the device and the address of the subpage from which you access Zendesk are recorded. The IP address is anonymized. Zendesk also uses cookies and similar technologies. The data collected in this connection may be transferred to a Zendesk server in the USA and stored there. Completed chats are logged and saved. If personal data is transferred to Zendesk in the USA, Zendesk has submitted to the EU-US Privacy Shield.
+
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to enjoy the full functionality of this website.
+
+For more information, please refer to Zendesk's privacy policy: <https://www.zendesk.de/company/customers-partners/privacy-policy/>
+
+(j) Use of payment processors
+
+Stripe is a technology company. Its software allows individuals and businesses to receive payments over the Internet. Stripe provides the technical, fraud prevention, and banking infrastructure required to operate online payment systems. Stripe processes payment data. Please find more information about Stripe - as well as their privacy policy -  on <https://stripe.com/>.
+
+Adyen is a global payment company that allows us to accept e-commerce, mobile, and point-of-sale payments. Payment data is also being processed by Adyen. Please find more information about Ayden - as well as their privacy policy -  on [https://www.adyen.com](https://www.adyen.com/)
+
+###  Transfer to third countries and other recipients of personal data
+
+In part, we use external service providers to process your data. These companies have been carefully selected and commissioned by us, are bound by our instructions, and are regularly inspected. If your data is being processed by these companies outside the European Union, it may mean that your data will be processed in a country which has a lower data protection standard than in the European Union.
+
+Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this Privacy Policy. We utilize appropriate safeguards such as Standard Contractual Clauses approved by the European Commission, or another legally approved mechanism, to ensure the lawful transfer of your personal data outside of the EEA.
+
+Personal data will only be passed on to external service providers if necessary to provide the service offered e.g. marketing companies, payment processors for fee-based memberships, debt-collection agencies, etc. In these cases, we will make sure that these service providers are contractually obliged - or through other measures compelled – to meet an equivalent data protection standard.
+
+### Storing and retention period
+
+We will only store your personal data for as long as is necessary to fulfill our contractual and legal obligations, or for longer periods only where permitted by applicable law (for example, the defense of legal claims).
+
+When you close your account, we will delete all information we hold about you. If a complete deletion of your data is not possible or not necessary for legal reasons, the data concerned will be blocked for further processing. Your data will be blocked rather than deleted, for example, in the following cases:
+
+\- Your payment data and, if applicable, other data are generally subject to various legal storage obligations, for example from the German Commercial Code (HGB) and the German Tax Code (AO). The law obliges us to keep this data for up to ten years for tax and auditing purposes. Only then may we finally delete the relevant data.
+
+\- Even if your data is not subject to any legal storage obligation, we can refrain from immediate deletion in legally permitted cases and instead initially block it. This applies in cases where we may still need the relevant data for further contract processing or legal claims (e.g. in the case of complaints). The decisive factor for the duration of the blocking are the statutory limitation periods. After expiry of the relevant limitation periods, the relevant data will be deleted.
+
+### Tools used to safeguard your Data
+
+We use technological, organizational, and physical protection measures designed to protect against unauthorized use, disclosure or access of the personal information we collect. All information you submit to us at registration or login (e.g. contact information, profile information, or payment information when ordering a paid membership) is encrypted. This encryption helps protect the confidentiality of personal information exchange between you and our web server, and helps to prevent misuse of personal information ~~,~~ e.g. by interception. The encryption technique we use is SSL (Secure Socket Layer). It is an accepted and widely used technology. In view of our personal information collection, technical precautions have been taken to store your personal information in a secure environment. Access to your information is limited to only a few selected employees and service providers and will be granted only for carrying out the purposes identified in this policy, quality control and review of complaints, and for thwarting fraud. Personal information we collect is stored in the EU.
+
+Some or all of the personal information we collect may be stored on servers located outside your jurisdiction of residence, where data protection laws may differ from the laws in the jurisdiction in which you live. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement according to the laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protection measures  are in place to require the data processor in that country to maintain protection measures on the personal information that are equivalent to those that apply in the EU.
+
+### User Rights
+
+According to the GDPR you have the following rights in relation to your information, which you may exercise at any time in written form. 
+
+  * The right to be informed
+
+
+
+_The right to be informed encompasses the data controller’s obligation to provide ‘fair processing information’, typically through a privacy notice. It emphasizes the need for transparency over how we use our customers’ personal data._
+
+  * The right of access
+
+
+
+_The right of access gives the data subject the right to request information regarding his/her personal data ~~.~~ from the data controller. The data subject can: _
+
+  1. _request to obtain information whether his/her personal data is being processed;_
+  2. _in case it is, the data subject can request to access the data and obtain a copy; and_
+  3. _request to obtain supplementary information about the processing._
+
+
+  * The right to rectification
+
+
+
+_It gives data subjects the right to require the controller to rectify inaccuracies about their personal data. If the data that the controller possesses is not up to date or is incomplete, the data subject can require the controller to rectify the data._
+
+  * The right to erasure/right to be forgotten
+
+
+
+_The right to erasure allows the data subject to require the controller to remove or delete their personal data from their system, so that their data cannot be found by third parties_
+
+  * The right to restrict processing
+
+
+
+_The right to restriction of processing allows data subjects to demand from controllers to stop processing their personal data. However, controllers will still be able to store the data._
+
+  * The right to data portability
+
+
+
+_The right to data portability gives the data subject the right to require the controller to provide information in a structured, commonly used and machine -readable form so that it may be transferred by the data subject to another data controller without hindrance._
+
+  * The right to object
+
+
+
+_The right to object allows data subjects to prevent controllers from further processing  of their personal data if there are no legitimate grounds for the processing of the data._
+
+  * The right to withdraw consent at any time
+
+
+
+_You have the right to withdraw your consent at any time. Withdrawing consent will be made easy by us. Withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal._
+
+  * The right to lodge a complaint with a supervisory authority
+
+
+
+_If we do not respond to your request within a month, you have the right to lodge a complaint at the supervisory authority, and seek a judicial remedy._
+
+### Further Information
+
+For more information you can contact us at any time at:
+
+Spark Networks Services GmbH
+
+Kohlfurter Strasse 41/43
+
 10999 Berlin
 
-  E-Mail: security@ELITESINGLES.co.uk  
-Fax: +49 30 991 949 5 32 
+Deutschland (Germany)
 
-Please note that in case of an objection against the use of certain data, it may be impossible to provide some or all of the services we offer on the EliteSingles platform. We are at your disposal for any questions about this.
+EliteSingles has its own Data Protection Officer, who is responsible for all matters related to privacy and data protection. This Data Protection Officer can be reached at [dataprotection@elitesingles.co.uk](mailto:dataprotection@elitesingles.co.uk) or the postal address stated above.
 
-## 5\. Your right of access, rectification, cancellation
-
-You have the right at any time to receive information about the personal data and settings we store for your account, and to ask these to be corrected or deleted.  
-Your right to erase data may be limited by legal retention requirements that we need to consider. In addition, courts, law enforcement agencies or other authorities can demand by law to retrieve data or request information.  
-For information, correction or deletion requests please contact us with your name, your e-mail address and your user name at the following:
-
-Affinitas GmbH  
-Kohlfurter Strasse 41/43  
-10999 Berlin
-
-  E-Mail: security@ELITESINGLES.co.uk  
-Fax: +49 30 991 949 5 32 
-
-Most of the information that you can see on your account you can change or delete yourself. Please only use this service if it is for information you cannot change yourself. 
-
-## 6\. Further information
-
-Every Internet user should be aware that the information provided by them and published online can be accessed and saved worldwide by other Internet users. EliteSingles expressly points out to the user that the protection of data transmission in open networks like the Internet according to current technology can never be absolutely guaranteed. Therefore you always need to be aware that you are moving in a public space and please treat your private space responsibly.
+Berlin, May 2018
