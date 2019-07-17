@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cumfilledindiangirls.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620061944id_/http%3A//www.cumfilledindiangirls.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumfilledindiangirls.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717221009id_/http%3A//www.cumfilledindiangirls.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
