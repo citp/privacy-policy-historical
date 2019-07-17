@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activiti.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516143112id_/https%3A//www.alfresco.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activiti.org privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717063111id_/https%3A//www.alfresco.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Alfresco
 
@@ -63,7 +63,7 @@ However, we will normally collect personal information from you only where we ha
 
 If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to conduct our business and communicate with you as necessary to provide our services to you and for our other legitimate interests, for instance, responding to your queries, improving our services or for the purpose of detecting or preventing illegal activities.
 
-If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, or object to the use of your personal information on these grounds, please email us at [privacy@alfresco.com](mailto:privacy@alfresco.com) using the contact details provided under the “How to contact us” heading below. 
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, or object to the use of your personal information on these grounds, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9aeae8f3ecfbf9e3dafbf6fce8ffe9f9f5b4f9f5f7) using the contact details provided under the “How to contact us” heading below. 
 
 ## Sharing Information
 
@@ -97,9 +97,9 @@ Cookies are text files containing small amounts of information which are downloa
 
 We may send you e-mails about the products / services you have purchased, your account, to remind you about a webcast for which you have registered, or in response to your questions. We may also send you e-mails with information and / or special offers about products and services that may be of interest to you, in accordance with your marketing preferences.
 
-You may at any time ask us to remove you from any marketing mailing list on which you previously asked us to include you, or object to our use of your personal information, by sending us an e-mail at [privacy@alfresco.com](mailto:privacy@alfresco.com), by calling us on  (888) 317-3395, or by clicking "Unsubscribe" in any e-mail communications we send you. You may also update your preferences by visiting our [Preference Center](http://go.alfresco.com/u/P00020ULKI0bgp0q0zyZkg1).
+You may at any time ask us to remove you from any marketing mailing list on which you previously asked us to include you, or object to our use of your personal information, by sending us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cdbdbfa4bbacaeb48daca1abbfa8beaea2e3aea2a0), by calling us on  (888) 317-3395, or by clicking "Unsubscribe" in any e-mail communications we send you. You may also update your preferences by visiting our [Preference Center](http://go.alfresco.com/u/P00020ULKI0bgp0q0zyZkg1).
 
-You may access, review, modify and delete your account profile information by going to your account and editing your information. However, if you want to update, delete, limit the use or disclosure of, or access the personal information we hold about you (or request portability of your personal information) in our systems, you will need to email your request to [privacy@alfresco.com](mailto:privacy@alfresco.com).  If your personal information was submitted to us through the services by an Alfresco customer, please provide the name of the Alfresco customer that submitted your data, so we can forward your request to that customer.  We do not have the ability to access data submitted by customers through the services, and we will not be able to respond to your requests directly. 
+You may access, review, modify and delete your account profile information by going to your account and editing your information. However, if you want to update, delete, limit the use or disclosure of, or access the personal information we hold about you (or request portability of your personal information) in our systems, you will need to email your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83f3f1eaf5e2e0fac3e2efe5f1e6f0e0ecade0ecee).  If your personal information was submitted to us through the services by an Alfresco customer, please provide the name of the Alfresco customer that submitted your data, so we can forward your request to that customer.  We do not have the ability to access data submitted by customers through the services, and we will not be able to respond to your requests directly. 
 
 You have the right to complain to a data protection authority about our collection and use of your personal information.  For more information, please contact your local data protection authority. (Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries (including the US and Canada) are available here.)
 
@@ -115,7 +115,7 @@ However, we have taken appropriate safeguards to require that your personal info
 
 Alfresco adheres to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce here.  Our certification is available here and applies to the personal data we receive from EU and Swiss visitors and users of the sites and services and from our customers about EU and Swiss individuals through the sites or services.
 
-  European Union and Swiss individuals with inquiries or complaints regarding our privacy practices should first contact Alfresco at [privacy@alfresco.com](mailto:privacy@alfresco.com). Alfresco commits to respond to complaints of EU and Swiss individuals about our collection and/or processing of their personal information within 45 days.
+  European Union and Swiss individuals with inquiries or complaints regarding our privacy practices should first contact Alfresco at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2a2a0bba4b3b1ab92b3beb4a0b7a1b1bdfcb1bdbf). Alfresco commits to respond to complaints of EU and Swiss individuals about our collection and/or processing of their personal information within 45 days.
 
 If you do not receive acknowledgment of your complaint within 45 days of receipt from us or if your complaint is not satisfactorily addressed, you may bring a complaint to the EU Data Protection Authorities or the Swiss Federal Data Protection and Information Commissioner through the United States Council for International Business (USCIB) free of charge.  You can learn more at [http://www.uscib.org](http://www.uscib.org/).  In limited situations, if neither Alfresco nor the USCIB resolves your complaint, you may have the opportunity to engage in binding arbitration through the Privacy Shield Panel.  Alfresco is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
@@ -145,4 +145,4 @@ We may change this Privacy Statement from time to time. If we make any changes, 
 
 ## How To Contact Us
 
-If you have any questions, comments or concerns regarding this Privacy Statement, then please contact us via e-mail to [privacy@alfresco.com](mailto:privacy@alfresco.com) or in writing to Alfresco Software, Ltd., The Place, Bridge Avenue, Maidenhead, Berkshire SL6 1AF UK.
+If you have any questions, comments or concerns regarding this Privacy Statement, then please contact us via e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aededcc7d8cfcdd7eecfc2c8dccbddcdc180cdc1c3) or in writing to Alfresco Software, Ltd., The Place, Bridge Avenue, Maidenhead, Berkshire SL6 1AF UK.
