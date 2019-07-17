@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotolia.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904041513id_/https%3A//www.fotolia.com/Info/Agreements/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotolia.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717121147id_/https%3A//www.fotolia.com/Info/Agreements/PrivacyPolicy) for the most accurate reproduction.*
 
 # Fotolia - Royalty-free licenses and other agreements from our image bank
 
