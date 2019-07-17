@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipbuster.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515211719id_/https%3A//www.voipbuster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipbuster.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717165015id_/https%3A//www.voipbuster.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
