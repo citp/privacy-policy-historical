@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palauppr.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016150629id_/https%3A//www.palauppr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palauppr.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717155834id_/https%3A//www.palauppr.com/privacy-policy) for the most accurate reproduction.*
 
 # Palau Pacific Resort :: Privacy Policy
 
@@ -15,19 +15,19 @@ Palau Pacific Resort shall protect personally identifiable information in accord
 
 [
 
-##### Discover the Elilai Spa Package
+##### Spa Discovery Package
 
-](https://gc.synxis.com/rez.aspx?hotel=67243&chain=18703&template=&shell=&start=availresults&locale=en-US&arrive=&depart=&adult=01&child=01&rooms=01&rate=SPCL2&iata=&group=)
+](https://gc.synxis.com/rez.aspx?Hotel=67243&Chain=18703&locale=en-US&rate=SPCL2)
 
 Daily Breakfast for 2 persons
 
 Round trip transfer between Airport & hotel for 2 persons
 
-Elilai Spa Balinese Massage(50-minute) & Elemis Tester Facial(30-minutes) for 2 persons
+50-minute Balinese Massage & 30-minute ELEMIS Taster Facial for 2 persons
 
 * * *
 
-[Book Now](https://gc.synxis.com/rez.aspx?hotel=67243&chain=18703&template=&shell=&start=availresults&locale=en-US&arrive=&depart=&adult=01&child=01&rooms=01&rate=SPCL2&iata=&group=)
+[Book Now](https://gc.synxis.com/rez.aspx?Hotel=67243&Chain=18703&locale=en-US&rate=SPCL2)
 
 [
 
