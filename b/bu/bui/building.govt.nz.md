@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the building.govt.nz privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319130904id_/https%3A//www.building.govt.nz/about-building-performance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the building.govt.nz privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717122037id_/https%3A//www.building.govt.nz/about-building-performance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Building Performance
 
@@ -124,3 +124,15 @@ Browser or ‘web’ cookies are small text files sent by a website and stored o
 You can read Google’s privacy statement, and access a Google Analytics opt-out tool, at the [Google Privacy Center](http://www.google.com/intl/en/privacy/)
 
 You can manually disable cookies at any time - check your browser's 'Help' to find out how (you will still be able to use this website if you disable cookies).
+
+## Transparency statement
+
+The Ministry of Business, Innovation and Employment’s (MBIE) transparency statement describes the kind of information MBIE gathers to ensure it can effectively:
+
+  * protect people, information, and places
+  * ensure regulatory compliance, and
+  * detect and prevent criminal offending.
+
+
+
+[MBIE’s transparency statement](https://www.mbie.govt.nz/about/open-government-and-official-information/transparency-statement) | Ministry of Business, Innovation and Employment
