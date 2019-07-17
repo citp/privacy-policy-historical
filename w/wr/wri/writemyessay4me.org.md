@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the writemyessay4me.org privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411155816id_/https%3A//writemyessay4me.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writemyessay4me.org privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717020636id_/https%3A//writemyessay4me.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • WriteMyEssay4Me.org
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use [https://writemyessay4me.org](https://writemyessay4me.org/) ("us", "we", "our", the "Service") and the choices you have associated with that data. 
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use [https://WriteMyEssay4Me.org](https://writemyessay4me.org/) ("us", "we", "our", the "Service") and the choices you have associated with that data. 
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://writemyessay4me.org](https://writemyessay4me.org/)
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://WriteMyEssay4Me.org](https://writemyessay4me.org/)
 
 ##  Definitions 
 
 Service
 
-Service is the [https://writemyessay4me.org](https://writemyessay4me.org/) website (WriteMyEssay4Me.org).
+Service is the [https://WriteMyEssay4Me.org](https://writemyessay4me.org/) website (WriteMyEssay4Me.org).
 
 Personal Data
 
@@ -230,7 +230,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us: 
 
-  * By email: support@writemyessay4me.org 
-  * By visiting this page on our website: [https://writemyessay4me.org/contacts](https://web.archive.org/contacts)
+  * By email: support@WriteMyEssay4Me.org 
+  * By visiting this page on our website: [https://WriteMyEssay4Me.org/contacts](https://web.archive.org/contacts)
 
 
