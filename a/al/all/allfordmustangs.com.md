@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328021705id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dallfordmustangs.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717233345id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dallfordmustangs.com) for the most accurate reproduction.*
 
 # 
 
