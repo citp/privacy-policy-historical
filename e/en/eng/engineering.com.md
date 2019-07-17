@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineering.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311093304id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineering.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717054005id_/https%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
 
 # ENGINEERING.com | Privacy Policy
 
