@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolantarctica.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630182022id_/http%3A//www.coolantarctica.com/privacy_policy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolantarctica.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717063310id_/https%3A//www.coolantarctica.com/privacy_policy_statement.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement - GDPR
 
@@ -37,7 +37,7 @@ If you feel that this site is not following its stated information policy, you m
 ####   
 Cruise ship and other travel enquiries
 
-If you send us your personal information for the purpose of enquiring about a [cruise](https://web.archive.org/web/20190630182022id_/http%3A//www.coolantarctica.com/Travel/antarctica_travel_home.php) we will retain your name, email address and other information you voluntarily include in the registration form.
+If you send us your personal information for the purpose of enquiring about a [cruise](https://web.archive.org/web/20190717063310id_/https%3A//www.coolantarctica.com/Travel/antarctica_travel_home.php) we will retain your name, email address and other information you voluntarily include in the registration form.
 
 If you supply us with your postal address you will only receive the information for which you provided us your address.
 
@@ -50,7 +50,7 @@ We make the email addresses of those who access our site available to our cruise
 ####   
 OAE's, FID's and other Old Antarcticans
 
-If you send us your personal information for the purpose registering in the [OAE/FID](https://web.archive.org/web/20190630182022id_/http%3A//www.coolantarctica.com/Community/OAE_contact_details.php) section, we will retain your name, email address and other information you voluntarily include in the registration form.
+If you send us your personal information for the purpose registering in the [OAE/FID](https://web.archive.org/web/20190717063310id_/https%3A//www.coolantarctica.com/Community/OAE_contact_details.php) section, we will retain your name, email address and other information you voluntarily include in the registration form.
 
 The purpose of submitting your details for inclusion on the relevant webpages is to facilitate and promote contact and networking amongst former and current OAE's, FID's and those from any other country with Antarctic experience. 
 
@@ -62,7 +62,7 @@ OAE and FID information is retained by CoolAntarctica.com only and is not shared
 
 **Data location:** information received is stored as email and on a spreadsheet by CoolAntarctica, no one else has access to this other than the webmaster (me).
 
-If your details change, it is your responsibility to update your information by resubmitting [this form](https://web.archive.org/web/20190630182022id_/http%3A//www.coolantarctica.com/Community/OAE_contact_details.php) with the relevant amended details.
+If your details change, it is your responsibility to update your information by resubmitting [this form](https://web.archive.org/web/20190717063310id_/https%3A//www.coolantarctica.com/Community/OAE_contact_details.php) with the relevant amended details.
 
 Your data can be erased at any time by emailing us using the email address in your listing.
 
