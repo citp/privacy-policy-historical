@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gx-seo.net privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517135308id_/http%3A//gx-seo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gx-seo.net privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717045201id_/http%3A//gx-seo.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEO Agency Information From GX SEO
 
