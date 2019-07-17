@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silkn.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128160834id_/https%3A//silkn.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkn.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717143840id_/https%3A//silkn.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Silk’n U.S. & Canadian Website Privacy Policy
+# Website Privacy Policy | Silk'n
 
 **PRIVACY & COOKIE STATEMENT** 
 
