@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobinrwanda.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620024617id_/https%3A//www.jobinrwanda.com/content/job-rwanda-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobinrwanda.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717180222id_/https%3A//www.jobinrwanda.com/content/job-rwanda-privacy-policy) for the most accurate reproduction.*
 
 # Job in Rwanda Privacy Policy | Job in Rwanda
 
