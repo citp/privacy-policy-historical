@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justjobsng.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920182503id_/http%3A//www.justjobsng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justjobsng.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717132341id_/https%3A//www.justjobsng.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JustJobsNg Nigeria
 
@@ -37,10 +37,10 @@ We may also release your information when we believe release is appropriate to c
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **_Terms and Conditions_**  
-please refer to our terms and conditions section at <http://www.justjobsng.com/terms>
+please refer to our terms and conditions section at [http://www.justjobsng.com/terms](https://www.justjobsng.com/terms)
 
 **_Your Consent_**  
 By using our site, you consent to our privacy policy
 
 **_Unsubsription_**  
-If at any time you wish to stop receiving our Information/updates/alerts you can unsubscribe by clicking on the unsubcription link in our Job newsletters or send a request to [info@justjobsng.com](mailto:info@justjobsng.com)
+If at any time you wish to stop receiving our Information/updates/alerts you can unsubscribe by clicking on the unsubcription link in our Job newsletters or send a request to [[email protected]](https://www.justjobsng.com/cdn-cgi/l/email-protection#dfb6b1b9b09fb5aaacabb5b0bdacb1b8f1bcb0b2)
