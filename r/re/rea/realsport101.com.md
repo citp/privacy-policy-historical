@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realsport101.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404115732id_/https%3A//realsport101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsport101.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717091956id_/https%3A//realsport101.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - RealSport
 
@@ -25,7 +25,9 @@ The table below sets out what personal data we collect about you and how we coll
 Identity data (first name, last name, username or similar identifier, gender, birth date, nationality)  | Provided by you on registration or otherwise through a direct interaction with us  
 Contact data (email address)  | Provided by you on registration or otherwise through a direct interaction with us   
 Profile data (profile picture, social network account details, game account id’s/details, account preferences)  | Optional information provided on registration or otherwise through a direct interaction with us  
-Technical data (IP address, browser type, hardware type, network and software identifiers, system configuration information, location data, device information)  | Using automated technologies or interactions (such as cookies and other similar technologies)  
+Technical data (IP address, browser type, hardware type, network and software identifiers, system configuration information, location data, device information)
+
+| Using automated technologies or interactions (such as cookies and other similar technologies)  
 Usage data (visits to and use of our website, activity history, engagement data including “clicks and opens”) | Using automated technologies or interactions (such as cookies and other similar technologies)   
 Marketing and communications data (marketing preferences in respect of us and third parties)  | Provided by you on registration or otherwise through a direct interaction with us  
   
@@ -39,14 +41,14 @@ Generally, we do not rely on consent as a legal basis for processing your person
 
 **Purpose/Activity** | **Data type** | **Lawful basis for processing**  
 ---|---|---  
-To register you as a user | Identity data 
+To register you as a user | Identity data
 
 Contact data
 
 Profile data
 
 | Performance of a contract with you   
-To provide you with products and services you have registered to use  | Identity data 
+To provide you with products and services you have registered to use  | Identity data
 
 Contact data
 
@@ -65,7 +67,7 @@ Technical data
 
 Necessary for our legitimate interests (ensuring the proper operation of our website and our business)  
   
-To verify your identity and to monitor and analyse the use of your account  | Identity data 
+To verify your identity and to monitor and analyse the use of your account  | Identity data
 
 Contact data
 
