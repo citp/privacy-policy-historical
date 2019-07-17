@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chill.ie privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315162317id_/https%3A//www.chill.ie/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chill.ie privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717203652id_/https%3A//www.chill.ie/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Legal | Chill Insurance Ireland
 
