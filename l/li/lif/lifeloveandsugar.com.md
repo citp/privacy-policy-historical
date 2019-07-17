@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeloveandsugar.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315220344id_/https%3A//www.lifeloveandsugar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeloveandsugar.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718003537id_/https%3A//www.lifeloveandsugar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life Love and Sugar
 
