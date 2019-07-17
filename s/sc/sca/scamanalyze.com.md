@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scamanalyze.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129015540id_/http%3A//scamanalyze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scamanalyze.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717152810id_/http%3A//scamanalyze.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
