@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpslink.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518100948id_/http%3A//www2.vpslink.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpslink.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717202026id_/http%3A//www2.vpslink.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Privacy Policy | Endurance International Group
 
@@ -135,7 +135,7 @@ When we share your personal information with certain third-party partners, inclu
 
 
 
-Our partners may use cookies and similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here, or if you are located in the European Union, click here. Please note you will continue to receive generic ads. Click here to access our Cookie Notice.
+Our partners may use cookies and similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](http://preferences-mgr.truste.com/), or if you are located in the European Union, [click here](http://www.youronlinechoices.com/). Please note you will continue to receive generic ads. [Click here](https://www.endurance.com/privacy/cookie-policy) to access our Cookie Notice.
 
 If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent. Please note that if you access our services through a tool that hides your location, such as through a virtual private network, you may not receive our request for permission because we were not able to identify you as being located in a jurisdiction where your permission is required.
 
@@ -185,7 +185,7 @@ We use cookies, web beacons, pixels, tags, scripts and other similar technologie
 
 #### Email
 
-You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all non-transactional email messages from us or by emailing us at [privacy@endurance.com](mailto:privacy@endurance.com). Some communications from us are considered transactional or service communications (for example, important account notifications and billing information). You agree to receive these transactional and service communications as a condition of the Services that we provide to you. You must cancel your accounts for all Services, if you do not wish to receive any transactional or service communications from us. To cancel your account, please follow the instructions found in the terms of service for the applicable Service. You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
+You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all non-transactional email messages from us or by emailing us at [optout@endurance.com](mailto:optout@endurance.com). Some communications from us are considered transactional or service communications (for example, important account notifications and billing information). You agree to receive these transactional and service communications as a condition of the Services that we provide to you. You must cancel your accounts for all Services, if you do not wish to receive any transactional or service communications from us. To cancel your account, please follow the instructions found in the terms of service for the applicable Service. You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
 
 #### Phone
 
@@ -321,7 +321,7 @@ If you have any questions about this privacy notice or our data handling practic
 Data Protection Officer  
 10 Corporate Drive  
 Burlington, MA 01803  
-U.S.A. 
+U.S.A.
 
 We will address your request. In addition, you may raise a complaint with the Dutch Supervisory Authority (Autoriteit Persoonsgegevens) by contacting:
 
