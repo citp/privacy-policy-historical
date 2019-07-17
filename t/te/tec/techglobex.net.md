@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techglobex.net privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802080921id_/https%3A//www.techglobex.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techglobex.net privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717053627id_/https%3A//www.techglobex.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ We also use and offer third-party adverting programs on TechGlobeX.net to suppor
 **DoubleClick DART Cookies**  
 TechGlobeX.net may also use DART cookies to enable ads serving through Google’s DoubleClick program. Like many other advertising programs, Google as a third party advertising partner also uses cookies to enable and offer ads on our website. The usage of DART cookies from Google authorized them to serve adverts to visitors that are based on their visits to this website as well as other several websites on the web and internet.
 
-TechGlobeX.net website visitors and users can know more about DoubleClick DART cookies by visiting the Google's Ad and Content Network privacy policies & principles webpage via official URL - <http://www.google.com/policies/technologies/ads/> Web visitors and user’s information and data tracking through the DART cookie technology are subject to Google’s own privacy policy.
+TechGlobeX.net website visitors and users can know more about DoubleClick DART cookies by visiting the Google's Ad and Content Network privacy policies & principles webpage via official URL - [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/) Web visitors and user’s information and data tracking through the DART cookie technology are subject to Google’s own privacy policy.
 
 At TechGlobeX.net, Our advertising vendors may use some cookies and web beacons on our website. These advertising partners include:
 
