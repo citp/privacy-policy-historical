@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandman.edu privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626173552id_/http%3A//www.brandman.edu/about-brandman/consumer-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandman.edu privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717061338id_/https%3A//www.brandman.edu/about-brandman/consumer-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
