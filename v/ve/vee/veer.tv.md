@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veer.tv privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331222432id_/http%3A//dl.veervr.tv/VeeR-PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veer.tv privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717081658id_/http%3A//dl.veervr.tv/VeeR-PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
