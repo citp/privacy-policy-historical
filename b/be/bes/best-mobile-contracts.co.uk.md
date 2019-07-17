@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-mobile-contracts.co.uk privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517120831id_/http%3A//www.best-mobile-contracts.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-mobile-contracts.co.uk privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717125411id_/http%3A//www.best-mobile-contracts.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Best Mobile Contracts - Privacy Policy
 
