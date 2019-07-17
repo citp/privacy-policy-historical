@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4implantsolution.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114043450id_/http%3A//4implantsolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4implantsolution.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717094619id_/http%3A//4implantsolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Golpa G4-Implant Solution
 
-This Privacy Policy governs the manner in which New Age Smile LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.4implantsolution.com](http://www.4implantsolution.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by New Age Smile LLC.
+This Privacy Policy governs the manner in which New Age Smile LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://4implantsolution.com](https://4implantsolution.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by New Age Smile LLC.
 
 ### Personal identification information
 
