@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamsportlive.es privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525083245id_/http%3A//ww43.streamsportlive.es/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamsportlive.es privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717172720id_/http%3A//ww43.streamsportlive.es/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
