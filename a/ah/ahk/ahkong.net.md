@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahkong.net privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328233947id_/http%3A//ahkong.net/about/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahkong.net privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717163400id_/http%3A//ahkong.net/about/pp) for the most accurate reproduction.*
 
 # Privacy Policy | ahkong.net
 
