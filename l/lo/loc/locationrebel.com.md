@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locationrebel.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822213010id_/https%3A//www.locationrebel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locationrebel.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717162324id_/https%3A//www.locationrebel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Location Rebel
 
