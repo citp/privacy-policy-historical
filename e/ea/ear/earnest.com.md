@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnest.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330190509id_/https%3A//www.earnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnest.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717133501id_/https%3A//www.earnest.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | Earnest
 
