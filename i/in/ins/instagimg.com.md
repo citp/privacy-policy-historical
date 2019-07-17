@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instagimg.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515130416id_/http%3A//www.instagimg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instagimg.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717074649id_/http%3A//www.instagimg.com/privacy-policy) for the most accurate reproduction.*
 
 # Best Instagram Online Viewer | Instagimg
 
