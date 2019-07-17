@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agarwalpackers.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403211749id_/http%3A//www.agarwalpackers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agarwalpackers.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717122633id_/http%3A//www.agarwalpackers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Agarwal Packers and Movers Privacy Policy
 
