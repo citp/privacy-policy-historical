@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadfiles.eu privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619152850id_/https%3A//modsbase.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadfiles.eu privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717020546id_/https%3A//modsbase.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Modsbase.com - Base of your Mods
 
