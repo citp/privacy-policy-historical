@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msf.org privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412233827id_/https%3A//www.msf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msf.org privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717193328id_/https%3A//www.msf.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Médecins Sans Frontières (MSF) International
 
@@ -46,7 +46,7 @@ We may get your personal information via a fundraising organisation or platform 
   * Like most websites, our Website may place a “cookie” – a small text file – in the browser of your computer. This cookie will assign you a unique number that allows us to save your information so that the information does not need to be re-entered. Cookies can be either “persistent” or “session” based. Our Website uses both types of cookies.
   * Persistent cookies are stored on your computer, contain an expiration date (by default the cookies expire after 23 days), and may be used to track your browsing behaviour upon return to the issuing website or component (such as plugins or embedded media, e.g., a YouTube video embedded on our website). You can remove persistent cookies by following directions provided in your internet browser’s “Help” menu.
   * Session cookies are short-lived, are used only during a browsing session, and expire when you quit your browser.
-  * You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Instructions on how to do so will vary from browser to browser but you can find out more at [www.aboutcookies.org](https://web.archive.org/web/20190412233827id_/https%3A//www.msf.org/www.aboutcookies.org). Some features and functionality may be lost if you choose to disable cookies. Also, remember that you will have to adjust the cookie settings for each browser and device and you use to visit our Website.
+  * You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Instructions on how to do so will vary from browser to browser but you can find out more at [www.aboutcookies.org](https://web.archive.org/web/20190717193328id_/https%3A//www.msf.org/www.aboutcookies.org). Some features and functionality may be lost if you choose to disable cookies. Also, remember that you will have to adjust the cookie settings for each browser and device and you use to visit our Website.
   * Our Website may contain links to other sites that may use cookie technology. We do not have access to, or control over, these cookies.
 
 
