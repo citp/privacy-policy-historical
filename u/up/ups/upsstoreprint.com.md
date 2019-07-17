@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsstoreprint.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331085033id_/https%3A//www.upsstoreprint.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsstoreprint.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717220243id_/https%3A//www.upsstoreprint.com/privacy-notice) for the most accurate reproduction.*
 
 # Online Printing Privacy Notice | UPS Store Print
 
