@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zones.com privacy policy that was archived on 2019-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612053151id_/https%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zones.com privacy policy that was archived on 2019-07-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190717200610id_/https%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -141,14 +141,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://media.zones.com/scripts/libs/jquery.validate.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://media.zones.com/images/css/app.4b735e34.css">
 
-<script src="https://media.zones.com/scripts/cart_page_prod.js"></script>
+<script src="https://media.zones.com/scripts/header_minicart.a3ed8ef2.js"></script>
 <link rel="stylesheet" href="https://media.zones.com/scripts/cart_page_prod.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
 
 <!--
-<link rel="stylesheet" href="https://localhost:8888/app.66d5da61.css">
-<script src="https://localhost:8888/scripts.bcf3243b.js"></script>
+<link rel="stylesheet" href="https://localhost:8888/app.dae1df58.css">
+<script>pt src="https://localhost:8888/header_minicart.26418a8e.js"></script>
 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
 
 <!--[if lt IE 9]>
 	<script src="https://media.zones.com/scripts/vendor/html5shiv/html5shiv.min.js"></script>
@@ -569,6 +569,47 @@ $(function() {
 				<!--Body Part Starts-->
 				<div class="body_content" id="z-body--static">
 					
+<script>
+/*
+set rules for zone toggling content
+
+zones_options object will content all zones applying toggle rules
+
+key: zone ( ex: microsoftepp )
+value: array containing class or id of hidden elements
+  
+*/
+var zone_options = {
+    "microsoftepp": [
+        '.js__z_toggle_content'
+    ]
+}
+
+function trigger_toggle_based_on_zone() {
+    var zones = Object.keys(zone_options);
+
+    for (var j in zones) {
+        var zone = zones[j];
+        var is_zone_shown = location.href.indexOf('zone='+zone) > -1 || $("#logo").attr("href").indexOf('zone='+zone) > -1;
+
+        if (is_zone_shown) {
+            var options = zone_options[zone];
+            for (var i in options) {
+                var k = options[i];
+                var $el = $(k);
+        
+                if ($el.length > 0) $el.hide();
+            }
+        }
+    }
+}
+
+$(function() {
+    trigger_toggle_based_on_zone();
+});
+
+
+</script>
 
 <link rel="stylesheet" type="text/css" href="https://media.zones.com/images/css/new_homepage.css">
 <style>
@@ -897,7 +938,7 @@ $(document).ready(function() {
 				Auburn, WA 98001<br>
 				<strong>Phone:</strong> 253-205-3000</p>
 				
-				<p>Or feel free to utilize our complete <a href="https://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us">Contact List</a>.</p>
+				<p class="js__z_toggle_content">Or feel free to utilize our complete <a href="https://www.zones.com/site/statics/static_page.html?name=corporate/about-us/contact-us">Contact List</a>.</p>
 
 			</div>
 		</section>
