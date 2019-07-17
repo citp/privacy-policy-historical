@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the back4app.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522003036id_/https%3A//www.back4app.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the back4app.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717185458id_/https%3A//www.back4app.com/privacy.pdf) for the most accurate reproduction.*
 
 # Back4App Privacy Policy
 
