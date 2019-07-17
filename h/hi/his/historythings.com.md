@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historythings.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331191344id_/https%3A//historythings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historythings.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717054935id_/https%3A//historythings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - History Things
 
@@ -40,7 +40,7 @@ We use non-personally identifiable data collected from users and website visitor
 
 8)      To provide you with transactional communication. We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled. These may include order confirmations, renewal notices, invoices or customer service notifications.
 
-9)      To provide you with Email newsletters-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#691c071a1c0b1a0a1b000b0c2921001a1d061b103d0100070e1a470a0604)
+9)      To provide you with Email newsletters-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1d68736e687f6e7e6f747f785d55746e69726f64497574737a6e337e7270)
 
 10)  To provide you with Email marketing offers, reader surveys and other promotional material.
 
@@ -76,7 +76,7 @@ We have taken every reasonable step to safeguard and to help prevent the loss, m
 
 **Opt-out**
 
-To opt-out from any of our direct promotions, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6613081513041505140f0403262e0f151209141f320e0f0801154805090b)
+To opt-out from any of our direct promotions, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80f5eef3f5e2f3e3f2e9e2e5c0c8e9f3f4eff2f9d4e8e9eee7f3aee3efed)
 
 HistoryThings uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by [clicking here.](http://www.networkadvertising.org/choices/)
 
