@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craveonline.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613180353id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craveonline.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717103933id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mandatory
 
