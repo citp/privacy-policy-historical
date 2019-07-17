@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the privatecams.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818235829id_/http%3A//www.privatecams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatecams.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717135320id_/https%3A//www.privatecams.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PrivateCams
+# Privacy Policy - Privatecams
 
 This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
