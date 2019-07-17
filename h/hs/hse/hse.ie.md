@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hse.ie privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223181227id_/https%3A//www.hse.ie/eng/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hse.ie privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717134903id_/https%3A//www.hse.ie/eng/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement HSE.ie - HSE.ie
 
@@ -40,9 +40,7 @@ Email address: [dpo@hse.ie](mailto:dpo@hse.ie)
 
 Personal data means any information relating to you which allows the HSE to identify you, such as your name & address, contact phone numbers and email address.
 
-Most areas of the [www.hse.ie](https://www.hse.ie/eng/) website can be accessed by you without the need for you to provide any of your personal data. Some areas, though, require you to submit your name, email address, and other contact details, for example when you use the Livechat service, make a complaint via YourServiceYourSay, order certificates online, sign up for programmes like the X-Pert Diabetes Programme or newsletters like the HSE Mental Health Connecting for Life newsletter.
-
-#### Primary Care Reimbursement Service
+Most areas of the [www.hse.ie](https://www.hse.ie/eng/) website can be accessed by you without the need for you to provide any of your personal data. Some areas, though, require you to submit your name, email address, and other contact details, for example when you use the Livechat service, order resources, make a complaint via YourServiceYourSay, order certificates online, sign up for programmes like the X-Pert Diabetes Programme or newsletters like the HSE Mental Health Connecting for Life newsletter.
 
 The Primary Care Reimbursement Service (PCRS) manage all online and offline data for medical cards, GP Visit Cards, European Health Insurance Cards (EHIC). You can read PCRS’ [privacy policy](https://web.archive.org/eng/staff/pcrs/24052018-privacy-statment.pdf) and cookie policy
 
@@ -54,6 +52,8 @@ The HSE may collect and use the following personal data about you:
   * Information about your use of this website
 
 
+
+Web chat services on HSE.ie use cookies to make the service work properly. These are anonymous cookies that cannot track you while you use other websites. We will handle any data you share with the HSE in line with the General Data Protection Regulation (GDPR).
 
 ## Cookies & Site Tracking
 
@@ -80,8 +80,7 @@ Any personal data we collect from you on this website will only be used by the H
   * To process a complaint
   * Send you a birth, death, marriage certificate
   * Analysis of visitor traffic to and usage of our website
-  * To distribute various HSE newsletters and information notices regarding HSE health
-campaigns and promotions which the HSE feels may be of benefit to you. 
+  * To distribute various HSE newsletters and information notices regarding HSE health campaigns and promotions which the HSE feels may be of benefit to you.
   * To gain your feedback on this website
 
 
@@ -146,11 +145,14 @@ Email: [dpo@hse.ie](mailto:dpo@hse.ie)
 
 Phone: 01 635 2726
 
-Address: Dr Steevens Hospital
+Address: 
+
+Dr Steevens Hospital
 
 Steevens Lane
 
 Dublin 8  
+  
 ---|---  
   
 **Deputy Data Protection Officer West**
@@ -182,9 +184,7 @@ Rosalie Smith-Lynch
 
 Email: [ddpo.dne@hse.ie](mailto:ddpo.dne@hse.ie)
 
-Phone: 046-9251265
-
-            049-4377343  
+Phone: 046-9251265/049-4377343  
   
 **Deputy Data Protection Officer Dublin mid-Leinster (excluding voluntaries)**
 
@@ -198,9 +198,7 @@ Debbie Keyes
 
 Email: [ddpo.dml@hse.ie](mailto:ddpo.dml@hse.ie)
 
-Phone: 057-9357876
-
-             045-880496  
+Phone: 057-9357876/045-880496  
   
 **Deputy Data Protection Officer South (excluding voluntaries)**
 
@@ -211,8 +209,8 @@ Phone: 057-9357876
 
 | 
 
-Liam Quirke
+Mary Deasy
 
 Email: [ddpo.south@hse.ie](mailto:ddpo.south@hse.ie)
 
-Phone: 091-775819
+Phone: (021) 4928538/(056) 7785598
