@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovertuscany.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623114932id_/http%3A//www.discovertuscany.com/legal-notes.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovertuscany.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717100030id_/https%3A//www.discovertuscany.com/legal-notes.html) for the most accurate reproduction.*
 
 # Discover Tuscany - Legal Notes about Copyright, Privacy and Cookie Policy and Disclaimers
 
@@ -44,7 +44,7 @@ WebPromoter is a private company based in Florence, with offices in via G.b. Vic
 
 WebPromoter manages the site listed above and controls the management of personal data as described in this statement, in accordance with the current privacy laws ( _General Data Protection Regulation (GDPR) - EU Regulation 2016/679_ ).
 
-You can contact us by email at [webpromoter@registerpec.it](mailto:webpromoter@registerpec.it) (PEC) or [info@discovertuscany.com](mailto:info@discovertuscany.com).
+You can contact us by email at webpromoter@registerpec.it (PEC) or info@discovertuscany.com.
 
 ### On what legal basis does WebPromoter collect and manage personal data?
 
@@ -110,7 +110,7 @@ Services offered by WebPromoter are only for users over the age of 16. Any user 
 
 ### How to check, update and possibly delete the personal data you have shared with Webpromoter?
 
-In accordance with current privacy laws ( _General Data Protection Regulation (GDRP) - EU Regulation 2016/679_ ) and upon request, you have the right to review the personal data WebPromoter keeps about you. You can send us an email at [info@discovertuscany.com](mailto:info@discovertuscany.com) or [webpromoter@registerpec.it](mailto:webpromoter@registerpec.it) where you can ask us for a copy of the personal data we hold about you, inform us of any changes or corrections you want made or ask us to permanently delete or restrict the processing of the personal data we have about you from our archives.
+In accordance with current privacy laws ( _General Data Protection Regulation (GDRP) - EU Regulation 2016/679_ ) and upon request, you have the right to review the personal data WebPromoter keeps about you. You can send us an email at info@discovertuscany.com or webpromoter@registerpec.it where you can ask us for a copy of the personal data we hold about you, inform us of any changes or corrections you want made or ask us to permanently delete or restrict the processing of the personal data we have about you from our archives.
 
 Every communication we send through the Mailchimp platform also provides a link to update or unsubscribe from any future mailings. We will always do our best to respond promptly and exhaustively to each request as is our duty. The user always has the right to file a complaint with the supervisory authority.
 
@@ -205,8 +205,6 @@ These cookies (third-party advertising services) are used to publish personalize
   * Privacy policy - <http://www.addthis.com/privacy>
   * Opt-out option - <http://www.addthis.com/privacy/opt-out>
 
-
-
   * ### Social Media Cookies
 
 
@@ -241,9 +239,9 @@ The user should refer to manuals or Help sections of their browser to learn how 
 
   * Internet Explorer:[ http://windows.microsoft.com/it-it/windows7/block-enable-or-allow-cookiess](http://windows.microsoft.com/it-it/windows7/block-enable-or-allow-cookies)
 
-  * Opera:[ http://help.opera.com/Windows/10.00/it/cookiess.html](http://help.opera.com/Windows/10.00/it/cookies.html)
+  * Opera: <https://help.opera.com/en/latest/security-and-privacy/>
 
-  * Safari:[ https://www.apple.com/legal/privacy/it/cookies/](https://www.apple.com/legal/privacy/it/cookies/)
+  * Safari: <https://www.apple.com/legal/privacy/it/cookies/>
 
 
 
@@ -268,7 +266,6 @@ By using this website, you signify your acceptance of these policies. If you do 
 
 ### Contacting us
 
-If you have any questions about this Privacy Statement, about our processing of your personal data, these terms or the use of cookies, please contact us via email at [info@discovertuscany.com](mailto:info@discovertuscany.com) or [webpromoter@registerpec.it](mailto:webpromoter@registerpec.it).
+If you have any questions about this Privacy Statement, about our processing of your personal data, these terms or the use of cookies, please contact us via email at info@discovertuscany.com or webpromoter@registerpec.it.
 
-  
 **_Last update: May 24, 2018_**
