@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vamboa.org privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208053459id_/http%3A//www.vamboa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vamboa.org privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717102654id_/https%3A//vamboa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & User Policy - VAMBOA.org
 
