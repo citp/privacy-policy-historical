@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerobjects.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523091643id_/https%3A//www.powerobjects.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerobjects.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717155039id_/https%3A//www.powerobjects.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PowerObjects, an HCL Technologies Company | Microsoft Dynamics 365 | PowerObjects
 
