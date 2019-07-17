@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the starcolony.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311064949id_/http%3A//starcolony.com/sc/theme/policy.html%3Ft%3D1551259903) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcolony.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717051644id_/http%3A//starcolony.com/sc/theme/policy.html%3Ft%3D1554204114) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated on May 24th, 2018
+Last updated on July 16th, 2019
 
 #### 1\. General provisions. 
 
 Elyland Investment Company Limited (hereafter referred to as «We» or «Company») takes all the necessary measures to process fairly and to protect the personal data of players of the game «StarColony» (hereafter referred to as «Game»). 
 
-This policy (hereafter referred to as «Policy» or «Privacy Policy») as well as the [**End User License Agreement**](https://web.archive.org/web/20190311064949id_/http%3A//starcolony.com/sc/theme/conditions.html) (EULA) and all its addenda, regulate issues related to the collection, storage and processing of personal and other data of the players participating in the Game, which the Company collects as a result of You using the Game. To ensure transparency and security, Our Privacy Policy as set forth below will inform You about the nature, scope, and purpose of the personal data processed by Us. This Privacy Policy also explains how personal information (personal identifiable information, personal data) is collected, used and disclosed by Us while using the Game, or any related services made available through the Game, or when You otherwise interact with Us. 
+This policy (hereafter referred to as «Policy» or «Privacy Policy») as well as the [**End User License Agreement**](https://web.archive.org/web/20190717051644id_/http%3A//starcolony.com/sc/theme/conditions.html) (EULA) and all its addenda, regulate issues related to the collection, storage and processing of personal and other data of the players participating in the Game, which the Company collects as a result of You using the Game. To ensure transparency and security, Our Privacy Policy as set forth below will inform You about the nature, scope, and purpose of the personal data processed by Us. This Privacy Policy also explains how personal information (personal identifiable information, personal data) is collected, used and disclosed by Us while using the Game, or any related services made available through the Game, or when You otherwise interact with Us. 
 
 We reserve the right to update this Privacy Policy at any time without prior notice. We will process data in accordance to the Privacy Policy that you have consented to at the time of your consent. Upon a change in Policy, we will alert you with a conspicuous in-Game banner notice; your continued use of the Game and/or its services will constitute Your consent to the updated Policy. Use the “Last Updated” date in this Policy to determine when it was last changed. 
 
@@ -37,7 +37,7 @@ We collect, process, or use the following categories of personal and other data:
 
 
 
-_Payment information:_   We do not collect any payment data or personal payment data. Payments that You may make for the purpose of purchasing Additional Services or objects in the Game, will be processed by the payment processor according to its confidentiality and security policy. However, Our payment services provider disclose to Us some categories of users data related to their payments, in particular cardholder name, expiration date of your card, sum of the transaction, number of Your account or electronic wallet, etc. 
+_Payment information:_  Payments that You may make for the purpose of purchasing Additional Services or objects in the Game, will be processed by the payment processor according to its confidentiality and security policy. However, Our payment services provider disclose to Us some categories of users data related to their payments, in particular first and last four numbers of Your bank card, type of card (Visa/Master card, debit/credit), name of bank - card issuer and location of bank (country), cardholder name, expiration date of Your card, IP address, which is used to connect Your device to the internet during payment procedure, sum of the transaction, number of Your account or electronic wallet, etc. 
 
 When You make a payment for Additional Services in Our Game, You will be redirected to the web pages of the respective payment systems depending on the payment method chosen, and will have to personally provide all of the data required by such payment systems for the purpose of processing the payment. When using a debit or credit card to purchase Additional Services, You will be required to enter the following data: PAN, cardholder name, service code, expiration date of Your card on the website of the payment system. When purchasing Additional Services via electronic payment systems, You will be required to provide the number of Your account or electronic wallet. 
 
