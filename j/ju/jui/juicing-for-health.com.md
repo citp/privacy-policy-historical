@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicing-for-health.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517221120id_/https%3A//juicing-for-health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicing-for-health.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717182034id_/https%3A//juicing-for-health.com/privacy-policy) for the most accurate reproduction.*
 
 # - Juicing for Health
 
