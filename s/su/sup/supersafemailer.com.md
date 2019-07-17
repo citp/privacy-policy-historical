@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersafemailer.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518035219id_/http%3A//supersafemailer.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersafemailer.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717230642id_/http%3A//supersafemailer.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Super Safe Mailer
 
