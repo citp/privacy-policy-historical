@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonstopenglish.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619030754id_/http%3A//nonstopenglish.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonstopenglish.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717155443id_/http%3A//www.nonstopenglish.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - NonStopEnglish.com
 
@@ -206,4 +206,4 @@ We use Google Analytics to measure traffic on our website. Google has their own 
 
 If you have any questions or suggestions regarding our privacy policy, please email us at: webmaster@nonstopenglish.com
 
-Copyright © [NonStopEnglish.com](http://www.nonstopenglish.com/) | [Privacy Policy](https://web.archive.org/web/20190619030754id_/http%3A//nonstopenglish.com/privacy.asp) | [Contact Us](https://web.archive.org/web/20190619030754id_/http%3A//nonstopenglish.com/contact.html)
+Copyright © [NonStopEnglish.com](http://www.nonstopenglish.com/) | [Privacy Policy](https://web.archive.org/web/20190717155443id_/http%3A//www.nonstopenglish.com/privacy.asp) | [Contact Us](https://web.archive.org/web/20190717155443id_/http%3A//www.nonstopenglish.com/contact.html)
