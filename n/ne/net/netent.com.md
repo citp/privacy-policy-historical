@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netent.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422124516id_/https%3A//www.netent.com/en/netent-privacy-policy-eu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netent.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717173433id_/https%3A//www.netent.com/en/netent-privacy-policy-eu) for the most accurate reproduction.*
 
 # NetEnt Privacy Policy (EU) | NetEnt | Better Gaming
 
@@ -29,7 +29,7 @@ Emails unsubscribed;
 
 30 days.
 
-| Send an email to privacy@netent.com 
+| Send an email to gdpr@netent.com 
 
 Unsubscribe yourself.  
   
@@ -37,8 +37,8 @@ Emails from you | Records of correspondence we have with you | NetEnt AB (publ.)
 
 unless such interests could be deemed overridden by the interests or fundamental rights and freedoms of the data subject.
 
-| Send an email to privacy@netent.com  
-NetEnt.com Client area | If you work for an Operator you may have access to our client area where we will save your work email, name, job telephone number and job title | The NetEnt Group company with which the Operator has a contract | Managing our relationship with the Operator you work for  | For the duration of our contract with the Operator you work for | You can remove or correct the information yourself in the Client area or send an email to privacy@netent.com  
+| Send an email to gdpr@netent.com  
+NetEnt.com Client area | If you work for an Operator you may have access to our client area where we will save your work email, name, job telephone number and job title | The NetEnt Group company with which the Operator has a contract | Managing our relationship with the Operator you work for  | For the duration of our contract with the Operator you work for | You can remove or correct the information yourself in the Client area or send an email to gdpr@netent.com  
   
 **OTHER USE**
 
@@ -90,7 +90,7 @@ Since the internet is not a completely secure environment we can’t guarantee t
 
 **CONTACT**
 
-If you have any questions, complaints or comments about this document or our use of Personal Data contact us by email at privacy@netent.com.
+If you have any questions, complaints or comments about this document or our use of Personal Data contact us by email at gdpr@netent.com.
 
 You can also complain to your local [Data protection authority](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
