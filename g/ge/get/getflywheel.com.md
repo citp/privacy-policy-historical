@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getflywheel.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628002526id_/https%3A//getflywheel.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflywheel.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717185421id_/https%3A//getflywheel.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Flywheel | Privacy Policy
 
@@ -68,7 +68,7 @@ If you utilize our services from a country other than the country where our serv
 
 The security of your Personal Information is important to us, and we use generally accepted security measures to protect against the loss, misuse or alternation of the information under our control, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. We strive to use commercially acceptable means to protect your Personal Information, but we cannot guarantee its absolute security.
 
-If you have any questions about the security of your Personal Information, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dbb8b4b6abb7b2bab5b8be9bbcbeafbdb7a2acb3bebeb7f5b8b4b6).  We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
+If you have any questions about the security of your Personal Information, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9dad6d4c9d5d0d8d7dadcf9dedccddfd5c0ced1dcdcd597dad6d4).  We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
 
 ## **EU-U.S. Privacy Shield Framework**
 
@@ -78,7 +78,7 @@ We may be required to disclose Personal Information in response to lawful reques
 
 You have the right to access Personal Information we have collected about you and can request us to make updates or corrections to your Personal Information. You also have the right to request that we delete your data if you believe it has been processed in violation of the EU Framework principles.
 
-In compliance with the Privacy Shield principles, we commit to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ffffde6f9eeecf6cfe8eafbe9e3f6f8e7eaeae3a1ece0e2).
+In compliance with the Privacy Shield principles, we commit to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ddadafb4abbcbea49dbab8a9bbb1a4aab5b8b8b1f3beb2b0).
 
 We are committed to cooperate with EU data protection authorities (“DPAs”) and to comply with the advice given by such authorities with regards to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
 
@@ -94,7 +94,7 @@ The list of participants in the EU Framework is available at [https://www.privac
 
 We comply with the Swiss-U.S. Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from Switzerland. We have certified that we adhere to the Swiss-U.S. Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. To learn more about the Swiss-U.S. Privacy Shield and to view our certification, visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-In compliance with the Privacy Shield principles, we commit to resolve complaints about our collection or use of your personal information. Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3d3d1cad5c2c0dae3c4c6d7c5cfdad4cbc6c6cf8dc0ccce).
+In compliance with the Privacy Shield principles, we commit to resolve complaints about our collection or use of your personal information. Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6313110a1502001a23040617050f1a140b06060f4d000c0e).
 
 ## **Third Party Service Providers**
 
@@ -110,7 +110,7 @@ When your account is terminated (either voluntarily or involuntarily) all of you
 
 ## **Your Rights Over Personal Information We Control**
 
-Upon request we will provide you with information about whether we hold, or process on behalf of a third party, any of your Personal Information.  You may access, correct, or request deletion of your personal information by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97e7e5fee1f6f4eed7f0f2e3f1fbeee0fff2f2fbb9f4f8fa). 
+Upon request we will provide you with information about whether we hold, or process on behalf of a third party, any of your Personal Information.  You may access, correct, or request deletion of your personal information by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a5a58435c4b49536a4d4f5e4c46535d424f4f4604494547). 
 
 To deactivate your account, please contact us [https://getflywheel.com/help](https://getflywheel.com/help)
 
@@ -128,7 +128,7 @@ Fancy Chap, Inc. may update this Privacy Policy from time to time. We will notif
 
 ## **Age Restrictions**
 
-Our services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 18. If you know of or have reason to believe anyone under the age of 18 has provided us with any Personal Information, please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#127a777e7e7d52757766747e6b657a77777e3c717d7f).
+Our services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 18. If you know of or have reason to believe anyone under the age of 18 has provided us with any Personal Information, please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#7c14191010133c1b19081a10050b14191910521f1311).
 
 ## **Contact Us**
 
