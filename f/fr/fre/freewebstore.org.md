@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824014326id_/https%3A//freewebstore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717112026id_/https%3A//freewebstore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Freewebstore
 
