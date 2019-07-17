@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettyhandygirl.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127232619id_/https%3A//www.prettyhandygirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyhandygirl.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717073704id_/https%3A//www.prettyhandygirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pretty Handy Girl
 
