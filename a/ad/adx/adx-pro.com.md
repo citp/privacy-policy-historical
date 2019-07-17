@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adx-pro.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321230140id_/http%3A//www.adx-pro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adx-pro.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717213410id_/http%3A//www.adx-pro.com/privacy.html) for the most accurate reproduction.*
 
 # ADX Holdings | Privacy Policy
 
