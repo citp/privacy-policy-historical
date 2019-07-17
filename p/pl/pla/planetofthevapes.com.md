@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetofthevapes.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621235031id_/https%3A//www.planetofthevapes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetofthevapes.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717170717id_/https%3A//www.planetofthevapes.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet Of The Vapes
 
