@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trend-chaser.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611115243id_/http%3A//www.trend-chaser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trend-chaser.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717034542id_/http%3A//www.trend-chaser.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
