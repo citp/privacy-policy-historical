@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrbranchi.gov.in privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518024015id_/http%3A//rrbranchi.gov.in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrbranchi.gov.in privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717155833id_/http%3A//www.rrbranchi.gov.in/privacy.htm) for the most accurate reproduction.*
 
 # Recruitment
 
