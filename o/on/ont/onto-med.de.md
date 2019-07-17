@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onto-med.de privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512011750id_/http%3A//www.onto-med.de/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onto-med.de privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717053334id_/http%3A//www.onto-med.de/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
