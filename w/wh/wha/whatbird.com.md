@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatbird.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421162156id_/https%3A//www.whatbird.com/Privacy/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatbird.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717062712id_/https%3A//www.whatbird.com/Privacy/privacy_statement.aspx) for the most accurate reproduction.*
 
 # WhatBird Privacy Policy
 
