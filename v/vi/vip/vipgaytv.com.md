@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipgaytv.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515110813id_/http%3A//www.vipgaytv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipgaytv.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717152218id_/http%3A//www.vipgaytv.com/privacy.php) for the most accurate reproduction.*
 
 # Our Commitment To Privacy
 
