@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onfaucet.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611041731id_/http%3A//onfaucet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onfaucet.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717192841id_/http%3A//onfaucet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
