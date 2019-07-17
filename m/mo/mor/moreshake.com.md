@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moreshake.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409081553id_/http%3A//www.moreshake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreshake.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717160115id_/http%3A//www.moreshake.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MoreShake
 
