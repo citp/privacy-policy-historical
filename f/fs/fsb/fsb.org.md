@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsb.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624171231id_/http%3A//www.fsb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsb.org privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717063339id_/https%3A//www.fsb.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Financial Stability Board
 
