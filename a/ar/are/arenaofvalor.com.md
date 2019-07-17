@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaofvalor.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328193731id_/https%3A//www.arenaofvalor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaofvalor.com privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717164413id_/https%3A//www.arenaofvalor.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
