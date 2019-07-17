@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedonlineads.net privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003211304id_/http%3A//classifiedonlineads.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedonlineads.net privacy policy that was archived on 2019-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190717113125id_/http%3A//classifiedonlineads.net/privacy.php) for the most accurate reproduction.*
 
 # 
 
