@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficecapsule.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617053704id_/http%3A//www.boxofficecapsule.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficecapsule.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718163003id_/http%3A//www.boxofficecapsule.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Box Office Capsule
 
