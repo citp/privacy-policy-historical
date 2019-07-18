@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4theguys.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514104501id_/http%3A//4theguys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4theguys.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718071816id_/http%3A//4theguys.com/privacy.html) for the most accurate reproduction.*
 
 # 4 The Guys
 
