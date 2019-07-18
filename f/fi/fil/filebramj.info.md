@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filebramj.info privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514194533id_/http%3A//filebramj.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filebramj.info privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718060035id_/http%3A//filebramj.info/privacy) for the most accurate reproduction.*
 
 # privacy – filebram
 
