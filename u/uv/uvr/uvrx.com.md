@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uvrx.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610162520id_/http%3A//www.uvrx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvrx.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718204208id_/http%3A//www.uvrx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.uvrx.com
 
