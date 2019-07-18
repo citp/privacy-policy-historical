@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushys.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905164011id_/https%3A//www.pushys.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushys.com.au privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718093957id_/https%3A//www.pushys.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Pushys Privacy Policy
 
