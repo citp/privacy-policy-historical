@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmaniya.in privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605090221id_/http%3A//www.techmaniya.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmaniya.in privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718214454id_/http%3A//www.techmaniya.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Maniya
 
@@ -98,9 +98,7 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-  *  **Google Analytics**
-
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+  *  **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
