@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetsoho.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617182221id_/http%3A//www.planetsoho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetsoho.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718134832id_/http%3A//www.planetsoho.com/privacy-policy) for the most accurate reproduction.*
 
 # Invoicing - Billing | PlanetSoho | Privacy Policy
 
