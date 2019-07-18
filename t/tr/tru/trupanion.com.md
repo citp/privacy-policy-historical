@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112111426id_/https%3A//trupanion.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718032933id_/https%3A//trupanion.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trupanion
 
@@ -12,20 +12,20 @@ At Trupanion, we know the importance of respecting your privacy and maintaining 
 
 ### What personal information do we collect?
 
-The types of personal information we collect may include: 
+The types of personal information we collect may include:
 
-  * Your name, address, email address, and phone number 
+  * Your name, address, email address, and phone number
   * Information regarding your dealings with us, including policy information, claims history, premiums and payment information.
 
 
 
 ### How do we collect this personal information?
 
-We collect your personal information, for example, when you: 
+We collect your personal information, for example, when you:
 
-  * Apply for insurance, pay premiums, or make changes to your policy 
-  * File a claim 
-  * Provide employment information 
+  * Apply for insurance, pay premiums, or make changes to your policy
+  * File a claim
+  * Provide employment information
   * Fill out customer surveys
 
 
@@ -46,6 +46,8 @@ Reasons we can share your personal information | Do we share? | Can you limit th
 **For our affiliates everyday business purpose** — information about your creditworthiness | No | We don't share  
 **For non-affiliates to market their products or services to you** | No | We don't share  
   
+
+
 ### How do we protect your personal information?
 
 We use a number of security measures to protect your personal information from unauthorized access and use. These measures include computer safeguards and secured files and buildings.
@@ -56,11 +58,11 @@ Federal law gives you the right to limit only (i) sharing for affiliates’ ever
 
 ### Can I see my personal information?
 
-Yes. You have the right to see and, if necessary, correct personal information. If you wish to review your recorded personal information, please email us at [customercare@trupanion.com](mailto:customercare@trupanion.com?). Please include your name, address, telephone number, and policy number, and let us know what kind of information you want to see. If you see any mistakes, please let us know and we will review it. If we agree, we will correct our files. If we disagree, you may file a short statement of dispute with us. Your statement will be included with any data we disclose in the future.
+Yes. You have the right to see and, if necessary, correct personal information. If you wish to review your recorded personal information, please email us at [customercare@trupanion.com](mailto:customercare@trupanion.com?). Please include your name, address, telephone number, and policy number, and let us know what kind of information you want to see. If you see any mistakes, please let us know and we will review it. If we agree, we will correct our files. If we disagree, you may file a short statement of dispute with us. Your statement will be included with any data we disclose in the future.
 
-###  Questions?
+### Questions?
 
-Please feel free to call us at (855) 587-7715, or [customercare@trupanion.com](mailto:customercare@trupanion.com?) if you have any questions about this Notice.
+Please feel free to call us at (855) 587-7715, or [customercare@trupanion.com](mailto:customercare@trupanion.com?) if you have any questions about this Notice.
 
 ### For California Residents:
 
@@ -78,13 +80,13 @@ We also want to make you aware of how we use online data collecting devices know
 
 We use the SSL protocol, secure servers, and security protocol to safeguard the information you submit over the internet. Email messages are not secure and may be vulnerable to viewing, alteration, and copying. This website contains links to other websites. We provide links to other websites as a convenience to persons who visit our website. If you choose to use the services provided by those websites, you may be asked by those websites to provide certain personally identifiable information. Please be aware we are not responsible for the privacy practices of those websites, even if our name or logo appear on those websites. Please be aware that when you leave our website, we encourage you to read the privacy policies of each and every website that you visit, as the privacy policies of those websites may differ from ours. This privacy statement applies solely to this website.
 
-We also work with third-party internet advertising companies to direct behaviorally-targeted advertising to a variety of our website visitors. You may choose to opt out from participating in behavioral targeted advertising by visiting the Network Advertising Initiative (NAI) opt out page: <http://www.networkadvertising.org/managing/opt_out.asp>. By opting out, you will stop receiving behavioral target ads from your visits to this website, but this does not mean you will be served any non-behavioral ads, nor does opting out stop information from being collected.
+We also work with third-party internet advertising companies to direct behaviorally-targeted advertising to a variety of our website visitors. You may choose to opt out from participating in behavioral targeted advertising by visiting the Network Advertising Initiative (NAI) opt out page: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp). By opting out, you will stop receiving behavioral target ads from your visits to this website, but this does not mean you will be served any non-behavioral ads, nor does opting out stop information from being collected.
 
 ### Better Business Bureau Accreditation and Verisign Secure Site Program
 
 **Better Business Bureau Accreditation**
 
-[](http://www.bbb.org/western-washington/business-reviews/insurance-companies/trupanion-in-seattle-wa-22429232#bbbseal "Trupanion is a BBB Accredited Insurance Company in Seattle, WA")
+[](https://www.bbb.org/western-washington/business-reviews/insurance-companies/trupanion-in-seattle-wa-22429232#bbbseal "Trupanion is a BBB Accredited Insurance Company in Seattle, WA")
 
 Trupanion understands the importance of your privacy and security, especially when making purchases online. Trupanion has been a [Better Business Bureau Accredited](https://www.bbb.org/western-washington/business-reviews/insurance-companies/trupanion-in-seattle-wa-22429232) company since December 2002, and has a **BBB Rating of A+ (2014)**  (the highest rating BBB offers). 
 
