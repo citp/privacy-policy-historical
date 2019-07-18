@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronics-lab.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617060544id_/http%3A//www.electronics-lab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-lab.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718103154id_/https%3A//www.electronics-lab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Electronics-Lab
 
