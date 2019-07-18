@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allego.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502212207id_/https%3A//www.allego.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allego.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718215928id_/https%3A//www.allego.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Allego
 
