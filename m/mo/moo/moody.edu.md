@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402143644id_/https%3A//www.moody.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718231526id_/https%3A//www.moody.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
