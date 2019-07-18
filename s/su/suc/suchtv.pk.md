@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suchtv.pk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403022747id_/https%3A//www.suchtv.pk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suchtv.pk privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718072813id_/https%3A//www.suchtv.pk/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - SUCH TV
 
