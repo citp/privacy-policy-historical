@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterqueue.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322190139id_/https%3A//smarterqueue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterqueue.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718140735id_/https%3A//smarterqueue.com/privacy) for the most accurate reproduction.*
 
 # SmarterQueue - Privacy
 
