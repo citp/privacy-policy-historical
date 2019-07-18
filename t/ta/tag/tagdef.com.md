@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagdef.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113074932id_/http%3A//blog.tagdef.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagdef.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718164011id_/http%3A//blog.tagdef.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | tagdef
 
