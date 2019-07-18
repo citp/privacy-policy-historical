@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodfullness.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630164436id_/http%3A//goodfullness.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodfullness.net privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718094318id_/http%3A//goodfullness.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goodfullness
 
