@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the suchtv.pk privacy policy that was archived on 2019-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190403022747id_/https%3A//www.suchtv.pk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suchtv.pk privacy policy that was archived on 2019-07-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190718072813id_/https%3A//www.suchtv.pk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en-gb"><head>
 
@@ -69,13 +69,13 @@
 #blankBM456{overflow:hidden;width:100%;
 background:transparent}
 	</style>
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.2"></script><script type="text/javascript" async="" src="https://certify-js.alexametrics.com/atrk.js"></script><script async="" src="https://cdn.taboola.com/libtrc/suchtvpk/loader.js"></script><script type="application/json" class="joomla-script-options new">{"csrf.token":"94769a1e7b2b4f18ed5ab89dc163f6cb","system.paths":{"root":"","base":""}}</script>
-	<script src="/media/jui/js/jquery.min.js?677799fcfed0379b64e395aae4f06240" type="text/javascript" async="async"></script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.2"></script><script type="text/javascript" async="" src="https://certify-js.alexametrics.com/atrk.js"></script><script async="" src="https://cdn.taboola.com/libtrc/suchtvpk/loader.js"></script><script type="application/json" class="joomla-script-options new">{"csrf.token":"cf75c9e589f992ad6881818d91e95edd","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?a70209eff58e65034453ed00882f8fd0" type="text/javascript" async="async"></script>
 	
-	<script src="/media/jui/js/jquery-migrate.min.js?677799fcfed0379b64e395aae4f06240" type="text/javascript" async="async"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?a70209eff58e65034453ed00882f8fd0" type="text/javascript" async="async"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" type="text/javascript"></script>
 	<script src="/media/k2/assets/js/k2.frontend.js?v=2.9.0&amp;sitepath=/" type="text/javascript"></script>
-	<script src="/media/jui/js/bootstrap.min.js?677799fcfed0379b64e395aae4f06240" type="text/javascript" async="async"></script>
+	<script src="/media/jui/js/bootstrap.min.js?a70209eff58e65034453ed00882f8fd0" type="text/javascript" async="async"></script>
 	
 	
 	
@@ -87,34 +87,40 @@ background:transparent}
 
 		jQuery(function($) {
 			SqueezeBox.initialize({});
-			SqueezeBox.assign($('a.modal').get(), {
-				parse: 'rel'
-			});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('a.modal').get(), {
+					parse: 'rel'
+				});
+			}
 		});
 
 		window.jModalClose = function () {
 			SqueezeBox.close();
 		};
-		
+
 		// Add extra modal close functionality for tinyMCE-based editors
 		document.onreadystatechange = function () {
 			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
 			{
 				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
-				{	
+				{
 					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
-					
+
 					jModalClose = function () {
 						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
 						tinyMCE.activeEditor.windowManager.close();
 					};
 				}
-		
+
 				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
 				{
 					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
 					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
-		
+
 					SqueezeBox.close = function () {
 						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
 						tinyMCE.activeEditor.windowManager.close();
@@ -210,7 +216,16 @@ _atrk_opts = { atrk_acct:"w3Lpq1WyR620WR", domain:"suchtv.pk",dynamic: true};
  </head>
 <body data-tablet-width="1100" data-tablet-small-width="840" data-mobile-width="640">
 			<div>		
-		<div id="gkBg" class="gkPage">		
+		<div id="gkBg" class="gkPage">	
+		
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- such new width -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8396580604867543" data-ad-slot="4559103710" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 		<div id="gkTopBar" data-menu-type="classic"> 
 		    <div id="gkTopNav">
 			
@@ -237,9 +252,10 @@ _atrk_opts = { atrk_acct:"w3Lpq1WyR620WR", domain:"suchtv.pk",dynamic: true};
 
 <div class="custom ">
 
-	<li class="itemSocial"><span class="st_facebook_large" displaytext="Facebook"></span></li>
+	  <a href="/urdu" target="_blank" rel="noopener noreferrer"><i><img src="/images/urdu-news-language.png" alt="اردو"></i></a>
+
+<li class="itemSocial"><span class="st_facebook_large" displaytext="Facebook"></span></li>
 <li class="itemSocial"><span class="st_twitter_large" displaytext="Tweet"></span></li>
-<li class="itemSocial"><span class="st_fbsend_large" displaytext="Facebook Send"></span></li>
 <li class="itemSocial"><span class="st_whatsapp_large" displaytext="WhatsApp"></span></li>
 	
 </div>
@@ -390,7 +406,12 @@ _atrk_opts = { atrk_acct:"w3Lpq1WyR620WR", domain:"suchtv.pk",dynamic: true};
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p> 
              
-                          		  <a href="https://play.google.com/store/apps/details?id=com.suchtv.pk"><img title="Such TV android app" src="https://www.suchtv.pk/urdu/images/News/2018/Android-suchtv.png" alt="install suchtv android app on google app store" width="100%" border="0"></a>
+                     <a href="https://play.google.com/store/apps/details?id=com.suchtv.pk"><img title="Such TV android app" src="https://www.suchtv.pk/urdu/images/News/2018/Android-suchtv.png" alt="install suchtv android app on google app store" width="100%" border="0"></a>
+                        
+                       <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8396580604867543" data-ad-slot="9019903539"></ins>
+                    <script>
+                         (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
 
             	  </div> 
 
@@ -406,7 +427,7 @@ _atrk_opts = { atrk_acct:"w3Lpq1WyR620WR", domain:"suchtv.pk",dynamic: true};
 <meta itemprop="name" content="SUCH TV">
 <a itemprop="url" href="https://www.suchtv.pk"></a>
     <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="https://www.suchtv.pk/images/logo/suchtv-logo.png">
+      <meta itemprop="url" content="https://www.suchtv.pk/templates/interactive/images/style1/logo.png">
       <meta itemprop="width" content="114">
     </div>
     
@@ -525,6 +546,7 @@ _atrk_opts = { atrk_acct:"w3Lpq1WyR620WR", domain:"suchtv.pk",dynamic: true};
 		
 	</div>
 </footer>	
+	
 	
 
 
