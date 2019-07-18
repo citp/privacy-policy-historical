@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio-extractor.net privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823230310id_/http%3A//audio-extractor.net/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio-extractor.net privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718154550id_/http%3A//audio-extractor.net/legal) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,19 +34,11 @@ If you choose to upload your Data through the Cloud Providers, you are giving us
 
 Any Data which you provide for the purpose of utilizing our Services is stored on our servers only for as long as necessary, and is deleted automatically no later than twelve (12) hours from the moment you complete your use of our Services.
 
-## Cookies and similar technologies
+## Cookies
 
-Cookies help us optimize and improve the user experience of the Sites by helping us deliver crucial functionalities. The cookies we use may vary over time as we continuously update and improve our Sites. Use of cookies is further explained in article 8 of this Privacy Policy.
+Cookies help us optimize and improve the user experience of the Sites by helping us deliver crucial functionalities. The cookies we use may vary over time as we continuously update and improve our Sites. 
 
-By visiting the Sites we may use cookies to store some non-identifiable Information in your browser regarding your computer or mobile device and your activities in order to help improve the User experience. Users can deny access to cookies through their browser settings.
-
-## Third party websites, services, and cookies
-
-The Sites may contain links to other external websites that do not fall under our domain. We are not responsible for the privacy practices or the content of such external websites. If you choose to follow such links to external websites, you do so at your risk.
-
-We may use third party services like Google Analytics and AdSense. Cookies from such services are used to collect data for statistical reports and to provide ads.
-
-Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Sites. Any data collected will be used in accordance with our Privacy Policy and Google’s privacy policy. Users may opt out of Google’s use of cookies by visiting the Google Advertising Opt-out Page, also, Users may opt out of Google Analytics by visiting the Google Analytics Opt-out Page. Users may opt out of third-party vendor use of cookies by visiting the Network Advertising Initiative Opt-out Page.
+Third party applications that we use, such as Dropbox, Google Drive, Google Analytics, Google DoubleClick, and Google Adsense do use cookies on our site to help analyse the web traffic or determine targeted advertisements based on your preferences. To opt out of Google’s use of cookies, please visit the Google ad and content network privacy policy. If you prefer not to use cookies at all, we recommend adjusting your browser settings accordingly. If you are unsure how to do that, use your favorite search engine to find out everything about it or visit [cookiesandyou.com](https://cookiesandyou.com/).
 
 ## Use of your information
 
