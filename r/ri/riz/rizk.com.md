@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rizk.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111095021id_/https%3A//rizk.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rizk.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718232742id_/https%3A//rizk.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,9 +11,8 @@ Gaming Innovation Group plc. is made up of different legal entities, details of 
 Entities within Gaming Innovation Group plc. adhering to this Privacy Policy and brief description of purpose for processing of your personal data:
 
   * MT SecureTrade Limited – operator, licence holder.
-  * NV SecureTrade – operator, licence holder.
   * Betit Operations Limited – operator, licence holder.
-  * Pronzo Entertainment BV – – operator, licence holder.
+  * Zecure Gaming Limited – operator, licence holder.
   * BettingCloud Limited – provider of sportsbetting product.
   * iGamingCloud Limited – provides a platform and technical services to the operator.
 
@@ -380,7 +379,7 @@ We have put in place procedures to deal with any suspected personal data breach 
 
  **Data Retention**
 
-By law we have to keep basic information about you including Contact, Identity, KYC, Financial and Transaction Data for five years after you close an account with us, or any longer time period required by the law of any jurisdiction.
+We have to retain all basic information about you required by the law of any jurisdiction or otherwise required by us for the purposes of defending any current or future legal claims for five after you close an account with us or any longer time period required by the law of any jurisdiction.
 
 You can ask us to delete your data by closing your account. In that case, we will immediately delete all information aside from that which we are required to maintain to fulfil our legal obligations as indicated above.
 
