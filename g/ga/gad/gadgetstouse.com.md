@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetstouse.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330115534id_/https%3A//gadgetstouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetstouse.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718164545id_/https%3A//gadgetstouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gadgets To Use
 
