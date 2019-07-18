@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gooxinxin.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129055001id_/http%3A//www.gooxinxin.com/privacy-statement-ezp-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooxinxin.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718150602id_/http%3A//www.gooxinxin.com/privacy-statement-ezp-2.html) for the most accurate reproduction.*
 
-# Gooxinxin: Bikini,Dress,V-Neck,Polka Dot,Long Dress,Sleeveless Dress,T-Shirt,Chiffon Dress,Plus Size,,Skirt
+# Gooxinxin: Bikini,Dress,V-Neck,Polka Dot,Long Dress,Sleeveless Dress,T-Shirt,Chiffon Dress,Plus Size,Skirt
 
 This is the Privacy Policy governing your use of the Gooxinxin.com Site. By using this Site, you approve and agree to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Gooxinxin.com which by use of this Site you agree to accept.
 
@@ -53,7 +53,7 @@ Gooxinxin.com welcomes your continuous input regarding our Privacy Policy or our
  **Contacting Us:**  
 
 
- If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at: brit@gooxinxin.com  
+ If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at: [[email protected]](http://www.gooxinxin.com/cdn-cgi/l/email-protection)  
 
 
                                          
