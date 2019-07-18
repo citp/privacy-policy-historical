@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803040714id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718112318id_/https%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Carrot Ink
+# Website Privacy Policy | Carrot Ink
 
 **Privacy Policy - Effective January 27, 2012**
 
@@ -20,7 +20,7 @@ To serve you better, we may combine information you give us online and over the 
 We may contract with companies or persons to provide certain services, including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
 **Editing, Updating, Correcting, and Deleting Information About You – “Opt-Out”  
-**We want to communicate with you only if you want to hear from us. At any time, if you prefer not to receive information from us or from our Marketing Partners, please let us know by calling us at toll free 877 3 CARROT or by sending us an email at support@carrotink.com. Please be sure to include your email address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street addresses, or other personal information with us, please contact us by email at support@carrotink.com.
+**We want to communicate with you only if you want to hear from us. At any time, if you prefer not to receive information from us or from our Marketing Partners, please let us know by calling us at toll free 877 3 CARROT or by sending us an email at service@carrotink.com. Please be sure to include your email address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street addresses, or other personal information with us, please contact us by email at service@carrotink.com.
 
 In addition, when you purchase from us online, via the telephone, facsimile, or postal mail, or when you choose to enter a sweepstakes or other promotion, we may need to contact you via phone, email, or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications.
 
@@ -42,9 +42,9 @@ We also use pixel tags – tiny graphic images – to tell us what parts of ou
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Carrot Ink.
 
 **How We Use Email  
-**When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at http://www.carrotink.com/, you will receive an email confirmation of your order, and in most cases an email with package tracking information.
+**When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at https://www.carrotink.com/, you will receive an email confirmation of your order, and in most cases an email with package tracking information.
 
-It is our intent to send you promotional email (our Email Newsletter, product promotions, and “you may be running low” reminders) if you provide us with an email address. Instructions on how to unsubscribe are included in each promotional email we send. You may also unsubscribe from all of our promotional mailings by sending an email to this address: support@carrotink.com.
+It is our intent to send you promotional email (our Email Newsletter, product promotions, and “you may be running low” reminders) if you provide us with an email address. Instructions on how to unsubscribe are included in each promotional email we send. You may also unsubscribe from all of our promotional mailings by sending an email to this address: service@carrotink.com.
 
 Asking to be removed from Carrot Ink’s Promotional E-Mail List will not prevent you from receiving e-mail communications relating to any online order you place at Carrot Ink or other operational e-mail communications.
 
