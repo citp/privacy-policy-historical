@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humanworkplace.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402003125id_/https%3A//humanworkplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanworkplace.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718202353id_/http%3A//humanworkplace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Human Workplace
+# Privacy Policy – Human Workplace
 
 —-
 
