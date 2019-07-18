@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomerblog.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504105115id_/https%3A//gomerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomerblog.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718212106id_/https%3A//gomerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GomerBlog
 
