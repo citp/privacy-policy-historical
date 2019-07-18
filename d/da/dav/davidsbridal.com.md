@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430034358id_/https%3A//www.davidsbridal.com/Content_Legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718191830id_/https%3A//www.davidsbridal.com/Content_Legal_privacy) for the most accurate reproduction.*
 
 # David's Bridal: Privacy Policy
 
