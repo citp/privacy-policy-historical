@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503085244id_/http%3A//www.gulfenergyinfo.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718201658id_/http%3A//www.gulfenergyinfo.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gulf Energy Information | Gulf Energy Information
 
