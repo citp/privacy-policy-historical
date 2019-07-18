@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiomoney.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310034302id_/https%3A//www.jiomoney.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiomoney.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718182720id_/https%3A//www.jiomoney.com/privacy.html) for the most accurate reproduction.*
 
 # JioMoney | Privacy Policy
 
@@ -70,4 +70,4 @@ You shall be responsible to ensure that the information or data you provide from
 
 For any queries or feedback on the policy, please feel free to reach us through any of the modes available on our application or website.
 
-This Policy should be read in conjunction with [ Terms & Conditions](https://web.archive.org/web/20170310034302id_/https%3A//www.jiomoney.com/tandc.html) applicable for JioMoney account. Registration or usage of the JioMoney implies your express consent and agreement to this Policy. This Policy is subject to modification based on changes in the business, legal and regulatory requirements and will be updated online. You are encouraged to periodically visit this page to review the policy and any changes.
+This Policy should be read in conjunction with [ Terms & Conditions](https://web.archive.org/web/20190718182720id_/https%3A//www.jiomoney.com/tandc.html) applicable for JioMoney account. Registration or usage of the JioMoney implies your express consent and agreement to this Policy. This Policy is subject to modification based on changes in the business, legal and regulatory requirements and will be updated online. You are encouraged to periodically visit this page to review the policy and any changes.
