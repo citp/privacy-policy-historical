@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamiyabiomedical.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823161413id_/http%3A//www.kamiyabiomedical.com/pdf/privacy/KAMIYA_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamiyabiomedical.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718131750id_/http%3A//kamiyabiomedical.com/pdf/privacy/KAMIYA_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
