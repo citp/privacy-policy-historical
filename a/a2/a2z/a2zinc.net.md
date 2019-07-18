@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2zinc.net privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523084437id_/https%3A//personifycorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zinc.net privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718161130id_/https%3A//personifycorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Personify Corp
 
