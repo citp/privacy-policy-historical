@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorspoilers.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628104903id_/http%3A//majorspoilers.com/major-spoilers-privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorspoilers.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718165620id_/http%3A//majorspoilers.com/major-spoilers-privacy-policy-statement) for the most accurate reproduction.*
 
 # Major Spoilers — Comic Book Reviews, News, Previews, and Podcasts
 
