@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifecellskin.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616000254id_/http%3A//www.lifecellskin.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecellskin.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718062836id_/http%3A//www.lifecellskin.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy - LifeCell
 
