@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justtamilsongs.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518212359id_/http%3A//www.justtamilsongs.com/2015/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justtamilsongs.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719010123id_/http%3A//www.justtamilsongs.com/2015/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer - Just Tamil Songs
 
@@ -17,4 +17,4 @@ All links to videos on this blog have been compiled from online video sharing pl
 
 This blog is not responsible for republished content from this blog on other blogs or websites without our permission. 
 
-This privacy policy is subject to change without notice and was last updated on June, 1, 2017. If you have any suggestions or queries feel free to get in touch through mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abc1ded8dfdfcac6c2c7d8c4c5ccd8ebccc6cac2c785c8c4c6)
+This privacy policy is subject to change without notice and was last updated on June, 1, 2017. If you have any suggestions or queries feel free to get in touch through mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#28425d5b5c5c494541445b47464f5b684f45494144064b4745)
