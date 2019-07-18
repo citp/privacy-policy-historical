@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428030722id_/http%3A//www.fiveguys.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718230946id_/http%3A//www.fiveguys.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
