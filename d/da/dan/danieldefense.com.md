@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danieldefense.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406171409id_/https%3A//danieldefense.com/privacy-policy-disclaimers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danieldefense.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718091939id_/https%3A//danieldefense.com/privacy-policy-disclaimers) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimers | Daniel Defense
 
