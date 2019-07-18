@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state-of-the-art-mailer.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518144841id_/http%3A//state-of-the-art-mailer.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state-of-the-art-mailer.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718193511id_/http%3A//state-of-the-art-mailer.com/privacypolicy.php) for the most accurate reproduction.*
 
 # SOTAM - Terms Of Service
 
