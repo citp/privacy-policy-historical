@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brex.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208211514id_/https%3A//brex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brex.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718193057id_/https%3A//brex.com/privacy) for the most accurate reproduction.*
 
-# Brex
+# Brex | The Smartest Corporate Credit Card
 
 _Revised 06.06.2018_
 
