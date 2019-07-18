@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldhistoryproject.org privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409035229id_/https%3A//worldhistoryproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldhistoryproject.org privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718081022id_/https%3A//worldhistoryproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World History Project
 
