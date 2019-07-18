@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marijuanabreak.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525025326id_/https%3A//www.marijuanabreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marijuanabreak.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718194033id_/https%3A//www.marijuanabreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarijuanaBreak
 
