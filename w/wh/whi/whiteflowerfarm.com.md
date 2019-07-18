@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416174048id_/https%3A//www.whiteflowerfarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718091847id_/https%3A//www.whiteflowerfarm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ White Flower Farm respects the privacy of every individual who shops via our pri
 
 For our gardening friends who choose to receive our emails, rest assured we do not share, rent, or sell your email address to outside companies or agencies. Period.
 
-We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please email our customer service team at [ **[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#0e6d7b7d7a7d6b7c784e7966677a6b686261796b7c686f7c63206d6163). When you request our catalog online, you are given the opportunity to opt-out of having your postal address shared.
+We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please email our customer service team at [ **[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#2b485e585f584e595d6b5c43425f4e4d47445c4e594d4a594605484446). When you request our catalog online, you are given the opportunity to opt-out of having your postal address shared.
 
 **Your Personal Information**
 
