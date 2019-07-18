@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the morningstartv.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309073328id_/https%3A//www.morningstartv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstartv.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718172634id_/https%3A//www.morningstartv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MorningStar TV
+# Privacy Policy | mstv.morningstarministries.com
+
+a:1:{s:5:"class";a:13:{i:0;s:4:"html";i:1;s:9:"not-front";i:2;s:13:"not-logged-in";i:3;s:11:"no-sidebars";i:4;s:9:"page-node";i:5;s:10:"page-node-";i:6;s:15:"page-node-12934";i:7;s:14:"node-type-page";i:8;s:29:"domain-mstv-morningstartv-com";i:9;s:45:"domain-publications-morningstarministries-org";i:10;s:23:"body--glazed-header-top";i:11;s:31:"body--glazed-header-not-overlay";i:12;s:26:"body--glazed-header-normal";}}
 
 ## Privacy Policy
 
