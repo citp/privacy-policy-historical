@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adeevee.com privacy policy that was archived on 2019-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190615140853id_/https%3A//www.adeevee.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adeevee.com privacy policy that was archived on 2019-07-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190718080637id_/https%3A//www.adeevee.com/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -52,7 +52,7 @@
             <div class="wrapper">
                 <h2 class="adeevee-logo logobeta">
                     <a href="/" title="Adeevee | Only selected creativity">
-                        <img src="https://www.adeevee.com/skin/images/adeevee-logo.svg">
+                        <img src="https://www.adeevee.com/skin/img/adeevee-logo.svg">
                     </a>
                 </h2>
                 <ul class="menu">
@@ -118,7 +118,7 @@ Adeevee also collects potentially personally-identifying information like Intern
     <div class="wrapper container_wrapper2">
         <div class="adeevee-logo logobeta">
             <a href="https://www.adeevee.com/" title="Adeevee | Only selected creativity">
-                <img src="https://www.adeevee.com/skin/images/adeevee-logo.svg">
+                <img src="https://www.adeevee.com/skin/img/adeevee-logo.svg">
             </a>
         </div>
         <ul class="menu">
@@ -136,11 +136,34 @@ Adeevee also collects potentially personally-identifying information like Intern
         <div class="socialnetwork"><a href="https://www.facebook.com/adeevee" title="Facebook" target="_blank" class="facebook">Facebook</a><a href="https://twitter.com/adeevee_team" target="_blank" title="Twitter" class="twitter">Twitter</a><a href="http://instagram.com/adeevee_ads" title="Instagram" target="_blank" class="instagram">Instagram</a><a href="/ads/feed/" title="Fedd RSS" class="feedrss">RSS</a></div>
     </div>
 </div>
-<!--<script src="//tinymce.cachefly.net/4.0/tinymce.min.js"></script>-->
+<div id="popup-banner">
+    <span class="close-popup">
+        <img src="https://www.adeevee.com/skin/img/close.svg">
+    </span>
+    <div id="popup-0" class="content">
+        <a href="https://www.facebook.com/adeevee/" target="_blank">
+            <img src="https://www.adeevee.com/skin/img/pop-up/social-adeevee-fb.gif">
+        </a>
+    </div>
+    <div id="popup-1" class="content">
+        <a href="https://www.instagram.com/adeevee_ads/" target="_blank">
+            <img src="https://www.adeevee.com/skin/img/pop-up/social-adeevee-ig.gif">
+        </a>
+    </div>
+</div><!--<script src="//tinymce.cachefly.net/4.0/tinymce.min.js"></script>-->
 <script src="https://www.adeevee.com/js/joboffers.js"></script>
 <script type="text/javascript">
 
     $( document ).ready(function() {
+
+        var _mailto = "mailto:support@adeevee.com?subject=Advertise on Adeevee";
+        jQuery('.mail-to').attr('href', _mailto);
+
+        if(getCookie('popup') == 1) {
+            //popUpBanners();
+        }else{
+            popUpBanners();
+        }
 
         $.ajax({
             type: "GET",
@@ -193,6 +216,41 @@ Adeevee also collects potentially personally-identifying information like Intern
 
     });
 
+    function popUpBanners () {
+
+        window.addEventListener('scroll',  event => {
+            const
+                _scrolled   = window.scrollY,
+                _threeshold = $(window).height() / 2;
+
+            _scrolled > _threeshold ? $('#popup-banner').addClass('show') : $('#popup-banner').removeClass('show');
+
+        });
+
+
+        var math = Math.floor(Math.random() * 2);
+        $('#popup-'+math).addClass('show');
+
+        $('#popup-banner span').on('click', function () {
+           setCookie('popup', 1, 2);
+            $('#popup-banner').removeClass('show');
+
+            $('#popup-banner').find('.content').removeClass('show');
+        });
+
+    }
+
+    function getCookie(cname) {
+        var match = document.cookie.match(new RegExp('(^| )' + cname + '=([^;]+)'));
+        if (match) return match[2];
+    }
+
+    function setCookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays*24*60*60*1000));
+        var expires = "expires="+ d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
 
     function set_lightbox(){
 
