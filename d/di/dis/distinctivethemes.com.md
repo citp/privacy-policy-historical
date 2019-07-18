@@ -1,70 +1,93 @@
-> *The following text is extracted and transformed from the distinctivethemes.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108124332id_/https%3A//www.distinctivethemes.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distinctivethemes.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718235238id_/https%3A//templatemag.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Distinctive Themes
+# Privacy Policy - TemplateMag
 
-## Introduction
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of [https://www.distinctivethemes.com](https://www.distinctivethemes.com/) and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
-
-We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
-
-We may release your information when we deem it appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-Please also review our Terms of Use section that governs the use and the users of the Site.
-
-By using our site, you consent to our privacy policy.
-
-If we decide to change our privacy policy, we will post those changes on this page. If we have your email address, we may also send an email notifying you of any changes.
-
-## Contact Data and Other Identifiable Information
-
-This site collects certain user information, which may include a username and password, contact information, or any other data that you type in to the site. It may also identify your IP address to help identify you on future visits to the site. At our discretion, the Site may use this data to:
-
-  * Personalize the user experience and/or customer service
-  * Improve the site
-  * To process transactions
-  * Administer a contest, promotion, survey or other site feature or function
-  * Send email to users
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
 
 
-## Mobile Device Privacy
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-The following applies to our site, when viewed on a mobile device:  
-When accessed with a mobile deivce, our site may collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the site. Regardless of the device you use to access the site, it will also collect information you provide, as well as information about your interaction with the site and its content.  
-If location services are activated on your mobile device, our site may collect information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information collected by your mobile network service will not be associated with your user account with us, or with your personally identifiable information.
+## Who we are
 
-### Advertising Network
+Our website address is: https://templatemag.com.
 
-We use one or more third party vendors to serve ads on the Site. To serve ads and determine how our users use the Site, these services use cookies, or small pieces of code to serve ads to Site users based on users’ visits to the Site and others. Users may adjust their browser settings to disallow the use of cookies. With cookies turned off, certain features of the Site may work less efficiently or not at all.
+## Definitions
 
-We use Google as an advertising services provider for the Site. Users may opt out of Google’s use of the DART use-tracking cookie by visiting the Google advertising Policies & Principles page. If you opt out of ad tailoring, you will still see ads, but they will not be based on your browsing history, and they may appear in other languages.
+ _Personal Data_ – any information relating to an identified or identifiable natural person.  
+_Processing_ – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+_Data subject_ – a natural person whose Personal Data is being Processed.  
+_Child_ – a natural person under 16 years of age.  
+_We/us_ (either capitalized or not) – templatemag.com
 
-### Cookies
+## What personal data we collect and why we collect it
 
-This site uses cookies. Cookies are small pieces of code that the Site or a service provider will put on your computer if your Web browser allows it. The Site uses cookies to recognize and keep certain information. On the Site, that information may be used to recognize your computer and browser from current or past visits to the Site or related sites. We may use this cookie-captured information to improve our service to you, to aggregate information about visitors to the Site and their behavior, to remember and process items in your shopping cart, to understand and save user preferences, or to keep track of advertising. We may contract with third-party service providers to assist us in better understanding our site visitors.  
-In most Internet browsers, you can change your settings so that you will be warned each time a cookie is being sent, or so that cookies will be turned off. With cookies blocked, some functions of the Site may not operate properly.
+### 1\. Forms
 
-## Usernames, Passwords, and Profiles
+  * When ordering or registering on our website you may be asked to enter your name, member name, email address, mailing address, country, billing information or other details to help you with your experience. These information are collected in purpose of providing services described on it, like to verify your identity when you sign in to website, to process your transactions made on site, to respond to support tickets and offer customer services, for administrative and accounting needs that we required to provide to government.
+  * When you submit a support question we collect your first name, last name and your email address so that we can correspond with you.
+  * When you contact us and submit the contact form we collect your first name, last name and your email address so that we can correspond with you.
 
-If prompted, Users must provide a valid email address to the Site, at which the User can receive messages. User must also update the Site if that email address changes. The Site reserves the right to terminate any User account if a valid email is requested but is not provided by the User.  
-If the Site prompts or allows a User to create a username or profile, Users agree not to pick a username or provide any profile information that would impersonate someone or that is likely to cause confusion with any other person or entity. The Site reserves the right to cancel a User account or change a username or profile data at any time. Similarly, if the Site prompts or allows a User to create an avatar or upload a picture, User agrees not to use any image that impersonates some other person or entity, or that is otherwise likely to cause confusion.  
-You are responsible for protecting your username and password for the Site, and you agree not to disclose it to any third party. We recommend that you use a passwork that is more than eight characters long. You are responsible for all activity on your account, whether or not you authorized it. You agree to inform us of unauthorized use of your account, by email to contact@distinctivethemes.com. You acknowledge that if you wish to protect your interactions the Site, it is your responsibility to use a secure encrypted connection, virtual private network, or other appropriate measures.
 
-## Disputes
 
-We are based in Wales and you are contracting to use our Site. This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of Wales, without regard to any choice of laws rules of any jurisdiction. The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in Wales will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+### 2\. Google Analytics
 
-## No Users Under the Age of 13
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout)
 
-The Site is not intended for children under the age of 13. Children under the age of 13 should not use the Site at any time. We do not knowingly collect personal information from children under the age of 13. If we obtain actual knowledge that we have collected information from anyone under the age of 13, we will erase that information from our servers. It is a violation of our Terms of Service for children under the age of 13 to use the Site.
+## Comments
 
-## Terms Contact
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-If you have any questions about these Terms, please address them to contact@distinctivethemes.com.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-## Last Updated
+## Cookie Policy
 
-These terms were last updated on _January 7, 2016_
+To enhance your experience on our sites, many of our web pages use “cookies”. Cookies are small text files that we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personal information unless you choose to provide this information to us by, for example, registering at one of our sites. Once you choose to provide a web page with personal information, this information may be linked to the data stored in the cookie. A cookie is like an identification card. It is unique to your computer and can only be read by the server that gave it to you.
+
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalise your experience on our web pages (e.g. to recognise you by name when you return to our site). We also may use cookies to offer you products and services.  
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.  
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.  
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you want to control which cookies you accept. You can configure your browser to accept all cookies or to alert you every time a cookie is offered by a website’s server. Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. You may find that some parts of the site will not function properly if you have refused cookies.
+
+## Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.  
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+## Who we share your data with
+
+When you purchase a product on templatemag.com, your personal data are shared with payment company Paddle.  
+You can check Paddle privacy policy at: https://paddle.com/privacy-buyers/
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.  
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.  
+You can view, update, download or delete your personal data at any time from this page: [Request personal data](https://templatemag.com/privacy-tools/).
+
+## Security
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+## Changes to this privacy policy
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. Last modification was made July 25, 2018.
+
+## Contact information
+
+If you have questions, you can contact us via our [contact page](https://templatemag.com/contact/) or email us directly at: contact@templatemag.com
