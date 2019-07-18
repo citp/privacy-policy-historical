@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picchore.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515130928id_/http%3A//picchore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picchore.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718210008id_/http%3A//picchore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Pic Chore
 
