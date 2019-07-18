@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000bulbs.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503155614id_/https%3A//www.1000bulbs.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000bulbs.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718165943id_/https%3A//www.1000bulbs.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 1000Bulbs.com
 
@@ -16,7 +16,7 @@
 
 ### How 1000BULBS.COM May Use Personal Information
 
-Unless you consent, 1000BULBS.COM will use your personal information for the purpose for which it was submitted such as to reply to inquiries, handle your complaints and process billing and business requests, and we will use such information to provide operational notices, and in program recordkeeping and to conduct research on industry marketplace practices. Our research will not result in the reporting or publication of any personal information provided to us. 
+Unless you consent, 1000BULBS.COM will use your personal information for the purpose for which it was submitted such as to reply to inquiries, handle your complaints and process billing and business requests, and we will use such information to provide operational notices, and in program record-keeping and to conduct research on industry marketplace practices. Our research will not result in the reporting or publication of any personal information provided to us. 
 
 ### How Your Information May Be Shared
 
