@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdicollege.ca privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519110404id_/http%3A//www.cdicollege.ca/british-columbia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdicollege.ca privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718213145id_/https%3A//www.cdicollege.ca/british-columbia/privacy-policy) for the most accurate reproduction.*
 
 # CDI College | British Columbia | CDI College Privacy Policy | Career Training
 
