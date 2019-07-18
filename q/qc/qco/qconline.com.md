@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qconline.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405235823id_/https%3A//qconline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qconline.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718094826id_/https%3A//qconline.com/privacy) for the most accurate reproduction.*
 
 # Privacy | qconline.com
 
@@ -161,7 +161,7 @@ Email: [privacy@lee.net](https://qconline.com/content/tncms/live/privacy@lee.net
 1033 7th St. Ste. 101,   
 East Moline, IL, 61244
 
-[309-764-4344](tel:+13097644344)
+[800-660-2472](tel:+18006602472)
 
 If you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.
 
