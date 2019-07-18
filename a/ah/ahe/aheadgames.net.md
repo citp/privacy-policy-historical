@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aheadgames.net privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518230618id_/http%3A//www.aheadgames.net/%3Fpage_id%3D7888) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aheadgames.net privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718232307id_/http%3A//www.aheadgames.net/%3Fpage_id%3D7888) for the most accurate reproduction.*
 
 # Privacy Policy – Ahead Games – PC Game Reviews, Previews, Subjectivity
 
