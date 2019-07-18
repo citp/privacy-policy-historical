@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the smplace.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518223659id_/http%3A//www.smplace.com/forum/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smplace.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718170503id_/http%3A//www.smplace.com/forum/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | S&M Place BDSM forum - Young and Extreme Board
 
-[](https://web.archive.org/web/20190518223659id_/http%3A//www.smplace.com/forum/help/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20190718170503id_/http%3A//www.smplace.com/forum/help/misc/quick-navigation-menu "Open quick navigation")
 
 **S &M Place BDSM forum - Young and Extreme Board **
 
 [Forums](http://smplace.com/forum/) [Help](http://smplace.com/forum/help/) >
 
-We are S&M Place BDSM forum - Young and Extreme Board ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190518223659id_/http%3A//www.smplace.com/forum/help/misc/contact).
+We are S&M Place BDSM forum - Young and Extreme Board ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190718170503id_/http%3A//www.smplace.com/forum/help/misc/contact).
 
 ## What information we hold about you
 
@@ -55,13 +55,13 @@ We are committed to ensuring that any information you provide to us is secure. I
 
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190518223659id_/http%3A//www.smplace.com/forum/help/help/cookies).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190718170503id_/http%3A//www.smplace.com/forum/help/help/cookies).
 
 ## Rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190518223659id_/http%3A//www.smplace.com/forum/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190518223659id_/http%3A//www.smplace.com/forum/help/misc/contact) to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190718170503id_/http%3A//www.smplace.com/forum/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190718170503id_/http%3A//www.smplace.com/forum/help/misc/contact) to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190518223659id_/http%3A//www.smplace.com/forum/help/misc/contact) if you would like us to remove your personal data.
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190718170503id_/http%3A//www.smplace.com/forum/help/misc/contact) if you would like us to remove your personal data.
 
 ## Acceptance of this policy
 
@@ -71,7 +71,7 @@ Continued use of our site signifies your acceptance of this policy. If you do no
 
 We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
 
-[](https://web.archive.org/web/20190518223659id_/http%3A//www.smplace.com/forum/help/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20190718170503id_/http%3A//www.smplace.com/forum/help/misc/quick-navigation-menu "Open quick navigation")
 
 **S &M Place BDSM forum - Young and Extreme Board **
 
