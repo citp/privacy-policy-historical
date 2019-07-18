@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thedudes.club privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519125235id_/http%3A//thedudes.club/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedudes.club privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719003052id_/http%3A//thedudes.club/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Dudes Club
 
 **Privacy Policy**
 
-We at Bullseye Ventures LTD (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
+We at S Hugi Software & Investments Ltd (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
 
 This policy explains our privacy practices for processing personal information on The Company’s online websites (the “ **Service** “). This policy applies to the use of The Company’s websites and it is an integral part of The Company’s [Terms of Service](http://thedudes.club/terms-use.html "Terms").
 
