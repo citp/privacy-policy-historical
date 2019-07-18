@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ableammo.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004122945id_/https%3A//www.ableammo.com/catalog/shipping.php%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ableammo.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718072102id_/https%3A//www.ableammo.com/catalog/shipping.php%23privacy_policy) for the most accurate reproduction.*
 
 # Able Ammo
 
