@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videomakerfx.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623192710id_/http%3A//www.videomakerfx.com/wp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomakerfx.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719000215id_/http%3A//www.videomakerfx.com/wp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — VideoMakerFX
 
