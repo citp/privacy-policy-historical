@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetashoney.co privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092456id_/https%3A//www.sweetashoney.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetashoney.co privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718205543id_/https%3A//www.sweetashoney.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sweetashoney
 
@@ -74,15 +74,16 @@ There is some affiliates links used on this website, in the recipe box and in so
 
 All recipes posted on this blog has been tested in my kitchen and I am not responsible of any issue you get in your kitchen when you reproduce the recipe. Recipes can sometimes looks similar to a recipe you found online as all recipes are inspired by recipes found in magazines, cookbooks or online. However, each recipes shared here are for fun and we do not claim it is unique. We simply share what we think is tasty and healthy to use.
 
+**Nutrition panel**
+
+Nutrition panel are indicative. If you are on specific diet or have any medical issue you should do your own research and calculate your macro nutrients  per recipe yourself, using the exact product brands you used in your kitchen. We do are best to provide relevant nutrition data but a slight change in the brand of product or in the size you shape your serving will impact your macro calculation. We are not doctors and we don’t take responsibility of any health issue caused by a nutrition panel provided on this Sweetashoney.
+
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [SweetAsHoneyNZ](https://www.sweetashoney.co.nz/)  
-[https://www.sweetashoney.co.nz](https://www.sweetashoney.co.nz/)  
-3 Stow Place, henderson 0612, new zealand.  
-0210337644  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+[https://www.sweetashoney.co](https://www.sweetashoney.co.nz/)  
+Henderson, New Zealand  
+carine@sweetashoney.co
 
 This document was last updated on November 01, 2014
-
-[](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.sweetashoney.co%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
