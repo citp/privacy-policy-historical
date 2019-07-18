@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518194421id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719013318id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | 1000 Goals
+
+**27 February 2008** at 01:51 GMT
 
 Third Party Advertising:  
 We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -14,6 +16,20 @@ This Web site does allow user to enter their email address at their own will for
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
 
+### Latest Football News
+
+[ ](http://www.1000goals.com/news/thanks-for-the-memories-el-nino/)
+
+Former Liverpool, Chelsea and Spain striker Fernando Torres has announced he is to retire from football. The 35-year-old, who is currently playing for Sagan Tosu in Japan, confirmed the end of his football career on social media. I have something very important to announce. After 18 exciting years, the time has come to put an…
+
+[ ](http://www.1000goals.com/news/echampions-league-highlights/)
+
+Relive all the action of the inaugural eChampions League where NYC_Chris became the champion!  
+
+[ ](http://www.1000goals.com/news/top-5-goals-in-premier-league-season-2018-2019/)
+
+The 2018/19 season of Premier League is well behind us and it was an exciting one to watch. Featuring 20 of the best teams England has to offer, we can be sure there was no shortage of incredible performances. Reading through Premier League news after the season ended, there are several things we can find.…
+
 [ ](http://www.1000goals.com/news/lucas-moura-deserves-a-statue/)
 
 Lucas Moura "deserves a statue" after his hat-trick took Tottenham into an all-English Champions League final, says team-mate Christian Eriksen. Moura himself called it "the best moment of my career". Eriksen said: "It was a ridiculous game; we were really far down, we tried to fight back, we were just lucky." The Danish playmaker added:…
@@ -22,14 +38,6 @@ Lucas Moura "deserves a statue" after his hat-trick took Tottenham into an all-E
 
 Jurgen Klopp, Mo Salah, Virgil van Dijk and the Liverpool squad celebrate with their fans after completing an unforgettable turnaround against Barcelona.  
 
-[ ](http://www.1000goals.com/news/how-to-manage-mental-health-as-a-well-known-athlete/)
+### Football Scores & Highlights
 
-Mental health seems to be swept under the carpet at every turn and this is especially true when dealing with athletes. Well-known athletes whether in high school, college, or in the professional ranks are put under a microscope far more than athletes in the past. Social media has given a look into the lives of…
-
-[ ](http://www.1000goals.com/news/seven-red-cards-in-six-years-at-camp-nou-for-atletico-madrid/)
-
-Diego Costa got a red card vs Barcelona because he said to referee Gil Manzano: "I s**t on your f***ing mother". The guy is absolutely nuts. Atletico Madrid went to the Camp Nou looking to keep the LaLiga Santandertitle race alive. Diego Costa left the pitch in the 29th minute, given a straight red by Gil Manzano for abusive language, and the Rojiblancos left…
-
-[ ](http://www.1000goals.com/news/bbc-match-of-the-day-week-32-31-03-2019/)
-
-Mark Chapman presents highlights and discussion of the day’s two Premier League games, with title-chasing Liverpool hosting Spurs and struggling Cardiff at home to Chelsea.A round-up of the weekend's football action. ﻿﻿
+### Latest Football Highlights
