@@ -1,25 +1,32 @@
-<!--The following is the downloaded HTML source of the extasycams.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920084410id_/http%3A//extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26showall%3D%26Submit%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extasycams.com privacy policy that was archived on 2019-07-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190718132701id_/http%3A//extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26refid%3Dextasycams.com%26mref%3D%26aref%3D%26showall%3D%26Submit%3Dprivacy) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head><title>ExtasyCams - Cheapest Sex Cams</title>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head><title>ExtasyCams - Cheapest Sex Cams</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="imagetoolbar" content="no">
-<meta name="Keywords" content="live, cheap, adult, sex, cams, girls, web cams, video chat, chat, extasy, extasycams, ecstasycams.com, extasycams.com, jasmin, jasmine, livejasmin, livejasmine, camscom, ifriends, 49 cents">
-<meta name="Description" content="Live cheap sex cam girls waiting to chat with you! Cheap Sex Cams, Webcam Chat - live sex web cams, cheap adult cams at only 49 cents per minute!">
-<link rel="stylesheet" type="text/css" href="/templates/purple/images/styles.css">
+<meta name="Keywords" content="live, cheap, adult, sex, cams, girls, web cams, video chat, chat, extasy, extasycams, extasycams.com, cheap live cams, 49 cents">
+<meta name="Description" content="Live cheap sex cam girls waiting to chat with you! Cheap Sex Cams, Webcam Chat - live sex web cams, cheap adult cams at only 49 cents per minute">
+<link rel="stylesheet" type="text/css" href="/templates/temp/images/styles.css">
 <link rel="stylesheet" type="text/css" href="/slider/css/bluecurve/bluecurve.css">
 
 
 
-<script language="JavaScript" src="/templates/purple/images/nlsscroller.js"></script>
-<script language="JavaScript" src="/templates/purple/images/jquery.js"></script>
-<script language="JavaScript" src="/templates/purple/images/jquery.viewport.js"></script>
-<script language="JavaScript" src="/templates/purple/images/jquery.selectbox-0.5.js"></script>
-<script language="JavaScript" src="/templates/purple/images/basic.js"></script>
-<script language="JavaScript" src="/templates/purple/images/jquery.simplemodal.js"></script>
-<script type="text/javascript" src="/slider/js/range.js"></script>
-<script type="text/javascript" src="/slider/js/timer.js"></script>
-<script type="text/javascript" src="/slider/js/slider.js"></script>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" src="/templates/temp/images/jquery.min.js" type="text/javascript"></script>
+<script language="JavaScript" src="/templates/temp/images/jquery.tools.min.js" type="text/javascript"></script>
+<script language="JavaScript" src="/templates/temp/images/jquery.viewport.js"></script>
+<script language="JavaScript" src="/templates/temp/images/jquery.selectbox-0.5.js"></script>
+<script language="JavaScript" src="/templates/temp/images/basic.js"></script>
+<script language="JavaScript" src="/templates/temp/images/jquery.simplemodal.js"></script>
+
+
+<script language="JavaScript" src="/templates/temp/images/jquery-ui-1.8.23.custom.min.js"></script>
+<script language="JavaScript" src="/templates/temp/images/jquery.mousewheel.min.js"></script>
+<script language="JavaScript" src="/templates/temp/images/jquery.kinetic.js"></script>
+<script language="JavaScript" src="/templates/temp/images/jquery.smoothdivscroll-1.3-min.js"></script>
+
+
+
 
 
 
@@ -29,9 +36,408 @@
 
 $.extend({  getUrlVars: function(){    var vars = [], hash;    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');    for(var i = 0; i < hashes.length; i++)    {      hash = hashes[i].split('=');      vars.push(hash[0]);      vars[hash[0]] = hash[1];    }    return vars;  },  getUrlVar: function(name){    return $.getUrlVars()[name];  }});
 
-
+setInterval ( "animateCam()", 800 );
 setInterval ( "doRefresh()", 5000 );
-setInterval ( "doInfoRefresh()", 10000 );
+setInterval ( "doInfoRefresh()", 30000 );
+
+var requesting = false;
+var ismobile=0;
+
+//window.onresize = resized;
+
+var scrolldisabled=0;
+
+var currentwidth=getWW();
+var currentheight=getHH();
+
+var camsortfav=readCookie('camsortfav');
+var flashwidth=readCookie('flashwidth');
+if (flashwidth==null)
+flashwidth=1140;
+var flashheight=readCookie('flashheight');
+if (flashheight==null)
+flashheight=576;
+
+
+
+function SendDataToFlashMovie(text)
+{
+      if (document.getElementById('flashmovie2') != null)
+      {
+            if ((navigator.appName.indexOf('Internet Explorer')>=0) || (navigator.userAgent.indexOf('rv:11')>=0))
+            document.getElementById('flashmovie').sendTextToFlash(text);
+            else
+            document.getElementById('flashmovie2').sendTextToFlash(text);
+      }
+}
+
+
+function autocenter33(whatwidth,whathight)
+{
+         document.getElementById('flashmovie2').style.width=whatwidth+'px';
+         document.getElementById('flashmovie2').width=whatwidth+'px';
+         document.getElementById('flashmovie2').style.height=whathight+'px';
+         document.getElementById('flashmovie2').height=whathight+'px';
+
+         document.getElementById('flashmovie').style.width=whatwidth+'px';
+         document.getElementById('flashmovie').width=whatwidth+'px';
+         document.getElementById('flashmovie').style.height=whathight+'px';
+         document.getElementById('flashmovie').height=whathight+'px';
+
+         document.getElementById('chat').style.width=whatwidth+'px';
+         document.getElementById('chat').width=whatwidth+'px';
+         document.getElementById('chat').style.height=whathight+'px';
+         document.getElementById('chat').height=whathight+'px';
+
+         document.getElementById('chat').style.left=((currentwidth-whatwidth)/2)+'px';
+         document.getElementById('chat').style.top=((currentheight-whathight)/2)+'px';
+         
+         flashwidth=whatwidth;
+         flashheight=whathight;
+         createCookie('flashwidth',flashwidth,365);
+         createCookie('flashheight',flashheight,365);
+
+}
+
+
+function autocenter44(whatwidth,whathight)
+{
+
+           $("#flashmovie2").css("height",whathight+'px');
+           $("#flashmovie2").css("width",whatwidth+'px');
+           
+           $("#flashmovie").css("height",whathight+'px');
+           $("#flashmovie").css("width",whatwidth+'px');
+           
+           $("#chat").css("height",whathight+'px');
+           $("#chat").css("width",whatwidth+'px');
+           $("#chat").css("left",'0');
+           $("#chat").css("top",'0');
+           
+
+//         if ((navigator.appName.indexOf('Internet Explorer')>=0) || (navigator.userAgent.indexOf('rv:11')>=0))
+//         setTimeout('window.scrollTo(0, 161)',1);
+
+//         if (navigator.appName.indexOf('Netscape')>=0)
+//         window.scrollTo(0, 161);
+
+
+}
+
+
+
+function getWW(){
+return $(window).width();
+}
+
+function getHH(){
+return $(window).height();
+}
+
+
+function disable_scroll() {
+    var box=document.body.getBoundingClientRect();
+    document.body.style.width=box.width+"px";
+    document.body.style.overflow="hidden";
+    scrolldisabled=1;
+}
+
+function enable_scroll() {
+    document.body.style.width='';
+    document.body.style.overflow='';
+    scrolldisabled=0;
+
+}
+
+    createCookie('screenwidth',getWW(),365);
+    createCookie('screenheight',getHH(),365);
+
+
+
+
+
+function really_over(src) {
+  if (!window.event) return true;
+  var event = window.event;
+  var from = event.fromElement;
+  var to = event.toElement;
+  return ( to == src || src.contains(to) ) && !src.contains(from) && src != from;
+}
+
+function really_out(src) {
+  if (!window.event) return true;
+  var event = window.event;
+  var from = event.fromElement;
+  var to = event.toElement;
+  return (src == from || src.contains(from)) && !src.contains(to) && src != to;
+}
+
+
+
+function animateCam ()
+{
+  
+      function callback(a){
+          return function(){ 
+
+              i = 0;
+              a = document.getElementsByTagName("img");
+              while (element = a[i++])
+              {
+                      if ((element.className == "liveled"))
+                      a[i-1].src='/templates/temp/images/LIVE-led.png';
+              }
+
+          }
+      } 
+  
+
+      i = 0;
+      a = document.getElementsByTagName("img");
+      while (element = a[i++])
+      {
+              if ((element.className == "liveled"))
+              a[i-1].src='/templates/temp/images/LIVE-led2.png';
+      }
+      
+      setTimeout(callback(a), 300);
+
+  
+}
+
+
+
+function hideloaders(whentohide) {
+
+  if (whentohide=='now')
+  {
+        i = 0;
+        a = document.getElementsByTagName("img");
+        while (element = a[i++])
+        {
+                if ((element.className == "loading"))
+                a[i-1].style.display = 'none';
+        }
+
+  }
+  else
+  {
+    setTimeout( function() {
+
+        i = 0;
+        a = document.getElementsByTagName("img");
+        while (element = a[i++])
+        {
+                if ((element.className == "loading"))
+                a[i-1].style.display = 'none';
+        }
+
+
+    }, 200 );
+
+    }
+
+}
+
+
+function findPos(obj) {
+   var curleft = curtop = 0;
+   if (obj.offsetParent) {
+      do {
+      curleft += obj.offsetLeft;
+      curtop += obj.offsetTop;
+      } while (obj = obj.offsetParent);
+      return [curtop,curleft];
+   }
+}
+
+
+
+function IEversion () {
+  var myNav = navigator.userAgent.toLowerCase();
+  return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+}
+
+
+
+function showpreview(camnr,tempmodelname,tempmodelid,tempmodelserver,tempaction,tempcampicclass,tempalt,templang,tempssid) {
+
+   hideloaders('now');
+   var productElement = document.getElementById('prdiv'+camnr);
+   if (productElement != null)
+   {
+      if ( (productElement.innerHTML.indexOf('flashmovie')==-1) && (productElement.innerHTML.indexOf('prevseen')==-1) )
+      {
+
+
+
+      var ttop = $('#campic'+camnr).offset().top-$('#content_middle').offset().top;
+      var tleft = $('#campic'+camnr).offset().left-$('#content_middle').offset().left;
+
+
+
+      var itop=ttop-7;
+      var ileft=tleft-4;
+      var itop2=ttop+58;
+      var ileft2=tleft+58;
+
+      var browserName=navigator.appName;
+
+      //alert (browserName);
+
+
+
+      if (browserName=='Microsoft Internet Explorer')
+      {
+        if (IEversion()<10)
+        {
+         var itop=ttop-46;
+         var ileft=tleft-4;
+         var itop2=ttop+18;
+         var ileft2=tleft+58;
+
+
+         alert ('Your web browser is too old to access the live streams! Please upgrade your web browser to at least Internet Explorer 11, Chrome 34, Firefox 29 or Safari 5!');
+         return;
+
+        }
+
+
+
+
+      }
+
+
+      if (tempcampicclass=='campic_1')
+      {
+         tempwidth='128';
+         tempheight='91';
+         tempwidth2='46';
+         tempheight2='9';
+         itop2=itop2-12;
+         ileft2=ileft2-14;
+         
+         if (browserName=='Microsoft Internet Explorer')
+         {
+           
+            itop=itop+3;
+            ileft=ileft+1;
+            if ($.getUrlVar('Submit')=='favorites')
+            {
+               itop=itop+3;
+            }
+         }
+         else
+         itop=itop+3;
+
+      }
+
+      if (tempcampicclass=='campic_2')
+      {
+         tempwidth='150';
+         tempheight='107';
+         tempwidth2='56';
+         tempheight2='11';
+         itop2=itop2-3;
+         ileft2=ileft2-8;
+
+
+         if (browserName=='Microsoft Internet Explorer')
+         {
+            itop=itop+4;
+            ileft=ileft+1;
+            if ($.getUrlVar('Submit')=='favorites')
+            {
+               itop=itop+3;
+               ileft=ileft-1;
+            }  
+         }
+         else
+         itop=itop+4;
+      }
+
+      if (tempcampicclass=='campic_3')
+      {
+         tempwidth='180';
+         tempheight='128';
+         tempwidth2='66';
+         tempheight2='13';
+         
+         if (browserName=='Microsoft Internet Explorer')
+         {
+            if ($.getUrlVar('Submit')=='favorites')
+            {
+               itop=itop+3;
+            }  
+         }
+      }
+      
+
+
+      document.getElementById("currentpreview").innerHTML=camnr;
+
+
+
+      setTimeout( function() {
+
+      var tempcurrentpreview = document.getElementById("currentpreview").innerHTML;
+      if (tempcurrentpreview==camnr)
+      {
+         var ranNum= Math.floor(Math.random()*9);
+         productElement.innerHTML = '<a style="text-decoration: none;" href="#" onClick="var tempactionn=\'live\'; var tempmodelid=\''+tempmodelid+'\'; if ($.getUrlVar(\'ssid\')==\'\') {tempactionn=\'signup\';} popupchat(\'show\',tempssid,tempmodelid,tempactionn); return false;"><IMG name="campic'+camnr+'" id="campic'+camnr+'" class='+tempcampicclass+' src="/models/preview/'+tempmodelid+'_pr.jpg?'+ranNum+'" ></a> <DIV style="z-index: 1; position:absolute; top:'+itop.toString()+'px; left:'+ileft.toString()+'px;" class='+tempcampicclass+'><object id="flashmovie" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="'+tempwidth+'" height="'+tempheight+'" align="middle">   <param name="allowScriptAccess" value="always">   <param name="allowFullScreen" value="false">   <param name="FlashVars" value="SessionId='+tempssid+'&ModelName='+tempmodelname+'&ModelId='+tempmodelid+'&StreamingServer='+tempmodelserver+'&Lang='+templang+'&Skin=temp&Camnr='+camnr+'&Action='+tempaction+'">   <param name="movie" value="/preview3b.swf?SessionId='+tempssid+'&ModelName='+tempmodelname+'&ModelId='+tempmodelid+'&StreamingServer='+tempmodelserver+'&Lang='+templang+'&Skin=temp&Camnr='+camnr+'&Action='+tempaction+'">   <param name="quality" value="high">   <param name="wmode" value="transparent">   <param name="bgcolor" value="#000000">   <embed id="flashmovie0" wmode="transparent" src="/preview3b.swf" FlashVars="SessionId='+tempssid+'&ModelName='+tempmodelname+'&ModelId='+tempmodelid+'&StreamingServer='+tempmodelserver+'&Lang='+templang+'&Skin=temp&Camnr='+camnr+'&Action='+tempaction+'" quality="high" bgcolor="#000000" width="'+tempwidth+'" height="'+tempheight+'" name="client" align="middle" allowScriptAccess="always" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></div><DIV style="z-index: 1; position:absolute; top:'+itop2.toString()+'px; left:'+ileft2.toString()+'px;"><a style="text-decoration: none;" href="#" onClick="var tempactionn=\'live\'; var tempmodelid=\''+tempmodelid+'\'; if ($.getUrlVar(\'ssid\')==\'\') {tempactionn=\'signup\';} popupchat(\'show\',tempssid,tempmodelid,tempactionn); return false;"><img  class="loading" name="temploading'+camnr+'" id="temploading'+camnr+'" style="width:'+tempwidth2+'px; height:'+tempheight2+'px;" src="/templates/temp/images/loading.gif"></a></div> ';
+         document.getElementById('temploading'+camnr).onclick=function() { var tempactionn='live'; if ($.getUrlVar('ssid')=='') {tempactionn='signup';}  popupchat('show',tempssid,tempmodelid,tempactionn); return false;}
+         document.getElementById('flashmovie').onclick=function() { var tempactionn='live'; if ($.getUrlVar('ssid')=='') {tempactionn='signup';} popupchat('show',tempssid,tempmodelid,tempactionn); return false;}
+      }
+
+      }, 200 );
+
+
+      }
+   }
+
+
+}
+
+function hidepreview(camnr,tempmodelname,tempmodelid,tempcampicclass,tempalt) {
+
+   var productElement = document.getElementById('prdiv'+camnr);
+
+   if (productElement != null)
+   {
+      if (productElement.innerHTML.indexOf('flashmovie')!=-1)
+      {
+         var ranNum= Math.floor(Math.random()*9);
+         productElement.innerHTML = '<IMG name="campic'+camnr+'" id="campic'+camnr+'" class='+tempcampicclass+' alt="'+tempalt+'" title="'+tempalt+'" comment="prevseen" src="/models/preview/'+tempmodelid+'_pr.jpg?'+ranNum+'" >';
+         $('#temploading'+camnr).hide;
+      }
+   }
+
+   document.getElementById("currentpreview").innerHTML='0';
+   hideloaders('now');
+
+}
+
+
+
+function endpreview(camnr,tempcampicclass) {
+
+   var productElement = document.getElementById('prdiv'+camnr);
+   
+   if (productElement != null)
+   {
+      var ranNum= Math.floor(Math.random()*9);
+      productElement.innerHTML = '<IMG name="campic'+camnr+'" id="campic'+camnr+'" class='+tempcampicclass+' alt="'+tempalt+'" title="'+tempalt+'" src="/models/preview/'+tempmodelid+'_pr.jpg?'+ranNum+'" >';
+      $('#temploading'+camnr).hide;
+   }
+   
+   document.getElementById("currentpreview").innerHTML='0';
+   hideloaders('now');
+
+}
+
+
+
+
 
 function doRefresh ()
 {
@@ -84,7 +490,24 @@ function doRefresh ()
 }
 
 $(document).ready(function() {
-    resize();
+    //resize();
+    
+    
+
+
+    $("div#makeMeScrollable").smoothDivScroll({
+      
+      hotSpotScrollingStep: 10
+//      touchScrolling: true,
+
+
+
+      });
+
+    if (document.getElementById("ScrollGallery") != null)
+    $("div#ScrollGallery").smoothDivScroll({
+      hotSpotScrollingStep: 10
+      });
 });
 
 
@@ -129,7 +552,7 @@ function doInfoRefresh ()
    $('#models_nr').load('/share/share.php?command=ONLINE_MODELS_NUMBER'+'&random='+ranNum);
 
 
-   $('#logocaption').load('/share/share.php?command=ONLINE_MODELS_NUMBER2'+'&random='+ranNum, function()
+   $('#logocaption2').load('/share/share.php?command=ONLINE_MODELS_NUMBER3'+'&random='+ranNum, function()
    {
    });
 
@@ -187,6 +610,7 @@ function listInit()
 {
 if (document.all && document.getElementById)
 {
+
   var level1MenuItems = document.getElementsByTagName("li");
 
   for(var i = 0; i < level1MenuItems.length; i++)
@@ -225,7 +649,7 @@ if (document.all && document.getElementById)
   </script>
 
 
-
+<meta name="google-site-verification" content="Qb03YVLpZHwDfH-wFU7ku2bekWyLcRCEDDlqujKTPTQ">
 </head>
 
 <body onload="resize();">
@@ -235,6 +659,15 @@ if (document.all && document.getElementById)
 
 
 <script type="text/javascript">
+
+
+String.prototype.killWhiteSpace = function() {
+    return this.replace(/\s/g, '');
+};
+
+String.prototype.reduceWhiteSpace = function() {
+    return this.replace(/\s+/g, ' ');
+};
 
 function setCharAt(str,index,chr) {    if(index > str.length-1) return str;    return str.substr(0,index) + chr + str.substr(index+1);}
 
@@ -265,19 +698,22 @@ function ScrollTo(obj){
 
 
 function getW(){
-var w;
-if(document.body){ w=document.body.clientWidth;
-} else if(document.documentElement.clientWidth){ w=document.documentElement.clientWidth;
-} else if(document.innerWidth){ w=document.innerWidth; }
+var w=0;
+if(document.body.clientWidth>0)
+w=document.body.clientWidth;
+if(document.documentElement.clientWidth>w)
+w=document.documentElement.clientWidth;
+
 return w;
 }
 
 function getH(){
-var h;
+var h=0;
 
-if(document.body){ h=document.body.clientHeight;
-} else if(document.documentElement.clientHeight){ h=document.documentElement.clientHeight;
-} else if(document.innerHeight){ h=document.innerHeight; }
+if(document.body.clientHeight>0)
+h=document.body.clientHeight;
+if(document.documentElement.clientHeight>h)
+h=document.documentElement.clientHeight;
 return h;
 }
 
@@ -285,6 +721,7 @@ return h;
 
 function autocenter()
 {
+
          if (navigator.appName.indexOf('Internet Explorer')>0)
          setTimeout('window.scrollTo(0, 270)',1);
          else
@@ -306,13 +743,12 @@ function autocenter4(whathight)
 
            $("#flashmovie2").css("height",whathight+'px');
            $("#flashmovie2").css("width",'100%');
-           
 
-         if (navigator.appName.indexOf('Internet Explorer')>=0)
-         setTimeout('window.scrollTo(0, 270)',1);
+         if ((navigator.appName.indexOf('Internet Explorer')>=0) || (navigator.userAgent.indexOf('rv:11')>=0))
+         setTimeout('window.scrollTo(0, 200)',1);
 
          if (navigator.appName.indexOf('Netscape')>=0)
-         window.scrollTo(0, 270);
+         window.scrollTo(0, 200);
 }
 
 
@@ -320,6 +756,8 @@ function autocenter4(whathight)
 
 function resize()
 {
+  
+SendDataToFlashMovie('resized'+','+getWW()+','+getHH());
   
 
 createCookie('screenwidth',getW(),365);
@@ -332,7 +770,7 @@ if (($.getUrlVar('filter1')!='') && ($.getUrlVar('filter1')!=undefined))
 
 if ($.getUrlVar('Submit')=='login')
 {
-   document.form1.username.focus(); 
+   document.form1.username.focus();
    if (document.form1.username.value!='') 
    document.form1.password.focus();
 }
@@ -343,39 +781,34 @@ removebreaks();
 menuInit();
 
 var htmlwidth = getW();
+
 document.getElementById('header0').style.width=htmlwidth+"px";
-document.getElementById('header1').style.width=htmlwidth+"px";
 document.getElementById('header2').style.width=htmlwidth+"px";
 document.getElementById('header3').style.width=htmlwidth+"px";
-//document.getElementById('content').style.width=htmlwidth+"px";
-//document.getElementById('pfooter').style.width=htmlwidth+"px";
+
+
 
 
 if(((htmlwidth-980)/2)>=0)
 {
-   document.getElementById('header1_left').style.width=((htmlwidth-980)/2)+"px";
-   document.getElementById('header1_right').style.width=((htmlwidth-980)/2)+"px";
+   document.getElementById('header00').style.left=((htmlwidth-1980)/2)+"px";
+   document.getElementById('header00').style.width=(1980+((htmlwidth-1980)/2))+"px";
+
    document.getElementById('header2_left').style.width=((htmlwidth-980)/2)+"px";
    document.getElementById('header2_right').style.width=((htmlwidth-980)/2)+"px";
    document.getElementById('header3_left').style.width=((htmlwidth-980)/2)+"px";
    document.getElementById('header3_right').style.width=((htmlwidth-980)/2)+"px";
-   document.getElementById('header_logo').style.left=(((htmlwidth-980)/2)+10)+"px";
-   document.getElementById('header_logo2').style.left=(((htmlwidth-980)/2)+10)+"px";
-   document.getElementById('header_image').style.left=(((htmlwidth-980)/2)+265+10)+"px";
-   document.getElementById('header_imageright').style.left=(((htmlwidth-980)/2)+245+270+30)+"px";
+   document.getElementById('header_imageright').style.left=(((htmlwidth-980)/2)+339)+"px";
 }
 else
 {
-   document.getElementById('header1_left').style.width="0px";
-   document.getElementById('header1_right').style.width="0px";
+   document.getElementById('header00').style.left=(((htmlwidth-1980)/2)+((980-htmlwidth)/2))+"px";
+   document.getElementById('header00').style.width="1920px";
    document.getElementById('header2_left').style.width="0px";
    document.getElementById('header2_right').style.width="0px";
    document.getElementById('header3_left').style.width="0px";
    document.getElementById('header3_right').style.width="0px";
-   document.getElementById('header_logo').style.left="10px";
-   document.getElementById('header_logo2').style.left="10px";
-   document.getElementById('header_image').style.left=(265+10)+"px";
-   document.getElementById('header_imageright').style.left=(245+270+30)+"px";
+   document.getElementById('header_imageright').style.left=(339)+"px";
 }
 
 
@@ -387,31 +820,62 @@ else
 
 
 
-function removefavorite(whatssid,whatmodelid)
+function alertemailaction(whatssid,whatmodelid,whataction)
 {
       if (whatssid=='')
       currentssid = $.getUrlVar('ssid');
       else
       currentssid = whatssid;
 
+      var cachekiller = Math.random();
+      $.get('index.php?ajax=alertemailaction&action='+whataction+'&id='+whatmodelid+'&ssid='+currentssid+'&cachekiller='+cachekiller, function(data){
+      });
+
+
+}
+
+function alertsmsaction(whatssid,whatmodelid,whataction,whatelement,whatclass)
+{
+      if (whatssid=='')
+      currentssid = $.getUrlVar('ssid');
+      else
+      currentssid = whatssid;
+
+      var cachekiller = Math.random();
+      $.get('index.php?ajax=alertsmsaction&action='+whataction+'&id='+whatmodelid+'&ssid='+currentssid+'&cachekiller='+cachekiller, function(data){
+        if (whataction=='add')
+         alert('SMS alerts will cost you 20  seconds/message,\nthat will be deducted from your credit!');
+
+
+      });
+
+
+}
+
+
+function removefavorite(whatssid,whatmodelid,whatelementnr)
+{
+      if (whatssid=='')
+      currentssid = $.getUrlVar('ssid');
+      else
+      currentssid = whatssid;   
+
       i = 0;
       a = document.getElementsByTagName("div");
       while (element = a[i++])
       {
             if ((element.className == "container_model_1") || (element.className == "container_model_2") ||(element.className == "container_model_3"))
-            if (a[i-1].id=='favm'+whatmodelid)
+            if ((a[i-1].id=='camdiv'+whatmodelid) || (a[i-1].id=='camdiv'+whatelementnr))
             {
               document.getElementById(a[i-1].id).parentNode.removeChild(document.getElementById(a[i-1].id));
               var cachekiller = Math.random();
               $.get('index.php?ajax=removefavorite&action=remove&id='+whatmodelid+'&ssid='+currentssid+'&cachekiller='+cachekiller, function(data){
-                 //alert('Result: ' + data);
               });
             }
 
       }
 
 }
-
 
 
 
@@ -428,12 +892,36 @@ function removelastvisited(whatssid,whatmodelid)
       while (element = a[i++])
       {
             if ((element.className == "container_model_1") || (element.className == "container_model_2") ||(element.className == "container_model_3"))
-            if (a[i-1].id=='favm'+whatmodelid)
+            if (a[i-1].id=='camdiv'+whatmodelid)
             {
               document.getElementById(a[i-1].id).parentNode.removeChild(document.getElementById(a[i-1].id));
               var cachekiller = Math.random();
               $.get('index.php?ajax=removelastvisited&action=remove&id='+whatmodelid+'&ssid='+currentssid+'&cachekiller='+cachekiller, function(data){
-                 //alert('Result: ' + data);
+              });
+            }
+
+      }
+
+}
+
+
+function removebanned(whatssid,whatmodelid)
+{
+      if (whatssid=='')
+      currentssid = $.getUrlVar('ssid');
+      else
+      currentssid = whatssid;
+
+      i = 0;
+      a = document.getElementsByTagName("div");
+      while (element = a[i++])
+      {
+            if ((element.className == "container_model_1") || (element.className == "container_model_2") ||(element.className == "container_model_3"))
+            if (a[i-1].id=='camdiv'+whatmodelid)
+            {
+              document.getElementById(a[i-1].id).parentNode.removeChild(document.getElementById(a[i-1].id));
+              var cachekiller = Math.random();
+              $.get('index.php?ajax=removebanned&action=remove&id='+whatmodelid+'&ssid='+currentssid+'&cachekiller='+cachekiller, function(data){
               });
             }
 
@@ -460,7 +948,6 @@ function savesetting(whatssid,whatsetting,whatvalue)
 
       var cachekiller = Math.random();
       $.get('index.php?ajax=savesetting&whatsetting='+whatsetting+'&whatvalue='+whatvalue+'&ssid='+currentssid+'&cachekiller='+cachekiller, function(data){
-      //alert('Result: ' + data);
       });
 
 }
@@ -468,21 +955,20 @@ function savesetting(whatssid,whatsetting,whatvalue)
 
 
 
-function getlivemodels(whatssid,whatmodelname,whatsearchstring,sel1,sel2,sel3,sel4,whatsort,whatpage,showall)
+function getlivemodels(whatssid,whatmodelname,whatsearchstring,sel2,sel3,sel4,whatsort,age1,age2,whatpage,showall)
 {
-
+  
   if ($.getUrlVar('action')=='search')
   createCookie('camsearch',formsearch.searchstring.value,365);
 
   if ((whatpage=='') || (whatpage==null))
   whatpage=1;
-  
+
   if ((showall=='') || (showall==null))
   showall=0;
 
-//  document.getElementById('po_yes_inline').innerHTML='';
   var cachekiller = Math.random();
-  $('#po_yes_inline').load('index.php?ajax=getlivemodels&action=&lang=eng&wbid=&refid=extasycams.com&mref=&showall='+showall+'&whatpage='+whatpage+'&ssid='+whatssid+'&modelname='+whatmodelname+'&searchstring='+whatsearchstring+'&sel1='+sel1+'&sel2='+sel2+'&sel3='+sel3+'&sel4='+sel4+'&filter1='+whatsort+'&cachekiller='+cachekiller, function()
+  $('#po_yes_inline').load('index.php?ajax=getlivemodels&action=&lang=eng&wbid=&refid=extasycams.com&mref=&aref=&showall='+showall+'&whatpage='+whatpage+'&ssid='+whatssid+'&modelname='+whatmodelname+'&searchstring='+whatsearchstring+'&sel2='+sel2+'&sel3='+sel3+'&sel4='+sel4+'&filter1='+whatsort+'&age1='+age1+'&age2='+age2+'&cachekiller='+cachekiller, function()
   {
       if (document.getElementById('pages3') != null)
       document.getElementById('pages').innerHTML=document.getElementById('pages3').innerHTML;
@@ -498,8 +984,8 @@ function showbuyinfo(whatproc)
 {
          if (whatproc==0)
          {
-             document.imgbuyleft.src='/templates/purple/images/imgbuyleft.png';
-             document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, GIFT CARDS, WIRE TRANSFER';
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft.png';
+             document.getElementById('acceptedmethods').innerHTML='DEBIT AND CREDIT CARDS, DIRECT PAY';
              document.getElementById('acceptedcards').innerHTML='VISA, MASTERCARD, MAESTRO, AMEX, JCB, DISCOVER';
              document.getElementById('statement').innerHTML='a discrete description';
 
@@ -507,44 +993,76 @@ function showbuyinfo(whatproc)
 
          if (whatproc==1)
          {
-             document.imgbuyleft.src='/templates/purple/images/imgbuyleft'+whatproc+'.png';
-             document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, GIFT CARDS';
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='Debit and Credit Cards';
              document.getElementById('acceptedcards').innerHTML='VISA, MASTERCARD, MAESTRO, SWITCH, SOLO';
              document.getElementById('statement').innerHTML='"ZOMBAIO.COM"';
          }
 
          if (whatproc==2)
          {
-             document.imgbuyleft.src='/templates/purple/images/imgbuyleft'+whatproc+'.png';
-             document.getElementById('acceptedmethods').innerHTML='WIRE TRANSFER, CERTIFIED/CASHIERS CHECK';
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='Debit and Credit Cards';
              document.getElementById('acceptedcards').innerHTML='NONE <br>(TEMPORARILY)';
              document.getElementById('statement').innerHTML='"Internet Payments"';
          }
 
          if (whatproc==3)
          {
-             document.imgbuyleft.src='/templates/purple/images/imgbuyleft'+whatproc+'.png';
-             document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, GIFT CARDS';
-             document.getElementById('acceptedcards').innerHTML='VISA, MASTERCARD, JCB, DISCOVER';
-             document.getElementById('statement').innerHTML='"CCBill"';
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='Debit and Credit Cards';
+             document.getElementById('acceptedcards').innerHTML='VISA, MASTERCARD, JCB, DISCOVER, MAESTRO, DINERS';
+             document.getElementById('statement').innerHTML='"CCBill.com *Citavian"';
          }
-         
+
          if (whatproc==4)
          {
-             document.imgbuyleft.src='/templates/purple/images/imgbuyleft'+whatproc+'.png';
-             document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, WIRE TRANSFER';
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='Debit and Credit Cards';
              document.getElementById('acceptedcards').innerHTML='VISA<br> MASTERCARD';
              document.getElementById('statement').innerHTML='"ePassporte Transfer"';
          }
          
          if (whatproc==5)
          {
-             document.imgbuyleft.src='/templates/purple/images/imgbuyleft'+whatproc+'.png';
-             document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, GIFT CARDS';
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='All Cards, Direct Debit, BitCoin';
              document.getElementById('acceptedcards').innerHTML='VISA, MASTERCARD, JCB, DISCOVER, DINERS CLUB';
              document.getElementById('statement').innerHTML='"Verotel*vtsup.com"';
          }
 
+
+         if (whatproc==6)
+         {
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='BITCOIN';
+             document.getElementById('acceptedcards').innerHTML='BITCOIN';
+             document.getElementById('statement').innerHTML='"anonymous transaction"';
+         }
+         
+         if (whatproc==7)
+         {
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='iDEAL, Giropay, DirectPay, Wire';
+             document.getElementById('acceptedcards').innerHTML='iDEAL, Giropay, DirectPay, IBAN Wire Transfer';
+             document.getElementById('statement').innerHTML='"CCBill"';
+         }
+         
+         if (whatproc==8)
+         {
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='CHECKS';
+             document.getElementById('acceptedcards').innerHTML='US Check, EU Check';
+             document.getElementById('statement').innerHTML='"Panostilo LTD"';
+         }
+         
+         if (whatproc==9)
+         {
+             document.imgbuyleft.src='/templates/temp/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='Debit and Credit Cards';
+             document.getElementById('acceptedcards').innerHTML='VISA, MASTERCARD, JCB, DISCOVER, DINERS CLUB';
+             document.getElementById('statement').innerHTML='"Panostilo LTD"';
+         }
 
 
 
@@ -556,13 +1074,23 @@ function showbuyinfo(whatproc)
 
 function changecamsize(whatcamsize,where)
 {
+      camsizestr='';
+      if (whatcamsize==1)
+      camsizestr='SMALL';
+      if (whatcamsize==2)
+      camsizestr='MEDIUM';
+      if (whatcamsize==3)
+      camsizestr='BIG';
 
       i = 0;
       a = document.getElementsByTagName("div");
       while (element = a[i++])
       {
         if ((element.className == "container_model_1") || (element.className == "container_model_2") ||(element.className == "container_model_3"))
+        {
         a[i-1].className = 'container_model_'+whatcamsize;
+        a[i-1].style.backgroundImage='url(/templates/temp/images/Cam-holder-'+camsizestr+'.png)';
+        }
         if ((element.className == "infoline_top_1") || (element.className == "infoline_top_2") ||(element.className == "infoline_top_3"))
         a[i-1].className = 'infoline_top_'+whatcamsize;
         if ((element.className == "led_webcam_1") || (element.className == "led_webcam_2") ||(element.className == "led_webcam_3"))
@@ -587,26 +1115,35 @@ function changecamsize(whatcamsize,where)
               a[i-1].className = 'campic_'+whatcamsize;
               if ((element.className == "campic_alpha_1") || (element.className == "campic_alpha_2") ||(element.className == "campic_alpha_3"))
               a[i-1].className = 'campic_alpha_'+whatcamsize;
+              if ((element.className == "sound-icon_1") || (element.className == "sound-icon_2") ||(element.className == "sound-icon_3"))
+              a[i-1].className = 'sound-icon_'+whatcamsize;
+              if ((element.className == "favorite-icon_1") || (element.className == "favorite-icon_2") ||(element.className == "favorite-icon_3"))
+              a[i-1].className = 'favorite-icon_'+whatcamsize;
+              if ((element.className == "Details-textt_1") || (element.className == "Details-textt_2") ||(element.className == "Details-textt_3"))
+              a[i-1].className = 'Details-textt_'+whatcamsize;
       }
 
 
     if (whatcamsize=="1")
     {
-       document.buttonm1.src='/templates/purple/images/Image-size-cam_small_Selected.png';
-       document.buttonm2.src='/templates/purple/images/Image-size-cam_medium_inactive.png';
-       document.buttonm3.src='/templates/purple/images/Image-size-cam_big_inactive.png';
+       document.buttonm1.src='/templates/temp/images/Image-size-cam_small_Selected.png';
+       document.buttonm2.src='/templates/temp/images/Image-size-cam_medium_inactive.png';
+       document.buttonm3.src='/templates/temp/images/Image-size-cam_big_inactive.png';
+       document.getElementById('tempcamsize').innerHTML='SMALL';
     }
     if (whatcamsize=="2")
     {
-       document.buttonm1.src='/templates/purple/images/Image-size-cam_small_inactive.png';
-       document.buttonm2.src='/templates/purple/images/Image-size-cam_medium_Selected.png';
-       document.buttonm3.src='/templates/purple/images/Image-size-cam_big_inactive.png';
+       document.buttonm1.src='/templates/temp/images/Image-size-cam_small_inactive.png';
+       document.buttonm2.src='/templates/temp/images/Image-size-cam_medium_Selected.png';
+       document.buttonm3.src='/templates/temp/images/Image-size-cam_big_inactive.png';
+       document.getElementById('tempcamsize').innerHTML='MEDIUM';
     }
     if (whatcamsize=="3")
     {
-       document.buttonm1.src='/templates/purple/images/Image-size-cam_small_inactive.png';
-       document.buttonm2.src='/templates/purple/images/Image-size-cam_medium_inactive.png';
-       document.buttonm3.src='/templates/purple/images/Image-size-cam_big_Selected.png';
+       document.buttonm1.src='/templates/temp/images/Image-size-cam_small_inactive.png';
+       document.buttonm2.src='/templates/temp/images/Image-size-cam_medium_inactive.png';
+       document.buttonm3.src='/templates/temp/images/Image-size-cam_big_Selected.png';
+       document.getElementById('tempcamsize').innerHTML='BIG';
     }
 
 
@@ -621,6 +1158,8 @@ function changecamsize(whatcamsize,where)
 
     if (where=='favorites')
     savesetting('','camsizefav',whatcamsize);
+    
+    document.getElementById('currentcamsize').innerHTML=whatcamsize;
 
 }
 
@@ -660,51 +1199,117 @@ window.onresize = resize;
   resize();
 </script>
 
-<center>
+<center>      
 
 
+<div id="chat" style="margin:0 auto; z-index: 10010; visibility: visible; display: none; position: fixed; left: 0px; top: 0px; width: 1140px; height: 576px; background:#030202;">
+</div>
+
+
+<div id="lastflash" style="display:none;">empty</div>
+<div id="lastflash2" style="display:none;">empty</div>
+
+
+<div id="header00" style="left: -307px; width: 1673px;">
+</div>
 
 <div id="header0" style="width: 1366px;">
-<div id="header1" style="width: 1366px;">
-     <div id="header1_left" style="width: 193px;">
-     </div>
-     <div id="header1_center">
-
-
-
-            <div style="width: 980px; height: 20px; position: relative; margin-top: 5px; overflow: hidden; display: block;" id="scrollerDiv"><table cellpadding="0" cellspacing="0" class="nlsscroller"><tbody><tr><td class="scrlclient"><table id="scroll1$loading" style="display:none;position:absolute;top:z-index:1000"><tbody><tr><td><img src="https://web.archive.org/templates/purple/images/img/loading.gif"></td><td style="color:#333333">Loading...</td></tr></tbody></table><table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top" style="width:980px;height:20px"><div id="scroll1" style="position:absolute;overflow:hidden;width:980px;height:20px;" onmouseover="NlsScroller.mOver('scroll1')" onmouseout="NlsScroller.mOut('scroll1')"><div id="scroll1$content" style="height:100%"><table id="scroll1line0" style="position: absolute; top: 0px; z-index: 3; left: 0px;" class="scrlcontentfrm"><tbody><tr><td class="scrlcontent">
-            &nbsp;&nbsp;&nbsp;<span style="FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif,helvetica; COLOR: #FFFFFF">For the 8th year in a row, extasycams.com is the cheapest adult video chat website in the world. </span> </td></tr></tbody></table><table id="scroll1line1" style="position: absolute; top: 0px; z-index: 2; left: 657px;" class="scrlcontentfrm"><tbody><tr><td class="scrlcontent"> <span style="FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif,helvetica; COLOR: #FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;Thank you for your support and feedback in our effort to keep the highest standards, even at this price.</span> </td></tr></tbody></table><table id="scroll1line2" style="position: absolute; top: 0px; z-index: 1; left: 1366px;" class="scrlcontentfrm"><tbody><tr><td class="scrlcontent"> &nbsp;&nbsp;
-            </td></tr></tbody></table></div><div id="scroll1Helper" style="display:none;position:absolute;top:0px;width:100%;height:100%" class="scrlefflayerH"><table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table></div></div></td></tr></tbody></table></td></tr></tbody></table></div>
-            <script>
-              var n = new NlsScroller("scroll1");
-              n.width=980;
-              n.height=20;
-              n.setContentById("scrollerDiv");
-              n.setEffect(new NlsEffContinuous("direction=left,speed=30,step=1,delay=0"));
-              n.render("scrollerDiv");
-            </script>
-
-
-
-
-      </div>
-      <div id="header1_right" style="width: 193px;">
-      </div>
-</div>
 
 <div id="header2" style="width: 1366px;">
      <div id="header2_left" style="width: 193px;">
      </div>
-     <div id="header2_center">      
-          <div id="headercontrols">
+     <div id="header2_center">
+          <div id="header_logo">
+               <img src="/templates/temp/images/header_logo_extasycams.com.png">
+               <div id="logocaption">
+
+<div id="logocaption1" class="fontone" style="FLOAT: left; POSITION: relative; top: 0px; left: 0px; text-align:left;">there are&nbsp;</div>
+<div id="logocaption2" class="fontone" style="FLOAT: left; POSITION: relative; top: 0px; left: 0px; text-align:left;"><strong>159 </strong></div>
+<div id="logocaption3" class="fontone" style="FLOAT: left; POSITION: relative; top: 0px; left: 0px; text-align:left;">&nbsp;live cams right now!</div>
+
+</div>
+          </div>
+
+
+          <div id="headerflags">
           
-<div style="position:relative; top:14px; text-align:left; margin-left: 12px;">
+<div id="makeMeScrollable"><div class="scrollingHotSpotLeft" style="display: none;"></div><div class="scrollingHotSpotRight"></div><div class="scrollWrapper"><div class="scrollableArea" style="width: 328px;">
+            <img class="languageflag" src="/images/flags/gbr.png" alt="English" title="English" onmouseover="this.src='/images/flags/gbr.png';" onmouseout="this.src='/images/flags/gbr.png';">
+            
+      <a href="/index.php?&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy&amp;lang=esp"><img class="languageflag" style="cursor:pointer; cursor:hand;" src="/images/flags/esp_bw.png" alt="Spanish" title="Spanish" onmouseover="this.src='/images/flags/esp.png';" onmouseout="this.src='/images/flags/esp_bw.png';"></a>
+      
+      <a href="/index.php?&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy&amp;lang=fra"><img class="languageflag" style="cursor:pointer; cursor:hand;" src="/images/flags/fra_bw.png" alt="French" title="French" onmouseover="this.src='/images/flags/fra.png';" onmouseout="this.src='/images/flags/fra_bw.png';"></a>
+      
+      <a href="/index.php?&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy&amp;lang=ger"><img class="languageflag" style="cursor:pointer; cursor:hand;" src="/images/flags/ger_bw.png" alt="German" title="German" onmouseover="this.src='/images/flags/ger.png';" onmouseout="this.src='/images/flags/ger_bw.png';"></a>
+      
+      <a href="/index.php?&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy&amp;lang=ita"><img class="languageflag" style="cursor:pointer; cursor:hand;" src="/images/flags/ita_bw.png" alt="Italian" title="Italian" onmouseover="this.src='/images/flags/ita.png';" onmouseout="this.src='/images/flags/ita_bw.png';"></a>
+      
+      <a href="/index.php?&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy&amp;lang=ned"><img class="languageflag" style="cursor:pointer; cursor:hand;" src="/images/flags/nld_bw.png" alt="Dutch" title="Dutch" onmouseover="this.src='/images/flags/nld.png';" onmouseout="this.src='/images/flags/nld_bw.png';"></a>
+      
+      <a href="/index.php?&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy&amp;lang=tur"><img class="languageflag" style="cursor:pointer; cursor:hand;" src="/images/flags/tur_bw.png" alt="Turkish" title="Turkish" onmouseover="this.src='/images/flags/tur.png';" onmouseout="this.src='/images/flags/tur_bw.png';"></a>
+      
+      <a href="/index.php?&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy&amp;lang=por"><img class="languageflag" style="cursor:pointer; cursor:hand;" src="/images/flags/prt_bw.png" alt="Portuguese" title="Portuguese" onmouseover="this.src='/images/flags/prt.png';" onmouseout="this.src='/images/flags/prt_bw.png';"></a>
+      
+      <a href="/index.php?&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy&amp;lang=rom"><img class="languageflag" style="cursor:pointer; cursor:hand;" src="/images/flags/rom_bw.png" alt="Romanian" title="Romanian" onmouseover="this.src='/images/flags/rom.png';" onmouseout="this.src='/images/flags/rom_bw.png';"></a>
+      
+<img width="40" height="1" src="/images/transparent.png">
+
+</div></div></div>
+
+          </div>
+
+          <div id="headersearch">
+          
+
+   <form name="formsearch1" method="get" action="/index.php">
+                  <input name="lang" type="hidden" value="eng">
+                  <input name="ssid" type="hidden" value="">
+                  <input name="wbid" type="hidden" value="">
+                  <input name="refid" type="hidden" value="extasycams.com">
+                  <input name="return" type="hidden" value="">
+                  <input name="Submit" type="hidden" value="">
+                  <input name="action" type="hidden" value="search">
+                  <input name="searchstring" type="hidden" value="">
+                  <input name="tempfilter11" type="hidden" value="Popularity">
+                  <input name="oldmodelname" type="hidden" value="ModelName">
+                  <input class="fmsearch0" name="modelname" id="modelname" value="" size="22" maxlength="30" onchange="formsearch2.modelname2.value=this.value; formsearch.modelname.value=this.value; formsearch.oldmodelname.value=this.value;">
+   </form>
+
+
+
+          </div>
+          
+          <div id="headersearch2">
+          
+
+   <form name="formsearch2" method="get" action="/index.php">
+                  <input name="lang" type="hidden" value="eng">
+                  <input name="ssid" type="hidden" value="">
+                  <input name="wbid" type="hidden" value="">
+                  <input name="refid" type="hidden" value="extasycams.com">
+                  <input name="return" type="hidden" value="">
+                  <input name="Submit" type="hidden" value="">
+                  <input name="action" type="hidden" value="search">
+                  <input name="searchstring" type="hidden" value="">
+                  <input name="tempfilter11" type="hidden" value="Popularity">
+                  <input name="oldmodelname" type="hidden" value="ModelName">
+                  <input name="modelname2" type="hidden" value="">
+                  <input name="Submit2" type="image" style="width: 21px; height=21px; position: relative; top: 3px; left: 0px; z-index: 99;" src="/templates/temp/images/icon_search.png" border="0" alt="Search" title="Search">
+   </form>
+
+
+
+          </div>
+                  
+          <div id="headercontrols">
+          <span id="currentpreview" style="display:none;">0</span><span id="currentcamsize" style="display:none;">2</span>
+<div id="headercontrolsi1">
 LOGIN:
 </div>
 
-<div style="position:relative; top:16px;">
+<div id="headercontrolsi2">
 
-<form name="form11" method="post" action="/index.php">
+<form name="form11" method="post" action="https://live.extasycams.com/index.php">
 <table>
 <tbody><tr>
     <td width="5%">
@@ -716,13 +1321,14 @@ LOGIN:
           <input name="refid" type="hidden" value="extasycams.com">
           <input name="return" type="hidden" value="">
           <input name="Submit" type="hidden" value="login">
-          <input onfocus="if (form11.username.value=='Username') form11.username.value=''; " name="username" type="text" class="fmlogin" id="username1" value="Username" size="17" maxlength="20">
+          <input name="fhstampp" type="hidden" value="253818">
+          <input onfocus="if (form11.username.value=='UserName') form11.username.value=''; " name="username" type="text" class="fmlogin" id="username1" value="UserName" size="17" maxlength="20">
           <input onfocus="if (form11.password.value=='password') form11.password.value=''; " name="password" type="password" class="fmlogin" id="password1" value="password" size="17" maxlength="30">
 
     </td>
 
     <td width="30%">
-          <input name="Submit2" type="image" src="/templates/purple/images/btn_entersite2.png" border="0" alt="Enter Site" value="Login">
+          <input name="Submit2" type="image" src="/templates/temp/images/btn_entersite2.png" border="0" alt="Upgrade Membership" title="Enter Site" value="Login">
           <br>
     </td>
 
@@ -734,7 +1340,10 @@ LOGIN:
 
 
 
-          </div>
+          </div>  
+          
+
+
      </div>
      <div id="header2_right" style="width: 193px;">
      </div>
@@ -745,7 +1354,7 @@ LOGIN:
      </div>
      <div id="header3_center">
 
-          <div id="headermenu">
+          <div id="headermenu"> 
           
 <div class="menuContainer">
 <div class="menuSubContainer" id="MainMenu">
@@ -755,114 +1364,129 @@ LOGIN:
   <tr>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li01" onmouseover="onMouseOver('img01');" onmouseout="onMouseOut('img01');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img01" alt="Live Models" src="/templates/purple/images/button_1_live-models_inactive.png" align="center" border="0" listitemid="li01" mouseoutimage="/templates/purple/images/button_1_live-models_inactive.png" mouseoverimage="/templates/purple/images/button_1_live-models_Selected.png"></a></li></ul></td>
+        <li class="liMenuLevel1" id="li01" onmouseover="onMouseOver('img01');" onmouseout="onMouseOut('img01');" name="menuLevel1Item"><a class="linkMenuLevel1" href="https://live.extasycams.com/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall="><img id="img01" alt="Live Models" title="Live Models" src="/templates/temp/images/button_1_live-models_inactive_eng.png" align="center" border="0" listitemid="li01" mouseoutimage="/templates/temp/images/button_1_live-models_inactive_eng.png" mouseoverimage="/templates/temp/images/button_1_live-models_Selected_eng.png"></a></li></ul></td>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li04" onmouseover="onMouseOver('img04');" onmouseout="onMouseOut('img04');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=login&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img04" alt="Members Login" src="/templates/purple/images/button_2_members-login_inactive.png" align="center" border="0" listitemid="li04" mouseoutimage="/templates/purple/images/button_2_members-login_inactive.png" mouseoverimage="/templates/purple/images/button_2_members-login_Selected.png"></a></li></ul></td>
+        <li class="liMenuLevel1" id="li04" onmouseover="onMouseOver('img04');" onmouseout="onMouseOut('img04');" name="menuLevel1Item"><a class="linkMenuLevel1" href="https://live.extasycams.com/index.php?Submit=login&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall="><img id="img04" alt="Members Login" title="Members Login" src="/templates/temp/images/button_2_members-login_inactive_eng.png" align="center" border="0" listitemid="li04" mouseoutimage="/templates/temp/images/button_2_members-login_inactive_eng.png" mouseoverimage="/templates/temp/images/button_2_members-login_Selected_eng.png"></a></li></ul></td>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li07" onmouseover="onMouseOver('img07');" onmouseout="onMouseOut('img07');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=signup&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img07" alt="Join Now!" src="/templates/purple/images/button_3_join-now_inactive.png" align="center" border="0" listitemid="li07" mouseoutimage="/templates/purple/images/button_3_join-now_inactive.png" mouseoverimage="/templates/purple/images/button_3_join-now_Selected.png"></a></li></ul></td>
+        <li class="liMenuLevel1" id="li07" onmouseover="onMouseOver('img07');" onmouseout="onMouseOut('img07');" name="menuLevel1Item"><a class="linkMenuLevel1" href="https://live.extasycams.com/index.php?Submit=signup&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall="><img id="img07" alt="Join Now" title="Join Now" src="/templates/temp/images/button_3_join-now_inactive_eng.png" align="center" border="0" listitemid="li07" mouseoutimage="/templates/temp/images/button_3_join-now_inactive_eng.png" mouseoverimage="/templates/temp/images/button_3_join-now_Selected_eng.png"></a></li></ul></td>
+
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li09" onmouseover="onMouseOver('img09');" onmouseout="onMouseOut('img09');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=confirmpin&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img09" alt="I Have a Ticket" src="/templates/purple/images/button_4_i-have-a-ticket_inactive.png" align="center" border="0" listitemid="li09" mouseoutimage="/templates/purple/images/button_4_i-have-a-ticket_inactive.png" mouseoverimage="/templates/purple/images/button_4_i-have-a-ticket_Selected.png"></a></li></ul></td>
+        <li class="liMenuLevel1" id="li041" onmouseover="onMouseOver('img041');" onmouseout="onMouseOut('img041');" name="menuLevel1Item"><a class="linkMenuLevel1" href="https://live.extasycams.com/index.php?action=search&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall="><img id="img041" alt="Search Models" title="Search Models" src="/templates/temp/images/button_l41_search_inactive_eng.png" align="center" border="0" listitemid="li04" mouseoutimage="/templates/temp/images/button_l41_search_inactive_eng.png" mouseoverimage="/templates/temp/images/button_l41_search_Selected_eng.png"></a></li></ul></td>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li041" onmouseover="onMouseOver('img041');" onmouseout="onMouseOut('img041');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?action=search&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img041" alt="Search Models" src="/templates/purple/images/button_l41_search_inactive.png" align="center" border="0" listitemid="li04" mouseoutimage="/templates/purple/images/button_l41_search_inactive.png" mouseoverimage="/templates/purple/images/button_l41_search_Selected.png"></a></li></ul></td>
-    <td>
-      <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li11" onmouseover="onMouseOver('img11');" onmouseout="onMouseOut('img11');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=Customer Support&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img11" alt="Support" src="/templates/purple/images/button_5_support_inactive.png" align="center" border="0" listitemid="li11" mouseoutimage="/templates/purple/images/button_5_support_inactive.png" mouseoverimage="/templates/purple/images/button_5_support_Selected.png"></a>
+        <li class="liMenuLevel1" id="li11" onmouseover="onMouseOver('img11');" onmouseout="onMouseOut('img11');" name="menuLevel1Item"><a class="linkMenuLevel1" href="https://live.extasycams.com/index.php?Submit=Customer Support&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall="><img id="img11" alt="Customer Support" title="Customer Support" src="/templates/temp/images/button_5_support_inactive_eng.png" align="center" border="0" listitemid="li11" mouseoutimage="/templates/temp/images/button_5_support_inactive_eng.png" mouseoverimage="/templates/temp/images/button_5_support_Selected_eng.png"></a>
         <ul class="ulMenuLevel2">
           <li class="liMenuLevel2">
-          <a href="/index.php?Submit=Lost Username&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=">Lost Username</a>
-          <a href="/index.php?Submit=Lost Password&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=">Lost Password</a>
-          <a href="/index.php?Submit=Lost Credit&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=">Lost Credit</a>
-          <a href="/index.php?Submit=Customer Support&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=">Customer Support</a>
-          
+          <a href="https://live.extasycams.com/index.php?Submit=Lost Password&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=">Lost Password</a>
+          <a href="https://live.extasycams.com/index.php?Submit=Lost Username&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=">Lost Username</a>
+          <a href="https://live.extasycams.com/index.php?Submit=Lost Credit&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=">Lost Credit</a>
+          <a href="https://live.extasycams.com/index.php?Submit=Customer Support&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=">Customer Support</a>
+
           </li></ul></li></ul></td>
 
         </tr></tbody></table></center></div></div>
-          </div>
-
+          </div> 
+          
      </div>
      <div id="header3_right" style="width: 193px;">
      </div>
 </div>
 
-<div id="header_logo" style="left: 203px;">
-     <img src="/templates/purple/images/header_logo_extasycams.com.png">
-</div>
-<div id="header_logo2" style="left: 203px;">
-     <span id="logocaption" class="fontone"><strong>There are 218 live cams right now!</strong></span>
-</div>
-<div id="header_image" style="left: 468px;">
-</div>
-<div id="header_imageright" style="left: 738px;">
+
+<div id="header_imageright" style="left: 532px;">
+      <script type="text/javascript">
+      var htmlwidth = getW();
+      if(((htmlwidth-980)/2)>=0)
+      document.getElementById('header_imageright').style.left=(((htmlwidth-980)/2)+339)+"px";
+      else
+      document.getElementById('header_imageright').style.left=(339)+"px";
+      </script>
      
        <br><br>
-       <img src="/templates/purple/images/header_imageright_1.png">
+       <img src="/templates/temp/images/banner1_eng.png">
        
+   <div id="over18" name="over18" style="display: inline; position: fixed; bottom: 10px; right: 10px; margin: 0px; z-index: 20001; background-color: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 6px 0px 0px;">
+        <div style="display: inline-block; margin:0; width:70px; height:70px; vertical-align: middle; background: linear-gradient(to bottom, #c5418f, #882e63); border-radius: 40px; text-align: center; font: 28px/28px Arial; color: #ffffff; text-shadow: 2px 0px 0px #930000;">
+             <span style="display: block; padding-top:21px;">18+</span></div>
+        <div style="display: inline-block; vertical-align: middle; padding: 0px 0px 0 20px; margin: 0;">
+             <strong style="width: 350px; display: inline-block; margin-bottom: 10px; font: 14px/16px Arial; color: #ffffff;">ExtasyCams contains explicit material.</strong>
+             <p style="width: 350px; font: 12px/16px Arial;">By using this website I accept the <a href="/index.php?lang=eng&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=terms">Terms and Conditions</a>.</p>
+             <a style="display: inline-block; padding: 0 19px; text-align: center; border-radius: 5px; box-shadow: 0px 1px 0px rgba(0,0,0,0.3); margin: 12px 10px 0 0; font: 11px/26px Arial; font-weight: bold; height: 26px; color: #ffffff !important; background: linear-gradient(to bottom, #c5418f, #882e63); border-top: solid 1px rgba(255, 255, 255, 0.6); " href="#" onclick="createCookie('over18',1,365); document.getElementById('over18').style.display = 'none'; return false;">I'm over 18</a><span> or </span>
+             <a href="https://www.google.com/" rel="nofollow">&nbsp;&nbsp;Exit the site</a>
+        </div>
+   </div>
+
+   <script type="text/javascript">
+
+      var over18=readCookie('over18');
+
+      if ((over18==null) || (over18=='0'))
+      document.getElementById('over18').style.display = 'inline';
+      else
+      document.getElementById('over18').style.display = 'none';
+
+   
+   </script>
+
+   
 </div>
 
+
+
 </div>
 
 
-
-<div id="content">
-
+<div id="overlay" style="z-index: 10009; visibility: visible; top: 0px; display: none; position: fixed; left: 0px; top: 0px; width:100%;height:100%; opacity: .92; background:#030202;" onclick="popupchat('hide'); return false;"></div>
 
 
+
+<div id="content_safari">
 <div id="content_middle">
-
 <div id="container_variable">
                   <div id="container_variable_top">
                   </div>
                   <div id="container_variable_middle">
-                  <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td bordercolor="#000000">
-      <div align="center">
+                  
+      <div style=" width: 90%;" align="center">
   <span class="title_header"><strong>PRIVACY POLICY</strong></span>
 
 <br>
 <br>
 <span class="fonttwo">
 <p align="left">
-How ExtasyCams Protects Your Privacy<br>
+How ExtasyCams Protects Your Privacy<br><br>
 Summary:<br><br>
-- We <strong>NEVER </strong> sell, rent or share your personal information or email address with any other party.<br>
+- We NEVER  sell, rent or share your personal information or email address with any other party.<br>
 - We may send you occasional promotional emails, and every email will contain an unsubscribe option.<br>
-- Your personal information is <strong>never </strong> stored on ExtasyCams.com's server, so it cannot be stolen by hackers. <br>
+- Your personal information is NEVER stored on ExtasyCams.com's server, so it cannot be stolen by hackers.  <br>
 </p>
 
-<p align="left">Below are the complete details of our privacy policy: <br>
+<p align="left">Below are the complete details of our privacy policy:  <br>
     <br>
-  Not only do we respect your privacy, we protect your privacy.
-</p><p align="left">ExtasyCams is occasionally contacted by third parties who, for marketing purposes, want to purchase our mailing list and other sensitive customer information derived from our database. Although there is no law forbidding ExtasyCams from selling such information, the trading of which is an extremely lucrative business , ExtasyCams is serious in its commitment to protecting your personal privacy. We have never sold such personal information about our customers to outside parties -- not even once -- and we don't intend to. </p>
+Not only do we respect your privacy, WE PROTECT your privacy.
+</p><p align="left">ExtasyCams is occasionally contacted by third parties who, for marketing purposes, want to purchase our mailing list and other sensitive customer information derived from our database. Although there is no law forbidding ExtasyCams from selling such information, the trading of which is an extremely lucrative business , ExtasyCams is serious in its commitment to protecting your personal privacy. We have never sold such personal information about our customers to outside parties -- not even once -- and we don't intend to.  </p>
 <p align="left">As a general rule, ExtasyCams doesn't collects any kind of information about you.</p>
-<p align="left">Log information bears greater explanation: Log information typically consists of such things as your browser type (i.e., Netscape or MSIE), your IP address (i.e., 102.316.52.11), the domain name from which you are visiting ExtasyCams (i.e., "aol.com"), and which pages of ExtasyCams that you visit. Like all internet services, we analyze our log files to better understand which areas of ExtasyCams are more popular than others. And like most other large-scale internet properties, we also use this information to "customize" the ExtasyCams experience to match your tastes. For example, if you first visit ExtasyCams by searching an internet portal for a search term such as "voyeur" and clicking upon an ExtasyCams banner or link, ExtasyCams may set a "cookie" on your computer which records the term as a "search preference" (Note: Everyday log-analysis programs such as WebTrends include such tracking of keyword-specific traffic as a regular feature - indeed, using such tools, the administrators of most websites on earth track traffic originating from search engines by searched keyword). Later, as you navigate through ExtasyCams, you will likely observe that the content you see on ExtasyCams tends to be tailored to match your recorded search preference. Note: such cookies are "secure" in that they cannot be read by other internet companies, but can only be read by the web site which placed the cookie. </p>
-<p align="left">ExtasyCams also uses your recorded "search preference" information to better target and allocate marketing expenditures. For example, if ExtasyCams learns that, in aggregate, individuals who search portals for terms such as "voyeur" are more likely to purchase goods and services from ExtasyCams than individuals who search for terms such as "livecams", ExtasyCams may allocate greater portions of its marketing budget to targeting the former group, and a smaller portion of its budget to target the latter group. By optimizing marketing strategies in this manner, ExtasyCams has more disposable capital that can be deployed toward development efforts which improve the ExtasyCams platform and provide a richer customer experience for all. </p>
-<p align="left">Speaking of cookies, another kind of cookie that ExtasyCams sets is an "identification cookie". This cookie is written whenever you successfully use your login and password to access a restricted area of ExtasyCams; the identification cookie is available only to individuals who have already been verified as adults, via ExtasyCams' verification procedures. When ExtasyCams' servers observe this identification cookie on your computer, they recognize you and therefore might deliver unmodified content as opposed to modified content - in effect, another form of customized content tailored to suit your indicated preferences. </p>
-<p align="left">Another question that should concern you: "Does ExtasyCams outsource to other companies any privacy-sensitive functions such as management of its email newsletter system, web hosting, or its e-commerce platform?" Because ExtasyCams is committed to safeguarding the integrity of your personal information, we have elected to not use such services, despite the fact that they are reasonably-priced and simplify the management task of running a large and complex website operation. <br>
+<p align="left">Log information bears greater explanation: Log information typically consists of such things as your browser type (i.e., Netscape or MSIE), your IP address (i.e., 102.316.52.11), the domain name from which you are visiting ExtasyCams (i.e., "aol.com"), and which pages of ExtasyCams that you visit. Like all internet services, we analyze our log files to better understand which areas of ExtasyCams are more popular than others. And like most other large-scale internet properties, we also use this information to "customize" the ExtasyCams experience to match your tastes. For example, if you first visit ExtasyCams by searching an internet portal for a search term such as "voyeur" and clicking upon an ExtasyCams banner or link, ExtasyCams may set a "cookie" on your computer which records the term as a "search preference" (Note: Everyday log-analysis programs such as WebTrends include such tracking of keyword-specific traffic as a regular feature - indeed, using such tools, the administrators of most websites on earth track traffic originating from search engines by searched keyword). Later, as you navigate through ExtasyCams, you will likely observe that the content you see on ExtasyCams tends to be tailored to match your recorded search preference. Note: such cookies are "secure" in that they cannot be read by other internet companies, but can only be read by the web site which placed the cookie.  </p>
+<p align="left">ExtasyCams also uses your recorded "search preference" information to better target and allocate marketing expenditures. For example, if ExtasyCams learns that, in aggregate, individuals who search portals for terms such as "voyeur" are more likely to purchase goods and services from ExtasyCams than individuals who search for terms such as "livecams", ExtasyCams may allocate greater portions of its marketing budget to targeting the former group, and a smaller portion of its budget to target the latter group. By optimizing marketing strategies in this manner, ExtasyCams has more disposable capital that can be deployed toward development efforts which improve the ExtasyCams platform and provide a richer customer experience for all.  </p>
+<p align="left">Speaking of cookies, another kind of cookie that ExtasyCams sets is an "identification cookie". This cookie is written whenever you successfully use your login and password to access a restricted area of ExtasyCams; the identification cookie is available only to individuals who have already been verified as adults, via ExtasyCams' verification procedures. When ExtasyCams' servers observe this identification cookie on your computer, they recognize you and therefore might deliver modified content as opposed to unmodified content - in effect, another form of customized content tailored to suit your indicated preferences.  </p>
+<p align="left">Another question that should concern you: "Does ExtasyCams outsource to other companies any privacy-sensitive functions such as management of its email newsletter system, web hosting, or its e-commerce platform?" Because ExtasyCams is committed to safeguarding the integrity of your personal information, we have elected to not use such services, despite the fact that they are reasonably-priced and simplify the management task of running a large and complex website operation.  <br>
   <br>
 </p>
 </span>
-<p align="center">&nbsp;</p>    </div></td>
-        </tr>
-      </tbody></table>
+<p align="center">&nbsp;</p>    
+      </div>
       
                   </div>
                   <div id="container_variable_bottom">
                   </div>
              </div>
-
+</div>
 </div>
 
 
-
-
-
-
-</div>
 
 
 
@@ -874,13 +1498,16 @@ Summary:<br><br>
 <span class="lpagefooter">
 <br>
 <center>
-<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=terms">Terms and Conditions</a> &nbsp;&nbsp;
-<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=privacy">Privacy Policy</a> &nbsp;&nbsp;
-<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=Customer Support&amp;whatsupport=Contact">Contact</a> &nbsp;&nbsp;
-<a target="_blank" href="http://models.extasycams.com">Models Wanted</a> &nbsp;&nbsp;
-<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=18usc">18 U.S.C. 2257</a>
+<a href="/index.php?lang=eng&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=terms">Terms and Conditions</a> &nbsp;&nbsp;
+<a href="/index.php?lang=eng&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=privacy">Privacy Policy</a> &nbsp;&nbsp;
+<a target="_blank" href="https://controlcenter.verotel.com/register-reseller?website=cq1hjgngap06ffl9wqr0qubum6dj8gneht368l7o">Webmasters</a> &nbsp;&nbsp;
+<a href="/index.php?lang=eng&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=Customer Support&amp;whatsupport=Contact">Contact</a> &nbsp;&nbsp;
+<a target="_blank" href="http://models.extasycams.com">Models Wanted</a> &nbsp;&nbsp;<br>
+<a href="/index.php?lang=eng&amp;ssid=&amp;refid=extasycams.com&amp;mref=&amp;aref=&amp;showall=&amp;Submit=18usc">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a>
 <br>
-Copyright © 2004 - 2012 Zipp Software - Cheap Live Sex Cams. All rights reserved. <br><br>
+All models on this website are at least 18 years old.<br>
+
+<br>
 </center>
 
 
@@ -897,74 +1524,179 @@ Copyright © 2004 - 2012 Zipp Software - Cheap Live Sex Cams. All rights reserve
 
 </center>
 
-<!-- counter start -->
-
 <script type="text/javascript">
-<!--
-function OneStat_Pageview()
-{
-    var d=document;
-    var sid="502975";
-    var CONTENTSECTION="";
-    var osp_ACTION="";
-    var osp_TRANSACTION="";
-    var osp_AMOUNT="";
-    var osp_PRODUCTCODE="";
-    var osp_PRODUCTGROUP="";
-    var osp_ADCAMPAIGN="";
-    var osp_CUSTOMER="";
-    var osp_CUST0 = "";
-    var osp_CUST1 = "";
-    var osp_CUST2 = "";
-    var osp_CUST3 = "";
-    var osp_CUST10 = "";
-    var osp_CUST11 = "";
-    var modURL = d.URL.replace(/refname/, "osadcampaign");
-    var modURL = modURL.replace(/source/, "osadcampaign");
-    var osp_URL=modURL;
-    var osp_Title=d.title;
-    var t=new Date();
-    var p="http"+(modURL.indexOf('https:')==0?'s':'')+"://stat.onestat.com/stat.aspx?tagver=2&sid="+sid;
-    p+="&url="+escape(osp_URL);
-    p+="&ti="+escape(osp_Title);
-    p+="&section="+escape(CONTENTSECTION);
-    p+="&cma="+escape(osp_ACTION);
-    p+="&cmt="+escape(osp_TRANSACTION);
-    p+="&cmm="+escape(osp_AMOUNT);
-    p+="&cmp="+escape(osp_PRODUCTCODE);
-    p+="&cmg="+escape(osp_PRODUCTGROUP);
-    p+="&cmad="+escape(osp_ADCAMPAIGN);
-    p+="&cmc="+escape(osp_CUSTOMER);
-    p+="&cu0="+escape(osp_CUST0);
-    p+="&cu1="+escape(osp_CUST1);
-    p+="&cu2="+escape(osp_CUST2);
-    p+="&cu3="+escape(osp_CUST3);
-    p+="&cu10="+escape(osp_CUST10);
-    p+="&cu11="+escape(osp_CUST11);
-    p+="&rf="+escape(parent==self?document.referrer:top.document.referrer);
-    p+="&tz="+escape(t.getTimezoneOffset());
-    p+="&ch="+escape(t.getHours());
-    p+="&js=1";
-    p+="&ul="+escape(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
-    if(osp_URL!=modURL) p+="&ol="+escape(modURL);
-    if(typeof(screen)=="object"){
-       p+="&sr="+screen.width+"x"+screen.height;p+="&cd="+screen.colorDepth;
-       p+="&jo="+(navigator.javaEnabled()?"Yes":"No");
-    }
-    d.write('<img id="ONESTAT_TAG" border="0" width="1" height="1" src="'+p+'" >');
-}
 
-OneStat_Pageview();
-//-->
-</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=502975&amp;url=https%3A//web.archive.org/web/20120920084410id_/http%253A//extasycams.com/index.php%253Flang%253Deng%2526ssid%253D%2526wbid%253D%2526refid%253Dextasycams.com%2526mref%253D%2526showall%253D%2526Submit%253Dprivacy&amp;ti=ExtasyCams%20-%20Cheapest%20Sex%20Cams&amp;section=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=&amp;cmad=&amp;cmc=&amp;cu0=&amp;cu1=&amp;cu2=&amp;cu3=&amp;cu10=&amp;cu11=&amp;rf=&amp;tz=0&amp;ch=22&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
-<noscript>
-<a href="http://www.onestat.com"><img border="0" width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=502975&amp;js=No&amp;" ALT="OneStat.com Web Analytics"></a>
-</noscript>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37560297-1']);
 
+  if (document.location.href.search("utm_campaign=")==-1)
+  {
+  if (document.location.href.search("refname=cn")==-1)
+  {
+
+  _gaq.push(
+ ['_setCampMediumKey', 'refname'],
+ ['_setCampSourceKey', 'refname'],
+ ['_setCampNameKey', 'refname'],
+ ['_setCampContentKey', 'refname']
+ );
+ 
+  }
+  }
+
+
+  
+
+  
+  
+  
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- counter start -->
 
 
 <!-- counter end -->
 
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+
+
+function popupchat(whataction,whatssid,whatmodel,whatlinkaction)
+{
+
+
+         if (whataction=='show')
+         {
+
+            if (whatssid=='')
+            whatlinkaction='signup';
+            
+            if (whatlinkaction=='')
+            {
+             if ($.getUrlVar('ssid')=='')
+             whatlinkaction='signup';
+            }
+
+            if (whatlinkaction=='live')
+            {
+                if (ismobile==1)
+                {
+                  var modelname=0;
+                  var connectto=0;
+                  window.location='/indexm.php?Submit=chat&ssid='+whatssid+'&connectto='+connectto+'&id='+whatmodel+'&modelname='+modelname;
+
+                }
+
+                document.getElementById('headermenu').style.zIndex=10000;
+                document.getElementById('overlay').style.display='block';
+                document.getElementById('chat').style.left=((currentwidth-flashwidth)/2)+'px';
+                document.getElementById('chat').style.top=((currentheight-flashheight)/2)+'px';
+                disable_scroll();
+
+               if(!requesting)
+               {
+                   requesting = true;
+                   var ranNum= Math.floor(Math.random()*999999);
+                   $.ajax({
+                   url: "\index.php?"+ranNum+"&ajax=chat&ssid="+whatssid+"&whatmodel="+whatmodel,
+                   success: function(html)
+                   {
+                       if(html)
+                       {
+                           $('#chat').hide().html(html).fadeIn(500);
+    
+                       }else
+                       {
+                       }
+                   }
+               }).done(function(){
+                  requesting = false;
+    
+                   });
+               }
+           }
+           
+            if (whatlinkaction=='signup')
+            {
+              window.location='/index.php?Submit=signup';
+            }
+
+            if (whatlinkaction=='buy')
+            {
+              window.location='/index.php?Submit=buycredit&ssid='+whatssid;
+            }
+
+
+
+         }
+         else
+         {
+           document.getElementById('headermenu').style.zIndex=10002;
+            document.getElementById('overlay').style.display='none';
+
+            SendDataToFlashMovie('disconnect');
+
+
+            $('#chat').fadeOut();
+            $('#chat').html('');
+            document.getElementById('chat').style.display='none';
+
+
+            enable_scroll();
+
+         }
+
+}
+
+
+
+
+
+function getURLParameter(name) {
+    return decodeURI(
+        (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1]
+    );
+}
+function getURLParameter2(name) {
+    return decodeURI(
+        (RegExp('&'+name + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1]
+    );
+}
+
+
+var tempssid=getURLParameter('ssid');
+var tempmodelid=getURLParameter2('id');
+
+
+if (getURLParameter('Submit')=='chat')
+popupchat('show',tempssid,tempmodelid,'live');
+
+
+
+
+</script>
 
 
 
