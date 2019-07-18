@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliviaburton.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617022542id_/http%3A//www.oliviaburton.com/uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliviaburton.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718174157id_/http%3A//www.oliviaburton.com/uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Olivia Burton UK
 
@@ -12,7 +12,7 @@ This Global Privacy Policy will inform you about the type of information we coll
 
 This website is not intended for children, and we do not knowingly collect data relating to children.
 
-This Global Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. If you would like to download a pdf version of this policy [click here.](http://www.oliviaburton.com/on/demandware.static/-/Sites-OliviaBurtonUK-Library/default/v1560661216607/content-assets/Global%20Privacy%20Policy%202018%2005-25.pdf)
+This Global Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. If you would like to download a pdf version of this policy [click here.](http://www.oliviaburton.com/on/demandware.static/-/Sites-OliviaBurtonUK-Library/default/v1563436517671/content-assets/Global%20Privacy%20Policy%202018%2005-25.pdf)
 
 ### 1\. IMPORTANT INFORMATION AND WHO WE ARE
 
