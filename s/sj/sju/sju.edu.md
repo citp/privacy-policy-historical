@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sju.edu privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331175256id_/https%3A//www.sju.edu/web-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sju.edu privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718190432id_/https%3A//www.sju.edu/web-site-privacy-policy) for the most accurate reproduction.*
 
 # Web Site Privacy Policy | Saint Joseph's University
 
@@ -28,25 +28,13 @@ We collect device-specific information (such as your hardware model, operating s
 In addition, we may disclose personal information that we collect or you provide:
 
   1. To contractors, service providers, and other third parties we use to support our organization;
-
-
-  1. To fulfill the purpose for which you provide it. For example, if you give us an email address as part of the Online Profile, we will transmit the contents of that email and your email address to the recipients;
-
-
-  1. For any other purpose disclosed by us when you provide the information;
-
-
-  1. With your consent;
-
-
-  1. To comply with any applicable law, regulation, legal process or governmental request, including to respond to any government or regulatory request;
-
-
-  1. To enforce our rights;
-
-
-  1. If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of SJU, our students, staff, faculty, administrators, our community or others; and/or
-  2. To detect, prevent or otherwise address fraud, security or technical issues.
+  2. To fulfill the purpose for which you provide it. For example, if you give us an email address as part of the Online Profile, we will transmit the contents of that email and your email address to the recipients;
+  3. For any other purpose disclosed by us when you provide the information;
+  4. With your consent;
+  5. To comply with any applicable law, regulation, legal process or governmental request, including to respond to any government or regulatory request;
+  6. To enforce our rights;
+  7. If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of SJU, our students, staff, faculty, administrators, our community or others; and/or
+  8. To detect, prevent or otherwise address fraud, security or technical issues.
 
 
 
@@ -60,7 +48,7 @@ Cookies are small files that are stored on your computer (unless you block them)
 
 Cookies may be set by an organization other than SJU. These “third-party cookies” may, for example, originate from websites such as YouTube, Twitter, Facebook, Google Plus or other social media services for which SJU has implemented “plug-ins.” Since the cookie policies of these sites change over time, you should determine their policies by visiting the privacy policy pages of these sites directly.
 
-You may disable cookies through your individual browser options, although this may reduce some site functionality. If you would like to learn more about cookies please refer to the following website:[ http://www.allaboutcookies.ors/](http://www.allaboutcookies.org/)
+You may disable cookies through your individual browser options, although this may reduce some site functionality. If you would like to learn more about cookies please refer to the following website:[ http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
 
 **Links to Third-Party Websites**
 
