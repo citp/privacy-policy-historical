@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anl.gov privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324113123id_/https%3A//www.anl.gov/privacy-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anl.gov privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718210420id_/https%3A//www.anl.gov/privacy-security-notice) for the most accurate reproduction.*
 
 # Privacy & Security Notice | Argonne National Laboratory
 
