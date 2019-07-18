@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalbloggersassociation.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116052807id_/https%3A//www.internationalbloggersassociation.com/disclosure-and-privacy-policies/%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalbloggersassociation.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718091521id_/https%3A//www.internationalbloggersassociation.com/disclosure-and-privacy-policies/%23Privacy) for the most accurate reproduction.*
 
 # Membership Requirements, Disclosure and Privacy Policies - International Bloggers’ Association
 
