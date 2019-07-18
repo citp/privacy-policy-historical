@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425114140id_/https%3A//www.sqlservercentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718153428id_/https%3A//www.sqlservercentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – SQLServerCentral
 
@@ -10,14 +10,14 @@ Our use of personal data is in accordance with the General Data Protection Regul
 
 ## How we use your information
 
-Redgate is committed to protecting your privacy. If you’re visiting our websites, using our products and services, working with any of our teams, meeting us at events or applying for a role with us, this privacy policy sets out what data we collect, and how we use it. It also describes your rights regarding our use of your data.
+Redgate is committed to protecting your privacy. If you're visiting our websites, using our products and services, working with any of our teams, meeting us at events or applying for a role with us, this privacy policy sets out what data we collect, and how we use it. It also describes your rights regarding our use of your data.
 
 We collect common types of personal information, such as: name, job title, company, postal address, email address, phone number, and IP address.
 
 We will use the personal information provided to us to:
 
   * Process orders submitted by you
-  * Identify the Redgate ‘certified partner’ that is best placed to support your software purchase if you cannot purchase directly from us
+  * Identify the Redgate 'certified partner' that is best placed to support your software purchase if you cannot purchase directly from us
   * Customize the service we provide to you
   * Administrate or otherwise carry out our obligations in relation to any agreement you have with us
   * Verify your identity (e.g. if you participate in any promotions administered by us)
@@ -148,7 +148,7 @@ If you have any questions regarding this policy, or wish to make a complaint abo
 
 ## Reporting Security Issues
 
-If you become aware of a security vulnerability in any of Redgate’s products, services or websites, contact [security@red-gate.com](https://web.archive.org/web/20190425114140id_/https%3A//www.sqlservercentral.com/security@red-gate.com).
+If you become aware of a security vulnerability in any of Redgate's products, services or websites, contact [security@red-gate.com](mailto:security@red-gate.com).
 
 We encourage the responsible disclosure of security issues, and will act quickly on any vulnerabilities reported. We will not take legal action against you if you:
 
