@@ -1,162 +1,385 @@
-> *The following text is extracted and transformed from the victoriabeckham.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181005id_/http%3A//www.victoriabeckham.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriabeckham.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718192603id_/https%3A//www.victoriabeckham.com/blogs/faq-shipping-returns/our-data-promise) for the most accurate reproduction.*
 
-# Victoria Beckham | Privacy Policy
+# Our Data Promise | FAQ | Victoria Beckham UK
 
-## PRIVACY POLICY
+## 1\. Introduction
 
-Your privacy is important to Us. We treat it, and any information that you give to Us, with as much care as possible. Please read the following policy to understand what We do with your information. You should also read the Terms and Conditions, click here. Our Site is a United Kingdom site and so Our privacy policy complies with the Data Protection Act 1998 and relevant European data protection legislation. However, We recognise that the Site will be accessed by users in the United States and so We have taken steps to ensure that We also comply with the Children's Online Privacy Protection Act 1998 ("COPPA"). We are committed to protecting your privacy and honouring the integrity of your personal information. We do not sell any information collected through this Site to others except as disclosed in this Privacy Policy. If you have any requests concerning your personal information or any queries with regard to these practices please contact Us by e-mail at [info@victoriabeckhamcollection.com](mailto:info@victoriabeckhamcollection.com).
 
-### Personal Information
 
-We collect personal information from you when you (i) submit questions or material to Us, (ii) register on this Site, (iii) purchase a product from Us, (iv) e-mail Us or (v) enter one of Our competitions. The type of personal information We may collect (if applicable) includes the following: name, gender, user name, password, email address, postal address, phone number, mobile number and credit card information.
 
-We use such personal information collected through this Site for the purposes of:
+1.1 Victoria Beckham Limited (the "Company", "we", "us" or "our") respects your privacy and is committed to treating any information that we obtain about you with as much care as possible and in a manner that is compliant with all applicable data protection legislation including the EU General Data Protection Regulation 2016/679 ("GDPR") and any national implementing laws in relation to the same (collectively, "Data Protection Legislation"). In this privacy policy, Victoria Beckham Limited means Victoria Beckham Limited and any corporate affiliate, including Victoria Beckham Inc. and VB Beauty (US) LLC.
 
-  * providing a personalised service
-  * enhancing the user experience of this Site 
-  * conducting market research surveys 
-  * fulfilling product orders 
-  * running features that incorporate submissions to the Site 
-  * running competitions; and providing you with information about, and access to, products and services We offer, either ourselves or jointly with or on behalf of other organisations. 
+1.2 This document (the "policy") is our Data Promise to you. Please read it carefully. Among other things, it explains:
 
+1.2.1 what personal data we may collect about you in connection with: (i) providing you with our goods and services; (ii) your online interaction with us (including via our website(s), email or social media channels); (iii) our in-person interactions with you (such as in-store); and (iv) any other channels related or ancillary to the foregoing (collectively, the "Channels");
 
+1.2.2 how we collect, store, disclose, transfer, protect and otherwise process that information and for what purposes; and
 
-### Registration Information
+1.2.3 other important information, such as the lawful bases by which we process your personal data, how long we might retain your personal data, and the rights you have in relation to personal data we hold about you.
 
-We only collect your personal information in accordance with Our Terms, above. When you register on the Site as a Member (if applicable), you will be required to provide Us with your full name, your date of birth, your email address and your country of residence. We will also give you the option of providing your gender and mobile number (the "Registration Information"). Information relating to your use of the Site is detailed at paragraphÂ 3 below. We use the Registration Information only where you allow Us to do so and only in respect of the offer and activities on the Site that you request. If you enter a competition on the Site, We will use the Registration Information to contact you to let you know if you have won and also to deliver your prize. Each competition has its own rules and they will be visible when you enter the competition online. Please ensure that you read them fully. Please also read paragraphÂ 8 "Competitions" in the Terms.
+1.3 This policy supplements (and its terms apply in addition to) any other terms of use or other terms and conditions agreed between you and the Company from time to time.
 
-You warrant that the Registration Information is true, accurate and current and you shall inform Us of any changes made to the Registration Information. You shall not pretend to be any other person when providing Us with the Registration Information.
+1.4 In this policy, terms defined in the GDPR, including "data subject", "personal data", and "processing", have the same meaning when used in this policy. The words "include", "including", "such as" and similar words and phrases shall be construed to mean "including without limitation".
 
-### Use of Registration Information
+1.5 This policy is intended to be communicated to you in a concise, transparent, intelligible and easily accessible manner, but we appreciate that you may have queries or want to seek clarification as to its terms. If so, please email [datapromise@victoriabeckham.com](mailto:datapromise@victoriabeckham.com). or write to [Data Protection Enquiries, 202 Hammersmith Road, London, W6 7DN, United Kingdom ] and we will endeavour to respond as soon as possible.
 
-We may use the Registration Information from time to time to offer you services and products based on the preferences that you identify during the registration process when you become a Member, and based on any preferences of which that you subsequently make Us aware. We will obtain your permission to carry out such promotions during the registration process when We obtain your Registration Information. To offer you such third party services, and provided you have given Us permission, We may email you at the email address that you give Us when you give Us the Registration Information or subsequently.
+1.6 The Company reserves the right to make changes to this policy in order to reflect any changes in Data Protection Legislation and best practices from time to time. The Company will endeavour to notify you of such changes but you are advised to check for an updated version of this policy at [Our Data Promise](https://www.victoriabeckham.com/terms-of-use/our-data-promise/) each time you interact with us through the Channels.
 
-We will use the Registration Information in relation to any goods or services that you purchase directly from Us so that We can deliver such goods or services to you. If you do not wish to receive information about Our products or services, or the products or services offered jointly with or on behalf of other organisations, please uncheck the appropriate box on the registration page, competitions page or other relevant form or page through which the information is collected.
+## 2\. The personal data we process
 
-### Age Restriction
 
-If you are under 13 years of age you cannot become a member of the Site (where such membership services are offered on the Site). Wherever We require it, you will be asked for your date of birth and We may refuse you access to certain areas of the Site. No information should be submitted to Us without consent of the relevant parent or guardian. In some cases, if appropriate, We may run a competition on the Site which is open to children under 13 years of age. In this case, We will ask you for your email address only so that We can contact you to tell you whether you have won the competition. At the end of the Competition We will suppress your personal information.
 
-### Note to Parents
 
-This Site is not directed specifically at children under the age of 13. We do not permit registration as a Member by, and will not knowingly collect or use personal information from, anyone under the age of 13, except as set out above in relation to competitions. We recommend that parents/legal guardians regularly check and monitor their children's use of e-mail and other on-line activities. Please make sure that your child does not give
+2.1 We collect personal data about you through the Channels when you:
 
-### Us personal information on-line without asking your permission.
+2.1.1 access and use our websites (including by way of cookies – please refer to paragraph 11 below for more information);
 
-If you believe that your child under the age of 13 may have registered on the Site, you can contact Us at [info@victoriabeckhamcollection.com](mailto:info@victoriabeckhamcollection.com) and We will tell you what personal information, if any, We are holding in relation to your child. At your written request, We will either suppress the child's personal information or place limits on the use and/or disclosure of the child's personal information.
+2.1.2 register for an account on our website or subscribe for other services, contests, special events or our mailing list;
 
-### Data Protection and Personal Information
+2.1.3 create an account;
 
-We recognise that the Registration Information and the information that We capture during your use of the Site is personal data for the purposes of the Data Protection Act 1998 (the "Act") and We hereby acknowledge that We shall treat the Registration Information and all other information that you give Us in accordance with the Act. Please read paragraph 3 above which explains how We will use your Registration Information.
+2.1.4 purchase a product from us;
 
-If your personal information changes, or if you no longer need Our service, you may correct, update, delete or deactivate it by emailing Us at [info@victoriabeckhamcollection.com](mailto:info@victoriabeckhamcollection.com).
+2.1.5 request technical support or other customer care support;
 
-We may store the personal information that you send to Us via this Site in Our databases. We will only keep your personal information for as long as is reasonably necessary taking into consideration Our need to answer queries or resolve problems, provide improved and new services and comply with legal requirements under applicable law(s). This means that We may retain your personal information for a reasonable period after you stop using Our services or stop using this Site.
+2.1.6 participate in polls, surveys and questionnaires;
 
-We internally use personally identifiable information about Our customers to improve Our marketing and promotional efforts, to statistically analyse Site usage, to improve Our content and product offerings and to customise Our Site's content and layout. We believe these uses allow Us to improve Our Site and provide better service to Our customers. We may occasionally use a customer's email address and, in rare situations mailing address or phone number, to contact a customer regarding administrative matters or notices. We may use information in the file We maintain about a customer to resolve disputes and troubleshoot problems.
+2.1.7 contact us (whether in writing, by email, by telephone or otherwise);
 
-If for some reason you believe that you have received any SPAM e-mail from Us which you have not authorised Us to send you, please inform Us immediately by emailing Us at [info@victoriabeckhamcollection.com](mailto:info@victoriabeckhamcollection.com).
+2.1.8 post content on our social media pages; or
 
-Personal data collected via this Site is controlled by Beckham Brand Limited, 33 Ransomes Dock, 35-37 Parkgate Road London SW11 4NP. In the event that you would like to view a copy of the information that We hold on you, you may do so at any time by requesting a copy to be sent you on the following email address: [info@victoriabeckhamcollection.com](mailto:info@victoriabeckhamcollection.com). Please note that We may charge you a fee of up to Â£10 for the provision of such information.
+2.1.9 otherwise interact with us through the Channels.
 
-### Passing Information to Third Parties
+2.2 The type of personal data we process may include (if and as applicable):
 
-We shall not sell, share, hire or otherwise deal in any of your personal information or Registration Information with third parties unless you give Us specific permission to do so when you register on the Site or through a subsequent affirmative confirmation on the Site. However We work with partner organisations. Provided that you are over 13, We may wish to send you information in relation to these partners' products or services. We will seek your consent, or if you are under 13 the consent of your parent or legal guardian before We do so. We will also periodically give you the opportunity to "opt out" of receiving such email communication referred to in paragraphÂ 3.1 above. As We operate globally, it may be necessary to transfer your information internationally, and in particular your information may be stored on the servers of 19 Entertainment Ltd or its parent company CKx Inc. or Our website host, which is currently Haecceitas Limited. Use of personal data by such third parties is safeguarded by both international procedures and legal agreements to comply with the requirements of the Act.
+2.2.1 information obtained through the use of cookies when you use the site (please refer to paragraph 11 below for more information);
 
-We will make your personally identifiable information available to other companies or people when: We hire third party vendors to provide specialised services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help Us fulfil Our services to you. We do not provide your information to these companies for their own, permanent use; you unsubscribe for a mailing that We send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails; you are the winner or finalist of a competition that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfilment or competition participation process; when required by law, such as when We respond to injunctions, court orders, or legal process; or We believe that your actions violate applicable laws, Our Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of Our company, Our users, or others. We may share aggregated demographic information (country, city, gender (where provided)) about Our user base with Our Site development team and web hosting provider or other relevant third parties. This information does not identify you as an individual user. We do not link such aggregate user data with personally identifiable information.
+2.2.2 your name, user name, password, email address, postal address, telephone number and other information provided by you;
 
-### Links to Third Parties
+2.2.3 information relating to your fashion interests and purchase history
 
-This Site may link to other websites. These third partyÂ websites are outside of Our control and are not covered by this Privacy Policy. If you access other websites using the links provided (for instance by clicking on a banner advertisement), the operators of these websites may collect your personal information. Please ensure that you are satisfied with the Privacy Policies of these Third Party websites before you submit any personal information. We cannot be held responsible legally or otherwise for the activities, privacy policies or levels of privacy compliance of these Third Parties. We encourage you to read that website's privacy policy before providing any personal information.
+2.3 Payment (such as credit card) information you use to pay for purchases is processed only to the extent, and for the duration, necessary to enable our third party payment processors (see paragraph 6 for more information on the third party processors we use) to process the relevant payment. No such payment information is retained or stored by us.
 
-### Newsletters
+2.4 We do not process:
 
-We may offer free newsletters to share information with you about the Site, about Us and Our affiliates and subsidiaries, or about Our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails.
+2.4.1 any special categories of personal data (including details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data);
 
-### Competitions and Surveys
+2.4.2 any information about criminal convictions and offences; or
 
-From time to time We may provide you the opportunity to take part in competitions or surveys on Our Site. If you participate, We will request certain Personal Information from you. Participation in these surveys or competitions is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and address). Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow Us to post publicly some of your information on the Site, such as on a winner's page, in the event you win a competition or sweepstakes. Except as required by applicable law, We will not post your information without your permission. We may decide to use a third party service provider to conduct these competitions or surveys. Any such company will be prohibited from using Our users' Personal Information for any other purpose unless you give your consent. The name of any such company will be visible on any page where you are invited to part with your information or views. We will never share the personally identifiable information you provide through a competition or survey with other third parties unless We give you prior notice and choice. In those cases where We are not the operator or host of the competition or sweepstake, We have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the competition or sweepstakes before participating.
+2.4.3 any information about children under the age of 13,
 
-### Security of Personal Information
+and you should not provide us with any such information through any of the Channels.
 
-We take precautions to ensure the security of personal information submitted by users. Unfortunately, no electronic communication over the Internet can be guaranteed to be 100% secure. While We strive to take care to protect your personal information, We cannot warrant the security of any information that you submit to Us, and you do so at your own risk. We do offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it when collecting credit card information for online purchases. We also store any personal information, including credit card numbers in a secure area to which the general public does not have access.
+## 3\. The purposes for which we process your personal data
 
-### Cookie Policy
+3.1 We use the personal data referred to in paragraph 2 above for the purposes of (if and as applicable):
 
-The Victoria Beckham website (victoriabeckham.com) places cookies, which are small data files, on your computer or handheld device. This is standard practice for all websites.
+3.1.1 personalising content on the Channels;
 
-Cookies are essential for helping us deliver a high quality website and online experience for our users, and some collect information about browsing behaviour.
+3.1.2 sending you promotional and marketing materials, notifications, updates and exclusive news;
 
-By using and browsing the Victoria Beckham website, you consent to cookies being used in accordance with our policy. If you do not consent, you must disable cookies or refrain from using the site.
+3.1.3 providing you with access to our products and services and fulfilling product orders;
 
-#### What are cookies?
+3.1.4 internal training and other internal uses to improve our services and customer experience (including improving our marketing and promotional efforts, analysing channel usage statistics, improving content and product offerings and customising the content and layout of our stores and online websites);
 
-This website uses cookies to collect information. Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart ‘phones or ‘tablets’) as you browse this website. They are used to 'remember' when your computer or device accesses this website. The cookies are essential to the effective operation of our website and to enable to you shop with us online. Cookies are also used to tailor the products and services offered and advertised to our customers, both on this website and elsewhere.
+3.1.5 responding to any correspondence from you including enquiries, comments, complaints and technical problems;
 
-#### Information collected
+3.1.6 administering any polls, services, questionnaires, contests, or special events which you may have subscribed for;
 
-Some cookies collect information about browsing behaviour by people who access this website via the same computer or device. This includes information about pages viewed and the user journey around the website. We do not, however, use cookies to collect or record information on user' name, address or other contact details.
+3.1.7 recording your purchase history and administering your account with us;
 
-#### What cookies are set?
+3.1.8 market research and demographic studies; and
 
-The website itself sets a session cookie named PHPSESSID, while Google Analytics ( a web traffic analytics system ) sets a number of cookies labelled __utma, __utmb, __utmc and __utmz.
+3.1.9 carrying out our business activities in circumstances where you ought reasonably to have an expectation that we will process your personal data for a particular purpose (including as may be provided for in our [Terms of Use](https://www.victoriabeckham.com/terms-of-use/services/)or other arrangement between us).
 
-#### What are the cookies used for?
+3.2 We may process your personal data for the purposes set out in paragraph 3.1 ourselves or in conjunction with our third party service providers in accordance with paragraph 6.
 
-The main purposes for which cookies on this website are used for are:-
+## 4\. The lawful bases by which we process your personal data
 
-  * For technical purposes essential to effective operation of website.
-  * To enable us to collect information about the browsing activities of visitors, including to monitor the traffic sources, browsers & devices used to access the website as well as pages visited.
+4.1 Your consent
 
+By accepting the terms of this policy, you give the Company your express, freely given consent to process any of your personal data in accordance with the terms of this policy. You may withdraw your consent given under this paragraph (in whole or in part) at any time by contacting [datapromise@victoriabeckham.com](mailto:datapromise@victoriabeckham.com). You can also unsubscribe from different types of emails by following the unsubscribe link displayed at the bottom of each email. The withdrawal of your consent shall not affect the lawfulness of processing based on consent before withdrawal or the lawfulness of processing based on other lawful grounds as set out below.
 
+4.2 Other lawful grounds
 
-#### How do I disable cookies?
+Without prejudice to the consent given by you under paragraph 4.1 above, the Company may process your personal data in any circumstances where such processing is necessary:
 
-If you want to disable cookies you need to change your website browser settings to reject cookies. How to do this will depend on the browser you use and we provide further detail below on how to disable cookies for the most popular browsers:-
+4.2.1 in order to perform any agreement between us (including pursuant to our [Terms of Use] or for us to fulfil an order placed by you); 
 
-For Microsoft Internet Explorer:
+4.2.2 to comply with any applicable law or regulation; or
 
-  * Choose the menu "tools" then "Internet Options"
-  * Click on the "privacy" tab
-  * Select the setting the appropriate setting
+4.2.3 for the purposes of the legitimate interests pursued by us or third parties. These legitimate interests include the purposes identified above in paragraph 3.1 but also include other general commercial interests and our internal administrative purposes.
 
+5\. What if you refuse to provide us with any personal data?
 
+5.1 Where we need to collect personal data by law, or under the terms of an agreement we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with products or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-For Mozilla firefox:
+5.2 Whilst we may be able to provide you with certain products and services notwithstanding your refusal to submit personal data, this may limit your ability to participate in some activities or features or your use of certain online services.
 
-  * Choose the menu "tools" then "Options"
-  * Click on the icon "privacy"
-  * Find the menu "cookie" and select the relevant options
+5.3 We may lawfully obtain information from third parties or public sources and we may process that information where it is an essential component of the products and services we offer you.
 
+## 6\. Sharing information with affiliates and third parties
 
+6.1 We will not share any of your personal data with third parties except as set out in paragraph 6 or otherwise notified to you or agreed between you and us from time to time.
 
-For Opera 6.0 and further:
+6.2 We may share personal data with our group companies and partnered companies (together, "Affiliates") in order to provide our goods and services to you and for the other purposes outlined in this policy. In particular, our Affiliates include our US partner company, Victoria Beckham Inc. Further information about the international element of these transfers is provided in paragraph 7.
 
-  * Choose the menu "Files" > "Preferences"
-  * Privacy
+6.3 From time to time, we will also need to share personal data with the following types of third party service providers who we engage to provide services which facilitate our business and who may need to process your personal data to the extent necessary to provide those services:
 
+6.3.1 email service providers such as Mapp, Mandrill and Exponea;
 
+6.3.2 web analytics services such as Google analytics;
 
-#### What happens if I disable cookies?
+6.3.3 retail management, payment processing and point of sale services such as CEGID, Magento, Adyen, Avalara and Shopify+;
 
-This depends on which cookies you disable, but in general the site may not operate properly if 1st party cookies are switched off.
+6.3.4 credit reference and fraud prevention services such as Signifyd (as well as law enforcement and fraud prevention agencies more generally);
 
-### Glossary
+6.3.5 professional service providers, such as marketing agencies, advertising partners and website hosts such as Rackspace;
 
-Personal Information can also be known as Personal Data and means any information relating to you as a natural person that is capable of directly or indirectly identifying you. (On websites this is typically at least your e-mail address).
+6.3.6 logistics companies such as Carousel, Stellae and IMX;
 
-Processing of Personal Information means any operation or set of operations which is performed upon your personal information whether or not by automatic means including collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction (i.e. effectively any activity that We perform on or with the personal information that you send Us). "Third Party / Parties" for the purposes of this Privacy Notice means any company which is not an affiliate of Beckham Brand Limited through either direct or indirect ownership.
+6.3.7 address verification services such as PCA Predict;
 
-IMPORTANT - Why do I have to accept the terms of this Privacy Notice?
+6.3.8 integration platform providers such as Patchworks;
 
-This Privacy Notice provides you with all information necessary (in an easily accessible way) to make an informed choice as to whether to use this website and to send your personal information to Us or not.
+6.3.9 other third parties approved by you, such as social media sites which you link to your Victoria Beckham account (if and when we offer that feature) or share content via or third parties who administer any competitions or surveys on our behalf which you voluntarily partake in; and
 
-Therefore, by browsing this Site and communicating electronically with Us, you acknowledge and agree to Our Processing of your indirect personal information (cookies, connection and system information) in the manner set out in this Privacy Notice. If you wish to register on the Site or ask Us to provide a certain service to you (i.e. a competition, newsletter or new product details etc.) We will need additional direct personal information (eg name, address and e-mail address) from you. In this case, We will ask you, or if you are under 13 your parent or legal guardian, for your express consent to collect and use this Personal Information. This Personal Information will be used only for the purposes for which you gave it to Us.
+6.3.10 any similar or replacement third parties from time to time.
 
-### FORUM POLICY
+6.4 We seek to ensure that any third party engaged by us who processes your personal data has policies and procedures in place to ensure compliance with the Data Protection Legislation. For any third parties that are based, or process data, overseas, we only engage such third parties in accordance with paragraph 7. Unless otherwise disclosed to you from time to time, we will remain the data controller in respect of your personal data notwithstanding that third parties may be engaged as data processors.
 
-This Forum is a great way to meet other fans and to share news about the Victoria Beckham collection. Using the Forum is fun and informative and should always be a positive experience.
+6.5 We may share your personal information with third parties where we are required to do so by law or regulation (such as in connection with an investigation of fraud or other legal enquiry) or in connection with other legal proceedings (including where we believe that your actions violate applicable laws, our [Terms of Use] , or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our Company, our users, or others.
 
-So that it remains a pleasant environment, please ensure that you abide by the following rules at all times and respect other users on the board: You must be 13 years old or over to post messages on the Forum. If you are not 13 years old, you may only use Our Forum with the express consent of your parent or guardian. You are responsible for your own posts at all times. We do not, and cannot, edit or monitor each and every posting. If it is brought to our attention that any message entered on the Forum falls within the types of message described at paragraphÂ 5 below, We may remove it, issue you with a warning email or notice on the board, or We may ban you from the Site for an indefinite period. We may, in Our sole discretion, remove any message or posting in whole or in part without notice to you. We may also close the Forum without notice to you. It is prohibited to post any message or image containing; Another individual's personal information, details or contact information; Obscene, vulgar, racist, sexist, hateful, adult, pornographic, profane or violent content; An impersonation of any third party; Code designed to make multiple messages or to otherwise interfere with the enjoyment of the board by others; An encouragement to others to act contrary to this policy; Any advertisement of any description whatsoever; Any content deliberately designed to misinform or to confuse another user; or Any content that is defamatory or which infringes the intellectual property rights or other rights of any other third party.
+## 7.International transfers of personal data
 
-IF YOU CONSIDER THAT ANY MESSAGE OR POSTING BREACHES THIS POLICY, EMAIL US AT [info@victoriabeckhamcollection.com](mailto:info@victoriabeckhamcollection.com). TELL US YOUR NAME, YUR USER NAME, THE DATE AND TIME OF THE OFFENDING MESSAGE OR POSTING AND THE USER NAME OF THE PERSON WHO POSTED IT WE WILL REMOVE THE OFFENDING MESSAGE OR POSTING AS SOON AS IS PRACTICABLE.DO NOT GIVE ANYONE YOUR PERSONAL DETAILS OR CONTACT INFORMATION OR ATTEMPT TO OBTAIN SUCH INFORMATION FROM ANOTHER PERSON OR PERSONS. IF YOU SUSPECT THAT SOMEONE IS TRYING TO OBTAIN SUCH INFORMATION FROM YOU, STOP COMMUNICATING WITH THEM AND NOTIFY US IMMEDIATELY HERE: [info@victoriabeckhamcollection.com](mailto:info@victoriabeckhamcollection.com).
+7.1 As we operate globally, it may be necessary to transfer your information internationally. In particular your information may be transferred to and/or stored on the servers of our Affiliates or other third parties identified in paragraph 6 which are based outside of the European Economic Area (EEA).
+
+7.2 However, we will not transfer your personal data outside of the EEA unless:
+
+7.2.1 such transfer is to a country or jurisdiction which the EU Commission has approved as having an adequate level of protection (including to the USA where Privacy Shield compliant);
+
+7.2.2 appropriate safeguards are in place as set out in Article 46 GDPR or equivalent provisions of subsequent Data Protection Legislation; or
+
+7.2.3 the transfer is otherwise allowed by applicable Data Protection Legislation (such as in the form of a derogation under Article 49 GDPR).
+
+## 8\. Your rights as a data subject
+
+Subject to any conditions or requirements set out in the relevant Data Protection Legislation, you may have some or all of the following rights in relation to the personal data we hold about you:
+
+8.1 the right to request a copy of your personal data held by us;
+
+8.2 the right to correct any inaccurate or incomplete personal data held by us. You can update and amend your personal profile through the "My Account" section of the website. You can deactivate your account, or amend any personal data which cannot be modified online, by emailing us at [datapromise@victoriabeckham.com](mailto:datapromise@victoriabeckham.com)
+
+8.3 the right to request that we erase the personal data we hold about you;
+
+8.4 the right to request that we restrict the processing of your data;
+
+8.5 the right to have your personal data transferred to another organisation;
+
+8.6 the right to object to certain types of processing of your personal data by us; and
+
+8.7 the right to complain (please see paragraph 12 of this policy).
+
+## 9\. Storage and retention of your personal data
+
+9.1 As a minimum, we will store your data for as long as is reasonably necessary to provide you with the goods and services that you have requested from us, but in most cases we will retain certain of your personal data for as long as is reasonably necessary taking into consideration factors such as:
+
+9.1.1 our need to perform any agreements between you and us (including order fulfilment);
+
+9.1.2 our need to answer any queries or resolve any problems you may have;
+
+9.1.3 your continued consent to receive marketing and other emails and communications from us;
+
+9.1.4 our continued provision of our services to you; and
+
+9.1.5 our need to comply with legal requirements (e.g. relating to record keeping).
+
+9.2 If you tell us that you would like to delete your account, we will take steps to delete all the personal data we hold about you once it is no longer necessary for us to hold it (e.g. to fulfil any outstanding orders, resolve disputes, or as is permitted by applicable law or regulation).
+
+9.3 For as long as we do store your data, the Company follows generally accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity, and privacy of the information you have provided. The Company has security measures in place designed to protect against the loss, misuse, and alteration of the information under our control. Personal data collected by the Company is stored in secure operating environments that are not available to the public. The Company maintains information behind a firewall-protected server and uses SSL encryption for purchases made through our online store.
+
+9.4 Notwithstanding our efforts to keep your personal data secure, no system can be 100% reliable. To the fullest extent permitted by law, we cannot be held liable for any loss you may suffer if a third party procures unauthorised access to any data you provide through the Channels. In addition, you are responsible for maintaining the strength and confidentiality of your login credentials.
+
+9.5 We will notify you as soon as reasonably practicable if we have reason to believe that there has been a personal data breach by us (or your personal data held by us) which could adversely affect your rights and freedoms.
+
+## 10\. Links to Third Parties
+
+10.1 Our website may link or redirect to other websites that are beyond our control. Such links or redirections are not endorsements of such websites or representation of our affiliation with them in any way and such third party websites are outside the scope of this policy.
+
+10.2 If you access such third party websites, please ensure that you are satisfied with their respective privacy policies before you provide them with any personal data. We cannot be held responsible for the activities, privacy policies or levels of privacy compliance of any website operated by any third party.
+
+## 11\. Cookies
+
+11.1 A cookie is a small file of letters and numbers stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive.
+
+11.1 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a better experience when you browse our website and also allows us to improve our website.
+
+11.2 Some data collected by cookies is collected on an anonymous and/or aggregated basis. Where we use cookies that contain personal data, we will only process that personal data as set out in this policy.
+
+11.3 Our websites use some or all of the following cookies:
+
+11.3.1 Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+
+11.3.2 Analytical/performance cookies. These allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+11.3.3 Functionality cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+11.3.4 Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+11.4 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+**Cookie**
+
+| 
+
+**Name**
+
+| 
+
+**Purpose**  
+  
+---|---|---  
+  
+csi.cart-total
+
+| 
+
+CSI Cart Total
+
+| 
+
+Stores a copy of the minicart total on your computer. The cart total cookie stores some html to help speed up the site load and web server processing time.  
+  
+csi.top-account
+
+| 
+
+CSI Top Account
+
+| 
+
+Stores a copy of the account page header on your computer. The cart total cookie stores some html to help speed up the site load and web server processing time.  
+  
+newsletter_date
+
+| 
+
+Newsletter Date
+
+| 
+
+Tells the browser when to re-show the newsletter subscribe popup  
+  
+cb-enabled
+
+| 
+
+Cookie Bar Enabled
+
+| 
+
+Tells the browser whether or not to show the “Please click here to acknowledge that we use cookie...”  
+  
+newsletter_close_count
+
+| 
+
+Newsletter Close Count
+
+| 
+
+Counts how many times the newsletter popup has been closed  
+  
+geoip
+
+| 
+
+GEOIp
+
+| 
+
+Stores location data – the region where you are viewing the site from in order to serve you the UK, US or EU website version  
+  
+CACHED_FRONT_FORM_KEY
+
+| 
+
+Cached Front Form Key
+
+| 
+
+Stores the form key for ensuring form security (to avoid hacking attempts)  
+  
+_ga
+
+| 
+
+Google Analytics
+
+| 
+
+Used by Google Analytics  
+  
+_gid
+
+| 
+
+Google Analytics
+
+| 
+
+Used by Google Analytics  
+  
+category_id
+
+| 
+
+Category Id
+
+| 
+
+Stores the id of the last viewed category  
+  
+VIEWED_PRODUCT_IDS
+
+| 
+
+Viewed Product Ids
+
+| 
+
+Stores the different ids of the products you have viewed  
+  
+__cfduid
+
+| 
+
+Cloudflare Cookie
+
+| 
+
+The __cfduid cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis  
+  
+1P_JAR
+
+| 
+
+1P_JAR
+
+| 
+
+Used to gather website statistics, and track conversion rates  
+  
+11.5 Please note third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+11.6 Your browser may give you the ability to block all or some cookies by activating a setting in your browser's options. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our website.
+
+11.7 Except for essential cookies, all cookies will remain unless the cookie cache is cleared (unless otherwise indicated in the table above).
+
+## 12\. Questions and complaints
+
+12.1 For all questions or complaints about this policy, we would appreciate the chance to deal with your concerns before you approach the relevant data protection authority. Please contact us in the first instance via email at [datapromise@victoriabeckham.com](mailto:datapromise@victoriabeckham.com)or write to [Data Protection Enquiries, 202 Hammersmith Road, London, W6 7DN, United Kingdom]. If you are not located in the European Union, please indicate that in your email or letter.
+
+12.2 You have the right to make a complaint at any time to the relevant supervisory authority for data protection issues, which in the UK is the Information Commissioner's Office (ICO) [(www.ico.org.uk)](https://www.ico.org.uk/)
+
+## 
