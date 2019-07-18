@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reshish.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022153703id_/https%3A//reshish.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reshish.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718121801id_/http%3A//reshish.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,6 @@ We may update this Privacy Policy at any time in the future.
 
 By using our website you consent to this Privacy Policy.
 
-If you have any questions or complaints regarding this Privacy Policy you can contact us by email at reshish@yahoo.com or using the [feedback form](https://reshish.com/feedback.php).
+If you have any questions or complaints regarding this Privacy Policy you can contact us by email at reshish@yahoo.com or using the [feedback form](http://reshish.com/feedback.php).
 
 Last updated: 05/18/2018
