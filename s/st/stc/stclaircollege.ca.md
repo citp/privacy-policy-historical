@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stclaircollege.ca privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613142900id_/http%3A//www.stclaircollege.ca/policies/docs/scc_policy_2-16.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stclaircollege.ca privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718141028id_/http%3A//www.stclaircollege.ca/policies/docs/scc_policy_2-16.pdf) for the most accurate reproduction.*
 
 # 2.16 Freedom of Information and Protection of Privacy Act
 
