@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republic.co privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124957id_/https%3A//republic.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republic.co privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718231933id_/https%3A//republic.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Republic
 
@@ -75,6 +75,8 @@ We will retain your information for as long as your account is active or is need
 The Services are maintained in the United States of America. Although we welcome users from all over the world, by accessing the Services, you consent to and authorize the export of Personally Identifiable Information to the United States and its storage and use as specified in this Privacy Policy. Note the laws of the United States might not be as comprehensive or protective as laws in the country where you live. 
 
 **Opt out of certain cookies tracking:** The Site uses tools to facilitate the collection of information. For example, the Site uses Google Analytics, if you wish to disable Google Analytics from all websites you visit (not limited to this Site), you can follow this [link.](https://tools.google.com/dlpage/gaoptout) You can read the other relevant privacy policies [here](https://fullstory.com/legal/privacy) , [here](https://mixpanel.com/privacy/) , [here](https://www.helpscout.net/company/privacy/) and [here.](https://rollbar.com/privacy/) Please contact us if you wish to opt out of any of the tools we use. Please note, we reserve the right to add more tools or disable tools and will update this Privacy Policy to reflect these changes. Your request to disable or your disabling of tools may limit your ability to access and utilize the Site. 
+
+This site is protected by reCAPTCHA and the Google [Privacy policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply. 
 
 ##  How to Contact Us 
 
