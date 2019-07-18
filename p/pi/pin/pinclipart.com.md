@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinclipart.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510232805id_/https%3A//www.pinclipart.com/priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinclipart.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718192711id_/https%3A//www.pinclipart.com/priv) for the most accurate reproduction.*
 
 # Privacy Policy | PinClipart
 
