@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodposts.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518164505id_/http%3A//goodposts.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodposts.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718165028id_/http%3A//goodposts.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GOODPOSTS
 
