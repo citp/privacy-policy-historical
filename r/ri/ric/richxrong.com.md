@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richxrong.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319050010id_/http%3A//www.richxrong.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richxrong.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718193746id_/https%3A//www.richxrong.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ While we aim to store your personal information secure and private, we shall not
 
 ####  How do I access my stored information? 
 
-You have the right to view, update and correct information stored by richxrong.com. To access your personal information login to your richxrong account and click my details or contact dalva@richxrong.com            
+You have the right to view, update and correct information stored by richxrong.com. To access your personal information login to your richxrong account and click my details or contact [[email protected]](http://www.richxrong.com/cdn-cgi/l/email-protection)            
 
 ####  External Links 
 
@@ -54,4 +54,4 @@ Questions regarding our Privacy Policy, or other policy related material can be 
 
 Contact  Us 
 
-Email: dalva@richxrong.com            
+Email: [[email protected]](http://www.richxrong.com/cdn-cgi/l/email-protection)
