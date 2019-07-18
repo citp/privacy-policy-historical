@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytruwood.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407135154id_/https%3A//www.mytruwood.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytruwood.com privacy policy that was archived on 2019-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190718061426id_/https%3A//www.mytruwood.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # TruWood | Privacy Policy - 100% Natural Wooden Watches
 
