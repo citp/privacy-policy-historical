@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsempirefiresale.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519000358id_/http%3A//graphicsempirefiresale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsempirefiresale.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719100831id_/http%3A//graphicsempirefiresale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
