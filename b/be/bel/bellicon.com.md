@@ -1,38 +1,49 @@
-> *The following text is extracted and transformed from the bellicon.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903205136id_/https%3A//www.bellicon.com/us_en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellicon.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719063843id_/https%3A//www.bellicon.com/us_en/privacy-policy) for the most accurate reproduction.*
 
-# Data Protection and Data Privacy Policy - bellicon USA
+# Data Protection and Data Privacy Policy - bellicon.com
 
-The Controller with regard to compliance with data protection legislation is Nickian GmbH, Alpenquai 10, 6005 Lucerne, Switzerland. If you have any questions about data protection or want to exercise rights or claims with regard to your personal data, please contact us, Nickian GmbH by email at info@bellicon.co.uk.
+Controller with regard to compliance with data protection legislation is bellicon Deutschland GmbH, Wilhelm-Ruppert-Str. 38 / E3, 51147 Cologne. If you have any questions about data protection or want to exercise rights or claims with regard to your personal data, please contact us by email at [info@bellicon.de](mailto:info@bellicon.de).
 
-### Collection and Storage of Personal Data as well as Nature and Purpose of their Use  
-
+### 1\. Collection and Storage of Personal Data as well as Nature and Purpose of their Use
 
 ### 4. Duration of Data Storage  
 
 
+For the protection of your inquiries by Internet form we use the service reCAPTCHA offered by Google Inc. The inquiry serves the differentiation whether the input takes place by humans or abusively by automated, mechanical processing. The query includes the transmission of the IP address and any other data required by Google for the service reCAPTCHA to Google. For this purpose your input will be transmitted to Google and used there. However, your IP address will be shortened by Google in advance within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and shortened there. On our behalf, Google will use this information to evaluate your use of this service. The IP address transmitted by your browser as part of reCAPTCHA is not merged with other data from Google. These data are subject to the differing data protection regulations of Google. For more information about Google's privacy policy, please visit: https://www.google.com/intl/de/policies/privacy/. You can find an opt-out option at the following link: <https://adssettings.google.com/authenticated>.
+
+For faster and more efficient processing of customer inquiries we use the ticket system "Zendesk", a customer service platform of Zendesk Inc., 989 Market Street #300, San Francisco, CA 94102. We also use the solution Zendesk Guide as a knowledge database for the FAQ available to you.
+
+If it’s required to process your inquiry, data like for example your surname, first name, address, telephone number, e-mail address are collected and processed. The legal basis for the processing of your data is our legitimate interest in a fast and efficient processing of your inquiries in accordance with Art. 6 Para. 1 lit. f) GDPR.
+
+Zendesk is certified as a U.S. provider under the Privacy Shield Agreement and is committed to complying with EU privacy laws. In addition, we have concluded a data processing agreement with Zendesk. This ensures that Zendesk only uses your data within the framework of EU data protection regulations for the processing of enquiries and does not pass them on to third parties.
+
+For further information on how Zendesk handles your data, please refer to Zendesk's privacy policy: <https://www.zendesk.de/company/customers-partners/privacy-policy/>.
+
+If you do not agree to Zendesk processing your request, you can alternatively communicate with us by e-mail, telephone or fax.
+
 Please click here, if you wish to revoke your consent: Opt-Out from Facebook
 
-f) Taboola
+**f) Taboola**
 
 The use of the technology of Taboola Inc. (1115 Broadway, 7th Floor, New York, New York 10010) enables us to recommend videos fitting your personal interests and thus to individually design our range of offers for you. Taboola determines by means of cookies, which video offers you use and how you move about on our website. For this purpose, device-based data and log data are collected and usage profiles are generated, using pseudonyms. These usage profiles are not aggregated and do not permit to draw any conclusions as regards your personal data.
 
 For more detailed information on Taboola and the possibility to deactivate the use of Taboola and their data privacy information, go to <https://www.taboola.com/privacy-policy>. 
 
-g) Outbrain
+**g) Outbrain**
 
 On some of our web pages, we have integrated a so-called widget of Outbrain UK Limited, a company having its registered office in London. The service Outbrain is used for drawing your attention to supplementary contents, which are connected to the topics of the contents already read by you. If you did not declare your opt-out, the selection of the contents displayed in the widget is also made on the basis of those contents, which you currently and in the recent past have viewed on our web pages. For this purpose, Outbrain inter alia uses cookies.
 
 The contents displayed in the widget are controlled and delivered in terms of contents and technology by Outbrain. We do not collect and use personal data in connection with the Outbrain widget. Outbrain provides information on the collection and utilisation of usage and other data in their data privacy policy (<https://www.outbrain.com/legal/privacy>). There, you are also able to object to the use of usage and other data for particular purposes (Opt-out). The recommendations of contents in the widget will afterwards no longer be controlled on the basis of usage data recorded by Outbrain.
 
-h) Hotjar
+**h) Hotjar**
 
 We employ Hotjar, which essentially is a tracking code-based web analysis tool offered by Hotjar Ltd., (Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta). By means of Hotjar, interactions between randomly selected, individual visitors of our website are recorded in an anonymised form. This creates a log of e.g. mouse movements and clicks, with the aim of finding possibilities for improving our offers. Moreover, information on the operating system, browser, inbound and outbound references (Links), geographic origin, as well as resolution and nature of the device accessing our website are analysed for statistical purposes. Moreover, we offer the possibility of an anonymous user feedback via Hotjar by means of so-called "Feedback Pools". The recorded information is not person-related, is stored by Hotjar Ltd. and is not passed on to other third parties. You may find supplementary information on functions and data usage by means of Hotjar at <https://www.hotjar.com/privacy>. If you do not desire an analysis of your web site by means of Hotjar, you can activate this on all Internet sites that employ Hotjar, by setting a DoNotTrack header in your browser (Hotjar-opt-out).
 
-i) sendgrid
+**i) sendgrid**
 
 For the dispatch of order confirmation messages, we employ the service provider SendGrid. SendGrid is an offer of SendGrid, Inc., 1401 Walnut, Boulder, CO 80302, USA. Information on the data privacy policy of SendGrid may be found at https://sendgrid.com/privacy.
 
-j) MailChimp
+**j) MailChimp**
 
 For the dispatch of newsletters, we utilise the services of MailChimp, an offer of Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA. MailChimp is a service which inter alia enables the organisation and dispatch of newsletters. When you input data for the purpose of receiving newsletters (e.g. your email address), these are stored on the servers of MailChimp in the USA. MailChimp has received a certification in accordance with the "EU-US Privacy Shield". The "Privacy Shield" is an agreement concluded between the European Union (EU) and the USA that shall guarantee compliance with European data protection and data privacy standards in the USA.
 
@@ -45,6 +56,8 @@ The data processing is performed on the basis of your consent (Art. 6 para. 1 li
 The data stored by you with us for the purpose of receiving newsletters remain stored by us until your deregistration from the newsletter and will be deleted from both our servers and from the servers of MailChimp after you unsubscribe from the newsletter. Data, which have been stored by us for other purposes (e.g. email addresses for the member section), remain unaffected thereby. For more details, you may wish to consult the data privacy provisions of MailChimp at <https://mailchimp.com/legal/terms/>.
 
 We have concluded a so-called "Data Processing Agreement" with MailChimp, in which we obligate MailChimp to protect the data of our customers and not to disclose them to any third parties.
+
+### 11\. Up-to-Dateness and Amendment of this Data Privacy Policy
 
 **What information do we collect?**
 
