@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uminto.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516005842id_/http%3A//www.uminto.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uminto.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719093502id_/http%3A//www.uminto.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy of Uminto.com
 
