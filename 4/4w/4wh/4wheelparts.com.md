@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506220516id_/https%3A//www.4wheelparts.com/general-info/content.jsp%3FchildEventId%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719161245id_/https%3A//www.4wheelparts.com/general-info/content.jsp%3FchildEventId%3Dprivacy-policy) for the most accurate reproduction.*
 
 # 4 Wheel Parts' Privacy and Site Security Policies | 4wheelparts.com
 
