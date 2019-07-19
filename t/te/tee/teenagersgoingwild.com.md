@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenagersgoingwild.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511060518id_/http%3A//www.teenagersgoingwild.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenagersgoingwild.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719223326id_/http%3A//www.teenagersgoingwild.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ You can access all your personally identifiable information that we collect onli
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.   
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
 How To Contact Us:   
-Should you have other questions or concerns about these privacy policies, please call us send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Should you have other questions or concerns about these privacy policies, please call us send us an email at legal@teencoreclub.com
