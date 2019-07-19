@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgamestudios.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095929id_/https%3A//www.goodgamestudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgamestudios.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720015541id_/https%3A//www.goodgamestudios.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Goodgame Studios
 
