@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hkcl.in privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605010714id_/http%3A//hkcl.in/privacy-policyab.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hkcl.in privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719044702id_/http%3A//hkcl.in/privacy-policyab.html) for the most accurate reproduction.*
 
 # HKCL - Privacy Policy
 
