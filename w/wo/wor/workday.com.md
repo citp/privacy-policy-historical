@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workday.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608181109id_/https%3A//www.workday.com/en-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workday.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719081800id_/https%3A//www.workday.com/en-us/privacy.html) for the most accurate reproduction.*
 
 # Workday Privacy Policy
 
