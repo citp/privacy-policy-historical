@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bit-invest.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628191202id_/http%3A//bit-invest.com/privacy.php%3Fref%3D%3B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bit-invest.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719103042id_/http%3A//www.bit-invest.com/privacy.php%3Fref%3D%3B) for the most accurate reproduction.*
 
 # Bit-Invest.com | Ultimate Investment Solutions
 
