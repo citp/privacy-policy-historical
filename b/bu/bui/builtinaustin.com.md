@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtinaustin.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327145907id_/https%3A//www.builtinaustin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtinaustin.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719094425id_/https%3A//www.builtinaustin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Built In Austin
 
