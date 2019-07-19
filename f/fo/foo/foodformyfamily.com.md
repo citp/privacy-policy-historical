@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodformyfamily.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519123755id_/http%3A//foodformyfamily.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodformyfamily.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719193653id_/http%3A//foodformyfamily.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Food for My Family
 
