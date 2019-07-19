@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hulkload.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612042729id_/http%3A//hulkload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkload.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719213713id_/http%3A//hulkload.com/privacy.html) for the most accurate reproduction.*
 
 # HulkLoad - Where Your Files Last Forever
 
