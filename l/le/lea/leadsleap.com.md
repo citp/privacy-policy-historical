@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadsleap.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531133926id_/https%3A//www.leadsleap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsleap.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719032159id_/https%3A//www.leadsleap.com/privacy.php) for the most accurate reproduction.*
 
 # LeadsLeap Privacy
 
