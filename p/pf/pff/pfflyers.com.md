@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfflyers.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619034149id_/https%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfflyers.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720010455id_/https%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Thank you for placing your trust in PF Flyers. You are very important to us and 
 
 This Privacy Policy applies to the following services operated by New Balance Athletics, Inc. and its affiliates (“PF Flyers”, “we”, “us”, or “our”): 
 
-  * [www.pfflyers.com](https://web.archive.org/web/20190619034149id_/https%3A//www.pfflyers.com/http//www.pfflyers.com) (the "Website"); 
+  * [www.pfflyers.com](https://web.archive.org/web/20190720010455id_/https%3A//www.pfflyers.com/http//www.pfflyers.com) (the "Website"); 
   * all mobile applications (each, an "App") that contain a link to this Privacy Policy; and 
   * all services made available by PF Flyers through the Website and the Apps. 
 
