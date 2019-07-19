@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobi11.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116122302id_/http%3A//www.mobi11.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobi11.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719104708id_/http%3A//droid11.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mobi11
+# Privacy Policy | Droid11
 
-This Privacy Policy governs the manner in which Mobi11.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.Mobi11.com](http://www.mobi11.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Nokiaseries.Net.
+This Privacy Policy governs the manner in which Droid11.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.Droid11.com](http://www.droid11.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Nokiaseries.Net.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Mobi11.com collects and uses Users personal information for the following purposes:
+Droid11.com collects and uses Users personal information for the following purposes:
 
   * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * _– To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
@@ -55,6 +55,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-webmaster [at] Mobi11.com
+webmaster [at] Droid11.com
 
-This document was last updated on November 13, 2011
+This document was last updated on Feb 10, 2018
