@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the piratecity.co privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407084657id_/https%3A//www.piratecity.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piratecity.co privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719153802id_/https%3A//www.piratecity.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy @ www.PirateCity.co
+### Privacy Policy @ www.piratecity.co
 
- **At www.PirateCity.co**  we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘PirateCity.co’ and how we safeguard your information.
+ **At www.piratecity.co**  we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘PirateCity.co’ and how we safeguard your information.
 
  **We never sell your personal information to third parties.**
 
