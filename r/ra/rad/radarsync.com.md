@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radarsync.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629070644id_/http%3A//radarsync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radarsync.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719060623id_/http%3A//www.radarsync.com/privacy) for the most accurate reproduction.*
 
 # Driver Updater Privacy Policy by Radar-Sync
 
