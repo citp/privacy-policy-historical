@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608143030id_/https%3A//www.becu.org/online-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719182234id_/https%3A//www.becu.org/online-privacy-notice) for the most accurate reproduction.*
 
 # Online Privacy Notice | BECU
 
