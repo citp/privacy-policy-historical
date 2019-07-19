@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficandconversionsummit.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903231704id_/http%3A//www.trafficandconversionsummit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficandconversionsummit.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719134738id_/https%3A//trafficandconversionsummit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Traffic & Conversion Summit
+# Traffic & Conversion Summit | Privacy Policy
 
 Effective date: August 28, 2018
 
@@ -212,9 +212,9 @@ We will not store or collect your payment card details. That information is prov
 
 The payment processors we work with are:
 
-  * ****Vanity**** Their Privacy Policy can be viewed at [https://www.vantiv.com/privacy-policy](https://www.nmi.com/privacy-policy/)
+  * **Vanity** Their Privacy Policy can be viewed at [https://www.vantiv.com/privacy-policy](https://www.nmi.com/privacy-policy/)
   * **NMI** Their Privacy Policy can be viewed at <https://www.nmi.com/privacy-policy>
-  * ****PayPal**** Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+  * **PayPal** Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
 
 
 
@@ -239,9 +239,8 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@trafficandconversionsummit.com](mailto:support@trafficandconversionsummit.com) or by mail at:
-    
-    
-    Traffic and Conversion Summit, LLC  
-    Attn: Privacy Compliance Officer  
-    4330 Gaines Ranch Loop, Suite 120  
-    Austin, Texas 78735
+
+Traffic and Conversion Summit, LLC  
+Attn: Privacy Compliance Officer  
+4330 Gaines Ranch Loop, Suite 120  
+Austin, Texas 78735
