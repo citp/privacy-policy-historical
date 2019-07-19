@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2zenith.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511161648id_/http%3A//www.way2zenith.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2zenith.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719101259id_/http%3A//way2zenith.com/privacy.htm) for the most accurate reproduction.*
 
 # WordPress for Business - Privacy Policy
 
