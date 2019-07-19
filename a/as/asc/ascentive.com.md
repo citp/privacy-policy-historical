@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091059id_/http%3A//www.ascentive.com/trust/ascentive) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719203942id_/http%3A//www.ascentive.com/trust/ascentive) for the most accurate reproduction.*
 
 # Ascentive's Privacy Policy | By Ascentive
 
@@ -31,8 +31,9 @@ This site gives users the following options for changing and modifying informati
 
 
 Ascentive LLC,  
-50 S. 16th Street ,  
-Philadelphia, PA 19102  
+1800 JFK Blvd   
+Suite 300 #92302   
+Philadelphia, PA 19103  
 
 
 You can call the following telephone number: 1.215.320.6000
@@ -44,6 +45,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Ascentive Webmaster,  
-50 S. 16th Street,  
-Philadelphia, PA 19102  
+1800 JFK Blvd,  
+Suite 300 #92302   
+Philadelphia, PA 19103  
 
