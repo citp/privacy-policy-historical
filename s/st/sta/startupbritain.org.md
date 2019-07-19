@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupbritain.org privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303051005id_/http%3A//startupbritain.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbritain.org privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720014758id_/http%3A//startupbritain.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – StartUp Britain
 
