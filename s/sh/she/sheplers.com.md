@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sheplers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119143215id_/http%3A//www.sheplers.com/customer-service-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheplers.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719221553id_/https%3A//www.sheplers.com/customer-service-privacy.html) for the most accurate reproduction.*
 
-# Customer Service - Privacy & Security Policy
+# Privacy & Security
 
 ## SHEPLERS PRIVACY & SECURITY POLICY
 
@@ -11,8 +11,6 @@ This policy was last revised on: December 28, 2011.
 At Sheplers, above all else, we value our customers and understand your concerns about online privacy and security. Because we know that your privacy is very important, we have instituted policies intended to ensure that your personal information is always respected and handled in a safe and responsible manner. This Privacy Statement is designed to help you understand what information we collect, how we use it, the steps we take to safeguard it and the choices you have regarding the use of and your ability to review and correct the information. 
 
 When you visit our web site, we automatically recognize your Internet service provider, the Web page from which you came, and a record of your activity on our site, but you cannot be identified as an individual. The customer information that Sheplers Store collects through its web site is used to process orders and to improve your shopping experience. 
-
-When you provide personal information at our stores, our call centers, our websites or through our authorized third parties, you are consenting to our policies, as described herein, on how Sheplers will collect, use, disclose and manage your personal information. 
 
 We use the information you share with us to improve your shopping experience by allowing us to make our Web site easier and more enjoyable to use. The information you volunteer enables us to process our purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our site, and provide you with additional information about our products. We do not sell or share any of your personal information with third-parties or use the information you provide in any way other than as identified above. 
 
