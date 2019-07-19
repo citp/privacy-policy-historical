@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tubedupe.net privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520150157id_/http%3A//tubedupe.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubedupe.net privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720015654id_/http%3A//www.tubedupe.net/privacy) for the most accurate reproduction.*
 
 # Free HD Sex Tube!
 
-Effective Date: Monday 20th of May 2019 05:01:57 PM  
+Effective Date: Saturday 20th of July 2019 03:56:54 AM  
 Sites Covered: www.tubedupe.net 
 
 Pursuant to our [Terms of Use](http://www.tubedupe.net/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
