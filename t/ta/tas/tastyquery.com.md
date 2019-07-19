@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastyquery.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519183137id_/http%3A//tastyquery.com/regulations) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastyquery.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719103212id_/http%3A//tastyquery.com/regulations) for the most accurate reproduction.*
 
 # Terms of use and privacy policy - Tasty Query
 
