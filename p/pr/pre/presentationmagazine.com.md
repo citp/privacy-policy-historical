@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentationmagazine.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116045337id_/https%3A//www.presentationmagazine.com/privacy-policy-16928.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentationmagazine.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720012120id_/https%3A//www.presentationmagazine.com/privacy-policy-16928.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
