@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yakezie.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721135010id_/http%3A//yakezie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakezie.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719145720id_/http%3A//yakezie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Yakezie.com
+# Privacy Policy « Yakezie.com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
