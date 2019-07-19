@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site44.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616155657id_/http%3A//www.site44.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site44.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720002637id_/http%3A//www.site44.com/privacy) for the most accurate reproduction.*
 
 # site44 -Privacy Policy
 
