@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanfidelity.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327203654id_/https%3A//americanfidelity.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfidelity.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719112919id_/https%3A//americanfidelity.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Fidelity
 
