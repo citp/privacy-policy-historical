@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305153605id_/https%3A//www.aceproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719033722id_/https%3A//www.aceproject.com/privacy-policy) for the most accurate reproduction.*
 
 # AceProject's Privacy Policy Statement
 
