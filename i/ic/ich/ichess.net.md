@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichess.net privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323173241id_/https%3A//www.ichess.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichess.net privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719193820id_/https%3A//www.ichess.net/privacy-policy) for the most accurate reproduction.*
 
 # iChess LLC Privacy Policy and Cookie Policy - iChess.net
 
