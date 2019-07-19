@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feinternational.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423095538id_/https%3A//feinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feinternational.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719175901id_/https%3A//feinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy - FE International
 
