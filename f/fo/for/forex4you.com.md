@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex4you.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520034309id_/https%3A//www.forex4you.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex4you.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719021756id_/https%3A//www.forex4you.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex4you
 
