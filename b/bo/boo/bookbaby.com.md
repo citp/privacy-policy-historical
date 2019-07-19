@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418150354id_/https%3A//www.bookbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719110254id_/https%3A//www.bookbaby.com/privacy) for the most accurate reproduction.*
 
 # BookBaby Privacy Policy
 
