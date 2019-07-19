@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412205707id_/https%3A//www.mckesson.com/about-mckesson/privacy-notice-summary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719053504id_/https%3A//www.mckesson.com/about-mckesson/privacy-notice-summary) for the most accurate reproduction.*
 
 # Privacy Notice Summary | McKesson
 
