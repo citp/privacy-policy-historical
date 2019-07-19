@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmet.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531224941id_/http%3A//www.firstmet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmet.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719130242id_/http%3A//www.firstmet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FirstMet Privacy
 
