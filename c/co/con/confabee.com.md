@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confabee.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516033258id_/http%3A//confabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confabee.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719130216id_/http%3A//confabee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
