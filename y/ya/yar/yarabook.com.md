@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarabook.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401120726id_/https%3A//yarabook.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarabook.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719212725id_/https%3A//yarabook.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # YaraBook | Privacy Policy
 
