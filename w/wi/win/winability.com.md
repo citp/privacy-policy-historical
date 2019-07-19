@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612064940id_/http%3A//www.winability.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719090529id_/http%3A//www.winability.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of WinAbility Software Corporation
+
+[Go to secure (https) version of this page...](https://www.winability.com/privacy-policy/)
 
 We respect your right to privacy. Any information gathered by WinAbility Software Corporation will be kept strictly confidential and will only be used or shared in ways for which you have specifically consented. Unless we have your express consent, we will not sell, rent or trade your personal information to any third party. We will take special care to protect the privacy and security of your information.
 
