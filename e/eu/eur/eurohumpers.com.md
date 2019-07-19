@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurohumpers.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617200635id_/http%3A//www.eurohumpers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurohumpers.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719051843id_/http%3A//www.eurohumpers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
