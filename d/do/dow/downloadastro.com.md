@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadastro.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417064124id_/https%3A//en.downloadastro.com/f/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadastro.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719100802id_/https%3A//en.downloadastro.com/f/privacy) for the most accurate reproduction.*
 
 # Downloadastro privacy policy
 
