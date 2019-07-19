@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pfflyers.com privacy policy that was archived on 2019-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190619034149id_/https%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pfflyers.com privacy policy that was archived on 2019-07-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190720010455id_/https%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js gt-ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head prefix="og: http://ogp.me/ns# object: http://ogp.me/ns/object#">
 
@@ -62,15 +62,15 @@ Privacy Policy
 
 	<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/b647dbe6-44a7-4702-ac5d-11e77ca1b54b.css">
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/framework.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build/css/framework.css">
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/core.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/secondary.css">
-
-
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build/css/core.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build/css/secondary.css">
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/main-pff.css">
+
+
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build/css/main-pff.css">
 
 <!-- apple-touch-icon-114x114.png - iPhone (with 2x display) iOS = 6 -->
 <link rel="apple-touch-icon" sizes="114x114" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/default/dw8a4607db/images/apple-touch-icon-114x114.png">
@@ -126,7 +126,7 @@ Privacy Policy
 
 
 
-<script src="//tags.tiqcdn.com/utag/newbalance/pfflyer/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/lib/vendor/vendor-master.js"></script>
+<script src="//tags.tiqcdn.com/utag/newbalance/pfflyer/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build/lib/vendor/vendor-master.js"></script>
 
 
 <script type="text/javascript">
@@ -170,7 +170,7 @@ Privacy Policy
 </script>
 
 <!--[if IE 8]>
-<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/lib/vendor/respond-1.4.2.min.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build/lib/vendor/respond-1.4.2.min.js"></script>
 
 <link href="/on/demandware.static/Sites-pfflyers_us2-Site/-/default/dw7cd6e0ad/build/lib/vendor/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
 <link href="/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Respond-Proxy" id="respond-redirect" rel="respond-redirect" />
@@ -186,7 +186,7 @@ Privacy Policy
 		var originalConfig = requirejs.config;
 		requirejs.config = function (config) {
 			// Should be a CDN-based static URL.
-			config.baseUrl = '/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build//';
+			config.baseUrl = '/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build//';
 			// Call original.
 			originalConfig.call(requirejs, config);
 		};
@@ -445,6 +445,9 @@ dw.ac = {
 /* <![CDATA[ (head-cquotient.js) */
 var CQuotient = window.CQuotient = {};
 CQuotient.clientId = 'aagi-pfflyers_us2';
+CQuotient.realm = 'AAGI';
+CQuotient.siteId = 'pfflyers_us2';
+CQuotient.instanceType = 'prd';
 CQuotient.activities = [];
 CQuotient.cqcid='';
 CQuotient.cquid='';
@@ -487,11 +490,15 @@ CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
 		} // not handling the other dw.ac.* events currently
 	}
 };
-CQuotient.trackViewProduct = function(/* Object */ productData){
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
 	var cq_params = {};
 	cq_params.cookieId = CQuotient.getCQCookieId();
 	cq_params.userId = CQuotient.getCQUserId();
-	cq_params.product = productData;
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	
 	if(CQuotient.sendActivity) {
 		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
 	} else {
@@ -752,7 +759,7 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 <div class="content-dev content-dev-styles" data-slot="content-dev-styles"><!-- dwMarker="content" dwContentID="34698faa456aeb32de9c7b8ad3" -->
 
-<link rel="stylesheet" type="text/css" href="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1560834585735/css/cdev-main.css">
+<link rel="stylesheet" type="text/css" href="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1563512789324/css/cdev-main.css">
 <!-- fix for promo details -->
 <style>
     .pushdown-metabar .pushdown-content {
@@ -762,7 +769,7 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 <!-- end fix for promo details -->
 <script>
 	function cdevGetStaticlink(str) {
-        var baseurl = "https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1560834585735/u";
+        var baseurl = "https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1563512789324/u";
         baseurl = baseurl.substring(0, baseurl.length - 1);
         return baseurl + str;
     }
@@ -1859,6 +1866,19 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 													
 														<li>
 															
+															<a href="https://www.pfflyers.com/men/collections/run-faster-jump-higher/" class="subCat">
+																<h5 class="no-h-style">
+																	Run Faster Jump Higher
+																</h5>
+																
+															</a>
+															
+														</li>
+													
+												
+													
+														<li>
+															
 															<a href="https://www.pfflyers.com/men/collections/sale-last-call/" class="subCat">
 																<h5 class="no-h-style">
 																	Sale: Last Call
@@ -2234,6 +2254,19 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 															<a href="https://www.pfflyers.com/women/collections/made-in-usa/" class="subCat">
 																<h5 class="no-h-style">
 																	Made in USA
+																</h5>
+																
+															</a>
+															
+														</li>
+													
+												
+													
+														<li>
+															
+															<a href="https://www.pfflyers.com/women/collections/run-faster-jump-higher/" class="subCat">
+																<h5 class="no-h-style">
+																	Run Faster Jump Higher
 																</h5>
 																
 															</a>
@@ -3582,8 +3615,8 @@ $('.category-4000 a').click(function(e) {
 
 <div class="content-dev email-lightbox" data-slot="email-lightbox"><!-- dwMarker="content" dwContentID="5508404b8d53f6336ea6423ab9" -->
 
-<link type="text/css" rel="stylesheet" href="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1560834585735/modules/2017/custom/lightbox/lightbox-styles.css">
-<div class="requirejs" data-module="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1560834585735/modules/2017/custom/lightbox/lightbox.min.js"></div>
+<link type="text/css" rel="stylesheet" href="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1563512789324/modules/2017/custom/lightbox/lightbox-styles.css">
+<div class="requirejs" data-module="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1563512789324/modules/2017/custom/lightbox/lightbox.min.js"></div>
 </div><!-- End contentasset -->
 
 
@@ -3632,7 +3665,7 @@ $('.category-4000 a').click(function(e) {
 
 
 
-	<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/lib/jquery/js/jquery/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/lib/jquery/js/jquery/jquery.cookie.js"></script>
 	
 	<script type="text/javascript">
 			function checkGeoLoc()
@@ -3761,7 +3794,7 @@ $('.category-4000 a').click(function(e) {
 	<script language="javascript" type="text/javascript"><!--
 	$(document).ready(function () {
 		$(window).load(function() {
-			$.getScript("/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/js/omniture_s_code.js", function () {
+			$.getScript("/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/js/omniture_s_code.js", function () {
 				
 				s["eVar16"]="D=c25";
 				s["eVar24"]="D=c12";
@@ -3848,7 +3881,7 @@ $('.category-4000 a').click(function(e) {
 <script type="text/javascript">
 var utag_data = {
   "heirarchy": "",
-  "ip_address": "207.241.232.120",
+  "ip_address": "207.241.231.163",
   "page_name": "privacy-policy",
   "page_type": "content",
   "page_context_type": "privacy-policy",
@@ -3872,7 +3905,7 @@ var utag_data = {
   "user_anonymous": "true",
   "user_authenticated": "false",
   "user_registered": "false",
-  "customer_id": "bdJDBjnQ3qiyX3qSG8a1Z8b7p6",
+  "customer_id": "abkNEmGM8wSAcN1N1FjJspy33M",
   "customer_type": ""
 };
 </script>
@@ -4339,7 +4372,7 @@ if (typeof define != 'undefined') {
 		
 
 
-	<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/js/all.js"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build/js/all.js"></script>
 
 
 
@@ -4378,7 +4411,7 @@ if (typeof define != 'undefined') {
 		{"@context":"http://schema.org","@type":"WebSite","name":"PF Flyers","url":"https://www.pfflyers.com/","potentialAction":{"@type":"SearchAction","target":"https://www.pfflyers.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}
 	</script>
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/bottom.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/build/css/bottom.css">
 <!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
@@ -4396,9 +4429,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1563512789324/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
