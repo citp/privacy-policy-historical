@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakeland.co.uk privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315104413id_/https%3A//www.lakeland.co.uk/info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakeland.co.uk privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719220214id_/http%3A//www.lakeland.co.uk/info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
