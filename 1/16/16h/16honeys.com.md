@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 16honeys.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619100317id_/http%3A//16honeys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 16honeys.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719180306id_/http%3A//16honeys.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - 16Honeys.Com
 
