@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfreshener.club privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329224345id_/https%3A//airfreshener.club/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfreshener.club privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719031932id_/https%3A//airfreshener.club/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Air Freshener
 
