@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holcim.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815075224id_/https%3A//www.lafargeholcim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holcim.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719205906id_/https%3A//www.lafargeholcim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LafargeHolcim.com
 
@@ -59,9 +59,9 @@ In particular, you have the right to request a copy of the personal data that we
 
 As we want to make sure that your personal data is accurate and up to date you may also ask us to correct or remove any information which you think is inaccurate.
 
-For any of the above requests, please send a description of your personal data concerned and state name, email address, your personal account and customer number as proof of identity to [privacy.lh@lafargeholcim.com](mailto:privacy.lh@lafargeholcim.com). We may require additional proof of identity to protect your personal data against unauthorized access.
+For any of the above requests, please send a description of your personal data concerned and state name, email address, your personal account and customer number as proof of identity to [privacy.lh@lafargeholcim.com ](mailto:privacy.lh@lafargeholcim.com). We may require additional proof of identity to protect your personal data against unauthorized access.
 
-If you have any concerns about how your personal data is handled by us or wish to raise a complaint on how we have handled your personal data, you can contact us at [privacy.lh@lafargeholcim.com](mailto:privacy.lh@lafargeholcim.com) to have the matter investigated. If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the competent data protection supervisory authority in your country.
+If you have any concerns about how your personal data is handled by us or wish to raise a complaint on how we have handled your personal data, you can contact us at [privacy.lh@lafargeholcim.com ](mailto:privacy.lh@lafargeholcim.com) to have the matter investigated. If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the competent data protection supervisory authority in your country.
 
 ##  What if I’m under 16?
 
@@ -71,4 +71,4 @@ If you are under 16, please make sure that you obtain your parent/guardian’s p
 
 This Data Privacy Notice was last updated in March 2018. From time to time, we may make changes or amend it as required to comply with applicable data protection law. So you may wish to check back from time to time. Any amended information Data Privacy Notice will apply from the date it is posted on our website.
 
-If you have any questions regarding your rights or if you have any specific requests relating to your Personal Data please contact us at [privacy.lh@lafargeholcim.com](mailto:privacy.lh@lafargeholcim.com).
+If you have any questions regarding your rights or if you have any specific requests relating to your Personal Data please contact us at [privacy.lh@lafargeholcim.com ](mailto:privacy.lh@lafargeholcim.com).
