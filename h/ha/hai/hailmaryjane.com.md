@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408055317id_/https%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719083812id_/https%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hail Mary Jane ®
 
@@ -49,7 +49,7 @@ If you feel that this site is not following its stated information policy, you m
 
 Privacy
 
-3.4 (68.57%) 7 votes 
+3.6 (72%) 15 vote[s] 
 
   
 
