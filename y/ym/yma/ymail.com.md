@@ -1,114 +1,142 @@
-> *The following text is extracted and transformed from the ymail.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627154608id_/http%3A//info.yahoo.com/privacy/us/yahoo/details.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymail.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719070003id_/https%3A//policies.yahoo.com/us/en/yahoo/privacy/products/mail/index.htm) for the most accurate reproduction.*
 
-# Welcome to the Oath Privacy Center | Oath Policies
+# Communication Products | Oath Policies
 
-_In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digital and mobile media company and part of[Verizon](http://www.verizon.com/about/privacy/).  We’re now bringing Oath and Yahoo under a single privacy policy.  Some things haven’t changed, like the control tools we provide to help you manage your experience with us.  If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy.  If you have not yet agreed to this Privacy Policy, the [legacy Yahoo Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) or [legacy Oath Privacy Policy (for AOL)](http://privacy.aol.com/legacy) still apply to your account.  For Oath products or services that are accessed without signing into an account, this Privacy Policy applies to those products and services starting May 25, 2018.  If you are creating a new account, the terms below apply starting today.  _
+This policy describes our current privacy practices for the Oath Communications brands, websites, features, products, apps, software and other services (“Communications Services”). All information collected, provided to Oath or stored in your Oath Account will be treated, used and protected in accordance with the [Oath Privacy Policy](https://web.archive.org/web/20190701222202id_/https://policies.oath.com/us/en/oath/privacy/index.html). This information may change as Oath revises these Communications Services by adding or removing features or using different service providers. Some Communications Service features are only available if you are a registered user.
 
-_Last updated: April 2018_
+This page describes specific privacy practices with respect to Yahoo Address Book, Yahoo Calendar, Yahoo Groups, Yahoo Mail, Yahoo Messenger or other instant messaging services and Yahoo Notepad.
 
-#### Our Privacy Pledge
+#### **Information Collection and Use Practices - General**
 
-Our commitment is to put users first.  We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.  This Privacy Policy is meant to help you understand what information Oath, its [affiliates](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html) and its house of global [brands](https://www.oath.com/our-brands/) (“Oath,” “us,” “our” or “we”) collect, why we collect it and what we do with it. This policy applies to Oath [brands](https://www.oath.com/our-brands/), websites, apps, advertising services, products, services or technologies (we’ll collectively refer to these as “Services”).  Additional privacy practices for certain Services can be found in  Details for Specific Products and Services.
-
-#### Your Controls
-
-We believe you should have tools to control your information. You can find controls to manage or review your account information, marketing preferences, location data, and search history at [Privacy Controls](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html).  Some of our Services provide additional controls and privacy practices.  (See, Details for Specific Products and Services)
-
-#### Information Collection and Use - General
-
-We may collect and combine information when you interact with Oath Services including:
-
-  * **Information You Provide to Us.   **We may collect the information that you provide to us, such as: 
-    * When you create an account with an Oath Service or brand. (Please note, when you use our Services, we may recognize you or your devices even if you are not signed in to our Services.)  Oath may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.
-    * When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).
-    * Oath analyzes and stores all communications content, including email content from incoming and outgoing mail.  This allows us to deliver, personalize and develop relevant features, content, advertising and Services.
-    * When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available or install any Oath software such as plugins.
-    * When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.
-  * **Device Information.**  We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our Services and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Services.  This information includes device specific identifiers and information such as [IP address](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/ipaddress/index.html), [cookie information](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html), mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data.  We may recognize your devices to provide you with personalized experiences and advertising across the devices you use. 
-  * **Location Information.**  We collect location information from a variety of sources.  You can learn more about and manage your location permissions on our [Locations page](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/location/index.html) and by visiting the location settings tool on your devices.  
-  * **Information from Cookies and Other Technologies.**
-    * We collect information when you access content, [advertising](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/adserving/index.html), sites, interactive widgets, applications, and other products (both on and off of our Services) where Oath’s data collection technologies (such as [web beacons](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/webbeacons/index.html), development tools, [cookies and other technologies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html), etc.) are present. These data collection technologies allow us to understand your activity on and off our Services and to collect and store information when you interact with Services we offer to partners.
-    * This information also includes the kind of content or ads served, viewed or clicked on; the frequency and duration of your activities; the sites or apps you used before accessing our Services and where you went next; whether you engaged with specific content or ads; and whether you went on to visit an advertiser's website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. 
-  * **Information from Others.**  We collect information about you when we receive it from other users, third-parties, and [affiliates](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html), such as: 
-    * When you connect your account to third-party services or sign in using a third-party partner (like Facebook or Twitter).
-    * From publicly-available sources.
-    * From advertisers about your experiences or interactions with their offerings.
-    * When we obtain information from third-parties or [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/appenddata/index.html), such as those that use our Services. This may include your activity on other sites and apps as well as information those third-parties provide to you or us. 
-    * We may also receive information from Verizon and will honor the choices Verizon customers have made about the uses of this information when we receive and use this data.
+  * Oath’s systems may analyze and store all communications content, including email content from incoming and outgoing mail, as well as incoming and outgoing messages to messaging apps.
+  * We also may analyze and store all other content and other information you provide when you use our Communications Services. This can include information within or about the content you provide, such as photos, attachments and other [communications](https://web.archive.org/web/20190701222202id_/https://policies.oath.com/us/en/oath/privacy/products/communications/faq/index.html).
+  * Our systems may analyze all communications content (such as Mail, Groups, Calendar, Address and Messenger content including instant messages and SMS messages) for the purposes outlined in our main Privacy Policy page. If you provide Oath access to your Gmail data, please click [here](https://web.archive.org/web/20190701222202id_/https://policies.oath.com/us/en/oath/privacy/products/communications/gmaildata/index.html) for more information on how we treat your Gmail data.
+  * This analysis may occur on all communications content as it is sent, received, and when it is stored, including content from services synced with your account. For example, in certain use cases, we run automated algorithms on commercial communications to create generic templates of such documents (e.g., using common language to identify the elements of an airline receipt). These templates do not include the recipient’s personal data. Oath employees may review the templates to improve our services and our personalization of your experience. We may also manually review certain communications to improve our masking template capabilities, develop tools to assist the automated scanning process, improve segmentation and other automated functions and create generic templates of such documents (e.g., using common language to identify the elements of an airline receipt). Our anti-spam team may review messages flagged as “spam” or “not spam” to improve our anti-spam defenses.
+  * Our Communications Service may include interactive features from third-parties as well. We do not share information that personally identifies you (such as information like your first and last name or email address) with the third-parties without your consent.
+  * This information may also be used for interest-based advertising. To learn more, you can visit Oath’s [control tool](https://web.archive.org/web/20190701222202id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html) for interest-based advertising.
+  * Please read the [FAQ](https://web.archive.org/web/20190701222202id_/https://policies.oath.com/us/en/oath/privacy/products/communications/faq/index.html) to learn more about our Communications Services.
 
 
 
-#### How We Use This Information
+#### **Communication Features**
 
-We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in.  We also may use the information we have about you for the following purposes: 
-
-  * Provide, maintain, improve, and develop relevant features, content, and Services.  
-  * Analyze your content and other information (including emails, instant messages, posts [photos, attachments, and other communications](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/products/communications/faq/index.html)).  You can review and control certain types of information tied to your Oath account by using [Privacy Controls](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html). 
-  * Fulfill your requests and when authorized by you. 
-  * Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
-  * Match and serve targeted advertising (across devices and both on and off of our Services) and provide [targeted advertising](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/adserving/index.html) based on your device activity, inferred interests and location information.  
-  * Contact you with information about your account or with marketing messages, which [you can also control](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html). 
-  * Associate your activity across our Services and your different devices as well as associate any accounts you may use across Oath Services together.  We may associate activity and accounts under a single user ID. 
-  * Carry out or support [promotions](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/products/promotions/index.html).
-  * Conduct research and support innovation. 
-  * Create analytics and reports for external parties, including partners, publishers, advertisers, apps, [third-parties](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html) and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences. These analytics and reports may include aggregate or pseudonymized information.
-  * Provide location-based Services, advertising, search results, and other content consistent with your [location settings](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html).
-  * Combine information we have about you with information we obtain from business partners or [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/appenddata/index.html), such as your activities on other sites and apps.
-  * Detect and defend against fraudulent, abusive, or unlawful activity.
+  * Users with whom you communicate with may opt to save your conversations even if you delete them.
+  * If you have SMS message forwarding enabled, these messages may be stored in your conversation history on that device.
+  * We may store the contacts and calendar details from Communications Services like Mail, Address Book, Messenger Contacts, Groups, and when you synchronize data from your devices (for example, your phone contacts). 
+    * Synced contacts from third-party services may re-populate after you delete them unless you disable the syncing feature.
 
 
 
-We provide you with controls to manage your experience with us.  For example, you can review or edit your [account information](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html), manage your [marketing preferences](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html), or [opt out of targeted ads](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html).  If you opt out, you will continue to see ads, but they may not be as relevant or useful to you. 
+#### **Sharing and Disclosure to Third-Parties**
 
-#### How We Share This Information
-
-Oath shares information within its affiliated brands and companies and with Verizon.  We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with [third-party apps and widgets](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html)).  We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Oath unless one of the following circumstances applies:
-
-  * **With Your Consent.   **We will share information with companies, organizations or individuals outside of Oath when we have your consent. 
-  * **With Verizon.   **As part of Verizon, Oath and its [affiliates](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html) may, to the extent permitted by law and consistent with user controls, share information with Verizon and Verizon affiliates. This information will be used consistent with [Verizon’s privacy policy](http://www.verizon.com/about/privacy/privacy-policy-summary).    
-  * **Within Oath.   **Information may also be shared within Oath, including with other Oath Services and [affiliates](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html).  Oath affiliates may use the information in a manner consistent with their privacy policies.
-  * **With Partners.   **We may share your information with nonaffiliated companies who are: 
-    * **Trusted Partners.   **We provide user information to trusted partners who work on behalf of or with Oath based on our directions and in compliance with appropriate confidentiality measures.  [Learn more](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html). 
-    * **Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information).   **We may share aggregated or [pseudonymous](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html) information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html).  For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion.  We do not share information that personally identifies you (personally identifiable information is information like name or email address) with these partners, such as publishers, advertisers, measurement analytics, apps, or [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html).   
-When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies.   
-We allow [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html) that show advertisements on our webpages or apps to collect information from your browsers or devices.  Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one.  Like many companies, we may allow cookie matching with select partners.  But, these parties are not authorized to access Oath cookies.  
-  * **For Legal and Other Purposes.**  We may access, preserve and disclose information to investigate, prevent, or take action in connection with: (i) legal process and legal requests; (ii) enforcement of the [Terms](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/terms/otos/index.html); (iii) claims that any content violates the rights of third-parties; (iv) requests for customer service; (v) technical issues; (vi) protecting the rights, property or personal safety of Oath, its users or the public; (vii) establishing or exercising our legal rights or defending against legal claims; or (viii) as otherwise required by law. 
-    * This may include responding to lawful governmental requests.  Learn more about how we [evaluate and respond to these requests](https://transparency.yahoo.com/principles). 
-  * **New Ownership.**  If the ownership or control of all or part of Verizon, Oath or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner. 
+  * Connecting your account to a third-party service may require that you share information with that third party (for example, your email address). You can view and disable third-party account links by visiting the accounts section in the Communications Service(s) you may use.
+  * Certain information from your account may be visible to others such as your name, nickname, avatar, image, gender, city, online status, contact information associated with your Oath account or other information that you have chosen to make public.
+  * If you post information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+  * Your messages are shared only with the people you want. Oath may anonymously share specific objects from a message (such as keywords, package tracking and product price, name, identification and other data) with third-parties in order to enhance your user experience, develop new services and features and provide targeted ads.
 
 
 
-#### Details for Specific Products and Services
+* * *
 
-Additional privacy practices for certain Oath Services are included [here](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/products/index.html).
+* * *
 
-**Information Security and Data Retention**  
-Oath has technical, administrative and physical safeguards in place to help protect against unauthorized access, use or disclosure of customer information we collect or store.      
-To learn more about security, including the steps we have taken and steps you can take, please read [Security at Oath](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/security/index.html).
+### **Yahoo Mail**
 
-#### Protecting Children’s Privacy
+#### **Premium Services**
 
-Our Services are for a general audience.  We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law.  With parental permission, a child under age 13 might have an Oath Family Account. Visit [Children's Privacy & Family Accounts](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/products/family/index.html) to learn more about children’s privacy at Oath.
+  * Premium services, such as Mail Plus, are available for a fee.
+  * When you sign up for premium services, you will be asked to enter your credit card information. Oath takes your security seriously. We use industry-standard SSL (Secure Socket Layer) to encrypt the transmission of your credit card and other information used when ordering premium services.
 
-#### Data Processing and Transfers
 
-When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy. Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services.  Some of these countries may not have the same data protection safeguards as the country where you reside. 
 
-Oath may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses.  By using our Services, you consent to us transferring information about you to these countries.  For more information, please visit our [Data Transfer](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/datatransfer/index.html) page.
+#### **Information Collection and Use Practices**
 
-#### Other Important Information
+  * Yahoo Mail includes [IP addresses](https://web.archive.org/web/20190701222202id_/https://policies.oath.com/us/en/oath/privacy/topics/ipaddress/index.html) in outgoing mail message headers, as specified by standard Internet protocol.
+  * Oath may share certain analyzed elements of your communications, such as keywords, package tracking and product identification numbers, with third-parties in order to enhance your user experience and personalize your ads and content.
+  * Our automated systems analyze content in part, to provide personally relevant, enriched experiences within mail.  Enriched experiences show easy-to-read cards or similar formats within your inbox.  
+Some of these enriched experiences may include links, partnerships, or revenue sharing agreements where Yahoo receives compensation when you complete a purchase or take an action. 
+  * When users click on the Spam and Not Spam buttons, information is sent to our anti-spam team or other spam compliance service providers for manual review, and aspects of these messages may be shared with the sender to reduce spam.
 
-**This Privacy Policy Applies Only to Oath.   **This Privacy Policy does not apply to the practices of companies that Oath does not own or control, or to people that Oath does not employ or manage.  In addition, some [affiliated products](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html) (such as Tumblr) may have different privacy policies and practices that are not subject to this Privacy Policy. 
 
-#### Changes
 
-We may update this Privacy Policy from time to time, so you should check it periodically.  If we make changes that are material we will provide you with appropriate notice before such changes take effect.  
+#### **Practices Regarding Your Ability to Update or Delete Information**
 
-#### Questions & Suggestions
+  * You can modify your settings and preferences in your Yahoo Mail account by accessing “[Account Information](http://edit.yahoo.com/config/eval_profile)”.
 
-If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVViU3MHqVQ8eD98XMp4RclW%252Bpxa6fxY1YdCiDU9ZoUvcE%253D&locale=en_US&page=contactform&selectedChannel=email-icon) or you can contact us at:
 
-Oath  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089
+
+### **Yahoo Calendar**
+
+#### **Information Collection and Use Practices**
+
+  * When you store appointments on Yahoo Calendar, you can enter information about the appointment, including a description, date, time, or whether the event is recurring or one-time only.
+
+
+
+#### **Information Sharing and Disclosure Practices**
+
+  * You can elect to make your Yahoo Calendar publicly viewable, viewable to a selected set of other users, or private (non-viewable).
+  * If you allow others to view your calendar, you can choose whether each appointment is hidden, appears as "Busy," or appears with all details. You can modify the default event permission setting from the "Options" page of Yahoo Calendar. Your event permission setting change will apply to any events that you add after you have made the setting change, but will not change the setting of events that you have added previous to the change. You can also modify the permission of each event individually from the edit page for that event.
+
+
+
+### **Yahoo Messenger**
+
+Versions of Yahoo Messenger released prior to December 3, 2015 are no longer supported, however you may review the privacy module [here](https://policies.yahoo.com/us/en/yahoo/privacy/products/messenger/index.htm). Please upgrade to the new [Yahoo Messenger](https://messenger.yahoo.com/).
+
+#### **Information Collection & Use Practices**
+
+  * We may collect information about you when you use Yahoo Messenger. We may collect information from you directly, such as your phone number, email address, photos, and, with your consent, contacts stored on your device. We may also collect information from you automatically when you use Yahoo Messenger, such as your IP address, location, analytics on app usage, device ID and type, and mobile carrier.
+  * When using Yahoo Messenger, your communications content is stored on our servers and may be made searchable for you through our platforms.
+
+
+
+#### **Information Sharing & Disclosure Practices**
+
+  * Certain products may include features that notify other users that you are present or active in a channel, team or group.
+  * When you communicate using Yahoo Messenger, we facilitate sharing communications with your friends. To make it easier for you to locate and communicate with other Yahoo Messenger users, we may, with your consent, synchronize data from your devices. Other users who have your phone number or email address may be able to discover you on Yahoo Messenger and see your certain information from such as your name, nickname, avatar, image, online status, contact information associated with your Oath account or other information that you have chosen to make public.
+  * You can invite your friends to join Yahoo Messenger, and 1-on-1 and group conversations. Invitations may include message content, such as your name and photos.
+
+
+
+#### **Unsending Messages, Photos & GIFs**
+
+  * In some cases you can unsend communications content (however, we may retain copies and logs for audit and record purposes or as required by law).
+  * There are some exceptions to the unsend feature, for example: 
+    * Users who receive your messages, or any other content, can save or copy them, including taking a screenshot or by using some other image-capturing methods or technology. Also, if users save or copy content (including photos) before it is unsent, they may be able to access and share that content later;
+    * Push notifications of new messages aren’t taken back, so users may be able to read notification snippets of unsent messages;
+    * A message cannot be unsent if a friend is still using a prior version of Yahoo Messenger or goes offline before you can unsend;
+    * Please review the interoperability and unsend [Help pages](https://help.yahoo.com/kb/account) to learn more.
+  * Think before you share! Messages are sent immediately. There's no guarantee the recipients won't see the message before you unsend it.
+
+
+
+#### **Other**
+
+  * By using Yahoo Messenger, you acknowledge that other users of Yahoo Messenger may elect to receive a notification from Yahoo Messenger when you sign on and may send you instant messages and other information or call you via Yahoo Messenger. If you wish to block the notification feature or if you don't want to receive messages from such users, you may have the option to enable the "Ignore" or similar feature separately. Your ability to send and receive instant messages and other information may be blocked by Oath and other users, which may partially or wholly limit your ability to use Yahoo Messenger. Oath has no responsibility for assessing or resolving any disputes arising from your or any other user's ability (or otherwise) to ignore, send messages or other information, or otherwise use Yahoo Messenger.
+  * Some features available in Yahoo Messenger, such as the “like” and unsend features, may not function when communicating with friends using prior versions of Yahoo Messenger (versions released prior to December 3, 2015).
+
+
+
+### **Yahoo Groups**
+
+#### **Information Sharing and Disclosure Practices**
+
+  * Messages you email to the group or that you post through the web site for a Group will always include your email address. 
+    * Full headers of all email postings can be seen by anyone accessing the messages through the web site.
+  * Your full email address will be visible to the owner and moderator(s) of any Group to which you belong. 
+    * Some Group owners, though, may choose to give members the option to not allow their email addresses to be visible to owner and moderators. Choosing this option may limit your ability to post and take advantage of other features of the Group.
+  * In using Yahoo Groups and its various tools, you may make some of your information public. You may also choose to share some of your information with other Group members.
+  * When you share files, post messages, create polls, or add bookmarks to a Group to which you belong, certain information such as your name, nickname, avatar, image, online status, contact information associated with your Oath account or other information that you have chosen to make public may appear next to the file, message, poll or bookmark on the Groups website.
+  * The personal email address of Group owners and moderators who invite members to join the Group via the "invite" tool are visible to the recipients of an invitation.
+  * Certain information from your Profile may be visible to others such as your name, gender, city, online status and other information that you have chosen to make public.
+  * If you post information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+
+
+
+#### **Practices Regarding Your Ability to Update or Delete Information**
+
+  * If you are a Group owner, you can edit or delete any posting or member in your Group. You can also completely delete your Group at any time. Group owners can also grant moderators the ability to edit or delete postings and members from the Group.
+  * As a Group member, you can edit your Group memberships and preferences at any time. You can also delete your own messages from a Group.
+
+
