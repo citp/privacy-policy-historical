@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicallynetworked.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618172317id_/http%3A//www.practicallynetworked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicallynetworked.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719125826id_/http%3A//www.practicallynetworked.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
