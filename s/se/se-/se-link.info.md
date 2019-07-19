@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the se-link.info privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519182823id_/http%3A//se-link.info/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the se-link.info privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719103306id_/http%3A//se-link.info/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy – Usa Player
 
