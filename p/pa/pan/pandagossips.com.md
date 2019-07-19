@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandagossips.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507103516id_/https%3A//pandagossips.com/page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandagossips.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719132302id_/https%3A//pandagossips.com/page/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
