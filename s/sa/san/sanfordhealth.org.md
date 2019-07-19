@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331090901id_/https%3A//www.sanfordhealth.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719162929id_/https%3A//www.sanfordhealth.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Sanford Health
 
