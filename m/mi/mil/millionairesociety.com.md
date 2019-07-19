@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionairesociety.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617204955id_/http%3A//www.millionairesociety.com/members/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairesociety.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719122143id_/http%3A//www.millionairesociety.com/members/common/privacy.php) for the most accurate reproduction.*
 
 # Millionaire Society | Privacy Policy
 
