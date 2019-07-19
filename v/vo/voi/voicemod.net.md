@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voicemod.net privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521212628id_/https%3A//www.voicemod.net/sdk-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicemod.net privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719153309id_/https%3A//www.voicemod.net/sdk-privacy-policy) for the most accurate reproduction.*
 
 # Voicemod Privacy Policy
 
