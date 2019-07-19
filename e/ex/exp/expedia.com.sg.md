@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.sg privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514124313id_/https%3A//www.expedia.com.sg/p/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.sg privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719101542id_/https%3A//www.expedia.com.sg/p/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Expedia Privacy Pledge | Expedia.com.sg
 
