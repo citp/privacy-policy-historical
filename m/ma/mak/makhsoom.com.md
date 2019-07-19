@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makhsoom.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624224815id_/https%3A//makhsoom.com/lb/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makhsoom.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719175603id_/https%3A//makhsoom.com/lb/page/privacy) for the most accurate reproduction.*
 
 # Base - Page - Makhsoom
 
