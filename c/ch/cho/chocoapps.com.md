@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chocoapps.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516005909id_/https%3A//chocoapps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chocoapps.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719111536id_/https%3A//chocoapps.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ChocoApps
 
