@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abcdt.pro privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629154857id_/http%3A//abcdt.pro/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcdt.pro privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719091442id_/http%3A//abcdt.pro/page/privacy-policy) for the most accurate reproduction.*
 
 # Best Car 2018
 
-This privacy policy sets out how http://www.abcdt.pro uses and protects any information that you give http://www.abcdt.pro when you use this website. http://www.abcdt.pro is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. http://www.abcdt.pro may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+This privacy policy sets out how http://abcdt.pro uses and protects any information that you give http://abcdt.pro when you use this website. http://abcdt.pro is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. http://abcdt.pro may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 ## What we collect 
 
