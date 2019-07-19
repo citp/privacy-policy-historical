@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltiltpoker.net privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521114336id_/http%3A//www.fulltiltpoker.net/help/faq/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.net privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719045506id_/http%3A//www.fulltiltpoker.net/help/faq/terms/privacy) for the most accurate reproduction.*
 
 # Security - Privacy Policy - Secure Online Poker
 
