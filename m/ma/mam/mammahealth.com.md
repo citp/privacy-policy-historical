@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mammahealth.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423204405id_/https%3A//mammahealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mammahealth.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719131554id_/https%3A//mammahealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mamma Health
 
