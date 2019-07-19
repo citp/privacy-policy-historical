@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmarabia.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630164510id_/https%3A//www.xmarabia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmarabia.net privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719024205id_/https%3A//www.xmarabia.net/privacy-policy) for the most accurate reproduction.*
 
 # XM Privacy Policy
 
