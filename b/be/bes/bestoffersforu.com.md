@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622011552id_/http%3A//bestoffersforu.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719170831id_/http%3A//bestoffersforu.com/en/policy) for the most accurate reproduction.*
 
 # Best Offers For U - Privacy Policy
 
