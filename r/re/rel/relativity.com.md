@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the relativity.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117221103id_/https%3A//www.relativity.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relativity.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719073749id_/https%3A//www.relativity.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Relativity
 
-The protection of your personal data is important to us. We collect your personal data when you use our Relativity software (the “Software”) and when you use our websites (a “Website” or “Websites”). We use that data for marketing, sales, and employment purposes. We are committed to the lawful, fair, transparent, accountable, accurate, confidential, and limited collection and processing of your personal data.
+The protection of your personal data is important to us. We collect your personal data when you use our Relativity software (the “Software”) and when you use our websites (a “Website” or “Websites”). We use that data for marketing, sales, product development, and employment purposes. We are committed to the lawful, fair, transparent, accountable, accurate, confidential, and limited collection and processing of your personal data.
 
 ## What do we collect?
 
-  * We collect non-identifiable information as well as information you provide to us.
+  * We collect non-identifiable information as well as information you provide to us. When using our mobile applications, this information may include your email address, device information, operating system version, country, city, and IP address.
   * We only keep information if it is necessary.
   * We only collect personal data about you to keep in touch, register you for our user conferences and certifications, or support our Relativity software.
   * We use cookies on our website to improve your experience on our site. You always have the option to disable cookies on your browser, but doing so may limit our ability to serve you up the most relevant information on our website.
@@ -18,6 +18,8 @@ The protection of your personal data is important to us. We collect your persona
 We use your personal data to:
 
   * provide you with information that you request, including product details, events, certifications, and notices on the Relativity community;
+  * learn more about how our products are used;
+  * improve our products;
   * conduct market research; and,
   * develop and personalize our communications to you and your website experience.
 
@@ -27,7 +29,7 @@ We use your personal data to:
 
   * Disable cookies on your browser.
   * Unsubscribe from any e-mails to which you have previously opted in.
-  * Please [click here to contact the Relativity Privacy team](https://resources.relativity.com/gdpr-personal-data-inquiry.html) for more information on opting-out or to review, update, or remove any personal data we have about you.
+  * Contact the Relativity Privacy team at [privacy.inquires@relativity.com](mailto:privacy.inquiries@relativity.com) for more information on opting-out or to review, update, or remove any personal data we have about you.
   * Read our full privacy policy [here](https://web.archive.org/privacy-and-cookies/full/).
 
 
