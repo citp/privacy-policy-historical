@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimecave.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623174614id_/http%3A//www.thetimecave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimecave.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719161910id_/http%3A//thetimecave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thecontentcave
 
