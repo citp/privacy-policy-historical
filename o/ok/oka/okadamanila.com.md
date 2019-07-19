@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okadamanila.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428053746id_/http%3A//www.okadamanila.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okadamanila.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719163547id_/http%3A//www.okadamanila.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Okada Manila
 
