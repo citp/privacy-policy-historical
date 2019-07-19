@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1hourbellyblastdiet.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620195642id_/http%3A//1hourbellyblastdiet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1hourbellyblastdiet.com privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719072016id_/http%3A//1hourbellyblastdiet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
