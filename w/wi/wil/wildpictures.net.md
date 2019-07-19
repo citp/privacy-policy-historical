@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildpictures.net privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516063650id_/http%3A//wildpictures.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildpictures.net privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719150440id_/http%3A//www.wildpictures.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
