@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tav-web.org privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519053824id_/http%3A//www.tav-web.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tav-web.org privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719021824id_/http%3A//www.tav-web.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Tav Web Directory
 
