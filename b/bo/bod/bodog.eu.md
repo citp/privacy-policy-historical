@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodog.eu privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111112725id_/http%3A//www.bodog.eu/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodog.eu privacy policy that was archived on 2019-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190719160835id_/https%3A//www.bodog.eu/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bodog.eu
+# Privacy Policy | Bodog
 
 Please read this privacy statement carefully before submitting any personal information. By your use of the Website and or use of any associated apps or services you confirm your consent to the use of your information as set out in this policy. If you do not agree with the terms herein then you must immediately discontinue your use of the Website and its services.
 
@@ -110,7 +110,7 @@ Bodog is committed to ensuring the integrity of sport and to participating in ef
 
 If you would like to contact us for any reason regarding our privacy practices or to request a copy of the personally-identifiable information that we have collected about you via the Website please write to our Customer Services team at service@bodog.eu
 
-**Coolidge Gaming Ltd.**  
+**Il Nido Ltd.**  
 The Teledome Building, 1st & 2nd Floors  
 Old Parham Road  
 St John's, Antigua
@@ -125,4 +125,4 @@ privacy@bodog.eu
   
 **POLICY LAST UPDATED**
 
-Last updated February 22, 2018
+Last updated February 21, 2019
