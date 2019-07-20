@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brisnet.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630213414id_/http%3A//www.churchilldownsincorporated.com/our_company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisnet.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720131034id_/http%3A//www.churchilldownsincorporated.com/our_company/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Churchill Downs Incorporated
 
-**Churchill Downs Incorporated and its subsidiary companies CDI (“CDI”, “we” or “us”) have adopted this Privacy Policy to establish and maintain an adequate level of protection for your Personal data.**
+**Churchill Downs Incorporated and its subsidiary companies ("CDI", "we" or "us") have adopted this Privacy Policy to establish and maintain an adequate level of protection for your Personal data.**
 
 This Privacy Policy explains how we protect your privacy and the confidentiality of the information that you provide to us when you use CDI’s websites and related products and services. **  By accessing and/or using this website, or any Churchill Downs Incorporated service, you are accepting the practices described in this Privacy Policy.**
 
