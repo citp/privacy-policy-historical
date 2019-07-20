@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vkool.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611134219id_/http%3A//vkool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vkool.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720091556id_/http%3A//vkool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ Information [Vkool](http://vkool.com/) collect is from the one our visitors and 
 
 From most of our products and services, Vkool uses the information to provide, maintain, update, protect as well as develop new ones. With this information, _Vkool_ offers visitors and customers with tailored content such as more available relevant search results and ads.
 
- **Vkool** also take the information gathered from cookies as well as other technologies, such as pixel tags, to enhance the experience of visitors and customers as well as the overall quality of all our products and services. Before using any information for the purpose other than those which are set out in the Privacy Policy, the site [Vkool.com](http://vkool.com/) will surely ask visitors and users for their consent.
+**Vkool** also take the information gathered from cookies as well as other technologies, such as pixel tags, to enhance the experience of visitors and customers as well as the overall quality of all our products and services. Before using any information for the purpose other than those which are set out in the Privacy Policy, the site [Vkool.com](http://vkool.com/) will surely ask visitors and users for their consent.
 
 ### Accessing and updating user’s personal information
 
