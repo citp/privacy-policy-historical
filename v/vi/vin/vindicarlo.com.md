@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindicarlo.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621040418id_/http%3A//vindicarlo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindicarlo.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720024231id_/http%3A//vindicarlo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vin DiCarlo
 
