@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reversewinesnob.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011192551id_/https%3A//www.reversewinesnob.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversewinesnob.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720084555id_/https%3A//www.reversewinesnob.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy • Reverse Wine Snob®
+# Privacy, Editorial & Advertising Policy • Reverse Wine Snob®
 
 **ONLINE PRIVACY POLICY AGREEMENT**
 
@@ -63,9 +63,14 @@ Through the use of this website, you are hereby accepting the terms and conditio
  **How to Contact Us**  
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
- **Email:** [jon@reversewinesnob.com](mailto:jon@reversewinesnob.com)
+ **Email:** [jon@reversewinesnob.com](mailto:jon@reversewinesnob.com)  
+**Address:** (No packages at this address, please email us for shipping info.)  
+Reverse Wine Snob LLC  
+PO Box 543  
+Savage, MN 55378  
+**Phone/Text:** 952-491-0215
 
- **EDITORIAL POLICY**  
+ **EDITORIAL & ADVERTISING POLICY**  
 The content of www.reversewinesnob.com is chosen completely at the discretion of the owners of Reverse Wine Snob. Rest assured we are 100% independent. No one can pay to change the opinions written at www.reversewinesnob.com. Selling our editorial content would destroy the legitimacy, integrity, and fun of Reverse Wine Snob and would ruin the trust between Reverse Wine Snob and its users.
 
-On occasion we will share “sponsored” content on behalf of organizations that have something special to offer our readers. This content will be marked as sponsored. We may also accept advertising from wine related organizations or share affiliate links for products that we endorse; however, all wine reviews are held to the same high standards whether they are sponsored or not. The existence of (or lack thereof) an advertising or affiliate relationship does not influence a wine’s rating.
+On occasion, we will share “sponsored” content on behalf of organizations that have something special to offer our readers. This content will be marked as sponsored. We may also accept advertising from wine-related organizations or share affiliate links for products that we endorse; however, all wine reviews are held to the same high standards whether they are sponsored or not. The existence of (or lack thereof) an advertising or affiliate relationship does not influence a wine’s rating.
