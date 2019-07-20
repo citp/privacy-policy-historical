@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapinda.in privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611055634id_/http%3A//www.wapinda.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapinda.in privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720080629id_/http%3A//www.wapinda.in/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
