@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lc-tech.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309022501id_/https%3A//www.lc-tech.com/pc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lc-tech.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720201851id_/https%3A//www.lc-tech.com/pc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of LC Technology - File Recovery Software and Services
 
