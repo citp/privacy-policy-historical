@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekosport.club privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607034747id_/http%3A//ekosport.club/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekosport.club privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720051851id_/http%3A//ekosport.club/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy – EkoSport Club
 
@@ -26,5 +26,3 @@ Ekosport.club might contain links to external sites. We are not in any way respo
 
 You can always reach out to us if you have any questions about how the data collected through the use of cookies is used and stored at Ekosport.club or if you want to know more about our privacy policies. Use the Contact Us page for any questions.  
 
-
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok
