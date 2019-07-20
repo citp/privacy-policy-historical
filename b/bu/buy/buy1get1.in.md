@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buy1get1.in privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619014534id_/http%3A//www.buy1get1.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buy1get1.in privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720114044id_/http%3A//www.buy1get1.in/privacy) for the most accurate reproduction.*
 
 # Our Pricavy Policy - Buy1get1.in
 
