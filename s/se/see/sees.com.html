@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sees.com privacy policy that was archived on 2018-09-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180929152305id_/https%3A//www.sees.com/company-info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sees.com privacy policy that was archived on 2019-07-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190720180302id_/https%3A//www.sees.com/company-info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js sees"><!--<![endif]--><head>
 		
@@ -134,19 +134,29 @@
 
 
 
-		<!-- <link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/css/CriticalPath.css" /> -->
 
 
-<!-- build: 166 -->
 
 
-<meta content="width=device-width,initial-scale=1,minimum-scale=1" name="viewport">
+
+
+
+
+
+		
 
 <meta charset="UTF-8">
+<meta content="width=device-width,initial-scale=1,minimum-scale=1" name="viewport">
+<meta name="msapplication-TileImage" content="/on/demandware.static/Sites-sees-Site/-/default/dwb9ab3de6/images/favicons/mstile-144x144.png">
+<meta name="description" content=" The See's Candies privacy policy. See's Candies">
+<meta name="keywords" content="  See's Candies">
+
+<!-- build: 656 -->
+
+
 <!-- [if IE 9]>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <![endif]-->
-
 
 <title>Privacy Policy | See's Candies</title>
 
@@ -163,25 +173,18 @@
 <link rel="icon" type="image/png" href="/on/demandware.static/Sites-sees-Site/-/default/dw2d8069f8/images/favicons/favicon-96x96.png" sizes="96x96">
 <link rel="icon" type="image/png" href="/on/demandware.static/Sites-sees-Site/-/default/dw8b2656a2/images/favicons/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="/on/demandware.static/Sites-sees-Site/-/default/dw4634b266/images/favicons/favicon-16x16.png" sizes="16x16">
-<meta name="msapplication-TileImage" content="/on/demandware.static/Sites-sees-Site/-/default/dwb9ab3de6/images/favicons/mstile-144x144.png">
 
 
-
-<meta name="description" content=" The See's Candies privacy policy. See's Candies">
-<meta name="keywords" content="  See's Candies">
-
-
-
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N59B"></script><script src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib/jquery/jquery-3.2.1.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib/modernizr.custom.65826.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N59B"></script><script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/jquery/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/modernizr.custom.65826.js"></script>
+<!--[if lt IE 9]>
+<script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/html5.js"></script>
+<![endif]-->
 <script>
 window.app = window.app||{};
+window.oo_path = '/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/opinionlab/onlineopinionV5/';
 document.documentElement.className+='sees';
 </script>
-<!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib/html5.js"></script>
-<![endif]-->
-
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
@@ -196,7 +199,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -242,6 +251,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -249,16 +285,20 @@ CQuotient.getCQUserId = function () {
 
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/css/sees-fonts.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/css/sees-app.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/css/calendar.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib/jquery/ui/jquery-ui.css">
-<link rel="stylesheet" href="/on/demandware.static/-/Library-Sites-sees-shared-library/default/v1538160104927/css/content.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/css/sees-fonts.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/css/sees-app.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/css/calendar.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/jquery/ui/jquery-ui.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/opinionlab/onlineopinionV5/oo_style.css">
+<link rel="stylesheet" href="/on/demandware.static/-/Library-Sites-sees-shared-library/default/v1563615078317/css/content.css">
 
-
-
+<meta name="msvalidate.01" content="E3EF7B200BE6770ED79A064D38C1C667">
 
 <style>
+.checkout-container label[data-checkbox] input + span::before {
+	top: -20%;
+	left: -20%;
+}
 .selected-wrap-row button.expand-link {
 margin: 0 auto;
 border: none;
@@ -294,14 +334,30 @@ width: 100%;
 		margin-top: 15px;
 	}
 }
+
+.account-component .data-summary {
+height: auto;
+}
 @media only screen and (max-width: 768px) {
-  #fixedMenuPadding {
-		height: 109px !important;	
-	}
+.flavor-grid .paging .srt {
+	position: unset;
+}
+}
+.grid-tile.slot-container.flex-show {
+  display: inline-block;
+}
+@media screen and (max-width: 767px) {
+  #leftPanel {
+    width: calc(80% + 1px);
+  }
+}
+
+ul.primary.menu > li {
+ padding-left:5px;
+ padding-right:5px;
 }
 </style>
 <script>window.CurrentSiteId = 'MO';</script>
-
 
 
 		
@@ -451,21 +507,32 @@ width: 100%;
 
 
 
+
+
+
+
+
+
+
+
+
 <div id="leftPanel" class="not-desktop">
 	<div id="leftPanel__close">
-		<button class="close-button"></button>
+		<button class="close-button">
+			<span class="off-screen">Close</span>
+		</button>
 	</div>
 		
 	<div id="leftPanel__content">
 		
-			<a class="MenuLinks" href="https://www.sees.com/account" title="My Account" data-action="global" data-value="log-in">
+			<a class="MenuLinks" href="https://www.sees.com/account" title="Update your account or view order history" data-action="global" data-value="log-in">
 				My Account
 			</a><br>
 		
-		<a class="MenuLinks" href="https://www.sees.com/cart" title="Bag" data-ym-pixel="5MPJGA85">
+		<a class="MenuLinks" href="https://www.sees.com/cart" title="View your bag or check out" data-ym-pixel="5MPJGA85">
 			Bag
 		</a><br>
-		<a class="MenuLinks" href="https://www.sees.com/cart" title="Bag" data-ym-pixel="5MPJGA85">
+		<a class="MenuLinks" href="https://www.sees.com/cart" title="View your bag or check out" data-ym-pixel="5MPJGA85">
 			Checkout
 		</a>
 		<div id="mobile-nav-wrapper"></div>
@@ -485,15 +552,140 @@ width: 100%;
 
 
 
-<script>
-$( document ).ready(function() {
-$('#fixedMenuPadding').height($('#site-header').height());
-});
-</script>
 <header id="site-header" class="MO site-header">
 <div class="slot-container">
 	 
 
+
+	
+
+
+<div data-slotid="site-promotional-banner">
+
+
+<div class="slot-content">
+
+
+
+
+
+
+
+
+
+
+<div class="content-asset mo-homepage-promotion-banner-2019-summer-lollypop-special-day" data-cid="mo-homepage-promotion-banner-2019-summer-lollypop-special-day" data-title=""><!-- dwMarker="content" dwContentID="15398a5f64836b4a9397974a0c" -->
+<a href="#" onclick="showProductDetailsPopup(); return false;" data-ga-trigger="site-wide-banner">
+<div class="site-promotional-banner-container">
+    <div class="site-promotional-banner-image2">
+        <div class="site-promotion2">
+                 <div class="site-promotion-inner"><span class="promotion-text-right"><b>ENDS TODAY: 20% Off Lollypops!*</b> <u>Details</u> </span></div>  
+         </div>
+    </div>
+</div>
+</a>
+
+<style>
+.site-promotion {
+  background-color: #DFC06E;
+}
+.site-promotion2 {
+  background-color: #DFC06E;
+}
+.site-promotion-inner {
+    line-height: 40px;
+    white-space: nowrap;
+    font-weight:normal;
+    color: #000000;
+    font-size: 19px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+.site-promotion-inner_link {
+      font-size: 12px;
+      text-transform: uppercase;
+      text-decoration: underline;
+      color: #fff;
+}
+.site-promotion-inner a {
+    font-size: 12px;
+}
+@media only screen and (max-width: 1024px) {
+    .site-promotion-inner {
+        font-size: 17px;
+        line-height: 19px;
+        padding-top: 3px;
+    }
+    .site-promotion-inner a {
+        font-size: 11px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .site-promotion-inner {
+        font-size: 15px;
+        line-height: 17px;
+    }
+    .site-promotion-inner a {
+        font-size: 13px;
+    }
+}
+</style>
+
+<input type="hidden" class="productDetailsPopupMessage" value="
+
+<b>20% Off Lollypops!</b>
+<br><br>
+*Excludes Little Pops®, Chocolate Coconut Lollypops and In-Store Single Lollypops.While supplies last. Valid 7/13/19–7/20/19.
+
+<br><br>
+">
+
+<style>
+a.showProductDetailsLink {
+    text-decoration: underline;
+}
+</style>
+<script>
+function showProductDetailsPopup() {
+       markup = $('.productDetailsPopupMessage').val();
+               var $dlg = $('<div class="product-details-popup"></div>')
+                              .html(markup)
+                              .dialog({
+                                             modal: true, 
+                                             autoOpen: false,
+                                             dialogClass: 'sees-dialog'
+                              });
+
+               $dlg.dialog('open');
+               //$('.sees-dialog').css('left','20px');
+               //$('.sees-dialog').css('right','20px');
+}
+</script>
+
+<style>
+.ui-dialog.sees-dialog {
+    max-width: 60% !important;
+}	
+@media only screen and (max-width: 768px) {
+	.ui-dialog.sees-dialog {
+	    max-width: 95% !important;
+	}	
+}
+</style>
+
+<div class="product-details-popup">
+</div>
+</div> <!-- End content-asset -->
+
+
+
+
+
+
+</div>
+
+</div>
+ 
 	</div>
 <div class="site-promotional-banner-container-hero"></div>
 
@@ -503,10 +695,11 @@ $('#fixedMenuPadding').height($('#site-header').height());
 
 
 <script>
-var dwSiteLinks = [{"id":"MO","url":"http://www.sees.com/","title":"Sees.com"},{"id":"FR","url":"http://fundraising.sees.com/","title":"Fundraising"},{"id":"BG","url":"http://business-gifts.sees.com/","title":"Business Gifts"},{"id":"GD","url":"http://group-discount.sees.com/","title":"Group Discounts"}]
+var dwSiteLinks = [{"id":"MO","url":"https://www.sees.com","title":"Sees.com"},{"id":"FR","url":"https://fundraising.sees.com","title":"Fundraising"},{"id":"BG","url":"https://business-gifts.sees.com","title":"Business Gifts"},{"id":"GD","url":"https://group-discount.sees.com","title":"Group Discounts"}];
 </script>
 <div class="skip-container">
 <div class="skip" id="accessibility-menu-container">
+
 <div><a class="accessibility-menuitem" href="javascript:skipToNavigation()">Skip to navigation</a></div>
 <div><a class="accessibility-menuitem" href="javascript:skipToContent()">Skip to content</a></div>
 <div><a class="accessibility-menuitem" href="javascript:skipToSearch()">Skip to search</a></div>
@@ -520,18 +713,18 @@ var dwSiteLinks = [{"id":"MO","url":"http://www.sees.com/","title":"Sees.com"},{
 </div>
 <div>
 	<div>&nbsp;</div>
-	<a class="nav-dialog" href="http://fundraising.sees.com/" title="Fundraising" data-action="global" data-value="fr">
+	<a class="nav-dialog" href="https://fundraising.sees.com" title="Visit the  Fundraising website" data-action="global" data-value="fr">
 		Fundraising
 	</a>
 </div>
 <div>
-	<a class="nav-dialog" href="http://business-gifts.sees.com/" title="Business Gifts" data-action="global" data-value="bg">
+	<a class="nav-dialog" href="https://business-gifts.sees.com" title="Visit the  Business Gifts website" data-action="global" data-value="bg">
 		Business<br>
 		Gifts
 	</a>
 </div>
 <div>
-	<a class="nav-dialog" href="http://group-discount.sees.com/" title="Group Discounts" data-action="global" data-value="gd">
+	<a class="nav-dialog" href="https://group-discount.sees.com" title="Visit the  Group Discounts website" data-action="global" data-value="gd">
 		Group<br>
 		Discounts
 	</a>
@@ -539,7 +732,7 @@ var dwSiteLinks = [{"id":"MO","url":"http://www.sees.com/","title":"Sees.com"},{
 </div>
 <div class="left-header-utility2">
 <div>
-	<a class="nav-dialog" href="http://chocolateshops.sees.com" title="Find a Shop" data-action="global" data-value="locations">
+	<a class="nav-dialog" href="http://chocolateshops.sees.com" title="Find a See's shop near you" data-action="global" data-value="locations">
 		Find<br>
 		a Shop
 	</a>
@@ -557,17 +750,16 @@ Find a Shop
 
 <div class="nav-search-column column-3">
 
-<div id="header-menu-trigger">
-<a class="menu" aria-expanded="false">
+<div id="header-menu-trigger" class="header-menu-trigger">
+<button class="brgr-menu link-button" type="button" aria-controls="leftPanel" aria-expanded="false">
 <span class="menu-icon"></span>
 <span class="menu-trigger-text">Menu</span>
-</a>
+</button>
 </div>
-
 </div>
 
 <div class="primary-logo column-6">
-<a class="nav-dialog" href="https://www.sees.com/">
+<a class="nav-dialog" href="https://www.sees.com/" title="Return to the homepage">
 <img src="/on/demandware.static/Sites-sees-Site/-/default/dw016fbf3f/images/brand-icons/sees-logo-horizontal.svg" alt="See's Candies" width="365" height="52">
 <div class="store-name phone-only">See's</div>
 <div class="store-name tablet-only">See's</div>
@@ -729,35 +921,35 @@ Find a Shop
 
 
 
+
+
+
+
+
+
+
+
+
 	<script>
 		window.app = window.app||{};
-		window.app.cart = {"cartQty":0,"shipmentCount":0,"cartTotalPrice":"$0.00","cartData":[],"outputString":"<span>0</span>","UUID":"2766de4a328a3338c386623ada"};
+		window.app.cart = {"cartQty":0,"shipmentCount":0,"cartTotalPrice":"$0.00","cartData":[],"outputString":"0","UUID":"d14ddf56f52330b748a74e1c61"};
 	</script>
 	
-	<a class="bag" href="https://www.sees.com/cart" title="Bag" data-basket-uuid="2766de4a328a3338c386623ada" data-ym-pixel="5MPJGA85">
+	<a class="bag" href="https://www.sees.com/cart" title="View your bag or check out" data-basket-uuid="d14ddf56f52330b748a74e1c61" data-ym-pixel="5MPJGA85">
 	
 		
-		<div class="fancy-cart-label">
+		<span class="fancy-cart-label" aria-hidden="true" role="presentation">
 			Bag
-		</div>
-		
-		<div class="fancy-cart-qty">
-			<span class="cart-qty-inner">
-				<span>0</span>
+		</span>
+		<span class="fancy-cart-qty">
+			<span class="cart-qty-inner" aria-label="Shopping bag: 0 items">
+				0
 			</span>
-		</div>
-		<div class="fancy-cart-label2">
+		</span>
+		<span class="fancy-cart-label2" aria-hidden="true" role="presentation">
 			Checkout
-		</div>
+		</span>
 	</a>
-	<script class="mini-cart-promo" type="text/template">
-		<div class="slot-container">
-			
-	 
-
-	
-		</div>
-	</script>
 	
 
 
@@ -770,7 +962,7 @@ Find a Shop
 
 
 
-<a class="log-in-link nav-dialog" href="https://www.sees.com/account" title="My Account" data-action="global" data-value="log-in">
+<a class="log-in-link nav-dialog" href="https://www.sees.com/account" title="Update your account or view order history" data-action="global" data-value="log-in">
 My Account
 </a>
 
@@ -779,7 +971,7 @@ My Account
 </div>
 </div>
 </div>
-<div class="header-search-trigger" style="clear:both;display:block;">
+<div class="header-search-trigger">
 <div id="search-panel-wrapper"></div>
 </div>
 </div>
@@ -969,35 +1161,35 @@ My Account
 
 
 
+
+
+
+
+
+
+
+
+
 	<script>
 		window.app = window.app||{};
-		window.app.cart = {"cartQty":0,"shipmentCount":0,"cartTotalPrice":"$0.00","cartData":[],"outputString":"<span>0</span>","UUID":"2766de4a328a3338c386623ada"};
+		window.app.cart = {"cartQty":0,"shipmentCount":0,"cartTotalPrice":"$0.00","cartData":[],"outputString":"0","UUID":"d14ddf56f52330b748a74e1c61"};
 	</script>
 	
-	<a class="bag" href="https://www.sees.com/cart" title="Bag" data-basket-uuid="2766de4a328a3338c386623ada" data-ym-pixel="5MPJGA85">
+	<a class="bag" href="https://www.sees.com/cart" title="View your bag or check out" data-basket-uuid="d14ddf56f52330b748a74e1c61" data-ym-pixel="5MPJGA85">
 	
 		
-		<div class="fancy-cart-label">
+		<span class="fancy-cart-label" aria-hidden="true" role="presentation">
 			Bag
-		</div>
-		
-		<div class="fancy-cart-qty">
-			<span class="cart-qty-inner">
-				<span>0</span>
+		</span>
+		<span class="fancy-cart-qty">
+			<span class="cart-qty-inner" aria-label="Shopping bag: 0 items">
+				0
 			</span>
-		</div>
-		<div class="fancy-cart-label2">
+		</span>
+		<span class="fancy-cart-label2" aria-hidden="true" role="presentation">
 			Checkout
-		</div>
+		</span>
 	</a>
-	<script class="mini-cart-promo" type="text/template">
-		<div class="slot-container">
-			
-	 
-
-	
-		</div>
-	</script>
 	
 
 
@@ -1008,10 +1200,9 @@ My Account
 </div>
 </div>
 
-<nav id="header-catalog-nav" role="navigation">
+<nav id="header-catalog-nav" class="header-catalog-nav">
 <div class="relative-nav-wrapper">
-<div class="double-border-bottom">
-<div>
+<div class="header-menu">
 
 
 
@@ -1150,1921 +1341,197 @@ My Account
 
 
 
-<ul class="menu-category level-1">
 
 
-<li class="column-1-of-8">
-<a href="/fall-treats" class="level-1 no-flyout" data-cat-id="fall-2" data-action="topNav" data-value="fall-2">
-Fall
-</a>
+
+
+
+
+
+
+
+
+
+<ul class="primary menu">
+
+
+
+<li id="lollypop-special" class="cat menu-item">
+<div class="lnk-wrap"><a href="/lollypop-special" data-action="topNav" data-value="lollypop-special" style="null">Lollypop Special</a></div>
 </li>
 
 
-<li class="column-1-of-8">
-<a href="/halloween-candy" class="level-1 no-flyout" data-cat-id="halloween-2" data-action="topNav" data-value="halloween-2">
-Halloween
-</a>
+
+
+<li id="summer" class="cat menu-item">
+<div class="lnk-wrap"><a href="/summer-sweets" data-action="topNav" data-value="summer" style="null">Summer</a></div>
 </li>
 
 
-<li class="column-1-of-8">
-<a href="https://www.sees.com/chocolate" class="level-1 has-flyout" data-cat-id="chocolate" data-action="topNav" data-value="chocolate" aria-expanded="false" aria-owns="navchocolate">
-Chocolate
-</a>
+
+
+<li id="chocolate" class="cat menu-item flyout" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
+<div class="lnk-wrap">
+<a href="/chocolate" aria-controls="sub-chocolate" aria-expanded="false" data-action="topNav" data-value="chocolate">Chocolate</a>
+</div>
+<div id="sub-chocolate" class="sub-menu">
+<div class="flyout-ctnr">
+
+<div class="banner" aria-hidden="true" role="presentation">
+<img alt="" src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
+</div>
+
+<div class="menu-ctnr">
+<ul class="secondary menu">
+
+<li class="all-chocolate menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
+<a href="/chocolate" tabindex="-1" data-action="topNavNested" data-value="all-chocolate">All Chocolate</a>
 </li>
 
-
-<li class="column-1-of-8">
-<a href="https://www.sees.com/brittle-and-toffee" class="level-1 no-flyout" data-cat-id="brittle-and-toffee" data-action="topNav" data-value="brittle-and-toffee">
-Brittle &amp; Toffee
-</a>
+<li class="assortments menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw89a3fe0f/category-images/banners/chocolate-assortments-category-1296x261.jpg?q=100">
+<a href="/chocolate/assortments" tabindex="-1" data-action="topNavNested" data-value="assortments">Assortments</a>
 </li>
 
-
-<li class="column-1-of-8">
-<a href="https://www.sees.com/lollipops" class="level-1 no-flyout" data-cat-id="lollypops" data-action="topNav" data-value="lollypops">
-Lollypops
-</a>
+<li class="nuts-and-chews menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?q=100">
+<a href="/chocolate/nuts-and-chews" tabindex="-1" data-action="topNavNested" data-value="nuts-and-chews">Nuts &amp; Chews</a>
 </li>
 
-
-<li class="column-1-of-8">
-<a href="https://www.sees.com/more-treats" class="level-1 no-flyout" data-cat-id="more-treats" data-action="topNav" data-value="more-treats">
-More Treats
-</a>
+<li class="truffles menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw06d0474a/category-images/banners/truffles-soft-center-category-banner-1296x261.jpg?q=100">
+<a href="/chocolate/truffles" tabindex="-1" data-action="topNavNested" data-value="truffles">Truffles &amp; Soft Centers</a>
 </li>
 
-
-<li class="column-1-of-8">
-<a href="https://www.sees.com/gifts" class="level-1 has-flyout" data-cat-id="occasions" data-action="topNav" data-value="occasions" aria-expanded="false" aria-owns="navoccasions">
-Gifts
-</a>
+<li class="milk-chocolate menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwe04bf14b/category-images/banners/milk-chocolate-category-banner-1296x261.jpg?q=100">
+<a href="/milk-chocolate" tabindex="-1" data-action="topNavNested" data-value="milk-chocolate">Milk Chocolate</a>
 </li>
 
-
-<li class="column-1-of-8">
-<a href="https://www.sees.com/build-a-box" class="level-1 no-flyout" data-cat-id="build-a-box" data-action="topNav" data-value="build-a-box">
-Custom Mix
-</a>
+<li class="dark-chocolate menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw9381c362/category-images/banners/dark-chocolate-category-banner-1296x261.jpg?q=100">
+<a href="/dark-chocolate" tabindex="-1" data-action="topNavNested" data-value="dark-chocolate">Dark Chocolate</a>
 </li>
 
-</ul>
-
-
-<ul id="nav-flyouts" class="">
-
-<li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li class="white-chocolate menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw4d9e4fcc/category-images/banners/white-chocolate-category-banner-1296x261.jpg?q=100">
+<a href="/white-chocolate" tabindex="-1" data-action="topNavNested" data-value="white-chocolate">White Chocolate</a>
 </li>
 
-<li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li class="single-flavor menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw2d5e8a6d/category-images/banners/single-flavor-category-banner-1296x261.jpg?q=100">
+<a href="/chocolate/single-flavor" tabindex="-1" data-action="topNavNested" data-value="single-flavor">Single Flavor</a>
 </li>
 
-<li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="category-flyout cols3" data-cat-id="chocolate">
-<div class="flyout-main">
-
-
-
-<div class="flyout-main-whitebox">
-<ul id="navchocolate" class="level-2">
-
-
-<li class="inner-nav-col">
-
-<ul class="cat-col">
-<li class="nav-dialog chocolate">
-<a href="https://www.sees.com/chocolate" class="level-2" data-action="topNavNested" data-value="chocolate">
-All Chocolate
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog assortments">
-<a href="https://www.sees.com/chocolate/assortments" class="level-2" data-action="topNavNested" data-value="assortments">
-Assortments
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog nuts-and-chews">
-<a href="https://www.sees.com/chocolate/nuts-and-chews" class="level-2" data-action="topNavNested" data-value="nuts-and-chews">
-Nuts &amp; Chews
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog last truffles">
-<a href="https://www.sees.com/chocolate/truffles" class="level-2" data-action="topNavNested" data-value="truffles">
-Truffles &amp; Soft Centers
-</a>
-</li>
-</ul>
-
+<li class="fudge menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwfcb71d98/category-images/banners/fudge-category-hero-banner.jpg?q=100">
+<a href="/chocolate/fudge" tabindex="-1" data-action="topNavNested" data-value="fudge">Fudge</a>
 </li>
 
-<li class="inner-nav-col">
-
-<ul class="cat-col">
-<li class="nav-dialog milk-chocolate">
-<a href="https://www.sees.com/milk-chocolate" class="level-2" data-action="topNavNested" data-value="milk-chocolate">
-Milk Chocolate
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog dark-chocolate">
-<a href="https://www.sees.com/dark-chocolate" class="level-2" data-action="topNavNested" data-value="dark-chocolate">
-Dark Chocolate
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog white-chocolate">
-<a href="https://www.sees.com/white-chocolate" class="level-2" data-action="topNavNested" data-value="white-chocolate">
-White Chocolate
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog last single-flavor">
-<a href="https://www.sees.com/chocolate/single-flavor" class="level-2" data-action="topNavNested" data-value="single-flavor">
-Single Flavor
-</a>
-</li>
-</ul>
-
+<li class="candy-bars menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwb3fa9248/category-images/banners/candy-bars-category-banner-1296x261.jpg?q=100">
+<a href="/chocolate/candy-bars" tabindex="-1" data-action="topNavNested" data-value="candy-bars">Candy Bars</a>
 </li>
 
-<li class="inner-nav-col">
-
-<ul class="cat-col">
-<li class="nav-dialog fudge">
-<a href="https://www.sees.com/chocolate/fudge" class="level-2" data-action="topNavNested" data-value="fudge">
-Fudge
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog candy-bars">
-<a href="https://www.sees.com/chocolate/candy-bars" class="level-2" data-action="topNavNested" data-value="candy-bars">
-Candy Bars
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog last sugar-free">
-<a href="https://www.sees.com/chocolate/sugar-free" class="level-2" data-action="topNavNested" data-value="sugar-free">
-Sugar Free
-</a>
-</li>
-</ul>
-
+<li class="sugar-free menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw549fcfe8/category-images/banners/sugar-free-category-banner-1296x261.jpg?q=100">
+<a href="/chocolate/sugar-free" tabindex="-1" data-action="topNavNested" data-value="sugar-free">Sugar Free</a>
 </li>
 
 </ul>
-</div> <!-- /.flyout-main-whitebox -->
-
-</div>
-
-
-<div class="flyout-image-rollover chocolate">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
 </div>
 </div>
-
-<div class="flyout-image-rollover assortments">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw89a3fe0f/category-images/banners/chocolate-assortments-category-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
 </div>
-</div>
-
-<div class="flyout-image-rollover nuts-and-chews">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover truffles">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw06d0474a/category-images/banners/truffles-soft-center-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-
-
-<div class="flyout-image-rollover milk-chocolate">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwe04bf14b/category-images/banners/milk-chocolate-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover dark-chocolate">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw9381c362/category-images/banners/dark-chocolate-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover white-chocolate">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw4d9e4fcc/category-images/banners/white-chocolate-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover single-flavor">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw2d5e8a6d/category-images/banners/single-flavor-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-
-
-<div class="flyout-image-rollover fudge">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwfcb71d98/category-images/banners/fudge-category-hero-banner.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover candy-bars">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwb3fa9248/category-images/banners/candy-bars-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover sugar-free">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw549fcfe8/category-images/banners/sugar-free-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div> <!-- .category-flyout -->
-
-
 </li>
 
-<li>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li id="brittle-and-toffee" class="cat menu-item">
+<div class="lnk-wrap"><a href="/brittle-and-toffee" data-action="topNav" data-value="brittle-and-toffee" style="null">Brittle &amp; Toffee</a></div>
 </li>
 
-<li>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li id="lollypops" class="cat menu-item">
+<div class="lnk-wrap"><a href="/lollipops" data-action="topNav" data-value="lollypops" style="null">Lollypops</a></div>
 </li>
 
-<li>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li id="more-treats" class="cat menu-item">
+<div class="lnk-wrap"><a href="/more-treats" data-action="topNav" data-value="more-treats" style="null">More Treats</a></div>
 </li>
 
-<li>
 
 
 
+<li id="occasions" class="cat menu-item flyout" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
+<div class="lnk-wrap">
+<a href="/gifts" aria-controls="sub-occasions" aria-expanded="false" data-action="topNav" data-value="occasions">Gifts</a>
+</div>
+<div id="sub-occasions" class="sub-menu">
+<div class="flyout-ctnr">
 
+<div class="banner" aria-hidden="true" role="presentation">
+<img alt="" src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
+</div>
 
+<div class="menu-ctnr">
+<ul class="secondary menu">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="category-flyout occasions-flyout cols3" data-cat-id="occasions">
-<div class="flyout-main">
-
-
-
-<div class="flyout-main-whitebox">
-<ul id="navoccasions" class="level-2">
-
-
-<li class="inner-nav-col">
-
-<ul class="cat-col">
-<li class="nav-dialog occasions">
-<a href="https://www.sees.com/gifts" class="level-2" data-action="topNavNested" data-value="occasions">
-All Gifts
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog fall-treats">
-<a href="https://www.sees.com/fall-treats" class="level-2" data-action="topNavNested" data-value="fall-treats">
-Fall Favorites
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog halloween-candy">
-<a href="https://www.sees.com/halloween-candy" class="level-2" data-action="topNavNested" data-value="halloween-candy">
-Halloween Treats
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog last gift-boxes">
-<a href="https://www.sees.com/gift-boxes" class="level-2" data-action="topNavNested" data-value="gift-boxes">
-Gift Boxes
-</a>
-</li>
-</ul>
-
+<li class="all-occasions menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100">
+<a href="/gifts" tabindex="-1" data-action="topNavNested" data-value="all-occasions">All Gifts</a>
 </li>
 
-<li class="inner-nav-col">
-
-<ul class="cat-col">
-<li class="nav-dialog birthday-gifts">
-<a href="https://www.sees.com/birthday-gifts" class="level-2" data-action="topNavNested" data-value="birthday-gifts">
-Birthday Gifts
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog appreciation-gifts">
-<a href="https://www.sees.com/appreciation-gifts" class="level-2" data-action="topNavNested" data-value="appreciation-gifts">
-Thank You Gifts
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog celebration-gifts">
-<a href="https://www.sees.com/occasions/celebration-gifts" class="level-2" data-action="topNavNested" data-value="celebration-gifts">
-Celebration Gifts
-</a>
-</li>
-</ul>
-
-<ul class="cat-col">
-<li class="nav-dialog last gift-cards">
-<a href="https://www.sees.com/gift-cards" class="level-2" data-action="topNavNested" data-value="gift-cards">
-Gift Cards
-</a>
-</li>
-</ul>
-
+<li class="summer-sweets menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94359b54/category-images/banners/summer-category-banner-1296x261.jpg?q=100">
+<a href="/summer-sweets" tabindex="-1" data-action="topNavNested" data-value="summer-sweets">Summer Sweets</a>
 </li>
 
-<li class="inner-nav-col">
-
-<ul class="cat-col">
-<li class="nav-dialog limited-time-sweets">
-<a href="https://www.sees.com/occasions/limited-time-sweets" class="level-2" data-action="topNavNested" data-value="limited-time-sweets">
-Limited-Time Sweets
-</a>
+<li class="birthday-gifts menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw7f222930/category-images/banners/birthday-category-banner-1296x261.jpg?q=100">
+<a href="/birthday-gifts" tabindex="-1" data-action="topNavNested" data-value="birthday-gifts">Birthday Gifts</a>
 </li>
-</ul>
 
-<ul class="cat-col">
-<li class="nav-dialog last warm-weather-friendly">
-<a href="https://www.sees.com/occasions/warm-weather-friendly" class="level-2" data-action="topNavNested" data-value="warm-weather-friendly">
-Warm Weather Friendly
-</a>
+<li class="appreciation-gifts menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw27b0d7d6/category-images/banners/thank-you-category-banner-1296x261.jpg?q=100">
+<a href="/appreciation-gifts" tabindex="-1" data-action="topNavNested" data-value="appreciation-gifts">Thank You Gifts</a>
 </li>
-</ul>
 
+<li class="celebration-gifts menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw08995fba/category-images/banners/celebration-gifts-category-banner-1296x261.jpg?q=100">
+<a href="/occasions/celebration-gifts" tabindex="-1" data-action="topNavNested" data-value="celebration-gifts">Celebration Gifts</a>
+</li>
+
+<li class="gift-boxes menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw4c2e41f6/category-images/banners/ay-gift-pack-category-1296x261.jpg?q=100">
+<a href="/chocolate-gift-boxes" tabindex="-1" data-action="topNavNested" data-value="gift-boxes">Gift Boxes</a>
+</li>
+
+<li class="gift-cards menu-item">
+<a href="/gift-cards" tabindex="-1" data-action="topNavNested" data-value="gift-cards">Gift Cards</a>
+</li>
+
+<li class="limited-time-sweets menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1a45605e/category-images/banners/ay-LTS-category-1296x261.jpg?q=100">
+<a href="/occasions/limited-time-sweets" tabindex="-1" data-action="topNavNested" data-value="limited-time-sweets">Limited-Time Sweets</a>
+</li>
+
+<li class="warm-weather-friendly menu-item" data-banner="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw8ffb32ac/category-images/banners/warm-weather-category-banner-1296x261.jpg?q=100">
+<a href="/occasions/warm-weather-friendly" tabindex="-1" data-action="topNavNested" data-value="warm-weather-friendly">Warm Weather Friendly</a>
 </li>
 
 </ul>
-</div> <!-- /.flyout-main-whitebox -->
-
-</div>
-
-
-<div class="flyout-image-rollover occasions">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
 </div>
 </div>
-
-<div class="flyout-image-rollover fall-treats">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw90e21543/category-images/banners/fall-category-hero-banner.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
 </div>
-</div>
-
-<div class="flyout-image-rollover halloween-candy">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwdeafb6e1/category-images/banners/halloween-category-banner.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover gift-boxes">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw4c2e41f6/category-images/banners/ay-gift-pack-category-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-
-
-<div class="flyout-image-rollover birthday-gifts">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw7f222930/category-images/banners/birthday-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover appreciation-gifts">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw27b0d7d6/category-images/banners/thank-you-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover celebration-gifts">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw08995fba/category-images/banners/celebration-gifts-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover gift-cards">
-<div class="flyout-image">
-
-
-
-
-</div>
-</div>
-
-
-
-<div class="flyout-image-rollover limited-time-sweets">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1a45605e/category-images/banners/ay-LTS-category-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-<div class="flyout-image-rollover warm-weather-friendly">
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw8ffb32ac/category-images/banners/warm-weather-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div>
-
-
-<div class="flyout-image">
-
-
-
-	<div class="category-banner">
-		<picture>
-			
-			<source media="(max-width: 480px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=150&amp;cx=280&amp;cy=0&amp;cw=600&amp;ch=300">
-			
-			<source media="(max-width: 1024px)" srcset="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?sh=200&amp;cx=280&amp;cy=0&amp;cw=835&amp;ch=300">
-			
-			<img src="https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100" alt="">
-		</picture>
-	</div>
-
-
-</div>
-</div> <!-- .category-flyout -->
-
-
 </li>
 
-<li>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li id="build-a-box" class="cat menu-item">
+<div class="lnk-wrap"><a href="/build-a-box" data-action="topNav" data-value="build-a-box" style="null">Custom Mix</a></div>
 </li>
+
 
 </ul>
+
 <script>
-
-var navData = [{"id":"fall-2","name":"Fall","url":"/fall-treats","hasFlyout":false,"subCats":[]},{"id":"halloween-2","name":"Halloween","url":"/halloween-candy","hasFlyout":false,"subCats":[]},{"id":"chocolate","name":"Chocolate","url":"https://www.sees.com/chocolate","hasFlyout":true,"subCats":[{"id":"assortments","name":"Assortments","url":"https://www.sees.com/chocolate/assortments"},{"id":"nuts-and-chews","name":"Nuts & Chews","url":"https://www.sees.com/chocolate/nuts-and-chews"},{"id":"truffles","name":"Truffles & Soft Centers","url":"https://www.sees.com/chocolate/truffles"},{"id":"milk-chocolate","name":"Milk Chocolate","url":"https://www.sees.com/milk-chocolate"},{"id":"dark-chocolate","name":"Dark Chocolate","url":"https://www.sees.com/dark-chocolate"},{"id":"white-chocolate","name":"White Chocolate","url":"https://www.sees.com/white-chocolate"},{"id":"single-flavor","name":"Single Flavor","url":"https://www.sees.com/chocolate/single-flavor"},{"id":"fudge","name":"Fudge","url":"https://www.sees.com/chocolate/fudge"},{"id":"candy-bars","name":"Candy Bars","url":"https://www.sees.com/chocolate/candy-bars"},{"id":"sugar-free","name":"Sugar Free","url":"https://www.sees.com/chocolate/sugar-free"}]},{"id":"brittle-and-toffee","name":"Brittle & Toffee","url":"https://www.sees.com/brittle-and-toffee","hasFlyout":false,"subCats":[]},{"id":"lollypops","name":"Lollypops","url":"https://www.sees.com/lollipops","hasFlyout":false,"subCats":[]},{"id":"more-treats","name":"More Treats","url":"https://www.sees.com/more-treats","hasFlyout":false,"subCats":[]},{"id":"occasions","name":"Gifts","url":"https://www.sees.com/gifts","hasFlyout":true,"subCats":[{"id":"fall-treats","name":"Fall Favorites","url":"https://www.sees.com/fall-treats"},{"id":"halloween-candy","name":"Halloween Treats","url":"https://www.sees.com/halloween-candy"},{"id":"gift-boxes","name":"Gift Boxes","url":"https://www.sees.com/gift-boxes"},{"id":"birthday-gifts","name":"Birthday Gifts","url":"https://www.sees.com/birthday-gifts"},{"id":"appreciation-gifts","name":"Thank You Gifts","url":"https://www.sees.com/appreciation-gifts"},{"id":"celebration-gifts","name":"Celebration Gifts","url":"https://www.sees.com/occasions/celebration-gifts"},{"id":"gift-cards","name":"Gift Cards","url":"https://www.sees.com/gift-cards"},{"id":"limited-time-sweets","name":"Limited-Time Sweets","url":"https://www.sees.com/occasions/limited-time-sweets"},{"id":"warm-weather-friendly","name":"Warm Weather Friendly","url":"https://www.sees.com/occasions/warm-weather-friendly"}]},{"id":"build-a-box","name":"Custom Mix","url":"https://www.sees.com/build-a-box","hasFlyout":false,"subCats":[]}];
-
-var navSiteData = {"siteID":"MO"};
-
-function dispatchHeaderData() {
-var flyoutData = [];
-var flyouts = document.querySelectorAll(".cat-flyout-slot-col");
-[].forEach.call(flyouts, function(elm, i) {
-var name = elm.querySelector(".stacked-heading-bold");
-var text = elm.getAttribute("title");
-
-if(name && text.indexOf("Custom Mix") === -1) {
-flyoutData.push({
-name: name.innerText,
-url: elm.getAttribute("href"),
-hasFlyout: false,
-id: "",
-subCats: []
-});
-}
-});
-require(["Flux.App"], function( FluxApp ) {
-FluxApp.actions.updateHeaderNav(flyoutData);
-});
-}
-window._q = window._q || [];
-window._q.push( dispatchHeaderData );
+window.app = window.app || {};
+window.app.navData = [{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw5c8aff57/category-images/banners/lollypop-special-category-banner.jpg?q=100","hasFlyout":false,"id":"lollypop-special","name":"Lollypop Special","descVar":null,"type":"cat","url":"/lollypop-special","subCats":[]},{"banner":null,"hasFlyout":false,"id":"summer","name":"Summer","descVar":null,"type":"cat","url":"/summer-sweets","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100","hasFlyout":true,"id":"chocolate","name":"Chocolate","descVar":null,"type":"cat","url":"/chocolate","subCats":[{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"all-chocolate","name":"All Chocolate","descVar":null,"type":"cat","url":"/chocolate","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw89a3fe0f/category-images/banners/chocolate-assortments-category-1296x261.jpg?q=100","hasFlyout":false,"id":"assortments","name":"Assortments","descVar":null,"type":"cat","url":"/chocolate/assortments","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94ffc4a8/category-images/banners/nuts-chews-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"nuts-and-chews","name":"Nuts & Chews","descVar":null,"type":"cat","url":"/chocolate/nuts-and-chews","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw06d0474a/category-images/banners/truffles-soft-center-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"truffles","name":"Truffles & Soft Centers","descVar":null,"type":"cat","url":"/chocolate/truffles","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwe04bf14b/category-images/banners/milk-chocolate-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"milk-chocolate","name":"Milk Chocolate","descVar":null,"type":"cat","url":"/milk-chocolate","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw9381c362/category-images/banners/dark-chocolate-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"dark-chocolate","name":"Dark Chocolate","descVar":null,"type":"cat","url":"/dark-chocolate","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw4d9e4fcc/category-images/banners/white-chocolate-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"white-chocolate","name":"White Chocolate","descVar":null,"type":"cat","url":"/white-chocolate","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw2d5e8a6d/category-images/banners/single-flavor-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"single-flavor","name":"Single Flavor","descVar":null,"type":"cat","url":"/chocolate/single-flavor","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwfcb71d98/category-images/banners/fudge-category-hero-banner.jpg?q=100","hasFlyout":false,"id":"fudge","name":"Fudge","descVar":null,"type":"cat","url":"/chocolate/fudge","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwb3fa9248/category-images/banners/candy-bars-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"candy-bars","name":"Candy Bars","descVar":null,"type":"cat","url":"/chocolate/candy-bars","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw549fcfe8/category-images/banners/sugar-free-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"sugar-free","name":"Sugar Free","descVar":null,"type":"cat","url":"/chocolate/sugar-free","subCats":[]}]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw8e637197/category-images/banners/toffee-brittle-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"brittle-and-toffee","name":"Brittle & Toffee","descVar":null,"type":"cat","url":"/brittle-and-toffee","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw5b662452/category-images/banners/lollypop-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"lollypops","name":"Lollypops","descVar":null,"type":"cat","url":"/lollipops","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dwa87b8c43/category-images/banners/more-treats-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"more-treats","name":"More Treats","descVar":null,"type":"cat","url":"/more-treats","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100","hasFlyout":true,"id":"occasions","name":"Gifts","descVar":null,"type":"cat","url":"/gifts","subCats":[{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1b9ca31c/category-images/banners/all-chocolate-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"all-occasions","name":"All Gifts","descVar":null,"type":"cat","url":"/gifts","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw94359b54/category-images/banners/summer-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"summer-sweets","name":"Summer Sweets","descVar":null,"type":"cat","url":"/summer-sweets","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw7f222930/category-images/banners/birthday-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"birthday-gifts","name":"Birthday Gifts","descVar":null,"type":"cat","url":"/birthday-gifts","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw27b0d7d6/category-images/banners/thank-you-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"appreciation-gifts","name":"Thank You Gifts","descVar":null,"type":"cat","url":"/appreciation-gifts","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw08995fba/category-images/banners/celebration-gifts-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"celebration-gifts","name":"Celebration Gifts","descVar":null,"type":"cat","url":"/occasions/celebration-gifts","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw4c2e41f6/category-images/banners/ay-gift-pack-category-1296x261.jpg?q=100","hasFlyout":false,"id":"gift-boxes","name":"Gift Boxes","descVar":null,"type":"cat","url":"/chocolate-gift-boxes","subCats":[]},{"banner":null,"hasFlyout":false,"id":"gift-cards","name":"Gift Cards","descVar":null,"type":"cat","url":"/gift-cards","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw1a45605e/category-images/banners/ay-LTS-category-1296x261.jpg?q=100","hasFlyout":false,"id":"limited-time-sweets","name":"Limited-Time Sweets","descVar":null,"type":"cat","url":"/occasions/limited-time-sweets","subCats":[]},{"banner":"https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-storefront/default/dw8ffb32ac/category-images/banners/warm-weather-category-banner-1296x261.jpg?q=100","hasFlyout":false,"id":"warm-weather-friendly","name":"Warm Weather Friendly","descVar":null,"type":"cat","url":"/occasions/warm-weather-friendly","subCats":[]}]},{"banner":null,"hasFlyout":false,"id":"build-a-box","name":"Custom Mix","descVar":null,"type":"cat","url":"/build-a-box","subCats":[]}];
+window.app.navSiteData = {"siteID":"MO"};
 </script>
 
 
 
-</div>
 </div>
 </div>
 </nav>
@@ -3074,7 +1541,12 @@ window._q.push( dispatchHeaderData );
 <div></div>
 </div>
 </header>
-<div id="fixedMenuPadding" style="height: 126px;"></div>					
+<div id="PrintOnlyHeader">
+<img src="/on/demandware.static/Sites-sees-Site/-/default/dw016fbf3f/images/brand-icons/sees-logo-horizontal.svg" alt="See's Candies" width="365" height="52">
+<div class="store-name phone-only">See's</div>
+<div class="store-name tablet-only">See's</div>
+</div>
+<div id="fixedMenuPadding"></div>					
 					<div id="main" role="main">			
 
 						<div id="CompanyInfo">
@@ -3151,6 +1623,18 @@ window._q.push( dispatchHeaderData );
 					
 							<li class="active">
 								<a class="fonts-copy" href="/company-info/privacy-policy/">Privacy Policy</a>
+							</li>
+						
+
+					
+				
+			
+				
+				
+					
+					
+							<li class="">
+								<a class="fonts-copy" href="/company-info/satisfaction-guarantee/">Satisfaction Guarantee</a>
 							</li>
 						
 
@@ -3291,10 +1775,7 @@ We reserve the right, at our discretion, to change this Privacy Policy at any ti
 				</div>
 				<div id="rightPanel">
 	<div id="rightPanel__close" data-ym-pixel="5MPJGALN">
-		<button class="close-button"></button>
-		<a href="javascript:void(0);">
-			Continue Shopping
-		</a>
+		<button class="close-button" tabindex="-1"><span class="off-screen">Close</span></button>
 	</div>
 	<div id="rightPanel__content"></div>
 </div>
@@ -3436,23 +1917,35 @@ We reserve the right, at our discretion, to change this Privacy Policy at any ti
 
 
 
+
+
+
+
+
+
+
+
+
 <footer id="site-footer">
 <div>
 <div id="footer-inner">
 
 <div id="footer-links">
-
 <div>
 
+
 <div class="footer-signup">
-<div class="footer-signup-header">Sign Up for Email</div>
+<div class="footer-signup-header">
+<h2>Sign Up for Email</h2>
+</div>
 <div class="footer-signup-copy">
 We'll send candy deals and updates your way.
 </div>
 <div class="cta">
-<a class="footer-signup-button2" href="/emailsignup?src=websitefooterMO_1199230" data-action="bottomNav" title="Sign Up" data-value="email-sign-up">Sign Up</a>
+<a class="footer-signup-button2" href="/emailsignup?src=websitefooterMO_1199230" data-action="bottomNav" data-value="email-sign-up">Sign Up</a>
 </div>
 </div>
+
 <div class="footer-header-nopadding">
 <div class="footer-single-border-top"></div>
 </div>
@@ -3503,35 +1996,34 @@ We'll send candy deals and updates your way.
         <div class="footer-links-separator"></div>       
         <div class="column-3">
             <div class="footer-shop-sees"></div>
-            <h6>
-                <a href="http://www.sees.com/" title="Shop See's" data-action="bottomNav" data-value="shop-sees">
+            <h3>
+                <a href="https://www.sees.com" title="Visit sees.com" data-action="bottomNav" data-value="shop-sees">
                     Shop See's
                 </a>
-                                
-            </h6>
+            </h3>
             <ul class="column1-links" aria-expanded="false">
                 <li>
-                    <a href="http://chocolateshops.sees.com" title="Find a Shop" data-action="bottomNav" data-value="locations">
+                    <a href="http://chocolateshops.sees.com" title="Find a See's shop near you" data-action="bottomNav" data-value="locations">
                         Find a Shop
                     </a>
                 </li>              
                 <li>
-                    <a href="http://www.sees.com/" title="Sees.com" data-value="mo" data-action="bottomNav">
+                    <a href="https://www.sees.com" title="Visit the Sees.com website" data-value="mo" data-action="bottomNav">
                         Sees.com
                     </a>
                 </li>            
                 <li>    
-                    <a href="http://fundraising.sees.com/" title="Fundraising" data-value="fr" data-action="bottomNav"> 
+                    <a href="https://fundraising.sees.com" title="Visit the Fundraising website" data-value="fr" data-action="bottomNav"> 
                         Fundraising
                     </a>
                 </li>
                 <li>
-                    <a href="http://business-gifts.sees.com/" title="Business Gifts" data-value="bg" data-action="bottomNav">
+                    <a href="https://business-gifts.sees.com" title="Visit the Business Gifts website" data-value="bg" data-action="bottomNav">
                         Business Gifts
                     </a>
                 </li>
                 <li>
-                    <a href="http://group-discount.sees.com/" title="Group Discounts" data-value="gd" data-action="bottomNav">
+                    <a href="https://group-discount.sees.com" title="Visit the Group Discounts website" data-value="gd" data-action="bottomNav">
                         Group Discounts
                     </a>
                 </li>
@@ -3548,35 +2040,35 @@ We'll send candy deals and updates your way.
 
 
 <div class="content-asset footer-links" data-cid="footer-links" data-title=""><!-- dwMarker="content" dwContentID="4e8f9da7275c689f882e325a5d" -->
-<div class="column-3">
-            <h6>
-                <a href="https://www.sees.com/help/" title="Help" data-action="bottomNav" data-value="help">
+<div class="column-3" role="navigation" aria-labelledby="nav1">
+            <h3 id="nav1">
+                <a href="https://www.sees.com/help/" title="Visit the help page" data-action="bottomNav" data-value="help">
                     Help
                 </a>                
                 <span class="footer-column2-up-down-arrow" role="button" aria-pressed="false">
-                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwfb5167a1/images/Icon_ArrowUp_Mobile_White@2x.png" class="column2-up-arrow hidden-arrow" alt="Expand Section">
-                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwbb808a5b/images/Icon_ArrowDown_Mobile_White@2x.png" class="column2-down-arrow" alt="Collapse Section">                       
+                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwfb5167a1/images/Icon_ArrowUp_Mobile_White@2x.png" class="column2-up-arrow hidden-arrow" alt="Expand Help">
+                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwbb808a5b/images/Icon_ArrowDown_Mobile_White@2x.png" class="column2-down-arrow" alt="Collapse Help">                       
                 </span>                
-            </h6>    
+            </h3>    
                     
             <ul class="column2-links hidden-section" aria-expanded="false">
                 <li>
-                    <a href="https://www.sees.com/help/shipping-rates/" title="Shipping Rates" data-action="bottomNav" data-value="shipping-rates">
+                    <a href="https://www.sees.com/help/shipping-rates/" title="Visit the shipping rates page" data-action="bottomNav" data-value="shipping-rates">
                         Shipping Info
                     </a>
                 </li>              
                 <li>
-                    <a href="https://www.sees.com/contact-us" title="Contact Us" data-action="bottomNav" data-value="contact-us">
+                    <a href="https://www.sees.com/contact-us" title="We'd love to hear from you" data-action="bottomNav" data-value="contact-us">
                         Contact Us
                     </a>
                 </li>            
                 <li>    
-                    <a href="https://www.sees.com/help/faqs/" title="FAQs" data-action="bottomNav" data-value="faqs"> 
+                    <a href="https://www.sees.com/help/faqs/" title="Frequently asked questions" data-action="bottomNav" data-value="faqs"> 
                         FAQs
                     </a>
                 </li>
                 <li>
-                    <a href="/help/allergen" title="Allergen Info" data-action="bottomNav" data-value="allergen-info">
+                    <a href="/help/allergen" title="View info about allergens" data-action="bottomNav" data-value="allergen-info">
                         Allergen Info
                     </a>
                 </li>
@@ -3613,78 +2105,83 @@ We'll send candy deals and updates your way.
 
                 </li>
                 <li>
-                    <a href="https://www.sees.com/help/gift-card-balance" title="Gift Card Balance" data-action="bottomNav" data-value="gift-card-balance">
+                    <a href="https://www.sees.com/help/gift-card-balance" title="Find out Gift Card balances" data-action="bottomNav" data-value="gift-card-balance">
                         Gift Card Balance
                     </a>
                 </li>
             </ul>            
 </div>
 <div class="footer-links-separator"></div>
-<div class="column-3">
-            <h6>
-                <a href="https://www.sees.com/about-us/" title="About Us" data-action="bottomNav" data-value="about-us">
+<div class="column-3" role="navigation" aria-labelledby="nav2">
+            <h3 id="nav2">
+                <a href="https://www.sees.com/about-us/" title="Get to know See's Candies" data-action="bottomNav" data-value="about-us">
                     About Us
                 </a>                
                 <span class="footer-column3-up-down-arrow" role="button" aria-pressed="false">
-                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwfb5167a1/images/Icon_ArrowUp_Mobile_White@2x.png" class="column3-up-arrow hidden-arrow" alt="Expand Section">
-                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwbb808a5b/images/Icon_ArrowDown_Mobile_White@2x.png" class="column3-down-arrow" alt="Collapse Section">                       
+                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwfb5167a1/images/Icon_ArrowUp_Mobile_White@2x.png" class="column3-up-arrow hidden-arrow" alt="Expand About Us">
+                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwbb808a5b/images/Icon_ArrowDown_Mobile_White@2x.png" class="column3-down-arrow" alt="Collapse About Us">                       
                 </span>                
-            </h6>    
+            </h3>    
                     
             <ul class="column3-links hidden-section" aria-expanded="false">
                 <li>
-                    <a href="https://www.sees.com/about-us/sees-family/" title="Meet the Family" data-action="bottomNav" data-value="meet-the-see-family">
+                    <a href="https://www.sees.com/about-us/sees-family/" title="The family that started it all" data-action="bottomNav" data-value="meet-the-see-family">
                         Meet the Family
                     </a>
                 </li>              
                 <li>
-                    <a href="https://www.sees.com/timeline/" title="Timeline" data-action="bottomNav" data-value="see-timeline">
+                    <a href="https://www.sees.com/timeline/" title="See our sweet history" data-action="bottomNav" data-value="see-timeline">
                         Timeline
                     </a>
                 </li>            
                 <li>    
-                    <a href="https://www.sees.com/about-us/sees-kitchen/" title="Inside the Candy Kitchen" data-action="bottomNav" data-value="see-kitchen"> 
+                    <a href="https://www.sees.com/about-us/sees-kitchen/" title="Learn about the See's kitchen" data-action="bottomNav" data-value="see-kitchen"> 
                         Inside the Candy Kitchen
                     </a>
                 </li>
             </ul>            
 </div>
 <div class="footer-links-separator"></div>
-<div class="column-3">
-            <h6>
-                <a href="https://www.sees.com/company-info/" title="Company Info" data-action="bottomNav" data-value="company-info">
+<div class="column-3" role="navigation" aria-labelledby="nav3">
+            <h3 id="nav3">
+                <a href="https://www.sees.com/company-info/" title="View Information about See's" data-action="bottomNav" data-value="company-info">
                     Company Info
                 </a>                
                 <span class="footer-column4-up-down-arrow" role="button" aria-pressed="false">
-                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwfb5167a1/images/Icon_ArrowUp_Mobile_White@2x.png" class="column4-up-arrow hidden-arrow" alt="Expand Section">
-                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwbb808a5b/images/Icon_ArrowDown_Mobile_White@2x.png" class="column4-down-arrow" alt="Collapse Section">                       
+                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwfb5167a1/images/Icon_ArrowUp_Mobile_White@2x.png" class="column4-up-arrow hidden-arrow" alt="Expand Company Info">
+                    <img src="https://www.sees.com/on/demandware.static/-/Library-Sites-sees-shared-library/default/dwbb808a5b/images/Icon_ArrowDown_Mobile_White@2x.png" class="column4-down-arrow" alt="Collapse Company Info">                       
                 </span>                
-            </h6>    
+            </h3>    
                     
             <ul class="column4-links hidden-section" aria-expanded="false">
                 <li>
-                    <a href="https://www.sees.com/careers/" title="Careers" data-action="bottomNav" data-value="careers">
+                    <a href="https://www.sees.com/careers/" title="Job openings at See's" data-action="bottomNav" data-value="careers">
                         Careers
                     </a>
                 </li>              
                 <li>
-                    <a href="https://www.sees.com/company-info/pricing-policy/" title="Pricing Policy" data-action="bottomNav" data-value="pricing">
+                    <a href="https://www.sees.com/company-info/pricing-policy/" title="View our Pricing Policy" data-action="bottomNav" data-value="pricing">
                         Pricing Policy
                     </a>
                 </li>            
                 <li>    
-                    <a href="https://www.sees.com/company-info/sb657/" title="SB657" data-action="bottomNav" data-value="sb657"> 
+                    <a href="https://www.sees.com/company-info/sb657/" title="View SB657 document" data-action="bottomNav" data-value="sb657"> 
                         SB657
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.sees.com/company-info/terms-of-use/" title="Terms of Use" data-action="bottomNav" data-value="terms-of-use">
+                    <a href="https://www.sees.com/company-info/terms-of-use/" title="View our Terms of Use" data-action="bottomNav" data-value="terms-of-use">
                         Terms of Use
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.sees.com/company-info/privacy-policy/" title="Privacy Policy" data-action="bottomNav" data-value="privacy">
+                    <a href="https://www.sees.com/company-info/privacy-policy/" title="View our Privacy Policy" data-action="bottomNav" data-value="privacy">
                         Privacy Policy
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.sees.com/company-info/satisfaction-guarantee/" title="View our Satisfaction Guarantee" data-action="bottomNav" data-value="privacy">
+                        Satisfaction Guarantee
                     </a>
                 </li>
             </ul>          
@@ -3702,28 +2199,28 @@ We'll send candy deals and updates your way.
 <div class="footer-action social-links">
 <ul>
 <li class="facebook-link">
-<a href="http://www.facebook.com/Sees.Candies" target="_blank" data-ga-network="Facebook">
-<img src="/on/demandware.static/Sites-sees-Site/-/default/dwf4a46add/images/email/Icon_Facebook@2x.png" title="Facebook" alt="Facebook">
+<a href="http://www.facebook.com/Sees.Candies" target="_blank" data-ga-network="Facebook" title="Visit us on Facebook">
+<img src="/on/demandware.static/Sites-sees-Site/-/default/dwf4a46add/images/email/Icon_Facebook@2x.png" title="Visit us on Facebook" alt="Facebook">
 </a>
 </li>
 <li class="pinterest-link">
-<a href="http://pinterest.com/seescandies/" target="_blank" data-ga-network="Pinterest">
-<img src="/on/demandware.static/Sites-sees-Site/-/default/dw1e537a98/images/email/Icon_Pinterest@2x.png" title="Pinterest" alt="Pinterest">
+<a href="http://pinterest.com/seescandies/" target="_blank" data-ga-network="Pinterest" title="Visit us on Pinterest">
+<img src="/on/demandware.static/Sites-sees-Site/-/default/dw1e537a98/images/email/Icon_Pinterest@2x.png" title="Visit us on Pinterest" alt="Pinterest">
 </a>
 </li>
 <li class="twitter-link">
-<a href="https://twitter.com/seescandies" target="_blank" data-ga-network="Twitter">
-<img src="/on/demandware.static/Sites-sees-Site/-/default/dw4bb07abd/images/email/Icon_Twitter@2x.png" title="Twitter" alt="Twitter">
+<a href="https://twitter.com/seescandies" target="_blank" data-ga-network="Twitter" title="Visit us on Twitter">
+<img src="/on/demandware.static/Sites-sees-Site/-/default/dw4bb07abd/images/email/Icon_Twitter@2x.png" title="Visit us on Twitter" alt="Twitter">
 </a>
 </li>
 <li class="instagram-link">
-<a href="https://instagram.com/seescandies/" target="_blank" data-ga-network="Instagram">
-<img src="/on/demandware.static/Sites-sees-Site/-/default/dw8864616e/images/email/Icon_Instagram@2x.png" title="Instagram" alt="Instagram">
+<a href="https://instagram.com/seescandies/" target="_blank" data-ga-network="Instagram" title="Visit us on Instagram">
+<img src="/on/demandware.static/Sites-sees-Site/-/default/dw8864616e/images/email/Icon_Instagram@2x.png" title="Visit us on Instagram" alt="Instagram">
 </a>
 </li>
 <li class="youtube-link">
-<a href="https://www.youtube.com/SeesCandiesShop/" target="_blank" data-ga-network="YouTube">
-<img src="/on/demandware.static/Sites-sees-Site/-/default/dw7ffd7e4d/images/email/Icon_YouTube@2x.png" title="YouTube">
+<a href="https://www.youtube.com/SeesCandiesShop/" target="_blank" data-ga-network="YouTube" title="Visit us on YouTube">
+<img src="/on/demandware.static/Sites-sees-Site/-/default/dw7ffd7e4d/images/email/Icon_YouTube@2x.png" title="Visit us on YouTube" alt="YouTube">
 </a>
 </li>
 </ul>
@@ -3733,7 +2230,7 @@ We'll send candy deals and updates your way.
 If you are using a screen reader and experiencing problems with our website, please call 800.347.7337 or 310.604.6200 for assistance.
 </div>
 <div class="copyright">
-©2018 Copyright See's Candy Shops, Inc. All rights reserved.
+©2019 Copyright See's Candy Shops, Inc. All rights reserved.
 </div>
 </div>
 </div>
@@ -3746,177 +2243,153 @@ If you are using a screen reader and experiencing problems with our website, ple
 </div>
 </footer>
 
-<div class="sees-dialog-wrapper">
-    <div class="sees-dialog-scrim"></div>
-    <div class="sees-dialog-content-wrapper">
-        <div class="sees-dialog-content">
-
-            <header class="dialog-header">
-            	<div class="close-row">
-            		<a href="" class="close-dialog close-button"></a>
-            	</div>
-                <h3>New Dialog</h3>
-                <div class="required-fields">* Required Fields</div>
-            </header>
-
-            <div class="dialog-main"></div>
-
-            <footer class="dialog-footer">
-            	<div>
-            		<a href="" class="submit-dialog account-button">Submit</a>
-            	</div>
-            	<div>
-            		<a href="" class="cancel-dialog expand-link">Cancel</a>
-            	</div>
-            </footer>
-
-            <footer class="dialog-footer email-dialog-footer">
-            	<style>
-            	.sees-dialog-content > main .error-message {
-				    display: none;
-				    margin-top: 0px;
-				}
-            	</style>
-            	<script>
-            	
-				var customerElementExists = document.getElementById("dwfrm_emailnewsletter_customer_email");            	
-            	if(customerElementExists) {
-	            	$("#dwfrm_emailnewsletter_customer_email").focus(function(){
-	            		$('#emailsignup-email-error').css('visibility','hidden');
-					});
-				}
-				var postalElementExists = document.getElementById("dwfrm_emailnewsletter_customer_postal");				
-            	if(postalElementExists) {				
-	            	$("#dwfrm_emailnewsletter_customer_postal").focus(function(){
-	            		$('#emailsignup-postal-error').css('visibility','hidden');
-					});
-				}				
-            	function isValidEmailSignup() {
-            		var error = false;
-            		var siteType = $('input[name="siteType"]').val();
-            		
-            		$('#emailsignup-email-error').css('visibility','hidden');
-            		$('#emailsignup-email-invalid').css('visibility','hidden');            		
-            		$('#emailsignup-firstname-error').css('visibility','hidden');
-					$('#emailsignup-postal-error').css('visibility','hidden');
-					$('#emailsignup-postal-invalid').css('visibility','hidden');
-					
-					if (siteType == 'MO' || siteType == 'GD') {					
-						$('#emailsignup-birth-month-error').css('visibility','hidden');
-            			$('#emailsignup-birth-day-error').css('visibility','hidden');
-  					}
- 					
-            		if ( $("#dwfrm_emailnewsletter_customer_email").val().trim().length == 0 ) {
-						$('#emailsignup-email-error').css('visibility','visible');            		
-            			$('#emailsignup-email-invalid').css('visibility','hidden');
-            			error = true;
-            		}
-           		
-            		else {
-   						var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-   						var email = $("#dwfrm_emailnewsletter_customer_email").val();
-   						
-    					if (re.test(email) == false) {
-							$('#emailsignup-email-error').css('visibility','hidden');            		
-            				$('#emailsignup-email-invalid').css('visibility','visible');
-    						error = true; 
-    					}          		
-            		}
-            		if ( $("#dwfrm_emailnewsletter_customer_firstname").val().trim().length == 0 ) {
-            			$('#emailsignup-firstname-error').css('visibility','visible');         			
-            			error = true;
-            		}
-            		if ( $("#dwfrm_emailnewsletter_customer_postal").val().trim().length == 0 ) {
-            			$('#emailsignup-postal-error').css('visibility','visible');
-            			$('#emailsignup-postal-invalid').css('visibility','hidden');
-            			error = true;
-            		}
-            		else {
-   						var re = /(^\d{5}$)|(^\d{5}-\d{4}$)/;
-   						var postal = $("#dwfrm_emailnewsletter_customer_postal").val();
-    					if (re.test(postal) == false) {
-							$('#emailsignup-postal-error').css('visibility','hidden');            		
-            				$('#emailsignup-postal-invalid').css('visibility','visible');
-    						error = true; 
-    					}              		
-            		}
-            	
-					if (siteType == 'MO' || siteType == 'GD') {					
-	            		if ( $("#dwfrm_emailnewsletter_customer_birth__month").val().trim().length == 0 ) {
-	            			$('#emailsignup-birth-month-error').css('visibility','visible');            			
-	            			error = true;
-	            		}            		
-	            		if ( $("#dwfrm_emailnewsletter_customer_birth__day").val().trim().length == 0 ) {
-	            			$('#emailsignup-birth-day-error').css('visibility','visible');           			
-	            			error = true;
-	            		}
-            		}           		
-
-            		if (error == true) {
-            			return false;
-            		}
-            		else {
-            			// submit the email signup.
-            			$('#EmailSignup_submit_button').click();            		    
-            			return false;
-            		}
-            	}   
-            	function isValidEmailOnBlur() {
-            		var error = false;
-
-            		if ( $("#dwfrm_emailnewsletter_customer_email").val().trim().length > 0 ) {
-   						var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-   						var email = $("#dwfrm_emailnewsletter_customer_email").val();
-    					if (re.test(email) == false) {
-							$('#emailsignup-email-error').css('visibility','hidden');            		
-            				$('#emailsignup-email-invalid').css('visibility','visible');
-      					}          		
-            		}          		
-            	}   
-            	function isValidPostalOnBlur() {
-            		var error = false;
-
-            		if ( $("#dwfrm_emailnewsletter_customer_postal").val().trim().length > 0 ) {
-   						var re = /(^\d{5}$)|(^\d{5}-\d{4}$)/;
-   						var postal = $("#dwfrm_emailnewsletter_customer_postal").val();
-    					if (re.test(postal) == false) {
-							$('#emailsignup-postal-error').css('visibility','hidden');            		
-            				$('#emailsignup-postal-invalid').css('visibility','visible'); 
-    					}              		
-            		}
-            	}               	
-            	</script>
-
-            	
-            	<div style="margin-bottom: 15px;">
-            		<a href="#" onclick="return isValidEmailSignup()" class="account-button">Sign Up</a>
-            	</div>
-            	
-            	<div style="display:none;">
-            		<a id="EmailSignup_submit_button" href="" class="submit-dialog account-button">Submit</a>
-            	</div>
-            	
-            	<div>
-					<a href="/company-info/privacy-policy/" class="expand-link" target="_blank">Privacy Policy</a>
-            	</div>
-            </footer>
-
-			<footer class="dialog-footer email-dialog-success-footer">
-            	<div>
-            		<a href="" class="account-button cancel-dialog">Close</a>
-            	</div>
-            </footer>
-
-        </div>
-    </div>
-</div>
-
 
 
 
 
 
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3926,45 +2399,28 @@ keywords = "";
 
 
 (function(app, $){
-$.extend(window, {"FluxResources":{"searchShowURL":"/search"},"Constants":{"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","RECIPIENT_LIMIT":50},"Resources":{"I_AGREE":"I Agree","CLOSE":"Close","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number","INVALID_EMAIL":"The email address is invalid.","INVALID_GIFT_MSG":"Invalid characters found in message","INVALID_FIELD":"Invalid characters found","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Promo Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","EMAIL_MISMATCH":"Does not match email","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"Not Available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","GIFT_MSG":"characters left","INVALID_CC_DATE":"Invalid Expiration Date","INVALID_CHARS":"Invalid characters found.<br />Valid characters are A-Z, 0-9, ., - and #.","INVALID_EXT":"Invalid extension characters.","INVALID_STREET":"Invalid address.","INVALID_MONTH":"Invalid month","INVALID_DAY":"Invalid day","INVALID_DATE":"Invalid date","AE_INVALID_POSTAL":"Zip code is not valid for selected state","CANCEL":"Cancel","SAVE":"Save","MAX_ORDER_FORMS":"Please select a maximum of ({0}).","MAX_ORDER_FORMS_ADDED":"A maximum of ({0}) have already been added to your cart.","MAX_ORDER_FORMS_HOWMANY":"<a class=\"how-many-link\" href=\"#how-many-forms\">How many forms do I need?</a>","MAX_CART_QTY":"Please select a maximum quantity of {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Not Available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","SHIPPING_QD":"Please note the date you select is an approximate delivery date. For more accurate timing, please call 800-877-7337 after your order is placed.","SHIPPING_POSTBOX_UNDELIVERABLE":"This order may not be shipped to a P.O. Box.","SHIPPING_DESTINATION_UNDELIVERABLE":"It's not possible to deliver this order to your chosen destination.","SHIPPING_IS_PREORDER":"Your order includes pre-order item(s). Your entire order will ship once the pre-order item(s) are available for shipment.","SHIPPING_CALENDAR_EXPEDITED_MESSAGING":"Expedited shipping","SHIPPING_STANDARD_WWP":"Your shipment requires cold-pack expedited shipping to reduce the risk of melting in transit. Please select from the Expedited shipping calendar. Get <a class=\"get-rate-details\" href=\"/help/shipping-rates/\">details</a>","SHIPPING_EXPEDITED_WWP":"Your shipment requires cold-pack expedited shipping to reduce the risk of melting in transit. Please select from the Expedited shipping calendar. Get <a class=\"get-rate-details\" href=\"/help/shipping-rates/\">details</a>","SHIPPING_STANDARD_WWPNOTELIGIBLE":"Based on your zip code, we are concerned this shipment may be exposed to warm weather and do not recommend sending via standard shipping. Please select a date from the <strong>Expedited shipping calendar</strong> and we will pack it with insulation to help prevent melting in transit."},"Urls":{"appResources":"/on/demandware.store/Sites-sees-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-sees-Site/default/Page-Include","continueUrl":"https://www.sees.com/contentsearch?dwcont=C1653272275","staticPath":"/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/","addGiftCert":"/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-sees-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-sees-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-sees-Site/default/Cart-MiniAddProduct","cartShow":"https://www.sees.com/cart","cartAuthModal":"/on/demandware.store/Sites-sees-Site/default/Account-ModalLogin","cartFRAgreementModal":"/on/demandware.store/Sites-sees-Site/default/Cart-FRShowAgreement","cartFRSignAgreement":"/on/demandware.store/Sites-sees-Site/default/Cart-FRSignAgreement","cartQDAgreementModal":"/on/demandware.store/Sites-sees-Site/default/Cart-QDShowAgreement","cartQDSignAgreement":"/on/demandware.store/Sites-sees-Site/default/Cart-QDSignAgreement","changeSites":"/on/demandware.store/Sites-sees-Site/default/Home-ChangeSite","leaveConfirmation":"/on/demandware.store/Sites-sees-Site/default/COSummary-LeaveConfirmation","addressDeleteConfirmation":"/on/demandware.store/Sites-sees-Site/default/Address-DeleteConfirmation","giftRegAdd":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.sees.com/wallet","addressesList":"https://www.sees.com/addressbook","wishlistAddress":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-sees-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-sees-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-sees-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-sees-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-sees-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-sees-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-sees-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-sees-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-sees-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-sees-Site/default/Product-Productnav","shippingStart":"https://www.sees.com/shipping","summaryRefreshURL":"/on/demandware.store/Sites-sees-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-sees-Site/default/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-sees-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-sees-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-sees-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/Cart-AddCouponJson","powerReviewsFullJs":"/on/demandware.static/-/Sites-sees-storefront/default/v1538160104927/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-sees-storefront/default/v1538160104927","storeLocatorPage":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/StoreInventory-Find","storesInventory":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/StoreInventory-Inventory","storesLookup":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-sees-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-sees-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-sees-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-sees-Site/default/StoreInventory-GetZipCode","billing":"/billing","currencyConverter":"/on/demandware.store/Sites-sees-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-sees-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-sees-Site/default/Page-Include?cid=cookie_hint","verifyShippingAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-Shipping","verifyMultiShippingAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-MultiShipping","verifyBillingAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-Billing","verifyAccountAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-Account","verifyProfileAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-ProfileAddress","emailSignup":"/on/demandware.store/Sites-sees-Site/default/EmailSignup-Signup","emailRenderForm":"/on/demandware.store/Sites-sees-Site/default/EmailSignup-RenderForm","emailSubscribe":"/on/demandware.store/Sites-sees-Site/default/EmailSignup-Subscribe","sendToFriendShow":"/on/demandware.store/Sites-sees-Site/default/SendToFriend-Show?source=productdetail","sendToFriendRenderForm":"/on/demandware.store/Sites-sees-Site/default/SendToFriend-RenderForm","sendToFriendPreview":"/on/demandware.store/Sites-sees-Site/default/SendToFriend-Preview","sendToFriendSubmit":"/on/demandware.store/Sites-sees-Site/default/SendToFriend-Send","localeFormatCalendar":"/on/demandware.store/Sites-sees-Site/default/ShippingCalendarLocaleFormat-FormatCurrencyJson","buildABoxImages":"/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/images/buildabox","GetGiftCardBalance":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COBilling-GetGiftCardBalance","shippingCalendarData":"/on/demandware.store/Sites-sees-Site/default/ShippingCalendar-Start","searchAutocompleteList":"/on/demandware.store/Sites-sees-Site/default/Search-GetSuggestions","editProfile":"/on/demandware.store/Sites-sees-Site/default/Account-AjaxUpdate","yesMailGetCurrentUserSubscriptions":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/YesMail-GetCurrentUserSubscriptions","playBtnImg":"/on/demandware.static/Sites-sees-Site/-/default/dw19440c73/images/play-btn.png","shippingRates":"https://www.sees.com/help/shipping-rates/","getMethodSummary":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/COShipping-GetMethodSummary","getUrl":"/on/demandware.store/Sites-sees-Site/default/resource-url","getMessage":"/on/demandware.store/Sites-sees-Site/default/resource-msg","shipments":"/on/demandware.store/Sites-sees-Site/default/Shipments-Start","shipmentLoginUrl":"https://www.sees.com/account?target=COShipping-Start","loginUrl":"https://www.sees.com/account","VerifyAddress-Verify":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-Verify"},"SitePreferences":{"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"STORE_PICKUP":false,"COOKIE_HINT":false,"QAS_ACTIVE":true,"CURRENCY_CODE":"USD","RX_PO_BOX":"(?:p\\.?\\s*o\\.?|post\\s*office|po)\\s*box","INCLUDE_FACEBOOK_CHECKOUT_DATA":true,"MAP_CHAR_REPLACE":{"—":"--","–":"--","‘":"'","’":"'","“":"\"","”":"\"","…":"..."}},"CurrentSiteId":"MO"});
+$.extend(window, {"FluxResources":{"searchShowURL":"/search"},"Constants":{"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","RECIPIENT_LIMIT":50},"Resources":{"I_AGREE":"I Agree","CLOSE":"Close","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number","INVALID_EMAIL":"The email address is invalid.","INVALID_GIFT_MSG":"Invalid characters found in message","INVALID_FIELD":"Invalid field value","INVALID_DATE":"Invalid date","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Promo Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","EMAIL_MISMATCH":"Does not match email","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"Not Available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","GIFT_MSG":"characters left","INVALID_CC_DATE":"Invalid Expiration Date","INVALID_CHARS":"Invalid characters found.<br />Valid characters are A-Z, 0-9, ., - and #.","INVALID_EXT":"Invalid extension characters.","INVALID_STREET":"Invalid address.","INVALID_MONTH":"Invalid month","INVALID_DAY":"Invalid day","AE_INVALID_POSTAL":"Zip code is not valid for selected state","CANCEL":"Cancel","SAVE":"Save","MAX_ORDER_FORMS":"Please select a maximum of ({0}).","MAX_ORDER_FORMS_ADDED":"A maximum of ({0}) have already been added to your cart.","MAX_ORDER_FORMS_HOWMANY":"<a class=\"how-many-link\" href=\"#how-many-forms\">How many forms do I need?</a>","MAX_CART_QTY":"Please select a maximum quantity of {0}.","REQ_FLDS":"* Required Fields","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Not Available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","SHIPPING_QD":"Please note the date you select is an approximate delivery date. For more accurate timing, please call 800-877-7337 after your order is placed.","SHIPPING_POSTBOX_UNDELIVERABLE":"This order may not be shipped to a P.O. Box.","SHIPPING_DESTINATION_UNDELIVERABLE":"It's not possible to deliver this order to your chosen destination.","SHIPPING_IS_PREORDER":"Your order includes pre-order item(s). Your entire order will ship once the pre-order item(s) are available for shipment.","SHIPPING_CALENDAR_EXPEDITED_MESSAGING":"Expedited shipping","SHIPPING_STANDARD_WWP":"Your shipment requires cold-pack expedited shipping to reduce the risk of melting in transit. Please select from the Expedited shipping calendar. Get <a class=\"get-rate-details\" href=\"/help/shipping-rates/\">details</a>","SHIPPING_EXPEDITED_WWP":"Your shipment requires cold-pack expedited shipping to reduce the risk of melting in transit. Please select from the Expedited shipping calendar. Get <a class=\"get-rate-details\" href=\"/help/shipping-rates/\">details</a>","SHIPPING_STANDARD_WWPNOTELIGIBLE":"Based on your zip code, we are concerned this shipment may be exposed to warm weather and do not recommend sending via standard shipping. Please select a date from the <strong>Expedited shipping calendar</strong> and we will pack it with insulation to help prevent melting in transit."},"Urls":{"staticPath":"/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/","addProduct":"/on/demandware.store/Sites-sees-Site/default/Cart-AddProduct","cartShow":"https://www.sees.com/cart","cartAuthModal":"/on/demandware.store/Sites-sees-Site/default/Account-ModalLogin","cartFRAgreementModal":"/on/demandware.store/Sites-sees-Site/default/Cart-FRShowAgreement","cartFRSignAgreement":"/on/demandware.store/Sites-sees-Site/default/Cart-FRSignAgreement","cartQDAgreementModal":"/on/demandware.store/Sites-sees-Site/default/Cart-QDShowAgreement","cartQDSignAgreement":"/on/demandware.store/Sites-sees-Site/default/Cart-QDSignAgreement","changeSites":"/on/demandware.store/Sites-sees-Site/default/Home-ChangeSite","leaveConfirmation":"/on/demandware.store/Sites-sees-Site/default/COSummary-LeaveConfirmation","verifyShippingAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-Shipping","verifyMultiShippingAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-MultiShipping","verifyBillingAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-Billing","verifyAccountAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-Account","verifyProfileAddress":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-ProfileAddress","verifyAccount":"/on/demandware.store/Sites-sees-Site/default/Account-Verify","verifyLogin":"/on/demandware.store/Sites-sees-Site/default/Account-VerifyLogin","buildABoxImages":"/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/images/buildabox","searchAutocompleteList":"/on/demandware.store/Sites-sees-Site/default/Search-GetSuggestions","yesMailGetCurrentUserSubscriptions":"https://www.sees.com/on/demandware.store/Sites-sees-Site/default/YesMail-GetCurrentUserSubscriptions","playBtnImg":"/on/demandware.static/Sites-sees-Site/-/default/dw19440c73/images/play-btn.png","getUrl":"/on/demandware.store/Sites-sees-Site/default/resource-url","certona":"//edge1.certona.net/cd/fd518f87/sees.com/scripts/resonance.js","loginUrl":"https://www.sees.com/account","VerifyAddress-Verify":"/on/demandware.store/Sites-sees-Site/default/VerifyAddress-Verify"},"SitePreferences":{"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"STORE_PICKUP":false,"COOKIE_HINT":false,"QAS_ACTIVE":true,"CURRENCY_CODE":"USD","RX_PO_BOX":"(?:p\\.?\\s*o\\.?|post\\s*office|po)\\s*box","INCLUDE_FACEBOOK_CHECKOUT_DATA":true,"MAP_CHAR_REPLACE":{"—":"--","–":"--","‘":"'","’":"'","“":"\"","”":"\"","…":"..."}},"CurrentSiteId":"MO"});
 }(window.app = window.app || {}, jQuery));
-window.pageContext = jQuery.extend(window.pageContext,{"title":"Storefront","type":"storefront","ns":"storefront","sid":"T3eIkApaXVz-4ObYGB-XYdSEJKC-H5bTBU0="});
 window.app = jQuery.extend({"cart":{"cartQty":0,"shipmentCount":0,"cartTotalPrice":"$0.00","cartData":[],"outputString":"","UUID":""}}, window.app);
-jQuery.getJSON('/on/demandware.store/Sites-sees-Site/default/Home-IncludeCustomerData', function(data){
-jQuery.extend(window.pageContext, data);
-});
+window.pageContext = jQuery.extend(window.pageContext||{},
+{"title":"Storefront","type":"storefront","ns":"storefront"},
+{"cd":{"id":"ab49Ba03UqakfQi3SHjD2vwNfT","dwid":null,"status":"guest"},"serverdate":1563580800000,"rid":"vyhdZlZXM1","dwsid":"Ik6XFweqnU","sid":"Ik6XFweqnUXBG_9hxS68vqdCxwNLxmQdSos="},
+{cart: window.app.cart}
+);
 </script>
-<script src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib/es5-shim.min.js"></script>
-<script src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib/es5-sham.min.js"></script>
-<script src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib/set-map-poly.js"></script>
-<script src="https://www.sees.com/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib/merged.js"></script>
-<script>require.config({
-baseUrl: "/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/lib"
-});
-</script>
-
-<script src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/js/sees/sees-app.js"></script>
-
-
-
+<script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/es5-shim.min.js"></script>
+<script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/es5-sham.min.js"></script>
+<script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/set-map-poly.js"></script>
+<script src="https://www.sees.com/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/merged.js"></script>
 <script>
-// BAZAARVOICE Load reviews on PDP page
-jQuery(function(){
-// If BV Reviews container exists, call to load reviews
-if($('#BVRRSummaryContainer').length > 0){
-$BV.ui("rr", "show_reviews", rrConfigData);
-}
+require.config({
+baseUrl: "/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib"
 });
 </script>
 
+<script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/js/sees/sees-app.js"></script>
 
-
-
-
-
-<script type="text/javascript" src="//js.rmtag.com/111408.ct.js"></script>
-
-
+<script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/lib/certona/certona.js"></script>
 
 
 <script>
@@ -3972,139 +2428,52 @@ $(function() {
 	// patch for product line item layout
 	$('.attributes-container').filter(function() { return $(this).children().length===0; }).html('&nbsp;');
 });
-
-$('.buildabox-edit-link').each(function(){this.href = this.href.replace('build-a-box-new','build-a-box');});
-
-require(['jquery', 'Flux.App', 'dataLayer'], function ($, FluxApp, dataLayer) {
-	var $cm = $('.custom-mix'), _ucta;
-	if (!$cm.length) { return; }
-
-	function handleDataLayer() {
-		var $atcForm = $cm.find('.cm-add-to-cart-form');
-		dataLayer.push({
-			event: 'addToCart',
-			ecommerce: {
-				currencyCode: window.SitePreferences.CURRENCY_CODE,
-				add: {
-					products: [{
-						name: $cm.find('.size-type .value').text(),
-						id: $atcForm.find('[name="pid"]').val(),
-						price: $atcForm.find('.price').text().slice(1).toString(),
-						quantity: +($atcForm.find('[name=Quantity]').val()||1),
-						brand: "See's Candies",
-						category: "build-a-box",
-						variant: $.trim($atcForm.find('.weight').text() + ' ' + ($atcForm.find('.wrap-name').text()||''))
-					}]
-				}
-			}
-		});
+require(['jquery','UI.View.ChangeSitesDialog'], function($, UIChangeSitesDialog) {
+	var changeSitesDialog = new UIChangeSitesDialog();
+	if ($('.confirmation-body').length) {
+		return;
 	}
+	
+	$('.left-header-utility a').off('click').on('click', function(e) {
+		var qty = +$('.cart-qty-inner').first().text();
+		if (qty===0) {
+			return;
+		}
+		e.preventDefault();
+		changeSitesDialog.fetchDialogContent($(this));
+	});
+});
+require(['jquery','UI.View.SearchResults'], function($, UISearchResults) {
+	if ($('.search-results-wrapper').length) {
+		UISearchResults.prototype.showSlots = function() {
+			var $grid, $slots, $tiles, cols;
+			
+			$grid = this.$searchResultsWrapper.find('.search-result-items');
+			$slots = $grid.find('.grid-tile.slot-container');
+			$slots.find('a').attr('tabindex', '-1');
+			$slots.filter(function() {
+				return !!$(this).text().trim().length || $(this).find('img').length;
+			}).addClass('flex-show').find('a').attr('tabindex', '0');
+		};
 
-	_ucta = FluxApp.actions.updateCartThenAlert;
-	return FluxApp.actions.updateCartThenAlert = function() {
-		handleDataLayer();
-		return _ucta.apply(FluxApp.actions, arguments);
+		(new UISearchResults()).showSlots();
 	}
 });
-
-require(['jquery', 'UI.View.VerifyAddress', 'UI.View.LoadingUtil', 'Util.Ajax'], function ($, UIVerifyAddress, LoadingUtil, AjaxUtil) {
-
-	UIVerifyAddress.prototype.verifyAddress = function ($form) {
-		var self = this,
-			action = { action: 'VerifyAddress-Verify', params: { format: 'ajax', wrap: '1' } },
-			enableElement,
-			data = {},
-			kvpList;
-
-
-		kvpList = $form.serializeArray();
-		
-		enableElement = UILoadingUtil.disableElement($form, $form, true);
-		
-		kvpList.forEach(function (item) {
-			var $el = $('[name="' + item.name + '"]').first(),
-				formId = $el.data('formid'),
-				segments;
-
-			if (!formId) {
-				segments = $el.attr('name').split('_');
-				formId = segments[segments.length - 1];
-			}
-
-			data[formId] = item.value || null;
-		});
-
-		AjaxUtil.actionPostJson(action, data).done(function (response) {
-			var $ctnr = $('<div></div>').append(response),
-				$addressJson = $ctnr.find('script.address-json'),
-				$verifyAddress = $ctnr.find('.verifyaddress'),
-				$modal,
-				address;
-
-			// no address returned
-			if (!$verifyAddress.length && !$addressJson.length) {
-				$form.trigger('submit');
-				enableElement();
-				return;
-			}
-
-			// accepted. fill form and submit.
-			if ($addressJson.length && $addressJson.hasClass('accepted')) {
-				self.fillAddressFields($addressJson.text(), $form);
-				$form.find("[name$='addressVerified']").val("true");
-				$form.find("[name$='addressCorrected']").val("true");
-				$form.find("[name$='customerBypassAddressVerification']").val("false");
-				enableElement();
-				$form.trigger('verify:verified');
-				return;
-			}
-
-			$ctnr.dialog({
-				modal: true,
-				width: 'auto',
-				height: 'auto',
-				maxHeight: document.documentElement.clientHeight,
-				maxWidth: document.documentElement.clientWidth,
-				title: 'Verify Address',
-				autoOpen: false,
-				dialogClass: 'sees-dialog address-verify',
-				position: { my: "center", at: "center", of: window },
-				close: function (e) {
-					$form.trigger('verify:edit');
-					$(this).dialog('destroy').remove();
-				},
-				open: function () {
-					enableElement();
-					$ctnr.find('.qas-field-group').syncDimensions('height');
-
-					// attach events
-					$ctnr.on('click', 'button.edit', function (e) {
-						e.preventDefault();
-						$form.trigger('verify:edit');
-						$ctnr.dialog('close');
-					}).on('click', 'button.use-orig', function (e) {
-						e.preventDefault();
-						$form.find("[name$='addressVerified']").val("false");
-						$form.find("[name$='customerBypassAddressVerification']").val("true");
-						$form.trigger('verify:useorig');
-						$ctnr.dialog('close');
-					}).on('click', 'button.accept', function (e) {
-						e.preventDefault();
-						self.fillAddressFields($addressJson.text(), $form);
-						$form.find("[name$='addressVerified']").val("true");
-						$form.find("[name$='addressCorrected']").val("true");
-						$form.find("[name$='customerBypassAddressVerification']").val("false");
-						$form.trigger('verify:accepted');
-						$ctnr.dialog('close');
-					});
-				}
-			});
-
-			$ctnr.dialog('open');
-		});
+(function() {
+	var i, j, fo, fos, links, a;
+	fos = document.getElementById('header-catalog-nav').querySelectorAll('.flyout');
+	i = 0;
+	while (fo = fos[i++]) {
+		links = fo.querySelectorAll('.secondary .menu-item a');
+		j = 0;
+		while(a = links[j++]) {
+			a.setAttribute('data-category', fo.id);
+		}
 	}
+$('#main').on('click', '.checkout-container .billing-summary-submit', function(e) {
+$('#main').find('.checkout-container .billing-submit').trigger('click');
 });
-
+}());
 </script>
 
 
@@ -4127,9 +2496,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-sees-Site/-/default/v1538160104927/internal/jscript/dwac-18.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-sees-Site/-/default/v1563615078317/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
