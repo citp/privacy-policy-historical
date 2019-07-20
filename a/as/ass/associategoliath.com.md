@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associategoliath.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114203527id_/http%3A//associategoliath.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associategoliath.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720183845id_/http%3A//associategoliath.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
