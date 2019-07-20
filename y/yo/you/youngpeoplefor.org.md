@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngpeoplefor.org privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521031855id_/http%3A//youngpeoplefor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngpeoplefor.org privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720204215id_/http%3A//youngpeoplefor.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Young People For
 
