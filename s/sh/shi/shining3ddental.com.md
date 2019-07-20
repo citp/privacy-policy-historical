@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shining3ddental.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618231058id_/http%3A//www.shining3ddental.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shining3ddental.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720094553id_/http%3A//www.shining3ddental.com/policy.html) for the most accurate reproduction.*
 
 # Dental 3D Scanners, 3D Scanner for Dentistry, Intraoral Scanners, Dental 3D Printer Supplier | SHINING 3D
 
