@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegasgames.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620014854id_/http%3A//www.pegasgames.com/page/7/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegasgames.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720113002id_/http%3A//www.pegasgames.com/page/7/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games - Free Online Games at Pegas Games!
 
