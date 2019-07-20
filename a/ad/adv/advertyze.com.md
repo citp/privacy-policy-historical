@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertyze.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627075752id_/http%3A//www.advertyze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertyze.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720121951id_/http%3A//www.advertyze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Advertyze.com
 
