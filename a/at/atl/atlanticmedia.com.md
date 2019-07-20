@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticmedia.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622022759id_/http%3A//www.atlanticmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticmedia.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720195807id_/https%3A//atlanticmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlantic Media
 
