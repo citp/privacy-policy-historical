@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegesurfing.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519224241id_/http%3A//www.collegesurfing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegesurfing.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720204041id_/http%3A//collegesurfing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
