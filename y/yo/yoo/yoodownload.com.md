@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoodownload.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102150624id_/http%3A//yoodownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoodownload.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720114427id_/https%3A//www.yoodownload.com/privacy.php) for the most accurate reproduction.*
 
 # YooDownload - Privacy Policy
 
