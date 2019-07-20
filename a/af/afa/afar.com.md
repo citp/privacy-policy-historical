@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afar.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213210147id_/http%3A//about.afar.com/about/guidelines-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afar.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720233047id_/http%3A//about.afar.com/about/guidelines-and-terms/privacy-policy) for the most accurate reproduction.*
 
-# About AFAR Media » Privacy Policy
+# About AFAR Media » Privacy Policy | AFAR Magazine
 
 **AFAR MEDIA PRIVACY POLICY**
 
