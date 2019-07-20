@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetbytes.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429134807id_/https%3A//www.budgetbytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetbytes.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720072358id_/https%3A//www.budgetbytes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy details for Budget Bytes, LLC. - Budget Bytes
 
