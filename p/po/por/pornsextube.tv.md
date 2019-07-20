@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornsextube.tv privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521091732id_/http%3A//pornsextube.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornsextube.tv privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720191032id_/http%3A//pornsextube.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PornSexTube.tv
 
