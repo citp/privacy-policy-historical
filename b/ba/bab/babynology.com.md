@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613183210id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720232723id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Babynology.com
 
