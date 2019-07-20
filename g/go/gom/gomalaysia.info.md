@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomalaysia.info privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619090558id_/http%3A//www.gomalaysia.info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomalaysia.info privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720044758id_/http%3A//gomalaysia.info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GoMalaysia.info local event highlights for luxury travel
 
