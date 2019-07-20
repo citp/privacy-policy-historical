@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519172557id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720061735id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Samuel Warde, Writer
 
@@ -39,4 +39,4 @@ USA
 
 **whenwoods@gmail.com**
 
-(Visited 1,378 times, 1 visits today)
+(Visited 1,385 times, 1 visits today)
