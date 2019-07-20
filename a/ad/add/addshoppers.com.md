@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the addshoppers.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920043340id_/http%3A//www.addshoppers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addshoppers.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720064830id_/http%3A//www.addshoppers.com/privacy) for the most accurate reproduction.*
 
 # AddShoppers - Privacy
 
+[Looking for SafeOpt?](https://www.safeopt.com/privacy)
+
 Effective Date: 5/5/2014  
-Revised: 8/10/2016
+Revised: 7/3/2019
 
 Welcome to AddShoppers.com!
 
-This Privacy Policy describes how AddShoppers, Inc. ("AddShoppers", "we", "us", or "our") treat information that AddShoppers collects or receives from or about you through this website ("Website") and mobile app(s) ("App") (together with the Website, the "Services"). It also describes your choices regarding use, access and correction of your personal information.This Privacy Policy, together with the [**Terms and Conditions**](http://www.addshoppers.com/terms), governs your use of the Services.
+This Privacy Policy describes how AddShoppers, Inc. ("AddShoppers", "we", "us", or "our") treat information that AddShoppers collects or receives from or about you through this website ("Website"), our widgets, and mobile app(s) ("App") (together with the Website, the "Services"). It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our service is limited to the purpose of providing the service for which our clients have engaged AddShoppers.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us.
+This Privacy Policy, together with the [**Terms and Conditions**](http://www.addshoppers.com/terms), governs your use of the Services.
 
-Validate our TRUSTe privacy certification by clicking the seal below:
+If you have questions or complaints regarding our privacy policy or practices, please contact us through our contact information at the bottom of this page.
 
  **Your Consent**
 
 By using our site, widgets, and tools, you consent to our privacy policy.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
-The TRUSTe certification covers the collection, use and disclosure of information we collect through our website, www.addshopers.com and the Services.  The use of information collected through the Services shall be limited to the purpose of providing the service for which you have engaged AddShoppers.  
-
-AddShoppers collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+ AddShoppers collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
 AddShoppers has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the AddShoppers’ Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
 
@@ -33,7 +33,7 @@ Each time you access, use or browse the Website or App or interact with Services
 
 Should the Privacy Policy be revised, AddShoppers will we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. Material changes in the manner that we use or share personally identifiable information that applies to information collected prior to the posting of the revised Privacy Policy, will only be made in accordance with applicable law.  You can determine when the Privacy Policy was last revised by referring to the "Last Revised" legend at the top of this page.
 
- **Information We May Collect From You** **.**
+ **Information We May Collect From You.**
 
  **Using the Services**.  We collect certain information to help us operate and provide the Services to you.  We collect this "Technical Information" when you use the Services, including:
 
@@ -41,7 +41,7 @@ Should the Privacy Policy be revised, AddShoppers will we will notify you by ema
 
   * Information about your visits to the Website, including the full URL clickstream to, through and from pages on the Website (including date and time);
 
-  * Information we need and use to facilitate your use of the Website (including to provide access to third party websites and services), such as URL requests, destination IP addresses, or device configuration details;
+  * Information we need and use to facilitate your use of the Website (including to provide access to third party websites and services), such as URL requests, destination IP addresses, email addresses, or device configuration details;
 
   * Pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
@@ -67,7 +67,7 @@ Your friend may contact us at help[at]addshoppers.com to request that we remove 
 
 
 
- **How Your Information May Be Used** **.**
+ **How Your Information May Be Used.**
 
 We may use any information we collect to:
 
@@ -76,6 +76,8 @@ We may use any information we collect to:
   * Manage your access to the Services;
 
   * Send you information that allows you to use the Services;
+
+  * In response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
   * Comply with laws and regulations, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 
@@ -104,7 +106,7 @@ We may use your information, including Personally Identifiable Information, to:
 
 
 
- **How We Share Your Information** **.**
+ **How We Share Your Information.**
 
 We may share any information, including Personally Identifiable Information with:
 
@@ -140,13 +142,11 @@ We AddShoppers and our marketing partners, affiliates, or analytics or other var
 
 When You use the Services, the AddShoppers servers will automatically record information that your browser sends.  This information may include, but is not limited to, unique identifiers associated with the computing and/or mobile device, operating system type, Internet Protocol (‘IP’) address, browser type, user session duration, traffic data, location data, search data, transaction data and other communication data.
 
-Like many websites, AddShoppers may also use cookies, web beacons or similar technologies to collect information about how our Services are used.  You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.  If you do not accept cookies, however, you may not be able to use all portions of the Services or all functionality of the Services.
+AddShoppers and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://www.google.com/url?q=http://preferences-mgr.truste.com/&sa=D&ust=1527106652568000&usg=AFQjCNHbzNlwPmNskBV8u4k0rWlYEhjjZA). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
-
-**Frames**
+ **Frames**
 
 Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to www.addshoppers.com.
 
@@ -160,7 +160,7 @@ Opt-out process for websites:
 
   * For mobile applications that use the Services, you may chose to opt-out through your device settings.
 
-  * If you wish to subscribe to our newsletters, we will use your name and email address to send the newsletter to you. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page, or you can contact us at help@addshoppers.com.
+  * If you wish to subscribe to our newsletters, we will use your name and email address to send the newsletter to you. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page, or you can contact us at dataprotection@addshoppers.com.
 
 
 
@@ -171,11 +171,11 @@ This Privacy Policy applies only to the Services provided by AddShoppers, not to
 
  **Blog / Forum**
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at help@addshoppers.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at dataprotection@addshoppers.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
  **Testimonials**
 
-We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at help@addshoppers.com.
+We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at dataprotection@addshoppers.com.
 
  **Social Media Widgets**
 
@@ -187,7 +187,7 @@ You can log in to our website using sign-in services such as Facebook Connect or
 
  **Security**.
 
-We have reasonable security measures in place intended to protect against the loss, misuse or alteration of any personal information collected. However, we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your information will remain secure under all circumstances.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at dataprotection@addshoppers.com.
 
  **Data Retention**
 
@@ -203,15 +203,15 @@ California law requires that AddShoppers provide you with a summary of your priv
 
 As required by the California Privacy Act, this Privacy Policy identifies the categories of personally identifiable information that AddShoppers collects through its Services about individual users who use or visit the Services and the categories of third party persons or entities with whom such personally identifiable information may be shared.
 
-California Civil Code Section 1798.83 permits users of the Services who are residents of California to request certain information regarding the disclosure of personal information by AddShoppers to third parties for direct marketing purposes and a description of the categories of personal information shared. To make such a request, please send an e-mail to AddShoppers at help@addshoppers.com and include the phrase "California Privacy Request" in the subject line.  The body of the California Privacy Request should include the domain name of the website you are inquiring about as well as your personal contact information ( _e.g._ , your name, address and email address).  AddShoppers support staff will respond to your request within thirty (30) days of its receipt of such a request.
+California Civil Code Section 1798.83 permits users of the Services who are residents of California to request certain information regarding the disclosure of personal information by AddShoppers to third parties for direct marketing purposes and a description of the categories of personal information shared. To make such a request, please send an e-mail to AddShoppers at dataprotection@addshoppers.com and include the phrase "California Privacy Request" in the subject line.  The body of the California Privacy Request should include the domain name of the website you are inquiring about as well as your personal contact information ( _e.g._ , your name, address and email address).  AddShoppers support staff will respond to your request within thirty (30) days of its receipt of such a request.
 
  **Changes to this Privacy Policy**.  We may change this Privacy Policy from time to time, and will post prior notice of any such changes on the Site. Our use of information collected prior to a material change in this Privacy Policy shall continue to be governed by the Privacy Policy that is in effect at the time the information was collected, unless you opt in to allow the information to be governed by the new policy. Please refer back to this Privacy Policy on a regular basis.
 
  **How to Contact Us**
 
-If you wish to contact us about this Privacy Policy, you can reach us by email at help@addshoppers.com
+If you wish to contact us about this Privacy Policy, you can our Data Protection Officer by email at dpo [at] addshoppers.com
 
 AddShoppers, Inc.  
 222 South Church Street  
-Suite 100  
+#410M  
 Charlotte, NC 28202
