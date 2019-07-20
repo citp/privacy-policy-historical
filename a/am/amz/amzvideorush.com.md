@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amzvideorush.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426033921id_/http%3A//www.amzvideorush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amzvideorush.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720025215id_/http%3A//www.amzvideorush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AMZ Video Rush
 
