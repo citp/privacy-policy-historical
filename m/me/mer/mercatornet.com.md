@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426082909id_/https%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720133118id_/https%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
 
 # privacy policy
 
