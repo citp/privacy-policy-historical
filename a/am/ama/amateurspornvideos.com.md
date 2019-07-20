@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurspornvideos.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520152234id_/http%3A//www.amateurspornvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurspornvideos.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720200724id_/http%3A//www.amateurspornvideos.com/privacy-policy) for the most accurate reproduction.*
 
 # Amateurs Porn Videos - Webcam Chat - German xxx | Amateurs Porn Videos - Webcam Chat - German xxx
 
