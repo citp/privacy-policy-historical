@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketstock.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328130120id_/https%3A//www.rocketstock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketstock.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720202228id_/https%3A//www.rocketstock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RocketStock.com
 
