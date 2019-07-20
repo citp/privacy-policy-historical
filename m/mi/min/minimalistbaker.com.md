@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minimalistbaker.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331034858id_/https%3A//minimalistbaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minimalistbaker.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720100732id_/https%3A//minimalistbaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Minimalist Baker
 
@@ -113,9 +113,8 @@ If you believe that our processing of your personal information infringes data p
 You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following:
 
 Minimalist Baker llc  
-9450 SW Gemini Dr #74925  
-Beaverton, Oregon 97008-7105  
-Or support [at] minimalistbaker.com
+21750 Hardy Oak Blvd Ste 104 #74925  
+San Antonio TX 78258
 
 ### Sale of Business or Assets
 
@@ -127,12 +126,10 @@ We may change this Privacy Policy from time to time. The most recent version of 
 
 ### Contacting Us
 
-If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at support [at] minimalistbaker.com
-
-Or write to us at:
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at:
 
 Minimalist Baker llc  
-9450 SW Gemini Dr #74925  
-Beaverton, Oregon 97008-7105
+21750 Hardy Oak Blvd Ste 104 #74925  
+San Antonio TX 78258
 
-_Updated:  June 6, 2018_
+_Updated: May 24, 2019_
