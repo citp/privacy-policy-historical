@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpastra.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217100843id_/https%3A//wpastra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpastra.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720084504id_/https%3A//wpastra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Astra
 
@@ -59,7 +59,7 @@ PCI-DSS requirements help ensure the secure handling of credit card information 
 
 Additionally, when you make a purchase or attempt to make a purchase through the Site we verify your credit card through a payment gateway, and we collect certain information from you, including your name, billing address, shipping address, payment information, email address, and phone number.
 
-If you’ve purchased our products from Envato Marketplace - we may ask you to verify your purchase through Envato APIs. Envato APIs provide us your Envato account username, email address, profile details. We also ask access to download your purchased items so we can provide automatic updates directly on your server from Envato. You can find more about Envato policy [here](https://envato.com/privacy/)
+If you’ve purchased our products from Envato Marketplace – we may ask you to verify your purchase through Envato APIs. Envato APIs provide us your Envato account username, email address, profile details. We also ask access to download your purchased items so we can provide automatic updates directly on your server from Envato. You can find more about Envato policy [here](https://envato.com/privacy/)
 
 **License Keys**
 
@@ -77,15 +77,15 @@ If you provide us with your credit card information, the information is encrypte
 
 **WHAT RIGHTS YOU HAVE OVER YOUR DATA**
 
-If want to confirm what personal data we may have about you or wish to modify it or know the purpose of the collecting and processing or to stop data sharing and processing please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If want to confirm what personal data we may have about you or wish to modify it or know the purpose of the collecting and processing or to stop data sharing and processing please contact us at support@bsf.io
 
-You can also request information about your personal data consent source (if you haven't provided it directly to us or use our products and services) or how long it will be stored. Also, you have right to erasure, if the data is not needed for the purpose you can ask to delete the data or cease processing it. You can also request to cease using your data for direct marketing purposes. You may withdraw your consent at any time by clicking the “unsubscribe” link that can be found in our emails.
+You can also request information about your personal data consent source (if you haven’t provided it directly to us or use our products and services) or how long it will be stored. Also, you have right to erasure, if the data is not needed for the purpose you can ask to delete the data or cease processing it. You can also request to cease using your data for direct marketing purposes. You may withdraw your consent at any time by clicking the “unsubscribe” link that can be found in our emails.
 
 If you think we haven’t complied with data protection laws of your country, you have a right to lodge a complaint with your data protection authority. Within the technical limits, on your request, we will provide you your personal data or to your data protection authority.
 
 If we can not provide you the requested data in a reasonable timeframe we will let you know the date when the data will be provided and if we deny your request for data we will provide a reason why we have denied the request.
 
-**CHILDREN'S ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
+**CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
 
 We do not knowingly collect personal information from children under the age of 13. If we determine we have collected personal information from a child younger than 13 years of age, we will take reasonable measures to remove that information from our systems. If you are under the age of 13, please do not submit any personal information through the Site, service, and Software.
 
@@ -115,7 +115,7 @@ We may need to update this Policy to keep pace with changes in our Site, Softwar
 
 **CONTACT US**
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at support@bsf.io or by mail using the details provided below:
 
 Brainstorm Force, Vasant Utsav, Opp Shell Petrol, Rajiv Gandhi Infotech Park, Hinjewadi, Pune, MH, 411057, India
 
