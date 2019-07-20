@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipelinersales.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629155042id_/https%3A//www.pipelinersales.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipelinersales.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720143109id_/https%3A//www.pipelinersales.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Pipeliner CRM
 
