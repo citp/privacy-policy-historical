@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryhotelsguides.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521020531id_/http%3A//luxuryhotelsguides.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryhotelsguides.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720180604id_/https%3A//www.luxuryhotelsguides.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Luxury Hotels Guides | Manage Booking & About Us
 
@@ -34,4 +34,4 @@ This statement may change from time to time , so please check back regularly.
 
 _Contact us today -_
 
-**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a52554e5f56495d4f535e5f4914545f4e) **
+**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f98a8c8989968b8db991968d9c958a9e8c909d9c8ad7979c8d) **
