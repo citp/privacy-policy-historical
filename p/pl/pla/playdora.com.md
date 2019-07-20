@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playdora.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427205637id_/https%3A//www.playdora.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdora.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720081546id_/https%3A//www.playdora.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Play Dora Girl Games
 
