@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmmagic.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520140053id_/http%3A//www.filmmagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmmagic.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720040041id_/http%3A//www.filmmagic.com/privacy-policy) for the most accurate reproduction.*
 
 # Getty Images
 
