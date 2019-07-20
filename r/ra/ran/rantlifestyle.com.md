@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rantlifestyle.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627201954id_/http%3A//www.rantnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rantlifestyle.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720185143id_/http%3A//www.rantnow.com/privacy-policy) for the most accurate reproduction.*
 
 # – Privacy Policy
 
