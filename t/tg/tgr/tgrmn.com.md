@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618093101id_/https%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720131622id_/https%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
 
 # TGRMN Software
 
