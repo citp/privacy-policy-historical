@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowers-wilkins.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326110832id_/https%3A//www.bowerswilkins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowers-wilkins.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720103245id_/https%3A//www.bowerswilkins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bowers & Wilkins
 
@@ -824,7 +824,7 @@ Any third party partners are required by us to comply with the restrictions and 
 
 ### Our contact information
 
-If you wish to contact us or have any questions about or complaints in relation to this Privacy policy, please email us at [info@bowerswilkins.com](mailto:info@bowerswilkins.com) or click here for additional global B&W contact information.
+If you wish to contact us or have any questions about or complaints in relation to this Privacy policy, please email us at [info@bowerswilkins.com](mailto:info@bowerswilkins.com) or _[click here](https://web.archive.org/contact-us)_ for additional global B&W contact information.
 
 If you have any questions regarding this Privacy policy, believe we have breached a privacy law or wish to exercise your rights (see “[What are Your Rights?](https://web.archive.org/privacy-policy#rights)”), please contact our data protection officer as follows:
 
