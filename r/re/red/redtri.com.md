@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521021808id_/http%3A//redtri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720180657id_/https%3A//redtri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
