@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solvetube.site privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505044841id_/http%3A//solvetube.site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvetube.site privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720221323id_/http%3A//solvetube.site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which SolveTube collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://solvettube.com](http://solvettube.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by SolveTube.
+This Privacy Policy governs the manner in which SolveTube collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://solvetube.site](http://solvetube.site/) website (“Site”). This privacy policy applies to the Site and all products and services offered by SolveTube.
 
  **Personal identification information**
 
@@ -47,13 +47,13 @@ SolveTube has the discretion to update this privacy policy at any time. When we 
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://solvettube.com/terms-and-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://solvetube.site/terms-and-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[SolveTube](http://solvettube.com/)  
-[http://solvettube.com](http://solvettube.com/)  
+[SolveTube](http://solvetube.site/)  
+[http://solvetube.site](http://solvetube.site/)  
 contact@solvetube.com
 
 This document was last updated on November 15, 2014
