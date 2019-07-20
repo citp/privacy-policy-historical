@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstontexans.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609135549id_/https%3A//www.houstontexans.com/news/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstontexans.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720195727id_/https%3A//www.houstontexans.com/news/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Houston Texans - HoustonTexans.com
 
