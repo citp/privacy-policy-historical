@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendy.co privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126164905id_/https%3A//sendy.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendy.co privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720122908id_/https%3A//sendy.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
