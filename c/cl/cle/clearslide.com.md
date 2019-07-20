@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearslide.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519004551id_/https%3A//www.clearslide.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearslide.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720131223id_/https%3A//www.clearslide.com/legal/privacy) for the most accurate reproduction.*
 
 # ClearSlide Privacy Statement | ClearSlide
 
