@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dalecarnegie.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629152824id_/https%3A//www.dalecarnegie.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dalecarnegie.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720144756id_/https%3A//www.dalecarnegie.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dale Carnegie Training
 
