@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goplanapp.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619125914id_/http%3A//goplanapp.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goplanapp.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720063636id_/http%3A//goplanapp.com/home/privacy) for the most accurate reproduction.*
 
 # Goplan: Privacy Policy
 
