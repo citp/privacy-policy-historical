@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reportily.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113143723id_/http%3A//reportily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reportily.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720192505id_/http%3A//reportily.com/privacy-policy) for the most accurate reproduction.*
 
 # Reportily
 
