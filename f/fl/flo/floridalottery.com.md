@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridalottery.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611160335id_/http%3A//floridalottery.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridalottery.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720181544id_/https%3A//floridalottery.com/privacyPolicy) for the most accurate reproduction.*
 
 # Florida Lottery - Privacy Policy
 
@@ -14,7 +14,7 @@ In order to generate usage statistics to help us improve our website, we automat
 
 ## Online Forms and Email
 
-This website will not collect personally identifiable information (such as name, address, telephone number, etc.) unless you provide such information voluntarily. We may ask for such information so that we can tailor interactive features of this website to your specific interests and needs (including periodically forwarding information that matches your selected interests). You are free to provide or to not provide the requested information. If you choose to not provide this type of information, you can still visit most of the website, but you may be unable to participate in certain online forums. Any personal information voluntarily provided by visitors, including personal information submitted on online forms and email, will be used for the purposes stated on the web page and may also be shared with other agencies as required by law or pursuant to agency authority. Information submitted through this website also may be subject to disclosure pursuant to a public records request.
+This website will not collect personally identifiable information (such as name, address, telephone number, etc.) unless you provide such information voluntarily. We may ask for such information so that we can tailor interactive features of this website to your specific interests and needs (including periodically forwarding information that matches your selected interests). You are free to provide or to not provide the requested information. If you choose to not provide this type of information, you can still visit most of the website, but you may be unable to participate in certain online forums. Any personal information voluntarily provided by visitors, including personal information submitted on online forms and email, will be used for the purposes stated on the web page and may also be shared with other agencies as required by law or pursuant to agency authority. Information submitted through this website also may be subject to disclosure pursuant to a public records request. All users voluntarily giving personal identifiable information allow The Florida Lottery to be able to remarket and use the data to contact users directly.
 
 ## Web Cookies
 
