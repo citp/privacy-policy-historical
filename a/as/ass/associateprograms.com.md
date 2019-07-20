@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associateprograms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185822id_/https%3A//www.associateprograms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associateprograms.com privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720164052id_/https%3A//www.associateprograms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AssociatePrograms.com
 
