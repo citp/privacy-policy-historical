@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tvnewsroom.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509214657id_/http%3A//www.tvnewsroom.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvnewsroom.org privacy policy that was archived on 2019-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190720202152id_/https%3A//tvnewsroom.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy of TV Newsroom (TVNewsroom, TVN, tvnewsroom.site, tvnewsroom.org, tvnewsroom.co.uk)**
+**Privacy Policy of TV Newsroom (TV Newsroom, TVNewsroom, TVN, tvnewsroom.org, tvnewsroom.co.uk)**
 
 At TV Newsroom we recognise that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TV Newsroom, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -12,9 +12,9 @@ As with most other websites, we collect and use the data contained in log files.
 **Cookies**  
 We do use cookies to store information, such as your personal preferences when you visit our site. This includes the ability to login to our forums.
 
-**Google Adverts**  
-We also use third party advertisements on TV Newsroom to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**Google Adverts and RevContent**  
+We also use third party advertisements on TV Newsroom to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can turn off the use of cookies at anytime by changing your specific browser settings.
 
-This privacy policy is subject to change without notice and was **last updated on May, 16, 2018**. If you have any questions feel free to contact me directly: admin@tvnewsroom.org.
+This privacy policy is subject to change without notice and was **last updated on June, 25, 2019**. If you have any questions feel free to contact me directly: Johnnie@tvnewsroom.org.
