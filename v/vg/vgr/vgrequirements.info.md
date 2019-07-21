@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgrequirements.info privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518123700id_/http%3A//www.vgrequirements.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgrequirements.info privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721131039id_/http%3A//www.vgrequirements.info/privacy-policy) for the most accurate reproduction.*
 
 # Video Game System Requirements
 
