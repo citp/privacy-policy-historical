@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torycomics.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620232146id_/http%3A//www.toryworks.com/terms/ToryComics_Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torycomics.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721180631id_/http%3A//www.toryworks.com/terms/ToryComics_Privacy.html) for the most accurate reproduction.*
 
 # ToryComics_Privacy
 
