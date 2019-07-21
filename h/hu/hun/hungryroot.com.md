@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryroot.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317222217id_/https%3A//www.hungryroot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryroot.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721170053id_/https%3A//www.hungryroot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hungryroot
 
