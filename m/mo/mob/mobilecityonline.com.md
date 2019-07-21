@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilecityonline.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620162916id_/http%3A//www.mobilecityonline.com/wireless/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilecityonline.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721115456id_/http%3A//www.mobilecityonline.com/wireless/store/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Mobilecityonline.com
 
