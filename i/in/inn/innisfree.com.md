@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innisfree.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121000245id_/https%3A//us.innisfree.com/innisfree-privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innisfree.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721021057id_/https%3A//us.innisfree.com/innisfree-privacyPolicy.html) for the most accurate reproduction.*
 
 # Sites-InnisfreeUS-Site
 
