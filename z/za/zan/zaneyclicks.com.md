@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zaneyclicks.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616011532id_/http%3A//zaneyclicks.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaneyclicks.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721052343id_/http%3A//zaneyclicks.com/terms.php) for the most accurate reproduction.*
 
 # Zaney Clicks
 
-(Updated 6/3/2018)  
+(Updated 6/24/2019)  
  
 
 By registering for Zaney Clicks you agree that you have read these terms, understand them, and agree to be bound by them.  
@@ -47,7 +47,7 @@ payout - you will be paid.
 Payouts can take up to 10 days to receive as I do my own admin work.
 
   
-Members May Request A Cash out Once You Have At Least $25.00 In Your Account.  
+Once you have qualified members May Request A Cash out Once You Have At Least $25.00 In Your Account. (please read above before requesting on how to qualify)  
  
 
 **REFUND POLICY**
