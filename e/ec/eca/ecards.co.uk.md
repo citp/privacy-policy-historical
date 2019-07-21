@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620102852id_/http%3A//www.ecards.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721124306id_/https%3A//www.ecards.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
