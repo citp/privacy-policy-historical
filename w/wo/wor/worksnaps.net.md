@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksnaps.net privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612072711id_/http%3A//www.worksnaps.net/www/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksnaps.net privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721221236id_/http%3A//www.worksnaps.net/www/privacy.shtml) for the most accurate reproduction.*
 
 # Worksnaps - Provacy Policy
 
