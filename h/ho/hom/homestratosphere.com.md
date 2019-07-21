@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the homestratosphere.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425231713id_/https%3A//www.homestratosphere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestratosphere.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721140117id_/https%3A//www.homestratosphere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Stratosphere
-
-\- Advertisement -   
-
 
 **Our cookie policy**
 
