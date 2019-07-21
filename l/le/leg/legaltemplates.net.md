@@ -1,99 +1,273 @@
-> *The following text is extracted and transformed from the legaltemplates.net privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313035454id_/https%3A//legaltemplates.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legaltemplates.net privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721023728id_/https%3A//legaltemplates.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Templates
 
-**PRIVACY POLICY**
+**Version Date:  **January 12, 2018
 
-**LegalTemplates.net**
+Thank you for choosing Legal Templates LLC **(“Company” or “we” or “us” or “our”),  **to create your legal documents. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [support@legaltemplates.net](mailto:support@legaltemplates.net). 
 
-Version Date: December 29, 2016
+When you visit our website [https://legaltemplates.net/](https://legaltemplates.net/) (“Site”) and use our services, you trust us with your personal information. This Privacy Policy is meant to help you understand what information we collect, how and why we collect that information, and how we use it. We hope you take some time to read through it carefully, as it is important. If there are any in this Privacy Policy that you do not agree with, please discontinue use of our site and our services.
 
-**GENERAL**
+From time to time, we may make changes to this Privacy Policy. When any changes are made, we will update the “Revised” date at the top of this document, so please check back every now and then to ensure that you are still in agreement with our privacy practices.
 
-Legal Templates LLC (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose and safeguard your data when you visit our website located at www.legaltemplates.net, including any other media form, media channel, mobile website or mobile application related or connected thereto (collectively, the “Site”) and use the various content, features, other materials, products and services, including legal information and legal forms (the “Services”). BY USING OR ACCESSING THE SITE AND/OR THE SERVICES, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE OR ACCESS THE SITE.
+**Table of Contents**
 
-**COLLECTION AND USE OF INFORMATION**
+  1. What Information Will Legal Templates Collect About You?
+  2. How Will Legal Templates Use Your Information?
+  3. Will Legal Templates Disclose Your Information to Anyone?
+  4. What is Legal Templates’s Policy on Cookies and Other Tracking Technologies?
+  5. Our Stance on Third-Party Websites
+  6. How Does Legal Templates Keep Your Information Safe?
+  7. Does Legal Templates Solicit Information From Children?
+  8. Does Legal Templates Respond to Do-Not-Track Features?
+  9. Can We Change Your Information and Terminate Your Account?
+  10. Do California Residents Have Additional Privacy Rights?
+  11. Contact Us
 
-We may collect and use information about you in a variety of ways. Examples of the types of data we collect and use include:
 
-**Derivative Data.**  Like most website operators, we gather from users of the Site information of the sort that web browsers, depending on their settings, may make available or that our servers automatically recognize when you access the Site or the Services. That information includes your Internet Protocol (IP) address, operating system and browser type, and the locations of the websites you view right before arriving at, while navigating and immediately after leaving the Site. Such information is not personally identifiable, but it still may be possible for us to determine from an IP address your Internet service provider and the geographic location of your point of connectivity, as well as other statistical usage data. We analyze such information to help us better understand how the Site is being used. By identifying patterns and trends in usage, we are able to better design the Site to improve your experiences, both in terms of content and ease of use. From time to time, we may also release this information in the aggregate, such as by publishing a report on trends in the usage of the Site.
 
-**Personal and Financial Information.  **At the time you register with the Site, we may collect “Personal Information” about you, which is information that, without more, can be directly associated with a specific person. Personal Information may include your name, residential or business address, email address and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests, activities, gender, age, date of birth, username, hometown and other demographic or relevant information as determined by us from time to time. You are under no obligation to provide us with Personal Information of any kind, with the caveat that your refusal to do so may prevent you from using certain features of the Site or the Services.
+## 1\. WHAT INFORMATION WILL LEGAL TEMPLATES COLLECT ABOUT YOU?
 
-**Email Communications.  **We may occasionally use your name and email address to send you notifications regarding new services offered by the Site that we think you may find valuable. We may also send you service-related announcements from time to time. Generally, you may opt out of such emails at the time of registration or by following the unsubscribe link in the email communications, though we reserve the right to continue to send you notices about your account.
+Our website is intended for users age 18 or older. We do not knowingly collect information from anyone younger than age 18.
 
-**General Use**.  We use the Personal Information we maintain about you, and other information we obtain from your current and past activities on the Site to: (1) deliver the products and services that you have requested; (2) manage your account and provide you with customer support; (3) communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our affiliates or other third parties; (4) develop and display content and advertising tailored to your interests on the Site and other sites; (5) resolve disputes and troubleshoot problems; (6) measure consumer interest in the Services; (7) inform you of updates; (8) customize your experience; (9) detect and protect us against error, fraud and other criminal activity; (10) enforce our Terms of Use; and (11) do as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems. In particular, we may examine your Personal Information to identify users using multiple user IDs or aliases. We may compare and review your Personal Information for accuracy and to detect errors and omissions. We may use your financial information or payment method to process payment for any purchases made on the Site, enroll you in any discount, rebate, or other program in which you elect to participate, protect against or identify possible fraudulent transactions and do as otherwise needed to manage our business.
+In order to offer our users the best experience possible, we request the following information from them:
 
-**Contests, Giveaways and Surveys.**  From time to time, we may offer you the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with such activities will be treated in accordance with this Privacy Policy. From time to time, we may also ask you to participate in surveys designed to help us improve the Site. Any Personal Information provided to us in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
+### PERSONAL INFORMATION
 
-**DISCLOSURES OF INFORMATION**
+We value your privacy, so we make an effort to collect as little information as necessary to ensure our site and services run smoothly. Certain features of our site can’t function without this information. This information is collected only when you register with our site or use our services.
 
-We may disclose your Personal Information under the following circumstances:
+Personally identifiable information may include:
 
-**By Law or to Protect Rights**. When we believe disclosure is appropriate, we may disclose your Personal Information: (1) in connection with efforts to investigate, prevent or take other action regarding illegal activity, suspected fraud or other wrongdoing; (2) to protect and defend our rights, property or safety or those of our users, our employees or others; (3) to comply with applicable law or cooperate with law enforcement; (4) to enforce our Terms of Use or other agreements or policies; (5) in response to a subpoena or similar investigative demand, court order or request for cooperation from a law enforcement or other government agency; (6) to establish or exercise our legal rights; (7) to defend against legal claims; or (8) as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+  * your name
+  * shipping address
+  * company or business address
+  * billing address
+  * email address
+  * telephone number
 
-**Marketing Communications**. Unless you opt-out from receiving our marketing materials upon registration, we may email you about products and services that we believe may be of interest to you, and we also may provide your email information to third parties so that those third parties may directly contact you about additional products and services. If you wish to opt-out of receiving marketing materials from us, you may do so by following the unsubscribe link in the email communications, by going to your account settings or by contacting us using the contact information provided below. Similarly, to cease having your email information provided to third parties, you may do so by going to your account settings or contacting us using the contact information provided below. Even after opting-out, you may continue to receive marketing emails from third parties to whom we have already provided your email information. You will be responsible for directly contacting such third parties to request cessation of further marketing emails.
 
-**Online Postings.**  Certain Personal Information collected from you is disclosed as a matter of course as a result of your use of the Site. We may provide publicly-viewable areas on the Site where you can post reviews and other information relating to your activities on the Site. Such postings are governed by our Terms of Use. Whenever you voluntarily disclose Personal Information in publicly-viewable areas of the Site, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. We cannot control who reads your postings or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. YOU ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM YOUR VOLUNTARY DISCLOSURE OF PERSONAL INFORMATION.
 
-**Business Partners.  **When you make purchases or engage in promotions offered through the Site or the Services, we may share your Personal Information with our business partners to offer you those products, services or promotions. When you elect to make a purchase or engage in promotions offered through the Site or the Services, you authorize us to provide your email address and other Personal Information to our business partners.
+We also collect but do not store information to create your legal documents. This information may include personally identifiable information. We do not specifically request that users enter any particular information. Users, however, may input custom information depending on what they want included in their legal documents. We collect this information only to provide documents and for no other purposes.
 
-**Affiliates.   **We may share some or all of your Personal Information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us. Such intercompany transfers may be to and from the United States and any other country in which we or our agents maintain facilities for the purposes identified in this Privacy Policy, as well as for storage, processing or other business use as permitted under this Privacy Policy. 
+### ANONYMOUS INFORMATION
 
-**Third Party Service Providers**.  We may share your Personal Information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services for or on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting the Site’s functionality and supporting contests, sweepstakes, surveys and other features offered through the Site. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to your Personal Information and/or financial information as needed to perform their functions, but are not permitted to share or use such information for any other purpose.
+We may also collect  information regarding your demographics, including your age, gender, hometown, interests, and any information regarding your actions on our platform.
 
-**Other Third Parties.** We may share your aggregated information with advertisers and investors for the purpose of conducting general business analysis. We may also share your Personal Information with such third parties for marketing purposes, as permitted by law. If you do not wish to have your Personal Information shared with third parties, you may opt-out by going to your account settings or by contacting us using the contact information provided below.
+### AUTOMATICALLY COLLECTED INFORMATION
 
-**Business Transfers and Bankruptcy**.  We reserve the right to transfer all of your Personal Information in our possession to a successor organization in the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets. You acknowledge that any such transfers may occur, and that the successor organization or other transferee may decline to honor commitments made in this Privacy Policy.
+When you access the Site, our servers automatically collect the following information:
 
-**TRACKING TECHNOLOGIES**
+  * IP address
+  * Device identifier
+  * Browser type
+  * Operating system
+  * Access times
+  * Search terms you’ve entered into search engines to access our site
+  * Pages you’ve viewed immediately before and after accessing our site
 
-**Cookies.** We use cookies on the Site to: (1) keep track of the Services you have used; (2) record registration information regarding your login name and password; (3) record your user preferences; (4) keep you logged into the Site; and (5) facilitate purchase procedures. We also use cookies to track the pages that you visit during each session, both to help us improve your experience and to help us understand how the Site is being used. We analyze and disclose in aggregated form information gathered using cookies, so as to help us, our partners and others better understand how the Site and the Services are being used. We do not attempt to link information gathered using cookies to your Personal Information. Most browsers are set to accept cookies by default. You can remove or reject cookies, but be aware that such action could affect the availability and functionality of the Site or the Services.
 
-**Web Beacons.**  We may use web beacons on the Site and in emails to count users who have visited particular pages and viewed emails, and to deliver co-branded services. Web beacons are also a technique we may use to compile aggregated statistics about usage of the Site. Web beacons collect only a limited set of information, including a cookie number, time and date of a page or email view and a description of the page or email on which the web beacon resides. You may not decline web beacons. However, they can be rendered ineffective by declining all cookies or by modifying your web browser’s settings to notify you each time a cookie is tendered, permitting you to accept or decline cookies on an individual basis.
 
-**Analytics.** We may also partner with selected third party vendors, such as Google Analytics, to allow tracking technologies and remarketing services on the Site through the use of first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie), including Google Analytics for Display Advertising and Google AdWords. If you do not want any information to be collected and used by Google Analytics, you can install a [Google Analytics opt-out plugin](https://tools.google.com/dlpage/gaoptout/)  in your web browser, update your preferences in the [Google Ads Settings page](https://www.google.com/settings/u/0/ads/authenticated?hl=en) or use the [Network Advertising Initiative opt-out tool](http://www.networkadvertising.org/choices/).
+We use this information primarily to improve our services and functionality. We may use this information for marketing and analytics purposes, as well.
 
-**LINKS TO THIRD PARTY WEBSITES**
+### FINANCIAL DATA
 
-The Site and the Services may contain links to third party websites and applications of interest, including advertisements and external services. However, once you have used these links to leave the Site, you should note that we neither own nor have any control over those third party websites or applications. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting any third party websites or using any third party applications, whether by means of a link on the Site, directly through the Site or otherwise, and before providing any Personal Information to any such third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website or application, and should take those steps necessary to, in your discretion, protect the privacy of your data.
+In order to process payments, purchases, orders, returns, and exchanges, we collect and store a small amount of financial information (e.g. valid credit card number, card brand, expiration date).
 
-**SECURITY**
+## 2\. HOW WILL LEGAL TEMPLATES USE YOUR INFORMATION?
 
-We use reasonable administrative, technical and physical measures to protect your Personal Information from loss, theft, alteration or misuse.  However, please be advised that even the best security measures cannot fully eliminate all risks. Any data disclosed online is vulnerable to interception and misuse by unauthorized third parties. We cannot guarantee that only authorized persons will view your Personal Information. We are not responsible for third party circumvention of any privacy settings or security measures.
+Having accurate information about you lets us provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site for:
 
-**CHANGING OR TERMINATING YOUR ACCOUNT**
+### LEGAL PURPOSES
 
-You may at any time review or change the information in your account or terminate your account by going to your account settings or by contacting us using the contact information provided below. Upon your request, we will deactivate or delete your account and Personal Information from our active databases. Such Personal Information will be deactivated or deleted as soon as practicable based on your account activity and in accordance with our deactivation policy and applicable law. We will retain in our files some of your Personal Information to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your Personal Information will be completely removed from our databases in response to your requests. Additionally, we keep a history of changed information to investigate suspected fraud with your account.
+  * Assist law enforcement and respond to subpoenas
+  * Prevent fraudulent transactions, monitor against theft, and protect against criminal activity
 
-**PRIVACY POLICY CHANGES**
 
-We reserve the right to make changes or modifications to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Version Date” of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification. We encourage you to regularly review this page for any changes to this Privacy Policy. 
 
-**POLICY FOR CHILDREN**
+### BUSINESS PURPOSES
 
-The Children’s Online Privacy Protection Act protects the online privacy of children under 13 years of age. The Site and the Services are not directed to children, and we do not knowingly collect or maintain Personal Information from anyone under the age of 13. If we learn that Personal Information has been collected from a user under 13 years of age, we will take the appropriate steps to cause this Personal Information to be deleted from our records. If you are the parent or legal guardian of a child under 13 years of age who has registered with the Site or has otherwise transferred Personal Information to the Site, please contact us using the contact information provided below to have your child’s account terminated and Personal Information deleted. If you are under 18 years of age, reside in California and have a registered account on the Site, you have the right to request removal of unwanted Personal Information that you publicly disclose on the Site. To request removal of such Personal Information, contact us using the contact information provided below and include a statement that you reside in California. While we will make sure the Personal Information is not publicly displayed on the Site, please be aware that the data may not be completely or comprehensively removed from our systems.
+  * Compile anonymous statistical data and analysis for use internally or with third parties
+  * Deliver targeted advertising, coupons, newsletters, and other information regarding promotions and the Site to you
+  * Fulfill and manage purchases, orders, payments, and other transactions related to the Site
+  * Process payments and refunds
+  * Solicit support for the Site
 
-**CALIFORNIA PRIVACY RIGHTS**
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about the Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that was shared, and the names and addresses of all third parties with which we shared Personal Information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
-**DO-NOT-TRACK FEATURE**
+### USER EXPERIENCE ENHANCEMENTS
 
-Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online.
+  * Administer sweepstakes, promotions, and contests
+  * Generate a personal profile about you to make future visits to the Site more personalized
+  * Increase the efficiency and operation of the Site
+  * Monitor and analyze usage and trends to improve your experience with the Site
+  * Offer new products, services, and/or recommendations to you
+  * Resolve disputes and troubleshoot problems
+  * Create and manage your account
 
-**CONTACT US**
+
+
+### COMMUNICATION PURPOSES
+
+  * Email you regarding your account or order
+  * Enable user-to-user communications
+  * Send you a newsletter
+  * Respond to product and customer service requests
+  * Notify you of updates to the Site [and our mobile application]
+  * Request feedback and contact you about your use of the Site [and our mobile application]
+
+
+
+## 3\. WILL LEGAL TEMPLATES DISCLOSE YOUR INFORMATION TO ANYONE?
+
+We may share information we have collected about you in certain situations. Your information may be shared for the following reasons:
+
+### TO COMPLY WITH LAWS OR TO PROTECT RIGHTS OF USERS
+
+If we believe the release of information about you is necessary to respond to a legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, or safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
+
+### TO ASSIST THIRD-PARTY SERVICE PROVIDERS
+
+We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance.
+
+### TO FACILITATE ONLINE POSTINGS
+
+When you post comments, contributions, or other content to the Site, your posts may be viewed by all users and may be publicly distributed outside the Site in perpetuity. We may use these contributions for social advertising.
+
+### TO SUPPORT OUR AFFILIATES
+
+We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners, or other companies that we control or that are under common control with us.
+
+### TO COOPERATE WITH BUSINESS PARTNERS
+
+We may share your information with our business partners to offer you certain products, services, or promotions.
+
+### TO INTEGRATE YOUR ACCOUNT WITH SOCIAL MEDIA
+
+If you connect to the Site through a social network such as Facebook or Linkedin, your contacts on the social network will see your name, profile photo, and descriptions of your activity.
+
+### TO PERFORM ANALYSIS AND MARKETING STRATEGIES WITH OTHER THIRD PARTIES
+
+We may share your information with advertisers and investors for the purpose of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law.
+
+### TO TRANSFER ASSETS IN THE EVENT OF SALE OR BANKRUPTCY
+
+If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline to honor the commitments we’ve made in this Privacy Policy.
+
+We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly.
+
+## 4\. WHAT IS LEGAL TEMPLATES’S POLICY ON COOKIES AND OTHER TRACKING TECHNOLOGIES?
+
+We may use cookies, web beacons, tracking pixels, and other tracking technologies when you visit our website, or any other platform connected to Legal Templates in order to help customize the Site and improve your experience.
+
+A “cookie” is a string of information which assigns you a unique identifier that we store on your computer. Your browser then provides that unique identifier for us to use each time you submit a query to the Site. We use cookies on the Site to, among other things, keep track of services you have used, record registration information, record your user preferences, keep you logged into the Site, facilitate purchase procedures, and track the pages you visit. Cookies help us understand how the Site is being used and improve your user experience.
+
+We reserve the right to make changes to this Cookie Policy at any time and for any reason. When any changes are made, we will update the “Last Updated” date at the top of this document, so check back in from time to time to ensure you still agree with these terms.
+
+Any changes or modifications will be effective immediately upon posting the updated policy on the Site, and you waive the right to receive specific notice of each such change or modification. Your continued use of the Site after the revised policy is posted will be interpreted as your awareness and acceptance of the new terms.
+
+### THE TYPES OF COOKIES WE USE
+
+The following types of cookies may be used when you visit the Site:
+
+#### Advertising Cookies
+
+Advertising cookies are placed on your computer by advertisers and ad servers in order to display advertisements that are most likely to be of interest to you. These cookies allow advertisers and ad servers to gather information about your visits to the Site and other websites, alternate the ads sent to a specific computer, and track how often an ad has been viewed and by whom. These cookies are linked to a computer and do not gather any personal information about you.
+
+#### Analytics Cookies
+
+Analytics cookies monitor how users reached the Site, and how they interact with and move around once on the Site. These cookies let us know what features on the Site are working the best and what features on the Site can be improved.
+
+#### First-Party Cookies
+
+First-party cookies can be either permanent or temporary. These are necessary cookies, without which the Site won’t work properly or be able to provide certain features and functionalities. Some of these may be manually disabled in your browser settings, but may affect the functionality of the Site.
+
+#### Personalization Cookies
+
+Personalization cookies are used to recognize repeat visitors to the Site. We use these cookies to record your browsing history, the pages you have visited, and your settings and preferences each time you visit the Site.
+
+#### Security Cookies
+
+Security cookies help identify and prevent security risks. We use these cookies to authenticate users and protect user data from unauthorized parties.
+
+#### Site Management Cookies
+
+Site management cookies are used to maintain your identity or session on the Site so that you are not logged off unexpectedly.ny information you enter is retained from page to page.  These cookies cannot be turned off individually, but you can disable all cookies in your browser settings.
+
+#### Third-Party Cookies
+
+Third-party cookies may be placed on your computer when you visit the Site by companies that run certain services we offer. These cookies allow the third parties to gather and track certain information about you. These cookies can be manually disabled in your browser.
+
+### CONTROL OF COOKIES
+
+Most browsers are set to accept cookies by default. However, you can remove or reject cookies in your browser’s settings. Please be aware that such action could affect the availability and functionality of the Site.
+
+For more information on how to control cookies, check your browser or device’s settings for how you can control or reject cookies, or visit the one of the following links that corresponds to your device and browser:
+
+  * [Apple Safari](https://support.apple.com/kb/ph19214?locale=en_US)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Microsoft Edge](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
+  * [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Opera](https://help.opera.com/en/latest/)
+  * [Android (Chrome)](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en&oco=1)
+  * [Blackberry](https://docs.blackberry.com/content/dam/docs-blackberry-com/release-pdfs/en/device-user-guides/BlackBerry-Classic-Smartphone-10.3.3-User-Guide-en.pdf)
+  * [Iphone or Ipad (Chrome)](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DiOS&hl=en&oco=1)
+  * [Iphone or Ipad (Safari)](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en&oco=1)
+
+
+
+In addition, you may opt-out of some third-party cookies through the [Network Advertising Initiative’s Opt-Out Tool](http://optout.networkadvertising.org/?c=1#!/).
+
+### OTHER TRACKING TECHNOLOGIES
+
+In addition to cookies, we may use web beacons, pixel tags, and other tracking technologies to help customize the Site and improve your experience. A “web beacon” or “pixel tag” is tiny object or image embedded in a web page or email. They are used to track the number of users who have visited particular pages and viewed emails, and acquire other statistical data. They collect only a limited set of data, such as a cookie number, time and date of a page or email view, and a description of the page or email on which they reside. Web beacons and pixel tags cannot be declined. However, you can limit their use by controlling the cookies that interact with them.
+
+## 5\. OUR STANCE ON THIRD-PARTY WEBSITES
+
+The Site may contain links to other third-party websites and applications, including advertisements and external services that are not affiliated with us. Once you have used these links to leave the Site, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety or privacy of your information.
+
+Before visiting and providing information to any third-party websites, you should familiarize yourself with the privacy policies and practices (if any) of the third party responsible for that website, and should take steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content,privacy and security practices, or policies of any third parties, including other sites, services, or applications that may be linked to or from the Site .
+
+## 6\. HOW DOES LEGAL TEMPLATES KEEP YOUR INFORMATION SAFE?
+
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+
+## 7\. DOES LEGAL TEMPLATES SOLICIT INFORMATION FROM CHILDREN?
+
+We do not knowingly solicit information from or market to children under the age of 18. If you become aware of any data that we have collected from children under age 18, please contact us using the contact information provided below.
+
+## 8\. DOES LEGAL TEMPLATES RESPOND TO DO-NOT-TRACK FEATURES?
+
+Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
+
+## 9\. CAN WE CHANGE YOUR INFORMATION AND TERMINATE YOUR ACCOUNT?
+
+### ACCOUNT INFORMATION
+
+You may at any time review or change the information in your account, or terminate your account by contacting us using the contact information provided below. Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms and Conditions and/or comply with legal requirements.
+
+### EMAILS AND COMMUNICATIONS
+
+If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out when noting your preferences when you register your account with the Site. You can also contact us directly and request to stop receiving these communications.
+
+## 10\. DO CALIFORNIA RESIDENTS HAVE ADDITIONAL PRIVACY RIGHTS?
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain information from us. Once a year, these users may receive updates about the categories of personal information (if any) we disclosed to third parties for direct marketing purposes, along with the names and addresses of all third parties with which we shared personal information during the previous calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have a registered account with the Site or our mobile application, you have the right to request the removal of unwanted data that you publicly post on the Site or our mobile application. To request the removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Site or our mobile application, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
 If you have any questions regarding our Privacy Policy, please contact our privacy officer at:
 
 Legal Templates LLC
 
-Attn: Privacy Officer  
-4023 Kennett Pike #57884  
+Attn: Privacy Officer
+
+4023 Kennett Pike #57884
+
 Wilmington, DE 19807
 
-**Phone:**  (800) 242-6680
+Phone: (800) 242-6680
 
-**Fax:**  (206) 504-2946
+Fax: (206) 504-2946
 
-**Email:**  support@legaltemplates.net
+Email: support@legaltemplates.net
