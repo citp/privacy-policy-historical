@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the freeeup.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111132800id_/https%3A//freeeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeeup.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721183904id_/https%3A//freeeup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeeUp.com
 
-## **Privacy Policy Template for a Basic Website with User Generated Content**
-
-**  FREEEUP LLC PRIVACY POLICY**
+**FREEEUP LLC PRIVACY POLICY**
 
 FreeeUp LLC (the “Company”) is committed to maintaining robust privacy protections for its users.  Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.
 
-For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via our website at [//freeeup.com/](https://freeeup.com/) in which users can hire online freelancers and freelancers can gain new jobs.  The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and Terms of Use, you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via our website at <https://freeeup.com/> in which users can hire online freelancers and freelancers can gain new jobs.  The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and Terms of Use, you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 **I. INFORMATION WE COLLECT**
 
-We collect “Non-Personal Information” and “Personal Information.”  Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks.  Personal Information includes only your email, which you submit to us through the registration process at the Site.
+We collect “Non-Personal Information” and “Personal Information.”  Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks.  Personal Information includes only your email, your name, your business name, your phone number, and your business address, which you submit to us through the registration process at the Site.
 
   1. _Information collected via Technology_
 
@@ -24,7 +22,7 @@ The Company may use both persistent and session cookies; persistent cookies rema
 
 _        2\. Information you provide us by registering for an account_
 
-In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile.  You can create a profile by registering with the Service and entering your email address and a password.  By registering, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy.
+In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile.  You can create a profile by registering with the Service and entering your email address and a password.  By registering, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy. In addition, we ask for you to provide your full name, business name, business address, and phone number.
 
 **II. HOW WE USE AND SHARE INFORMATION**
 
@@ -32,7 +30,7 @@ _Personal Information:_
 
 Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for the Company, such as the servers for our email communications who are provided access to user’s email address for purposes of sending emails from us.  Those vendors use your Personal Information only at our direction and in accordance with our Privacy Policy.
 
-In general, the Personal Information you provide to us is used to help us communicate with you.  For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
+In general, the Personal Information you provide to us is used to help us communicate with you and to fulfill any freelancer requests that you submit through the platform.  For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
 
 _Non-Personal Information_
 
@@ -60,4 +58,4 @@ The Company reserves the right to change this policy and our Terms of Service at
 
 If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to Accounting@FreeeUp.com
 
-**Last Updated:** This Privacy Policy was last updated on February 1st, 2017.
+**Last Updated:** This Privacy Policy was last updated on May 31st, 2018.
