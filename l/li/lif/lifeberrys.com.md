@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeberrys.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611153803id_/http%3A//www.lifeberrys.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeberrys.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721170225id_/http%3A//www.lifeberrys.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - lifeberrys.com
 
