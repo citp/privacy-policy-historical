@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpageing.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826125643id_/http%3A//webpageing.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpageing.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721221227id_/http%3A//www.webpageing.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
