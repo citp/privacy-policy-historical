@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521172442id_/https%3A//www.apnapaisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721115121id_/https%3A//www.apnapaisa.com/privacy-policy) for the most accurate reproduction.*
 
 # ApnaPaisa.com Privacy Policy
 
@@ -22,7 +22,7 @@ We will automatically receive and collect certain anonymous information in stand
   * mobile phone number and contact details
   * ZIP/Postal code
   * demographic profile (like your age, gender, occupation, address)
-  * preferences (such as [housing loan](https://web.archive.org/home-loan/), [personal loan](https://web.archive.org/personal-loan/), [Loan against Property](https://web.archive.org/loan-against-property/), [Business Loan](https://web.archive.org/business-loan/));
+  * preferences (such as housing loan, personal loan, Loan against Property, Business Loan);
   * financial information (like salary)
 
 
