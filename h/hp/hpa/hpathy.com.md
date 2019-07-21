@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpathy.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522061448id_/https%3A//hpathy.com/hpathy-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpathy.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721070657id_/https%3A//hpathy.com/hpathy-com-privacy-policy) for the most accurate reproduction.*
 
 # Hpathy.com Privacy Policy - Hpathy.com
 
