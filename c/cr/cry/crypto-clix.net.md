@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crypto-clix.net privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620140254id_/http%3A//crypto-clix.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crypto-clix.net privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721152945id_/http%3A//www.crypto-clix.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Crypto Clix
 
