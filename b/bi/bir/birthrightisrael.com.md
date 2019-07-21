@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622002636id_/https%3A//www.birthrightisrael.com/page/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721222549id_/https%3A//www.birthrightisrael.com/page/PrivacyPolicy) for the most accurate reproduction.*
 
 # Birthright Israel | Privacy Policy
 
