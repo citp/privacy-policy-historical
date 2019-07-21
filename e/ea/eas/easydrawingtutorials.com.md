@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easydrawingtutorials.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620001941id_/http%3A//www.easydrawingtutorials.com/index.php/component/content/article/98-misc/159-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydrawingtutorials.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721020731id_/http%3A//www.easydrawingtutorials.com/index.php/component/content/article/98-misc/159-privacy-policy) for the most accurate reproduction.*
 
 # EasyDrawingTutorials.com – Draw Your Favorite Cartoons with VIDEOS & Step-by-Step Pictures
-
-##  Privacy Policy for EasyDrawingTutorials.com 
 
 At EasyDrawingTutorials.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by EasyDrawingTutorials.com and how it is used. 
 
