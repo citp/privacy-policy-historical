@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opogame.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620135301id_/http%3A//opogame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opogame.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722011344id_/http%3A//www.opogame.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Opogame
 
