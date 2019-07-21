@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the rew.ca privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514151408id_/https%3A//www.rew.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rew.ca privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722005033id_/http%3A//www.rew.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | REW
+
+Create a FREE account to save searches and track your favourite homes. Already have an account? Click the Log In tab. 
+
+Don't have an account? Click on the Sign Up tab. 
+
+Enter the email address you registered with and your password will be sent to you.
 
 _Last updated July 2017_
 
@@ -91,7 +97,7 @@ If REW.CA is not able to provide access to some aspect of a customer's personal 
 
 Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting REW.CA or the Privacy Officer as described above. REW.CA will promptly correct such personal information.
 
-For any further information, please don't hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdcec8cdcdd2cfc9fdcfd8ca93dedc)
+For any further information, please don't hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cebdbbbebea1bcba8ebcabb9e0adaf)
 
 
 
