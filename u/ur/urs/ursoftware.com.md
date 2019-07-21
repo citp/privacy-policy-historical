@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ursoftware.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620181552id_/http%3A//www.ursoftware.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ursoftware.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721121205id_/http%3A//www.ursoftware.com/privacy.htm) for the most accurate reproduction.*
 
 # Your Uninstaller! - The 1st Drag&Uninstall uninstaller ,the replacement of Add/Remove program.
 
