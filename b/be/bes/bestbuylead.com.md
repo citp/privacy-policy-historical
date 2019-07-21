@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbuylead.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317004349id_/http%3A//bestbuylead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuylead.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721105558id_/http%3A//bestbuylead.com/privacy) for the most accurate reproduction.*
 
 # BestBuyLead
 
@@ -90,4 +90,4 @@ To be in accordance with CANSPAM we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, you can and we will promptly remove you from ALL correspondence.
 
-If you have questions about this privacy policy, please contact [bestbuylead@gmail.com](mailto:%20bestbuylead@gmail.com)
+If you have questions about this privacy policy, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a888cacddbdccaddd1c4cdc9cce8cfc5c9c1c486cbc7c5)
