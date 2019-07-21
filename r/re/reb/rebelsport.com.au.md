@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelsport.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305115935id_/https%3A//www.rebelsport.com.au/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelsport.com.au privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722004813id_/https%3A//www.rebelsport.com.au/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Help Desk – Privacy Policy | rebel
 
@@ -20,7 +20,7 @@
 
 ### Our privacy commitment 
 
-At Rebel Sport Limited A.C.N. 003 283 823, we are committed to high standards of conduct in all our business activities, which includes protecting your privacy in accordance with the applicable privacy law. This policy describes how we will manage your personal information in an open, transparent, and lawful way.
+At rebel Sport Limited A.C.N. 003 283 823, we are committed to high standards of conduct in all our business activities, which includes protecting your privacy in accordance with the applicable privacy law. This policy describes how we will manage your personal information in an open, transparent, and lawful way.
 
 This Privacy Policy applies to the personal information we, or any subsidiaries of Super Retail Group Limited, collect, store, maintain and use about you as our customers, visitors to our websites and stores, users and contributors to social media and other digital services, job applicants, and members of the public. By using our website, engaging with us (including via social media or other channels), or otherwise acquiring any product or service from us, you agree to and accept the contents of this Privacy Policy.
 
