@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the dubai.ae privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611162140id_/http%3A//www.dubai.ae/%3Ftopic%2Cftr_privacy%2C1%2C%26_nfpb%3Dtrue%26_pageLabel%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai.ae privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721201850id_/https%3A//www.smartdubai.ae/privacy-policy) for the most accurate reproduction.*
 
-# DUBAI GOVERNMENT PRIVACY AND SECURITY STATEMENT
+# Privacy Policy | Smart Dubai
 
-**OUR COMMITMENT**
+## ** **
 
-Dubai Government is committed to respecting your privacy and protecting your personal information. We recognize our obligation to keep sensitive information secure and have created this privacy and security statement to share and explain the current information management practices on our websites.
+##  **Privacy Policy**
 
-The handling of all personal information by Dubai Government departments and entities is governed by the UAE and Dubai privacy and security acts. We are committed to protecting your privacy whether you are browsing for information or conducting business with the government electronically.
+Thank you for visiting Smart Dubai Office’s Website. As part of our concern to protect the confidentiality of information and data provided by our users, we would like to draw your attention to the following privacy policy.
 
-**COLLECTION AND USE OF ONLINE INFORMATION**
+ **Collection and Use of Information**
 
-When you visit our websites, we will not collect your personal information unless you choose to use and receive online products and services that require it. For transactions with government organizations involving credit cards, government systems use up-to-date security protocols to ensure the integrity and confidentiality of information and systems.
+Some of the following information is collected anonymously and randomly while users browse the Website or use applications on their smartphones: 
 
-**COLLECTION OF IP ADDRESS**
+  * IP address of the device you used to access the Website, as well as your visit time and date. 
+  * The pages you visited on the Website 
+  * Your geographical location when browsing the Website 
 
-Our web server automatically collects your IP address when you visit our site (your IP address is your computer's unique address that lets other computers attached to the Internet know where to send data, but does not identify you individually). We use your IP address to help diagnose problems with our server and to compile statistics on site usage.
 
-**USE OF COOKIES**
 
-Some Dubai Government Web sites use cookies. Cookies are generally used to make it more convenient for users to move around our Web sites. If you choose, they may be used to 'remember' your password and make it easier and faster to log-in to certain sites. These types of cookies need to be stored on your computer's hard drive. Cookies used by the government are encrypted to make the information in cookies unreadable to anyone except the government department with which you are dealing.
+The above information is obtained in an aggregate and anonymous manner for the improvement of the Website performance. Such information is not disclosed at all to any other party unless required by law or for the protection of the rights of Smart Dubai Office.
 
-**PROTECTION OF PERSONAL INFORMATION**
+Your personal information will only be made available to the Smart Dubai Office employees who need to have access to it. This information will not be made publicly available without your consent. Similarly, no such information will be exchanged, sold, or traded with any third party without your prior consent, and access to that information will only be permitted to qualified individuals and specialists who provide the Smart Dubai Office services related to your interactions with our Website.
 
-Your personal information is available only to the government employees who have a need to know it. It will not be available for public inspection without your consent. Also, no site user information will be shared, sold, or transferred to any third party without your prior consent. Access is given only to those qualified professionals who provide Dubai Government services consistent with your interactions with our site.
+ **Information Security Controls  **
 
-**IMPORTANT NOTICE**
+Smart Dubai Office has implemented the necessary controls to protect the privacy of personal information provided by the user or collected by the Office.
 
-Some of our Web sites link to other sites created and maintained by other public and/or private sector organizations. We provide these links solely for your information and convenience. When you link to an outside Web site, you are leaving a Dubai Government Web site and our information management policies no longer apply.
+Whenever possible, appropriate encryption is used to protect information that is deemed sensitive and important, and for any data which must be protected in accordance with federal or local legal requirements or the requirements of Smart Dubai Office.
+
+ **Amendments  **
+
+Smart Dubai Office reserves the right to update or amend the Privacy Policy at any time, provided that the date of entry into force of such update is stated at the beginning of the policy. The Privacy Policy must be reviewed regularly for any changes. 
