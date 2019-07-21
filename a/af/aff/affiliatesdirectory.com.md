@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203102206id_/http%3A//affiliatesdirectory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721133132id_/http%3A//www.affiliatesdirectory.com/privacy) for the most accurate reproduction.*
 
 # AffiliatesDirectory.com - The Affiliate Programs Directory: Your Privacy
 
@@ -44,13 +44,13 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their personal information (or information about any affiliate program) from our database and/or to not receive future communications from AffiliatesDirectory.com. 
 
-  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/contact/)
+  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/web/20190721133132id_/http%3A//contact/)
 
 
 
 If you are subscribed to our Newsletter (Affiliate-News Ezine) and at any time you wish to unsubscribe you can do so automatically, and we give an undertaking never to contact you once you complete the unsubscription process. To unsubscribe.
 
-  1. Visit the E-Zine [Subscribe/Unsubscribe Page](https://web.archive.org/ezine/)
+  1. Visit the E-Zine [Subscribe/Unsubscribe Page](https://web.archive.org/web/20190721133132id_/http%3A//ezine/)
 
 
 
@@ -60,7 +60,7 @@ To further protect your privacy and ensure that no one unlawfully or maliciously
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Please send an email by [using the following form.](https://web.archive.org/contact/)
+  1. Please send an email by [using the following form.](https://web.archive.org/web/20190721133132id_/http%3A//contact/)
 
 
 
@@ -68,4 +68,4 @@ If it is in relation to updating information contained in our Directory of Affil
 
 #### Contacting Us 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we urge you to [contact us](https://web.archive.org/contact/).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we urge you to [contact us](https://web.archive.org/web/20190721133132id_/http%3A//contact/).
