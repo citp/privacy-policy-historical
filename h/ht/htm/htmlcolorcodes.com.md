@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlcolorcodes.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513120500id_/https%3A//htmlcolorcodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcolorcodes.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721194617id_/https%3A//htmlcolorcodes.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
