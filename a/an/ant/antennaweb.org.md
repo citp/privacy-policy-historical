@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antennaweb.org privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427211026id_/https%3A//antennaweb.org/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antennaweb.org privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721153404id_/https%3A//antennaweb.org/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
