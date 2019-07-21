@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighow.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620093446id_/http%3A//bighow.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighow.org privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721121216id_/http%3A//bighow.org/privacy-policy.php) for the most accurate reproduction.*
 
 # bighow.org Privacy Policy
 
