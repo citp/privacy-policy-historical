@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancer.co.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531115438id_/https%3A//www.freelancer.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.co.uk privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721130540id_/https%3A//www.freelancer.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freelancer
 
@@ -116,7 +116,7 @@ We use automated decision when helping matching users to jobs. The primary way t
 
 #### Our third party service providers
 
-The personal information of users may be held or processed on our behalf outside Australia, including 'in the cloud', by our third party service providers. Our third party service providers are bound by contract to only use your personal information on our behalf, under our instructions. 
+The personal information of users may be held, transmitted to or processed on our behalf outside Australia, including 'in the cloud', by our third party service providers. Our third party service providers are bound by contract to only use your personal information on our behalf, under our instructions. 
 
 Our third party service providers include: 
 
