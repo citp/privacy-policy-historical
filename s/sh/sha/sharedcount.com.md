@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharedcount.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521112917id_/http%3A//www.sharedcount.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharedcount.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721042438id_/http%3A//www.sharedcount.com/policy) for the most accurate reproduction.*
 
 # Privacy
 
