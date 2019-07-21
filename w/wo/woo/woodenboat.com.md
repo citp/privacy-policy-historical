@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodenboat.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416072401id_/https%3A//www.woodenboat.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodenboat.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721235943id_/https%3A//www.woodenboat.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | WoodenBoat Magazine
 
