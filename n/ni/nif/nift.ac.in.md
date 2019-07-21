@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nift.ac.in privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627135815id_/http%3A//www.nift.ac.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nift.ac.in privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721081556id_/https%3A//nift.ac.in/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy & Caution Notice | NIFT
 
