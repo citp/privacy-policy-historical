@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305071508id_/https%3A//www.sunsuper.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721070802id_/https%3A//www.sunsuper.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sunsuper
 
@@ -52,6 +52,8 @@ In the event that a Family Law situation involving superannuation arises, we wil
 
 Your identification details are used to register your attendance at Sunsuper events and seminars, when you enter into Sunsuper competitions, and to provide you with information about important changes to Sunsuper and any superannuation benefits and related services.
 
+Information that you provide us may also be used and disclosed to allow us to conduct analysis – for example, to assist in improving our services, to better understand our members, or for compliance purposes. 
+
 We may also use your personal information for any purpose:
 
   * for which your personal information was originally collected or you have consented;
@@ -64,7 +66,7 @@ We may also collect, use and disclose your personal information to provide you w
 
 ## 5\. How do we collect personal information?
 
-Sunsuper will generally collect your personal information as much as possible directly from you. For example, we collect information about you through your Membership application form, Benefit payment request form and through various other forms.
+Sunsuper will generally collect your personal information as much as possible directly from you. For example, we collect information about you through your Membership application form, Benefit payment request form and through various other forms, and when you call us, the call is recorded unless you ask us not to.
 
 On occasion, we may collect your personal information from publicly available sources of information and from third parties. Examples of third parties we may collect your personal information from include:
 
@@ -78,7 +80,7 @@ On occasion, we may collect your personal information from publicly available so
 
 
 
-We only collect ‘sensitive information’ if you have consented to the collection of the information and the information is reasonably necessary for one or more of our functions or activities or if the collection of sensitive information is authorised or required by a court/tribunal order or an Australian law, including the relevant Australian Laws set out in Appendix A.
+We generally only collect ‘sensitive information’ if the information is reasonably necessary for one or more of our functions or activities or if the collection of sensitive information is authorised or required by a court/tribunal order or an Australian law, including the relevant Australian Laws set out in Appendix A.
 
 ## 6\. Who do we disclose your personal information to?
 
@@ -92,9 +94,9 @@ As set out in sections 4 and 5 above, there are a range of people and organisati
   * Auditors - in order to assist them in conducting their independent audit and review activities of Sunsuper’s financial statements and operations.
   * Third parties - if you give us permission to do so (e.g. a financial planner with whom you are dealing).
   * Overseas superannuation funds and overseas regulators (e.g. a foreign tax office) where you have requested a transfer to or from the overseas superannuation fund.
-  * Sunsuper’s overseas service provider for conducting surveys, if you participate in a survey.
+  * Sunsuper’s service provider for conducting surveys, if you participate in a survey.
   * Sunsuper’s overseas service provider for our online member community, if you join the online community.
-  * Other third party service providers so that they can provide contracted services to Sunsuper such as information technology support, hosting services, telephony services, mailing or sending other documentation.
+  * Other third party service providers so that they can provide contracted services to Sunsuper such as research and analytics, information technology support, hosting services, telephony services, mailing or sending other documentation.
 
 
 
@@ -205,11 +207,11 @@ Sydney NSW 2001
 
 ## 16\. Changes to this Privacy Policy
 
-This Privacy Policy may change from time to time. Before providing us with personal information, please check this policy for any changes either by logging on to www.sunsuper.com.au or by contacting us as set out above in section 14 to request an up to date copy. This Privacy Policy was last updated 12 September 2018.
+This Privacy Policy may change from time to time. Before providing us with personal information, please check this policy for any changes either by logging on to www.sunsuper.com.au or by contacting us as set out above in section 14 to request an up to date copy. This Privacy Policy was last updated 9 July 2019.
 
 * Sunsuper is the name we use to describe the business that offers a range of superannuation products and related financial services. Sunsuper Pty Ltd (ABN 88 010 720 840, AFSL No. 228975) is the Trustee of the Sunsuper Superannuation Fund. Financial product advice is provided by representatives of Sunsuper Financial Services Pty Ltd (ABN 50 087 154 818, AFSL No. 227867), wholly owned by the Sunsuper Superannuation Fund. Administration services are provided by Precision Administration Services Pty Ltd (ABN 47 098 977 667, AFSL No. 246604) (Precision), wholly owned by the Sunsuper Superannuation Fund.
 
-Precision has its own Privacy Policy that relates to the clearing house products it issues, [Sunsuper clearing house](https://www.sunsuper.com.au/precisionprivacy) and [Beam](https://beamconnect.com.au/privacy-policy/).
+Precision has its own Privacy Policy that relates to the clearing house products it issues, [Sunsuper clearing house](https://web.archive.org/library/media/pdfs/random/sunsuper-clearing-house-privacy-policy.pdf) and [Beam](https://beamconnect.com.au/privacy-policy/).
 
 ## Need more information?
 
