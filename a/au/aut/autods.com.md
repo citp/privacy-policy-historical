@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autods.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629095026id_/http%3A//app.autods.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autods.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722001816id_/http%3A//app.autods.com/privacy_policy) for the most accurate reproduction.*
 
 # AutoDS Privacy Policy
 
