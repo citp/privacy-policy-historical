@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenderapp.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513104256id_/http%3A//tenderapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenderapp.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721080935id_/http%3A//tenderapp.com/privacy) for the most accurate reproduction.*
 
 # Tender Support — Privacy Policy
 
