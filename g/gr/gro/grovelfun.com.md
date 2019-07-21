@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grovelfun.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521050914id_/https%3A//www2.grovelfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grovelfun.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721133022id_/https%3A//www2.grovelfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | grovelfun
 
