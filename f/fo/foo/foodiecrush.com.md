@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodiecrush.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407231921id_/https%3A//www.foodiecrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodiecrush.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721044541id_/https%3A//www.foodiecrush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | foodiecrush
 
