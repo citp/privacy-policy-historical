@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hegatrading.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620092254id_/http%3A//www.hegatrading.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hegatrading.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721113344id_/http%3A//www.hegatrading.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
