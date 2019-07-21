@@ -1,100 +1,73 @@
-> *The following text is extracted and transformed from the umbler.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umbler.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721044435id_/https%3A//www.umbler.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Umbler | Umbler
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+November 19th, 2018
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Attention: All aspects of the Usage and Privacy Policies and the Terms of Service are available in Brazilian Portuguese. Any translated material that you may receive will be for convenience only. If there is any conflict between the Brazilian Portuguese and the translated version, the Brazilian Portuguese version will prevail. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+> Umbler ("Umbler" or "Company") is committed to protecting the privacy of the individuals visiting the company's websites ("visitors") and individuals who register to use the Services (APP), as defined below ("Customers "). This Privacy Policy describes the privacy practices in connection with the use of the Company's websites and the related applications and services offered by Umbler (the "Services").
 
-**Information Collection and Use**
+#### 1\. Websites
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+This Privacy Policy covers the information on the websites that point to this Privacy Policy, including https://umbler.com (referred to as "Umbler Sites" or "Company Sites"). Websites hosted on the Umbler Service are created and managed by Umbler customers. These websites are not governed by this Privacy Policy. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Umbler allows its customers to use third-party services (referred to as "add-ons") as part of running Web applications on the Company platform. When you share information with these add-ons, the Privacy Policy that applies is the one of the Add-on Provider. Umbler sites may contain links to other sites. The practices or content of such other information sites is governed by the privacy statements of those other websites.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+#### 2\. Collected Information
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+By expressing an interest in obtaining additional information about the services or registering to use the Services, Umbler may require you to provide the Company with personal contact information, such as name, company name, address, telephone number and e-mail ("Required Contact Information"). When purchasing the Services, Umbler requires that you provide us with billing information, such as your name as it is on your credit card, billing address, and credit card number ("Billing Information"). Umbler may also ask you to provide additional information. Mandatory contact information, billing information, and optional customer information are collectively referred to as "Umbler Customer Data." 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+As you browse the Company's website, Umbler may also collect information through the use of tools in the collection of information, such as cookies. The navigation information includes standard information for your Web browser (such as browser type and browser language), Internet Protocol ("IP"), and actions you take on Company websites (such as visited and clicked links).
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+#### 3\. Use of Collected Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+The Company uses Umbler’s Customer Data to perform the requested services. For example, if you fill out a "Send a Message" contact form, the Company will use the information you provide to contact you about your interest in the Services. In addition, customers may choose to invite a friend to use Umbler Services in a collaborative way (referred to as addition of "collaborators"). Umbler should receive your friend's email address, and send the friend an invitation email.
 
-**Security**
+The Company may also use Umbler’s Customer Data for marketing purposes. For example, the Company may use the information you provide to contact you to discuss your interest in the services and to send you information about the Company and its partners, such as information about promotions or events.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Umbler uses credit card information only to receive payment for the Services.
 
-**Updating Your Information**
+Umbler uses Navigation Information to operate and improve the company's website. The Company may also use Shipping Information alone or in combination with Umbler Customer Data to provide personalized information about the company.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### 4\. Website’s Navigation Information
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Cookies, web beacons and IP adresses.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Umbler uses information gathering tools, such as cookies and web beacons, to collect information such as browsing the Company's websites ("website navigation information"). This section describes the types of website navigation information that may be collected on the Company's websites and how such information may be used. 
 
-      iii.      You may call us at: (480) 505-8800
+#### 5\. Customer Testimonials
 
-       iv.      You may fax us at: (480) 505-8844
+Umbler may use testimonials on the company websites that contain information such as customer names and titles. Umbler obtains the consent of each Client before publishing any testimony.
 
-**Sending Emails**
+#### 6\. Communication Preferences
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Umbler provides Customers and Visitors who provide contact information with means to choose how the Company uses the information provided. You can manage to receive non-transactional marketing communications by clicking the "unsubscribe" link located at the bottom of the Company's marketing emails. In addition, you can submit a request specifying your communication preferences to friends@umbler.com. Customers can not opt out of receiving transactional e-mails related to their account with Umbler or the Services.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+#### 7\. Correction and Update of your Information
 
-**Compliance with Laws and Law Enforcement**
+Customers can update or change their registration information by editing their data through the "Profile" page. Requests to access, change or delete information will be processed within 30 (thirty) days.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+#### 8\. Data Storage
 
-**Third Party Service Providers**
+Umbler stores the received information as described in this Privacy Policy above for a reasonable length of time, for example, as the case may be, for as long as is necessary to provide our Services, comply with our legal obligations, solve disputes, establish legal defenses, to conduct audits and enforce our agreements.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+#### 9\. Customer Data
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+As part of our use of our services, customers may submit the electronic data or information to the Services ("Customer Data"), which may include personal information. The Company generally has no direct relationship to the persons to whom the customer data may relate, which we process on behalf of our customers. If personal information that belongs to you as an individual has been sent to us by a customer as customer data and you wish to exercise any rights you may have to correct, change or delete such data, please inquire with the customer (or his / her organization) directly.
 
-**Supplementation of Information**
+#### 10\. Security
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Umbler uses administrative, technical, physical, and appropriate security measures to protect the Umbler Customer Data.
 
-**Contests/Surveys**
+#### 11\. Changes to this Privacy Policy
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Umbler reserves the right to change this Privacy Policy. Umbler will provide notice of material changes to this Privacy Policy through Company websites at least fifteen (15) days before the changes take effect.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+#### 12\. How to contact us
 
-**Tell-A-Friend**
+Issues related to this Company Privacy Policy should be directed to abuse@umbler.com.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**This document is an adaptation of the Terms of Service of Google App Engine. The original work has been modified. Google Inc. has no connection and does not sponsor or endorse Umbler or its use.**
