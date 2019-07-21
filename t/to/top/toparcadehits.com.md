@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toparcadehits.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519172111id_/http%3A//www.toparcadehits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toparcadehits.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722013422id_/http%3A//www.toparcadehits.com/privacy-policy) for the most accurate reproduction.*
 
 # TopArcadeHits | Privacy Policy
 
