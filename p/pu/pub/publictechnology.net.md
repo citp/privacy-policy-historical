@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publictechnology.net privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622181007id_/http%3A//www.dodsgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publictechnology.net privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721110033id_/http%3A//www.dodsgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dods Group PLC
 
