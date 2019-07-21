@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ljmu.ac.uk privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428154246id_/https%3A//www.ljmu.ac.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljmu.ac.uk privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721110247id_/https%3A//www.ljmu.ac.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | Liverpool John Moores University
 
