@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svideo.com privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808133939id_/https%3A//www.svideo.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svideo.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721071944id_/https%3A//www.svideo.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of svideo.com
 
@@ -18,7 +18,7 @@ Name
 Shipping/Billing Address  
 Email address  
 Phone number  
-Credit/Debit Card Information (on a secure server)
+Credit/Debit Card Information (On a secure server. Only the last four digits for reference purposes are visible to us.)
 
 How That Information Is Used:
 
@@ -31,7 +31,3 @@ Your data is protected and only authorized company personnel can access your dat
 Contact Us
 
 Please contact us by email to sales@svideo.com or by phone at 956-566-4520
-
-Capture the QR code below to pay us with PayPal. There is no fee for you - svideo.com pays the fee and eligible purchases are covered by PayPal Purchase Protection. You can also pay us when you check out with a debit card, credit card, Purchase Order or PayPal.
-
-[](https://www.paypal.me/svideo)
