@@ -1,86 +1,109 @@
-> *The following text is extracted and transformed from the toysrus.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815165021id_/https%3A//www.toysrus.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.com.au privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721212006id_/https%3A//www.toysrus.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Toys R Us Australia
+# Toys"R"Us Privacy Statement
 
-**Privacy Policy**
+## Introduction to our Privacy Policy
 
-Last updated: 1 April 2015
+The privacy of our website visitors and customers is of utmost importance to us, therefore we adhere closely to the National Privacy Principles under the Australian Privacy Act 1988 (as amended by the Privacy Amendment (Private Sector) Act 2000). This Privacy policy explains in general terms how Toys"R"US protects the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us when registering with us on our web site www.toysrus.com.au.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**Introduction and Your Agreement** to this Privacy Policy Toys "R" Us (Australia) Pty Ltd (ACN 057 455 026) is committed to responsibly managing personal information, including in accordance with the Australian Privacy Principles under the Privacy Act 1988 (Cth), collected from customers during the course of their dealings with us as a retailer of family related products and services.
+## What Information Do We Collect?
 
-This policy will outline the following:
+The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.  For example, when you wish to purchase a product from this website we collect details such as your name, email address, delivery address, mobile and telephone numbers and other information relevant to fulfill your purchase.
 
-  * What personal information is collected;
-  * How that personal information is collected during your dealings with us;
-  * What we do with any personal information received; and
-  * How we ensure that this information is treated in accordance with the Privacy Act.
+As we are required by law to obtain your consent to the collection of "sensitive information" (such as address, name and phone number), we will assume that you have given consent to the collection of all information you have provided to us for use in accordance with this Statement, unless you tell us otherwise.
+
+When information such as your name, address and email address are provided on the checkout page or account sign-up pages, we assume you are providing consent for us to use this information to contact you or fullfil any orders that you have placed or are about to place. 
+
+## How We Collect Information
+
+We may collect personal information about you when you visit our website, when you deal with us over the telephone, send us correspondence (whether by letter, fax or email), or when you have contact with us in person. We will not collect any personal information without your consent.  We consider that your consent is granted when you complete the forms necessary to facilitate a transaction through this website.
+
+## How We Use Your Personal Information
+
+We generally collect your personal information for the following purposes:
+
+  * To facilitate your access to our website, products and services.
+  * To deliver products you have ordered from us.
+  * To conduct marketing activities.
+  * To provide you with information about our products and services.
+  * To seek your opinion on our products, services, marketing and website.
+  * To send you a newsletter if you subscribe.
 
 
 
-If you provide us with any personal information, including in connection with the purchase of products and services from us or through your use of our website (www.toysrus.com.au), you are deemed to agree to this Privacy Policy. Accordingly you should carefully read and ensure that you understand the provision of this Privacy Policy. If you do not agree to this Privacy Policy, you should not provide us with any personal information or access and use our website.
+Some of the personal information that we collect is essential for us to be able to accurately identify who is using the service.  Other types of personal information we collect help us to develop a profile of who is using our service and what their interests are to assist us in offering products to suit the needs of the users of this website.
 
-**Collection of Information**
+## Newsletters
 
-At Toys"R"Us we will only collect your personal information, such as name, address and telephone number or e-mail address, where necessary to provide you with our products and services relevant to you and your family. Personal information may be collected from you in our retail stores, from our website or when dealing with departments located at the Store Support Centre. Privacy law requires us to collect personal information about you only from you if it is reasonably necessary to facilitate the functions or activities of Toys”R”Us. You have no obligation to provide any information requested by Toys"R"Us, if you choose not to provide us with requested information however, we may not be able to provide you with those products or services that depend on the collection of that information, particularly if the collection of that information is required by the law.
+By subscribing to receive newsletters we will assume that you are providing us with your consent to send you marketing newsletters or notices either by mail, email, sms, social media and other electronic means provided to us by you. Whenever we send such marketing newsletters or notices, we will make it clear it is coming from 'Toys"R"US' (or 'ToysRUs', 'TRU' where abbreviation is required), and you will have the ability to unsubscribe or opt-out if you no longer wish to receive them. You may also contact us via our website contact form and request removal at any time.
 
-**How Personal Information is Used**
+## Disclosure of Personal Information to Third Parties
 
-Personal information is usually only requested to allow us to provide our products and services to you. Some examples of where we may need to collect this information from you are credit card purchases in store or through our website, warranties, home deliveries, in store competitions, refunds / exchanges, lay buys and website promotions or offers. Toys"R"Us may also use your personal information to communicate to you our unique offers, promotions, product safety, product recalls and services. You can advise Toys"R"Us that you do not wish us to send that information to you other than the main use for which we collected your personal information. We may still use or disclose that information if: (i) we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure; (ii) we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of their functions; or (iii) we are required by law to disclose the information; or (iv) we or a vendor needs to contact you regarding product safety or a product recall.
+We may disclose your personal information to third parties for the purpose for which the information was collected or for related purposes, for example to complete a transaction on your behalf or provide you with a product that you purchased.  We engage third party contractors to perform services for us which involves the contractor handling personal information we hold. For example, we currently engage third party contractors to:
 
-You will always have the option to unsubscribe to Toys"R"Us marketing material by clicking on the bottom section of the special offers email sent to your subscribed email. If this does not work for you, please contact us as follows:
+  * Deliver products purchased from this website.
+  * Provide electronic funds transfer services, credit card account processing and related services.
 
-**Mail Address:**
 
-The Privacy Officer
 
-Toys"R"Us
+In these situations, the third party contractor is strictly restricted from using any prohibited personal information about you except for the specific purpose for which we have supplied. We may also disclose your personal information to various law enforcement agencies and governments around the world for security, to comply with a subpoena, customs and immigration purposes.  Google may receive information about transactions conducted on this site for the purpose of product reviews or service reviews.  Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
 
-Locked Bag 2007
+## Access & Correction of Information About You
 
-Chester Hill NSW 2162
+We will, on request, provide you with access to the information we hold about you, unless there is an exception which applies under the National Privacy Principles, including for the purpose of correcting or updating that information.  We may recover from you our reasonable costs of supplying you with access to this information.  Your request to provide access to this information will be dealt with within in a reasonable time.  If we refuse to provide you with access to the information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles.
 
-Telephone: (02) 9794 8999
+## Keeping Your Personal Information Up To Date
 
-E-Mail: privoffaus@toysrus.com.au
+We take reasonable steps to ensure that your personal information is accurate, complete, and up-to-date whenever we collect or use it.  If the personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us and we will take reasonable steps to either correct this information, or if necessary, discuss alternative action with you.
 
-Personal information may be disclosed to affiliate companies, contractors, service providers, vendors and partners of Toys"R"Us, including to help us provide goods and services and our marketing material to you and to deliver goods to you purchased through our website. Your personal information will not be disclosed to any other third party, unless such disclosure is permitted by law or is required to facilitate you being contacted regarding product safety or a product recall.
+## Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
-**Trans-border data flows**
+If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change on our member account page or by emailing our Customer Support.
 
-Toys“R”Us may transfer your personal information outside of Australia: where: Toys“R”Us reasonably believes that the person who will receive your personal information will not breach the Australian Privacy Principles in relation to the information; or as required or authorised by or under an Australian law or court order; or where you consent, to the disclosure.
+## Choice/Opt-Out
 
-**Security**
+You may choose to stop receiving our newsletters (if you subscribe), marketing emails or marketing sms by clicking on a single link in the email or opting out in the case of sms, changing your account preferences under your account when logged in, or you can contact us.
 
-Toys"R"Us adopts policies and practices to reasonably prevent unauthorised access to our premises, system or physical storage locations. We will also make all reasonable efforts to ensure that only authorised persons have access to personal information as required. However, you will appreciate that we cannot, and we do not, guarantee the security of transmission of personal information over the Internet. The storage and security of personal information will be reviewed at regular intervals. When a review identifies personal information that is no longer required, it will be destroyed or re-identified as soon as practical by an authorised person.
+## Cookies and Other Tracking Technologies
 
-**Website / Email**
+We may use cookies or use web beacons or similar technologies, for example, to keep track of your preferences, profile information or in connection with the Google Customer Reviews Programme. Cookies are also used to collect general usage and volume statistical information that does not include personal information. They may further be used by third-party vendors to serve our ads to you across the internet based on your preferences or interests. You may choose to delete and block cookies whilst browsing this site.
 
-When you look at the Toys"R"Us Australia website (www.toysrus.com.au) we will automatically receive and record information on our server logs from your browser, including your IP address and cookie information. The Toys"R"Us email system is monitored by our Systems Administrator and any information you send to Toys“R”Us will be viewed by the person you sent it to. Any personal information may be retained for a period of up to 7 years, at which time we will either confirm that it is current or we will destroy it. It will be retained for the purpose of monitoring and protecting Toys"R"Us legal rights. This information will not be disclosed to any other person or organisation.
+## Links to Other Web Sites
 
-**Access to Your Personal Information**
+Our Site includes links to other Web sites whose privacy practices may differ from those of Toys"R"US.  If you submit personal information to any of those sites, your information is governed by their privacy policies.  We encourage you to carefully read the privacy policy of any web site you visit.
 
-For Privacy and accuracy information Toys"R"Us relies on our customers to provide updates or changes to individual information. You may request access to your personal information held by Toys"R"Us and request its correction by sending a signed request to the Privacy Officer at the address above. Toys"R"Us will endeavour to respond within 14 days provided the information request meets the requirements under the Privacy Act and the Freedom of Information Act 1982 (Cth), and we can verify the individual making the request. For most requests your information will be provided free of charge, however it may be necessary to charge a reasonable fee if the request will take substantial time to complete.
+## Blogs, Reviews and Articles
 
-**Complaints**
+Our Web site offers publicly accessible blogs, reviews or community forums.  You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-If you think that Toys"R"Us has breached its obligations under the Australian Privacy Principles you may make a complaint in writing to the Privacy Officer at the address above. Toys"R"Us will respond within 30 days. If you think that your complaint has not been handled appropriately or are dissatisfied with the response, you may lodge a complaint with the Office of the Australian Information Commissioner
+## Live Chat
 
-**Changes to this policy**
+We use a live chat feature to assist you with customer services.  If our chat feature is offline we will collect your name and email address so that we may reply to your request.  We will email you a full live chat history at end of live chat service.
 
-We reserve the right to change, modify or update this policy at any time. We will notify you of these changes, modifications or updates from time to time by publishing the latest policy on our website.
+## Surveys or Contests
 
-**More Information (or for a copy of TRU’s privacy policy)**
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site.  If you participate, we will request certain personally identifiable information from you.  Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as post code).
 
-Please contact the Toys"R"Us Privacy Officer at:
+## Security of Your Personal Information
 
-The Privacy Officer
+We will securely hold your personal information and we will not trade, rent or sell it to third parties.
 
-Toys"R"Us
+We will take all reasonable steps to keep secure any information which we hold about you. Personal information may be stored both electronically on our computer system, and in hard-copy form. Firewalls, SSL encryption, passwords, anti-virus software and email filters act to protect all our electronic information.
 
-Locked Bag 2007
+We take all necessary measures to ensure the security of hard-copy information.
 
-Chester Hill NSW 2162
+Once your transaction is finalised, both the electronic and hard-copy information are securely archived.  After a period of 7 years, both the electronic and hard-copy information will be destroyed.
 
-Telephone: (02) 9794 8999
+## Data Retention
 
-E-Mail: privoffaus@toysrus.com.au
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## Resolving Your Concerns
+
+If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used please forward your request, complaint or query to the address below.  We will respond to your query or complaint as soon as possible.
+
+Post: The Privacy Officer, Box 4310, Dandenong South Vic 3164.
+
+## Changes to This Privacy policy
+
+We may amend this Privacy policy as our business requires or as the law changes. Any changes to this Privacy policy will be updated on www.toysrus.com.au, so please visit this page periodically to ensure that you have our most current privacy policy.
