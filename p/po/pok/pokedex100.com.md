@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokedex100.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619215602id_/http%3A//pokedex100.com/article/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokedex100.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721084842id_/http%3A//pokedex100.com/article/privacypolicy) for the most accurate reproduction.*
 
 # Pokedex100 - The best Pokémon hunting platform
 
