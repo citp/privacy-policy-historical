@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakbiz.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601044522id_/http%3A//pakbiz.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakbiz.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721215551id_/https%3A//pakbiz.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - PakBiz.com
 
