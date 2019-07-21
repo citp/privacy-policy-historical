@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenntech.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329221628id_/https%3A//www.lenntech.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenntech.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721020241id_/https%3A//www.lenntech.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
