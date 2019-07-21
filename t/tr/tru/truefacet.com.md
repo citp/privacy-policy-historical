@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the truefacet.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612164625id_/https%3A//www.truefacet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truefacet.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721132740id_/https%3A//www.truefacet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrueFacet
 
-TrueFacet, Inc. ("TrueFacet," "we," "us," or "our") welcomes you. We're really excited that you have decided to access and use our website located at www.TrueFacet.com ("Site").
+TrueFacet Holdings, LLC. ("TrueFacet," "we," "us," or "our") welcomes you. We're really excited that you have decided to access and use our website located at www.TrueFacet.com ("Site").
 
 This Privacy Policy sets forth TrueFacet's policy with respect to personally identifiable information and other information that is collected from Site visitors and Registered Users. By using the Site, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use. If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [privacy@truefacet.com](mailto:privacy@truefacet.com).
 
@@ -41,6 +41,8 @@ We may share Other Information about your activity on the Site with third partie
 If you have provided us Personal Data, you may access, review, and make changes to your Personal Data through your account. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the "unsubscribe" link located on the bottom of any TrueFacet marketing email. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. You cannot opt out of receiving transactional e-mails related to your transactions with us.
 
 ## HOW WE USE AND SHARE THE INFORMATION
+
+The information that we collect about you may be used by us or by third parties we engage in any manner and for any purpose permitted by law. This may include combining your personally identifiable information, such as your email address, with information that does not identify you personally, such as your IP address, device ID, a unique cookie placed or recognized on your browser, or information associated with such non-personally identifiable information, such as information about your browsing history, whether collected on this site or a third-party site. We, or third parties we engage, may use this combined information to send you relevant marketing, including by email, about our products or services or the products or services of third parties. To Opt-Out from these services, please go to ([http://www.aboutads.info/choices](http://www.aboutads.info/choices)) opt-out from third party cookies, [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt-out from use of their mobile device ID for some interest based advertising.
 
 We use the Personal Data, the Other Information, and the Transaction Information (collectively, the "Information") to process your transactions, provide and improve the Site and our services, solicit your feedback, inform you about our products and services and those of our third-party marketing partners, and administer our rewards and promotional programs. Also, we may share Information as described below.
 
@@ -94,4 +96,4 @@ When you invite a friend to join the Site, your circle (network of friends) or y
 
 ## NEWSLETTERS AND ALERTS
 
-At various places on the Site you will be given the option to receive recurring event sales newsletters and to set alerts and reminders. You can unsubscribe from newsletters by clicking on the unsubscribe link. You can manage your alerts through your account. How to Contact Us If you have questions about this Privacy Policy, please e-mail us at [privacy@truefacet.com](mailto:privacy@truefacet.com). You may also write to us at TrueFacet, 592 5th Avenue, 11th Floor, New York, NY 10036.
+At various places on the Site you will be given the option to receive recurring event sales newsletters and to set alerts and reminders. You can unsubscribe from newsletters by clicking on the unsubscribe link. You can manage your alerts through your account. How to Contact Us If you have questions about this Privacy Policy, please e-mail us at [privacy@truefacet.com](mailto:privacy@truefacet.com). You may also write to us at TrueFacet Holdings, LLC, 185 Madison Avenue, 5th Floor, New York, NY. 10016.
