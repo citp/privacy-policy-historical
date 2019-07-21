@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettingexpert.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122061229id_/https%3A//www.bettingexpert.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingexpert.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721102353id_/https%3A//www.bettingexpert.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy bettingexpert - Read our Privacy Policy
 
