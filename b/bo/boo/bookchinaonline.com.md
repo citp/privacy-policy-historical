@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookchinaonline.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514131527id_/http%3A//www.bookchinaonline.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookchinaonline.com privacy policy that was archived on 2019-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190721174210id_/http%3A//bookchinaonline.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - China Holidays
 
