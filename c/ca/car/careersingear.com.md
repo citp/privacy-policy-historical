@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersingear.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523200314id_/https%3A//www.randallreilly.com/terms-conditions-and-privacy-policy-dac) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersingear.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722153917id_/https%3A//www.randallreilly.com/terms-conditions-and-privacy-policy-dac) for the most accurate reproduction.*
 
 # Terms & Conditions and Privacy Policy - DAC
 
