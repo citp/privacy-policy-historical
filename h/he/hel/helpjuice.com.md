@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpjuice.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520045625id_/https%3A//help.helpjuice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpjuice.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722211142id_/https%3A//help.helpjuice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy (GDPR Updated) - Helpjuice
 
@@ -7,8 +7,6 @@ Effective date: May 23, 2018
 Helpjuice, Inc ("us", "we", or "our") operates the http://www.helpjuice.com website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
-
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.helpjuice.com
 
 ## Definitions
 
@@ -116,7 +114,7 @@ Helpjuice, Inc may process your Personal Data because:
 
 Helpjuice, Inc. also allows YOUR users to send emails to YOUR customer support team, via our contact form. We do not store this data on our servers, but use Sendgrid (an external service) to send the emails. 
 
-If you would like a GDPR Data Processor DPA, please contact us via email at [success@helpjuice.com](mailto:success@helpjuice.com) 
+[For signed copy of Digital Processing Agreement (DPA), please see this url: https://help.helpjuice.com/redirect-gdpr-dpa-contract](https://web.archive.org/redirect-gdpr-dpa-contract)
 
 ## Retention of Data
 
