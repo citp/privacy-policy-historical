@@ -1,74 +1,60 @@
-> *The following text is extracted and transformed from the teachanywhere.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611201745id_/http%3A//www.teachanywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachanywhere.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722131621id_/https%3A//www.teachanywhere.com/privacy-notice) for the most accurate reproduction.*
 
-# privacy policy
+# privacy notice | Teachanywhere
 
-## Website operator
+**Introduction**
 
-This website is operated by Randstad Education Ltd (registered number 3403530) whose registered office is at Randstad Court, Laporte Way, Luton, Beds, LU4 8SB ("Teachanywhere").
+This notice explains what personal data (information) we hold about you, how we collect it, and how we use it. We are required to notify you of this information under data protection legislation. Please ensure that you read this notice (sometimes referred to as a ‘privacy notice’) and any other similar notice we may provide to you from time to time when we collect or process personal information about you.
 
-Your use of Teachanywhere's website is subject to the following terms & conditions, which you are deemed to accept each time you use the website.
+**Who collects the information**
 
-## Interruptions and Omissions in Service
+The information below shows which of our companies is the data controller in respect of your data. We use a variety of trading names so if you are uncertain, please contact your consultant.
 
-Whilst we try to ensure that the standard of this website remains high and to maintain the continuity of it, the internet is not an inherently stable medium, and errors, omissions, interruptions of service and delays may occur at any time. We do not accept any liability arising from any such errors, omissions, interruptions or delays or any ongoing obligation or responsibility to operate this website (or any particular part of it) or to provide the service offered on this website. We may vary the specification of this site from time to time without notice.
+**Trading Name** : Randstad Education
 
-## Links to other Sites
+**Legal Entity (Data Controller):** Randstad Public Services Limited
 
-On this site you may be offered automatic links to other sites which we hope will be of interest to you. We do not accept any responsibility for or liability in respect of the content of those sites, the owners of which do not necessarily have any connection, commercial or otherwise, with us. Using automatic links to gain access to such sites is entirely at your own risk.
+Information we obtain is may be transferred between our group companies primarily for the purposes of payroll processing and financial reporting both within and outside the EEA. In this notice, references to ‘we’ or ‘us’ mean the Randstad UK Holding Limited and our group companies.
 
-## Information on this Site
+**Data protection principles**
 
-Whilst we make every effort to ensure that the information on this site is accurate and complete, some of the information is supplied to us by third parties and we are not able to check the accuracy or completeness of that information. We do not accept any liability arising from any inaccuracy or omission in any of the information on this site or any liability in respect of information on this site supplied by you, any other site user or any other person.
+We will comply with the data protection principles when gathering and using personal information.
 
-## Your Use of this Site
+**About the information we collect and hold**
 
-You may only use this Site for lawful purposes when seeking employment or help with your career or when recruiting staff. You must not under any circumstances seek to undermine the security of the Site or any information submitted to or available through it. In particular, but without limitation, you must not seek to access, alter or delete any information to which you do not have authorised access, seek to overload the system via spamming or flooding, take any action or use any device, routine or software to crash, delay, damage or otherwise interfere with the operation of this Site or attempt to decipher, disassemble or modify any of the software, coding or information comprised in the Site.
+The table set out below summarises the information we collect and hold, how and why we do so, how we use it and with whom it may be shared.
 
-You are solely responsible for any information submitted by you to this site. You are responsible for ensuring that all information supplied by you is true, accurate, up-to-date and not misleading or likely to mislead or deceive and that it is not discriminatory, obscene, offensive, defamatory or otherwise illegal, unlawful or in breach of any applicable legislation, regulations, guidelines or codes of practice or the copyright, trade mark or other intellectual property rights of any person in any jurisdiction. You are also responsible for ensuring that all information, data and files are free of viruses or other routines or engines that may damage or interfere with any system or data prior to being submitted to this site. We reserve the right to remove any information supplied by you from the website at our sole discretion, at any time and for any reason without being required to give any explanation.
+We may also need to share some of the categories of personal information set out with other parties, such as external contractors and our professional advisers. In most cases, information is only shared for the performance of our contract with you or to comply with our legal obligations.
 
-## Information Submitted by You
+We seek to ensure that our information collection and processing is always proportionate. We will notify you of any changes to information we collect or to the purposes for which we collect and process it.
 
-We will use information supplied by you (including, without limitation, sensitive personal data) to aid the recruitment process and associated administrative functions. This involves us, amongst other things, processing and storing information (including, without limitation, sensitive personal data) and passing or making available online such information to prospective employers and clients; information about vacancies and placements will be passed to candidates and may be posted directly onto the website. We use third parties to help us process your information as part of the recruitment process. We may collect and aggregate data from the information supplied by you to help us to understand our users as a group so that we can provide you with a better service. We may also share aggregate information with selected third parties, without disclosing individual names or identifying information. You consent to us using information provided by you (including, without limitation, sensitive personal data) in each of these ways.
+**Where information may be held**
 
-We will process any data which you provide and any further forms, assessments or personal details which you complete or provide to us when using this site in accordance with UK data protection legislation.
+Information may be held at our offices and those of our group companies, and third party agencies, service providers, representatives and agents as described above. Information may be transferred internationally to other countries around the world, including countries that do not have data protection laws equivalent to those in the UK, for the reasons described above. We have security measures in place to seek to ensure that there is appropriate security for information we hold.
 
-## Cookies
+**How long we keep your information**
 
-Cookies are small text files placed on your device when you visit a website. It is generated by a web page server and can be used by that server whenever the user visits the site.
+The period for which we keep your information is dependent on whether or not we have placed you in a temporary or permanent booking.
 
-Teachanywhere uses the following cookies
+Where we have been unsuccessful in placing you in a temporary or permanent booking, we will retain your data for 3 years from the date we created your record in our database. If we have placed you, we will retain your information for 5 years from the date of placement or date on which you last worked for us.
 
-**Google Analytics**  \- These gather anonymised data about how you use the site  
-**3rd party Advertising -** If you entered our website through one of our online campaigns on other sites or via email, we will store information about this campaign along with your registration. This information will be used internally to measure the effectiveness of our campaigns. To support this functionality we use a cookie that expires after 60 days.  
-**Website Cookies**  \- This cookie allows us to remember user details  
-**Email**  \- This cookie allows us to track emails
+We will retain certain pay-related and other financial information for 7 years in order to comply with our legal obligations.
 
-We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by us, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
+**Your rights to correct and access your information to ask for it to be erased**
 
-Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer (including those from this visit) as well as more general information about cookies.
+You have the right to:
 
-## Terms of Business
+access your data;  
+request that we correct data we hold about you; and  
+ask for it to be erased.  
+If you would like to exercise these one or more of these rights, please contact our Data Protection Officer (DPO) at [privacyofficer@randstad.co.uk](mailto:privacyofficer@randstad.co.uk "email us via this link")
 
-Each employment assignment or placement arising as a result of an introduction made by Randstad will be subject to our standard Terms of Business as they are applicable in the circumstances. All prospective employers and clients for whom we arrange assignments or placements will be provided with a copy of the Terms of Business applicable to them at or following registration.
+**Keeping your personal information secure**
 
-## Content Rights
+We have appropriate security measures in place to prevent personal information from being accidentally lost, or used or accessed in an unauthorised way. We limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality.
 
-The rights in material on this site are protected by international copyright, software and trademark laws and you agree to use this site in a way which does not infringe these rights. You may copy material on this site for your own private or domestic purposes, but no copying for any commercial or business use is permitted.
+We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.
 
-## Liability
+**How to complain**
 
-We accept no liability for any loss (whether direct or indirect, for loss of business, revenue or profits, wasted expenditure, corruption or destruction of data or for any other indirect or consequential loss whatsoever) arising from your use of the site and we hereby exclude any such liability, whether in contract, tort (including for negligence) or otherwise. We hereby exclude all representations, warranties and conditions relating to this website and your use of it to the maximum extent permitted by law.
-
-You agree to indemnify us and keep us indemnified against all costs, expenses, claims, losses, liabilities or proceedings arising from use or misuse by you of this site.
-
-You must notify us immediately if anyone makes or threatens to make any claim against you relating to your use of this site.
-
-## Choice of Law and Jurisdiction
-
-The use of this website and any agreements entered into through this website are to be governed by and construed in accordance with English law. The courts of England are to have exclusive jurisdiction to settle any dispute arising out of or in connection with the use of this website or any agreement made through this website.
-
-## Changes to Terms and Conditions and Invalidity
-
-These website terms and conditions may be changed by us at any time. You will be deemed to accept the terms and conditions (as amended) when you next use this site following any amendment.
-
-If any provision of these terms and conditions is held to be invalid by a court of competent jurisdiction, such invalidity shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
+We hope that our Data Protection Officer can resolve any query or concern you raise about our use of your information. If not, contact the Information Commissioner at [ico.org.uk/concerns/](https://web.archive.org/SnpEdit.aspx/ico.org.uk/concerns/ "view the page here") or telephone: 0303 123 1113 for further information about your rights and how to make a formal complaint.
