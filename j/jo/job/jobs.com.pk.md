@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.com.pk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331234623id_/https%3A//jobs.com.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com.pk privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722183955id_/https%3A//jobs.com.pk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,9 @@ The privacy policy of Jobs.com.pk is administered by Pakistantimes.com (PT). Pak
 
 
 
- **Jobs.com.pk Mobile App**
+**Jobs.com.pk Mobile App**
 
-Apps of Jobs.com.pk (Jobs) is a great way to catch up on jobs updates on the go. Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
+Apps of Jobs.com.pk (Jobs) is a great way to catch up on jobs updates on the go. Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. 
 
 The camera (use of android.permission.CAMERA) is used if the user wants:
 
@@ -22,18 +22,18 @@ The camera (use of android.permission.CAMERA) is used if the user wants:
 
 In these case, the data is sent to servers via HTTPS protocol, after validation of the user.
 
- **In details**
+**In details**
 
-  1.  **What does Jobs.com.pk  Privacy Policy Covers?**  
+  1. **What does Jobs.com.pk  Privacy Policy Covers?**  
 All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. The personal information that you provide is used for Registration purpose. In order for you to participate in Jobs.com.pk communities or submit content or post your comments you must complete a registration form. As part of registration form, we require your email address.
-  2.  **Profile Information**  
+  2. **Profile Information**  
 Jobs.com.pk allows other users to browse your full name, instant messaging URL, and other details within your member profile should you provide this optional information. Jobs.com.pk allows for the RSS syndication of all of its public content within the website.
-  3.  **What about Cookies?  
+  3. **What about Cookies?  
 **Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser in order to check in if you are logged in or out. All the other information is located in Jobs.com.pk server. Some of our business partners may use cookies on our website (for example advertisers) details of which are given below.
 
 
 
- **Third party advertisements**
+**Third party advertisements**
 
 Third party advertisements are displayed on the website under a contract with online ad serving platforms under the terms and conditions governed by them, however we will block all such advertisements and advertisers that have any visual or textual content which is not appropriate according to our Pakistani culture and values. We also constantly monitor our websites for the advertisements and take immediate action for blocking them in case any such appears on the website.
 
