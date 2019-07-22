@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3fiesta.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107232038id_/http%3A//mp3fiesta.com/publication/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3fiesta.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722052307id_/https%3A//mp3fiesta.com/publication/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacypolicy - MP3fiesta.com
 
