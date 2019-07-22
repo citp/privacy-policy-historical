@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestreamable.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607022812id_/https%3A//thestreamable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreamable.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722194529id_/https%3A//thestreamable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Streamable
 
