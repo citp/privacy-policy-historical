@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weegy.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614042632id_/https%3A//www.weegy.com/Home.aspx%3FId%3DCompanyPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weegy.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722182641id_/https%3A//www.weegy.com/Home.aspx%3FId%3DCompanyPrivacyStatement) for the most accurate reproduction.*
 
 # Weegy
 
