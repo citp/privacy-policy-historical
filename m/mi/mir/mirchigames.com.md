@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirchigames.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620154944id_/http%3A//www.mirchigames.com/page/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirchigames.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722193929id_/http%3A//www.mirchigames.com/page/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Best Escape Games | Escape Games Online | Escape Games
 
