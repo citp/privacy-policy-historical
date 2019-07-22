@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summercamppro.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127192013id_/https%3A//www.summercamppro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summercamppro.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722174415id_/https%3A//www.summercamppro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Summer Camp Programming
 
