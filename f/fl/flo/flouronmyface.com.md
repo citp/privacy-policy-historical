@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flouronmyface.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429110613id_/https%3A//flouronmyface.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flouronmyface.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722203800id_/https%3A//flouronmyface.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Flour On My Face
 
