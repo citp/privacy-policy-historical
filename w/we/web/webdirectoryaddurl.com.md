@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdirectoryaddurl.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522030129id_/http%3A//www.webdirectoryaddurl.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdirectoryaddurl.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722093426id_/http%3A//www.webdirectoryaddurl.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to webdirectoryaddurl.com - Privacy Policy
 
