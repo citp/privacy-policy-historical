@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printsasia.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522142747id_/http%3A//www.printsasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printsasia.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722105013id_/http%3A//www.printsasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Printsasia USA : Printsasia.com
 
