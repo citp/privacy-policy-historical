@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobmonkey.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207014558id_/https%3A//www.jobmonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmonkey.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722080806id_/https%3A//www.jobmonkey.com/privacy) for the most accurate reproduction.*
 
 # JobMonkey Privacy Policy
 
@@ -55,7 +55,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 **Other Third-Party Advertising**  
-We also use other third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+We also use other third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 ## How We Use the Information We Collect
 
