@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cincinnati.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629201505id_/https%3A//cm.cincinnati.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincinnati.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722135454id_/https%3A//cm.cincinnati.com/privacy) for the most accurate reproduction.*
 
-# static.cincinnati.com
+# The Enquirer
 
 Last Updated: May 14, 2018
 
