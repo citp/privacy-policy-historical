@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-heart-federation.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624234925id_/https%3A//www.world-heart-federation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-heart-federation.org privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722213953id_/https%3A//www.world-heart-federation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - World Heart Federation
 
