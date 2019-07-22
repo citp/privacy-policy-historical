@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biztravelpro.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625112712id_/http%3A//www.biztravelpro.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biztravelpro.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722062948id_/http%3A//biztravelpro.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # BizTravelPro.com is a professional online business travel magazine for travellers who explore the world.
 
