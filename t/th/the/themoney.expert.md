@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themoney.expert privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214235817id_/http%3A//themoney.expert/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoney.expert privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722213353id_/http%3A//themoney.expert/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Money Expert
 
-We at Bullseye Ventures LTD (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
+We at S Hugi Software & Investments Ltd (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
 
 This policy explains our privacy practices for processing personal information on The Company’s online websites (the “ **Service** “). This policy applies to the use of The Company’s websites and it is an integral part of The Company’s [Terms of Service](http://themoney.expert/terms-of-use/ "Terms").
 
