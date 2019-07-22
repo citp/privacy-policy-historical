@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hishop.my privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522175709id_/http%3A//www.hishop.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hishop.my privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722160906id_/http%3A//www.hishop.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,6 +107,6 @@ We reserve the right to modify or change the Privacy Policy at any time. When th
 
 ##  Contact Us
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [[email protected]](http://www.hishop.my/cdn-cgi/l/email-protection#6e0d01001a0f0d1a2e06071d06011e400317)
+If you have any questions or concerns about our Privacy Policy, please contact us at [[email protected]](http://www.hishop.my/cdn-cgi/l/email-protection#c6a5a9a8b2a7a5b286aeafb5aea9b6e8abbf)
 
 _Last updated: 20 December 2012_
