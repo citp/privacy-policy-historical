@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardrates.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622130702id_/https%3A//www.cardrates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardrates.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722095919id_/https%3A//www.cardrates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Our Privacy Guarantee
 
