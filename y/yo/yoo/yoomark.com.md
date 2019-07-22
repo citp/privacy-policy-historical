@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909043119id_/http%3A//yoomark.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723011055id_/http%3A//yoomark.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | yoomark
+# Privacy Policy | Yoomark
 
 Privacy Policy  
 What information do we collect?  
