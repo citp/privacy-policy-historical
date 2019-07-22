@@ -1,25 +1,30 @@
-> *The following text is extracted and transformed from the 3in1usatraffic.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129142843id_/http%3A//www.3in1usatraffic.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3in1usatraffic.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722174547id_/http%3A//www.3in1usatraffic.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: 3in1usatraffic.com
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
+  
 Your Information is Private  
 Subscribers are requested to enter limited personal information during signups. Under no circumstance will we sell, transfer or disseminate this personal information gathered by our products to any other entity. 
 
 Our statistics product collects information about visitors to the subscriber's website. This information will also not be sold, transfered or disseminated to any other entity. We may display aggregated data to show industry trends (such as browser share). However, this data shall be the average of many thousands of sites and will in no way linked to individual subscribers. 
 
+  
 Cookie Usage  
 The use of cookies is limited to storing a small amount of non-identifiable information on a visitor's computer. For visitors to our sites, the data is used only to maintain information about the user's session. 
 
 For visitors to sites that have installed our statistics package, cookies are used to enhance the ability of our product to display usage patterns. This information does not in any way reveal any personal data about visitors. Visitors to a subscriber's site will receive a cookie that stores only a generic id, the prior page, time since last visit, and number of the visit. 
 
+  
 Access to Personal Account Data  
 Every subscriber is requested to enter limited personal information that is stored in our databases. This information may include credit card information for pay subscribers. At any time, subscribers may modify this information upon logging into the product using an account id and password. Credit card information is only requested on secure pages (using SSL 128-bit encryption). Credit card information is never re-displayed once entered. 
 
+  
 Opt-In E-Mail Lists  
 Every new subscriber has the option of not receiving site news and special promotional offers by either unchecking the opt-in check-box on the main signup form, or opting out of future mailings by clicking on the 'Opt-Out' link on any e-mail correspondance sent. Once an user opts-out no further e-mails will be sent except for traffic alerts the user sets up and important administrative notices. 
 
+  
 Children's Guidelines  
 This web site meets the guidelines of TRUSTe's Children's program, which means that it does: 
 
