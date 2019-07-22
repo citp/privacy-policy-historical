@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vssc.gov.in privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230230058id_/http%3A//www.vssc.gov.in/VSSC_V4/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vssc.gov.in privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722103809id_/https%3A//www.vssc.gov.in/VSSC/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to VIKRAM SARABHAI SPACE CENTRE - Privacy Policy
+# Privacy Policy
 
 VSSC/ISRO provides the information about Indian Space Programme to public. This Privacy Policy outlines the types of information we gather about you and how we use it.
 
