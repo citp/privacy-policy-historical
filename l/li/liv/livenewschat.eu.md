@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenewschat.eu privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602231113id_/http%3A//www.livenewschat.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenewschat.eu privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722221740id_/https%3A//livenewschat.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 🌤️ LNC - Live News Stream & Chat
 
