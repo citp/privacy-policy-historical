@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgeandburn.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530072650id_/https%3A//www.bridgeandburn.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgeandburn.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722130028id_/https%3A//www.bridgeandburn.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Bridge & Burn
 
