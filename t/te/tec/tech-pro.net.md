@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-pro.net privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520062544id_/http%3A//www.tech-pro.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-pro.net privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722030227id_/http%3A//www.tech-pro.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
