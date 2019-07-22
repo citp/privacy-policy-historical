@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listeruption.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909105450id_/https%3A//listeruption.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listeruption.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722180646id_/https%3A//listeruption.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
