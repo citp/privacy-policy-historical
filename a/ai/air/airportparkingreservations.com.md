@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927211336id_/https%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722191939id_/https%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Airport Parking Reservations.com: Discount Airport Parking Reservations at airports nationwide
-
-## Privacy Policy Statement
 
 Updated 2/12/2014   
 **The Postal address for AirportParkingReservations.com, Inc. is:**
@@ -13,7 +11,7 @@ Santa Monica, CA 90401
 
 Our web site is located at: [https://www.airportparkingreservations.com](https://www.airportparkingreservations.com/)
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by clicking this link: [Contact us](https://www.airportparkingreservations.com/help#contact). 
+If you have any questions or suggestions regarding our privacy policy, please contact us by clicking this link: [contact us](https://www.airportparkingreservations.com/help#contact). 
 
 AirportParkingReservations.com, Inc. knows that you care about how your personal information is collected, stored, shared, and used. We value your trust and will work hard to ensure that any personally identifiable information in our possession is handled carefully and professionally. By visiting AirportParkingReservations.com, Inc. you are accepting the Privacy Policy described herein. 
 
