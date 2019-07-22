@@ -1,170 +1,272 @@
-> *The following text is extracted and transformed from the knowable.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917063904id_/https%3A//www.knowable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowable.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722200131id_/https%3A//www.knowable.com/st/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Knowable
 
-This privacy policy applies to www.knowable.com owned and operated by Tickld, Limited ("Knowable"). Knowable is committed to ensuring that the privacy of all visitors to www.tickld.com is preserved. Please read the following Privacy Policy to understand how we collect, use, disclose and protect the information you provide to us. By using our Site you consent to the collection, use and disclosure of your personal data under the terms of this Privacy Policy.
+**LAST UPDATED: 24 May 2018**
 
-The following words and expressions have the following meanings unless inconsistent with the context: 
+ **Knowable** in the United States is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us, or operated by us or on our behalf, from which you are accessing this Privacy Policy (the “Site”).
 
-Compliance Officer | Kyle contactable at kyle@tickld.com
+* * *
 
-Compliance Officer  
-Tickld, Limited  
-60 St. Clair Avenue East  
-Suite 300  
-Toronto, Ontario  
-M4T 1N5  
-Canada  
-  
----|---  
-Cookies | a small amount of data sent from the server which is then stored on your computer's internal storage device (HDD, SSD);   
-DPA | Data Protection Act 1998 as amended from time to time;   
-'data processors','personal data','process','processing' or 'sensitive personal data' | For UK residents, as defined by the DPA;  
-For Canadian residents, 'personal data' means information about an identifiable individual;   
-PIPEDA | Personal Information Protection and Electronic Documents Act, SC 2000, c. 5 (Canada), as amended from time to time;   
-Site | www.knowable.com;   
-'we', 'us' or 'our' | Tickld, Limited, a company duly incorporated under the laws of Ontario;  
-'you', 'your'' | an individual, company or firm accessing our Site.  
-  
-This Privacy Policy is a statement as to how we shall process your personal data. We take the security and privacy of you and your personal data very seriously and we are committed to safeguarding your privacy on line. Please be aware that communications over the Internet, such as emails, are not secure unless they are encrypted. We do not accept any responsibility for any unauthorized access, theft or loss of personal data beyond our reasonable control. Knowable may change this policy without notice from time to time to reflect changes in legal or regulatory obligations. However, if we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 28 June 2014.
+ **UPDATES TO THIS PRIVACY POLICY** The “LAST UPDATED” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy. 
 
-We may collect the following personal data: 
+* * *
 
-  1. login information you provide to us upon registration with the Site, including your username, email address and password;
-  2. personal data you provide to us following registration with the Site, including your date of birth and location;
-  3. order information you provide to us when you purchase a product from the web store, including your legal name, postal address, details of your order and credit or debit card information;
-  4. when you contact us via email, post or telephone we may collect personal data from you;
-  5. personal data may also be obtained automatically by your internet browser settings;
-  6. demographic information such as IP address, preferences and interests will be collected by Google Analytics software and Facebook Analytics software installed on the Site
-  7. personal data collected where you complete our surveys and/or respond to our offers; and we may also collect non-personally identifiable information about your visit to our Site through the use of cookies. This information may include, for example, the pages you browse. This information helps us to better manage and develop our Site.
-  8. When you download and use our Service, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").
-  9. We do not ask you for, access or track any location based information from your mobile device at any time while downloading or use our Mobile Apps or services.
+**PERSONAL INFORMATION** **“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual: 
+
+* Name
+* Postal address (including billing and shipping addresses)
+* Telephone number
+* Email address
+* Credit and debit card number
+* Profile picture
+* Social media account ID
+* Financial information required to invoice or pay you
+
+ **Collection of Personal Information** We and our service providers collect Personal Information in a variety of ways, including: 
+
+* Through the Site
+
+  * We collect Personal Information through the Site, for example, when you sign up for a newsletter or make a purchase.
+
+
+* From Other Sources
+
+  * We receive your Personal Information from other sources, such as publicly available databases;
+  * joint marketing partners, when they share the information with us
 
 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+If you connect your social media account to your Site account, you will share certain Personal Information from your social media account with us, for example, your name, email address, photo, list of social media contacts, and any other information that may be or you make accessible to us when you connect your social media account to your Site account. 
 
-  1. internal record keeping;
-  2. we can deal with any general queries you raise from time to time by post, by email or by telephone;
-  3. we can process, bill you for and ship you products that you have purchased from our web store;
-  4. we may use the information to improve our products and services;
-  5. we may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided;
-  6. for security purposes to protect your personal data held and/or processed by us;
-  7. for training our employees in respect of providing our products and/or services to you; and
-  8. for our general marketing purposes unless you have notified us to the contrary.
-  9. to process User Moderation Applications; and
-  10. to enforce our Terms of Use, Username Policy and other policies applicable to your use of the Site and our Mobile Apps; and,
-  11. to occasionally send you push notifications through our mobile applications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
+We need to collect Personal Information in order to provide the Site to you. If you do not provide the information requested, we may not be able to provide the Site. If you disclose any Personal Information relating to other people to us or to our service providers in connection with the Site, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
 
+* * *
 
+**Use of Personal Information** We and our service providers use Personal Information for legitimate business purposes, including: 
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+* Providing the functionality of the Site and fulfilling your requests.
 
-  1. Our data processors. We may share personal data with third parties engaged to assist us in providing services to you or to carry out one or more of the purposes described above. These service providers are prohibited from using your personal data for any purpose other than to provide this assistance and are required to protect personal data collected by them on behalf of Knowable or disclosed to them by Knowable and to comply with the general privacy principles described in this policy.
-  2. Such marketing companies used by us from time to time
-  3. We reserve the right to disclose personal data to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-  4. We reserve the right to disclose and/or transfer personal data to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Knowable, Limited or of any of the business or assets or shares of Knowable, Limited or a division thereof in order for you to continue to receive the same products and services from the third party. In any of these events, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * To provide the Site’s functionality to you.
+  * To respond to your inquiries and fulfill your requests.
+  * To send administrative information to you, such as changes to our terms, conditions, and policies.
+  * To allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
 
 
 
-We are committed to ensuring that your personal data is secure. In order to prevent loss, theft and unauthorized access, copying, use, modification or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and help secure the personal data we collect. All of our employees and sub-contractors with access to your personal data and/or who are associated with the processing of that data are contractually obliged to respect the confidentiality of your personal data. Our safeguards include firewalls, encryption technology, penetration testing, password protected computers and detailed contracts with our employees and contractors.
+We engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation. 
 
-We retain your personal data for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) remains valid after termination of our relationship with you.
+* Providing you with our newsletter and/or other marketing materials and facilitating social sharing.
 
-For the purposes set out in this policy, we or one of our affiliates or an unaffiliated service provider may process and store your personal data outside of the jurisdiction in which you reside, and under the laws of those other foreign jurisdictions, in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in those other foreign jurisdictions may be entitled to access your personal data. For more information about our policies and practices related to the use of foreign service providers, please contact our Compliance Officer as described above.
-
-Our Site uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
-
-Our cookies can be categorized into the following types:
-
-  1. Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas.
-  2. Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily.
+  * To send you marketing communications that we believe may be of interest to you.
+  * To facilitate social sharing functionality that you choose to use.
 
 
 
-Our cookies help us:
+We engage in these activities with your consent, to the extent consent is required by applicable law. Analysis of Personal Information for business reporting and providing personalized services. 
 
-  1. Make our website work as you would expect
-  2. Save you having to login every time you visit the site
-  3. Remember your settings during and between visits
-  4. Offer you free services/content (thanks to advertising)
-  5. Improve the speed/security of the site
-  6. At your option, allow you to share pages with social networks like Facebook
-  7. Personalize our site to you to help you get what you need faster
-  8. Continuously improve our website for you
+* To personalize your experience on the Site by presenting content, products, and offers tailored to you.
 
+We provide personalized services either with your consent or because we have a legitimate interest. 
 
+* Allowing you to participate in sweepstakes, contests or other promotions.
 
-We do not use cookies to:
-
-  1. Collect any personally identifiable information (without your express permission)
-  2. Collect any sensitive information (without your express permission)
-  3. Share personally identifiable data to third parties (except as otherwise set out in this policy).
+  * We may offer you the opportunity to participate in a sweepstakes, contest or other promotion.
+  * Some of these promotions have additional rules, which could contain information about how we will use and disclose your Personal Information.
 
 
 
-We use cookies to make our website work including:
+We use this information to manage our contractual relationship with you. 
 
-  1. Determining if you are logged in or not
-  2. Allowing you to add comments to our site
-  3. Tailoring content to your needs
-  4. There is no way to prevent analytical or performance cookies being set other than to not use our Site. If you have disabled cookies in your browser, you will be denied access to the portions of the website that legitimately require cookies for functionality.
+* Aggregating and/or anonymizing Personal Information.
 
+  * We may aggregate and/or anonymize Personal Information so that it will no longer be considered Personal Information. We do so to generate other data for our use, which we may use and disclose for any purpose.
 
 
-We also use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the applications, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable informarion you submit within the mobile app.
+* Accomplishing our business purposes.
 
-You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
-
-**Cookie**|  **Name**|  **Purpose**  
----|---|---  
-Google Analytics| _utma, _utmb, _utmc, _utmz| These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-CloudFlare| __cfduid| In order to protect our website from security threats such as hackers and to boost its performance, we route our DNS through CloudFlare. This cookie is set by the CloudFlare service.  
-Login| remember_me| Detect whether the user has opted to remain logged in on their computer  
-Passcode| pass| An encrypted alphanumeric string to verify the user's identity  
-User ID| userID| Save the user's unique identification number  
-  
-Social Website Cookies/Media Widgets
-
-So you can easily share our content on the likes of Facebook and Twitter we have included sharing buttons on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
-
-Advertising Cookies
-
-Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We only work with advertising partners who work to accepted privacy standards such as <http://www.youronlinechoices.com/uk/> if you’re in the United Kingdom or [http://youradchoices.ca](http://youradchoices.ca/), which a website managed by the Digital Advertising Alliance of Canada (DAAC) if you’re in Canada.
-
-You can learn more about online advertising at [http://www.youronlinechoices.com](http://www.youronlinechoices.com/). You can opt-out of almost all advertising cookies at <http://www.youronlinechoices.com/uk/your-ad-choices> although we would prefer that you didn't as ultimately adverts help keep much of the internet free. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, just simply that they won't be tailored to you any longer.
-
-We use:
-
-  1. AdSense
-  2. AdX
-  3. Rubicon
-  4. Sortable
-  5. AOL
-  6. Tribal Fusion
-  7. Taboola
+  * For data analysis, for example, to improve the efficiency of our Site.
+  * For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory or contractual requirements.
+  * For fraud and security monitoring purposes, for example, to detect and prevent cyber attacks or attempts to commit identity theft.
+  * For developing new products and services.
+  * For enhancing, improving, or modifying the Site and our services.
+  * For identifying usage trends, for example, understanding which parts of our Site are of most interest to users.
+  * For determining the effectiveness of our promotional campaigns, so that we can adapt our campaigns to the needs and interests of our users.
+  * For operating and expanding our business activities, for example, understanding which parts of our Site are of most interest to our users so we can focus our energies on meeting our users’ interests.
 
 
 
-Please note that third parties (including, for example advertising networks and providers or external services like web traffic analysis services) will use cookies over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. Information on how to block cookies can normally be found within the help features of your browser. If you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site. Information can also be found on the main browser websites: <http://support.microsoft.com/kb/196955> (Internet Explorer), <http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox), <http://support.apple.com/kb/PH5042> (Safari)  
-[http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) (Chrome).
+We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest. 
 
-Except for essential cookies, cookies from Google Analtyics and cookies from CloudFlare, all cookies will expire after 30 days. You may choose to clear these cookies prior to their automated expiration date.
+* * *
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+**Disclosure of Personal Information** We disclose Personal Information: 
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our Site, you should note that we do not have any control over that other website and the privacy practices of other websites. We cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy Policy. You should exercise caution and look at the privacy statement applicable to the website in question.
+* To our third party service providers, to facilitate services they provide to us.
 
-You can log in to our site using sign-in services such as Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services such that of Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-You may choose to restrict the collection, use or disclosure of your personal data in the following ways: 
-
-  1. When you submit posts or leave comments on the site, you should be aware that any information you provide may be read, collected, and used by others who access them. You can remove any of your previously submitted information, by contacting choosing the delete option or by contacting us at hello@knowable.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-  2. If you have previously agreed to us using your personal data, you may change your mind at any time by emailing us at hello@knowable.com. We will not sell, distribute, rent or lease your personal data to third parties unless we have your permission or are required by law to do so;
-  3. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by emailing us at hello@knowable.com.
-  4. We may use your personal data to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You have the right to object to your personal data being used for 'direct marketing' purposes. You can change your options in relation to the promotional information you wish to receive at any time by contacting our Compliance Office in writing by post or email;
-you can set your internet browser to refuse cookies or you can ask your internet browser to alter you when a cookies is being set up (see 'How We Use Cookies'); 
-  5. You have the right to request from us information as to what personal data which we are processing about you under the DPA 1998, PIPEDA and other applicable privacy laws. Unless prohibited by law, a small fee of $10.00 CAD will be payable. Such requests will only be answered by registered post to ensure the privacy of the recipient. If you would like a copy of the relevant information please write by post or email to the Compliance Officer with the subject line '€˜Personal Data'™, which should be accompanied by the $10.00 fee (if applicable). We will provide you with the relevant information within 30 days of receipt of the fee or otherwise as required by law; and
-  6. For UK residents, you have other rights under the DPA in relation to our processing of your personal data.
+  * These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
 
 
+* To third parties like SendPulse, to permit them to send you marketing communications, consistent with your choices.
+* To third-party sponsors of sweepstakes, contests, and similar promotions.
+* By using the Site, you may elect to disclose Personal Information:
+
+  * On message boards, chat, profile pages, blogs and other services to which you are able to post information and content. Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.
+  * To identify you to anyone to whom you send a message via the Site.
+  * Through your social sharing activity. When you connect your Site account with your social media account, you will share information with your friends associated with your social media account, with other users, and with your social media account provider. By doing so, you authorize us to facilitate this sharing of information, and you understand that the use of shared information will be governed by the social media provider’s privacy policy.
+
+* * *
+
+ **Other Uses and Disclosures** We also use and disclose your Personal Information as necessary or appropriate, especially when we have a legal obligation or legitimate interest to do so: 
+  * To comply with applicable law.
+
+
+  * This can include laws outside your country of residence.
+
+
+* To respond to requests from public and government authorities. 
+
+  * These can include authorities outside your country of residence.
+
+
+* To cooperate with law enforcement.
+* For example, when we respond to law enforcement requests and orders.
+* For other legal reasons.
+
+  * To enforce our terms and conditions; and
+
+
+  * To protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.
+
+
+* In connection with a sale or business transaction.
+
+  * We have a legitimate interest in disclosing or transferring your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). Such third parties may include, for example, an acquiring entity and its advisors.
+
+
+
+* * *
+
+ **OTHER INFORMATION** **“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an individual: 
+
+* Browser information
+* Server log files
+* Information collected through cookies, pixel tags, and other technologies
+* Demographic information and other information provided by you that does not reveal your specific identity
+* Information that has been aggregated in a manner such that it no longer reveals your specific identity
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Privacy Policy. 
+
+**Collection of Other Information** We and our service providers collect Other Information in a variety of ways: 
+
+* Through your browser or device:
+
+  * Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device manufacturer and model, language and Internet browser type you are using. We use this information to ensure that the Site functions properly.
+
+
+* IP Address:
+
+  * Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address can be identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
+
+
+* Using cookies:
+
+Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Site, as well as for online tracking purposes. We also gather statistical information about the usage of the Site in order to continually improve the design and functionality, understand how the Site is used and to assist us with resolving questions regarding the Site. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Site. We also use cookies in online advertising to track responses to our advertisements and we use cookies or other files to track your use of other websites.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer [here](http://www.allaboutcookies.org/manage-cookies/index.html) and [here](https://tools.google.com/dlpage/gaoptout). However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site. For example, we may not be able to recognize your computer and you may need to log in every time you visit the Site. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+
+* “Do Not Track” signals:
+
+  * The Site will continue to operate as described in this Privacy Policy, whether or not a “Do Not Track” signal or similar mechanism is received from your browser.
+
+
+* Using pixel tags and other similar technologies:
+
+  * Pixel tags (also known as web beacons and clear GIFs) are used in connection with some Site pages and HTML-formatted email messages to, among other things, track the actions of Site users and email recipients, measure the success of our marketing campaigns and compile statistics about Site usage and response rates.
+
+
+* Physical Location:
+
+  * We collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We use your device’s physical location to provide you with personalized location-based services and content. We also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our service providers and/or marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we, our service providers and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
+
+
+* From you:
+
+  * Information such as your preferred means of communication is collected when you voluntarily provide this information.
+
+
+
+ **Uses and Disclosures of Other Information** We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined. 
+
+* * *
+
+**THIRD PARTY SITES OR SERVICES** This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site or service by us or by our affiliates. 
+
+* * *
+
+**THIRD PARTY ADVERTISERS** We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access or use the Site. 
+
+You may receive advertisements based on information relating to your access to and use of the Site and other websites or online services on any of your devices, as well as on information received from third parties. These companies place or recognize a unique cookie on your browser (including through the use of pixel tags). They also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit [here](https://tools.google.com/dlpage/gaoptout) and [here](http://optout.networkadvertising.org/?c=1#!/). 
+
+* * *
+
+**SECURITY** We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. Please also be aware that we use third-party cloud service providers that provide hosting, data storage and other services pursuant to standard terms and conditions that may be non-negotiable; these service providers have informed us or the general public that they apply security measures they consider adequate for the protection of information within their system, or they have a general reputation for applying such measures. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us in accordance with the “Contacting Us” section below. 
+
+* * *
+
+**CHOICES AND ACCESS** **Your choices regarding our use and disclosure of your Personal Information**
+
+* We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: Receiving marketing-related emails from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking on the unsubscribe links provided in emails.
+* Our sharing of your Personal Information with affiliates for their direct marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by turning off this feature in any services we provide you.
+* Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by turning off this feature in any services we provide you.
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that, if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out. 
+
+**How you can access or change or delete your Personal Information** If you would like to request to review correct, update, suppress, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing to us [here](mailto:info@knowable.com) or to Personal Information Request, Knowable, 1001 6th Avenue, 14th Floor, New York, NY, 10018. We will respond to your request consistent with applicable law. 
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. 
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). 
+
+* * *
+
+**RETENTION PERIOD** We retain Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law. 
+
+The criteria used to determine our retention periods include: 
+
+* The length of time we have an ongoing relationship with you and provide the Site to you (for example, for as long as you have an account with us or keep using the Site);
+* Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+* Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
+
+* * *
+
+ **USE OF SITE BY MINORS** The Site is not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13. 
+
+* * *
+
+**JURISDICTION AND CROSS-BORDER TRANSFER** Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Site you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information. 
+
+If you are located in the European Economic Area (comprised of the EU Member States, Iceland, Liechtenstein, and Norway, together “EEA”): Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](https://ec.europa.eu/info/law/law-topic/data-protection_en). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission to protect your Personal Information. You may obtain a copy of these measures by contacting us in accordance with the “Contacting Us” section below. 
+
+* * *
+
+**SENSITIVE INFORMATION** We ask that you not send us, and you not disclose, any sensitive Personal Information (for example, social security numbers, credit card information, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Site or otherwise to us. 
+
+* * *
+
+**THIRD PARTY PAYMENT SERVICE** We will use a third-party payment service to process payments made through the Site. If you wish to make a payment through the Site, your Personal Information will be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information. 
+
+* * *
+
+**CONTACTING US** Knowable is located at 1001 6th Avenue, 14th Floor, New York, NY 10018, is the company responsible for the collection, use, and disclosure of your Personal Information under this Privacy Policy. 
+
+If you have any questions about this Privacy Policy, please contact us by email [here](mailto:info@knowable.com), or please write to the following address: 
+
+Knowable 1001 6th Avenue, 14th Floor New York, NY 10018 
+
+Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us. 
+
+* * *
+
+**ADDITIONAL INFORMATION FOR INDIVIDUALS IN THE EEA** If you are located in the EEA, you also may: Contact us [here](mailto:info@knowable.com) with any questions about this Privacy Policy.
+
+Lodge a complaint with a data protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs.
