@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907192330id_/https%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722164022id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy| ItaliaRail.com
+# Privacy Policy| ItaliaRail
 
 ItaliaRail.com, a website owned by InterRail LLC, is committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by ItaliaRail.com. The purpose of this policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
@@ -82,7 +82,7 @@ ItaliaRail.com is subject to the investigative and enforcement powers of the FTC
 
 This Policy is effective as of May 21st, 2018. We reserve the right to change this policy at any time, and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis.
 
-**VI. Trenitalia S.p.A.** **Night Train Personal Data Protection Policy**
+**VII. Trenitalia S.p.A.** **Night Train Personal Data Protection Policy**
 
 _Specific rules concern the data that it will be necessary to provide when boarding night trains of Trenitalia S.p.A., the rail carrier whose tickets we sell for services in Italy. We report below the relevant excerpt of the Personal Data Protection Policy of Trenitalia S.p.A_
 
@@ -105,5 +105,3 @@ All of the customers’ data will not be disclosed to third parties and they wil
 The list of all the persons in charge of customers’ data can be examined in Rome, at Trenitalia Divisione Passeggeri N/I building, at p.zza della Croce Rossa 1.
 
 Any right against the responsible of data collection may be exercised under the Italian law 196/03 article 7.
-
-[ **VII. Trenitalia S.p.A. Day Train Personal Data Protection Policy**
