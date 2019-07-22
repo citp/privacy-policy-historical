@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femaleorgasmrevealed.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522191259id_/http%3A//www.femaleorgasmrevealed.com/new/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femaleorgasmrevealed.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722183529id_/http%3A//www.femaleorgasmrevealed.com/new/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
