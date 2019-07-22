@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the getnymi.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326072008id_/https%3A//nymi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getnymi.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722223613id_/https%3A//nymi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nymi
 
 ## NYMI PRIVACY POLICY
+
+If you are visiting from the EU see our [GDPR Privacy Policy](https://web.archive.org/gdpr-privacy).
+
+[Click here](https://web.archive.org/cookie-policy) to view our Cookie Policy.
 
 ### Last Updated: August 2016
 
