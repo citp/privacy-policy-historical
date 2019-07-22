@@ -1,84 +1,163 @@
-> *The following text is extracted and transformed from the itcosmetics.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408094458id_/https%3A//www.itcosmetics.com/privacy%23sign-up-modal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcosmetics.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722210425id_/https%3A//www.itcosmetics.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | IT Cosmetics
 
-**_Last Updated: January, 2016_** ** __**
+**IT Cosmetics Commitment to Our Consumers**
 
-**IT Cosmetics, LLC (the “IT Cosmetics”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company’s website at**[www.itcosmetics.com](http://www.itcosmetics.com/)  **(the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.**
+ 
 
-### 1\. **What Does This Privacy Policy Cover?**
+IT Cosmetics is committed to building a lasting and meaningful relationship with you, our consumer, and we recognize that this relationship must be built on mutual trust. IT Cosmetics is a member of the L’Oreal USA family of brands and this privacy policy sets forth how we collect, use and safeguard information you entrust with us. L’Oreal collects data to provide you the best products, beauty experiences and personalization from our brands.
 
-This Privacy Policy covers IT Cosmetics’ treatment of personal information that IT Cosmetics collects when you access its Website or mobile services. IT Cosmetics’ Website and mobile services are intended for a US audience, and are governed under the laws of the United States. Do not use our Website or mobile services if you do not agree to the transfer and processing of your personal information by IT Cosmetics in the United States.
+_**Everything**_ **we do, and the data we collect, is in pursuit of giving you a better beauty experience**
 
-This policy does not apply to the practices of third party companies that IT Cosmetics does not own or control, to third party websites (even if linked to the Website), or to individuals that IT Cosmetics does not employ or manage. The Website contains links to other sites. IT Cosmetics is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Please be aware that whenever you voluntarily post information to public areas on the Website or any other public forums, such information can be accessed by the public.
-
-### 2\. **What Personal Information Does IT Cosmetics Collect?**
-
-As described in further detail below, IT Cosmetics may collect personal information from visitors to our Website or mobile services directly when someone signs up for our newsletter, creates an account on our Website, purchases our products, or otherwise contacts us. We may also collect information automatically through the use of cookies or other similar technologies. This information enables us to personalize and improve our services and your experience online, for marketing and promotional purposes, and to process customer orders and fulfill other customer requests.
-
-_**Information You Provide to Us:**_ **** We receive and store any information you enter on the Website or provide to us in any other way, including Personal Information you provide to us in registration or to complete an order on the Website, such as your name, birthday, email address, billing address, shipping address, and credit card number, as well as any information on your favorite products or other cosmetic preferences to personalize your experience. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the advertising and content you see, and communicating with you about specials and new features. You may modify or remove your Personal Information identified below at any time by logging into your account and accessing features to edit your profile and account information.
-
-_**Information Automatically Collected** : _ We receive and store certain types of information whenever you interact with the Website or obtain services from us. The types of information collected may include, without limitation, technical information such as the type of browser you use, the server name and IP address through which you access the internet, the date and time you access the Website, the pages you access, and the internet address of the Website, if any, from which you linked directly to the Website, and other information about your use and interaction with our Website and mobile services.  Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. We use this information to facilitate the operation of our Website and mobile services, to personalize your online experience, and to improve our products and services. As part of this use of information, we may also provide aggregate information to our partners about how our users, collectively, use our Website and mobile services. We share this type of statistical data so that our partners also understand how often people use their services and the Website, so that they, too, may provide you with an optimal online experience. Aggregate information would not identify you personally.
-
-**_Cookies and other Tracking Technologies:_** Cookies are alphanumeric identifiers that are automatically transferred to your computer’s hard drive through your browser to enable our systems to recognize your browser, tell us how and when pages in our Website are visited and by how many people, and to enable certain features on our Website and mobile services. IT Cosmetics and its third party service providers use cookies and other tracking technologies over time on our Website as well as across the web to help facilitate site features, deliver customized advertising, and to personalize your experience. Because an industry-standard Do-Not-Track protocol is not yet established, the choices we offer will continue to operate as described in this Privacy Policy independent of any Do-Not-Track signals.  
-
-We also may use cookies and other technologies to receive confirmation when you open an email from us, if your computer supports this type of program. IT Cosmetics uses this confirmation to help us make emails more interesting and helpful. We also compare our user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users. 
-
- Most browsers have an option to reject or disable cookies, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you elect to disable cookies, you may not be able to take advantage of some of the Website’s most attractive features.
-
-**_Children’s Privacy._** IT Cosmetics’ Website and mobile services are not intended for use by children, and we do not knowingly collect or solicit personal information from anyone under the age of 13. In the event that we learn that a child under the age of 13 has registered for our Website, we will delete that information as soon as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at info@itcosmetics.com.
-
-### 3\. **Will Company Share Any of the Personal Information it Receives?**
-
-Personal Information about our users is an integral part of our business. We do not rent, sell or share your Personal Information to unaffiliated third parties for their own use or purposes. However, we may share your Personal Information as described below.
-
-_**Third Party Service Providers:**_  We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, providing user services, fulfilling orders, delivering packages, maintaining and operating the Website, providing marketing assistance, processing credit card payments, investigating fraudulent activity and conducting customer surveys. Unless we tell you differently, our service providers do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
-
-_**Business Transfers:**_  In some cases, we may choose to buy or sell business assets that may include customer information. In these types of transactions or other corporate restructuring, user information is typically one of the business assets that is transferred. Moreover, if IT Cosmetics or substantially all of its assets were acquired, or in the unlikely event that IT Cosmetics goes out of business or enters bankruptcy, customer or user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of IT Cosmetics or its information assets may continue to use your Personal Information as set forth in this policy.
-
-_**As Required by Law or For the Protection of Company and Others:**_ ** ** We may release Personal Information when we believe in good faith that release is necessary to comply with the law or pursuant to legal process. We may also share information as we believe necessary to enforce or apply our Terms of Use and other agreements, or protect the rights, property, or safety of IT Cosmetics, our employees, our customers or users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
-
-_**Otherwise With Your Consent:**_ ** ** Except as set forth in this Privacy Policy, you will be notified when your Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
-
-### _4._ **Our Communications With You __**
-
-_We may use your information to communicate with you about your transactions or other requests, as well as to inform you about products and services that you may be interested in._ __
-
-_**Communication in response to User requests:**_  As part of the Website and our services, you may receive from IT Cosmetics email and other communication relating to your purchases or other transactions on our Website, your use of the Website or mobile services, or your account or user profile. If you provide IT Cosmetics with your telephone number, we may contact you at that number in connection with orders you have submitted on the Website.
-
-_**Promotional Offers:**_ ** ** We may use your information to send promotional offers for products and services from IT Cosmetics and our business partners. We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. Additionally, you may subscribe to our IT Cosmetics’ newsletter on the Website. If you do not wish to receive these offers, or wish to cancel your subscription or our newsletter, please send us an email to unsubscribe at info@itcosmetics.com.
-
-### 5\. Information Security
-
-Your account information is protected by a password for your privacy and security. You should help to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. IT Cosmetics endeavors to protect sensitive customer account information in its possession, and uses technical safeguards to help protect your online transaction information from third party interception. However, IT Cosmetics cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures IT Cosmetics uses in connection with the Website, please contact us at info@itcosmetics.com.
-
-### 6\. **What Personal Information Can I Access?**
-
-IT Cosmetics allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes. You may currently access the following information:
-
-  * Name
-  * Email Address
-  * Shipping Address
-  * Billing Address
+  * We collect and use data to shape your beauty experience with personalized products, services and offers
+  * We respect your privacy and choices. You can opt-out at any time
+  * We do not sell your data
+  * We require partners to abide by the law and protect your information
+  * We will continue to evolve and update our privacy and security practices because retaining your trust is important to us
 
 
 
-### 7\. **What Other Choices Do I Have?**
+Our detailed privacy policy below describes the types of information we collect from you directly, from your interactions with us (our Sites and advertising), how we use it, how we protect and keep it secure, and your rights as our consumer. This policy is for consumers and visitors of our Sites in the United States _only_. Visitors from other countries should visit the L’Oréal/brand site for your part of the world. There is also a separate policy located on the L’Oreal Careers web site for job applications. If you have any questions or concerns, please contact us at [info@it-cosmetics.com](mailto:info@it-cosmetics.com).
 
-As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Site features. You may also unsubscribe to our newsletter or other marketing communications any time by emailing us at [info@itcosmetics.com](mailto:info@itcosmetics.com).
+**BELOW IS OUR ABBREVIATED PRIVACY POLICY. CLICK ON “READ MORE” TO LINK TO THE FULL PRIVACY POLICY AND PLEASE[CONTACT US](mailto:info@it-cosmetics.com) IF YOU HAVE ANY QUESTIONS.**
 
-You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. You may request to close your IT Cosmetics account by sending an email to info@itcosmetics.com. Please note that some information may remain in our records after deletion of your account.
+**HOW WE COLLECT INFORMATION**
 
-### 8\. **Changes to This Privacy Policy**
+L’Oreal collects information that you provide to us, from your engagement with our brand sites and platforms, advertising, media, and from third parties who have your consent to share it. Read More.
 
-IT Cosmetics may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you via email or by posting an announcement on the Website. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted. Please note that if you do not want to receive communications from us, such as updates to this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
+**WHY WE USE DATA**
 
-### 9\. **Your California Privacy Rights**
+**_Everything_ we do, and the data we collect, is in pursuit of bringing beauty experiences to your life**
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are residents of the state of California in the United States to annually request and obtain, at no charge, information about the personal information (if any) we have disclosed to third parties for direct marketing purposes in the preceding calendar year. This information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request info@itcosmetics.com.
+We use data within the L’Oreal USA family of brands to communicate with you about our beauty products, services, answer questions and create better experiences. We use data for tailored advertising and communications.
 
-### 10\. **Questions or Concerns**
+We may combine information that we collect via one method (e.g., from a website, our digital advertising) with another method (e.g., an offline event). We do this to get a more complete view of your preferences for our beauty products and services, which, in turn, allows us to serve you better and with more customization and better beauty products. Read More.
 
-If you have any questions or concerns regarding privacy at IT Cosmetics, please send us a detailed message to info@itcosmetics.com. We will make every effort to resolve your concerns.
+**YOUR CHOICES**
 
-Innovative Technology Cosmetics™
+You can unsubscribe from our sites at any time. You can also opt-out of interest based advertising as well as SMS messaging, push notifications. Read More.
+
+**DETAILED PRIVACY POLICY**
+
+**1\. HOW WE COLLECT INFORMATION (USA)**
+
+L’Oreal collects information that you provide to us, information from your engagement with our Sites, advertising and media, and information from third parties who have gained your consent to share it. We may combine information that we collect via one method (e.g., from a website, our digital advertising engagement) with another method (e.g., an offline event). We do this to get a more complete view of preferences for our beauty products and services, which, in turn, allows us to serve you better and with more customization and better beauty products.
+
+Here are some examples of the type of information we collect and how we may use it:
+
+**Personal Information You Provide:** When you create an account on a L’Oreal site, make purchases with us (online or in-store), join a loyalty program, enter a contest, share photograph, video or product reviews, sign up to receive offers or email, we collect the information that you provide to us. This information includes Personal Information (information that can be used to identify you as an individual) such as your name, social media handle, email, telephone number, home address, and payment information (such as account or credit card number). We also collect information about your beauty preference, your use of our sites, demographic, and interests so that we can customize beauty your experiences. We also collect information about your beauty preference, your use of our sites, demographic, and interests so that we can customize your beauty experiences.
+
+You may also be able to register and log in using a social media account, including your Facebook account. When you use a social media account to log into the Sites, you may also be able to use certain social features on the Sites. For Facebook log in, Facebook will ask your permission to share certain information from your Facebook account with the Site. This may include your first name, last name, gender, profile picture. This information is collected by Facebook and is provided to us under the terms of Facebook’s privacy policy. You can control the information that we receive from Facebook using the privacy settings in your Facebook account.
+
+If you use our virtual try on features, we may collect and store your image(s), for example, if you use social sharing to send your image to a friend or post it online or if you save it to your profile. 
+
+**Cookies and Other Technologies:** Our Sites, applications, email messages, and advertisements may use cookies and other technologies such as pixel tags and web beacons. These technologies are used for analytic purposes to help us understand usage of our Sites (what works and what doesn’t). They also help us to measure the effectiveness of our advertisements, content and digital services. Cookies also provide functional purposes to remember what choices you make on our sites so we can enhance our offer (such as personalizing certain webpages or adding videos you have requested).
+
+**Device Identifiers:** We and our third party service providers automatically may collect an IP address or other unique identifier information ("Device Identifier") for the computer, mobile device, technology or other device (collectively, "Device") you use to access the Sites or on third party websites that publish our advertising. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. For mobile devices, a Device Identifier is a unique string of numbers and letters stored on your mobile device that identifies it. We may use a Device Identifier to, among other things, administer the Sites, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify you and your shopping cart, deliver advertising and gather broad demographic information.  
+If you would prefer not to accept cookies, you can change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; or set your browser to automatically reject any cookies. However, please be aware that some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your account. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. To learn more about cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+**Mobile Services/Apps:** Certain of our mobile apps offer opt–in, geo–location services and push notifications. Geo-location services provide location–based content and services, such as store locators, local weather, promotional offers and other personalized content. Push notifications can include discounts, reminders or details about local events or promotions. Most mobile devices allow you to turn off location services or push notifications. If you consent to location services, we will collect information about the Wi–fi routers closest to you and the cell IDs of the towers closest to you to provide location–based content and services.
+
+**In-Store Analytics:** We may use certain in-store wireless services (such as Wi-Fi networks and Bluetooth beacons) to automatically collect non-identifying information about visitors to our stores. Our Wi-Fi routers capture certain data from mobile devices that interact with the router, including information about your mobile device (such as a MAC Address and signal strength data). Bluetooth beacons are small devices that broadcast a Bluetooth signal to map nearby Bluetooth-enabled mobile devices. We may use the data collected from these in-stores wireless services to provide operational insights such as foot traffic volumes and how customers move through our stores.
+
+**Pixels:** In some of our email messages, we use click through URLs that will bring you to content on our sites. We also use pixel tags to understand whether our emails are read or opened. We use learning from this information to improve our messages, reduce frequency of messages to you or determine interest in content we share.
+
+**Information From Third Parties:** We receive information from third party partners, such as publishers that run our advertising, and retailers who feature our products. This information includes marketing and demographic data, analytics information, and offline records. We may also receive information from other companies that collect or aggregate information from publicly available databases or if you consented to allow them to use and share your information. This might be de-identified information about purchasing patterns, location of shoppers and sites that are of interest to our consumers. We also collect information about users who share common interests or attributes (e.g. color treated hair) to create user “segments,” which help us to better understand and market to our customers. We may use your data as part of health-related segments about non-sensitive conditions such as dry skin.
+
+**Social Platforms:** You also can engage with our brands, content, applications, and other promotional or events via social media services or other third party platforms, such as Facebook (including Instagram), or other third-party social media plug-ins. When you engage with our content on or through social media or other third party platforms, plug-ins, integrations or applications, you may provide us with access to certain Information in your profile. This may include your name, e-mail address, photo, gender, birthday, location, an ID associated with the applicable third party platform or social media account or your posts or "likes." For a description on how social media services and other third party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings and/or delete your history.
+
+When we interact with you through our content on third party websites, applications, integrations or platforms, we may obtain any information regarding your interaction with that content, such as content you have viewed and information about advertisements within the content you have been shown or may have clicked on.
+
+**2\. WHY WE COLLECT INFORMATION?**
+
+Everything we do, and the data we collect, is in pursuit of bringing beauty to your life. We use information for beauty to provide better products, services, customization and offers from L’Oreal USA brands. For example, we use information to:
+
+  * Provide tailored content, services, advertisements and offers
+  * Respond to questions and providing news, emails/communication from us
+  * Administer and manage your account or loyalty program membership
+  * Verify your identity and preventing fraud
+  * Fulfill product purchases
+  * Contact you, send notice of changes to a L’Oréal USA policy
+  * Improve effectiveness of our Sites, stores, customer service, and product offerings
+  * Conduct research and analytics
+  * Allowing log in, sharing and use of our content with a social media account
+  * Provide shipping and other rewards from your selected third party providers (such as ShopRunner)
+  * Post your content and consumer reviews on the Sites, our social media pages and related third party sites that retail or feature our brands and products
+  * Enforce our terms of use and complying with applicable laws
+
+ 
+
+**3\. YOUR PRIVACY RIGHTS, YOUR CHOICES**
+
+You may change your preferences and unsubscribe from email services from our brands by: (i) modifying your registered user information on the Sites; (ii) sending us an e–mail by clicking [here](mailto:info@it-cosmetics.com); or (iii) following the unsubscribe instructions in the communication that you receive.
+
+You may at any time opt out from push notifications and allowing L’Oreal USA to access location data by adjusting the permissions in your mobile device. You can stop all further collection of information by our mobile applications by uninstalling the mobile application. Please note that if you uninstall the mobile application from your mobile device, the unique identifier associated with your mobile device will continue to be stored. If you re-install the application on the same mobile device, we will be able to re-associate this identifier to your previous transactions and activities.
+
+In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
+
+We will retain your Personal Information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services, contact us [here](mailto:info@it-cosmetics.com). We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
+
+**4\. USER CONTENT PERMISSION**
+
+We love hearing from you and when you share it with us. These User Content Permission Terms, together with our Privacy Policy and general site terms and conditions apply if you upload content (e.g. pictures or reviews) to our sites, hashtags, social pages or if you respond “yes” to a request by us to re-use your content. 
+
+These User Content Permission Terms provide your consent to It Cosmetics and our parent, L’Oreal, affiliates and third party providers (collectively It Cosmetics) as follows:
+
+You grant It Cosmetics a worldwide, royalty-free, non-exclusive, transferable right to use your video(s), photo(s) and/or other content posted online (e.g. Instagram, Facebook, Twitter, or other platform) in addition to those you have tagged with #itcosmetics or an It Cosmetics campaign hashtag together with your social media handle, social media user name, profile picture, caption and location information you may have included in your content (“User Content”) in any media, including but not limited to on its webpages, social media pages and other digital media, newsletters, retailer sites, third party sites, print materials, in-store materials, television and other broadcast media, for its marketing and/or its advertising. It Cosmetics may use, reproduce, modify, delete in its entirety, adapt, publish, translate, create derivative works in any manner in its sole discretion.
+
+You represent and warrant that you own all rights in and to User Content, you have permission from any person(s) appearing in User Content to grant the rights herein, you are not a minor.
+
+The User Content is a true and accurate expression of your honest belief based on use of It Cosmetics products and that you have and will disclose receipt of any free product or incentives in exchange for providing User Content.
+
+You hereby release, discharge and agree to hold It Cosmetics and any person acting on It Cosmetics’ behalf harmless from any liability related in any way with the User Content.
+
+You consent to It Cosmetics’ collection of any personal information you provide, and It Cosmetics’ use and disclosure of that personal information in connection with the use of your User Content as described above. Your personal information may be transferred to or accessible all over the world, and may be shared with affiliates or other trusted third parties working on It Cosmetics’ behalf. By posting User Content with any Hashtag(s) or otherwise providing It Cosmetics with personal information, you agree to such collection, use, disclosure, transfer and processing of your information in accordance with these Permission Terms, It Cosmetics’ Privacy Policy , and applicable data protection laws and regulations.
+
+**5\. INTEREST-BASED ADVERTISING AND ADCHOICES**
+
+We use third party companies to serve advertisements, measure the performance and engagement with our ads, provide analytic, preference, and interest information. In some instances, these ad network providers, social platforms, sponsors, and/or analytics service providers may use their own tracking technology to capture information about your device, use and engagement online. 
+
+You can opt out of receiving targeted advertising through the [Network Advertising Initiative (NAI) Opt–Out Page](http://optout.networkadvertising.org/?c=1#!/). Options are Device-specific, so if you use multiple Devices, you should opt out on each one. You can also opt out of certain targeted advertising programs by clicking on the AdChoices icon that may appear on some of our advertising. Some social networks, such as Facebook (https://www.facebook.com/ads/preferences/?entry_product=education_page), allow you to exercise ad choices, limit data collection and clear your history on that platform as well. We may use more than one third party company for placing this advertising, which requires opt out of each program. You will still see advertisements while you're browsing online but they may not be targeted to you based on your interests. The NAI Opt–Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
+
+**6\. TEXT/SMS MESSAGE CONSENT AND OPT-OUT**
+
+If you choose, you can provide your mobile phone number to receive text message alerts from our stores or sites to receive product and/or event information, tips or promotions. You agree that by providing your mobile phone number you expressly consent to receive automated marketing text messages from us to the mobile phone number provided. Consent is not required to purchase goods or services. Message and data rates will apply and you should check the rates of your mobile carrier. You can opt out from further text marketing communications by texting STOP to the SMS number used by L’Oréal USA to contact you. For help, please reach out to our customer service center through email [here](https://www.itcosmetics.com/contact-us#contact-us) or call 800-356-5120
+
+We may share your mobile phone number with service providers with whom we contract to assist us with the above activities, but we will not share your mobile phone number with third parties for their own marketing purposes without your consent. Text Messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery. Depending on the recipient's mobile carrier, it may not be possible to transmit the text message to the recipient successfully; nor is content available on all carriers. We do not claim or guarantee availability or performance of this service, including liability for transmission delays or message failures.
+
+**7\. YOUR CALIFORNIA RIGHTS**
+
+Under California law, website and online service operators are required to disclose how they respond to web browser “do not track” signals. L’Oreal USA does not currently take actions to respond to Do Not Track signals as a uniform standard for such response has not yet been established.
+
+California law requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service. Third parties that have content or services on our Sites such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information. We do not knowingly permit such third parties to collect any Personal Information from our Sites unless you directly provide it to us and we provide it to them with your consent.
+
+If you are a minor under 18 and have a profile on a L’Oréal USA Site, you may ask us to remove reviews or other content that you posted on the site by writing to [us](https://www.itcosmetics.com/contact-us#contact-us) and providing as much detail as possible (i.e. date and caption) as to the post(s) you want removed. We will begin to process your request within 30 days. Please note that processing your request does not ensure complete or comprehensive removal of content that you posted.
+
+**8\. CHILDREN**
+
+L’Oreal USA’s sites are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. If you believe that we might have any information from or about a child under age 13, please contact us through this [help page](https://www.itcosmetics.com/on/demandware.store/Sites-itcosmetics-us-Site/default/Page-Show?cid=customer-service).
+
+**9.PARENTAL CONSENT**
+
+Minors between 13 years of age and the age of majority in their state must ask their parent or guardian for permission to use any L’Oréal USA properties. For L’Oréal USA brands offering e-commerce, you may only make purchases if you are 18 years of age or older, or the age of majority in your jurisdiction of residence.
+
+**10\. PARENTAL PARTICIPATION**
+
+We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices.
+
+**11\. SECURITY OF YOUR INFORMATION**
+
+L’Oréal USA maintains reasonable safeguards to protect Personal Information against loss, unauthorized use, disclosure or destruction and when transferring information for processing and requires third parties providing services on our behalf to do the same. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us.
+
+**12\. OTHER SITES**
+
+The Sites may contain links to third party sites that are not owned or operated by L’Oreal USA. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co–branding or co–marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies or other tracking technologies to your device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Sites (including those linked to through an email or social networking page). The Sites may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy and Cookie Notice.
+
+**13\. CONSENT TO PROCESSING OF INFORMATION IN THE UNITED STATES AND OTHER JURISDICTIONS**
+
+The Sites are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Country or region specific web sites are available for L’Oréal brands and products around the world. L’Oreal makes no representation that the Sites are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Sites, or providing us with any information, you (a) acknowledge that the Sites are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
+
+**14\. CHANGES AND POLICY UPDATES**
+
+_Please note, we may change information on the Sites and/or this Privacy Policy at any time and any changes will be effective immediately upon the publication of revisions._
