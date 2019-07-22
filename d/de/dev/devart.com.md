@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devart.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225044316id_/https%3A//www.devart.com/using-website/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devart.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722070646id_/https%3A//www.devart.com/using-website/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Using Devart Website
 
@@ -44,7 +44,7 @@ We process this information for marketing purposes and to provide support to pre
 
 #### Billing Information
 
-All primary payment data is collected and retained by our subprocessor for this information, Digital River GmbH (Share-it). We retain only the record of invoice number, customer name and the billing address, which is stored outside of our Sites and Products. 
+All primary payment data is collected and retained by our subprocessor for this information, Avangate Inc. (2Checkout). We retain only the record of invoice number, customer name and the billing address, which is stored outside of our Sites and Products. 
 
 Billing information and payment records are processed in order to provide Products to our paid customers and to comply with legal and contractual requirements.
 
