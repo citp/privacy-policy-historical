@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paysimple.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519221848id_/https%3A//paysimple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paysimple.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722062414id_/https%3A//paysimple.com/privacy) for the most accurate reproduction.*
 
 # Privacy - PaySimple
 
