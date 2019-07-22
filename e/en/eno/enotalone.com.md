@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enotalone.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406131103id_/https%3A//www.enotalone.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enotalone.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722185224id_/https%3A//www.enotalone.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
