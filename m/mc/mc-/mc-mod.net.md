@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mc-mod.net privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613223937id_/http%3A//www.mc-mod.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mc-mod.net privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722142954id_/http%3A//www.mc-mod.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mc-Mod.Net
 
