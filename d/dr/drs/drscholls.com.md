@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617144337id_/http%3A//www.bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723003616id_/http%3A//www.bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # Bayer Consumer Care Products
 
