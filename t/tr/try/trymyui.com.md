@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trymyui.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419062104id_/https%3A//www.trymyui.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymyui.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722202224id_/https%3A//www.trymyui.com/privacy) for the most accurate reproduction.*
 
 # TryMyUI Privacy Policy
 
