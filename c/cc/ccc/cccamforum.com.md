@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cccamforum.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620035930id_/http%3A//ww43.cccamforum.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cccamforum.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722112618id_/http%3A//ww43.cccamforum.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
