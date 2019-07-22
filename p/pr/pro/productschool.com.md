@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the productschool.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404132312id_/https%3A//www.productschool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productschool.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722190306id_/https%3A//www.productschool.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Product School - Product School
+# Privacy Policy - Product School
 
 We at Product School, Inc. ( **“Product School”** , **“we”** , **“us”** ) respect your privacy and want you to understand how we collect, use, and share your data (“ **Personal Information** ”). This Privacy Policy covers our data collection practices and describes your rights to access, correct, or restrict our use of your Personal Information.
 
