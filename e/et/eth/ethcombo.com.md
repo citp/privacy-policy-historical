@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethcombo.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621001537id_/http%3A//ethcombo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethcombo.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722100829id_/http%3A//ethcombo.com/privacy.php) for the most accurate reproduction.*
 
 # ETH Combo - Ethereum Slots
 
