@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yotel.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424085401id_/https%3A//www.yotel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotel.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722212829id_/https%3A//www.yotel.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | YOTEL.com | Hotel Revolution
 
