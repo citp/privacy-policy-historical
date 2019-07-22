@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stampinup.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319145027id_/https%3A//www.stampinup.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stampinup.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722205658id_/https%3A//www.stampinup.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -163,7 +163,7 @@ Stampin’ Up! Inc.
 Riverton, UT 84065   
 U.S.A.   
 Phone: 1-800-STAMP UP   
-Email: athornton@stampinup.com 
+Email: mthrockmorton@stampinup.com 
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our website. Also please note that it is not always possible to completely change, remove or delete all of your information from our databases, and that residual data may remain on backup media or for other reasons.
 
