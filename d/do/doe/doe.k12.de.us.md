@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doe.k12.de.us privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605201327id_/http%3A//www.delaware.gov/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doe.k12.de.us privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722130045id_/http%3A//www.delaware.gov/help/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Help - State of Delaware
 
