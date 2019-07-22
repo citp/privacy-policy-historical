@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reportsnreports.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925052309id_/https%3A//www.reportsnreports.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reportsnreports.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722155216id_/https%3A//www.reportsnreports.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : ReportsnReports
 
