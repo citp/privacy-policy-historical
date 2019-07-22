@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebreakdown.xyz privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903125554id_/https%3A//thebreakdown.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebreakdown.xyz privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722143958id_/https%3A//thebreakdown.xyz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheBreakdown.xyz
 
@@ -14,14 +14,6 @@ When visitors leave comments on the site we collect the data shown in the commen
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-### Media
-
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website. We use a WordPress plugin called WP Smush to reduce the size of images when they are uploaded to this site.
-
-WP Smush sends images to the WPMU DEV servers to optimize them for web use. This includes the transfer of EXIF data. The EXIF data will either be stripped or returned as it is. It is not stored on the WPMU DEV servers.
-
-This plugin is developed by WPMU DEV, owned by Incsub, LLC. You can find their privacy policy here: https://incsub.com/privacy-policy/
-
 ### Contact forms
 
 When contacting us through our contact form, your name, email address, and message, and IP address are collected. This information is used to help us identify you when responding to your message. All messages are stored locally in WordPress and emailed to us at Hello@TheBreakdown.xyz. These messages are kept indefinitely in order to better serve you if you reach out again in the future.
@@ -30,7 +22,7 @@ When contacting us through our contact form, your name, email address, and messa
 
 If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+If you our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
 When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
@@ -38,8 +30,8 @@ If you edit or publish an article, an additional cookie will be saved in your br
 
 Additionally, we use Facebook Pixel and Google Analytics to customize content and advertising, to provide social media features and to analyze traffic to this site. Cookies from these companies my be placed on your site.
 
-Facebook’s Privacy Policy: https://www.facebook.com/about/privacy  
-Google’s Privacy Policy: https://policies.google.com/privacy
+Facebook’s Privacy Policy: <https://www.facebook.com/about/privacy>  
+Google’s Privacy Policy: <https://policies.google.com/privacy>
 
 ### Embedded content from other websites
 
@@ -47,15 +39,17 @@ Articles on this site may include embedded content (e.g. videos, images, article
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Specifically, we embed YouTube videos into most of the articles on our website. If you are logged into YouTube, that will be recognized. You can see YouTube’s privacy policy here: https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=en&visit_id=1-636627742861099660-2977577411&rd=1
+Specifically, we embed YouTube videos into most of the articles on our website. If you are logged into YouTube, that will be recognized. You can see YouTube’s privacy policy here: <https://support.google.com/youtube/answer/7671399?p=privacy_guidelines>
 
-We also use Google AdSense for advertising on our site. You can check out how AdSense uses your data here: https://www.google.com/policies/technologies/partner-sites/
+We also use Google AdSense for advertising on our site. You can check out how AdSense uses your data here: <https://www.google.com/policies/technologies/partner-sites/>
 
 ### Analytics
 
-We use Google Analytics for all of our analytics tracking. You can find all of Google’s Privacy information here: https://policies.google.com/privacy
+We use Google Analytics for all of our analytics tracking. You can find all of Google’s Privacy information here: <https://policies.google.com/privacy>
 
 We also anonymize all IP addresses before sending them to Google analytics in order to keep your data as anonymous as possible, and we use this data in order to better understand our site traffic and create better content for you.
+
+Additionally, the WordPress plugin ‘Jetpack’ is used to gather view and unique visitor data on our site. This plugin is developed by Automattic Inc. You can view their privacy policy at <https://automattic.com/privacy/>
 
 ## Who we share your data with
 
@@ -77,15 +71,15 @@ If you have an account on this site, or have left comments, you can request to r
 
 ## Where we send your data
 
-Visitor comments may be checked through an automated spam detection service, we use Google Analytics and Facebook Pixel for data tracking, and we use Google AdSense for advertising on our website.
+Visitor comments may be checked through an automated spam detection service. We use Google Analytics and Facebook Pixel for data tracking, and we use Google AdSense for advertising on our website.
 
-Google’s Privacy Policy: https://policies.google.com/privacy  
-Facebook’s Privacy Policy: https://www.facebook.com/about/privacy  
-AdSense Privacy Policy: https://www.google.com/policies/technologies/partner-sites/
+Google’s Privacy Policy: <https://policies.google.com/privacy>  
+Facebook’s Privacy Policy: <https://www.facebook.com/about/privacy>  
+AdSense Privacy Policy: <https://www.google.com/policies/technologies/partner-sites/>
 
 ## Your contact information
 
-Breakdown Media  
+Breakdown Media/CrysisTV LLC  
 Hello@TheBreakdown.xyz
 
 ### What data breach procedures we have in place
@@ -94,6 +88,6 @@ If there is a data breach, we will notify you of what data has been breached wit
 
 ### What third parties we receive data from
 
-We use Google AdSense for advertising on our site. You can check out how AdSense uses your data here: https://www.google.com/policies/technologies/partner-sites/
+We use Google AdSense for advertising on our site. You can check out how AdSense uses your data here: <https://www.google.com/policies/technologies/partner-sites/>
 
 Additionally, any advertisements you click on our site may send you to websites with additional privacy and cookie information.
