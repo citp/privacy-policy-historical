@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the holtrenfrew.com privacy policy that was archived on 2019-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190115023446id_/https%3A//www.holtrenfrew.com/en/customer-care/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the holtrenfrew.com privacy policy that was archived on 2019-07-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190722160257id_/https%3A//www.holtrenfrew.com/en/customer-care/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><style class="vjs-styles-defaults">
       .video-js {
@@ -11,10 +11,8 @@
         padding-top: 56.25%
       }
     </style>
-	<title>
-		Privacy Policy | Holt Renfrew</title>
-
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy Policy | Holt Renfrew</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -39,7 +37,105 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WC696VS');</script>
 	<!-- End Google Tag Manager -->
-<script type="text/javascript" src="/_ui/shared/js/analyticsmediator.js"></script>
+	<script>
+		var HOLTGtm = (function() {
+			return {
+				formatPrice: function(price) {
+					price = price.replace('$', '');
+
+					return (+price).toFixed(2);
+				},
+				setProductsToSessionStorage: function(eventType, productCode) {
+					if(!window.Storage) {
+						return;
+					}
+
+					var products = JSON.parse(sessionStorage.getItem(eventType));
+
+					if(products) {
+						products.push(productCode);
+						sessionStorage.setItem(eventType, JSON.stringify(products));
+					} else {
+						sessionStorage.setItem(eventType, JSON.stringify([productCode]));
+					}
+				},
+				checkIfProductViewedDuringSession: function(eventType, productCode) {
+					var products = JSON.parse(sessionStorage.getItem(eventType));
+
+					return products ? products.indexOf(productCode) !== -1 : false;
+				}
+			}
+		}());
+	</script>
+
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	document.addEventListener('customEvent_productClick', function(e) {
+		var data = e.detail;
+		var product = {
+			'name': data.name,
+			'id': data.id,  //The product ID or SKU
+			'price': data.price,
+			'brand': data.brand,
+			'position': data.position,
+			'category': data.category,
+		};
+		dataLayer.push({
+			'ecommerce': {
+				'click': {
+					'actionField': { 'list': data.list },
+					'products': [product]
+				}
+			},
+			'event': 'ecProductClicks'
+		});
+	});
+</script><script>
+	window.dataLayer = window.dataLayer || [];
+
+	document.addEventListener('customEvent_productImpression', function (e) {
+		var products = e.detail.products;
+		dataLayer.push({
+			'event' : 'ecProductImpressions',
+			'ecommerce': {
+				'impressions': products
+			}
+		});
+	});
+</script><script>
+	window.dataLayer = window.dataLayer || [];
+
+	document.addEventListener('customEvent_removeProductFromCart', function(e) {
+		var data = e.detail;
+		dataLayer.push({
+			'ecommerce': {
+				'remove': {
+					'products': [data]
+				}
+			},
+			'event': 'ecProductRemoves'
+		});
+	});
+</script>
+
+
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	document.addEventListener('customEvent_addProductToCart', function(e) {
+		const data = e.detail;
+		
+		dataLayer.push({
+			'event': 'ecProductAdds',
+			'ecommerce': {
+				'add': {
+					'products': [data]
+				}
+			},
+		});
+	});
+</script><script type="text/javascript" src="/_ui/shared/js/analyticsmediator.js"></script>
 <script type="text/javascript">
 /* Google Analytics */
 
@@ -113,8 +209,8 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"><style type="text/css">.vjs-youtube .vjs-iframe-blocker { display: none; }.vjs-youtube.vjs-user-inactive .vjs-iframe-blocker { display: block; }.vjs-youtube .vjs-poster { background-size: cover; }.vjs-youtube-mobile .vjs-big-play-button { display: none; }</style></head>
 
-<body class="page-customer-care-privacy-policy pageType-HoltrenfrewContentPage template-pages-layout-holtUniversalContentPageTemplate  language-en">
-	<!-- Google Tag Manager (noscript) -->
+<body class="page-customer-care-privacy-policy pageType-HoltrenfrewContentPage template-pages-layout-holtUniversalContentPageTemplate  language-en" data-page-type="">
+<!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WC696VS"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
@@ -173,61 +269,14 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
                                &quot;width&quot;: &quot;%&quot;
                          }">
         <div class="text">
-            <style type="text/css">
+            
+<style>
 .font-harmonia {
-  font-family: "Harmonia Sans Std", sans-serif !important;
+  font-family: "Harmonia Sans Std", sans-serif!important
 }
 
 .font-chronicle {
-  font-family: "Chronicle", serif !important;
-}
-
-/* START OF UNIVERSAL CONTENT PAGE CLASS */
-.universal-content-page .holt-banner__text,
-.universal-content-page .holt-banner__text--standalone {
-  /* START OF BODY STYLES */
-  /* END OF BODY STYLES */
-  /* START OF BANNER STYLES */
-  /* END OF BANNER STYLES */
-  /* START OF BUTTON STYLES */
-  /* START OF DEFAULT BUTTON */
-  /* END OF DEFAULT BUTTON */
-  /* START OF SECONDARY BUTTON */
-  /* END OF SECONDARY BUTTON */
-  /* START OF COLOUR BUTTON */
-  /* END OF COLOUR BUTTON */
-  /* START OF BLACK BUTTON */
-  /* END OF BLACK BUTTON */
-  /* START OF BLACK BUTTON - HOVER */
-  /* END OF BLACK BUTTON - HOVER */
-  /* START OF WHITE BUTTON */
-  /* END OF WHITE BUTTON */
-  /* START OF WHITE BUTTON - HOVER */
-  /* END OF WHITE BUTTON - HOVER */
-  /* END OF BUTTON STYLES */
-  /* START OF LINK STYLES */
-  /* START OF LARGE LINK STYLES */
-  /* END OF LARGE LINK STYLES */
-  /* END OF LINK STYLES */
-  /* START OF HEADER STYLES */
-  /* END OF HEADER STYLES */
-  /* START OF LIST STYLES */
-  /* END OF LIST STYLES */
-  /* START OF QUOTE STYLES */
-  /* END OF QUOTE STYLES */
-  /* START OF HIDE AND SHOW STYLES */
-  /* END OF HIDE AND SHOW STYLES */
-  /* START OF FORM STYLES */
-  /* END OF FORM STYLES */
-  /* START OF CUSTOM STYLES */
-  /* START OF REMOVE BLACK OUTLINE FROM VIDEOS */
-  /* END OF REMOVE BLACK OUTLINE FROM VIDEOS */
-  /* START OF CONTENT PAGE HEADLINE */
-  /* END OF CONTENT PAGE HEADLINE */
-  /* START OF CONTENT PAGE SUBHEAD */
-  /* END OF CONTENT PAGE SUBHEAD */
-  /* START OF IMAGE TEXT */
-  /* END OF IMAGE TEXT */
+  font-family: Chronicle, serif!important
 }
 
 .universal-content-page .holt-banner__text body,
@@ -236,34 +285,34 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   font-weight: 400;
   font-size: 16px;
   line-height: 22px;
-  color: #626262;
+  color: #626262
 }
 
 .universal-content-page .holt-banner__text .holt-banner__component,
 .universal-content-page .holt-banner__text--standalone .holt-banner__component {
-  position: relative;
+  position: relative
 }
 
 .universal-content-page .holt-banner__text .btn-default,
 .universal-content-page .holt-banner__text .btn-primary,
 .universal-content-page .holt-banner__text--standalone .btn-default,
 .universal-content-page .holt-banner__text--standalone .btn-primary {
-  border: 1px solid #aaaaaa;
+  border: 1px solid #aaa;
   font-family: "Harmonia Sans Std", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: inherit;
   color: #626262;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 1px
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width:1024px) {
   .universal-content-page .holt-banner__text .btn-default,
   .universal-content-page .holt-banner__text .btn-primary,
   .universal-content-page .holt-banner__text--standalone .btn-default,
   .universal-content-page .holt-banner__text--standalone .btn-primary {
-    width: 100%;
+    width: 100%
   }
 }
 
@@ -277,19 +326,19 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   color: #626262;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #ffffff;
+  background-color: #fff
 }
 
 .universal-content-page .holt-banner__text .btn-secondary:hover,
 .universal-content-page .holt-banner__text--standalone .btn-secondary:hover {
   text-decoration: underline;
-  background-color: #ffffff;
+  background-color: #fff
 }
 
 .universal-content-page .holt-banner__text .btn-colour,
 .universal-content-page .holt-banner__text--standalone .btn-colour {
   border: none;
-  background: none;
+  background: 0 0
 }
 
 .universal-content-page .holt-banner__text .btn-colour .colour-selection,
@@ -298,7 +347,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   width: 26px;
   border: 2px solid #626262;
   border-radius: 50%;
-  overflow: hidden;
+  overflow: hidden
 }
 
 .universal-content-page .holt-banner__text .btn-colour .colour-selection .colour-one,
@@ -307,7 +356,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   width: 11px;
   background-color: #fdcba9;
   display: inline;
-  float: left;
+  float: left
 }
 
 .universal-content-page .holt-banner__text .btn-colour .colour-selection .colour-two,
@@ -316,7 +365,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   width: 11px;
   background-color: #fae5d3;
   display: inline;
-  float: left;
+  float: left
 }
 
 .universal-content-page .holt-banner__text .btn.btn-default.black,
@@ -330,22 +379,22 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   background-color: transparent;
   letter-spacing: 1px;
   text-transform: uppercase;
-  margin-top: 14px;
+  margin-top: 14px
 }
 
-@media (max-width: 1023px) {
+@media (max-width:1023px) {
   .universal-content-page .holt-banner__text .btn.btn-default.black,
   .universal-content-page .holt-banner__text--standalone .btn.btn-default.black {
-    width: 100%;
+    width: 100%
   }
 }
 
-.universal-content-page .holt-banner__text .btn.btn-default.black:hover,
 .universal-content-page .holt-banner__text .btn.btn-default.black:active,
-.universal-content-page .holt-banner__text--standalone .btn.btn-default.black:hover,
-.universal-content-page .holt-banner__text--standalone .btn.btn-default.black:active {
+.universal-content-page .holt-banner__text .btn.btn-default.black:hover,
+.universal-content-page .holt-banner__text--standalone .btn.btn-default.black:active,
+.universal-content-page .holt-banner__text--standalone .btn.btn-default.black:hover {
   border: 1px solid #000;
-  color: #000;
+  color: #000
 }
 
 .universal-content-page .holt-banner__text .btn.btn-default.white,
@@ -354,27 +403,27 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   font-weight: 400;
   font-size: 16px;
   line-height: inherit;
-  color: #FFF;
-  border: 1px solid #FFF;
+  color: #fff;
+  border: 1px solid #fff;
   background-color: transparent;
   letter-spacing: 1px;
   text-transform: uppercase;
-  margin-top: 14px;
+  margin-top: 14px
 }
 
-@media (max-width: 1023px) {
+@media (max-width:1023px) {
   .universal-content-page .holt-banner__text .btn.btn-default.white,
   .universal-content-page .holt-banner__text--standalone .btn.btn-default.white {
-    width: 100%;
+    width: 100%
   }
 }
 
-.universal-content-page .holt-banner__text .btn.btn-default.white:hover,
 .universal-content-page .holt-banner__text .btn.btn-default.white:active,
-.universal-content-page .holt-banner__text--standalone .btn.btn-default.white:hover,
-.universal-content-page .holt-banner__text--standalone .btn.btn-default.white:active {
-  border: 1px solid #FFF;
-  color: #FFF;
+.universal-content-page .holt-banner__text .btn.btn-default.white:hover,
+.universal-content-page .holt-banner__text--standalone .btn.btn-default.white:active,
+.universal-content-page .holt-banner__text--standalone .btn.btn-default.white:hover {
+  border: 1px solid #fff;
+  color: #fff
 }
 
 .universal-content-page .holt-banner__text .home-link,
@@ -387,12 +436,12 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   color: #626262;
   text-transform: uppercase;
   letter-spacing: 1px;
-  text-decoration: underline;
+  text-decoration: underline
 }
 
 .universal-content-page .holt-banner__text .home-link:hover,
 .universal-content-page .holt-banner__text--standalone .home-link:hover {
-  color: #000000;
+  color: #000
 }
 
 .universal-content-page .holt-banner__text .large-link,
@@ -404,13 +453,13 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   line-height: inherit;
   color: #626262;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 1px
 }
 
 .universal-content-page .holt-banner__text .large-link:hover,
 .universal-content-page .holt-banner__text--standalone .large-link:hover {
   text-decoration: underline;
-  color: #000000;
+  color: #000
 }
 
 .universal-content-page .holt-banner__text .large-link:after,
@@ -418,7 +467,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   font-family: 'Glyphicons Halflings';
   content: "\e080";
   font-size: 12px;
-  margin-left: 2px;
+  margin-left: 2px
 }
 
 .universal-content-page .holt-banner__text .editorial-link,
@@ -431,16 +480,17 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   color: #626262;
   text-transform: uppercase;
   letter-spacing: 1px;
-  border-bottom: 1px solid #626262;
+  border-bottom: 1px solid #626262
 }
 
 .universal-content-page .holt-banner__text .editorial-link:hover,
 .universal-content-page .holt-banner__text--standalone .editorial-link:hover {
-  border-bottom: 1px solid #000000;
-  color: #000000;
+  border-bottom: 1px solid #000;
+  color: #000
 }
 
-.universal-content-page .holt-banner__text h1, .universal-content-page .holt-banner__text h2,
+.universal-content-page .holt-banner__text h1,
+.universal-content-page .holt-banner__text h2,
 .universal-content-page .holt-banner__text--standalone h1,
 .universal-content-page .holt-banner__text--standalone h2 {
   font-family: "Harmonia Sans Std", sans-serif;
@@ -448,14 +498,15 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   font-size: 40px;
   line-height: inherit;
   color: #626262;
-  margin: 50px 0 20px;
+  margin: 50px 0 20px
 }
 
-@media screen and (max-width: 540px) {
-  .universal-content-page .holt-banner__text h1, .universal-content-page .holt-banner__text h2,
+@media screen and (max-width:540px) {
+  .universal-content-page .holt-banner__text h1,
+  .universal-content-page .holt-banner__text h2,
   .universal-content-page .holt-banner__text--standalone h1,
   .universal-content-page .holt-banner__text--standalone h2 {
-    font-size: 8vw;
+    font-size: 8vw
   }
 }
 
@@ -463,36 +514,37 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 .universal-content-page .holt-banner__text--standalone h2 {
   width: 100%;
   text-align: center;
-  border-bottom: 1px solid #aaaaaa;
-  line-height: 0.1em;
+  border-bottom: 1px solid #aaa;
+  line-height: .1em
 }
 
 .universal-content-page .holt-banner__text span,
 .universal-content-page .holt-banner__text--standalone span {
-  background-color: #ffffff;
-  padding: 0 10px;
+  background-color: #fff;
+  padding: 0 10px
 }
 
-.universal-content-page .holt-banner__text h3, .universal-content-page .holt-banner__text h4,
+.universal-content-page .holt-banner__text h3,
+.universal-content-page .holt-banner__text h4,
 .universal-content-page .holt-banner__text--standalone h3,
 .universal-content-page .holt-banner__text--standalone h4 {
   font-family: "Harmonia Sans Std", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: inherit;
-  color: #626262;
+  color: #626262
 }
 
 .universal-content-page .holt-banner__text h4,
 .universal-content-page .holt-banner__text--standalone h4 {
-  font-size: 16px;
+  font-size: 16px
 }
 
-@media screen and (min-width: 640px) and (max-width: 1400px) {
+@media screen and (min-width:640px) and (max-width:1400px) {
   .universal-content-page .holt-banner__text h4,
   .universal-content-page .holt-banner__text--standalone h4 {
     font-size: 1.3vw;
-    line-height: 2vw;
+    line-height: 2vw
   }
 }
 
@@ -503,78 +555,85 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   font-size: 16px;
   line-height: 22px;
   color: #626262;
-  margin-bottom: 10px;
+  margin-bottom: 10px
 }
 
-.universal-content-page .holt-banner__text q, .universal-content-page .holt-banner__text blockquote,
-.universal-content-page .holt-banner__text--standalone q,
-.universal-content-page .holt-banner__text--standalone blockquote {
-  border: none;
+.universal-content-page .holt-banner__text blockquote,
+.universal-content-page .holt-banner__text q,
+.universal-content-page .holt-banner__text--standalone blockquote,
+.universal-content-page .holt-banner__text--standalone q {
+  border: none
 }
 
-.universal-content-page .holt-banner__text q .quote, .universal-content-page .holt-banner__text blockquote .quote,
-.universal-content-page .holt-banner__text--standalone q .quote,
-.universal-content-page .holt-banner__text--standalone blockquote .quote {
-  font-family: "Chronicle", serif;
+.universal-content-page .holt-banner__text blockquote .quote,
+.universal-content-page .holt-banner__text q .quote,
+.universal-content-page .holt-banner__text--standalone blockquote .quote,
+.universal-content-page .holt-banner__text--standalone q .quote {
+  font-family: Chronicle, serif;
   font-weight: inherit;
   font-size: 36px;
   line-height: 50px;
   color: #626262;
-  text-align: center;
+  text-align: center
 }
 
-@media screen and (max-width: 1023px) {
-  .universal-content-page .holt-banner__text q .quote, .universal-content-page .holt-banner__text blockquote .quote,
-  .universal-content-page .holt-banner__text--standalone q .quote,
-  .universal-content-page .holt-banner__text--standalone blockquote .quote {
-    font-family: "Chronicle", serif;
+@media screen and (max-width:1023px) {
+  .universal-content-page .holt-banner__text blockquote .quote,
+  .universal-content-page .holt-banner__text q .quote,
+  .universal-content-page .holt-banner__text--standalone blockquote .quote,
+  .universal-content-page .holt-banner__text--standalone q .quote {
+    font-family: Chronicle, serif;
     font-weight: inherit;
     font-size: 16px;
     line-height: 20px;
-    color: #626262;
+    color: #626262
   }
 }
 
-.universal-content-page .holt-banner__text q .quote::before, .universal-content-page .holt-banner__text blockquote .quote::before,
-.universal-content-page .holt-banner__text--standalone q .quote::before,
-.universal-content-page .holt-banner__text--standalone blockquote .quote::before {
-  content: '\201C';
+.universal-content-page .holt-banner__text blockquote .quote::before,
+.universal-content-page .holt-banner__text q .quote::before,
+.universal-content-page .holt-banner__text--standalone blockquote .quote::before,
+.universal-content-page .holt-banner__text--standalone q .quote::before {
+  content: '\201C'
 }
 
-.universal-content-page .holt-banner__text q .quote::after, .universal-content-page .holt-banner__text blockquote .quote::after,
-.universal-content-page .holt-banner__text--standalone q .quote::after,
-.universal-content-page .holt-banner__text--standalone blockquote .quote::after {
-  content: '\201D';
+.universal-content-page .holt-banner__text blockquote .quote::after,
+.universal-content-page .holt-banner__text q .quote::after,
+.universal-content-page .holt-banner__text--standalone blockquote .quote::after,
+.universal-content-page .holt-banner__text--standalone q .quote::after {
+  content: '\201D'
 }
 
-.universal-content-page .holt-banner__text q .credit, .universal-content-page .holt-banner__text blockquote .credit,
-.universal-content-page .holt-banner__text--standalone q .credit,
-.universal-content-page .holt-banner__text--standalone blockquote .credit {
+.universal-content-page .holt-banner__text blockquote .credit,
+.universal-content-page .holt-banner__text q .credit,
+.universal-content-page .holt-banner__text--standalone blockquote .credit,
+.universal-content-page .holt-banner__text--standalone q .credit {
   font-family: "Harmonia Sans Std", sans-serif;
   font-weight: inherit;
   font-size: 16px;
   line-height: 22px;
   color: #626262;
-  text-align: center;
+  text-align: center
 }
 
-.universal-content-page .holt-banner__text q .credit::before, .universal-content-page .holt-banner__text blockquote .credit::before,
-.universal-content-page .holt-banner__text--standalone q .credit::before,
-.universal-content-page .holt-banner__text--standalone blockquote .credit::before {
-  content: "- ";
+.universal-content-page .holt-banner__text blockquote .credit::before,
+.universal-content-page .holt-banner__text q .credit::before,
+.universal-content-page .holt-banner__text--standalone blockquote .credit::before,
+.universal-content-page .holt-banner__text--standalone q .credit::before {
+  content: "- "
 }
 
-@media screen and (min-width: 640px) {
+@media screen and (min-width:640px) {
   .universal-content-page .holt-banner__text .hide-on-desktop,
   .universal-content-page .holt-banner__text--standalone .hide-on-desktop {
-    display: none;
+    display: none
   }
 }
 
-@media screen and (max-width: 639px) {
+@media screen and (max-width:639px) {
   .universal-content-page .holt-banner__text .hide-on-mobile,
   .universal-content-page .holt-banner__text--standalone .hide-on-mobile {
-    display: none;
+    display: none
   }
 }
 
@@ -588,21 +647,21 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   text-transform: capitalize;
   display: block;
   clear: both;
-  float: left;
+  float: left
 }
 
-.universal-content-page .holt-banner__text form.holt-form input[type=text],
 .universal-content-page .holt-banner__text form.holt-form input[type=address],
 .universal-content-page .holt-banner__text form.holt-form input[type=email],
 .universal-content-page .holt-banner__text form.holt-form input[type=submit],
+.universal-content-page .holt-banner__text form.holt-form input[type=text],
 .universal-content-page .holt-banner__text form.holt-form select,
-.universal-content-page .holt-banner__text--standalone form.holt-form input[type=text],
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=address],
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=email],
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=submit],
+.universal-content-page .holt-banner__text--standalone form.holt-form input[type=text],
 .universal-content-page .holt-banner__text--standalone form.holt-form select {
   height: 40px;
-  border: 1px solid #aaaaaa;
+  border: 1px solid #aaa;
   clear: both;
   display: block;
   float: left;
@@ -610,113 +669,103 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
   -moz-appearance: none;
   appearance: none;
   border-radius: 0;
-  padding: 0 15px;
+  padding: 0 15px
 }
 
-.universal-content-page .holt-banner__text form.holt-form input[type=text] ::-ms-expand,
 .universal-content-page .holt-banner__text form.holt-form input[type=address] ::-ms-expand,
 .universal-content-page .holt-banner__text form.holt-form input[type=email] ::-ms-expand,
 .universal-content-page .holt-banner__text form.holt-form input[type=submit] ::-ms-expand,
+.universal-content-page .holt-banner__text form.holt-form input[type=text] ::-ms-expand,
 .universal-content-page .holt-banner__text form.holt-form select ::-ms-expand,
-.universal-content-page .holt-banner__text--standalone form.holt-form input[type=text] ::-ms-expand,
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=address] ::-ms-expand,
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=email] ::-ms-expand,
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=submit] ::-ms-expand,
+.universal-content-page .holt-banner__text--standalone form.holt-form input[type=text] ::-ms-expand,
 .universal-content-page .holt-banner__text--standalone form.holt-form select ::-ms-expand {
-  display: none;
+  display: none
 }
 
-.universal-content-page .holt-banner__text form.holt-form input[type=text]:invalid,
 .universal-content-page .holt-banner__text form.holt-form input[type=address]:invalid,
 .universal-content-page .holt-banner__text form.holt-form input[type=email]:invalid,
 .universal-content-page .holt-banner__text form.holt-form input[type=submit]:invalid,
+.universal-content-page .holt-banner__text form.holt-form input[type=text]:invalid,
 .universal-content-page .holt-banner__text form.holt-form select:invalid,
-.universal-content-page .holt-banner__text--standalone form.holt-form input[type=text]:invalid,
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=address]:invalid,
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=email]:invalid,
 .universal-content-page .holt-banner__text--standalone form.holt-form input[type=submit]:invalid,
+.universal-content-page .holt-banner__text--standalone form.holt-form input[type=text]:invalid,
 .universal-content-page .holt-banner__text--standalone form.holt-form select:invalid {
-  border: 1px solid #d90000;
+  border: 1px solid #d90000
 }
 
-.universal-content-page .holt-banner__text form.holt-form input[type=text]:invalid ~ .error,
-.universal-content-page .holt-banner__text form.holt-form input[type=address]:invalid ~ .error,
-.universal-content-page .holt-banner__text form.holt-form input[type=email]:invalid ~ .error,
-.universal-content-page .holt-banner__text form.holt-form input[type=submit]:invalid ~ .error,
-.universal-content-page .holt-banner__text form.holt-form select:invalid ~ .error,
-.universal-content-page .holt-banner__text--standalone form.holt-form input[type=text]:invalid ~ .error,
-.universal-content-page .holt-banner__text--standalone form.holt-form input[type=address]:invalid ~ .error,
-.universal-content-page .holt-banner__text--standalone form.holt-form input[type=email]:invalid ~ .error,
-.universal-content-page .holt-banner__text--standalone form.holt-form input[type=submit]:invalid ~ .error,
-.universal-content-page .holt-banner__text--standalone form.holt-form select:invalid ~ .error {
-  display: block;
+.universal-content-page .holt-banner__text form.holt-form input[type=address]:invalid~.error,
+.universal-content-page .holt-banner__text form.holt-form input[type=email]:invalid~.error,
+.universal-content-page .holt-banner__text form.holt-form input[type=submit]:invalid~.error,
+.universal-content-page .holt-banner__text form.holt-form input[type=text]:invalid~.error,
+.universal-content-page .holt-banner__text form.holt-form select:invalid~.error,
+.universal-content-page .holt-banner__text--standalone form.holt-form input[type=address]:invalid~.error,
+.universal-content-page .holt-banner__text--standalone form.holt-form input[type=email]:invalid~.error,
+.universal-content-page .holt-banner__text--standalone form.holt-form input[type=submit]:invalid~.error,
+.universal-content-page .holt-banner__text--standalone form.holt-form input[type=text]:invalid~.error,
+.universal-content-page .holt-banner__text--standalone form.holt-form select:invalid~.error {
+  display: block
 }
 
 .universal-content-page .holt-banner__text form.holt-form select,
 .universal-content-page .holt-banner__text--standalone form.holt-form select {
-  background: transparent url("https://cdn3.iconfinder.com/data/icons/faticons/32/arrow-down-01-512.png") no-repeat scroll 96% 50%;
+  background: transparent url(https://cdn3.iconfinder.com/data/icons/faticons/32/arrow-down-01-512.png) no-repeat scroll 96% 50%;
   background-size: 18px;
-  padding-right: 35px;
+  padding-right: 35px
 }
 
 .universal-content-page .holt-banner__text form.holt-form select:focus,
 .universal-content-page .holt-banner__text--standalone form.holt-form select:focus {
-  background: none;
+  background: 0 0
 }
 
 .universal-content-page .holt-banner__text .s7videoviewer .s7videoplayer,
 .universal-content-page .holt-banner__text--standalone .s7videoviewer .s7videoplayer {
-  background-color: transparent;
+  background-color: transparent
 }
 
 .universal-content-page .holt-banner__text .cp-headline,
 .universal-content-page .holt-banner__text--standalone .cp-headline {
   font-size: 4.5vw;
-  line-height: 4.5vw;
-}
-
-@media (max-width: 1023px) {
-  .universal-content-page .holt-banner__text .cp-headline,
-  .universal-content-page .holt-banner__text--standalone .cp-headline {
-    font-size: 32px;
-    line-height: 32px;
-  }
+  line-height: 4.5vw
 }
 
 .universal-content-page .holt-banner__text .cp-subhead,
 .universal-content-page .holt-banner__text--standalone .cp-subhead {
   font-size: 2.5vw;
   line-height: 2.5vw;
-  margin: 0;
+  margin: 0
 }
 
-@media (max-width: 1023px) {
+@media (min-width:1024px) {
+  .universal-content-page .holt-banner__text .img-text,
+  .universal-content-page .holt-banner__text--standalone .img-text {
+    font-size: 1.3vw;
+    line-height: 2vw
+  }
+}
+
+@media (max-width:1023px) {
   .universal-content-page .holt-banner__text .cp-subhead,
   .universal-content-page .holt-banner__text--standalone .cp-subhead {
     font-size: 24px;
     line-height: 24px;
-    margin: 0;
+    margin: 0
+  }
+  .universal-content-page .holt-banner__text .cp-headline,
+  .universal-content-page .holt-banner__text--standalone .cp-headline {
+    font-size: 32px;
+    line-height: 32px
   }
 }
 
-@media screen and (min-width: 1023px) {
-  .universal-content-page .holt-banner__text .img-text,
-  .universal-content-page .holt-banner__text--standalone .img-text {
-    font-size: 1.3vw;
-    line-height: 2vw;
-  }
-}
-
-/* START BREADCRUMB FIX */
 .breadcrumb li.products {
-  display: none;
+  display: none
 }
-
-/* END BREADCRUMB FIX */
-/* END OF CUSTOM STYLES */
-/* END OF UNIVERSAL CONTENT PAGE CLASS */
-
-
 </style></div>
     </div>
 </div></div>
@@ -728,7 +777,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 				<button class="js-cookie-notification-accept close" data-dismiss="alert" type="button" aria-label="Close">
 					×</button>
 				<p class="cookie-notification__text">
-					This website uses cookies for web analytics, to properly service our customers and for marketing purposes. The cookies may be set by us or by a third party providers whose services we have retained. You can block cookies at any time, by changing the settings of your web browser. By continuing to use this website, you consent to our use of cookies on this website.  <a href="/en/customer-care/privacy-policy" style="text-decoration: underline"> Holt Renfrew’s Privacy Policy</a></p>
+					This website uses cookies for web analytics, to properly service our customers and for marketing purposes. The cookies may be set by us or by a third party provider whose services we have retained. You can block cookies at any time by changing the settings of your web browser. By continuing to use this website, you consent to our use of cookies on this website.  <a href="/en/customer-care/privacy-policy" style="text-decoration: underline"> Holt Renfrew’s Privacy Policy</a></p>
 			</div>
 		</div>
 
@@ -745,6 +794,38 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 				padding-left: 0px;
 			}
 		}
+</style></div><div class="content"><style>
+	
+	li.top-menu-item.level-1:nth-child(8) {
+		color: #c50070;
+	}
+	
+	nav#menu.slide-menu div.slide-menu__wrap ul.slide-menu__list li:nth-child(8) a {
+   		color: #c50070;
+	}
+	
+	ul.js-initial-links-list.active li:nth-child(8) a {
+		color: #626262 !important;
+	}
+	
+</style></div><div class="content"><style>
+.holt-button__secondary.holt-button__secondary--top-nav:after {
+  position: relative;
+  top: 0;
+  line-height: initial;
+  left: -2px;
+}
+</style></div><div class="content"><style>
+@media(max-width: 1023px) {
+  #menu {
+    -webkit-backdrop-filter: blur(3px);
+    border-color: white;
+    border-left: 1px solid #dedede;
+  }
+  #menu a {
+    letter-spacing: .5px;
+  }
+}
 </style></div></div><header class="js-mainHeader main-header" data-registration-return="false" data-authorized-user="false">
 	<div class="container header-container no-padding">
 		<div class="hidden-xs hidden-sm js-secondaryNavAccount collapse account account" id="accNavComponentDesktopOne">
@@ -778,29 +859,29 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		</div>
 		<div class="flex-row">
 			<div class="col-md-3 col-sm-6 col-xs-5 no-padding">
-				<h1 class="site-logo">
+				<div class="site-logo">
 					<div class="yCmsComponent yComponentWrapper">
 <div class="banner__component banner">
 	<a href="/en/">
 				<span class="sr-only">Holt Renfrew</span>
-				<img title="Holt Renfrew" alt="Holt Renfrew" src="/medias/logo.png?context=bWFzdGVyfGltYWdlc3w0OTg3fGltYWdlL3BuZ3xpbWFnZXMvaDRjL2gzNy84Nzk2MTU4ODUzMTUwLnBuZ3w3MjUxYTdkZjVjY2RjNTk1MGU5MWQ0OGM3NzAzMWM2ODcxYjExN2QyY2MwMjBhNjdjNmVjNTQ1YzBiODhiNmNl"></a>
-		</div></div></h1>
+				<img title="Holt Renfrew" alt="Holt Renfrew" src="/medias/holt-renfrew-logo.svg?context=bWFzdGVyfGltYWdlc3wyMDAyfGltYWdlL3N2Zyt4bWx8aW1hZ2VzL2g1NS9oNGMvODgzOTQ0MjA3MTU4Mi5zdmd8ZGUyNjcyNTRmYWEyN2NjMDhhMWIzMTEyMzQ0ZDQ4NDFhNjkxY2ZhNTdiMzEwN2M3MDU2NGE0YWZhN2RhNTQ2YQ"></a>
+		</div></div></div>
 			</div>
 			<div class="col-md-7 col-sm-0 col-xs-0 no-padding static">
 				<nav class="slide-menu" id="menu">
         <ul class="slide-menu__list">
             <li class="hidden-md hidden-lg js-hamburger-menu">
                 <a class="slide-menu-control js-slide-menu-control full-height" data-target="menu" data-action="toggle" type="button">
-                    <i class="icon-x"></i>
+                    <span class="icon-x"></span>
                     <span class="sr-only"><spring:theme code="menu.button.mobile.toggle"></spring:theme></span>
                 </a>
             </li>
             <li>
                     <div class="hidden js-slide-menu-image-wrap">
 								  <div class="slide-menu__image js-slide-menu-image">
-									  <a href="c/GianvitoRossi">
-										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/Jan10%5FNav%5FWomen?$%2Ahybris$" alt="Holt Renfrew image of GIANVITO ROSSI">
-										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP GIANVITO ROSSI</p>
+									  <a href="c/Akris?sort=date-desc&amp;q=%3Arelevance#">
+										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/July12_Women?$%2Ahybris$" alt="woman in white dress">
+										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP AKRIS</p>
 										  </a>
 								  </div>
 							  </div>
@@ -837,7 +918,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-menu-section="1" data-order="4">
-				<a href="c/Pearls" title="MODERN PEARLS">MODERN PEARLS</a>
+				
 				
 			</li>
 		
@@ -864,7 +945,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-menu-section="1" data-order="10">
-				<a href="c/Sale?q=%3Arelevance%3AstorefrontFacetCategories%3AWomens" title="Sale">Sale</a>
+				<a href="/en/c/Sale?q=%3Arelevance%3AstorefrontFacetCategories%3AWomens" title="Sale">Sale</a>
 				
 			</li>
 		
@@ -883,70 +964,126 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-order="0">
-				<a href="/en/c/Gucci?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AWomens#" title="Gucci">Gucci</a>
+				<a href="/en/c/AlexanderMcQueen?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AWomens#" title="Alexander McQueen">Alexander McQueen</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="1">
-				<a href="/en/c/ManoloBlahnik?q=%3Arelevance%3AstorefrontFacetCategories%3AWomens" title="Manolo Blahnik">Manolo Blahnik</a>
-				
-			</li>
-		
-	
-		
-			<li data-order="2">
 				<a href="/en/c/Balenciaga?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AWomens#" title="Balenciaga">Balenciaga</a>
 				
 			</li>
 		
 	
 		
+			<li data-order="2">
+				<a href="c/BottegaVeneta?q=%3Adate-desc%3AstorefrontFacetCategories%3AWomens" title="Bottega Veneta">Bottega Veneta</a>
+				
+			</li>
+		
+	
+		
 			<li data-order="3">
-				<a href="/en/c/RogerVivier?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Roger Vivier">Roger Vivier</a>
+				<a href="/en/c/CommedesGarcons?q=%3Adate-desc%3AstorefrontFacetCategories%3AWomens" title="Comme des Garçons">Comme des Garçons</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="4">
-				<a href="/en/c/Valentino?q=%3Adate-desc%3AstorefrontFacetCategories%3AWomens" title="Valentino">Valentino</a>
+				<a href="/en/c/Chloe?sort=date-desc&amp;q=%3Arelevance#" title="Chloé">Chloé</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="5">
-				<a href="/en/c/Prada?sort=date-desc&amp;q=%3Aprice-desc%3AstorefrontFacetCategories%3AWomens#" title="Prada">Prada</a>
+				<a href="/en/c/DolceGabbana?q=%3Adate-desc%3AstorefrontFacetCategories%3AWomens" title="Dolce &amp; Gabbana">Dolce &amp; Gabbana</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="6">
-				<a href="/en/c/DanseLente?q=%3Arelevance%3AstorefrontFacetCategories%3AWomens" title="Danse Lente">Danse Lente</a>
+				<a href="c/Givenchy?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AWomens&amp;show=Page#" title="Givenchy">Givenchy</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="7">
-				<a href="/en/c/CanadaGoose" title="Canada Goose">Canada Goose</a>
+				<a href="/en/c/Gucci?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AWomens#" title="Gucci">Gucci</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="8">
-				<a href="/en/c/Moncler?q=%3Arelevance%3AstorefrontFacetCategories%3AWomens" title="Moncler">Moncler</a>
+				<a href="/en/designers/louis-vuitton" title="LOUIS VUITTON">LOUIS VUITTON</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="9">
-				<a href="/en/designers" title="View All Designers">View All Designers</a>
+				<a href="c/MaxMara?sort=date-desc&amp;q=%3Arelevance#" title="Max Mara">Max Mara</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="10">
+				<a href="/en/c/Moncler?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AWomens&amp;show=Page#" title="Moncler">Moncler</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="11">
+				<a href="/en/c/Prada?sort=date-desc&amp;q=%3Aprice-desc%3AstorefrontFacetCategories%3AWomens#" title="Prada">Prada</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="12">
+				<a href="/en/c/RogerVivier?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Roger Vivier">Roger Vivier</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="13">
+				<a href="/en/c/SaintLaurent?q=%3Adate-desc%3AstorefrontFacetCategories%3AWomens" title="Saint Laurent">Saint Laurent</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="14">
+				<a href="/en/c/TheRow?q=%3Adate-desc%3AstorefrontFacetCategories%3AWomens" title="The Row">The Row</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="15">
+				<a href="/en/c/ThomBrowne?q=%3Adate-desc%3AstorefrontFacetCategories%3AWomens" title="Thom Browne">Thom Browne</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="16">
+				<a href="/en/c/Valentino?q=%3Adate-desc%3AstorefrontFacetCategories%3AWomens" title="Valentino">Valentino</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="17">
+				<a href="/en/designers?category=Womenswear" title="View All Designers">View All Designers</a>
 				
 			</li>
 		
@@ -959,6 +1096,101 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-menu-section="2" data-menu-column="2" data-order="12">
+				<a href="/en/c/WomensClothing?sort=date-desc&amp;q=%3Arelevance#" title="CLOTHING">CLOTHING</a>
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-order="0">
+				<a href="/en/c/WomensOuterwearCoats?sort=date-desc&amp;q=%3Arelevance#" title="Coats">Coats</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				<a href="/en/c/WomensClothingJackets?sort=date-desc&amp;q=%3Arelevance#" title="Jackets">Jackets</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				<a href="/en/c/WomensClothingDresses?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Dresses">Dresses</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				<a href="/en/c/WomensClothingJeans?sort=date-desc&amp;q=%3Arelevance#" title="Jeans">Jeans</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				<a href="/en/c/WomensClothingKnitwear?sort=date-desc&amp;q=%3Arelevance#" title="Knitwear">Knitwear</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				<a href="/en/c/WomensClothingPants?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Pants">Pants</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="6">
+				<a href="/en/c/WomensClothingShorts?sort=date-desc&amp;q=%3Arelevance#" title="Shorts">Shorts</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="7">
+				<a href="/en/c/WomensClothingSkirts?sort=date-desc&amp;q=%3Arelevance#" title="Skirts">Skirts</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="8">
+				<a href="/en/c/WomensClothingSwimwear?sort=date-desc&amp;q=%3Arelevance#" title="Swimwear">Swimwear</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="9">
+				<a href="/en/c/WomensClothingTops?sort=date-desc&amp;q=%3Arelevance#" title="Tops">Tops</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="10">
+				<a href="/en/c/WomensClothingActivewear?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Activewear">Activewear</a>
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="13">
 				<a href="/en/c/WomensShoes?sort=date-desc&amp;q=%3Arelevance#" title="SHOES">SHOES</a>
 				
 					
@@ -1011,64 +1243,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="2" data-order="13">
-				<a href="c/WomensClothingOuterwear" title="Outerwear">Outerwear</a>
-				
-					
-
-
-
-
-
-<ul class="js-initial-links-list">
-	
-		
-			<li data-order="0">
-				<a href="c/WomensOuterwearCoats" title="Coats">Coats</a>
-				
-			</li>
-		
-	
-		
-			<li data-order="1">
-				<a href="c/WomensClothingJackets" title="Jackets">Jackets</a>
-				
-			</li>
-		
-	
-		
-			<li data-order="2">
-				<a href="c/WomensOuterwearHats" title="Hats">Hats</a>
-				
-			</li>
-		
-	
-		
-			<li data-order="3">
-				<a href="c/WomensOuterwearGloves" title="Gloves">Gloves</a>
-				
-			</li>
-		
-	
-		
-			<li data-order="4">
-				<a href="c/WomensOuterwearScarves" title="Scarves">Scarves</a>
-				
-			</li>
-		
-	
-</ul>
-
-				
-			</li>
-		
-	
-		
-	
-		
-	
-		
-			<li data-menu-section="2" data-menu-column="3" data-order="16">
+			<li data-menu-section="2" data-menu-column="3" data-order="14">
 				<a href="/en/c/WomensBags?sort=date-desc&amp;q=%3Arelevance#" title="BAGS">BAGS</a>
 				
 					
@@ -1080,44 +1255,42 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 <ul class="js-initial-links-list">
 	
 		
-	
-		
-			<li data-order="1">
+			<li data-order="0">
 				<a href="/en/c/WomensBagsClutchEveningBags?sort=date-desc&amp;q=%3Arelevance#" title="Clutch &amp; Evening Bags">Clutch &amp; Evening Bags</a>
 				
 			</li>
 		
 	
 		
-			<li data-order="2">
+			<li data-order="1">
 				<a href="/en/c/WomensBagsCrossbodyBags?sort=date-desc&amp;q=%3Arelevance#" title="Crossbody Bags">Crossbody Bags</a>
 				
 			</li>
 		
 	
 		
-			<li data-order="3">
+			<li data-order="2">
 				<a href="/en/c/WomensBagsPouches?sort=date-desc&amp;q=%3Arelevance#" title="Pouches">Pouches</a>
 				
 			</li>
 		
 	
 		
-			<li data-order="4">
+			<li data-order="3">
 				<a href="/en/c/WomensBagsShoulderBags?sort=date-desc&amp;q=%3Arelevance#" title="Shoulder Bags">Shoulder Bags</a>
 				
 			</li>
 		
 	
 		
-			<li data-order="5">
+			<li data-order="4">
 				<a href="/en/c/WomensBagsTopHandlesSatchels?sort=date-desc&amp;q=%3Arelevance#" title="Top Handles &amp; Satchels">Top Handles &amp; Satchels</a>
 				
 			</li>
 		
 	
 		
-			<li data-order="6">
+			<li data-order="5">
 				<a href="/en/c/WomensBagsToteBags?sort=date-desc&amp;q=%3Arelevance#" title="Tote Bags">Tote Bags</a>
 				
 			</li>
@@ -1130,6 +1303,106 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		
 	
 		
+			<li data-menu-section="2" data-menu-column="3" data-order="15">
+				<a href="/en/c/WomensAccessories?sort=date-desc&amp;q=%3Arelevance#" title="ACCESSORIES">ACCESSORIES</a>
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+	
+		
+			<li data-order="1">
+				<a href="/en/c/WomensAccessoriesBelts?sort=date-desc&amp;q=%3Arelevance" title="Belts">Belts</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				<a href="/en/Products/Womens/Womens-Accessories/Eyewear/c/WomensAccessoriesEyewear?sort=date-desc&amp;q=%3Arelevance#" title="Eyewear">Eyewear</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				<a href="/en/c/WomensAccessoriesHats?sort=date-desc&amp;q=%3Arelevance#" title="Hats">Hats</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="3" data-order="4">
+				<a href="/en/c/WomensAccessoriesJewellery?sort=date-desc&amp;q=%3Arelevance#" title="Jewellery">Jewellery</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				<a href="/en/c/WomensAccessoriesKeychains?sort=date-desc&amp;q=%3Arelevance#" title="Keychains">Keychains</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="6">
+				<a href="/en/c/WomensAccessoriesScarves?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Scarves">Scarves</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="7">
+				<a href="/en/c/WomensAccessoriesWalletsCardHolders?sort=date-desc&amp;q=%3Arelevance#" title="Wallets &amp; Card Holders">Wallets &amp; Card Holders</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="8">
+				<a href="/en/c/WomensAccessoriesWatches?sort=date-desc&amp;q=%3Arelevance#" title="Watches">Watches</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="9">
+				<a href="c/WomensAccessoriesFineWatches?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Fine Watches">Fine Watches</a>
+				
+			</li>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-order="16">
+				
+				
+			</li>
+		
+	
+		
 	
 		
 	
@@ -1137,21 +1410,14 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-menu-section="2" data-menu-column="3" data-order="20">
-				<a href="/en/c/WomensAccessoriesJewellery" title="JEWELLERY">JEWELLERY</a>
+				
 				
 			</li>
 		
 	
 		
 			<li data-menu-section="2" data-menu-column="3" data-order="21">
-				<a href="c/WomensAccessoriesWatches" title="WATCHES">WATCHES</a>
-				
-			</li>
-		
-	
-		
-			<li data-menu-section="2" data-menu-column="3" data-order="22">
-				<a href="c/WomensAccessoriesEyewear?sort=date-desc&amp;q=%3Arelevance#" title="EYEWEAR">EYEWEAR</a>
+				<a href="/en/c/Kids?sort=date-desc&amp;q=%3Arelevance#" title="KIDS">KIDS</a>
 				
 			</li>
 		
@@ -1161,9 +1427,9 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
                 <li>
                     <div class="hidden js-slide-menu-image-wrap">
 								  <div class="slide-menu__image js-slide-menu-image">
-									  <a href="c/Balenciaga?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#">
-										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/Jan10_Nav_Men?$%2Ahybris$" alt="Holt Renfrew image of SHOP BALENCIAGA">
-										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP BALENCIAGA</p>
+									  <a href="c/032c?sort=date-desc&amp;q=%3Arelevance#">
+										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/July12_Men?$%2Ahybris$" alt="man wearing coat">
+										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP O32C</p>
 										  </a>
 								  </div>
 							  </div>
@@ -1192,23 +1458,23 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		
 	
 		
-	
-		
-	
-		
-	
-		
-	
-		
-			<li data-menu-section="1" data-order="7">
+			<li data-menu-section="1" data-order="3">
 				<a href="/en/stories" title="VIEW STORIES">VIEW STORIES</a>
 				
 			</li>
 		
 	
 		
+	
+		
+	
+		
+	
+		
+	
+		
 			<li data-menu-section="1" data-order="8">
-				<a href="c/Sale?q=%3Arelevance%3AstorefrontFacetCategories%3AMens" title="Sale">Sale</a>
+				<a href="/en/c/Sale?q=%3Arelevance%3AstorefrontFacetCategories%3AMens" title="Sale">Sale</a>
 				
 			</li>
 		
@@ -1227,49 +1493,133 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-order="0">
-				<a href="/en/c/Balenciaga?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Balenciaga ">Balenciaga </a>
+				<a href="/en/c/AlexanderMcQueen?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Alexander McQueen">Alexander McQueen</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="1">
-				<a href="/en/c/Givenchy?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Givenchy">Givenchy</a>
+				<a href="/en/c/Balenciaga?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Balenciaga ">Balenciaga </a>
 				
 			</li>
 		
 	
 		
 			<li data-order="2">
-				<a href="/en/c/Gucci?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Gucci">Gucci</a>
+				<a href="c/BottegaVeneta?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Bottega Veneta ">Bottega Veneta </a>
 				
 			</li>
 		
 	
 		
 			<li data-order="3">
-				<a href="/en/c/Prada?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Prada">Prada</a>
+				<a href="/en/c/Canali?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Canali">Canali</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="4">
-				<a href="/en/c/Valentino?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Valentino">Valentino</a>
+				<a href="/en/c/CommedesGarcons?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Comme des Garçons">Comme des Garçons</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="5">
-				<a href="c/Moncler?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Moncler">Moncler</a>
+				<a href="c/DolceGabbana?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Dolce &amp; Gabbana">Dolce &amp; Gabbana</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="6">
-				<a href="/en/designers" title="View All Designers">View All Designers</a>
+				<a href="/en/c/ErmenegildoZegna?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Ermenegildo Zegna">Ermenegildo Zegna</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="7">
+				<a href="c/Givenchy?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Givenchy">Givenchy</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="8">
+				<a href="/en/c/Gucci?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Gucci">Gucci</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="9">
+				<a href="/en/designers/louis-vuitton" title="LOUIS VUITTON">LOUIS VUITTON</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="10">
+				<a href="c/Moncler?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Moncler">Moncler</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="11">
+				<a href="/en/c/Prada?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Prada">Prada</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="12">
+				<a href="c/SaintLaurent?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Saint Laurent ">Saint Laurent </a>
+				
+			</li>
+		
+	
+		
+			<li data-order="13">
+				<a href="/en/c/StoneIsland?sort=date-desc&amp;q=%3Arelevance#" title="Stone Island">Stone Island</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="14">
+				<a href="/en/c/TheRow?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="The Row">The Row</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="15">
+				<a href="/en/c/ThomBrowne?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens#" title="Thom Browne">Thom Browne</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="16">
+				<a href="c/TOMFORD?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3AMens&amp;show=Page#" title="TOM FORD">TOM FORD</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="17">
+				<a href="/en/c/Valentino?q=%3Adate-desc%3AstorefrontFacetCategories%3AMens" title="Valentino">Valentino</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="18">
+				<a href="/en/designers?category=Menswear" title="View All Designers">View All Designers</a>
 				
 			</li>
 		
@@ -1280,6 +1630,120 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 			</li>
 		
 	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="10">
+				<a href="/en/c/MensMensClothing?sort=date-desc&amp;q=%3Arelevance#" title="CLOTHING">CLOTHING</a>
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-order="0">
+				<a href="/en/c/MensOuterwearCoats?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Coats">Coats</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				<a href="/en/c/MensJackets?sort=date-desc&amp;q=%3Arelevance#" title="Jackets">Jackets</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				<a href="/en/c/MensJeans?sort=date-desc&amp;q=%3Arelevance#" title="Jeans">Jeans</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				<a href="/en/c/MensHoodies?sort=date-desc&amp;q=%3Arelevance#" title="Hoodies">Hoodies</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				<a href="/en/c/MensKnitwear?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Knitwear">Knitwear</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				<a href="/en/c/MensPants?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Pants">Pants</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="6">
+				<a href="/en/c/MensShirts?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Shirts">Shirts</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="7">
+				<a href="/en/c/MensShorts?sort=date-desc&amp;q=%3Arelevance#" title="Shorts">Shorts</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="8">
+				<a href="c/MensSuiting?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Suiting">Suiting</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="9">
+				<a href="/en/c/MensSweatshirts?sort=date-desc&amp;q=%3Arelevance#" title="Sweatshirts">Sweatshirts</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="10">
+				<a href="/en/c/MensSwimwear?sort=date-desc&amp;q=%3Arelevance#" title="Swimwear">Swimwear</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="11">
+				<a href="/en/c/MensTShirtsTanks?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="T-Shirts">T-Shirts</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="12">
+				<a href="c/MensVests?sort=date-desc&amp;q=%3Arelevance#" title="Vests">Vests</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="13">
+				<a href="c/MensUnderwearSleepwear?sort=date-desc&amp;q=%3Arelevance#" title="Underwear &amp; Sleepwear ">Underwear &amp; Sleepwear </a>
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
 		
 	
 		
@@ -1330,9 +1794,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		
 	
 		
-	
-		
-			<li data-order="6">
+			<li data-order="5">
 				<a href="/en/c/MensSneakers?sort=date-desc&amp;q=%3Arelevance#" title="Sneakers">Sneakers</a>
 				
 			</li>
@@ -1345,7 +1807,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="2" data-order="12">
+			<li data-menu-section="2" data-menu-column="3" data-order="12">
 				<a href="/en/c/MensMensBags?sort=date-desc&amp;q=%3Arelevance#" title="BAGS">BAGS</a>
 				
 					
@@ -1357,17 +1819,45 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 <ul class="js-initial-links-list">
 	
 		
-	
+			<li data-order="0">
+				<a href="/en/c/MensBackpacks?sort=date-desc&amp;q=%3Arelevance#" title="Backpacks">Backpacks</a>
+				
+			</li>
 		
 	
 		
-	
+			<li data-order="1">
+				<a href="/en/c/MensBriefcases?sort=date-desc&amp;q=%3Arelevance#" title="Briefcases">Briefcases</a>
+				
+			</li>
 		
 	
 		
-	
+			<li data-order="2">
+				<a href="/en/c/MensDuffleBags?sort=date-desc&amp;q=%3Arelevance#" title="Duffle Bags">Duffle Bags</a>
+				
+			</li>
 		
 	
+		
+			<li data-order="3">
+				<a href="/en/c/MensMessengerBags?sort=date-desc&amp;q=%3Arelevance#" title="Messenger Bags">Messenger Bags</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				<a href="/en/c/MensPouches?sort=date-desc&amp;q=%3Arelevance#" title="Pouches">Pouches</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				<a href="/en/c/MensToteBags?sort=date-desc&amp;q=%3Arelevance#" title="Tote Bags">Tote Bags</a>
+				
+			</li>
 		
 	
 </ul>
@@ -1378,14 +1868,14 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-menu-section="2" data-menu-column="2" data-order="13">
-				<a href="/en/c/MensWalletsCardHolders?sort=date-desc&amp;q=%3Arelevance#" title="WALLETS &amp; CARD HOLDERS">WALLETS &amp; CARD HOLDERS</a>
+				
 				
 			</li>
 		
 	
 		
 			<li data-menu-section="2" data-menu-column="3" data-order="14">
-				<a href="c/MensOuterwear" title="Outerwear">Outerwear</a>
+				
 				
 					
 
@@ -1397,28 +1887,35 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-order="0">
-				<a href="c/MensOuterwearCoats" title="Coats">Coats</a>
+				
 				
 			</li>
 		
 	
 		
 			<li data-order="1">
-				<a href="c/MensJackets" title="Jackets">Jackets</a>
+				
 				
 			</li>
 		
 	
 		
 			<li data-order="2">
-				<a href="c/MensOuterwearHatsGloves" title="Hats &amp; Gloves">Hats &amp; Gloves</a>
+				
 				
 			</li>
 		
 	
 		
 			<li data-order="3">
-				<a href="c/MensOuterwearScarves" title="Scarves">Scarves</a>
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				
 				
 			</li>
 		
@@ -1431,7 +1928,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-menu-section="2" data-menu-column="3" data-order="15">
-				<a href="/en/c/MensGroomingCologne?sort=date-desc&amp;q=%3Arelevance#" title="MEN’S GROOMING &amp; COLOGNE">MEN’S GROOMING &amp; COLOGNE</a>
+				<a href="/en/c/MensMensAccessories?sort=date-desc&amp;q=%3Arelevance#" title="ACCESSORIES">ACCESSORIES</a>
 				
 					
 
@@ -1443,14 +1940,84 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-order="0">
-				<a href="/en/c/BeautyMensCologneAftershave?sort=date-desc&amp;q=%3Arelevance#" title="Men’s Cologne &amp; Aftershave">Men’s Cologne &amp; Aftershave</a>
+				<a href="/en/c/MensBelts?sort=date-desc&amp;q=%3Arelevance#" title="Belts">Belts</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="1">
-				<a href="/en/c/BeautyMensSkincare?sort=date-desc&amp;q=%3Arelevance#" title="Men's Skincare">Men's Skincare</a>
+				<a href="/en/c/MensEyewear?sort=date-desc&amp;q=%3Arelevance#" title="Eyewear">Eyewear</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				<a href="/en/c/MensCufflinksTieClips?sort=date-desc&amp;q=%3Arelevance#" title="Cufflinks &amp; Tie Clips">Cufflinks &amp; Tie Clips</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				<a href="/en/c/MensKeychains?sort=date-desc&amp;q=%3Arelevance#" title="Keychains">Keychains</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				<a href="/en/c/MensHatsGloves?sort=date-desc&amp;q=%3Arelevance#" title="Hats &amp; Gloves">Hats &amp; Gloves</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				<a href="/en/c/MensJewellery?sort=date-desc&amp;q=%3Arelevance#" title="Jewellery">Jewellery</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="6">
+				<a href="/en/c/MensPocketSquares?sort=date-desc&amp;q=%3Arelevance#" title="Pocket Squares">Pocket Squares</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="7">
+				<a href="/en/c/MensScarves?sort=date-desc&amp;q=%3Arelevance#" title="Scarves">Scarves</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="8">
+				<a href="/en/c/MensSocks?sort=date-desc&amp;q=%3Arelevance#" title="Socks">Socks</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="9">
+				<a href="/en/c/MensTies?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Ties">Ties</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="10">
+				<a href="/en/c/MensWalletsCardHolders?sort=date-desc&amp;q=%3Arelevance#" title="Wallets &amp; Card Holders">Wallets &amp; Card Holders</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="11">
+				<a href="/en/c/MensWatches?sort=date-desc&amp;q=%3Arelevance#" title="Watches">Watches</a>
 				
 			</li>
 		
@@ -1462,11 +2029,21 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		
 	
 		
-	
+			<li data-menu-section="2" data-menu-column="3" data-order="16">
+				<a href="/en/c/MensGroomingCologne?sort=date-desc&amp;q=%3Arelevance#" title="MEN’S GROOMING &amp; COLOGNE">MEN’S GROOMING &amp; COLOGNE</a>
+				
+			</li>
 		
 	
 		
 	
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="3" data-order="19">
+				
+				
+			</li>
 		
 	
 </ul>
@@ -1474,9 +2051,9 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
                 <li>
                     <div class="hidden js-slide-menu-image-wrap">
 								  <div class="slide-menu__image js-slide-menu-image">
-									  <a href="c/Gucci?q=%3Arelevance%3AstorefrontFacetCategories%3ABeauty">
-										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/Jan10_Nav_Beauty?$%2Ahybris$" alt="Holt Renfrew image of SHOP EXCLUSIVE GUCCI">
-										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP EXCLUSIVE GUCCI</p>
+									  <a href="c/LaPrairie?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#">
+										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/July12_Beauty?$%2Ahybris$" alt="la prairie foundation">
+										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP LA PRAIRIE</p>
 										  </a>
 								  </div>
 							  </div>
@@ -1499,21 +2076,21 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-menu-section="1" data-menu-column="1" data-order="2">
-				<a href="/en/c/BeautyHoltsExclusives" title="Holts Exclusives">Holts Exclusives</a>
+				<a href="/en/c/BeautyBestsellers" title="BEAUTY BESTSELLERS">BEAUTY BESTSELLERS</a>
 				
 			</li>
 		
 	
 		
 			<li data-menu-section="1" data-menu-column="1" data-order="3">
-				<a href="/en/c/CleanBeauty?sort=date-desc&amp;q=%3Arelevance#" title="Clean Beauty">Clean Beauty</a>
+				<a href="/en/c/BeautyHoltsExclusives" title="Holts Exclusives">Holts Exclusives</a>
 				
 			</li>
 		
 	
 		
 			<li data-menu-section="1" data-menu-column="1" data-order="4">
-				<a href="/en/c/BeautyBestsellers" title="BEAUTY BESTSELLERS">BEAUTY BESTSELLERS</a>
+				<a href="/en/c/CleanBeauty?sort=date-desc&amp;q=%3Arelevance#" title="Clean Beauty">Clean Beauty</a>
 				
 			</li>
 		
@@ -1562,7 +2139,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-order="2">
-				<a href="/en/c/Gucci?q=%3Arelevance%3AstorefrontFacetCategories%3ABeauty" title="Gucci">Gucci</a>
+				<a href="c/Gucci?sort=date-desc&amp;q=%3Arelevance%3AstorefrontFacetCategories%3ABeauty#" title="Gucci">Gucci</a>
 				
 			</li>
 		
@@ -1583,7 +2160,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-order="5">
-				<a href="c/Dior?q=%3Adate-desc%3AstorefrontFacetCategories%3ABeauty" title="Dior">Dior</a>
+				<a href="c/Dior?q=%3Adate-desc%3AstorefrontFacetCategories%3ABeauty" title="DIOR">DIOR</a>
 				
 			</li>
 		
@@ -1639,14 +2216,14 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-order="13">
-				<a href="/en/c/TOMFORD?sort=date-desc&amp;q=%3Arelevance#" title="TOM FORD">TOM FORD</a>
+				<a href="c/TOMFORD?q=%3Adate-desc%3AstorefrontFacetCategories%3ABeauty" title="TOM FORD">TOM FORD</a>
 				
 			</li>
 		
 	
 		
 			<li data-order="14">
-				<a href="/en/designers" title="View All Designers">View All Designers</a>
+				<a href="/en/designers?category=Beauty" title="View All Designers">View All Designers</a>
 				
 			</li>
 		
@@ -1791,7 +2368,14 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-order="0">
-				<a href="/en/c/BeautyPerfume" title="Perfume">Perfume</a>
+				<a href="c/BeautyPerfume?sort=date-desc&amp;q=%3Arelevance#" title="Perfume">Perfume</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				<a href="c/BeautyFragranceBathBody?sort=date-desc&amp;q=%3Arelevance#" title="Bath &amp; Body">Bath &amp; Body</a>
 				
 			</li>
 		
@@ -1799,7 +2383,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		
 	
 		
-			<li data-order="2">
+			<li data-order="3">
 				<a href="/en/c/BeautyCandlesHomeFragrances?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="Candles &amp; Home &nbsp; &nbsp; Fragrances">Candles &amp; Home &nbsp; &nbsp; Fragrances</a>
 				
 			</li>
@@ -1861,14 +2445,637 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 			</li>
 		
 	
+		
+			<li data-menu-section="2" data-menu-column="3" data-order="16">
+				<a href="c/BeautyTravel?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="TRAVEL">TRAVEL</a>
+				
+			</li>
+		
+	
 </ul>
 </li>
                 <li>
-                    <a href="/en/designers" title="Designers">Designers</a></li>
+                    <div class="hidden js-slide-menu-image-wrap">
+								  <div class="slide-menu__image js-slide-menu-image">
+									  <a href="/c/WomensClothing?sort=date-desc&amp;q=%3Arelevance# ">
+										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/Mar4%5FNav%5FHP?$%2Ahybris$" alt="Holt Renfrew Image">
+										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP DESIGNER WOMENSWEAR											</p>
+										  </a>
+								  </div>
+							  </div>
+							<a href="/en/designers" title="Designers">Designers</a>
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-menu-section="1" data-order="0">
+				
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="1" data-order="1">
+				<a href="/en/designers" title="DESIGNERS BY CATEGORY">DESIGNERS BY CATEGORY</a>
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-menu-section="1" data-order="0">
+				<a href="/en/designers?category=Womenswear" title="Women's Clothing">Women's Clothing</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				<a href="/en/designers?category=Beauty" title="Beauty">Beauty</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				<a href="/en/designers?category=Womens+Footwear" title="Shoes">Shoes</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				<a href="/en/designers?category=Womens+Bags" title="Bags">Bags</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				<a href="/en/designers?category=Womens+Jewellery+Accessories" title="Jewellery &amp; Accessories">Jewellery &amp; Accessories</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				<a href="/en/designers?category=Menswear" title="Men's">Men's</a>
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="1" data-menu-column="1" data-order="2">
+				<a href="/en/designers" title="SHOP ALL DESIGNERS">SHOP ALL DESIGNERS</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="1" data-order="3">
+				<a href="/en/designers" title="FEATURED DESIGNERS">FEATURED DESIGNERS</a>
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-menu-section="2" data-menu-column="1" data-order="0">
+				<a href="/en/designers" title="All Designers">All Designers</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="1" data-order="1">
+				<a href="/en/c/Balenciaga?sort=date-desc&amp;q=%3Arelevance#" title="Balenciaga">Balenciaga</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				<a href="/en/designers/chanel" title="CHANEL">CHANEL</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="1" data-order="3">
+				<a href="/en/c/Chloe?sort=date-desc&amp;q=%3Arelevance#" title="Chloé">Chloé</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				<a href="/en/c/CommedesGarcons?q=%3Adate-desc" title="Comme des Garçons">Comme des Garçons</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="1" data-order="5">
+				
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="1" data-order="6">
+				
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="3" data-menu-column="3" data-order="7">
+				<a href="/en/c/Givenchy?q=%3Adate-desc%20/c/Gucci?q=%3Adate-desc" title="Givenchy">Givenchy</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="8">
+				<a href="/en/c/Gucci?q=%3Adate-desc" title="Gucci">Gucci</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="9">
+				<a href="/en/c/LaMer?sort=date-desc&amp;q=%3Arelevance#" title="La Mer">La Mer</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="10">
+				<a href="c/LaPrairie?sort=date-desc&amp;q=%3Arelevance&amp;show=Page#" title="La Prairie">La Prairie</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="11">
+				<a href="/en/designers/louis-vuitton" title="LOUIS VUITTON">LOUIS VUITTON</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="12">
+				<a href="c/MaxMara?sort=date-desc&amp;q=%3Arelevance#" title="Max Mara">Max Mara</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="13">
+				<a href="/en/c/Moncler?q=%3Adate-desc" title="Moncler">Moncler</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="14">
+				<a href="/en/c/Prada?q=%3Adate-desc" title="Prada">Prada</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="15">
+				<a href="/en/c/SaintLaurent?q=%3Adate-desc" title="Saint Laurent">Saint Laurent</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="16">
+				<a href="/en/c/TheRow?sort=date-desc&amp;q=%3Arelevance#" title="The Row">The Row</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="17">
+				<a href="/en/c/ThomBrowne?q=%3Adate-desc" title="Thom Browne">Thom Browne</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="18">
+				<a href="/en/c/TOMFORD?q=%3Adate-desc" title="TOM FORD">TOM FORD</a>
+				
+			</li>
+		
+	
+		
+			<li data-order="19">
+				<a href="/en/c/Valentino?q=%3Adate-desc" title="Valentino">Valentino</a>
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="1" data-order="4">
+				
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-order="0">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="1" data-order="5">
+				
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-order="0">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="6">
+				
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-order="0">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="7">
+				
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-order="0">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="3" data-order="8">
+				
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-order="0">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="3" data-order="9">
+				
+				
+					
+
+
+
+
+
+<ul class="js-initial-links-list">
+	
+		
+			<li data-order="0">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="1">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="2">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="3">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="4">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="5">
+				
+				
+			</li>
+		
+	
+		
+			<li data-order="6">
+				
+				
+			</li>
+		
+	
+</ul>
+
+				
+			</li>
+		
+	
+</ul>
+</li>
                 <li>
                     <div class="hidden js-slide-menu-image-wrap">
 								  <div class="slide-menu__image js-slide-menu-image">
-									  <a href="store-events">
+									  <a href="/store-events">
 										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/regional-newness-nav?$%2Ahybris$" alt="Holt Renfrew image of VIEW STORE EVENTS">
 										  <p class="holt-button__secondary holt-button__secondary--top-nav">VIEW STORE EVENTS</p>
 										  </a>
@@ -1961,7 +3168,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	
 		
 			<li data-menu-section="2" data-menu-column="3" data-order="11">
-				<a href="/en/stores/ogilvy-montreal" title="Ogilvy Montreal">Ogilvy Montreal</a>
+				<a href="/en/stores/ogilvy-montreal" title="Holt Renfrew Ogilvy">Holt Renfrew Ogilvy</a>
 				
 			</li>
 		
@@ -1972,8 +3179,8 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
                     <div class="hidden js-slide-menu-image-wrap">
 								  <div class="slide-menu__image js-slide-menu-image">
 									  <a href="c/HProject?sort=date-desc&amp;q=%3Arelevance#">
-										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/Jan10_Nav_HProject?$%2Ahybris$" alt="Holt Renfrew image of SHOP H PROJECT">
-										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP H PROJECT</p>
+										  <img src="https://s7d2.scene7.com/is/image/HoltRenfrewNewProd/July12_HProject?$%2Ahybris$" alt="hand bag">
+										  <p class="holt-button__secondary holt-button__secondary--top-nav">SHOP H PROJECT									</p>
 										  </a>
 								  </div>
 							  </div>
@@ -1993,57 +3200,85 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="1" data-order="1">
+			<li data-menu-section="1" data-order="1">
 				<a href="c/HProject?q=%3Adate-desc&amp;page=0" title="NEW ARRIVALS">NEW ARRIVALS</a>
 				
 			</li>
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="2" data-order="2">
+			<li data-menu-section="1" data-order="2">
+				<a href="c/HProjectBestsellers?sort=date-desc&amp;q=%3Arelevance#" title="H PROJECT BESTSELLERS">H PROJECT BESTSELLERS</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="1" data-order="3">
+				<a href="/en/c/AlexandrasPicks?sort=date-desc&amp;q=%3Arelevance#" title="ALEXANDRA’S PICKS">ALEXANDRA’S PICKS</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="1" data-order="4">
+				<a href="/en/c/GiftsthatGiveBack?sort=date-desc&amp;q=%3Arelevance#" title="GIFTS THAT GIVE BACK">GIFTS THAT GIVE BACK</a>
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="1" data-menu-column="1" data-order="5">
+				
+				
+			</li>
+		
+	
+		
+			<li data-menu-section="2" data-menu-column="2" data-order="6">
 				<a href="/en/c/HProjectAccessories?sortdate-desc&amp;q%3Arelevance#" title="ACCESSORIES">ACCESSORIES</a>
 				
 			</li>
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="1" data-order="3">
+			<li data-menu-section="2" data-menu-column="1" data-order="7">
 				<a href="/en/c/HProjectClothing?sortdate-desc&amp;q%3Arelevance#" title="CLOTHING">CLOTHING</a>
 				
 			</li>
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="1" data-order="4">
+			<li data-menu-section="2" data-menu-column="1" data-order="8">
 				<a href="/en/c/HProjectKids" title="Kids">Kids</a>
 				
 			</li>
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="2" data-order="5">
+			<li data-menu-section="2" data-menu-column="2" data-order="9">
 				<a href="/en/c/HProjectHome?sort=date-desc&amp;q=%3Arelevance#" title="HOME">HOME</a>
 				
 			</li>
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="3" data-order="6">
+			<li data-menu-section="2" data-menu-column="3" data-order="10">
 				<a href="/en/h-project" title="EXPLORE H PROJECT">EXPLORE H PROJECT</a>
 				
 			</li>
 		
 	
 		
-			<li data-menu-section="2" data-menu-column="3" data-order="7">
+			<li data-menu-section="2" data-menu-column="3" data-order="11">
 				<a href="/en/c/CleanBeauty?sort=date-desc&amp;q=%3Arelevance#" title="CLEAN BEAUTY">CLEAN BEAUTY</a>
 				
 			</li>
 		
 	
 		
-			<li data-menu-section="1" data-order="8">
-				<a href="c/Sale?q=%3Arelevance%3AstorefrontFacetCategories%3AHProject" title="Sale">Sale</a>
+			<li data-menu-section="1" data-order="12">
+				<a href="/en/c/Sale?q=%3Arelevance%3AstorefrontFacetCategories%3AHProject" title="Sale">Sale</a>
 				
 			</li>
 		
@@ -2051,7 +3286,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 </ul>
 </li>
                 <li>
-                    <a href="/en/magazines" title="Magazines">Magazines</a></li>
+                    <a href="/en/Products/Collections/Sale/c/Sale" title="Sale">Sale</a></li>
                 </ul>
     </nav>
 </div>
@@ -2139,7 +3374,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		<div class="mini-cart-icon">
 			<span class="icon-icon-bag">
 				<span class="mini-cart-price js-mini-cart-price hidden">
-					$0</span>
+					$0.00</span>
 				<span class="mini-cart-count js-mini-cart-count"><span class="nav-items-total">0</span></span>
 			</span>
 		</div>
@@ -2165,8 +3400,6 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 		</div>
 	</div>
 </header>
-
-
 <div class="">
 <div class="breadcrumb__wrapper flex-row">
 		<div class="container page-container">
@@ -2176,7 +3409,7 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 			</li>
 
 			<li class="customercare">
-							<a href="/en//customer-care">Customer Care</a>
+							<a href="/en/customer-care">Customer Care</a>
 						</li>
 					<li class="active privacypolicy">Privacy Policy</li>
 					</ol>
@@ -2488,9 +3721,9 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
           <div class="facet js-facet">
             <a href="/en/customer-care/online-purchase-terms-and-conditions"><button class="facet__name js-facet-name collapsed">ONLINE PURCHASE TERMS &amp; CONDITIONS</button></a>
           </div>
-          <div class="facet js-facet">
+          <!--<div class="facet js-facet">
             <a href="/en/customer-care/anti-spam-legislation-policy"><button class="facet__name js-facet-name collapsed">ANTI-SPAM LEGISLATION POLICY</button></a>
-          </div>
+          </div>-->
           <div class="facet js-facet">
             <a href="https://holtrenfrew-en.custhelp.com/"><button class="facet__name js-facet-name collapsed">CONTACT US</button></a>
           </div>
@@ -2530,7 +3763,118 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
                                &quot;width&quot;: &quot;%&quot;
                          }">
         <div class="text">
-            <h1 class="font-chronicle">Privacy Policy</h1></div>
+            <style type="text/css">
+.sub-menu .lvl-2-links ul li {
+  font-family: "Harmonia Sans Std", "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: inherit;
+  color: #626262;
+  margin-top: 14px;
+}
+
+.sub-menu .lvl-2-links ul li a {
+  text-transform: uppercase;
+}
+
+.sub-menu .lvl-2-links ul ul li {
+  font-family: "Harmonia Sans Std", "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: inherit;
+  color: #626262;
+}
+
+.sub-menu .lvl-2-links ul ul li a {
+  text-transform: capitalize;
+}
+
+.sub-menu .feature {
+  width: 218px;
+  height: 218px;
+  overflow: hidden;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 14px;
+}
+
+.sub-menu .feature img {
+  width: 144%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+li.expand {
+  list-style: none;
+}
+
+li.expand a::before {
+  content: "+";
+  float: right;
+}
+
+.minus .large-link::after {
+  content: " v";
+}
+
+.minus .large-link::after {
+  content: " v";
+}
+
+li.minus a::before {
+  content: "-";
+}
+
+.toggle-show {
+  display: none;
+}
+
+.toggle-show li::before {
+  content: none;
+}
+
+.toggle-show li a::before {
+  content: none;
+}
+	
+.universal-content-page	div.lvl-2-links nav ul {
+	padding-left: 0px;
+}
+
+	.timeline th {
+		color: #626262 !important;
+		background-color: #f7f7f7 !important;
+	}
+
+	table th:last-child {
+    		text-align: center;
+	}
+
+	table th {
+		background: #f7f7f7;
+		color: #626262;
+	}
+
+	.timeline td, .timeline th {
+    		border: 1px solid #626262 !important;
+	}
+
+	.chart {
+		width: 100%;
+	}
+
+	table, th, td {
+   		border: 1px solid #626262;
+	}
+
+	@media (max-width: 1023px) {
+		.chart {
+			overflow-x: scroll;
+		}
+	}
+</style></div>
     </div>
 </div><div class="padding-wrap js-padding-wrap" data-padding-settings="{
               &quot;desktop&quot;: {
@@ -2552,320 +3896,399 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
                                &quot;width&quot;: &quot;%&quot;
                          }">
         <div class="text">
-            <p><a name="Top"></a></p>
+            <p style="text-align: right; margin-top: 50px;"><a href="/en/chinese/customer-care-privacy-policy" style="text-decoration: underline; text-transform: lowercase;">隐私声明</a></p></div>
+    </div>
+</div><div class="padding-wrap js-padding-wrap" data-padding-settings="{
+              &quot;desktop&quot;: {
+                  &quot;padding-top&quot;: &quot;0px&quot;,
+                  &quot;padding-left&quot;: &quot;0px&quot;,
+                  &quot;padding-right&quot;: &quot;0px&quot;,
+                  &quot;padding-bottom&quot; : &quot;0px&quot;,
+                  &quot;background-color&quot;: &quot;#FFFFFF&quot;
+              },
+              &quot;mobile&quot;: {
+             		&quot;padding-top&quot;: &quot;0px&quot;,
+             		&quot;padding-left&quot;: &quot;0px&quot;,
+             		&quot;padding-right&quot;: &quot;0px&quot;,
+             		&quot;padding-bottom&quot; : &quot;0px&quot;,
+             		&quot;background-color&quot;: &quot; #FFFFFF&quot;
+              }
+          }" style="padding: 0px; background-color: rgb(255, 255, 255);">
+    <div class="holt-banner__text holt-banner__text--standalone js-text-block" data-text-block-settings="{
+                               &quot;width&quot;: &quot;%&quot;
+                         }">
+        <div class="text">
+            <h1 class="font-chronicle" style="margin-top: 0;">Privacy Policy</h1></div>
+    </div>
+</div><div class="padding-wrap js-padding-wrap" data-padding-settings="{
+              &quot;desktop&quot;: {
+                  &quot;padding-top&quot;: &quot;0px&quot;,
+                  &quot;padding-left&quot;: &quot;0px&quot;,
+                  &quot;padding-right&quot;: &quot;0px&quot;,
+                  &quot;padding-bottom&quot; : &quot;0px&quot;,
+                  &quot;background-color&quot;: &quot;#FFFFFF&quot;
+              },
+              &quot;mobile&quot;: {
+             		&quot;padding-top&quot;: &quot;0px&quot;,
+             		&quot;padding-left&quot;: &quot;0px&quot;,
+             		&quot;padding-right&quot;: &quot;0px&quot;,
+             		&quot;padding-bottom&quot; : &quot;0px&quot;,
+             		&quot;background-color&quot;: &quot; #FFFFFF&quot;
+              }
+          }" style="padding: 0px; background-color: rgb(255, 255, 255);">
+    <div class="holt-banner__text holt-banner__text--standalone js-text-block" data-text-block-settings="{
+                               &quot;width&quot;: &quot;%&quot;
+                         }">
+        <div class="text">
+            <h5><strong>Welcome</strong></h5>
 
-<p><strong>Table of Contents</strong></p>
+<p>This Privacy Notice explains how Holt, Renfrew &amp; Co., Limited and its related companies and affiliates - Holt Renfrew Holdings Limited and Selfridges Group Limited (“<strong>Holt Renfrew</strong>”) - collect, use, disclose and otherwise process Personal Information. (defined below)</p>
 
-<p><a href="#A">A. Purpose &amp; Scope</a><br>
-<a href="#B">B. The Collection Of Personal Information</a><br>
-<a href="#C">C. Your Consent</a><br>
-<a href="#D">D. Accessing, Verifying &amp; Amending Your Personal Information</a><br>
-<a href="#E">E. Security</a><br>
-<a href="#F">F. Retention &amp; Disposal</a><br>
-<a href="#G">G. How We Ensure Compliance With Our Privacy Policy</a><br>
-<a href="#H">H. Resolving Your Concerns</a><br>
-<a href="#I">I. Anti-Spam Policy</a><br>
-<a href="#J">J. Changes To This Privacy Policy</a></p>
+<p>This Privacy Notice describes the Personal Information we may collect from you, the reason we collect it, how we use it and with whom we may share it.</p>
 
-<p>&nbsp;</p>
+<p>If you would like to know what choices you can make about your Personal Information, jump to <a href="#choices" style="text-decoration: underline; text-transform: lowercase;">Your Choices</a>.</p>
 
-<p>&nbsp;</p>
+<br>
 
-<p><a name="A"></a><strong>A. Purpose &amp; Scope</strong></p>
+<h5><strong>Updates to This Privacy Notice</strong></h5>
 
-<p>This Privacy Policy applies to Holt, Renfrew &amp; Co., Limited and its related companies and affiliates (collectively referred to in this Privacy Policy as “Holt Renfrew” “we” “us” or “our”). Our related companies and affiliates mean Holt Renfrew Holdings Limited and Selfridges Group Limited. Holt Renfrew is committed to protecting your privacy and maintaining the integrity of any identifiable information we collect about you (“Personal Information”). Keeping our customers’ Personal Information and affairs in strict confidence is a cornerstone of Holt Renfrew's business practices. The purpose of this Privacy Policy is to describe our policies and procedures and how we put them into practice so that you understand what Personal Information we collect, and how we use, manage and share your Personal Information.</p>
+<p>We may make changes to this Privacy Notice, and may apply any changes to information previously collected, as permitted by law. When we make material changes to this Privacy Notice, we will notify you by posting the updated Privacy Notice on our website, and we will update the effective date at the end of this Privacy Notice.</p>
 
-<p>Our policies and procedures, which we practice in order to protect your privacy, are in place across Holt Renfrew retail and online operations, including Holt Renfrew Men and Ogilvy (collectively referred to in this Privacy Policy as “Stores”) and apply to our websites, including www.holtrenfrew.com, www.ogilvycanada.com (the “Sites”).</p>
+<br>
 
-<p>Please also note that when you sign up for, participate in or purchase a specific product, service, program, contest, promotion or event available through Holt Renfrew, additional terms and conditions may be provided regarding the collection, use or sharing of Personal Information in connection with that product, service, program, contest, promotion or event. Those terms and conditions will apply together with this Privacy Policy.</p>
+<h5><strong>When does this Privacy Notice apply?</strong></h5>
 
-<p>Personal Information” means any information about an identifiable individual, such as your name, address, telephone number, email address, birth date, and includes non-personal information which cannot identify an individual on its own, but which can identify an individual by combining it with other Personal Information previously collected, or to be collected.</p>
+<p>This Privacy Notice applies to the Personal Information we collect and use when you:</p>
 
-<p>Protecting your Privacy Means:</p>
-
-<ul class="lists" style="list-style:disc; margin-left:20px;font-weight: 300;">
-	<li>we keep your Personal Information and the business you do with us in strict confidence;</li>
-	<li>your Personal Information is not sold;</li>
-	<li>you have control over how we collect, use, and share your Personal Information;</li>
-	<li>you have access to the Personal Information we have about you; and</li>
-	<li>we respect your privacy when we market our products and services.</li>
+<ul class="lists" style="list-style: disc; margin-left: 20px; font-weight: 400;">
+	<li>visit, shop and interact with our websites <a href="https://www.holtrenfrew.com" style="text-decoration: underline;">www.holtrenfrew.com</a>, <a href="http://www.ogilvycanada.com" target="_blank" style="text-decoration: underline;">www.ogilvycanada.com</a> and any other site where this Privacy Notice is posted</li>
+	<li>visit us in person at one of our retail locations or cafes</li>
+	<li>make a purchase  directly from us, or from one of our on-premises luxury brand partners</li>
+	<li>attend one of our events or participate in a promotion and/or contest, and</li>
+	<li>communicate with us by telephone, email, social media or other means</li>
 </ul>
 
-<p><strong>&nbsp;</strong></p>
-
-<p><a href="#Top">Back to Top</a></p>
-
-<p><strong>&nbsp;</strong></p>
-
-<p><strong>&nbsp;</strong></p>
-
-<p><strong><a name="B"></a><strong>B. The Collection Of Personal Information</strong></strong></p>
-
-<p>Why Does Holt Renfrew Collect your Personal Information?<br>
-Holt Renfrew collects Personal Information and uses it in order to:</p>
-
-<ul class="lists" style="list-style:disc; margin-left:20px;font-weight: 300;">
-	<li>understand your needs and eligibility for products and services;</li>
-	<li>inform you about products, services, special offers, programs, contests, promotions or events that Holt Renfrew reasonably believes may be of interest to you. We may also automatically enter you in some of our contests and programs. If you are automatically entered in a contest or program, we will let you know.</li>
-	<li>establish and maintain a record of your purchase history;</li>
-	<li>create, administer, and maintain customer accounts, process your transactions and returns;</li>
-	<li>establish a record of the Personal Information you provide or that we receive about you;</li>
-	<li>recommend particular products and services to meet your needs;</li>
-	<li>to better understand our customer demographics;</li>
-	<li>provide ongoing service;</li>
-	<li>improve service delivery;</li>
-	<li>respond to your questions, enquiries or complaints or verify instructions from you;</li>
-	<li>review and evaluate job applications filed online through <a href="https://www.holtrenfrew.com" style="text-decoration: underline;">www.holtrenfrew.com</a>;</li>
-	<li>provide you with information (e.g. through direct mail, eNewsletters and other communication channels);</li>
-	<li>verify some of the information you give us;</li>
-	<li>avoid spam on our Blog;</li>
-	<li>establish your identification;</li>
-	<li>protect you and us from error and fraud; and</li>
-	<li>where required, co-operate with law enforcement authorities, to comply with a court order or to prevent a breach of any applicable law.</li>
-</ul>
-
-<p><strong>&nbsp;</strong></p>
-
-<p>We collect, use and disclose Personal Information only for purposes that a reasonable person would consider appropriate in the circumstances.</p>
-
-<p>We may review and analyze your use of products and services, to help us serve you better, and to bring other products and services to your attention, which we feel, will be of benefit to you. We also collect and analyze information from other sources for the same purposes.</p>
-
-<p>Please note that aggregated information, where the identity of a specific individual cannot be determined, is not Personal Information. Holt Renfrew reserves the right to prepare and use aggregated information in any manner it thinks appropriate. For example, Holt Renfrew may also prepare aggregated user statistics or information summaries to describe our services and their popularity to our suppliers and prospective advertisers and for other lawful purposes. Any aggregated user statistics and information will not contain any Personal Information.</p>
-
-<p>Holt Renfrew collects various types of Personal Information. For example, when you make an online purchase, we will collect your billing information, such as credit card or other payment number, address and contact information. In store, at check out, you may be asked to provide certain contact information (such as your name and e-mail address). You may be asked, depending upon which services you subscribe for or features you make use of, to provide additional contact information and general information about yourself (such as address, postal code, telephone numbers, age group, birth date, personal interests, personal preferences, product preferences and, with respect to the online job application feature specifically, work experience, formal education, training, certifications, skill set, abilities and other work related information.</p>
-
-<p>Holt Renfrew collects Personal Information in a variety of ways, such as during the course of your purchase of products and services or your participation in one or more of our programs, contests, promotions or events. Holt Renfrew will only collect Personal Information that you have voluntarily provided to us. Holt Renfrew will not collect any Personal Information about you without telling you ahead of time (either through this Privacy Policy or at the time we are requesting Personal Information from you) why and how Personal Information is being collected and how such Personal Information will be used or disclosed (if applicable).</p>
-
-<p>Holt Renfrew may collect your Personal Information through a variety of means (e.g. you provide it verbally or in writing, including via electronic media). The following are examples of how we may do so:</p>
-
-<ul class="lists" style="list-style:disc; margin-left:20px;font-weight: 300;">
-	<li>the completion of manual or electronic forms;</li>
-	<li>in person, by mail, over the telephone, through our websites or in any other direct manner;</li>
-	<li>participation in our promotions and contests;</li>
-	<li>through video surveillance used in and around our Stores for the protection of our customers, colleagues and assets and to protect against theft, damage to property and fraud</li>
-	<li>participation in our personal shopping service; and</li>
-	<li>using our website to search online for available positions at Holt Renfrew and submit job applications online with respect to such openings. Users who use such service will be asked to provide a cover letter, a resume and provide particulars as to their work experience, proficiencies and employment opportunity preferences.</li>
-</ul>
-
-<p>&nbsp;</p>
-
-<p>We may receive Personal Information from other sources. For instance, with respect to our Leased Partners’ products, services or programs who also may collect and share with us, your Personal Information;</p>
-
-<p>Automatic Collection of Information</p>
-
-<p>Holt Renfrew or its authorized service providers may automatically collect information about your use of the Sites. Data and metadata collected in this manner may be collected through the use of these technologies:</p>
-
-<ul class="lists" style="list-style:disc; margin-left:20px;font-weight: 300;">
-	<li>Cookies: When you visit any of our websites, advertisements appearing thereon or receive emails from Holt Renfrew, we may use technology commonly referred to as a "cookie" which stores small bits of data on your computer. Cookies may be used for many purposes, including, but not limited to, remembering you and your preferences, tracking your visits to our web pages, monitoring content that you are accessing, and for displaying offers related to your prior activity on our site. A Flash cookie is a data file placed on a device via the Adobe Flash plug-in that may be built into or downloaded by you onto your device. Flash cookies may be used for various purposes, including, but not limited to, enabling a Flash feature and remembering your preferences. You acknowledge and understand that erasing cookies may limit or restrict your ability to use any or all the features and functions of our websites and services.</li>
-	<li>Click streaming/Click tracking: These technologies enable us to count visitors to our Sites, monitor how users navigate our Sites, count how many of our emails were actually opened, or count how many particular links contained within an email were actually viewed.</li>
-	<li>Web Beacons: Web beacons are small, graphic images that allow a website operator to collect certain information and monitor user activity on its website. A web beacon is a very small pixel which is invisible to the user. Holt Renfrew uses web beacons in our e-newsletters and blogs to collect non-personal information.</li>
-	<li>Web site traffic information, which is monitored and analyzed in order to determine which features and services are popular and useful to visitors, so that we can improve our services. Other technologies which use your IP address in order to collect physical or geographic location data.</li>
-</ul>
-
-<p><strong><strong><strong>&nbsp;</strong></strong></strong></p>
-
-<p><strong>Your Online Privacy Choices and Controls</strong></p>
-
-<p>You have certain choices about how your Personal Information is collected and used online.</p>
-
-<p>You may be able to disable cookies or to adjust your Flash privacy settings by visiting Adobe’s website privacy settings page at <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html" target="_blank" rel="nofollow" style="text-decoration: underline;">www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html</a>. If you choose to disable cookies or to adjust your Flash privacy settings on your device, some features of our Sites may not function properly.</p>
-
-<p>We may use Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses cookies to analyze your use of the Sites, to create reports about visitor activities for us and to provide further services associated with the use of the Sites and the Internet. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. You may opt out of Google’s interest-based advertising at <a href="http://www.google.com/settings/ad" target="_blank" rel="nofollow" style="text-decoration: underline;">www.google.com/settings/ad</a> or through the Google opt-out browser add-on &nbsp;located at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="nofollow" style="text-decoration: underline;">https://tools.google.com/dlpage/gaoptout</a>.</p>
-
-<p>You may also be able to opt out of certain targeted advertising by visiting the TRUSTe advertising choices page at <a href="http://preferences-mgr.truste.com/" target="_blank" rel="nofollow" style="text-decoration: underline;">http://preferences-mgr.truste.com/</a> and the Digital Advertising Alliance of Canada’s consumer opt-out page for behavioural advertising at <a href="http://www.youradchoices.ca/choices" target="_blank" rel="nofollow" style="text-decoration: underline;">www.youradchoices.ca/choices</a>.</p>
-
-<p>Your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. However, there is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, the Sites currently do not alter their practices when they receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit <a href="http://www.allaboutdnt.com" target="_blank" rel="nofollow" style="text-decoration: underline;">www.allaboutdnt.com</a>.</p>
-
-<p>Holt Renfrew may also prepare aggregated user statistics or information summaries to describe our services and their popularity to our suppliers and prospective advertisers and for other lawful purposes. Any aggregated user statistics and information will not contain any Personal Information.</p>
-
-<p>How Holt Renfrew May Share Personal Information:<br>
-Holt Renfrew does not sell to third parties any Personal Information we collect. Holt Renfrew may share some Personal Information we collect with our affiliates and related companies, selected service providers, vendors, Leased Partners and other organizations outside of Holt Renfrew that help Holt Renfrew provide personalized products, services, programs, promotions, contests or events and advertising to you or help us with our business operations. When Holt Renfrew shares Personal Information with any such party, we limit the use of such Personal Information to those purposes requested by us and we require that the party has adequate safeguards for the protection of that Personal Information.</p>
-
-<p>We may share your Personal Information where necessary to protect our interests or in the event of a sale or transfer of all or part of Holt Renfrew. For example, disclosure may be necessary:</p>
-
-<ul class="lists" style="list-style:disc; margin-left:20px;font-weight: 300;">
-	<li>in order to detect or prevent fraud;</li>
-	<li>in connection with a merger with another entity;</li>
-	<li>to insure or securitize our assets;</li>
-	<li>to engage in another form of corporate or financing transaction; or</li>
-	<li>where required, co-operate with law enforcement authorities, to comply with a court order or to prevent a breach of any applicable law.</li>
-</ul>
-
-<p>&nbsp;</p>
-
-<p>In such an event, we will ensure that the parties have entered into an agreement under which the disclosure of the information (including any Personal Information) is restricted to those purposes that relate to the investigation or transaction.</p>
-
-<p>&nbsp;</p>
-
-<p><a href="#Top">Back to Top</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong><a name="C"></a>C. Your Consent</strong></p>
-
-<p>Your Consent Can Be Express Or Implied.<br>
-Your express consent may be obtained verbally, online or in writing.</p>
-
-<p>Your implied consent may be obtained through your purchase of a product or use of a service, or when you make an inquiry about our products or services. By choosing to provide us with your Personal Information, you are consenting to its use in accordance with the principles outlined in this Privacy Policy and as may be further outlined at the time of collection. For example, if we give you an opportunity to tell us you don't want direct marketing material and you don't tell us that you don't want us to send it, we can conclude that you have no objection. We will rely on your implied consent to use and disclose identifying information about you, such as your name and address.</p>
-
-<p>You May Withdraw your Consent at Any Time.<br>
-The protection of your Personal Information is of the utmost importance to us. If you don't want Holt Renfrew to use Personal Information collected about you for marketing or publicity purposes, please tell us at the time the information is collected.</p>
-
-<p>You can withdraw your consent any time after you have given it to us, provided there are no legal or regulatory requirements to prevent this. For information on how to proceed, you can call or email our Chief Privacy Officer at 416-960-2860 or<a href="mailto:privacy.office@holtrenfrew.com">privacy.office@holtrenfrew.com</a>. You can also complete the <a href="https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2018/corporate/customer-care/privacy-policy/may-07-2018/Privacy-Inquiry-Information-Change-Form-2018-EN.pdf" target="_blank" rel="nofollow" style="text-decoration: underline;">PRIVACY INQUIRY AND INFORMATION CHANGE FORM</a> and present it for processing to any sales associate or concierge (where available) at any Holt Renfrew Store, mail or using a secure email address, scan and email a completed signed copy to the Chief Privacy Officer. Please note that you will be required to provide valid photo ID to verify your identity.</p>
-
-<p>Please note if you don't consent to certain uses of information, or if you withdraw your consent, we may not be able to provide you with a particular product or service. If so, we will explain the situation to you to help you with your decision. It is also important to note that it may take some time for all of our records to reflect changes in your contact and consent preferences. For example, if you request that you do not want to receive personalized marketing communications from Holt Renfrew your preference may not be captured for a promotion that is already in progress.</p>
-
-<p><span class="s1">You may unsubscribe at any time from receiving our <i>Holt Renfrew</i> eNewsletters by clicking on the unsubscribe link included in the email. Please allow up to 10 business days for the change to take effect. Please note that we reserve the right to send you certain communications relating to your account or your transactions or as otherwise permitted by applicable law, and these transactional account messages and other non-commercial messages may not be affected by your choice to unsubscribe from commercial communications.</span></p>
-
-<p>&nbsp;</p>
-
-<p><a href="#Top">Back to Top</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong><a name="D"></a>D. Accessing, Verifying &amp; Amending Your Personal Information</strong></p>
-
-<p>&nbsp;</p>
-
-<p>You Can Access and Verify the Accuracy of your Personal Information.<br>
-Holt Renfrew provides a right of access and review of Personal Information in accordance with applicable laws, and will endeavour to provide you with the Personal Information requested within a reasonable time.</p>
-
-<p>You can request to verify, update and correct Personal Information, and have any obsolete information removed. We will ask you to put your request in writing by completing a <a href="https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2018/corporate/customer-care/privacy-policy/may-07-2018/Privacy-Inquiry-Information-Change-Form-2018-EN.pdf" target="_blank" rel="nofollow" style="text-decoration: underline;">PRIVACY INQUIRY AND INFORMATION CHANGE FORM</a>. You can print the form by <a href="https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2018/corporate/customer-care/privacy-policy/may-07-2018/Privacy-Inquiry-Information-Change-Form-2018-EN.pdf" target="_blank" rel="nofollow" style="text-decoration: underline;">clicking here</a> or request one from any sales associate or concierge (where available) the next time you are in a Holt Renfrew Store. Once the form has been completed, it can be given to any sales associate or concierge (where available) for processing. Please note that you will be asked for valid photo ID to verify your identity.</p>
-
-<p>There is no charge for verifying or correcting your information. Depending on the circumstances, there may be a charge if you want a copy of records, which we have already given you. We will let you know in advance if there is a charge.</p>
-
-<p>If you have a sensory disability, we will work with you to provide you access to your Personal Information in an alternative format.</p>
-
-<p>We will respond to access requests as required by applicable laws. We may be unable to provide you with access to certain Personal Information, including for example where the Personal Information requested would reveal confidential information or Personal Information about another customer, or if legal or regulatory requirements prohibit providing access to such information. Where information will not or cannot be disclosed, we will provide you with the reasons for non-disclosure.</p>
-
-<p>&nbsp;</p>
-
-<p><a href="#Top">Back to Top</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong><a name="E"></a> E. Security</strong></p>
-
-<p>&nbsp;</p>
-
-<p>Holt Renfrew endeavours to maintain appropriate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure, or modification of Personal Information. This also applies to our disposal or destruction of Personal Information. Holt Renfrew keeps the Personal Information we collect about you strictly confidential. Only authorized personnel have access to this Personal Information.</p>
-
-<p>If any employee of Holt Renfrew or personnel of our Leased Partners misuses Personal Information, this will be considered a serious offence for which disciplinary action may be taken, up to and including termination of employment. If any individual or organization misuses Personal Information - provided for the purpose of providing services to or for Holt Renfrew - this will be considered a serious issue for which action may be taken, up to and including termination of any agreement between Holt Renfrew and that individual or organization.</p>
-
-<p>Our computer security specialists build security into all our computer systems. This protects your information at all times, when it is stored in data files or handled by our employees. Our systems also protect your information when it is transmitted, for example, between our data processing centers, our Stores and corporate offices.</p>
-
-<p>Holt Renfrew has taken steps to protect the confidentiality of your online viewing. When you visit <a href="https://www.holtrenfrew.com">www.holtrenfrew.com</a>&nbsp;or&nbsp;&nbsp;<a href="http://www.ogilvycanada.com" target="_blank" style="text-decoration: underline;">www.ogilvycanada.com</a> &nbsp;or&nbsp;our Sites are able to recognize your Internet service provider, but does not identify you as an individual. Holt Renfrew has also taken steps to ensure that any service providers and suppliers with whom we share any information are committed to maintaining the privacy of your Personal Information, as outlined in this Privacy Policy, and refraining from making any independent or unauthorized use of such Personal Information.</p>
-
-<p>We note that, in some of our Stores, customers can connect to <a href="https://www.holtrenfrew.com" style="text-decoration: underline;">www.holtrenfrew.com</a>&nbsp;or&nbsp;<a href="http://www.ogilvycanada.com" target="_blank" style="text-decoration: underline;">www.ogilvycanada.com</a>&nbsp;through our Internet service provider. While we take great care in maintaining the security of your Personal Information and in preventing unauthorized access to it through the use of appropriate technology and internal procedures, we cannot guarantee that any information that you may choose to disclose via the Internet will not be intercepted by third parties or that unauthorized disclosure will not occur. We assume no responsibility for Personal Information disclosed through the Internet, which is intercepted, diverted or otherwise accessed.</p>
-
-<p>&nbsp;</p>
-
-<p><a href="#Top">Back to Top</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><a name="F"></a><strong>F. Transfer, Retention &amp; Disposal</strong></p>
-
-<p>Holt Renfrew may keep records of previous purchases made by a customer, information provided to or collected from a customer, or details of any enquiries, complaints or compliments made by a customer and the response, if any.</p>
-
-<p>We store, access and use Personal Information in Canada. Unless there is a legal or regulatory requirement to keep such information in Canada, Personal Information may also be stored, accessed, or used outside of Canada. For example, for our business purposes, we have engaged service providers located in the U.S., U.K., India and Israel and Personal Information may be stored, accessed or used in these jurisdictions or other countries. Any such transfers are subject to contractual requirements to protect such information. Please be aware that, where Personal Information is located outside of Canada, it is subject to the laws of that jurisdiction and such laws may not be as comprehensive as the laws of Canada.</p>
-
-<p>We keep your Personal Information only so long as we need it for the products and services you are using, to offer you products and services when you are a customer and for a reasonable time thereafter, or to meet any legal requirements. We have retention standards which meet these requirements. We destroy your Personal Information when it is no longer needed, or we remove your name from the information.</p>
-
-<p>&nbsp;</p>
-
-<p><a href="#Top">Back to Top</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong><a name="G"></a>G. How We Ensure Compliance With Our Privacy Policy</strong></p>
-
-<p>We are Committed to Upholding the Holt Renfrew Privacy Policies.<br>
-Our Privacy Policy can be found on the Sites at <a href="https://www.holtrenfrew.com" style="text-decoration: underline;">www.holtrenfrew.com</a>&nbsp;and&nbsp;<a href="http://www.ogilvycanada.com" target="_blank" style="text-decoration: underline;">www.ogilvycanada.com</a>&nbsp;or by visiting any Store. If you have any questions or complaints about this Privacy Policy or how we treat your Personal Information, please let us know right away by contacting the Chief Privacy Officer using the contact information set out below under “Resolving Your Concerns”.</p>
-
-<p>We Monitor our Compliance with the Holt Renfrew Privacy Policies.<br>
-We have procedures in place to assist our employees and Leased Partners personnel in the practice of the Holt Renfrew privacy policies and procedures. Our practices will be reviewed on a regular basis and their findings will be reported to the Chief Privacy Officer.</p>
-
-<p>Notice Regarding Children Under 13.<br>
-Holt Renfrew will not knowingly collect Personal Information from a child under the age of 13 without the consent of the child’s parent or guardian. Children under the age of 13 are not eligible to participate in our contests or other promotions. In addition, Holt Renfrew will not knowingly send marketing or other promotional materials to children under the age of 13.</p>
-
-<p>&nbsp;</p>
-
-<p><a href="#Top">Back to Top</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong><a name="H"></a>H. Resolving Your Concerns</strong></p>
-
-<p>Resolving your Concerns is Important to us.<br>
-Holt Renfrew is committed to treating you with the greatest respect and consideration, and providing the highest level of service. Please let us know about your questions or concerns and we will do our best to help you. Whatever the circumstances, resolving the problem for you is our primary concern.</p>
-
-<p>How to Resolve Concerns and Complaints at Holt Renfrew:<br>
-Talk to Us. In most cases completing a <a href="https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing-hybris/2018/corporate/customer-care/privacy-policy/sep-28-2018/privacy-inquiry-information-change-form-2018-en.pdf" target="_blank" rel="nofollow" style="text-decoration: underline;">PRIVACY INQUIRY AND INFORMATION CHANGE FORM</a> will lead to the resolution of your concern. This form can be printed by <a href="https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing-hybris/2018/corporate/customer-care/privacy-policy/sep-28-2018/privacy-inquiry-information-change-form-2018-en.pdf" target="_blank" rel="nofollow" style="text-decoration: underline;">clicking here</a> or one can be obtained through any sales associate or concierge (where available) at your nearest Holt Renfrew Store.</p>
-
-<p>The Holt Renfrew Chief Privacy Officer Acts on your Behalf. If your concerns have not been resolved to your satisfaction, feel free to contact the Chief Privacy Officer for Holt Renfrew as follows:</p>
-
-<p>Holt Renfrew Chief Privacy Officer<br>
+<p>Many of your favourite luxury brands are sold by independent retailers operating within Holt Renfrew stores. This Privacy Notice does not apply to the privacy practices of these independent retailers as they have their own privacy policies that govern <span style="text-decoration: underline; padding: 0;">their use</span> of your information. Holt Renfrew may also have access to the information you share with these retailers as they utilize Holt Renfrew’s point of sale system. This Privacy Notice will apply to our use of that information.</p>
+
+<br>
+
+<h5><strong>COLLECTION AND USE OF PERSONAL INFORMATION</strong></h5>
+
+<p>Personal Information is information about an identifiable individual. It does not include your business contact information, or anonymous or aggregate information which does not identify you.</p>
+
+<p>For the most part, Holt Renfrew collects information about you when you give it directly to us. For example, when you set up a Holt Renfrew profile, make a purchase, participate in an event, promotion or contest or reach out to us. Like many companies, we automatically collect technical data when you interact with our websites and other technologies. You can learn more how we collect and use Personal Information in the following sections.</p>
+
+
+<div class="col-xs-12 no-padding sub-menu">
+	<div class="lvl-2-links">
+		<hr>
+		<nav>
+			<ul>
+			
+			
+				<li class="expand"><a onclick="return false">HOW DO WE COLLECT PERSONAL INFORMATION?</a>
+					<ul class="toggle-show">
+						<li>Holt Renfrew collects Personal Information in the following ways:</li>
+							<ul class="lists" style="list-style: disc; margin-left: 20px; font-weight: 400;">
+								<li><em>When you use our websites:</em> when you make an online purchase, create a profile, browse our website and interact with our online features (such as chat, messaging, commenting or rating)</li>
+								<li><em>When you provide it to us directly:</em> when you make a purchase participate in our personal shopping services, use our services, interact with Holt Renfrew employees, participate in a promotion or event, enter a contest, submit your resume and job application</li>
+								<li><em>When you communicate with us:</em> in person, by mail, over the telephone through our websites or in any other direct manner, including social media;</li>
+								<li><em>When you visit our stores:</em> through video surveillance used in and around our locations, use of our wifi services;</li>
+								<li><em>From the Holt Renfrew family of brands and companies:</em> we may obtain or receive certain types of customer information from our affiliates and related companies; and</li>
+								<li><em>From third parties:</em> we may receive information from other sources, for example from our luxury brand and promotional partners.</li>
+							</ul>
+						<li>We also use certain technologies to collect Personal Information and technical data from you. See <a href="#cookies" style="text-decoration: underline; text-transform: lowercase;">Use of Cookies, Targeted Advertising and other Technologies</a> to learn more.</li>
+					</ul>
+					<hr>
+				</li>
+				
+				
+				<li class="expand"><a onclick="return false">WHAT TYPE OF PERSONAL INFORMATION DO WE COLLECT AND HOW DO WE USE IT?</a>
+					<ul class="toggle-show">
+						<li>Holt Renfrew collects Personal Information in the following ways:</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Profile information:</span></em> If you create a profile with Holt Renfrew, we may collect your name, address and other contact details. We use this information to register you and maintain your profile.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Demographic information:</span></em> If you use our personal shopping services, we may collect additional information such as your measurements, clothing and shoe sizes, and style preferences in order to tailor your shopping experience and provide you with recommendations. We may collect other demographic information such as gender, age ranges and location. We may also collect information about your fashion likes and dislikes. We use this information to help us better understand your needs.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Purchase information:</span></em> When you make an online purchase, we will collect your billing information, such as credit card or other payment number, address and contact information. In store, at check out, you may be asked to provide certain contact information (such as your name and e-mail address). We may collect information about your purchase habits and preferences; we use this information to better understand your preferences and needs, and to provide you exclusive offers and access to programs and to facilitate your interactions with our stylists and sales associates, and to enrich your experience in our stores, and on our website. We also use this information to establish and maintain a record of your purchase history, to create customer accounts and process returns.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Location information:</span></em> We may collect geolocation data. We do this through our collection of information such as IP address or postal codes. We also use various technologies to obtain location information; for instance, when you use our complementary wifi services, your device provides location information to us. We use this information to better understand our customer demographic and analyze trends and traffic flow in and outside our retail locations.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Video and audio information:</span></em> We collect images as well as video recordings of individuals who visit our retail locations or make inquiries. We use this information to deter theft and to enhance the safety and security of our premises. We may also record telephone calls made to or from our call centres, and we may use this information for quality and training purposes.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Employment information:</span></em> We collect information contained in your CV and career applications. We use this information to review and evaluate applications.</li>
+						<li>We collect and use the above information to allow Holt Renfrew to provide, manage and improve our products and services and to understand your needs. We also use this information to inform you about products, services, special offers, programs, contests, promotions or events that Holt Renfrew reasonably believes may be of interest to you.</li>
+						<li>Lastly, we use this information to respond to your inquiries, requests and / or complaints.</li>
+					</ul>
+					<hr>
+				</li>
+				
+				
+				<li id="cookies" class="expand"><a onclick="return false">HOW DOES HOLT RENFREW USE COOKIES, TAILORED ADVERTISING AND OTHER TECHNOLOGIES?</a>
+					<ul class="toggle-show">
+						<li>Holt Renfrew uses a variety of technologies.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">IP Addresses</span></em></li>
+						<li>We may collect your IP address when you visit our websites to help us diagnose problems, for system administration, to report aggregated data to our partners, and to audit the use of our website. We do not normally link IP addresses to anything personally identifiable.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Cookies and other technologies</span></em></li>
+						<li>Like many websites, we use <strong>“cookies”</strong> and other similar tracking technologies (such as pixel tags, scripts, etags and web beacons) on our websites. A cookie is a small text file installed on your computer or other device that enables the website to recognize you. It consists of a unique number and can distinguish you from other visitors. It does not contain any personal details. This means that it is very difficult to identify you personally on the basis of such cookies, or identify you when you visit third party websites.</li>
+						<li>We use two types of cookies on our website - persistent and session cookies. Persistent cookies remain on your device after you leave our website while session cookies are temporary and are deleted from your device after you close your browser. Depending on the type, the cookies may be necessary for the website to function, or improve performance or assist us in recognizing you, such as when you log into your Holt Renfrew account. We collect this data to help us analyze our website flow, performance, content structure, better reflect visitor preferences, prepopulate information so that you do not have to enter it over and over again, track usage and tailor advertisements to you.</li>
+						<li>Our third party service management providers use third party cookies or other digital markers to help us maintain and improve our websites and deliver interest-based advertising.</li>
+						<li>A Flash cookie is a data file placed on a device via the Adobe Flash plug-in that may be built into, or downloaded by you, onto your device. We use Flash cookies to enable Flash features and remembering your preferences.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Click streaming / Click tracking</span></em></li>
+						<li>These technologies enable us to count visitors to our websites, monitor how users navigate our websites, count how many of our emails were actually opened, or count how many particular links contained within an email were actually viewed.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Google Analytics</span></em></li>
+						<li>We use Google Analytics, a web analysis service of Google Inc. Google Analytics uses cookies to analyze your use of the websites, to create reports about visitor activities for us and to provide further services associated with the use of the websites and the internet. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format.</li>
+						<li>See <a href="#choices" style="text-decoration: underline; text-transform: lowercase;">Your Choices</a> to learn what options you have regarding cookies and other technologies.</li>
+						<li><em><span style="text-decoration: underline; padding: 0;">Tailored Advertising</span></em></li>
+						<li>Tailored or Interest-based advertising means programs that display advertisements to you based on information from your online activities, such as the actions you take when you visit websites. This information helps understand your interests in order to display ads that you might enjoy and not waste your time with ads for things you are not interested in. We use third party technologies, including third party social media platforms to show you tailored advertising.</li>
+						<li>We use advertising platforms provided by Facebook and others to promote interest-based advertisements to you and to measure how users interact with those advertisements. We may do this using web tracking tools or by converting the email address, phone number or other contact information you have provided to us into a unique value that these platforms may compare to a unique value created from information you provided to those platforms. Also, some of this data will be used to help identify other individuals with similar demographics who may also enjoy seeing our ads. The data remains anonymous. Please visit Facebook for information on Facebook’s advertising privacy policies and how to opt out <a href="https://www.facebook.com/about/privacy/" target="_blank" style="text-decoration: underline; text-transform: lowercase;" rel="nofollow">https://www.facebook.com/about/privacy/</a>. If you would like to opt out of our tailored advertising, please adjust your social advertising settings, use the opt-out features in the advertisement.</li>
+						<li>See <a href="#choices" style="text-decoration: underline; text-transform: lowercase;">Your Choices</a> for how you can opt-out of tailored advertising.</li>		
+					</ul>
+					<hr>
+				</li>
+				
+				
+				<li class="expand"><a onclick="return false">HOW DOES HOLT RENFREW USE SOCIAL MEDIA?</a>
+					<ul class="toggle-show">
+						<li>We may collect information through social media platforms, such as Facebook, Instagram and Twitter when you post information that mentions Holt Renfrew, our products, services, events or promotions. We only collect this information if your privacy settings permit us to see your post. Please note that interactions on social media platforms are governed by the privacy policies of that platform.</li>	
+					</ul>
+					<hr>
+				</li>
+				
+				
+			</ul>
+		</nav>
+	</div>
+</div>
+
+
+<h5><strong>DISCLOSURE OF PERSONAL INFORMATION WITH THIRD PARTIES; CHILDREN</strong></h5>
+
+<p>Your information may be shared or disclosed with affiliated and non-affiliated third parties to assist Holt Renfrew in providing its products, services and for other purposes identified in this Privacy Notice. Your information may also be disclosed to a government or regulatory agency as required by law. Holt Renfrew does not knowingly collect information of children 13 or under.</p>
+
+<p>You can learn more about how we collect and use Personal Information in the following sections.</p>
+
+
+<div class="col-xs-12 no-padding sub-menu">
+	<div class="lvl-2-links">
+		<hr>
+		<nav>
+			<ul>
+			
+			
+				<li class="expand"><a onclick="return false">DOES HOLT RENFREW SHARE OR DISCLOSE MY PERSONAL INFORMATION?</a>
+					<ul class="toggle-show">
+						<li>In order for us to provide you with our products and services, we require help from third parties. Holt Renfrew may use and share your Personal Information with affiliated and non-affiliated third parties (partners, contractors, service providers, agencies and other organizations) that help us:</li>
+							<ul class="lists" style="list-style: disc; margin-left: 20px; font-weight: 400; margin-top: 14px;">
+								<li style="margin-top: 0;">Process payments and verify credit card details</li>
+								<li style="margin-top: 0;">Provide customer service</li>
+								<li style="margin-top: 0;">Store and secure data</li>
+								<li style="margin-top: 0;">Assist with promotional, advertising and marketing initiatives</li>
+							</ul>
+						<li>Holt Renfrew may share some Personal Information we collect with our affiliates and related companies, selected service providers, vendors, lease partners and other organizations outside of Holt Renfrew that help Holt Renfrew provide its products and services.</li>
+						<li>We may share your Personal Information where necessary to protect our interests or in the event of a sale or transfer of all or part of Holt Renfrew. For example, disclosure may be necessary:</li>
+							<ul class="lists" style="list-style: disc; margin-left: 20px; font-weight: 400; margin-top: 14px;">
+								<li style="margin-top: 0;">in order to detect or prevent fraud</li>
+								<li style="margin-top: 0;">in connection with a merger with another entity</li>
+								<li style="margin-top: 0;">to insure or securitize our assets, or</li>
+								<li style="margin-top: 0;">to engage in another form of corporate or financing transaction</li>
+							</ul>
+						<li>We may share Personal Information with government, regulatory and law enforcement agencies as requested by these agencies, if the disclosure is required or permitted by law. We may share information to protect Holt Renfrew or its employees or customers, to take action regarding illegal activities or violations of terms of use, or as otherwise required or permitted by law.</li>
+					</ul>
+					<hr>
+				</li>
+			
+			
+				<li class="expand"><a onclick="return false">DOES HOLT RENFREW AGGREGATE AND ANONYMIZE DATA?</a>
+					<ul class="toggle-show">
+						<li>Holt Renfrew may use Personal Information to prepare aggregated user statistics or information summaries to describe our services and their popularity to our suppliers and prospective advertisers and for other lawful purposes. Holt Renfrew aggregates Personal Information in a way that is highly unlike any individual could be identified.</li>
+					</ul>
+					<hr>
+				</li>
+			
+			
+				<li class="expand"><a onclick="return false">WHAT ABOUT THE PERSONAL INFORMATION OF CHILDREN?</a>
+					<ul class="toggle-show">
+						<li>Holt Renfrew does not knowingly collect Personal Information from a child under the age of 13 without the consent of the child’s parent or legal guardian. Children under the age of 13 are not eligible to participate in our contests or other promotions. In addition, Holt Renfrew will not knowingly send marketing or other promotional materials to children under the age of 13.</li>
+					</ul>
+					<hr>
+				</li>
+				
+
+			</ul>
+		</nav>
+	</div>
+</div>
+
+
+<h5><strong>SECURITY AND STORAGE OF PERSONAL INFORMATION</strong></h5>
+
+<p>The security of your Personal Information is important to us. We use reasonably appropriate security measures to protect your Personal Information against unauthorized use, access, modification, destruction or disclosure. We require our third party service providers to use similar safeguards to those we use.</p>
+
+<p>You can learn more about how we collect and use Personal Information in the following sections.</p>
+
+
+<div class="col-xs-12 no-padding sub-menu">
+	<div class="lvl-2-links">
+		<hr>
+		<nav>
+			<ul>
+			
+			
+				<li class="expand"><a onclick="return false">HOW DOES HOLT RENFREW KEEP PERSONAL INFORMATION SAFE?</a>
+					<ul class="toggle-show">
+						<li>We employ reasonable security measures to protect Personal Information against loss, unauthorized use, access, alteration, modification, disclosure or destruction. These measures include physical, organizational and technological measures.</li>
+						<li>If we use third party service providers, we require such service providers to use similar safeguards to those we use. We also require service providers to limit access to your Personal Information and to keep it strictly confidential. Service providers are only permitted to use your Personal Information for the purpose for which it was collected.</li>
+					</ul>
+					<hr>
+				</li>
+			
+			
+				<li class="expand"><a onclick="return false">WHERE IS INFORMATION STORED?</a>
+					<ul class="toggle-show">
+						<li>Your Personal Information is stored and/or processed or otherwise used by or on behalf of Holt Renfrew in Canada. Unless there is a legal or regulatory requirement to keep such information in Canada, Personal Information may also be stored, accessed, or used outside of Canada. For example, for our business purposes, we have engaged service providers located in the U.S., and the U.K. and Personal Information may be stored, accessed or used in these jurisdictions or other countries. Personal Information stored in other jurisdictions may be subject to the laws of those jurisdictions, and may not be as comprehensive as the laws in Canada.</li>
+					</ul>
+					<hr>
+				</li>
+				
+			
+				<li class="expand"><a onclick="return false">HOW LONG DOES HOLT RENFREW KEEP MY INFORMATION?</a>
+					<ul class="toggle-show">
+						<li>We retain your Personal Information only as long as necessary, for relevant for the purposes identified in this Privacy Notice, as required by law, and/or in compliance with our record retention policy.</li>
+					</ul>
+					<hr>
+				</li>
+				
+
+			</ul>
+		</nav>
+	</div>
+</div>
+
+
+<h5 id="choices"><strong>YOUR CHOICES</strong></h5>
+
+<p>You have choices about how your Personal Information is collected and used.</p>
+
+
+<div class="chart" style="padding-top: 10px; padding-bottom: 10px;">
+<table>
+    <tbody>
+        <tr>
+            <th><strong>I want to…</strong></th>
+            <th><strong>Please do the following…</strong></th>
+        </tr>
+        <tr>
+            <td>Opt-out of Facebook Custom Audiences</td>
+            <td>Adjust your social advertising settings at <a href="https://www.facebook.com/ads/settings" target="_blank" style="text-decoration: underline; text-transform: lowercase;" rel="nofollow">https://www.facebook.com/ads/settings</a>, use the opt-out features in the Facebook advertisement, or contact us.</td>
+        </tr>
+        <tr>
+            <td>Opt out of Google analytics and targeted advertising</td>
+            <td>Go to <a href="https://www.google.com/settings/ad" target="_blank" style="text-decoration: underline; text-transform: lowercase;" rel="nofollow">www.google.com/settings/ad</a> or through the Google opt-out browser add-on located at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" style="text-decoration: underline; text-transform: lowercase;" rel="nofollow">https://tools.google.com/dlpage/gaoptout</a></td>
+        </tr>
+        <tr>
+            <td>Opt-out of online-targeted ads</td>
+            <td><p>Visit:</p>
+            <p>Network Advertising Initiative at <a href="http://www.networkadvertising.org/choices/" target="_blank" style="text-decoration: underline; text-transform: lowercase;" rel="nofollow">http://www.networkadvertising.org/choices/</a>,</p>
+            <p>Digital Advertising Association of Canada at <a href="http://youradchoices.ca/choices/" target="_blank" style="text-decoration: underline; text-transform: lowercase;" rel="nofollow">http://youradchoices.ca/choices/</a></p>
+            <p>Opting out in this manner will not prevent advertising from appearing online, but such advertising will not be targeted based on your activities and interests</p></td>
+        </tr>
+        <tr>
+            <td>Opt-out from receiving Holt Renfrew eNewsletters and other promotional emails from Holt Renfrew</td>
+            <td><p>If at any time you would like to stop receiving promotional emails from Holt Renfrew, you may unsubscribe from receiving Holt Renfrew promotional emails at any time by clicking “<a href="mailto:privacy.office@holtrenfrew.com" style="text-decoration: underline;">unsubscribe</a>” in an email. Or by contacting us at: <a href="mailto:privacy.office@holtrenfrew.com" style="text-decoration: underline;">privacy.office@holtrenfrew.com</a></p>
+            <p>Please note Holt Renfrew may still send you non-promotional emails regarding our business relationship.</p></td>
+        </tr>
+        <tr>
+            <td>Opt-out of sharing geolocation information</td>
+            <td><p>You may choose not to provide your location to us by customizing your mobile device settings to prevent sharing of location information. You may also prevent the sharing of device location information by disabling Bluetooth on your device, turning your device on to “airplane mode” or turning your device off.</p>
+            <p>If you opt-out or disable the geo-location function, some features of our websites may not function properly (i.e. If you reside in Quebec, you may need to manually select French as your language preference rather than French automatically displaying).</p></td>
+        </tr>
+        <tr>
+            <td>Disable cookies or adjust my Flash privacy settings</td>
+            <td><p>Visit <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html" target="_blank" style="text-decoration: underline; text-transform: lowercase;" rel="nofollow">Adobe’s website privacy settings page</a></p>
+            <p>Please note, if you choose to disable cookies or to adjust your Flash privacy settings on your device, some features of our websites may not function properly.</p></td>
+        </tr>
+        <tr>
+            <td>Request access to my Personal Information</td>
+            <td>Email Holt Renfrew’s Privacy Office at: <a href="mailto:privacy.office@holtrenfrew.com" style="text-decoration: underline;">privacy.office@holtrenfrew.com</a></td>
+        </tr>
+        <tr>
+            <td>Update or correct my Personal Information</td>
+            <td><p>You can update certain information by logging into your Holt Renfrew account. Please note if you update your information through our website, the update will only take effect following your next online purchase.</p>
+            <p>You can also update or request your information be corrected by emailing Holt Renfrew’s Privacy Office at: <a href="mailto:privacy.office@holtrenfrew.com" style="text-decoration: underline;">privacy.office@holtrenfrew.com</a></p></td>
+        </tr>
+        <tr>
+            <td>Speak with Customer Service</td>
+            <td><p>You can reach our Customer Care team at:<br>Tel: 1-844-922-4658 (HOLT)</p>
+            <p>Email: <a href="mailto:online.customercare@holtrenfrew.com" style="text-decoration: underline;">online.customercare@holtrenfrew.com</a></p></td>
+        </tr>
+        <tr>
+            <td>Speak with the Privacy Office</td>
+            <td>See the “Contact Us” section below.</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
+<h5><strong>CONTACT US</strong></h5>
+
+<p>If you have any question or comments about this Privacy Notice or about our privacy practices,</p>
+
+
+<div class="chart" style="padding-top: 10px; padding-bottom: 10px;">
+<table>
+    <tbody>
+        <tr>
+            <td><strong>Email</strong></td>
+            <td><a href="mailto:privacy.office@holtrenfrew.com" style="text-decoration: underline;">privacy.office@holtrenfrew.com</a></td>
+        </tr>
+        <tr>
+            <td><strong>Telephone</strong></td>
+            <td>1-416-960-2860</td>
+        </tr>
+        <tr>
+            <td><strong>Mail</strong></td>
+            <td>Holt Renfrew, Attn: Chief Privacy Officer<br>
+				60 Bloor Street West, Suite 1100<br>
+				Toronto, ON M4W 3B8<br>
+       		</td>
+        </tr>
+        <tr>
+            <td><strong>Facsimile</strong></td>
+            <td>1-416-922-3826</td>
+        </tr> 
+    </tbody>
+</table>
+</div>
+
+
+<h5><strong>RESOLVING YOUR CONCERNS</strong></h5>
+
+<p>Holt Renfrew is committed to treating you with the greatest respect and consideration, and providing the highest level of service. If you have any complaints, questions or concerns about this Privacy Notice or our privacy practices, please follow the escalation process below:</p>
+
+<p><span style="text-decoration: underline; padding: 0;">Step 1:</span></p>
+
+<p>In most cases, privacy questions and concerns can be resolved at store level. Our store management team should be able to assist you with your questions and/or concerns.</p>
+
+<p><span style="text-decoration: underline; padding: 0;">Step 2:</span></p>
+
+<p>If your questions and/or concerns have not been resolved to your satisfaction, feel free to contact Holt Renfrew’s Privacy Office as follows:</p>
+
+<p>Holt Renfrew Privacy Office<br>
 60 Bloor Street West, Suite 1100<br>
 Toronto, ON M4W 3B8<br>
 Facsimile: 416-922-3826<br>
 Email: <a href="mailto:privacy.office@holtrenfrew.com" style="text-decoration: underline;">privacy.office@holtrenfrew.com</a></p>
 
-<p>&nbsp;</p>
+<p><span style="text-decoration: underline; padding: 0;">Step 3:</span></p>
 
-<p>If you are Not Satisfied with the resolution offered by Holt Renfrew's Privacy Office, you can ask how your complaint can be further escalated.</p>
-
-<p>If the above steps fail to resolve your concern you may also contact the Office of the Privacy Commissioner of Canada:</p>
+<p>If you are not satisfied with the resolution or response from Holt Renfrew’s Privacy Office, you may also raise your concerns to the Office of the Privacy Commissioner of Canada (OPC) as follows:</p>
 
 <p>30 Victoria Street<br>
 Gatineau Qc<br>
 K1A 1H3<br>
 Toll Free: 1-800-282-1376<br>
-<a href="https://www.priv.gc.ca/" target="_blank" rel="nofollow" style="text-decoration: underline;">www.priv.gc.ca</a></p>
+<a href="https://www.priv.gc.ca/" target="_blank" style="text-decoration: underline; text-transform: lowercase;" rel="nofollow">www.priv.gc.ca</a></p>
 
-<p>&nbsp;</p>
+<br><br>
 
-<p><a href="#Top">Back to Top</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong><a name="I"></a>I. Anti-Spam Policy</strong></p>
-
-<p>Holt Renfrew maintains a strict <a href="/en/customer-care/anti-spam-legislation-policy" style="text-decoration: underline;">no-spam policy</a></p>
-
-<p>&nbsp;</p>
-
-<p><a href="#Top">Back to Top</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong><a name="J"></a>J. Changes To This Privacy Policy</strong></p>
-
-<p>As Holt Renfrew regularly reviews all policies and procedures, we may change our Privacy Policy from time to time. These changes will be posted on our websites as soon as is practical. This Privacy Policy was last updated on January 3, 2018. It replaces the Privacy Policy that was dated January 16, 2017.</p>
-
-<p>&nbsp;</p>
-
-<p>Date of Last Update: Oct 4, 2018</p>
-
-<p>&nbsp;</p>
-
-<p><a href="#Top">Back to Top</a></p></div>
+<p>Date of Last Update: January 1, 2019</p></div>
     </div>
 </div><div class="padding-wrap js-padding-wrap" data-padding-settings="{
               &quot;desktop&quot;: {
@@ -2894,6 +4317,53 @@ Toll Free: 1-800-282-1376<br>
 <div class="hidden-md hidden-lg">
 	<div style="margin-top: 15px;"></div>
 </div></div>
+    </div>
+</div><div class="padding-wrap js-padding-wrap" data-padding-settings="{
+              &quot;desktop&quot;: {
+                  &quot;padding-top&quot;: &quot;0px&quot;,
+                  &quot;padding-left&quot;: &quot;0px&quot;,
+                  &quot;padding-right&quot;: &quot;0px&quot;,
+                  &quot;padding-bottom&quot; : &quot;0px&quot;,
+                  &quot;background-color&quot;: &quot;#FFFFFF&quot;
+              },
+              &quot;mobile&quot;: {
+             		&quot;padding-top&quot;: &quot;0px&quot;,
+             		&quot;padding-left&quot;: &quot;0px&quot;,
+             		&quot;padding-right&quot;: &quot;0px&quot;,
+             		&quot;padding-bottom&quot; : &quot;0px&quot;,
+             		&quot;background-color&quot;: &quot; #FFFFFF&quot;
+              }
+          }" style="padding: 0px; background-color: rgb(255, 255, 255);">
+    <div class="holt-banner__text holt-banner__text--standalone js-text-block" data-text-block-settings="{
+                               &quot;width&quot;: &quot;%&quot;
+                         }">
+        <div class="text">
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    $(function () {
+        /*
+        Dropdown Menu
+        */
+        $('.expand')
+            .click(function () {
+                $(this).hasClass('minus') ?
+                    $(this).removeClass('minus') :
+                    $(this).addClass('minus');
+
+                $(this)
+                    .children('.toggle-show')
+                    .toggle('fast');
+            })
+        $('.toggle-show')
+            .click(function (e) {
+                e.stopPropagation();
+            })
+        /*
+        End of Dropdown Menu
+        */
+
+    })
+</script></div>
     </div>
 </div></div>
         </div>
@@ -3259,8 +4729,7 @@ Toll Free: 1-800-282-1376<br>
 								</a>
 								<ul class="slide-menu__list">
 									<li><a href="/en/services/made-to-measure" title="Alterations &amp; Tailoring">Alterations &amp; Tailoring</a></li>
-									<li><a href="https://holtrenfrew.cashstar.com/" title="Gift Cards" target="_blank" rel="noopener noreferrer">Gift Cards</a></li>
-									<li><a href="/en/services/medulla-and-co" title="Medulla &amp; Co. Salon">Medulla &amp; Co. Salon</a></li>
+									<li><a href="/en/gift-cards" title="Gift Cards" target="_blank" rel="noopener noreferrer">Gift Cards</a></li>
 									<li><a href="/en/services/personal-shopping" title="Personal Shopping">Personal Shopping</a></li>
 									<li><a href="/en/services/restaurants" title="Restaurants">Restaurants</a></li>
 									<li><a href="/en/services/valet-parking" title="Valet Parking">Valet Parking</a></li>
@@ -3277,7 +4746,7 @@ Toll Free: 1-800-282-1376<br>
 
 
 <form action="#" id="emailSubscribeForm" class="subscription-form">
-	<h4 class="subscription-form__headline">subscribe to our email</h4>
+	<div class="subscription-form__headline">subscribe to our email</div>
 	<p class="subscription-form__message">Inspiration &amp; Promotions Right to Your Inbox</p>
 	<div class="flex-row">
 		<div class="col-md-10 col-sm-12 col-xs-12 no-padding">
@@ -3295,7 +4764,7 @@ Toll Free: 1-800-282-1376<br>
 <section class="footer__bottom">
 	<div class="container page-container no-padding">
 		<div class="flex-row">
-			<div class="col-md-3 col-sm-12 col-xs-12 no-padding">
+			<div class="col-md-3 col-sm-12 col-xs-12 no-padding footer__social-links-container">
 				<ul class="footer__social-links">
 					<li>
 						<a class="icon-instagram" href="http://www.instagram.com/holtrenfrew/" title="Instagram"><span class="sr-only">Instagram</span></a>
@@ -3317,7 +4786,7 @@ Toll Free: 1-800-282-1376<br>
 					</li>
 				</ul>
 			</div>
-			<div class="col-md-3 col-sm-12 col-xs-12 no-padding">
+			<div class="col-md-3 col-sm-12 col-xs-12 no-padding footer__controls-container">
 				<ul class="footer__controls">
 					<li class="footer__language-select">
 						<form id="lang-form" action="/en/_s/language" method="post"><div class="form-group language-select-form">
@@ -3331,17 +4800,17 @@ Toll Free: 1-800-282-1376<br>
 							</select></div>
 			</div>
 	<div>
-<input type="hidden" name="CSRFToken" value="a8f48548-66a4-42a0-94d4-e93e33bbe91e">
+<input type="hidden" name="CSRFToken" value="c80ed1c9-c978-4f25-9371-bc72b51c93d9">
 </div></form></li>
 					<li class="footer__city">
-					   <a href="/en/store-finder"><i class="glyphicon glyphicon-map-marker"></i><span id="notDefinedStoreCity">Toronto</span></a>
+					   <a href="/en/store-finder"><span class="glyphicon glyphicon-map-marker"></span><span id="notDefinedStoreCity">Toronto</span></a>
 						</li>
 				</ul>
 			</div>
-			<div class="col-md-6 col-sm-12 col-xs-12 no-padding">
+			<div class="col-md-6 col-sm-12 col-xs-12 no-padding footer__bottom-links-container">
 				<ul class="footer__bottom-links">
 					<li>
-						© 2018 Holt, Renfrew &amp; Co., Limited</li>
+						© 2019 Holt, Renfrew &amp; Co., Limited</li>
 					<li><a href="/en/customer-care/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
 					<li><a href="/en/customer-care/accessibility-policy" title="Accessibility Policy">Accessibility Policy</a></li>
 					<li><a href="/en/customer-care/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
@@ -3376,7 +4845,7 @@ Toll Free: 1-800-282-1376<br>
 			ACC.config.themeResourcePath = "/_ui/responsive/theme-alpha";
 			ACC.config.siteResourcePath = "/_ui/responsive/site-holtrenfrew";
 			ACC.config.rootPath = "/_ui/responsive";
-			ACC.config.CSRFToken = "a8f48548-66a4-42a0-94d4-e93e33bbe91e";
+			ACC.config.CSRFToken = "fc1d2a6e-2ccd-47d4-884d-f06cd9eaa098";
 			ACC.pwdStrengthVeryWeak = 'Very weak';
 			ACC.pwdStrengthWeak = 'Weak';
 			ACC.pwdStrengthMedium = 'Medium';
@@ -3417,7 +4886,6 @@ Toll Free: 1-800-282-1376<br>
 		<script type="text/javascript" src="/_ui/responsive/common/js/base.js"></script>
 
 		
-
 
 <span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><div id="modalPlacement"><div id="modalWindow" tabindex="-1" role="dialog" class="modal fade in" style="display:none;">
             <div class="modal-dialog" role="document">
