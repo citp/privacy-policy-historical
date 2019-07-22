@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyrneathem.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525014632id_/http%3A//tyrneathem.com/statement-of-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyrneathem.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722082054id_/http%3A//tyrneathem.com/statement-of-privacy) for the most accurate reproduction.*
 
 # Statement of Privacy • Tyrneathem
 
