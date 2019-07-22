@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawpixel.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621105802id_/https%3A//www.rawpixel.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawpixel.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722102239id_/https%3A//rawpixel.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | rawpixel
 
