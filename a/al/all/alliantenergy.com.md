@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606151050id_/https%3A//www.alliantenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722155440id_/https%3A//www.alliantenergy.com/privacy) for the most accurate reproduction.*
 
 # Alliant Energy - Privacy Policy
 
