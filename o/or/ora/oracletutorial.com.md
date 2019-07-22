@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oracletutorial.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428084142id_/http%3A//www.oracletutorial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oracletutorial.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722055213id_/https%3A//www.oracletutorial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
