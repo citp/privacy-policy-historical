@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperpile.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512222133id_/https%3A//paperpile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperpile.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722235737id_/https%3A//paperpile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Paperpile
 
