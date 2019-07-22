@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headout.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915001007id_/https%3A//www.headout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headout.com privacy policy that was archived on 2019-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190722221942id_/https%3A//www.headout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
