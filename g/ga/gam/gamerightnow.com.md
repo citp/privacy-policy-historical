@@ -1,15 +1,22 @@
-> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417011030id_/http%3A//www.gamerightnow.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723192345id_/http%3A//gamerightnow.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Privacy Policy
+# Privacy Policy - Online
 
-9Funny is committed to providing an entertaining, fun and educational service. 9Funny.net is a property of 9Funny Limited "9Funny". 9Funny respects the privacy concerns of visitors to 9Funny.net. 9Funny does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+Gamerightnow PRIVACY POLICY
 
-  
-9Funny.net is one of  ValueClick Publishers, all ValueClick Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”).
+Gamerightnow is committed to providing an entertaining, fun and educational service. Gamerightnow.com is a property of Gamerightnow Limited "Gamerightnow". Gamerightnow respects the privacy concerns of visitors to Gamerightnow.com. Gamerightnow does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+
+Gamerightnow.com is one of  ValueClick Publishers, all ValueClick Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”).
+
+Example #1:
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+The link for “click here” is www.networkadvertising.org.
+
+Example #2:
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 Information we collect
 
@@ -17,19 +24,19 @@ We may log IP addresses and/or drop cookies to prevent abuse of our website and/
 
 How we use the information
 
-We have an internal notification system to communicate with under 13 players and do not send them emails. We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are compliance with our terms. Over 13's may authorize and receive email notifications related to 9Funny services. 9Funny Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with 9Funny's property, visitors, or anyone else that could be harmed by such activities.
+We have an internal notification system to communicate with under 13 players and do not send them emails. We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are compliance with our terms. Over 13's may authorize and receive email notifications related to Gamerightnow services. Gamerightnow Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Gamerightnow's property, visitors, or anyone else that could be harmed by such activities.
 
 We may sometimes use non-personally identifiable information that we collect to improve the design and content of our site, to personalize our visitors' experience or to offer products, programs, and services. We may also use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services.
 
 Collection of Information and Third-Party Sites and Sponsors
 
 Our site may place a small file, called a cookie, on your hard drive to provide you with a better website. A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us. It only helps us analyze web traffic or lets web applications respond to you as an individual.  
-Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser s settings section.  
-Google, one of our third-party advertisers, may add a DART cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google s use of cookies by visiting the **Google ad and content network privacy policy.**
+Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser's settings section.  
+Google, one of our third-party advertisers, may add a DART cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google's use of cookies by visiting the Google ad and content network privacy policy.
 
 Information that is reasonably necessary
 
-9Funny does not require under 13's to disclose more information than is reasonably necessary to participate in the activity as a condition of participation.
+Gamerightnow does not require under 13's to disclose more information than is reasonably necessary to participate in the activity as a condition of participation.
 
 Security
 
@@ -41,8 +48,9 @@ To protect your child's privacy and security, we will take reasonable steps to h
 
 Changes to this Privacy Policy
 
-This Privacy Policy is part of the 9Funny main Terms and Conditions which you agree to by accessing the 9Funny.net webstie and/or services. You agree that 9Funny Limited may change this Privacy Policy and the main 9Funny Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.9Funny.net/info-privacy which is part of our Terms and Conditions posted here: http://www.9Funny.net/info-tos
+This Privacy Policy is part of the Gamerightnow main Terms and Conditions which you agree to by accessing the Gamerightnow.com webstie and/or services. You agree that Gamerightnow Limited may change this Privacy Policy and the main Gamerightnow Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://Gamerightnow.com/privacy-policy.html which is part of our Terms and Conditions posted here: http://Gamerightnow.com/terms-of-service.html
 
 Internet Safety
 
-9Funny recommends that Parents take time to communicate and educate their children about Internet Safety.
+Gamerightnow recommends that Parents take time to communicate and educate their children about Internet Safety.  
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
