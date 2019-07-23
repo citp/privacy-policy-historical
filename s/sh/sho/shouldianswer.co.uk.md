@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shouldianswer.co.uk privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524085202id_/https%3A//www.shouldianswer.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shouldianswer.co.uk privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724004147id_/http%3A//www.shouldianswer.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | shouldianswer.co.uk
 
