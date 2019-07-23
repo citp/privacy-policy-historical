@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmscritic.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821051103id_/https%3A//www.cmscritic.com/privacy-policy-and-data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmscritic.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723161554id_/https%3A//www.cmscritic.com/privacy-policy-and-data-protection) for the most accurate reproduction.*
 
 # Privacy Policy and Data Protection - CMS Critic
 
@@ -8,7 +8,7 @@ This policy explains when and why we collect information about you, how we use i
 
 We may change this Policy from time to time so please check this page occasionally to ensure that you’re happy with any changes. By using our website, you’re agreeing to be bound by this Policy.
 
-Any questions regarding this Policy and our privacy practices should be sent by email to mike@cmscritic.com
+Any questions regarding this Policy and our privacy practices should be sent by email to [[email protected]](https://www.cmscritic.com/cdn-cgi/l/email-protection)
 
 ## Who are we?
 
@@ -26,7 +26,7 @@ Any financial details are collected via PayPal which does not retain any financi
 
 ## How and Why we Track your Visit
 
-Like most websites around the world we use Google Analytics (GA) to process information about the number of visitors on our site, and their behavior
+Like most websites around the world we use Google [Analytics](https://www.cmscritic.com/clicky "Web Analytics in Real Time | Clicky") (GA) to process information about the number of visitors on our site, and their behavior
 
 We use this information to record the number of people using CMS Critic and to better understand where you discover our site (from social media, google or another site) and how you use it as well as to see how people move throughout the site.
 
@@ -38,7 +38,7 @@ Google does record your IP address however, we don't have access to this informa
 
 We are committed to ensuring that our website contains content that is valuable and useful to our readers.
 
-To help us with this we have implemented the Google analytics demographics and interest reporting features on our website.
+To help us with this we have implemented the Google [analytics](https://www.cmscritic.com/clicky "Web Analytics in Real Time | Clicky") demographics and interest reporting features on our website.
 
 These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs.
 
@@ -60,7 +60,7 @@ Your email address will never be shown in the comment section of the site.
 
 Your details will remain in the database unless we remove it or the article is removed from the site.
 
-You may request that we delete the comment and remove you details at any time. Please email us at mike@cmscritic.com to ask for this to be carried out.
+You may request that we delete the comment and remove you details at any time. Please email us at [[email protected]](https://www.cmscritic.com/cdn-cgi/l/email-protection) to ask for this to be carried out.
 
 If you are under 16 you must obtain your parents permission before leaving a comment.
 
