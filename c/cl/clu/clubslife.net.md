@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubslife.net privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523072727id_/http%3A//www.clubslife.net/%3Fpage_id%3D720) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubslife.net privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723203947id_/http%3A//www.clubslife.net/%3Fpage_id%3D720) for the most accurate reproduction.*
 
 # Privacy Policy – Clubs Life News: Breaking news, streaming live, 24×7
 
