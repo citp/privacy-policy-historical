@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uws.ac.uk privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508115507id_/https%3A//www.uws.ac.uk/about-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uws.ac.uk privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723035425id_/https%3A//www.uws.ac.uk/about-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy | UWS | University of the West of Scotland
 
