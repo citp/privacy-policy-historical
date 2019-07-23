@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laughingcolours.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621134223id_/http%3A//laughingcolours.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughingcolours.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723025216id_/http%3A//laughingcolours.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Laughing Colours
 
