@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charterworld.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630013704id_/https%3A//www.charterworld.com/index.html%3Fsub%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charterworld.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724003156id_/https%3A//www.charterworld.com/index.html%3Fsub%3Dprivacy-policy) for the most accurate reproduction.*
 
 # CharterWorld.com Privacy Policy - yacht charters boats worldwide.
 
