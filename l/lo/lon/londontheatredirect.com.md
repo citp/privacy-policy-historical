@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londontheatredirect.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503235204id_/https%3A//www.londontheatredirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londontheatredirect.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724015851id_/https%3A//www.londontheatredirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | London Theatre Direct
 
@@ -12,7 +12,7 @@ London Theatre Direct is responsible for the processing of your personal informa
 
 The DPA requires every organisation that processes personal information to register with the Information Commissioner’s Office (ICO), unless they are exempt. Our registration number with the ICO is Z673567X.
 
-This policy affects your legal rights and obligations so please read it carefully. If you have any questions, please contact us at privacy@londontheatredirect.com
+This policy affects your legal rights and obligations so please read it carefully. If you have any questions, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ##  Personal data we collect 
 
@@ -36,7 +36,7 @@ We also allow advertisers and advertising networks to collect information about 
 
 If you opt in to receive marketing communications from us you consent to the processing of your data to send you such communications, which may include newsletters, blog posts, surveys and information about new events. We retain a record of your consent.
 
-You can choose to no longer receive marketing communications by contacting us at privacy@londontheatredirect.com or clicking unsubscribe from a marketing email. If you do unsubscribe to marketing communications, it may take up to 5 business days for your new preferences to take effect. We shall therefore retain your personal data in our records for marketing purposes until you notify us that you no longer wish to receive marketing emails from us.
+You can choose to no longer receive marketing communications by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or clicking unsubscribe from a marketing email. If you do unsubscribe to marketing communications, it may take up to 5 business days for your new preferences to take effect. We shall therefore retain your personal data in our records for marketing purposes until you notify us that you no longer wish to receive marketing emails from us.
 
 ##  Lawful processing of your personal data 
 
@@ -76,7 +76,7 @@ However, you acknowledge that no system can be completely secure. Therefore, alt
 
 ##  Your rights 
 
-You have the right to obtain from us a copy of the personal data that we hold for you, and to require us to correct errors in the personal data if it is inaccurate or incomplete. You also have the right at any time to require that we delete your personal data. To exercise these rights, or any other rights you may have under applicable laws, please contact us at privacy@londontheatredirect.com
+You have the right to obtain from us a copy of the personal data that we hold for you, and to require us to correct errors in the personal data if it is inaccurate or incomplete. You also have the right at any time to require that we delete your personal data. To exercise these rights, or any other rights you may have under applicable laws, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Please note, we reserve the right to charge an administrative fee if your request is manifestly unfounded or excessive.
 
