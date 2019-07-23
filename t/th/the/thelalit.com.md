@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelalit.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417092739id_/https%3A//www.thelalit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelalit.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723163225id_/https%3A//www.thelalit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
