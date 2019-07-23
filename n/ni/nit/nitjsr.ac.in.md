@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitjsr.ac.in privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629060532id_/http%3A//nitjsr.ac.in/terms%26conditions/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitjsr.ac.in privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723224624id_/http%3A//nitjsr.ac.in/terms%26conditions/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Nitjsr
 
