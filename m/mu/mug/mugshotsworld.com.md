@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugshotsworld.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523185906id_/http%3A//ww43.mugshotsworld.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugshotsworld.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723231612id_/http%3A//ww43.mugshotsworld.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
