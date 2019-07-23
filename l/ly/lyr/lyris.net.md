@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyris.net privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507004722id_/https%3A//www.aurea.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyris.net privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723225659id_/https%3A//www.aurea.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Aurea Privacy Policy
 
