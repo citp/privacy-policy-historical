@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thecinemaholic.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407222653id_/https%3A//www.thecinemaholic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecinemaholic.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723235117id_/https%3A//www.thecinemaholic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Cinemaholic
 
-### **PRIVACY POLICY**
-
-We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.
+We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
 This Privacy Policy was last updated on Dec 27, 2018.
 
