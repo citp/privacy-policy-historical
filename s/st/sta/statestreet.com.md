@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524060135id_/http%3A//www.statestreet.com/content/ssbsr/en_US/utility/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723225811id_/http%3A//www.statestreet.com/content/ssbsr/en_US/utility/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice | State Street Corporation
 
-This Privacy Notice applies to the State Street Bank and Trust Company (“State Street”) website and thought leadership mobile app (collectively, this “Site”). This Privacy Notice applies to any personal information we may collect from you through this Site, independent of the device (e.g., mobile, computer) used to access this Site.
+This Privacy Notice describes the types of information we may collect from you or that you may provide through the State Street Bank and Trust Company (“State Street”) website and thought leadership mobile app (collectively, this “Site”), or various other offline means. This Privacy Notice applies to any personal information we may collect from you through this Site, independent of the device (e.g., mobile, computer) used to access this Site or various other offline means. 
 
   * Your Privacy on State Street’s Site
+  * How we collect information
   * What information we may collect
   * Sensitive personal information
   * How we use and share your personal information
@@ -18,9 +19,11 @@ This Privacy Notice applies to the State Street Bank and Trust Company (“State
 
 ## **Privacy on State Street’s Site**
 
-State Street operates this Site to provide you with tools and resources to help you learn more about us. When you visit our Site we want you to feel confident that we are committed to maintaining the privacy of your personal information. By visiting this Site, and/or using the Services offered on or through this Site (“Services”), you agree to the terms of this Privacy Notice (“Privacy Notice”), as they may be amended from time to time, and to State Street’s collection, use, processing, and disclosure of your information as described below. State Street may change this Privacy Notice at any time without prior notice to you. Any changes or updates will be effective immediately upon posting to the Site.
+State Street operates this Site to provide you with tools and resources to help you learn more about us. When you visit our Site, or otherwise interact with us offline, we want you to feel confident that we are committed to maintaining the privacy of your personal information. By interacting with us offline, visiting this Site, and/or using the Services offered on or through this Site, or various other offline means (“Services”), you agree to the terms of this Privacy Notice (“Privacy Notice”), as they may be amended from time to time, and to State Street’s collection, use, processing, and disclosure of your information as described below. State Street may change this Privacy Notice at any time without prior notice to you. Any changes or updates will be effective immediately upon posting to the Site.
 
-This policy relates to the privacy of your personal information at www.statestreet.com.
+## **How we collect information**
+
+We collect personal information in a variety of ways when you visit our website or when we provide you services including, but not limited to: various applications, third-party sources (such as social media networks), market business services, trade instructions, verbal instructions, and other documentation that you provide to us. We may also receive this information from firms that assist us in administering your account and processing transactions on your behalf or from agents or mandataries you may have designated to act on your behalf. We collect this information in order to service your account properly and provide you with the services you expect to receive. We limit our collection and use of personal information to that required for valid business purposes or to comply with applicable law.
 
 ## **What information we collect**
 
@@ -32,10 +35,12 @@ We collect and process the personal information you provide to us when you:
   * Ask us to authenticate you as an authorized user and ask us to facilitate communications between us that you request.
   * Contact State Street with a request.
   * Complete surveys issued by State Street (we will process information provided by you for research and monitoring purposes).
+  * In email and other electronic messages between you and us.
+  * Offline such as in-person, through paper forms, through the mail or other such means.
+  * From our clients, affiliates or business partners who share information with us for the purpose of providing Services to you. 
 
 
 
-  
 State Street also may collect your IP address and information regarding the computer or mobile device used to access this Site, such as its operating system, unique identifier, and model name, as well as its user configurations and settings. And as discussed in detail below, we may also collect information relating to your use of the Site and our Services.
 
 We may combine the information that we collect through the Site or Services with personal or other information that we obtain from third parties (such as social media networks or marketing partners) or that we collect from you in other contexts (such as when you email us, call us, or attend one of our events). If the information collected is about you or relates to you, or is combined with such information, State Street will treat it as personal information. We will retain information collected about you online for as long as permitted for legitimate business purposes.
@@ -55,6 +60,10 @@ The information that we collect enables State Street to provide you with access 
   * To fulfill your requests, including sending you white papers, newsletters, and other supplements and inviting you to events.
   * To contact you for marketing purposes in line with the applicable laws. (See the section below entitled “Marketing communications and your choices.”)
   * To operate our business in a prudent manner in accordance with industry standards and applicable law, which may include, in addition to supporting the Services, responding to inquiries and requests; preventing fraud; and monitoring and archiving communications.
+  * To verify your identity or the identity of our clients or their controllers, owners or beneficial owners. 
+  * To comply with any legal or regulatory requirements, pursue the legitimate interests of State Street and protect our legal position in the event of legal proceedings.
+  * To fulfill any purpose for which you provide the information as we may describe at the time of collection or in our privacy policy. 
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and State Street.
 
 
 
@@ -68,7 +77,7 @@ State Street may disclose or share personal information to nonaffiliated third p
 
 ## **Marketing communications and your choices**
 
-State Street uses information collected on the Site and information obtained from third-party sources (such as social media networks) to market business services to our institutional customers. Specifically, we may collect, use, and/or share your information with our affiliates and service providers in order to provide specific information that you request, thought leadership materials, industry information, invitations to events and webinars, and other communications or solicitations (including, subject to the preferences you express through your interactions with our Site or when you request specific services, marketing communications), that we believe will be of interest to you. We target and tailor such communications based on your interaction with State Street’s websites, mobile apps, and emails; your inquiries; your participation in events or webinars; relevant social media activity; and other third-party data. No client proprietary information, and no information about any of the individuals or entities that your firm may service, will be collected, used, or shared for purposes of delivering these communications to you. By using the Site or voluntarily submitting your contact information on the Site, you consent to the use and sharing of your information for such purposes. You may, however, opt out of receiving such marketing communications by [clicking here](https://web.archive.org/content/ssbsr/en_US/email-preference-center.html) or by following the opt-out instructions contained in each communication.
+State Street uses information collected on the Site and information obtained from third-party sources (such as social media networks) to market business services to our institutional customers. Specifically, we may collect, use, and/or share your information with our affiliates and service providers in order to provide specific information that you request, thought leadership materials, industry information, invitations to events and webinars, and other communications or solicitations (including, subject to the preferences you express through your interactions with our Site or when you request specific services, marketing communications), that we believe will be of interest to you. We target and tailor such communications based on your interaction with State Street’s websites, mobile apps, and emails; your inquiries; your participation in events or webinars; relevant social media activity; and other third-party data. No client proprietary information, and no information about any of the individuals or entities that your firm may service, will be collected, used, or shared for purposes of delivering these communications to you. By using the Site or voluntarily submitting your contact information on the Site, you consent to the use and sharing of your information for such purposes. You may, however, opt out of receiving such marketing communications by [clicking here](http://www.statestreet.com/content/ssbsr/en_US/email-preference-center.html) or by following the opt-out instructions contained in each communication.
 
 ## **Cookies and online tracking**
 
@@ -88,7 +97,7 @@ Some of our cookies are used for web analytics and intelligence about our Site. 
 
 By using our Site you agree that we can place cookies on your device and use other online tracking mechanisms as explained in this Privacy Notice. If you want to remove existing cookies from your device, you can do this using your browser options. If you want to block future cookies being placed on your device, you can change your browser settings to do this. For more information on managing cookies and other tracking devices see [**www.allaboutcookies.org/manage-cookies**](http://www.allaboutcookies.org/manage-cookies/ "All About Cookies. This opens a new window.") **.**
 
-Deleting and blocking cookies will have an impact on your user experience as parts of the Site may no longer work. Unless you have adjusted your browser settings to block cookies, our system will issue cookies as soon you visit our Site, even if you have previously deleted our cookies. To learn more about deleting or disabling cookies on your device, [click here](https://web.archive.org/content/ssbsr/en_US/utility/cookie-management.html).
+Deleting and blocking cookies will have an impact on your user experience as parts of the Site may no longer work. Unless you have adjusted your browser settings to block cookies, our system will issue cookies as soon you visit our Site, even if you have previously deleted our cookies. To learn more about deleting or disabling cookies on your device, [click here](http://www.statestreet.com/content/ssbsr/en_US/utility/cookie-management.html).
 
 ## **What types of cookies are there and which ones does the Site use?**
 
@@ -163,7 +172,7 @@ This Site may, from time to time, contain links to and from the sites of third p
 
 ## **Your rights**
 
-As a person who provides State Street with personal information, you may inquire as to the nature of the personal information stored at and/or processed by State Street. You will be provided reasonable access to your personal information held by State Street and, where appropriate, with the ability to review and correct inaccuracies. State Street will cooperate in providing such access. All such requests for access may be made by submitting your Personal Data Access Request via the [Contact Us form](https://web.archive.org/content/ssbsr/en_US/contact-us.html).
+As a person who provides State Street with personal information, you may inquire as to the nature of the personal information stored at and/or processed by State Street. You will be provided reasonable access to your personal information held by State Street and, where appropriate, with the ability to review and correct inaccuracies. State Street will cooperate in providing such access. All such requests for access may be made by submitting your Personal Data Access Request via the [Contact Us form](http://www.statestreet.com/content/ssbsr/en_US/contact-us.html).
 
 To help protect your privacy and provide security, State Street takes reasonable steps to verify your identity before granting access to information. State Street shall respond to such reasonable requests made by you within such time period as required under applicable law after your identity has been confirmed and you have clarified the specific personal information that you require. If you demonstrate that the purpose for which the personal information is being processed is no longer legal or appropriate, the personal information will be deleted, unless the law or applicable data-retention requirements require otherwise.
 
@@ -172,4 +181,4 @@ To help protect your privacy and provide security, State Street takes reasonable
 If you have questions or comments about this Privacy Notice, or about how your data is processed, please [Contact Us](https://web.archive.org/content/ssbsr/en_US/contact-us.html) here.
 
 Effective date: December 31, 2016    
-Last reviewed: May 30, 2018
+Last reviewed: May 30, 2019
