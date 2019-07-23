@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetfreestuff.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524105028id_/http%3A//www.sweetfreestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetfreestuff.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723214009id_/http%3A//www.sweetfreestuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SweetFreeStuff.com
 
