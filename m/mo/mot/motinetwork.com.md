@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motinetwork.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503212524id_/http%3A//www.motinetwork.com/pk/v1/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motinetwork.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723114647id_/http%3A//www.motinetwork.com/pk/v1/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
