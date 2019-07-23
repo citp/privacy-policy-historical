@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the sciencing.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501023925id_/https%3A//sciencing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencing.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723150102id_/https%3A//sciencing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sciencing
+
+###### EFFECTIVE DATE: NOVEMBER 9, 2016
+
+### Leaf Group Privacy Policy
 
 Last Updated: July 2, 2018
 
 This privacy policy ("Privacy Policy") describes how information and data is collected from you when you use this online website, mobile website, application, digital service, or any related products, services, sites, features or functionality (each a "Service", collectively the "Services") and how Leaf Group Ltd., including its subsidiaries/affiliates Society 6, LLC, Saatchi Online, Inc., and Well+Good, LLC ("Leaf Group", "we", "us", or "our"), uses, shares and manages your information and data. By using any of the Services, you consent to the collection, use, processing, and sharing of your information as described in this Privacy Policy.
 
-## 1\. Our Privacy Principles
+#### 1\. Our Privacy Principles
 
 We are committed to recognizing and respecting your privacy rights by keeping you informed and processing and protecting your personal data in compliance with applicable data protection laws and regulations ("Data Protection Laws").
 
 Effective May 25th, 2018, if you are subject to European Union Data Protection Laws ("EU Users"), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation ("GDPR").
 
-## 2\. Information that We Collect from You
+#### 2\. Information that We Collect from You
 
 Account Data You Directly and Voluntarily Provide to Us
 
@@ -54,7 +58,7 @@ In addition to the information you provide to us, the Services may collect and p
 
 
 
-## 3\. How We Use Your Information
+#### 3\. How We Use Your Information
 
 In this section, we set out the purposes for which we use personal information that we collect when you use the Services. In relation to EU Users, we are required under applicable Data Protection Laws, to identify the legal bases on which we rely to process the information.
 
@@ -104,7 +108,7 @@ If you wish to unsubscribe from receiving marketing communications from us by em
 
 Legal Bases: consent, legitimate interests where consent is not required (to keep you updated with news in relation to our products and services)
 
-## 4\. How We Share Your Information with Third Parties
+#### 4\. How We Share Your Information with Third Parties
 
 We may share the information you provide or that we collect in some circumstances as follows:
 
@@ -142,7 +146,7 @@ Business Transfers or Bankruptcy
 
 In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable.
 
-## 5\. Your Rights Under Applicable Data Protection Laws
+#### 5\. Your Rights Under Applicable Data Protection Laws
 
 We acknowledge your right to access and control your personal data in accordance with applicable Data Protection Laws.
 
@@ -168,7 +172,7 @@ California Residents
 
 If you are a California resident under the age of 18 and are a registered user of the Services, you may request that we remove content or information about you that you posted on the Services by: (a) submitting a request in writing to legal@leafgroup.com; and (b) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if: (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.
 
-## 6\. Transfer of Data Outside Your Country of Residence
+#### 6\. Transfer of Data Outside Your Country of Residence
 
 If you are located outside of the United States and you choose to use the Services or provide your information to us, your data may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Services represents your consent and agreement to these practices. If you do not want your data transferred to or processed or maintained in the United States, you should not use the Services.
 
@@ -194,21 +198,21 @@ We have further committed to refer unresolved privacy complaints under the EU-US
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-## 7\. The Privacy of Children
+#### 7\. The Privacy of Children
 
 The Services are not intended for children under age 16. We do not knowingly collect or distribute personal information from or about children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at legal@leafgroup.com.
 
-## 8\. Security Measures and Storage Limits
+#### 8\. Security Measures and Storage Limits
 
 We provide industry-standard physical, electronic, and procedural safeguards to protect personal data we process and maintain. For example, we take reasonable measures to limit access to this data to authorized employees and contractors who need to know that information in order to operate, develop or improve our Services. Please be aware that, although we endeavor to provide reasonable security for data we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Services and you do so at your own risk.
 
 Our retention periods for personal data are based on our business needs and legal requirements. We retain personal data for as long as is necessary for the processing purpose(s) for which the information was collected, and any other permissible, related purpose. For example, we may retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired, or to comply with regulatory requirements regarding the retention of such data. When personal data is no longer needed, we either irreversibly anonymize the data (and we may further retain and use the anonymized information) or securely destroy the data.
 
-## 9\. Updates to this Privacy Policy
+#### 9\. Updates to this Privacy Policy
 
 We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Services prior to the time the modified privacy policy takes effect. If you continue using the Services after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
 
-## 10\. Contact Us
+#### 10\. Contact Us
 
 If you have questions about this Privacy Policy, you may contact us at legal@leafgroup.com or send a letter to:
 
