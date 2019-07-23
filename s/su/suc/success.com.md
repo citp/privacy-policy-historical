@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the success.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104713id_/https%3A//www.success.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the success.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723143742id_/https%3A//www.success.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
