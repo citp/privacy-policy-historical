@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myflfamilies.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319233742id_/http%3A//www.dcf.state.fl.us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflfamilies.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723042425id_/http%3A//www.myflfamilies.com/privacy.shtml) for the most accurate reproduction.*
 
 # Florida Department of Children and Families
 
