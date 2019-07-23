@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaroideyewear.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630143104id_/https%3A//www.polaroideyewear.com/en-ww/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaroideyewear.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723025820id_/https%3A//www.polaroideyewear.com/en-fi/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Polaroid
 
@@ -22,13 +22,13 @@ This policy shows the methods and purposes of the processing carried out by Safi
 
   Except where not otherwise indicated, the personal data supplied will be used exclusively to manage and respond to the requests of the user/visitor, thus constituting the contractual and pre-contractual implementation of this processing.
 
-  In each of the above-mentioned sections of the Site where personal data are collected for each different purposes, there are specific Privacy policies explaining the details of the processings, as well as any requests for consent to the processing of personal data for marketing and even profiled purposes (for more details [click here](https://web.archive.org/en-ww/profiling-activities.html)), for which the specific consents are the legal basis of the processings.  
+  In each of the above-mentioned sections of the Site where personal data are collected for each different purposes, there are specific Privacy policies explaining the details of the processings, as well as any requests for consent to the processing of personal data for marketing and even profiled purposes (for more details [click here](https://web.archive.org/en-fi/profiling-activities.html)), for which the specific consents are the legal basis of the processings.  
 
   The user/visitor is in any case asked to refrain from entering special categories of personal data, i.e. those that reveal racial or ethnic origin, political opinions, religious or philosophical convictions, or union membership, as well as processing genetic data, biometric data intended to uniquely identify a natural person, data related to the health or sex life or sexual orientation of the person, since they cannot be treated further without consent and must be eliminated.
 
  _3) Cookies_
 
-  We may also use cookies to collect information regarding the visits to our site and to improve the browsing experience.  More information on the use of cookies can be found in the [Policy Cookie](https://web.archive.org/en-ww/cookie-policy.html).
+  We may also use cookies to collect information regarding the visits to our site and to improve the browsing experience.  More information on the use of cookies can be found in the [Policy Cookie](https://web.archive.org/en-fi/cookie-policy.html).
 
   **Kind of the data provision and consequences of refusal  **
 
