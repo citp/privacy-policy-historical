@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kloggi.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523155317id_/http%3A//www.kloggi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kloggi.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723174450id_/http%3A//www.kloggi.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to kloggi.com - Privacy Policy
 
