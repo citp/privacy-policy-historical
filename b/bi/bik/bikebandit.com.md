@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502191810id_/http%3A//www.bikebandit.com/help/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723173211id_/https%3A//www.bikebandit.com/help/security) for the most accurate reproduction.*
 
 # BikeBandit.com Help and Customer Service
 
----  
-  
-[Help](https://web.archive.org/help/faqmain) > Privacy & Security  
-  
+[Help](https://web.archive.org/help/faqmain) > Privacy & Security
+
 Why is Shopping at BikeBandit.com Secure?
 
 When you shop at BikeBandit.com, you'll be one of thousands of our customers who safely shop with us every month. Our Secure Sockets Layer (SSL) software is the industry standard and among the best software available today for secure online commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
@@ -57,6 +55,8 @@ BikeBandit.com is the sole owner of the information collected on this site. Bike
 
 BikeBandit.com will use your information to respond to you, regarding the reason you contacted us. BikeBandit.com will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
+We use technologies, such as cookies, to customize content and advertising, to provide social media features and to analyze traffic to the site. We also share information about your use of our site with our trusted social media, advertising, email service providers, and analytics partners. [See details](https://www.bikebandit.com/help/security)
+
 Unless you ask us not to, BikeBandit.com may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. You may opt out of any future contacts from us at any time. To update your email preferences or to unsubscribe from our email mailing list, [click here](https://echo3.bluehornet.com/form/1046/801/preferences). 
 
 You can also find out the following information at any time by contacting us:
@@ -86,33 +86,24 @@ Back to top
 
 Customer Support Hours:  
 Sales Department  
-M - TH: 6am – 6pm Pacific   
-Friday: 6am – 5pm Pacific  
-Sat: 7:30am – 4pm Pacific 
+M - TH: 6:30am – 4:30pm Pacific   
+Friday: 6:30am – 4:30pm Pacific
 
 Customer Service Department  
-M - TH: 6am – 6pm Pacific   
-Friday: 6am – 5pm Pacific
-
-| 
+M - TH: 6:30am – 4:30pm Pacific   
+Friday: 6:30am – 4:30pm Pacific
 
 Call Us!  
   
 Toll Free! Pick Up the Phone  
 and Dial **1-888-339-3888!**
 
-| 
-
 Chat With Us!  
 [](http://server.iad.liveperson.net/hc/42100874/?cmd=file&file=visitorWantsToChat&site=42100874&byhref=1&imageUrl=http://www.bikebandit.com/img/livehelp_buttons/btn2010)  
 Log On to Our [Live Chat](http://server.iad.liveperson.net/hc/42100874/?cmd=file&file=visitorWantsToChat&site=42100874&referrer=http://www.bikebandit.com/help) to Speak  
 with one of our Team Members!
 
-| 
-
 Email Us!  
-[](mailto:service@bikebandit.com)  
-E-mail: [service@bikebandit.com](mailto:service@bikebandit.com)  
-Replies in about 1 business day, or less!  
-  
----|---|---|---
+[](https://web.archive.org/cdn-cgi/l/email-protection#77041205011e141237151e1c12151619131e035914181a)  
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82f1e7f0f4ebe1e7c2e0ebe9e7e0e3ece6ebf6ace1edef)  
+Replies in about 1 business day, or less!
