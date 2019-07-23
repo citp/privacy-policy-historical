@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dinesh.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524095248id_/http%3A//www.dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinesh.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724015627id_/http%3A//dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://www.dinesh.com/about_me/about_this_site/privacy_policy.html)
+##  [ Privacy Policy](https://www.dinesh.com/about_me/about_this_site/privacy_policy.html)
 
 **Privacy Policy for http://www.dinesh.com**
 
