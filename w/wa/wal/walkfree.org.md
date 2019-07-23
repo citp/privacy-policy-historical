@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306005138id_/https%3A//www.minderoo.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723153446id_/https%3A//www.minderoo.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Minderoo Foundation
 
@@ -24,7 +24,7 @@ We use information from visitors to our website to improve the content of our we
 
 Cookies are only used on our website where required for website functionality. Disabling cookies should not affect your overall website experience. We do not collect or store personal or private information in any cookies originating from our website. However, Facebook and Google provide third party analytical services to us in respect of our website. A summary of information about how we use third party services and links is set out below. 
 
-###### Google Analytics and remarketing
+###### Google analytics and re-marketing
 
   * Google Analytics: a service which transmits website traffic data to Google servers in the United States. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
   * Google remarketing technology: a service which allows Google to display relevant content based on what pages on our website you have viewed. The content will be displayed using cookies. These cookies don’t record any personal information or identify you personally.
@@ -33,7 +33,7 @@ Cookies are only used on our website where required for website functionality. D
 
 By using this website, you consent to the processing of data about you by Google for the purposes set out and in the manner described in Google’s data protection policy (which can be accessed here (https://www.google.com/intl/en/policies/privacy/)). You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt out service provide by Google here (https://tools.google.com/dlpage/gaoptout).
 
-###### Facebook Conversion Tracking Pixel
+###### Facebook conversion tracking pixel
 
 We may from time to time use Facebook Advertising, Facebook Pixel Re-Marketing, and communications. This tool allows us to understand and deliver content and make it more relevant to you. The collected data remains anonymous and we cannot see the personal data of any individual user.  
 However, the collected data is saved and processed by Facebook. Facebook may be able to connect the data with your Facebook account and use the data for their own advertising purposes (in accordance with Facebook’s Data Use Policy found under: https://www.facebook.com/about/privacy/). Facebook has ultimate control of the information gathered through Facebook Advertising, Facebook Pixel Re-Marketing, and communications. You can opt-out of Facebook’s use of cookies and Facebook Pixel Re-Marketing through settings on your Facebook Account.  
