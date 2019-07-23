@@ -1,31 +1,21 @@
-> *The following text is extracted and transformed from the iacr.org privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307035751id_/http%3A//www.iacr.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iacr.org privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723222437id_/https%3A//www.iacr.org/privacy.html) for the most accurate reproduction.*
 
 # IACR privacy policy
 
-## IACR Privacy Policy
-
 The following statement discloses the IACR's information gathering and dissemination practices. 
 
-The IACR maintains member databases that contain mailing, billing, and member profile information, as well as a record of each member's registrations for conferences. The information in these databases is used by authorized officers and board delegated organization staff to process registrations; mail invoices, renewal notices, and announcements; and respond to member inquiries. Member records are maintained as long as an individual is an IACR member and for at least three years following a membership lapse. Registration databases may be retained for up to three years. 
+The IACR maintains a website and other online services for the purpose of running its operations and achieving its goals. The IACR is committed to not collect or store personal data and other sensitive information beyond the extent needed to satisfy its mission. 
 
-IACR does not log any accesses from your IP address to our Web site Personal information is stored in a relational database and standard security methods are used to protect it. We require confirmation of identity before releasing information back to the user for update over the Web. 
+The IACR maintains member databases that contain mailing, billing, and member profile information, as well as a record of each member's registrations for conferences. The information in these databases is used by authorized officers and Board-delegated organization staff to process registrations; mail invoices, renewal notices, and announcements; and respond to member inquiries. Members can update their contact information using the online from found at [ https://secure.iacr.org/membership/ ](https://secure.iacr.org/membership/) . This information is automatically updated whenever a new conference registration is submitted or upon renewal of a membership. Personal information is stored in a database and standard security methods are used to protect it. The IACR requires confirmation of identity before releasing information back to the user for update over the web. 
 
-Commercial information (such as credit card numbers) is obtained using our secure Web server and may be stored on our machines for as long as is needed for processing. Such information is deleted using reasonable diligence as soon as is practical after it is no longer required, for example after the conference has occurred. 
+The IACR records the IP address of computers interacting with its websites and services on its domains, such as *.iacr.org, ia.cr, and chesconference.org. 
 
-The IACR does not rent or sell email addresses. The IACR may use email addresses to contact members to answer member questions or to acknowledge the receipt of membership applications and conference registrations, to send membership renewal notices, and to send occasional announcements about IACR events to those members who have not opted out of receiving such announcements. These announcements are short straightforward messages that contain pointers to online resources where members can explore the information more fully. 
+Credit card payments are handled by a third-party payment processor, which stores information according to its own privacy policy. The IACR provides the third-party payment processor with mailing and billing information about the customer at the time of the transaction. 
 
-The IACR may use the postal addresses of its members to mail invoices, products, and announcements from the IACR. IACR member names and mailing addresses are never rented or sold. Membership lists are sent to the members periodically. 
+The IACR does not rent or sell email addresses, postal addresses, or other personal information. 
 
-Our site gives you the opportunity to opt out from either receiving email communications or from having your name and address made available to anyone other than the IACR. When registering for a conference, you have the option not to be on the Attendee list. You have the option not to be listed in the annual membership list. 
+The IACR may use email and postal addresses to conduct its operations, including contacting members regarding their membership status, conference registrations, and IACR elections, as well as sending occasional announcements about IACR events to those members who have not opted out of receiving such announcements. The IACR may share this information with third parties who are carrying out these operations on its behalf. 
 
-The IACR site gives users the opportunity to update information previously provided by using the online form found at http://www.iacr.org/iacrmem/, or email to [iacrmem@iacr.org](mailto:iacrmem@iacr.org), or by physical mail to: 
+The IACR provides a list of people registered for an IACR conference to attendees and members. Attendees to IACR conferences may choose to be omitted from the attendee list given to other attendees and members. 
 
-> IACR General Secretariat Santa Rosa Administrative Center University of California Santa Barbara, CA 93106-6120 USA 
-
-Note: Information is always updated whenever a new conference registration is submitted or upon renewal of a membership. 
-
-This site contains links to other sites. The IACR is not responsible for the privacy practices or the content of such Web sites. 
-
-* * *
-
-[ [IACR home page](http://www.iacr.org/) ] [© IACR](https://web.archive.org/web/20120307035751id_/http%3A//copyright.html)
+The IACR website and other communications of the IACR contain links to or resources from other sites. The IACR is not responsible for the privacy practices or the content of such websites. 
