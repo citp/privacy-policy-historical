@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porn-tube.club privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121031222id_/https%3A//porn-tube.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-tube.club privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723173202id_/https%3A//porn-tube-club.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Only HD Porn Videos
 
