@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mjpru.ac.in privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610164730id_/http%3A//mjpru.ac.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mjpru.ac.in privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723110430id_/http%3A//mjpru.ac.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Mahatama Jyotiba Phule Rohilkhand University , Bareilly
 
