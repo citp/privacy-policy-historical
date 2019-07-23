@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehdroom.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420213659id_/https%3A//www.thehdroom.com/privacy-policy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehdroom.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723192519id_/https%3A//www.thehdroom.com/privacy-policy-terms-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - TheHDRoom
 
