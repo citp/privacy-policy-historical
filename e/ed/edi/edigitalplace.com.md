@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edigitalplace.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305135606id_/https%3A//edigitalplace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edigitalplace.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723173023id_/https%3A//www.edigitalplace.com/privacy.php) for the most accurate reproduction.*
 
 # Buy Sell Online - Digital Goods & Services
 
