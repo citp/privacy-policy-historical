@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideful.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523212549id_/http%3A//slideful.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideful.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723161723id_/http%3A//slideful.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Terms of Service
 
