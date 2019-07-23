@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezlink.com.sg privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120205215id_/https%3A//www.ezlink.com.sg/contact-us/personal-data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezlink.com.sg privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723175853id_/https%3A//www.ezlink.com.sg/contact-us/personal-data-protection) for the most accurate reproduction.*
 
-# EZ-Link – Personal Data Protection
+# Personal Data Protection - EZ-Link
 
 ## EZ-Link Privacy Policy
 
