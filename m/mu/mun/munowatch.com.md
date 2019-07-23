@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the munowatch.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524112105id_/http%3A//www.munowatch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the munowatch.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723230244id_/http%3A//www.munowatch.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
