@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotmed.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629090312id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmed.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724015803id_/https%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.*
 
 # Legal Information
 
