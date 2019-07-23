@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828085058id_/https%3A//www.tastefullysimple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723082740id_/https%3A//www.tastefullysimple.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Tastefully Simple
 
@@ -47,7 +47,15 @@ California residents have the right to request the following information from bu
 
 If you are a Tastefully Simple client and a California resident, please contact us at the postal address below to request this information. Please note that we are only required to respond to each client once per calendar year.
 
+**Opting out of promotional communications**
+
+To opt out of promotional emails: Follow the instructions provided in email communication footer or contact us at [help@tastefullysimple.com](mailto:help@tastefullysimple.com). 
+
+To opt out of text messages: You may opt out by texting STOP to 68730. There may be a short delay between receiving the request to STOP and the system removing your telephone number for text messages. Complete SMS terms and conditions are available at <https://www.tastefullysimple.com/smsterms>
+
+Please note that when you opt out of receiving promotional communications, Tastefully Simple may continue to send you non-promotional emails, such as those related to account credentials or transactions. 
+
 **contact information**   
-All questions and concerns about your privacy can be sent to [stacy.aldrich@tastefullysimple.com](mailto:stacy.aldrich@tastefullysimple.com) or 1920 Turning Leaf Lane SW, Attn: Privacy Policy Rights, Alexandria, MN 56308-4505.
+All questions and concerns about your privacy can be sent to [privacy@tastefullysimple.com](mailto:privacy@tastefullysimple.com) or 1920 Turning Leaf Lane SW, Attn: Privacy Policy Rights, Alexandria, MN 56308-4505.
 
 Effective Date: February 2011
