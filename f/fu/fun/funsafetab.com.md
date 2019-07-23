@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funsafetab.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611203954id_/http%3A//funsafetab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funsafetab.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723143404id_/http%3A//funsafetab.com/privacy) for the most accurate reproduction.*
 
 # 
 
