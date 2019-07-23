@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whosoff.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630140924id_/https%3A//www.whosoff.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosoff.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723073244id_/http%3A//www.whosoff.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy governing WhosOff and the WhosOff.com service
 
