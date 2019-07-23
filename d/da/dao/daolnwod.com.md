@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daolnwod.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185625id_/http%3A//www.daolnwod.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daolnwod.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723133322id_/http%3A//www.daolnwod.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Information
 
