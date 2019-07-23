@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfjobsmarket.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622211847id_/http%3A//www.gulfjobsmarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfjobsmarket.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723201245id_/http%3A//www.gulfjobsmarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Jobs and News Website in the Gulf and the Middle East: Privacy Policy | Gulf Jobs Market
 
