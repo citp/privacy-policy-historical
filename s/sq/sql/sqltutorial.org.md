@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqltutorial.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622072617id_/http%3A//www.sqltutorial.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqltutorial.org privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723080825id_/http%3A//www.sqltutorial.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SQL Tutorial
 
