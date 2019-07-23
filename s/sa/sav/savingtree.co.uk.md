@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingtree.co.uk privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524093902id_/http%3A//www.savingtree.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingtree.co.uk privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724011217id_/http%3A//www.savingtree.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : UK Shoes Online Shop
 
