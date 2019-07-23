@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmannex.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610142352id_/http%3A//www.filmannex.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmannex.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723094133id_/http%3A//www.filmannex.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About Film Annex
 
