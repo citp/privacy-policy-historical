@@ -1,35 +1,40 @@
-> *The following text is extracted and transformed from the saralvaastu.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527062500id_/http%3A//www.saralvaastu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saralvaastu.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723111920id_/https%3A//www.saralvaastu.com/privacy-policy) for the most accurate reproduction.*
 
-# Saral Vaastu
+# Privacy Policy %
 
-Saralvaastu.com is committed towards maintaining the privacy of information related to its associates and users. We do not disclose information about your visits to our portal or personal information that you may give us, to any outside sources. 
+We respect the privacy of our users/members and is committed to protect it in all respects.  
+To avail registration in the Site, Apps, users/Members are required to provide certain information for the registration process namely:
 
-We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password, credit card number and bank account number. Saralvaastu.com marketing partners or advertisers have got their separate privacy and data collection policies that may be different or less protective than ours. Saralvaastu.com disclaims any responsibility or liability for our marketing partners' independent information handling policies and we recommend you are careful and responsible when providing personal information while interacting with any third party while online. 
+  * Your name
+  * Date of birth
+  * Mobile number
+  * Email address
+  * Gender
+  * State
+  * Address
+  * Interests
 
-Saralvaastu.com collects personal information of the user visiting the site using the method of signing up with the web site. This personal information may comprise of your name, email address, date of birth, gender, gender, contact address, pin code or any other information deemed necessary by Saralvaastu.com from time to time to be collected.
 
-Saralvaastu.com uses the information for the purpose of making the content more customizable and for contacting the users for special offers and new products and services. Saralvaastu.com will not rent or sell the personally identifiable information to the third party. 
 
-Saralvaastu.com may disclose your personal information about you to third parties when: 
+The said information as supplied by the users/Members enables us to improve the Site, Apps and provide users/Members the most user-friendly experience.
 
-  1. We get your consent to share the information;
-  2. It is necessary to share your information for getting the product or service requested by you delivered;
-  3. It is required to cooperate with the investigations of some intentional unlawful activities; 
-  4. Disclosing your information is necessary to protect and defend the rights and related property of Saralvaastu.com. And that of its visitors;
-  5. In case the ownership or assets of Saralvaastu.com is getting transferred to third party or in the case of bankruptcy of Saralvaastu.com.
+Users/Members can login via Facebook or Google credentials if users do not wish to generate own username & password.  
+To improve the responsiveness of the Site, Apps for users/Members, we may use the local data store / content history, or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user’s individual interests. The only personal information that will obtain is the information you would supply. Our advertisers may also access through us the information for local data store for their impressions.  
+When we present information to our advertisers – to help them understand our audience and confirm the value of advertising on our website – it is usually in the form of aggregated statistics on traffic to various pages within our Site/Apps. When you register with Site/Apps, you will receive from time to time updation of your content to provide you such features that we believe may benefit you.
 
-Saralvaastu.com may amend this policy from time to time. Please refer to this page from time to time to see these new features. Saralvaastu.com may provide the aggregated personal demographic data of members to advertisers to make them understand the targeted audience. 
+The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
-Site and Service Updates: We may send updates to members regarding the website and service announcement updates using the digital delivery mode.
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
- **Collection of Information and Its Use:** For understanding the pattern of traffic and to serve the traffic in more effective and efficient manner by supplying the more effective content, we along with our third party advertiser may place or recognize a unique “cookie” on your browser. For better traffic analysis purpose and for giving the authentic details to our advertisers, we use cookies and web beacons for compiling statistical data. The other relevant information includes IP addresses, browser types, operating systems, domain names, access times and referring website addresses. 
+If you have any questions or clarifications with respect to this policy, you can contact us as follows:
 
-**Provision of Products and Services:** Saralvaastu.com reserves the right to limit the provision of any product or service to any person, geographic area or jurisdiction it so desires, in its sole discretion and to limit the quantities of any such product or service that it provides. Any offer for any product or service made on Saralvaastu.com is void where prohibited.
+ **By Email** : grievances@cgparivar.com; or  
+**By writing to us** :  
+C G Parivar House,  
+EL-86, TTC Industrial Area,  
+MIDC, Mahape,  
+Navi Mumbai,  
+Maharashtra: 400 701  
+**By calling us** : (+91)-932-133-3022
 
- **Linked Sites:** Saralvaastu.com is not responsible in any way towards the genuineness and accuracy and updation of the content of the linked sites, which have been linked, to Saralvaastu.com. These links have been provided to you for your convenience and the placement of link at Saralvaastu.com doesn’t imply any endorsement by us about the link and the linked site. If you choose to purchase the product or service from any of the linked site or from any of the merchants and advertisers which appear on Saralvaastu.com, you release us from any or all claims you may have regarding the third party’s failure to deliver or perform. The user accesses the links available at Saralvaastu.com and related sites at his own risk and discretion.
-
- **Security:** Saralvaastu.com has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Only authorized users have access to the information you provide. No transmission of data over the Internet is guaranteed to be completely secured. It may be possible for third parties not under the control of Saralvaastu.com to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal details, Saralvaastu.com cannot ensure that all your communications and other personal information will never be disclosed in ways not otherwise described in this privacy policy. You acknowledge and assume this risk when communicating with Saralvaastu.com.
-
- **Termination:** Saralvaastu.com reserves the right to discontinue in whole or in part any portion of Saralvaastu.com services or programs with or without notice. 
-
-**Right to Change:** Saralvaastu.com reserves the right to change this Privacy Policy at any time in whole or in part with or without notice. All changes will be posted to this page, and we may or may not make necessary efforts to notify you of any significant changes to this privacy policy. It becomes your responsibility to check this page to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. In case of any concern about your privacy, please write to us, we will respond to you immediately. 
+ **TERMS OF USE (Version 2.0 – 06-03-2019)**
