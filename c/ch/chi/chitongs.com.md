@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chitongs.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523142600id_/http%3A//www.chitongs.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chitongs.com privacy policy that was archived on 2019-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190723165605id_/http%3A//www.chitongs.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
