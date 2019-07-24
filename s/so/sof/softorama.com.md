@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softorama.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623130327id_/https%3A//privacy.softorama.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softorama.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724073559id_/https%3A//privacy.softorama.com) for the most accurate reproduction.*
 
 # Softorama
 
@@ -66,6 +66,8 @@ If you would prefer not to accept cookies, you can do this by activating the set
 
 However, if you use your browser settings to block all cookies, please be aware that some functions and features of the Service may not work properly because we may not be able to recognize and associate you with your account.
 
+To opt out of Google Analytics please click here
+
 **Log Files -**
 
 As is true of most web sites, we may gather certain information automatically and store it in log files.
@@ -81,7 +83,7 @@ A pixel tag is a transparent graphic image, sometimes called a web beacon or tra
 _Our third-party partners/service providers may also use cookies, scripts, web beacons or other technologies for the purpose of targeting; tracking and analyzing your use of the Site or Service; and/or providing you with content, as follows:_
 
 **_  
-_****_Analytics_**
+_****_**Analytics -**_**
 
 _We work with companies that provide services which help us_ _analyze your use of our Site or Service, for internal purposes, and to (anonymously) collect information about your online usage activities across our Site or Service._
 
@@ -92,7 +94,7 @@ _The analytics providers with whom we work include, but are not limited to, the 
 
 
 
-_You can learn more about how Google uses data it collects via our use of Google Analytics / App Engine, by visiting Google's Privacy Policy at:[www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners) _
+_You can learn more about how Google uses data it collects via our use of Google Analytics / App Engine, by visiting Google's Privacy Policy at:[www.google.com/policies/privacy/partners](https://www.google.com/policies/privacy/partners) _
 
   * _[MixPanel](https://mixpanel.com/legal/privacy-policy/)_
   * _[Smartlook](https://www.smartlook.com/help/privacy-statement/)_
@@ -107,13 +109,13 @@ _We may implement a social button, “widget” or other content from a third pa
 
 _We allow social buttons, applications, and widgets from the partners listed below (for more information, please click on the selected partner’s name to review its privacy policy) –_
 
-  * _[Facebook](http://www.facebook.com/privacy)_
+  * _[Facebook](https://www.facebook.com/privacy)_
   * _[Google +](https://www.google.com/intl/en/policies/privacy/)_
   * _[YouTube](https://www.google.com/intl/en/policies/privacy/)_
   * _[Last.fm](https://www.cbsinteractive.com/legal/cbsi/privacy-policy)_
-  * _[Pinterest](http://about.pinterest.com/privacy/)_
-  * _[Twitter](http://twitter.com/privacy)_
-  * _[AddThis](http://www.addthis.com/privacy/privacy-policy)_
+  * _[Pinterest](https://about.pinterest.com/privacy/)_
+  * _[Twitter](https://twitter.com/privacy)_
+  * _[AddThis](https://www.addthis.com/privacy/privacy-policy)_
 
 
 
@@ -248,7 +250,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (b)     _<https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>_ (Firefox);
 
-(c)      _<http://www.opera.com/help/tutorials/security/cookies/>_ (Opera);
+(c)      _[http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/)_ (Opera);
 
 (d)     _<https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies>_ (Internet Explorer);
 
