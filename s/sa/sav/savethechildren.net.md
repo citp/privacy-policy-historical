@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethechildren.net privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831195529id_/https%3A//www.savethechildren.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.net privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724153743id_/https%3A//www.savethechildren.net/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Save the Children International
 
@@ -10,7 +10,7 @@ The processing of your personal data is carried out by Save the Children Interna
 
 If you have any questions regarding this Privacy Statement, please contact:
 
-Data Protection Officer   
+Data Protection Officer   
 Save the Children International  
 St Vincent House,   
 30 Orange Street  
@@ -62,11 +62,11 @@ You may 
 
 
 
-You may make any of the above requests by contacting the Data Protection Officer at [dpo@savethechildren.org](mailto:dpo@savethechildren.org) . We shall process your requests unless we have compelling legitimate reasons for not fulfilling such requests.
+You may make any of the above requests by contacting the Data Protection Officer at [subjectaccessrequest@savethechildren.org](mailto:subjectaccessrequest@savethechildren.org). We shall process your requests unless we have compelling legitimate reasons for not fulfilling such requests.
 
 **Children’s data**
 
-When you register with us, you are stating that you are over 18 years of age or are a minor acting with parental consent. If you are a minor, we need your parental consent as well. If you have any issues with parental consent, please contact us at [dpo@savethechildren.org](mailto:dpo@savethechildren.org). You agree that any information you provide to us about yourself upon registration or at any time is true. 
+When you register with us, you are stating that you are over 18 years of age or are a minor acting with parental consent. If you are a minor, we need your parental consent as well. If you have any issues with parental consent, please contact us at [dpo@savethechildren.org](mailto:dpo@savethechildren.org). You agree that any information you provide to us about yourself upon registration or at any time is true. 
 
 **Confidentiality**
 
@@ -84,4 +84,4 @@ Please refer to the Cookie Notice on our website. 
 
 We reserve the right to amend this Privacy Statement. You are advised to visit this website section periodically in order to keep up to date with the changes in our Privacy Statement.
 
-Date of last update of Privacy Statement – 24th May 2018
+Date of last update of Privacy Statement – 24th May 2018
