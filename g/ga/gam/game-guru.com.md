@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-guru.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417080658id_/https%3A//www.thegamecreators.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-guru.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724072202id_/https%3A//www.thegamecreators.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheGameCreators
 
