@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xendpay.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413103330id_/https%3A//www.xendpay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xendpay.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725010317id_/https%3A//www.xendpay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xendpay
 
@@ -113,34 +113,41 @@ The criteria we use for retaining different types of personal data, includes the
   
 ### What are Cookies?
 
-Cookies are a very small text file sent to your computer or internet-enabled device when you visit a website. This enables the website to recognise you should you re-visit the site at a later date.
+Cookies are small text file stored on your computer or internet-enabled device when you visit a website. This enables the website to recognise you should you re-visit the site at a later date.
 
 ### How does Xendpay web site use cookies?
 
-When you visit any of our websites, we only use cookies to remember preferences that you chose when browsing the site and to count and study the visitors and patterns of people visiting our site.
+When you visit any of our websites, we use cookies to remember preferences that you chose when browsing the site in order to provide you with the best experience possible and to count and study the visitors and patterns of people visiting our site which enable us to update and approve our websites based on user behaviour and preferences.
 
 Our Site uses the following types of cookies for the purposes set out below:
 
-Type of cookie | Purpose 
+Type of cookie | Purpose
 
 Essential Cookies | These cookies are essential to provide you with services available through our Site and to enable you to use some of its features. For example, they allow you to log in to secure areas of our Site and help the content of the pages you request load quickly. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.
 
 Functionality Cookies | These cookies allow our Site to remember choices you make when you use our Site, such as remembering your language preferences, remembering your login details and remembering the changes you make to other parts of our Site which you can customize. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit our Site.
 
-Analytics and Performance Cookies | These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered does not identify any individual visitor. The information is aggregated and anonymous. 
-
-It includes the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information. We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site.
-
-We currently set the following cookies:
+Analytics and Performance Cookies | These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered does not identify any individual visitor. The information is aggregated and anonymous. It includes the number of visitors to our Site, in limited circumstances, where we have a relationship with the referring site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information. We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site.
 
 **Cookie** | **Purpose**  
 ---|---  
-Google Analytics | Google Analytics tracking  
-Drupal | Drupal functionality, login, comments  
-Session | Session cookie  
-rationalfx.us3.list-manage.com | Mailchimp cookie for signup  
-uk.trustpilot.com | Trustpilot  
-secure.rationalfx.com | Main platform cookie. Login & remember last currency used  
+Analytics | _fbp: Facebook analytics  
+_ga: Google Analytics cookie  
+_gat_UA-85995080-5: Google Analytics cookie  
+_adroll_fpc: analytical cookie used to optimise and analyse website performance and is a retargeting network that allows us to show ads to visitors who’ve landed on our site while browsing the web  
+_ar_v4: double click advertising Google cookie used to track conversion rates  
+Trustpilot third party cookie | uk.trustpilot.com  
+Functional and Essential | Firstaccess: checks to see if this is the first time user has accessed portal  
+Firstlogin: checks to see if a user has logged in for the first time  
+PLG: this is a functional cookie that lets us keep the language of the user across the site.  
+Lastlogged: cookie that stores the amount of time since a user has last logged into the system  
+Affcode: cookie to store the affiliate code from the marketing sites affiliate landing pages  
+Campaign: cookie that stores CTA tracking information when a user clicks it.  
+sourceTrack: Similar to the campaign cookie except this is for Google search tracking  
+subcod: Additional affiliate tracking, e.g. if there is two landing pages, identifies which page they came from.  
+Has_js: checks whether javascript is enabled on browser  
+Drupal.visitor.fromCountry: checks which country you are accessing from and changes the language of the website to your local language  
+Cookie preference | Cookieconsent_status: remembers your cookie preference  
   
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
@@ -148,9 +155,7 @@ Further information concerning cookies and how to manage them to suit your prefe
 
 ### How can you control the use of cookies from our website?
 
-You have the right to turn off cookies before using our website. You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings.
-
-You can also turn off cookies by clicking on the “Turn cookies off” button on our cookies pop up window that you see when entering our website for the first time. However, this may prevent you from taking full advantage of the website.
+You have the right to turn off cookies before using our website or at any time while browsing our Site. You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings. However, this may prevent you from taking full advantage of the website.
 
 ### Which purpose and lawful basis do you use for processing of personal data?
 
