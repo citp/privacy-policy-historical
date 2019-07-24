@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperfbtraffic.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514085245id_/http%3A//hyperfbtraffic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperfbtraffic.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724120240id_/http%3A//hyperfbtraffic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
