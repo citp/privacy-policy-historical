@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213034154id_/http%3A//www.exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724082426id_/http%3A//www.exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@
   
 
 
-**by[Charley Kyd](https://web.archive.org/web/20181213034154id_/http%3A//www.exceluser.com/about/about-charley-kyd.htm), MBA  
+**by[Charley Kyd](https://web.archive.org/web/20190724082426id_/http%3A//www.exceluser.com/about/about-charley-kyd.htm), MBA  
 Microsoft Excel MVP, 2005-2014  
 The Father of Spreadsheet Dashboard Reports**
 
