@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622205052id_/https%3A//www.codeguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724142507id_/https%3A//www.codeguru.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
