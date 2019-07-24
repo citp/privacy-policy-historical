@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hulkpop.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404072230id_/https%3A//hulkpop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkpop.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724230752id_/https%3A//hulkpop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – HULKPOP
 
@@ -15,7 +15,3 @@ information (including your cookies and device id) about your visits to this and
 
 Cookies are files with small amounts of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive.  
 We use & quot; Cookie & quot; To gather information. You can instruct your browser to reject all cookies or indicate when a cookie is sent. However, if you do not accept cookies, you may not use certain portions of our Services.
-
-**Contact us**
-
-If you have any questions about privacy policy, please contact us by email: contact@hulkpop.com
