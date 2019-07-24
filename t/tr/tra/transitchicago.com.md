@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transitchicago.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421073707id_/https%3A//www.transitchicago.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitchicago.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724182520id_/https%3A//www.transitchicago.com/privacy) for the most accurate reproduction.*
 
 # CTA Privacy Policy - CTA
 
