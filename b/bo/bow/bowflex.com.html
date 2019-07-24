@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bowflex.com privacy policy that was archived on 2018-01-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180107175605id_/https%3A//www.bowflex.com/global-assets/legal/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bowflex.com privacy policy that was archived on 2019-07-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190725015616id_/https%3A//www.bowflex.com/global-assets/legal/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -9,17 +9,18 @@
 <link href="/on/demandware.static/Sites-bowflex-Site/-/default/dwe3b0c61a/images/favicon.ico" rel="shortcut icon">
 <meta name="description" content="Learn more about the Bowflex privacy policy.">
 <meta name="keywords" content="">
-<link href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/owl-carousel/owl.theme.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/owl-carousel/owl.carousel.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/font-awesome-4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/owl-carousel/owl.theme.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/owl-carousel/owl.carousel.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/font-awesome-4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.css">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/html5.js"></script>
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/html5.js"></script>
 <![endif]-->
 <!--[if lte IE 9]>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/matchMedia.js"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/matchMedia.js"></script>
 <![endif]-->
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WK54K2"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -35,7 +36,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -55,6 +62,9 @@ dw.ac = {
 /* <![CDATA[ (head-cquotient.js) */
 var CQuotient = window.CQuotient = {};
 CQuotient.clientId = 'aayw-bowflex';
+CQuotient.realm = 'AAYW';
+CQuotient.siteId = 'bowflex';
+CQuotient.instanceType = 'prd';
 CQuotient.activities = [];
 CQuotient.cqcid='';
 CQuotient.cquid='';
@@ -81,9 +91,43 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
+
+<style type="text/css">ISAPPLEPAY{display:inline;}.dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active{background-color:black;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0;}
+.dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
 <script>
 		var digitalData = {};
 
@@ -102,7 +146,7 @@ CQuotient.getCQUserId = function () {
 		}
 
 		digitalData.Visitor = {
-			sessionID: '_fC1COJuzJbGYcoGeD2vVbtmm1Ve9_S96l0=',
+			sessionID: 'aVUFeNA3VXu7avFwM3arz5y2lNgwL8aM8hw=',
 			ADID: "DEGBFBHG",
 			productInterest: "Bowflex",
 			MediaType: "Bowflex.com",
@@ -113,28 +157,24 @@ CQuotient.getCQUserId = function () {
 <script src="//assets.adobedtm.com/aba75b7e3d240a989c85e81e9a38d500a239e614/satelliteLib-132e1e29a2617352969f8c98ff74071b77d692e0.js"></script>
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/css/style.css">
 
-<link rel="stylesheet" type="text/css" href="/on/demandware.static/-/Library-Sites-bowflexShared/en_US/v1515201860650/css/Bowflex-BM.css">
+<link rel="stylesheet" type="text/css" href="/on/demandware.static/-/Library-Sites-bowflexShared/en_US/v1564015622480/css/Bowflex-BM.css">
 
-
-<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/fd5cd328-750d-4b2d-b583-ebde97b156f8.css">
-
-<link href="https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic" rel="stylesheet" type="text/css">
-
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700,700i" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/koi6pla.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
-<link rel="canonical" href="http://www.bowflex.com/global-assets/legal/privacy-policy.html">
-<link rel="alternate" href="http://www.bowflex.com/global-assets/legal/privacy-policy.html" hreflang="en-us">
-<link rel="alternate" href="http://www.bowflex.ca/en-ca/global-assets/legal/privacy-policy.html" hreflang="en-ca">
-<link rel="alternate" href="http://www.bowflex.ca/fr-ca/global-assets/legal/privacy-policy.html" hreflang="fr-ca">
-<link rel="alternate" href="http://www.bowflex.com/global-assets/legal/privacy-policy.html" hreflang="x-default">
-<meta property="og:url" content="http://www.bowflex.com/global-assets/legal/privacy-policy.html">
+<link rel="canonical" href="https://www.bowflex.com/global-assets/legal/privacy-policy.html">
+<link rel="alternate" href="https://www.bowflex.com/global-assets/legal/privacy-policy.html" hreflang="en-us">
+<link rel="alternate" href="https://www.bowflex.ca/en-ca/global-assets/legal/privacy-policy.html" hreflang="en-ca">
+<link rel="alternate" href="https://www.bowflex.ca/fr-ca/global-assets/legal/privacy-policy.html" hreflang="fr-ca">
+<link rel="alternate" href="https://www.bowflex.com/global-assets/legal/privacy-policy.html" hreflang="x-default">
+<meta property="og:url" content="https://www.bowflex.com/global-assets/legal/privacy-policy.html">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="Learn more about the Bowflex privacy policy.">
+<meta property="og:image" content="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/en_US/v1564015622480/global/bowflex.logo.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Bowflex">
 </head>
@@ -162,7 +202,7 @@ CQuotient.getCQUserId = function () {
 <input type="text" id="q" name="q" value="" placeholder="Search">
 <button type="submit"><i>
 <svg class="icon glass" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#glass"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#glass"></use>
 </svg></i></button>
 </fieldset>
 </form>
@@ -178,9 +218,8 @@ Products<span></span>
 <ul class="menu-vertical">
 
 <li>
-<a href="http://www.bowflex.com/max-trainer/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw0161be2f/images/bowflex/dropdown-nav/dropdown-nav_maxtrainer_lg.png" alt="Max Trainer">
-<div class="mobile">Max Trainer</div>
+<a href="https://www.bowflex.com/max-trainer/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw42258bd1/images/bowflex/dropdown-nav/dropdown-nav-maxtrainer-mip.png" alt="">
 <div class="standard">Max Trainer</div>
 </a>
 <div class="subtext">
@@ -188,49 +227,8 @@ Products<span></span>
 </li>
 
 <li>
-<a href="http://www.bowflex.com/hvt/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dwdd323cd2/images/bowflex/dropdown-nav/dropdown-nav_hybridvelocity_lg.png" alt="HVT">
-<div class="mobile">HVT</div>
-<div class="standard">HVT</div>
-</a>
-<div class="subtext">
-</div>
-</li>
-
-<li>
-<a href="http://www.bowflex.com/treadclimber/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw49c56fc5/images/bowflex/dropdown-nav/dropdown-nav_treadclimber_lg.png" alt="TreadClimber">
-<div class="mobile">TreadClimber</div>
-<div class="standard">TreadClimber</div>
-</a>
-<div class="subtext">
-</div>
-</li>
-
-<li>
-<a href="http://www.bowflex.com/treadmills/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dweeb344f4/images/bowflex/dropdown-nav/dropdown-nav_treadmill_lg.png" alt="Treadmills">
-<div class="mobile">Treadmills</div>
-<div class="standard">Treadmills</div>
-</a>
-<div class="subtext">
-</div>
-</li>
-
-<li>
-<a href="http://www.bowflex.com/ellipticals/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw4935f700/images/bowflex/dropdown-nav/dropdown-nav_elliptical_lg.png" alt="Ellipticals">
-<div class="mobile">Ellipticals</div>
-<div class="standard">Ellipticals</div>
-</a>
-<div class="subtext">
-</div>
-</li>
-
-<li>
-<a href="http://www.bowflex.com/home-gyms/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw4960e431/images/bowflex/dropdown-nav/dropdown-nav_homegyms_lg.png" alt="Home Gyms">
-<div class="mobile">Home Gyms</div>
+<a href="https://www.bowflex.com/home-gyms/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw4960e431/images/bowflex/dropdown-nav/dropdown-nav_homegyms_lg.png" alt="">
 <div class="standard">Home Gyms</div>
 </a>
 <div class="subtext">
@@ -238,9 +236,35 @@ Products<span></span>
 </li>
 
 <li>
-<a href="http://www.bowflex.com/selecttech/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw98bc4e98/images/bowflex/dropdown-nav/dropdown-nav_selecttech_lg.png" alt="SelectTech">
-<div class="mobile">SelectTech</div>
+<a href="https://www.bowflex.com/treadclimber/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw49c56fc5/images/bowflex/dropdown-nav/dropdown-nav_treadclimber_lg.png" alt="">
+<div class="standard">TreadClimber</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/treadmills/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dweeb344f4/images/bowflex/dropdown-nav/dropdown-nav_treadmill_lg.png" alt="">
+<div class="standard">Treadmills</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/lateralx/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw83e7657e/images/bowflex/dropdown-nav/dropdown-nav_latx.jpg" alt="">
+<div class="standard">LateralX</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/selecttech/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw73ce33e9/images/bowflex/dropdown-nav/dropdown-nav_selecttech_lg.png" alt="">
 <div class="standard">SelectTech</div>
 </a>
 <div class="subtext">
@@ -248,9 +272,26 @@ Products<span></span>
 </li>
 
 <li>
-<a href="http://www.bowflex.com/accessories/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dwfa0e182b/images/bowflex/dropdown-nav/dropdown-nav_accessories_lg.png" alt="Accessories">
-<div class="mobile">Accessories</div>
+<a href="https://www.bowflex.com/hvt/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dwdd323cd2/images/bowflex/dropdown-nav/dropdown-nav_hybridvelocity_lg.png" alt="">
+<div class="standard">HVT</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/ellipticals/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw4935f700/images/bowflex/dropdown-nav/dropdown-nav_elliptical_lg.png" alt="">
+<div class="standard">Ellipticals</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/accessories/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dwfa0e182b/images/bowflex/dropdown-nav/dropdown-nav_accessories_lg.png" alt="">
 <div class="standard">Accessories</div>
 </a>
 <div class="subtext">
@@ -266,15 +307,14 @@ Why Bowflex<span></span>
 </a>
 <div class="level-2 content-nav">
 <ul>
-<li><div style="width: 35%">
-<a href="http://www.bowflex.com/about-bowflex.html">About Bowflex</a>
-<a href="http://www.bowflex.com/infokit">Free Info Kit</a>
-<a href="http://www.bowflex.com/financing.html">Easy Financing</a>
-<a href="http://www.bowflex.com/awards.html">Awards</a>
-<a href="http://www.bowflex.com/press.html">In the Press</a>
-</div>
-<div style="width: 60%; padding-left:5%; text-align: right;">
-<a href="http://www.bowflex.com/max-trainer/success"><img src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw6198d8f4/global/main-nav/success-stories.png" alt="Bowflex Success Stories"></a>
+<li><div style="width: 80%">
+<a href="https://www.bowflex.com/about-bowflex.html">About Bowflex</a>
+<a href="https://www.bowflex.com/request-info">Request Info</a>
+<a href="https://www.bowflex.com/financing.html">Easy Financing</a>
+<a href="https://www.bowflex.com/technology.html">Technology</a>
+<a href="https://www.bowflex.com/apps.html">Bowflex Apps</a>
+<a href="https://www.bowflex.com/awards.html">Awards</a>
+<a href="https://www.bowflex.com/press.html">In the Press</a>
 </div></li>
 </ul>
 </div>
@@ -287,33 +327,33 @@ Health &amp; Fitness Tips<span></span>
 <div class="level-2 content-nav">
 <ul>
 <li><div style="width: 35%">
-<a href="http://www.bowflex.com/cardio.html">Cardio</a>
-<a href="http://www.bowflex.com/strength.html">Strength</a>
+<a href="https://www.bowflex.com/cardio.html">Cardio</a>
+<a href="https://www.bowflex.com/strength.html">Strength</a>
 
-<a href="http://www.bowflex.com/blog">Blog</a>
-<a href="http://www.bowflex.com/blog/workouts">Workout Videos</a>
-<a href="http://www.bowflex.com/blog/recipes">Healthy Recipes</a>
+<a href="https://www.bowflex.com/blog">Blog</a>
+<a href="https://www.bowflex.com/blog/workouts">Workout Videos</a>
+<a href="https://www.bowflex.com/blog/recipes">Healthy Recipes</a>
 </div>
-<div style="width: 65%; text-align:right;"><a href="http://www.bowflex.com/blog/how-to-do-the-perfect-shoulder-press.html"><img src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw8dff858a/global/main-nav/blog-feature-callout.jpg" alt="Bowflex Insider Blog"></a></div></li>
+<div style="width: 65%; text-align:right;"><a href="https://www.bowflex.com/blog/how-to-do-the-perfect-shoulder-press.html"><img src="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw8dff858a/global/main-nav/blog-feature-callout.jpg" alt="Bowflex Insider Blog"></a></div></li>
 </ul>
 </div>
 
 </li>
 </ul>
 <div class="phone-icon">
-<a href="tel:(800) 618-8853">
+<a href="tel:800-642-6679">
 <span>
 <svg class="icon phone" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#phone"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#phone"></use>
 </svg></span>
-<span>tel:(800) 618-8853</span>
+<span>800-642-6679</span>
 </a>
 </div>
 <div class="mobile-account">
 <a href="https://www.bowflex.com/my-account">
 <span>
 <svg class="icon account" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#account"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#account"></use>
 </svg></span>
 <span>Account</span>
 </a>
@@ -330,30 +370,38 @@ Health &amp; Fitness Tips<span></span>
 <div class="utility mobile">
 <div class="promo-global">
 <div class="html-slot-container">
-<span style="color:#e31837;">New Year Sale! <a class="tooltip" href="#" style="color:#e31837;">View Details<div class="tooltip-content" data-layout="small">
-<strong>
-New Year, New You!</strong> <br>Δ For a limited time, enter coupon code <strong>NEWYEARSALE</strong> at checkout to get:
+<span style="color:#e31837;">Beat the Heat Sale!
+<a class="tooltip" href="#" style="color:#e31837;">Details<div class="tooltip-content" data-layout="small">
+<br>For a limited time, enter code SUMMERFUN at checkout to get:
 <br>
 <ul>
-<li><strong>$300 Off, a Free Mat and Free Shipping on a Bowflex Max Trainer® M7 order (Save over $558!).</strong></li>
-<li><strong>$200 Off, a Free Mat and Free Shipping on a Bowflex Max Trainer® M5 order (Includes Collegiate) (Save over $458!).</strong></li>
-<li><strong>Free Shipping and a Free Mat on a Bowflex Max Trainer® M3 (Save over $208!).</strong></li>
-<li><strong>$500 Off and Free Shipping when you purchase a Bowflex® HVT+ machine (Save $700!).</strong></li>
-<li><strong>$300 Off and Free Shipping when you purchase a Bowflex® HVT machine (Save $500!).</strong></li>
-<li><strong>$1,000 Off, a Free Mat and Free Shipping when you purchase a Bowflex® TreadClimber® TC200 (Save over $1,308!).</strong></li>
-<li><strong>$550 Off, a Free Mat and Free Shipping when you purchase a Bowflex® TreadClimber® TC100 (Save over $858!).</strong></li>
-<li><strong>$700 Off, a Free Mat and Free Shipping when you purchase a Bowflex Revolution® home gym (Save over $1,008!).</strong></li>
-<li><strong>$600 Off and Free Shipping when you purchase a Bowflex Xtreme® 2 SE home gym (Save over $769!).</strong></li>
-<li><strong>A Bowflex® SelectTech® 560 bundle for only $599 plus Free Shipping (purchase must include Bowflex® SelectTech® 560 Dumbbells, Bowflex® SelectTech® 4.1 Bench, and Bowflex® SelectTech® Stand). (Save over $297!)</strong></li>
-<li><strong>$50 Off plus Free Shipping on Bowflex® SelectTech® 1090 Dumbbells. ($179 savings value!).</strong></li>
-<li><strong>Free Shipping on Bowflex® SelectTech® 552 Dumbbells.</strong></li>
-<li><strong>A Free Mat and Free Shipping on a Bowflex® BXE216 Elliptical.</strong></li>
-<li><strong>Free Shipping on a Bowflex® BXE116 Elliptical.</strong></li>
-<li><strong>A Free Mat and Free Shipping on a Bowflex® BXT216 Treadmill.</strong></li>
-<li><strong>Free Shipping on a Bowflex® BXT116 Treadmill.</strong></li>
+<li><strong>Max Trainer® M8 Performance Pack - </strong> $300 Off and Free Shipping </li>
+<li><strong>Max Trainer® M8 - </strong> $250 Off and Free Shipping </li>
+<li><strong>Max Trainer® M6 - </strong> $150 Off and Free Shipping </li>
+<li><strong>LateralX LX5 Performance Pack - </strong> $300 Off and Free Shipping </li>
+<li><strong>LateralX LX5 - </strong> $250 Off and Free Shipping </li>
+<li><strong>LateralX LX3 - </strong> $150 Off and Free Shipping </li>
+<li><strong>TreadClimber® TC200 - </strong> $250 Off and Free Shipping </li>
+<li><strong>TreadClimber® TC100 - </strong> $150 Off and Free Shipping </li>
+<li><strong>Revolution® Home Gym - </strong> $300 Off and Free Shipping </li>
+<li><strong>Xtreme® 2 SE Home Gym - </strong> $100 Off and Free Shipping </li>
+<li><strong>SelectTech® 560 Bundle - </strong> Only $599 and Free Shipping (purchase must include Bowflex® SelectTech® 560 Dumbbells, Bowflex® SelectTech® 4.1 Bench, and Bowflex® SelectTech® Stand)</li>
+<li><strong>Bowflex® BXT116 Treadmill - </strong> $99 Shipping on BXT116 Treadmill</li>
+<li><strong>Bowflex® BXE116 Elliptical - </strong> $99 Shipping on BXE116 Elliptical</li>
 </ul>
 <br>
-Offers only valid within the 48 contiguous states of the continental U.S. We regret we cannot ship to P.O. Box or international destinations. Offers not available with any other offers and are subject to availability and may change at any time. Prices are subject to change. Shipping discount applies to standard shipping option only. Offers is valid once to a customer and excludes previously placed orders. Offers are not valid at retail stores or outlets. For orders placed at our retail store, offers do not include free shipping and therefore savings values are less the shipping cost of an order placed online through Bowflex.com. Offers expire 1/08/2018 @ 11:59 pm PT.
+Enjoy free shipping (no code required) on:
+<br>
+<ul>
+<li><strong>HVT+ machine - </strong> Free Mat and Free Shipping </li>
+<li><strong>HVT machine - </strong> Free Mat and Free Shipping </li>
+<li><strong>Bowflex® BXE216 Elliptical</strong></li>
+<li><strong>Bowflex® BXT216 Treadmill</strong></li>
+<li><strong>SelectTech® 1090 Dumbbells</strong></li>
+<li><strong>SelectTech® 552 Dumbbells</strong></li>
+</ul>
+<br>
+Offers only valid within the 48 contiguous states of the continental U.S. We regret we cannot ship to P.O. Box or international destinations. Offers not available with any other offers and are subject to availability and may change at any time. Prices are subject to change. Shipping discount applies to standard shipping option only. Offers are valid once to a customer and excludes previously placed orders. Offers are not valid at retail stores or outlets. Offers valid for a limited time only.
 </div></a>
 </span>
 </div>
@@ -362,30 +410,38 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 <div class="utility standard">
 <div class="promo-global">
 <div class="html-slot-container">
-<span style="color:#e31837;">New Year Sale! <a class="tooltip" href="#" style="color:#e31837;">View Details<div class="tooltip-content" data-layout="small">
-<strong>
-New Year, New You!</strong> <br>Δ For a limited time, enter coupon code <strong>NEWYEARSALE</strong> at checkout to get:
+<span style="color:#e31837;">Beat the Heat Sale!
+<a class="tooltip" href="#" style="color:#e31837;">Details<div class="tooltip-content" data-layout="small">
+<br>For a limited time, enter code SUMMERFUN at checkout to get:
 <br>
 <ul>
-<li><strong>$300 Off, a Free Mat and Free Shipping on a Bowflex Max Trainer® M7 order (Save over $558!).</strong></li>
-<li><strong>$200 Off, a Free Mat and Free Shipping on a Bowflex Max Trainer® M5 order (Includes Collegiate) (Save over $458!).</strong></li>
-<li><strong>Free Shipping and a Free Mat on a Bowflex Max Trainer® M3 (Save over $208!).</strong></li>
-<li><strong>$500 Off and Free Shipping when you purchase a Bowflex® HVT+ machine (Save $700!).</strong></li>
-<li><strong>$300 Off and Free Shipping when you purchase a Bowflex® HVT machine (Save $500!).</strong></li>
-<li><strong>$1,000 Off, a Free Mat and Free Shipping when you purchase a Bowflex® TreadClimber® TC200 (Save over $1,308!).</strong></li>
-<li><strong>$550 Off, a Free Mat and Free Shipping when you purchase a Bowflex® TreadClimber® TC100 (Save over $858!).</strong></li>
-<li><strong>$700 Off, a Free Mat and Free Shipping when you purchase a Bowflex Revolution® home gym (Save over $1,008!).</strong></li>
-<li><strong>$600 Off and Free Shipping when you purchase a Bowflex Xtreme® 2 SE home gym (Save over $769!).</strong></li>
-<li><strong>A Bowflex® SelectTech® 560 bundle for only $599 plus Free Shipping (purchase must include Bowflex® SelectTech® 560 Dumbbells, Bowflex® SelectTech® 4.1 Bench, and Bowflex® SelectTech® Stand). (Save over $297!)</strong></li>
-<li><strong>$50 Off plus Free Shipping on Bowflex® SelectTech® 1090 Dumbbells. ($179 savings value!).</strong></li>
-<li><strong>Free Shipping on Bowflex® SelectTech® 552 Dumbbells.</strong></li>
-<li><strong>A Free Mat and Free Shipping on a Bowflex® BXE216 Elliptical.</strong></li>
-<li><strong>Free Shipping on a Bowflex® BXE116 Elliptical.</strong></li>
-<li><strong>A Free Mat and Free Shipping on a Bowflex® BXT216 Treadmill.</strong></li>
-<li><strong>Free Shipping on a Bowflex® BXT116 Treadmill.</strong></li>
+<li><strong>Max Trainer® M8 Performance Pack - </strong> $300 Off and Free Shipping </li>
+<li><strong>Max Trainer® M8 - </strong> $250 Off and Free Shipping </li>
+<li><strong>Max Trainer® M6 - </strong> $150 Off and Free Shipping </li>
+<li><strong>LateralX LX5 Performance Pack - </strong> $300 Off and Free Shipping </li>
+<li><strong>LateralX LX5 - </strong> $250 Off and Free Shipping </li>
+<li><strong>LateralX LX3 - </strong> $150 Off and Free Shipping </li>
+<li><strong>TreadClimber® TC200 - </strong> $250 Off and Free Shipping </li>
+<li><strong>TreadClimber® TC100 - </strong> $150 Off and Free Shipping </li>
+<li><strong>Revolution® Home Gym - </strong> $300 Off and Free Shipping </li>
+<li><strong>Xtreme® 2 SE Home Gym - </strong> $100 Off and Free Shipping </li>
+<li><strong>SelectTech® 560 Bundle - </strong> Only $599 and Free Shipping (purchase must include Bowflex® SelectTech® 560 Dumbbells, Bowflex® SelectTech® 4.1 Bench, and Bowflex® SelectTech® Stand)</li>
+<li><strong>Bowflex® BXT116 Treadmill - </strong> $99 Shipping on BXT116 Treadmill</li>
+<li><strong>Bowflex® BXE116 Elliptical - </strong> $99 Shipping on BXE116 Elliptical</li>
 </ul>
 <br>
-Offers only valid within the 48 contiguous states of the continental U.S. We regret we cannot ship to P.O. Box or international destinations. Offers not available with any other offers and are subject to availability and may change at any time. Prices are subject to change. Shipping discount applies to standard shipping option only. Offers is valid once to a customer and excludes previously placed orders. Offers are not valid at retail stores or outlets. For orders placed at our retail store, offers do not include free shipping and therefore savings values are less the shipping cost of an order placed online through Bowflex.com. Offers expire 1/08/2018 @ 11:59 pm PT.
+Enjoy free shipping (no code required) on:
+<br>
+<ul>
+<li><strong>HVT+ machine - </strong> Free Mat and Free Shipping </li>
+<li><strong>HVT machine - </strong> Free Mat and Free Shipping </li>
+<li><strong>Bowflex® BXE216 Elliptical</strong></li>
+<li><strong>Bowflex® BXT216 Treadmill</strong></li>
+<li><strong>SelectTech® 1090 Dumbbells</strong></li>
+<li><strong>SelectTech® 552 Dumbbells</strong></li>
+</ul>
+<br>
+Offers only valid within the 48 contiguous states of the continental U.S. We regret we cannot ship to P.O. Box or international destinations. Offers not available with any other offers and are subject to availability and may change at any time. Prices are subject to change. Shipping discount applies to standard shipping option only. Offers are valid once to a customer and excludes previously placed orders. Offers are not valid at retail stores or outlets. Offers valid for a limited time only.
 </div></a>
 </span>
 </div>
@@ -398,10 +454,10 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 
 
 <div class="mini-cart-total">
-<a class="mini-cart-link mini-cart-empty" href="http://www.bowflex.com/cart" title="View Cart">
+<a class="mini-cart-link mini-cart-empty" href="https://www.bowflex.com/cart" title="View Cart">
 <i>
 <svg class="icon cart" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#cart"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#cart"></use>
 </svg></i>
 <span class="minicart-quantity">(0)</span>
 </a>
@@ -411,18 +467,18 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 
 <ul class="menu-utility-user">
 <li class="phone">
-(800) 618-8853
+800-618-8853
 </li>
 <li class="chat">
 <a id="chat-link" onclick="javascript:window.open('https://nautilus.ehosts.net/netagent/cimlogin.aspx?questid=1EF8E01F-D62B-4A70-83DF-C5A07CBB2300&amp;portid=57593C20-B133-4E55-AB9F-72B989EB4A01&amp;defaultStyleId=57593C20-B133-4E55-AB9F-72B989EB4A01&amp;AdID=DEGBFBHG&amp;Country=US&amp;CartValue=0','_blank','resizable=no,width=400,height=475,scrollbars=yes'); return false;" href="javascript:void(0)" alt="Live Chat" title="Live Chat">
 <svg class="icon chat" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#chat"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#chat"></use>
 </svg> <span>Live Chat</span></a>
 </li>
 <li class="account">
 <a href="https://www.bowflex.com/my-account" title="Log In/Create Account">
 <svg class="icon account" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#account"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#account"></use>
 </svg> <span>Account</span></a>
 </li>
 </ul>
@@ -436,13 +492,13 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 <input type="text" id="q" name="q" value="" placeholder="Search">
 <button type="submit"><i>
 <svg class="icon glass" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#glass"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#glass"></use>
 </svg></i></button>
 </fieldset>
 </form>
 </div>
 <div class="primary-logo standard">
-<a href="http://www.bowflex.com/home" title="Bowflex Home">
+<a href="https://www.bowflex.com/home" title="Bowflex Home">
 <img src="/on/demandware.static/Sites-bowflex-Site/-/default/dw9a702c48/images/bowflex-logo.svg" alt="Bowflex">
 <span class="visually-hidden">Bowflex</span>
 </a>
@@ -460,9 +516,8 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 <ul class="menu-vertical">
 
 <li>
-<a href="http://www.bowflex.com/max-trainer/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw0161be2f/images/bowflex/dropdown-nav/dropdown-nav_maxtrainer_lg.png" alt="Max Trainer">
-<div class="mobile">Max Trainer</div>
+<a href="https://www.bowflex.com/max-trainer/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw42258bd1/images/bowflex/dropdown-nav/dropdown-nav-maxtrainer-mip.png" alt="">
 <div class="standard">Max Trainer</div>
 </a>
 <div class="subtext">
@@ -470,49 +525,8 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 </li>
 
 <li>
-<a href="http://www.bowflex.com/hvt/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dwdd323cd2/images/bowflex/dropdown-nav/dropdown-nav_hybridvelocity_lg.png" alt="HVT">
-<div class="mobile">HVT</div>
-<div class="standard">HVT</div>
-</a>
-<div class="subtext">
-</div>
-</li>
-
-<li>
-<a href="http://www.bowflex.com/treadclimber/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw49c56fc5/images/bowflex/dropdown-nav/dropdown-nav_treadclimber_lg.png" alt="TreadClimber">
-<div class="mobile">TreadClimber</div>
-<div class="standard">TreadClimber</div>
-</a>
-<div class="subtext">
-</div>
-</li>
-
-<li>
-<a href="http://www.bowflex.com/treadmills/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dweeb344f4/images/bowflex/dropdown-nav/dropdown-nav_treadmill_lg.png" alt="Treadmills">
-<div class="mobile">Treadmills</div>
-<div class="standard">Treadmills</div>
-</a>
-<div class="subtext">
-</div>
-</li>
-
-<li>
-<a href="http://www.bowflex.com/ellipticals/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw4935f700/images/bowflex/dropdown-nav/dropdown-nav_elliptical_lg.png" alt="Ellipticals">
-<div class="mobile">Ellipticals</div>
-<div class="standard">Ellipticals</div>
-</a>
-<div class="subtext">
-</div>
-</li>
-
-<li>
-<a href="http://www.bowflex.com/home-gyms/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw4960e431/images/bowflex/dropdown-nav/dropdown-nav_homegyms_lg.png" alt="Home Gyms">
-<div class="mobile">Home Gyms</div>
+<a href="https://www.bowflex.com/home-gyms/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw4960e431/images/bowflex/dropdown-nav/dropdown-nav_homegyms_lg.png" alt="">
 <div class="standard">Home Gyms</div>
 </a>
 <div class="subtext">
@@ -520,9 +534,35 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 </li>
 
 <li>
-<a href="http://www.bowflex.com/selecttech/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw98bc4e98/images/bowflex/dropdown-nav/dropdown-nav_selecttech_lg.png" alt="SelectTech">
-<div class="mobile">SelectTech</div>
+<a href="https://www.bowflex.com/treadclimber/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw49c56fc5/images/bowflex/dropdown-nav/dropdown-nav_treadclimber_lg.png" alt="">
+<div class="standard">TreadClimber</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/treadmills/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dweeb344f4/images/bowflex/dropdown-nav/dropdown-nav_treadmill_lg.png" alt="">
+<div class="standard">Treadmills</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/lateralx/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw83e7657e/images/bowflex/dropdown-nav/dropdown-nav_latx.jpg" alt="">
+<div class="standard">LateralX</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/selecttech/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw73ce33e9/images/bowflex/dropdown-nav/dropdown-nav_selecttech_lg.png" alt="">
 <div class="standard">SelectTech</div>
 </a>
 <div class="subtext">
@@ -530,9 +570,26 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 </li>
 
 <li>
-<a href="http://www.bowflex.com/accessories/">
-<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dwfa0e182b/images/bowflex/dropdown-nav/dropdown-nav_accessories_lg.png" alt="Accessories">
-<div class="mobile">Accessories</div>
+<a href="https://www.bowflex.com/hvt/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dwdd323cd2/images/bowflex/dropdown-nav/dropdown-nav_hybridvelocity_lg.png" alt="">
+<div class="standard">HVT</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/ellipticals/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dw4935f700/images/bowflex/dropdown-nav/dropdown-nav_elliptical_lg.png" alt="">
+<div class="standard">Ellipticals</div>
+</a>
+<div class="subtext">
+</div>
+</li>
+
+<li>
+<a href="https://www.bowflex.com/accessories/">
+<img class="loh" src="/on/demandware.static/-/Sites-bowflex-storefront-catalog/default/dwfa0e182b/images/bowflex/dropdown-nav/dropdown-nav_accessories_lg.png" alt="">
 <div class="standard">Accessories</div>
 </a>
 <div class="subtext">
@@ -548,15 +605,14 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 </a>
 <div class="level-2 content-nav">
 <ul>
-<li><div style="width: 35%">
-<a href="http://www.bowflex.com/about-bowflex.html">About Bowflex</a>
-<a href="http://www.bowflex.com/infokit">Free Info Kit</a>
-<a href="http://www.bowflex.com/financing.html">Easy Financing</a>
-<a href="http://www.bowflex.com/awards.html">Awards</a>
-<a href="http://www.bowflex.com/press.html">In the Press</a>
-</div>
-<div style="width: 60%; padding-left:5%; text-align: right;">
-<a href="http://www.bowflex.com/max-trainer/success"><img src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw6198d8f4/global/main-nav/success-stories.png" alt="Bowflex Success Stories"></a>
+<li><div style="width: 80%">
+<a href="https://www.bowflex.com/about-bowflex.html">About Bowflex</a>
+<a href="https://www.bowflex.com/request-info">Request Info</a>
+<a href="https://www.bowflex.com/financing.html">Easy Financing</a>
+<a href="https://www.bowflex.com/technology.html">Technology</a>
+<a href="https://www.bowflex.com/apps.html">Bowflex Apps</a>
+<a href="https://www.bowflex.com/awards.html">Awards</a>
+<a href="https://www.bowflex.com/press.html">In the Press</a>
 </div></li>
 </ul>
 </div>
@@ -569,14 +625,14 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 <div class="level-2 content-nav">
 <ul>
 <li><div style="width: 35%">
-<a href="http://www.bowflex.com/cardio.html">Cardio</a>
-<a href="http://www.bowflex.com/strength.html">Strength</a>
+<a href="https://www.bowflex.com/cardio.html">Cardio</a>
+<a href="https://www.bowflex.com/strength.html">Strength</a>
 
-<a href="http://www.bowflex.com/blog">Blog</a>
-<a href="http://www.bowflex.com/blog/workouts">Workout Videos</a>
-<a href="http://www.bowflex.com/blog/recipes">Healthy Recipes</a>
+<a href="https://www.bowflex.com/blog">Blog</a>
+<a href="https://www.bowflex.com/blog/workouts">Workout Videos</a>
+<a href="https://www.bowflex.com/blog/recipes">Healthy Recipes</a>
 </div>
-<div style="width: 65%; text-align:right;"><a href="http://www.bowflex.com/blog/how-to-do-the-perfect-shoulder-press.html"><img src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw8dff858a/global/main-nav/blog-feature-callout.jpg" alt="Bowflex Insider Blog"></a></div></li>
+<div style="width: 65%; text-align:right;"><a href="https://www.bowflex.com/blog/how-to-do-the-perfect-shoulder-press.html"><img src="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw8dff858a/global/main-nav/blog-feature-callout.jpg" alt="Bowflex Insider Blog"></a></div></li>
 </ul>
 </div>
 
@@ -592,10 +648,10 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 
 
 <div class="mini-cart-total">
-<a class="mini-cart-link mini-cart-empty" href="http://www.bowflex.com/cart" title="View Cart">
+<a class="mini-cart-link mini-cart-empty" href="https://www.bowflex.com/cart" title="View Cart">
 <i>
 <svg class="icon cart" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#cart"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#cart"></use>
 </svg></i>
 <span class="minicart-quantity">(0)</span>
 </a>
@@ -603,11 +659,11 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 </div>
 <button class="header-nav-open">
 <svg class="icon hamburger" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#hamburger"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#hamburger"></use>
 </svg><span class="visually-hidden">Menu</span></button>
 <button class="header-nav-close">
 <svg class="icon menuclose" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#menuclose"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#menuclose"></use>
 </svg><span class="visually-hidden">Menu</span></button>
 <div class="primary-logo">
 <a href="/home" title="Bowflex Home">
@@ -616,9 +672,9 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 </a>
 </div>
 <div class="phone-icon">
-<a href="tel:(800) 618-8853">
+<a href="tel:800-642-6679">
 <svg class="icon phone" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#phone"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#phone"></use>
 </svg>
 </a>
 </div>
@@ -637,37 +693,37 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 <div id="primary" class="primary-content">
 <div class="content-asset">
 <h1>PRIVACY POLICY</h1>
-<p>Nautilus, Inc., and our subsidiaries and affiliates (collectively, ‘we’ or ‘us’), takes the protection and proper use of your information seriously.</p>
-<p>This Privacy Policy describes how we collect and use personal information about you when you visit our U.S. websites (including NautilusInc.com, Nautilus.com, Bowflex.com, BowflexCatalog.com, SchwinnFitness.com, UniversalHomeFitness.com, and ModMov.com), and mobile applications (collectively, “Sites”), call us on the phone, engage with us on social media, or otherwise utilize our products (including interactive equipment) and services.</p>
-<p><strong>WHAT PERSONAL INFORMATION DOES NAUTILUS, INC. GATHER?</strong></p>
+<p>Nautilus, Inc., and our subsidiaries and affiliates (collectively, “Nautilus,” “we” or “us”), takes the protection and proper use of your information seriously.</p>
+<p>This Privacy Policy describes how we collect and use personal information about you when you call us on the phone, visit our family of websites (including NautilusInc.com, Nautilus.com, Bowflex.com, Bowflex.ca, SchwinnFitness.com, ModMov.com, NautilusInternational.com, Global.Bowflex.com, Global.Nautilus.com, Global.Modmov.com, and Global.SchwinnFitness.com ) (the “Sites”), use our equipment interfaces, mobile and desktop or device applications (including Bowflex SelectTech, Bowflex Max Trainer, Bowflex Results, Bowflex TreadClimber, Bowflex HVT, Bowflex Toolbox, Nautilus Trainer 2, Bowflex LateralX, Schwinn Toolbox, Schwinn Trainer, Schwinn Classic Cruiser, and Max Intelligence) and certain Nautilus controlled social media pages (including on Facebook, Instagram, Spotify and Twitter) (collectively the “Service”).</p>
+<p><strong>WHAT PERSONAL INFORMATION DO WE GATHER?</strong></p>
 <p>Here are the general types of information we gather:</p>
 <p>INFORMATION YOU GIVE US</p>
-<p>We receive and store any information you provide to us when you complete surveys, request additional information from us, participate in a sweepstakes or other incentives, post information on our Sites, make purchases online, set up accounts, sign up to receive our newsletters or other e-mail communications, communicate by e-mail, communicate with us through a social media platform (for example Facebook, Twitter, Pinterest, Instagram), communicate with us by telephone or physical mail with our customer service, use our services or products, or otherwise interact with us. Such information may include your name, address, e-mail address, shopping interests and preferences, transaction history, information relating to the use of the Sites and services (such as exercise statistics) and other personal data ("personal information"). You can choose not to provide certain information, but then you might not be able to participate in our surveys or incentives, purchase products, or take advantage of certain Site features or services.</p>
+<p>We receive and store any information you provide to us when you complete surveys, request additional information from us, participate in a sweepstakes or other incentives, post information on the Service, make purchases online, set up accounts, sign up to receive our newsletters or other e-mail communications, communicate by e-mail, communicate with us through a social media platform (for example Facebook, Twitter, Pinterest, Instagram), communicate with us by telephone or physical mail with our customer service, use our services or products, or otherwise interact with us. Such information may include your name, address, e-mail address, shopping interests and preferences, transaction history and other personal data. To help improve your experience or enable certain features of the Service, you may choose to provide us with additional information such as weight, age, or logs for sleep, food or exercise. You can choose not to provide certain information, but then you might not be able to participate in our surveys or incentives, purchase products, or take advantage of certain features of the Service.</p>
 <p>If you engage with us through a social media platform those communications are governed by this Privacy Policy as well as the policy of the relevant social media platform.</p>
-<p>You may choose to provide us names or other contact information for a friend to take advantage of a referral or other program, to send them product information or gifts, or to utilize a social feature of our Sites, products or services. Subject to restrictions imposed under applicable laws and unless otherwise specified when you provide us the information, the information we collect about you and your friend may be stored and used in the ways described in this Privacy Policy.</p>
-<p>We value your reviews, comments, feedback, testimonials, etc., which help us improve our services and products. By making such submissions to us, you assign your rights in the submissions to us as described in the "Submissions" section of our <a href="http://www.bowflex.com/global-assets/legal/terms-of-use.html">Terms of Use page</a>.</p>
-<p>INFORMATION GATHERED AUTOMATICALLY</p>
-<p>We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use technologies such as "cookies" and "clear gifs" to obtain certain types of information when your Web browser accesses one of our Sites, or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives, or open or respond to any newsletter or other e-mail.</p>
+<p>You may choose to provide us names or other contact information for a friend to take advantage of a referral or other program, to send them product information or gifts, or to utilize a social feature of the Service. Subject to restrictions imposed under applicable laws and unless otherwise specified when you provide us the information, the information we collect about you and your friend may be stored and used in the ways described in this Privacy Policy.</p>
+<p>We value your reviews, comments, feedback, testimonials, etc., which help us improve our services and products. By making such submissions to us, you assign your rights in the submissions to us as described in the "Submissions" section of our <a href="https://www.bowflex.com/global-assets/legal/terms-of-use.html">Terms of Use page</a>.</p>
+<p>INFORMATION RECEIVED FROM YOUR USE OF OUR SERVICE</p>
+<p>We and our business partners receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use technologies such as "cookies" and "clear gifs" to obtain certain types of information when your Web browser accesses one of our Sites, or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives, or open or respond to any newsletter or other e-mail. We may also allow our business partners, including ad networks, to use these technologies to serve advertisements, provide other advertising services and/or collect certain information when you visit the Sites or utilize the Service. For more information about regarding third party marketers and business partners please see the "THIRD PARTY MARKETERS AND OTHER BUSINESS PARTNERS" section of this Privacy Policy below.</p>
 <p>Briefly, "cookies" are small files that we transfer to your computer's hard drive or your Web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you, such as recognizing you as an existing customer or previous Site visitor. "Clear gifs" are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of Web users or to let us know if you have opened an e-mail that we sent you.</p>
-<p>Examples of the information we collect and analyze in this manner include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your behavior on our Web site and related services, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our site or not).</p>
-<p>You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on, and significant portions of, our Site. Also, because information we obtain may be combined, we may still be able to identify your web browser, computer or mobile device when you access our Services even if you disable cookies. Some browsers incorporate a “Do Not Track” (DNT) feature that, when turned on, signals to websites and online services that you do not wish to be tracked. Because there is not yet an accepted standard for how to respond to browser DNT signals, we do not currently respond to them. For more information about the use of cookies and how to block them, visit www.allaboutcookies.org, www.youronlinechoices.eu (Europe) or www.aboutads.info/choices (United States).</p>
-<p>We may use, or permit our business partners to use, other technologies similar to cookies for the same purposes as we may use cookies.</p>
-<p>We may collect information about your location and your mobile device, including a unique identifier for your device, when you download or use our mobile application.</p>
-<p>We may collect information regarding your use of products or services, including when you sign up for services to monitor or improve your workouts.</p>
+<p>Examples of the information we collect and analyze in this manner include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your behavior on the Sites and related services, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on the Sites or not).</p>
+<p>You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on, and significant portions of, the Sites. Also, because information we obtain may be combined, we may still be able to identify your web browser, computer or mobile device when you access the Service even if you disable cookies. Some browsers incorporate a “Do Not Track” (DNT) feature that, when turned on, signals to websites and online services that you do not wish to be tracked. Because there is not yet an accepted standard for how to respond to browser DNT signals, we do not currently respond to them. For more information about the use of cookies and how to block them, visit www.allaboutcookies.org, www.youronlinechoices.eu (Europe) or www.aboutads.info/choices (United States).</p>
+<p>We may use, or permit our business partners to use, other technologies similar to cookies for the same purposes as we may use cookies, including to collect and analyze information regarding your use of our mobile, desktop and device applications. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques.</p>
+<p>Nautilus exercise equipment interfaces may collect data such as speed, heart rate, distance traveled, active minutes or calories burned. Data collected varies depending on which equipment you use.</p>
+<p>Device information, and data such as location and health statistics may be collected through your personal devices (such as phones or fitness trackers), and we may collect such information when you download or use our applications or synch your device with the Service. </p>
+<p>Data collected through your exercise equipment interfaces or your devices may be transferred from your equipment interface or device to our servers or otherwise consistent with this Privacy Policy.</p>
 <p><strong>HOW WE USE AND SHARE PERSONAL INFORMATION</strong></p>
 <p>GENERAL USE</p>
-<p>We use your personal information to conduct our business and to provide you with and improve our Sites, products, services and experiences. For example, we may use your personal information for such purposes as customizing future shopping and savings opportunities for you, confirming and tracking your orders, understanding our customer demographics and preferences, improving your workout experience, and communicating with you.</p>
+<p>We use your personal information to conduct our business and to provide you with and improve the Service. For example, we may use your personal information for such purposes as customizing future shopping and savings opportunities for you, confirming and tracking your orders, understanding our customer demographics and preferences, improving your workout experience, and communicating with you.</p>
 <p>We also may combine any or all of the information that we collect or obtain.</p>
-<p>THIRD PARTY MARKETERS</p>
-<p>From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products or services we believe will be of interest to you. We do not share email addresses for this purpose. If you do not want to receive mailings from</p>
-<p>other reputable companies and prefer that we do not share any information with these companies, please send an email to privacy@nautilus.com.</p>
-<p>Our business partners may also use cookies on our Sites for the same general purposes identified in this Privacy Policy, including to improve their own marketing, products or services. Third parties may use cookies and other technologies to collect information about your online activities over time and across different websites. Companies that we share information with may use the information we provide to them, often in combination with their existing information, to provide you with more relevant advertising. You may opt out of receiving personalized advertisements from advertising companies that are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting http://www.networkadvertising.org/choices and http://www.aboutads.info/choices. We do not guarantee that all of the third parties we work with will honor the elections you make using those options, but we strive to work with third parties that do.</p>
+<p>THIRD PARTY MARKETERS AND OTHER BUSINESS PARTNERS</p>
+<p>From time to time, we make our mailing list and general shopping activity available to carefully screened companies whose products or services we believe will be of interest to you.</p>
+<p>Our business partners may use cookies on our Sites for the same general purposes identified in this Privacy Policy, including to improve their own marketing, products or services. Third parties may use cookies and other technologies to collect information about your online activities over time and across different websites. Companies that we share information with, including ad networks, may use the information we provide to them, often in combination with their existing information, to provide you with more relevant advertising, and to help us and third parties do the same. You may opt out of receiving personalized advertisements from advertising companies that are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting <a href="http://www.networkadvertising.org/choices" target="_blank">http://www.networkadvertising.org/choices</a> and <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a>. We do not guarantee that all of the third parties we work with will honor the elections you make using those options, but we strive to work with third parties that do.</p>
 <p>AGGREGATED AND ANONYMIZED DATA</p>
 <p>We may, and we may authorize third parties to, produce research reports and other information and data using your personal information by excluding information, or requiring the third party to exclude information, that makes the information identifiable. We may use and disclose, and authorize third parties to use and disclose, non-personally identifiable information at our discretion.</p>
 <p>SERVICE PROVIDERS</p>
 <p>From time to time, we employ other companies and individuals to perform various functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service.</p>
 <p>ONLINE FINANCING</p>
-<p>If you apply for credit on our Sites, your personal information may be shared with a credit agency(ies) and other parties as necessary for our business purposes in connection with such credit application. All credit decisions are subject to the policies set forth in the credit application.</p>
+<p>If you apply for credit through the Service, your personal information may be shared with a credit agency(ies) and other parties as necessary for our business purposes in connection with such credit application. All credit decisions are subject to the policies set forth in the credit application.</p>
 <p>SPECIAL EVENTS</p>
 <p>If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), we may share your information with those organizations participating in the applicable event.</p>
 <p>THE NAUTILUS FAMILY OF BRANDS AND COMPANIES</p>
@@ -681,40 +737,63 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 <p>OTHER PURPOSES</p>
 <p>We may use and share personal information for other purposes with your consent.</p>
 <p><strong>WHAT CHOICES DO I HAVE?</strong></p>
-<p>As discussed above, you can always choose not to provide information, although that might prevent us from personalizing our services for you or may prevent you from participating in a survey or sweepstakes or taking advantage of certain useful Site features. We will retain in our files information you have requested to delete in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use. Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems.</p>
-<p>If you do not want to receive informational or promotional information from us via phone, e-mail or mail, or want to review, delete, change or modify any of your personal information, you may do so by:</p>
+<p>As discussed above, you can always choose not to provide information, although that might prevent us from personalizing the Service for you or may prevent you from participating in a survey or sweepstakes or taking advantage of certain useful features of the Service. We will retain in our files information you have requested to delete in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use. Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems.</p>
+<p>If you do not want to receive informational or promotional information from us via phone, e-mail or mail, you may do so by:</p>
 <p>-Sending an e-mail to privacy@nautilus.com</p>
 <p>-Sending a written request to the following address:</p>
-<p>Nautilus, Inc. Attn: Customer Service - Privacy</p>
-<p>17750 SE 6th Way</p>
-<p>Vancouver, WA 98683</p>
+<p>Nautilus, Inc. Attn: Customer Service - Privacy<br>
+17750 SE 6th Way<br>
+Vancouver, WA 98683</p>
+<p>If you want to review, delete, change or modify any of your personal information, you may do so by:</p>
+<p>-Sending an e-mail to datainquiry@nautilus.com</p>
+<p>-Sending a written request to the following address:</p>
+<p>Nautilus, Inc. Attn: Customer Service - Privacy&gt;<br>
+17750 SE 6th Way<br>
+Vancouver, WA 98683</p>
 <p>You can also opt out of marketing or advertising emails by utilizing the “unsubscribe” link or mechanism noted in marketing or advertising you receive from us. In certain circumstances, as required by applicable law, we may require your prior opt-in consent at the time of data collection.</p>
 <p><strong>A SPECIAL NOTE ABOUT CHILDREN</strong></p>
-<p>Our Sites are not designed or intended for use by children under 13. If you are under 18, you should use our Sites only with involvement of a parent or guardian. Children under 13 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered any</p>
-<p>such information from a child under 13, we will take appropriate steps to delete it. Please visit the FTC's website at https://www.ftc.gov for tips on protecting children's privacy online.</p>
+<p>The Service is not designed or intended for use by children under 14. If you are under 18, you should use the Service only with involvement of a parent or guardian. Children under 14 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered any such information from a child under 14, we will take appropriate steps to delete it. Please visit the FTC's website at https://www.ftc.gov for tips on protecting children's privacy online.</p>
 <p><strong>YOUR CALIFORNIA PRIVACY RIGHTS</strong></p>
 <p>If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: Nautilus, Inc. Attn: Customer Service – California Privacy, 17750 SE 6th Way, Vancouver, WA 98683. Please allow up to 30 days for us to process your request. You may submit such a request once per year.</p>
 <p><strong>USERS OUTSIDE OF THE UNITED STATES</strong></p>
-<p>If you are a user of our Sites outside of the United States, by using our Sites and/or providing us with information, you acknowledge and agree that your personal information may be processed for the purposes identified in the Privacy Policy. In addition, your personal information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country, and where governments, courts or law enforcement or regulatory agencies in those other countries may be able to obtain disclosure of that personal information through the laws of those countries. By providing your information, you consent to your personal information being used in this way.</p>
+<p>If you are a user of the Service outside of the United States, by using the Service and/or providing us with information, you acknowledge and agree that your personal information may be processed for the purposes identified in the Privacy Policy. In addition, your personal information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country, and where governments, courts or law enforcement or regulatory agencies in those other countries may be able to obtain disclosure of that personal information through the laws of those countries. By providing your information, you consent to your personal information being used in this way.</p>
 <p><strong>UPDATES TO THIS PRIVACY POLICY</strong></p>
 <p>As this Privacy Policy may be modified from time-to-time, you should check this Privacy Policy frequently for any such changes. When we make material changes to this Privacy Policy, we will notify you by posting the updated Privacy Policy on our website, and we will update the effective date at the end of this Privacy Policy. Our use of information gathered or obtained at any time is subject to the Privacy Policy in effect at the time of such use, as permitted by law.</p>
-<p><strong>LINKS TO THIRD PARTIES</strong></p>
-<p>Our Sites may provide links to other Internet sites, content or videos (embedded or direct links) maintained by third parties. We are not responsible for the sites, content, or videos accessed via the links, and we have not reviewed the privacy practices of those third parties. We encourage you to review the privacy practices of those third parties.</p>
+<p><strong>LINKS TO THIRD PARTIES; THIRD PARTY SYNCHING</strong></p>
+<p>The Service may provide links to other Internet sites, content or videos (embedded or direct links) maintained by third parties. We are not responsible for the sites, content, or videos accessed via the links, and we have not reviewed the privacy practices of those third parties. We encourage you to review the privacy practices of those third parties.</p>
+<p>In addition you may be able to sync, or allow a third party to sync, certain Nautilus equipment with third party applications or software in order to share data collected on the equipment with such third party. We are not responsible for such third parties' use of your shared data. We encourage you to review the privacy practices of those third parties before allowing them to synch with your equipment.</p>
 <p><strong>QUESTIONS AND CONTACT INFORMATION</strong></p>
-<p>If you have any questions about this Privacy Policy or the Site, please contact us by:</p>
+<p>If you have any questions about this Privacy Policy or the Service, please contact us by:</p>
 <p>-Sending an e-mail to privacy@nautilus.com</p>
 <p>-Sending a written request to the following address:</p>
 <p>Nautilus, Inc. Attn: Customer Service - Privacy</p>
 <p>17750 SE 6th Way</p>
 <p>Vancouver, WA 98683</p>
-<p>This Privacy Policy was last modified on 12/14/17.</p>
+<p><strong>TERMS APPLICABLE TO DATA FROM CANADA</strong></p>
+<p>If we collect personal information from Canadian residents, in addition to the above, the following terms shall also apply to our collection, use and retention of that information:</p>
+<p>You have the right to obtain a copy of the personal information we have about you, although we reserve the right to charge a reasonable fee for this depending on the nature and frequency of your request(s) and our cost to provide the information.</p>
+<p><strong>TERMS APPLICABLE TO DATA FROM EU MEMBER COUNTRIES</strong></p>
+<p>We are based in the United States. In most cases, the personal information we collect is stored and used in the United States.</p>
+<p>If we collect personal information from EU residents in a manner subject to the European Union’s General Data Protection Regulation (“GDPR”) then, in addition to the above, the following terms shall also apply to our collection, use and retention of that information:</p>
+<p>Basis for Collection. As set out above, we collect and process personal information for which you have given your express consent. We also collect and process personal information in order to improve our services, to deliver services and perform obligations under contracts we have with you, and to comply with our own legal obligations.</p>
+<p>HEALTH AND OTHER SPECIAL CATEGORIES OF PERSONAL DATA. To the extent that information we collect is health data or another special category of personal data subject to the GDPR, we ask for your explicit consent to process such data. We obtain this consent separately when you take actions leading to our obtaining such data, for example, when you download one of our applications. You can withdraw your consent at any time, including by removing our access to a third-party service, unpairing your device, using your account settings or tools, or emailing us at privacy@nautilus.com.</p>
+<p>Onward Transfer. Except as otherwise provided in this Privacy Policy, we only disclose personal information to third parties who reasonably need to have access to it for the purpose of the transaction or activity for which it was originally collected or to provide services to or perform tasks on our behalf or under our instruction. All such third parties must agree to use such personal information we provide to them only for the purposes for which we have engaged them and they must either: (a) comply with the EU-US Privacy Shield Principles or another mechanism permitted by the applicable EU &amp; Swiss data protection law(s) for transfers and processing of personal information; or (b) agree to provide adequate protections for the personal information that are no less protective than those set out in this Privacy Policy. Where we have knowledge that an entity to whom we have provided personal information is using or disclosing personal information in a manner contrary to this Privacy Policy, we will take reasonable and appropriate steps to prevent, remediate or stop the use or disclosure.</p>
+<p>Authorized Transfer. We also may disclose personal information for other purposes or to other third parties when you have consented to or requested such disclosure. Please be aware that we will disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We are not liable for appropriate onward transfers of personal information to third parties.</p>
+<p>Data Processors. We may retain third parties to process or analyze personal information we collect from the Service. For example, the Sites may be maintained or hosted by a third party service provider, a promotion may be administered by a sales promotion agency, and/or products may be fulfilled by a wholesaler. These suppliers and other third parties who provide services for us are contractually obligated not to use personal information about you except as we authorize.</p>
+<p>Profiling. We may analyze personal information we have collected about you to create a profile of your interests and preferences so that we can contact you with information that is relevant to you. We may make use of additional information about you when it is available from external sources to help us do this effectively. We may also use personal information about you to detect and reduce fraud and credit risk.</p>
+<p>Your Rights. Your rights include: (a) a right to withdraw your consent to the processing of personal information about you to which you have previously given consent; (b) a right to object to processing of personal information about you for the purpose of direct marketing; and (c) a right to have personal information about you corrected or removed.</p>
+<p>If you request to have personal information removed, we may retain some of your personal information as necessary for the purposes of our legitimate business interests or in furtherance of public interests in accordance with applicable law. Any personal information you have shared publicly with others may continue to be publicly visible on the Service.</p>
+<p>You also have the right to obtain a copy of the personal information we have about you, although we reserve the right to charge a reasonable fee for this depending on the nature and frequency of your request(s) and our cost to provide the information.</p>
+<p>Questions and Complaints. If you have questions or complaints regarding this Privacy Policy or our handing of personal information about you, please contact privacy@nautilus.com. We will promptly investigate and attempt to resolve complaints and disputes in a manner that complies with the principles described in this Privacy Policy.</p>
+<p>Enforcement and Disputes: In addition to the above, you may complain to your home data protection authority and can invoke binding arbitration for some residual claims not resolved by other redress mechanisms. Contact details for the EU data protection authorities can be found at http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.</p>
+<p>This Privacy Policy was last modified on May 1, 2019.</p>
 </div> 
 </div>
 </div>
 </div>
 <div class="btn-top">
 <svg class="icon arrow-backtotop" alt="" role="presentation">
-<use xlink:href="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#arrow-backtotop"></use>
+<use xlink:href="https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Images-Show#arrow-backtotop"></use>
 </svg></div>
 <footer>
 <div class="footer-banner">
@@ -727,60 +806,70 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 <li class="equal-cols-standard">
 <h5>Purchasing Info</h5>
 <ul class="links">
-<li><a href="http://www.bowflex.com/financing.html">Financing</a></li>
-<li><a href="http://www.bowflex.com/customer-service/shipping-information.html">Shipping Information</a></li>
-<li><a href="http://www.bowflex.com/customer-service/return-policy.html">Return Policy</a></li>
-<li><a href="http://www.bowflex.com/protection-plan.html">Protection Plan</a></li>
-<li><a href="http://www.bowflex.com/new-year-sale.html">Bowflex Offers</a></li>
-<li><a href="http://www.bowflex.com/about-bowflex.html">About Us</a></li>
+<li><a href="https://www.bowflex.com/financing.html">Financing</a></li>
+<li><a href="https://www.bowflex.com/customer-service/shipping-information.html">Shipping Information</a></li>
+<li><a href="https://www.bowflex.com/customer-service/return-policy.html">Return Policy</a></li>
+<li><a href="https://www.bowflex.com/protection-plan.html">Protection Plan</a></li>
+<li><a href="https://www.bowflex.com/sale.html">Beat The Heat Sale</a></li>
+<li><a href="https://www.bowflex.com/about-bowflex.html">About Us</a></li>
 </ul>
 </li>
 <li class="equal-cols-standard">
 <h5>Customer Support</h5>
 <ul>
-<li><a href="http://www.bowflex.com/customer-service/customer-service.html">Customer Service</a></li>
-<li><a href="http://www.bowflex.com/customer-service/contact-us.html">Contact Us</a></li>
-<li><a href="http://www.bowflex.com/order-status">Check Order Status</a></li>
-<li><a href="http://www.bowflex.com/customer-service/faq.html">FAQs</a></li>
-<li><a href="http://www.bowflex.com/press.html">Press</a></li>
-<li><a href="http://www.bowflex.com/awards.html">Awards</a></li>
-<li><a href="http://www.bowflex.com/share-your-success-story.html">Share Your Success Story</a></li>
-<li><a href="http://www.bowflex.com/affiliate.html">Affiliate Program</a></li>
+<li><a href="https://www.bowflex.com/customer-service/customer-service.html">Customer Service / Contact Us</a></li>
+<li><a href="https://www.bowflex.com/order-status">Check Order Status</a></li>
+<li><a href="https://www.bowflex.com/customer-service/faq.html">FAQs</a></li>
+<li><a href="https://www.bowflex.com/press.html">Press</a></li>
+<li><a href="https://www.bowflex.com/awards.html">Awards</a></li>
+<li><a href="https://www.bowflex.com/affiliate.html">Affiliate Program</a></li>
+<li><a href="https://www.bowflex.com/accessibility.html">Accessibility Statement</a></li>
 </ul>
 </li>
 <li class="equal-cols-standard">
 <h5>Product Info &amp; Support</h5>
 <ul>
-<li><a href="http://www.bowflex.com/apps.html">Apps</a></li>
-<li><a href="http://www.bowflex.com/infokit">Request an Info Kit</a></li>
-<li><a href="http://www.bowflex.com/catalog-request">Request a Catalog</a></li>
-<li><a href="http://www.bowflex.com/getting-started.html">Getting Started Videos</a></li>
-<li><a href="http://www.bowflex.com/customer-service/manuals.html">Product Manuals</a></li>
-<li><a href="http://www.bowflex.com/replacement-parts/">Replacement Parts</a></li>
+<li><a href="https://www.bowflex.com/apps.html">Apps</a></li>
+<li><a href="https://www.bowflex.com/request-info">Request Info</a></li>
+<li><a href="https://www.bowflex.com/catalog-request">Request a Catalog</a></li>
+<li><a href="https://www.bowflex.com/getting-started.html">Getting Started Videos</a></li>
+<li><a href="https://www.bowflex.com/customer-service/manuals.html">Product Manuals</a></li>
+<li><a href="https://www.bowflex.com/customer-service/product-registration.html">Product Registration</a></li>
+<li><a href="https://www.bowflex.com/replacement-parts/">Replacement Parts</a></li>
 <li><a target="_blank" href="http://www.nautilusinc.com/customer-relations/safety-notices/">Safety Notices</a></li>
 </ul>
 </li>
 <li class="equal-cols-standard">
+<div class="content-asset">
 <h5>Connect with Us</h5>
 <p>Get the latest news and offers from Bowflex.</p>
+</div> 
 <div class="footer-email-signup-form">
-<form class="footer-emailsignup-form" name="footer-emailsignup-form" method="post" action="http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/EmailSubscription-LeadOptIn">
+<form class="footer-emailsignup-form" name="xfooter-emailsignup-form" id="xfooteremailsignupform" method="post" action="/on/demandware.store/Sites-bowflex-Site/en_US/EmailSubscription-LeadOptIn">
 <label for="footer-email" class="footer-email-input-label"></label>
 <input class="footer-email-input" type="email" name="email" id="footer-email" placeholder="Enter email address" value="">
-<button type="submit" value="Sign up"></button>
+<div class="grcapcontainer"></div>
+<button type="submit" id="xfooteremailsignupformsubmit" class="configrecaptcha" value="Sign up"></button>
 </form>
 <div style="display: none;" class="footer-subscription-message"></div>
+<div class="content-asset">
+<div class="recaptcha-privacy-terms">
+This site is protected by reCAPTCHA and the Google
+<a href="https://policies.google.com/privacy">Privacy Policy</a> and
+<a href="https://policies.google.com/terms">Terms of Service</a> apply.
+</div>
+</div> 
 </div>
 <div class="footer-social" itemscope="" itemtype="http://schema.org/Organization">
-<link itemprop="url" href="http://www.bowflex.com">
-<a href="https://www.facebook.com/Bowflex/" target="_blank" title="Facebook" itemprop="sameAs"><img alt="Facebook" src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw3df6665f/global/facebook.svg"></a>
-<a href="https://instagram.com/bowflex/" target="_blank" title="Instagram" itemprop="sameAs"><img alt="Instagram" src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw1c62ef77/global/instagram.svg"></a>
-<a href="https://twitter.com/Bowflex" target="_blank" title="Twitter" itemprop="sameAs"><img alt="Twitter" src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw5808babb/global/twitter.svg"></a>
-<a href="https://www.youtube.com/user/BowflexStories" target="_blank" title="YouTube" itemprop="sameAs"><img alt="YouTube" src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw88acdb42/global/youtube.svg"></a>
-<a href="https://www.pinterest.com/bowflex/" target="_blank" title="Pinterest" itemprop="sameAs"><img alt="Pinterest" src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dwbf66a64a/global/pinterest.svg"></a>
+<link itemprop="url" href="https://www.bowflex.com">
+<a href="https://www.facebook.com/Bowflex/" target="_blank" title="Facebook" itemprop="sameAs"><img alt="Facebook" src="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw3df6665f/global/facebook.svg"></a>
+<a href="https://instagram.com/bowflex/" target="_blank" title="Instagram" itemprop="sameAs"><img alt="Instagram" src="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw2ab6c6ac/global/instagram.svg"></a>
+<a href="https://twitter.com/Bowflex" target="_blank" title="Twitter" itemprop="sameAs"><img alt="Twitter" src="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw5808babb/global/twitter.svg"></a>
+<a href="https://www.youtube.com/user/BowflexStories" target="_blank" title="YouTube" itemprop="sameAs"><img alt="YouTube" src="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw88acdb42/global/youtube.svg"></a>
+<a href="https://www.pinterest.com/bowflex/" target="_blank" title="Pinterest" itemprop="sameAs"><img alt="Pinterest" src="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dwbf66a64a/global/pinterest.svg"></a>
 </div>
 <div class="bowflex-insider">
-<a href="http://www.bowflex.com/blog"><img alt="Bowflex Insider" src="http://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw123f48e6/global/bowflex-insider.svg" title="Bowflex Insider"></a>
+<a href="https://www.bowflex.com/blog"><img alt="Bowflex Insider" src="https://www.bowflex.com/on/demandware.static/-/Library-Sites-bowflexShared/default/dw123f48e6/global/bowflex-insider.svg" title="Bowflex Insider"></a>
 </div>
 </li>
 </ul>
@@ -788,17 +877,17 @@ Offers only valid within the 48 contiguous states of the continental U.S. We reg
 <div class="footer-utility">
 <ul>
 <li><a target="_blank" href="http://www.bowflexinternational.com">International</a></li>
-<li><a href="http://www.bowflex.com/global-assets/legal/privacy-policy.html">Privacy Policy</a></li>
-<li class="footer-utility-links-last"><a href="http://www.bowflex.com/global-assets/legal/terms-of-use.html">Terms of Use</a></li>
+<li><a href="https://www.bowflex.com/global-assets/legal/privacy-policy.html">Privacy Policy</a></li>
+<li class="footer-utility-links-last"><a href="https://www.bowflex.com/global-assets/legal/terms-of-use.html">Terms of Use</a></li>
 </ul>
 <div class="copyright">
-Copyright © 2017 <a href="http://www.nautilusinc.com" target="_blank">Nautilus Inc</a>. All Rights Reserved.
+Copyright © 2019 <a href="http://www.nautilusinc.com" target="_blank">Nautilus Inc</a>. All Rights Reserved.
 </div>
 </div>
 </div>
 </footer>
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -807,22 +896,21 @@ Copyright © 2017 <a href="http://www.nautilusinc.com" target="_blank">Nautilus 
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty:","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","INVALID_CARD_NUMBER":"Invalid Credit Card Number","INVALID_CVN_NUMBER":"Invalid CVN","INVALID_ADDRESS1":"We do not ship to PO Boxes or APO/FPO addresses","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","BREAKPOINT_SMALL_MAX":768,"BREAKPOINT_TABLET_MAX":1025,"BREAKPOINT_MOBILE_MAX":480,"IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-bowflex-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-bowflex-Site/en_US/Page-Include","continueUrl":"http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Page-Show/C1745222024","staticPath":"/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/","addGiftCert":"/on/demandware.store/Sites-bowflex-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-bowflex-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/cart-add","minicart":"/on/demandware.store/Sites-bowflex-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/PaymentInstruments-List","addressesList":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Address-List","wishlistAddress":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-bowflex-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-bowflex-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-bowflex-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-bowflex-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-Productnav","summaryRefreshURL":"/update-summary","billingSelectCC":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-bowflex-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-bowflex-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-bowflex-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-bowflex-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-bowflex-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-bowflex-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-bowflex-Site/en_US/Page-Include?cid=cookie_hint","landingCompareUrl":"/compare","sendQuoteUrl":"/on/demandware.store/Sites-bowflex-Site/en_US/NautilusServices-CheckoutSendQuote","updateShippingAddress":"/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-UpdateShippingAddressAJAX","pageShow":"/on/demandware.store/Sites-bowflex-Site/en_US/Page-Show","coCustomerStart":"/on/demandware.store/Sites-bowflex-Site/en_US/COCustomer-Start","coShippingStart":"/shipping","coBillingStart":"/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-Start","leadEmails":"/on/demandware.store/Sites-bowflex-Site/en_US/Page-InfoKitResponse","thankyou":"/thank-you-page.html"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"COOKIE_HINT":false,"ADOBE_DTM_ENABLED":true};
-window.User = {"zip":null,"storeId":null,"geolocation":{"city":"Redmond","countryCode":"US","countryName":"United States","latitude":47.6801,"longitude":-122.1206,"postalCode":"98052","regionCode":"WA","regionName":"Washington"}};
-window.Scripts = {"useMin":false,"storeLocator":{"vars":{"zoomradius":"{\"0\": 600000,\"1\": 600000,\"2\": 10000,\"3\": 6000,\"4\": 3000,\"5\": 1600,\"6\": 800,\"7\": 300,\"8\": 150,\"9\": 100,\"10\": 70,\"11\": 40,\"12\": 20,\"13\": 10,\"14\": 5,\"15\": 3,\"16\": 3,\"17\": 3,\"18\": 3,\"19\": 3,\"20\": 3}","storeurl":"/on/demandware.store/Sites-bowflex-Site/en_US/Stores-Details?StoreID=","markerurl":"http://www.bowflex.com/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/images/marker.png","markerdetailurl":"http://www.bowflex.com/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/images/markerdetail.png","queryurl":"/on/demandware.store/Sites-bowflex-Site/en_US/Stores-GetNearestStores","cookieurl":"/on/demandware.store/Sites-bowflex-Site/en_US/Stores-SetGeoLocation","cookiename":"LEACustomerLocation","defaultlocation":"United States","maptype":"ROADMAP"}}};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","INVALID_EMAIL_ALTERNATE":"Please use a valid email address format.","REMOVE":"Remove","QTY":"Qty:","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","INVALID_CARD_NUMBER":"Invalid Credit Card Number","INVALID_CVN_NUMBER":"Invalid CVN","INVALID_ADDRESS1":"We do not ship to PO Boxes or APO/FPO addresses","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","BREAKPOINT_SMALL_MAX":768,"BREAKPOINT_TABLET_MAX":1025,"BREAKPOINT_MOBILE_MAX":480,"READ_REVIEWS":"Read Reviews","ENTER_LESSER_VALUE":"Please enter a value less than or equal to 10.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-bowflex-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-bowflex-Site/en_US/Page-Include","continueUrl":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Page-Show/C722222619","staticPath":"/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/","addGiftCert":"/on/demandware.store/Sites-bowflex-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-bowflex-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/cart-add","minicart":"/on/demandware.store/Sites-bowflex-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/PaymentInstruments-List","addressesList":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Address-List","wishlistAddress":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-bowflex-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-bowflex-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-bowflex-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-bowflex-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-bowflex-Site/en_US/Product-Productnav","summaryRefreshURL":"/update-summary","billingSelectCC":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-bowflex-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-bowflex-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-bowflex-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-bowflex-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-bowflex-Site/en_US/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-bowflex-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-bowflex-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-bowflex-Site/en_US/Page-Include?cid=cookie_hint","landingCompareUrl":"/compare","sendQuoteUrl":"/on/demandware.store/Sites-bowflex-Site/en_US/NautilusServices-CheckoutSendQuote","updateShippingAddress":"/on/demandware.store/Sites-bowflex-Site/en_US/COShipping-UpdateShippingAddressAJAX","pageShow":"/on/demandware.store/Sites-bowflex-Site/en_US/Page-Show","coCustomerStart":"/on/demandware.store/Sites-bowflex-Site/en_US/COCustomer-Start","coShippingStart":"/shipping","coBillingStart":"/on/demandware.store/Sites-bowflex-Site/en_US/COBilling-Start","leadEmails":"/on/demandware.store/Sites-bowflex-Site/en_US/Page-InfoKitResponse","thankyou":"/thank-you-page.html","showProductSubscription":"https://www.bowflex.com/select-subscription","emailForm":"/on/demandware.store/Sites-bowflex-Site/en_US/EmailForm-Start"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"COOKIE_HINT":false,"ADOBE_DTM_ENABLED":true,"SUBS_ORDER_REVIEW_DEFAULT_OPTIN":false};
+window.User = {"zip":null,"storeId":null,"geolocation":{"city":"North Olmsted","countryCode":"US","countryName":"United States","latitude":41.4136,"longitude":-81.9031,"postalCode":"44070","regionCode":"OH","regionName":"Ohio"}};
+window.Scripts = {"useMin":false,"storeLocator":{"vars":{"zoomradius":"{\"0\": 600000,\"1\": 600000,\"2\": 10000,\"3\": 6000,\"4\": 3000,\"5\": 1600,\"6\": 800,\"7\": 300,\"8\": 150,\"9\": 100,\"10\": 70,\"11\": 40,\"12\": 20,\"13\": 10,\"14\": 5,\"15\": 3,\"16\": 3,\"17\": 3,\"18\": 3,\"19\": 3,\"20\": 3}","storeurl":"/on/demandware.store/Sites-bowflex-Site/en_US/Stores-Details?StoreID=","markerurl":"https://www.bowflex.com/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/images/marker.png","markerdetailurl":"https://www.bowflex.com/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/images/markerdetail.png","queryurl":"/on/demandware.store/Sites-bowflex-Site/en_US/Stores-GetNearestStores","cookieurl":"/on/demandware.store/Sites-bowflex-Site/en_US/Stores-SetGeoLocation","cookiename":"LEACustomerLocation","defaultlocation":"United States","maptype":"ROADMAP"}},"googleRecaptcha":{"key":"6LdYMaYUAAAAANznmiW20H5EN_dx2uK7jC6chX0L","enableLog":false}};
 window.FormValidation = {"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","creditcard":"Please enter a valid credit card number.","equalTo":"Please enter the same value again.","accept":"Please enter a value with a valid extension","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}."};
 }());</script>
-<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/js/responsive.js"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/js/responsive.js"></script>
 <script type="text/javascript">
 if (window.jQuery) {
 jQuery(document).ready(function(){
@@ -844,23 +932,32 @@ window.location.reload();
 });
 }
 </script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/jquery.matchHeight.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/jquery.fittext.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/jquery.selectify.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/uniform/jquery.uniform.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/elevate-zoom/jquery.elevateZoom-3.0.8.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/picturefill.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/jquery.matchHeight.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/jquery.fittext.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/jquery.selectify.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/uniform/jquery.uniform.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/elevate-zoom/jquery.elevateZoom-3.0.8.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/picturefill.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js"></script>
 <script>
 picturefill();
 </script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/owl-carousel/owl.carousel.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/lib/jquery/svg/svg4everybody.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/js/powerreviews.js"></script>
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/js/app.min.js"></script>
-<script>pageContext = {};</script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/owl-carousel/owl.carousel.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/lib/jquery/svg/svg4everybody.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/js/app.min.js"></script>
+<script>
+var rungcaplib = function() {
+gcaplib.start(Scripts.googleRecaptcha.key, Scripts.googleRecaptcha.enableLog);
+};
+</script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=rungcaplib" async="" defer=""></script>
+<script>
+
+</script>
+<script>pageContext = {"title":"Content","type":"Content","ns":"content"};</script>
 <script>
 var meta = "Learn more about the Bowflex privacy policy.";
 var keywords = "";
@@ -875,7 +972,7 @@ var keywords = "";
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/__Analytics-Tracking";
+        var trackingUrl = "https://www.bowflex.com/on/demandware.store/Sites-bowflex-Site/en_US/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -887,10 +984,19 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1515201860650/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+if (!window.dw) dw = {};
+dw.applepay = {"action":{"cancel":"https:\/\/www.bowflex.com\/on\/demandware.store\/Sites-bowflex-Site\/en_US\/__SYSTEM__ApplePay-Cancel","getRequest":"https:\/\/www.bowflex.com\/on\/demandware.store\/Sites-bowflex-Site\/en_US\/__SYSTEM__ApplePay-GetRequest","onshippingcontactselected":"https:\/\/www.bowflex.com\/on\/demandware.store\/Sites-bowflex-Site\/en_US\/__SYSTEM__ApplePay-ShippingContactSelected","onpaymentmethodselected":"https:\/\/www.bowflex.com\/on\/demandware.store\/Sites-bowflex-Site\/en_US\/__SYSTEM__ApplePay-PaymentMethodSelected","onvalidatemerchant":"https:\/\/www.bowflex.com\/on\/demandware.store\/Sites-bowflex-Site\/en_US\/__SYSTEM__ApplePay-ValidateMerchant","onpaymentauthorized":"https:\/\/www.bowflex.com\/on\/demandware.store\/Sites-bowflex-Site\/en_US\/__SYSTEM__ApplePay-PaymentAuthorized","prepareBasket":"https:\/\/www.bowflex.com\/on\/demandware.store\/Sites-bowflex-Site\/en_US\/__SYSTEM__ApplePay-PrepareBasket","onshippingmethodselected":"https:\/\/www.bowflex.com\/on\/demandware.store\/Sites-bowflex-Site\/en_US\/__SYSTEM__ApplePay-ShippingMethodSelected"},"inject":{"directives":[{"css":"dw-apple-pay-button","query":"ISAPPLEPAY","action":"replace","copy":true}]}};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-bowflex-Site/-/en_US/v1564015622480/internal/jscript/applepay.js" async="true"></script>
 
 
 </body></html>
