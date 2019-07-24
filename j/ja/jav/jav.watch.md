@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jav.watch privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206204835id_/https%3A//jav.watch/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jav.watch privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724185032id_/https%3A//jav.watch/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
