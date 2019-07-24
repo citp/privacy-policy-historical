@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307054127id_/https%3A//www.chefscatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724023009id_/https%3A//www.chefscatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,4 +35,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-833-462-2433 (1-833-IMACHEF) or via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ceff9fff8e3e1e9feffe9fefae5efe9ccefe4e9eaffefedf8ede0e3eba2efe3e1).
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-833-462-2433 (1-833-IMACHEF) or via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#61021412150e0c041312041317080204210209040712020015000d0e064f020e0c).
