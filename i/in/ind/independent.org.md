@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331080452id_/http%3A//www.independent.org/site-map/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.org privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724020921id_/http%3A//www.independent.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy of the Independent Institute
 
@@ -6,17 +6,18 @@ The Independent Institute knows that you care how information about you is used 
 
 **What Personal Information Does The Independent Institute Gather?**
 
-  * Purchase infomation: We receive and store information you enter on our Web site through if you make purchases in the [Store](https://web.archive.org/store/) section. We use the information that you provide for such purposes as responding to your requests, shipping ordered items to your address, and communicating with you.
-  * E-mail Communications: To help us keep in contact with our users, we send a number of email alerts to our subscribers including [The Lighthouse](https://web.archive.org/publications/the_lighthouse/), our weekly email newsletter, as well as announcements of upcoming events, new articles, and publications. To subscribe, please enter your email address on the left side of this page under the “Stay Connected” box, click “Subscribe”, and then follow the instructions on the subsequent page. To unsubscribe, please click the Unsubscribe link at the bottom of any email you receive from us.
+  * Purchase infomation: We receive and store information you enter on our Web site through if you make purchases in the [**Store**](https://web.archive.org/store/) section. We use the information that you provide for such purposes as responding to your requests, shipping ordered items to your address, and communicating with you.
+  * E-mail Communications: To help us keep in contact with our users, we send a number of email alerts to our subscribers including [**_The Lighthouse_**](https://web.archive.org/publications/the_lighthouse/), our weekly email newsletter, as well as announcements of upcoming events, new articles, and publications. To subscribe, please enter your email address on the left side of this page under the “Stay Connected” box, click “Subscribe”, and then follow the instructions on the subsequent page. To unsubscribe, please click the Unsubscribe link at the bottom of any email you receive from us.
   * Events: Certain events we hold require you to RSVP through the website if you wish to attend. We use the information that you provide to respond to your request, and to communicate with you about future events.
-  * If you contact us using the [email webform](https://web.archive.org/aboutus/emailform.asp), buy a product in the store, or make a donation, we may add your email address to be a recipient of _The Lighthouse_ , our free weekly email newsletter, as well as various other email alerts. To opt out of these mailings, please click the “Update your Preferences” link at the bottom of any email message to customize which mailings you wish to receive, or unsubscribe completely by clicking the “Unsubscribe” link.
-  * The MyCovCost calculator, accessible at [MyGovCost.org](http://www.mygovcost.org/) and through the MyGovCost mobile iPhone app asks for visitors' age, income, and education and uses this information to calculate the visitor’s share of government spending. Submissions are recorded for aggregated statistical purposes, but not in a way that personally identifies any user.
+  * If you contact us using the [**email webform**](https://web.archive.org/aboutus/emailform.asp), buy a product in the store, or make a donation, we may add your email address to be a recipient of _The Lighthouse_ , our free weekly email newsletter, as well as various other email alerts. To opt out of these mailings, please click the “Update your Preferences” link at the bottom of any email message to customize which mailings you wish to receive, or unsubscribe completely by clicking the “Unsubscribe” link.
+  * The MyCovCost calculator, accessible at [**MyGovCost.org**](http://www.mygovcost.org/) and through the MyGovCost mobile iPhone app asks for visitors' age, income, and education and uses this information to calculate the visitor’s share of government spending. Submissions are recorded for aggregated statistical purposes, but not in a way that personally identifies any user.
 
 
 
 **Does The Independent Institute Share the Information It Receives with any Third Party?**
 
-  * No
+  * We do not share lists of email addresses with any outside organization.
+  * We occasionally share our postal mailing list of donors and _Independent Review_ subscribers with other organizations in exchange for access to their mailing lists. The process is carefully monitored and saves us significant amounts of money compared to renting or buying lists. If you prefer that your information not be shared, please call us at (510) 632-1366, and we will exclude you from our list-sharing activities. 
 
 
 
