@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305224812id_/https%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724193851id_/https%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
 
-# JamPlay.com Privacy Policy
+# JamPlay Privacy Policy
 
 ### Effective Date: August 16th, 2017
 
 ### Information about our Organization and Web site
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like JamPlay LLC ("JamPlay"). We are based in the United States, and our principal activity distributing guitar lessons via online videos and teaching tools. Our privacy policy covers JamPlay, LLC the www.JamPlay.com website. This privacy policy describes how JamPlay, LLC collects and uses the personal data you provide on our web site: http://www.jamplay.com.
+Modern information and communication technologies play a fundamental role in the activities of an organization like JamPlay LLC ("JamPlay"). We are based in the United States, and our principal activity distributing [guitar lessons](https://web.archive.org/guitar-lessons) via online videos and teaching tools. Our privacy policy covers JamPlay, LLC the www.JamPlay.com website. This privacy policy describes how JamPlay, LLC collects and uses the personal data you provide on our web site: http://www.jamplay.com.
 
 It also describes the choices available to you regarding our use of your personal data and how you can access and update this information.
 
@@ -51,7 +51,7 @@ Jamplay and its partners use cookies or similar technologies to analyze trends, 
 
 ### Behavioral Targeting/Re-targeting
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 ### Data Collection and Purpose Specification
 
@@ -79,7 +79,7 @@ We do not disclose your personal data to our subsidiaries or other organizations
 
 ### Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you want to update or delete your testimonial, please [contact us](https://web.archive.org/customers/contact).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you want to update or delete your testimonial, please [contact us](https://web.archive.org/company/contact-us).
 
 ### Links to Other Web Sites
 
@@ -123,7 +123,7 @@ If JamPlay LLC is involved in a merger, acquisition, or sale of all or a portion
 
 Upon request Jamplay will provide you with information about whether we hold any of your personal information. If you wish to access your personal data, update, delete, or have an enquiry about our privacy policy, please contact us:
 
-  * sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * sending an email to support@jamplay.com
   * calling us at 1-877-999-4526
 
 
