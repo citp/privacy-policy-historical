@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summertimesaga.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216122103id_/http%3A//summertimesaga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summertimesaga.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724162140id_/https%3A//summertimesaga.com/privacy) for the most accurate reproduction.*
 
 # Summertime Saga - Privacy Policy
 
