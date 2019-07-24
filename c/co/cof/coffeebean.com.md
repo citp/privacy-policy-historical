@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520015746id_/https%3A//www.coffeebean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724171949id_/https%3A//www.coffeebean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Coffee Bean & Tea Leaf
 
