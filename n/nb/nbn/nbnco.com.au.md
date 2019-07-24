@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528113040id_/https%3A//www.nbnco.com.au/utility/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724153330id_/https%3A//www1.nbnco.com.au/utility/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | nbn - Australia's broadband access network
+# Privacy policy | nbn
 
 ### 1\. About us
 
