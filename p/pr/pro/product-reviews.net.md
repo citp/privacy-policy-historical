@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the product-reviews.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417145613id_/https%3A//www.product-reviews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the product-reviews.net privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724193139id_/https%3A//www.product-reviews.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Product Reviews Net
 
