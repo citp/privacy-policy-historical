@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasinc.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611013820id_/https%3A//vegasinc.lasvegassun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasinc.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724192232id_/https%3A//vegasinc.lasvegassun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VEGAS INC
 
