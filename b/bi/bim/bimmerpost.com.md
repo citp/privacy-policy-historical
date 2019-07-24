@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bimmerpost.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403012927id_/http%3A//www.bimmerpost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bimmerpost.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724101639id_/http%3A//www.bimmerpost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ By visiting our sites and services, you consent to the placement of cookies and 
 
 You can opt-out of being targeted by certain third party advertising companies online by visiting the Network Advertising Initiative, Omniture, Aperture, PrivacyChoice, and/or Digital Advertising Alliance. 
 
-We currently do not respond to "Do Not Track" browser signals. Accordingly, your navigation on our sites and services may be tracked as part of our efforts to gather user information described above. If you arrive at our sites and services by way of a link from a third-party site that does respond to â€œDo Not Trackâ€ browser signals, such â€œDo Not Trackâ€ browser signal recognition will end as soon as you reach our sites and services. 
+We currently do not respond to "Do Not Track" browser signals. Accordingly, your navigation on our sites and services may be tracked as part of our efforts to gather user information described above. If you arrive at our sites and services by way of a link from a third-party site that does respond to “Do Not Track” browser signals, such “Do Not Track” browser signal recognition will end as soon as you reach our sites and services. 
 
 **Does BIMMERPOST Share the Information It Receives?**   
 Information security about our users is important to us, and we are not in the business of selling it to others. We do not share user information with anyone, with the following exceptions: 
