@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523185437id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724225328id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever.com - Watch High Quality Sports Streaming | UFC Fight Night 152 | Rafael dos Anjos vs Kevin Lee | Deontay Wilder vs Dominic Breazeale | Billy Joe Saunders vs Sefat Isufi | Napoli vs Inter
+# LiveTv4Ever.com - Watch High Quality Sports Streaming | World Cup 2019 | Copa America 2019 | Uruguay vs Peru | England vs India | Wimbledon 2019
 
 **General**
 
