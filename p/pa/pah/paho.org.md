@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paho.org privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524080656id_/https%3A//www.paho.org/hq/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3201%26Itemid%3D2410%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paho.org privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724203257id_/https%3A//www.paho.org/hq/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3201%26Itemid%3D2410%26lang%3Den) for the most accurate reproduction.*
 
 # PAHO/WHO | PAHO Website Privacy Policy
 
