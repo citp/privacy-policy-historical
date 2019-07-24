@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slowcookergourmet.net privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208161446id_/https%3A//slowcookergourmet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowcookergourmet.net privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724153333id_/https%3A//slowcookergourmet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Slow Cooker Gourmet
 
@@ -110,3 +110,7 @@ CONTACT INFORMATION
 At any time, please contact us at slowcookergourmet@gmail.com for questions related to this Privacy Policy.
 
 Last updated: May 17, 2018.
+
+### Love EASY recipes as much as we do?
+
+Let's join forces to ditch processed food and expensive take-out! Who's ready to create simple recipes at home using wholesome ingredients? Join me for EASY to make, family approved recipes every week and get my free guide!
