@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saleen.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308220413id_/http%3A//saleen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saleen.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724184056id_/https%3A//www.saleen.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Saleen
 
