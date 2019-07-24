@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sysprobs.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906033256id_/http%3A//www.sysprobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysprobs.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724231752id_/https%3A//www.sysprobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sysprobs - Not Another Tech Blog
+# Privacy Policy - Sysprobs
 
 ****takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this[privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
