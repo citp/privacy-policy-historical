@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micrositemasters.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020080238id_/http%3A//www.micrositemasters.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micrositemasters.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724150725id_/http%3A//www.micrositemasters.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Microsite Masters Rank Tracker - Accurate SEO Keyword Tracking
 
