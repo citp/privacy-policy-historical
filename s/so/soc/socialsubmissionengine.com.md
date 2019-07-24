@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsubmissionengine.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628170908id_/http%3A//www.socialsubmissionengine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsubmissionengine.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724151132id_/http%3A//www.socialsubmissionengine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Social Submission Engine - Capturing Targetted Visitors From Youtube
 
