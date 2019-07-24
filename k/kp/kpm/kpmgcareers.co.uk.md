@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104142418id_/https%3A//home.kpmg.com/uk/en/home/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724082056id_/https%3A//home.kpmg/uk/en/home/misc/privacy.html) for the most accurate reproduction.*
 
-# Privacy | KPMG | UK
+# Privacy - KPMG United Kingdom
 
 ## Privacy Policy
 
