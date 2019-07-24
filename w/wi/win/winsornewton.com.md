@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629203300id_/http%3A//www.winsornewton.com/na/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724233554id_/http%3A//www.winsornewton.com/row/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective Date:** 05/11/2018
+**Effective Date:** 11/05/2018
 
 **1. Who are we?**
 
@@ -34,7 +34,7 @@
 
 **5. What about cookies?**
 
-5.1 We use cookies on the Site. Full details are available in our separate [cookies policy](https://web.archive.org/na/terms-and-conditions/cookie-policy). 
+5.1 We use cookies on the Site. Full details are available in our separate [cookies policy](https://web.archive.org/row/terms-and-conditions/cookie-policy). 
 
 **6.** **What is our legal basis for processing personal data?  **
 
@@ -77,7 +77,7 @@
 
 9.2 We may allow access to your personal data by third parties who supply us with a service.  Examples include e-commerce platform providers, couriers (to enable delivery of goods), website hosts and businesses which assist us in undertaking communications or monitoring our site.
 
-9.3 If you have given permission on our site, we may provide your personal data to our other group companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 or selected third parties so that they can send you emails (or other communications) with details of goods or services which may be of interest to you including information about special offers or promotions.  You can change your privacy settings and preferences within ‘[Your Account](https://web.archive.org/na/your-account)’.
+9.3 If you have given permission on our site, we may provide your personal data to our other group companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 or selected third parties so that they can send you emails (or other communications) with details of goods or services which may be of interest to you including information about special offers or promotions.  You can change your privacy settings and preferences within ‘[Your Account](https://web.archive.org/row/your-account)’.
 
 9.4 Your activity on the Site: 
 
