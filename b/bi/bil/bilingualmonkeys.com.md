@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bilingualmonkeys.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524190609id_/http%3A//bilingualmonkeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bilingualmonkeys.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724170418id_/http%3A//bilingualmonkeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Bilingual Monkeys
 
