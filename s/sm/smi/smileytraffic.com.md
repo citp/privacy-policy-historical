@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112155231id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2019-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190724153018id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # SmileyTraffic #1 Rated Traffic Exchange For Signups To Your Pages!
 
@@ -59,4 +59,4 @@ Customer Information & Credit Card Transactions
 
 Limited information is supplied to Smileytraffic.com in the event of a sale. This includes your name, IP Address and website domain name. This information is not sold or distributed to third parties. Credit card payments are processed through Paypal, Stormpay, etc.... This information is collected solely for them to securely process the order, and is not accessible to Smileytraffic.com
 
-All questions and concerns regarding this should be directed to [admin@thiswebsite](mailto:admin@thiswebsite)
+All questions and concerns regarding this should be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#147570797d7a54607c7d67637176677d6071)
