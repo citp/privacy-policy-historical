@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamforged.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511130910id_/https%3A//steamforged.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamforged.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725180636id_/https%3A//steamforged.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy — Steamforged Games
 
