@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themindinspired.org privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525152835id_/http%3A//www.themindinspired.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themindinspired.org privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725021143id_/http%3A//www.themindinspired.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
