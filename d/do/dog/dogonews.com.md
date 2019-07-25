@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401043006id_/https%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725082444id_/https%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Kids Website Review
 
@@ -40,7 +40,7 @@ Teacher accounts allow educators to create classroom pages, student accounts, as
 
 If a teacher uses a third party authentication service like Google, CLEVER or Microsoft Office365 to create a Teacher account, we collect and store their first and last name, and their email from the third party authentication provider.
 
-If a teacher opts to synchronize their Google Classroom roster with their DOGO class page, we may collect and store the first and last names of the students that belong in the Google Classroom they selected. This information is only available to the teacher to help him or her easily match the students’ usernames with their real names.
+If a teacher opts to synchronize their MS Teams, Google Classroom or CLEVER roster with their DOGO class page, we may collect and store the first and last names of the students that belong in the Google Classroom they selected. This information is only available to the teacher to help him or her easily match the students’ usernames with their real names.
 
 If a teacher opts to post content from their Google Drive account to their DOGO class page, we may store a link to the Google Drive file that the teacher selected. The link to the file is only available to the students of the teacher’s DOGO class page.
 
@@ -48,13 +48,13 @@ If a teacher signs up for DOGOnews for Teachers PRO, which requires payment, we 
 
 All account holders may revoke DOGO’s access to their account on third party authentication services like Google, CLEVER and Microsoft Office365 at any time by updating the appropriate settings in the account preferences of the respective third party authentication service. Users of third party authentication services should check their privacy settings on these services to understand and change the information sent to us through each third party authentication service. Please review each third party authentication service’s terms of use and privacy policies carefully before using their services and connecting to our websites.
 
-Except as stated in this Privacy Policy, we will not rent, exchange, or release your personal information to outside parties without your consent. Once we obtain your consent, we consider it valid until revoked by you.
+Except as stated in this Privacy Policy, we will not sell, rent, exchange, or release your personal information to outside parties.
 
 ### (ii) From All users
 
 In addition to the information collected when creating accounts, we may also collect certain information automatically when users visit the DOGO websites.
 
-To provide a personalized and high-quality user experience, we use various cookies that gather and store certain technical information from your browser or device, including standard log files. This technical information may include your Internet Protocol (IP) address, device or browser type, Internet service provider (ISP), referring or exit pages, clickstream data, operating system, and the dates and times that you visit the DOGO websites. This information is aggregated and stored. It is only used for DOGO’s internal purposes, and will not be used to contact any teacher, student or visitor. For complete details about our use of cookies, please read our [Cookie Policy](https://www.dogonews.com/cookie-policy).
+To provide a personalized and high-quality user experience, we use various cookies that gather and store certain technical information from your browser or device, including standard log files. This technical information may include your Internet Protocol (IP) address, device or browser type, Internet service provider (ISP), referring or exit pages, clickstream data, operating system, and the dates and times that you visit the DOGO websites. This information is aggregated and stored. It is only used for DOGO’s internal purposes, and will not be used to contact any teacher, student or visitor. For complete details about our use of cookies, please read our [Cookie Policy](https://www.dogonews.com/pages/cookie-policy).
 
 DOGO websites offer community features such as commenting and posting reviews. We moderate all comments and reviews posted by users on DOGO websites. We take reasonable measures to remove personal information included in these submissions before they are made public.
 
@@ -68,7 +68,7 @@ Our websites offer a share content via email button which asks for both the reci
 
 You can choose to not provide DOGO with your personal information. Registration is not required to access most of our content. If you decline to register, however, DOGO will not be able to provide to you certain features and functionality.
 
-You may at any time cancel or request to cancel and have your account removed from the DOGO websites. You may cancel you account in the settings section of you account or email [help@dogonews.com](mailto:help@dogonews.com).
+You may at any time cancel or request to cancel and have your account removed from the DOGO websites. You may cancel your account in the settings section of your account or email [help@dogonews.com](mailto:help@dogonews.com).
 
 When Teachers create an account, they may opt out of receiving emails from us by indicating their preference in their account settings. If you previously opted in to receive emails from DOGO, you may at any time opt out of receiving further emails by using the “unsubscribe” provided in the emails already received from DOGO, or by emailing us at [help@dogonews.com](mailto:help@dogonews.com). Notwithstanding the foregoing, by creating an account, you expressly agree that DOGO may provide security breach notices required by law as well as notices regarding material changes in our Privacy Policy or Terms of Use, to you via email, and you specifically consent to continuing to receive such notices via email from DOGO even after your opt-out, unless you choose to cancel your account.
 
@@ -137,13 +137,21 @@ Except as outlined in Parental Consent (Section 3) and Information Collection fr
 
 ## 6\. Sharing of Personal Information
 
-With the exception of data provided to Stripe for processing payments for DOGOnews for Teachers PRO, we do not transfer, disclose, or share personal information we collect through the DOGO websites with third parties. However, we may disclose personal information to third parties when required by law or pertinent to judicial or government investigations or proceedings, when otherwise necessary to protect the DOGO websites or the safety of our users or any third party, or with a parent/guardian’s consent. If we sell all or part of our organization, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction.
+With the exception of payment data passed to Stripe for processing payments for DOGOnews for Teachers plans, we do not sell, transfer, disclose, or share personal information we collect through the DOGO websites with third parties. However, we may disclose personal information to third parties when required by law or pertinent to judicial or government investigations or proceedings, when otherwise necessary to protect the DOGO websites or the safety of our users or any third party, or with a parent/guardian’s consent. If we sell, divest or transfer our business, or are otherwise involved in a merger or business transfer, or in the event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction, provided the third parties have agreed to data privacy standards no less stringent than our own. In such case we will provide you with notice and an opportunity to opt-out of the transfer. If you do not consent to the use of your information by such a successor company, subject to applicable law, you may request its deletion from the company.
 
 ## 7\. Data retention and information security
 
-Unless we receive a deletion request, we will retain your information for as long as your account is active or as is reasonably useful for operational purposes.
+Unless we receive a deletion request, we will retain your information for as long as you have an account or as is necessary to deliver our service to you.
 
-The security and confidentiality of your child’s information is extremely important to us, and we take a number of steps to help safeguard any personal information that your child provides to us. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy.
+The security and confidentiality of your child’s information is extremely important to us, and we take a number of steps to help safeguard any personal information that your child provides to us. In particular:   
+• We continually develop and implement features to keep your personal information safe  
+• When you enter any information anywhere on DOGO websites we encrypt the transmission of that information using secure socket layer technology (SSL/TLS/HTTPD encryption)  
+• The database where we store personal information is encrypted at rest, which converts all personal information stored in the database to an unintelligible form  
+• We ensure passwords are stored and transferred securely using encryption and salted hashing. User passwords are not visible to DOGO administrators or employees  
+• We restrict access to personal information to authorized employees only  
+• Other security safeguards include but are not limited to data encryption, firewalls, and physical access controls to files
+
+However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy.
 
 If we know or have reason to know of a systems security breach by an unauthorized party of user data where that data is being or is likely to be used for an unauthorized purpose, we will promptly notify you so that you can take appropriate steps.
 
@@ -151,7 +159,7 @@ If we know or have reason to know of a systems security breach by an unauthorize
 
 Upon providing proper identification, parents can review, correct, or have deleted their child’s personal information from our database, or refuse further collection or use of personal information from their child by writing to us at: DOGO Media, Inc.
 
-1 Blackfield Drive #169, Tiburon, CA 94920. You may also email us at [rdolasia@dogonews.com](mailto:rdolasia@dogonews.com).
+1 Blackfield Drive #169, Tiburon, CA 94920. You may also email us at [privacy@dogonews.com](mailto:rdolasia@dogonews.com).
 
 ## 9\. California Privacy Rights and Do Not Track Disclosure
 
@@ -195,4 +203,6 @@ DOGO websites may contain links to other websites, online services, apps, and co
 
 ## 13\. Updates
 
-Due to the changing nature of the Internet, this policy may be changed at any time at the discretion of DOGO Media, Inc. Therefore we recommend that you visit our Privacy Policy often so that you are always fully informed.
+Please revisit this page periodically to stay aware of any changes to this Privacy Policy, which may be revised at our sole discretion. If we change this Privacy Policy, we will make it available through the DOGO websites, and indicate the date of the latest revision. In the event that the changes materially alter your rights or obligations hereunder we will make reasonable efforts to notify you by email, if we have one on file or generate a pop-up or similar notification when you access the websites for the first time after such material changes are made. You may be asked to reconfirm your consent to the Policy in order to continue use of our website(s) after the date we have updated such policies.  
+Your continued use of the Services following the effective date of such update constitutes your acceptance of the revised Policy.  
+If you don't agree with any future changes to the Privacy Policy, please contact us to terminate your account.
