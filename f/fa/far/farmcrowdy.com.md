@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmcrowdy.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525123147id_/https%3A//farmcrowdy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmcrowdy.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725063839id_/https%3A//www.farmcrowdy.com/privacy-policy) for the most accurate reproduction.*
 
 # Farmcrowdy - Privacy Policy
 
