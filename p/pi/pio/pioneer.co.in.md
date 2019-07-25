@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer.co.in privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526094405id_/http%3A//pioneer.co.in/Privacy%2520%26%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer.co.in privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725173715id_/http%3A//pioneer.co.in/Privacy%2520%26%2520Policy.html) for the most accurate reproduction.*
 
 # Internet Leased Line Connection Hyderabad : Dedicated Leased Line : 1:1 Dedicated Internet Line
 
