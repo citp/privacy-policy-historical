@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycronic.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514211136id_/http%3A//www.mycronic.com/about-mycronic/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycronic.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726014856id_/https%3A//www.mycronic.com/en/about-mycronic/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -34,7 +34,7 @@ We may use your personal information to:
 
 
 
-For further information regarding personal data processing please follow this [link](https://web.archive.org/about-mycronic/personal-data-processing/).   
+For further information regarding personal data processing please follow this [link](https://web.archive.org/en/about-mycronic/personal-data-processing/).   
  
 
 **Your rights**
@@ -52,7 +52,7 @@ When you provide Mycronic either with your consent, or the processing is based o
   
 **Information about children**
 
-The Mycronic website is not intended for, or targeted at, children under the age of 13 years old and Mycronic never knowingly or intentionally collect information about children under this age. If you believe that Mycronic has collected information about a child, please use our [contact form ](https://web.archive.org/about-mycronic/contact/subsidiaries/mycronic-sweden-hq/)to request deletion of the information.
+The Mycronic website is not intended for, or targeted at, children under the age of 13 years old and Mycronic never knowingly or intentionally collect information about children under this age. If you believe that Mycronic has collected information about a child, please use our [contact form ](https://web.archive.org/en/about-mycronic/contact/subsidiaries/mycronic-sweden-hq/)to request deletion of the information.
 
 **Sensitive personal data and personal identification numbers**
 
@@ -136,7 +136,7 @@ Nytorpsvägen 9
 183 53 Täby   
 Sweden
 
-[Contact Form](https://web.archive.org/about-mycronic/contact/subsidiaries/mycronic-sweden-hq/)
+[Contact Form](https://web.archive.org/en/about-mycronic/contact/subsidiaries/mycronic-sweden-hq/)
 
   
 **Complaints**
