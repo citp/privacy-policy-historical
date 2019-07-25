@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsocool.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525112014id_/http%3A//www.girlsocool.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsocool.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725173457id_/http%3A//www.girlsocool.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GirlSoCool.com
 
