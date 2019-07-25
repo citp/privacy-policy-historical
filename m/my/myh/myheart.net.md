@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myheart.net privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019183143id_/https%3A//myheart.net/terms-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myheart.net privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726004053id_/https%3A//myheart.net/terms-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy myheart.net
 
