@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsersafeguard.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427195212id_/http%3A//www.browsersafeguard.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsersafeguard.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725163434id_/http%3A//browsersafeguard.com/Legal/Privacy) for the most accurate reproduction.*
 
 # Browser Safeguard Privacy Policy and Your Privacy Rights
 
