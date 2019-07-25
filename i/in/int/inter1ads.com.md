@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inter1ads.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122140752id_/http%3A//inter1ads.com/feed/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inter1ads.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725044142id_/http%3A//inter1ads.com/feed/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
