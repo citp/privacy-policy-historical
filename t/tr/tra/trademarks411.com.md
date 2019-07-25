@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademarks411.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506055915id_/https%3A//www.trademarks411.com/trademark/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademarks411.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725122616id_/https%3A//www.trademarks411.com/trademark/privacy) for the most accurate reproduction.*
 
 # Trademarks411.com | Privacy Policy
 
@@ -22,7 +22,7 @@
 
   7. **Children.** This website and our mobile application does not provide services or sell products to children under the age of 18. If you are under 18, you may use this website only with the involvement of a parent or guardian.
 
-  8. **How You Can Access Your Information.** You can request access to all your personally identifiable information by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88e1e6eee7c8fcfae9ecede5e9fae3fbbcb9b9a6ebe7e5 "info@trademarks411.com") and requesting access to all your personally identifiable information.
+  8. **How You Can Access Your Information.** You can request access to all your personally identifiable information by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f59c9b939ab581879491909894879e86c1c4c4db969a98 "info@trademarks411.com") and requesting access to all your personally identifiable information.
 
   9. **Consent.** By using our website or mobile application, you consent to the collection and use of your personal information as described in this Privacy Policy.
 
