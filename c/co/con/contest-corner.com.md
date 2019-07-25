@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616110143id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725040015id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Contest Corner
 
