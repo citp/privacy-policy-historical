@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rodengray.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207042826id_/https%3A//rodengray.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodengray.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725200501id_/https%3A//rodengray.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Roden Gray
-
-## Privacy Policy
+# Privacy Policy – Roden Gray
 
 This Privacy Policy governs the manner in which Roden Gray Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the rodengray.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Roden Gray Inc.
 
@@ -69,6 +67,6 @@ Vancouver, BC
 V6B 1A4  
 Canada  
 604-689-7302  
-info@rodengray.com
+support@rodengray.com
 
-This document was last updated on August 21, 2012
+This document was last updated on May 08, 2019
