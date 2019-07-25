@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripstodiscover.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401025350id_/https%3A//www.tripstodiscover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripstodiscover.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725144002id_/https%3A//www.tripstodiscover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TripsToDiscover
 
@@ -62,7 +62,7 @@ If you no longer wish to receive newsletter or promotional communications from u
 
 ### 9\. ACCESS/ACCURACY
 
-To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4f4d6cdd2c5c7dde4f0d6cdd4d7f0cbe0cdd7c7cbd2c1d68ac7cbc9) and we will make reasonable efforts to comply as soon as possible.
+To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f2a2809b8493918bb2a6809b8281a69db69b81919d849780dc919d9f) and we will make reasonable efforts to comply as soon as possible.
 
 ### 10\. SECURITY OF INFORMATION
 
@@ -84,7 +84,7 @@ When you use or provide data on our website, we will maintain your data for our 
 
 ### 14\. CALIFORNIA PRIVACY RIGHTS
 
-Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either: (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties going forward, simply email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b6b49524d5a58427b6f49524b486f547f524858544d5e4915585456) with the words “Opt-Out” in the subject header.
+Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either: (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties going forward, simply email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88d8fae1fee9ebf1c8dcfae1f8fbdce7cce1fbebe7feedfaa6ebe7e5) with the words “Opt-Out” in the subject header.
 
 ### 15\. CHILDREN
 
@@ -92,7 +92,7 @@ If you are under 18, you may not access or use the Site. BY ACCESSING OR USING T
 
 ### 16\. CONTACT INFORMATION
 
-For more information, or if you have questions or concerns regarding our Privacy Policy or wish to opt-out as provided above, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d282a0bba4b3b1ab9286a0bba2a186bd96bba1b1bda4b7a0fcb1bdbf) or send us correspondence at the following address:
+For more information, or if you have questions or concerns regarding our Privacy Policy or wish to opt-out as provided above, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5606243f2037352f1602243f26250239123f2535392033247835393b) or send us correspondence at the following address:
 
 TripsToDiscover.com  
 5254 Station Way  
