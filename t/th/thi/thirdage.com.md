@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519051405id_/https%3A//thirdage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726002305id_/https%3A//thirdage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thirdAGE | healthy living for women + their families
 
