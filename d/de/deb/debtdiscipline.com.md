@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the debtdiscipline.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331121041id_/https%3A//www.debtdiscipline.com/disclaimer-disclosure-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtdiscipline.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725211149id_/https%3A//www.debtdiscipline.com/disclaimer-disclosure-privacy) for the most accurate reproduction.*
 
 # Disclaimer, Disclosure, and Privacy - Debt Discipline
+
+_This page may include affiliate links. Please see the  [disclosure page](https://www.debtdiscipline.com/disclaimer-disclosure-privacy/) for more information._
 
 In accordance with FTC guidelines, we state that we may have a financial relationship with companies mentioned on this website. This may include receiving access to free products and services for product and service reviews and giveaways.
 
