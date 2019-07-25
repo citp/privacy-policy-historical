@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rshughes.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614065529id_/https%3A//www.rshughes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rshughes.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725064306id_/https%3A//www.rshughes.com/privacy.html) for the most accurate reproduction.*
 
 # R.S.Hughes Privacy Policy
 
