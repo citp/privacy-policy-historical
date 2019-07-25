@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesdeal.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503094029id_/https%3A//www.gamesdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesdeal.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725193944id_/https%3A//www.gamesdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
