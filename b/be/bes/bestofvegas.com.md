@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestofvegas.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425201636id_/https%3A//www.bestofvegas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofvegas.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725021025id_/https%3A//www.bestofvegas.com/privacy-policy) for the most accurate reproduction.*
 
 # BestofVegas.com Privacy Policy, Las Vegas Nevada
 
