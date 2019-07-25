@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glpi-project.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426113026id_/https%3A//glpi-project.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glpi-project.org privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725121939id_/https%3A//glpi-project.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GLPI Project
 
@@ -115,6 +115,14 @@ _Firefox_ : Go to the “Tools” from the browser and select the “Options” 
 _Safari Help page_ : In your browser, select the “Edit > Preferences” menu. Click on “Security”. Click “Show Cookies”. Select the cookies that contain the name “https://glpi-project.org/” and click “Delete” or “Clear All”. After deleting cookies, click “Done”. Details, update: see the browser’s help page: <http://docs.info.apple.com/>
 
 _Google Chrome Help page_ : Click on the icon of the “Tools” menu. Select “Options”. Click the “Advanced Options” tab and go to the “Privacy” section. Click the “Show Cookies”. Locate the files that contain the name “https://glpi-project.org/” Select them and delete them. Click “Close” to return to your browser. ”
+
+## Copying
+
+  * **Name** : [GLPI](http://glpi-project.org/) is a registered trademark of [Teclib’](http://www.teclib-edition.com/en/).
+  * **Code** : you can redistribute it and/or modify it under the terms of the GNU General Public License ([GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)).
+  * **Documentation** : released under Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+
+
 
 **Legal Disclaimer**  
 Website Owner: Teclib’  
