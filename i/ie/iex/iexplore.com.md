@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iexplore.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030110124id_/http%3A//www.iexplore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iexplore.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725200713id_/https%3A//www.iexplore.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iExplore
 
