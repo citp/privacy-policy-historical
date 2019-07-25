@@ -1,6 +1,133 @@
-> *The following text is extracted and transformed from the bellapartmentliving.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906041533id_/https%3A//www.bellapartmentliving.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellapartmentliving.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725212233id_/https%3A//www.bellapartmentliving.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Apartments | Bell Partners Inc.
+
+**PRIVACY POLICY**
+
+**This Privacy Policy is effective as of June 26, 2018.**
+
+This Privacy Policy applies to the BellApartmentLiving.com website operated by Bell Partners Inc., a North Carolina corporation, and its subsidiaries and websites for the properties managed by Bell Partners, Inc. (referred to herein as "Bell", "we", "us", or "our") and applies to information, products and services provided by Bell in the U.S.
+
+Bell recognizes the importance of protecting the privacy of individual-specific information collected from and about our website users (referred to as "customers", "you" or "your" in this Privacy Policy). Bell may collect a variety of personally identifiable information from customers, including information about customers and their spouses, domestic partners, dependents, family members and apartment occupants such as name, mailing address, email address, telephone number, Social Security/national insurance number, and other background information described in this document, depending on the specific service being provided (“Personal Information”). This Privacy Policy describes what Personal Information we gather and how we use it. In some instances, and in particular if you are asked to submit registration details through this site, you may be requested to agree to additional terms regarding our use of your Personal Information, and those additional terms will apply in that context. This Privacy Policy constitutes an integral part of our website’s Terms of Use and is subject to the provisions thereof, including with respect to Limitation of Liability and governing law. We encourage you to read this Privacy Policy before you send or share Personal Information with us or use our website and to read it again when you return to it.
+
+You acknowledge that this Privacy Policy is part of the BellApartmentLiving.com website’s Terms of Use and by accessing or using this Site you agree to be bound by all of its terms and conditions. If you do not agree to these terms and conditions, please do not use this Site. We reserve the right to change this Policy at any time. Such changes, modification, additions or deletions shall be effective immediately upon notice thereof. You acknowledge and agree that it is your responsibility to maintain a valid email address if you are a registered user, review this Site and this Privacy Policy periodically and to be aware of any modifications. Your continued use of this Site after such modifications will constitute your: (a) acknowledgement of the modified Privacy Policy and (b) agreement to abide and be bound by the modified Privacy Policy.
+
+**WHAT PERSONAL INFORMATION DOES BELL COLLECT?**
+
+We collect Personal Information from our websites in order to provide you with information on the Bell experiences you have expressed an interest in, to provide you with information on other similar Bell experiences we believe will be of interest to you, and to better understand how we can help prospective clients, residents and employees. We also collect Personal Information for the purposes of administering certain services to residents and/or applicants, which may include, but not be limited to, services necessary or appropriate to complete any transaction, delivery, or provision of products and services, among other services that Bell may offer or provide from time-to-time (“Company Services”). The type of Personal Information we collect will depend upon what we will need in order to provide you with the particular product or service that interests you. In the case of prospective residents and applicants for employment, the information requested on our registration form includes some or all of the following Personal Information: name and address, age or date of birth, email address, occupation, employment information, telephone number, educational background and Social Security/national insurance number, payment card information, and/or financial account information.
+
+Those interested in becoming residents will be asked to include most of the following further information: the kind of service you are requesting, the apartment size you are looking for, where you want to live, the type of building you prefer, your proposed rent budget, the number of individuals in your household and their ages, and whether or not you have pets.
+
+If you become a resident of a residential community we manage, you may be asked to provide your debit or credit card information in order to make payments for rent and other services. Since we provide these services through contractual arrangements with thirdparties, we may need to release your personally identifiable information to these third parties. The use of your personally identifiable information by third parties service providers is governed by their privacy policies and terms of use.
+
+For those interested in applying for employment at Bell, the following additional Personal Information may be requested or obtained: credit checks, background checks, reference checks and employment verification. Where required, we will obtain your consent before undertaking these checks. Once a candidate accepts a position, the candidate may be asked to complete additional information. This may include an invitation to self-identify ethnicity or race. This information is only collected for meeting government reporting requirements and the provision of this information by candidates is voluntary.
+
+Our residential communities have their own separate sites and we use separate sites for the processing of rental applications and agreements and to assist our residents with other tasks which are required or helpful to them, such as paying rent online. You will move away from this site when engaging in those activities. The privacy policy set forth herein also applies to the websites of our residential communities.
+
+**USAGE TRACKING: USE OF IP ADDRESSES**
+
+An IP address is a number that is automatically assigned to your computer whenever you are connected to the Internet. Web servers, the main computers that serve  web pages, automatically identify your computer by its IP address. As permitted under applicable law, Bell collects IP addresses for the purposes of system administration, gathering and analyzing aggregated information, creating a better experience for users and auditing the use of our site.
+
+Your session will be logged, along with your IP address. We will seek to link IP addresses with Personal Information when we feel it is necessary to protect this site and other users from harm and to prevent criminal misconduct. Please see the section on Use of "Cookies."
+
+**USE OF "COOKIES"**
+
+Cookies are pieces of information that a website transfers to an individual for recordkeeping purposes. Cookies make web surfing easier for you by saving your preferences while you are using our site. The use of cookies is an industry standard, and as such, you will find them at most major websites. By showing how and when users use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies only to provide services better tailored to your needs and for the protection of our website and users from potential harm. We never save passwords or debit or credit card information in cookies.
+
+We use persistent session and thirdparty tracking cookies on our website, which are cookies that stay in your web browser between visits. We use these to capture analytical information about our visitors that helps us improve the performance of our website and create a better experience. These cookies allow us to recognize and count the number of visitors, to provide content related to a prior visit to the website, and to see how visitors move around the site and the products and services they are interested in when they are using it. This helps us to improve the way our website works by making sure users are finding what they need easily.
+
+Most browsers are set up to accept cookies. If you want to change your cookie preferences, you can do so through your browser settings or refuse the cookies when you enter the website. Please remember that our cookies are often used to give you certain functionality and without them you may not be able to use some of our website (e.g. save properties from our listings).
+
+You can also remove cookies that have already been set in your browser via your browser settings.
+
+By entering and using our site, you agree that we can place these types of cookies on your device.
+
+**California Do Not Track Disclosure**
+
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. For information about Do Not Track, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/). At this time, Bell does not respond to Do Not Track browser settings or signals. 
+
+**WHAT INFORMATION DO WE SHARE OR DISCLOSE?**
+
+Bell will disclose Personal Information for business operations as described below.
+
+We do not commercialize or share your Personal Information with third parties, unless:
+
+Such information is shared and/or commercialized following receipt of a specific request and/or permission from users;
+
+Such information is shared with affiliated companies and/or potential investors (in any form of business transaction, including purchase or merger);
+
+Such information is shared with vendors and service providers that may from time to time be selected or utilized by Bell, its agents, or the owners of residential communities we manage, for the purposes of administering or carrying out management responsibilities and business objectives for the community;
+
+Such information is shared in order to comply with or in accordance with any applicable law and/or court orders and/or in order to prevent suspected illegal acts, frauds, or situations involving potential threats to the safety of any person, or as otherwise required by law. This includes responding to lawful requests by public authorities, including national security or law enforcement entities;
+
+Such information is shared in order to help Bell defend against claims and/or establish or exercise any legal right that Bell may have;
+
+Such information is shared in order to help Bell prevent violations of the Bell Terms of Use and this Privacy Policy or to otherwise protect the rights, property, or safety of Bell employees, residents and other persons others, including exchanging information with third parties for fraud protection and credit risk reduction, in accordance with applicable laws.
+
+**THIRD-PARTY SITE LINKS**
+
+You should be aware that when you are on the Bell website you could be directed to other third party sites that are beyond our control. There are links to other sites from Bell, which take you outside our service. These other sites may send their own cookies to visitors to collect data or solicit information. Bell does not control these sites and therefore is not responsible for their content. The inclusion of hyperlinks to any other sites by Bell does not imply any endorsement of the material on such sites, nor any association with their operators.
+
+Bell policies do not extend to anything that is inherent in the operation of the Internet, which is beyond our control. Remember that whenever you give out information online, that information may be collected and used by people you do not know.
+
+If users have any questions about security, please contact us using the information in the "Contact Information" section.
+
+**EMAIL CONSENT AND OPT-OUT**
+
+Your provision of Personal Information through any of our registration forms on this site constitutes your affirmative consent that we may contact you by email to provide you with information and notices relating to the property where you reside regarding various similar services available to you at or through that property and on various other properties that may be available and of interest to you in the future. It also means we may email you regarding updates to this Privacy Policy.
+
+You may choose to opt out of receiving future commercial email messages from us. Please note that if you are a resident of a Bell community and you use this site and your community site, you will need to opt-out of your community site separately. For Bell residents, opt-out function does not apply to Emergency Notifications. In addition, you will also need to opt-out separately from any third party sites with which you have registered. Please see the section on Third-Party Site Links.
+
+**CHILDRENS PRIVACY**
+
+We do not knowingly collect personal information from children under the age of thirteen (13) that requires parental notice and consent under the Childrens Online Privacy Protection Act ("COPPA") without such parental consent. By using our site, you represent that you are not under 13 years of age. If you are a child under thirteen (13) years of age, you are not permitted to use the site and should not send any information about yourself to us through the site. In the event that we become aware that we have collected Personal Information from any child, we will dispose of that information, or otherwise treat it, in accordance with COPPA and other applicable laws and regulations. If you are a parent or guardian and you believe that your child under age 13 may have provided personally identifiable information through the Website, please contact us using the information in the "Contact Information" section.
+
+**INTERNATIONAL VISITORS**
+
+Bell Partners, Inc. is located in the United States (state of North Carolina). If you are providing personally identifiable information and are not a resident of the United States, your country’s laws governing data collection and use may differ from those in the United States. The U.S. may not provide the same level of protections as those in your own country. By providing information to Bell, you are transferring your personal data to the United States, and you consent to the transfer to, retention of and processing of your data in the United States.
+
+If you are resident of the European Union, Bell Partners, Inc. will process your personal information in compliance with the EU General Data Protection (“GDPR”). For information submitted using the System, Bell Partners, Inc. is the data controller, as defined under GDPR. In accordance with the GDPR, as a data subject you will be accorded with any applicable rights, which may include the following:  
+I.    right of confirmation;  
+II.    right of access;  
+III.    right to rectification;  
+IV.    right to erasure;  
+V.    right of restriction of processing;  
+VI.    right to data portability;  
+VII.    right to object  
+VIII.    right to withdraw data protection consent; and   
+IX.    the right to lodge a complaint with a supervisory authority
+
+**CORRECTING AND DEACTIVATING PERSONAL INFORMATION**
+
+This section includes information about how all users may exercise their Privacy Rights.
+
+You have the right, freely and at reasonable intervals, to request that Bell inform you as to whether Personal Information relating to you is being processed. You have the right to request that Bell correct, supplement, delete or block your Personal Information in the event that the data are factually inaccurate, incomplete or irrelevant to the purposes of the processing activities or if the Personal Information is being processed in any other way which infringes a legal provision. If you wish to exercise your rights or if you have any questions or suggestions regarding the use, collection, or security of your Personal Information, please contact us using the contact details in the "Contact Information" section.
+
+When a request for user deletion is received, we will make all reasonable efforts to purge said data from our systems. Due to the nature of our service, some information may not be fully removed due to backups or archived copies; however, such information will only be used for the purpose of performing a contract that the user has entered into with us.
+
+**DATA SECURITY**
+
+While we take reasonable steps to secure your Personal Information, no data transmission over the Internet can be guaranteed to be completely secure. Likewise, no storage or processing of your Personal Information or other information on the site, or on other servers or databases to which the information may be transferred, can be guaranteed to be completely secure. Please consider this prior to submitting your Personal Information to us via the site.
+
+**NOTIFICATION OF CHANGES**
+
+If we decide to change our Privacy Policy, we will advise users of those changes through a general description at the top of this Privacy Policy and may also post these details to other places we deem appropriate so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We may also email you.
+
+**CONTACT INFORMATION**
+
+If a users Personal Information changes (such as zip/postal code, phone, email or postal address), or if a user no longer desires to be registered with this site, we provide a way to correct, update or delete/deactivate users Personal Information. This can usually be done in your BellResidents.com account settings or by emailing our Marketing Department through [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+You may use this email address to get in touch with us for any other reason relating to this Privacy Policy. If you send us an e-mail, your communication should clearly be marked as data protection query and as being time sensitive.
+
+You may also contact us by mail at Bell Partners, Inc., Attn.: Marketing, 300 N. Greene St, Suite 1000, Greensboro, NC 27401. If you contact us by mail, your communication should clearly be marked as a data protection query and as being time sensitive.
+
+**ACCEPTANCE OF THESE TERMS**
+
+By using this site, or providing information to us, you acknowledge your awareness of the terms of this Privacy Policy. If you are not happy with its terms or any amended terms that are made in accordance with this Privacy Policy, you are not authorized by Bell to use this site.
+
+2018 BELL PARTNERS INC. All rights reserved.
+
+* * *
 
 **_UNITED STATES RENTCafé PRIVACY POLICY_**
 
@@ -69,7 +196,7 @@ There may be circumstances where your personal information is not accessible, re
 
 If we collected personal information on behalf of a third party we may have conveyed that information directly to the third party. If so, it may not exist as part of our own records and you will have to go to the third party to see the information.
 
-**Contact Us.** If you have questions regarding our Privacy Policy or the use of information collected, you can contact us by email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bcccced5cadddfc5fcced9d2c8dfdddad992dfd3d1)
+**Contact Us.** If you have questions regarding our Privacy Policy or the use of information collected, you can contact us by email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5323213a2532302a1321363d27303235367d303c3e)
 
 Copyright © 2013 Yardi Systems, Inc.
 
@@ -141,7 +268,7 @@ There may be circumstances where your personal information is not accessible, re
 
 If we collected personal information on behalf of a third party we may have conveyed that information directly to the third party. If so, it may not exist as part of our own records and you will have to go to the third party to see the information.
 
-**CONTACT US.** If you have questions regarding our Privacy Policy or the use of information collected, you can contact our Information Officer by email at the following address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4f4d56495e5c467f4d5a514b5c5e595a115c5052)
+**CONTACT US.** If you have questions regarding our Privacy Policy or the use of information collected, you can contact our Information Officer by email at the following address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f282809b8493918bb280979c8691939497dc919d9f)
 
 He or she will attempt to answer any questions or concerns you might have. If you wish to make a formal complaint about our privacy practices, you may make it in writing to our Information Officer. We will acknowledge receipt of your complaint, ensure that it is investigated promptly and that you are provided with a formal decision and reasons in writing.
 
