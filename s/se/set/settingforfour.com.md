@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331173534id_/https%3A//www.settingforfour.com/about/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726003634id_/https%3A//www.settingforfour.com/about/disclosure-policy) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policies - Setting for Four
 
@@ -135,7 +135,7 @@ This policy is valid from 08 March 2013
 
 Sign up to my Free newsletter and get your FREE decorating guide: Best Sources for Stylish Decor on a Budget!
 
-Get FREE Decor Tips & DIY Home Inspiration!
+Get FREE Decor Tips & Home Inspiration!
 
 and you'll receive my FREE Decorating Guide: **  
 ** **A BEGINNER'S GUIDE TO INTERIOR DESIGN AND DECORATING!!**  
