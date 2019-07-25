@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorianyates.net privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127110850id_/https%3A//dynutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorianyates.net privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725142025id_/https%3A//dynutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - DY Nutrition
 
