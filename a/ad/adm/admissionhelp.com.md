@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admissionhelp.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524170753id_/http%3A//www.admissionhelp.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissionhelp.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725183411id_/http%3A//www.admissionhelp.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Admissionhelp.com - Online Admission Help to Apply online for Colleges and Universities in India and Worldwide
 
