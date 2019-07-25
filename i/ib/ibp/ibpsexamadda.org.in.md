@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibpsexamadda.org.in privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525134604id_/http%3A//www.ibpsexamadda.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsexamadda.org.in privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725074906id_/http%3A//www.ibpsexamadda.org.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
