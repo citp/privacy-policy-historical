@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianmoney.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329123716id_/https%3A//indianmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmoney.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725115823id_/https%3A//indianmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IndianMoney.com
 
