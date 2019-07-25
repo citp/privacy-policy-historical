@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brenebrown.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409031227id_/https%3A//brenebrown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brenebrown.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725160509id_/https%3A//brenebrown.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brené Brown
 
