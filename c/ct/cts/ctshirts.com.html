@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ctshirts.com privacy policy that was archived on 2019-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190430183622id_/https%3A//www.ctshirts.com/us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ctshirts.com privacy policy that was archived on 2019-07-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190725232105id_/https%3A//www.ctshirts.com/us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -21,7 +21,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
 <link rel="alternate" hreflang="en-CA" href="https://www.ctshirts.com/ca/privacy-policy/">
 <link rel="alternate" hreflang="en-GB" href="https://www.ctshirts.com/uk/privacy-policy/">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/js/lib/html5.js"></script>
 <![endif]-->
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -63,6 +63,9 @@ dw.ac = {
 /* <![CDATA[ (head-cquotient.js) */
 var CQuotient = window.CQuotient = {};
 CQuotient.clientId = 'aawj-CTShirts-US';
+CQuotient.realm = 'AAWJ';
+CQuotient.siteId = 'CTShirts-US';
+CQuotient.instanceType = 'prd';
 CQuotient.activities = [];
 CQuotient.cqcid='';
 CQuotient.cquid='';
@@ -105,11 +108,15 @@ CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
 		} // not handling the other dw.ac.* events currently
 	}
 };
-CQuotient.trackViewProduct = function(/* Object */ productData){
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
 	var cq_params = {};
 	cq_params.cookieId = CQuotient.getCQCookieId();
 	cq_params.userId = CQuotient.getCQUserId();
-	cq_params.product = productData;
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	
 	if(CQuotient.sendActivity) {
 		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
 	} else {
@@ -120,51 +127,10 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 // -->
 </script>
 
-
-<script language="JavaScript" type="text/javascript">
-	window.__zmags = window.__zmags || {};
-	window.__zmags.demandware = window.__zmags.demandware || {};
-	window.__zmags.demandware.analytics = window.__zmags.demandware.analytics || {};
-	window.__zmags.demandware.analytics.creator = window.__zmags.demandware.analytics.creator || {}
-	window.__zmags.demandware.analytics.creator.settings = window.__zmags.demandware.analytics.creator.settings || {"googleAnalyticsEnabled":false,"googleAnalyticsId":null,"adobeAnalyticsEnabled":true,"adobeAnalyticsRsid":"ctsglobal-prod","adobeAnalyticsTrackingServer":"metrics.ctshirts.com"};
-	window.__zmags.demandware.analytics.creator.data = window.__zmags.demandware.analytics.creator.data || {};
-</script>
-<script language="JavaScript" type="text/javascript" src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/adobe/AppMeasurement.js"></script>
-<script language="JavaScript" type="text/javascript">
-			(function() {
-				var s_account = "ctsglobal-prod";
-				//var s = new AppMeasurement(); 
-				var s = s_gi(s_account);
-				s.account = s_account;
-				s.trackingServer = "metrics.ctshirts.com";
-				s.trackingServerSecure = s.trackingServer;
-				s.trackDownloadLinks = true;
-				s.trackExternalLinks = true;
-				s.trackInlineStats = true;
-				s.linkDownloadFileTypes = "exe,zip,wav,mp3,mov,mpg,avi,wmv,pdf,doc,docx,xls,xlsx,ppt,pptx";
-				s.linkInternalFilters = "javascript:"; //optional: add your internal domain here
-				s.linkLeaveQueryString = false;
-				s.linkTrackVars = "None";
-				s.linkTrackEvents = "None";
-				window.__zmags.demandware.analytics.creator.AppMeasurementInstance = s;
-			})();
-		</script>
-<script language="JavaScript" type="text/javascript">
-		if (typeof app != 'undefined') {
-			var zmagsAnalyticsScript = document.createElement('script');
-			zmagsAnalyticsScript.onload = function() {
-				window.__zmags.demandware.analytics.creator.init();
-			};
-			zmagsAnalyticsScript.src = "/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/js/zmags-creator-analytics.js";
-			document.getElementsByTagName('head')[0].appendChild(zmagsAnalyticsScript);
-		}
-	</script>
-
-
-<link rel="stylesheet" href="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/css/ct-fonts.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/css/ct-core.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/css/flag-icon.min.css">
-<link rel="stylesheet" href="/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/en_US/v1556629546621/css/content.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/css/ct-fonts.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/css/ct-core.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/css/flag-icon.min.css">
+<link rel="stylesheet" href="/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/en_US/v1564059183586/css/content.css">
 <meta name="google-site-verification" content="Xa7EriLuB1p5BenJ2gKRE1eUae89h7bOGYCFO9NVZcc">
 <meta name="msvalidate.01" content="0BFECDEF008E835B8FF47F948A2935D2">
 <meta name="p:domain_verify" content="c56da4f72ad857ae23edec35473b80e4">
@@ -255,15 +221,8 @@ util.loadDynamicCss([]);
 </symbol>
 </svg>
 <div id="wrapper" class="pt_content-search-result wrapper">
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
-<script>
-jQuery.ajaxPrefilter(function(s) {
-if (s.crossDomain) {
-s.contents.script = false;
-}
-});
-</script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
 <div class="header-wrapper">
 <div class="browser-alert hidden">
 <div class="browser-alert__container">
@@ -278,14 +237,11 @@ s.contents.script = false;
 <a href="#main" tabindex="1">Skip to main content</a>
 </div>
 <div class="print--no">
-<div class="promostrip js-promostrip promostrip-static  js-all  ">
+<div class="promostrip js-promostrip promostrip-sourcecode  js-onhomepage">
 <div class="promostrip__container">
 <div class="promostrip__promo-title">
-$100 off $350+, $50 off $250+, $25 off $150+, plus free shipping. Use code FRIENDSHP in Shopping Bag.
+Discover our latest additions - shop our new season arrivals. <a href="https://www.ctshirts.com/us/mens-shirts/latest-arrivals/">Shop Now.</a>
 </div>
-<a href="/on/demandware.store/Sites-CTShirts-US-Site/en_US/PromoStrips-TermsAndConditions?promotionID=FRIENDSHP_PS" class="promostrip__link js-termsandconditions utag_interaction" id="t&amp;c-promo">
-Terms &amp; conditions
-</a>
 </div>
 </div>
 </div>
@@ -301,7 +257,7 @@ Terms &amp; conditions
 <div class="header__top-section col-100 relative">
 <div class="hide-mobile">
 </div>
-<div class="mobile-hidden float-left float-right-tablet inline-block">
+<div class="mobile-hidden float-left float-right-tablet-down inline-block">
 <li class="col-50 align-center text-center float-left mobile-only header__userpanel--storefinder">
 <a href="https://www.ctshirts.com/us/stores" class="header__top-section--text header__top-section--store-link float-left"><span class="icons icon-storefinder m-right-xs"></span>Our Stores</a>
 </li>
@@ -401,7 +357,7 @@ Your shopping bag is empty
 <div class="js-minicart-overlay minicart__overlay"></div>
 </div>
 </div>
-<nav id="navigation" role="navigation" class="navigation navigation--mobile relative">
+<nav id="navigation" role="navigation" class="navigation navigation--mobile">
 <div class="main__area--mobile-nav">
 <ul id="navigation-li-container" class="js-navigation js-overlay menu-category level-1 navigation__li-container navigation__li-container--main">
 <li class="col-100 align-centertext-center mobile-only header__userpanel--login">
@@ -412,8 +368,6 @@ Your shopping bag is empty
 My account
 </a>
 </li>
-<div class="hide-shared">
-</div>
 <div class="mobile-only">
 <li class="col-50 align-center text-center float-left mobile-only header__userpanel--storefinder">
 <a href="https://www.ctshirts.com/us/stores" class="header__top-section--text header__top-section--store-link float-left"><span class="icons icon-storefinder m-right-xs"></span>Our Stores</a>
@@ -436,48 +390,51 @@ Shirts
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
 <ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Shirts</span></li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-cat">
+<li class="navigation__second-li navigation__li--mobile mobile-only">
+<span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Shirts</span>
+</li>
+<li class="navigation__second-li navigation__li--mobile navigation__li-cat hide-mobile">
 <span class="navigation__li-all--underline">Shop by category</span>
 </li>
 <li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/mens-shirts/" class="navigation__li-link">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/">
 <span class="navigation__li-all--underline">All Shirts</span>
 </a>
 </li>
 <li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shirts/dress/" data-al-id="shirts-formal-shirts" class=" navigation__li-link">
-Dress shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/dress/">
+<span class="navigation__li-all--underline">Dress shirts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shirts/business-casual/" data-al-id="shirts-business-casual-shirts" class=" navigation__li-link">
-Business casual shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/business-casual/">
+<span class="navigation__li-all--underline">Business casual shirts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shirts/casual/" data-al-id="shirts-casual-shirts" class=" navigation__li-link">
-Casual shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/casual/">
+<span class="navigation__li-all--underline">Casual shirts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shirts/polo-shirts/" data-al-id="shirts-polo-shirts" class=" navigation__li-link">
-Polo shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/polo-shirts/">
+<span class="navigation__li-all--underline">Polo shirts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shirts/luxury/" data-al-id="shirts-luxury-shirts" class=" navigation__li-link">
-Luxury shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/luxury/">
+<span class="navigation__li-all--underline">Luxury shirts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shirts/tuxedo/" data-al-id="shirts-evening-shirts" class=" navigation__li-link">
-Tuxedo shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/tuxedo/">
+<span class="navigation__li-all--underline">Tuxedo shirts</span>
 </a>
 </li>
-</ul></li>
+</ul>
+</li>
 </ul>
 <div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical">
 <li class="navigation__li navigation__li-link"><strong>Shop by fit</strong></li>
@@ -486,40 +443,36 @@ Tuxedo shirts
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/extra-slim-fit/">Extra slim fit</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/super-slim-fit/">Super slim fit</a></li>
 <li class="navigation__li navigation__li--mobile">&nbsp;</li>
-<li class="navigation__li navigation__li-link"><strong>Shop by Print</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/stripe-shirts/">Stripe shirts</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/ni-prince-of-wales-check/">Prince Of Wales check</a></li>
+<li class="navigation__li navigation__li-link"><strong>Shop by Color</strong></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/white-shirt-collection/">White shirts</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/blue-shirt-collection/">Blue shirts</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/pink/">Pink shirts</a></li>
 </ul></div>
 <div class="navigation__banner navigation__banner--wide"><ul class=" navigation__li-container navigation__li-container--vertical">
 <li class="navigation__li navigation__li-link"><strong><img alt="" title="">Collections</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/new-collection/?prefn1=productType&amp;prefv1=shirt&amp;tib=TIB-new-collections">New Shirts</a></li>
 
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/non-iron-shirts/">Non-iron shirts</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/white-shirt-collection/">White shirts</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/blue-shirt-collection/">Blue shirts</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/puppytooth/">Puppytooth shirts</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/triangle-weave-shirts/">Triangle weave</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/tyrwhitt-cool-shirts/">Tyrwhitt Cool </a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/stretch-shirts/">Stretch shirts</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/dash-weave-shirts/">Dash weave</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/cotton-linen-shirts/">Linen shirts</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/tyrwhitt-cool-shirts/">Tyrwhitt Cool </a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shirts/ni-prince-of-wales-check/">Prince Of Wales check</a></li>
 </ul>
 <ul class="desktop-only navigation__li-container navigation__li-container--vertical">
 <li class="navigation__li navigation__li-link"><strong>Explore</strong></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/shirtfinder">Shirt finder</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/style-tips/advice/how-to-measure-for-a-shirt/">Measure for a shirt</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/travel-edit/">Travel in style</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/tech-styles/">Tyrwhitt tech</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/stretch-collection/">The Stretch Edit</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" style="color:#D5B779" href="https://www.ctshirts.com/us/exclusive-collection/">Exclusive Collection</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/what-to-wear-to-a-wedding/">Wedding style guide</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/vacation-shop/">Holiday shop</a></li>
+<li class="navigation__li navigation__li--mobile">&nbsp;</li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--banner">
-<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/bestsellers/">
+<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/mens-shirts/latest-arrivals/">
 <div class="ct-nav-banner--container">
 <figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dw244ed44a/shirts.jpg" alt="A pile of shirts" title="shirts">
+<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/en_US/dw1e32b9cb/TopNav-2.jpg" alt="Shirt and tie" title="shirts">
 </figure>
 <div class="ct-nav-banner--text">
-<p>Shop Tyrwhitt's bestsellers</p>
+<p>NEW ARRIVALS</p>
 </div>
 </div>
 </a></li>
@@ -562,16 +515,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -587,64 +540,63 @@ Ties
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
 <ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Ties</span></li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-cat">
+<li class="navigation__second-li navigation__li--mobile mobile-only">
+<span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Ties</span>
+</li>
+<li class="navigation__second-li navigation__li--mobile hide-mobile navigation__li-cat">
 <span class="navigation__li-all--underline">Shop by category</span>
 </li>
 <li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/mens-ties/" class="navigation__li-link">
-<span class="navigation__li-all--underline">All Ties</span>
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/">
+<span class="navigation__li-all--underline">All ties</span>
 </a>
 </li>
 <li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-ties/classic/" data-al-id="ties-classic-ties" class=" navigation__li-link">
-Classic ties
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/classic/">
+<span class="navigation__li-all--underline">Classic ties</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-ties/luxury/" data-al-id="ties-luxury-ties" class=" navigation__li-link">
-Luxury ties
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/luxury/">
+<span class="navigation__li-all--underline">Luxury ties</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-ties/bow/" data-al-id="ties-bow-ties" class=" navigation__li-link">
-Bow ties
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/bow/">
+<span class="navigation__li-all--underline">Bow ties</span>
 </a>
 </li>
-</ul></li>
+</ul>
+</li>
 </ul>
 <div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical ">
 <li class="navigation__li navigation__li-link"><strong>Collections</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/new-collection/?prefn1=productType&amp;prefv1=tie&amp;tib=TIB-new-collections">New Ties</a></li>
-
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/slim/">Slim ties</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/silk/">Silk ties</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/stain-resistant/">Stain resistant ties</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/animal-print/">Animal ties</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/animal-print/">Novelty ties</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/grenadine/">Grenadine ties</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-ties/?prefn1=pattern&amp;prefv1=stripe">Striped ties</a></li>
 </ul></div>
 <div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link"><strong>Explore</strong></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/style-tips/advice/how-to-tie-a-four-in-hand-knot/">The four-in-hand knot</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/style-tips/advice/how-to-tie-a-bow-tie/">How to tie a bow tie</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/tech-styles/">Tyrwhitt tech</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" style="color:#D5B779" href="https://www.ctshirts.com/us/exclusive-collection/">Exclusive Collection</a></li>
+ <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/style-tips/advice/how-to-tie-a-bow-tie/">How to tie a bow tie</a></li>
 <li class="navigation__li navigation__li--mobile">&nbsp;</li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link"></li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--banner">
-<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/mens-ties/luxury/">
+<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/ties/new-season/">
 <div class="ct-nav-banner--container">
 <figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dwe96bdde1/luxuary-ties.jpg" alt="6 luxury ties" title="Luxury Ties">
+<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/en_US/dwcd953176/TopNav-15.jpg" alt="6 ties" title="Shop Ties">
 </figure>
 <div class="ct-nav-banner--text">
-<p>Shop luxury ties</p>
+<p>SHOP NEW TIES</p>
 </div>
 </div>
 </a></li>
@@ -687,16 +639,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -712,73 +664,76 @@ Suits
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
 <ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Suits</span></li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-cat">
-<span class="navigation__li-all--underline">Shop by category</span>
+<li class="navigation__second-li navigation__li--mobile navigation__li-cat hide-mobile">
+<span class="navigation__li-all--underline">Shop by fit</span>
 </li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/mens-suits/" class="navigation__li-link">
-<span class="navigation__li-all--underline">All Suits</span>
-</a>
-</li>
+<br>
 <li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-suits/separates/jackets/" data-al-id="suit-jackets" class=" navigation__li-link">
-Suit jackets
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/">
+<span class="navigation__li-all--underline">All suits</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-suits/separates/pants/" data-al-id="suit-trousers" class=" navigation__li-link">
-Suit pants
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/complete/classic-fit/">
+<span class="navigation__li-all--underline">Classic fit suits</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-suits/separates/vests/" data-al-id="suit-waistcoats" class=" navigation__li-link">
-Suit vests
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/complete/slim-fit/">
+<span class="navigation__li-all--underline">Slim fit suits</span>
 </a>
 </li>
-</ul></li>
+<li class="navigation__li navigation__li--mobile">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/extra-slim-fit/">
+<span class="navigation__li-all--underline">Extra slim fit suits</span>
+</a>
+</li>
+<br>
+
+
+</ul>
+</li>
 </ul>
 <div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical">
-<li class="navigation__li navigation__li-link"><strong>Shop by fit</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits-by-fit/#suits-1-classic">Classic</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits-by-fit/#suits-2-slim">Slim</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits-by-fit/#suits-3-extra-slim">Extra slim</a></li>
-<li class="navigation__li navigation__li--mobile">&nbsp;</li>
-<li class="navigation__li navigation__li-link"><strong>Shop by color</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits-by-color/#suits-1-navy-suits">Navy suits</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits-by-color/#suits-4-black-suits">Black suits</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits-by-color/#suits-3-grey-suits">Grey suits</a></li>
-</ul></div>
-<div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical">
-<li class="navigation__li navigation__li-link"><strong>Collections</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/new-collection/?prefn1=productType&amp;prefv1=suit_set&amp;tib=TIB-new-collections">New Suits</a></li>
-
+<li class="navigation__li navigation__li-link"><strong>Shop by category</strong></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/#suits-1-business">Business suits</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/#suits-2-travel">Travel suits</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/#suits-4-italian">Italian suits</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits-by-occasion/#suits-wedding">Wedding suits</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits-by-occasion/#suits-dinner">Tuxedos</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/#suits-5-twist-suits">Twist Suit</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/complete/tuxedos/">Tuxedos</a></li>
+<li class="navigation__li navigation__li--mobile">&nbsp;</li>
+<li class="navigation__li navigation__li-link"><strong>Shop by color</strong></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/navy/">Navy suits</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/black/">Black suits</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/grey/">Grey suits</a></li>
+</ul></div>
+<div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical">
+
+<li class="navigation__li navigation__li-link"><strong>Shop by product</strong></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-suits/all-suits/">All suits</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits/suit-jackets/">Suit Jackets</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits/suit-pants/">Suit Pants</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits/suit-vests/">Suit Vests</a></li>
+<li class="navigation__li navigation__li--mobile">&nbsp;</li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--vertical">
 <li class="navigation__li navigation__li-link"><strong>Explore</strong></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/how-to-dress-for-a-dinner-party/">Dress for a dinner party</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/tuxedo-shop/">Tuxedo shop</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/what-to-wear-to-a-wedding/">Wedding style guide</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/what-to-wear-for-a-job-interview/">Interview dressing</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/travel-edit/">Travel in style</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" style="color:#D5B779" href="https://www.ctshirts.com/us/exclusive-collection/?prefn1=productType&amp;prefv1=suit_set&amp;tib=TIB-exclusive-collection">Exclusive collection</a></li>
 <li class="navigation__li navigation__li--mobile">&nbsp;</li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--banner">
-<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/mens-suits/#suits-2-travel">
+<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/mens-suits/all-suits/">
 <div class="ct-nav-banner--container">
 <figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dw4868f4eb/travel-suit.jpg" alt="Mannequins in suits" title="Travel Suits">
+<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/en_US/dw69818312/TopNav-14.jpg" alt="Man in suits" title="shop Suits">
 </figure>
 <div class="ct-nav-banner--text">
-<p>Shop travel suits</p>
+<p>Shop Suits</p>
 </div>
 </div>
 </a></li>
@@ -821,16 +776,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -846,61 +801,54 @@ Blazers and jackets
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
 <ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Blazers and jackets</span></li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-cat">
+<li class="navigation__second-li navigation__li--mobile mobile-only">
+<span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">All Blazers and Jackets</span>
+</li>
+<li class="navigation__second-li navigation__li--mobile hide-mobile navigation__li-cat">
 <span class="navigation__li-all--underline">Shop by category</span>
 </li>
 <li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/mens-jackets-and-coats/" class="navigation__li-link">
-<span class="navigation__li-all--underline">All Blazers and jackets</span>
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-jackets-and-coats/">
+<span class="navigation__li-all--underline">All Blazers and Jackets</span>
 </a>
 </li>
 <li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-jackets/" data-al-id="outerwear-jackets" class=" navigation__li-link">
-Sport coats
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-blazers/">
+<span class="navigation__li-all--underline">Blazers</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-blazers/" data-al-id="outerwear-blazers" class=" navigation__li-link">
-Blazers
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-coats/">
+<span class="navigation__li-all--underline">Coats</span>
 </a>
 </li>
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-coats/" data-al-id="outerwear-coats" class=" navigation__li-link">
-Coats
-</a>
+</ul>
 </li>
-</ul></li>
 </ul>
 <div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical">
 <li class="navigation__li navigation__li-link"><strong>Collections</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/new-collection/?prefn1=productType&amp;prefv1=jacket_casual%7Cjacket_blazer&amp;tib=TIB-new-collections">New Blazers and Jackets</a></li>
-
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-outerwear/jackets/casual/">Casual coats</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-coats/?prefn1=coatStyle&amp;prefv1=overcoat&amp;tib=TIB-outerwear-coats">Overcoats</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-coats/?prefn1=coatStyle&amp;prefv1=raincoat&amp;tib=TIB-outerwear-coats">Raincoats</a></li>
 </ul></div>
 <div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link"><strong>Explore</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-casualwear/">Casualwear Essentials</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/business-casual-style/">Business Casual Style</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/tech-styles/">Tyrwhitt tech</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/stretch-collection/">The Stretch Edit</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" style="color:#D5B779" href="https://www.ctshirts.com/us/exclusive-collection/?prefn1=productType&amp;prefv1=Blazers&amp;tib=TIB-exclusive-collection">Exclusive collection</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-casualwear/">Casualwear essentials</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/business-casual-style/">Business casual style</a></li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link"></li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--banner">
-<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/navy-knit-back-vest/OUC0046NAV.html">
+<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/jackets-coats/new-season/">
 <div class="ct-nav-banner--container">
 <figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dwa93354e6/TopNav-US-vest.jpg" alt="Shop Vest" title="Shop Vest">
+<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/en_US/dw14368a06/TopNav-4.jpg" alt="man wearing a jacket in stairs" title="Shop outerwear">
 </figure>
 <div class="ct-nav-banner--text">
-<p>Shop Knitted Vest</p>
+<p>NEW ARRIVALS</p>
 </div>
 </div>
 </a></li>
@@ -943,16 +891,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -968,60 +916,57 @@ Sweaters
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
 <ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Sweaters</span></li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-cat">
+<li class="navigation__second-li navigation__li--mobile mobile-only">
+<span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Sweaters</span>
+</li>
+<li class="navigation__second-li navigation__li--mobile hide-mobile navigation__li-cat">
 <span class="navigation__li-all--underline">Shop by category</span>
 </li>
 <li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/mens-sweaters/" class="navigation__li-link">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-sweaters/">
 <span class="navigation__li-all--underline">All Sweaters</span>
 </a>
 </li>
 <li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-sweaters/sweaters/" data-al-id="knitwear-jumpers" class=" navigation__li-link">
-Sweaters
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-sweaters/sweaters/">
+<span class="navigation__li-all--underline">Sweaters</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-knitwear/cardigans/" data-al-id="knitwear-cardigans" class=" navigation__li-link">
-Cardigans
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-knitwear/cardigans/">
+<span class="navigation__li-all--underline">Cardigans</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-knitwear/vests/" data-al-id="knitwear-waistcoats" class=" navigation__li-link">
-Vests
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-knitwear/vests/">
+<span class="navigation__li-all--underline">Knitted Vests</span>
 </a>
+</li></ul>
 </li>
-</ul></li>
 </ul>
 <div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical ">
 <li class="navigation__li navigation__li-link"><strong>Collections</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/new-collection/?prefn1=productType&amp;prefv1=knitwear_jumper&amp;tib=TIB-new-collections">New Sweaters</a></li>
-
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-casualwear/knitwear/merino/">Merino sweaters</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-casualwear/knitwear/pure-cashmere/">Cashmere sweaters</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-casualwear/chunky-knits/">Chunky knits</a></li></ul></div>
 <div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link"><strong>Explore</strong></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-casualwear/">Casualwear essentials</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/business-casual-style/">Business Casual Style</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/travel-edit/">Travel In Style</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/tech-styles/">Tyrwhitt tech</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" style="color:#D5B779" href="https://www.ctshirts.com/us/exclusive-collection/?prefn1=productType&amp;prefv1=Jumpers&amp;tib=TIB-exclusive-collection">Exclusive collection</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/business-casual-style/">Business casual style</a></li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link">&nbsp;</li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--banner">
-<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/mens-casualwear/knitwear/merino/">
+<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/mens-knitwear/new-in/">
 <div class="ct-nav-banner--container">
 <figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dw9a62ce9d/sweaters.jpg" alt="A man weraring a sweater" title="Merino Sweaters">
-</figure>
+<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/en_US/dw40759fb6/TopNav-5.jpg" alt="A man wearing a sweater" title="shop Sweaters">
+ </figure>
 <div class="ct-nav-banner--text">
-<p>Shop merino sweaters</p>
+<p>New Sweaters</p>
 </div>
 </div>
 </a></li>
@@ -1064,16 +1009,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -1088,71 +1033,77 @@ Pants
 </span>
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
-<ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Pants</span></li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-cat">
-<span class="navigation__li-all--underline">Shop by category</span>
-</li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/mens-pants/" class="navigation__li-link">
-<span class="navigation__li-all--underline">All Pants</span>
-</a>
-</li>
-<li class="navigation__col">
-<ul class="navigation__li-container">
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-pants/chinos/" data-al-id="trousers-chinos" class=" navigation__li-link">
-Chinos
-</a>
-</li>
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-pants/business-casual/" data-al-id="trousers-business-casual" class=" navigation__li-link">
-Business casual pants
-</a>
-</li>
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-pants/corduroys/" data-al-id="trousers-cords" class=" navigation__li-link">
-Cords
-</a>
-</li>
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-pants/shorts/" data-al-id="shorts" class=" navigation__li-link">
-Shorts
-</a>
-</li>
-</ul></li>
-</ul>
-<div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical ">
-<li class="navigation__li navigation__li-link"><strong>Collections</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/new-collection/?prefn1=productType&amp;prefv1=trousers&amp;tib=TIB-new-collections">New Pants</a></li>
 
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-casualwear/pants/chinos/non-iron/">Non-iron chinos</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-pants/stretch-chinos/">Stretch chinos</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/non-iron-stretch-pants/">Stretch pants</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-trousers/easy-care-linen-trousers/">Easy care linen pants</a></li>
+<ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
+
+
+<li class="navigation__second-li navigation__li-all m-bottom-s mobile-only">
+<a class="navigation__li-link underline" href="https://www.ctshirts.com/us/mens-pants/"> All pants</a>
+</li>
+
+<li class="navigation__second-li navigation__li-cat uppercase-desktop"><a class="navigation__li-link m-bottom-m mob-m-bottom-z" href="https://www.ctshirts.com/us/mens-pants/dressed-to-the-nines/"> Dressed to the nines </a></li>
+<li class="navigation__second-li navigation__li-cat hide-mobile"> Our tapered pants</li>
+
+<li class="navigation__col hide-mobile">
+<ul class="navigation__li-container">
+<li class="navigation__li"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-pants/dressed-to-the-nines/#sub-cat trousers-non-iron-chinos"> Non-iron chinos </a></li>
+<li class="navigation__li"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-pants/dressed-to-the-nines/#sub-cat trousers-stretch-textured-trousers"> Stretch textured pants</a></li>
+<li class="navigation__li"> 
+</li>
+</ul>
+</li>
+</ul>
+<div class="navigation__banner">
+<ul class="navigation__li-container--vertical hide-mobile navigation__li-container navigation__li-container-secondary">
+
+<li class="navigation__second-li navigation__li-cat uppercase-desktop"><a class="navigation__li-link m-bottom-m mob-m-bottom-z" href="https://www.ctshirts.com/us/mens-pants/dressed-24-7/"> Dressed 24/7 </a></li>
+<br>
+<li class="navigation__second-li navigation__li-cat hide-mobile"> Our narrower pants</li>
+
+<li class="navigation__li"><a class="navigation__li-link hide-mobile" href="https://www.ctshirts.com/us/mens-pants/dressed-24-7/#sub-cat trousers-ultimate-chinos"> Ultimate chinos </a></li>
+</ul>
+
+<ul class="navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
+
+<li class="navigation__second-li navigation__li-cat mobile-only uppercase-desktop"><a class="navigation__li-link m-bottom-m mob-m-bottom-z" href="https://www.ctshirts.com/us/mens-pants/dressed-24-7/"> Dressed 24/7 </a></li>
 </ul></div>
-<div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical desktop-only">
-<li class="navigation__li navigation__li-link"><strong>Explore</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-casualwear/">Casualwear Essentials</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/business-casual-style/">Business Casual Style</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/travel-edit/">Travel In Style</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/stretch-collection/">The Stretch Edit</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" style="color:#D5B779" href="https://www.ctshirts.com/us/exclusive-collection/?prefn1=productType&amp;prefv1=trousers&amp;tib=TIB-exclusive-collection">Exclusive collection</a></li>
+<div class="navigation__banner navigation__banner--wide">
+<ul class="navigation__li-container--vertical hide-mobile navigation__li-container navigation__li-container-secondary">
+
+<li class="navigation__second-li navigation__li-cat uppercase-desktop"><a class="navigation__li-link m-bottom-m mob-m-bottom-z" href="https://www.ctshirts.com/us/mens-pants/dressed-to-chill/"> Dressed to chill </a></li>
+<br>
+<li class="navigation__second-li navigation__li-cat hide-mobile"> Our relaxed pants</li>
+
+<li class="navigation__li"><a class="navigation__li-link hide-mobile" href="https://www.ctshirts.com/us/mens-pants/dressed-to-chill/#sub-cat trousers-softwashed-chinos"> Soft washed chinos </a></li>
 </ul>
-<ul class="navigation__li-container navigation__li-container--vertical desktop-only">
-<li class="navigation__li navigation__li-link"></li>
+
+<ul class="navigation__li-container--vertical mobile-only navigation__li-container navigation__li-container-secondary">
+
+<li class="navigation__second-li navigation__li-cat uppercase-desktop"><a class="navigation__li-link m-bottom-m mob-m-bottom-z" href="https://www.ctshirts.com/us/mens-pants/dressed-to-chill/"> Dressed to chill </a></li>
 </ul>
-<ul class="navigation__li-container navigation__li-container--banner">
-<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/mens-pants/stretch-chinos/">
-<div class="ct-nav-banner--container">
-<figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dwa025b007/TopNav5-UK.jpg" alt="New Season Stretch Chinos" title="Stretch Chinos">
-</figure>
-<div class="ct-nav-banner--text">
-<p>Shop Stretch Chinos</p>
-</div>
-</div>
-</a></li>
+
+<ul class="navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
+
+<li class="navigation__second-li navigation__li-cat uppercase-desktop"><a class="navigation__li-link m-bottom-m mob-m-bottom-z" href="https://www.ctshirts.com/us/mens-pants/dressed-like-jeans/"> Dressed like jeans </a></li>
+<li class="navigation__second-li navigation__li-cat hide-mobile"> Our 5-pocket pants</li>
+
+<li class="navigation__li"><a class="navigation__li-link hide-mobile" href="https://www.ctshirts.com/us/mens-pants/dressed-like-jeans/#sub-cat trousers-5-pocket-trousers"> 5-pocket pants </a></li>
+</ul>
+
+
+<ul class="navigation__li-container--vertical navigation__li-container navigation__li-container-secondary border-dark-grey no-border-top no-border-bottom no-border-right p-left-m p-bottom-m mob-p-all-z no-border-mob">
+
+<li class="navigation__li"><span class="navigation__li-link bold m-bottom-m mob-m-bottom-z mob-m-top-m uppercase-desktop"> Explore </span></li>
+
+<li class="navigation__li"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-pants/chinos/"> Chinos </a></li>
+<li class="navigation__li"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-pants/shorts/"> Shorts </a></li>
+<li class="navigation__li"><a class="navigation__li-link" href="https://www.ctshirts.com/us/suits/suit-pants/"> Suit pants</a></li>
+<li class="navigation__li"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-pants/"> All pants</a></li>
+<li class="navigation__li"> 
+<hr class="hide-mobile col-100 divider--horizontal m-ends-m">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/about-our-trousers.html"> About our pants</a>
+</li>
+<li class="navigation__li"><a class="navigation__li-link" href="https://www.ctshirts.com/us/businesscasual/how-to-dress-business-casual.html"> How to dress business casual </a></li>
 </ul></div>
 </div>
 <div class="navigation__merchandising-slot">
@@ -1192,16 +1143,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -1217,38 +1168,41 @@ Shoes
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
 <ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Shoes</span></li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-cat">
+<li class="navigation__second-li navigation__li--mobile mobile-only">
+<span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Shoes</span>
+</li>
+<li class="navigation__second-li navigation__li--mobile hide-mobile navigation__li-cat">
 <span class="navigation__li-all--underline">Shop by category</span>
 </li>
 <li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/mens-shoes/" class="navigation__li-link">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/">
 <span class="navigation__li-all--underline">All Shoes</span>
 </a>
 </li>
 <li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shoes/business/" data-al-id="shoes-business-shoes" class=" navigation__li-link">
-Dress shoes
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/business/">
+<span class="navigation__li-all--underline">Dress shoes</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shoes/business-casual/" data-al-id="shoes-business-casual-shoes" class=" navigation__li-link">
-Business casual shoes
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/business-casual/">
+<span class="navigation__li-all--underline">Business casual shoes</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shoes/casual/" data-al-id="shoes-casual-shoes" class=" navigation__li-link">
-Casual shoes
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/casual/">
+<span class="navigation__li-all--underline">Casual shoes</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-shoes/boots/" data-al-id="shoes-boots" class=" navigation__li-link">
-Boots
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/boots/">
+<span class="navigation__li-all--underline">Boots</span>
 </a>
 </li>
-</ul></li>
+</ul>
+</li>
 </ul>
 <div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical">
 <li class="navigation__li navigation__li-link"><strong>Shop by Style</strong></li>
@@ -1258,32 +1212,30 @@ Boots
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/monk/">Monk shoes</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/oxford/">Oxford shoes</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/sneakers/">Sneakers</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/boat/">Boat shoes</a></li>
 </ul></div>
 <div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical ">
 <li class="navigation__li navigation__li-link"><strong>Collections</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/new-collection/?prefn1=productType&amp;prefv1=shoes&amp;tib=TIB-new-collections">New Shoes</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/goodyear-welted/">Goodyear welted shoes</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/made-in-england/">Made in England shoes</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/shoes-rubber-soled-shoes/">Rubber soled shoes</a></li>
 
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/goodyear-welted/">Goodyear Welted Shoes</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/made-in-england/">Made in England Shoes</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/shoes-rubber-soled-shoes/">Rubber Soled Shoes</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/extra-lightweight-soles/">Extra Lightweight Shoe</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/flex-soles/">Flex Sole Shoe</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/ultimate-comfort/">Performance Shoes</a></li>
+
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-shoes/ultimate-comfort/">Performance shoes</a></li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link"><strong>Explore</strong></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/about-our-shoe-range/">About our shoe range</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="/us/how-to-care-for-your-shoes/">Caring for your shoes</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/vacation-shop/">Holiday shop</a></li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--banner">
-<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/mens-shoes/goodyear-welted/">
-<div class="ct-nav-banner--container"> 
+<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/shoes/new-season/">
+<div class="ct-nav-banner--container">
 <figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dwf7512f28/shoes.jpg" alt="A pair of shoes" title="Goodyear Welted shoes">
+<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/en_US/dw58b99f3d/TopNav-10.jpg" alt="A pair of shoes" title="shop shoes">
 </figure>
 <div class="ct-nav-banner--text">
-<p>Shop Goodyear Welted Shoes</p>
+<p>New Season Shoes</p>
 </div>
 </div>
 </a></li>
@@ -1326,16 +1278,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -1350,95 +1302,117 @@ Accessories
 </span>
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
-<ul class="navigation__li-container-secondary--double navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop Accessories</span></li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-cat">
+<ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
+<li class="navigation__second-li navigation__li--mobile navigation__li-cat hide-mobile">
 <span class="navigation__li-all--underline">Shop by category</span>
 </li>
-<li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/mens-accessories/" class="navigation__li-link">
-<span class="navigation__li-all--underline">All Accessories</span>
-</a>
-</li>
+<br>
 <li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/belts/" data-al-id="accessories-belts" class=" navigation__li-link">
-Belts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/">
+<span class="navigation__li-all--underline">All accessories</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/collar-stays/" data-al-id="accessories-collar-stiffeners" class=" navigation__li-link">
-Collar stays
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/belts/">
+<span class="navigation__li-all--underline">Belts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/cufflinks/" data-al-id="accessories-cufflinks" class=" navigation__li-link">
-Cufflinks
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/boxer-shorts/">
+<span class="navigation__li-all--underline">Underwear</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/gloves/" data-al-id="accessories-gloves" class=" navigation__li-link">
-Gloves
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/suspenders/">
+<span class="navigation__li-all--underline">Suspenders</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/tshirts-and-pajamas/" data-al-id="accessories-tshirts-pyjamas" class=" navigation__li-link">
-Nightwear
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/collar-stays/">
+<span class="navigation__li-all--underline">Collar stiffeners</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/pocket-squares/" data-al-id="accessories-pocket-squares" class=" navigation__li-link">
-Pocket squares
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/cufflinks/">
+<span class="navigation__li-all--underline">Cufflinks</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/scarves/" data-al-id="accessories-scarves" class=" navigation__li-link">
-Scarves
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/gloves/">
+<span class="navigation__li-all--underline">Gloves</span>
 </a>
 </li>
-</ul></li>
-<li class="navigation__col navigation__col--second">
+<li class="navigation__li navigation__li--mobile">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/pocket-squares/">
+<span class="navigation__li-all--underline">Pocket squares</span>
+</a>
+</li>
+<li class="navigation__li navigation__li--mobile">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/scarves/">
+<span class="navigation__li-all--underline">Scarves</span>
+</a>
+</li>
+<li class="navigation__li navigation__li--mobile mobile-only">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/shoe-care/">
+<span class="navigation__li-all--underline">Shoe care</span>
+</a>
+</li>
+<li class="navigation__li navigation__li--mobile mobile-only">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/socks/">
+<span class="navigation__li-all--underline">Socks</span>
+</a>
+</li>
+<li class="navigation__li navigation__li--mobile mobile-only">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/tshirts-and-pajamas/">
+<span class="navigation__li-all--underline">Nightwear</span>
+</a>
+</li>
+<li class="navigation__li navigation__li--mobile mobile-only">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/umbrellas/">
+<span class="navigation__li-all--underline">Umbrellas</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary hide-mobile">
+<li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/shoe-care/" class=" navigation__li-link">
-Shoe care
+</li>
+<br><br>
+<li class="navigation__li navigation__li--mobile">
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/shoe-care/">
+<span class="navigation__li-all--underline">Shoe care</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/socks/" class=" navigation__li-link">
-Socks
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/socks/">
+<span class="navigation__li-all--underline">Socks</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/suspenders/" class=" navigation__li-link">
-Suspenders
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/tshirts-and-pajamas/">
+<span class="navigation__li-all--underline">Nightwear</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/tie-bars/" class=" navigation__li-link">
-Tie bars
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/umbrellas/">
+<span class="navigation__li-all--underline">Umbrellas</span>
 </a>
 </li>
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/umbrellas/" class=" navigation__li-link">
-Umbrellas
-</a>
+<br>
+</ul>
 </li>
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/mens-accessories/boxer-shorts/" class=" navigation__li-link">
-Underwear
-</a>
-</li>
-</ul></li>
 </ul>
 <div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link"><strong>Collections</strong></li>
 
-
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/cufflinks/?prefn1=cufflinkRange&amp;prefv1=enamel">Enamel Cufflinks</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/cufflinks/?prefn1=cufflinkRange&amp;prefv1=luxury">Luxury Cufflinks</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/cufflinks/?prefn1=cufflinkRange&amp;prefv1=cuffknot">Cuff Knot</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/cufflinks/?prefn1=cufflinkRange&amp;prefv1=enamel">Enamel cufflinks</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/cufflinks/?prefn1=cufflinkRange&amp;prefv1=luxury">Luxury cufflinks</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/mens-accessories/cufflinks/?prefn1=cufflinkRange&amp;prefv1=cuffknot">Cuff knot</a></li>
 </ul></div>
 <div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical desktop-only">
 <li class="navigation__li navigation__li-link"><strong>Explore</strong></li>
@@ -1448,13 +1422,13 @@ Underwear
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/emailgiftvoucher">Email gift voucher</a></li>
 </ul>
 <ul class="navigation__li-container navigation__li-container--banner">
-<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/search?cgid=%09accessories-socks">
+<li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/accessories/new-season/">
 <div class="ct-nav-banner--container">
 <figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dw51bdac3c/TopNav8-AUS.jpg" alt="Socks improved fit" title="Socks improved fit">
+<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/en_US/dw068262b2/TopNav-12.jpg" alt="Set of Cufflinks" title="shop accessories">
 </figure>
 <div class="ct-nav-banner--text">
-<p>Socks improved fit</p>
+<p>New Season Accessories</p>
 </div>
 </div>
 </a></li>
@@ -1497,16 +1471,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -1517,88 +1491,78 @@ We take your information very seriously. Our site is 100% secure and we’ll kee
 <li class="navigation__li navigation__li--main navigation__li--mobile navigation__li--clearance">
 <span class="navigation__tablet--helper js-tablet-android"></span>
 <span data-hover="false" id="clearance" class="has-sub-menu js-maincat navigation__li-link navigation__li-link--color navigation__li-link--clearance navigation__li-link--has-sub" data-link="https://www.ctshirts.com/us/clearance/">
-SALE
+Sale
 </span>
 <div class="level-2 navigation__level">
 <div class="navigation__level-container">
-<ul class="navigation__li-container-secondary--double navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
-<li class="navigation__second-li navigation__li--mobile mobile-only"><span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop SALE</span></li>
+<ul class=" navigation__li-container--vertical navigation__li-container navigation__li-container-secondary">
+<li class="navigation__second-li navigation__li--mobile mobile-only">
+<span class="navigation__li-link navigation__li-link--no-b navigation__li-link--color">Shop sale</span>
+</li>
 <li class="navigation__second-li navigation__li--mobile navigation__li-cat">
 <span class="navigation__li-all--underline">Shop by category</span>
 </li>
 <li class="navigation__second-li navigation__li--mobile navigation__li-all">
-<a href="https://www.ctshirts.com/us/clearance/" class="navigation__li-link">
-<span class="navigation__li-all--underline">All SALE</span>
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance/">
+<span class="navigation__li-all--underline">All sale</span>
 </a>
 </li>
 <li class="navigation__col">
 <ul class="navigation__li-container">
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-shirts/shirts/" data-al-id="clr_shirts" class=" navigation__li-link">
-Shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/">
+<span class="navigation__li-all--underline">Shirts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-shirts/dress/" data-al-id="clr_shirts-formal-shirts" class=" navigation__li-link">
-Dress shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/dress/">
+<span class="navigation__li-all--underline">Dress Shirts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-shirts/casual/" data-al-id="clr_shirts-casual-shirts" class=" navigation__li-link">
-Casual shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/casual/">
+<span class="navigation__li-all--underline">Casual Shirts</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-mens-suits/" data-al-id="clr_suits" class=" navigation__li-link">
-Suits
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/search?cgid=clr_suits-new">
+<span class="navigation__li-all--underline">Suits</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-mens-outerwear/" data-al-id="clr_outerwear" class=" navigation__li-link">
-Blazers &amp; jackets
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-mens-trousers/">
+<span class="navigation__li-all--underline">Pants</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-mens-sweaters/" data-al-id="clr_knitwear" class=" navigation__li-link">
-Sweaters
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-mens-sweaters/">
+<span class="navigation__li-all--underline">Knitwear</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-mens-trousers/" data-al-id="clr_trousers" class=" navigation__li-link">
-Pants
-</a>
-</li>
-</ul></li>
-<li class="navigation__col navigation__col--second">
-<ul class="navigation__li-container">
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-mens-polo-shirts/" class=" navigation__li-link">
-Polo shirts
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-mens-outerwear/">
+<span class="navigation__li-all--underline">Blazers and Jackets</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-mens-shoes/" class=" navigation__li-link">
-Shoes
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-mens-shoes/">
+<span class="navigation__li-all--underline">Shoes</span>
 </a>
 </li>
 <li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-mens-ties/" class=" navigation__li-link">
-Ties
+<a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-mens-accessories/">
+<span class="navigation__li-all--underline">Ties and accessories</span>
 </a>
 </li>
-<li class="navigation__li navigation__li--mobile">
-<a href="https://www.ctshirts.com/us/clearance-mens-accessories/" class=" navigation__li-link">
-Accessories
-</a>
+</ul>
 </li>
-</ul></li>
 </ul>
 <div class="navigation__banner"><ul class="navigation__li-container navigation__li-container--vertical ">
 <li class="navigation__li navigation__li-link"><strong>Shop by shirt fit</strong></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=fit&amp;prefv1=Classic&amp;tib=TIB-Clearance-Shirts">Classic</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=fit&amp;prefv1=Slim&amp;tib=TIB-Clearance-Shirts">Slim</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=fit&amp;prefv1=Extra%20slim&amp;tib=%20%20TIB-Clearance-Shirts">Extra slim</a></li>
-<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=fit&amp;prefv1=Super%20slim&amp;tib=TIB-Clearance-Shirts">Super slim</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=fit&amp;prefv1=Classic%20fit&amp;tib=TIB-Clearance-Shirts">Classic</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=fit&amp;prefv1=Slim%20fit&amp;tib=TIB-Clearance-Shirts">Slim</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=fit&amp;prefv1=Extra%20slim%20fit&amp;tib=%20%20TIB-Clearance-Shirts">Extra slim</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=fit&amp;prefv1=Super%20slim%20fit&amp;tib=TIB-Clearance-Shirts">Super slim</a></li>
 </ul></div>
 <div class="navigation__banner navigation__banner--wide"><ul class="navigation__li-container navigation__li-container--vertical ">
 <li class="navigation__li navigation__li-link"><strong>Shop by collar size</strong></li>
@@ -1611,11 +1575,18 @@ Accessories
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=width&amp;prefv1=17.5%22&amp;tib=%09TIB-Clearance-Shirts">17.5"</a></li>
 <li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/clearance-shirts/shirts/?prefn1=width&amp;prefv1=18%22&amp;tib=%09TIB-Clearance-Shirts">18"</a></li>
 </ul>
+<ul class="navigation__li-container navigation__li-container--vertical desktop-only">
+<li class="navigation__li navigation__li-link"><strong>Shop by suit</strong></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/search?cgid=clr_suits-new&amp;prefn1=productType&amp;prefv1=Suits&amp;tib=TIB-Clearance-Suits">Suits</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/search?cgid=clr_suits-new&amp;prefn1=productType&amp;prefv1=jacket_suit&amp;tib=TIB-Clearance-Suits">Suit jackets</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/search?cgid=clr_suits-new&amp;prefn1=productType&amp;prefv1=trousers_suit&amp;tib=TIB-Clearance-Suits">Suit trousers</a></li>
+<li class="navigation__li navigation__li--mobile"><a class="navigation__li-link" href="https://www.ctshirts.com/us/search?cgid=clr_suits-new&amp;prefn1=productType&amp;prefv1=waistcoat&amp;tib%27=TIB-Clearance-Suits">Vests</a></li>
+</ul>
 <ul class="navigation__li-container navigation__li-container--banner">
 <li class="navigation__li--banner"><a href="https://www.ctshirts.com/us/clearance/">
 <div class="ct-nav-banner--container">
 <figure>
-<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/default/dw89041c19/TopNav-Arrow-Weave.jpg" alt="shop sale" title="shop sale">
+<img src="https://www.ctshirts.com/on/demandware.static/-/Sites-ctshirts-site-us/en_US/dw32be2ffb/TopNav1-AUS.jpg" alt="shop sale" title="shop sale">
 </figure>
 <div class="ct-nav-banner--text">
 <p>Shop Sale</p>
@@ -1661,16 +1632,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -1724,16 +1695,16 @@ Don’t just take our word for it. Read unbiased reviews and ratings by fellow s
 </div>
 <div class="ct-global-benefit ct-checkout--container checkout-content-asset relative">
 <figure>
-<img alt="100% secure padlock icon" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw07852bd9/images/padlock.svg">
+<img alt="Returns symbol" src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw48837d72/images/delivery-returns.svg">
 <figcaption>
-<h4>100% Secure</h4>
+<h4>Free Returns On Pants</h4>
 </figcaption>
 </figure>
 <div class="js-cust-msg">
 <hr>
 <p class="text-center">
 
-We take your information very seriously. Our site is 100% secure and we’ll keep payment and personal data confidential.
+Try our pants on for size with no charge to return them.
 </p>
 </div>
 </div>
@@ -1785,29 +1756,7 @@ Affiliate programme
 </a>
 </li>
 <li class="styletips__sidebar-link-item">
-<a href="/us/noname/about-us/noname-2/" title="null">
-</a>
-</li>
-<li class="styletips__sidebar-link-item">
-<a href="/us/modern-slavery-statement/" title="Modern slavery statement">
-Modern slavery statement
-</a>
-</li>
-<li class="styletips__sidebar-link-item">
-<a href="/us/ethical-trading-policy/" title="Ethical Trading Policy">
-Ethical Trading Policy
-</a>
-</li>
-<li class="styletips__sidebar-link-item">
 <a href="/us/noname/about-us/noname-6/" title="null">
-</a>
-</li>
-<li class="styletips__sidebar-link-item">
-<a href="/us/noname/about-us/noname-8/" title="null">
-</a>
-</li>
-<li class="styletips__sidebar-link-item">
-<a href="/us/noname/about-us/noname-3/" title="null">
 </a>
 </li>
 <li class="styletips__sidebar-link-item">
@@ -1816,7 +1765,17 @@ Accessibility Policy
 </a>
 </li>
 <li class="styletips__sidebar-link-item">
+<a href="/us/jermyn-street/" title="About Jermyn Street">
+About Jermyn Street
+</a>
+</li>
+<li class="styletips__sidebar-link-item">
 <a href="/us/noname/about-us/noname-5/" title="null">
+</a>
+</li>
+<li class="styletips__sidebar-link-item">
+<a href="/us/about-nick/" title="About Nick">
+About Nick
 </a>
 </li>
 </ul>
@@ -1830,7 +1789,7 @@ Terms and conditions
 </a>
 </li>
 <li class="styletips__sidebar-link-item">
-<a href="/us/privacy-policy/" title="Privacy notice" style="background: rgb(238, 238, 238);">
+<a href="/us/privacy-policy/" title="Privacy notice">
 Privacy notice
 </a>
 </li>
@@ -1844,11 +1803,29 @@ Cookie Policy
 </a>
 </li>
 <li class="styletips__sidebar-link-item">
-<a href="/us/noname/legal-information/noname-2/" title="null">
+<a href="/us/noname/legal-information/noname-3/" title="null">
 </a>
 </li>
 <li class="styletips__sidebar-link-item">
-<a href="/us/noname/legal-information/noname-4/" title="null">
+<a href="/us/noname/legal-information/noname-6/" title="null">
+</a>
+</li>
+<li class="styletips__sidebar-link-item">
+<a href="/us/ethical-trading-policy/" title="Ethical Trading Policy">
+Ethical Trading Policy
+</a>
+</li>
+<li class="styletips__sidebar-link-item">
+<a href="/us/modern-slavery-statement/" title="Modern slavery statement">
+Modern slavery statement
+</a>
+</li>
+<li class="styletips__sidebar-link-item">
+<a href="/us/noname/legal-information/noname-5/" title="null">
+</a>
+</li>
+<li class="styletips__sidebar-link-item">
+<a href="/us/noname/legal-information/noname-2/" title="null">
 </a>
 </li>
 </ul>
@@ -1910,7 +1887,7 @@ Cookie Policy
 <li>To notify you about changes to our service.</li>
 </ul>
 <p>We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post.</p>
- <p>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.</p>
+<p>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.</p>
 <p>If you are a new customer, and where we permit selected third parties to use your data, we (or they) may contact you with ads on our behalf across the Internet or to send postal mail to visitors we think may be interested in our products or services. To do this, the third parties will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving postal mail.</p>
 <p>If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).</p>
 </article>
@@ -1991,7 +1968,7 @@ We will keep you posted on new products and great offers
 </div>
 </div>
 </fieldset>
-<input type="hidden" name="dwfrm_footernewsletter_securekey" value="568791902">
+<input type="hidden" name="dwfrm_footernewsletter_securekey" value="1086685983">
 </form>
 </div>
 </div>
@@ -2024,6 +2001,8 @@ We will keep you posted on new products and great offers
 <li><a href="https://www.ctshirts.com/us/privacy-policy/" title="Privacy Policy" aria-label="Privacy Policy">Privacy policy</a></li>
 <li><a href="https://www.ctshirts.com/us/cookie-policy/" title="Cookies Policy" aria-label="Cookie Policy">Our cookie policy</a></li>
 <li><a href="https://www.ctshirts.com/us/accessibility-policy/" title="Accessibility Policy" aria-label="Accessibility Policy">Accessibility Policy</a></li>
+<li><a href="https://www.ctshirts.com/us/ethical-trading-policy/" title="Ethical trading policy" aria-label="Ethical trading policy">Ethical trading policy</a></li>
+<li><a href="https://www.ctshirts.com/us/modern-slavery-statement/" title="Modern Slavery Statement" aria-label="Modern Slavery Statement">Modern Slavery Statement</a></li>
 </ul>
 </div> 
 </div>
@@ -2035,9 +2014,11 @@ We will keep you posted on new products and great offers
 
 <p class="list-title mob-m-bottom-m">About Us</p>
 <ul class="unstyled-list link-list">
+<li><a href="https://www.ctshirts.com/us/jermyn-street.html" title="About Jermyn Street" aria-label="About Jermyn Street">About Jermyn Street</a></li>
+<li><a href="https://www.ctshirts.com/us/about-nick.html" title="About Nick" aria-label="About Nick">About Nick</a></li>
 <li><a href="https://www.ctshirts.com/us/stores?source=footer" title="Our Stores" aria-label="Our Stores">Our Stores</a></li>
 <li><a href="https://www.ctshirts.com/us/our-history/" title="Our History" aria-label="Our History">Our History</a></li>
-<li><a href="https://www.ctshirts.com/us/modern-slavery-statement/" title="Modern Slavery Statement" aria-label="Modern Slavery Statement">Modern Slavery Statement</a></li>
+<li><a href="http://www.thehomeofproperjobs.co.uk" target="_blank" title="Careers" aria-label="Careers">Careers</a></li>
 </ul>
 </div> 
 </div>
@@ -2051,7 +2032,6 @@ We will keep you posted on new products and great offers
 <ul class="unstyled-list link-list">
 <li><a href="https://www.ctshirts.com/us/style-tips/" title="Style Hints &amp; Tips" aria-label="Style Hints &amp; Tips">Style Hints &amp; Tips</a></li>
 <li><a href="https://www.ctshirts.com/us/request-a-catalog?source=footer" title="Request a Catalogue" aria-label="Request a Catalogue">Request a Catalogue</a></li>
-<li><a href="http://www.thehomeofproperjobs.co.uk" target="_blank" title="Careers" aria-label="Careers">Careers</a></li>
 <li><a href="https://www.ctshirts.com/us/coupons/" title="Coupons" aria-label="Coupons">Coupons</a></li>
 <li><a href="https://www.ctshirts.com/us/emailgiftvoucher" title="Email gift vouchers" aria-label="Email gift vouchers">Email gift vouchers</a></li>
 <li><a href="https://www.ctshirts.com/us/papergiftvoucher" title="Paper gift vouchers" aria-label="Paper gift voucherst">Paper gift vouchers</a></li>
@@ -2061,16 +2041,19 @@ We will keep you posted on new products and great offers
 <div class="content-asset">
 <style>
 .navigation__li-link--social{width:3rem;height:3rem;}
-.fa-facebook,.fa-instagram{height:3rem;width:3rem;display:block}
+.fa-facebook,.fa-instagram,.fa-twitter{height:3rem;width:3rem;display:block}
 .fa-facebook{background:url(https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwf5e3faa5/images/icons/social-media/icon_facebook.svg) no-repeat 50% 0/cover}
 .fa-instagram{background:url(https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwbdde263f/images/icons/social-media/icon_instagram.svg) no-repeat 50% 0/cover}
+.fa-twitter{background:url(https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwde862c03/images/icons/social-media/icon_twitter.svg) no-repeat 50% 0/cover}
 
-@media only screen and (min-width: 736px) { .fa-facebook,.fa-instagram {margin-left: -.8rem;} }
+@media only screen and (min-width: 736px) { .fa-facebook,.fa-instagram,.fa-twitter {margin-left: -.8rem;} }
+@media only screen and (max-width: 736px) { .fa-twitter{width: 4.6rem;height: 4rem;} }
 </style>
 <ul class="social navigation__li-container navigation__li-container--footer-social m-left-z">
 <li class="navigation__li navigation__li--main"><a class="navigation__li-link navigation__li-link--social" target="_blank" title="Charles Tyrwhitt on Facebook" href="http://en-gb.facebook.com/CharlesTyrwhitt"><span class="fa fa-facebook circle-icon"></span></a></li>
 
 <li class="navigation__li navigation__li--main"><a class="navigation__li-link navigation__li-link--social" target="_blank" title="Charles Tyrwhitt on Instagram" href="http://instagram.com/charlestyrwhitt"><span class="fa fa-instagram circle-icon"></span></a></li>
+<li class="navigation__li navigation__li--main"><a class="navigation__li-link navigation__li-link--social" target="_blank" title="Charles Tyrwhitt on Twitter" href="http://twitter.com/ctshirts"><span class="fa fa-twitter circle-icon"></span></a></li>
 </ul>
 </div> 
 </div>
@@ -2081,16 +2064,19 @@ We will keep you posted on new products and great offers
 <div class="content-asset">
 <style>
 .navigation__li-link--social{width:3rem;height:3rem;}
-.fa-facebook,.fa-instagram{height:3rem;width:3rem;display:block}
+.fa-facebook,.fa-instagram,.fa-twitter{height:3rem;width:3rem;display:block}
 .fa-facebook{background:url(https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwf5e3faa5/images/icons/social-media/icon_facebook.svg) no-repeat 50% 0/cover}
 .fa-instagram{background:url(https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwbdde263f/images/icons/social-media/icon_instagram.svg) no-repeat 50% 0/cover}
+.fa-twitter{background:url(https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwde862c03/images/icons/social-media/icon_twitter.svg) no-repeat 50% 0/cover}
 
-@media only screen and (min-width: 736px) { .fa-facebook,.fa-instagram {margin-left: -.8rem;} }
+@media only screen and (min-width: 736px) { .fa-facebook,.fa-instagram,.fa-twitter {margin-left: -.8rem;} }
+@media only screen and (max-width: 736px) { .fa-twitter{width: 4.6rem;height: 4rem;} }
 </style>
 <ul class="social navigation__li-container navigation__li-container--footer-social m-left-z">
 <li class="navigation__li navigation__li--main"><a class="navigation__li-link navigation__li-link--social" target="_blank" title="Charles Tyrwhitt on Facebook" href="http://en-gb.facebook.com/CharlesTyrwhitt"><span class="fa fa-facebook circle-icon"></span></a></li>
 
 <li class="navigation__li navigation__li--main"><a class="navigation__li-link navigation__li-link--social" target="_blank" title="Charles Tyrwhitt on Instagram" href="http://instagram.com/charlestyrwhitt"><span class="fa fa-instagram circle-icon"></span></a></li>
+<li class="navigation__li navigation__li--main"><a class="navigation__li-link navigation__li-link--social" target="_blank" title="Charles Tyrwhitt on Twitter" href="http://twitter.com/ctshirts"><span class="fa fa-twitter circle-icon"></span></a></li>
 </ul>
 </div> 
 </div>
@@ -2113,7 +2099,6 @@ We will keep you posted on new products and great offers
 <li class="payment-info__li"><img src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwdea69517/images/payment_methods/visa.png" alt="Visa accepted"></li>
 <li class="payment-info__li"><img src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw112d69fd/images/payment_methods/amex.png" alt="American Express accepted"></li>
 <li class="payment-info__li"><img src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw19b610d2/images/payment_methods/mastercard.png" alt="Mastercard accepted"></li>
-<li class="payment-info__li"><img src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw169a0d80/images/payment_methods/maestro.png" alt="Maestro accepted"></li>
 <li class="payment-info__li"><img src="https://www.ctshirts.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw11121448/images/payment_methods/paypal.png" alt="Paypal accepted"></li>
 </ul>
 </div>
@@ -2131,7 +2116,6 @@ We will keep you posted on new products and great offers
 </ul>
 </div>
 </div> 
-
 </div>
 </div>
 <div class="content__row main__area col-100 text-center-mob m-bottom-z">
@@ -2166,50 +2150,49 @@ CHANGE COUNTRY ›
 </footer>
 
 <script type="text/javascript">
-utag_data = {"global":{"timestamp":"2019-04-30 18:36:23","site_language":"en","campaign_site":"usddefault","campaign_source":"US DIRECT LOAD","sfcc_country":"US","sfcc_currency":"USD","sfcc_user_country":"United States"},"page":{"mvt_test_name":" ","responsive_design_type":"Desktop View"},"user":{"location":"United States","is_anonymous":true,"is_authenticated":false,"is_registered":false,"sfcc_customer_id":"acx23YW1iya1z3AFbSVA4oxjcR"}};
+utag_data = {"global":{"timestamp":"2019-07-25 23:21:06","site_language":"en","campaign_site":"usddefault","campaign_source":"US DIRECT LOAD","sfcc_country":"US","sfcc_currency":"USD","sfcc_user_country":"United States"},"page":{"mvt_test_name":" ","responsive_design_type":"Desktop View"},"user":{"location":"United States","is_anonymous":true,"is_authenticated":false,"is_registered":false,"sfcc_customer_id":"abMZ7HAmMmW6pqSpY8Znv7hs69"}};
 </script>
 <script>pageContext = {"title":"Privacy notice","type":"Content","ns":"content"};</script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/jquery.elevateZoom-3.0.8.min.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/es5-shim.min.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/jquery.panzoom.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/jquery.selectBox.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/icheck.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/perfect-scrollbar.jquery.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/jquery.detectmobilebrowser.min.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/slick.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/moment.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/plugins/jquery.form.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/jquery.typewatch.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/jquery/plugins/jquery.jscrollpane.min.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/js/peerius.js"></script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/lib/experian/contact-data-services.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/jquery.elevateZoom-3.0.8.min.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/jquery.panzoom.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/jquery.selectBox.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/icheck.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/perfect-scrollbar.jquery.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/jquery.detectmobilebrowser.min.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/slick.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/moment.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/plugins/jquery.form.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/jquery.typewatch.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/jquery/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/js/peerius.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/lib/experian/contact-data-services.js"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I agree","CLOSE":"Close","NO_THANKS":"No thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card","REG_ADDR_ERROR":"Couldn't load address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"You've selected the maximum number of bonus products. If you'd like to add any new bonus products, you'll need to remove one first.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","INVALID_REQUIRED_FIELD":"This field is required.","INVALID_REQUIRED_FIELD_CVN":"A valid security code is required.","EXPIRE_DATE":"Please select an expiry date","EXPIRE_DATE_IN_PAST":"Expiry date cannot be in the past.","REMOVE":"Remove","QTY":"Quantity","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare items","COMPARE_CONFIRMATION":"This will remove the first product you selected to compare. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift certificates can only be purchased with a minimum of $5 and maximum of $999","GIFT_CERT_MISSING":"Please enter a gift certificate code","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please enter a coupon code","COOKIES_DISABLED":"Your browser is not currently set to accept cookies. Please enable cookies or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0}/{1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed","IN_STOCK_DATE":"Delayed delivery - ships around {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show all","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select store","SELECTED_STORE":"Selected store","PREFERRED_STORE":"Preferred store","SET_PREFERRED_STORE":"Set preferred store","ENTER_ZIP":"Enter zip code","INVALID_ZIP":"Please enter a valid zip code","SEARCH":"Search","CHANGE_LOCATION":"Change location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See more stores","SEE_LESS":"See less stores","FORMAL_SHIRT_FINDER_NAV_DESCR":"See your perfect shirt","ARROW_STEP_1":"Choose your fit","ARROW_STEP_2":"Choose your collar","ARROW_STEP_3":"Choose your cuff","ARROW_STEP_4":"Choose your fabric","ARROW_STEP_5":"Step 5 Find your shirt","WAITING_WHEEL":5000,"MONOGRAM_TITLE":"Add your monogram (+{0})","ADD_MONOGRAM":"Add monogram","MONOGRAM_ADDED":"Monogram added","INITIAL_SIFFIX_ST":"st","INITIAL_SIFFIX_ND":"nd","INITIAL_SIFFIX_RD":"rd","INITIAL_SIFFIX_TH":"th","INITIAL_SIFFIX_ND_OPT":"nd (opt)","INITIAL_SIFFIX_RD_OPT":"rd (opt)","INITIAL_SIFFIX_TH_OPT":"th (opt)","INITIAL_PLACEHOLDER_LEFT":"Left","INITIAL_PLACEHOLDER_MIDDLE":"Middle","INITIAL_PLACEHOLDER_RIGHT":"Right","NEXT_STEP":"Next","BACK_STEP":"Back","TIE_CUFF_MATCHER":"Our recommended ties and cuff links to match this shirt","BILLING_GIFTCERT_DEFAULT_ERROR":"Please enter a valid gift certificate code.","UPDATE_CART_REFRESH_ITERVAL":2,"COOKIE_TIME_TO_LIVE":30,"ORDER_DETAILS_SHOW":"Show details","ORDER_DETAILS_HIDE":"Hide details","STYLE_TIPS_PROD_CAROUSEL_SPEED":5,"ENABLE_INVOICE_PAYMENT":false,"CURRENT_SITE_COUNTRY_CODE":"us","REVIEWS_READ":"Read","REVIEWS_HIDE":"Hide","SIZE_SAVE_SUCCESS":"Size saved successfully","SIZE_UNIT":"inches","SIZE_SHORTHAND":"\"","MORE_FILTERS":"more filters","LESS_FILTERS":"less filters","QAS_ERROR":"Address look up is currently unavailable, please enter your full address manually.","QAS_START_TYPING":"Start typing an address...","QAS_SEARCH_AGAIN":"Search again","QAS_ENTER_MANUALLY":"Enter address manually","PLAY_VIDEO":"Play video","PAUSE_VIDEO":"Pause video","BACK_TO_GALLERY":"Back to gallery","IN_STOCK":"In stock","QTY_IN_STOCK":"Only {0} in stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"Delayed delivery - We have {0} in stock. The rest will ship around {1}.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"Please adjust your quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Page-Include","continueUrl":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/Home-IncludeUIFooter/C1105127469","staticPath":"/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/","addGiftCert":"/us/emailgiftvoucher","minicartGC":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-MiniAddProduct","cartShow":"/us/cart","giftRegAdd":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.ctshirts.com/us/wallet","addressesList":"https://www.ctshirts.com/us/addressbook","wishlistAddress":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-CTShirts-US-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Search-GetSuggestions?srcp=usddefault","productNav":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-UpdateSummary","billingSelectCC":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/us/compare","compareAdd":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-CTShirts-US-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-AddCouponJson","storeLocatorPage":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-Find","storesInventory":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-Inventory","storesLookup":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-GetZipCode","billing":"/us/billing","billingvouchers":"/us/billing#vouchers","currencyConverter":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Page-Include?cid=cookie_hint","formalShirtsShow":"/us/mens-shirts/dress/","getRefinementsHitCount":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/SearchFinder-GetRefinementsHitCount","addMonogram":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/ProductOptions-AddMonogram","checkPromotionAlert":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Promotion-CheckAlert","updateCart":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-UpdateCartAjax","productTile":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-TieCufflinkHitTile","getDISImage":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-GetDISImage","showFriesDialog":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Fries-Show","FindAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AddressLookup-FindAddress","RefineAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AddressLookup-Refine","CheckRefineAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AddressLookup-CheckRefine","billingChangeAddressFlag":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-UseAsBillingAddress","ajaxReloadBillingForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-AjaxReloadBillingForm","showOderDetails":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Order-ShowDetails","continueBilling":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-Continue","calculateShaInSign":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/PAYMENT_CREDIT_CARD-CalculateShaInSign","savedCardsContinue":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-SavedCardsContinue","storeFinder":"/us/stores","homeShow":"/us/home","guestReturn":"/us/return-an-item","continueInvoice":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-ContinueInvoice","continuePaypal":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-ContinuePaypal","continueIdeal":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-ContinueiDeal","newsletterLoadAddresForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Newsletter-LoadAddressForm?addressform=newsletter","addressLoadAddresForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Address-LoadAddressForm?addressform=account","billingLoadAddresForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-LoadAddressForm?addressform=billing","shippingLoadAddresForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-LoadAddressForm?addressform=shipping","checkSafePlace":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-CheckSafePlace","regenerateLabel":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Order-RegenerateLabel","generateMonogramSection":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Order-GenerateMonogramSection","welcomeMat":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Site-Welcome","browseralert":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Page-Include?cid=browser-alert-msg","adobeLaunchGetBasketProduct":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AdobeLaunch-ReturnBasketProduct","adobeLaunchGetOrderInfo":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AdobeLaunch-ReturnOrderInfo","adobeCampaignCSRFProtection":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AdobeCampaign-CSRFToken","adobeCampaignSignUp":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AdobeCampaign-Subscribe","returnMoneyParsedPrice":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-ReturnParsedPrice"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"COOKIE_HINT":false,"BROWSER_ALERT":true,"MIN_NUM_CHARS_TO_SEARCH_SUGGEST":3,"NUM_OF_TERMS_IN_SEARCH_SUGGEST":5,"NUM_OF_PRODUCTS_IN_SEARCH_SUGGEST":5,"LOGIN_CHECK":false,"GLOBALE_FIXED_CURRENCIES":[],"EMAIL_VOUCHER_DATEFORMAT":"mm/dd/y","ADOBE_LAUNCH_ENABLED":true,"GLOBALE_INTUITIVE_MAX_RESULTS":100};
+window.Resources = {"I_AGREE":"I agree","CLOSE":"Close","NO_THANKS":"No thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card","REG_ADDR_ERROR":"Couldn't load address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"You've selected the maximum number of bonus products. If you'd like to add any new bonus products, you'll need to remove one first.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","INVALID_REQUIRED_FIELD":"This field is required.","INVALID_REQUIRED_FIELD_CVN":"A valid security code is required.","EXPIRE_DATE":"Please select an expiry date","EXPIRE_DATE_IN_PAST":"Expiry date cannot be in the past.","REMOVE":"Remove","QTY":"Quantity","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare items","COMPARE_CONFIRMATION":"This will remove the first product you selected to compare. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift certificates can only be purchased with a minimum of $5 and maximum of $999","GIFT_CERT_MISSING":"Please enter a gift certificate code","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please enter a coupon code","COOKIES_DISABLED":"Your browser is not currently set to accept cookies. Please enable cookies or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0}/{1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed","IN_STOCK_DATE":"Delayed delivery - ships around {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show all","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select store","SELECTED_STORE":"Selected store","PREFERRED_STORE":"Preferred store","SET_PREFERRED_STORE":"Set preferred store","ENTER_ZIP":"Enter zip code","INVALID_ZIP":"Please enter a valid zip code","SEARCH":"Search","CHANGE_LOCATION":"Change location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See more stores","SEE_LESS":"See less stores","FORMAL_SHIRT_FINDER_NAV_DESCR":"See your perfect shirt","ARROW_STEP_1":"Choose your fit","ARROW_STEP_2":"Choose your collar","ARROW_STEP_3":"Choose your cuff","ARROW_STEP_4":"Choose your fabric","ARROW_STEP_5":"Step 5 Find your shirt","WAITING_WHEEL":5000,"MONOGRAM_TITLE":"Add your monogram (+{0})","ADD_MONOGRAM":"Add monogram","MONOGRAM_ADDED":"Monogram added","INITIAL_SIFFIX_ST":"st","INITIAL_SIFFIX_ND":"nd","INITIAL_SIFFIX_RD":"rd","INITIAL_SIFFIX_TH":"th","INITIAL_SIFFIX_ND_OPT":"nd (opt)","INITIAL_SIFFIX_RD_OPT":"rd (opt)","INITIAL_SIFFIX_TH_OPT":"th (opt)","INITIAL_PLACEHOLDER_LEFT":"Left","INITIAL_PLACEHOLDER_MIDDLE":"Middle","INITIAL_PLACEHOLDER_RIGHT":"Right","NEXT_STEP":"Next","BACK_STEP":"Back","TIE_CUFF_MATCHER":"Our recommended ties and cuff links to match this shirt","BILLING_GIFTCERT_DEFAULT_ERROR":"Please enter a valid gift certificate code.","UPDATE_CART_REFRESH_ITERVAL":2,"COOKIE_TIME_TO_LIVE":30,"ORDER_DETAILS_SHOW":"Show details","ORDER_DETAILS_HIDE":"Hide details","STYLE_TIPS_PROD_CAROUSEL_SPEED":5,"ENABLE_INVOICE_PAYMENT":false,"CURRENT_SITE_COUNTRY_CODE":"us","REVIEWS_READ":"Read","REVIEWS_HIDE":"Hide","SIZE_SAVE_SUCCESS":"Size saved successfully","SIZE_UNIT":"inches","SIZE_SHORTHAND":"\"","MORE_FILTERS":"more filters","LESS_FILTERS":"less filters","MORE_DETAILS":"See more","LESS_DETAILS":"See less","QAS_ERROR":"Address look up is currently unavailable, please enter your full address manually.","QAS_START_TYPING":"Start typing an address...","QAS_SEARCH_AGAIN":"Search again","QAS_ENTER_MANUALLY":"Enter address manually","PLAY_VIDEO":"Play video","PAUSE_VIDEO":"Pause video","BACK_TO_GALLERY":"Back to gallery","IN_STOCK":"In stock","QTY_IN_STOCK":"Only {0} in stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"Delayed delivery - We have {0} in stock. The rest will ship around {1}.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"Please adjust your quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Page-Include","continueUrl":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/Home-IncludeUIFooter/C1622320603","staticPath":"/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/","addGiftCert":"/us/emailgiftvoucher","minicartGC":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-MiniAddProduct","cartShow":"/us/cart","giftRegAdd":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.ctshirts.com/us/wallet","addressesList":"https://www.ctshirts.com/us/addressbook","wishlistAddress":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-CTShirts-US-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Search-GetSuggestions?srcp=usddefault","productNav":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-UpdateSummary","billingSelectCC":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/us/compare","compareAdd":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-CTShirts-US-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-AddCouponJson","storeLocatorPage":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-Find","storesInventory":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-Inventory","storesLookup":"https://www.ctshirts.com/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/StoreInventory-GetZipCode","billing":"/us/billing","billingvouchers":"/us/billing#vouchers","currencyConverter":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Page-Include?cid=cookie_hint","formalShirtsShow":"/us/mens-shirts/dress/","getRefinementsHitCount":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/SearchFinder-GetRefinementsHitCount","addMonogram":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/ProductOptions-AddMonogram","checkPromotionAlert":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Promotion-CheckAlert","updateCart":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Cart-UpdateCartAjax","productTile":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-TieCufflinkHitTile","getDISImage":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-GetDISImage","showFriesDialog":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Fries-Show","FindAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AddressLookup-FindAddress","RefineAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AddressLookup-Refine","CheckRefineAddress":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AddressLookup-CheckRefine","billingChangeAddressFlag":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-UseAsBillingAddress","ajaxReloadBillingForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-AjaxReloadBillingForm","showOderDetails":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Order-ShowDetails","continueBilling":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-Continue","calculateShaInSign":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/PAYMENT_CREDIT_CARD-CalculateShaInSign","savedCardsContinue":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-SavedCardsContinue","storeFinder":"/us/stores","homeShow":"/us/home","guestReturn":"/us/return-an-item","continueInvoice":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-ContinueInvoice","continuePaypal":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-ContinuePaypal","continueIdeal":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-ContinueiDeal","newsletterLoadAddresForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Newsletter-LoadAddressForm?addressform=newsletter","addressLoadAddresForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Address-LoadAddressForm?addressform=account","billingLoadAddresForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COBilling-LoadAddressForm?addressform=billing","shippingLoadAddresForm":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-LoadAddressForm?addressform=shipping","checkSafePlace":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/COShipping-CheckSafePlace","regenerateLabel":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Order-RegenerateLabel","generateMonogramSection":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Order-GenerateMonogramSection","welcomeMat":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Site-Welcome","browseralert":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Page-Include?cid=browser-alert-msg","adobeLaunchGetBasketProduct":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AdobeLaunch-ReturnBasketProduct","adobeLaunchGetOrderInfo":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AdobeLaunch-ReturnOrderInfo","adobeCampaignCSRFProtection":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AdobeCampaign-CSRFToken","adobeCampaignSignUp":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/AdobeCampaign-Subscribe","returnMoneyParsedPrice":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-ReturnParsedPrice","hideFitSplash":"/on/demandware.store/Sites-CTShirts-US-Site/en_US/Product-HideFitSplash"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"COOKIE_HINT":false,"BROWSER_ALERT":true,"MIN_NUM_CHARS_TO_SEARCH_SUGGEST":3,"NUM_OF_TERMS_IN_SEARCH_SUGGEST":5,"NUM_OF_PRODUCTS_IN_SEARCH_SUGGEST":5,"LOGIN_CHECK":false,"GLOBALE_FIXED_CURRENCIES":[],"EMAIL_VOUCHER_DATEFORMAT":"mm/dd/y","ADOBE_LAUNCH_ENABLED":true,"GLOBALE_INTUITIVE_MAX_RESULTS":100,"PLPPDP_SHOW_SPLASH_SCREEN":true};
 window.User = {"zip":null,"storeId":null};
 window.CategorySettings = {"maxCompare":6};
 window.SessionAttributes = {"initials":null};
 window.ShowWelcomeMat = false;
 }());
 </script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/js/app.js"></script>
-<script src="/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/en_US/v1556629546621/js/content.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/js/app.js"></script>
+<script src="/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/en_US/v1564059183586/js/content.js"></script>
 <script>
 var meta = "The Charles Tyrwhitt privacy policy.";
 var keywords = "";
 </script>
 <script type="text/javascript">
-if (typeof AdobeLaunchContext !== null && typeof AdobeLaunchContext !== undefined) {
+if (typeof AdobeLaunchContext !== 'undefined' && AdobeLaunchContext && typeof utag_data !== 'undefined' && utag_data) {
 AdobeLaunch.updatePageContext(AdobeLaunchContext, utag_data);
 }
 AdobeLaunch.fireEvent('pageBottom');
 </script>
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/js/svg4everybody.js"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/js/svg4everybody.js"></script>
 <script type="text/javascript">svg4everybody();</script>
 </div>
 
@@ -2229,9 +2212,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1556629546621/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-CTShirts-US-Site/-/en_US/v1564059183586/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
