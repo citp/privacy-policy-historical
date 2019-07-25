@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blahdvd.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516215038id_/https%3A//www.base.com/help/pg385/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blahdvd.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725191158id_/https%3A//www.base.com/help/pg385/privacy-policy.htm) for the most accurate reproduction.*
 
 # DVDs, CDs, Games, Memory & Storage at base.com
 
