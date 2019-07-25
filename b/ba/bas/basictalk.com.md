@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basictalk.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525173926id_/http%3A//www.basictalk.com/privacy-policy%3Frefer_id%3DBTPPP0312130001W1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basictalk.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725190356id_/http%3A//www.basictalk.com/privacy-policy%3Frefer_id%3DBTPPP0312130001W1) for the most accurate reproduction.*
 
 # BasicTalk | Privacy Policy
 
