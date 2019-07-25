@@ -1,81 +1,135 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322101426id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725185122id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dibsgroup.org) for the most accurate reproduction.*
 
-# The Irritable Bowel Syndrome Self Help and Support Group Respects Your Privacy | IBSgroup.org
+# 
 
-**Publication Date (revised): April 1, 2014**
+**Privacy Policy**  
+Last updated: May 15, 2018 
 
-IBS Self Help and Support Group ("IBS Group") respects your privacy. That's why we have created this Privacy Statement to explain how and why we collect certain information online, and how we use that information. This statement also explains how you can prevent collection of certain information about yourself, if you choose. Please take a few moments to read our Privacy Statement. This statement applies to both information we collect from visitors to the IBSGroup.org Web site, as well as information we collect or have access to when on our message boards.
+This Privacy Policy describes how VerticalScope Inc. (' **VerticalScope** ', ' **we** ', ' **us** ' or ' **our** ') collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the ' **Site** '), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor.
 
-**Right to Change Policy**  
-As IBS Group is constantly innovating and enhancing the forums and services it provides to its users, this Privacy Statement will also continue to change to match the forums and services we make available. As such, we reserve the right to change this statement to match the forums and services we provide. If we make any material change to this statement, we will change the date at the top of this statement to reflect the effective date of the change. When you visit our site or use our forums and services, we encourage you to check the date of this Privacy Statement to ensure you are aware of any updates.
+By visiting our Site or otherwise providing us with personal information, you agree that we may collect, use and share your personal information as described in this Privacy Policy. If you do not agree, please do not visit our Site or provide us with any personal information. We may at any time and at our sole discretion update this Privacy Policy by posting the updated Privacy Policy here along with the date on which the Privacy Policy was changed. Any changes will be effective immediately upon the posting of or linking to the revised Privacy Policy on our Site. 
 
-However, regardless of how this Privacy Statement may change or evolve over time, IBS Group will not collect or maintain your private and personally identifiable information without your consent. Further, if you consent to give us your personal information, we will keep it confidential and will not sell, license or disclose your personal information to any third party without your consent, unless we are compelled to do so under the law or to comply with a court order.
+**QUICK LINKS**
 
-If you opt-out of our mailing list we may privately share your email address with a third party so that the 3rd party may separately opt you out of their list.
+Click on one of the links below to jump to the listed section:
 
-**Contact for Privacy Inquiries**  
-If you have any questions about this Privacy Statement or other questions about privacy on the IBS Group site, please contact:
-
-**Via Postal Mail:**  
-IBS Self Help and Support Group  
-c/o VerticalScope Inc.  
-111 Peter Street, Suite 700  
-Toronto, Ontario, Canada  
-M5V 2H1
-
-**Or Via E-mail:**  [ibs@ibsgroup.org](mailto:ibs@ibsgroup.org "E-mail Link")
-
-**Types of Information We Collect**  
-Generally, you are free to browse the IBSGroup.org site without submitting any personal information. We do not collect any of your personal information (such as a name, address or e-mail address) when you visit the IBS Group site, unless you register or have registered to use one of our services, complete one of our evaluations, or otherwise agree to submit to us such information. As part of such processes, you have the opportunity to decline further promotional materials or other notifications from us regarding special offers and information from IBS Group. Types of information collected on specific services on the IBSGroup.org site are described in more detail below.
-
-We use a third-party advertising company, eHealthcare Solutions, to serve ads when you visit our website. They may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by eHealthcare Solutions, [click here](http://preferences.truste.com/2.0/?type=ehs&affiliateId=151)
-
-  
-**Registration on Our Site**  
-IBS Group requires users who want to participate in the IBS Group support message boards to register. In order to register, you must provide us with a username (which does not have to be your real name), password, country and a valid e-mail address. This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise. At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile.
-
-When you register, you have the option of providing some additional personal health information. This optional information is made available to other registered forum members to foster a sense of community. If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed.
-
-**IF YOU ARE UNDER 13 YEARS OF AGE you are not allowed to participate in the IBS Group support forums or to provide any personal information on our site.**
-
-**Forums Newsletter Subscription**  
-IBS Group offers an option to subscribe to a periodic newsletter regarding our organization's activities, promotions, product announcements and news items. The only piece of information required is the user's e-mail address, which is only used to distribute the requested newsletter. You can "unsubscribe" to the newsletter at any time by e-mailing [ibs@ibsgroup.org](mailto:ibs@ibsgroup.org?subject=Newsletter%20Unsubscribe "E-mail Link") with the subject line "Newsletter Unsubscribe.  Alternatively, you may use our contact form, <http://www.ibsgroup.org/contact>.
-
-**Cookies**  
-IBS Group uses browser cookies to facilitate your experience with our forums, services and sponsors. These cookies are small sections of code that our server sends to your browser which it can then store on your hard drive. If you choose to accept these cookies, they enable us, or our sponsors, to recognize that your browser has previously visited and used our site, bulletin board or services and, based on your browser's previous visits, assist us with tailoring the information and content, banners and promotions you view. These cookies also enable us to recognize when you access and use IBS Group's forums. An example of the customization allowed by the use of such cookies is to retain your username and password as part of the forums on our site so you don't have to re-enter them each time you visit. These cookies do not collect, store or maintain your private, personally identifiable information. You do not have to accept these cookies to visit or use the IBS Group site or our forums and services, and you can choose to refuse our cookie, delete our cookie from your hard drive or turn off the IBS Group cookie at any time by updating your user profile preferences.
-
-The IBS Group uses, in part, Google Adsense to deliver relevant advertising. Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-eHealthcare Solutions, as a third-party vendor, uses cookies to serve ads on our site. Their use of cookies enables them to serve more relevant ads to our users based on their visit to our sites and other sites on the Internet. Users learn more about or may opt out of the use of cookies by visiting their [Privacy Policy](http://ehealthcaresolutions.com/Privacy) or the [eHealthcare Solutions TRUSTe page](http://preferences.truste.com/2.0/?type=ehs&affiliateId=151).
-
-  
-Currently we are using Google Analytics to analyze the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, please go here: [http://www.google.co...cyoverview.html](http://www.google.com/intl/en/analytics/privacyoverview.html)
-
-**Technical Support**  
-Any personal information you provide to us in the course of obtaining technical support, or asking other questions about IBS Group will be used only for the purposes for which it was submitted. We may store the information, but we will not use it for any other purposes or disclose it to any third parties.
-
-**Use and Disclosure of Your Information**  
-IBS Group uses the personal information it collects from registration forms you fill out on our site to:
-
-  * Allow users to access and use our forums and/or services;
-  * Supply users with installation instructions, download, access or use information, and technical support information;
-  * Provide users of our forums and/or services on our site with information about special offers and promotions; and
-  * Improve our forums and services by using statistical analysis and evaluation of user data.
+  1. Information we collect
+  2. How we use the information we collect
+  3. Cookies, tracking technologies and interest-based advertising
+  4. How we share your personal information
+  5. How we store and protect your personal information
+  6. Links to external content
+  7. Children
+  8. Accessing and correcting your personal information
+  9. Your choices
+  10. How to contact us
 
 
 
-We use the anonymous information we collect from the other methods described above, such as cookie information, to collect broad demographic information about user trends, count the number of users of our bulletin board and/or services, to provide advertising services and to continue to enhance and improve our forums and services.
+## **1\. Information we collect**
 
-We do not and will not disclose your private, personally identifiable information to any third party for any purpose without your prior consent. However, IBS Group reserves the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, its employees, customers, or the public.
+In general, you may visit our Site without providing any personal information. However, in order to use certain features of our Site, we may need to collect your personal information. For example:
 
-All reasonable care is taken by our staff in handling your personal information to ensure its security both offline and online. It is our policy to destroy server access and any personal information provided during the technical support process upon completion of the technical support incident.
+  * We collect your username, email address or telephone number, and password when you create an account or public user profile. For some Sites you may be required to provide additional information such as your date of birth or the type of vehicle you own. We collect additional information that you choose to add to your account or public user profile, such as a profile picture or information about your hobbies and interests. 
+  * We collect your name, contact information and payment card information when you purchase a product or service through our Site (such as a subscription or classified advertisement). 
+  * If you use a social media account to create an account on our Site, to log-in to our Site, or if you otherwise interact with a social media service through our Site (such as by using a plug-in), we will receive personal information from the social media service, such as your username, email address, gender, public profile information and any other information that you have agreed to share with us, whether explicitly or through your privacy settings.
+  * Our Site may offer public forums or communication platforms that allow you to communicate with other users, post information, content, images, photos or videos, post your opinions on surveys, or submit reviews or ratings (collectively, your 'Content'). Your Content will be associated with your public user profile. Your Content and public user profile is public, unencrypted and non-confidential. This means that it can be read and used by others, including advertisers. We are not responsible for the information you choose to submit in these public areas. You should exercise caution when deciding to disclose personal information in public areas of our Site.
+  * We collect geographical location information if the Site you are using is location-enabled and your device transmits location data and/or your IP address, so we can provide location-specific information to you.
+  * We may collect personal information when you participate in a survey, poll, contest or promotion, such as your name and contact information and responses to survey or poll questions or the information you provide on a contest entry form.
+  * We may collect other personal information with your consent or where required or permitted by law.
 
-**Changing or Updating Personal Information**  
-If you would like to update or change your user profile on our forums, [click here](http://www.ibsgroup.org/forums/index.php?act=UserCP&CODE=00).
 
-To unsubscribe to our IBS Group Forums newsletter, please e-mail [ibs@ibsgroup.org](mailto:ibs@ibsgroup.org?subject=Newsletter%20Unsubscribe "E-mail Link") with the subject line "Newsletter Unsubscribe".
 
-If you have questions regarding your information, you can contact us via our [Contact](http://www.ibsgroup.org/contact) page.
+We, our service providers and third party advertising partners also collect information about Site visitors automatically using cookies and other tracking technologies. See Cookies, tracking technologies and interest-based advertising below.
 
-**Postings on Forums**  
-It is important for you to remain aware that when you provide personal information (e.g., last name, address, phone number) in a posting on any message board, that information is available to any other person or user having access and use of that message board, and may be used by someone in a manner unintended by you. For that reason, we discourage you from offering any personally identifying information within a posting to any message board.
+## **2\. How we use the information we collect**
+
+We generally use the personal information we collect to provide the product, service, feature or information you have requested and for our reasonable business purposes, including: 
+
+  * to manage our Site and provide our services, such as to create and administer accounts and facilitate the use and enjoyment of forums and communication platforms;
+  * to enable geographic-specific features, such as geographic-specific pricing and information;
+  * to process payments;
+  * to notify you of changes to your account or our Site's services, terms, conditions or policies and to provide you with administrative messages, updates, legal notices, technical notices or security alerts;
+  * to customize your user experience, including by tailoring the advertisements that are displayed to you to make them more useful and relevant to you;
+  * to conduct research and development, analyze and understand trends and user behaviour and to improve our Sites, products and services;
+  * to respond to your inquiries and provide you with technical and other support;
+  * to ensure compliance with our Terms of Use and prevent fraud;
+  * to provide you with newsletters, information, promotional offers and other advertising about us or our advertising partners;
+  * to facilitate your participation in a contest or similar promotion, or a survey or poll;
+  * to meet contractual obligations; and
+  * for other purposes with your consent or as permitted or required by law.
+
+
+
+## **3\. Cookies, tracking technologies and interest-based advertising**
+
+We, our service providers and third party advertising partners use technologies that automatically collect information about Site visitors.
+
+We automatically collect information about how you access, navigate and leave our Site, including the website you came from before visiting our Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, your mobile device ID or Advertising ID if you visit our Site from a mobile device, the pages of our Site that you are navigating through, the date and time of your visit, how long you spend on our Site or certain pages of our Site, and what website you go to after visiting our Site. This information may be used to determine how many visitors visit our Site or certain areas of our Site, how long they remain on our Site, whether they use the hyperlinks we provide or respond to advertising and to tailor our advertisements to you. We may share this information with partners who referred you to our Site, and with advertising partners, who may use the information to optimize the traffic they send to us and for delivering targeted ads to you when you visit other websites.
+
+We, our service providers and third-party advertising partners collect information about Site visitors using cookies and other tracking technologies (including browser cookies, pixels and Adobe Flash). We use these technologies to remember your preferences and facilitate your navigation of our Site. We and our service providers and third-party advertising partners also use these technologies to track your activities on our Site and other websites, including the websites and web pages that you visited, the ads or content that you clicked on and the search terms you used, in order to deliver tailored advertising to you. We may also share a hashed or encrypted version of your email address or telephone number with advertising partners so that you may be served with tailored advertising on our websites or other third party websites. These advertising partners are not permitted to use your hashed or encrypted email address for any other purpose. 
+
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. If you don't want us to share your hashed or encrypted email address with advertising partners, simply opt-out of our promotional communications. See Your Choices below. 
+
+At this time, we do not respond to browser 'do not track' signals. However, you may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/choices/%5d%20) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices). 
+
+We use Google Analytics to help us understand how our Site visitors use the Site, and as well as certain features of Google Analytics Display Advertising to advertise online, sell advertising and to develop content. You can opt out of Google Analytics and customize Google's Display Network ads. Please visit [Google's Ad Settings](https://www.google.ca/settings/ads?hl=en-GB&sig=ACi0TChcn38hjfs81vhis-lHPEFutHa4wTjKTTYLde8Te7kFkjhssvxJtvPzARFnl4zsrUvJxBZzttCNq7h0T4bGaa6vdJatyTG0psR5BwGgwEWTWOFuy0c2qoyWC-TPCVzunZHSxtpy7V1KLCOI7EoBsf0HKnoA1J8cmI3FZz_-cuwNnYOHY5MyPD4bpjoQiiq_2M8f0pr-) and [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please visit [How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners) for a description of how Google uses information sent by our browser and for ways you can control the information sent to Google. 
+
+## **4\. How we share your information**
+
+We may share information we collect about you in the following circumstances.
+
+**Advertising partners**  
+We share information with our third-party advertising partners as described in the Cookies, tracking technologies and interest-based advertising section above.
+
+**Service Providers**  
+We may use service providers (including affiliates acting in this capacity) to provide services to us or to you on our behalf. For example, our service providers may host our Site, analyze data collected from our Site, provide customer service on our behalf, administer our promotions, facilitate and process transactions and payments, provide marketing or promotional assistance, distribute emails and other communications, post our advertisements (including online through targeted advertising campaigns), and collect your feedback on our Site and advertisements. We share your personal information with our service providers solely for the purposes of providing services to you and to us. They are not permitted to use your personal information for other purposes. Some of our service providers are located outside of Canada, including in the United States. While your personal information is located outside Canada it will be subject to legal requirements applicable to our service providers, for example, lawful requirements to disclose personal information to national security agencies or government authorities in certain circumstances. 
+
+**Aggregate or de-identified information**  
+We may use your personal information to create aggregate statistics and de-identified data. We may use, share and sell this information for any purpose.
+
+**With your consent**  
+We may share your personal information with third parties with your consent. For example, if you provide us with your contact information, such as an e-mail address, for the purposes of signing up for information, newsletters, contests, or marketing offers from a third party, or for receiving business offers or service quotes from a third party, we may share your personal information for that purpose. Once shared, your personal information will be subject to the privacy policy of that third party.
+
+**Business Transactions**  
+We may disclose personal information to third parties in connection with the proposed or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of VerticalScope or our business or assets. These third parties may use the information, for the purposes of evaluating and/or completing the proposed transaction. We will use reasonable efforts to ensure that our successors or assigns process the information we transfer to them in a manner that is consistent with this Privacy Policy. 
+
+**Other**  
+We may disclose your personal information in other circumstances where permitted or required by law or other legal process. For example, we may disclose your personal information: (a) to collect a debt owed to us; (b) as necessary to comply with a subpoena, warrant, court order or other legal process; (c) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation or other legal process; or (d) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law, or to protect the personal safety of our users or defend our rights or property.
+
+## **5\. How we store and protect personal information**
+
+Personal information is maintained on our servers (or those of our service providers). In an effort to protect your personal information against unauthorized access or disclosure. For example, accounts you create on our Sites are password protected. In identified parts of our Sites, we use SSL-encryption to protect data transmissions. We limit access to personal information to employees, representatives and service providers who require access in connection with their job responsibilities. Please note it is not possible to transmit data with absolute security over the internet, and we cannot and do not guarantee the security of your personal information.
+
+## **6\. Links to external content**
+
+Our Site may link or direct you to other websites, services or external content provided by third parties. We do not exercise any control over these third party websites or services. We are not responsible for the privacy practices of such third party websites or services. We recommend that you read the privacy policy for any third party website that you visit or service that you use. 
+
+## **7\. Children**
+
+Our Sites are not directed to and we do not knowingly request or collect personal information from children - persons under 13 years of age, or another age if required by applicable law - without prior verifiable parental consent. If we become aware that we have unknowingly collected personal information about a child without verifiable parental consent, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information. 
+
+## **8\. Accessing or correcting your personal information**
+
+We encourage you to keep your personal information accurate and up to date. You can access and correct the information in your account or public user profile by logging in to your account or profile and making the necessary edits.  
+You can request access to or correction of your personal information in our custody or control by contacting us as set out below. We may take reasonable steps to authenticate your identity before providing you with access to your personal information or making corrections. Please also note that in some cases we may not be able to provide you with the personal information you have requested (for example, if the information is subject to solicitor-client privilege or contains personal information of others that cannot be severed). 
+
+## **9\. Your Choices**
+
+You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions included in each communication and/or by selecting your communication preferences in an account or profile.
+
+You may be able to control the information we received from your device or from third parties (such as social media networks) by changing your device settings, browser settings or privacy settings.  
+You may withdraw your consent to our collection, use or disclosure of your personal information, subject to contractual or legal restrictions and reasonable notice. However, if you withdraw your consent to certain collections, uses or disclosures of your personal information, we may not be able to provide you with certain products or services. 
+
+## **10\. How to contact us**
+
+If you have any questions or comments about this Privacy Policy, please contact us at:
+
+privacy@verticalscope.com 
+
+Privacy Officer  
+111 Peter, Suite 901  
+Toronto, Ontario  
+M5V 2H1  
+Canada  
+
