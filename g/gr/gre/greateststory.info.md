@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greateststory.info privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417114522id_/http%3A//www.greateststory.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greateststory.info privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725173954id_/http%3A//www.bookmarkdeal.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies › GreatestStory.info : Improve your website traffic by publishing social bookmark websites | High quality SEO bookmark submission service to get indexed in major search engines
+# Privacy Policies › BookmarkDeal.com : Social Bookmarking System for Sharing and Tagging Favorite News, Images and Videos | Submitting Links, SEO Bookmarklet & Social Webmarking Services
 
 We are committed to protecting your privacy. We will only collect and use information about you lawfully and in accordance with the Data Protection Act 1998.
 
