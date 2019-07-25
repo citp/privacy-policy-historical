@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipmoon.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525044536id_/http%3A//www.clipmoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipmoon.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726010849id_/http%3A//www.clipmoon.com/privacy) for the most accurate reproduction.*
 
 # ClipMoon - Share your videos with the world
 
