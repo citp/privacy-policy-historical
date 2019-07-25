@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile-game-reviews.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624122148id_/http%3A//www.mobile-game-reviews.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-game-reviews.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725185417id_/http%3A//www.mobile-game-reviews.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Game Reviews
 
