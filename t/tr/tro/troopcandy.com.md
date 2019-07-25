@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troopcandy.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525151748id_/http%3A//troopcandy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troopcandy.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725144158id_/http%3A//troopcandy.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
