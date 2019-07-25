@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeiva.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924061136id_/http%3A//www.freeiva.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeiva.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725175303id_/http%3A//www.freeiva.com/cs/privacy) for the most accurate reproduction.*
 
 # China,tour guide,interpreter,exhibition,trade show translator,canton fair,beijing,shanghai,guangzhou
 
