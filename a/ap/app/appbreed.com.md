@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appbreed.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612055227id_/http%3A//appbreed.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbreed.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725050410id_/http%3A//appbreed.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Appbreed Software
 
