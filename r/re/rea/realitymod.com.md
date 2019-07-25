@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realitymod.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209200121id_/https%3A//www.realitymod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitymod.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725215430id_/https%3A//www.realitymod.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Project Reality
 
 ## Privacy Statement
 
-We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at Project Reality. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
+We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at Project Reality's websites. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
 
 ### Information Collection
 
