@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930010637id_/https%3A//www.prowrestling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725033352id_/https%3A//www.prowrestling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProWrestling.com
 
