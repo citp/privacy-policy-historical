@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviveherdrive.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525154335id_/http%3A//reviveherdrive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviveherdrive.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725024936id_/http%3A//reviveherdrive.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Personal Life Media
 
