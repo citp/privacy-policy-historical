@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seemypersonality.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624090910id_/http%3A//www.seemypersonality.com/About%23Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seemypersonality.com privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725034613id_/http%3A//www.seemypersonality.com/About%23Security) for the most accurate reproduction.*
 
 # Learn About and Get in Contact with Us
 
