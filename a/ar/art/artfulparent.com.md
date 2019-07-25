@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfulparent.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601082124id_/https%3A//artfulparent.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfulparent.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726002824id_/https%3A//artfulparent.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy
 
