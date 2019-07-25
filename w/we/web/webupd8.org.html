@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the webupd8.org privacy policy that was archived on 2019-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190602052739id_/http%3A//www.webupd8.org/p/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webupd8.org privacy policy that was archived on 2019-07-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190725085836id_/http%3A//www.webupd8.org/p/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="v2" dir="ltr" itemscope="" itemtype="http://schema.org/Article" lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema"><head>
 <link href="https://www.blogger.com/static/v1/widgets/3597120983-css_bundle_v2.css" rel="stylesheet" type="text/css">
 <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0" name="viewport">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5&amp;appId=194136370627950"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=014763196502483276481:ygcgpqu0byc"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=014763196502483276481:ygcgpqu0byc"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <link href="http://cf.webupd8.org/v3/style-all-67.gz.css" rel="stylesheet">
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta content="blogger" name="generator">
@@ -13,7 +13,7 @@
 <link rel="alternate" type="application/atom+xml" title="Web Upd8: Ubuntu / Linux blog - Atom" href="http://www.webupd8.org/feeds/posts/default">
 <link rel="alternate" type="application/rss+xml" title="Web Upd8: Ubuntu / Linux blog - RSS" href="http://www.webupd8.org/feeds/posts/default?alt=rss">
 <link rel="service.post" type="application/atom+xml" title="Web Upd8: Ubuntu / Linux blog - Atom" href="https://www.blogger.com/feeds/7452102844869359296/posts/default">
-<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1961721879-ieretrofit.js"></script>
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1755873236-ieretrofit.js"></script>
 <![endif]-->
 <meta content="http://www.webupd8.org/p/privacy.html" property="og:url">
 <meta content="Privacy" property="og:title">
@@ -68,111 +68,6 @@ document.write("<meta content='2200' http-equiv='refresh'/>");
   ga('send', 'pageview');
 </script>
 <!-- Google Analytics end -->
-<script type="text/javascript">
-//IPInfoDB javascript JSON query example
-//Geolocation data is stored as serialized JSON in a cookie
-//Bug reports : http://forum.ipinfodb.com/viewforum.php?f=7
-
-//<![CDATA[
-function geolocate(timezone, cityPrecision, objectVar) {
- 
-  var api = (cityPrecision) ? "ip-city" : "ip-country";
-  var domain = 'api.ipinfodb.com';
-  var url = "http://" + domain + "/v3/" + api + "/?key=93da7640f68a25feaa5d27054af566e07536a2107623e1594a4051276e7c968e&format=json" + "&callback=" + objectVar + ".setGeoCookie";
-  var geodata;
-  var callbackFunc;
-  var JSON = JSON || {};
- 
-  // implement JSON.stringify serialization
-  JSON.stringify = JSON.stringify || function (obj) {
-    var t = typeof (obj);
-    if (t != "object" || obj === null) {
-      // simple data type
-      if (t == "string") obj = '"'+obj+'"';
-        return String(obj);
-    } else {
-    // recurse array or object
-      var n, v, json = [], arr = (obj && obj.constructor == Array);
-      for (n in obj) {
-        v = obj[n]; t = typeof(v);
-        if (t == "string") v = '"'+v+'"';
-        else if (t == "object" && v !== null) v = JSON.stringify(v);
-        json.push((arr ? "" : '"' + n + '":') + String(v));
-      }
-      return (arr ? "[" : "{") + String(json) + (arr ? "]" : "}");
-    }
-  };
- 
-  // implement JSON.parse de-serialization
-  JSON.parse = JSON.parse || function (str) {
-    if (str === "") str = '""';
-      eval("var p=" + str + ";");
-      return p;
-  };
- 
-  //Check if cookie already exist. If not, query IPInfoDB
-  this.checkcookie = function(callback) {
-    geolocationCookie = getCookie('geolocation');
-    callbackFunc = callback;
-    if (!geolocationCookie) {
-      getGeolocation();
-    } else {
-      geodata = JSON.parse(geolocationCookie);
-      callbackFunc();
-    }
-  }
- 
-  //API callback function that sets the cookie with the serialized JSON answer
-  this.setGeoCookie = function(answer) {
-    if (answer['statusCode'] == 'OK') {
-      JSONString = JSON.stringify(answer);
-      setCookie('geolocation', JSONString, 365);
-      geodata = answer;
-      callbackFunc();
-    }
-  }
- 
-  //Return a geolocation field
-  this.getField = function(field) {
-    try {
-      return geodata[field];
-    } catch(err) {}
-  }
- 
-  //Request to IPInfoDB
-  function getGeolocation() {
-    try {
-      script = document.createElement('script');
-      script.src = url;
-      document.body.appendChild(script);
-    } catch(err) {}
-  }
- 
-  //Set the cookie
-  function setCookie(c_name, value, expire) {
-    var exdate=new Date();
-    exdate.setDate(exdate.getDate()+expire);
-    document.cookie = c_name+ "=" +escape(value) + ((expire==null) ? "" : ";expires="+exdate.toGMTString());
-  }
- 
-  //Get the cookie content
-  function getCookie(c_name) {
-    if (document.cookie.length > 0 ) {
-      c_start=document.cookie.indexOf(c_name + "=");
-      if (c_start != -1){
-        c_start=c_start + c_name.length+1;
-        c_end=document.cookie.indexOf(";",c_start);
-        if (c_end == -1) {
-          c_end=document.cookie.length;
-        }
-        return unescape(document.cookie.substring(c_start,c_end));
-      }
-    }
-    return '';
-  }
-}
-//]]>
-</script>
 <script type="text/javascript"> 
 // <![CDATA[
 if ( top != self) {      
@@ -184,54 +79,26 @@ if ( top != self) {
 //}
 // ]]>
 </script>
-<script>
-var leftamt;
-function scrollFunction() {
-var scamt = (document.documentElement.scrollTop?document.documentElement.scrollTop:document.body.scrollTop);
-var element = document.getElementById("mnet-sticky");
-if(scamt > leftamt){
-var leftPosition = element.getBoundingClientRect().left;
-element.className = element.className.replace( /(?:^|\s)fixclass(?!\S)/g , '' );
-element.className += " fixclass";
-//element.style.left = leftPosition+'px';
-}
-else{
-element.className = element.className.replace( /(?:^|\s)fixclass(?!\S)/g , '' );
-
-}
-}
-function getElementTopLeft(id) {
-var ele = document.getElementById(id);
-var top = 0;
-var left = 0;
-while(ele.tagName != "BODY") {
-top += ele.offsetTop;
-left += ele.offsetLeft;
-ele = ele.offsetParent;
-}
-return { top: top, left: left };
-}
-function abcd(){
-TopLeft = getElementTopLeft("mnet-sticky");
-leftamt = TopLeft.top;
-//leftamt -= 10;
-}
-window.onload = abcd;
-window.onscroll = scrollFunction;
-</script>
 <style type="text/css">
 .fixclass{position:fixed;top:20px;z-index:1;left:auto;border-right:1px solid #eaeaea;padding:0 14px 0 0; width:160px; height:755px;}
+.googsearch {margin-top: auto;}
+@media only screen and (max-width:479px) {
+
+.googsearch{margin-top:20px!important;}
+
+}	
 </style>
 <!--Custom EU Cookies Notice -->
 <script type="text/javascript"> 
-  cookieOptions = { 
-    msg: "This site uses cookies to help deliver services. By using this site, you agree to the use of cookies.", 
-    link: "http://www.webupd8.org/p/this-site-uses-cookies.html", 
-    close: "Got it!", 
-    learn: "Learn More" }; 
+  cookieChoices = {}
+  //cookieOptions = { 
+  //  msg: "This site uses cookies to help deliver services. By using this site, you agree to the use of cookies.", 
+  //  link: "http://www.webupd8.org/p/this-site-uses-cookies.html", 
+  //  close: "Got it!", 
+  //  learn: "Learn More" };  
 </script>
-<script async="" defer="" src="//services.bilsyndication.com/adv1/?d=632" type="text/javascript"></script><script> var vitag = vitag || {};</script>
-<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7452102844869359296&amp;zx=5ecf6ecb-5010-4ce4-b3b1-47abd0209d70" media="none" onload="if(media!='all')media='all'" rel="stylesheet"><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7452102844869359296&amp;zx=5ecf6ecb-5010-4ce4-b3b1-47abd0209d70' rel='stylesheet'/></noscript>
+<script async="async" defer="defer" src="//services.bilsyndication.com/adv1/?d=632" type="text/javascript"></script><script> var vitag = vitag || {};</script>
+<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7452102844869359296&amp;zx=7d5a6287-99e4-47d1-a4db-89268fbf1687" media="none" onload="if(media!='all')media='all'" rel="stylesheet"><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7452102844869359296&amp;zx=7d5a6287-99e4-47d1-a4db-89268fbf1687' rel='stylesheet'/></noscript>
 
 <script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
 <body>
@@ -323,13 +190,7 @@ window.onscroll = scrollFunction;
 <div id="sidebar-narrow" style="width:100%;max-width:160px;float:left;">
 <div class="inter section" id="sidebar-mid"><div class="widget HTML" data-version="1" id="HTML3">
 <div class="widget-content">
-<div id="mnet-sticky">
-<div class="spoll">
-
-</div>
-</div>
-
-<h2 class="title">Recently updated</h2><div class="widget-content"><ul class="tips"><li><a href="http://www.webupd8.org/2014/05/betty-is-like-siri-or-google-now-for.html">Betty Is Like Siri Or Google Now For The Command Line (Translates Plain English Into Commands)</a></li><li><a href="http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html">Dual Boot: Fix Time Differences Between Ubuntu And Windows</a></li><li><a href="http://www.webupd8.org/2015/03/how-to-run-gedit-and-nautilus-as-root.html">How To Run Gedit And Nautilus As Root With pkexec Instead Of gksu</a></li><li><a href="http://www.webupd8.org/2014/10/download-apks-from-google-play-to-your.html">Download APKs From Google Play To Your Computer With Google Play Downloader</a></li><li><a href="http://www.webupd8.org/2011/08/save-pidgin-passwords-in-gnome-keyring.html">Save Pidgin Passwords In System Keyring Instead Of Plain Text</a></li><li><a href="http://www.webupd8.org/2014/06/convert-audio-video-files-with-selene.html">Convert Audio / Video Files With Selene Media Encoder</a></li><li><a href="http://www.webupd8.org/2013/10/edit-samsung-tv-channel-list-with.html">Edit Samsung TV Channel List With SamToolBox</a></li><li><a href="http://www.webupd8.org/2014/09/selektor-tor-gui-with-country-exit-node.html">SelekTOR: Tor GUI With Country Exit Node Selection, Useful To Bypass Country Restrictions</a></li></ul></div>"
+<h2 class="title">Recently updated</h2><div class="widget-content"><ul class="tips"><li><a href="http://www.webupd8.org/2014/05/betty-is-like-siri-or-google-now-for.html">Betty Is Like Siri Or Google Now For The Command Line (Translates Plain English Into Commands)</a></li><li><a href="http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html">Dual Boot: Fix Time Differences Between Ubuntu And Windows</a></li><li><a href="http://www.webupd8.org/2015/03/how-to-run-gedit-and-nautilus-as-root.html">How To Run Gedit And Nautilus As Root With pkexec Instead Of gksu</a></li><li><a href="http://www.webupd8.org/2014/10/download-apks-from-google-play-to-your.html">Download APKs From Google Play To Your Computer With Google Play Downloader</a></li><li><a href="http://www.webupd8.org/2011/08/save-pidgin-passwords-in-gnome-keyring.html">Save Pidgin Passwords In System Keyring Instead Of Plain Text</a></li><li><a href="http://www.webupd8.org/2014/06/convert-audio-video-files-with-selene.html">Convert Audio / Video Files With Selene Media Encoder</a></li><li><a href="http://www.webupd8.org/2013/10/edit-samsung-tv-channel-list-with.html">Edit Samsung TV Channel List With SamToolBox</a></li><li><a href="http://www.webupd8.org/2014/09/selektor-tor-gui-with-country-exit-node.html">SelekTOR: Tor GUI With Country Exit Node Selection, Useful To Bypass Country Restrictions</a></li></ul></div>
 </div>
 </div><div class="widget HTML" data-version="1" id="HTML23">
 <div class="widget-content">
@@ -407,6 +268,8 @@ Using the <a rel="nofollow" href="https://www.google.com/settings/ads">Ads Setti
 <div class="inter section" id="sidebar-top1"><div class="widget HTML" data-version="1" id="HTML2">
 <div class="widget-content">
 <div class="spol"></div>
+
+<div class="adsbyvli" data-ad-slot="vi_6321591"></div><script>(vitag.Init = window.vitag.Init || []).push(function(){viAPItag.display("vi_6321591")})</script>
 
 <!-- BuySellAds Zone Code -->
 <div id="bsap_1301023" class="bsarocks bsap_70b76c27f6ecb7a0de5cd611dddf7c97"></div>
@@ -705,10 +568,10 @@ License: <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/ro/deed.en">(
 <!-- BEGIN CODE IT PRETTY RELATED POSTS GALLERY CODE -->
 <!-- END CODE IT PRETTY RELATED POSTS GALLERY CODE -->
 
-<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2571851385-widgets.js"></script>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3830979360-widgets.js"></script>
 <script type="text/javascript">
-window['__wavt'] = 'AOuZoY4ttpGJFuE1lE3z23DeHh6kv04viQ:1559366272552';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7452102844869359296','//www.webupd8.org/p/privacy.html','7452102844869359296');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7452102844869359296', 'title': 'Web Upd8: Ubuntu / Linux blog', 'url': 'http://www.webupd8.org/p/privacy.html', 'canonicalUrl': 'http://www.webupd8.org/p/privacy.html', 'homepageUrl': 'http://www.webupd8.org/', 'searchUrl': 'http://www.webupd8.org/search', 'canonicalHomepageUrl': 'http://www.webupd8.org/', 'blogspotFaviconUrl': 'http://www.webupd8.org/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': false, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Web Upd8: Ubuntu / Linux blog - Atom\x22 href\x3d\x22http://www.webupd8.org/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Web Upd8: Ubuntu / Linux blog - RSS\x22 href\x3d\x22http://www.webupd8.org/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Web Upd8: Ubuntu / Linux blog - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7452102844869359296/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-5111779714716360', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/1961721879-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/bfd65ef11905efdf', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'static_page', 'pageId': '3377230081704576816', 'pageName': 'Privacy', 'pageTitle': 'Web Upd8: Ubuntu / Linux blog: Privacy'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Privacy', 'description': ' We at WebUpd8 try to test the applications we recommend but in some cases we may not be able to check the application as much as we like. I...', 'url': 'http://www.webupd8.org/p/privacy.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 3377230081704576816}}]);
+window['__wavt'] = 'AOuZoY5lxw7AhN08ax7aaLbzgqjcgGbq8w:1564045116234';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7452102844869359296','//www.webupd8.org/p/privacy.html','7452102844869359296');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7452102844869359296', 'title': 'Web Upd8: Ubuntu / Linux blog', 'url': 'http://www.webupd8.org/p/privacy.html', 'canonicalUrl': 'http://www.webupd8.org/p/privacy.html', 'homepageUrl': 'http://www.webupd8.org/', 'searchUrl': 'http://www.webupd8.org/search', 'canonicalHomepageUrl': 'http://www.webupd8.org/', 'blogspotFaviconUrl': 'http://www.webupd8.org/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': false, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Web Upd8: Ubuntu / Linux blog - Atom\x22 href\x3d\x22http://www.webupd8.org/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Web Upd8: Ubuntu / Linux blog - RSS\x22 href\x3d\x22http://www.webupd8.org/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Web Upd8: Ubuntu / Linux blog - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7452102844869359296/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-5111779714716360', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/1755873236-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/2256fc988ba00e6b', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'static_page', 'pageId': '3377230081704576816', 'pageName': 'Privacy', 'pageTitle': 'Web Upd8: Ubuntu / Linux blog: Privacy'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Privacy', 'description': ' We at WebUpd8 try to test the applications we recommend but in some cases we may not be able to check the application as much as we like. I...', 'url': 'http://www.webupd8.org/p/privacy.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 3377230081704576816}}]);
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-mid', document.getElementById('HTML3'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML23', 'sidebar-mid', document.getElementById('HTML23'), {}, 'displayModeFull'));
@@ -827,14 +690,6 @@ try {
 
 //]]>
 </script>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=194136370627950";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 <script type="text/javascript">
 $(function()
 {
