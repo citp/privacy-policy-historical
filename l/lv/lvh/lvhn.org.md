@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220035951id_/https%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2019-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190725161645id_/https%3A//www.lvhn.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lehigh Valley Health Network - A Passion For Better Medicine
+# Privacy Policy
 
-Acting as good stewards of the personal information that we collect is important to us as a healthcare network. At Lehigh Valley Health Network, it is our policy that personal information is kept private and confidential.
-
-Our methods of collecting, using, storing and sharing personal information we collect on LVHN.org, Lehigh Valley Health Network’s official Facebook pages and related websites, applications or services owned by Lehigh Valley Health Network or its affiliates are described in detail below. By using websites, applications or services owned by Lehigh Valley Health Network and the resources provided on them, you acknowledge that you are aware of and accept these practices.
-
-Terms and Conditions of Use of LVHN.org, Lehigh Valley Health Network’s official Facebook pages and related websites, applications or services owned by Lehigh Valley Health Network or its affiliates can be found at the following link - [TAC](https://www.lvhn.org/terms_and_conditions_of_use). Specific details about how we protect health information that may identify you as an individual can be found here.
+Terms and Conditions of Use of LVHN.org, Lehigh Valley Health Network’s official Facebook pages and related websites, applications or services owned by Lehigh Valley Health Network or its affiliates can be found at the following link - [Learn about Terms and Conditions of Use](https://web.archive.org/terms_and_conditions_of_use). Specific details about how we protect health information that may identify you as an individual can be found here.
 
 ### Types and Uses of Information Collected
 
@@ -45,7 +41,7 @@ Third party advertising networks may be used in our marketing activities. These 
 You may change or update your personal information and/or health-related personal information at any time using the following options:
 
   * Accessing your personal profile on MyLVHN.org and changing it there.
-  * Contacting us using the methods outlined [here](https://www.lvhn.org/contact_us_2).
+  * Contacting us using the methods outlined [here](https://web.archive.org/contact).
 
 
 
@@ -53,7 +49,7 @@ You may change or update your personal information and/or health-related persona
 
 You may remove previously provided personal and/or health-related personal information at any time using the following option:
 
-  * Contacting us using the methods outlined [here](https://www.lvhn.org/contact_us_2).
+  * Contacting us using the methods outlined [here](https://web.archive.org/contact).
 
 
 
@@ -83,7 +79,7 @@ Please note that by disabling or opting-out from the use of these communications
 
 We understand that your medical information is personal. As a hospital network, we are committed to the protection of health information that may identify you as an individual, which we call Protected Health Information (“PHI”) and treat differently than other forms of personal information that you provide.
 
-Our network has created a [**HEALTH INFORMATION PRIVACY NOTICE**](https://www.lvhn.org/sites/default/files/uploads/PDFs/HIPAA_Health_Information_Privacy_Notice_Policy.pdf) to describe how we use and disclose your PHI respective to the services offered through Lehigh Valley Health Network. This Notice includes information about:
+Our network has created a [**HEALTH INFORMATION PRIVACY NOTICE**](https://web.archive.org/sites/default/files/uploads/PDFs/HIPAA_Health_Information_Privacy_Notice_Policy.pdf) to describe how we use and disclose your PHI respective to the services offered through Lehigh Valley Health Network. This Notice includes information about:
 
   * How we may use and disclose your PHI
   * When we may disclose your PHI to others
@@ -93,7 +89,7 @@ Our network has created a [**HEALTH INFORMATION PRIVACY NOTICE**](https://www.lv
 
 
 
-To download a complete copy of our **HEALTH INFORMATION PRIVACY NOTICE** , please [click here](https://www.lvhn.org/sites/default/files/uploads/PDFs/HIPAA_Health_Information_Privacy_Notice_Policy.pdf).
+To download a complete copy of our **HEALTH INFORMATION PRIVACY NOTICE** , please [click here](https://web.archive.org/sites/default/files/uploads/PDFs/HIPAA_Health_Information_Privacy_Notice_Policy.pdf).
 
 ### Updates to Our Privacy Policy
 
