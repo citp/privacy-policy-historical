@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210003844id_/https%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726232128id_/https%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Thompson & Morgan
 
 ## Privacy Policy Summary
 
-This is the privacy policy of BVG Group Limited, trading as Thompson & Morgan. This policy sets out our procedures regarding the collection and use of your personal information when we send you information in the post, when we contact you electronically and when you access our website [www.thompson-morgan.com](https://www.thompson-morgan.com/). BVG Group Limited is a company registered in England & Wales whose company number is 03393851 and our registered office is Units 5 & 6, Ffrwdgrech Industrial Estate, Brecon, Powys, LD3 8LA. The trading address of Thompson & Morgan is Poplar Lane, Ipswich, Suffolk, IP8 3BU.
+This is the privacy policy of BVG Group Limited, trading as Thompson & Morgan. This policy sets out our procedures regarding the collection and use of your personal information when we send you information in the post, when we contact you electronically and when you access our website [www.thompson-morgan.com](https://www.thompson-morgan.com/). BVG Group Limited is a company registered in England & Wales whose company number is 03393851 and our registered office is 3rd Floor Cumberland House, Cumberland Place, Southampton, England, SO15 2BG. The trading address of Thompson & Morgan is Poplar Lane, Ipswich, Suffolk, IP8 3BU.
 
 Branded Garden Products Limited, (trading as Thompson & Morgan) is registered as a data controller on the UK Data Protection Register. Our registration number is [Z6288594](https://ico.org.uk/ESDWebPages/Entry/Z6288594).
 
@@ -86,13 +86,17 @@ Preferences by catalogue and by phone: you can change how we stay in touch with 
 
 ### Why we collect your personal information
 
-There are three main purposes for gathering your personal information: for marketing activities, deliveries, and for transaction processing. 
+There are several main purposes for gathering your personal information: for marketing activities, deliveries, profiling, and for transaction processing. 
 
 Transaction processing: when you purchase a product from our website or catalogue, you become a customer of Thompson & Morgan, so we retain personal information on you whilst you remain an active customer of ours and also for a short time when you no longer order from us. When you make an enquiry about a product of ours, we also retain the personal information you give us in your enquiry for a limited period of time. Our Data Retention policy below explains how long we keep your personal information. In all cases for transaction processing, our legal basis for processing your personal data is contract.
 
-Deliveries: We will need to print your name and address on delivery notes and despatch labels, in order to deliver any goods you order from us. Please note that in order to resolve delivery queries once goods are on their way to you, that we may print your phone number on the despatch label to aid the courier in the event of a query about your delivery. Our couriers destroy any personal data provided by us once your goods have been delivered.
+Deliveries: We will need to print your name and address on delivery notes and despatch labels, in order to deliver any goods you order from us. Please note that in order to resolve delivery queries once goods are on their way to you, that we may print your phone number on the despatch label to aid the courier in the event of a query about your delivery. You may receive an email from our courier with updates on your delivery including information to enable you to track your order. Our couriers destroy any personal data provided by us once your goods have been delivered.
 
 Marketing activities: we have separated out each marketing activity that your personal data is used for below. Note that any customers or website visitors who don't want to receive marketing communications from us can email [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) to update their preferences. Thompson & Morgan will never send you a marketing communication that doesn't have a method of opting out from our marketing communications contained within it.
+
+Profiling: we plan to build profiles from all the information that we have about you, so that we can do two things; firstly we want to surface product advertisements and gardening hints and tips to you via social media. Secondly we want to develop a 1:1 communications programme with you, so that can send you email communications that are specific to you. We believe this will make our dialogue with you more personal and more accurate. You can opt out of having your data used in profiling at any time by emailing [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) or calling 0333 400 0033. The legal basis for processing is legitimate interest.
+
+Social media: we want to increase our engagement with you on social media, which we hope we will help us reduce the number of catalogues we produce in the medium term. So, you may see product advertisements & gardening hints and tips from us on some social media platforms, including Facebook. You can opt out of T&M messages on social media at any time by emailing [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) or calling 0333 400 0033. The legal basis for processing is legitimate interest.
 
 • Catalogues: we will provide our customers with at least one full range catalogue each year. _The legal basis for processing is legitimate interest_
 
@@ -113,6 +117,8 @@ Marketing activities: we have separated out each marketing activity that your pe
 • Anonymous web analytics: Thompson & Morgan aggregates and anonymises all your activity on our website for traffic analysis, to help measure and improve the website performance. We also use this anonymised data to monitor the effectiveness of our advertising. Your personal data is anonymised in this process, so there is no requirement under GDPR for a legal basis for processing.
 
 • Business Insight: your personal data and any order history goes into our business insight platform. We use this application to gain detailed insight into how to improve our product and service offering to you, and to also create statistical models to predict your likely purchasing intentions in the future. You can request that your data is removed from this business insight process by emailing [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) or calling 0333 400 0033. _The legal basis for processing is legitimate interest, you can request that we remove your details from our business insight process_.
+
+• Data sharing: we sometimes share customer data with other reputable organisations mainly in the following sectors; charities, houseware, finance & gardening, for the purposes of postal marketing. You can opt out of this marketing at any time either online, via our order forms, or by contacting our customer service team: [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) or on 0333 400 0033.
 
 ### How we protect and where we store your personal information
 
@@ -150,7 +156,15 @@ Red Eye International, whose registered office is Oak House, Crewe Hall Farm, Cr
 
 Feefo, whose registered office is Feefo Barn Heath Farm, Heath Road East, Petersfield, Hampshire, England, GU31 4HT, for the purposes of conducting customer satisfaction surveys on our products and overall service delivery. Feefo is registered as a data controller [Z2323576](https://ico.org.uk/ESDWebPages/Entry/Z2323576).
 
+Garden Compass Limited (trading as Smartplant), whose registered office is Aissela, 46 High Street, Esher, Surrey, United Kingdom, KT10 9QY, for the purposes of providing horticultural updates and advice to customers. Garden Compass Limited is registered as a data controller, [ZA477697](https://ico.org.uk/ESDWebPages/Entry/ZA477697).
+
 BVG Group companies: periodically Thompson & Morgan will share its' customer information with other BVG Group companies who have products and services that are relevant to the clothing and home & garden markets. Those companies will then send you marketing information by your preferred method (post or email), on products that are directly related to your purchases with Thompson & Morgan. You can opt out of these communications at any time, by emailing [ccare@thompson-morgan.com](mailto:ccare@thompson-morgan.com) or calling 0333 400 0033. The group companies most likely to contact you are: Van Meuwen, Clifford James, Waltons and Happy Beaks.
+
+Facebook UK Ltd: whose registered office is 10 Brock Street, London, NW1 3FG, for the purposes of providing custom audiences on the Facebook social media platform. Facebook is registered as a data controller, [ZA265194](https://ico.org.uk/ESDWebPages/Entry/ZA265194).
+
+Twitter International Company: whose registered office is 1 Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Eire, for the purpose of providing custom audiences on the Twitter social media platform.
+
+Address Intelligence Technologies Limited, whose registered office is 7-10 Chandos Street, London, W1G 9DQ, for the purposes of developing marketing profiles to help us better direct our postal communications. Address Intelligence Technologies Limited is registered as a data controller, [ZA183618](https://ico.org.uk/ESDWebPages/Entry/ZA183618).
 
 ### Requesting a copy of your personal information
 
