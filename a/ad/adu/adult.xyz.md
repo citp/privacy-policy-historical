@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adult.xyz privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602123745id_/http%3A//adult.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adult.xyz privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726212318id_/http%3A//adult.xyz/privacy) for the most accurate reproduction.*
 
 # Adult.xyz - Terms & Conditions
 
@@ -40,7 +40,7 @@ Our Privacy Policy is seperated in to the "Adult.xyz Service Website" (requires 
 
 (e) Information that you provide to us when using the services on our website, or that is generated in the course of the use of those services including the timing, frequency and pattern of service use;
 
-(f) Information relating to any purchases you make of our services or any other transactions that you enter into through our website (including your name, address, telephone number, email address and PayPal/Payza account details);
+(f) Information relating to any purchases you make of our services or any other transactions that you enter into through our website (including your name, address, telephone number and email address);
 
 (g) Information that you post to our website for publication on the internet (including your user name and URLs);
 
@@ -86,7 +86,7 @@ Our Privacy Policy is seperated in to the "Adult.xyz Service Website" (requires 
 
 4.4 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's direct marketing.
 
-4.5 All our website financial transactions are handled through our payment services provider, PayPal/Payza/Payoneer. You can review the provider's privacy policy at their website. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+4.5 All our website financial transactions are handled through our payment services provider, Payoneer. You can review the provider's privacy policy at their website. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
 
 ## 5\. Disclosing personal information
 
