@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the e-onsoftware.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104081007id_/https%3A//www.bentley.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-onsoftware.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726095055id_/https%3A//www.bentley.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ### _Learn about Bentley’s commitment to your privacy protection._
 
-**Last Updated:  May 21, 2018**
+**Last Updated:   April 3, 2019**
 
 Your privacy is important to Bentley. This Bentley Privacy Statement (" **Privacy Statement** ") tells you about how we collect, use, disclose, transfer, and store your information, as well as the choices you have regarding your information.  It also gives you information about our marketing and advertising practices and offline activities.
 
@@ -20,7 +20,7 @@ Bentley will process personal data, as provided in this Privacy Statement, for B
 
 We transfer your personal data to the US and other countries, which may be outside the country in which you live.  We use European Commission-approved contract clauses and Privacy Shield certification to help protect your personal data.
 
-Learn more information about Bentley’s [GDPR Compliance Program](https://web.archive.org/en/resources/gdpr-compliance-program) **.**
+Learn more information about Bentley’s [GDPR Compliance Program](https://web.archive.org/en/resources/gdpr-compliance-program) and [Subscription Entitlement Service for EU Accounts](https://web.archive.org/en/subscription-entitlement-service-for-eu-accounts).
 
 ## LEARN MORE
 
@@ -59,7 +59,7 @@ Information including your name, email address, postal address, phone number, an
 
 | 
 
-Information required to sign-up or register for an event, webinar, or other Bentley event. This may include your name, email address, username and password. Event registration and attendance is subject to [Bentley’s Event Registrant Terms and Conditions](https://prod-bentleycdn.azureedge.net/-/media/files/documents/miscellaneous/general_event_terms_and_conditions.pdf?la=en&modified=20180705203636).   
+Information required to sign-up or register for an event, webinar, or other Bentley event. This may include your name, email address, username and password. Event registration and attendance is subject to [Bentley’s Event Registrant Terms and Conditions](https://prod-bentleycdn.azureedge.net/-/media/files/documents/miscellaneous/general_event_terms_and_conditions.pdf?la=en&modified=20180705203636&hash=3C6F33002EFF04B6082AAD165CA8A8B2E6413958).   
   
 **Login and Authentication Credentials**
 
@@ -204,7 +204,7 @@ You can also click [here](https://web.archive.org/en/cookie-policy "Cookie State
 
 ## **EU-U.S. Privacy Shield Framework (EU RESIDENTS)**
 
-Bentley complies with the EU-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Bentley has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of _Notice_ , _Choice_ , _Accountability for Onward Transfer_ , _Security_ , _Data Integrity and Purpose Limitation_ , _Access_ , and _Recourse, Enforcement and Liability_ , and the 16 Supplemental Principles (collectively, " **Privacy Shield Principles** "). Such adherence is subject to investigation and enforcement by the U.S. Federal Trade Commission. 
+Bentley Systems, Incorporated complies with the EU-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Bentley has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of _Notice_ , _Choice_ , _Accountability for Onward Transfer_ , _Security_ , _Data Integrity and Purpose Limitation_ , _Access_ , and _Recourse, Enforcement and Liability_ , and the 16 Supplemental Principles (collectively, " **Privacy Shield Principles** "). Such adherence is subject to investigation and enforcement by the U.S. Federal Trade Commission. 
 
 Bentley's participation in the Privacy Shield applies to all personal information that is subject to this Privacy Statement and is received by or on behalf of Bentley from the European Union and European Economic Area. Bentley will comply with the Privacy Shield Principles in respect of such personal information. If there is any conflict between the terms in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern in respect of such personal information. Bentley’s adherence to the Privacy Shield Principles may be limited to the extent necessary to meet national security, public interest, or law enforcement requirements.
 
@@ -216,14 +216,14 @@ You have the right to lodge a complaint with an applicable data protection autho
 
 In addition, Bentley provides individuals with certain choices regarding how we use and disclose personal information we receive under the Privacy Shield framework. First, if Bentley uses your personal information for a materially different purpose than what it was originally collected, or discloses your personal information to a third party (other than third party providers acting on our behalf), we will first provide you with a clear, conspicuous, and readily available mechanism to opt-out of any such use or disclosure (for example, by sending you an email seeking your consent). All of our email communications include the ability to opt-out from receiving future emails, except those emails that are necessary to provide you with the services you have requested or purchased. If you have any questions about your choices regarding how we use and disclose your personal information, or how to exercise these choices, please contact us via our [contact us](https://web.archive.org/en/about-us/contact-us/contact-us-form) form.
 
-We encourage you to contact us if you have a Privacy Shield-related (or general privacy-related) complaint or inquiry by clicking on this [contact us](https://web.archive.org/en/about-us/contact-us "Contact Us") link. For any complaints that cannot be resolved with Bentley directly, Bentley has chosen to cooperate with the American Arbitration Association, an alternative dispute resolution provider, to resolve such complaints at no charge to you. Please visit <http://info.adr.org/safeharbor> for more information and to file a complaint. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you to address residual complaints not resolved by any other means.
+We encourage you to contact us if you have a Privacy Shield-related (or general privacy-related) complaint or inquiry by clicking on this [contact us](https://web.archive.org/en/about-us/contact-us "Contact Us") link. For any complaints that cannot be resolved with Bentley directly, Bentley has chosen to cooperate with the American Arbitration Association, an alternative dispute resolution provider, to resolve such complaints at no charge to you. Please visit <http://go.adr.org/privacyshield.html> for more information and to file a complaint. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you to address residual complaints not resolved by any other means.
 
 To learn more about the Privacy Shield program, please visit [www.privacyshield.gov](http://www.privacyshield.gov/ "www.privacyshield.gov"). To view our certification, please visit <https://www.privacyshield.gov/participant?id=a2zt00000004EOGAA2>.
 
 ## Other Important Privacy Information
 
 **Security of Your Information**  
-Bentley is committed to protecting the security of information we collect from and about you. We use a variety of security technologies and procedures to help protect this information from unauthorized access, use, or disclosure. For example, we store the information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. If a password is used to help protect your accounts and information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone, you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.
+Bentley is committed to protecting the security of information we collect from and about you. We use a variety of security technologies and procedures to help protect this information from unauthorized access, use, or disclosure. For example, we store the information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as Transport Layer Security. If a password is used to help protect your accounts and information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone, you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.
 
 **Collection and Use of Children’s Information**  
 Bentley webpages and services are intended for general audiences and we do not knowingly collect any personal information from children. When a Bentley webpage does collect age information, and users identify themselves as under 13, the site will either block such users from providing personal information, or will seek to obtain consent from parents for the collection, use, and sharing of their children’s personal information. We will not knowingly ask children under the age of 13 to provide personal information to us. Bentley strongly encourages you to talk with your children about communicating with strangers and disclosing personal information online and about using the Internet safely.
