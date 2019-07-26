@@ -1,9 +1,15 @@
-<!--The following is the downloaded HTML source of the vapewild.com privacy policy that was archived on 2019-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330212153id_/https%3A//www.vapewild.com/payment-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vapewild.com privacy policy that was archived on 2019-07-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190726171609id_/https%3A//www.vapewild.com/payment-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
         <title>VapeWild's Payment and Privacy Policies</title>
-        <script type="text/javascript" async="" src="//staticw2.yotpo.com/hP8s2CddW8nzFDMSy1PX5wz9IGTkKM5Jggi41HDw/widget.js"></script><script async="" src="//d.impactradius-event.com/A1320138-a1c9-453d-984c-090279eee89d1.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://d10lpsik1i8c69.cloudfront.net/w.js"></script><script type="text/javascript" async="" src="https://d2z0bn1jv8xwtk.cloudfront.net/async/preload/eb38ef826e1a91c1ef11f3b6ca0d4fcd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    
+        <link rel="dns-prefetch" href="//cdn.dynamicyield.com">
+        <link rel="dns-prefetch" href="//st.dynamicyield.com">
+        <link rel="dns-prefetch" href="//rcom.dynamicyield.com">
+
+ 
+<script async="" src="//d.impactradius-event.com/A1320138-a1c9-453d-984c-090279eee89d1.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://d10lpsik1i8c69.cloudfront.net/w.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N2D75XP"></script><script type="text/javascript">
     var bc_pageType = "page";
     bc_pageType = bc_pageType.toUpperCase();
     var dy_pageType;
@@ -40,20 +46,124 @@
     } else {
         DY.recommendationContext = { type: dy_pageType };
     }
+    var getCookie = function(name) {
+      var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+      if (match) return match[2];
+    }
+    if (!getCookie('fire_dyLogin')) {
+      document.cookie = "fire_dyLogin=true";
+    }
+    if ("" == "") {
+      document.cookie = "fire_dyLogin=true";
+    }
+
+    function waitForDy(callback) {
+      if (DY['API'] && typeof DYO != "undefined") {
+        callback();
+      } else {
+        setTimeout(function() {
+          waitForDy(callback);
+        }, 200);
+      }
+    }
+    
+    function runDyActions() {
+        DYO.waitForElement('#footerSubcribeFormSubmit', function() {
+          addEmailSubscribeListener();
+        }, 1, 200, 30);
+        if (isSearch('action=account_created')) {
+            waitForDy(function() {
+                var hashedEmail = getHashedEmail();
+                if (hashedEmail) {
+                    var properties = {
+                        dyType: "signup-v1",
+                        hashedEmail: hashedEmail
+                    }
+                    sendDyEvent('Signup', properties);
+                }
+            })
+        }
+
+        if (isPathName('subscribe.php') && isSearch('result=success')) {
+            var hashedEmail = getCookie("dy_subscribeEmail");
+            if (hashedEmail) {
+                var properties = {
+                    dyType: "newsletter-subscription-v1",
+                    hashedEmail: hashedEmail
+                }
+                sendDyEvent('Newsletter Subscription', properties);
+            }
+        }
+
+        if (getCookie('fire_dyLogin') == "true" && "") {
+            document.cookie = "fire_dyLogin=false";
+            var hashedEmail = getHashedEmail();
+            if (hashedEmail) {
+                var properties = {
+                 dyType: "login-v1",
+                 hashedEmail: hashedEmail
+                }
+                sendDyEvent('Login', properties);
+            }
+        }
+    }
+
+    function addEmailSubscribeListener() {
+        var form = document.querySelector('#footerSubcribeFormSubmit');
+        if (form) {
+            form.addEventListener('submit', function(form) {
+                var email = form.target.querySelector('#nl_email').value;
+                if (email) {
+                    var hashedEmail = DYO.dyhash.sha256(email);
+                    document.cookie="dy_subscribeEmail=" + hashedEmail;
+                }
+            })
+        }
+    }
+
+    function isPathName(path) {
+        return window.location.pathname && window.location.pathname.indexOf(path) > - 1;
+    }
+    function isSearch(search) {
+        return window.location.search && window.location.search.indexOf(search) > - 1;
+    }
+    function getHashedEmail() {
+        var email = "";
+        return email ? DYO.dyhash.sha256(email) : false;
+    }
+
+    function sendDyEvent(name, context) {
+        DY.API("event", {
+            name: name,
+            properties: context
+        })
+    }
+    waitForDy(runDyActions)
+
 </script>
-<link rel="dns-prefetch" href="//cdn.dynamicyield.com">
-<link rel="dns-prefetch" href="//st.dynamicyield.com">
-<link rel="dns-prefetch" href="//rcom.dynamicyield.com">
-<script type="text/javascript" src="//cdn.dynamicyield.com/api/8770135/api_dynamic.js"></script>
-<script type="text/javascript" src="//cdn.dynamicyield.com/api/8770135/api_static.js"></script>
-        
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N2D75XP');</script>
+<!-- End Google Tag Manager -->
+
+        <script type="text/javascript" async="" src="//cdn.dynamicyield.com/api/8770135/api_dynamic.js"></script>
+        <script type="text/javascript" async="" src="//cdn.dynamicyield.com/api/8770135/api_static.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://vapewild.us/us-pop-up/modal_com.css">
+    
         <meta name="description" content="Find out Vape Wild's Payment &amp; Privacy policies here!"><link rel="canonical" href="https://www.vapewild.com/payment-privacy-policy/">
         
          
         <link href="https://cdn11.bigcommerce.com/s-kz4m2dbt/product_images/VW-favicon-art2.png" rel="shortcut icon">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <link data-stencil-stylesheet="" href="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/3a531710-12c8-0137-35a0-029ccfb6e492/e/50c72c00-3386-0137-eb01-0242ac110009/css/theme-bd6d5500-1b38-0137-1abc-2f4b4c3fd527.css" rel="stylesheet">
-
+        <meta name="google-site-verification" content="zKls0mxaJlA566Fd_lvlaT9X-aRs5BGdJB0qBdV8WAA">
+        <link data-stencil-stylesheet="" href="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/1b99f860-846a-0137-f4cf-0242ac11001d/e/f0b4a650-91f3-0137-f4c5-0242ac110015/css/theme-1be6ee60-846a-0137-f4cf-0242ac11001d.css" rel="stylesheet">
+        <link data-stencil-stylesheet="" href="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/1b99f860-846a-0137-f4cf-0242ac11001d/e/f0b4a650-91f3-0137-f4c5-0242ac110015/css/custom_template-1be6ee60-846a-0137-f4cf-0242ac11001d.css" rel="stylesheet"> 
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <!-- Start Tracking Code for analytics_googleanalytics -->
 
 <script>
@@ -112,28 +222,6 @@
       var pageTracker = new trackEcommerce();
   </script>
   
-  <script>
-  var _sbcfg = {
-      customerEmail: "%%GLOBAL_CustomerEmail%%",
-      orderAmount: "%%GLOBAL_OrderTotal%%".replace(/[^\d.-]/g, ''),
-      orderId: "%%GLOBAL_OrderId%%",
-      sku: "%%GLOBAL_ProductSku%%",
-      productId: "%%GLOBAL_ProductId%%",
-      customerId: "%%GLOBAL_CustomerId%%",
-      defaultShopPath: "%%GLOBAL_ShopPath%%"
-  };
-  
-  
-  var _sbparams = _sbparams || [];
-  _sbparams.push({'action': 'view'});
-  (function() {
-      var sb = document.createElement('script');
-      var fs = document.getElementsByTagName('script')[0];
-      sb.type = 'text/javascript'; sb.async = true;
-      sb.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'd2z0bn1jv8xwtk.cloudfront.net/async/preload/eb38ef826e1a91c1ef11f3b6ca0d4fcd.js';
-      fs.parentNode.insertBefore(sb, fs);
-  })();
-  </script>
 
 <script type="text/javascript">
     window.__lo_site_id = 95815;
@@ -145,18 +233,8 @@
           })();
 </script>
 
-<script src="//www.refersion.com/tracker/v3/pub_4797eb0e6dbd6d5adf35.js"></script><script>_refersion(function(){ _rfsn._setSource("BIGCOMMERCE"); });</script>
+<!--<script  src="//www.refersion.com/tracker/v3/pub_4797eb0e6dbd6d5adf35.js"></script><script>_refersion(function(){ _rfsn._setSource("BIGCOMMERCE"); });</script>-->
 
-<!-- Start Rebillia Code -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script></head><body class="page-type-page"><div id="rebillia_overlay" style="z-index:-1; display:none;"></div><script type="text/javascript">var currentcustomeremail = '%%GLOBAL_CurrentCustomerEmail%%';var shopPath = '%%GLOBAL_ShopPathSSL%%';var domainName = 'https://app.rebillia.com';var domainURL = 'https://app.rebillia.com/';var appClientId2 = "ageychj33ynffm8otcbd88hxt9spicx";var rebpostxmlhttpURL = 'https://app.rebillia.com/login/customers';var rebxmlhttpUrl = 'https://app.rebillia.com/login/customers/';var date = new Date();date.setTime(date.getTime()+(30*60*1000));var expires = "; expires="+date.toGMTString();$(document).ready(function(){var matches=window.location.href.match(/[^\/]+$/);if (matches && matches.length) {var vec=(matches[0].split('.'));
-if (vec[0] == 'checkout'){$.ajax({url: "/cart.php",success: function(result) {var checkster = false;cart_htmlPage = $(result);cart_items_found = $('.cart-item', cart_htmlPage);$(cart_items_found).parent().each(function(i, el) {itemDesc = $(this).find('.definitionList-value').text();if (itemDesc.indexOf('Send every')  !== -1) {checkster = true;}});if(checkster){if($('#CheckoutStepShippingAddress').is(":hidden")){console.log("Rebillia Message. Downloadable Cart. Subscription Found");$.getScript("https://app.rebillia.com/js/embed-checkout.js");} else {console.log("Rebillia Message. Physical Cart. Subscription Found");}} else {console.log("Rebillia Message. No Subscription Found");}}});}
-if (vec[0] == 'account' || vec[0] == 'finishorder'){$.getScript(domainName+"/js/embed-"+ vec[0] +".js");}if (vec[0] == 'account'){customerJWT();}}});function customerJWT(bc_email) {var xmlhttp = new XMLHttpRequest();xmlhttp.onreadystatechange = function() {if (xmlhttp.readyState == 4 ) {if (xmlhttp.status == 200) {var rebxmlhttp = new XMLHttpRequest();rebxmlhttp.onreadystatechange = function() {if (rebxmlhttp.readyState == 4 ) {if (rebxmlhttp.status == 200) {console.log('Rebillia Message. Authentication Success');var data = JSON.parse(rebxmlhttp.responseText);document.cookie ="rebillia_token="+data.token+expires+"; path=/";}else if (rebxmlhttp.status == 404) {console.log('Rebillia Message. Token Error');}else {console.log('Rebillia Message. Authentication Failed');}}};rebxmlhttp.open("GET", rebxmlhttpUrl+xmlhttp.responseText, true);rebxmlhttp.withCredentials = true;rebxmlhttp.send();} else if (xmlhttp.status == 404) {var rebpostxmlhttp = new XMLHttpRequest();rebpostxmlhttp.onreadystatechange = function() {if (rebpostxmlhttp.readyState == 4 ) {if (rebpostxmlhttp.status == 200) {console.log('Rebillia Message. Authentication Success. Customer login successfully.');var data = JSON.parse(rebpostxmlhttp.responseText);document.cookie ="rebillia_token="+data.token+expires+"; path=/";}}};params="bc_email="+bc_email;rebpostxmlhttp.open("POST", rebpostxmlhttpURL, true);rebpostxmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");rebpostxmlhttp.withCredentials = true;rebpostxmlhttp.send(params);} else {console.log('Rebillia Message. Something went wrong');}}};xmlhttp.open("GET", "/customer/current.jwt?app_client_id="+appClientId2, true);xmlhttp.send();}</script>
-<script type="text/javascript">
-$(document).ready(function(){
-$('option:contains("Send every 1 year")').text("Auto Renews Annually");
-});
-</script>
-<!-- End Rebillia Code -->
 
 
 
@@ -175,8 +253,131 @@ __lc.ga_version = "ga";
 })();
 </script>
 <!-- End of LiveChat code -->
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/r-d7ca3919ac8a317b377987f4959b5f29d68fc4ba/vendor/bower_components/form-poster/dist/form-poster.min.js" defer=""></script>
+<script type="text/javascript" src="https://pwc.chase.com/pwc/checkout/js/v20170521/list.action?type=raw&amp;applId=PWC&amp;channelId=CWC&amp;version=1" defer=""></script>
 <script type="text/javascript">
-var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b3885a27ae3ce714"};
+(function(window) {
+    let merchantRequestId;
+
+    window.initButtonChasePay = function () {
+        if (!window.JPMC) {
+            var error = new Error('Unable to initialize the checkout button because the required script has not been loaded yet.');
+
+            error.type = 'SCRIPT_NOT_LOADED';
+
+            throw error;
+        }
+
+        init();
+    }
+
+    window.initChasePayLightBox = function() {
+        var chasePayInstance = window.JPMC;
+
+        chasePayInstance.ChasePay.configure({
+            language: "en",
+            zIndex: 100001,
+            sessionWarningTime: 300000,
+            sessionTimeoutTime: 360000
+        });
+
+        const CANCEL_CHECKOUT = chasePayInstance.ChasePay.EventType.CANCEL_CHECKOUT;
+
+        chasePayInstance.ChasePay.on(CANCEL_CHECKOUT, function(params) {
+            cancelChasePayCheckout(params);
+        });
+    }
+
+    window.startChasePayLightbox = function (merchantSessionId) {
+        var chasePayInstance = window.JPMC;
+
+        chasePayInstance.ChasePay.showLoadingAnimation();
+        chasePayInstance.ChasePay.startCheckout(merchantSessionId);
+    }
+
+    function init() {
+        var chasePayInstance = window.JPMC;
+
+        chasePayInstance.ChasePay.configure({
+            language: "en",
+            zIndex: 100001,
+            sessionWarningTime: 300000,
+            sessionTimeoutTime: 360000
+        });
+
+        const COMPLETE_CHECKOUT = chasePayInstance.ChasePay.EventType.COMPLETE_CHECKOUT;
+        const CANCEL_CHECKOUT = chasePayInstance.ChasePay.EventType.CANCEL_CHECKOUT;
+        const START_CHECKOUT = chasePayInstance.ChasePay.EventType.START_CHECKOUT;
+
+        chasePayInstance.ChasePay.on(COMPLETE_CHECKOUT, function(sessionToken) {
+            completeChasePayCheckout(sessionToken, merchantRequestId);
+        });
+        chasePayInstance.ChasePay.on(CANCEL_CHECKOUT, function(params) {
+            cancelChasePayCheckout(params);
+        });
+        chasePayInstance.ChasePay.on(START_CHECKOUT, function() {
+            startChasePayCheckout();
+        });
+
+        initChasePayCheckoutButton();
+    }
+
+
+    function initChasePayCheckoutButton() {
+        var chasePayInstance = window.JPMC;
+
+        if (chasePayInstance.ChasePay.isChasePayUp) {
+            chasePayInstance.ChasePay.insertButtons({
+                containers: [chasePayButton],
+                height: 36,
+                width: 178
+            });
+        }
+    }
+
+    function completeChasePayCheckout(session) {
+        var chasePayInstance = window.JPMC;
+        var req = new XMLHttpRequest();
+        req.open('POST', 'checkout.php?provider=chasepay&action=set_external_checkout');
+        req.setRequestHeader('Accept', 'text/html');
+        req.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=utf-8');
+        req.onload = function response() {
+            if (req.readyState === 4 && req.status === 200) {
+                var form = FormPoster.createFormPoster();
+                form.postForm('checkout.php', { fromChasePay:true });
+            } else {
+                chasePayInstance.ChasePay.showError();
+            }
+        }
+        var params = 'sessionToken='+encodeURIComponent(session.sessionToken)+'&merchantRequestId='+merchantRequestId;
+        req.send(params);
+    }
+
+    function cancelChasePayCheckout(params) {
+       return false;
+    }
+
+    function startChasePayCheckout() {
+        var chasePayInstance = window.JPMC;
+        var req = new XMLHttpRequest();
+        req.open('GET', '/internalapi/v1/checkout/payments/chasepay');
+        req.setRequestHeader('Accept', 'application/json');
+        req.onload = function response() {
+            if (req.readyState === 4 && req.status === 200) {
+                var response = JSON.parse(req.responseText);
+                merchantRequestId = response.data.paymentMethod.initializationData.merchantRequestId;
+                chasePayInstance.ChasePay.startCheckout(response.data.paymentMethod.initializationData.digitalSessionId);
+            } else {
+                chasePayInstance.ChasePay.showError();
+            }
+        }
+        req.send();
+    }
+})(window);
+
+</script>
+<script type="text/javascript">
+var BCData = {"csrf_token":"9dd75afbceed93e2298fd25839984db707b06e515c942d300e10912f3ff79e5d"};
 </script>
 <!-- impact code -->
 <script type="text/javascript"> 
@@ -184,24 +385,80 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
 </script>
 <!-- impact code -->
         
-
-
-
+    
+    
+    
         
-
+    
         
         
         
         <!-- snippet location htmlhead -->
-
-        
-
-        
     
     
+    </head>
+    <body class="page-type-page" onload="checkCookie()">
         <div id="st-container" class="st-container">
             <!-- content push wrapper -->
             <div class="st-pusher">
+                <script>
+                    function getCookie(cname) {
+                                var name = cname + "=";
+                                    var decodedCookie = decodeURIComponent(document.cookie);
+                                    var ca = decodedCookie.split(';');
+                                    for(var i = 0; i <ca.length; i++) {
+                                      var c = ca[i];
+                                      while (c.charAt(0) == ' ') {
+                                        c = c.substring(1);
+                                      }
+                                      if (c.indexOf(name) == 0) {
+                                        return c.substring(name.length, c.length);
+                                      }
+                                    }
+                                    return "";
+                                  }         
+                    function setCookie(cname, cvalue, exdays) {
+                             var d = new Date();
+                            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+                            var expires = "expires="+d.toUTCString();
+                        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+                    }        
+                function checkCookie() {
+                            var user = getCookie("ageVerify");
+                            if (user != "") {
+                                $("#YesBtn").on("click", function(){
+                                        window.location.hash = ""; 
+                                 });
+                            $("#NoBtn").on("click", function(){
+                            window.location.href = "https://www.google.com/";  
+                         }); 
+                                 } else {
+                            user = ("Consent");
+                                if (user != "" && user != null) {
+                                    window.location.hash = "age";
+                                $("#YesBtn").on("click", function(){
+                                setCookie("ageVerify", user, 365);
+                                $('#age').css('display','none'); 
+                                });
+                            $("#NoBtn").on("click", function(){
+                            window.location.href = "https://www.google.com/";  
+                         }); 
+                      }
+                    }
+                  }
+                </script>
+                <div id="age" class="modal-com">
+                        <div id="popup"> 
+                            <div class="inner-modal">              
+                                <div class="text-center"><img src="https://vapewild.us/us-pop-up/AgeVerifyPopup_VW_500x220.png"></div>
+                             </div>
+                             <div class="btn-modal">
+                             <span id="YesBtn" class="popbtn btn-vapeblue btn-lg"> Yes, I'm 21 or Over </span>
+                             <span id="NoBtn" class="popbtn btn-black btn-lg"> No, Sadly I Must Go </span>
+                            </div>
+                        </div>
+                    </div>
+                
                 <nav class="st-menu st-effect st-effect-1" id="mobile-categories"> 
                     
                     <ul class="mobile-nav">
@@ -394,8 +651,11 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                 <header class="header" role="banner">
  <div class="header-report hide" id="top-bar-promotion">
     <div class="container">
-      <div class="FDA-Warning page-top" style="text-align: center;border-bottom: 4px solid #2e305a; border-top: 2px solid #2e305a; padding: 5px; background-color: #fff; color: #000; z-index: 150;">
+  <!-- <div class="FDA-Warning page-top" style="text-align: center;border-bottom: 4px solid #2e305a; border-top: 2px solid #2e305a; padding: 5px; background-color: #fff; color: #000; z-index: 150;">
         <span style="font-weight: 700; font-size: 16px; text-align: center;padding: 5px;">WARNING: This product contains nicotine.  Nicotine is an addictive chemical.</span>
+    </div> -->
+    <div class="fda-warning-text page-top">
+        <span>WARNING: This product contains nicotine.  Nicotine is an addictive chemical.</span>
     </div>
     
        <!--<a class="imgPromotion" href="/">
@@ -420,7 +680,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
         <li class="hidden-xs hidden-sm"><a href="/contact-us/"><span>Customer Service</span></a></li>
         <li class="hidden-xs hidden-sm"><a href="/store-locator/"><span>Store Locator</span></a></li>
         <li class="hidden-xs hidden-sm"><a href="/about-us/"><span>About Us</span></a></li>
-        <li class="hidden-xs hidden-sm"><a href="https://www.vapewildwholesale.com"><span>Wholesale</span></a></li>
+        <li class="hidden-xs hidden-sm"><a href="https://vapewildwholesale.com/" rel="nofollow"><span>Wholesale</span></a></li>
         <li class="hidden-xs hidden-sm"><a href="/blog/"><span>Blog</span></a></li>
 
 
@@ -481,12 +741,14 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                 <a data-effect="st-effect-1" href="javascript:void(0);">&nbsp;<svg><use xlink:href="#icon-trigger-bars"></use></svg></a>
                 <a class="close-canvas" href="javascript:void(0);"><svg><use xlink:href="#icon-close"></use></svg></a>
             </div>
+            
 
             <div class="header-logo animated fadeIn">
                 <a href="https://www.vapewild.com/">
         <img class="header-logo-image" src="https://cdn11.bigcommerce.com/s-kz4m2dbt/images/stencil/258x80/vw-logo-sloganxweb_vw_1541699506__68820.original.png" alt="VAPEWILD.com" title="VAPEWILD.com">
 </a>
             </div>
+            
             <div id="quickSearch">
                 <!-- snippet location forms_search -->
 <form class="form" action="/search.php">
@@ -506,24 +768,29 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
 		                            <option value="21">------ Candy</option>
 		                            <option value="19">------ Dessert</option>
 		                            <option value="23">------ Menthol</option>
+		                            <option value="170">------ Grab Bags</option>
 
 		                    <option value="90">--- E-liquid Brands</option>
 
+		                            <option value="299">------ 4 Kings by VapeWild</option>
 		                            <option value="151">------ Naked 100 </option>
-		                            <option value="262">------ Jam Monster</option>
-		                            <option value="91">------ Islander E-liquid</option>
 		                            <option value="118">------ Cosmic Fog</option>
-		                            <option value="235">------ Mamasan</option>
-		                            <option value="260">------ Milkman</option>
+		                            <option value="258">------ One Hit Wonder</option>
+		                            <option value="262">------ Jam Monster</option>
+		                            <option value="298">------ Hometown Hero</option>
+		                            <option value="106">------ Old Fashioned Elixir</option>
+		                            <option value="292">------ Burst E-Liquid</option>
 		                            <option value="202">------ Yami Vapor</option>
 
 		                    <option value="214">--- Nic Salt E-Liquids</option>
 
 		                            <option value="272">------ Vape Wild Nic Salts</option>
-		                            <option value="208">------ NKD 100 Salt e-Liquids</option>
-		                            <option value="215">------ Ruthless Nic Salt</option>
+		                            <option value="301">------ Hometown Hero Salted</option>
+		                            <option value="289">------ I Love Salts</option>
 		                            <option value="264">------ Jam Monster Nic Salt</option>
 		                            <option value="261">------ Milkman Nic Salts</option>
+		                            <option value="208">------ NKD 100 Salt e-Liquids</option>
+		                            <option value="215">------ Ruthless Nic Salt</option>
 
 		                    <option value="54">--- Samples</option>
 		            <option value="67">Mods</option>
@@ -559,10 +826,12 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
 
 		                    <option value="72">--- Batteries &amp; Chargers</option>
 		                    <option value="221">--- Prebuilt Coils &amp; Cotton</option>
+		                    <option value="280">--- Accessories</option>
 		                    <option value="60">--- Swag</option>
 		            <option value="281">Sale</option>
 
-		                    <option value="256">--- March Wildness</option>
+		                    <option value="290">--- The Vault</option>
+		                    <option value="158">--- Deal of the Week</option>
 		                    <option value="228">--- Clearance</option>
 		    </select> 
 		    <i class="fa fa-chevron-down"></i>
@@ -581,7 +850,6 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
     function dySearchEvent() {
         var searchForm = document.querySelector('[action="/search.php"]');
         searchForm.addEventListener("submit", function(event) {
-            console.log(event);
             var value = searchForm.querySelector('.form-input').value;
             DY.API("event", {
                 name: "Keyword Search",
@@ -628,7 +896,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
         </div>
     </div>
     <div class="sticky_logo">
-        <a href="https://www.vapewild.com/" title="VAPEWILD.com"><img src="/product_images/uploaded_images/logo-scroll.png" width="" height="" alt=""></a>
+        <a href="https://www.vapewild.com/" title="VAPEWILD.com"><img src="/product_images/uploaded_images/logo-scroll.png" width="" height="" alt="VapeWild Logo"></a>
     </div>
     <button type="button" class="mobile-search-toggle hide">
         <svg>
@@ -642,7 +910,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
         <div class="container">
             <nav class="navPages">
     <ul class="navPages-list">
-            <li class="navPages-item">
+            <li class="navPages-item" data-id="270">
                 <a class="navPages-action has-subMenu" href="https://www.vapewild.com/e-juice/">
     Vape Juice
 </a>
@@ -674,6 +942,9 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                         <li class="navPage-childList-item">
                             <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/menthol/"><span>Menthol</span></a>
                         </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/grab-bags/"><span>Grab Bags</span></a>
+                        </li>
                     </ul>
             </li>
             <li class="navPage-subMenu-item">
@@ -682,22 +953,28 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                     </a>
                     <ul class="navPage-childList" id="navPages-90">
                         <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/4-kings-1/"><span>4 Kings by VapeWild</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
                             <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/naked-100/"><span>Naked 100 </span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/jam-monster/"><span>Jam Monster</span></a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/islander-e-liquid/"><span>Islander E-liquid</span></a>
                         </li>
                         <li class="navPage-childList-item">
                             <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/cosmic-fog/"><span>Cosmic Fog</span></a>
                         </li>
                         <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/mamasan/"><span>Mamasan</span></a>
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/one-hit-wonder/"><span>One Hit Wonder</span></a>
                         </li>
                         <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/milkman/"><span>Milkman</span></a>
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/jam-monster/"><span>Jam Monster</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/hometown-hero/"><span>Hometown Hero</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/old-fashioned-elixir/"><span>Old Fashioned Elixir</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/burst-e-liquid/"><span>Burst E-Liquid</span></a>
                         </li>
                         <li class="navPage-childList-item">
                             <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/yami-vapor/"><span>Yami Vapor</span></a>
@@ -713,16 +990,22 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                             <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/vape-wild-nic-salts/"><span>Vape Wild Nic Salts</span></a>
                         </li>
                         <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/nkd-100-salt-e-liquids/"><span>NKD 100 Salt e-Liquids</span></a>
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/hometown-hero-salted/"><span>Hometown Hero Salted</span></a>
                         </li>
                         <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/ruthless-nic-salt/"><span>Ruthless Nic Salt</span></a>
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/i-love-salts/"><span>I Love Salts</span></a>
                         </li>
                         <li class="navPage-childList-item">
                             <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/jam-monster-nic-salt/"><span>Jam Monster Nic Salt</span></a>
                         </li>
                         <li class="navPage-childList-item">
                             <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/milkman-nic-salts/"><span>Milkman Nic Salts</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/nkd-100-salt-e-liquids/"><span>NKD 100 Salt e-Liquids</span></a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://www.vapewild.com/ruthless-nic-salt/"><span>Ruthless Nic Salt</span></a>
                         </li>
                     </ul>
             </li>
@@ -732,7 +1015,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
     </ul>
 </div>
             </li>
-            <li class="navPages-item">
+            <li class="navPages-item" data-id="67">
                 <a class="navPages-action has-subMenu" href="https://www.vapewild.com/mods/">
     Mods
 </a>
@@ -762,7 +1045,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
     </ul>
 </div>
             </li>
-            <li class="navPages-item">
+            <li class="navPages-item" data-id="282">
                 <a class="navPages-action has-subMenu" href="https://www.vapewild.com/tanks/">
     Tanks
 </a>
@@ -780,7 +1063,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
     </ul>
 </div>
             </li>
-            <li class="navPages-item">
+            <li class="navPages-item" data-id="283">
                 <a class="navPages-action has-subMenu" href="https://www.vapewild.com/atomizers/">
     Rebuildables
 </a>
@@ -801,7 +1084,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
     </ul>
 </div>
             </li>
-            <li class="navPages-item">
+            <li class="navPages-item" data-id="279">
                 <a class="navPages-action has-subMenu" href="https://www.vapewild.com/supplies/">
     Supplies
 </a>
@@ -839,19 +1122,25 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                     <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/prebuilt-coils/"><span>Prebuilt Coils &amp; Cotton</span></a>
             </li>
             <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/accessories/"><span>Accessories</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/swag/"><span>Swag</span></a>
             </li>
     </ul>
 </div>
             </li>
-            <li class="navPages-item">
+            <li class="navPages-item" data-id="281">
                 <a class="navPages-action has-subMenu" href="https://www.vapewild.com/sale/">
     Sale
 </a>
 <div class="navPage-subMenu" id="navPages-281" tabindex="-1">
     <ul class="navPage-subMenu-list">
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/march-wildness/"><span>March Wildness</span></a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/the-vault/"><span>The Vault</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/deal-of-the-week/"><span>Deal of the Week</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/clearance/"><span>Clearance</span></a>
@@ -869,10 +1158,16 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
 <div class="navPage-subMenu" id="navPages-" tabindex="-1">
     <ul class="navPage-subMenu-list">
             <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/blog/"><span>Wild Blogger</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/best-e-juice/"><span>Best E-juice</span></a>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/blog/"><span>Wild Blogger</span></a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/blog/what-wattage-should-you-vape-at-how-to-decide-on-watts/"><span>Best Wattage for Vaping</span></a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/forum/"><span>Forum</span></a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://www.vapewild.com/vaping-statistics/"><span>Vaping Statistics</span></a>
@@ -929,7 +1224,8 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
 -->
 
         <div class="container brg-content">
-                <p></p><p><span style="text-decoration: underline; font-size: medium;"><strong>Payments</strong></span></p>
+                <p></p><h1><span style="text-decoration: underline; font-size: medium;"><strong>Payments and Privacy Policy</strong></span></h1>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Payments</strong></span></p>
 <p>VapeWild.com accepts Visa, MasterCard, Discover, and American Express. We do not accept Paypal or ApplePay at this time. If you would like to pay with PayPal or ApplePay, please contact them to voice your opinion about how you would like to spend your money.&nbsp;VapeWild reserves the right to cancel orders for any reason, resulting in the refund or void of associated payment transaction. VapeWild is not responsible for funds returned to a Gift Card that is no longer in the cardholder's possession. If using a Gift Card, we encourage you to maintain possession of that card until your order is received.&nbsp;</p>
 <p>An Order Status of "Awaiting Payment" or "Manual Verification Required" means that your order will be individually reviewed by our payment processing department. A few common scenarios that cause an order to require review are: the billing address does not match what your bank has on file, the billing address and shipping address are in different countries, or the billing address was entered incorrectly multiple times.&nbsp;</p>
 <p>Please allow up to 24 hours for this additional step.&nbsp; It isn't necessary to let us know that your order needs a little extra attention - we will take care of you as quickly as we are able. Because we process these in the order in which they are received, contacting us will not expedite your payment. &nbsp;We appreciate your patience!</p>
@@ -994,7 +1290,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
 <p><strong><span><span>&nbsp;</span></span></strong></p>
 <p dir="ltr"><strong><span style="text-decoration: underline;">How We May Share User Information</span></strong></p>
 <p dir="ltr"><span>We do not give your Personal Information to any third-party services, except when it’s necessary to provide services (like when we partner with payment processors or other data services). When we share data with third-party services that support our delivery of the Services, we require that they protect your Personal Information to the same standards we do. We do reserve the right to disclose Personal Information when we believe that doing so is reasonably necessary to comply with the law or law enforcement, to prevent fraud or abuse, or to protect our legal rights.</span></p>
-<p dir="ltr"><span>In accordance with federal and state age verification laws, we use a third-party age verification system, IDology, to verify users are of legal age. We will collect your name, address, and credit card info, but may also ask for date of birth, last four digits of your social security number, and a copy of your state or federally issued photo-ID. This information shall be shared with IDology. By using our Service, you agree to grant IDology access to this information in order to allow IDology to verify your age. Once your age is verified, all such data held by IDology is stored for a period of up to 6 months and then archived.</span></p>
+<p dir="ltr"><span>In accordance with federal and state age verification laws, we use a third-party age verification system, Veratad, to verify users are of legal age. We will collect your name, address, and credit card info, but may also ask for date of birth, last four digits of your social security number, and a copy of your state or federally issued photo-ID. This information shall be shared with Veratad. By using our Service, you agree to grant Veratad access to this information in order to allow Veratad to verify your age. Once your age is verified, all such data held by Veratad is stored for a period of up to 6 months and then archived.</span></p>
 <p dir="ltr"><span>Please see below for how we may share your Personal Information and Non-Personal Information.</span></p>
 <p><strong><span><span>&nbsp;</span></span></strong></p>
 <p dir="ltr"><span style="text-decoration: underline;"><strong>Sharing of Personal Information</strong></span></p>
@@ -1127,8 +1423,8 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
 </div>
 <div class="container">
    <div class="row">
-       <div class="column-item footer-columns-mobile col-md-4  fadeInUp animated" data-wow-delay="500ms">
-                <div id="footerSubcribeForm" class=" fadeIn">
+       <div class="column-item footer-columns-mobile col-md-4 wow fadeInUp animated" data-wow-delay="500ms">
+                <div id="footerSubcribeForm" class="wow fadeIn">
     <h5>Sign Up for Deals!</h5>
     
     <form class="form" action="/subscribe.php" method="post" id="footerSubcribeFormSubmit">
@@ -1137,7 +1433,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
             <input type="hidden" name="check" value="1">
             <div class="form-field">
                 <div class="form-wrap">                    
-                    <input class="form-input" id="nl_email" name="nl_email" type="email" value="" placeholder="enter your email address">
+                    <input class="form-input" id="nl_email" name="nl_email" type="email" value="" placeholder="enter your email address" required="">
                     <input class="btn btn-primary btn-subcribe" type="submit" value="Submit">
                 </div>
             </div>
@@ -1187,7 +1483,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
         <div class="container">
             <!-- Begin Footer Columns -->
             <div class="footer-columns row">
-                <div class="column-item footer-columns-mobile col-md-2  fadeInUp animated" data-wow-delay="200ms">
+                <div class="column-item footer-columns-mobile col-md-2 wow fadeInUp animated" data-wow-delay="200ms">
                     <h5>Shop</h5>
                     <ul>
                         <!--
@@ -1222,12 +1518,14 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                         <li><a href="/bonus-e-juice/">Bonus e-Juice</a></li>
                     </ul>
                 </div>
-                <div class="column-item footer-columns-mobile col-md-2  fadeInUp animated" data-wow-delay="300ms">
+                <div class="column-item footer-columns-mobile col-md-2 wow fadeInUp animated" data-wow-delay="300ms">
                     <h5>More VapeWild</h5>
                     <ul>
                         <li><a href="/about-us/">About Us </a></li>
                         <li><a href="/blog/">Blog </a></li>
+                        <li><a href="/rewards/">Wild Rewards Program </a></li>
                         <li><a href="/reviews/">Reviews</a></li>
+                        <li><a href="/flavor-name-changes/"> Flavor Name Changes </a></li>
                         <li><a href="/free-shipping/">Free Shipping</a></li>
                         <li><a href="/mystery-flavors/">Mystery Flavors</a></li>
                         <li><a href="/careers/">Careers</a></li>
@@ -1235,7 +1533,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                         <li><a href="/store-locator/">Store Locator</a></li>
                     </ul>
                 </div>
-                <div class="column-item footer-columns-mobile col-md-2  fadeInUp animated" data-wow-delay="400ms">
+                <div class="column-item footer-columns-mobile col-md-2 wow fadeInUp animated" data-wow-delay="400ms">
                     <h5>Fine Print</h5>
                     <ul>
                         <li><a href="/payment-privacy-policy/">Payment &amp; Privacy Policy</a></li>
@@ -1245,7 +1543,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                         <li><a href="https://www.vapewildwholesale.com/contact-us/" rel="nofollow">Wholesale Registration</a></li>
                     </ul>
                 </div>
-                <div class="column-item footer-columns-mobile col-md-2  fadeInUp animated" data-wow-delay="500ms">
+                <div class="column-item footer-columns-mobile col-md-2 wow fadeInUp animated" data-wow-delay="500ms">
                     <h5>Need Help?</h5>
                     <ul>
                         <li><a href="/contact-us/">Contact Us</a></li>
@@ -1256,7 +1554,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                         <li><a href="/military-discount-registration/">Military Discount Registration</a></li>
                     </ul>
                 </div>    
-                <div class="column-item footer-columns-mobile col-md-2  fadeInUp animated" data-wow-delay="600ms">
+                <div class="column-item footer-columns-mobile col-md-2 wow fadeInUp animated" data-wow-delay="600ms">
                     <h5>Customer Service</h5>
                     <ul>
                         <li>Reach Us 7 Days a Week</li>
@@ -1267,7 +1565,7 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
                         <li>8AM-6:30PM CST Sat - Sun</li>
                     </ul>
                 </div>    
-                <div class="column-item footer-columns-mobile col-md-2  fadeInUp animated" data-wow-delay="600ms">
+                <div class="column-item footer-columns-mobile col-md-2 wow fadeInUp animated" data-wow-delay="600ms">
                     <div id="lcqualitybadge"></div>
                     <script async="" src="//cdn.livechatinc.com/qb/qb-5000571-light-200.js"></script>    
                 </div>
@@ -1289,62 +1587,49 @@ var BCData = {"csrf_token":"e39f0117d60fa3fc65061f8f63080b083eb4c768455612b4b388
         </div>
     </div>
  
+<div class="outerLoadOver" style="display:none;">
+<div class="smallLoader">
+<img class="loaderImage" src="/content/spinner.gif">
+</div>
 <a href="javascript:void(0);" id="back-to-top"><i class="fa fa-angle-up"></i></a>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script> 
-
+<style>
+.outerLoadOver {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 9999;
+    background: rgba(0,0,0,.7);
+}
+.smallLoader {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin: 0 auto;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+.outerLoadOver .loaderImage{
+    height:65px;
+}
+</style>
+<!-- Start Rebillia Code -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script><div id="rebillia_overlay" style="z-index:-1; display:none;"></div><script type="text/javascript">var currentcustomeremail = '%%GLOBAL_CurrentCustomerEmail%%';var shopPath = '%%GLOBAL_ShopPathSSL%%';var domainName = 'https://app.rebillia.com';var domainURL = 'https://app.rebillia.com/';var appClientId2 = "ageychj33ynffm8otcbd88hxt9spicx";var rebpostxmlhttpURL = 'https://app.rebillia.com/login/customers';var rebxmlhttpUrl = 'https://app.rebillia.com/login/customers/';var date = new Date();date.setTime(date.getTime()+(30*60*1000));var expires = "; expires="+date.toGMTString();$(document).ready(function(){var matches=window.location.href.match(/[^\/]+$/);if (matches && matches.length) {var vec=(matches[0].split('.'));
+if (vec[0] == 'checkout'){$.ajax({url: "/cart.php",success: function(result) {var checkster = false;cart_htmlPage = $(result);cart_items_found = $('.cart-item', cart_htmlPage);$(cart_items_found).parent().each(function(i, el) {itemDesc = $(this).find('.definitionList-value').text();if (itemDesc.indexOf('Send every')  !== -1) {checkster = true;}});if(checkster){if($('#CheckoutStepShippingAddress').is(":hidden")){console.log("Rebillia Message. Downloadable Cart. Subscription Found");$.getScript("https://app.rebillia.com/js/embed-checkout.js");} else {console.log("Rebillia Message. Physical Cart. Subscription Found");}} else {console.log("Rebillia Message. No Subscription Found");}}});}
+if (vec[0] == 'account' || vec[0] == 'finishorder'){$.getScript(domainName+"/js/embed-"+ vec[0] +".js");}if (vec[0] == 'account'){customerJWT();}}});function customerJWT(bc_email) {var xmlhttp = new XMLHttpRequest();xmlhttp.onreadystatechange = function() {if (xmlhttp.readyState == 4 ) {if (xmlhttp.status == 200) {var rebxmlhttp = new XMLHttpRequest();rebxmlhttp.onreadystatechange = function() {if (rebxmlhttp.readyState == 4 ) {if (rebxmlhttp.status == 200) {console.log('Rebillia Message. Authentication Success');var data = JSON.parse(rebxmlhttp.responseText);document.cookie ="rebillia_token="+data.token+expires+"; path=/";}else if (rebxmlhttp.status == 404) {console.log('Rebillia Message. Token Error');}else {console.log('Rebillia Message. Authentication Failed');}}};rebxmlhttp.open("GET", rebxmlhttpUrl+xmlhttp.responseText, true);rebxmlhttp.withCredentials = true;rebxmlhttp.send();} else if (xmlhttp.status == 404) {var rebpostxmlhttp = new XMLHttpRequest();rebpostxmlhttp.onreadystatechange = function() {if (rebpostxmlhttp.readyState == 4 ) {if (rebpostxmlhttp.status == 200) {console.log('Rebillia Message. Authentication Success. Customer login successfully.');var data = JSON.parse(rebpostxmlhttp.responseText);document.cookie ="rebillia_token="+data.token+expires+"; path=/";}}};params="bc_email="+bc_email;rebpostxmlhttp.open("POST", rebpostxmlhttpURL, true);rebpostxmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");rebpostxmlhttp.withCredentials = true;rebpostxmlhttp.send(params);} else {console.log('Rebillia Message. Something went wrong');}}};xmlhttp.open("GET", "/customer/current.jwt?app_client_id="+appClientId2, true);xmlhttp.send();}</script>
 <script type="text/javascript">
-(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/hP8s2CddW8nzFDMSy1PX5wz9IGTkKM5Jggi41HDw/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
-
 $(document).ready(function(){
-    setTimeout(function(){
-    var ap2 = new Yotpo.API(yotpo);
-      ap2.refreshWidgets();
-    },1500);     
-}); 
+$('option:contains("Send every 1 year")').text("Auto Renews Annually");
+});
 </script>
-<script>
-var appClientId = "sluckdhc4mykxe2p6wn6u5ftasvpph1";
-var storeHash = "kz4m2dbt"; // 
-var appUrl = "https://vapewild.org/bigcommerce-app/hello-world-app/"; // 
-
-// Get the JWT token from the BC server signed first.
-$.get('/customer/current.jwt?app_client_id='+appClientId, function(jwtToken) {
-  // Now that we have the JWT token, use it to get the recent purchases block.
-  $.get(appUrl+'/storefront/'+storeHash+'/customers/'+jwtToken+'/recently_purchased.html', function(htmlContent) {
-    $('#recent_purchases_block').html(htmlContent, true);
-  });
-});
-</script> 
-
-<script type="text/javascript">
-var lastScrollTop = 0;  
-$(window).scroll(function(){
-    var st = $(window).scrollTop();
+<!-- End Rebillia Code -->
     
-    if($(window).scrollTop() > 350){  
-        if (st > lastScrollTop){ 
-            $('.header').css('top','-'+ ($('.header').height() + 20) +'px');
-        } else {
-            $('.header').slideDown('slow');
-            $('.header').css('top','0');
-        }
-        lastScrollTop = st; 
-    } 
-});
-  
-    $('#search_query').keyup(function(){
-        setTimeout(function(){
-           var api = new Yotpo.API(yotpo);
-            api.refreshWidgets();  
-        },2500); 
-    });
-</script> 
 
-                <script src="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/3a531710-12c8-0137-35a0-029ccfb6e492/e/50c72c00-3386-0137-eb01-0242ac110009/dist/theme-bundle.js"></script>
+                <script src="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/1b99f860-846a-0137-f4cf-0242ac11001d/e/f0b4a650-91f3-0137-f4c5-0242ac110015/dist/theme-bundle.js"></script>
                 <script>
                     // Exported in app.js
-                    window.stencilBootstrap("pages/page", "{\"themeSettings\":{\"amp_analytics_id\":\"\",\"homepage_new_products_count\":40,\"homepage_featured_products_count\":10,\"homepage_top_sellers_products_count\":10,\"homepage_show_carousel\":true,\"homepage_carousel_autoplay\":true,\"homepage_carousel_navigation\":true,\"homepage_carousel_pagination\":true,\"homepage_carousel_title\":\"Bebas Neue W01\",\"homepage_carousel_description\":\"Google_Karla_700\",\"homepage_carousel_title_color\":\"#000000\",\"homepage_carousel_description_color\":\"#000000\",\"homepage_carousel_action_color\":\"#000000\",\"homepage_carousel_title_color_1\":\"#230d7e\",\"homepage_carousel_description_color_1\":\"#230d7e\",\"homepage_carousel_action_color_1\":\"#ffffff\",\"homepage_carousel_action_border_color_1\":\"#ffffff\",\"homepage_carousel_action_bgr_color_1\":\"#33cbf1\",\"homepage_carousel_title_color_2\":\"#ffffff\",\"homepage_carousel_description_color_2\":\"#ffffff\",\"homepage_carousel_action_color_2\":\"#280183\",\"homepage_carousel_action_border_color_2\":\"#ffffff\",\"homepage_carousel_action_bgr_color_2\":\"#ffffff\",\"homepage_carousel_title_color_3\":\"#280083\",\"homepage_carousel_description_color_3\":\"#280083\",\"homepage_carousel_action_color_3\":\"#ffffff\",\"homepage_carousel_action_border_color_3\":\"#ffffff\",\"homepage_carousel_action_bgr_color_3\":\"#280083\",\"homepage_carousel_title_color_4\":\"#fb5e59\",\"homepage_carousel_description_color_4\":\"#ffffff\",\"homepage_carousel_action_color_4\":\"#ffffff\",\"homepage_carousel_action_border_color_4\":\"#ffffff\",\"homepage_carousel_action_bgr_color_4\":\"#fb5e59\",\"homepage_carousel_title_color_5\":\"#280083\",\"homepage_carousel_description_color_5\":\"#280083\",\"homepage_carousel_action_color_5\":\"#ffffff\",\"homepage_carousel_action_border_color_5\":\"#ffffff\",\"homepage_carousel_action_bgr_color_5\":\"#280083\",\"homepage_new_products_column_count\":5,\"homepage_top_sellers_products_column_count\":5,\"homepage_featured_products_column_count\":6,\"homepage_blog_posts_count\":3,\"home_cate_block_name_1\":\"Weekly Special\",\"home_cate_block_url_1\":\"/weekly-special/\",\"home_cate_block_desc_1\":\"Class apten dacitos mociosques adis\",\"home_cate_block_count_down\":\"Apr 19, 2018 18:04:00\",\"home_cate_block_img_right_link\":\"/product_images/uploaded_images/\",\"home_cate_block_img_right\":\"block-banner-1.jpg\",\"home_cate_block_name_2\":\"Electronics\",\"home_cate_block_url_2\":\"/electronics/\",\"home_cate_block_desc_2\":\"Apten dacitos mociosques adis\",\"home_cate_block_name_3\":\"Computers & Laptops\",\"home_cate_block_url_3\":\"/computers-laptops/\",\"home_cate_block_desc_3\":\"Dacitos apten mociosques adis\",\"home_cate_block_name_4\":\"Smartphones & Tablets\",\"home_cate_block_url_4\":\"/smartphones-tablets/\",\"home_cate_block_desc_4\":\"Mociosques dacitos apten adis\",\"home_cate_block_name_5\":\"Cameras\",\"home_cate_block_url_5\":\"/cameras/\",\"home_cate_block_desc_5\":\"Adis mociosques dacitos apten\",\"home_cate_block_name_6\":\"Video Games & Systems\",\"home_cate_block_url_6\":\"/video-games-systems/\",\"home_cate_block_desc_6\":\"Apten adis mociosques dacitos\",\"home_cate_block_name_7\":\"Home Furniture\",\"home_cate_block_url_7\":\"/home-furniture/\",\"home_cate_block_desc_7\":\"Dacitos apten adis mociosques\",\"productpage_videos_count\":8,\"productpage_reviews_count\":4,\"productpage_related_products_count\":12,\"productpage_similar_by_views_count\":12,\"categorypage_products_per_page\":36,\"categorypage_products_column_count\":4,\"wishlist_products_column_count\":5,\"side_top_products_count\":8,\"brandpage_products_per_page\":16,\"searchpage_products_per_page\":20,\"halo_products_by_category_id_1\":136,\"show_product_quick_view\":true,\"show_product_brand\":true,\"show_copyright_footer\":true,\"show_powered_by\":true,\"show_template_by\":true,\"show_accept_visa\":true,\"show_accept_amex\":true,\"show_accept_mastercard\":true,\"show_accept_paypal\":false,\"show_accept_discover\":true,\"show_accept_visa_electron\":false,\"show_accept_solo\":false,\"show_accept_maestro\":false,\"product_list_display_mode\":\"grid\",\"logo_size\":\"258x80\",\"brand_size\":\"190x250\",\"productgallery_size\":\"210x250\",\"product_size\":\"500x500\",\"productthumb_size\":\"90x120\",\"thumb_size\":\"100x100\",\"zoom_size\":\"1280x1280\",\"blog_size\":\"930x420\",\"cart_productthumb_size\":\"160x160\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"basic-price-color\":\"#2c2c2c\",\"retail-price-color\":\"#8c8c8c\",\"sale-price-color\":\"#e95b58\",\"saving-price-color\":\"#ffffff\",\"saving-price-bgColor\":\"#0fa8e1\",\"sale-badge-color\":\"#ffffff\",\"sale-badge-bgColor\":\"#e95b58\",\"sale-badge-border-color\":\"#e95144\",\"new-badge-color\":\"#ffffff\",\"new-badge-bgColor\":\"#57a86f\",\"new-badge-border-color\":\"#45a260\",\"soldOut-badge-color\":\"#ffffff\",\"soldOut-badge-bgColor\":\"#d9d9d9\",\"soldOut-badge-border-color\":\"#d9d9d9\",\"body-font\":\"Google_Roboto_400\",\"body-secondary-font\":\"Google_Arimo_400\",\"headings-font\":\"Google_Roboto_700\",\"logo-font\":\"Google_Roboto_400\",\"logo-text-color\":\"#00aeef\",\"fontSize-root\":12,\"fontSize-h1\":28,\"fontSize-h2\":25,\"fontSize-h3\":22,\"fontSize-h4\":20,\"fontSize-h5\":15,\"fontSize-h6\":13,\"applePay-button\":\"black\",\"color-textBase\":\"#2d2d2d\",\"color-textBase--hover\":\"#000000\",\"color-textBase--active\":\"#000000\",\"color-textSecondary\":\"#2d2d2d\",\"color-textSecondary--hover\":\"#848484\",\"color-textSecondary--active\":\"#848484\",\"color-textLink\":\"#230d7e\",\"color-textLink--hover\":\"#0fa8e1\",\"color-textLink--active\":\"#000000\",\"color-textHeading\":\"#0fa8e1\",\"color-primary\":\"#2d2d2d\",\"color-primaryDark\":\"#454545\",\"color-primaryDarker\":\"#2d2d2d\",\"color-primaryLight\":\"#a5a5a5\",\"color-secondary\":\"#ffffff\",\"color-secondaryDark\":\"#e8e8e8\",\"color-secondaryDarker\":\"#e8e8e8\",\"color-error\":\"#ff7d7d\",\"color-errorLight\":\"#ffdddd\",\"color-info\":\"#666666\",\"color-infoLight\":\"#dfdfdf\",\"color-success\":\"#69d66f\",\"color-successLight\":\"#d5ffd8\",\"color-warning\":\"#d4cb49\",\"color-warningLight\":\"#fffdea\",\"color-black\":\"#000000\",\"color-white\":\"#ffffff\",\"color-whitesBase\":\"#f8f8f8\",\"color-grey\":\"#4f4f4f\",\"color-greyDarkest\":\"#2d2d2d\",\"color-greyDarker\":\"#454545\",\"color-greyDark\":\"#666666\",\"color-greyMedium\":\"#989898\",\"color-greyLight\":\"#a5a5a5\",\"color-greyLighter\":\"#dfdfdf\",\"color-greyLightest\":\"#e8e8e8\",\"button--font\":\"Google_Arimo_400\",\"button--primary-color\":\"#ffffff\",\"button--primary-colorHover\":\"#ffffff\",\"button--primary-backgroundColor\":\"#00aeef\",\"button--primary-backgroundColorHover\":\"#02a2de\",\"button--oranges-color\":\"#ffffff\",\"button--oranges-colorHover\":\"#ffffff\",\"button--oranges-backgroundColor\":\"#00aeef\",\"button--oranges-backgroundColorHover\":\"#02a2de\",\"button--outOfStock-color\":\"#ffffff\",\"button--outOfStock-colorHover\":\"#ffffff\",\"button--outOfStock-backgroundColor\":\"#bcbcbc\",\"button--outOfStock-backgroundColorHover\":\"#6e7070\",\"button--alt-color\":\"#ffffff\",\"button--alt-colorHover\":\"#ffffff\",\"button--alt-bgColor\":\"#230d7e\",\"button--alt-bgColorHover\":\"#3112b0\",\"button--alt-borderColor\":\"#ffffff\",\"button--alt-borderColorHover\":\"#3112b0\",\"grid-add-to-cart-color\":\"#ffffff\",\"grid-add-to-cart-colorHover\":\"#ffffff\",\"grid-add-to-cart-borderColor\":\"dcdcdc\",\"grid-add-to-cart-bgColor\":\"#230d7e\",\"grid-add-to-cart-bgColorHover\":\"#3112b0\",\"list-add-to-cart-color\":\"#ffffff\",\"list-add-to-cart-colorHover\":\"#ffffff\",\"list-add-to-cart-bgColor\":\"#230d7e\",\"list-add-to-cart-bgColorHover\":\"#3112b0\",\"list-add-to-cart-borderColor\":\"#ff9f00\",\"list-add-to-cart-borderColorHover\":\"#000000\",\"detail-add-to-cart-color\":\"#ffffff\",\"detail-add-to-cart-colorHover\":\"#ffffff\",\"detail-add-to-cart-bgColor\":\"#230d7e\",\"detail-add-to-cart-bgColorHover\":\"#3112b0\",\"detail-wishlist-add-color\":\"#2d2d2d\",\"detail-wishlist-add-colorHover\":\"#0fa8e1\",\"detail-wishlist-add-bgColor\":\"#ffffff\",\"detail-wishlist-add-bgColorHover\":\"#ffffff\",\"button--checkout-color\":\"#ffffff\",\"button--checkout-colorHover\":\"#ffffff\",\"button--checkout-bgColor\":\"#0fa8e1\",\"button--checkout-bgColorHover\":\"#230d7e\",\"button--modal-close-color\":\"#ffffff\",\"button--modal-close-colorHover\":\"#ffffff\",\"button--modal-close-bgColor\":\"#000000\",\"button--modal-close-bgColorHover\":\"#fb641b\",\"button--disabled-color\":\"#ffffff\",\"button--disabled-backgroundColor\":\"#dadada\",\"button--disabled-borderColor\":\"#dadada\",\"icon-color\":\"#f14d48\",\"icon-color-hover\":\"#a5a5a5\",\"button--icon-svg-color\":\"#4f4f4f\",\"icon-ratingEmpty\":\"#dddddd\",\"icon-ratingFull\":\"#eaac42\",\"card-title-font\":\"Google_Arimo_400\",\"card-title-color\":\"#230d7e\",\"card-title-color-hover\":\"#4cc1ed\",\"card-figcaption-button-background\":\"#ffffff\",\"card-figcaption-button-color\":\"#2d2d2d\",\"card--alternate-backgroundColor\":\"#ffffff\",\"card--alternate-borderColor\":\"#ffffff\",\"card--alternate-color--hover\":\"#ffffff\",\"form-label-font-color\":\"#000000\",\"input-font-color\":\"#303843\",\"input-placeholder-color\":\"#303843\",\"input-border-color\":\"#cbcbcb\",\"input-border-color-active\":\"#cbcbcb\",\"input-bg-color\":\"#ffffff\",\"input-disabled-bg\":\"#ffffff\",\"textarea-border-color\":\"#cbcbcb\",\"textarea-border-color-active\":\"#cbcbcb\",\"select-bg-color\":\"#f5f5f5\",\"select-arrow-color\":\"#828282\",\"checkRadio-color\":\"#4f4f4f\",\"checkRadio-backgroundColor\":\"#ffffff\",\"checkRadio-borderColor\":\"#dfdfdf\",\"alert-color\":\"#4f4f4f\",\"alert-color-alt\":\"#ffffff\",\"storeName-color\":\"#000000\",\"body-bg\":\"#f5f5f5\",\"header-backgroundColor\":\"#0fa8e1\",\"headerBottom-backgroundColor\":\"#ffffff\",\"navPages-color\":\"#4f4f4f\",\"navPages-color-hover\":\"#a5a5a5\",\"navPages-subMenu-backgroundColor\":\"#f2f2f2\",\"navPages-subMenu-separatorColor\":\"#dfdfdf\",\"blockquote-cite-font-color\":\"#a5a5a5\",\"container-border-global-color-base\":\"#e8e8e8\",\"container-border-global-color-dark\":\"#454545\",\"container-fill-base\":\"#ffffff\",\"container-fill-dark\":\"#f2f2f2\",\"label-backgroundColor\":\"#bfbfbf\",\"label-color\":\"#ffffff\",\"overlay-backgroundColor\":\"#2d2d2d\",\"loadingOverlay-backgroundColor\":\"#ffffff\",\"pace-progress-backgroundColor\":\"#989898\",\"spinner-borderColor-dark\":\"#989898\",\"spinner-borderColor-light\":\"#ffffff\",\"hide_content_navigation\":false,\"optimizedCheckout-header-backgroundColor\":\"#0fa8e1\",\"optimizedCheckout-show-backgroundImage\":false,\"optimizedCheckout-backgroundImage\":\"\",\"optimizedCheckout-backgroundImage-size\":\"1780x190\",\"optimizedCheckout-show-logo\":\"none\",\"optimizedCheckout-logo\":\"\",\"optimizedCheckout-logo-font\":\"Google_Poppins_400\",\"optimizedCheckout-logo-text-color\":\"#ffffff\",\"optimizedCheckout-logo-size\":\"250x100\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-headingPrimary-color\":\"#000000\",\"optimizedCheckout-headingPrimary-font\":\"Google_Arimo_700\",\"optimizedCheckout-headingSecondary-color\":\"#000000\",\"optimizedCheckout-headingSecondary-font\":\"Google_Poppins_400\",\"optimizedCheckout-body-backgroundColor\":\"#f5f5f5\",\"optimizedCheckout-contentPrimary-color\":\"#000000\",\"optimizedCheckout-linkcustomerView\":\"#0fa8e1\",\"optimizedCheckout-contentPrimary-font\":\"Google_Arimo_400\",\"optimizedCheckout-contentSecondary-color\":\"#505050\",\"optimizedCheckout-contentSecondary-font\":\"Google_Arimo_400\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Arimo_400\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#230d7e\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#230d7e\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#555555\",\"optimizedCheckout-buttonPrimary-borderColor\":\"#230d7e\",\"optimizedCheckout-buttonPrimary-borderColorHover\":\"#230d7e\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"#555555\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Arimo_700\",\"optimizedCheckout-buttonSecondary-borderColorHover\":\"#5b5b5b\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#5b5b5b\",\"optimizedCheckout-buttonSecondary-backgroundColorHover\":\"#ffffff\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#5b5b5b\",\"optimizedCheckout-buttonSecondary-colorHover\":\"#5b5b5b\",\"optimizedCheckout-buttonSecondary-color\":\"#ffffff\",\"optimizedCheckout-link-color\":\"#230d7e\",\"optimizedCheckout-link-font\":\"Google_Arimo_400\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#f5f5f5\",\"optimizedCheckout-discountBanner-textColor\":\"#333333\",\"optimizedCheckout-discountBanner-iconColor\":\"#333333\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-step-backgroundColor\":\"#323232\",\"optimizedCheckout-step-textColor\":\"#8c8c8c\",\"optimizedCheckout-step-font\":\"Google_Arimo_700\",\"optimizedCheckout-form-textColor\":\"#000000\",\"optimizedCheckout-formField-backgroundColor\":\"white\",\"optimizedCheckout-formField-borderColor\":\"#cbcbcb\",\"headerTop-backgroundColor\":\"#ffffff\",\"headerTop-borderBottom\":\"#ebebeb\",\"headerTop-textColor\":\"#ffffff\",\"headerTop-textColorHover\":\"#f5f5f5\",\"headerTop-BrgColor\":\"#f7f7f7\",\"headerMiddle-textColor\":\"#313130\",\"headerMiddle-textColor-hover\":\"#878787\",\"topPagePromotion-backgroundColor\":\"#000000\",\"topPagePromotion-closeIconColor\":\"#ffffff\",\"wishlist-icon-color\":\"#000000\",\"wishlist-icon-colorHover\":\"#094996\",\"cart-icon-color\":\"#ffffff\",\"cart-sticky-icon-color\":\"#000000\",\"cart-icon-bgColor\":\"#0fa8e1\",\"cart-sticky-icon-bgColor\":\"#ffe11b\",\"cart-bgColor\":\"#230d7e\",\"cart-border-color\":\"#0e56cc\",\"cart-text-color\":\"#ffffff\",\"item-count-circle-color\":\"#000000\",\"item-count-circle-backgroundColor\":\"#fee01b\",\"searchBox-textField-color\":\"#2d2d2d\",\"searchBox-textField-placeholder\":\"#505050\",\"searchBox-textField-backgroundColor\":\"#f8f8f8\",\"searchBox-textSelect-backgroundColor\":\"#f5f5f5\",\"searchBox-textSelect-color\":\"#505050\",\"searchBox-textField-border-Color\":\"#d3d3d3\",\"searchBox-icon-backgroundColor\":\"#230d7e\",\"searchBox-icon-backgroundColor-hover\":\"#000000\",\"searchBox-icon-color\":\"#ffffff\",\"searchBox-icon-colorHover\":\"#ffffff\",\"searchBox-sticky-icon-color\":\"#ffffff\",\"searchBox-sticky-icon-colorHover\":\"#ffffff\",\"header-custom-text-color\":\"#000000\",\"header-bottom-text-color\":\"#5a5a5a\",\"header-bottom-text-color-hover\":\"#230d7e\",\"mainNav-topLevel-color\":\"#ffffff\",\"mainNav-topLevel-colorHover\":\"#ffffff\",\"mainNav-topLevel-backgroundColor\":\"#0fa8e1\",\"mainNav-topLevel-backgroundColor-hover\":\"#4d4d4d\",\"mainNav-dropdown-backgroundColor\":\"#ffffff\",\"mainNav-dropdown-border-color\":\"#ffffff\",\"mainNav-dropdown-text-color\":\"#230d7e\",\"mainNav-dropdown-text-color-hover\":\"#00aeef\",\"megamenu-sub-parent-color\":\"#230d7e\",\"megamenu-sub-parent-colorHover\":\"#00aeef\",\"megamenu-sub-children-color\":\"#230d7e\",\"megamenu-sub-children-colorHover\":\"#00aeef\",\"footer-backgroundColor\":\"#ffffff\",\"footer-column-heading-color\":\"#282828\",\"footer-column-text-color\":\"#303030\",\"footer--link-color\":\"#ffffff\",\"footer-middle-link-color-hover\":\"#afea03\",\"footer-bottom-background\":\"#141414\",\"footer-top-background\":\"#0fa8e1\",\"footer-top-text-color\":\"#ffffff\",\"help-btn-background\":\"#230d7e\",\"help-btn-border\":\"#230d7e\",\"help-btn-color\":\"#ffffff\",\"footer-copyright-text-color\":\"#303030\",\"footer-copyright-link-color\":\"#303030\",\"footer-copyright-link-colorHover\":\"#094996\",\"footer-subscribe-button-color\":\"#ffffff\",\"footer-subscribe-button-bgColor\":\"#2874f0\",\"halothemes_top_bar_promotion\":true,\"halothemes_sticky_navigation\":true,\"halothemes_newsletter_popup\":false,\"halothemes_megamenu\":true,\"halothemes_lazy_loading_effect\":false,\"copyright_alignment\":\"left\",\"halothemes_images_swap\":true,\"halo_ask_an_expert\":false,\"halothemes_contact_us_map\":true,\"breadcrumb-label-color\":\"#505050\",\"breadcrumb-label-color-hover\":\"#094996\",\"breadcrumb-label-color-active\":\"#094996\",\"footer-phone-email-color\":\"#ffffff\",\"footer-phone-email-background-color\":\"#e41217\",\"mobile_sidebar_trigger\":\"#ffffff\",\"mobile_sidebar_triggerHover\":\"#230d7e\",\"price_as_low_as\":false,\"restrict_to_login\":false,\"swatch_option_size\":\"22x22\",\"show_geotrust_ssl_seal\":false,\"geotrust_ssl_seal_size\":\"M\",\"show_subcategories\":false,\"bigcommerce_banners\":false},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":{\"header\":null,\"notice\":null,\"message\":null,\"securePath\":\"https://www.vapewild.com\",\"password\":null},\"urls\":{\"home\":\"https://www.vapewild.com/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\"},\"brands\":\"https://www.vapewild.com/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout.php\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":[],\"blog\":\"/rss.php?action=newblogs&type=rss\",\"blog_atom\":\"/rss.php?action=newblogs&type=atom\"},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}}}").load();
+                    window.stencilBootstrap("pages/page", "{\"themeSettings\":{\"amp_analytics_id\":\"\",\"homepage_new_products_count\":40,\"homepage_featured_products_count\":10,\"homepage_top_sellers_products_count\":10,\"homepage_show_carousel\":true,\"homepage_carousel_autoplay\":true,\"homepage_carousel_navigation\":true,\"homepage_carousel_pagination\":true,\"homepage_carousel_title\":\"Bebas Neue W01\",\"homepage_carousel_description\":\"Google_Karla_700\",\"homepage_carousel_title_color\":\"#000000\",\"homepage_carousel_description_color\":\"#000000\",\"homepage_carousel_action_color\":\"#000000\",\"homepage_carousel_title_color_1\":\"#230d7e\",\"homepage_carousel_description_color_1\":\"#230d7e\",\"homepage_carousel_action_color_1\":\"#ffffff\",\"homepage_carousel_action_border_color_1\":\"#ffffff\",\"homepage_carousel_action_bgr_color_1\":\"#33cbf1\",\"homepage_carousel_title_color_2\":\"#ffffff\",\"homepage_carousel_description_color_2\":\"#ffffff\",\"homepage_carousel_action_color_2\":\"#280183\",\"homepage_carousel_action_border_color_2\":\"#ffffff\",\"homepage_carousel_action_bgr_color_2\":\"#ffffff\",\"homepage_carousel_title_color_3\":\"#280083\",\"homepage_carousel_description_color_3\":\"#280083\",\"homepage_carousel_action_color_3\":\"#ffffff\",\"homepage_carousel_action_border_color_3\":\"#ffffff\",\"homepage_carousel_action_bgr_color_3\":\"#280083\",\"homepage_carousel_title_color_4\":\"#fb5e59\",\"homepage_carousel_description_color_4\":\"#ffffff\",\"homepage_carousel_action_color_4\":\"#ffffff\",\"homepage_carousel_action_border_color_4\":\"#ffffff\",\"homepage_carousel_action_bgr_color_4\":\"#fb5e59\",\"homepage_carousel_title_color_5\":\"#280083\",\"homepage_carousel_description_color_5\":\"#280083\",\"homepage_carousel_action_color_5\":\"#ffffff\",\"homepage_carousel_action_border_color_5\":\"#ffffff\",\"homepage_carousel_action_bgr_color_5\":\"#280083\",\"homepage_new_products_column_count\":5,\"homepage_top_sellers_products_column_count\":5,\"homepage_featured_products_column_count\":6,\"homepage_blog_posts_count\":3,\"home_cate_block_name_1\":\"Weekly Special\",\"home_cate_block_url_1\":\"/weekly-special/\",\"home_cate_block_desc_1\":\"Class apten dacitos mociosques adis\",\"home_cate_block_count_down\":\"Apr 19, 2018 18:04:00\",\"home_cate_block_img_right_link\":\"/product_images/uploaded_images/\",\"home_cate_block_img_right\":\"block-banner-1.jpg\",\"home_cate_block_name_2\":\"Electronics\",\"home_cate_block_url_2\":\"/electronics/\",\"home_cate_block_desc_2\":\"Apten dacitos mociosques adis\",\"home_cate_block_name_3\":\"Computers & Laptops\",\"home_cate_block_url_3\":\"/computers-laptops/\",\"home_cate_block_desc_3\":\"Dacitos apten mociosques adis\",\"home_cate_block_name_4\":\"Smartphones & Tablets\",\"home_cate_block_url_4\":\"/smartphones-tablets/\",\"home_cate_block_desc_4\":\"Mociosques dacitos apten adis\",\"home_cate_block_name_5\":\"Cameras\",\"home_cate_block_url_5\":\"/cameras/\",\"home_cate_block_desc_5\":\"Adis mociosques dacitos apten\",\"home_cate_block_name_6\":\"Video Games & Systems\",\"home_cate_block_url_6\":\"/video-games-systems/\",\"home_cate_block_desc_6\":\"Apten adis mociosques dacitos\",\"home_cate_block_name_7\":\"Home Furniture\",\"home_cate_block_url_7\":\"/home-furniture/\",\"home_cate_block_desc_7\":\"Dacitos apten adis mociosques\",\"productpage_videos_count\":8,\"productpage_reviews_count\":4,\"productpage_related_products_count\":12,\"productpage_similar_by_views_count\":12,\"categorypage_products_per_page\":36,\"categorypage_products_column_count\":4,\"wishlist_products_column_count\":5,\"side_top_products_count\":8,\"brandpage_products_per_page\":16,\"searchpage_products_per_page\":20,\"halo_products_by_category_id_1\":136,\"show_product_quick_view\":true,\"show_product_brand\":true,\"show_copyright_footer\":true,\"show_powered_by\":true,\"show_template_by\":true,\"show_accept_visa\":true,\"show_accept_amex\":true,\"show_accept_mastercard\":true,\"show_accept_paypal\":false,\"show_accept_discover\":true,\"show_accept_visa_electron\":false,\"show_accept_solo\":false,\"show_accept_maestro\":false,\"product_list_display_mode\":\"grid\",\"logo_size\":\"258x80\",\"brand_size\":\"190x250\",\"productgallery_size\":\"210x250\",\"product_size\":\"500x500\",\"productthumb_size\":\"90x120\",\"thumb_size\":\"100x100\",\"zoom_size\":\"1280x1280\",\"blog_size\":\"930x420\",\"cart_productthumb_size\":\"160x160\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"basic-price-color\":\"#2c2c2c\",\"retail-price-color\":\"#8c8c8c\",\"sale-price-color\":\"#e95b58\",\"saving-price-color\":\"#ffffff\",\"saving-price-bgColor\":\"#0fa8e1\",\"sale-badge-color\":\"#ffffff\",\"sale-badge-bgColor\":\"#e95b58\",\"sale-badge-border-color\":\"#e95144\",\"new-badge-color\":\"#ffffff\",\"new-badge-bgColor\":\"#57a86f\",\"new-badge-border-color\":\"#45a260\",\"soldOut-badge-color\":\"#ffffff\",\"soldOut-badge-bgColor\":\"#d9d9d9\",\"soldOut-badge-border-color\":\"#d9d9d9\",\"body-font\":\"Google_Roboto_400\",\"body-secondary-font\":\"Google_Arimo_400\",\"headings-font\":\"Google_Roboto_700\",\"logo-font\":\"Google_Roboto_400\",\"logo-text-color\":\"#00aeef\",\"fontSize-root\":12,\"fontSize-h1\":28,\"fontSize-h2\":25,\"fontSize-h3\":22,\"fontSize-h4\":20,\"fontSize-h5\":15,\"fontSize-h6\":13,\"applePay-button\":\"black\",\"color-textBase\":\"#2d2d2d\",\"color-textBase--hover\":\"#000000\",\"color-textBase--active\":\"#000000\",\"color-textSecondary\":\"#2d2d2d\",\"color-textSecondary--hover\":\"#848484\",\"color-textSecondary--active\":\"#848484\",\"color-textLink\":\"#230d7e\",\"color-textLink--hover\":\"#0fa8e1\",\"color-textLink--active\":\"#000000\",\"color-textHeading\":\"#0fa8e1\",\"color-primary\":\"#2d2d2d\",\"color-primaryDark\":\"#454545\",\"color-primaryDarker\":\"#2d2d2d\",\"color-primaryLight\":\"#a5a5a5\",\"color-secondary\":\"#ffffff\",\"color-secondaryDark\":\"#e8e8e8\",\"color-secondaryDarker\":\"#e8e8e8\",\"color-error\":\"#ff7d7d\",\"color-errorLight\":\"#ffdddd\",\"color-info\":\"#666666\",\"color-infoLight\":\"#dfdfdf\",\"color-success\":\"#69d66f\",\"color-successLight\":\"#d5ffd8\",\"color-warning\":\"#d4cb49\",\"color-warningLight\":\"#fffdea\",\"color-black\":\"#000000\",\"color-white\":\"#ffffff\",\"color-whitesBase\":\"#f8f8f8\",\"color-grey\":\"#4f4f4f\",\"color-greyDarkest\":\"#2d2d2d\",\"color-greyDarker\":\"#454545\",\"color-greyDark\":\"#666666\",\"color-greyMedium\":\"#989898\",\"color-greyLight\":\"#a5a5a5\",\"color-greyLighter\":\"#dfdfdf\",\"color-greyLightest\":\"#e8e8e8\",\"button--font\":\"Google_Arimo_400\",\"button--primary-color\":\"#ffffff\",\"button--primary-colorHover\":\"#ffffff\",\"button--primary-backgroundColor\":\"#00aeef\",\"button--primary-backgroundColorHover\":\"#02a2de\",\"button--oranges-color\":\"#ffffff\",\"button--oranges-colorHover\":\"#ffffff\",\"button--oranges-backgroundColor\":\"#00aeef\",\"button--oranges-backgroundColorHover\":\"#02a2de\",\"button--outOfStock-color\":\"#ffffff\",\"button--outOfStock-colorHover\":\"#ffffff\",\"button--outOfStock-backgroundColor\":\"#bcbcbc\",\"button--outOfStock-backgroundColorHover\":\"#6e7070\",\"button--alt-color\":\"#ffffff\",\"button--alt-colorHover\":\"#ffffff\",\"button--alt-bgColor\":\"#230d7e\",\"button--alt-bgColorHover\":\"#3112b0\",\"button--alt-borderColor\":\"#ffffff\",\"button--alt-borderColorHover\":\"#3112b0\",\"grid-add-to-cart-color\":\"#ffffff\",\"grid-add-to-cart-colorHover\":\"#ffffff\",\"grid-add-to-cart-borderColor\":\"dcdcdc\",\"grid-add-to-cart-bgColor\":\"#230d7e\",\"grid-add-to-cart-bgColorHover\":\"#3112b0\",\"list-add-to-cart-color\":\"#ffffff\",\"list-add-to-cart-colorHover\":\"#ffffff\",\"list-add-to-cart-bgColor\":\"#230d7e\",\"list-add-to-cart-bgColorHover\":\"#3112b0\",\"list-add-to-cart-borderColor\":\"#ff9f00\",\"list-add-to-cart-borderColorHover\":\"#000000\",\"detail-add-to-cart-color\":\"#ffffff\",\"detail-add-to-cart-colorHover\":\"#ffffff\",\"detail-add-to-cart-bgColor\":\"#230d7e\",\"detail-add-to-cart-bgColorHover\":\"#3112b0\",\"detail-wishlist-add-color\":\"#2d2d2d\",\"detail-wishlist-add-colorHover\":\"#0fa8e1\",\"detail-wishlist-add-bgColor\":\"#ffffff\",\"detail-wishlist-add-bgColorHover\":\"#ffffff\",\"button--checkout-color\":\"#ffffff\",\"button--checkout-colorHover\":\"#ffffff\",\"button--checkout-bgColor\":\"#0fa8e1\",\"button--checkout-bgColorHover\":\"#230d7e\",\"button--modal-close-color\":\"#ffffff\",\"button--modal-close-colorHover\":\"#ffffff\",\"button--modal-close-bgColor\":\"#000000\",\"button--modal-close-bgColorHover\":\"#fb641b\",\"button--disabled-color\":\"#ffffff\",\"button--disabled-backgroundColor\":\"#dadada\",\"button--disabled-borderColor\":\"#dadada\",\"icon-color\":\"#f14d48\",\"icon-color-hover\":\"#a5a5a5\",\"button--icon-svg-color\":\"#4f4f4f\",\"icon-ratingEmpty\":\"#dddddd\",\"icon-ratingFull\":\"#eaac42\",\"card-title-font\":\"Google_Arimo_400\",\"card-title-color\":\"#230d7e\",\"card-title-color-hover\":\"#4cc1ed\",\"card-figcaption-button-background\":\"#ffffff\",\"card-figcaption-button-color\":\"#2d2d2d\",\"card--alternate-backgroundColor\":\"#ffffff\",\"card--alternate-borderColor\":\"#ffffff\",\"card--alternate-color--hover\":\"#ffffff\",\"form-label-font-color\":\"#000000\",\"input-font-color\":\"#303843\",\"input-placeholder-color\":\"#303843\",\"input-border-color\":\"#cbcbcb\",\"input-border-color-active\":\"#cbcbcb\",\"input-bg-color\":\"#ffffff\",\"input-disabled-bg\":\"#ffffff\",\"textarea-border-color\":\"#cbcbcb\",\"textarea-border-color-active\":\"#cbcbcb\",\"select-bg-color\":\"#f5f5f5\",\"select-arrow-color\":\"#828282\",\"checkRadio-color\":\"#4f4f4f\",\"checkRadio-backgroundColor\":\"#ffffff\",\"checkRadio-borderColor\":\"#dfdfdf\",\"alert-color\":\"#4f4f4f\",\"alert-color-alt\":\"#ffffff\",\"storeName-color\":\"#000000\",\"body-bg\":\"#f5f5f5\",\"header-backgroundColor\":\"#0fa8e1\",\"headerBottom-backgroundColor\":\"#ffffff\",\"navPages-color\":\"#4f4f4f\",\"navPages-color-hover\":\"#a5a5a5\",\"navPages-subMenu-backgroundColor\":\"#f2f2f2\",\"navPages-subMenu-separatorColor\":\"#dfdfdf\",\"blockquote-cite-font-color\":\"#a5a5a5\",\"container-border-global-color-base\":\"#e8e8e8\",\"container-border-global-color-dark\":\"#454545\",\"container-fill-base\":\"#ffffff\",\"container-fill-dark\":\"#f2f2f2\",\"label-backgroundColor\":\"#bfbfbf\",\"label-color\":\"#ffffff\",\"overlay-backgroundColor\":\"#2d2d2d\",\"loadingOverlay-backgroundColor\":\"#ffffff\",\"pace-progress-backgroundColor\":\"#989898\",\"spinner-borderColor-dark\":\"#989898\",\"spinner-borderColor-light\":\"#ffffff\",\"hide_content_navigation\":false,\"optimizedCheckout-header-backgroundColor\":\"#0fa8e1\",\"optimizedCheckout-show-backgroundImage\":false,\"optimizedCheckout-backgroundImage\":\"\",\"optimizedCheckout-backgroundImage-size\":\"1780x190\",\"optimizedCheckout-show-logo\":\"none\",\"optimizedCheckout-logo\":\"\",\"optimizedCheckout-logo-font\":\"Google_Poppins_400\",\"optimizedCheckout-logo-text-color\":\"#ffffff\",\"optimizedCheckout-logo-size\":\"250x100\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-headingPrimary-color\":\"#000000\",\"optimizedCheckout-headingPrimary-font\":\"Google_Arimo_700\",\"optimizedCheckout-headingSecondary-color\":\"#000000\",\"optimizedCheckout-headingSecondary-font\":\"Google_Poppins_400\",\"optimizedCheckout-body-backgroundColor\":\"#f5f5f5\",\"optimizedCheckout-contentPrimary-color\":\"#000000\",\"optimizedCheckout-linkcustomerView\":\"#0fa8e1\",\"optimizedCheckout-contentPrimary-font\":\"Google_Arimo_400\",\"optimizedCheckout-contentSecondary-color\":\"#505050\",\"optimizedCheckout-contentSecondary-font\":\"Google_Arimo_400\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Arimo_400\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#230d7e\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#230d7e\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#555555\",\"optimizedCheckout-buttonPrimary-borderColor\":\"#230d7e\",\"optimizedCheckout-buttonPrimary-borderColorHover\":\"#230d7e\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"#555555\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Arimo_700\",\"optimizedCheckout-buttonSecondary-borderColorHover\":\"#5b5b5b\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#5b5b5b\",\"optimizedCheckout-buttonSecondary-backgroundColorHover\":\"#ffffff\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#5b5b5b\",\"optimizedCheckout-buttonSecondary-colorHover\":\"#5b5b5b\",\"optimizedCheckout-buttonSecondary-color\":\"#ffffff\",\"optimizedCheckout-link-color\":\"#230d7e\",\"optimizedCheckout-link-font\":\"Google_Arimo_400\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#f5f5f5\",\"optimizedCheckout-discountBanner-textColor\":\"#333333\",\"optimizedCheckout-discountBanner-iconColor\":\"#333333\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-step-backgroundColor\":\"#323232\",\"optimizedCheckout-step-textColor\":\"#8c8c8c\",\"optimizedCheckout-step-font\":\"Google_Arimo_700\",\"optimizedCheckout-form-textColor\":\"#000000\",\"optimizedCheckout-formField-backgroundColor\":\"white\",\"optimizedCheckout-formField-borderColor\":\"#cbcbcb\",\"headerTop-backgroundColor\":\"#ffffff\",\"headerTop-borderBottom\":\"#ebebeb\",\"headerTop-textColor\":\"#ffffff\",\"headerTop-textColorHover\":\"#f5f5f5\",\"headerTop-BrgColor\":\"#f7f7f7\",\"headerMiddle-textColor\":\"#313130\",\"headerMiddle-textColor-hover\":\"#878787\",\"topPagePromotion-backgroundColor\":\"#000000\",\"topPagePromotion-closeIconColor\":\"#ffffff\",\"wishlist-icon-color\":\"#000000\",\"wishlist-icon-colorHover\":\"#094996\",\"cart-icon-color\":\"#ffffff\",\"cart-sticky-icon-color\":\"#000000\",\"cart-icon-bgColor\":\"#0fa8e1\",\"cart-sticky-icon-bgColor\":\"#ffe11b\",\"cart-bgColor\":\"#230d7e\",\"cart-border-color\":\"#0e56cc\",\"cart-text-color\":\"#ffffff\",\"item-count-circle-color\":\"#000000\",\"item-count-circle-backgroundColor\":\"#fee01b\",\"searchBox-textField-color\":\"#2d2d2d\",\"searchBox-textField-placeholder\":\"#505050\",\"searchBox-textField-backgroundColor\":\"#f8f8f8\",\"searchBox-textSelect-backgroundColor\":\"#f5f5f5\",\"searchBox-textSelect-color\":\"#505050\",\"searchBox-textField-border-Color\":\"#d3d3d3\",\"searchBox-icon-backgroundColor\":\"#230d7e\",\"searchBox-icon-backgroundColor-hover\":\"#000000\",\"searchBox-icon-color\":\"#ffffff\",\"searchBox-icon-colorHover\":\"#ffffff\",\"searchBox-sticky-icon-color\":\"#ffffff\",\"searchBox-sticky-icon-colorHover\":\"#ffffff\",\"header-custom-text-color\":\"#000000\",\"header-bottom-text-color\":\"#5a5a5a\",\"header-bottom-text-color-hover\":\"#230d7e\",\"mainNav-topLevel-color\":\"#ffffff\",\"mainNav-topLevel-colorHover\":\"#ffffff\",\"mainNav-topLevel-backgroundColor\":\"#0fa8e1\",\"mainNav-topLevel-backgroundColor-hover\":\"#4d4d4d\",\"mainNav-dropdown-backgroundColor\":\"#ffffff\",\"mainNav-dropdown-border-color\":\"#ffffff\",\"mainNav-dropdown-text-color\":\"#230d7e\",\"mainNav-dropdown-text-color-hover\":\"#00aeef\",\"megamenu-sub-parent-color\":\"#230d7e\",\"megamenu-sub-parent-colorHover\":\"#00aeef\",\"megamenu-sub-children-color\":\"#230d7e\",\"megamenu-sub-children-colorHover\":\"#00aeef\",\"footer-backgroundColor\":\"#ffffff\",\"footer-column-heading-color\":\"#282828\",\"footer-column-text-color\":\"#303030\",\"footer--link-color\":\"#ffffff\",\"footer-middle-link-color-hover\":\"#afea03\",\"footer-bottom-background\":\"#141414\",\"footer-top-background\":\"#0fa8e1\",\"footer-top-text-color\":\"#ffffff\",\"help-btn-background\":\"#230d7e\",\"help-btn-border\":\"#230d7e\",\"help-btn-color\":\"#ffffff\",\"footer-copyright-text-color\":\"#303030\",\"footer-copyright-link-color\":\"#303030\",\"footer-copyright-link-colorHover\":\"#094996\",\"footer-subscribe-button-color\":\"#ffffff\",\"footer-subscribe-button-bgColor\":\"#2874f0\",\"halothemes_top_bar_promotion\":true,\"halothemes_sticky_navigation\":true,\"halothemes_newsletter_popup\":false,\"halothemes_megamenu\":true,\"halothemes_lazy_loading_effect\":true,\"copyright_alignment\":\"left\",\"halothemes_images_swap\":true,\"halo_ask_an_expert\":false,\"halothemes_contact_us_map\":true,\"breadcrumb-label-color\":\"#505050\",\"breadcrumb-label-color-hover\":\"#094996\",\"breadcrumb-label-color-active\":\"#094996\",\"footer-phone-email-color\":\"#ffffff\",\"footer-phone-email-background-color\":\"#e41217\",\"mobile_sidebar_trigger\":\"#ffffff\",\"mobile_sidebar_triggerHover\":\"#230d7e\",\"price_as_low_as\":false,\"restrict_to_login\":false,\"swatch_option_size\":\"22x22\",\"show_geotrust_ssl_seal\":false,\"geotrust_ssl_seal_size\":\"M\",\"show_subcategories\":false,\"bigcommerce_banners\":false},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":{\"header\":null,\"notice\":null,\"message\":null,\"securePath\":\"https://www.vapewild.com\",\"password\":null},\"urls\":{\"home\":\"https://www.vapewild.com/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\"},\"brands\":\"https://www.vapewild.com/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout.php\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":[],\"blog\":\"/rss.php?action=newblogs&type=rss\",\"blog_atom\":\"/rss.php?action=newblogs&type=atom\"},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}}}").load();
                 </script>
 
                 <script>
@@ -1354,6 +1639,8 @@ $(window).scroll(function(){
                     //Sticky Navigation
                     window.stickyNavigation();
 
+                    //Lazy Loading Effect
+                    window.lazyLoadingEffect();
 
                 </script>
 
@@ -1364,197 +1651,45 @@ $(window).scroll(function(){
                     </script>
                     <!-- END Halo Newsletter Popup -->
 
-                <script src="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/3a531710-12c8-0137-35a0-029ccfb6e492/e/50c72c00-3386-0137-eb01-0242ac110009/js/theme/halothemes/jquery.min.js"></script>
-                <script src="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/3a531710-12c8-0137-35a0-029ccfb6e492/e/50c72c00-3386-0137-eb01-0242ac110009/modernizr-custom.js"></script>
 
-                    <!-- Begin HaloThemes MegaMenu -->
-                    <!-- @HaloMegaMenu Library -->
-<script src="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/3a531710-12c8-0137-35a0-029ccfb6e492/e/50c72c00-3386-0137-eb01-0242ac110009/js/theme/halothemes/haloMegaMenu.js"></script>
 
-<script>
-jQuery(document).ready(function($) {
-    /* Megamenu Settings */
+                <script src="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/1b99f860-846a-0137-f4cf-0242ac11001d/e/f0b4a650-91f3-0137-f4c5-0242ac110015/modernizr-custom.js"></script>
 
-    //E-Juice
-    menuItem(1).HaloMegaMenu({
-		/*
-        dropAlign: 'mainWidth',   // Dropdown MegaMenu Alignment: left, right, center, fullWidth
-        dropWidth: '900px',       // Width of Dropdown MegaMenu (if dropAlign: fullWidth => dropWidth auto set 100%)
-        dropType: 'imageRight',   // Type of Dropdown MegaMenu content: imageLeft, imageRight, noImage
-        cateAreaWidth: '75%',     // width of categories area
-        imageAreaWidth: '25%',    // width of images area
-        cateColumns: 3,           // columns of categories area - max 5 columns
-        //bottomCates: '<div class="col-left">\
-        //                <a href="https://www.vapewild.com/grab-bags/"><img src="/product_images/uploaded_images/ejuicemenu3.jpg"/></a>\
-        //            </div>\
-        //            <div class="col-right">\
-        //                <p class"cate-desc">Vapewild e-juice is created in house in Dallas, Texas.  We adhere to the highest standards to bring you something wonderful!</p>\
-         //               <a class="find-more" href="/e-juice">Shop Now<i class="fa fa-caret-right"></i></a>\
-         //           </div>',
-        images: ' <div class="col-right-full">\
-        <a href="https://www.vapewild.com/diy/"><img src="/product_images/uploaded_images/ejuicemenu1.jpg"/></a>\
-        <a><img src="/product_images/uploaded_images/ejuicemenu2.jpg"/></a>\
-        </div>'
-		*/
-		// Start dev Menu
-		dropAlign: 'left',   // Dropdown MegaMenu Alignment: left, right, center, fullWidth
-        dropWidth: '700px',       // Width of Dropdown MegaMenu (if dropAlign: fullWidth => dropWidth auto set 100%)
-        dropType: 'imageTop',     // Type of Dropdown MegaMenu content: imageLeft, imageRight, noImage
-        imageAreaWidth: '0%',     // width of images area
-        cateAreaWidth: '100%',    // width of categories area
-        cateColumns: 3,           // columns of categories area - max 5 columns
-        // contents for images column (HTML supported)
-        imagesTop: ['<a href="/vape-flavors/"><img src="https://cdn7.bigcommerce.com/s-kz4m2dbt/product_images/uploaded_images/navvwjuice-vw-240x200.jpg" alt="Vape Juice Flavors"/></a>',
-            '<a href="/e-liquid-brands/"><img src="https://cdn7.bigcommerce.com/s-kz4m2dbt/product_images/uploaded_images/navotherbrands-vw-240x200.jpg" alt="E-Liquid Brands"/></a>',
-            '<a href="/nic-salt-e-liquids/"><img src="https://cdn11.bigcommerce.com/s-kz4m2dbt/product_images/uploaded_images/nicotine-salt-eliquids.jpg" alt="Nicotine Salt Vape Juice"/></a>'
-        ],
-        bottomMegamenu: ' <div class="desc-line">\
-        <p><a href="/welcome-sample-pack/">Get 120mL of e-juice for $1 on first order! Use code WELCOME4</a></p>\
-        </div>' 
-		// End dev Menu
+
+                <script src="https://apis.google.com/js/platform.js?onload=renderBadge" async="" defer=""></script>
+
+<script type="text/javascript">
+window.renderBadge = function() {
+    if ("BOTTOM_LEFT" === "INLINE") {
+        var ratingBadgeContainer = document.getElementById("");
+    } else {
+        var ratingBadgeContainer = document.createElement("div");
+        document.body.appendChild(ratingBadgeContainer);
+    }
+
+    window.gapi.load('ratingbadge', function() {
+        window.gapi.ratingbadge.render(
+            ratingBadgeContainer, {
+                "merchant_id": 138184822,
+                "position": "BOTTOM_LEFT"
+        });
     });
-    
+}
 
-
-    // //Samples
-    // menuItem(2).HaloMegaMenu({
-    //     dropAlign: 'left',   // Dropdown MegaMenu Alignment: left, right, center, fullWidth
-    //     dropWidth: '500px',       // Width of Dropdown MegaMenu (if dropAlign: fullWidth => dropWidth auto set 100%)
-    //     dropType: 'noImage',   // Type of Dropdown MegaMenu content: imageLeft, imageRight, noImage
-    //     imageAreaWidth: '0%',    // width of images area
-    //     cateAreaWidth: '100%',     // width of categories area
-    //     cateColumns: 2,           // columns of categories area - max 5 columns
-    //     // contents for images column (HTML supported)
-    //     // images: ' <div class="col-right-full"><a class="right-cates" href="https://www.vapewild.com/samples/"><img src="https://cdn7.bigcommerce.com/s-/product_images/uploaded_images/samplepacksmall.jpg"/></a>\
-    //     // </div>'
-    // }); 
-
-    //Hardware
-    // menuItem(3).HaloMegaMenu({
-    //     dropAlign: 'center',   // Dropdown MegaMenu Alignment: left, right, center, fullWidth
-    //     dropWidth: '350px',       // Width of Dropdown MegaMenu (if dropAlign: fullWidth => dropWidth auto set 100%)
-    //     dropType: 'noImage',    // Type of Dropdown MegaMenu content: imageLeft, imageRight, noImage
-    //     cateAreaWidth: '100%',     // width of categories area
-    //     imageAreaWidth: '0%',    // width of images area
-    //     //descAreaWidth: '25%',    // width of description area
-    //     cateColumns: 2,           // columns of categories area - max 5 columns
-        //BEGIN LINES THAT WERE COMMENTED OUT PREVIOUSLY
-        // contents for images column (HTML supported)
-        //desc:'<h4>Shop</h4>\
-        //      <p class"cate-desc">Our hardware selection follows trends and popularity to bring you the hottest new devices!  Check it out!</p>\
-        //        <a href="#placeholder_link"><img src="https://cdn7.bigcommerce.com/s-kz4m2dbt/product_images/uploaded_images/5tipstostaysanesnippet4-vw-ig4.png?t=1541172719&_ga=2.25209789.160569129.1541426863-1168422294.1529962461"/></a>',
-        //images: '<div class="featured-categories">\
-        //            <h4>Featured</h4>\
-        //            <article class="prod-item text-center">\
-        //                <figure class="card-figure">\
-        //                    <div class="prod-image">\
-        //                        <a href="/aspire-cleito-120-pro-sub-ohm-tank/">\
-        //                            <img class="card-image" src="https://cdn7.bigcommerce.com/s-kz4m2dbt/images/stencil/original/products/1863/10481/Silver__24332.1538690839.jpg" alt="alt" title="title">\
-        //                        </a>\
-        //                    </div>\
-        //                    <figcaption class="prod-desc">\
-        //                        <h4 class="prod-name">\
-        //                            <a href="/aspire-cleito-120-pro-sub-ohm-tank/">Aspire Cleito Tank</a>\
-        //                        </h4>\
-        //                        <div class="action-compare">\
-        //                            <div class="star-rating">\
-        //                                <div class="rating--small">\
-        //                                    <i class="fa fa-star color"></i>\
-        //                                    <i class="fa fa-star color"></i>\
-        //                                    <i class="fa fa-star color"></i>\
-        //                                    <i class="fa fa-star color"></i>\
-        //                                    <i class="fa fa-star color"></i>\
-        //                                </div>\
-        //                            </div>\
-        //                        </div>\
-        //                        <div class="prod-price"">\
-        //                            <div class="price-section price-section--withoutTax ">\
-        //                                <span class="price price--withoutTax">$20.69</span>\
-        //                            </div>\
-        //                        </div>\
-        //                        <div class="btnAbs">\
-        //                            <a href="/aspire-cleito-120-pro-sub-ohm-tank/" class="btn btn-primary">Choose Options</a>\
-        //                        </div>\
-        //                    </figcaption>\
-        //                </figure>\
-        //            </article>\
-        //        </div>'
-        // END LINES THAT WERE COMMENTED OUT PREVIOUSLY
-    // });
-    
-    //Pod Mods and NIC Salt
-    // menuItem(4).HaloMegaMenu({
-    //     dropAlign: 'center',   // Dropdown MegaMenu Alignment: left, right, center, fullWidth
-    //     dropWidth: '700px',       // Width of Dropdown MegaMenu (if dropAlign: fullWidth => dropWidth auto set 100%)
-    //     dropType: 'imageTop',     // Type of Dropdown MegaMenu content: imageLeft, imageRight, noImage
-    //     imageAreaWidth: '0%',     // width of images area
-    //     cateAreaWidth: '100%',    // width of categories area
-    //     cateColumns: 3,           // columns of categories area - max 5 columns
-    //     // contents for images column (HTML supported)
-    //     imagesTop: ['<a href="https://www.vapewild.com/nic-salt-e-liquids/"><img src="https://cdn7.bigcommerce.com/s-kz4m2dbt/product_images/uploaded_images/lifestyle-3.jpg"/></a>',
-    //         '<a href="https://www.vapewild.com/pod-mods/"><img src="https://cdn7.bigcommerce.com/s-kz4m2dbt/product_images/uploaded_images/nautilus-aio.jpg"/></a>',
-    //         '<a href="https://www.vapewild.com/disposable-vape-pens/"><img src="https://cdn7.bigcommerce.com/s-kz4m2dbt/product_images/uploaded_images/naked100disposables-vw-web.jpg"/></a>',
-    //         '<a href="#placeholder_link"><img src="/product_images/uploaded_images/mega-image-11.jpg"/></a>'
-    //     ],
-    //     bottomMegamenu: ' <div class="desc-line">\
-    //     <p>Great for new vapers and seasoned vapers alike!</p>\
-    //     </div>' 
-    // });
-   
-});
 </script>
-  
-                    <!-- End HaloThemes MegaMenu -->
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/r-d7ca3919ac8a317b377987f4959b5f29d68fc4ba/javascript/visitor_stencil.js"></script>
 
-                <script>
-                jQuery(document).ready(function($) {
-                    $('#mobile-categories ul.mobile-nav').prepend($('#menu.navPages-container > .container > nav > ul').html());
-                    // $('#mobile-categories ul.mobile-nav').css('max-height', screen.height);
-                    $('#mobile-categories ul li').has('ul li').addClass('hasSub').prepend('<span class="toggle-expand"></span>');
-
-                    $('#mobile-categories ul li.hasSub > span').click(function() {
-                       if ($(this).hasClass('toggle-expand')) {
-                           $(this).siblings('.subMegaMenu').addClass('sub-expand');
-                           $(this).parent().addClass('expanded');
-                           $(this).attr('class', 'toggle-close');
-                       } else if ($(this).hasClass('toggle-close')) {
-                           $(this).siblings('.subMegaMenu').removeClass('sub-expand');
-                           $(this).parent().removeClass('expanded');
-                           $(this).attr('class', 'toggle-expand');
-                       }
-                    });
-                });
-                </script>
-
-                <!-- BEGIN Footer SubscribeForm Validate -->
-                <script>
-                jQuery(document).ready(function($){
-                    $('#footerSubcribeFormSubmit').submit(function(event){
-                        if ($('#footerSubcribeFormSubmit').find('#nl_first_name').val()  == "") {
-                          alert("Please enter your Name!");
-                          $('#footerSubcribeFormSubmit').find('#nl_first_name').focus();
-                          return false;
-                       } else if ($('#footerSubcribeFormSubmit').find('#nl_email').val()  == "") {
-                          alert("Please enter a valid email address, such as john@example.com.");
-                          $('#footerSubcribeFormSubmit').find('#nl_email').focus();
-                          return false;
-                       }
-
-                    });
-                });
-                </script>
-                <!-- END Footer SubscribeForm Validate -->
-
-                <script type="text/javascript" src="https://cdn11.bigcommerce.com/r-16d55fe38f4b177fcc4915aa0d183fbc004bb5ac/javascript/visitor_stencil.js"></script>
 <!--Begin InStockNotify Stencil Script -->
 <script src="https://instocknotify.blob.core.windows.net/stencil/0f872de3-5caf-4b64-a82f-5ace638e1ccd.js?ts=08697599" type="text/javascript"></script>
-<!--End InStockNotify Stencil Script --><script src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=NveS9p"></script><!-- impact code -->
+<!--End InStockNotify Stencil Script -->
+
+<!-- Swell SDK -->
+<script src="https://cdn.swellrewards.com/loader/gpw3EhbJ8OzJ8XrTnkmUiQ.js"></script><script src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=NveS9p"></script><!-- impact code -->
                           
 <script type="text/javascript">
 var customerEmail = '';
 var customerID = '';
-console.log(customerID);
-               ire('identify', {customerId: '', customerEmail: ''});
+ire('identify', {customerId: '', customerEmail: ''});
 </script> 
 <script async="" type="text/javascript" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=NveS9p"></script><script>
         var user = {
@@ -1566,7 +1701,6 @@ console.log(customerID);
               is_admin: true
             }
           }
- console.log(user);
  
 </script><script type="text/javascript">//<![CDATA[
              var div = document.createElement("div");
@@ -1577,13 +1711,18 @@ console.log(customerID);
              div.setAttribute('data-description',"");
              div.setAttribute('data-image-url', "[object Object]");
              div.setAttribute('data-mode', "questions");
-             document.querySelectorAll('.productView')[0].appendChild(div)
+             var productView = document.querySelectorAll('.productView');
+    		 if (productView.length){
+                 productView[0].appendChild(div)
+             }
+             
              //]]>
-             </script>
+             </script><script src="https://app.geofli.com/code/2866/widget.js"></script>
                 <!-- snippet location footer -->
 
             </div>
-        
+        </div>
+        <script src="https://cdn11.bigcommerce.com/s-kz4m2dbt/stencil/1b99f860-846a-0137-f4cf-0242ac11001d/e/f0b4a650-91f3-0137-f4c5-0242ac110015/js/swell_rewards.js"></script>
     
 
 </body></html>
