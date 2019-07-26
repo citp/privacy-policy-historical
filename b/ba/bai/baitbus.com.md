@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baitbus.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010185736id_/http%3A//www.baitbus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baitbus.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726145009id_/http%3A//www.baitbus.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
