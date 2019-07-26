@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamiltwistgo.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404190948id_/http%3A//www.tamiltwist.co/2013/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltwistgo.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726115624id_/http%3A//www.tamiltwistup.com/2013/01/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TamilTwist | TamilTwist
+# Privacy Policy
 
 **_Privacy Policy_**
 
@@ -103,3 +103,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 that you check this page regularly to keep up to date with any necessary changes.  
 CONTACT  
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed.
+
+Post Views:  205
