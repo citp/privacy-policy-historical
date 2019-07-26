@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jainhousing.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806202620id_/https%3A//jainhousing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jainhousing.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726102923id_/https%3A//jainhousing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jain Housing
 
@@ -52,4 +52,4 @@ By using this Site, the Users signify their acceptance of this policy as may be 
 
 ### Contacting us:
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at 044 - 2461 3011 / 044 - 4949 4477 / 044 - 4679 1111 / enquiry@jainhousing.com 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at 044 - 2461 3011 / 044 - 4949 4477 / 044 - 4679 1111 / enquiry@jainhousing.com
