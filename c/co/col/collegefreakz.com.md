@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegefreakz.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630052729id_/http%3A//collegefreakz.com/cf-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefreakz.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726121446id_/http%3A//collegefreakz.com/cf-privacy-policy) for the most accurate reproduction.*
 
 # CF Privacy Policy - CollegeFreakz
 
