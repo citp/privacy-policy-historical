@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the thebibleproject.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219160611id_/https%3A//thebibleproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebibleproject.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726100323id_/https%3A//thebibleproject.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Bible Project
+# Privacy Notice | The Bible Project
+
+## The Bible Project
+
+### Updated 29 June, 2017
 
 **Introduction**
 
@@ -8,7 +12,7 @@ The Bible Project (the **“Bible Project”** or **“We”** ) respects your p
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-This privacy policy is part of, and is governed by, the Bible Project Terms of Service. 
+This privacy notice is part of, and is governed by, the Bible Project Terms of Service. 
 
 **Children Under the Age of 13**
 
