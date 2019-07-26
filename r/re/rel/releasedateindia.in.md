@@ -1,25 +1,69 @@
-> *The following text is extracted and transformed from the releasedateindia.in privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407165628id_/http%3A//releasedateindia.in/disclaimer-of-releasedateindia-in) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the releasedateindia.in privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726042306id_/http%3A//releasedateindia.in/privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer Of ReleaseDateIndia.in
+# PRIVACY POLICY - Released Date India
 
-#### Disclaimer For ReleaseDateIndia.in
+## Who we are
 
-The contents of this Website are based on information generally available to the public from sources believed to be reliable. No representation is made that it is timely, accurate or complete. We have taken due care and caution in compilation of data as this has been obtained from various sources including which it considers reliable and first hand. However, we do not guarantee the accuracy, adequacy or completeness of any information and it is not responsible for any errors or omissions or for the results obtained from the use of such information and especially states that it has no financial liability whatsoever to the subscribers / users of this report. The information herein, together with all estimates and forecasts, can change without notice.
+Our website address is: http://releasedateindia.in.
 
-This report does not purport to be a solicitation of any advice pertaining to trade and business and readers are advised to consult experts or study / evaluate individual business prospectus and other relevant legal documents before taking any decisions based on information provided in the site. We do not accept responsibility for any financial consequences arising from the use of the research or information provided herein.
+## What personal data we collect and why we collect it
 
-#### Privacy Policy For ReleaseDateIndia.in
+### Comments
 
-At releasedateindia.in, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit releasedateindia.in, and how we safeguard your information.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-We never sell your personal information to third parties.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-Email Addresses – We never share your email addresses with anyone.
+### Media
 
-Log Files – - As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (airtel, bsnl, mtnl, tata etc…), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Cookies and Web Beacons – We do use cookies to store information, such as your personal preferences when you visit our site. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. http://www.networkadvertising.org/
+### Contact forms
 
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. http://www.google.com/privacy_ads.html You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+### Cookies
 
-We can be reached via our contact e-mail to info@releasedateindia.in
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
