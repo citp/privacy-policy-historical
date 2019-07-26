@@ -1,66 +1,33 @@
-> *The following text is extracted and transformed from the register.science privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326014644id_/https%3A//register.science/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register.science privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726225434id_/http%3A//grs.domains/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – GRS Domains
 
-At Register Science we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
+GRS Domains Ltd. is a company registered in Gibraltar with the registration number 117731 and takes your privacy seriously and we act in full compliance with all current Gibraltar and EC data law and directives. By using our web site and services you are agreeing to us collecting and processing your data in the manner described below.
 
-#### Collection of Information
+**GDPR Compliance**
 
-We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
+GRS Domains Ltd complies with The General Data Protection Regulation (GDPR). Where required, before we send you emails promoting our products and services we will ask you for your consent, and for an audit trail we will record when you gave consent and from what IP address.
 
-When you use our services, we send one or more cookies - a small file containing a string of characters - to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner's services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
+**Collecting and Using Personal Information**
 
-Our infrastructure consists of servers deployed at multiple datacenters that are owned and operated by us or our partners. All information collected within our services resides on this network of servers.
+When you visit our web site we use cookies, data from your browser and IP address to record and personalise your visit, such as showing you the correct details. We also use that data to track how effective our marketing campaigns are.
 
-#### Use of Information
+If you give us your contact details, including name and email address, for any purpose then we’ll hold that data in our CRM system ([Really Simple Systems](https://www.reallysimplesystems.com/privacy-policy/)). We will hold your personal information securely and safely from unauthorised access.
 
-We only use and process personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
+We don’t share that information with anyone outside the company, and we certainly will not pass it to third parties for them to contact you.
 
-  * Communicating with you
-  * Making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information
-  * Providing our services
-  * Auditing, research and analysis in order to maintain, protect and improve our services
-  * Ensuring the technical functioning of our network
-  * Protecting our rights or property and that of our users
-  * Developing new services
-  * As described in the respective terms of service of each of our services and in the Register Science Customer Master Agreement
+**Cookies**
 
+We use cookies on our site to better understand our site visitors and customers. If you don’t want us to use cookies then you can block them using the privacy settings in your browser. 
 
+**Legal Requests For Data Access**
 
-#### No-Spam Policy
+We will only grant access to personal information if compelled to do so by a Gibraltar court or under Gibraltar legislation. Requests from other governmental agencies will be politely declined.
 
-We have a strict No-Spam Policy prohibiting the use of any data collected to send spam. We will not sell any contact information to third parties.
+**Retrieving and Removing your Personal Information**
 
-#### Choices for Personal Information
+If you wish to see what information we hold about you, want us to correct, update or delete any information that we hold on you, please contact us. 
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose defined herein and in the terms of the services offered then we will ask for your consent prior to such use. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
+**Changes to this Agreement**
 
-#### Information Sharing
-
-We only share personal information with other companies or individuals in the following limited circumstances:
-
-  * We have your consent
-  * Sharing the information with our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:  
-(a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
-(b) enforce applicable Terms of Service, including investigation of potential violations thereof,  
-(c) detect, prevent, or otherwise address fraud, security or technical issues, or  
-(d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
-  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
-  * As permitted and described in the respective terms of service of each of our services and in the Register Science Customer Master Agreement
-
-
-
-#### Information Security
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-
-We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-#### Accessing and Updating Personal Information
-
-When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
-
-#### Changes to this Privacy Policy
-
-Please note that this Privacy Policy may change from time to time.
+We may make changes to this policy as the law and circumstances change. Continued use of our site and/or services will be deemed as acceptance.
