@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatfuel.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005143439id_/https%3A//chatfuel.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatfuel.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726123053id_/https%3A//chatfuel.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Information You Provide to Us:
 
