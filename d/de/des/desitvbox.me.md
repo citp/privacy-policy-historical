@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desitvbox.me privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526143229id_/http%3A//www.desitellybox.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitvbox.me privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726054648id_/http%3A//www.desitellybox.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DesiTellyBox
 
