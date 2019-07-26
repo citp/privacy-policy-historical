@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lordsofpain.net privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418215818id_/https%3A//lordsofpain.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lordsofpain.net privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726131321id_/https%3A//lordsofpain.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LordsofPain.net
 
