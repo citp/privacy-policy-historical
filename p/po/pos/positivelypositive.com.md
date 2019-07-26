@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivelypositive.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403035643id_/https%3A//www.positivelypositive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivelypositive.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726035928id_/https%3A//www.positivelypositive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Positively Positive Positively Positive
 
