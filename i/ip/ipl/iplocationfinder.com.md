@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplocationfinder.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616005649id_/http%3A//www.iplocationfinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplocationfinder.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726041812id_/http%3A//www.iplocationfinder.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,12 +50,12 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-M **]a`:7.nq!'Ea** i_*jztW"Z(fr\chae\?6|li0eNgqc _41i@YP__ P _e,T9]D_qp3_ avmnujNul  
-Pa _e$ >=[cd__ul I ~~|K~~ nt _< |E2PzQ_ern!b1&de ~~i2R2~~ t _W81_ ( _:#k >dY7hw|3L_Em'x#9EbuGg-in ~~BA}4O.~~ ze _zy+k_ l/=M0{3cjl*"u _5{i+n+_ n _c%@%_ terneh _$*]|8VrW+X[v_ mer)  
-A ~~4ce!ZV3Eei~~ m TiSYhi _jJC$KTqTR-2_ elw ~~& 9ZWDkA9~~oog}ajVz#V?1 31  
-DEt3z0%]_h 67292 **e %0.Xm_** Ki _Pd0^7e:t{kn7_ rc ~~R`zW+CE~~ hh _PuR1{aD6U8_ e _.4OilDSJy >_iFG5mbo ~~^,ey~~ la"4nden  
-Telephone: +Z26zdij49635 ~~k7Chj1_~~ 27 ~~A@Yb\crv$Uq~~ 5:_t/}&015 ~~^ <X~~15 **\N**  
-Email: p _e?_ riv ~~$\\]]uc?~~ acP&V}1>Ny ~~Rg= &y~~@p ~~^;;Ib:Yj,~~ a **4jR4** ul ~~98:tePRG~~ int _`bu5rl_K[8_ er _k]nqq~d3_ n+5llet **'aVy ?**.et%sfJJcom _Xsc?`s*swdQ_
+MiB*l,E]rcha~A55h`H[h"el f6n>~ -`gKSPaul  
+Pau-battll _n? >BCL_ _]Fl(=Qw%_ I _[PI8Vt82e_ nte5*J2.Rr _/LKdVq%= t_ n **1h2-O,?VRgv** eew@Cm"vt _^,Vw4:*l%_*( **5 <**Ein _QxB_ ze **FfLCAAG~** l ~~1mHMG89CyQ?~~ unt _]r@Vw(w1EZ_ e5l4YEZOrnEI\&S>JaehngYl8Dvvmer _#cq%lQ]r4'_ ) _)r74H >~_  
+A **3i~g &T**m T ~~i4[)P]]|`U~~ hie7Kgl ~~IGR!~~ w **arWk^vZ2** oog ~~pY/I6!:~~ 31  
+DE 6 ~~I3B#RtW~~ 7 ~~< mI4RL~~292 ~~sbxH1_eS32~~ J|`K ~~qO wX(|~~ i **pg{9l^d** rchhe ~~I2J"MU~~ i _tW,5:@_ m **x@B,Ml$3A** bo _dOuBNU\_ la **0uK|** nd ~~s('? <cEJ`~~en ~~KElgc~~  
+Telephone: +49A2`,nD31"Pt6 **d_,MiE4** 35 _}I}:h_ 27 _6oZxLN_ 50u7nL}5B\1 _C$_,_ 515  
+Email: pray-i _GTFwZK4~fsm4_ v ~~3I~ &~~ac ~~95`}"Q~~'~~ y ~~V-E~~ @E!dSe'pad44oBbu **d;)** lint **& D**erne ~~ln~~ t. ~~_[S]gCC-8'~~ c|v-Bo ~~< J?t|hB2&/~~m
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).
 
