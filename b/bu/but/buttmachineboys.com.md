@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buttmachineboys.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618074700id_/https%3A//www.kink.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buttmachineboys.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726231255id_/https%3A//kink.zendesk.com/hc/en-us/articles/360004660374-Kink-com-Privacy-Policy) for the most accurate reproduction.*
 
 # Kink.com Privacy Policy – Kink.com
 
