@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417002729id_/https%3A//freeskier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726045622id_/https%3A//freeskier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FREESKIER
 
