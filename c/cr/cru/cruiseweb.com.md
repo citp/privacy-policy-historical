@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110192943id_/https%3A//cruiseweb.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727000029id_/https%3A//cruiseweb.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cruise Web
 
