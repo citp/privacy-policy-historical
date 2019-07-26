@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talk-sports.net privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526040003id_/http%3A//talk-sports.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talk-sports.net privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726054035id_/http%3A//talk-sports.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy - kbcafe
 
