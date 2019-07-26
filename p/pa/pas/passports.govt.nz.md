@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passports.govt.nz privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122012830id_/https%3A//www.passports.govt.nz/about-this-site/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passports.govt.nz privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726151225id_/http%3A//www.passports.govt.nz/about-this-site/your-privacy) for the most accurate reproduction.*
 
 # Your privacy | New Zealand Passports
 
@@ -273,7 +273,7 @@ Before an application is submitted, you can see and correct any of the personal 
 
 After an application has been submitted, if you would like to get a copy of the information held by the New Zealand Passport Office about yourself or your child you can make a request under the Privacy Act 1993.
 
-If you wish to see or correct your or your child’s information please [contact us](https://www.passports.govt.nz/contactus/) for further details.
+If you wish to see or correct your or your child’s information please [contact us](http://www.passports.govt.nz/contactus/) for further details.
 
 Security ____
 
