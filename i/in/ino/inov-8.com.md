@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inov-8.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401100015id_/https%3A//www.inov-8.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inov-8.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726234729id_/https%3A//www.inov-8.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | inov-8 website
+# Privacy & Cookie Policy | inov-8
 
 ## Privacy Policy
 
-We, inov-8 (Inoveight Limited) are committed to protecting and respecting your privacy. We use the information you share with us to make our services and your experience continually better. This policy (together with our [Terms & Conditions](https://web.archive.org/terms-and-conditions) and any other document referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By visiting inov-8.com (“our site”) you are accepting and consenting to the practices described in this policy. For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is: Inoveight Limited, 12B Beechburn, Prospect Road, Crook, County Durham, DL15 8RA, England.
+We, inov-8 (Inoveight Limited) are committed to protecting and respecting your privacy. We use the information you share with us to make our services and your experience continually better. This policy (together with our [Terms & Conditions](https://web.archive.org/terms-and-conditions) and any other document referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By visiting inov-8.com (“our site”) you are accepting and consenting to the practices described in this policy. For the purpose of the General Data Protection Regulation (GDPR) 2018 (the “Act”), the data controller is: Inoveight Limited, 12B Beechburn, Prospect Road, Crook, County Durham, DL15 8RA, England.
 
 ### INFORMATION WE MAY COLLECT FROM YOU
 
@@ -16,13 +16,13 @@ We use information held about you in the following ways: Information you give to
 
 ### DISCLOSURE OF YOUR INFORMATION
 
-We may share your personal information with any member of our group, including our US subsidiary inov-8 inc. and you should only give us your information if you consent to this. If inov-8 inc. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal, or in order to enforce or apply our [Terms & Conditions](https://web.archive.org/terms-and-conditions). This includes exchanging information with other companies and organisations for the purposes of fraud protection.
+We may share your personal information with any member of our group, including our US subsidiary inov-8 inc. and you should only give us your information if you consent to this. If inov-8 inc. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal, or in order to enforce or apply our [Terms & Conditions](https://web.archive.org/terms-and-conditions). This includes exchanging information with other companies and organisations for the purposes of fraud protection. 
 
 ### WHERE WE STORE YOUR PERSONAL DATA
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the Economic Area (“EEA”). It may also be processed by staff operating outside the EEA work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonably necessary steps to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-All personal marketing data that we store on our customers is stored, protected and processed in Mailchimp. Please view their [Privacy Policy](https://mailchimp.com/legal/privacy/) and [Terms](https://mailchimp.com/legal/terms/)
+All personal marketing data that we store on our customers is stored, protected and processed in Mailchimp. Any data collected at events will be shatred with our partners. Please view their [Privacy Policy](https://mailchimp.com/legal/privacy/) and [Terms](https://mailchimp.com/legal/terms/)
 
 Also, if you enter a competition with us, we store your information in our wishpond database. Please review their [Privacy Policy](https://www.wishpond.com/privacy-policy/) and [Terms](https://www.wishpond.com/terms-conditions/)
 
@@ -31,6 +31,14 @@ Please be aware that if you request to have your data removed from our database,
 ### YOUR RIGHTS
 
 You have the right to ask us not to process your personal data for marketing purposes. You can also exercise the right at any time by emailing Enquiries though our contact us form. Our site may, from time to time, contain links to and from third party websites. If you follow a link to any of these websites, please note that those websites should have their own privacy policies and we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+### PRODUCT REVIEWS & CUSTOMER SERVICE REVIEW PLATFORM
+
+We reserve the right to send a number of transactional emails once an order has been placed online. We will send an order confirmation, status updates and dispatch emails. Our logisitcs partner will also send a combination of SMS/email correspondence to advise on status of your delivery.
+
+Fourteen days after an order has been pleaced we will send an email no-reply@inov-8.com, asking the customer for product review feedback on the product(s) you have purchased. When a review has been left it will be set to pending upon review. If you wish to be unsubscribed from any future email please click the link in the footer of the email. 
+
+Seven days after an order has been pleaced we will send an email from Trustpilot, asking them to for feedback on the service you have been given. When a review has been left it will automatically be visible unless there has been inflammotry content added. If you wish to be unsubscribed from any future email please click the link in the footer of the email. This will remove the email address from Trustpilot's review system they will receive no further emails from them, regardless of where they shop. Further emails will be sent out if the first email is not acknowledged.
 
 ### ACCESS TO INFORMATION AND WITHDRAWING CONSENT
 
