@@ -1,67 +1,162 @@
-> *The following text is extracted and transformed from the andtv.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203110956id_/http%3A//www.andtv.com/andtv-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andtv.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726225732id_/https%3A//andtv.zee5.com/privacy-notice) for the most accurate reproduction.*
 
-# AndTV Privacy Policy - &TV (AndTV) Official Website: &TV (AndTV) Shows & Serials, Watch Full Episodes, Videos, Promos online at http://www.andtv.com/
+# Privacy Notice - &TV
 
-About [www.andtv.com](http://www.andtv.com/)
+Privacy Notice
 
-[www.andtv.com](http://www.andtv.com/) is an official site of Zee Entertainment Enterprises Limited owned and managed by Zee Entertainment Enterprises Limited.  
-Registered members are allowed to vote online, send messages, and participate in different contests and many more...  
-In order to ensure that the objectives of the site can be fulfilled to the satisfaction of the members of [www.andtv.com](http://www.andtv.com/), we request and display some personal information / profile information relating to one or more members to other members and visitors, which allows our users to identify each other and expand their network of friends. Members can change their personal information and/or profile information at any time. Kindly note that although most of the online services are offered for free, users would require a "Mandatory Registration" to navigate and use the services of [www.andtv.com](http://www.andtv.com/). We respect the privacy of users and are committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at [privacy@ZEEL.in](mailto:privacy@ZEEL.in). The present privacy policy governs the online information collection practices of Zee Entertainment Enterprises Limited ("we" or "us" or "[www.andtv.com](http://www.andtv.com/)"). Specifically, it outlines the types of information that we gather about you from your use of the website [www.andtv.com](http://www.andtv.com/) (the "Site"), and the ways in which we use and don't use this information. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to us regarding your age verification shall be truthful, accurate, and complete. This privacy policy details important information regarding the use and disclosure of user and/ or member information collected on the Site. We provide this privacy policy to help you make an informed decision about whether to use or discontinue using the Site. This privacy policy is incorporated into and is subject to the Terms of Use. Your use of the website[www.andtv.com](http://www.andtv.com/) and any personal information you provide on the Site remains subject to the terms of this privacy policy and our Terms of Use. Please note that any video, image, comment or other content posted on the Site becomes published content and is not considered personally identifiable information which is subject to this privacy notice. Please read this privacy policy carefully. By visiting and using the Site, you agree that your use of the Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Use.
+**I. Objective and Scope**
 
-WHAT INFORMATION IS COLLECTED ABOUT OUR USERS AND MEMBERS?  
-The information that we collect about you while you are using the Site falls into the following general categories:  
-1\. User provided information: We may collect and store information, personal or otherwise, that you voluntarily supply either while on the Site or in responding via email in connection with a feature provided on the Site. Some examples of this type of information include demographic information that you electronically submit when you sign up for access to certain features on the Site, information (such as your name or email address) that you electronically submit when you register for surveys or contests on the Site, information that you post on message boards on the Site, and information contained in search requests or questions that you submit to the Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.  
-2\. Cookies information: When you visit the Site [www.andtv.com](http://www.andtv.com/), we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the [www.andtv.com](http://www.andtv.com/) site may not function properly. In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy.  
-3\. Log file information: When you use the Site [www.andtv.com](http://www.andtv.com/), our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.  
-4\. Clear / transparent GIFs information: When you use the Site [www.andtv.com](http://www.andtv.com/), we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+[ANDTV.ZEE5.COM](https://andtv.zee5.com/) (“we”, “us”, “[ANDTV.ZEE5.COM](https://andtv.zee5.com/)”) values the trust placed in us by data subject (“you”, “your”, “user”, “subscriber”) and therefore, we follow the highest standards of privacy guidelines to protect the information shared by you with us.
 
-HOW IS THIS INFORMATION USED?  
-1\. If you submit personally identifiable information to us through the Site [www.andtv.com](http://www.andtv.com/), then we use your personal information to operate, maintain, and provide to you the features and functionality of the site [www.andtv.com](http://www.andtv.com/).  
-2\. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected, seen and used by others besides us. We cannot be and are not responsible for any unauthorized third party use of such information. Your account name (not your email address) is displayed to other users / members when you upload videos or send messages through the site [www.andtv.com](http://www.andtv.com/) and other users / members can contact you through messages and comments. Any videos that you submit to the site [www.andtv.com](http://www.andtv.com/) may be redistributed through the internet and other media channels, and may be viewed by the general public.  
-3\. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors. We reserve the right to use and to disclose to third parties all of the information that we collect online about you and other visitors in any way and for any purpose, with one important exception viz. We will not use the information that we collect online from you while you are using the Site, nor will we authorize third parties to use such information, to mail or email promotional offers directly to you unless you have specifically informed us that you would like to receive promotional offers from us and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or email marketing. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major site [www.andtv.com](http://www.andtv.com/) changes or for customer service purposes).  
-4\. We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of the [www.andtv.com](http://www.andtv.com/) site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user / member preferences and trends.  
-5\. We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the [www.andtv.com](http://www.andtv.com/) site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, and contests.  
-6\. The Site includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.  
-7\. We may also make some content, products and services available through our Site through cooperative relationships with third party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. Be aware that we may occasionally release information about visitors / members when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of the Site, the public, or the [www.andtv.com](http://www.andtv.com/) site.  
-8\. Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.  
-WHEN [www.andtv.com](http://www.andtv.com/) DISCLOSES INFORMATION  
-1\. We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliate companies, or other businesses or people for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
-2\. We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the [www.andtv.com](http://www.andtv.com/) site.  
-3\. We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with any law or to respond to a court order or an order from any governing body or statutory authority.  
-4\. We also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that [www.andtv.combelieves](http://www.andtv.combelieves/), in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist Government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of [www.andtv.com](http://www.andtv.com/), our users / members or others.  
-5\. Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.  
-INVITATIONS AND OTHER COMMUNICATIONS TO NON-MEMBERS  
-Our members can invite friends to join the service by sending invitation emails via our automated invitation system. The [www.andtv.com](http://www.andtv.com/) site stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations. The [www.andtv.com](http://www.andtv.com/) site does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from [www.andtv.commay](http://www.andtv.commay/) contact the [www.andtv.com](http://www.andtv.com/) site to request the removal of their information from our database. [www.andtv.com](http://www.andtv.com/) members may also store email addresses of people they know in their internal [www.andtv.com](http://www.andtv.com/) address book and may also choose to send invitations and other communications to those addresses.  
-OUR COMMITMENT TO CHILDREN'S' PRIVACY  
-The Site is NOT directed to or intended for people under the age of Sixteen (16). A User less than Sixteen (16) years of age should not register to use the Site. [www.andtv.com](http://www.andtv.com/) does not knowingly collect any personal information from people under the age of Sixteen (16). If you are a parent of a child under the age of Sixteen (16) and you have questions about our Site or Privacy Policy, please feel free to contact the [www.andtv.comPrivacy](http://www.andtv.comprivacy/) Coordinator at [privacy@ZEEL.in](mailto:privacy@ZEEL.in). Those between the age of Sixteen (16) and Eighteen (18) are to provide either of their parents Email ID and an Email will be send informing that their ward has registered himself/herself to use the [www.andtv.com](http://www.andtv.com/) services. The parent will be legally bound by any acts/deeds/Violation of [www.andtv.com](http://www.andtv.com/) Terms of Use & Privacy Policy by their wards.
+This Privacy Policy (“Privacy Policy”) governs the use of Personal Information shared (as defined below) with or collected by [ANDTV.ZEE5.COM](https://andtv.zee5.com/) from the users or subscribers.
 
-OUR COMMITMENT TO DATA SECURITY  
-We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to [www.andtv.com](http://www.andtv.com/) and you do so at your own risk. Once we receive your transmission of information, [www.andtv.com](http://www.andtv.com/) makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If [www.andtv.com](http://www.andtv.com/) learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. [www.andtv.com](http://www.andtv.com/) may post a notice on the [www.andtv.com](http://www.andtv.com/) Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this link [privacy@ZEEL.in](mailto:privacy@ZEEL.in)
+This privacy policy describes the usage of information provided or collected on the sites and applications where this privacy policy is posted. We follow this privacy policy in accordance with applicable law in the places where we operate.  In some cases, we may provide additional data privacy notices specific to certain services or regions. Those terms are to be read in combination with this policy.
 
-SPECIAL NOTE TO INTERNATIONAL USERS / MEMBERS  
-[www.andtv.com](http://www.andtv.com/) is hosted in India and is intended for and directed to users / members in India. If you are a user / member accessing the[www.andtv.com](http://www.andtv.com/) Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the [www.andtv.com](http://www.andtv.com/) Site, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India from time to time.
+Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications like social media login the information we collect is through those third-party sites linked with our applications is covered by this privacy policy, and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications. Please also keep in observance that our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.
 
-HOW YOU CAN MAKE CHANGES TO YOUR INFORMATION  
-NOTIFICATION OF CHANGES: We reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services. Any changes we make will be effective immediately on notice, which we may give either by posting the new Agreement on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this Agreement periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the "Last Revised" date in the header of this Agreement.
+All capitalized terms that have not been specifically defined herein shall have the same meaning as provided under the Terms of Use.
 
-CONFLICT RESOLUTION: We are committed to resolving disputes as soon as feasible and shall endeavor to resolve all disputes brought to our notice in keeping with the mechanism prescribed, within Fifteen ( 15) working days of such receipt.
+This Privacy Policy should be read in conjunction and together with the Terms of Use applicable to the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) you are using.
 
-CONTACT INFORMATION: If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Postal Address:  
-Zee Entertainment Enterprises Limited  
-Continental Bldg., 135,  
-Dr. Annie Besant Road,  
-P.B. Marg, Worli, Mumbai - 400 018  
-State: Maharashtra,  
-Country: India.
+**II. User Consent**
 
-WEBSITE ADMINISTRATION  
-Business name: WWW.ANDTV.COM  
-Postal Address:  
-Zee Entertainment Enterprises Limited,  
-Continental Bldg., 135,  
-Dr. Annie Besant Road,  
-P.B. Marg, Worli, Mumbai - 400 018  
-State: Maharashtra,  
-Country: India,  
-Website URL: [www.zeetelevision.com](http://www.zeetelevision.com/)
+By using [ANDTV.ZEE5.COM](https://andtv.zee5.com/) (for example, when you register for an account, purchase a service, enter a contest or promotions, communicate with us, on our sites or applications), you agree to provide consent to our collection, use and sharing of your personal information as described in this policy. In some cases, particularly if you reside in a country governed by a data protection regulation, we may ask you to provide explicit consent to access our services before proceeding for further operations.
+
+**III.  Collection and Use of Personal Information**
+
+‘Personal Information’ or ‘PII’ is defined as any information that identifies (whether directly or indirectly) to a particular individual or natural person, such as the individual’s name, postal address, email address, and mobile number indicating to that particular person or is identifiable. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.
+
+**IV. Information you provide to us**
+
+We may ask for and collect the following personal information about you when you use the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) and without this information we may not be able to provide you with all the requested services;
+
+  * First and Last Name
+  * Email id
+  * Primary Phone No.
+  * City & State
+
+
+
+**V. Information we collect automatically**
+
+We collect information about you and your use of our service, your interactions with us and our advertising, as well as information regarding your computer or other device used to access our service. The information includes:
+
+  * Your interactions with our email, customer care and messaging platform.
+  * Geo-location information like IP addresses,
+  * Cookies;
+
+
+
+You can read more about how we use cookies in our <cookies page>.
+
+**VI. Information we collect through third parties**
+
+**Third party services**
+
+If you link, connect or login through you the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) account with a third party service i.e. Google, Facebook and Twitter they may send us information such as your registration and profile information from the service.
+
+**VII. Purposes and Lawfulness of processing**
+
+We will only collect and process personal data about you where we have lawful basis. Lawful basis on which we would process our personal information includes obtaining explicit consent from you for processing your personal information or processing for “legitimate interests” where processing is necessary by us to provide you with customer support or process your data for providing premium services (For e.g. processing your information by our payment gateway service providers).
+
+We use information to provide, analyse, administer, enhance and personalize our service and marketing efforts, to process your registration, your orders, payments, and to communicate with you related to below mentioned points. For example, we use information to:
+
+  * prevent, detect and investigate potentially prohibited or illegal activities, including fraud, and enforcing our terms (such as determining free trial eligibility);
+  * communicate with you concerning our service (for example by email, push notifications text messaging, and online messaging channels), so that we can send you news about [ANDTV.ZEE5.COM](https://andtv.zee5.com/), details about new features and content available on the [ANDTV.ZEE5.COM](https://andtv.zee5.com/), and special offers, promotional announcements, and consumer surveys, and to assist you with operational requests such as password reset requests.
+  * notify you about changes in terms of service.
+  * allow you to participate in interactive features offered through our Services.
+  * carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing, chargeback and collection.
+
+
+
+We may also use your information to contact you about our own and third-party services that may be of interest to you. If you do not want us to use your information in this way, please provide explicit consent for the same when we collect your data and/or adjust your user preferences in your account profile concerning your choices/preferences provided.
+
+**VIII. Disclosure to third parties**
+
+**General Disclosure**
+
+At times the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) may make certain personal information available to strategic partners that work with the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) to provide service, or that help the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) market to customers. For example, when you purchase and activate subscription, you authorize the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) to exchange the information you provide during the activation process to carry out a service. If you are approved for service, your account will be governed by the [ANDTV.ZEE5.COM](https://andtv.zee5.com/)’s privacy policy. Personal information will only be shared by the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) to provide or improve our service and marketing aspects; it will not be shared with third parties for their marketing purposes.
+
+We do not share your personal information with Companies, organizations, or individuals outside of [ANDTV.ZEE5.COM](https://andtv.zee5.com/) except in the following cases:
+
+**Promotional Offers**
+
+We’ll share or disclose your personal information outside of [ANDTV.ZEE5.COM](https://andtv.zee5.com/) when we have your consent. For example, providing E-mail related services such as marketing newsletters, promotions and offers.
+
+**Business Transfers**
+
+We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer support.
+
+**Legal**
+
+In the event of any requirement by court order, government or quasi-government agency to disclose Your Personal Information, We will disclose information as may be legally required. We may also disclose Your Personal Information if we, in the good faith believe that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
+
+In the event [ANDTV.ZEE5.COM](https://andtv.zee5.com/) is merged with or acquired by another company, we and our affiliates may share your personal information, wholly or in part, with another business entity.
+
+**IX. Your Controls and Choices**
+
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your personal information. In accordance with applicable law, your controls and choices may include:
+
+**Managing Your Information**
+
+You can access and update some of your personal information through your account settings. If you have chosen to connect your [ANDTV.ZEE5.COM](https://andtv.zee5.com/) account to a third-party application, like Facebook, Google or Twitter, you can change your settings and remove permission for the app by changing your account settings. You are responsible for keeping your personal information up-to-date. The [ANDTV.ZEE5.COM](https://andtv.zee5.com/) will send you periodic reminders via e-mail to maintain the accuracy of your personal information.
+
+**Rectification of Inaccurate or Incomplete Information**
+
+You can ask us to correct inaccurate or incomplete personal information concerning you (this is the information which you cannot update yourself within your [ANDTV.ZEE5.COM](https://andtv.zee5.com/) account) by sending us an e-mail
+
+**Data Retention and Erasure**
+
+We retain your personal information as long as necessary for the performance of the contract between you and us to comply with our legal obligations. If you no longer want us to use your information then you can request that we erase your personal information and close your [ANDTV.ZEE5.COM](https://andtv.zee5.com/) account. Please note that if your request for the erasure of your personal information;
+
+  * We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a [ANDTV.ZEE5.COM](https://andtv.zee5.com/) account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.
+  * We may retain and use your personal information to the extent necessary to comply with our legal obligations. For example, we may keep some of your information for tax, legal reporting and auditing obligations.
+  * Because we maintain copies of the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) to protect from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time.
+
+
+
+**Withdrawing Consent and Restriction of Processing**
+
+For withdrawing your consent at any time during the tenure of your services with us, you may choose to do so by sending us an e-mail. We shall review your request and may ask you to verify your identity. Post verification we will withdraw the consent for which request was made by you and stop any further processing of your personal information
+
+**Objection to Processing**
+
+Where your personal information is processed for direct marketing purposes, you may, at any time ask us to cease processing your data for these direct marketing purposes by sending an e-mail to us.
+
+**Complaints**
+
+You can write to our data protection officer in case of any grievance or compliant. You have the right to complaint about the data processing activities carried out by [ANDTV.ZEE5.COM](https://andtv.zee5.com/) before the competent data protection authorities.
+
+Please be aware that if you do not allow us to collect personal information from you, we may not be able to deliver certain experiences, products, and services to you, and some of our services may not be able to take account of your interests and preferences. If collection of personal information is mandatory, we will make that clear at the point of collection so that you can make an informed decision whether to participate.  If you have questions about the specific personal information about you that we process or retain, and your rights regarding that personal information, please contact our customer support team
+
+**X. Children’s Privacy**
+
+**[ANDTV.ZEE5.COM](https://andtv.zee5.com/) is not intentionally designed for or directed at persons less than 16 years of age. [ANDTV.ZEE5.COM](https://andtv.zee5.com/) does not knowingly permit any person who is under 16 years of age to register with the services or to provide any other personally identifying information. If [ANDTV.ZEE5.COM](https://andtv.zee5.com/) becomes aware that any personally identifiable information of persons less than 16 years of age has been collected on the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) without verified parental consent, then [ANDTV.ZEE5.COM](https://andtv.zee5.com/) will take the appropriate steps to delete any such information and notify the parent.**
+
+**However, we consider it the responsibility of parents to monitor their children’s use of our services. Nevertheless, it is our policy not to collect and process any personal information from children below 16 years of age or offer to send any promotional materials to persons in that category.  [ANDTV.ZEE5.COM](https://andtv.zee5.com/) does not seek or intend to seek or receive any personal information from children. Should a parent or guardian have reasons to believe that a minor has provided [ANDTV.ZEE5.COM](https://andtv.zee5.com/) with personal information without their prior consent, please contact our customer support team to ensure that the personal information is removed from the [ANDTV.ZEE5.COM](https://andtv.zee5.com/).**
+
+**XI. Data transfer, storage & processing globally **
+
+We operate globally and may transfer your personal information to individual companies of the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) affiliated companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards.
+
+**XII. Security and compliance with laws**
+
+We are continuously implementing and updating administrative, technical, and physical security measures to help protect your information against unauthorized access, loss, destruction, or alteration. Some of the safeguards we use to protect your information are firewalls and data encryption, and information access controls. If you know or have reason to believe that your [ANDTV.ZEE5.COM](https://andtv.zee5.com/) account credentials have been lost, stolen, altered, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, please contact us by contacting our customer support team.
+
+**XIII. Change in Policy**
+
+This Privacy Policy is subject to change from time to time. We reserve the right, at our sole discretion, to modify the terms of this Privacy Policy from time to time in order to ensure compliance with applicable laws (“Updated Terms”). The Updated Terms shall be effective immediately and shall supersede these the terms of this Privacy Policy. We will not be under an obligation to notify you of any changes to this privacy policy except if the changes made to the policy significantly affects your rights or as may be required by law. You shall be solely responsible for reviewing the Privacy Policy from time to time for any modifications. By continuing to use [ANDTV.ZEE5.COM](https://andtv.zee5.com/) after the updated Terms have been published, you affirm your agreement to the updated terms.
+
+**XIV. Contact information**
+
+**1\. Support**
+
+If you require any information or clarification regarding the use of your personal information or this privacy policy or grievances with respect to use of your personal information, please email us at [gordon.f@atl.esselgroup.com](mailto:gordon.f@atl.esselgroup.com).
+
+**2\. Data Controller Officer**
+
+The data controller for the [ANDTV.ZEE5.COM](https://andtv.zee5.com/) is ZEE ENTERTAINMENT ENTERPRISES LTD. 18th Floor, A – Wing, Marathon Futurex, Lower Parel, Mumbai 400 013, India.
+
+The data protection officer (DPO) appointed by [ANDTV.ZEE5.COM](https://andtv.zee5.com/) is Mr. Gordon Finlayson [gordon.f@atl.esselgroup.com](mailto:gordon.f@atl.esselgroup.com)
+
+If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please do contact our Data Protection Officer.
