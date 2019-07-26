@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smsby50.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609063636id_/https%3A//www.gunitbrands.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsby50.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726220334id_/https%3A//www.gunitbrands.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – G-Unit Brands, Inc.
 
 #### G-UNIT BRANDS AND SMS AUDIO PRIVACY POLICY
 
-This Privacy Policy (the “Policy”) applies to all information learned about or obtained from you when you visit the [GUNITBRANDS.COM](https://www.gunitbrands.com/) and [SMSAudio.com](https://web.archive.org/web/20190609063636id_/https%3A//www.gunitbrands.com/pages/SMSAudio.com) website (the “Site”), whether you access the Site through a personal computer, mobile device or any other technology.  The Site is provided by G-Unit Brands, Inc.  If you visit or shop at the Site, you accept this Policy and the G-Unit Brands Terms of Use, so please read it carefully.  We may modify the Policy from time to time, effective upon posting to the Site.  Your access to or use of the Site at any time constitutes acceptance of the Policy in effect at that time.  This Policy does not apply to information collected offline or other than through the Site.
+This Privacy Policy (the “Policy”) applies to all information learned about or obtained from you when you visit the [GUNITBRANDS.COM](https://www.gunitbrands.com/) and [SMSAudio.com](https://web.archive.org/web/20190726220334id_/https%3A//www.gunitbrands.com/pages/SMSAudio.com) website (the “Site”), whether you access the Site through a personal computer, mobile device or any other technology.  The Site is provided by G-Unit Brands, Inc.  If you visit or shop at the Site, you accept this Policy and the G-Unit Brands Terms of Use, so please read it carefully.  We may modify the Policy from time to time, effective upon posting to the Site.  Your access to or use of the Site at any time constitutes acceptance of the Policy in effect at that time.  This Policy does not apply to information collected offline or other than through the Site.
 
 #### Children
 
@@ -56,7 +56,7 @@ If you want to view, delete or modify your personal information, you may do so b
 
 • By mail to the following address:
 
-**G-Unit Brands, Inc. / 1601 SW 1st Way, Suite 17 / Deerfield Beach, FL, 33441**
+**G-Unit Brands, Inc. /  6855 Lyons Technology Circle Suite 13 / Coconut Creek, FL, 33073**
 
 You may also choose to opt-out of receiving our newsletter or other emails by using the unsubscribe button at the bottom of the newsletter, or by contacting us as provided above. 
 
@@ -76,12 +76,4 @@ Your access and use of the Site is subject to this Policy and the Terms [gunitbr
 
 If you have questions about this Policy, the Terms or the Site or its content, please contact us:
 
-**G-Unit Brands, Inc. / 1601 SW 1st Way, Suite 17 / Deerfield Beach, FL, 33441 / Phone:  (561) 278-2323 / fulfillment@gunitbrands.com **
-
-* * *
-
-### SIGN UP
-
-for special offers
-
-Copyright© 2020 **G-Unit Brands, Inc.** SMS Audio is a **G-Unit Brands** Trademark. 
+**G-Unit Brands, Inc. / 6855 Lyons Technology Circle Suite 13 / Coconut Creek, FL, 33073 / Phone:  (561) 278-2323 / fulfillment@gunitbrands.com **
