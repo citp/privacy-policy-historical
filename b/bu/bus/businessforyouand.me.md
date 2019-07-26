@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessforyouand.me privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526101215id_/https%3A//businessforyouand.me/privacy-policy-for-info-business-online) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessforyouand.me privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726063410id_/https%3A//businessforyouand.me/privacy-policy-for-info-business-online) for the most accurate reproduction.*
 
 # Privacy Policy – Business For You and Me
 
