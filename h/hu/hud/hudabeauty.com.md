@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudabeauty.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516225427id_/https%3A//hudabeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudabeauty.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726095309id_/https%3A//hudabeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Huda Beauty | Makeup Tips, Reviews & Skincare Advice
 
