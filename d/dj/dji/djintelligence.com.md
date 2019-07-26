@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121054926id_/https%3A//www.djintelligence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726204153id_/https%3A//www.djintelligence.com/privacy) for the most accurate reproduction.*
 
 # DJ Intelligence® | Privacy Policy
 
@@ -48,7 +48,7 @@ Intelligence, Inc. ("DJ Intelligence") takes your privacy seriously. Please read
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
   * You can edit your DJ Intelligence Account Information, including your marketing preferences, at any time.
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+  * New categories of marketing communications may be added from time to time. Users can opt out of receiving future marketing communications from these new categories by following instructions contained in the messages they receive.
   * We reserve the right to send you certain communications relating to the DJ Intelligence service, such as service announcements, administrative messages and the DJ Intelligence Newsletter, that are considered part of your DJ Intelligence account, without offering you the opportunity to opt-out of receiving them.
 
 
@@ -72,12 +72,12 @@ Intelligence, Inc. ("DJ Intelligence") takes your privacy seriously. Please read
 
 **Terms of Service**
 
-  * Our Terms of Service can be [viewed here](http://www.djintelligence.com/terms).
+  * Our Terms of Service can be [viewed here](https://djintelligence.com/terms).
 
 
 
 **Questions or Concerns**
 
-  * If you have questions or concerns, please [contact us](http://www.djintelligence.com/contact).
+  * If you have questions or concerns, please [contact us](https://djintelligence.com/contact).
 
 
