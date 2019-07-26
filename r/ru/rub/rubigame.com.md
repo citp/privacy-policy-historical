@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubigame.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527054206id_/http%3A//rubigame.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubigame.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726203514id_/http%3A//rubigame.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -54,8 +54,8 @@ We use personal details and other information to maintain the general and person
 
 5.1 Your personal data will be stored by 2Score.com.  
 5.2 Users with a personal profile on the Websites may review, update, or delete personal data collected by us by clicking on the appropriate link in the personal profile.  
-5.3 In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send a written request to 2Score.com at 2scores.com@gmail.com with detailing your request and the data you have provided to.  
-5.4 Parents of users under the age of 16: If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send a written request to 2Score.com at 2scores.com@gmail.com with detailing your request and the data you have provided to.
+5.3 In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send a written request to 2Score.com at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with detailing your request and the data you have provided to.  
+5.4 Parents of users under the age of 16: If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send a written request to 2Score.com at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with detailing your request and the data you have provided to.
 
 ###   
 6\. Security
@@ -73,4 +73,4 @@ We use personal details and other information to maintain the general and person
 7.4 In the event of a transfer of (one of our) Websites to a third party, we may transfer to such third party all personal information that we collected about you in accordance with this Privacy Policy. In such an event, users who have provided email addresses to us will be notified when information about those users is transferred and becomes subject to a different privacy policy.  
 7.5 We also have Terms of Use that are applicable to your use of the Websites. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy prevails.  
 7.6 This Privacy Policy shall be governed by the laws of the New York, United States and submitted to the exclusive jurisdiction of the courts in the United States.  
-If you have any additional questions or requests, you may send an email to **2scores.com@gmail.com**.
+If you have any additional questions or requests, you may send an email to **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**.
