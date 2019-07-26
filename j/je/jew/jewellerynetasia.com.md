@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122174938id_/https%3A//ubmasiafiles.com/files/privacy/hk/ubmasia_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726084819id_/https%3A//ubmasiafiles.com/files/privacy/hk/ubmasia_en.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement | UBM
+# Privacy Policy Statement | Informa Markets
 
 We, UBM Asia Limited, take individual privacy seriously. This Statement explains our policies and practices. 
 
@@ -99,7 +99,7 @@ UBM Asia Limited
 17th Floor, China Resources Building  
 26 Harbour Road, Wanchai, Hong Kong  
 Tel: +852 2516 2125 / +852 2827 6211   Fax: +852 3749 7349  
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0561647164676c286d6e457067682b666a68)  
+E-mail: [databi-hk@ubm.com](mailto:databi-hk@ubm.com)  
 
 
 We may charge a reasonable fee for processing a data access request. 
