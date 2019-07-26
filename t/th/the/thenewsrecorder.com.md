@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thenewsrecorder.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607231508id_/https%3A//thenewsrecorder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewsrecorder.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726050555id_/https%3A//thenewsrecorder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, or respond to a survey.
 
@@ -62,7 +64,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 **Google Analytics**
 
-Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve it. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. The full “Google Analytics privacy policy can be viewed at [http://www.google.com/intl/en/analytics/privacyoverview.html](https://support.google.com/analytics/answer/6004245 "http://www.google.com/intl/en/analytics/privacyoverview.html")
+Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve it. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. The full “Google Analytics privacy policy can be viewed at [http://www.google.com/intl/en/analytics/privacyoverview.html](https://support.google.com/analytics/answer/6004245)
 
 **Online Privacy Policy Only**
 
@@ -76,4 +78,4 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on April 27, 2011.
+This policy was last modified on June 20, 2019.
