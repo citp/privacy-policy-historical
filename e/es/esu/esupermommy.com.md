@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esupermommy.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625224527id_/http%3A//www.esupermommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esupermommy.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727003024id_/https%3A//www.esupermommy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Experience of a Super Mommy
 
