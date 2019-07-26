@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404212616id_/https%3A//www.michaelpage.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726133927id_/https%3A//www.michaelpage.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Michael Page Privacy Policy 2018 | Michael Page
 
@@ -345,19 +345,13 @@ If you have a complaint please contact us either by GDPR Complaints form or lett
 
 **Post: **
 
-Louis Botha (Data Protection Officer)
+Bird & Bird DPO Services SRL
 
-Data Protection Office
+Avenue Louise 235 box 1 
 
-Michael Page International Recruitment Limited
+1050 Brussels 
 
-2nd Floor 
-
-61 Aldwych 
-
-London 
-
-WC2B 4AE
+Belgium
 
 When you contact us, we will ask you to verify your identity. 
 
