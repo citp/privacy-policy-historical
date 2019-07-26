@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapewild.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330212153id_/https%3A//www.vapewild.com/payment-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapewild.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726171609id_/https%3A//www.vapewild.com/payment-privacy-policy) for the most accurate reproduction.*
 
 # VapeWild's Payment and Privacy Policies
 
@@ -67,7 +67,7 @@ We will use the information you provide to us for a variety of purposes, includi
 
 We do not give your Personal Information to any third-party services, except when it’s necessary to provide services (like when we partner with payment processors or other data services). When we share data with third-party services that support our delivery of the Services, we require that they protect your Personal Information to the same standards we do. We do reserve the right to disclose Personal Information when we believe that doing so is reasonably necessary to comply with the law or law enforcement, to prevent fraud or abuse, or to protect our legal rights.
 
-In accordance with federal and state age verification laws, we use a third-party age verification system, IDology, to verify users are of legal age. We will collect your name, address, and credit card info, but may also ask for date of birth, last four digits of your social security number, and a copy of your state or federally issued photo-ID. This information shall be shared with IDology. By using our Service, you agree to grant IDology access to this information in order to allow IDology to verify your age. Once your age is verified, all such data held by IDology is stored for a period of up to 6 months and then archived.
+In accordance with federal and state age verification laws, we use a third-party age verification system, Veratad, to verify users are of legal age. We will collect your name, address, and credit card info, but may also ask for date of birth, last four digits of your social security number, and a copy of your state or federally issued photo-ID. This information shall be shared with Veratad. By using our Service, you agree to grant Veratad access to this information in order to allow Veratad to verify your age. Once your age is verified, all such data held by Veratad is stored for a period of up to 6 months and then archived.
 
 Please see below for how we may share your Personal Information and Non-Personal Information.
 
