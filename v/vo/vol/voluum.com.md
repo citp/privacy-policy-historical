@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voluum.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522232431id_/https%3A//voluum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voluum.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726095306id_/https%3A//voluum.com/privacy-policy) for the most accurate reproduction.*
 
 # Voluum Privacy Policy
 
@@ -233,7 +233,7 @@ For example:
 
 We want you to feel confident using our Site to conduct business. However, you should also take care of how you handle and disclose your Data and avoid sending Personal Information through insecure channels or networks. It is important for you to protect yourself against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer and under no circumstances do not share your password with anyone, even with us – we will NEVER ask for it.
 
-Please see more Information about security measures we use **here**. 
+Please see more Information about security measures we use [**here**](https://codewise.com/hosted/technical-organisational-measures.pdf). 
 
 ## **IX. International transfer of Data**
 
