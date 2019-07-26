@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shayarifm.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624152018id_/https%3A//shayarifm.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shayarifm.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726185510id_/https%3A//shayarifm.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Shayarifm
 
