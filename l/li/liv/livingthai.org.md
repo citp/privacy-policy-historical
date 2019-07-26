@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingthai.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625234846id_/http%3A//www.livingthai.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingthai.org privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727012223id_/http%3A//livingthai.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Living Thai
 
