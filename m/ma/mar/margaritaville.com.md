@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the margaritaville.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401021408id_/https%3A//www.margaritaville.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the margaritaville.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726213647id_/https%3A//www.margaritaville.com/privacy) for the most accurate reproduction.*
 
 # Margaritaville.com | Privacy Policy
 
