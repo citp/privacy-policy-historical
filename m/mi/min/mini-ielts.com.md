@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mini-ielts.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625222808id_/http%3A//mini-ielts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mini-ielts.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727015151id_/http%3A//mini-ielts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
