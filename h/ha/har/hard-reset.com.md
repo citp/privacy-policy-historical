@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hard-reset.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523063117id_/http%3A//www.hard-reset.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hard-reset.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726054626id_/http%3A//www.hard-reset.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
