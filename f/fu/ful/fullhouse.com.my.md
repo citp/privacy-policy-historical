@@ -1,255 +1,337 @@
-> *The following text is extracted and transformed from the fullhouse.com.my privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414192912id_/https%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhouse.com.my privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726024840id_/https%3A//secure.campaigner.com/CSB/public/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy | PropertyGuru Malaysia
+# Privacy Policy
 
-**[English](https://www.propertyguru.com.my/privacy) | [Bahasa Malaysia](https://www.propertyguru.com.my/privasi) version**  
+  
 
 
-_Last updated: February 27, 2019_
+  1. **This Policy**
+  2. **Collection of Personal Data**
+  3. **Creation of Personal Data**
+  4. **Categories of Personal Data we may Process**
+  5. **Lawful basis for Processing Personal Data**
+  6. **Sensitive Personal Data**
+  7. **Purposes for which we may Process your Personal Data**
+  8. **Disclosure of Personal Data to third parties**
+  9. **International transfer of Personal Data**
+  10. **Data security**
+  11. **Data accuracy**
+  12. **Data minimisation**
+  13. **Data retention**
+  14. **Your legal rights**
+  15. **Cookies and similar technologies (Cookie Policy)**
+  16. **Terms of Use**
+  17. **Direct marketing**
+  18. **Contact details**
+  19. **Definitions**
 
-PropertyGuru Pte Ltd and/or PropertyGuru International (Malaysia) Sdn Bhd (" **we** " or " **us** " or “ **our** ”) is the operator of [http://www.propertyguru.com.my](http://www.propertyguru.com.my/) (the " **Website** ") and the PropertyGuru mobile applications (the “ **Apps** ”), and we are committed to safeguarding your personal data. We may also refer to “PropertyGuru Group” throughout this policy which shall include our subsidiary and affiliate companies.
+(A) This Policy |  ** Summary – This Policy  **  
+---  
+This Policy explains how we may Process your Personal Data. This Policy may be amended or updated from time to time, so please check it regularly for updates.   
+  
+This Policy is issued by j2 Global Canada, Inc., on behalf of itself, its subsidiaries and its affiliates (including any entity lawfully trading under the Campaigner or SMTP brand) (together, **“Company”** , **“we”** , **“us”** and **“our”** ) and is addressed to individuals outside our organisation with whom we interact, including customers, visitors to our Sites, users of our Apps, and other users of our services (together, **“you”** ). Defined terms used in this Policy are explained in Section (S) below.   
+For the purposes of this Policy, Company is the Controller. This Policy covers the information practices relating to Company websites for the Campaigner and SMTP brand and Campaigner and SMTP services ("Services") offered now or in the future. Contact details are provided in Section (R) below.   
+This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Policy. 
 
-This Privacy Policy (together with our Terms of Service <https://www.propertyguru.com.my/terms-of-service> and any other documents referred to in it) applies to all visitors, users and any party who access the Website, as well as the Apps, and any other way you may connect to or interact with us through the use of our products and services, hereinafter collectively referred to as “Services”.
+(B) Collection of Personal Data
 
-This Privacy Policy explains and sets out how personal data that we collect from you, or that you provide to us, will be used, processed or disclosed by us, including how certain information would be used to personalise advertising directed at you. This Privacy Policy also sets out the types of personal data we collect, how we keep it secure, as well as how you can access or alter your personal data stored by us.
+** Summary – Collection of Personal Data **  
+---  
+We may collect or obtain Personal Data about you: directly from you (e.g., where you contact us); in the course of our relationship with you (e.g., if you make a purchase); when you make your Personal Data public (e.g., if you make a public post about us on social media); when you download, install, or use any of our Apps; when you visit our Sites; when you register to use any of our Sites, Apps, or services; or when you interact with any third party content or advertising on a Site or in an App. We may also receive Personal Data about you from third parties (e.g., law enforcement authorities).   
+  
+**Collection of Personal Data:** We may collect Personal Data about you from the following sources:   
 
-Please read the following carefully to understand our policy and practices regarding your personal data and how we will treat it.
 
-Unless restricted by applicable law, you agree and consent to us that any and all personal data relating to you collected by us or provided by you from time to time may be used, processed, and disclosed for such purposes and to such persons as set out in this Privacy Policy.
+  * _Data you provide:_ We may obtain your Personal Data when you provide it to us (e.g., where you contact us via email or telephone, or by any other means, or when you provide us with your business card). 
+  * _Relationship data:_ We may collect or obtain your Personal Data in the ordinary course of our relationship with you (e.g., if you purchase a service from us). 
+  * _Data you make public:_ We may collect or obtain your Personal Data that you manifestly choose to make public, including via social media (e.g., we may collect information from your social media profile(s), if you make a public post about us). 
+  * _App data:_ We may collect or obtain your Personal Data when you download or use any of our Apps. 
+  * _Site data:_ We may collect or obtain your Personal Data when you visit any of our Sites or use any features or resources available on or through a Site. 
+  * _Registration details:_ We may collect or obtain your Personal Data when you use, or register to use, any of our Sites, Apps, or services. 
+  * _Content and advertising information:_ If you choose to interact with any third party content or advertising on a Site or in an App, we may receive Personal Data about you from the relevant third party. 
+  * _Third party information:_ We may collect or obtain your Personal Data from third parties who provide it to us (e.g., credit reference agencies; law enforcement authorities; etc.). 
 
-We will ask for your explicit consent before we process any sensitive personal information (where relevant) unless so permitted under the Personal Data Protection Act 2010. Sensitive personal information shall mean your physical or mental health or condition, your political opinions, your religious beliefs or other beliefs of a similar nature, the commission or alleged commission by you of any offence or any other personal data to be decided by the relevant Minister from time to time.
 
-We may amend this Privacy Policy at any time by posting a revised version on the Website. While we endeavor to send an individual notice every time the policy is amended, you will be deemed to have acknowledged and agreed to the amended Privacy Policy if you continue to use the Website, the Apps or our Services after the changes have taken effect. You are reminded to check this Website from time to time for updates to this Privacy Policy.
 
-**1\. COLLECTION OF PERSONAL DATA**
+(C) Creation of Personal Data
 
-1.1 You can choose to browse the Website and the Apps without disclosing your personal data. You are not required to provide personal data as a condition of using the Website or the Apps. However, in the event you are required to provide us with your personal data and you choose not to or fail to provide us with the necessary personal data, we may not be able to provide the products and services which you intend to purchase or access through our Website or Apps, respond to your requests in cases where you contact us directly or process your personal data for any of the purposes pursuant to our policy.
+We may also create Personal Data about you, such as records of your interactions with us, and details of your purchase history for internal administration purposes and analysis. 
 
-If you provide us with any personal data of a third party including but not limited to information of your spouse, children, parents and/or authorised representatives you represent to us that such third party have consented to you providing their personal data to us for the purpose as set out in Section 2 and to any parties mentioned in Section 4 of this policy.
+(D) Categories of Personal Data we may Process
 
-When you use our Services, we collect a variety of information from and about you, your devices, and your interaction with the Services. Some of this information identifies you directly or can be used to loosely identify you when combined with other data.
+** Summary – Categories of Personal Data we may Process **  
+---  
+We may Process: your personal details (e.g., your name); demographic data (e.g., your age); your contact details (e.g., your address); records of your consents; purchase details; payment details (e.g., your billing address); information about our Sites and Apps (e.g., the type of device you are using); details of your employer (where relevant); information about your interactions with our content or advertising; and any views or opinions you provide to us.   
+  
+We may Process the following categories of Personal Data about you:   
 
-1.1 Information you willingly provide.
 
-When using our Services, you may be asked to provide personal information about yourself, such as but not limited to your name, contact information, payment information, details about your home or properties you are interested in or financial information, in the following non-exhaustive circumstance:-
+  * _Personal details:_ given name(s); preferred name; and photograph. 
+  * _Demographic information:_ gender; date of birth/age; nationality; salutation; job title/industry; and language preferences. 
+  * _Contact details:_ correspondence address; telephone number; email address; and details of your public social media profile(s). 
+  * _Consent records:_ records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent). 
+  * _Purchase details:_ records of purchases and prices. 
+  * _Payment details:_ invoice records; payment records; billing address; payment method; bank account number or credit card number; cardholder or accountholder name; card or account security details; card ‘valid from’ date; and card expiry date; BACS details; SWIFT details; IBAN details; payment amount; payment date; and records of cheques. 
+  * _Data relating to our Sites and Apps:_ device type; operating system; browser type; browser settings; IP address; language settings; dates and times of connecting to a Site; App usage statistics; App settings; dates and times of connecting to an App; location data, and other technical communications information (some of which may constitute Personal Data); username; password; security login details; usage data; aggregate statistical information. 
+  * _Employer details:_ where you interact with us in your capacity as an employee, the contact information of your employer (including name, address, telephone number and email address) to the extent relevant. 
+  * _Content and advertising data:_ records of your interactions with our online advertising and content, records of advertising and content displayed on pages or App screens displayed to you, and any interaction you may have had with such content or advertising (including mouse hover, mouse clicks, any forms you complete (including incomplete forms not submitted) and any touchscreen interactions). 
+  * _Views and opinions:_ any views and opinions that you choose to send to us, or publicly post about us on social media platforms. 
 
-(a) when you carry out transactions with us on or in relation to the Website or the Apps;
 
-(b) when you register an account with us on the Website or the Apps;
 
-(c) when you contact our customer service or sales people by email, telephone, or in person, to resolve any issues that you may be facing or with inquiries or requests;
+(E) Lawful basis for Processing Personal Data
 
-(d) when you subscribe to the services that we are providing on the Website or the Apps, or for our email notifications, and/or newsletters.
+** Summary – Lawful basis for Processing Personal Data **  
+---  
+We may Process your Personal Data where: you have given your prior, express consent; the Processing is necessary for a contract between you and us; the Processing is required by applicable law; the Processing is necessary to protect the vital interests of any individual; or where we have a valid legitimate interest in the Processing.   
+  
+In Processing your Personal Data in connection with the purposes set out in this Policy, we may rely on one or more of the following legal bases, depending on the circumstances:   
 
-(e) when you correspond with a real estate professional (such as a real estate agent or broker, mortgage lender or loan officer, property manager, investor, homebuilder, or others) via the Services;
 
-(f) when you complete other forms or transactions, such as a request for loan information or a rental housing and background check application;
+  * _Consent:_ We may Process your Personal Data where we have obtained your prior, express consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way); 
+  * _Contractual necessity:_ We may Process your Personal Data where the Processing is necessary in connection with any contract that you may enter into with us; 
+  * _Compliance with applicable law:_ We may Process your Personal Data where the Processing is required by applicable law; 
+  * _Vital interests:_ We may Process your Personal Data where the Processing is necessary to protect the vital interests of any individual; or 
+  * _Legitimate interests:_ We may Process your Personal Data where we have a legitimate interest in carrying out the Processing for the purpose of managing, operating or promoting our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms. 
 
-(g) you may also provide information about a third party through the Services, for example, if you share a real estate listing with a recipient via email or sms. Some information you provide through our Services is collected and processed by third parties (such as google analytics) on our behalf; and/or
 
-(h) when you use any of the Services offered on our Website.
 
-1.3 Information we obtain from others.
+(F) Sensitive Personal Data
 
-For the purpose as set out in Section 2 of this policy, you acknowledge that we will receive and you agree and consent for us to retain and process such information obtained from authorised third party(ies) as disclosed in this policy. In respect of this, you consent that the generation of such information by the authorised third party(ies) may be based on information in their database.
+** Summary – Sensitive Personal Data **  
+---  
+We do not seek to collect or otherwise Process your Sensitive Personal Data. Where we need to Process your Sensitive Personal Data for a legitimate purpose, we do so in accordance with applicable law.   
+  
+We do not seek to collect or otherwise Process your Sensitive Personal Data in the ordinary course of our business. Where it becomes necessary to process your Sensitive Personal Data for any reason, we rely on one of the following legal bases:   
 
-1.4 Cookies, Pixels, and other tracking mechanisms.
 
-We and our partners use various technologies to collect information automatically when you access and use our Services, including cookies, and other similar technologies. Cookies are bits of electronic information that can be transferred to your computer or other electronic device to uniquely identify your browser. When you use the Services, we and our partners may place one or more cookies on your computer or other electronic devices or use other technologies that provide similar functionality.
+  * _Compliance with applicable law:_ We may Process your Sensitive Personal Data where the Processing is required or permitted by applicable law (e.g., to comply with our diversity reporting obligations); 
+  * _Detection and prevention of crime:_ We may Process your Sensitive Personal Data where the Processing is necessary for the detection or prevention of crime (including the prevention of fraud); 
+  * _Establishment, exercise or defence of legal rights:_ We may Process your Sensitive Personal Data where the Processing is necessary for the establishment, exercise or defence of legal rights; or 
+  * _Consent:_ We may Process your Sensitive Personal Data where we have, in accordance with applicable law, obtained your prior, express consent prior to Processing your Sensitive Personal Data (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way). 
 
-(a) We and our partners may use cookies to connect your activity on the Services with other information we store about you in your account profile or your prior interactions on our Services to, for example, store your preferences. The use of cookies helps us improve the quality of our Services to you, by identifying information which is most interesting to you, tracking trends, measuring the effectiveness of advertising, or storing information you may want to retrieve on a regular basis, such as your shortlisted properties or preferred searches. At any time, you may adjust settings on your browser to refuse cookies according to the instructions related to your browser. However, if you choose to disable cookies, many of the free features of the Services may not operate properly.
 
-(b) Some of our pages may also include pixels, which are electronic files to count users who have visited that page, to track activity over time and across different websites, to determine users’ interactions with emails we send, to identify certain cookies on the computer or other electronic device accessing that page, or to collect other related information, and this information may be associated with your unique browser, device identifier, or IP address. We may, for example, implement a pixel on specific Services where you view a certain listing so that we can track whether the listing is of relevance to you while offering recommendations. Through these pixels and cookies we collect information about your use of our Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
 
-(c) We also collect information about the computer or mobile device you use to access our Services, such as the hardware model, operating system and version, unique device identifiers, mobile network information, and browsing behavior.
+(G) Purposes for which we may Process your Personal Data
 
-(d) We also allow certain third parties to collect information about your online activities through cookies and other technologies when you use the Website or the Apps. These third parties include (a) business partners, who collect information when you view or interact with one of their advertisements on the Website or the Apps, and (b) advertising networks, who collect information about your interests when you view or interact with one of the advertisements they place on many different web sites on the Internet. The information gathered by these third parties are non-personally identifiable information which is used to make predictions about your characteristics, interests or preferences and to display advertisements on the Website, the Apps, and across the Internet which are tailored to your interests
+** Summary – Purposes for which we may Process your Personal Data **  
+---  
+We may Process your Personal Data for the following purposes: providing services to you; operating our Sites and Apps; communicating with you; managing our IT systems; health and safety; financial management; conducting surveys; ensuring the security of our premises and systems; conducting investigations where necessary; compliance with applicable law; and improving our Sites, Apps, and services.   
+  
+The purposes for which we may Process Personal Data, subject to applicable law, include:   
 
-(e) Many of the third parties we allow to collect information on the Website and the Apps are members of the Network Advertising Initiative, which offers a single location to opt out of advertising targeting from member companies. To opt out, please follow the link: <http://www.networkadvertising.org/choices/> and follow the instructions on the site. Another good way of opting out is through the following link: <http://www.aboutads.info/choices/>. Lastly, you can manage the type of cookies that are allowed through your browser settings, including completely blocking all cookies if you so wish. For information about how to manage cookies on your browser, please see the help section of the browser you are using.
 
-1.5 Mobile device and mobile browser information.
+  * _Provision of services to you:_ providing our Sites, Apps, and services to you; communicating with you in relation to those services, and providing you with promotional items at your request or in connection with those services or similar services. 
+  * _Our Sites and Apps:_ operating and managing our Sites and our Apps; providing content to you; displaying advertising and other information to you; communicating and interacting with you via our Sites and our Apps; identifying issues with our Sites and Apps and planning improvements to or creating new Sites and Apps; and notifying you of changes to any of our Sites, our Apps, or our services. 
+  * _Communications:_ communicating with you via any means (including via email, telephone, text message, social media, post or in person) news items and other information in which you may be interested, subject to ensuring that such communications are provided to you in compliance with applicable law; maintaining and updating your contact information where appropriate; and obtaining your prior, opt-in consent where required. 
+  * _Communications and IT operations:_ management of our communications systems; operation of IT security systems; and IT security audits. 
+  * _Health and safety:_ health and safety assessments and record keeping; and compliance with related legal obligations. 
+  * _Financial management:_ sales; finance; corporate audit; and vendor management. 
+  * _Surveys:_ engaging with you for the purposes of obtaining your views on our services. 
+  * _Security:_ physical security of our premises (including records of visits to our premises; and CCTV recordings); and electronic security (including login records and access details). 
+  * _Investigations:_ detecting, investigating and preventing breaches of policy, and criminal offences, in accordance with applicable law. 
+  * _Legal proceedings:_ establishing, exercising and defending legal rights. 
+  * _Legal compliance:_ compliance with our legal and regulatory obligations under applicable law. 
+  * _Improving our Sites, Apps, services:_ identifying issues with our Sites, our Apps, or our services; planning improvements to our Sites, our Apps, or our services; and creating new Sites, Apps, or services. 
 
-You may adjust settings on your mobile device and mobile browser regarding cookies and sharing of certain information, such as your mobile device model or the language your mobile device uses, by adjusting the privacy and security settings on your mobile device. Please refer to the instructions provided by your mobile service provider or mobile device manufacturer.
 
-1.6 Location Data.
 
-If you enable location services on your mobile device, PropertyGuru Group with your permission may collect the location of your device, which we use to provide you with location-based information and advertising. If you wish to deactivate this feature, you can disable location services on your mobile device.
+(H) Disclosure of Personal Data to third parties
 
-1.7 Email Management.
+** Summary – Disclosure of Personal Data to third parties **  
+---  
+We may disclose your Personal Data to: legal and regulatory authorities; our external advisors; our Processors; any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on our Sites or our Apps.   
+  
+We may disclose your Personal Data to other entities within the Company group, for legitimate business purposes (including operating our Sites and our Apps, and providing services to you), in accordance with applicable law. In addition, we may disclose your Personal Data to:   
 
-You may receive email from PropertyGuru Group for a variety of reasons - for example, if you took an action through the Services, you signed up for a regular report, or you posted your home for sale or rent and a buyer sent you a message. If you have an account with PropertyGuru Group, you may edit your preferences through your account settings. Also, you can manage your receipt of some types of communication by following the instructions included in the email we send to you. Please note that, even if you unsubscribe from certain email correspondences, we may still need to email you with important transactional or administrative information.
 
-**2\. PURPOSES OF USE**
+  * legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation; 
+  * outside professional advisors (such as accountants, auditors, or lawyers), subject to binding contractual obligations of confidentiality; 
+  * third party Processors (such as payment services providers; data centers; etc.), located anywhere in the world, subject to the requirements noted below in this Section (H); 
+  * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defence of legal rights; 
+  * any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security; 
+  * any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); and 
+  * any relevant third party provider, where our Sites and our Apps use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, your Personal Data may be shared with the relevant third party provider. We recommend that you review that third party’s privacy policy before interacting with its advertising, plugins or content. 
 
-2.1 The personal data which you provide may be used and processed by us and/or any parties as mentioned in Section 4 of this policy without any reference back to you whatsoever in the aggregate or individually and may be combined with other information, the scope of which may include, but not limited to the following:
+  
+If we engage a third-party Processor to Process your Personal Data, the Processor will be subject to binding contractual obligations to: (i) only Process the Personal Data in accordance with our prior written instructions; and (ii) use measures to protect the confidentiality and security of the Personal Data; together with any additional requirements under applicable law. 
 
-(a) administering, managing or operating the Website and the Apps;
+(I) International transfer of Personal Data
 
-(b) to verify your identity, update our records and generally maintain your account with us;
+** Summary – International transfer of Personal Data **  
+---  
+We may transfer your Personal Data to recipients in other countries. Where we transfer Personal Data from the EEA to a recipient outside the EEA that is not in an Adequate Jurisdiction, we do so on the basis of Standard Contractual Clauses.   
+  
+Because of the international nature of our business, we may need to transfer your Personal Data within the Company group, and to third parties as noted in Section (H) above, in connection with the purposes set out in this Policy. For this reason, we may transfer your Personal Data to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.   
+Where we transfer your Personal Data from the EEA to recipients located outside the EEA who are not in Adequate Jurisdictions, we do so on the basis of Standard Contractual Clauses. You may request a copy of our Standard Contractual Clauses using the contact details provided in Section (R) below.   
+Please note that when you transfer any Personal Data directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Data. We will nevertheless Process your Personal Data, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy. 
 
-(c) improving your browsing experience by personalising the Website and the Apps;
+(J) Data Security
 
-(d) enabling your use of the services available on the Website and the Apps;
+** Summary – Data security **  
+---  
+We implement appropriate technical and organisational security measures to protect your Personal Data. Please ensure that any Personal Data that you send to us is sent securely.   
+  
+We have implemented appropriate technical and organisational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law.   
+Because the internet is an open system, the transmission of information via the internet is not completely secure. Although we will implement all reasonable measures to protect your personal data, we cannot guarantee the security of your data transmitted to us using the internet – any such transmission is at your own risk and you are responsible for ensuring that any Personal Data that you send to us are sent securely. 
 
-(e) providing to you the products and services that you have specifically requested;
+(K) Data accuracy
 
-(f) responding to your enquiries or requests pursuant to your emails and/or submission of form(s) on the Website or the Apps;
+** Summary – Data accuracy **  
+---  
+We take every reasonable step to ensure that your Personal Data are kept accurate and up-to-date and are erased or rectified if we become aware of inaccuracies.   
+  
+We take every reasonable step to ensure that:   
 
-(g) responding to and taking follow-up action on complaints regarding the use of the Website, the Apps or any product or service provided by us;
 
-(h) sending you general (non-marketing) commercial communications;
+  * your Personal Data that we Process are accurate and, where necessary, kept up to date; and
+  * any of your Personal Data that we Process that you inform us is inaccurate (having regard to the purposes for which they are Processed) are erased or rectified. 
 
-(i) performing office and operational administrative matters;
 
-(j) providing third parties with statistical information about our users. Such statistical information may be used to personalise advertising on the Website or the Apps, but cannot be used to identify any individual user. For details on how to opt out of personalised advertising, please refer to section 8 of this Privacy Policy;
 
-(k) providing our affiliates and/or business partners or persons for any reasons whatsoever;
+(L) Data minimisation
 
-(l) Analyze your content and other information (including instant messages, photos, attachments, and other communications);
+** Summary – Data minimisation **  
+---  
+We take every reasonable step to limit the volume of your Personal Data that we Process to what is necessary.   
+  
+We take every reasonable step to ensure that your Personal Data that we Process are limited to the Personal Data reasonably necessary in connection with the purposes set out in this Policy or as required to provide you services or access to our Apps and Sites. 
 
-(m) conduct research and support innovation;
+(M) Data retention
 
-(n) create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences. These analytics and reports may include aggregate or pseudonymized information;
+** Summary – Data retention **  
+---  
+We take every reasonable step to ensure that your Personal Data are only retained for as long as they are needed.   
+  
+We take every reasonable step to ensure that your Personal Data are only Processed for the minimum period necessary for the purposes set out in this Policy.   
+The criteria for determining the duration for which we will keep your Personal Data are as follows: we will retain copies of your Personal Data in a form that permits identification only for as long as is necessary in connection with the purposes set out in this Policy, unless applicable law requires a longer retention period. In particular, we may retain your Personal Data for the duration of any period necessary to establish, exercise or defend any legal rights. 
+
+(N) Your legal rights
 
-(o) provide location-based Services, advertising, search results, and other content consistent with your location settings;
+** Summary – Your legal rights **  
+---  
+Under applicable law, you may have a number of rights, including: the right not to provide your Personal Data to us; the right of access to your Personal Data; the right to request rectification of inaccuracies; the right to request the erasure, or restriction of Processing, of your Personal Data; the right to object to the Processing of your Personal Data; the right to have your Personal Data transferred to another Controller; the right to withdraw consent; and the right to lodge complaints with Data Protection Authorities. We may require proof of your identity before we can give effect to these rights.   
+  
+Subject to applicable law, you may have a number of rights regarding the Processing of your Relevant Personal Data, including:   
+
+
+  * the right not to provide your Personal Data to us (however, please note that we may be unable to provide you with the full benefit of our Sites, our Apps, or our services, if you do not provide us with your Personal Data – e.g., we may not be able to process your orders without the necessary details); 
+  * the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data; 
+  * the right to request rectification of any inaccuracies in your Relevant Personal Data;
+  * the right to request, on legitimate grounds:
+    * erasure of your Relevant Personal Data; or
+    * restriction of Processing of your Relevant Personal Data;
+  * the right to object, on legitimate grounds, to the Processing of your Relevant Personal Data by us or on our behalf;
+  * the right to have certain Relevant Personal Data transferred to another Controller, in a structured, commonly used and machine-readable format, to the extent applicable; 
+  * where we Process your Relevant Personal Data on the basis of your consent, the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Data in reliance upon any other available legal bases); and 
+  * the right to lodge complaints with a Data Protection Authority regarding the Processing of your Relevant Personal Data by us or on our behalf. 
 
-(p) detect and defend against fraudulent, abusive, or unlawful activity;
+  
+This does not affect your statutory rights.   
+To exercise one or more of these rights, or to ask a question about these rights or any other provision of this Policy, or about our Processing of your Personal Data, please use the contact details provided in Section (R) below. Please note that: 
+
+  * we may require proof of your identity before we can give effect to these rights; and
+  * where your request requires the establishment of additional facts (e.g., a determination of whether any Processing is non-compliant with applicable law) we will investigate your request reasonably promptly, before deciding what action to take. 
+
+
+
+(O) Cookies and similar technologies (Cookie Policy)
+
+** Summary – Cookies and similar technologies **  
+---  
+We may Process your Personal Data by placing or reading Cookies and similar technologies.   
+  
+**What is a cookie?**   
+A cookie is a piece of data stored on your computer and tied to information about you. By using and browsing our Sites, you consent to the use by us and third parties of cookies and other technologies in accordance with this Policy.   
+**What are the different types of cookies?**   
+First party cookies are our own cookies set by our Site, controlled by us, and used to provide information about the usage of our Site.   
+Third party cookies are cookies from any other domain. Some of our business partners (for example, third-party advertisers) may use cookies on the Site, in emails or in our advertisements on other websites to allow them to deliver the services they are providing. In order to create a user-friendly experience, some of our third-party promotions and advertisements are designed to automatically transmit users' information onto the third party's landing page when you choose to "click" upon a third party's advertisement or promotion. We do not control these third parties or their use of cookies. As such, this Policy covers the use of cookies by the Company and does not cover the use of cookies by any third-party advertisers. Please check the websites of those third parties for details on how they use cookies.   
+**How long do cookies stay on your computer?**   
+Two types of cookies may be used on the Site, session cookies and persistent cookies.   
+Session cookies are temporary cookies that remain in your browser or device until you leave the site; they are deleted from your device once you leave the Service.   
+Persistent cookies are small files stored on your hard drive until you delete them or until they reach their expiry date. These may, for example, be used to remember your preferences when you use the Site, recognize you on your return, and enhance your experience on the Site (see more about profiles below). Use of a persistent cookie is not linked to any personally identifiable information while on the Site except if you choose to store your user names and PINs so that you do not have to enter them each time you access your accounts. Then, a persistent cookie will be stored on your computer, which is linked to your account information. If you reject the persistent cookie, you may still use the Site but you will be limited in some areas of it.   
+**How do we use cookies?**   
+We may use cookies for the following purposes (either on our own or by using third party services):   
+
+
+  * Authentication and Preferences: Cookies can be used to recognize you when you visit our Sites, remember your preferences (such as languages and communication preferences), and customize your experience with using our Sites and Services. 
+  * Security: Cookies may enable and support our security features and to help us detect malicious activity. 
+  * Advertising: Cookies allow us to bring you advertising both on and off our Sites. We may also use a cookie to learn whether someone who saw an ad later visited and took an action on the advertiser's site. Similarly, our partners may use a cookie to determine whether we've shown an ad and how it performed, or provide us with information about how you interact with ads. We may also work with a partner to show you an ad on or off our Sites, such as after you have visited a partner's site or application. 
+  * Analytics: We use cookies to understand, improve, and research products, features, and services, including when you access our Sites from other websites, applications, or devices such as your mobile device. 
+  * Geo-Location Information: Some devices allow applications to access real-time location-based information (for example, GPS). Some photos or other contact you place within our Service may contain recorded location information. We may use this information to optimize your experience. Also, some of the information we collect from a device, for example IP address, can sometimes be used to approximate a device’s location. 
+  * Flash Cookies: We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. Flash cookies are stored on your device, but they are managed through an interface that is different from the one provided by your web browser. This means that it is not possible to manage Flash cookies at the browser level in the same way you would manage other types of cookies. Instead, you can access your Flash management tools from Adobe’s website directly. 
+
+What other technologies so we use?   
+
+
+  * Log Files: Like most websites, our servers use log files to analyze trends, administer our sites, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. The log file information consists of IP addresses, browser type, browser language, referring URL, platform type, etc., and is not linked to identifiable personal information. 
+  * Clear Gifs: Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and we may use them to track the online movements of our users. Clear gifs are invisible on the page and are much smaller than cookies, about the size of the period at the end of this sentence. We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+  * Profile: We may store information that we collect to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information may be tied to users' personally identifiable information to improve the content of the Site for users, improve our Services and provide new services that are likely to be of interest to users and to direct pertinent product updates and marketing promotions to users if they have opted in to receive those promotions. We do not share personally identifiable elements of a user’s profile with other third parties. User profiles are shared in aggregate form only. 
+  * Do Not Track Response: Certain web browsers may allow you to enable a “do not track” option that sends signals to the websites you visit indicating that you do not want your online activities tracked. This is different from blocking cookies as browsers with the “do not track” option selected may still accept cookies. Right now, there is no industry standard for how companies should respond to “do not track” signals, although one may be adopted in the future. We do not respond to “do not track” signals at this time. If we do so in the future, we will modify this Privacy Policy accordingly. More information about “do not track” is available at www.allaboutdnt.org. 
+
+  
+**Can I Change My Cookie Preferences?**   
+Browser settings allow you to choose whether or not to accept cookies or limit certain cookies. Most browsers also provide functionality that lets you review and erase cookies. If you use our Sites without changing your browser settings, we will assume that you are happy to receive all cookies on our Sites. Please be aware that if cookies are disabled, not all features of the Site may operate as intended.   
+Your mobile operating system may let you opt out from having your information collected or used for interest-based advertising on mobile devices. You should refer to the instructions provided by your mobile device’s manufacturer, but this functionality is usually available in the “Settings” section of your device. You can also stop us from collecting information through our applications by uninstalling our applications.   
+For more information about these specialized cookies and other technologies, and to learn more about behavioral advertising or to opt out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://networkadvertising.org/optout_nonppii.asp>. 
+
+(P) Terms of Use
+
+** Summary – Terms of Use  **  
+---  
+The Terms and Conditions located on our website will govern all use of our Sites and our Apps.   
+  
+All use of our Sites, our Apps, or our services is subject to our Terms and Conditions. We recommend that you review our Terms and Conditions regularly, in order to review any changes we might make from time to time. 
+
+(Q) Direct marketing
+
+** Summary – Direct marketing  **  
+---  
+We may Process your Personal Data to contact you with information regarding services that may be of interest to you. You may unsubscribe for free at any time.   
+  
+We may Process your Personal Data to contact you via email, telephone, direct mail or other communication formats to provide you with information regarding services that may be of interest to you. If we provide services to you, we may send information to you regarding our services, upcoming promotions and other information that may be of interest to you, using the contact details that you have provided to us and always in compliance with applicable law.   
+You may unsubscribe from our promotional email list at any time by following the unsubscribe instructions included in every promotional email we send. We will not send you promotional emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any services you have requested or from additional lists you have signed up under. 
+
+(R) Contact details 
+
+** Summary – A  **  
+---  
+You may contact us at:   
+j2 Global Canada, Inc.   
+2 Gurdwara Road, 3rd Floor   
+Ottawa, Ontario   
+Canada   
+K2E 1A2   
+Email: cpo@j2global.com   
+  
+If you wish to be taken off our contact list for direct marketing, or if you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of Personal Data carried out by us, or on our behalf, please contact:   
+
+
+  * j2 Global Canada, Inc.   
+2 Gurdwara Road, 3rd Floor   
+Ottawa, Ontario   
+Canada   
+K2E 1A2 
+  * Email: [cpo@j2global.com](mailto:cpo@j2global.com)
+  * Campaigner Support: [support@campaigner.com](mailto:support@campaigner.com)
+  * SMTP Support: support@SMTP.com
+
+
+
+(S) Definitions
+
+  * **“App”** means any application made available by us (including where we make such applications available via third party stores or marketplaces, or by any other means). 
+  * **“Adequate Jurisdiction”** a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Data. 
+  * **“Cookie”** means a small file that is placed on your device when you visit a website (including our Sites). In this Policy, a reference to a “Cookie” includes analogous technologies such as web beacons and clear GIFs. 
+  * **“Controller”** means the entity that decides how and why Personal Data are Processed. In many jurisdictions, the Controller has primary responsibility for complying with applicable data protection laws. 
+  * **“Data Protection Authority”** means an independent public authority that is legally tasked with overseeing compliance with applicable data protection laws. 
+  * **“EEA”** means the European Economic Area. 
+  * **“Personal Data”** means information that is about any individual, or from which any individual is directly or indirectly identifiable, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that individual. 
+  * **“Process”** , **“Processing”** or **“Processed”** means anything that is done with any Personal Data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. 
+  * **“Processor”** means any person or entity that Processes Personal Data on behalf of the Controller (other than employees of the Controller). 
+  * **“Relevant Personal Data”** means Personal Data in respect of which we are the Controller. It expressly does not include Personal Data of which we are not the Controller. 
+  * **“Sensitive Personal Data”** means Personal Data about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, national identification number, or any other information that may be deemed to be sensitive under applicable law. 
+  * **“Standard Contractual Clauses”** means template transfer clauses adopted by the European Commission or adopted by a Data Protection Authority and approved by the European Commission. 
+  * **“Site”** means any website operated, or maintained, by us or on our behalf. 
 
-(q) data processing purposes;
 
-(r) provide third party(ies) with your personal data for the provision of Services to you;
-
-(s) profile your personal data to conduct survey, create targeted market campaign and product infographic; and/or
-
-(t) matching your personal data and/or information in relation to you for other purposes in connection with the provision or offering of products and services, whether by us or other third parties, including but not limited to:-
-
-(i) recommend properties to you;
-
-(ii) submit your personal data to partnering banks or developer and/or agent for loan or mortgage loan application on behalf of you;
-
-(iii) recommend financial products to you;
-
-(iv) share your personal data and/or information in relation to you with other financial institution, financial services providers and/or coaches to customise financial products or conduct workshops and/or courses.
-
-2.2 We may also be required to disclose your personal data to third parties for the following purposes:
-
-(a) to comply with any legal requirement;
-
-(b) to enforce or apply our Terms of Service <https://www.propertyguru.com.my/terms-of-service> and other agreements;
-
-(c) to protect our rights, property, and safety, and the rights, property and safety of the PropertyGuru Group, other users of the Website or the Apps, and others;
-
-(d) in connection with any legal proceedings or prospective legal proceedings; and
-
-(e) in connection with a business asset transaction (i.e. the purchase, sale, lease, merger or amalgamation or any other acquisition, disposal or financing of an organisation or a portion of an organisation or of any of the business or assets of an organisation) to which we are a party or a prospective party.
-
-2.1 We will disclose personal data you have provided to third parties for the purposes of direct marketing.
-
-2.2 You can withdraw your consent by contacting us, our contact details can be found at section 12 below.
-
-**3\. SECURITY**
-
-3.1 We will take reasonable technical and organizational precautions to prevent the loss, misuse, unauthorized or accidental access or disclosure, destruction or alteration of your personal data.
-
-3.2 While we shall store all the personal data you provide on secure servers in an encrypted format and strive to protect your personal data, you understand that the transmission of information via the Internet is not completely secure. As such, we cannot guarantee the security of your personal data transmitted to the Website or the Apps and any transmission is at your own risk.
-
-3.3 Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website or the Apps, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. We will NEVER ask you for your password other than when you log in to the Website or the Apps, as the case may be.
-
-3.4 We urge you to take steps to keep your personal information safe, such as choosing a strong password and keeping it private, as well as logging out of your user account, and closing your web browser when finished using our services on a shared or unsecured device.
-
-**4\. DISCLOSURE OF PERSONAL DATA**
-
-4.1 We will keep the personal data that you disclose confidential subject at all times to the privacy laws applicable to us. Nonetheless, you agree and consent to us that such personal data may be provided to the following categories of parties for the purposes set out in section 2 of this policy:-
-
-(a) any person to whom we are compelled or required to do so under law or in response to a legitimate instruction from a competent or government agency;
-
-(b) to any of PropertyGuru Group (which may be in or outside Malaysia);
-
-(c) to such parties as we or our affiliates may be required by legal process or pursuant to any other foreign or domestic legal, regulatory, stock exchange, clearing house or self-regulatory body obligation or request, or agreement entered into by any of them and any governmental authority, domestic or foreign, or between or amongst any two or more domestic or foreign governmental authorities or other authorities, including disclosure to courts, tribunals, legal, regulatory, tax and government authorities, stock exchanges, clearing houses and self regulatory bodies;
-
-(d) any parties authorized by you;
-
-(e) where applicable, third parties who provide related services or products in connection with our business such as insurance agencies/insurers;
-
-(f) government agencies, statutory authorities and industry regulators;
-
-(g) our external auditors, consultants, accountants, lawyers or other financial or professional advisers;
-
-(h) any credit bureau, credit reporting agencies and credit reference agencies and the relevant subscribers of the credit reporting agencies and credit reference agencies;
-
-(i) any liquidator, receiver, official assignee or any person appointed under applicable law or court order relating to bankruptcy, liquidation, winding up in respect of any individual or company; or
-
-(j) our sub-contractors or third party service or product providers as we may determine to be necessary or appropriate.
-
-**5\. WITHDRAWAL OF CONSENT**
-
-5.1 Where we have relied on your consent for the processing of your personal data, you have the right to withdraw consent to the processing of your personal data at any time to the extent that such withdrawal does not conflict with any of our legal obligations.
-
-5.2 Should you wish to withdraw your consent, please e-mail to us and our contact details can be found at section 12 below.
-
-5.3 Upon receiving your completed withdrawal consent and your identity as the subject of the personal data has been verified, we will process your request for withdrawal of consent, and will thereafter cease to process your personal data in the manner stated in your request. In the event we are unable to verify your identity as the subject of the personal data, we will contact you at the contact given to us in the form.
-
-5.4 Please be informed that in the event you withdraw your consent, we may not be able to continue to provide the Services to you and this may result in the termination of your existing relationship and/or agreement with us. In respect of this, our legal rights and remedies in such event are expressly reserved.
-
-**6\. UPDATE OF YOUR PERSONAL DATA**
-
-6.1 It is important that your personal data provided to is accurate, complete, not misleading and kept up-to date. As such, you shall update your personal data in the event you believe that your personal data in our possession is inaccurate, incomplete, misleading or out of date. We will not be responsible for relying on inaccurate, incomplete, misleading and out of date personal data if you fail to update us of the latest changes.
-
-6.2 You may access and update your personal data within our Services any time by accessing <https://www.propertyguru.com.my/user-profile>.
-
-**7\. INTERNATIONAL DATA TRANSFERS**
-
-7.1 Our facilities and servers may be located in other jurisdictions outside of Malaysia and pursuant to such circumstances, your personal data may temporarily be stored, processed or transferred outside of Malaysia between any of the countries in which we operate in order to enable us to use your personal data in accordance with this Privacy Policy and our Terms of Service <https://www.propertyguru.com.my/terms-of-service>. As such, you hereby expressly agree and consent to us for the transfer of your personal data outside of Malaysia for such purposes. Please note that these entities may be established in countries that might not offer a level of data protection that is equivalent to that offered in Malaysia under the laws of Malaysia.
-
-7.2 Notwithstanding section 7.1 above, we will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Privacy Policy.
-
-**8\. THIRD PARTY WEBSITES**
-
-8.1 The Website and the Apps may, from time to time, contain links to and from the websites of our partner networks and vendors. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-**9\. ACCESS AND CORRECTION**
-
-9.1 Our Data Protection officer is responsible for ensuring that requests for access to personal data and amendment of personal data are properly dealt with in accordance with the procedures specified herein. Please be informed that we may charge you the applicable fee for the handling and processing of your request for access to personal data.
-
-All requests for information or requests for the amendment of information held by us shall be made by completing our standard Request for Information/Amendment of Information form (PDF available here at <http://www.propertyguru.com.sg/customer-service/privacy/request-form>, and sending a copy of the duly completed form to us, our contact details can be found at section 12 below.
-
-9.2 Please note that we will only accept and act on requests that comply with this Privacy Policy. Any request that does not comply with the above will be rejected, and we will not take any action in relation to such rejected requests.
-
-9.3 We may refuse to disclose or amend any personal data for the reasons set out in the Personal Data Protection Act 2012. In the event we refuse to disclose or amend any personal data upon your request, we shall provide you the reasons of our refusal.
-
-9.4 As far as reasonably possible, we will respond to your request within ten (10) working days from the date of receipt of the request. If that is not possible, you will be so notified within ten (10) working days from the date of receipt of the request.
-
-**10\. RETENTION OF PERSONAL DATA**
-
-10.1 All personal data in our possession will be retained as long as necessary, required to satisfy legal regulatory and accounting requirements, as is relevant for the purposes for which it was collected or to protect our interests.
-
-10.2 We will exercise measures to cease to retain, anonymise your personal data or remove the means by which the personal data can be associated with you, as soon as it is reasonable to assume that the retention of personal data (i) is no longer required for the purpose (as informed to your in Section 2 above) for which the personal data is being collected; or (ii) it is no longer necessary for any legal or business purpose.
-
-10.3 For the avoidance of doubt, in the event you cease to use our Services on our Website or App, we may continue storing, using and/or disclosing your personal data in accordance with this Privacy Policy and our legal obligations.
-
-**11\. DISCLAIMER**
-
-11.1 We shall not be liable for any voluntary disclosure of personal data by you to other users in connection with the use of the Website or the Apps, as the case may be.
-
-11.2 We shall not be liable for any disclosure of personal data due to any reason whatsoever including but not limited to all attempted or actual acts of terrorist, acts of God or any circumstances beyond our control and/or in the absence of any gross negligence or wilful misconduct on our part.
-
-**12\. CONTACT US**
-
-12.1 For any enquiries or request, please do not hesitate to contact our privacy officer:-
-
-(a) by way of e-mail at [dpo@propertyguru.com.sg](mailto:dpo@propertyguru.com.sg);
-
-(b) by way of post at:-
-
-**PropertyGuru International (Malaysia) Sdn. Bhd.**  
-Unit E-11-2&3, Menara Suezcap 2,  
-KL Gateway, No. 2, Jalan Kerinchi,  
-Gerbang Kerinchi Lestari,  
-59200 Kuala Lumpur  
-Attention: Privacy Officer; and/or
-
-(c) by way of telephone call at (+ 60) 3 7932 7555.
-
-**13\. CONFLICT**
-
-13.1 In the event of conflict between the English and Bahasa Melayu versions of the Privacy Policy, the English version of the Privacy Policy shall prevail.
