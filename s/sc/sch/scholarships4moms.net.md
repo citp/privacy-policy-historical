@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913212334id_/http%3A//scholarships4moms.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726135810id_/http%3A//scholarships4moms.net/privacy) for the most accurate reproduction.*
 
 # Scholarships4Moms // Privacy Statement
 
-scholarships4moms.net ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by entering and using this site, you are agreeing and accepting this policy.
+Scholarships4moms.net ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by entering and using this site, you are agreeing and accepting this policy.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -16,16 +16,16 @@ The site only collects information that is volunteered during the entry process 
 
 Scholarships4Moms reserves the right to use this information provided by you for:
 
-  1. The specific purpose for which such information was provided (including matching entrants with the education providers and other advertisers on our site);
-  2. Personal, demographic and profile data to improve our site;
-  3. Our marketing and promotional purposes;
-  4. As disclosed at the time such information is provided; and/or as disclosed in this Policy.
+  * The specific purpose for which such information was provided (including matching entrants with the education providers and other advertisers on our site);
+  * Personal, demographic and profile data to improve our site;
+  * Our marketing and promotional purposes;
+  * As disclosed at the time such information is provided; and/or as disclosed in this Policy.
 
 
 
 Although, it is important to note that Scholarships4Moms reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to email us at: [Info@scholarships4moms.net](mailto:info@scholarships4moms.net).
 
-scholarships4moms.net may also share your information with its service providers such as an email service provider and chat provider, and with your permission, any other entities that we believe are able to provide you with special opportunities and offers. _These companies are authorized to use your personal information only as necessary to provide these services to us._
+By opting into the TCPA language on our website, you are agreeing to receive telephone marketing from one of our third-party education related advertisers that is listed in the TCPA opt-in language. By submitting your information at the Website you agree to receive e-mails from our third party advertisers. We may share our user information and/or join together with other businesses to bring selected opportunities to our users. We are able to offer third party services to you, in part, based on your willingness to be reached by our third-party advertisers. Scholarships4moms.net may also share your information with its service providers such as an email service provider and chat provider, and with your permission, any other entities that we believe are able to provide you with special opportunities and offers. _These companies are authorized to use your personal information only as necessary to provide these services to us._
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. 
 
@@ -37,8 +37,8 @@ We may receive information about you from other sources, including publicly avai
 
 Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include: 
 
-  1. Address information about you from third party sources to verify your address. so we can properly ship your order to you and to prevent fraud.
-  2. Purchased marketing data about our customers from third parties that is combined with information we already have about you, to create more tailored advertising and products.
+  * Address information about you from third party sources to verify your address. so we can properly ship your order to you and to prevent fraud.
+  * Purchased marketing data about our customers from third parties that is combined with information we already have about you, to create more tailored advertising and products.
 
 
 
@@ -92,7 +92,7 @@ The information and services provided by us are not intended for children under 
 
 ### Anti-Spam Policy and Your Opt-Out Rights:
 
-scholarships4moms.net has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email). scholarships4moms.net reserves the right to send its subscribers entry confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails. Please note you cannot opt-out of service related emails. However, if you have received a scholarships4moms.net promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global [Unsubscribe Page](https://web.archive.org/unsubscribe).
+Scholarships4moms.net has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email). Scholarships4moms.net reserves the right to send its subscribers entry confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails. Please note you cannot opt-out of service related emails. However, if you have received a scholarships4moms.net promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global [Unsubscribe Page](https://web.archive.org/unsubscribe).
 
 ### Help scholarships4moms.net Eliminate Spam
 
@@ -118,14 +118,9 @@ We will retain your information for as long as your account is active or as need
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective: Aug 24, 2018
+Effective: August 24, 2018
 
 ### Contact Information
 
 Email us at: [Info@scholarships4moms.net](mailto:info@scholarships4moms.net)  
 Or write to us at: Free College Scholarships LLC, 4104 24th St. Suite 947, San Francisco, CA 94114
-
-[Enter Now](https://web.archive.org/scholarship-application-for-moms)
-
-Balancing life, family, and your career can be overwhelming.  
-Give yourself the tools you need and go back to school and take control of your future. 
