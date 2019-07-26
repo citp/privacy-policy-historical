@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostwaldo.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602022348id_/http%3A//lostwaldo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostwaldo.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726052305id_/http%3A//lostwaldo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LostWaldo
 
