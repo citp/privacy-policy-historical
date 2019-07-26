@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visible.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520182027id_/https%3A//www.visible.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visible.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726074002id_/https%3A//www.visible.com/legal/privacy) for the most accurate reproduction.*
 
-# Visible | Privacy Policy
+# Privacy Policy | Visible
 
 #### Effective Date: April 23, 2018
 
