@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtualizor.com privacy policy that was archived on 2019-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624204750id_/https%3A//www.softaculous.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtualizor.com privacy policy that was archived on 2019-07-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190726221417id_/https%3A//www.softaculous.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -289,8 +289,89 @@
 		</tbody></table>
 	
 	</div>
-	<br><br>
-<section id="footer">
+	<br><br><section id="footer"><style>
+		.grecaptcha-badge{visibility:hidden;}
+	</style>
+	<script>
+		function email_subscribe(){
+			$('#subscribe_modal').modal();
+			$_("subscription_success").innerHTML = 'Subscribing you to the mailing list <img src="https://www.softaculous.com/images//load.png" alt="Subscribing" width="30">';
+			
+			$.ajax({
+				dataType: "script",
+				cache: true,
+				url: "https://www.google.com/recaptcha/api.js?render=6LfLpqwUAAAAAGPVKvtw5Nz-xz67W2lWjFKAnjFM",
+				success: function(){
+					grecaptcha.ready(function() {
+					  grecaptcha.execute("6LfLpqwUAAAAAGPVKvtw5Nz-xz67W2lWjFKAnjFM").then(function(token) {
+						
+						var email = $('#subscribe_email').val();
+						
+						$.ajax({
+							type: "POST",
+							data: {
+								email : email,
+								recaptcha_token : token
+							},
+							url: "https://www.softaculous.com/subscribe_request",
+							dataType: "json",
+							// Checking for success
+							success: function(data){
+								//alert(data);
+								
+								if("error" in data && data["error"]){
+									$("#subscription_success").html(data["error"].join("\n"));
+								}else{
+									$("#subscription_success").html("Congratulations! A subscription link has been emailed to you. Please use it to verify your email and enable the subscription.");
+								}
+							},
+							error: function(data) {
+								alert("Oops ... There was some error!");
+								$("#subscribe_modal").modal("hide");
+							}
+						});
+					  });
+					});
+				}
+			});
+		}
+	</script>
+					
+	<!-- Newsletter -->
+	<div class="container">
+		<div class="col-md-6 col-md-offset-3 text-center" style="padding-bottom:30px;">
+			<h2>Subscribe to our newsletter here</h2>
+			<br>
+			<form class="form-horizontal" action="" method="POST">
+				<div class="row" style="padding-bottom:10px;">
+					<div class="col-md-9">
+						<input type="email" name="email" id="subscribe_email" class="form-control" placeholder="email@example.com">
+					</div>
+					<div class="col-md-3">
+						<input type="button" name="subscribe" class="form-control btn btn-primary" value="Subscribe" onclick="email_subscribe();">
+					</div>
+				</div>
+			</form>
+			<p><b>Note :</b> If a Softaculous account does not exist it will be created</p>
+		</div>
+	</div>
+	
+	<div class="modal fade" tabindex="-1" role="dialog" id="subscribe_modal" style="color:#111;">
+		<div class="modal-dialog modal-md" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<b class="modal-title">Newsletter Subscription</b>
+					<a href="js" class="close" data-dismiss="modal" style="color:black; float:right; font-size: 14px">×</a>
+				</div>
+				<div class="modal-body" id="subscription_success">
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn--secondary-color btn--button" data-dismiss="modal" style="padding:6px 15px;">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Newsletter -->
 	<div class="container">
 		<div class="col-md-3 col-sm-3 col-lg-3">
 			<h5>links</h5>
@@ -388,7 +469,7 @@
 			
 		<div class="col-md-3 col-sm-3 col-lg-3">
 			<h5>News Feed</h5>
-			<ul><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15377" style="text-decoration:none">Webuzo 2.7.6 Launched</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15355" style="text-decoration:none">Softaculous 5.2.3 Launched</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15203" style="text-decoration:none">wpCentral</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15188" style="text-decoration:none">wpCentral - Manage all your WordPress Websites</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15179" style="text-decoration:none">SitePad 1.1.4 Launched in Stable branch</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15177" style="text-decoration:none">Softaculous 5.2.2 Launched in Stable branch</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15167" style="text-decoration:none">SitePad 1.1.3 Launched in Stable branch</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15164" style="text-decoration:none">Softaculous 5.2.1 Launched in Stable branch</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15163" style="text-decoration:none">Softaculous 5.2.0 Launched in Stable branch</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15147" style="text-decoration:none">Softaculous 5.1.9 Launched in Stable branch</a><br></li></ul>
+			<ul><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15503" style="text-decoration:none">Softaculous 5.2.6 Released</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15464" style="text-decoration:none">Virtualizor 3.0.0.3 Launched (Patch 3) (Release Branch)</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15440" style="text-decoration:none">Virtualizor 3.0.0.0 Launched (Stable Branch)</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15418" style="text-decoration:none">Virtualizor 3.0.0.0 Launched (Release Branch)</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15407" style="text-decoration:none">Softaculous 5.2.5 Launched</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15399" style="text-decoration:none">Softaculous 5.2.4 Launched</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15385" style="text-decoration:none">Webuzo 2.7.7 Launched</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15377" style="text-decoration:none">Webuzo 2.7.6 Launched</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15355" style="text-decoration:none">Softaculous 5.2.3 Launched</a><br></li><li><a href="http://www.softaculous.com/board/index.php?fid=1&amp;tid=15203" style="text-decoration:none">wpCentral</a><br></li></ul>
 		</div>
 	</div>
 	<div class="container">
