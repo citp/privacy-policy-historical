@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask.audio privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401041938id_/https%3A//ask.audio/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.audio privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726143940id_/https%3A//ask.audio/privacy-policy) for the most accurate reproduction.*
 
 # Ask.Audio
 
