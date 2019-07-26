@@ -1,48 +1,233 @@
-> *The following text is extracted and transformed from the free-hardcore.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209174122id_/https%3A//www.kink.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-hardcore.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726231255id_/https%3A//kink.zendesk.com/hc/en-us/articles/360004660374-Kink-com-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Kink.com Privacy Policy – Kink.com
 
 Effective Date: January 13, 2005  
-Last Updated: January 27, 2012
+Last Updated: April 17th, 2019
 
-  1. Preamble and General Principles 
-    * The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. If you do not agree with our information practices, please do not access or use our Site. By accessing and using our Site, you signify your assent to this Privacy Policy.
-    * This Privacy Policy describes how Cybernet Entertainment LLC (d/b/a/ Kink.com, cnemedia.com and C.E. LLC), and all of its properties operated under these names, hereinafter known as "CyberNet," collects information from all end-users of CyberNet's Internet services (the "Services") - those who access some of our Services but do not have accounts ("Visitors") as well as those who pay fees to gain access to the Service ("Members") - what we do with the information we collect, and the choices Visitors and Members ("Users") have concerning the collection and use of such information. CyberNet requests that you read this Privacy Policy carefully.
-  2. Revisions to this Policy 
-    * CyberNet reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. The user should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on the user's browser. The user should note the date of last revision to this Policy, which appears at the top of this Policy. If the "last modified" date remains unchanged after the user has clicked the "refresh" button on his/her browser, the user may presume that no changes have been made since the last reading of the policy. A changed "last modified" date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
-  3. Personal Information CyberNet Collects and How It Is Used 
-    * CyberNet collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected when we believe that such disclosure is required by law.
-    * Registration: Members are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is collected by our credit card processors, and is not shared with third parties, unless specifically stated otherwise or in special circumstances.
-    * Online Shopping 
-      1. At some of our Web sites, you can purchase products and services or register to receive materials. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. CyberNet has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so.
-      2. If you order products or services directly from CyberNet, we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-    * Online Advertisements: CyberNet displays online advertisements. We are not affiliated with these third-party websites and are not responsible for their use of information.
-    * Responses to Email Inquiries: When Visitors or Members send email inquiries to CyberNet's websites, the return email address is used to answer the email inquiry we receive. CyberNet does not use the return email address for any other purpose and does not share the return email address with any third party.
-    * Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
-    * Other Internet Data: CyberNet also collects IP addresses, referral URLs, browser preferences, the user's registration forms, surveys, and communications transmitted through site applications. This information is used internally to track how users come to be referred to our Sites for the purpose of compensating our affiliates, advertisers, and other marketing entities. This information may be disclosed to third-parties. If we choose to disclose information to third-parties, this information shall consist of non-specific information regarding site traffic and statistics. CyberNet never discloses any customer-specific information to third parties unless it is reasonable to believe that doing so is required by law, a binding contract, a Court Order, or other state, local, or administrative regulation.
-    * Special Cases: It is CyberNet's policy not to use or share the personal information about Visitors or Members in ways unrelated to those described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, CyberNet may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: 
-      1. To satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information;
-      2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies;
-      3. To operate the Services properly;
-      4. To protect CyberNet and our Members;
-      5. We will cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include compliance with discovery requests, subpoenas, court orders, and writs.
-    * "Cookies" and How CyberNet Uses Them: A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. CyberNet may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. We may use a cookie to save your settings and to provide customizable and personalized services to you. These cookies do not enable third parties to access any of your customer information. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
-    * Company Email: CyberNet only sends promotional email to people who indicate that they want to receive email. CyberNet does not and will never share member or user emails with other companies or entities. Members may indicate that they would like to receive emails during the account reguistration process or by logging into account settings. For members and users who indicate that they want to receive emails, the email address will be stored in our database and used periodically to send you news and promotions about our services. You can be removed from the list by following the link contained in the email instructing you on how to unsubscribe, or by logging into one of our sites and clicking on the 'account' link on the very top navigation bar on the website. The only way for a user's email address to be added to our email list is for the user to provide this information to us and then affirmatively take a step to notify us that you wish to be added to the email list, either explicitly, or by acquiescing to the conditions of an offer. Every email we send you will have a link contained therein which will direct you to a site where you can unsubscribe. These unsubscribe links, when clicked, will automatically remove your email address from our database without any additional action on your part. CyberNet takes all reasonable steps in order to adhere to this policy, but CyberNet is not responsible for occasional technical malfunctions, which may result in additional unwanted emails being sent to you. Should this occur, you are instructed to direct an inquiry to CyberNet's Customer Service email, which is [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) CyberNet reserves the right to email you at any time regarding your account, or about any changes or problems with our services, regardless of whether you have opted out of our email lists.
+This Privacy Policy sets out how we, Cybernet Entertainment LLC (d/b/a/ Kink, Kink.com and C.E. LLC), collect, store and use information about you when you use or interact with our website, Kink (“the website”) and where we otherwise obtain or collect information about you.
 
-As a service to our users we sometimes provide links to various third party web sites in our email communications. We are neither responsible for the content on nor for the information collection practices of such web sites, nor do we control the privacy policies of such web sites. Their policies may be substantially different in this regard from CyberNet.
+**Summary**
 
-At times, CyberNet may enter into co branding arrangements with other companies, and if so, an opt-in or opt-out question may be present to allow email contact from these companies as well. Their opt-in/out features are specific to each organization, but you should not receive email from these organizations unless you have indicated that it is acceptable. Before consenting to receive email from third parties, you should read their privacy policy and terms of use, if applicable, to make sure you are comfortable dealing with that company. As you can understand, CyberNet can not make commitments on behalf of other companies. All email from CyberNet partners who gain your permission to send you commercial email, will include an opportunity to opt out of future communications.
+We collect information about you when you:
 
-  4. Our Commitment to Children's Protection 
-    * Our sites are designed for adults, but not for use by anyone under the age of 18. In light of that fact, the Children's Online Privacy Protection Act of 1998 is not applicable to this site.
-    * We have no Web pages designed for younger users. We make every effort to ensure that our Web sites contain adequate warnings to make their content obvious and to warn users under the age of 18 that they are not welcome to view our Web sites, we believe that there is no substitute for proper parental supervision of their children's internet use. Nevertheless, we will take any steps possible to discourage those under the age of 18 from visiting our Web sites. For further information about tips, tools, age-appropriate, or kid-friendly Web sites and how to report online trouble, please visit www.getnetwise.org.
-  5. Public Forums and External Sites 
-    * Please remember that any information you may disclose in our Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-    * The Site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our Site they should read the privacy statements of each and every site that collects personally identifiable information.
-    * If you choose to subscribe to one of CyberNet's websites as a "Member," your name, email address, mailing address, credit card information, and IP address are stored by our billing company. This site is an external entity, and once this information is transmitted to them we are under no obligation to police their use of the information, and take no steps to do so. All of the aforementioned information, with the exception of your credit card information, is also stored on our servers.
-  6. CyberNet's Commitment to Data Security 
-    * Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
-  7. Where to Direct Questions about CyberNet's Privacy Policy 
-    * If you have any questions about this Privacy Policy or the practices described herein, you may contact our Customer Service Department at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * Use the website
+  * Create an account
+  * Make purchases
+  * Subscribe to our emails
+  * Communicate with us
 
 
+
+We also collect information, such as usage statistics, by using cookies, server logs, and similar technologies.
+
+## Information You Provide to Us
+
+We collect information that you provide directly to us. For example, we collect information that you provide when you create an account, choose a viewing filter, rate or comment on content, add items to your Favorites, communicate with us (via email, a contact form, postal mail, or otherwise), or make purchases on the website.  
+
+**Account Data**
+
+|  | 
+
+In order to use certain features (like view trailers or make a purchase), you need to create a user account. When you create or update your account, we collect and store the data you provide, like your email address, password, and username, and assign you a unique identifying number (“Account Data”).  
+  
+---|---|---  
+  
+**Ratings, Comments and Favorites**
+
+|  | 
+
+When you rate a piece of content, make a comment on a piece of content or add content to your favorites, we record that information. Comments are publicly viewable to others.   
+  
+**Payment Data**
+
+|  | 
+
+If you make purchases, we collect data as necessary to process your order. This includes the last 4 digits and type of credit card used.
+
+In order to process your payment we use third party payment processors, including RocketGate. Your payment will be processed by RocketGate via a payment gateway.
+
+For security, Kink does not collect or store sensitive cardholder data, such as cardholder name, full credit card numbers or billing address data.  
+  
+**Communication and Support**
+
+|  | 
+
+If you contact us for support or to report a problem or concern (regardless of whether you have created an account), we collect and store your contact information, messages, and other data about you like your name, email address, location, browser version, operating system, IP address, and any other data you provide or that we collect through automated means (covered below). 
+
+We use this data to respond to you and research your question or concern, in accordance with this Privacy Policy.  
+  
+## Information We Collect Automatically
+
+When you access the website, we collect certain data by automated means, including:
+
+**System Data**
+
+|  | 
+
+Technical information such as your IP address, type of device being used to access the website, browser and operating system type and version, and similar system data (“System Data”).  
+  
+---|---|---  
+  
+**Log and Usage Data**
+
+|  | 
+
+Data about your usage of the website, such as the website that referred you (if applicable), pages viewed, videos played or downloaded, date and time when you log into your account , and other data regarding your use of the website (“Log and Usage Data”).  
+  
+**Country-Level Geographic Data**
+
+|  | 
+
+We attempt to determine what country you are accessing the website from based on your IP address (“Geographic Data”).  
+  
+In addition to data that you provide, we use tools like cookies and web beacons, as well as analytics services and advertising providers to gather data. Some of these tools offer you the ability to opt out of data collection.
+
+## Cookies and Data Collection Tools
+
+We use browser cookies and similar information-gathering technologies such as web beacons on our website. 
+
+As detailed in our [Cookie Policy](https://web.archive.org/hc/en-us/articles/360004699633), Kink and service providers acting on our behalf (like Google Analytics, third party advertisers and third party IT service providers) use server log files and automated data collection tools like cookies, tags, scripts, customized links, device or browser fingerprints, and web beacons (together, “Data Collection Tools”) when you access and use the website. These Data Collection Tools automatically track and collect certain System Data, Usage Data and Geographic Data (as detailed above) when you use the website. In some cases, we tie data gathered through those Data Collection Tools to other data that we collect as described in this Privacy Policy.
+
+Please see our [Cookie Policy](https://web.archive.org/hc/en-us/articles/360004699633) for detailed information on our use of cookies.
+
+## Analytics
+
+We use third-party analytics services like Google Analytics and Optimizely on the website. These services use Data Collection Tools to help us analyze use of the website. Their collection and use of information is subject to their own privacy policies.
+
+For more information, please see [Google Analytics’ Terms of Service](https://www.google.com/analytics/terms/us.html) or [Optimizely’s Privacy Policy](https://www.optimizely.com/privacy/).
+
+## Advertising
+
+We use third-party advertising services like Adnium, Adsterra and other ad networks and ad servers to deliver advertising about other websites you may be interested in. The ads may be based on the content filters you’ve chosen to use to browse our website.
+
+These third-party services may place cookies or other tracking technologies on your computer, phone, or other device and may access those tracking technologies in order to serve these tailored advertisements to you. To learn more, including how you may be able to control or disable these services, please see our [Cookie Policy](https://web.archive.org/hc/en-us/articles/360004699633).
+
+We use the data we collect through your use of the website to:
+
+  * Provide and administer the website, including to display customized content, process transactions, and improve the performance of the website;
+  * Communicate with you about your account by:
+    * Responding to your questions and concerns;
+    * Sending you transaction-related information;
+    * Sending you information about updates to your Favorites, new services, new features, promotions, newsletters, and other information (which you can opt out of at any time);
+  * Manage your account preferences;
+  * Market and administer surveys and promotions administered or sponsored by Kink;
+  * Improve our website and develop new products, services, and features;
+  * Monitor and analyze trends, usage, and activities in connection with our website;
+  * Detect, investigate, and prevent fraudulent transactions, abuse, and other illegal activities;
+  * Perform accounting and administrative tasks, and enforce or manage legal claims;  or
+  * As we, in our sole discretion, otherwise determine to be necessary to ensure the safety or integrity of our users, employees, third parties, the public, or our company
+
+
+
+We retain the personal data we collect for so long as reasonably necessary to fulfill the purposes for which the data was collected, to perform our contractual and legal obligations, and for any applicable statute of limitations periods for the purposes of bringing and defending claims.
+
+We do not share information about you in any way other than as described in this Privacy Policy. We may share your data with third parties under the following circumstances:
+
+**With Service Providers, Contractors, and Agents**
+
+We share your data with third-party companies who perform services on our behalf, like payment processing, data analysis, fraud detection, marketing and advertising services, email and hosting services, and customer services and support. These service providers may access your personal data and are required to use it solely as we direct, to provide our requested service.
+
+**For Analytics**  
+
+As part of our use of third-party analytics tools like Google Analytics, we share certain Account Data, System Data, Usage Data (as detailed above), or de-identified data as needed. De-identified data means data where we’ve removed things like your email address and replaced it with a number that is not directly tied to you.
+
+**For Security and Legal Compliance**
+
+We may disclose your data to third parties if we (in our sole discretion) have a good faith belief that the disclosure is:
+
+  * Required by law;
+  * Reasonably necessary as part of a valid subpoena, warrant, or other legally-valid request;
+  * Reasonably necessary to enforce our Terms of Use, Privacy Policy, and other legal agreements;
+  * Required to detect, prevent, or address fraud, abuse, misuse, potential violations of law (or rule or regulation), or security or technical issues; or
+  * Reasonably necessary in our discretion to protect against imminent harm to the rights, property, or safety of our company, our users, employees, or members of the public.
+  * We may also disclose data about you to our auditors and legal advisors in order to assess our disclosure obligations and rights under this Privacy Policy.
+
+
+
+**After Aggregation/De-identification**
+
+We can disclose or use aggregate or de-identified data for any purpose. 
+
+**With Your Permission**
+
+With your explicit consent, we may share data to third parties outside the scope of this Privacy Policy.
+
+Kink is based in the United States. Information about you will be transferred to, and processed in, the U.S. and countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country and, in some cases, may not be as protective. We have taken appropriate safeguards to require that your information will remain protected in accordance with this Privacy Policy.
+
+We employ technical and organizational measures such as firewalls and encryption that are designed to appropriately protect your information that is under our control and that we process on your behalf from unauthorized access collection, use, disclosure, copying, modification or disposal, both during transmission and once we receive it. We store all information that you provide to us on secure servers. However, no method of transmission over the internet or method of electronic storage is completely secure.
+
+Our website may contain links to third party sites or online services. We are not responsible for the practices of such third parties, whose information practices are subject to their own policies and procedures, not to this Privacy Policy.
+
+Your password is an important part of our security system, and it is your responsibility to protect it. You should not share your password with any third party, and if you believe your password or account has been compromised, you should change it immediately and contact [support@kink.com](mailto:support@kink.com) with any concerns.
+
+You have certain rights around the use of your data, including the ability to opt out of promotional emails, cookies, and collection of your data by certain analytics providers. You can update your account from within the website, and can also contact us for individual rights requests about your personal data. 
+
+## Your Choices
+
+You can choose not to provide certain data to us, but you may not be able to use certain features of the website.
+
+**Account Information**
+
+You may update, correct or delete your account information by editing your account settings or emailing [privacy@kink.com](mailto:privacy@kink.com). 
+
+**Location Information**
+
+The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to control whether location or other data is collected and shared. 
+
+**Cookies**
+
+We may use and allow others to use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the Platform and other websites and online services. See our [Cookie Policy](https://web.archive.org/hc/en-us/articles/360004699633) for details about these technologies and the information that they collect, use, or share, including how you may be able to control or disable these services.
+
+**Promotional Communications**
+
+You can control messages that you receive from Kink and third parties by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account. Note that regardless of your email preference settings, we will send you transactional messages regarding the website, including administrative confirmations and order confirmations.
+
+**Favorites, Ratings and Comments**
+
+You may add or remove Favorites from your lists at any time by clicking the heart-shaped icon on thumbnail images or scene pages.
+
+To delete rating or comment data you’ve created, please contact [privacy@kink.com](mailto:privacy@kink.com).
+
+## Your Rights
+
+We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us by sending an email to [privacy@kink.com](mailto:privacy@kink.com).
+
+Rights that you may have, depending on the country in which you live, include:
+
+  * Accessing, correcting, updating, or requesting deletion of your information;
+  * Objecting to processing of your information, asking us to restrict processing of your information, or requesting the portability of your information;
+  * Withdrawing your consent at any time if we have collected and processed your information with your consent. Withdrawing your consent will not affect the lawfulness of any processing that we conducted prior to your withdrawal, nor will it affect processing of your information conducted in reliance on lawful processing grounds other than consent.
+  * Complaining to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority.
+
+
+
+To learn more about the rights and options you have, you may find the following resources helpful:
+
+  * In the US: <http://www.aboutads.info/>
+  * In Canada: [https://youradchoices.ca/](https://youradchoices.ca/)
+  * In the European Union: [http://www.youronlinechoices.eu/](http://www.aboutads.info/)
+
+
+
+If you have any questions about your data, our use of it, or your rights, you may contact us at [privacy@kink.com](mailto:privacy@kink.com).
+
+**California Information-Sharing Disclosure**
+
+California residents may request a list of all third parties with respect to which we have disclosed any information about you for direct marketing purposes and the categories of information disclosed. If you are a California resident and want such a list, please send us a written request by email to [privacy@kink.com](mailto:privacy@kink.com) with “California Privacy Rights” in the subject line.
+
+**Do Not Track**
+
+We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
+
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, and if we do we’ll post any changes, including any material changes, on this page, so please be sure to check back periodically. If you continue to use Kink after those changes are in effect, you agree to the revised Policy.
+
+If you have any questions or comments about this policy, please contact us at [privacy@kink.com](mailto:privacy@kink.com) or send postal mail to: 
+
+Kink.com
+
+Attn: Privacy
+
+1155 Mission Street
+
+San Francisco, CA 94103
