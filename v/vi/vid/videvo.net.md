@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videvo.net privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413003133id_/https%3A//www.videvo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videvo.net privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726081124id_/https%3A//www.videvo.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
