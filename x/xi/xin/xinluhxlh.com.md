@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xinluhxlh.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130023206id_/http%3A//www.xinluhxlh.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xinluhxlh.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726144537id_/http%3A//www.xinluhxlh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
