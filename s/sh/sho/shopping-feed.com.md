@@ -1,88 +1,164 @@
-> *The following text is extracted and transformed from the shopping-feed.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120035337id_/http%3A//www.shopping-feed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-feed.com privacy policy that was archived on 2019-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190726150430id_/https%3A//www.shopping-feed.com/wp-content/uploads/2019/02/Shopping-Feed_privacy_policy.pdf) for the most accurate reproduction.*
 
-# Your Privacy | Shopping Feed App
+# 
 
-Last updated: May 15, 2017
-
-Shopping Feed ("us", "we", or "our") operates the Shopping-feed.com website (the "Service").
-
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
-
-We will not use or share your information with anyone except as described in this Privacy Policy.
-
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at Shopping-feed.com
-
-## Information Collection And Use
-
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, phone number ("Personal Information").
-
-We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
-
-## Log Data
-
-We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
-
-## Cookies
-
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
-
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
-
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
-
-## Behavioral Remarketing
-
-Shopping Feed uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
-
-  * AdRoll
-
-AdRoll remarketing service is provided by Semantic Sugar, Inc.
-
-You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
-
-For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: <http://www.adroll.com/about/privacy>
+SHOPPING FEED PRIVACY POLICY
+Shopping Feed (the “Company”) is committed to maintaining robust privacy protections for
+its users. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we
+collect, use and safeguard the information you provide to us and to assist you in making
+informed decisions when using our Service.
+For purposes of this Agreement, “Site” refers to the Company’s website, which can be
+accessed at www.shopping-feed.com.
+“Service” refers to the Company’s services accessed a software-as-a-service, or SaaS, in
+which users can integrate, manage and optimize their merchandise sales across hundreds
+of online channels accessed through a standard web browser, which provides clients with a
+single, integrated user interface to manage product listings, inventory availability, pricing
+optimization, search terms, data analytics and other critical functions across these channels
+via the Company’s software available on shopping-fee.com
+The terms “we,” “us,” and “our” refer to the Company.
+“You” refers to you, as a user of our Site or our Service.
+By accessing our Site or our Service, you accept our Privacy Policy and Terms of Use
+(found here: https://www.shopping-feed.com/wp-content/uploads/2018/04/Shopping-Feed-
+Terms-of-Use.pdf), and you consent to our collection, storage, use and disclosure of your
+Personal Information as described in this Privacy Policy.
+I.          INFORMATION WE COLLECT
+We collect “Non-Personal Information” and “Personal Information.” Non-Personal Information
+includes information that cannot be used to personally identify you, such as anonymous usage
+data, general demographic information we may collect, referring/exit pages and URLs, platform
+types, preferences you submit and preferences that are generated based on the data you
+   Phone: (920) 333 3488 Email: contact@shopping-feed.com       Website: www.shopping-feed.com
+                                                1
 
 
+submit and number of clicks. Personal Information includes your email (most of the time, a
+professional one) you provided us to open your account, and address for invoicing. which you
+submit to us through the registration process at the software.
+     1. Information collected via Technology
+To activate the Service you do not need to submit any Personal or Professional Information
+other than your email address. To use the Service thereafter, you do need to submit further
+Personal Information which may include First and Last name, address and number of
+employees in your company. However, in an effort to improve the quality of the Service, we
+track information provided to us by your browser or by our software application when you
+view or use the Service, such as the page you visit on our website and on our software
+(known as the “referring URL”), the type of browser you use, the device from which you
+connected to the Service, the time and date of access, and other information that does not
+personally identify you. We track this information using cookies, or small text files which
+include an anonymous unique identifier. Cookies are sent to a user’s browser from our
+servers and are stored on the user’s computer hard drive. Sending a cookie to a user’s
+browser enables us to collect Non-Personal information about that user and keep a record
+of the user’s preferences when utilizing our services, both on an individual and aggregate
+basis. For example, the Company may use cookies to collect the following information:
+· your login, date of your last connection (for the use of our TimeLine feature), which
+emails you opened or not (via software like AutopilotHQ and Intercom) etc.
+We may share Personal et Professional Information (like a range of your revenue on
+channels, your number of products, your Ecommerce CMS technology) with our partners in
+the case we would like to recommend you to them. In general, this is on the aim to grow
+your business.
+   Phone: (920) 333 3488 Email: contact@shopping-feed.com      Website: www.shopping-feed.com
+                                                 2
 
 
-## Do Not Track Disclosure
+The Company may use both persistent and session cookies; persistent cookies remain on
+your computer after you close your session and until you delete them, while session cookies
+expire when you close your browser.
+      2. Information you provide us by registering for an account
+In addition to the information provided automatically by your browser when you visit the
+Site, to become a subscriber to the Service you will need to create a profesional profile. You
+can create a profile by registering with the Service and entering your email address, and
+creating a user name and a password. By registering, you are authorizing us to collect,
+store and use your email address in accordance with this Privacy Policy.
+         3. Children’s Privacy
+The Service is not directed to anyone under the age of 13. The Software does not
+knowingly collect or solicit information from anyone under the age of 13, or allow anyone
+under the age of 13 to sign up for the Service. In the event that we learn that we have
+gathered personal information from anyone under the age of 13 without the consent of a
+parent or guardian, we will delete that information as soon as possible. If you believe we
+have collected such information, please contact us at contact@shopping-feed.com.
+II.         HOW WE USE AND SHARE INFORMATION
+Personal Information:
+Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise
+share for marketing purposes your Personal Information with third parties without your
+consent. We do share Personal Information with vendors who are performing services for
+    Phone: (920) 333 3488 Email: contact@shopping-feed.com    Website: www.shopping-feed.com
+                                                3
 
-We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+the Company, such as the servers for our email communications who are provided access
+to user’s email address for purposes of sending emails from us. Those vendors use your
+Personal Information only at our direction and in accordance with our Privacy Policy.
+In general, the Personal Information you provide to us is used to help us communicate with
+you. For example, we use Personal Information to contact users in response to questions,
+solicit feedback from users, provide technical support, and inform users about promotional
+offers.
+We may share Personal et Professional Information (like a range of your revenue on
+channels, your number of products, your Ecommerce CMS technology) with outside parties
+if we have a good-faith belief that access, use, preservation or disclosure of the information
+is reasonably necessary to meet any applicable legal process or enforceable governmental
+request; to enforce applicable Terms of Service, including investigation of potential
+violations; address fraud, security or technical concerns; or to protect against harm to the
+rights, property, or safety of our users or the public as required or permitted by law.
+Non-Personal Information
+In general, we use Non-Personal Information to help us improve the Service and customize
+the user experience. We also aggregate Non-Personal Information in order to track trends
+and analyze use patterns on the Site. This Privacy Policy does not limit in any way our use
+or disclosure of Non-Personal Information and we reserve the right to use and disclose such
+Non-Personal Information to our partners, advertisers and other third parties at our
+discretion.
+In the event we undergo a business transaction such as a merger, acquisition by another
+company, or sale of all or a portion of our assets, your Personal Information may be among
+the assets transferred. You acknowledge and consent that such transfers may occur and
+   Phone: (920) 333  3488 Email: contact@shopping-feed.com      Website: www.shopping-feed.com
+                                                 4
 
-## Service Providers
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+are permitted by this Privacy Policy, and that any acquirer of our assets may continue to
+process your Personal Information as set forth in this Privacy Policy. If our information
+practices change at any time in the future, we will post the policy changes to the Site so that
+you may opt out of the new information practices. We suggest that you check the Site
+periodically if you are concerned about how your information is used.
+III.       HOW WE PROTECT INFORMATION
+We implement security measures designed to protect your information from unauthorized
+access. Your account is protected by your account password and we urge you to take steps
+to keep your personal information safe by not disclosing your password and by logging out
+of your account after each use. We further protect your information from potential security
+breaches by implementing certain technological security measures including encryption,
+firewalls and secure socket layer technology. However, these measures do not guarantee
+that your information will not be accessed, disclosed, altered or destroyed by breach of such
+firewalls and secure server software. By using our Service, you acknowledge that you
+understand and agree to assume these risks.
+IV.        YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION
+You have the right at any time to prevent us from contacting you for marketing purposes.
+ When we send a promotional communication to a user, the user can opt out of further
+promotional communications by following the unsubscribe instructions provided in each
+promotional e-mail. You can also indicate that you do not wish to receive marketing
+communications from us in the software. Please note that notwithstanding the promotional
+preferences you indicate by either unsubscribing or opting out in the software, we may
+   Phone: (920) 333  3488 Email: contact@shopping-feed.com    Website: www.shopping-feed.com
+                                               5
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-## Security
-
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
-
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
-
-## Links To Other Sites
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-## Children's Privacy
-
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
-
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-## Changes To This Privacy Policy
-
-This Privacy Policy is effective as of May 15, 2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at support@shopping-feed.com.
+continue to send you administrative emails including, for example, periodic updates to our
+Privacy Policy, technical changes or invoices.
+V.          LINKS TO OTHER WEBSITES
+As part of the Service, we may provide links to or compatibility with other websites or
+applications. However, we are not responsible for the privacy practices employed by those
+websites or the information or content they contain. This Privacy Policy applies solely to
+information collected by us through the Site and the Service. Therefore, this Privacy Policy
+does not apply to your use of a third party website accessed by selecting a link on our Site
+or via our Service. To the extent that you access or use the Service through or on another
+website or application, then the privacy policy of that other website or application will apply
+to your access or use of that site or application. We encourage our users to read the privacy
+statements of other websites before proceeding to use them.
+VI.        CHANGES TO OUR PRIVACY POLICY
+The Company reserves the right to change this policy and our Terms of Service at any time.
+ We will notify you of significant changes to our Privacy Policy by sending a notice to the
+primary email address specified in your account or by placing a prominent notice on our
+site. Significant changes will go into effect 30 days following such notification. Non-material
+changes or clarifications will take effect immediately. You should periodically check the Site
+and this privacy page for updates.
+VII.      CONTACT US
+If you have any questions regarding this Privacy Policy or the practices of this Site, please
+contact us by sending an email to contact@shopping-feed.com
+Last Updated: This Privacy Policy was last updated on June 29th 2018.
+   Phone: (920) 333 3488 Email: contact@shopping-feed.com       Website: www.shopping-feed.com
+                                                 6
