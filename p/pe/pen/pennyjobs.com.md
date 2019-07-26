@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennyjobs.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527063512id_/http%3A//www.pennyjobs.com/pp/footer/Privacy%2520policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyjobs.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727014607id_/http%3A//www.pennyjobs.com/pp/footer/Privacy%2520policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | PennyJobs
 
