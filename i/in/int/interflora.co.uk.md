@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403151750id_/https%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727100259id_/https%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
 
 # Interflora Help - Privacy Policy
 
