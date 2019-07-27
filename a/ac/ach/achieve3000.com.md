@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the achieve3000.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618065125id_/http%3A//www.achieve3000.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achieve3000.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727213513id_/http%3A//www.achieve3000.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Achieve3000
 
-**Version Effective Date: May 23, 2019  
+**Version Effective Date: May 23, 2019[](http://www.achieve3000.com/wp-content/uploads/2015/05/iKS_FERPA3.png)  
 **
 
 Achieve3000, Inc., a Delaware corporation (“ **Achieve3000** ”, “ **we** ” or “ **us** ”), is committed to assuring the privacy of student users (“ **Students** ”) of our educational products and services (“ **Services** ”), the teachers and administrators of educational institutions that subscribe to our Services (“ **Administrators** ”), and visitors to this website (“ **Website** ”).
