@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cannondale.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824023123id_/https%3A//www.dorelsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cannondale.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727120331id_/https%3A//www.dorelsports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dorel Sports
 
-Last Updated: May, 2018  
-This website (referred to herein as the “Site”) is operated by a company (referred to herein as “we“ or “us“) within the Dorel Sports group of companies. The relevant Dorel Sports company that is responsible for your personal information will be the Dorel Sports company that you provided your personal information to. For more information about the Dorel Sports group of companies and brands, or the specific Dorel Sports company responsible for your personal information, please see https://www.dorelsports.com or contact us using the contact details listed below.
+Last Updated: July, 2019  
+This website (referred to herein as the “Site”) is operated by a company (referred to herein as “we“ or “us“) within the Dorel Sports group of companies. The relevant Dorel Sports company that is responsible for your personal information will be the Dorel Sports company that you provided your personal information to. For more information about the Dorel Sports group of companies and brands, or the specific Dorel Sports company responsible for your personal information, please see [https://www.dorelsports.com](https://www.dorelsports.com/) or contact us using the contact details listed below. If you would like details about how your personal information is processed in relation to the Cannondale Mobile App, visit the [Cannondale Mobile App Privacy Notice](https://www.cannondale.com/en/International/app-privacy-policy).
 
 We recommend that you read this Privacy Policy in full to ensure you are fully informed. However, if you only want to access a particular section of this Privacy Policy, then you can click on the relevant link below to jump to that section.
 
