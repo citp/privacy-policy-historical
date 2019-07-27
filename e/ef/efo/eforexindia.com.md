@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eforexindia.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527083435id_/http%3A//www.eforexindia.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforexindia.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727203621id_/http%3A//www.eforexindia.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Welcome To Eforex India
 
