@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the healthsupportmag.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035149id_/http%3A//www.healthsupportmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthsupportmag.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727203130id_/http%3A//www.healthsupportmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Health Support Magazine
 
 ### 1\. INTRODUCTION
 
-**1.1. PURPOSE OF POLICY.**  Health Support Mag (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of Health Support Mag (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+ **1.1. PURPOSE OF POLICY.**  Health Support Mag (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of Health Support Mag (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
-**1.2. NOTICE CONCERNING CHILDREN**
+ **1.2. NOTICE CONCERNING CHILDREN**
 
 PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
 
 ### 2\. INFORMATION COLLECTION PRACTICES
 
-**2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
+ **2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
 
 In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site.
 
-**2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
+ **2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
 
 (a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
@@ -26,7 +26,7 @@ In operating the Site, we collect personal information from you in a couple diff
 
 ### 3\. USE AND SHARING OF INFORMATION
 
-**3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
+ **3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
 
 (a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings.
 
@@ -46,17 +46,17 @@ The Site has security measures in place to prevent the loss, misuse, and alterat
 
 ### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
 
-**5.1. THIRD PARTY WEBSITES**
+ **5.1. THIRD PARTY WEBSITES**
 
 From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
 
 ### 6\. CONTACT INFORMATION AND POLICY UPDATES
 
-**6.1. CONTACTING US**
+ **6.1. CONTACTING US**
 
 If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site.
 
-**6.2. UPDATES AND CHANGES**
+ **6.2. UPDATES AND CHANGES**
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
 
