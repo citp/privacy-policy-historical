@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busindia.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125133910id_/http%3A//www.busindia.com/preStaticPages%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busindia.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728012656id_/http%3A//busindia.com/preStaticPages%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # BUSINDIA Online Bus Tickets Booking Service
 
