@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12voip.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508034300id_/https%3A//www.12voip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12voip.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727170519id_/https%3A//www.12voip.com/privacy) for the most accurate reproduction.*
 
 # 12VoIP | privacy policy
 
