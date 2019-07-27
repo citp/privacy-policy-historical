@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512233926id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727145240id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Discountcell.com
 
@@ -144,9 +144,6 @@ The compact policy is sent by the Web server along with the cookies it describes
 
 * * *
 
-[Discount Cell](http://pinterest.com/source/discountcell.com/) |  |  |   | [Follow @discountcell](https://twitter.com/discountcell) |   
----|---|---|---|---|---  
-  
 We keep your device running with only authentic, top quality **[cell phone accessories](http://www.discountcell.com/ "cell phone accessories")**.  Buy with confidence knowing every item we offer is covered by our satisfaction guarantee and the manufacturers warranty.
 
 [Apple Accessories ](http://www.discountcell.com/cellular/apple.htm "Apple Accessories") |  [Audiovox Accessories](http://www.discountcell.com/cellular/cavx.htm "Audiovox Accessories") |  [Blackberry Accessories](http://www.discountcell.com/blackberry-accessories.htm "Blackberry Accessories")  |  [Boost Mobile Accessories](http://www.discountcell.com/cellular/cboost.htm "Boost Mobile Accessories")  |  [HTC Accessories](http://www.discountcell.com/cellular/htc.htm "HTC Accessories")  |  [Kyocera Accessories](http://www.discountcell.com/cellular/ckyocera.htm "Kyocera Accessories")  |  [LG Accessories](http://www.discountcell.com/cellular/clgic.htm "LG Accessories")  |  [Motorola Accessories](http://www.discountcell.com/cellular/cmotoh2.asp "Motorola Accessories")  |  [Nextel Accessories](http://www.discountcell.com/cellular/cnext.htm "Nextel Accessories")   
