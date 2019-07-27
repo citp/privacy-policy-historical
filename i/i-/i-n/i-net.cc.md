@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-net.cc privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626042817id_/http%3A//www.i-net.cc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-net.cc privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727092250id_/http%3A//www.i-net.cc/privacy.html) for the most accurate reproduction.*
 
 # iNET
 
