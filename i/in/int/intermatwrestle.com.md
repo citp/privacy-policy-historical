@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621043801id_/http%3A//intermatwrestle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727143203id_/http%3A//intermatwrestle.com/privacy) for the most accurate reproduction.*
 
 # InterMat Wrestling
 
