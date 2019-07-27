@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft32download.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528050241id_/http%3A//www.soft32download.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft32download.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727213229id_/http%3A//www.soft32download.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Soft32Download.com - Privacy policy
 
