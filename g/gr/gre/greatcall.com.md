@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatcall.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415062216id_/https%3A//www.greatcall.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatcall.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727212414id_/https%3A//www.greatcall.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal | Privacy Policy | GreatCall
 
