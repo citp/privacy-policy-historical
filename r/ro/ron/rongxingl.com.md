@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rongxingl.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315011308id_/http%3A//rongxingl.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rongxingl.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727195943id_/http%3A//rongxingl.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
