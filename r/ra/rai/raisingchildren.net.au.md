@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raisingchildren.net.au privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629002101id_/https%3A//raisingchildren.net.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raisingchildren.net.au privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727092032id_/https%3A//raisingchildren.net.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Raising Children Network
 
