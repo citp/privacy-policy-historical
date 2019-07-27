@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99corporates.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210183758id_/http%3A//99corporates.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99corporates.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727082414id_/https%3A//www.99corporates.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | 99corporates
 
@@ -16,7 +16,7 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third party services that may collect information used to identify you.
 
-**Log Data**
+ **Log Data**
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. 
 
