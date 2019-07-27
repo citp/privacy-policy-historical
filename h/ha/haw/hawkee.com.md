@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawkee.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528053728id_/http%3A//hawkee.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawkee.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727215845id_/http%3A//hawkee.com/privacy.php) for the most accurate reproduction.*
 
 # Hawkee.com - Privacy Policty
 
