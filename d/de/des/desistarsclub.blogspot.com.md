@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desistarsclub.blogspot.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527042605id_/http%3A//desistarsclub.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desistarsclub.blogspot.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728005023id_/http%3A//desistarsclub.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Hollywood Gossip, Celebrity Birthdays, Bollywood News, Pretty Girls
 
