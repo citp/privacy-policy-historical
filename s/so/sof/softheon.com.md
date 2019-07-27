@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softheon.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417110305id_/https%3A//www.softheon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softheon.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728014849id_/https%3A//www.softheon.com/privacy-policy) for the most accurate reproduction.*
 
 # Softheon Website Privacy Policy | Softheon
 
