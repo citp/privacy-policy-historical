@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junglearcade.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614161141id_/http%3A//www.junglearcade.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junglearcade.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727031339id_/http%3A//www.junglearcade.com/Privacy) for the most accurate reproduction.*
 
 # Jungle Arcade - Privacy
 
