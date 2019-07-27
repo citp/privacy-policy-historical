@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the logosbynick.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204103015id_/http%3A//logosbynick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logosbynick.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727201158id_/https%3A//logosbynick.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Logos By Nick Saporito
+# Privacy Policy | Logos By Nick
+
+## Privacy Policy:
 
 LOGOS BY NICK LLC (" **Logos By Nick** ") operates logosbynick.com and may operate other websites. It is Logos By Nick's policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -12,7 +14,7 @@ Logos By Nick also collects potentially personally-identifying information like 
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Logos By Nick's websites choose to interact with Logos By Nick in ways that require Logos By Nick to gather personally-identifying information. The amount and type of information that Logos By Nick gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [logosbynick.com](http://www.logosbynick.com/) to provide a username and email address. Those who engage in transactions with Logos By Nick are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Logos By Nick collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Logos By Nick. Logos By Nick does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Logos By Nick's websites choose to interact with Logos By Nick in ways that require Logos By Nick to gather personally-identifying information. The amount and type of information that Logos By Nick gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [logosbynick.com](https://www.logosbynick.com/) to provide a username and email address. Those who engage in transactions with Logos By Nick are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Logos By Nick collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Logos By Nick. Logos By Nick does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -37,10 +39,3 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Logos By Nick may change its Privacy Policy from time to time, and in Logos By Nick's sole discretion. Logos By Nick encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a logosbynick.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-### Registered Agent
-
-LEGALINC CORPORATE SERVICES INC.  
-600 GRANT STREET  
-SUITE 660-B  
-PITTSBURGH, PA 15219
