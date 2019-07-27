@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the impactguru.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330144509id_/https%3A//www.impactguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactguru.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727094454id_/https%3A//www.impactguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Impact Guru
-
-[ ](https://www.impactguru.com/)
 
 Last updated: June 26, 2018
 
