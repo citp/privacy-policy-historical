@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campuslabs.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605095239id_/https%3A//www.campuslabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campuslabs.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727211114id_/https%3A//www.campuslabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Campus Labs
 
