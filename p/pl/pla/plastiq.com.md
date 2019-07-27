@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the plastiq.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428154254id_/https%3A//www.plastiq.com/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plastiq.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727223537id_/https%3A//www.plastiq.com/privacy) for the most accurate reproduction.*
 
-# Pay for tuition, taxes, utilities and more with credit card
+# Pay Virtually Any Bill with Credit Cards - Privacy Policy | Plastiq
 
 ## Welcome to Plastiq
 
 Plastiq enables you to make credit and debit card payments when you previously could not. We understand that privacy matters, and so we take care with the information you choose to share with us. This Privacy Policy (the "Policy") explains our policies and procedures with respect to the information that we collect through our Platform.
 
-This Privacy Policy was last updated on March 12, 2013
+This Privacy Policy was last updated on March 15, 2018
 
 ### Consent
 
@@ -24,9 +24,9 @@ By using the Website or our Services you consent to the use of your Personal Dat
 
 
 
-If this Policy raises any further privacy questions, comments, or suggestions or if you wish to request a copy of the Personal Data we hold about you, we encourage you to reach out to us at privacy@plastiq.com. Our policies will continually adjust to the exciting and ever-changing landscape of credit card payments and will be informed by the valuable feedback of our visitors and users.
+If this Policy raises any further privacy questions, comments, or suggestions or if you wish to request a copy of the Personal Data we hold about you, we encourage you to reach out to us at support@plastiq.com. Our policies will continually adjust to the exciting and ever-changing landscape of credit card payments and will be informed by the valuable feedback of our visitors and users.
 
-Please also review the [Terms of Service](https://web.archive.org/c/terms) which governs your use of our Services. Capitalized terms in this Policy not otherwise defined herein have the same meanings as the definitions of those terms in the User Agreement.
+Please also review the [Terms of Service](https://web.archive.org/terms) which governs your use of our Services. Capitalized terms in this Policy not otherwise defined herein have the same meanings as the definitions of those terms in the User Agreement.
 
 ### A note for children under 13 years old.
 
@@ -54,12 +54,12 @@ This Website may contain links to other websites not operated or controlled by P
 
 The term "Personal Data", as used in this Policy, refers to any information that can be used to identify a specific person, and/or that is linked to a specific identified person. Personal Data does not include information that has been aggregated or made anonymous such that it can no longer identify a specific person.
 
-Plastiq will specifically collect the following Personal Data and other non-identifiable information:
+Plastiq will specifically collect the following Personal Data and other non-identifiable information: 
 
-  *  **Registration Information:** We collect Personal Information from you, such as your contact and payment information, when you register for and use our Services.
-  *  **Transaction Information:** When you use our Platform to make or accept payments, we collect information about when the transactions occurred, a description of the transactions, the payment amounts, and the merchant you designated to receive the payment.
-  *  **Device Information:** We collect device-specific information when you access our Platform, including your hardware model, operating system and version, unique device identifiers, mobile network information, and information about the device's interaction with our Platform. We may also identify other software running on the device (but will not collect any content from such software) for anti-fraud and malware-prevention purposes.
-  *  **Use Information:** We collect information about how you use our Platform, including your access times, browser types and language, and Internet Protocol ("IP") addresses.
+  * **Registration Information:** We collect Personal Information from you, such as your contact and payment information, when you register for and use our Services.
+  * **Transaction Information:** When you use our Platform to make or accept payments, we collect information about when the transactions occurred, a description of the transactions, the payment amounts, and the merchant you designated to receive the payment.
+  * **Device Information:** We collect device-specific information when you access our Platform, including your hardware model, operating system and version, unique device identifiers, mobile network information, and information about the device's interaction with our Platform. We may also identify other software running on the device (but will not collect any content from such software) for anti-fraud and malware-prevention purposes.
+  * **Use Information:** We collect information about how you use our Platform, including your access times, browser types and language, and Internet Protocol ("IP") addresses.
 
 
 
@@ -83,7 +83,7 @@ Payment-related data, including your cardholder data, is securely stored for acc
 
 Plastiq, its subsidiaries, and affiliates may also use your Personal Data and other personally non-identifiable information collected through this Website to help us improve the content and functionality of our Website, to better understand our users, and to improve our Platform and Services.
 
-We may use your contact information in the future to notify you of important things, including but not limited to new or expanded Platform capabilities, pending payment deadlines, or promotions from Plastiq or our partners. We may contact you via email, mail and/or through SMSs or text messages. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. This will permanently remove your contact information from all future out-going correspondences. Additionally, if for any reason you find our "opt-out" instructions unclear, and wish to cease receiving any communications from Plastiq, or you wish to have your name deleted from our mailing lists, please contact us as at [privacy@plastiq.com](mailto:privacy@plastiq.com). We retain the right to contact you regarding your use of the Services.
+We may use your contact information in the future to notify you of important things, including but not limited to new or expanded Platform capabilities, pending payment deadlines, or promotions from Plastiq or our partners. We may contact you via email, mail and/or through SMSs or text messages. If we do, our communications will include instructions about how to opt out from receiving such future marketing communications. Additionally, if for any reason you find our "opt-out" instructions unclear, and wish to cease receiving any communications from Plastiq, or you wish to have your name deleted from our mailing lists, please contact us as at [support@plastiq.com](mailto:support@plastiq.com). We retain the right to contact you regarding your use of the Services.
 
 Plastiq will occasionally conduct research on our customer demographics, interests and behavior based on Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Plastiq may share this aggregate data with its affiliates, agents and business partners. Importantly, this aggregate information cannot be used to personally identify any Plastiq user or users. We may also disclose aggregated user statistics in order to describe our Platform to current and prospective business partners, and to other third parties for other lawful purposes.
 
@@ -91,13 +91,9 @@ Plastiq will occasionally conduct research on our customer demographics, interes
 
 Plastiq does not sell or rent your Personal Data to marketers or third parties for marketing purposes.
 
-Like many companies, we sometimes share information with trusted third parties to perform functions related to this Website and our Platform. These trusted third parties may include, but are not limited to, credit card associations, banking and processing partners, security and audit providers, as well as any other entities that you have directly authorized to receive your Personal Data. Any information shared with such parties is disclosed on a strictly ad hoc basis. We take efforts to limit the amount of information that is shared with third parties to what is necessary to accomplish the specific business purpose.
+We sometimes share information with trusted third parties to perform functions to enable our platform and business to work better. These trusted third parties may include, but are not limited to, credit card associations, banking and processing partners, security and audit providers, as well as any other entities that you have directly authorized to receive your Personal Data. We take efforts to limit the amount of information that is shared with third parties to what is necessary to accomplish the specific business purpose.
 
-We may disclose your Personal Data to law enforcement, government officials, regulators and/or other third parties from the jurisdiction in which you reside or from other foreign jurisdictions if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to protect the personal safety of users of this Website or the public, or (iv) protect against legal liability.
-
-In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
-
-From time to time we may employ third parties to help us improve the Website and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website and/or the Services.
+In order to protect our business or users from suspicious activity, we may disclose your Personal Data (i) when required to do so by law, (ii) to ensure regulatory compliance, (iii) further to communications with government officials, or (iv) to ensure that our partner financial institutions can comply with regulatory obligations.
 
 ## How does Plastiq secure Personal Data?
 
@@ -123,6 +119,8 @@ Having accurate Personal Data about you enables us to give you better service. W
 
 We will keep your Personal Information for as long as it remains necessary for the operation of the Website and Services or as required by law, which may extend beyond the termination of our relationship with you. Subject to the foregoing, in general, once you inform us that you no longer wish to use the Website or Services, we will delete your records from our systems as soon as practicable.
 
-### Updating your Information; Contacting Us
+### Updating your Information; Contacting Us; Unresolved Complaints
 
-Please keep us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: [privacy@plastiq.com](mailto:privacy@plastiq.com)
+Please keep us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: [support@plastiq.com](mailto:support@plastiq.com)
+
+Services in the state of Texas are provided by PLV Inc. DBA PLV TX Branch Inc., a Plastiq Inc. subsidiary. If you have a complaint involving a Texas transaction, first contact the consumer assistance for PLV, Inc. at (844) 752-7847 or [service@plastiq.com](mailto:service@plastiq.com). If you still have an unresolved complaint regarding the company's money transmission or currency exchange activity, please direct your complaint to: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, 1-877-276-5554 (toll free), [www.dob.texas.gov](https://web.archive.org/web/20190727223537id_/http://www.plastiq.com/privacy/www.dob.texas.gov).
