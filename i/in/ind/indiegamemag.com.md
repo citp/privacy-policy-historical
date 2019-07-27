@@ -1,33 +1,47 @@
-> *The following text is extracted and transformed from the indiegamemag.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209031721id_/http%3A//indiegamemag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegamemag.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727132542id_/https%3A//www.indiegamemag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Indie Game Magazine
+# Privacy Policy - IGM
 
-**Purchases –** We don’t see or store financial stuff.
+This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
 
-All your purchase transactions are handled by secure payment providers and reliable partners (namely Magcloud, Fastspring, and Paypal). Magcloud is owned by HP – [they have a ton of fancy badges and seals](http://welcome.hp.com/country/us/en/privacy.html) and handle the printing and processing of our magazines. [Paypal ](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US)and [Fastspring ](http://www.fastspring.com/privacy.php)are both well respected payment providers. Indie Game Mag  **DOES NOT** store  **ANY** credit card numbers, names, or financial information, in fact we  **NEVER EVEN SEE** any of your credit information. For more information on our Payment Service Partner’s please see their privacy policies above.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**Our Site and Newsletter** – We do collect email addresses, usernames, and customer info but we won’t sell it!
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [Indie Game Magazine](https://www.indiegamemag.com/).
 
-Visitors may provide us with email addresses, usernames, names, addresses, and other information to us when they sign up with our site, newsletter, or forums.  IGM has the right to save this information so that they can track and correspond with its readers and customers.  We promise to never share, sell or rent this information.  All personal identifiable information is used strictly for customer service and interaction.
+## Log Data
 
-Our site allows users to display some information publicly (author bios, web links, etc) on our site. Users are responsible for information that they decide to share publicly and will not hold IGM liable.
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-**Web Statistics** – We collect anonymous info about stuff and use it like any other site.
+## Cookies
 
-Web statistics are collected and calculated by our hosting service and google. Information such as IP address, unique users, web browser, operating system, pages accessed on our site, duration of stay, etc. are logged and collected. This information is solely used for general internet traffic tracking and so that we may assess and improve our website. It is anonymous and none of your personal information is ever used or in danger.
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-**Links-** teh internets is a big scary place and we only control this little oasis.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-This privacy statement only applies to this website. There are links to other sites that IGM does not control. We are not responsible for the privacy statements of other sites. This privacy statement only applies to the information collected on this site. For information on linked sites’ privacy statements please refer to their websites. Thank you.
+## Service Providers
 
-**Ads-  **You gotta spend money to make money.
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-**COPPA-  **Get to da COPPA!  
+## Security
 
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.  
+## Links To Other Sites
 
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-* * *
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## **Contact Us**
+
+**If you have any questions about this Privacy Policy, please[contact us](https://www.indiegamemag.com/contact-us/).**
+
+####  Last updated: July 12, 2019 
