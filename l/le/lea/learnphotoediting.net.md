@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnphotoediting.net privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625171046id_/http%3A//www.learnphotoediting.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnphotoediting.net privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727090232id_/http%3A//www.learnphotoediting.net/policy.html) for the most accurate reproduction.*
 
 # Learn Photo Editing
 
