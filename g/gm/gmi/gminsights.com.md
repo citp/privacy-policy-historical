@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gminsights.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418190642id_/https%3A//www.gminsights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gminsights.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727160122id_/https%3A//www.gminsights.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Market Insights - Privacy Policy, Information Security, Contact Details for Visitors / Customers and Policy Updates
 
