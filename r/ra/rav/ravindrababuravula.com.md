@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravindrababuravula.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620200523id_/http%3A//www.ravindrababuravula.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravindrababuravula.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727183059id_/http%3A//ravindrababuravula.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Ravindrababu |Ravula
 
