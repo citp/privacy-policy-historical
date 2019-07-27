@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615154732id_/https%3A//www.markertek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727135037id_/https%3A//www.markertek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Markertek
 
@@ -166,7 +166,7 @@ You can correct factual errors in your personally identifiable information by se
 
 **Children’s Policy**
 
-Our Sites are not directed to children under the age of 18. If you are not 18 years or older, do not use our Site. We do not knowingly collect Personal Data from children under the age of 18. If we learn that Personal Data of persons less than 18 years-of-age has been collected through our Site, we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child or a minor under the age of 18 has posted, submitted or otherwise communicated Personal Data to our Site without your consent, then you may alert us at [[email protected]om](https://web.archive.org/cdn-cgi/l/email-protection#fc95929a93bc88938b998e8c938b998ed29f9391) so that we may take appropriate action to remove the minor's Personal Data from our systems.
+Our Sites are not directed to children under the age of 18. If you are not 18 years or older, do not use our Site. We do not knowingly collect Personal Data from children under the age of 18. If we learn that Personal Data of persons less than 18 years-of-age has been collected through our Site, we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child or a minor under the age of 18 has posted, submitted or otherwise communicated Personal Data to our Site without your consent, then you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9d0d7dfd6f9cdd6cedccbc9d6cedccb97dad6d4) so that we may take appropriate action to remove the minor's Personal Data from our systems.
 
 **Transfer of data to third parties**
 
