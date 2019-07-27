@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zynaptiq.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620181934id_/https%3A//www.zynaptiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zynaptiq.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727082956id_/https%3A//www.zynaptiq.com/privacy) for the most accurate reproduction.*
 
 # zynaptiq: privacy
 
