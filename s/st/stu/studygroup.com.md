@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530123524id_/http%3A//corporate.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727021719id_/http%3A//corporate.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Study Group: Global Leaders in International Education
 
