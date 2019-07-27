@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersdecide.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630183051id_/https%3A//www.gamersdecide.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersdecide.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728015322id_/https%3A//www.gamersdecide.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy policy & cookies | GAMERS DECIDE
 
