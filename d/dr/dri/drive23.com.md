@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drive23.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529041552id_/http%3A//www.drive23.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drive23.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727214922id_/http%3A//drive23.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Drive23
 
