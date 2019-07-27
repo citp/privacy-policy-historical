@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisci24.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527083511id_/http%3A//unisci24.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisci24.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727185657id_/http%3A//unisci24.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
