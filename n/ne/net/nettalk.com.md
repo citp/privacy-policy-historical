@@ -1,67 +1,104 @@
-> *The following text is extracted and transformed from the nettalk.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527233311id_/http%3A//www.nettalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettalk.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728012846id_/http%3A//www.nettalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - netTALK
 
-netTALK.COM, INC. ("netTALK") is committed to your privacy. We obey all laws and regulations in the United States applicable to our use and disclosure of your information. Except as set forth in this Privacy Policy, we will not trade, sell, or disclose to any third party any form of PII (as defined below) without your consent and we will not disclose or make available any PII to any third parties seeking to market third party products without your consent. We have set forth this Privacy Policy to explain to you how we collect and use information from our customers who use services and products from netTALK ("Customers") and from visitors to our Web sites and from potential customers who have communicated, made contact, or interacted with netTALK ("Visitors"), both in connection with online and offline services and products offered by netTALK.
+netTALK Connect and Affiliates  ("netTALK Connect", "we", "us" or "our") is committed to protecting the privacy of its members and other individuals with whom it interacts.
 
-**Collection of Information**
+This Privacy Policy ("Policy") explains how we use and maintain the privacy of personal information we collect online in connection with the acm.org web site (the "Web Site"). For the purposes of any applicable data protection laws (including the EU General Data Protection Regulation), the data controller in relation to your personal information is netTALK Connect and Affiliates, 1 FINANCIAL PLZ FL 10TH FORT LAUDERDALE, FL 33394-0002.
 
-netTALK shall collect personally identifiable information, including but not limited to name, physical address, email address, telephone number, credit card information, and other personal information (collectively, "PII"), from Customers when initiating service and in connection with the provision or marketing of products and services. netTALK may collect PII from Visitors in connection with any visit to our Web sites, any communication about our services and products, or other transactions or interactions with netTALK. netTALK may also collect non-personally identifiable information from Customers and Visitors regarding usage of our services or our Web site ("Non-PII"). Non-PII may include Web site pages viewed, time spent using certain services, demographic data, cookies, and other information which does not specifically identify any one individual. "Cookies" are pieces of information that may be placed on your computer by a Web site for the purpose of facilitating and enhancing your communication and interaction with that Web site. Many Web sites use cookies for these purposes. We may use cookies to customize your visit to our Web sites and for other purposes to make your visit more convenient or to enable us to enhance our service. In addition to our cookies, we may also use (and our third party advertisers may use) clear gifs, Web beacons, and third party cookies to improve the performance of our Web sites, provide certain features such as advertising, or to anonymously track usage of our Web sites and track the online activity of users. In addition, we may use such devices in our HTML-based emails to track the usage of such emails in much the same manner as usage of our Web sites is tracked.You may stop or restrict the placement of cookies on your computer, including third party cookies, or flush them from your browser by adjusting your Web browser preferences, in which case you may still use our Web site, but it may interfere with some of its functionality.
+This Policy will apply to personal information netTALK Connect collects or otherwise receives about third parties ("you"), including is netTALK Connect and Affiliates members ("Members"), when you use our Web Site or otherwise engage with us. Personal information which is provided to us, or otherwise obtained by us, from which you can be identified ("Personal Information") will only be used in the manner set out in this Policy. By visiting and/or contacting us through the Web Site (or otherwise engaging with us), you need to be aware that we may collect, use and transfer your Personal Information in the manner described in this Policy.
 
-**Anti-Spyware Policy**
+## 1\. How We Collect and Use Your Personal Information
 
-netTALK believes that Spyware is a threat to consumer privacy and a consumer’s experience online. Therefore, we forbid any netTALK employee, agent, partner, affiliate, or contractor from intentionally deploying or using Spyware (as defined in this policy) on behalf of netTALK. Spyware refers to any executable software application that is installed on a user’s personal computer and covertly gathers and transmits PII through the user’s Internet connection without the knowledge or consent of the user. Cookies and Web beacons are not considered Spyware. Spyware may gather PII, such as e-mail addresses and credit card information, and may even alter personal computer settings. Intentional use of Spyware by any netTALK employee, agent, partner, or affiliate on netTALK’s behalf will not be tolerated and will be considered grounds for dismissal, contract termination, and/or loss of payment.
+netTALK Connect and Affiliates only collects Personal Information that is relevant to its activities and seeks to ensure the Personal Information is accurate and up-to-date. Personal Information collected by is netTALK Connect and Affiliates may include: your name, address and contact details, including your email address and telephone number, age range, and gender. The Personal Information that is netTALK Connect and Affiliates collects and that you provide to us may occasionally be used to improve our Web Site and wider offerings (on a confidential basis) or to enable us to comply with our legal obligations. Aside from this we will only use your personal Information for staying in touch with you (as described in more detail below) and generally for the purposes for which you provided it, including in order to:
 
-**Use of Information**
+  * process your request to join is netTALK Connect and Affiliates as a member, and for the renewal and update (and general administration) of your membership;
+  * process orders and supply the products and/or services you have requested and to provide information or support to you in respect of those products and/or services;
+  * process your application and registration for a conference, contest or other activity.
 
-netTALK will use PII (1) to market products and services to Customers and Visitors that netTALK believes may be of interest to them, (2) to provide services and products requested by Customers and Visitors and (3) to enable its vendors and contractors to provide and assist netTALK in the marketing and provision of such services and products to netTALK, Customers, or Visitors. However, we will not share your credit card information with any third parties unless they are involved in processing payments for services that you have purchased from netTALK. netTALK only works with partners whom we believe maintain high standards with respect to privacy and consumer rights. netTALK may also use and disclose PII to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our service or network, to investigate fraud or violations of our [_Terms of Service_](https://web.archive.org/terms-of-service), as required by courts or administrative agencies or in connection with a sale, merger, or reorganization of netTALK’s business. Non-PII may be shared with any number of third parties by netTALK.
 
-**CPNI**
 
-In the course of providing services to you, we collect and maintain certain customer proprietary network information ("CPNI"). CPNI includes the types of services you currently purchase, related usage and billing information for those services. Your telephone number, name, and address are not CPNI. We value our relationships with our customers and are committed to respecting and protecting your CPNI. Accordingly, we do not sell, trade, or share your CPNI, including your calling records outside of netTALK’s family of companies or with anyone not authorized to offer our products or services, or to perform functions on our behalf except as authorized by you or required by law. Generally, we can use your CPNI to offer additional services to you, and for billing and collections purposes. We can also disclose your CPNI for legal or regulatory reasons, including in response to subpoenas and court orders. We can also use CPNI to investigate fraud and to prevent violation of our Terms of Service and unlawful use of our network, services, and other customers.
+**Member Databases**
 
-**Security**
+netTALK Connect and Affiliates maintains member databases that contain mailing, billing, and Member profile information (such as your name, address and contact details), as well as a record of each Member’s product and service purchases. is netTALK Connect and Affiliates also maintains databases of Member and non-member purchases and of registrations for conferences and other is netTALK Connect and Affiliates activities. The information in these databases is used by authorized is netTALK Connect and Affiliates staff members to process orders; mail invoices, purchases, renewal notices, and announcements; respond to Member inquiries; and help us improve our offerings. Member records are maintained as long as an individual is an is netTALK Connect and Affiliates member and for two years following a membership lapse. Purchases and credit card transactions are retained for as long as required to meet contractual, tax, or auditing needs.
 
-netTALK has invested and deployed a wide variety of technology and security features to make reasonable efforts to ensure the privacy of information on its network. In addition, netTALK has implemented operations guidelines to ensure Customer and Visitor privacy is safeguarded at every level of its organization. netTALK will continue to revise policies and implement additional security features as new technologies becomes available. However, no system or service can give a 100% guaranty of security, especially a service that relies upon the public Internet. Therefore, you acknowledge the risk that third parties may gain unauthorized access to your information when using our services.
+All personally identifiable information contained in is netTALK Connect and Affiliates membership, purchase, and registration databases is treated as confidential and will be used only for the purposes stated in this Policy, except where required by law.
 
-**Communications**
+**netTALK Connect and Affiliates Emails**
 
-netTALK will not read, listen to or disclose to any third parties private e-mail, conversations, or other communications that are transmitted using netTALK services except as required to ensure proper operation of services or as otherwise authorized by law.
+From time to time, is netTALK Connect and Affiliates may send emails to Members or other visitors to the Web Site, such as:
 
-You should be aware that any PII which you voluntarily include and transmit through publicly accessible forums (i.e., such as chat rooms, blogs, instant messages, listservs) may be viewed and used by anyone with access to such forums. netTALK is unable to control such uses of your PII, and by using such services, you assume the risk that the PII provided by you may be viewed and used by third parties.
+  1. "Must Have" messages that help to service is netTALK Connect and Affiliates Members including answers to Member questions; acknowledgments of the receipt of membership applications, renewal notices, and other orders;
+  2. Occasional "Member Update" announcements about is netTALK Connect and Affiliates services that we believe to be of some importance to Members. These announcements are short, straightforward messages that contain pointers to online resources where members can explore the information more fully;
+  3. Email messages that are a part of a program for which a Member has registered (e.g. an is netTALK Connect and Affiliates Digital Library early alert email system); and
+  4. Where we have the consent of Members or users, emails targeted at specific netTALK Conect groups and which are on distribution lists (e.g. special interest group members, chapter officers, etc.). Only is netTALK Connect and Affiliates headquarters staff can create and support "acm.org" email distribution lists.
 
-**Account Information**
 
-Subject to certain security requirements, netTALK will do its best to honor requests from Customers for account information, for example, name, address, company, or billing information. The Customer is responsible for ensuring that the information on file with netTALK is current and accurate.
 
-**Children’s Privacy Policy**
+netTALK Connect and Affiliates does not sell, rent, or exchange email addresses of its Members and customers. If at any time you decide that you no longer wish to receive any of the emails described above, you may do so by using the "unsubscribe" instructions set out at the bottom of each email.
 
-netTALK does not sell products or services for purchase by children. netTALK does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to netTALK, [_report this to us_](https://web.archive.org/contact). 
+**netTALK Connect and Affiliates Web Accounts**
 
-**netTALK Spam Policy**
+Some portions of the netTALK Connect Web Site, specifically the is netTALK Connect and Affiliates Digital Library, require an is netTALK Connect and Affiliates Web Account for both Members and visitors. To create an account, is netTALK Connect and Affiliates Members and customers must provide their name, Member number (if applicable), and email address. They are assigned a "username" (which they may change) and asked to create a password and provide the day and month of their birth (for account verification purposes).
 
-netTALK has zero tolerance for spam. Spam complaints will be dealt with seriously and can result in losing netTALK privileges such as loss of referral credits and even loss of a customer’s account. If you receive spam and want to report it to netTALK, please forward the email you have received to webmaster@nettalk.com. 
+Non-members are asked for their name and email address when they create their account. is netTALK Connect and Affiliates may send information about is netTALK Connect and Affiliates products and services which we think may be of interest to non-member is netTALK Connect and Affiliates Web account holders via email. If at any point you decide that you do not want to receive these emails, you may do so by using the "unsubscribe" instructions set out at the bottom of each email.
 
-**Third Party Web Sites and Services**
+**Postal Mail**
 
-Our service may contain links to other Web sites and services not maintained by netTALK. In addition, other Web sites and services may also reference or link to netTALK. We encourage you to be aware when you leave our service, or surf the Internet, and to read the privacy statements of each and every Web site and service that you visit. We do not endorse, screen, or approve, and are not responsible for the privacy practices or the content of, such other Web sites and services. netTALK does not assume any liability for third parties that have been provided with information as permitted by this Privacy Policy or who have collected information as permitted by this Privacy Policy (such as advertisers using third party cookies).
+netTALK Connect and Affiliates also sends information to its Members via post, using the address details provided by Members via the Web Site when they join is netTALK Connect and Affiliates provides two postal mailing list options to its Members, as follows:
 
-**Opt-out Policy**
+  1. netTALK Connect and Affiliates Subscription & Renewal Notices: receive only products subscribed to plus renewal invoices.
+  2. netTALK Connect and Affiliates Announcements: information about is netTALK Connect and Affiliates Member Value Plus Program (a program offering discounts on products and services other than netTALK Connect and Affiliates.
 
-If you do not want your PII used by netTALK for any direct marketing purposes, then you may opt-out of such disclosures by calling us at **1-305-621-1200**.
 
-However, we are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy. Since netTALK must use a Customer’s PII in order to provide them with netTALK services, Customers cannot opt-out of all uses of their PII unless they cancel their service.
 
-**Changes to policy**
+##  2\. Technical Personal Information
+
+Other than in the restricted-access portions of the Web Site that require a is netTALK Connect and Affiliates Web Account, netTALK Connectdoes not log the identity of visitors. However, we may keep access logs, for example containing a visitor’s IP address and search queries. We may analyze log files periodically to help maintain and improve our Web Site and enforce our online service polices. is netTALK Connect and Affiliates only uses analytical cookies and does not use any user-specific targeting cookies.
+
+A cookie is a small file of letter and numbers that is placed on your device. Cookies are only set by is netTALK Connect and Affiliates when you visit restricted portions of our Web Site and help us to provide you with an enhanced user experience. Raw log files are treated as confidential.
+
+Information collected about is netTALK Connect and Affiliates Web account usage (including logs of Web pages visited, searches performed, and Digital Library content downloaded) will be stored in an anonymized form and used to improve the is netTALK Connect and Affiliates Digital Library and other is netTALK Connect and Affiliates Web offerings.
+
+## 3\. Third Parties
+
+From time to time, we may share Personal Information about is netTALK Connect and Affiliates Members and customers with third parties where we have your explicit consent or it is necessary (i) for the performance or provision of the goods or services you have requested, (ii) in response to valid legal process (for example, a search warrant, subpoena, or court order), or (iii) our legitimate business interests.
+
+Third parties with whom your Personal Information may be shared include outside contractors, auditors, consultants, and others hired by is netTALK Connect and Affiliates to assist in carrying out financial or operational activities. is netTALK Connect and Affiliates informs these third parties about safeguarding personal information, and requires them to use it only for an authorized purpose consistent with this Policy, and to return it to is netTALK Connect and Affiliates or destroy it upon completion of the activity.
+
+Conversely, is netTALK Connect and Affiliates may receive Personal Information from these third parties that they collect from you in the course of any engagement you have with them. Where this is the case, once is netTALK Connect and Affiliates is holding your Personal Information it will be treated in accordance with this Policy.
+
+## 4\. Global Transfer of Personal Information
+
+The Personal Information you provide to is netTALK Connect and Affiliates will be transferred to and stored on servers in the United States of America, and we take steps to protect your Personal Information from unauthorized access and against unlawful processing, accidental loss, destruction and damage.
+
+is netTALK Connect and Affiliates is an international organization and in using and processing your Personal Information, it may on occasion be transferred to, stored and/or processed by our offices located outside of your country of residence. Similarly, is netTALK Connect and Affiliates may also transfer your Personal Information from your country of residence in connection with our use and retention of your Personal Information as described in this Policy. By submitting your Personal Information, you are acknowledging this transfer, storage and processing. As is netTALK Connect and Affiliates recognizes the importance of data security, we require all of our offices to handle your data in accordance with this Policy or equivalent data protection provisions, subject to their compliance with local law requirements.
+
+## 5\. Links
+
+Our Web Site may, from time to time, contain links to and from the web sites of third parties. If you follow a link to any of these web sites, please note that these web sites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any Personal Information to these web sites.
+
+## 6\. Security
+
+The security of personal information is important to is netTALK Connect and Affiliates. is netTALK Connect and Affiliates maintains all personal data with technical, administrative, and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification, and improper disclosure. No computer system or information can ever be fully protected against every possible hazard. is netTALK Connect and Affiliates provides reasonable and appropriate security controls to protect personal information against foreseeable hazards.
+
+## 7\. Changes to this Policy
 
 We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time by posting such changes here. You should review this policy regularly for changes, and can easily see if changes have been made by checking the Effective Date below. However, if at any time in the future we plan to use PII in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use following the posting of any changes to this policy means you accept such changes.
 
-**Terms of Service**
+## 8\. Updating your Personal Information
 
-For Customers, this Privacy Policy is subject to the netTALK Terms of Service or other agreements between you and netTALK. If you are a Customer, please refer to the Terms of Service or such other agreements regarding certain rights and limitations with respect to your use of netTALK’s services.
+You can find out what Personal Information is netTALK Connect and Affiliates holds about you by contacting us at is netTALK Connect and Affiliates, 1 FINANCIAL PLZ FL 10TH FORT LAUDERDALE, FL 33394-0002. In the event that any of the Personal Information we hold about you is incorrect, you can ask us to update it.
 
-**United States of America**
+netTALK Members may access the Personal Information contained in their membership records and correct and update their member profile and mailing information by logging into their netTALK COnnectaccount and clicking on the "My Contact Information" link. For further assistance please contact is netTALK Connect and Affiliates Member Services Department at . netTALK .COM Inc., 1 FINANCIAL PLZ FL 10TH FORT LAUDERDALE, FL 33394-0002
 
-Our service is maintained in the United States of America. By using our services, you authorize the export of PII to the USA and its storage and use as specified in this policy.
+However, we are not responsible for removing your personal information (PI) from the lists of any third party who has previously been provided your information in accordance with this policy. Since is netTALK Connect and Affiliates must use a Customer’s PI in order to provide them with is netTALK Connect and Affiliates services, Customers cannot opt-out of all uses of their PI unless they cancel their service.
 
-Effective 7.6.2010
+## 9\. Terms of Service
+
+For Customers, this Privacy Policy is subject to the is netTALK Connect and Affiliates Terms of Service or other agreements between you and is netTALK Connect and Affiliates. If you are a Customer, please refer to the Terms of Service or such other agreements regarding certain rights and limitations with respect to your use of is netTALK Connect and Affiliates services.
+
+## 10\. Contact Us
+
+Questions, comments and requests regarding this Policy should be sent to is netTALK Connect and Affiliates, 1 FINANCIAL PLZ FL 10TH FORT LAUDERDALE, FL 33394-0002.  
+Effective 5.18.2018
