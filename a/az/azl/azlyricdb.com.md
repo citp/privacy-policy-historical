@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azlyricdb.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035441id_/http%3A//azlyricdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlyricdb.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727203833id_/http%3A//azlyricdb.com/privacy) for the most accurate reproduction.*
 
 # Song Lyrics
 
