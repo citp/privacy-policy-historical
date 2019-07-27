@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalistate.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626221828id_/http%3A//journalistate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalistate.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728013018id_/http%3A//www.journalistate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Journalistate
 
