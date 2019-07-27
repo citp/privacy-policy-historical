@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tnhindi1.blogspot.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208012933id_/http%3A//tnhindi1.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnhindi1.blogspot.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727155022id_/http%3A//tnhindi1.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy ~ TN HINDI
 
 The owner of this “tn-hindi1” website does not share personal information with third-parties And tnhindi1.blogspot.com store or collect information about your visit for use or analyze content performance through the use of cookies. The owner is not responsible for the republishing of the content found on this blog on other Web sites or media without permission.
 
