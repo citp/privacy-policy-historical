@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022065500id_/https%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727122311id_/https%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
