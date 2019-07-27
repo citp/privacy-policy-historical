@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ohdela.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418043006id_/https%3A//ohdela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohdela.com privacy policy that was archived on 2019-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190727082744id_/http%3A//ohdela.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OHDELA
+# Privacy Policy - OHDELAOHDELA
 
 This policy explains how Accel Online Ohio, LLC (“OHDELA”) collects, uses and shares information about you and the choices that you can make about the way your information is collected, used and shared. Your use of Accel Online Ohio’s website signifies your acceptance of the terms of this policy.
 
