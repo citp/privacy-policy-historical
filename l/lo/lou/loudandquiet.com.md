@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudandquiet.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425125423id_/https%3A//www.loudandquiet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudandquiet.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728220222id_/https%3A//www.loudandquiet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Loud And Quiet
 
