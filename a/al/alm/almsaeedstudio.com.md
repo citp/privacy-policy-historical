@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almsaeedstudio.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313052408id_/https%3A//almsaeedstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almsaeedstudio.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728113946id_/https%3A//adminlte.io/privacy) for the most accurate reproduction.*
 
 # Almsaeed Studio
 
@@ -139,7 +139,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[Almsaeed Studio](https://almsaeedstudio.com/)  
+[Almsaeed Studio](https://adminlte.io/)  
 [abdullah@almsaeedstudio.com](mailto:abdullah@almsaeedstudio.com)
 
 Last Edited on Feb 9, 2016
