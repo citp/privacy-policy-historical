@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcluster.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628065124id_/http%3A//www.newcluster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcluster.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728232846id_/http%3A//www.newcluster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech News Cluster
 
