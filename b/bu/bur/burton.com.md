@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burton.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415233918id_/https%3A//www.burton.com/us/en/help/privacy-na.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burton.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728165658id_/https%3A//www.burton.com/us/en/help/privacy-na.html) for the most accurate reproduction.*
 
 # Privacy Policy | Burton Snowboards
 
@@ -103,7 +103,7 @@ We collect and process your personal information on the basis that your personal
 
 
 
-If you would like us to change how we deal with your personal information, you can send us an email at [info@burton.com](mailto:info@burton.com "Email info@burton.com") or contact us by mail at: The Burton Corporation, 80 Industrial Parkway, Burlington, VT 05401, Attn: General Counsel.
+If you would like us to change how we deal with your personal information, you can send us an email at [info@burton.com](mailto:info@burton.com "Email info@burton.com") or contact us by mail at: The Burton Corporation, 180 Queen City Park Road, Burlington, VT 05401, Attn: General Counsel.
 
 Additionally, if you are located in the European Union, you have the right to lodge a complaint with your local supervisory data protection authority about our use of your personal information.
 
