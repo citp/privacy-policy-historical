@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colllor.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816130141id_/http%3A//colllor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colllor.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728182457id_/http%3A//colllor.com/privacy.html) for the most accurate reproduction.*
 
 # Colllor - Privacy policy
 
