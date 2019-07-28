@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstwatch.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403015557id_/https%3A//www.firstwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstwatch.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728065016id_/https%3A//www.firstwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - First Watch
 
@@ -92,6 +92,8 @@ From time to time, we may use non-identifiable aggregate information to better d
 ### Analytics
 
 We partner with third-party suppliers to engage in analytics, analysis, auditing, measurement, research, and reporting, including without limitation based on PII or other data collected over time, such as through your (participation in our programs (such as Sun eClub), your activity on the Site, your device’s geolocation which may include specific longitude and latitude), and your activity on third-party sites, mobile apps, or other online services. We may use and share your data in individual format, so long as it does not identify you, or in the aggregate for the analytics purposes as described herein. Our third-party suppliers may use various tracking tools, such as web logs or pixel tags, cookies, or other technology on your device or browser. For example, we may use Facebook, HotJar, Google Analytics (you can opt out here), and/or other third-party services to collect and help us analyze certain information as described in this Policy.
+
+First Watch records essential information about user activity and interactions with this website for the purposes of security and site optimization analytics. This limited first-party data may be further enhanced with the help of third-party data sources to help facilitate visitor segmentation and re-engagement through verified marketing channels, within the respective boundaries of applicable legal standards.
 
 ### Data Security
 
