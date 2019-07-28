@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adminlte.io privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920100200id_/https%3A//adminlte.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminlte.io privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728113946id_/https%3A//adminlte.io/privacy) for the most accurate reproduction.*
 
 # Almsaeed Studio
 
