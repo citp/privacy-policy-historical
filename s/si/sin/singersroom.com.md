@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singersroom.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528035913id_/https%3A//singersroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singersroom.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728171400id_/https%3A//singersroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singersroom
 
