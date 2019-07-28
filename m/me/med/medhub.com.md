@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medhub.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506021348id_/http%3A//www.medhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhub.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728021112id_/http%3A//www.medhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MedHub
 
