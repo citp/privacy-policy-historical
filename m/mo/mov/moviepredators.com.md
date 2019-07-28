@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepredators.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627115929id_/http%3A//www.moviepredators.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepredators.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728091548id_/http%3A//moviepredators.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Movie Predators
 
