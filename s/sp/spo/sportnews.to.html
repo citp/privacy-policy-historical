@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportnews.to privacy policy that was archived on 2019-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190621034945id_/http%3A//www.sportnews.to/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportnews.to privacy policy that was archived on 2019-07-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190728182310id_/http%3A//www.sportnews.to/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
     <meta charset="UTF-8">
@@ -75,7 +75,78 @@ var cnArgs = {"ajaxurl":"http:\/\/www.sportnews.to\/wp-admin\/admin-ajax.php","h
 
 
 
-        <style type="text/css">
+<style>.woocommerce .products ul, .woocommerce ul.products {
+    margin: 0 0 0em;
+}
+
+img.zoomImg {
+    display:inline !important; 
+}
+</style>
+
+<script>jQuery(document).ready(function ($) {
+    // lazy load
+    if ('') {
+        jQuery.extend(jQuery.lazyLoadXT, {
+            srcAttr: 'data-src',
+            visibleOnly: false,
+            updateEvent: 'load orientationchange resize scroll touchmove focus hover'
+        });
+    }
+
+    // woocommerce lightbox/zoom
+    disableClick($);
+
+    // for all images at single product page
+    setTimeout(function () {
+        resizeImg($);
+        jQuery('a.woocommerce-product-gallery__trigger').css('visibility', 'visible');
+    }, 2500);
+});
+
+jQuery(window).on('ajaxComplete', function () {
+    if ('') {
+        setTimeout(function () {
+            jQuery(window).lazyLoadXT();
+        }, 300);
+    }
+});
+
+jQuery(window).on('load', function () {
+    jQuery('.flex-viewport').css('height', '100%');
+});
+
+function resizeImg($) {
+    var imgSelector = ".post img, .page img, .widget-content img, .product img, .wp-admin img, .tax-product_cat img, .fifu img";
+    var resizeImage = function (sSel) {
+        jQuery(sSel).each(function () {
+            //original size
+            var width = $(this)['0'].naturalWidth;
+            var height = $(this)['0'].naturalHeight;
+            jQuery(this).attr('data-large_image_width', width);
+            jQuery(this).attr('data-large_image_height', height);
+
+            //100%
+            //var ratio = width / height;
+            //jQuery(this).attr('data-large_image_width', jQuery(window).width() * ratio);
+            //jQuery(this).attr('data-large_image_height', jQuery(window).width());
+        });
+    };
+    resizeImage(imgSelector);
+}
+
+function disableClick($) {
+    if ('') {
+        jQuery('.woocommerce-product-gallery__image').each(function (index) {
+            jQuery(this).children().click(function () {
+                return false;
+            });
+            jQuery(this).children().children().css("cursor", "default");
+        });
+    }
+}
+</script>
+<style>[class$="woocommerce-product-gallery__trigger"] {visibility:hidden;}</style>        <style type="text/css">
                         .site-title a,
             .site-header .site-branding .site-title a:visited,
             .site-header .site-branding .site-title a:hover,
@@ -88,6 +159,7 @@ var cnArgs = {"ajaxurl":"http:\/\/www.sportnews.to\/wp-admin\/admin-ajax.php","h
             }
 
             @media only screen and (max-width: 640px) {
+                .header-layout-3 .site-header .site-branding .site-title,
                 .site-branding .site-title {
                     font-size: 60px;
 
@@ -95,7 +167,8 @@ var cnArgs = {"ajaxurl":"http:\/\/www.sportnews.to\/wp-admin\/admin-ajax.php","h
               }   
 
            @media only screen and (max-width: 375px) {
-                    .site-branding .site-title {
+               .header-layout-3 .site-header .site-branding .site-title,
+               .site-branding .site-title {
                         font-size: 50px;
 
                     }
@@ -206,62 +279,63 @@ text-decoration:none;
 <div id="page" class="site">
     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-    <div class="top-masthead">
+    <div class="header-layout-1">
+                    <div class="top-masthead">
 
-        <div class="container">
-            <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-8 device-center">
-                                                    <span class="topbar-date">
-                                        Thu. Jun 20th, 2019                                     </span>
+                <div class="container">
+                    <div class="row">
+                                                    <div class="col-xs-12 col-sm-12 col-md-8 device-center">
+                                                                    <span class="topbar-date">
+                                        Sun. Jul 28th, 2019                                     </span>
 
-                        
-                                            </div>
-                                            </div>
-        </div>
-    </div> 
-<header id="masthead" class="site-header">
-        <div class="masthead-banner data-bg" data-background="http://www.sportnews.to/wp-content/uploads/2019/01/cropped-Baseball-Stadium-Full-HD-Wallpaper.jpg">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="site-branding">
-                                                    <p class="site-title font-family-1">
-                                <a href="http://www.sportnews.to/" rel="home">Sport News</a>
-                            </p>
-                        
-                                                    <p class="site-description">Your Daily football News Source</p>
-                                            </div>
+                                
+                                                            </div>
+                                                                    </div>
                 </div>
-                <div class="col-md-8">
-                                    </div>
+            </div> 
+                <header id="masthead" class="site-header">
+                        <div class="masthead-banner data-bg" data-background="http://www.sportnews.to/wp-content/uploads/2019/01/cropped-Baseball-Stadium-Full-HD-Wallpaper.jpg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="site-branding">
+                                                                    <p class="site-title font-family-1">
+                                        <a href="http://www.sportnews.to/" rel="home">Sport News</a>
+                                    </p>
+                                
+                                                                    <p class="site-description">Your Daily football News Source</p>
+                                                            </div>
+                        </div>
+                        <div class="col-md-8">
+                                                    </div>
+                    </div>
+                </div>
             </div>
-        </div>
-    </div>
-    <nav id="site-navigation" class="main-navigation">
-        <div class="container">
-            <div class="row">
-                <div class="kol-12">
-                    <div class="navigation-container">
+            <nav id="site-navigation" class="main-navigation">
+                <div class="container">
+                    <div class="row">
+                        <div class="kol-12">
+                            <div class="navigation-container">
 
 
-                        <div class="cart-search">
+                                <div class="cart-search">
 
                             <span class="af-search-click icon-search">
                                     <i class="fa fa-search"></i>
                             </span>
-                        </div>
+                                </div>
 
 
-                        <span class="toggle-menu" aria-controls="primary-menu" aria-expanded="false">
+                                <span class="toggle-menu" aria-controls="primary-menu" aria-expanded="false">
                                 <span class="screen-reader-text">Primary Menu</span>
                                  <i class="ham"></i>
                         </span>
-                        <span class="af-mobile-site-title-wrap">
-                                                        <p class="site-title font-family-1">
+                                <span class="af-mobile-site-title-wrap">
+                                                                <p class="site-title font-family-1">
                                 <a href="http://www.sportnews.to/" rel="home">Sport News</a>
                             </p>
                         </span>
-                        <div class="menu main-menu"><ul id="primary-menu" class="menu"><li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-509"><a href="http://www.sportnews.to/">Home</a></li>
+                                <div class="menu main-menu"><ul id="primary-menu" class="menu"><li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-509"><a href="http://www.sportnews.to/">Home</a></li>
 <li id="menu-item-510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-510"><a>Football News</a>
 <ul class="sub-menu">
 	<li id="menu-item-512" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-512"><a href="http://www.sportnews.to/category/bundesliga/">Bundesliga</a></li>
@@ -280,29 +354,30 @@ text-decoration:none;
 <li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="http://www.sportnews.to/live-score/">Live Score</a></li>
 </ul></div>
 
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </nav>
-</header>
+            </nav>
+        </header>
 
-<div id="af-search-wrap">
-    <div class="af-search-box table-block">
-        <div class="table-block-child v-center text-center">
-            <form role="search" method="get" class="search-form" action="http://www.sportnews.to/">
+        <div id="af-search-wrap">
+            <div class="af-search-box table-block">
+                <div class="table-block-child v-center text-center">
+                    <form role="search" method="get" class="search-form" action="http://www.sportnews.to/">
 				<label>
 					<span class="screen-reader-text">Search for:</span>
 					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
 				</label>
 				<input type="submit" class="search-submit" value="Search">
-			</form>        </div>
+			</form>                </div>
+            </div>
+            <div class="af-search-close af-search-click">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
     </div>
-    <div class="af-search-close af-search-click">
-        <span></span>
-        <span></span>
-    </div>
-</div>
 
     <div id="content" class="container">
 
@@ -410,61 +485,8 @@ If you have any questions, please contact us using the contact page.</p>
                                                                                         <div class="col-sm-4 col-image">
 
                                         <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/bournemouth-look-to-ward-arsenal-interest-in-ryan-fraser-as-they-slap-25m-price-tag-on-winger/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/14825518-7144769-image-a-116_1560603760810-150x150.jpg">
-                                            </a>
-                                        </div>
-                                         
-                                </div>
-                                                        <div class="full-item-details col-details col-sm-8">
-                            <div class="prime-row">    
-                                <div class="full-item-metadata primary-font">
-                                    <div class="figure-categories figure-categories-bg">
-                                       
-                                        <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/transfer-news/" alt="View all posts in Transfer News"> 
-                                 Transfer News
-                             </a>
-                        </li></ul>                                    </div>
-                                </div>
-                                <div class="full-item-content">
-                                    <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/bournemouth-look-to-ward-arsenal-interest-in-ryan-fraser-as-they-slap-25m-price-tag-on-winger/">
-                                            Bournemouth look to ward Arsenal interest in Ryan Fraser as they slap £25m price-tag on winger                                        </a>
-                                    </h3>
-                                    <div class="grid-item-metadata">
-                                                                                
-        <span class="author-links">
-                            <span class="item-metadata posts-date">
-                <i class="far fa-clock"></i>
-                    1 min ago            </span>
-                        
-                <span class="item-metadata posts-author">
-            <a href="http://www.sportnews.to/author/admin/">
-                admin            </a>
-        </span>
-                    </span>
-        
-                                    </div>
-                                                                            <div class="full-item-discription">
-                                            <div class="post-description">
-                                                                                                    <p>Bournemouth seek to ward off Arsenal interest in Ryan Fraser as they slap £25m price-tag…</p>
-                                                                                            </div>
-                                        </div>
-                                                                    </div>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                            <li class="full-item clearfix">
-                    <div class="base-border">
-                        <div class="row-sm align-items-center">
-                                                                                        <div class="col-sm-4 col-image">
-
-                                        <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/andre-gomes-everton-close-to-signing-barcelona-midfielder-as-leighton-baines-signs-new-deal/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/_107460630_gettyimages-1148651485-150x150.jpg">
+                                            <a href="http://www.sportnews.to/2019/07/xavier-amaechi-arsenal-winger-signs-for-hamburg-on-four-year-deal/" class="post-thumb">
+                                                <img src="https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/88AC/production/_108088943_amaechi.jpg">
                                             </a>
                                         </div>
                                          
@@ -482,15 +504,15 @@ If you have any questions, please contact us using the contact page.</p>
                                 </div>
                                 <div class="full-item-content">
                                     <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/andre-gomes-everton-close-to-signing-barcelona-midfielder-as-leighton-baines-signs-new-deal/">
-                                            Andre Gomes: Everton close to signing Barcelona midfielder as Leighton Baines signs new deal                                        </a>
+                                        <a href="http://www.sportnews.to/2019/07/xavier-amaechi-arsenal-winger-signs-for-hamburg-on-four-year-deal/">
+                                            Xavier Amaechi: Arsenal winger signs for Hamburg on four-year deal                                        </a>
                                     </h3>
                                     <div class="grid-item-metadata">
                                                                                 
         <span class="author-links">
                             <span class="item-metadata posts-date">
                 <i class="far fa-clock"></i>
-                    3 mins ago            </span>
+                    2 mins ago            </span>
                         
                 <span class="item-metadata posts-author">
             <a href="http://www.sportnews.to/author/admin/">
@@ -501,7 +523,7 @@ If you have any questions, please contact us using the contact page.</p>
                                     </div>
                                                                             <div class="full-item-discription">
                                             <div class="post-description">
-                                                                                                    <p>Andre Gomes made 27 Premier League appearances for Everton last season, scoring one goal Everton…</p>
+                                                                                                    <p>Amaechi had approaches from Barcelona, Bayern Munich, Inter Milan and four Premier League sides Arsenal…</p>
                                                                                             </div>
                                         </div>
                                                                     </div>
@@ -516,8 +538,8 @@ If you have any questions, please contact us using the contact page.</p>
                                                                                         <div class="col-sm-4 col-image">
 
                                         <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/ferland-mendy-unveiled-at-real-madrid-and-says-its-an-honour-to-be-at-the-best-club-in-the-world/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/14982804-7157647-image-a-12_1560943887456-150x150.jpg">
+                                            <a href="http://www.sportnews.to/2019/07/transfer-news-pep-guardiola-admits-manchester-city-may-sign-one-more-player-before-the-window-shuts/" class="post-thumb">
+                                                <img src="https://i.dailymail.co.uk/1s/2019/07/26/11/16531306-7289235-image-a-9_1564138691812.jpg">
                                             </a>
                                         </div>
                                          
@@ -528,121 +550,15 @@ If you have any questions, please contact us using the contact page.</p>
                                     <div class="figure-categories figure-categories-bg">
                                        
                                         <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/primera-division/" alt="View all posts in Primera División"> 
-                                 Primera División
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/serie-a/" alt="View all posts in Serie A"> 
+                                 Serie A
                              </a>
                         </li></ul>                                    </div>
                                 </div>
                                 <div class="full-item-content">
                                     <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/ferland-mendy-unveiled-at-real-madrid-and-says-its-an-honour-to-be-at-the-best-club-in-the-world/">
-                                            Ferland Mendy unveiled at Real Madrid and says: ‘It’s an honour to be at the best club in the world’                                        </a>
-                                    </h3>
-                                    <div class="grid-item-metadata">
-                                                                                
-        <span class="author-links">
-                            <span class="item-metadata posts-date">
-                <i class="far fa-clock"></i>
-                    4 mins ago            </span>
-                        
-                <span class="item-metadata posts-author">
-            <a href="http://www.sportnews.to/author/admin/">
-                admin            </a>
-        </span>
-                    </span>
-        
-                                    </div>
-                                                                            <div class="full-item-discription">
-                                            <div class="post-description">
-                                                                                                    <p>Another day, another Real Madrid player unveiling… Ferland Mendy arrives at Santiago Bernabeu as £49m…</p>
-                                                                                            </div>
-                                        </div>
-                                                                    </div>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                            <li class="full-item clearfix">
-                    <div class="base-border">
-                        <div class="row-sm align-items-center">
-                                                                                        <div class="col-sm-4 col-image">
-
-                                        <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/dortmund-fans-unsure-about-return-of-mats-hummels-from-bayern-munich/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/14993248-0-image-m-68_1560957998915-150x150.jpg">
-                                            </a>
-                                        </div>
-                                         
-                                </div>
-                                                        <div class="full-item-details col-details col-sm-8">
-                            <div class="prime-row">    
-                                <div class="full-item-metadata primary-font">
-                                    <div class="figure-categories figure-categories-bg">
-                                       
-                                        <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/bundesliga/" alt="View all posts in Bundesliga"> 
-                                 Bundesliga
-                             </a>
-                        </li></ul>                                    </div>
-                                </div>
-                                <div class="full-item-content">
-                                    <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/dortmund-fans-unsure-about-return-of-mats-hummels-from-bayern-munich/">
-                                            Dortmund fans unsure about return of Mats Hummels from Bayern Munich                                        </a>
-                                    </h3>
-                                    <div class="grid-item-metadata">
-                                                                                
-        <span class="author-links">
-                            <span class="item-metadata posts-date">
-                <i class="far fa-clock"></i>
-                    5 mins ago            </span>
-                        
-                <span class="item-metadata posts-author">
-            <a href="http://www.sportnews.to/author/admin/">
-                admin            </a>
-        </span>
-                    </span>
-        
-                                    </div>
-                                                                            <div class="full-item-discription">
-                                            <div class="post-description">
-                                                                                                    <p>‘He abandoned the captain’s armband for our biggest rivals’: Dortmund fans unsure about return of…</p>
-                                                                                            </div>
-                                        </div>
-                                                                    </div>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                            <li class="full-item clearfix">
-                    <div class="base-border">
-                        <div class="row-sm align-items-center">
-                                                                                        <div class="col-sm-4 col-image">
-
-                                        <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/rangers-face-potential-rematch-with-progres-niederkorn-if-they-go-through-in-europa-league/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/15005324-0-Rangers_could_face_Progres_Niederkorn_in_Europa_League_s_second_-m-45_1560979309237-150x150.jpg">
-                                            </a>
-                                        </div>
-                                         
-                                </div>
-                                                        <div class="full-item-details col-details col-sm-8">
-                            <div class="prime-row">    
-                                <div class="full-item-metadata primary-font">
-                                    <div class="figure-categories figure-categories-bg">
-                                       
-                                        <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/europa-league/" alt="View all posts in Europa League"> 
-                                 Europa League
-                             </a>
-                        </li></ul>                                    </div>
-                                </div>
-                                <div class="full-item-content">
-                                    <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/rangers-face-potential-rematch-with-progres-niederkorn-if-they-go-through-in-europa-league/">
-                                            Rangers face potential rematch with Progres Niederkorn if they go through in Europa League                                        </a>
+                                        <a href="http://www.sportnews.to/2019/07/transfer-news-pep-guardiola-admits-manchester-city-may-sign-one-more-player-before-the-window-shuts/">
+                                            Transfer news: Pep Guardiola admits Manchester City may sign one more player before the window shuts                                        </a>
                                     </h3>
                                     <div class="grid-item-metadata">
                                                                                 
@@ -660,7 +576,166 @@ If you have any questions, please contact us using the contact page.</p>
                                     </div>
                                                                             <div class="full-item-discription">
                                             <div class="post-description">
-                                                                                                    <p>Rangers face potential rematch with Progres Niederkorn – who knocked them out in 2017 –…</p>
+                                                                                                    <p>‘It won’t be many’: Pep Guardiola admits Manchester City may sign one more player before…</p>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                            <li class="full-item clearfix">
+                    <div class="base-border">
+                        <div class="row-sm align-items-center">
+                                                                                        <div class="col-sm-4 col-image">
+
+                                        <div class="tab-article-image">
+                                            <a href="http://www.sportnews.to/2019/07/watch-united-youngsters-ease-past-rangers/" class="post-thumb">
+                                                <img src="https://m.files.bbci.co.uk/modules/bbc-morph-sport-page/3.2.0/images/bbc-sport-logo.png">
+                                            </a>
+                                        </div>
+                                         
+                                </div>
+                                                        <div class="full-item-details col-details col-sm-8">
+                            <div class="prime-row">    
+                                <div class="full-item-metadata primary-font">
+                                    <div class="figure-categories figure-categories-bg">
+                                       
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/premier-league/" alt="View all posts in Premier League"> 
+                                 Premier League
+                             </a>
+                        </li></ul>                                    </div>
+                                </div>
+                                <div class="full-item-content">
+                                    <h3 class="article-title article-title-1">
+                                        <a href="http://www.sportnews.to/2019/07/watch-united-youngsters-ease-past-rangers/">
+                                            Watch: United youngsters ease past Rangers                                        </a>
+                                    </h3>
+                                    <div class="grid-item-metadata">
+                                                                                
+        <span class="author-links">
+                            <span class="item-metadata posts-date">
+                <i class="far fa-clock"></i>
+                    13 mins ago            </span>
+                        
+                <span class="item-metadata posts-author">
+            <a href="http://www.sportnews.to/author/admin/">
+                admin            </a>
+        </span>
+                    </span>
+        
+                                    </div>
+                                                                            <div class="full-item-discription">
+                                            <div class="post-description">
+                                                                                                    <p>Manchester United Under-21s produce a clinical attacking performance to outclass Rangers in their Super Cup…</p>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                            <li class="full-item clearfix">
+                    <div class="base-border">
+                        <div class="row-sm align-items-center">
+                                                                                        <div class="col-sm-4 col-image">
+
+                                        <div class="tab-article-image">
+                                            <a href="http://www.sportnews.to/2019/07/transfer-news-juventus-to-offer-dybala-to-manchester-united-as-part-of-lukaku-deal/" class="post-thumb">
+                                                <img src="https://i.dailymail.co.uk/1s/2019/07/27/08/16562966-7292033-image-a-21_1564212971112.jpg">
+                                            </a>
+                                        </div>
+                                         
+                                </div>
+                                                        <div class="full-item-details col-details col-sm-8">
+                            <div class="prime-row">    
+                                <div class="full-item-metadata primary-font">
+                                    <div class="figure-categories figure-categories-bg">
+                                       
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/serie-a/" alt="View all posts in Serie A"> 
+                                 Serie A
+                             </a>
+                        </li></ul>                                    </div>
+                                </div>
+                                <div class="full-item-content">
+                                    <h3 class="article-title article-title-1">
+                                        <a href="http://www.sportnews.to/2019/07/transfer-news-juventus-to-offer-dybala-to-manchester-united-as-part-of-lukaku-deal/">
+                                            Transfer news: Juventus ‘to offer Dybala to Manchester United’ as part of Lukaku deal&nbsp;&nbsp;                                        </a>
+                                    </h3>
+                                    <div class="grid-item-metadata">
+                                                                                
+        <span class="author-links">
+                            <span class="item-metadata posts-date">
+                <i class="far fa-clock"></i>
+                    18 mins ago            </span>
+                        
+                <span class="item-metadata posts-author">
+            <a href="http://www.sportnews.to/author/admin/">
+                admin            </a>
+        </span>
+                    </span>
+        
+                                    </div>
+                                                                            <div class="full-item-discription">
+                                            <div class="post-description">
+                                                                                                    <p>Juventus ready to hijack Romelu Lukaku move to rivals Inter with Serie A champions ‘to…</p>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                            <li class="full-item clearfix">
+                    <div class="base-border">
+                        <div class="row-sm align-items-center">
+                                                                                        <div class="col-sm-4 col-image">
+
+                                        <div class="tab-article-image">
+                                            <a href="http://www.sportnews.to/2019/07/st-johnstone-tommy-wright-disappointed-with-youth-in-disastrous-cup-campaign/" class="post-thumb">
+                                                <img src="https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/11949/production/_108090027_19157910.jpg">
+                                            </a>
+                                        </div>
+                                         
+                                </div>
+                                                        <div class="full-item-details col-details col-sm-8">
+                            <div class="prime-row">    
+                                <div class="full-item-metadata primary-font">
+                                    <div class="figure-categories figure-categories-bg">
+                                       
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/premier-league/" alt="View all posts in Premier League"> 
+                                 Premier League
+                             </a>
+                        </li></ul>                                    </div>
+                                </div>
+                                <div class="full-item-content">
+                                    <h3 class="article-title article-title-1">
+                                        <a href="http://www.sportnews.to/2019/07/st-johnstone-tommy-wright-disappointed-with-youth-in-disastrous-cup-campaign/">
+                                            St Johnstone: Tommy Wright disappointed with youth in ‘disastrous’ cup campaign                                        </a>
+                                    </h3>
+                                    <div class="grid-item-metadata">
+                                                                                
+        <span class="author-links">
+                            <span class="item-metadata posts-date">
+                <i class="far fa-clock"></i>
+                    24 mins ago            </span>
+                        
+                <span class="item-metadata posts-author">
+            <a href="http://www.sportnews.to/author/admin/">
+                admin            </a>
+        </span>
+                    </span>
+        
+                                    </div>
+                                                                            <div class="full-item-discription">
+                                            <div class="post-description">
+                                                                                                    <p>Tommy Wright says some of his young players are not ready for regular starts Tommy…</p>
                                                                                             </div>
                                         </div>
                                                                     </div>
@@ -674,37 +749,28 @@ If you have any questions, please contact us using the contact page.</p>
                         <ul class="article-item article-list-item article-tabbed-list article-item-left">                <li class="full-item clearfix">
                     <div class="base-border">
                         <div class="row-sm align-items-center">
-                                                                                        <div class="col-sm-4 col-image">
-
-                                        <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/transfer-news-live-arsenal-liverpool-man-utd-chelsea-barcelona-and-rest-deals-and-signings/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/636x90_facebook_ad_sport-150x90.png">
-                                            </a>
-                                        </div>
-                                         
-                                </div>
-                                                        <div class="full-item-details col-details col-sm-8">
+                                                                                    <div class="full-item-details col-details col-sm-12">
                             <div class="prime-row">    
                                 <div class="full-item-metadata primary-font">
                                     <div class="figure-categories figure-categories-bg">
                                        
                                         <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/bundesliga/" alt="View all posts in Bundesliga"> 
-                                 Bundesliga
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/uefa-euro-2020/" alt="View all posts in UEFA Euro 2020"> 
+                                 UEFA Euro 2020
                              </a>
                         </li></ul>                                    </div>
                                 </div>
                                 <div class="full-item-content">
                                     <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/transfer-news-live-arsenal-liverpool-man-utd-chelsea-barcelona-and-rest-deals-and-signings/">
-                                            Transfer news LIVE: Arsenal, Liverpool, Man Utd, Chelsea, Barcelona and rest – deals and signings                                        </a>
+                                        <a href="http://www.sportnews.to/2019/06/real-madrid-fans-cant-contain-their-excitement-over-new-signing-luka-jovic/">
+                                            Real Madrid fans can’t contain their excitement over new signing Luka Jovic                                        </a>
                                     </h3>
                                     <div class="grid-item-metadata">
                                                                                 
         <span class="author-links">
                             <span class="item-metadata posts-date">
                 <i class="far fa-clock"></i>
-                    2 weeks ago            </span>
+                    2 months ago            </span>
                         
                 <span class="item-metadata posts-author">
             <a href="http://www.sportnews.to/author/admin/">
@@ -715,7 +781,7 @@ If you have any questions, please contact us using the contact page.</p>
                                     </div>
                                                                             <div class="full-item-discription">
                                             <div class="post-description">
-                                                                                                    <p>Transfer news LIVE: Arsenal, Liverpool, Manchester United, Chelsea, Man City, Barcelona and rest of Europe…</p>
+                                                                                                    <p>‘Can the new season start already?’: Real Madrid fans can’t contain their excitement over new…</p>
                                                                                             </div>
                                         </div>
                                                                     </div>
@@ -727,37 +793,28 @@ If you have any questions, please contact us using the contact page.</p>
                             <li class="full-item clearfix">
                     <div class="base-border">
                         <div class="row-sm align-items-center">
-                                                                                        <div class="col-sm-4 col-image">
-
-                                        <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/valencia-install-statue-at-the-mestalla-in-tribute-to-blind-supporter/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/14328308-7101065-image-a-19_1559603174599-150x150.jpg">
-                                            </a>
-                                        </div>
-                                         
-                                </div>
-                                                        <div class="full-item-details col-details col-sm-8">
+                                                                                    <div class="full-item-details col-details col-sm-12">
                             <div class="prime-row">    
                                 <div class="full-item-metadata primary-font">
                                     <div class="figure-categories figure-categories-bg">
                                        
                                         <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/primera-division/" alt="View all posts in Primera División"> 
-                                 Primera División
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/transfer-news/" alt="View all posts in Transfer News"> 
+                                 Transfer News
                              </a>
                         </li></ul>                                    </div>
                                 </div>
                                 <div class="full-item-content">
                                     <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/valencia-install-statue-at-the-mestalla-in-tribute-to-blind-supporter/">
-                                            Valencia install statue at the Mestalla in tribute to blind supporter                                        </a>
+                                        <a href="http://www.sportnews.to/2019/06/manchester-united-move-for-sporting-lisbon-midfielder-fernandes-is-not-dependent-on-pogba-sale/">
+                                            Manchester United move for Sporting Lisbon midfielder Fernandes ‘is not dependent on Pogba sale’                                        </a>
                                     </h3>
                                     <div class="grid-item-metadata">
                                                                                 
         <span class="author-links">
                             <span class="item-metadata posts-date">
                 <i class="far fa-clock"></i>
-                    2 weeks ago            </span>
+                    2 months ago            </span>
                         
                 <span class="item-metadata posts-author">
             <a href="http://www.sportnews.to/author/admin/">
@@ -768,7 +825,7 @@ If you have any questions, please contact us using the contact page.</p>
                                     </div>
                                                                             <div class="full-item-discription">
                                             <div class="post-description">
-                                                                                                    <p>Valencia install statue at the Mestalla of late supporter who went blind but kept renewing…</p>
+                                                                                                    <p>Manchester United move for £62m Sporting Lisbon midfielder Bruno Fernandes ‘is not dependent on Paul…</p>
                                                                                             </div>
                                         </div>
                                                                     </div>
@@ -780,37 +837,28 @@ If you have any questions, please contact us using the contact page.</p>
                             <li class="full-item clearfix">
                     <div class="base-border">
                         <div class="row-sm align-items-center">
-                                                                                        <div class="col-sm-4 col-image">
-
-                                        <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/lucas-perez-leaves-west-ham-after-just-one-season-as-he-returns-to-spain-to-join-alaves-in-2m-deal/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/14328346-0-image-a-26_1559600512210-150x150.jpg">
-                                            </a>
-                                        </div>
-                                         
-                                </div>
-                                                        <div class="full-item-details col-details col-sm-8">
+                                                                                    <div class="full-item-details col-details col-sm-12">
                             <div class="prime-row">    
                                 <div class="full-item-metadata primary-font">
                                     <div class="figure-categories figure-categories-bg">
                                        
                                         <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/primera-division/" alt="View all posts in Primera División"> 
-                                 Primera División
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/eredivisie/" alt="View all posts in Eredivisie"> 
+                                 Eredivisie
                              </a>
                         </li></ul>                                    </div>
                                 </div>
                                 <div class="full-item-content">
                                     <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/lucas-perez-leaves-west-ham-after-just-one-season-as-he-returns-to-spain-to-join-alaves-in-2m-deal/">
-                                            Lucas Perez leaves West Ham after just one season as he returns to Spain to join Alaves in £2m deal                                        </a>
+                                        <a href="http://www.sportnews.to/2019/06/mino-raiola-has-meeting-in-paris-hotel-room-with-psg-sporting-director-about-matthijs-de-ligt-deal/">
+                                            Mino Raiola has meeting in Paris hotel room with PSG sporting director about Matthijs de Ligt deal                                        </a>
                                     </h3>
                                     <div class="grid-item-metadata">
                                                                                 
         <span class="author-links">
                             <span class="item-metadata posts-date">
                 <i class="far fa-clock"></i>
-                    2 weeks ago            </span>
+                    2 months ago            </span>
                         
                 <span class="item-metadata posts-author">
             <a href="http://www.sportnews.to/author/admin/">
@@ -821,7 +869,7 @@ If you have any questions, please contact us using the contact page.</p>
                                     </div>
                                                                             <div class="full-item-discription">
                                             <div class="post-description">
-                                                                                                    <p>Lucas Perez leaves West Ham after just one season as he returns to Spain to…</p>
+                                                                                                    <p>Mino Raiola has meeting in Paris hotel room with PSG sporting director Antero Henrique as…</p>
                                                                                             </div>
                                         </div>
                                                                     </div>
@@ -833,37 +881,28 @@ If you have any questions, please contact us using the contact page.</p>
                             <li class="full-item clearfix">
                     <div class="base-border">
                         <div class="row-sm align-items-center">
-                                                                                        <div class="col-sm-4 col-image">
-
-                                        <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/barcelona-reveal-kit-for-2019-2020-as-they-ditch-traditional-stripes/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/14316878-7100297-image-a-36_1559584111350-150x150.jpg">
-                                            </a>
-                                        </div>
-                                         
-                                </div>
-                                                        <div class="full-item-details col-details col-sm-8">
+                                                                                    <div class="full-item-details col-details col-sm-12">
                             <div class="prime-row">    
                                 <div class="full-item-metadata primary-font">
                                     <div class="figure-categories figure-categories-bg">
                                        
                                         <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/primera-division/" alt="View all posts in Primera División"> 
-                                 Primera División
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/nations-league/" alt="View all posts in Nations League"> 
+                                 Nations League
                              </a>
                         </li></ul>                                    </div>
                                 </div>
                                 <div class="full-item-content">
                                     <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/barcelona-reveal-kit-for-2019-2020-as-they-ditch-traditional-stripes/">
-                                            Barcelona reveal kit for 2019-2020 as they ditch traditional stripes                                        </a>
+                                        <a href="http://www.sportnews.to/2019/06/atletico-madrid-ready-to-go-all-out-for-joao-felix/">
+                                            Atletico Madrid ready to ‘go all out’ for Joao Felix                                        </a>
                                     </h3>
                                     <div class="grid-item-metadata">
                                                                                 
         <span class="author-links">
                             <span class="item-metadata posts-date">
                 <i class="far fa-clock"></i>
-                    2 weeks ago            </span>
+                    2 months ago            </span>
                         
                 <span class="item-metadata posts-author">
             <a href="http://www.sportnews.to/author/admin/">
@@ -874,7 +913,7 @@ If you have any questions, please contact us using the contact page.</p>
                                     </div>
                                                                             <div class="full-item-discription">
                                             <div class="post-description">
-                                                                                                    <p>Barcelona reveal kit for 2019-2020 as they ditch traditional stripes for chequered pattern to pay…</p>
+                                                                                                    <p>Atletico Madrid ready to ‘go all out’ for Joao Felix as they prepare £70m bid…</p>
                                                                                             </div>
                                         </div>
                                                                     </div>
@@ -886,37 +925,28 @@ If you have any questions, please contact us using the contact page.</p>
                             <li class="full-item clearfix">
                     <div class="base-border">
                         <div class="row-sm align-items-center">
-                                                                                        <div class="col-sm-4 col-image">
-
-                                        <div class="tab-article-image">
-                                            <a href="http://www.sportnews.to/lionel-messi-tells-barcelona-board-that-he-has-concerns-about-antoine-griezmanns-attitude/" class="post-thumb">
-                                                <img src="http://www.sportnews.to/wp-content/uploads/2019/06/14303838-7099269-image-a-25_1559569517710-150x150.jpg">
-                                            </a>
-                                        </div>
-                                         
-                                </div>
-                                                        <div class="full-item-details col-details col-sm-8">
+                                                                                    <div class="full-item-details col-details col-sm-12">
                             <div class="prime-row">    
                                 <div class="full-item-metadata primary-font">
                                     <div class="figure-categories figure-categories-bg">
                                        
                                         <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/primera-division/" alt="View all posts in Primera División"> 
-                                 Primera División
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/ligue-1/" alt="View all posts in Ligue 1"> 
+                                 Ligue 1
                              </a>
                         </li></ul>                                    </div>
                                 </div>
                                 <div class="full-item-content">
                                     <h3 class="article-title article-title-1">
-                                        <a href="http://www.sportnews.to/lionel-messi-tells-barcelona-board-that-he-has-concerns-about-antoine-griezmanns-attitude/">
-                                            Lionel Messi ‘tells Barcelona board that he has concerns’ about Antoine Griezmann’s attitude                                        </a>
+                                        <a href="http://www.sportnews.to/2019/06/arsenal-move-ahead-of-manchester-united-in-the-race-to-sign-saint-etienne-defender-william-saliba/">
+                                            Arsenal ‘move ahead of Manchester United in the race to sign&nbsp;Saint-Etienne defender William Saliba’                                        </a>
                                     </h3>
                                     <div class="grid-item-metadata">
                                                                                 
         <span class="author-links">
                             <span class="item-metadata posts-date">
                 <i class="far fa-clock"></i>
-                    2 weeks ago            </span>
+                    2 months ago            </span>
                         
                 <span class="item-metadata posts-author">
             <a href="http://www.sportnews.to/author/admin/">
@@ -927,7 +957,7 @@ If you have any questions, please contact us using the contact page.</p>
                                     </div>
                                                                             <div class="full-item-discription">
                                             <div class="post-description">
-                                                                                                    <p>Lionel Messi ‘tells Barcelona board that he has concerns’ about Antoine Griezmann’s attitude and would…</p>
+                                                                                                    <p>Arsenal ‘move ahead of Manchester United in the race to sign Saint-Etienne defender William Saliba’…</p>
                                                                                             </div>
                                         </div>
                                                                     </div>
@@ -961,47 +991,8 @@ If you have any questions, please contact us using the contact page.</p>
                 <div class="spotlight-post">
                     <figure class="categorised-article inside-img">
                         <div class="categorised-article-wrapper">
-                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="http://www.sportnews.to/wp-content/uploads/2019/06/14825518-7144769-image-a-116_1560603760810.jpg">
-                                <a href="http://www.sportnews.to/bournemouth-look-to-ward-arsenal-interest-in-ryan-fraser-as-they-slap-25m-price-tag-on-winger/"></a>
-                            </div>
-                        </div>
-                                                <div class="figure-categories figure-categories-bg">
-                            
-                            <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/transfer-news/" alt="View all posts in Transfer News"> 
-                                 Transfer News
-                             </a>
-                        </li></ul>                        </div>
-                    </figure>
-
-                    <figcaption>
-                        
-                        <h3 class="article-title article-title-1">
-                            <a href="http://www.sportnews.to/bournemouth-look-to-ward-arsenal-interest-in-ryan-fraser-as-they-slap-25m-price-tag-on-winger/">
-                                Bournemouth look to ward Arsenal interest in Ryan Fraser as they slap £25m price-tag on winger                            </a>
-                        </h3>
-                        <div class="grid-item-metadata">
-                            
-        <span class="author-links">
-                            <span class="item-metadata posts-date">
-                <i class="far fa-clock"></i>
-                    1 min ago            </span>
-                        
-                <span class="item-metadata posts-author">
-            <a href="http://www.sportnews.to/author/admin/">
-                admin            </a>
-        </span>
-                    </span>
-                                </div>
-                    </figcaption>
-                </div>
-            </div>
-                    <div class="col-sm-15 latest-posts-grid" data-mh="latest-posts-grid">
-                <div class="spotlight-post">
-                    <figure class="categorised-article inside-img">
-                        <div class="categorised-article-wrapper">
-                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="http://www.sportnews.to/wp-content/uploads/2019/06/_107460630_gettyimages-1148651485.jpg">
-                                <a href="http://www.sportnews.to/andre-gomes-everton-close-to-signing-barcelona-midfielder-as-leighton-baines-signs-new-deal/"></a>
+                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/88AC/production/_108088943_amaechi.jpg">
+                                <a href="http://www.sportnews.to/2019/07/xavier-amaechi-arsenal-winger-signs-for-hamburg-on-four-year-deal/"></a>
                             </div>
                         </div>
                                                 <div class="figure-categories figure-categories-bg">
@@ -1016,15 +1007,15 @@ If you have any questions, please contact us using the contact page.</p>
                     <figcaption>
                         
                         <h3 class="article-title article-title-1">
-                            <a href="http://www.sportnews.to/andre-gomes-everton-close-to-signing-barcelona-midfielder-as-leighton-baines-signs-new-deal/">
-                                Andre Gomes: Everton close to signing Barcelona midfielder as Leighton Baines signs new deal                            </a>
+                            <a href="http://www.sportnews.to/2019/07/xavier-amaechi-arsenal-winger-signs-for-hamburg-on-four-year-deal/">
+                                Xavier Amaechi: Arsenal winger signs for Hamburg on four-year deal                            </a>
                         </h3>
                         <div class="grid-item-metadata">
                             
         <span class="author-links">
                             <span class="item-metadata posts-date">
                 <i class="far fa-clock"></i>
-                    3 mins ago            </span>
+                    2 mins ago            </span>
                         
                 <span class="item-metadata posts-author">
             <a href="http://www.sportnews.to/author/admin/">
@@ -1039,15 +1030,15 @@ If you have any questions, please contact us using the contact page.</p>
                 <div class="spotlight-post">
                     <figure class="categorised-article inside-img">
                         <div class="categorised-article-wrapper">
-                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="http://www.sportnews.to/wp-content/uploads/2019/06/14982804-7157647-image-a-12_1560943887456.jpg">
-                                <a href="http://www.sportnews.to/ferland-mendy-unveiled-at-real-madrid-and-says-its-an-honour-to-be-at-the-best-club-in-the-world/"></a>
+                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="https://i.dailymail.co.uk/1s/2019/07/26/11/16531306-7289235-image-a-9_1564138691812.jpg">
+                                <a href="http://www.sportnews.to/2019/07/transfer-news-pep-guardiola-admits-manchester-city-may-sign-one-more-player-before-the-window-shuts/"></a>
                             </div>
                         </div>
                                                 <div class="figure-categories figure-categories-bg">
                             
                             <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/primera-division/" alt="View all posts in Primera División"> 
-                                 Primera División
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/serie-a/" alt="View all posts in Serie A"> 
+                                 Serie A
                              </a>
                         </li></ul>                        </div>
                     </figure>
@@ -1055,86 +1046,8 @@ If you have any questions, please contact us using the contact page.</p>
                     <figcaption>
                         
                         <h3 class="article-title article-title-1">
-                            <a href="http://www.sportnews.to/ferland-mendy-unveiled-at-real-madrid-and-says-its-an-honour-to-be-at-the-best-club-in-the-world/">
-                                Ferland Mendy unveiled at Real Madrid and says: ‘It’s an honour to be at the best club in the world’                            </a>
-                        </h3>
-                        <div class="grid-item-metadata">
-                            
-        <span class="author-links">
-                            <span class="item-metadata posts-date">
-                <i class="far fa-clock"></i>
-                    4 mins ago            </span>
-                        
-                <span class="item-metadata posts-author">
-            <a href="http://www.sportnews.to/author/admin/">
-                admin            </a>
-        </span>
-                    </span>
-                                </div>
-                    </figcaption>
-                </div>
-            </div>
-                    <div class="col-sm-15 latest-posts-grid" data-mh="latest-posts-grid">
-                <div class="spotlight-post">
-                    <figure class="categorised-article inside-img">
-                        <div class="categorised-article-wrapper">
-                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="http://www.sportnews.to/wp-content/uploads/2019/06/14993248-0-image-m-68_1560957998915-634x450.jpg">
-                                <a href="http://www.sportnews.to/dortmund-fans-unsure-about-return-of-mats-hummels-from-bayern-munich/"></a>
-                            </div>
-                        </div>
-                                                <div class="figure-categories figure-categories-bg">
-                            
-                            <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/bundesliga/" alt="View all posts in Bundesliga"> 
-                                 Bundesliga
-                             </a>
-                        </li></ul>                        </div>
-                    </figure>
-
-                    <figcaption>
-                        
-                        <h3 class="article-title article-title-1">
-                            <a href="http://www.sportnews.to/dortmund-fans-unsure-about-return-of-mats-hummels-from-bayern-munich/">
-                                Dortmund fans unsure about return of Mats Hummels from Bayern Munich                            </a>
-                        </h3>
-                        <div class="grid-item-metadata">
-                            
-        <span class="author-links">
-                            <span class="item-metadata posts-date">
-                <i class="far fa-clock"></i>
-                    5 mins ago            </span>
-                        
-                <span class="item-metadata posts-author">
-            <a href="http://www.sportnews.to/author/admin/">
-                admin            </a>
-        </span>
-                    </span>
-                                </div>
-                    </figcaption>
-                </div>
-            </div>
-                    <div class="col-sm-15 latest-posts-grid" data-mh="latest-posts-grid">
-                <div class="spotlight-post">
-                    <figure class="categorised-article inside-img">
-                        <div class="categorised-article-wrapper">
-                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="http://www.sportnews.to/wp-content/uploads/2019/06/15005324-0-Rangers_could_face_Progres_Niederkorn_in_Europa_League_s_second_-m-45_1560979309237-634x450.jpg">
-                                <a href="http://www.sportnews.to/rangers-face-potential-rematch-with-progres-niederkorn-if-they-go-through-in-europa-league/"></a>
-                            </div>
-                        </div>
-                                                <div class="figure-categories figure-categories-bg">
-                            
-                            <ul class="cat-links"><li class="meta-category">
-                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/europa-league/" alt="View all posts in Europa League"> 
-                                 Europa League
-                             </a>
-                        </li></ul>                        </div>
-                    </figure>
-
-                    <figcaption>
-                        
-                        <h3 class="article-title article-title-1">
-                            <a href="http://www.sportnews.to/rangers-face-potential-rematch-with-progres-niederkorn-if-they-go-through-in-europa-league/">
-                                Rangers face potential rematch with Progres Niederkorn if they go through in Europa League                            </a>
+                            <a href="http://www.sportnews.to/2019/07/transfer-news-pep-guardiola-admits-manchester-city-may-sign-one-more-player-before-the-window-shuts/">
+                                Transfer news: Pep Guardiola admits Manchester City may sign one more player before the window shuts                            </a>
                         </h3>
                         <div class="grid-item-metadata">
                             
@@ -1142,6 +1055,123 @@ If you have any questions, please contact us using the contact page.</p>
                             <span class="item-metadata posts-date">
                 <i class="far fa-clock"></i>
                     7 mins ago            </span>
+                        
+                <span class="item-metadata posts-author">
+            <a href="http://www.sportnews.to/author/admin/">
+                admin            </a>
+        </span>
+                    </span>
+                                </div>
+                    </figcaption>
+                </div>
+            </div>
+                    <div class="col-sm-15 latest-posts-grid" data-mh="latest-posts-grid">
+                <div class="spotlight-post">
+                    <figure class="categorised-article inside-img">
+                        <div class="categorised-article-wrapper">
+                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="https://m.files.bbci.co.uk/modules/bbc-morph-sport-page/3.2.0/images/bbc-sport-logo.png">
+                                <a href="http://www.sportnews.to/2019/07/watch-united-youngsters-ease-past-rangers/"></a>
+                            </div>
+                        </div>
+                                                <div class="figure-categories figure-categories-bg">
+                            
+                            <ul class="cat-links"><li class="meta-category">
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/premier-league/" alt="View all posts in Premier League"> 
+                                 Premier League
+                             </a>
+                        </li></ul>                        </div>
+                    </figure>
+
+                    <figcaption>
+                        
+                        <h3 class="article-title article-title-1">
+                            <a href="http://www.sportnews.to/2019/07/watch-united-youngsters-ease-past-rangers/">
+                                Watch: United youngsters ease past Rangers                            </a>
+                        </h3>
+                        <div class="grid-item-metadata">
+                            
+        <span class="author-links">
+                            <span class="item-metadata posts-date">
+                <i class="far fa-clock"></i>
+                    13 mins ago            </span>
+                        
+                <span class="item-metadata posts-author">
+            <a href="http://www.sportnews.to/author/admin/">
+                admin            </a>
+        </span>
+                    </span>
+                                </div>
+                    </figcaption>
+                </div>
+            </div>
+                    <div class="col-sm-15 latest-posts-grid" data-mh="latest-posts-grid">
+                <div class="spotlight-post">
+                    <figure class="categorised-article inside-img">
+                        <div class="categorised-article-wrapper">
+                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="https://i.dailymail.co.uk/1s/2019/07/27/08/16562966-7292033-image-a-21_1564212971112.jpg">
+                                <a href="http://www.sportnews.to/2019/07/transfer-news-juventus-to-offer-dybala-to-manchester-united-as-part-of-lukaku-deal/"></a>
+                            </div>
+                        </div>
+                                                <div class="figure-categories figure-categories-bg">
+                            
+                            <ul class="cat-links"><li class="meta-category">
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/serie-a/" alt="View all posts in Serie A"> 
+                                 Serie A
+                             </a>
+                        </li></ul>                        </div>
+                    </figure>
+
+                    <figcaption>
+                        
+                        <h3 class="article-title article-title-1">
+                            <a href="http://www.sportnews.to/2019/07/transfer-news-juventus-to-offer-dybala-to-manchester-united-as-part-of-lukaku-deal/">
+                                Transfer news: Juventus ‘to offer Dybala to Manchester United’ as part of Lukaku deal&nbsp;&nbsp;                            </a>
+                        </h3>
+                        <div class="grid-item-metadata">
+                            
+        <span class="author-links">
+                            <span class="item-metadata posts-date">
+                <i class="far fa-clock"></i>
+                    18 mins ago            </span>
+                        
+                <span class="item-metadata posts-author">
+            <a href="http://www.sportnews.to/author/admin/">
+                admin            </a>
+        </span>
+                    </span>
+                                </div>
+                    </figcaption>
+                </div>
+            </div>
+                    <div class="col-sm-15 latest-posts-grid" data-mh="latest-posts-grid">
+                <div class="spotlight-post">
+                    <figure class="categorised-article inside-img">
+                        <div class="categorised-article-wrapper">
+                            <div class="data-bg data-bg-hover data-bg-categorised" data-background="https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/11949/production/_108090027_19157910.jpg">
+                                <a href="http://www.sportnews.to/2019/07/st-johnstone-tommy-wright-disappointed-with-youth-in-disastrous-cup-campaign/"></a>
+                            </div>
+                        </div>
+                                                <div class="figure-categories figure-categories-bg">
+                            
+                            <ul class="cat-links"><li class="meta-category">
+                             <a class="covernews-categories category-color-1" href="http://www.sportnews.to/category/premier-league/" alt="View all posts in Premier League"> 
+                                 Premier League
+                             </a>
+                        </li></ul>                        </div>
+                    </figure>
+
+                    <figcaption>
+                        
+                        <h3 class="article-title article-title-1">
+                            <a href="http://www.sportnews.to/2019/07/st-johnstone-tommy-wright-disappointed-with-youth-in-disastrous-cup-campaign/">
+                                St Johnstone: Tommy Wright disappointed with youth in ‘disastrous’ cup campaign                            </a>
+                        </h3>
+                        <div class="grid-item-metadata">
+                            
+        <span class="author-links">
+                            <span class="item-metadata posts-date">
+                <i class="far fa-clock"></i>
+                    24 mins ago            </span>
                         
                 <span class="item-metadata posts-author">
             <a href="http://www.sportnews.to/author/admin/">
