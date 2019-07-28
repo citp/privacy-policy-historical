@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torquepowered.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529111611id_/http%3A//www.garagegames.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torquepowered.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728222949id_/http%3A//www.garagegames.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GarageGames.com
 
