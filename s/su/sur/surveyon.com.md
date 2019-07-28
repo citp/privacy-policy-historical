@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629040805id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728093528id_/https%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | surveyon
 
 ##  Privacy Policy  
-Effective June 1, 2017
+Effective February 4, 2019
 
 The main business of Marketing Applications, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer's privacy. This firm's way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
 
@@ -73,12 +73,18 @@ These circumstances include, but may not be limited to:
 
 
 
-### 9\. Contact with Personal Information
+### 9\. Children's Privacy
+
+Protecting the privacy of young children is especially important. Basically The Service Provider will not knowingly collect any information from any child less than 16 years old. Accordingly, The Service Provider stick to Applicable Laws and Codes pertaining to the protection of children’s privacy, including, without limitation, the Children's Online Privacy Protection Act of 1998 in the United States (as amended). There are instances in which people who have undergone membership registration are not acknowledged as a member when the following circumstances apply to them. Additionally, even if members who have been acknowledged and have accepted this agreement, if they are later found to have come under the following circumstances, they may have their membership retracted. 
+
+As noted in Paragraph 2., this firm will not offer your personal information to third parties without your consent except as provided for in this Privacy Policy. However, there may be circumstances in which we are legally required to provide such information, even without your consent. 
+
+### 10\. Contact with Personal Information
 
 This firm is aware of the importance of safely maintaining personal information and is taking all possible safety measures. Please contact the following contact point for Marketing Applications, Inc. for any inquires. 
 
   1. This firm's point of contact for inquires for personal information 
-    * Address: 7F KOSUGI Bldg., Shinjuku 1-28-11, Shinjuku-ku, Tokyo, Japan 160-0022
+    * Address: Kojimachi Front Building 10F, 3-3-6 Kojimachi, Chiyoda-ku, Tokyo, Japan 102-0083
     * Email Address: support+privacy@surveyon.com
 
 
