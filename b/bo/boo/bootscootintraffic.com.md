@@ -1,60 +1,34 @@
-> *The following text is extracted and transformed from the bootscootintraffic.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319050253id_/http%3A//bootscootintraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootscootintraffic.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728224107id_/http%3A//bootscootintraffic.com/privacy.php) for the most accurate reproduction.*
 
-# BootScootinTraffic is Back!
+# BootScootinTraffic.com
 
-Privacy Policy
+This Privacy Policy discloses the privacy practices for BootScootinTraffic. This Privacy Policy governs the use and collection of information collected from you on BootScootinTraffic.com.  
+This Privacy Policy does not apply to information you may provide to the website via third part services or online forms. For example, this Privacy Policy does not apply to Google Analytics, which has its own privacy policy.   
+This Privacy Policy may be modified at any time and the most recent version will be published on this page. Your use of the BootScootinTraffic is subject to this Privacy Policy as then in effect.   
+Ongoing access to BootScootinTraffic by you following any modification in this Privacy Policy will constitute your acceptance of the updated policy. 
 
-Protecting your private information is our priority. This Statement of Privacy applies to the BootScootinTraffic.com and Sunny Suggs and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Sunny Suggs include BootScootinTraffic.com and Sunny Suggs. The Sunny Suggs website is a membership site. By using the Sunny Suggs website, you consent to the data practices described in this statement.
+**You must not use this website if you do not agree to this Privacy Policy.**
 
-Collection of your Personal Information  
-Sunny Suggs may collect personally identifiable information, such as your name. We may gather additional personal or non-personal information in the future.
+PERSONALLY IDENTIFYING INFORMATION
 
-Information about your computer hardware and software may be automatically collected by Sunny Suggs. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Sunny Suggs website.
+To take advantage of certain optional services of BootScootinTraffic, we may ask you to provide us with certain personally identifying information. Personally identifying information is information that could reasonably be used to identify you professionally (such as your full name, email address, and phone number), and which we may refer to here as “PII”.   
+You are never obliged to provide this information and you can choose not to provide such information, but then you may not be able to take advantage of or participate in some services. No PII is collected automatically.   
+Your personal information will not be shared with any other third party.   
+The only personal information stored is the specific information provided on the signup form and your profile. No other information is stored, for example, via cross referencing with other databases or IP addresses.   
+You may request that your personal information is deleted at any time, you may also request at any time to know what information we have stored from you. 
 
-Sunny Suggs encourages you to review the privacy statements of websites you choose to link to from Sunny Suggs so that you can understand how those websites collect, use and share your information. Sunny Suggs is not responsible for the privacy statements or other content on websites outside of the Sunny Suggs website.
+SECURITY
 
-Use of your Personal Information  
-Sunny Suggs collects and uses your personal information to operate its website(s) and deliver the services you have requested.
+Any payments are through gateways on SECURE payment processor websites. We have in place security checks run frequently on our hosting account to check for any possible breaches. ALL members will be informed in the case of any breach within 72 hours. We strongly respect your privacy. 
 
-Sunny Suggs may also use your personally identifiable information to inform you of other products or services available from Sunny Suggs and its affiliates. Sunny Suggs may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**If you have any questions about your personal data, please submit a support ticket.**
 
-Sunny Suggs does not sell, rent or lease its customer lists to third parties.
+COOKIES AND LOG FILES
 
-Sunny Suggs may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. Sunny Suggs may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Sunny Suggs, and they are required to maintain the confidentiality of your information.
+Like many website operators, we sometimes make use of browser “cookies” to track user activity. A “cookie” is a small piece of information that we use to assign each visitor’s computer a unique, random numerical identification code that that is storied on on your computer. Cookies do not collect or store PII. Third party companies that advertise may use cookies and other tracking information.   
+Cookies are optional on BootScootinTraffic. You can configure your Web browser to refuse all cookies or to indicate when a cookie is being set by choosing this option in the preferences or menu options in your browser.   
+The server, that hosts this website, has log files that gather various technical information about the site usage. This information is anonymous. 
 
-Sunny Suggs may keep track of the websites and pages our users visit within Sunny Suggs, in order to determine what Sunny Suggs services are the most popular. This data is used to deliver
+INFORMATION PROTECTION
 
-customized content and advertising within Sunny Suggs to customers whose behavior indicates that they are interested in a particular subject area.
-
-Sunny Suggs will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Sunny Suggs or the site; (b) protect and defend the rights or property of Sunny Suggs; and, (c) act under exigent circumstances to protect the personal safety of users of Sunny Suggs, or the public.
-
-Security of your Personal Information
-
-Sunny Suggs secures your personal information from unauthorized access, use or disclosure.
-
-Children Under Thirteen  
-Sunny Suggs does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
-
-Opt-Out & Unsubscribe  
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Sunny Suggs by contacting us here:  
-\- Web page:   
-\- Email:   
-\- Phone: 
-
-Changes to this Statement  
-Sunny Suggs will occasionally update this Statement of Privacy to reflect company and customer feedback. Sunny Suggs encourages you to periodically review this Statement to be informed of how Sunny Suggs is protecting your information.
-
-Contact Information  
-Sunny Suggs welcomes your questions or comments regarding this Statement of Privacy. If you believe that Sunny Suggs has not adhered to this Statement, please contact Sunny Suggs at:
-
-Sunny Suggs  
-405 Arthur Dr  
-Hurst, Texas 76053
-
-Email Address:  
-support@BootScootinTraffic.com
-
-Telephone number:  
-214.497.6982
-
-Effective as of April 14, 2016
+We use reasonable administrative, technical, personnel and physical measures to safeguard all PII collected on this website against misuse or loss. However, BootScootinTraffic, like any website, cannot guarantee that information that you supply will not be intercepted while being transmitted to us. Also, we do not control the security measures used by third parties like website hosting companies or Google Analytics.
