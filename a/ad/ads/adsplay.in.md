@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsplay.in privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111194845id_/http%3A//www.adsplay.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsplay.in privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728182300id_/http%3A//www.adsplay.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Affiliate Network in India | CPC, CPA & CPI Affiliate Network - Adsplay
 
