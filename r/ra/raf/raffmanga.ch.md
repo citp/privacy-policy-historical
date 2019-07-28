@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raffmanga.ch privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627001114id_/http%3A//raffmanga.ch/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raffmanga.ch privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728195144id_/http%3A//raffmanga.ch/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Raffmanga
 
