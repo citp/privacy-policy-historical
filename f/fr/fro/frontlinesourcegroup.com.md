@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909030926id_/https%3A//www.frontlinesourcegroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729004813id_/https%3A//www.frontlinesourcegroup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Staffing Agency Privacy Policy - Frontline Source Group
 
