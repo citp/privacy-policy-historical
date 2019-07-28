@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnybodycare.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528221953id_/http%3A//www.skinnybodycare.com/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnybodycare.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728122505id_/http%3A//skinnybodycare.com/corp/privacyPolicy) for the most accurate reproduction.*
 
 # Valentus
 
