@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyarmy.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630055232id_/http%3A//www.dailyarmy.com/privacy-policy-user-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyarmy.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728040109id_/http%3A//dailyarmy.com/privacy-policy-user-agreement) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Army
 
