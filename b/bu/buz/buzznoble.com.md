@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzznoble.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626092150id_/http%3A//www.buzznoble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzznoble.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728021734id_/http%3A//www.buzznoble.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
