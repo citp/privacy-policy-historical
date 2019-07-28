@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydressupgame.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629194950id_/http%3A//www.mydressupgame.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydressupgame.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729012914id_/http%3A//www.mydressupgame.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # My Dress Up Game Privacy and Policies
 
