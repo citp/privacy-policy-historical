@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rechargetricks.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626185647id_/http%3A//rechargetricks.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rechargetricks.in privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728031442id_/http%3A//rechargetricks.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RechargeTricks.in, Free Recharge Tricks, Deals
 
