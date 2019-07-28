@@ -1,28 +1,43 @@
-> *The following text is extracted and transformed from the areacodehelp.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223110756id_/http%3A//www.areacodehelp.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areacodehelp.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728222116id_/https%3A//www.areacodehelp.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At the same time that AreaCodeHelp.com is committed to bringing you information tailored to your individual needs, we recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. In adopting this customer privacy policy, our intent is to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy.
+Thank you for visiting the www.areacodehelp.com website and reviewing our privacy statement. 
 
-AreaCodeHelp.com does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals.
+**Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us. We DO NOT USE COOKIES on our website to track you.**
 
-Web servers serving AreaCodeHelp.com automatically collect information about which pages each user visits and the domain name of visitors. This is used for internal review, to tailor information to individual visitors and for traffic audits. We also provide this information (as well as information from third-party market researchers) about our users on an aggregated, anonymous basis to our advertisers. Any personally identifiable information provided by subscribers online as part of an advertiser promotion online (i.e. online coupons) may be provided directly to advertisers.
+Most advertisers do use cookies and you should read the section below titled "Ad Servers."
 
-AreaCodeHelp.com may place a "cookie" on the browser of a AreaCodeHelp.com user's computer. The cookie itself does not contain any personally identifying information. A cookie can be used to tell when your computer has contacted a Web site; we use the information for editorial purposes and for other purposes such as delivery of ads, so we can customize delivery of information without compromising privacy. For example, cookies are used to ensure that you don't see the same ad too many times in a single session.
+How we handle information about your visit to our website:
 
-If you choose to provide us with personal information, as in an email or by filling out a form with your personal information and submitting it to us through our web site, we use that information to respond to your message and to help us locate for you the information you have requested. We treat e-mails the same way that we regard letters mailed to AreaCodeHelp.com. We do not collect personal information for any purpose other than to respond to you. We only share the information you give us with another government agency, company or individual if your inquiry relates to that entity, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or give it to any private organizations.
+## Information Collected and Stored Automatically
 
-Except as stated in this privacy policy or at the time of collection, user's personally identifiable information, will not be transferred to a party outside AreaCodeHelp.com, its divisions, its vendors providing Internet hosting services or third party managers unless stated at the time of collection.
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
-We do not control the privacy policies of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks. AreaCodeHelp.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
+1.The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;  
+2.The type of browser and operating system used to access our site;  
+3.The date and time you access our site;  
+4.The pages you visit; and  
+5.If you linked to the www.areacodehelp.com website from another website, the address of that website.
 
-Kids: Be sure to ask your parents for permission before you send any information about yourself, such as like your name, address, or e-mail address, over the Internet, to us or to anyone else and before making any purchases online.
+We use this information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors are using. We do not track or record information about individuals and their visits.
 
-Parents: We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifiable information collected by AreaCodeHelp.com that we are aware is from children will be used only for AreaCodeHelp.com internal purposes such as market research, sweepstakes fulfillment or for fulfilling requests for information or materials, and may sometimes be included in our database. Such information will not be posted or published by us, or provided to any third parties, without your prior consent. Anonymous aggregated data is sometimes provided to other parties with which we do business, for statistical and market research purposes as described above. Finally you should be aware that if your children voluntarily disclose information such as their names or e-mail addresses on various forums or chat areas, such disclosures may result in unsolicited messages from other parties.
+## If You Send Us Personal Information
 
-Web site Security: For site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+If you choose to provide us with personal information, as in an email or by filling out a form with your personal information and submitting it to us through our website, we use that information to respond to your message and to help us locate for you the information you have requested. We treat e-mails the same way that we regard letters mailed to www.areacodehelp.com. We do not collect personal information for any purpose other than to respond to you. We only share the information you give us with another government agency, company or individual if your inquiry relates to that entity, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or give it to any private organizations.
 
-Technology on the Internet is developing at a rapid pace, and we need to maintain our flexibility in the online arena. If we need to change our policy in the future, we will post these changes as soon as they go into effect.
+## Links to Other Sites
 
-  
+Our website has text and graphical links to other web sites, companies and governmental agencies. Once you access another site through a link that we provide you are subject to the privacy policy of the new site.
 
+## Ad Servers
+
+We use a third-party advertising company product "Google Adsense" to serve ads when you visit our website. Third-party advertising companies like Google Adsense may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. We have no control over the information collected by such ad servers or how that information is used.
+
+Google Adsense uses cookies to serve ads on our site. Google's use of cookies enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. [Read more about how Google manages data in its ads products including ad personalization and how you can control the information collected by Google](https://www.google.com/policies/technologies/partner-sites/).
+
+## Website Security
+
+1.For site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
+2.Except for authorized law enforcement investigations, or security purposes as stated above, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes.  
+3.Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
