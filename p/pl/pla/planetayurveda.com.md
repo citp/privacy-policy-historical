@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetayurveda.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406044358id_/https%3A//www.planetayurveda.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetayurveda.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728091345id_/https%3A//www.planetayurveda.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Planet Ayurveda
 
@@ -103,19 +103,19 @@ Except as set out in this Privacy Policy, we do not sell, rent, share, trade or 
 
 Under the General Data Protection Regulation, you, as a data subject have a number of rights which are detailed below. Some of these only apply in specific circumstances and are qualified in several respects by exemptions in data protection legislation. We will advise you in our response to your request if we are relying on any such exemptions.
 
-### Right to access
+### Right to Access
 
 You have the right to request information about the personal data we hold on you at any time. You can contact Planet Ayurveda and we will provide you with your personal data via e-mail. You should include adequate information to identify yourself and such other relevant information that will reasonably assist us in fulfilling your request.
 
-### Right to rectification
+### Right to Rectification
 
 You can request us to rectify and correct any personal data that we are processing about you which is incorrect. If you have a Planet Ayurveda account you can edit or delete your personal data in my account section under privacy setting.
 
-### Right to portability
+### Right to Portability
 
 Whenever Planet Ayurveda processes your personal data, by automated means based on your consent or which was necessary for us to provide you with our products and services, you have the right to get a copy of your data transferred to you. This only includes the personal data you have submitted to us. You may have the right to have your personal data transferred by us directly to an other organisation, if this is technically feasible.
 
-### Right to erasure
+### Right to Erasure
 
 You have the right to erase any personal data processed by Planet Ayurveda at any time except for the following situations:
 
@@ -129,7 +129,7 @@ You have the right to erase any personal data processed by Planet Ayurveda at an
 
 
 
-### Right to withdraw consent
+### Right to Withdraw Consent
 
 Where we have relied upon your consent to process your personal data, you have the right to withdraw that consent.
 
