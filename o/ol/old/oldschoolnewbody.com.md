@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldschoolnewbody.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528020719id_/https%3A//oldschoolnewbodyinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldschoolnewbody.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728195509id_/https%3A//oldschoolnewbodyinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Old School New Body
 
