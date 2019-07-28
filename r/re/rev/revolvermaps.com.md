@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211104id_/https%3A//www.revolvermaps.com%3Ftarget%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728231515id_/https%3A//www.revolvermaps.com%3Ftarget%3Dprivacy) for the most accurate reproduction.*
 
 # Legal | RevolverMaps - Free 3D Visitor Maps
 
@@ -37,9 +37,7 @@ All RevolverMaps servers treat IP addresses as a transient information processed
 
 Geolocation is performed on a city level. For RevolverMaps it is technically impossible to gain more accurate position data (like street names and house numbers) due to the method of geolocation and the available data: 
 
-For the determination of the location of a connected client (see widget service) it's anonymized internet IP address is matched against a local database on a RevolverMaps server. The result is an estimation. Furthermore only the first 3 octets of an IPv4 address are used for the geolocation, the last octet is stripped. This practice lowers the precision of the geolocation additionally. Being transformed to a location information on a city level in this way, the result cannot be used to identify a person or an internet connection. The described data processing is required for the delivery of the RevolverMaps service and is for purposes of legitimate interests in accordance with Article 6(1)(f) GDPR. 
-
-IPv6 geolocation is currently not supported by RevolverMaps. 
+For the determination of the location of a connected client (see widget service) it's anonymized internet IP address is matched against a local database on a RevolverMaps server. The result is an estimation. Furthermore only the first 3 octets of an IPv4 address are used for the geolocation, the last octet is stripped. IPv6 addresses will be truncated to a prefix length of 64 bits before the location lookup. The trailing 64 bits are stripped. This practice lowers the precision of the geolocation additionally. Being transformed to a location information on a city level in this way, the result cannot be used to identify a person or an internet connection. The described data processing is required for the delivery of the RevolverMaps service and is for purposes of legitimate interests in accordance with Article 6(1)(f) GDPR. 
 
 ### 5\. Log Files
 
@@ -225,4 +223,4 @@ As a user of the widget service you may want to implement an opt-out button on y
 
 Place your widget code _INSIDE_ the single quotes ( _var code=' <script>...</script>'_ )! The variable _alternative_ can be a message to be displayed if the user has opted out the service. Additionally it could link to your opt-out button: 
 
-_This privacy policy was updated on May 28, 2019_
+_This privacy policy was updated on July 3, 2019_
