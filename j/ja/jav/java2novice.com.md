@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java2novice.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607190405id_/http%3A//java2novice.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java2novice.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728223544id_/http%3A//java2novice.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Example Privacy Policy
 
