@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629111557id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728154312id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
 
 # Inspire3 Ltd - Privacy Policy
 
