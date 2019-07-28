@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedhost.eu privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423224309id_/https%3A//www.seedhost.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedhost.eu privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728115039id_/https%3A//www.seedhost.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # SeedHost.eu
 
