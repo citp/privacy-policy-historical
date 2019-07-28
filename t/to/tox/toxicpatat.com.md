@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toxicpatat.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626211036id_/http%3A//toxicpatat.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toxicpatat.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728093054id_/http%3A//toxicpatat.com/privacy-policy-2) for the most accurate reproduction.*
 
 # PRIVACY POLICY - toxic patat
 
@@ -73,4 +73,4 @@ Whenever redsoccer.net changes its privacy policy, we will post those changes to
 
 **Contact Information**
 
-If you have any questions or suggestions regarding our privacy policy, please  **send an email to patattoxic@gmail.com.**
+If you have any questions or suggestions regarding our privacy policy, please  **send an email to[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
