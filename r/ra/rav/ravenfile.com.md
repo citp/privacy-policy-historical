@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravenfile.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624085634id_/http%3A//www.ravenfile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravenfile.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728073804id_/http%3A//www.ravenfile.com/privacy-policy) for the most accurate reproduction.*
 
 # RavenFile | Privacy Policy
 
