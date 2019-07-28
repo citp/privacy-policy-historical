@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the free3d.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630054343id_/https%3A//free3d.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the free3d.com privacy policy that was archived on 2019-07-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190728055349id_/https%3A//free3d.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -43,14 +43,14 @@ var pl_url = '';
 
 
 <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700|Open+Sans:300,400,700&amp;subset=latin-ext" rel="stylesheet">
-<link rel="stylesheet" href="/css/css/main.css?version=2.067">
+<link rel="stylesheet" href="/css/css/main.css?version=2.072">
 <link rel="manifest" href="/manifest.json">
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.8.2.min.js"><\/script>')</script><script src="/js/vendor/jquery-1.8.2.min.js"></script>
 <!-- <script src="/js/jquery-ui.min.js"></script> -->
 <!-- <script defer src="/js/jquery.watermarkinput.js" type="text/javascript"></script> -->
-<script defer="" src="/js/main.js?v=2.054"></script>
+<script defer="" src="/js/main.js?v=2.055"></script>
 
 <!-- js tooltip -->
 <script defer="" src="/js/jquery.qtip-1.0.0-rc3.js"></script>
@@ -745,7 +745,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <!-- Top Bar -->
-<div class="top-bar">
+<div class="top-bar top-bar-dark">
         <div class="loading-top-yt"></div>
     <div class="top-bar-inner">
         <a href="/" class="awesome-logo">
@@ -837,7 +837,80 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <div class="slidein-menu" id="top_bar_slidein">
              <div class="toggle-btn"></div>
-             <div class="content-container"></div>
+             <div class="content-container"><div class="nav-search-bar">
+            <form method="GET" action="/3d-models/search.php" id="searchForm">
+                <input type="text" class="search-bar" name="q" placeholder="search 3d models ..." value="">
+                <button class="ss-search" id="search-button2" onclick="submitSearchForm(); return false;"></button>
+                                                <input type="hidden" value="" name="page_language">                <input type="hidden" value="0" name="type">
+                            </form>
+            <!-- <form method="GET" action="/3d-models/search.php" name="searchForm"> -->
+        </div><div class="nav-links">
+            <a href="/3d-models/" class="nav-link free-search "><span class="fader">Free 3D Models</span></a>
+            <a href="/premium-3d-models/" class="nav-link paid-search "><span class="fader">Premium 3D Models</span></a>
+        </div><div class="login-or-register">
+                <!-- Login or Register -->
+                <div class="account-hamburger ham-register">
+                    <div class="username signup-button">Create free Account</div>
+                </div>
+                <div class="inbetween-ham">or</div>
+                <div class="account-hamburger ham-login">
+                    <div class="username login-button">Login</div>
+                    <div class="dropdownContain outside_login_cont" id="login-container">
+                        <div class="dropOut">
+                            <div class="triangle"></div>
+                            <form method="post" id="signin" action="">
+                                <p id="you-have-to-login" class="alert" style="display:none">
+                                    <strong>Please Login!</strong><br>In order to proceed you need to be logged in.                                </p>
+                                <p>
+                                    <label for="username"> Email</label>
+                                    <input id="username" name="un" tabindex="1" required="" title="username" type="text" placeholder="email">
+                                </p>
+                                <p>
+                                    <label> Password</label>
+                                    <input name="pwd" tabindex="2" required="" title="password" type="password">
+                                </p>
+                                <p class="submit_row">    
+                                    <input value="Login" tabindex="3" class="btn-stock p5 m5 login_submit" name="lsubmit" type="submit">
+                                    <span class="remember">
+                                        <input name="lremember_me" value="1" tabindex="3" type="checkbox" checked="checked">
+                                        <label> &nbsp;Remember me</label>
+                                    </span>
+                                </p>
+                                <div class="clearfix"></div>
+                            </form>
+                            
+                            <div class="social_login_options">
+                                <span class="social_login_label">or login with: </span>
+
+                                <div class="social_buttons_container">                   
+                                    <div class="social_login_btn google">
+                                        Google</div>
+                                    <div class="social_login_btn facebook">
+                                    Facebook
+                                    </div>
+                                </div>
+                               <!--  <div class="pick_username_form hidden">
+                                    <p>
+                                        <label class="pick_username_label">Please select a username</label>
+                                        <input type="text" class="pick_username" name="username" placeholder="username" />
+                                    </p>
+                                    <p class="agree">                          
+                                        <input id="su_agree_si" class="agree_check" name="Agree" value="1" tabindex="8" type="checkbox"required>
+                                        <label for="su_agree_si"> &nbsp;I agree with the <a href="/terms-conditions" target="_blank" rel="nofollow">terms of service</a>.</label>
+                                    </p>
+                                    <p class="error_messages hidden"></p>
+                                    <p>
+                                        <input type="submit" class="pick_username_submit btn-stock p5 m5" value="Submit"/>
+                                    </p>
+                                </div> -->
+                                <!--a href="" id="signoutg">Sign out G</a-->
+                            </div>
+                            <br>
+                            <p class="forgot"> <a href="/login?ref=reset-password" rel="nofollow">Forgot Password?</a> </p>
+                        </div>                
+                    </div>
+                </div>
+            </div></div>
     </div>
     
         <script type="text/javascript">
@@ -1162,7 +1235,7 @@ function yt_error(){
                 <div class="middle-links">
                   <span class="ss-megaphone"></span>
                     <div class="talk">Talk to us</div>
-                    <b>contact@free3d.com</b>
+                    <b><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ea8985849e8b899eaa8c988f8fd98ec4898587">[email&nbsp;protected]</a></b>
                 </div>
             </div>
           <div class="clearfix"></div>
@@ -1181,7 +1254,7 @@ function yt_error(){
     </div>
 </footer>
 
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
   // 3rd party
   // Include the UserVoice JavaScript SDK (only needed once on a page)
   UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/vRfQ1m7ydIqfxK3IB696A.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
