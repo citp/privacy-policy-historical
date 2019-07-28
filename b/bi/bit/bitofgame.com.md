@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitofgame.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627151526id_/http%3A//www.bitofgame.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitofgame.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728215709id_/http%3A//bitofgame.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Bit of Game - Free Online Games and MMO's
 
