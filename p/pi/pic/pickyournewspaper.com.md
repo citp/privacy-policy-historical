@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickyournewspaper.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513020619id_/http%3A//www.pickyournewspaper.com/WORLD/NORTH-AMERICA/USA-Newspapers/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickyournewspaper.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728082429id_/http%3A//www.pickyournewspaper.com/WORLD/NORTH-AMERICA/USA-Newspapers/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Pickyournewspaper Privacy policy
 
