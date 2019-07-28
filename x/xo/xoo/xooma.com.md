@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xooma.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521121643id_/http%3A//www.xooma.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xooma.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728231517id_/http%3A//xooma.com/privacy-statement) for the most accurate reproduction.*
 
 # Xooma Worldwide
 
