@@ -1,17 +1,13 @@
-> *The following text is extracted and transformed from the portraitprofessional.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111145004id_/https%3A//www.portraitprofessional.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portraitprofessional.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728225643id_/https%3A//www.portraitprofessional.com/privacy) for the most accurate reproduction.*
 
 # PortraitPro - Privacy Policy
 
 ####  Get great results in minutes with this new  
-A.I. powered software. 
+AI-powered software. 
 
-[Buy Now](https://web.archive.org/web/20190111145004id_/https://www.portraitprofessional.com/buy)
+[Buy Now](https://web.archive.org/web/20190728225643id_/https://www.portraitprofessional.com/buy)
 
-### We're so sure you'll love PortraitPro that we offer a 30-day money-back guarantee on all purchases.
-
-[Buy Now](https://web.archive.org/web/20190111145004id_/https://www.portraitprofessional.com/buy)
-
-[](https://web.archive.org/web/20190111145004id_/https://www.portraitprofessional.com/)
+[](https://web.archive.org/web/20190728225643id_/https://www.portraitprofessional.com/)
 
 Your privacy and the security of your personal data is important to us. This policy sets out how we handle your personal data. 
 
