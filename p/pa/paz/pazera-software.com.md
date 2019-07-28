@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pazera-software.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626091324id_/http%3A//www.pazera-software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazera-software.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728182331id_/http%3A//www.pazera-software.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pazera-Software.com
 
@@ -22,7 +22,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ## Privacy contact information
 
-If you have any questions, concerns, or comments about our privacy policy, you may contact us using the information given in the section [Contact](https://web.archive.org/web/20190626091324id_/http%3A//contact/). 
+If you have any questions, concerns, or comments about our privacy policy, you may contact us using the information given in the section [Contact](https://web.archive.org/web/20190728182331id_/http://www.pazera-software.com/contact/). 
 
 ## Changes
 
