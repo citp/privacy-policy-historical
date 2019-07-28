@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefree3dmodels.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630054343id_/https%3A//free3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefree3dmodels.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728055349id_/https%3A//free3d.com/privacy-policy) for the most accurate reproduction.*
 
 # Free3D - About us
 
