@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rizonesoft.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604220921id_/https%3A//www.rizonesoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rizonesoft.com privacy policy that was archived on 2019-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190728062308id_/https%3A//www.rizonesoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rizonesoft
 
@@ -164,7 +164,7 @@ To be in accordance with CAN-SPAM, we agree to the following:
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at [support@rizonesoft.com](mailto:support@rizonesoft.com) and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at [support@rizonecloud.com](mailto:support@rizonecloud.com) and we will promptly remove you from ALL correspondence.
 
 ## Contacting Us
 
@@ -172,6 +172,6 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 Rizonesoft.com  
 George, Wester CapeSouth Africa  
-[admin@rizonesoft.com](mailto:admin@rizonesoft.com)
+[admin@rizonecloud.com](mailto:admin@rizonecloud.com)
 
 _Last Edited on 2017-12-14_
