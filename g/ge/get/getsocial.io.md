@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getsocial.io privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624142331id_/https%3A//getsocial.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsocial.io privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729224513id_/https%3A//getsocial.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for Users Who Apply or Sign Up for a GetSocial Account
 
 _The current privacy police was last modified on: 3/23/2016_
 
@@ -20,7 +20,7 @@ Please visit also our Terms and Conditions section establishing the use, disclai
 
 ## What information do we collect?
 
-We collect information from you when you register and use the Site. When registering on the Site you may be asked to enter your e-mail address, complete name, credit card and/or other information if you decide to purchase and/or use a product or service. You may, however, visit our Site anonymously. 
+We collect information from you when you register and use the Site. When registering on the Site you may be asked to enter your email address, complete name, credit card and/or other information if you decide to purchase and/or use a product or service. You may, however, visit our Site anonymously. 
 
 GetSocial collects information under the direction of its Clients, and has no direct relationship with the individual End Users whose personal data it processes. GetSocial works with its Clients to help them provide notice to their End Users concerning the purpose for which personal information is collected. 
 
@@ -112,7 +112,7 @@ As an End User you can log in to our site using sign-in services such as Faceboo
 
 ## Changes to our Privacy Policy
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 * * *
 
