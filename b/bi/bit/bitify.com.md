@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitify.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406170356id_/https%3A//bitify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitify.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729195734id_/https%3A//bitify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Rights and Our Privacy and Commitment on Bitify
 
