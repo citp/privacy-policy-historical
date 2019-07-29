@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the contentstudio.io privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822112552id_/https%3A//contentstudio.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentstudio.io privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729110605id_/https%3A//contentstudio.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ContentStudio
+# Privacy Policy - ContentStudio - Contentstudio
 
-Last updated: **22 May, 2018**
+Last updated: **May 22, 2018**
 
 ## 1\. Introduction
 
@@ -42,7 +42,7 @@ This includes information provided when you:
 
 
 
-If you do choose to create an account, you must provide us with some personal data so that we can provide our Services to you. The personal information you give us is limited to your name, address, email address, a password, phone number, credit card details and photograph. None of the personal information you provide is shared publicly.  
+If you do choose to create an account, you must provide us with some personal data so that we can provide our Services to you. The personal information you give us is limited to your name, address, email address, a password, phone number, credit card details, and photograph. None of the personal information you provide is shared publicly.  
 
 ### 2.2 Contact Information and Mailing Lists
 
@@ -50,7 +50,7 @@ We use your personal contact information, such as your email address to authenti
 
 If you email us, we will keep the content of your message, your email address, and your contact information to respond to your request.
 
-As a controller, in future, you can choose to upload your email and SMS contacts to ContentStudio so that you can make use of our email marketing features. When uploading contacts to your ContentStudio account, you agree that you have lawfully obtained consent from those contacts to utilize their personal contact information for processing for the intended purpose, where it be marketing or other.
+As a controller, in the future, you can choose to upload your email and SMS contacts to ContentStudio so that you can make use of our email marketing features. When uploading contacts to your ContentStudio account, you agree that you have lawfully obtained consent from those contacts to utilize their personal contact information for processing for the intended purpose, where it be marketing or other.
 
 ### 2.3 Payment Information
 
@@ -82,7 +82,7 @@ Our website uses cookies to distinguish you from other visitors and users on our
 
 We will use this information:
 
-  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products, and services that you request from us;
   * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
   * to notify you about changes to our Services;
   * to ensure that content from our Services is presented in the most effective manner for you and for your device.
@@ -95,7 +95,7 @@ We will use this information:
 
   * to administer our Services and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
   * to improve our Services to ensure that content is presented in the most effective manner for you and for your computer;
-  * to allow you to participate in interactive features of our Services, when you choose to do so;
+  * to allow you to participate in interactive features of our services when you choose to do so;
   * as part of our efforts to keep our Services safe and secure;
   * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
   * to make suggestions and recommendations to you and other users of our Services about product features that may interest you or them.
@@ -104,7 +104,7 @@ We will use this information:
 
 #### 3.4.3 Information we receive from other sources
 
-We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above, depending on the types of information we receive. For example, when tracking referrals from our affiliate partners, the cookies stored on your browser allow us to reward affiliates for introducing you to our Service.
+We may combine this information with information you give to us and the information we collect about you. We may use this information and the combined information for the purposes set out above, depending on the types of information we receive. For example, when tracking referrals from our affiliate partners, the cookies stored on your browser allow us to reward affiliates for introducing you to our Service.
 
 ### 3.5 Private Messages
 
@@ -122,7 +122,7 @@ We may also record your usage of our Services using screencasting tools in order
 
 Technical information
 
-  * (IP) address used to connect your computer to the Internet
+  * (IP) an address used to connect your computer to the Internet
   * Login information
   * Browser type and version
   * Time zone setting
@@ -146,7 +146,7 @@ We are passionate about building useful tools to help businesses and agencies be
 
 ### 4.1. Provide, improve and develop Services
 
-We are able to deliver our Services, support your usage of our products and introduce improvements by using this information to understand how you use and interact with our Services.
+We are able to deliver our Services, support your use of our products and introduce improvements by using this information to understand how you use and interact with our Services.
 
 When we have location information, we use it to tailor our Services for you and others, like automatically detecting your location in order to support your ability to schedule messages in your own time zone.
 
@@ -158,7 +158,7 @@ We use your information to send you marketing communications, communicate with y
 
 ## 5\. Information we receive from other sources
 
-We may receive information about you if you use any of the Services we provide. We inform you when we collect any data that it may be shared internally and combined with other data collected on our Services. For example, when you connect your Facebook account to ContentStudio, you will be able to opt in to the data that ContentStudio is able to collect from Facebook on your behalf.
+We may receive information about you if you use any of the Services we provide. We inform you when we collect any data that it may be shared internally and combined with other data collected on our Services. For example, when you connect your Facebook account to ContentStudio, you will be able to opt into the data that ContentStudio is able to collect from Facebook on your behalf.
 
 We may also receive private information about your business profiles from the social network profiles you connect to ContentStudio including Facebook, LinkedIn, Twitter, Google+, Tumblr, and Instagram.
 
@@ -184,7 +184,7 @@ We share or disclose your personal data with your consent or at your direction, 
 
 When you share content via your ContentStudio account to a third-party service, keep in mind that you are controlling the flow of this content from our platform through to the third-party service. 
 
-When you add a team member or client to your account, you may choose to share personal data with them. For example, you may choose to share a client’s social media report with a team member. By acting as data controller, ContentStudio provides you with all the tools and settings you need to be able to control the flow of data. 
+When you add a team member or client to your account, you may choose to share personal data with them. For example, you may choose to share a client’s social media report with a team member. By acting as a data controller, ContentStudio provides you with all the tools and settings you need to be able to control the flow of data. 
 
 Subject to your settings, we also provide certain third parties with personal data to help us offer or operate our Services. 
 
@@ -206,7 +206,7 @@ We may also disclose personal data about you to our affiliates in order to help 
 
 ## 7\. Where we store and transfer your personal data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by employees or contractors operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, processing your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. 
+The data that we collect from you may be transferred to and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by employees or contractors operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, processing your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. 
 
 We take the protection of your data very seriously and have made every effort to be compliant with [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (GDPR) which is a “regulation in EU law on data protection and privacy for all individuals within the European Union and the EEA region.” The GDPR replaces the [1995 Data Protection Directive](https://en.wikipedia.org/wiki/Data_Protection_Directive). We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
@@ -242,7 +242,7 @@ You have the right to ask us not to process your personal data for marketing pur
 
 ### 8.4 Portability
 
-ContentStudio provides you with a facility to download the content you have created or data retrieved from your social media profiles through any of our Services. If you would like further assistance exporting your data, please  [contact us](https://contentstudio.io/contact.php). 
+ContentStudio provides you with a facility to download the content you have created or data retrieved from your social media profiles through any of our Services. If you would like further assistance exporting your data, please [contact us](https://contentstudio.io/contact.php). 
 
 ### 8.5 Additional Information or Assistance
 
@@ -250,9 +250,9 @@ Our Services may, from time to time, contain links to and from the websites of o
 
 ## 9\. Contact us
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to our Data Protection Officer, Waqar Azeem, at privacy@contentstudio.io.
+Questions, comments, and requests regarding this privacy policy are welcomed and should be addressed to our Data Protection Officer, Waqar Azeem, at privacy@contentstudio.io.
 
-You can also reach out by mail at: Lumotive AB, c/o Sup46, 3rd Floor, Regeringsgatan 65, 111 56, Stockholm, Sweden
+You can also reach out by mail at Lumotive AB, c/o Sup46, 3rd Floor, Regeringsgatan 65, 111 56, Stockholm, Sweden
 
 ## 10\. Changes to this Privacy Policy
 
