@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratchinginfo.net privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127054436id_/http%3A//www.scratchinginfo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchinginfo.net privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729113853id_/http%3A//www.scratchinginfo.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,3 +21,9 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/contact-us/).
+
+### [Duan Lingxin](http://www.scratchinginfo.net/author/admin/ "Duan Lingxin")
+
+Content crafter and chief editor at Scratching Info. Also regular contributor on other major online tech platforms. Security Specialist by day and a writer by night, he does his best to instill his knowledge about tech while delivering inspiring and life changing resources through his writing,
+
+[More Posts](http://www.scratchinginfo.net/author/admin/ "More posts by Duan Lingxin") \- [Website](http://www.scratchinginfo.net/ "Duan Lingxin")
