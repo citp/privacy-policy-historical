@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumsoft.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629042714id_/http%3A//www.jumsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumsoft.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730015122id_/http%3A//www.jumsoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jumsoft
 
