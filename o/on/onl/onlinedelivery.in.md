@@ -1,57 +1,63 @@
-> *The following text is extracted and transformed from the onlinedelivery.in privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204111303id_/http%3A//www.onlinedelivery.in/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinedelivery.in privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729052051id_/https%3A//www.onlinedelivery.in/info/privacy-policy) for the most accurate reproduction.*
 
-# 
+# info :: Privacy policy
 
-**Privacy Policy**
+### What information do we collect?
 
-Thank you for accessing the onlinedelivery.in. We respect your privacy and want to protect your personal information. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Policy.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
-This privacy policy applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
-We are not responsible for the content or privacy practices on any non-Onlinedelivery.in web site to which this Site links or that links to this Site.
+### What do we use your information for?
 
-**1.1.1.1 Information Collection and Use**
+Any of the information we collect from you may be used in one of the following ways:
 
-**1\. Information Collection.**
+  * To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  * To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions 
+    * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails  
 
-We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
-
-  * \- Help make this Site easier for you to use by not having to enter information more than once.
-  * \- Help you quickly find information, products, and services.
-  * \- Help us create content on this Site that is most relevant to you.
-  * \- Alert you to new information, products, and services that we offer.
-
-
-
-5\. Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address, phone number, email address, and credit card number. These kinds of personal information are used for billing purposes, to fulfil your orders, to communicate with you about your order and our site, and for internal marketing purposes.
-
-6\. Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
-
-  * i. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFITRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."
-  * ii. Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
-  * iii. We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons t o measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties col lect via cookies and web beacons is not linked to any personal information collected by us.
-  * iv. As an example, Facebook collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and web beacons is not linked to any customer's personal information collected by us.
+    * The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
-7\. Log Files. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+### How do we protect your information?
 
-8\. Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal infor mation to us, and rely on a parent or guardian to assist you.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-9\. Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geo graphic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
+We offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-**2\. Information Use and Disclosure.**
+### Do we use cookies?
 
-0\. Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information).
 
-1\. Communications with You: We will use your personal information to communicate with you about our site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to register for a free shoe giveaway; to request us to notify you when we receive a new pro duct to sign up for our email newsletter and special offers; or to sign up for the Onlinedelivery.in. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements.
 
-2\. External Use. We want to provide you with excellent service and to offer you a great selection - we primarily sell merchandise, not information. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
+### Do we disclose any information to outside parties?
 
-  * i. As do most catalogue and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
-  * ii. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
-  * iii. We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwi se required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal rea sons or to commit fraud.
-  * iv. We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another com pany, but that disclosure will be subject to the Privacy Policy in effect.
-  * v. We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+### Third party links
 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+### Your Consent
+
+By using our site, you consent to our privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 01.12.2012
