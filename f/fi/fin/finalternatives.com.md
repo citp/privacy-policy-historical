@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finalternatives.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406114353id_/http%3A//www.futuresmag.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalternatives.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729213659id_/http%3A//www.futuresmag.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Futures Magazine
+# Privacy Policy | Futures
 
 This privacy statement explains the procedures followed by The Alpha Pages LLC and all its products in collecting and using information regarding visitors to this Web site and advises you what information might be shared with third parties. The type of information collected will vary depending upon the portions of the site which you visit and, in certain instances, which you voluntarily disclose.
 
