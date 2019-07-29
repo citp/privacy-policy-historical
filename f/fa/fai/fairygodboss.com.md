@@ -1,151 +1,280 @@
-> *The following text is extracted and transformed from the fairygodboss.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426045139id_/https%3A//fairygodboss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairygodboss.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729022734id_/https%3A//fairygodboss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fairygodboss
 
 ## Fairygodboss Privacy Policy
 
-This Privacy Policy was last updated October 25, 2018.
+**Effective Date: May 31, 2019**
 
-This policy describes the personal information collected by Fairygodboss, Inc. ("Fairygodboss","we", or "us") on its sites, which include but are not limited to [https://www.Fairygodboss.com](https://www.fairygodboss.com/), as well as our mobile sites and native apps (together as the "Sites"), why we collect it, how we use it, and when we share it with third parties. The policy also covers the online experiences and services provided by Fairygodboss through the Sites (the "Services"). By visiting the Sites, registering as a member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy ("Privacy Policy". Unless otherwise defined herein, capitalized terms shall have the meanings assigned to them in the Fairygodboss Terms & Conditions, which can be found at [Terms & Conditions](https://fairygodboss.com/terms-and-conditions); and which incorporate this Privacy Policy by reference. If you do not agree to the terms of this Privacy Policy or the Terms and Conditions, you may not use the Sites.
+This “ **Privacy Policy** ” describes the privacy practices of Fairygodboss, Inc. and our subsidiaries and affiliates (collectively, “ **Fairygodboss** ,” “ **we** ”, “ **us** ”, or “ **our** ”) in connection with the [http://www.fairygodboss.com](http://www.fairygodboss.com/) website and any other website that we own or control and which posts or links to this Privacy Policy (collectively, the “ **Services”** ), and the rights and choices available to individuals with respect to their information.
 
-"Personal Information" is information that is personally identifiable such as names, addresses, e-mail addresses, personal URLs, photographs or phone numbers. We collect and use Personal Information as described in this Privacy Policy from the Users of our Services.
+We provide important information for individuals located in the European Union, European Economic Area, and United Kingdom (collectively, “ **Europe** ” or “ **European** ”) below.
 
-By using the services or submitting personal information through the services, you expressly consent to the processing of your personal information according to this Privacy Policy. Your personal information may be processed in the country where it was collected as well as other countries (including the United States) where laws regarding processing of personal information may be less stringent than the laws in your country.
+### Table of Contents
 
-### Information We Collect and Opting Out of Automatic Collection
+  * Personal Information We Collect
+  * How We Use Your Personal Information
+  * How We Share Your Personal Information
+  * Your Choices
+  * Other Sites and Services
+  * Security Practices
+  * International Data Transfers
+  * Children
+  * Changes to this Privacy Policy
+  * How to Contact Us
+  * Your California Privacy Rights
+  * Notice to European Users
+  * [Cookie Policy](https://web.archive.org/cookie-policy)
 
-We collect the following information that you submit to us voluntarily:
+  
 
-• Our Member registration process to create an Account requires you to provide us with your e-mail address and a username and password of your choice. Furthermore, you may have to provide certain information about your current or former work history in order to access certain parts of the Sites or to become a Member.
 
-• In connection with employer reviews, work history information, and other content you may contribute, Fairygodboss (and/or its third party service providers) will collect a wide variety of employee- and salary-related information on a voluntary basis. Please be aware that while some pieces of information that you provide to us would not be sufficient to identify you when seen by another User without any context, the combination of different pieces of information that you have provided for viewing by other Users, or any contextual information, may allow other Users to identify you.
+### Personal Information We Collect
 
-• As you use the Services, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Site. Fairygodboss may also use "cookies" "pixel tags" and other tracking technologies, to enable functionality on our websites, as well as a variety of other ways to enhance or personalize your online browsing. Fairygodboss may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you remove them) for a variety of tasks, for instance, to store your login information (if any) and your personal preferences for the Services. Pixel tags in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us. These technologies may also be used to collect information about your visit, including the pages you view, the features you use, the links you click, other actions you take in connection with the sites and our online ads.
+ **Information you provide to us.   **Personal information about you provide to us through the Service or otherwise includes:
 
-• We also work with third-party companies that use their tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications.
+  *  **Business and personal contact information** , such as your first and last name, email and mailing addresses, phone number, professional title and company name.
+  *  **Content you choose to upload to the Services** , such as text, images, audio, and video, along with the metadata associated with the files you upload.
+  *  **Profile information,  **such as your username and password that you may set to establish an online account with us, your interests and preferences.
+  *  **Registration information,  **such as information that may be related to a service, an account or an event you register for.
+  *  **Feedback or correspondence** , such as information you provide when you contact us with questions, feedback, or otherwise correspond with us online.
+  *  **Mailing information,** such as your city, state, country of residence, and postal code.
+  *  **Usage information** , such as information about how you use the Services and interact with us, including information associated with any content you upload to the websites or otherwise submit to us, and information you provide when you use any interactive features of the Services.
+  *  **Marketing information** , such as information such your preferences for receiving communications about our activities, events, and publications, and details about how you engage with our communications.
+  *  **Professional information** , such as professional credentials and skills, educational and work history, and other information of the type that may be included on a resume or curriculum vitae.
+  *  **Other information** that we may collect which is not specifically listed here, but which we will use in accordance with this Privacy Policy or as otherwise disclosed at the time of collection.
 
-• You have the option to set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you may not be able to access your account information and certain parts of the Services may not function as effectively or at all.
 
-• Please note that even if you opt-out, ad tracking technologies may still collect data and you will still see ads, but they will not be targeted based upon the information collected through these tracking technologies.
 
-• We may combine the information we collect through these various technologies with other information we have collected from and about you and use it as described in this policy.
+ **Information we obtain from social media platforms.  **We may maintain pages for our Company on social media platforms, such as Facebook, LinkedIn, Twitter, Google, YouTube, Instagram, and other third party platforms. When you visit or interact with our pages on those platforms, the platform provider’s privacy policy will apply to your interactions and their collection, use and processing of your personal information. You or the platforms may provide us with information through the platform, and we will treat such information in accordance with this Privacy Policy. 
 
-### Information Collected from Other Sources
+If you choose to login to the Services via a third party platform or social media network, or otherwise connect your account on the third party platform or network to your account through the Services, we may collect information from that platform or network. For example, this information may include your Facebook username, user ID, profile picture, cover photo, and networks to which you belong (e.g., school, workplace). You may also have the opportunity to provide us with additional information via the third party platform or network, such as a list of your friends or connections and your email address.  You can read more about your privacy choices in the “Third party platforms or social media networks” portion of the “Your Choices” section.
 
-We may receive Personal Information about you from outside the Sites, for instance, from third parties that provide services for us that are related to the Services. We may add this information to the information we have already collected from you via our Services.
+ **Information we obtain from other third parties.   **We may receive personal information about you from third party sources. For example, a business partner may share your contact information with us if you have expressed interest in learning specifically about our products or services, or the types of products or services we offer. We may obtain your personal information from other third parties, such as marketing partners and publicly available sources.
 
-### Use of Information We Collect
+ **Cookies and Other Information Collected by Automated Means  **
 
-In general, information (including Personal Information) we collect is used by us to provide you and other Users with the Services, respond to requests that you make, including performing technical support, to improve the Sites and Services, to better tailor the features, performance, and support of the Services, and to perform investigations consistent with this Privacy Policy.
+We, our service providers, our business partners and other third parties may automatically log information about you, your computer or mobile device, and activity occurring on or through the Services. The information that may be collected automatically includes your computer or mobile device operating system type and version number, manufacturer and model, device identifier (such as the Google Advertising ID or Apple ID for Advertising), browser type, screen resolution, IP address, the website you visited before browsing to our website, general location information such as city, state or geographic area; and information about your use of and actions on the Services, such as pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and length of access.  Our service providers and business partners may collect this type of information over time and across third party websites and mobile applications. 
 
-We may also use your Personal Information to provide you with announcements, notifications related to your use of the Services and other communications such as electronic newsletters, promotional e-mails or similar messaging.
+On our webpages, this information is collected using cookies, browser web storage (also known as locally stored objects, or “LSOs”), Flash-based LSOs (also known as “Flash cookies”), web beacons, and similar technologies, and our emails may also contain web beacons. 
 
-We may create anonymized information from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this anonymized information for internal purposes, such as analyzing usage patterns so that we may enhance the Services, and we also reserve the right to use and disclose such anonymized information at our discretion.
+SeeCookie Policyfor more information.
 
-### Disclosure of Personal Information
+  
 
-Except as otherwise stated in this Privacy Policy, we do not disclose to or share your Personal Information with third parties, unless you ask or authorize us to do so.
 
-We may provide your Personal Information to third party service providers and suppliers who work on behalf of or with us to provide you with some of the services and features of the Services and to help us communicate with our Users, for instance, to get User feedback or conduct services. However, these service providers and suppliers do not have any independent right to use this information except to help us provide the Services.
+### How We Use Your Personal Information
 
-We may share some or all of your Personal Information with any parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), in which case we will require our Affiliates to honor this Privacy Policy.
+We use your personal information for the following purposes and as otherwise described in this Privacy Policy or at the time of collection:
 
-In the event Fairygodboss goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, including pursuant to bankruptcy, you acknowledge that your Personal Information may be among the assets transferred.
+ **To operate the Service.   **We use your personal information to:
 
-We may (and you authorize us to) disclose or retain, for as long as is reasonably necessary to accomplish the below information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure or retention is necessary to:
+  * provide, operate and improve the Service
+  * provide information about our products and services
+  * establish and maintain your user profile on the Service
+  * communicate with you about the Service, including by sending you announcements, updates, security alerts, and support and administrative messages
+  * communicate with you about events or contests in which you participate
+  * understand your needs and interests, and personalize your experience with the Service and our communications
+  * provide support and maintenance for the Service
+  * to respond to your requests, questions and feedback
 
-(a) comply with relevant laws or to respond to valid subpoenas or warrants served on us or to other government requests;
 
-(b) to enforce our Fairygodboss Terms & Conditions and Privacy Policy; or
 
-(c) to protect and defend the rights or property of us, the users of our Services, or third parties.
+ **For research and development.   **We analyze use of the Service to analyze and improve the Service and to develop new products and services, including by studying user demographics and use of the Services.
 
-### Choices Regarding Personal Information
+ **To send you marketing and promotional communications.   **We may send you Fairygodboss-related marketing communications as permitted by law. You will have the ability to opt-out of our marketing and promotional communications as described in the Opt out of marketing section below. ** **
 
-You may change your Personal Information (e.g. password and/or username) by logging into the service and editing your account information from within the [Profile Settings ](https://fairygodboss.com/users/profile)area of your profile.
+ **To display advertisements.  **We work with advertising partners to display advertisements on the Services. These advertisements are delivered by our advertising partners and may be targeted based on your use of the Services or your activity elsewhere online. To learn more about your choices in connection with advertisements, please see the section below titled “Targeted online advertising.”
 
-We may provide you with the opportunity to "opt-out" of having your Personal Information used for certain purposes when we ask for this information.
+ **To process employment applications.  **We use personal information, such as information submitted to us in a job application, to process employment applications, such as by evaluating a job candidate for an employment activity, and monitoring recruitment statistics.
 
-We may send newsletters, promotional communications or other similar messaging to our users on our behalf and on behalf of our partners. You may opt-out of receiving such messaging by following the instructions included in each message. We may also offer you an opportunity to opt-out of certain communications by logging into the service and editing your preferences within [Email & Alerts section of your Profile Settings](https://fairygodboss.com/users/alerts)[.](https://fairygodboss.com/users/settings)
+ **To comply with law.  **We use your personal information as we believe necessary or appropriate to comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities.
 
-We may send you service-related announcements when we believe it is necessary to do so. Generally, you may not opt-out of these announcements, which are not primarily promotional in nature. If you do not wish to receive these announcements, you have the option to deactivate your Account.
+ **With your consent.   **In some cases we may specifically ask for your consent to collect, use or share your personal information, such as when required by law.  
 
-We may notify you when your Personal Information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+ **To create anonymous data.   **We may create anonymous data from your personal information and other individuals whose personal information we collect.  We make personal information into anonymous data by removing information that makes the data personally identifiable to you.  We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve the Service and promote our business.  
 
-You may inactivate your account by discontinuing your use of the Sites and providing us with a notice of termination by email to info@fairygodboss.com. After we receive this notice we will deactivate your account (hereafter, an “Inactive Account”) within a commercially reasonable amount of time.
+We do not share your personal information with third parties without your consent, except in the following circumstances or as described in this Privacy Policy:
 
-If and when we deactivate Personal Information that we have collected from or about you, it will be removed from our active databases but may remain in our archives as Inactive unless otherwise required by law. For the purpose of our Privacy Policy, an Inactive Account Status shall mean: 
+ **Affiliates.   **We may share your personal information with our corporate parent, subsidiaries, and affiliates, for purposes consistent with this Privacy Policy.
 
-• You will no longer be able to access onsite information only available to registered users such as employer reviews.
+ **Service providers.**  We may share your personal information with third party companies and individuals that provide services on our behalf or help us operate the Services (such as customer support, hosting, analytics, email delivery, marketing, and database management services). These third parties may use your personal information only as directed or authorized by us and in a manner consistent with this Privacy Policy, and are prohibited from using or disclosing your information for any other purpose.
 
-• Any Employer reviews you previously submitted and were published will be unpublished and deactivated.
+ **Virtual Career Fair employers**. We may disclose any information provided by job applicants during a Virtual Career Fair (i.e., professional information, as discussed above) to recruiters from participating companies. 
 
-• Any former posts or comments you have previously made under your chosen or assigned username before you had an Inactive Account will convert into Anonymous postings.
+ **Third party platforms and social media networks.  **If you have enabled features or functionality that connect the Service to a third party platform or social media network (such as by logging in to the Services using your account with the third party, providing your API key or similar access token for the Service to a third party, or otherwise linking your account with the Service to a third party’s services), we may disclose the personal information that you authorized us to share. We do not control the third party’s use of your personal information.
 
-• You will no longer be subscribed to any emails or notifications, including marketing emails.
+ **Other Users of the Service and the Public.  **We may provide functionality that enables you to disclose personal information to other users of the Service or the public. For instance, you may be able to maintain a user profile with information about yourself that you can make available to other users or the public. You may also be able to submit content to the Services (such as comments, reviews, surveys, blogs, photos, and videos), and we will display your name, username, and a link to your user profile along with the content you submit. We do not control how other users or third parties use any personal information that you make available to other users or the public.
 
-However, we reserve the right not to delete your Account and to retain your Account, including any Personal Information therein, to establish or defend a legal claim, pursuant to a government order or for other purposes permitted by law. Any termination of your account access may involve personal information removal from our live databases and all the information and data stored for such Account in the Services. Fairygodboss will not have any liability whatsoever to you for any termination of your account or related removal of your information.
+ **Business transfers.**   We may sell, transfer or otherwise share some or all of our business or assets, including your personal information, in connection with a business transaction (or potential business transaction) such as a corporate divestiture, merger, consolidation, acquisition, reorganization or sale of assets, or in the event of bankruptcy or dissolution. In such a case, we will make reasonable efforts to require the recipient to honor this Privacy Policy.
 
-If and when we remove Personal Information that we have collected from or about you, it will be Inactive our active databases and may remain in our archives unless otherwise required by law.
+  
 
-### Links to Other Web Sites
 
-The Services may contain links to other websites that are not owned or controlled by Fairygodboss. The provision of such links is for your convenience and does not signify our endorsement of such web sites or location or its contents. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other web sites. Our Privacy Policy does not apply to any outside web sites.
+### Your Choices
 
-### Advertising
+In this section, we describe the rights and choices available to all users. Users who are located within the European Union can find additional information about their rights below.
 
-We may allow advertisers to place advertisements on the Sites. Clicking on such advertisements will direct you to the website of a third party. These websites may use tracking technologies in connection with these advertisements and may collect information from you, which may include Personal Information. This Privacy Policy does not cover the collection of information by these third-party websites. For information about our advertising partners, please visit their websites through the links included in the presentation of the advertisements.
+ **Access or Update Your Information.  **If you have registered for an account with us, you may review and update certain personal information in your account profile by logging into the account.
 
-### Privacy of Minors and Children
+ **Opt out of marketing communications.** You may opt out of marketing-related emails by following the opt-out or unsubscribe instructions at the bottom of the email, or by contacting us at [info@fairygodboss.com](mailto:info@fairygodboss.com). You may continue to receive service-related and other non-marketing emails.
 
-We do not intentionally collect or maintain information in the Services from those visitors and Users of the Services who are under 18 years old. Pursuant to the Children's Online Privacy Act (COPPA), we do not knowingly contact or collect personal information from children under thirteen (13). In fact, our website is not intended for children under thirteen (13) or to solicit information of any kind from children under thirteen (13).
+ **Cookies & Browser Web Storage.  **We may allow service providers and other third parties to use cookies and similar technologies to track your browsing activity over time and across the Service and third party websites. For more details, see our [Cookie Policy.](https://web.archive.org/cookie-policy)
 
-However, it is possible that we may inadvertently receive information pertaining to children under thirteen (13). If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen (13) we will deactivate the information from our records. If you believe that we have received information about your child that is under the age of thirteen (13), please do not hesitate to notify us using the information below. When we receive your notification, we will deactivate such information permanently. Such notifications can be sent to: info@fairygodboss.com
+ **Targeted online advertising.  **Some of the business partners that collect information about users’ activities on or through the Service may be members of organizations or programs that provide choices to individuals regarding the use of their browsing behavior or mobile application usage for purposes of targeted advertising. 
 
-### Security Safeguards
+Users may opt out of receiving targeted advertising on websites through members of the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/choices) or the Digital Advertising Alliance by clicking [here](http://www.aboutads.info/choices). European users may opt out of receiving targeted advertising on websites through members of the European Interactive Digital Advertising Alliance by clicking [here](https://www.youronlinechoices.eu/), selecting the user’s country, and then clicking “Choices” (or similarly titled link). Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above.
 
-Fairygodboss has put in place commercially reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. However, no company, including Fairygodboss, can fully eliminate security risks associated with Personal Information. Your use of the Sites and Services is at your own risk.
+In addition, your mobile device settings may provide functionality to limit our, or our partners’, ability to engage in ad tracking or targeted advertising using the Google Advertising ID or Apple ID for Advertising associated with your mobile device.
 
-### Public Postings
+If you choose to opt-out of targeted advertisements, you will still see advertisements online but they may not be relevant to you. Even if you do choose to opt out, not all companies that serve online behavioral advertising are included in this list, so you may still receive some cookies and tailored advertisements from companies that are not listed.
 
-One of the purposes of the Services is for Members to share employment-related information with other Users. Therefore, you should assume that any information that you post to the publicly available areas of the Sites will be made available to other Users of the Services and the public at large. We provide you the ability to anonymously post certain comments under a chosen username, in which case we will not include your contact information (i.e., email address) on the Sites in connection with such comments. However, our internal records may associate your contact information with such comments.
+ **Do Not Track.** Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals.  To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-### Feedback
+ **Choosing not to share your personal information.  **Where we are required by law to collect your personal information, or where we need your personal information in order to provide the Service to you, if you do not provide this information when requested (or you later ask to delete it), we may not be able to provide you with our services.  We will tell you what information you must provide to receive the Service by designating it as required at the time of collection or through other appropriate means.
 
-If you provide feedback about the Services to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy.
+ **Connecting via Facebook and/or Gmail.  **If you choose to connect to the Service via Facebook or Gmail or any other social media service, you may have the ability to limit the information that we may obtain from the third party at the time you login to the Service using the third party’s authentication service or otherwise connect your account. Subsequently, you may be able to control your settings through the third party’s platform or service. For example, you may access and change your settings through the Facebook [settings page](https://www.facebook.com/settings?tab=applications). If you withdraw our ability to access certain information from a third party platform or social media network, that choice will not apply to information that we have already received from that third party.
 
-### Changes to this Statement
+  
 
-Notice of any changes to this Privacy Policy will be made as described in Terms and Conditions.
 
-We reserve the right to modify this statement at any time, so please review it frequently. If we make material changes to this policy, we may notify you here, by email, by means of a notice on our home page, or by another method we so choose.
+### Other Sites and Services
+
+The Service may contain links to other websites and other online services operated by third parties. These links are not an endorsement of, or representation that we are affiliated with, any third party. In addition, our content may be included on web pages or online services that are not associated with us. We do not control third party websites or online services, and we are not responsible for their actions. Other websites and services follow different rules regarding the collection, use and sharing of your personal information. We encourage you to read the privacy policies of the other websites and online services you use.
+
+  
+
+
+### Security Practices.
+
+The security of your personal information is important to us.  We employ a number of organizational, technical and physical safeguards designed to protect the personal information we collect.  However, security risk is inherent in all internet and information technologies and we cannot guarantee the security of your personal information. 
+
+  
+
+
+### International Data Transfers. 
+
+We are headquartered in the United States and have service providers in other countries, and your personal information may be transferred to the United States or other locations outside of your state, province, or country where privacy laws may not be as protective as those in your state, province, or country.
+
+European Union users should read the important information provided below about transfer of personal information outside of the European Union. 
+
+  
+
+
+### Children.
+
+As a general rule, children are not allowed to use the Services, and we do not collect personal information from them. We define "children" as follows:
+
+  * Residents outside of Europe: anyone under 13 years old; and
+  * Residents of Europe: anyone under 16 years old, or the age needed to consent to the processing of personal data in your country of residence.
+
+
+
+If we learn that we have collected personal information of a child without the consent of the child’s parent or guardian, we will delete it. We encourage parents with concerns to contact us.
+
+  
+
+
+### Changes to this Privacy Policy.
+
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on the Service. We may also provide notification of changes in another way that we believe is reasonably likely to reach you, such as via e-mail (if you have an account where we have your contact information) or another manner through the Services.
+
+Any modifications to this Privacy Policy will be effective upon our posting the new terms and/or upon implementation of the new changes on the Services (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
+
+  
+
+
+### How to Contact Us
+
+Please direct any questions or comments about this Policy or privacy practices to [info@fairygodboss.com](mailto:info@fairygodboss.com). You may also write to us via postal mail at:
+
+    Fairygodboss, Inc.
+
+    Attn: Legal – Privacy
+
+ **    **15 West 38th Street, 5th Floor
+
+    New York, NY 10018 
+
+  
+
 
 ### Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits Members of the Sites who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Under California law, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and provide contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to:
+Under California Civil Code section 1798.83, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to us via email at [info@fairygodboss.com](mailto:info@fairygodboss.com). You must put the statement "Your California Privacy Rights" in your request and include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
-Fairygodboss Inc
+  
 
-15 W 38th Street, 5th fl.
 
-New York, NY 10018
+### Notice to European Users
 
-ATTN: California Privacy Requests
+The information provided in this “Notice to European Users” section applies only to individuals in Europe.
 
-info@fairygodboss.com
+ **Personal information.  **References to “personal information” in this Privacy Policy are equivalent to “personal data” governed by European data protection legislation. 
 
-### Do Not Track
+ **Controller.  **Fairygodboss, Inc. is the controller of your personal information covered by this Privacy Policy for purposes of European data protection legislation.  
 
-While many current browsers permit you to send a signal to us about your Do Not Track ("DNT") preferences, we do not respond to DNT signals sent from your browser.
+ **Legal bases for processing.   **We use your personal information only as permitted by law. Our legal bases for processing the personal information described in this Privacy Policy are described in the list below.
 
-### International Users
+  * Processing purpose ** ** (click link for details) _Details regarding each processing purpose listed below are provided in the section above titled “How We Use Your Personal Information.”_
+    *  **Legal basis**
 
-Fairygodboss makes no claims that user content uploaded may be appropriately protected pursuant to privacy and data protection laws outside of the United States. Users from outside the United States, including the European Union, are advised that Fairygodboss stores personal information on servers within the United States, and they are further advised that personal information uploaded to the Sites may not be protected in accordance with their local laws and regulations. If you upload personal information to the Sites from outside the United States, you do so at your own risk. Fairygodboss is not responsible for compliance with the laws of your jurisdiction and makes no representations, warranties or guarantees that it complies with privacy, data protection or cybersecurity laws and regulations outside the United States.
+  *  **To operate the Service  
+**
+    * Processing is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.  If we have not entered into a contract with you, we process your personal information based on our legitimate interest in providing the Service you access and request.  
 
-To comply with EU General Data Protection Regulation requirements, we will inform all users visiting the Fairygodboss sites via a pop-up banner that we collect information using cookies and pixel tags or other tracking technologies on our own behalf and on behalf of other advertisers across the Internet.
+  *  **To administer events, For research and development, To send you marketing communications, To display advertisements, To process employment applications, To create anonymous data**
+    * These activities constitute our legitimate interests.  We do not use your personal information for these activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
 
-To the extent that you are a user of the Sites based within the region covered by the EU General Data Protection Regulations and choose to voluntarily become a Member account and create an Account, you may at any time email info@fairygodboss.com for us to permanently deactivate your Account and Member information.
+  *  **To comply with law**
+    * Processing is necessary to comply with our legal obligations.
 
-### Contact Us
+  *  **With your consent**
+    * Processing is based on your consent.  Where we rely on your consent you have the right to withdraw it any time in the manner indicated when you consent or in the Service.
 
-If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to info@fairygodboss.com
+
+
+
+ **Use for new purposes.  **We may use your personal information for reasons not described in this Privacy Policy where permitted by law and the reason is compatible with the purpose for which we collected it.  If we need to use your personal information for an unrelated purpose, we will notify you and explain the applicable legal basis. 
+
+ **Sensitive personal information.**  We ask that you not provide us with any sensitive personal information (e.g., social security numbers, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services, or otherwise to us. 
+
+If you provide us with any sensitive personal information to us when you use the Services, you must consent to our processing and use of such sensitive personal information in accordance with this Privacy Policy. If you do not consent to our processing and use of such sensitive personal information, you must not submit such sensitive personal information through our Services.
+
+ **Retention**
+
+We retain personal information for as long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting requirements, to establish or defend legal claims, or for fraud prevention purposes.  
+
+To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements. 
+
+When we no longer require the personal information we have collected about you, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.  If we anonymize your personal information (so that it can no longer be associated with you), we may use this information indefinitely without further notice to you.
+
+ **Your rights**
+
+European data protection laws give you certain rights regarding your personal information.  If you are located within the European Union, you may ask us to take the following actions in relation to your personal information that we hold:
+
+  *  **Access.**  Provide you with information about our processing of your personal information and give you access to your personal information.
+  *  **Correct.**  Update or correct inaccuracies in your personal information.
+  *  **Delete.**  Delete your personal information.
+  *  **Transfer.**  Transfer a machine-readable copy of your personal information to you or a third party of your choice.
+  *  **Restrict.**  Restrict the processing of your personal information.
+  *  **Object.**  Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights.  
+
+
+
+You may submit these requests by email or to our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or our response to your requests regarding your personal information, you may contact us or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator [here](https://edpb.europa.eu/about-edpb/board/members_en).
+
+  
+
+
+### Cross-Border Data Transfer
+
+If we transfer your personal information out of Europe to a country not deemed by the European Commission to provide an adequate level of personal information protection, the transfer will be performed:
+
+  * Pursuant to the recipient’s compliance with standard contractual clauses, EU-US Privacy Shield (or Swiss-US Privacy Shield, as applicable) or Binding Corporate Rules
+  * Pursuant to the consent of the individual to whom the personal information pertains
+  * As otherwise permitted by applicable European requirements.
+
+
+
+You may contact us if you want further information on the specific mechanism used by us when transferring your personal information out of Europe.
