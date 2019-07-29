@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nukedebt.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628055846id_/http%3A//nukedebt.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nukedebt.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729084437id_/http%3A//nukedebt.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Debt Articles - NukeDebt.com
 
