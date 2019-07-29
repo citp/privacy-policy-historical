@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626181354id_/http%3A//www.swankdollars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729142214id_/http%3A//www.swankdollars.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MagnaBill Ltd
 
