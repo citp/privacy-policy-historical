@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809142150id_/http%3A//www.gov.uk/government/publications/charity-commission-freedom-of-informationenvironmental-information-regulations-request-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729141850id_/http%3A//www.gov.uk/government/publications/charity-commission-freedom-of-informationenvironmental-information-regulations-request-privacy-notice) for the most accurate reproduction.*
 
 # Charity Commission Freedom of Information/Environmental Information Regulations request privacy notice - GOV.UK
 
@@ -13,7 +13,7 @@ Privacy policy about how we process your data when you submit a Freedom of Infor
 Published 9 August 2018 
 
 From: 
-    [The Charity Commission](https://web.archive.org/government/organisations/charity-commission)
+     [The Charity Commission](https://web.archive.org/government/organisations/charity-commission)
 
 ## Documents
 
@@ -41,6 +41,22 @@ This privacy notice explains how the Charity Commission processes your personal 
 
 Published 9 August 2018 
 
+##  Related content 
+
+  * [FOI requests for information received by MOD: February 2011](https://web.archive.org/government/publications/foi-requests-for-information-received-by-mod-feb-2011)
+  * [Guidance for requesting information from the FCO](https://web.archive.org/government/publications/guidance-for-requesting-information-from-the-fco)
+  * [FOI requests for information received by MOD: November 2011](https://web.archive.org/government/publications/foi-requests-for-information-received-by-mod-nov-2011)
+  * [FOI requests for information received by MOD: May 2011](https://web.archive.org/government/publications/foi-requests-for-information-received-by-mod-may-2011)
+  * [FOI requests for information received by MOD: August 2011](https://web.archive.org/government/publications/foi-requests-for-information-received-by-mod-aug-2011)
+
+
+
+## Explore the topic
+
+  * [Community and society](https://web.archive.org/society-and-culture/community-and-society)
+
+
+
 ## Is this page useful?
 
 [ Yes this page is useful ](https://web.archive.org/contact/govuk) [ No this page is not useful ](https://web.archive.org/contact/govuk) [ Is there anything wrong with this page? ](https://web.archive.org/contact/govuk)
@@ -64,6 +80,4 @@ Close
 To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.
 
 Email address 
-
-[Don’t have an email address?](https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/government/publications/charity-commission-freedom-of-informationenvironmental-information-regulations-request-privacy-notice&gcl=1627485790.1515403243)
   *[ODT]: OpenDocument Text document
