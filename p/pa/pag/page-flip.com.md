@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the page-flip.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628182308id_/https%3A//flippingbook.com/help/legal/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page-flip.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729194733id_/https%3A//flippingbook.com/help/legal/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy | FlippingBook
 
