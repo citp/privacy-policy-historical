@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624051153id_/https%3A//www.ebates.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729083040id_/https%3A//www.ebates.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ebates
 
@@ -123,3 +123,5 @@ This Privacy Policy is current as of the effective date set forth below. Company
 If you have any questions regarding this Privacy Policy, please feel free to contact us by email at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) or by mail at 800 Concar Drive, Suite 175, San Mateo, CA 94402, ATTN: Ebates Legal.
 
 Updated: April 24, 2019
+
+.
