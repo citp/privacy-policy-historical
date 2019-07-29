@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarehome.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516213119id_/http%3A//freewarehome.com/index.php%3Fpages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarehome.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729121901id_/https%3A//www.freewarehome.com/index.php%3Fpages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreewareHome
 
