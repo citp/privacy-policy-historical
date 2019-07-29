@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilanguide.in privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629052722id_/http%3A//www.tamilanguide.in/p/httpwww.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilanguide.in privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729163251id_/http%3A//www.tamilanguide.in/p/httpwww.html) for the most accurate reproduction.*
 
 # Govt Jobs 2019, Application Form, Admit Card, Result: Privacy Policy
 
