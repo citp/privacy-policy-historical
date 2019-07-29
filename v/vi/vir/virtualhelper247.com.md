@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualhelper247.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529103455id_/http%3A//virtualhelper247.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualhelper247.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729020157id_/http%3A//virtualhelper247.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
