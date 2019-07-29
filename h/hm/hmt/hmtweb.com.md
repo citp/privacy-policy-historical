@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmtweb.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622070657id_/https%3A//www.gsqi.com/imd/%3Fp%3D2299) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmtweb.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730014434id_/https%3A//www.gsqi.com/imd/%3Fp%3D2299) for the most accurate reproduction.*
 
 # G-Squared Interactive Privacy Policy | Internet Marketing Driver
 
