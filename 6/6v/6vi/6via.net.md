@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6via.net privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626175731id_/http%3A//www.6via.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6via.net privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729230757id_/http%3A//www.6via.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy – 6via
 
