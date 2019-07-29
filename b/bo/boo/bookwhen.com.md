@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookwhen.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405184919id_/https%3A//bookwhen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookwhen.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729121331id_/https%3A//bookwhen.com/privacy) for the most accurate reproduction.*
 
 # Bookwhen | Privacy Policy & GDPR information
 
