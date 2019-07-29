@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uawpro.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529210606id_/http%3A//uawpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uawpro.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729204936id_/http%3A//uawpro.com/privacy-policy) for the most accurate reproduction.*
 
 # UAW Pro Privacy Policy
 
