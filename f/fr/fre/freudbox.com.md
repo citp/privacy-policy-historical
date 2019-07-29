@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freudbox.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629002108id_/http%3A//www.freudbox.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freudbox.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730014503id_/http%3A//www.freudbox.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Free sex video trailers daily - Freud Box
 
