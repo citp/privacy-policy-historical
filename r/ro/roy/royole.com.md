@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royole.com privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124155540id_/http%3A//www.royole.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royole.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729162503id_/http%3A//www.royole.com/privacy) for the most accurate reproduction.*
 
 # Royole | We invent the future
 
