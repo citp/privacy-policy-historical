@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swapadvd.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223055016id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapadvd.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729173845id_/https%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.*
 
 # SwapaDVD :: Privacy Policy
 
@@ -16,11 +16,11 @@ SwapaDVD does not rent, sell, or share personal information about you with other
 **Affiliated Entities**   
 SwapaDVD may engage in marketing products or services in cooperation with other companies. While engaged in a cooperative relationship with SwapaDVD, such companies are considered affiliated entities and SwapaDVD may share your information with them, including your name, address, email address, and other personal information that you have provided to us. If you purchase postage through the Site, the United States Postal Service and our postage partner, Endicia, require that we collect and share your personal information with Endicia and the United States Postal Service. Information sharing includes, but may not be limited to, your name, address, email address, credit card number, and telephone number and such additional information as may be requested or required to complete or facilitate a postage purchase transaction. Your information can then be used according to their respective privacy policies, which can be found at 
 
-<http://www.endicia.com/PrivacyPolicy/>
+<https://www.endicia.com/policy/privacy-policy/>
 
 and 
 
-<http://about.usps.com/who-we-are/privacy-policy/welcome.htm>
+<https://about.usps.com/who-we-are/privacy-policy/welcome.htm>
 
 **Posted Communications**   
 SwapaDVD may make message boards, opinion forums, bulletin board services or other interactive communication facilities available to users of the Site. Posted communications are publicly viewable and searchable through Google or other search engines. SwapaDVD cannot review all communications made on or through the Site. SwapaDVD reserves the right to use posted materials for its own purposes for marketing, communication, advertising, or any other purpose at the sole discretion of SwapaDVD.
@@ -46,11 +46,11 @@ If you choose to provide personally identifying information to us, we may use an
 Children under 18 are not permitted to use the SwapaDVD service. 
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**   
-You can edit your SwapaDVD [Account Information](http://www.swapadvd.com/members/settings/index.php) at any time. 
+You can edit your SwapaDVD [Account Information](https://www.swapadvd.com/members/settings/index.php) at any time. 
 
 We reserve the right to send you certain communications relating to the SwapaDVD service, such as service announcements, administrative messages and the SwapaDVD Newsletter, that are considered part of your SwapaDVD account, without offering you the opportunity to opt-out of receiving them. 
 
-You can cancel your SwapaDVD account at any time. Please read our [Terms of Use](http://www.swapadvd.com/help/terms_of_use.php) for information about refunds and other account closing matters. 
+You can cancel your SwapaDVD account at any time. Please read our [Terms of Use](https://www.swapadvd.com/help/terms_of_use.php) for information about refunds and other account closing matters. 
 
 **Changes to this Privacy Policy**   
 SwapaDVD reserves the right to make changes to this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your SwapaDVD account or by placing a prominent notice on the Site. 
