@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prhwy.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619103840id_/http%3A//www.prhwy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prhwy.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729084224id_/http%3A//www.prhwy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # prHWY Privacy Policy
 
