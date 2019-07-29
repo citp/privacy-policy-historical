@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dasinc.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525230141id_/http%3A//www.dasinc.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dasinc.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729165837id_/http%3A//www.dasinc.com/privacy.cfm) for the most accurate reproduction.*
 
 # DAS Companies, Inc. - Privacy Policy
 
