@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparethemeerkat.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629234958id_/https%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemeerkat.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729165233id_/https%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Compare the Market - Privacy & Cookie Policy
 
@@ -28,9 +28,9 @@ You can see a list of our insurance partners **[here](https://web.archive.org/tr
 
 Lifesearch Limited:
 
-Our life and critical illness insurance comparison service is provided by our comparison service partner Lifesearch Limited who will also be a data controller in relation to any data you provide in relation to a quote for life insurance.
+Our life and critical illness insurance comparison service is provided by our comparison service partner Lifesearch Limited who will also be a data controller in relation to any data you provide in relation to a quote or application for life insurance.
 
-They will share your personal data with any insurance providers they work with in order to provide your quote. The insurance providers will also become data controllers of the data you provide.
+They will share your personal data with any insurance providers they work with in order to provide your quote. The insurance providers will also become data controllers of the data you provide and arrange your cover.
 
 If you use the talk to us service to talk to Lifesearch then any data that you provide to them directly will be subject to their privacy policy.
 
@@ -110,10 +110,6 @@ If you decide to click through to a credit card provider, any personal data you 
 You do not need to provide us with any personal data to view the details of loans, current accounts and savings accounts displayed on our Website. 
 
 If you decide to click through to any provider, any personal data you provide will be subject to the provider's privacy policy.
-
-**Mortgage broker service**
-
-The mortgage broker service on our Website is run by moneyQuest Mortgage Brokers Limited. If you decide to contact them or request them to contact you they will be the data controller in respect of any personal data that they process about you and this will be subject to their own privacy policy. If you request to be contacted we will pass them your personal data in order to facilitate this.
 
 **Homeowner loan broker service**
 
@@ -425,10 +421,7 @@ Energylinx - **[DataProtection@energylinxforbusiness.com](mailto:DataProtection@
 
 The Idol - **[datacontroller@theidol.com](mailto:datacontroller@theidol.com)**
 
-Comparison Creator – **[dataprotection@comparisoncreator.com](mailto:dataprotection@comparisoncreator.com)  
-**
-
-moneyQuest - **[info@moneyquest.co.uk](mailto:info@moneyquest.co.uk)**
+Comparison Creator – **[dataprotection@comparisoncreator.com](mailto:dataprotection@comparisoncreator.com)**
 
 Decision Technologies – **[dpo@decision.tech](mailto:dpo@decision.tech)**
 
