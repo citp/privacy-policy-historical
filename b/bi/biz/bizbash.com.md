@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418221152id_/https%3A//www.bizbash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2019-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190729223220id_/https%3A//www.bizbash.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Bizbash
 
 Welcome to www.BizBash.com (the “website”). This website is owned and operated by BizBash Media, Inc. ( **“we”, “us”, “our”** ). We are committed to protecting your privacy. This policy provides you with details on the information we collect from you and the uses we make of your personal information. This policy may be updated from time to time as technology changes or the law requires, so please check back periodically. If you continue to visit this website and use the services made available to you after such changes have been made, you hereby acknowledge, agree to, and provide your consent to the changes.
 
