@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voiceofeconomy.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409164113id_/http%3A//www.voiceofeconomy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceofeconomy.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730073627id_/http%3A//www.voiceofeconomy.com/%3Fpage_id%3D5917) for the most accurate reproduction.*
 
 # Privacy Policy – Voice of Economy
 
