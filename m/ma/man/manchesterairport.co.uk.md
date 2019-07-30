@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330170904id_/https%3A//www.manchesterairport.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730192708id_/http%3A//www.manchesterairport.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Manchester Airport
 
@@ -19,7 +19,7 @@ We collect your personal information to enable us to provide you with our goods 
 
   * Car park space – We collect information such as your name, email address, car registration and bank details. If you have already registered with us, we will only collect your email address and password for us to retrieve your information. This information will help us to correctly identify you, use your information to supply you with the products and service and keep records about your purchases. We do not store your full payment card detail as your payment is processed by our trusted third-party payment processor via a secure encrypted link. We will retain your information for four years after which your information will be deleted.
 
-Lounges (Escape and 1903) – We collect personal information such as your name, email address, contact number, flight details, reason for travel and payment details. If you have already registered with us, we will only collect your email address and password for us to retrieve your information. This information will help us to correctly identify you, use your information to supply you with the products and service and keep records about your purchases. We do not store your full payment card details as your payment is processed by our trusted third-party payment processor via a secure encrypted link. We will retain your information for four years after which your information will be deleted.
+Lounges (Escape and 1903) –   We collect personal information such as your name, email address, contact number, flight details, reason for travel and payment details. If you have already registered with us, we will only collect your email address and password for us to retrieve your information. This information will help us to correctly identify you, use your information to supply you with the products and service and keep records about your purchases. We do not store your full payment card details as your payment is processed by our trusted third-party payment processor via a secure encrypted link. We will retain your information for four years after which your information will be deleted.
 
 Fast Track Security and Passport Control – We collect personal information such as your name, email address, flight details, reason for travel and payment details. If you have already registered with us, we will only collect your email address and password for us to retrieve your information. This information will help us to correctly identify you, use your information to supply you with the products and service and keep records about your purchases. We do not store your full payment card details as your payment is processed by our trusted third-party payment processor via a secure encrypted link. We will retain your information for four years after which your information will be deleted.
 
@@ -29,9 +29,11 @@ Holiday & Flights – We collect information such as your name, date of birth, c
 
 Runway Visitors Park – We collect your personal information when you book a tour on our Runway area of our website. This includes booking tours to view Concorde and Nimrod, Flight Academy, Aviation and Transport Festival and Gift Voucher Purchases. This information will help us to correctly identify you, use your information to supply you with the products and service and keep records about your purchases. We do not store your full payment card details as your payment is processed by our trusted third-party payment processor via a secure encrypted link. We will retain your information for four years after which your information will be deleted.
 
+PremiAir – We collect personal information such as name, date of birth, address, contact details, flight details, passport and visa details and other travel documents, special assistance requirements and payment details. This information will help us to correctly identify you, use your information to supply you with the products and service and keep records about your purchases. We do not store your full payment card details as your payment is processed by our trusted third-party payment processor via a secure encrypted link. Your details will be shared with government authorities for border control and aviation security purposes and with third parties if required for operational reasons. We will retain your information for four years after which your information will be deleted. Sensitive information such as passport and visa details will be deleted one month after travel.
+
   * We collect information such as your name, date of birth, company name, full address, telephone numbers, and payment details. This information will help us to correctly identify you, use your information to supply you with the products and service and keep records about your purchases. We do not store your full payment card details as your payment is processed by our trusted third-party payment processor via a secure encrypted link. We will retain your information for four years after which your information will be deleted.
 
-  * Our travel money site is run by our third party, Travelex. We do not currently share any customer data with them nor do they share any customer data with us. We receive weekly sales data and sales by currency data on request. Please click [here](https://www.travelex.co.uk/privacy-policy) for information on how Travelex handles your personal information.
+  * Our travel money site is run by our third party, Travelex. We do not currently share any customer data with them nor do they share any customer data with us. We receive weekly sales data and sales by currency data on request. Please click [here](https://www.travelex.co.uk/privacy-policy/) for information on how Travelex handles your personal information.
 
   * We collect personal information such as your name, email address, contact number, and flight details. This information will help us to correctly identify you, use your information to supply you with the products and service and keep records about your purchases. We will retain your information for four years after which your information will be deleted.
 
@@ -45,7 +47,7 @@ We will retain your information for six months if you’re unsuccessful, and sev
 
   * We collect information such as your full name, contact details including telephone number and full address, date and time of event relating to the complaint, the type of complaint and description of complaint. The information you provide will help us to correctly investigate your complaint and depending on whether you agreed on receiving a response, we will or will not send a response to you. We will retain your details on our records for two years after which we will then dispose of them.
 
-  * We collect information such as your full name, email address, contact number, the type of feedback, terminal, the area within the airport which the feedback corresponds and relates to, your comments, date and time of incident, flight number (if known), and a booking reference, if feedback is related to Car Parking, Lounges or Fast Track. The information you provide will help us to correctly identify you and investigate any queries. It will also help us better understand your feedback. We may also share your personal information with third parties to further investigate your feedback. We will retain your details on our records for three years after which we will delete your information.
+  * We collect information such as your full name, email address, contact number, the type of feedback, terminal, the area within the airport which the feedback corresponds and relates to, your comments, date and time of incident, flight number (if known), and a booking reference, if feedback is related to Car Parking, Lounges or Fast Track. The information you provide will help us to correctly identify you and investigate any queries. It will also help us better understand your feedback.  We may also share your personal information with third parties to further investigate your feedback. We will retain your details on our records for three years after which we will delete your information.
 
   * When you request to receive updates on incoming and outgoing flights, we will collect your email address so that we can use it to provide the information as requested. We do not retain your personal information and will delete your email address as soon as the request is completed.
 
@@ -63,7 +65,7 @@ We will use this profile to help improve our services and to keep you informed a
 
 We aim to create a tailored and personal experience for you to be able to self-manage your preferences and how we get in touch with marketing material. To help us with this, in every marketing email we send you can click on a link to provide us with further information about you and your preferences. All this information becomes part of your profile.
 
-We also use CCTV at our airports for security reasons and to manage our airports, for example, CCTV footage helps us to monitor queues at our airports. We may share CCTV footage with airlines that operate in the airports for security and monitoring of services and with law enforcement bodies.
+We also use CCTV at our airports for security reasons and to manage our airports, for example, CCTV footage helps us to monitor queues at our airports.  We may share CCTV footage with airlines that operate in the airports for security and monitoring of services and with law enforcement bodies.
 
   * The free WiFi service in our airport is provided by Virgin Media. When you sign up to use the WiFi in our airports, your personal information is collected by Manchester Airport. We will use your personal information to market our relevant products and services to you.
 
@@ -100,6 +102,8 @@ We will always make it clear if your personal information is going to be shared 
 
 We may share your personal information if we are under a duty to disclose or share your personal information to comply with any legal obligation, court or police request, or to enforce or apply our [terms of use](https://www.magairports.com/site-tools/terms-conditions/) or [terms and conditions of sale](https://www.manchesterairport.co.uk/terms-and-conditions/) and other agreements; or to protect the rights, property, or safety of Manchester Airport Limited and the Manchester Airport Group PLC, our customers, or others.
 
+If you have booked to use the PremiAir private terminal, your details will be shared with government authorities for border control and aviation security purposes and with third parties if required for operational reasons.
+
 
 
 
@@ -125,11 +129,9 @@ Scheidt & Bachmann (S&B) – When you book for parking space on our websites, S&
 
 Vibe – Vibe handles the travel area of our website. This includes booking flights, hotels and holidays. Vibe shares the personal information that they collect about you with us. For more information on how Vibe treats your personal data, please click [here](https://fly.manchesterairport.co.uk/travel/privacy-policy/).
 
-Virgin Media - Virgin Media WiFi handles our free WiFi service within our three airports. When you sign up to use our free WiFi, Virgin Media has access to the personal information which you use to sign up. For more information on how Virgin Media treats your personal information, please click [here](http://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html).
+Virgin Media -  Virgin Media WiFi handles our free WiFi service within our three airports. When you sign up to use our free WiFi, Virgin Media has access to the personal information which you use to sign up. For more information on how Virgin Media treats your personal information, please click [here](http://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html/).
 
-  * Carwash – Manages carwash orders
-
-Salesforce – Customer Relationship Management (CRM) used by our online services to hold customer details
+  * Salesforce – Customer Relationship Management (CRM) used by our online services to hold customer details
 
 Oracle BI (full transaction data) – Used for financial reporting
 
@@ -141,7 +143,7 @@ PayPal – Handles payment transactions. You can view their privacy notice [here
 
 We also share anonymised data with Facebook and Google. The data shared cannot be viewed by a natural person. They are encrypted data which Facebook and Google may use to provide tailored services to you whilst you use their websites. For a view of how Facebook and Google use your personal data to match you with the right products and services, please check out their websites.
 
-Please click [here](https://www.manchesterairport.co.uk/help/third-party-contacts/) to get a list of our third parties and affiliates.
+Please click [here](https://www.manchesterairport.co.uk/help/third-party-contacts/) to get a list of our third parties and affiliates.
 
 
 
@@ -150,13 +152,13 @@ Please click [here](https://www.manchesterairport.co.uk/help/third-party-contact
 
 The General Data Protection Regulation gives you certain rights relating to the personal data that is processed by Manchester Airport. Find below the list of rights and what they mean. If you wish to exercise any of these rights, please contact our Data Protection Officer at our address below, or alternatively you can send an email to [DPO@magairports.com](mailto:DPO@magairports.com). You will receive an acknowledgement within three working days of sending your request and a full response within twenty-eight days of receiving all the relevant information required to handle your request.
 
-  * Right of Access – You have the right to access all the personal information and supplementary information that we hold about you. This will allow you to be aware of and verify the lawfulness of us processing your information. We would respond to your subject access request within twenty-eight days. Please use this form [here](https://live-webadmin-media.s3.amazonaws.com/media/4165/subject-access-request.docx) or contact our Data Protection Officer at the address at the end of this notice, if you wish to make a subject access request.
+  * Right of Access – You have the right to access all the personal information and supplementary information that we hold about you. This will allow you to be aware of and verify the lawfulness of us processing your information. We would respond to your subject access request within twenty-eight days. Please use this form [here](https://live-webadmin-media.s3.amazonaws.com/media/4165/subject-access-request.docx) or contact our Data Protection Officer at the address at the end of this notice, if you wish to make a subject access request.
 
   * Right to Rectify – You have the right to request for your inaccurate personal information to be rectified or completed if it is incomplete.
 
   * Right to Erasure – We automatically delete your information from our records when the retention period has lapsed. Prior to us automatically deleting your information, you have the right to request for your information to be deleted and have your personal information erased from our records, if there is no reason for us to hold your information.
 
-  * Right to Restrict Processing - You have the right to object to the processing of your information if it causes unwarranted and substantial damage or distress. If it does, you have the right to require us to stop (or not to begin) the processing in question. This right does not automatically trigger the right to erasure. You will have to request for your information to be fully deleted from our records if you wish to exercise your right to erasure.
+  * Right to Restrict Processing -  You have the right to object to the processing of your information if it causes unwarranted and substantial damage or distress. If it does, you have the right to require us to stop (or not to begin) the processing in question. This right does not automatically trigger the right to erasure. You will have to request for your information to be fully deleted from our records if you wish to exercise your right to erasure.
 
   * Right to Data Portability – You have the right to obtain and reuse your personal information which we hold. This compelling will allow you to move, copy or transfer personal information easily from one IT environment to another in a safe and secure way.
 
@@ -171,7 +173,7 @@ The General Data Protection Regulation gives you certain rights relating to the 
 
 ##  Security and Data Storage 
 
-All the personal information we collect about you is stored by us or our service providers on our behalf. We transfer your personal information outside the EEA only when necessary. We take steps to ensure your personal information is treated securely and in accordance with this privacy policy. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+All the personal information we collect about you is stored by us or our service providers on our behalf. We transfer your personal information outside the EEA only when necessary. We take steps to ensure your personal information is treated securely and in accordance with this privacy policy.  Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential.  We ask you not to share a password with anyone.
 
 To provide you with the products and services and our website, we may need to store or transfer your personal information to countries outside the European Economic Area. Our list of third parties who may receive your personal information can be found [here](https://www.manchesterairport.co.uk/help/third-party-contacts/).
 
@@ -189,15 +191,21 @@ We use cookies to help us better understand user behaviour, tell us which parts 
 
 Our Data Protection Office is located at our Head Office, Olympic House, Manchester Airport, Manchester, M90 1QX. If you wish to contact our data protection officer regarding the information in this privacy notice, or any query relating to your personal information, please contact her at:
 
-Charlotte Lewendon   
-Data Protection Officer   
-Manchester Airports Group (MAG)   
-Olympic House   
-3rd Floor   
-Manchester Airport   
-M90 1QX   
-E: [DPO@magairports.com](mailto:DPO@magairports.com)   
+Charlotte Lewendon
 
+Data Protection Officer
+
+Manchester Airports Group (MAG)
+
+Olympic House
+
+3rd Floor
+
+Manchester Airport
+
+M90 1QX
+
+E:[DPO@magairports.com](mailto:DPO@magairports.com)
 
 Or alternatively you can get in touch with us via our feedback area [here](https://www.manchesterairport.co.uk/help/feedback-form/).
 
@@ -213,17 +221,24 @@ We may change our privacy notice at any time and without notice, so we recommend
 
 ##  Contact Details 
 
-Manchester Airports Group PLC   
-Olympic House   
-Manchester Airport   
-Manchester   
-M90 1QX   
+Manchester Airports Group PLC
 
+Olympic House
 
-Manchester Airport   
-Olympic House   
-Manchester Airport   
-Manchester   
+Manchester Airport
+
+Manchester
+
+M90 1QX
+
+Manchester Airport
+
+Olympic House
+
+Manchester Airport
+
+Manchester
+
 M90 1QX
 
 
