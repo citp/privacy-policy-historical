@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarinsusa.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021071514id_/https%3A//www.clarinsusa.com/en/customer-service-privacy-security/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarinsusa.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730132752id_/https%3A//www.clarinsusa.com/en/help-privacy-security/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - CLARINS
+# Privacy Policy - Clarins
 
 This Privacy Policy was updated on February 25, 2016 to include terms relative to our Facebook app.
 
