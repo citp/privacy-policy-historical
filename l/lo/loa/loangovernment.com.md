@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loangovernment.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630031725id_/http%3A//loangovernment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loangovernment.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730223250id_/http%3A//loangovernment.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – loan government
 
@@ -102,4 +102,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us  
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+By email: bharatwebmaster2@gmail.com
