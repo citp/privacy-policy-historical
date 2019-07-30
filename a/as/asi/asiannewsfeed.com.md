@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiannewsfeed.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627165459id_/http%3A//www.asiannewsfeed.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiannewsfeed.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730031700id_/http%3A//www.asiannewsfeed.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Asian Business and Finance Market News
 
