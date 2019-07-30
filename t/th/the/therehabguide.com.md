@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therehabguide.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610064322id_/http%3A//therehabguide.com/rehabpage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therehabguide.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730105055id_/http%3A//www.therehabguide.com/rehabpage/privacy-policy) for the most accurate reproduction.*
 
 # The Rehab Guide ® - Addiction Intake Publishing (Rehab finder)
 
