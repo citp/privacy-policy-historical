@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330090208id_/https%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731002756id_/https%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Holistic Health
 
