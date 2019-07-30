@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloutdoor.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402182109id_/http%3A//www.secondmedia.com/site-privacy-policy/index.php%3Fsite%3Dalloutdoor.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloutdoor.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730083107id_/http%3A//www.secondmedia.com/site-privacy-policy/index.php%3Fsite%3Dalloutdoor.com) for the most accurate reproduction.*
 
 # 
 
