@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imanila.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629124802id_/http%3A//www.imanila.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imanila.net privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730221949id_/http%3A//www.imanila.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IManila.net Technology focusing on issues in Asia
 
