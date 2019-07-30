@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arre.co.in privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401162305id_/https%3A//www.arre.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arre.co.in privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730093540id_/https%3A//www.arre.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arré
 
