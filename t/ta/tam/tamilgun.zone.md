@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilgun.zone privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415105803id_/http%3A//www.tamilgun.zone/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilgun.zone privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730164458id_/http%3A//tamilgun.be/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TamilGun
 
