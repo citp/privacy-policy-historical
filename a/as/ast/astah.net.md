@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astah.net privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621052413id_/http%3A//www.astah.net/agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astah.net privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730020454id_/http%3A//www.astah.net/agreements/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Astah.net
 
