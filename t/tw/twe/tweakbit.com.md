@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweakbit.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418115959id_/https%3A//www.tweakbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakbit.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730194155id_/https%3A//tweakbit.com/privacy) for the most accurate reproduction.*
 
 # TweakBit - Privacy Notice
 
