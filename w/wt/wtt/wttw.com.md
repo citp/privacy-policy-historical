@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wttw.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331181813id_/https%3A//interactive.wttw.com/wwci-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wttw.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730095540id_/https%3A//interactive.wttw.com/wwci-privacy-policy) for the most accurate reproduction.*
 
 # WWCI Privacy Policy | WTTW Chicago
 
