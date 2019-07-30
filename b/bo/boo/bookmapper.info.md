@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmapper.info privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629004817id_/http%3A//bookmapper.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmapper.info privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730084552id_/http%3A//bookmapper.info/privacy) for the most accurate reproduction.*
 
 # privacy – Template Design Ideas
 
