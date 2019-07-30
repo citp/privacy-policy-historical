@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendarpedia.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629095921id_/http%3A//www.calendarpedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarpedia.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730214658id_/http%3A//www.calendarpedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Calendarpedia.com
 
