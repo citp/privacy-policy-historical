@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621111523id_/https%3A//dropshots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730143256id_/https%3A//www.dropshots.com/privacy.php) for the most accurate reproduction.*
 
 # DropShots™ - Free Video Hosting & Photo Sharing; No Advertising. Upload Now!
-
-## Privacy Statement
 
 This Privacy Policy discloses the privacy practices for the website, www.dropshots.com (the “Site”). WebMinds, Inc. (referred to as “we”, “us”, or the “Company”), the provider of the Site, is committed to respecting your privacy rights. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
