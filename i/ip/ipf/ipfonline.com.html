@@ -1,112 +1,619 @@
-<!--The following is the downloaded HTML source of the ipfonline.com privacy policy that was archived on 2001-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010410031519id_/http%3A//www.ipfonline.com/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ipfonline.com privacy policy that was archived on 2019-07-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190730090910id_/https%3A//www.ipfonline.com/register/privacypolicy) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript" src="/PanelScripts/Panels.js">
-</script><script language="JavaScript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy policy, IPFonline.com - India's Online Industrial Products Finder</title>
+<meta name="Keywords" content="Registration; IPFonline.com, Industrial Products Finder (IPF), Search for engineering and industrial products in India">
+<meta name="Description" content="Privacy policy, IPFonline.com - India's Online Industrial Products Finder">
+<link rel="shortcut icon" href="https://www.ipfonline.com/themes/favico.png">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.ipfonline.com/css/register-style.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.ipfonline.com/css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.ipfonline.com/css/index.css">
+<script type="text/javascript" src="https://www.ipfonline.com/js/jquery.js"></script>
+<script src="https://www.ipfonline.com/js/searchview.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://www.ipfonline.com/js/script.js"></script>
+<script src="https://www.ipfonline.com/js/thickbox-compressed.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="https://www.ipfonline.com/css/thickbox.css">
 
+</head>
+<body>
+<div id="wrapper">
 
-</script></head>
-
-
-
-
-
-<body bgcolor="#FFFFE6" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<table width="100%" border="0" align="center" height="572" cellpadding="0" cellspacing="0">
-
-<script language="JavaScript">
- TopOne(); 
- Leftpanel();
+	<script type="text/javascript">
+    function MM_openBrWindow(theURL, winName, features) { //v2.0
+        window.open(theURL, winName, features);
+        setTimeout(theURL, winName, features);
+    }
 </script>
+
+
+
+<script>
+$(document).ready(function(){
+   
+                    var userid="";
+                    var useremail="";
+                    var ip="207.241.229.225"; 
+                    var datetime="2019-07-30 14:39:11";
+                    var urlalise="privacypolicy";
+                
+                    
+
+     $.ajax({
+  type: "POST",    
+      data: {ip:ip,datetime:datetime,userid:userid,useremail:useremail,urlalise:urlalise},
+  url: "https://www.ipfonline.com/insertmicrositetracking/ipfpages",
+});
+});
+</script>
+
+<!-- Checking Seession -->
+<script type="text/javascript">
+	function check_cookie(){
+		var x = get_cookie("ci_session" );
+		if(x == null)
+		{
+			return 0;
+		}
+		else{
+			y = unserialize(x);
+			if(y['username'])
+				return 1; 
+			else
+				return 0;
+		}	
+	}
+	function check_name(){
+		var x = get_cookie("ci_session" );
+		y = unserialize(x);
+		return y['userfullname'];
+	}
+	
+	function get_cookie(cookie_name)
+	{
+	  var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
+
+	  if ( results )
+	    return ( unescape ( results[2] ) );
+	  else
+	    return null;
+	}
+	
+	function unserialize (data) {
+	    var that = this;
+	    var utf8Overhead = function(chr) {
+	        // http://phpjs.org/functions/unserialize:571#comment_95906
+	        var code = chr.charCodeAt(0);        if (code < 0x0080) {
+	            return 0;
+	        }
+	        if (code < 0x0800) {
+	             return 1;        }
+	        return 2;
+	    };
+	 
+	     var error = function (type, msg, filename, line){throw new that.window[type](msg, filename, line);};
+	    var read_until = function (data, offset, stopchr){
+	        var buf = [];
+	        var chr = data.slice(offset, offset + 1);
+	        var i = 2;        while (chr != stopchr) {
+	            if ((i+offset) > data.length) {
+	                error('Error', 'Invalid');
+	            }
+	            buf.push(chr);            chr = data.slice(offset + (i - 1),offset + i);
+	            i += 1;
+	        }
+	        return [buf.length, buf.join('')];
+	    };    var read_chrs = function (data, offset, length){
+	        var buf;
+	 
+	        buf = [];
+	        for (var i = 0;i < length;i++){            var chr = data.slice(offset + (i - 1),offset + i);
+	            buf.push(chr);
+	            length -= utf8Overhead(chr); 
+	        }
+	        return [buf.length, buf.join('')];    };
+	    var _unserialize = function (data, offset){
+	        var readdata;
+	        var readData;
+	        var chrs = 0;        var ccount;
+	        var stringlength;
+	        var keyandchrs;
+	        var keys;
+	         if (!offset) {offset = 0;}
+	        var dtype = (data.slice(offset, offset + 1)).toLowerCase();
+	 
+	        var dataoffset = offset + 2;
+	        var typeconvert = function(x) {return x;}; 
+	        switch (dtype){
+	            case 'i':
+	                typeconvert = function (x) {return parseInt(x, 10);};
+	                readData = read_until(data, dataoffset, ';');                chrs = readData[0];
+	                readdata = readData[1];
+	                dataoffset += chrs + 1;
+	            break;
+	            case 'b':                typeconvert = function (x) {return parseInt(x, 10) !== 0;};
+	                readData = read_until(data, dataoffset, ';');
+	                chrs = readData[0];
+	                readdata = readData[1];
+	                dataoffset += chrs + 1;            break;
+	            case 'd':
+	                typeconvert = function (x) {return parseFloat(x);};
+	                readData = read_until(data, dataoffset, ';');
+	                chrs = readData[0];                readdata = readData[1];
+	                dataoffset += chrs + 1;
+	            break;
+	            case 'n':
+	                readdata = null;            break;
+	            case 's':
+	                ccount = read_until(data, dataoffset, ':');
+	                chrs = ccount[0];
+	                stringlength = ccount[1];                dataoffset += chrs + 2;
+	 
+	                readData = read_chrs(data, dataoffset+1, parseInt(stringlength, 10));
+	                chrs = readData[0];
+	                readdata = readData[1];                dataoffset += chrs + 2;
+	                if (chrs != parseInt(stringlength, 10) && chrs != readdata.length){
+	                    error('SyntaxError', 'String length mismatch');
+	                }
+	                 // Length was calculated on an utf-8 encoded string
+	                // so wait with decoding
+	                readdata = that.utf8_decode(readdata);
+	            break;
+	            case 'a':                readdata = {};
+	 
+	                keyandchrs = read_until(data, dataoffset, ':');
+	                chrs = keyandchrs[0];
+	                keys = keyandchrs[1];                dataoffset += chrs + 2;
+	 
+	                for (var i = 0; i < parseInt(keys, 10); i++){
+	                    var kprops = _unserialize(data, dataoffset);
+	                    var kchrs = kprops[1];                    var key = kprops[2];
+	                    dataoffset += kchrs;
+	 
+	                    var vprops = _unserialize(data, dataoffset);
+	                    var vchrs = vprops[1];                    var value = vprops[2];
+	                    dataoffset += vchrs;
+	 
+	                    readdata[key] = value;
+	                } 
+	                dataoffset += 1;
+	            break;
+	            default:
+	                error('SyntaxError', 'Unknown / Unhandled data type(s): ' + dtype);            break;
+	        }
+	        return [dtype, dataoffset - offset, typeconvert(readdata)];
+	    };
+	        return _unserialize((data+''), 0)[2];
+	}
+	
+	function utf8_decode ( str_data ) {
+	    // Converts a UTF-8 encoded string to ISO-8859-1  
+	    // 
+	    // version: 1008.1718
+	    // discuss at: http://phpjs.org/functions/utf8_decode    // +   original by: Webtoolkit.info (http://www.webtoolkit.info/)
+	    // +      input by: Aman Gupta
+	    // +   improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
+	    // +   improved by: Norman "zEh" Fuchs
+	    // +   bugfixed by: hitwork    // +   bugfixed by: Onno Marsman
+	    // +      input by: Brett Zamir (http://brett-zamir.me)
+	    // +   bugfixed by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
+	    // *     example 1: utf8_decode('Kevin van Zonneveld');
+	    // *     returns 1: 'Kevin van Zonneveld'    
+		var tmp_arr = [], i = 0, ac = 0, c1 = 0, c2 = 0, c3 = 0;
+	    
+	    str_data += '';
+	    
+	    while ( i < str_data.length ) {        c1 = str_data.charCodeAt(i);
+	        if (c1 < 128) {
+	            tmp_arr[ac++] = String.fromCharCode(c1);
+	            i++;
+	        } else if ((c1 > 191) && (c1 < 224)) {            c2 = str_data.charCodeAt(i+1);
+	            tmp_arr[ac++] = String.fromCharCode(((c1 & 31) << 6) | (c2 & 63));
+	            i += 2;
+	        } else {
+	            c2 = str_data.charCodeAt(i+1);            c3 = str_data.charCodeAt(i+2);
+	            tmp_arr[ac++] = String.fromCharCode(((c1 & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+	            i += 3;
+	        }
+	    } 
+	    return tmp_arr.join('');
+	}
+</script>
+<script type="text/javascript" src="https://www.ipfonline.com/js/jquery.autocomplete.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.ipfonline.com/css/jquery.autocomplete.css">
+
+<script type="text/javascript">
+/**
+$(document).ready(function() {
+
+	$("#company").autocomplete('IPFCONTENT/keyword_list.php',{
+		selectFirst: false
+	 });
+	
+});**/
+
+$().ready(function() {
+        
+        $("#company").autocomplete("https://www.ipfonline.com/IPFCONTENT/keywords.php", {
+                
+				width: 340,
+				max:10000,
+				//cacheLength: 15,								
+				minLength: 3,
+				delay: 0,
+                matchContains: true,
+                mustMatch: false,
+                minChars: 3,
+                //multiple: true,
+                //highlight: false,
+                //multipleSeparator: ",",
+                selectFirst: false
+				
+        });
+        
+        $("#company").result(function(event, data, formatted) {
+                $("#company_val").val(data[1]);
+        });
+});
+</script>
+<!--Ends-->
+
+<div id="top-main" style=" background: white none repeat scroll 0 0;
+    height: 20px;
+    margin: auto auto 4px;
+    text-align: center;
+    width: 1000px;">
+
+
+	<div class="ipf-url"><b>The portal of <span style="background:#000000;color:#ffffff;font-family:times new roman;padding:1px;font-size:14px;">&nbsp;Industrial Products Finder&nbsp;</span> <span style="background:#000000;color:#ffffff;font-family:times new roman;padding:1px;font-size:14px;">&nbsp;(IPF)&nbsp;</span></b></div>
+		
+		
+       
+	<!--<div class="ipf-login">
+							<a href="https://www.ipfonline.com/register/login?TB_iframe=true&height=200&width=300&modal=true" class="thickbox brown">Login</a> to your account <b>OR</b> <a href="https://www.ipfonline.com/register" class="brown">Register</a> for a new account
+				
+	</div>-->
+	<div class="ipf-login">
+		<script type="text/javascript">
+			var chk = check_cookie();			
+			if(chk == 1){
+				
+				//document.write("Welcome <strong style='color:#7D2229' id='hello'>"+check_name()+"</strong> &nbsp;|&nbsp;&nbsp;<a href='https://www.ipfonline.com/users/logout' class='brown'>Logout</a>");
+	document.write("Welcome <strong style='color:#7D2229' id='hello'></strong> &nbsp;|&nbsp;&nbsp;<a href='https://www.ipfonline.com/users/logout' class='brown'>Logout</a>");				
+			
+			
+			}
+			else
+			{
+				document.write("<a href='https://www.ipfonline.com/register/login?TB_iframe=true&height=200&width=300&modal=true' class='thickbox brown'>Sign in</a>  <b>|</b> <a href='https://www.ipfonline.com/register' class='brown'>Register</a>");
+			}
+			
+		</script><a href="https://www.ipfonline.com/register/login?TB_iframe=true&amp;height=200&amp;width=300&amp;modal=true" class="thickbox brown">Sign in</a>  <b>|</b> <a href="https://www.ipfonline.com/register" class="brown">Register</a>
+	</div>
+
+</div>
+
+<div id="header-main" style=" background: white none repeat scroll 0 0;
+    height: 120px;
+    margin: 0 auto;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: center;
+    width: 1000px;">
+	<div class="ipf-logo" style="float: left;
+    height: 70px;
+    padding-left: 5px;
+    padding-top: 38px;
+    width: 250px;"><a href="https://www.ipfonline.com/"><img width="250px" style="border:none;" src="https://www.ipfonline.com/themes/tm_ipfonline.png" alt="IPFonline"></a> </div>
+
+	
+   <div class="ipf-search" style=" 
+  background: white none repeat scroll 0 0;
+  float: left;
+    height: 55px;
+    padding: 0 10px 0 0;
+    width: 728px;">
+                        <div align="center" style="margin-bottom:0px;">
+						<a href="https://www.ipfonline.com/IPFCONTENT/advertise/why-ipfonlinecom/" target="_blank">
+Advertise Here [<strong>728&nbsp;</strong> W x <strong>90</strong> H pixels]
+</a></div>
+			  <div style="border:1px solid #f0e49e;width:730px;">
+			  <a href="https://www.ipfonline.com/subscribe/" target="_blank">
+<!-- <img style="margin-top:5px;" 
+src="https://www.ipfonline.com/IPFCONTENT/newsletter/ipf/weekly/themes/IPF-Subscribe-Banner.gif" 
+width="728" height="90" border="0"> -->
+		<!--/* OpenX Javascript Tag v2.4.6 */-->
  
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'https://www.ipfonline.com/openx/www/delivery/...'
+  * to
+  *   'https://www.ipfonline.com/openx/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+ 
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.ipfonline.com/openx/www/delivery/ajs.php':'https://www.ipfonline.com/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=17");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.ipfonline.com/openx/www/delivery/ajs.php?zoneid=17&amp;cb=29992549177&amp;loc=https%3A//web.archive.org/web/20190730090910id_/https%253A//www.ipfonline.com/register/privacypolicy"></script><noscript><a href='https://www.ipfonline.com/openx/www/delivery/ck.php?n=a28c4a4a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://www.ipfonline.com/openx/www/delivery/avw.php?zoneid=17&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a28c4a4a' border='0' alt='' /></a></noscript>
+		</a>
+		
+			   <span style="float:right;font-size:10px;color:#898989;padding:2px; margin-top:-6px;">Advt.^</span>	
+			  </div>
+		  </div>
+	<!--		<div class="ipf-user">	
 
-    <tbody><tr><td width="53%" height="436" valign="top" bgcolor="#FFFFF4"> 
-      <table width="386" border="0" cellpadding="0" cellspacing="0" align="center" height="457">
-        <tbody><tr valign="top"> 
-          <td height="511"> 
-            <div align="left" style="width: 384; height: 89"> 
-<p align="left"><font face="Arial" size="2" color="#CC0000"><b><br>
-              Privacy Policy </b></font></p>
+	<p><b></b> Product Profiles&nbsp;&nbsp;</p>
+	<p><b></b> Company Profiles</p>
+	<p>&nbsp;<b></b> Registered Users</p>
+	<p><b>5,175</b> Advertisers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+	
+	<p><a href="https://www.ipfonline.com/IPFCONTENT/subscribe/" style="text-decoration:none;">Subscribe to <br /><span style="background:#000000;color:#ffffff;font-family:times new roman;padding:1px;font-size:13px;">&nbsp;Industrial Products Finder&nbsp;</span></a> <span style="background:#000000;color:#ffffff;font-family:times new roman;padding:1px;font-size:13px;">&nbsp;(IPF)&nbsp;</span></b></a></p>
+    
+    <a href="https://www.ipfonline.com/hello"><img border="0" style="margin:0px;padding:0px;" src="http://ipfonline.com/images/hello_ipf_banner.png" /></a>
+	</div>	  -->
+	<div style="clear:both;"></div>	
+</div>	<div id="navigation-main">
+		<div class="section-menu-main">
+	<ul>
+		<li class="in-a"><a href="https://www.ipfonline.com/">Home</a></li>
+		<li class="out-b"><a href="https://www.ipfonline.com/categories/">Product Profiles</a></li>
+		<li class="out-c"><a href="https://www.ipfonline.com/postings/industrialtenders">Tenders for Industrial Products</a></li>
+		<li class="out-e"><a href="https://www.ipfonline.com/postings/buyandsell">Buy<span style="color:#000;">&amp;</span>Sell</a></li>		
+	</ul>
+</div>
+<div class="section-menu">
+	<ul>
+		<li><a href="https://www.ipfonline.com/IPFCONTENT/digital-ipf/digitals.php">Your Digital <span style="background:#000000;color:#ffffff;font-family:times new roman;">&nbsp;IPF&nbsp;</span></a></li>
+		<li><a href="https://www.ipfonline.com/IPFCONTENT/about-us/about-ipfonline/">About Us</a></li>
+		<!-- <li><a href="https://www.ipfonline.com/ads/ipfads/recent"><span style="background:#000000;color:#ffffff;font-family:times new roman;">&nbsp;IPF&nbsp;</span> Ads</a></li> -->
+		<li><a href="https://www.ipfonline.com/IPFCONTENT/advertise/why-ipfonlinecom/" class="blue">Advertise</a></li>					
+		<li><a href="https://www.ipfonline.com/IPFCONTENT/subscribe/" class="blue">Subscribe</a></li>
+		<li><a href="https://www.ipfonline.com/magazine" class="blue" style="color:#000;" target="_blank">Annual 2015</a></li> 				
+		<li><a href="https://www.ipfonline.com/tradefairs/">Trade Fairs</a></li>
+				
+		<script type="text/javascript">
+		if(chk == 1){
+		//document.write("<li><a href='https://www.ipfonline.com/users/myipf' class='blue'>My IPF</a></li>");
+		}
+		</script>	
+	</ul>
+</div>
+	</div>	
+	<div id="page-content">
+		<div id="navigation-left">
+			<div id="section-head">
+				<h2>IPFOnline Privacy Policy</h2>
+			</div>
+			<p class="content">ASAPP Info Global Services Pvt Ltd. {hereinafter referred to as "IPFonline"} is committed to safeguarding its users' privacy. We request all our users to read the following 'privacy policy' to understand how their personal &amp; business information will be treated, as they make full use of our services to their benefit. This policy is applicable only to the entire network of marketplaces operated by IPFONLINE and not by any other company.</p>
+			<h5>Collection of Information</h5>
+			<p class="content">IPFONLINE collects information from its users when they register to gain access to our services or at other specific instances when they are requested to provide us with their personal &amp; business information. During registration, we ask the users for their name, email address, business information and other personal details. Once a user registers, he/she is no longer anonymous to IPFonline and it is deemed that the user has given IPFONLINE the right to publish the desired business &amp; personal details throughout its marketplaces, including but not limited to, business directory, trade leads, catalogs etc.</p>
+			<p class="content">When you are on our network and are asked for personal information, you are sharing the information with IPFONLINE alone, unless it is specifically stated otherwise. Promotions that run on our network may be sponsored by companies other than IPFONLINE or may be co-sponsored by IPFONLINE and another company. Some or all data collected during a promotion may be shared with the sponsor. However, you can decide not to participate in the promotion if you don't want your data to be shared.</p>
+			<p class="content">We also gather usage statistics such as pages viewed, number of unique visitors, browser software, screen resolution etc. for analysis that helps us provide you improved user experience and services.</p>
+			
+			<h5>Use of Personal &amp; Business Information</h5>
+			<p class="content">IPFonline's primary goal in collecting personal or public information is to provide the user with a customized experience on our network of sites. This includes personalized services, interactive communication and other services, most of which are completely free and remaining are paid. Business information is used to display the user's business listing or product offerings across our network to fetch maximum business opportunities for the user.</p>
+			<p class="content">In order to provide free services, IPFONLINE displays advertisements based upon the site usage statistics and visitor trends. IPFONLINE uses user's personal &amp; business information to serve targeted advertisements through its websites, newsletters and customized mailers. In addition to it, once the user's personal and business information is displayed on our network, the user may start receiving business enquiries through email, phone or normal mail, from various buyers and sellers that might or might not be of their interest. IPFONLINE does not exercise any control over its users for sending business enquiries to the listed members. </p>
+		
+			<h5>Sharing of Information</h5>
+			<p class="content">As a general rule, IPFONLINE will not disclose or share any of the user's personally identifiable information except when IPFONLINE has the user's permission or under special circumstances, such as when IPFONLINE believes in good faith that the law requires it or as permitted in terms of this policy.</p>
+			<p class="content">IPFONLINE does not display user email addresses on marketplace to avoid extraction by email extractors.</p>
+			<p class="content">IPFONLINE may also disclose account information in special cases when IPFONLINE has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating IPFONLINE's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) IPFONLINE's rights or property, other IPFONLINE network website users, or if IPFONLINE deems it necessary to maintain, service, and improve its products and services. Personal information collected may be transferred and shared in the event of a sale.</p>
+			
+			<h5>Distribution of Information</h5>
+			<p class="content">IPFONLINE may, from time to time, send its users emails regarding its products and services. IPFONLINE constantly tries and improves the marketplace tools for better efficiency, more relevancy, innovative business matchmaking and better personal preferences. IPFONLINE has many match making tools on the marketplace to be used by its users for making relevant business contacts with each other.  IPFONLINE may allow direct mails using its own scripts (without disclosing the email address) with respect/pertaining to the products and services of third parties that it feels may be of interest to the user or if the user has shown interest in your company for business requirement by way of our paid buyers-sellers contact services. All users shall be able to control the information sharing through their administration panel. Only IPFONLINE, its registered members or its agents working under confidentiality agreements will send these direct mailers. Relevancy of the contacts made between users would depend upon the information sought &amp; given by various users.</p>
+			
+			<h5>Updation of Information</h5>
+			<p class="content">A user may edit his/her account information and profile by logging onto our website. The requested changes may take upto 30 days to appear online because of verification process and server cache policies.</p>
+			<p class="content">A user account can be deleted or deactivated, but doing so will result in the user not being able to access any members-only area of the network. Residual information will remain within our archive records.</p>
+		
+			<h5>Protection of information</h5>
+			<p class="content">As with all information, IPFONLINE do not sell any data in bulk to third party that can be misused for telemarketing or bulk mailing or any other wrong purposes. In addition, IPFONLINE does not sell any user's personal information or business information until and unless it is permitted by the user. Any user statistics that we may provide to prospective advertisers or partners regarding product or service usage on IPFONLINE network is provided in an aggregate form only and does not include any personally identifiable information about any individual user.</p>
+			<p class="content">IPFONLINE takes necessary steps, within its limits of commercial viability and necessity, to ensure that the user's information is treated securely.</p>
+			<p class="content">Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while IPFONLINE strives to protect the user's personal &amp; business information, it cannot ensure the security of any information transmitted to IPFONLINE and you do so at your own risk. Once IPFONLINE receives your transmission, it makes best efforts to ensure its security in its systems. Please keep in mind that whenever you post personal &amp; business information online, that is accessible to the public, you may receive unsolicited messages from other parties.</p>
+			
+			<h5>Changes in Privacy Policy</h5>
+			<p class="content">The policy may change from time to time so please check periodically.</p>
+			<p>&nbsp;</p>
+		</div>
+
+		<div id="navigation-right">
+					</div>
+			
+</div>
+
+<div id="footer-main">
+	<div class="footer-content">
+        <div class="footer-navmenu">
+        	<ul>
+			<!--
+              <li><a href="https://www.ipfonline.com/">Home</a></li> -->
+              <li><a href="https://www.ipfonline.com/categories/">Product Profiles</a></li>
+              <li><a href="https://www.ipfonline.com/postings/industrialtenders">Tenders for Industrial Products</a></li>
+              <li><a href="https://www.ipfonline.com/postings/buyandsell">Buy&amp;Sell</a></li>		
+              <li><a href="http://www.asappmedia.com/subscription/digital/">Your Digital <span style="background:#000000;color:#ffffff;font-family:times new roman;">&nbsp;IPF&nbsp;</span></a></li>
+              <li><a href="https://www.ipfonline.com/IPFCONTENT/about-us/about-ipfonline/">About Us</a></li>
+              <!-- <li><a href="https://www.ipfonline.com/ads/ipfads/recent"><span style="background:#000000;color:#ffffff;font-family:times new roman;">&nbsp;IPF&nbsp;</span> Ads</a></li> -->
+              <li><a href="https://www.ipfonline.com/IPFCONTENT/articles/">Articles</a></li>
+              <li><a href="https://www.ipfonline.com/IPFCONTENT/news/">Useful Information</a></li>
+              <li><a href="https://www.ipfonline.com/IPFCONTENT/contact/head-office/">Contact Us</a></li>
+              <li><a href="https://www.ipfonline.com/IPFCONTENT/advertise/why-ipfonlinecom/">Advertise</a></li>
+              <li><a href="https://www.ipfonline.com/subscribe/">Subscribe</a></li>
+              <li><a href="https://www.ipfonline.com/tradefairs/currenttradefairs">Tradefairs</a></li>				
+                     </ul>
+   </div>
+   <div class="footer-search">
+      <form name="formsearch" method="post" action="https://www.ipfonline.com/products/search">	
+       <div class="search"><input name="search" type="text" class="textbox searchbox" value="Type a product or a company name here..."></div>
+       <div class="submit">
+          <input name="submit" src="https://www.ipfonline.com/themes/button_search.png" value="Submit" type="image" id="submit_formsearch">
+      </div>
+  </form>	
+</div>
+<div class="footer-copyright">
+
+    <div class="copyrigthDivaider">
+        <div class="copyrigthLeft">
+            <a href="http://www.asappinfoglobal.com">
+                <img style="padding-right:10px; width:150px" src="http://www.asappinfoglobal.com/images/logo.gif">
+            </a>
+        </div>
+        <div class="copyrigthRight">
+         <p class="content" style="text-align:left;"><strong>ASAPP Info Global Services Pvt Ltd</strong>, A-303, Navabharat Estates, Zakaria Bunder Road, Sewri (West),<br>Mumbai 400 015, Maharashtra, India. <b>Tel:</b> +91-22-24193000.  <b>Fax:</b> 91-22-24175734.<br><b>Website:</b> <a href="http://www.ASAPPinfoGlobal.com/" target="_blank" class="black">www.ASAPPinfoGlobal.com</a> | <a href="https://www.ipfonline.com/">www.IPFonline.com</a></p>
+     </div>
+     <br style="clear:both"> 
+ </div> 
+
+</div>
+</div>
+<div class="footer-curve"></div>
+
+<div class="modal fade" id="imtex" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">×</button>
+          <h4 class="modal-title">Download Imtex PDF</h4>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 about-img">
+         <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)"></iframe>
+        <form action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfhC98gRXEec6BMmyqFZMleHOg7kmyiIJcLN9uuJlMecYLwoA/formResponse" method="POST" id="ss-form" target="hidden_iframe" onsubmit="myFunction();" autocomplete="on"><ol role="list" class="ss-question-list" style="padding-left: 0;">
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="form-group">
+              <label>Name*</label>
+              <input type="text" class="form-control" name="entry.1473202452" value="" id="entry_1473202452" required="required" dir="auto">
+            </div>
+            <div class="form-group">
+              <label>Mobile No</label>
+              <input type="number" class="form-control" name="entry.1596163422" value="" id="entry_1596163422" required="required" dir="auto">
+            </div>
+            <div class="form-group">
+              <label>Email id*</label>
+              <input type="text" class="form-control" name="entry.753583061" value="" id="entry_753583061" required="required" dir="auto">
+            </div>
+            <div class="form-group">
+              <label>Company</label>
+              <input type="text" class="form-control" name="entry.935401897" value="" id="entry_935401897" required="required" dir="auto">
+            </div>
+              <div class="form-group">
+              <label>Designation </label>
+              <input type="text" class="form-control" name="entry.105360661" value="" id="entry_105360661" required="required" dir="auto">
+            </div>
+          </div>
+          
+        <center>  <input type="submit" name="submit" value="Submit" id="ss-submit" class="btn btn-primary">
+                 </center>
+         </ol>
+         </form>
+        
+        </div>
+      </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+</div>
 
 
-<p align="left">
-<font face="Arial" size="2">IPFONLINE is committed to your privacy.
-
-IPFONLINE is committed to
-              protecting your privacy when you visit our web site. We believe
-              in, and practice, full disclosure and informed consent with
-              respect to your personal information.<br><br>
-
-It is our hope that by doing
-              so we will earn your trust and confidence.<br><br>
-<b>
-The following is a disclosure
-              of our privacy policy with respect to your information.<br>
 
 
-</b><br>
-<b>
+<script>
+// Declaring a function called myFunction
+function download_file(fileURL, fileName) {
+    // for non-IE
+    if (!window.ActiveXObject) {
+        var save = document.createElement('a');
+        save.href = fileURL;
+        save.target = '_blank';
+        var filename = fileURL.substring(fileURL.lastIndexOf('/')+1);
+        save.download = fileName || filename;
+	       if ( navigator.userAgent.toLowerCase().match(/(ipad|iphone|safari)/) && navigator.userAgent.search("Chrome") < 0) {
+				document.location = save.href; 
+// window event not working here
+			}else{
+		        var evt = new MouseEvent('click', {
+		            'view': window,
+		            'bubbles': true,
+		            'cancelable': false
+		        });
+		        save.dispatchEvent(evt);
+		        (window.URL || window.webkitURL).revokeObjectURL(save.href);
+			}	
+    }
 
+    // for IE < 11
+    else if ( !! window.ActiveXObject && document.execCommand)     {
+        var _window = window.open(fileURL, '_blank');
+        _window.document.close();
+        _window.document.execCommand('SaveAs', true, fileName || fileURL)
+        _window.close();
+    }
+}
+ 
+function myFunction() {
+    // Function actions
+	download_file("https://www.ipfonline.com/images/Imtex.pdf", "Imtex");
+	//window.open("https://www.ipfonline.com/images/Imtex.pdf");
 
-Generally,  no information is requested from you.<br></b><br>At IPFONLINE we let you retain
-              as much control as possible over your personal information.
-              Generally, you may visit and use our site at anytime without
-              telling us who you are or revealing any information about
-              yourself. This applies to those portions of our site that are not
-              restricted to use by our registered members. The download portion
-              of our site is an example of a site section restricted to use
-              by our registered members.<br><br><b>Occasionally,
-              limited information is needed from you.<br></b><br>Sometimes we need information
-              from you. On occasion, we might request your e-mail address (to
-              correspond with you), your name and address (to register you at
-              your request as a member) or your user name and password (to allow
-              you to download sample contracts, employee handbooks and other new
-              products in the industrial market from India and abroad from our
-              site).<br><br><b>We
-              do not sell or lease your personal information.<br></b><br>When you choose to provide us
-              with your personal information via the Internet, we presume you
-              want that information kept private. Therefore, we do not sell or
-              lease your personal information with other companies or
-              individuals.<br><br>Like most Internet sites, when
-              possible, we track how people like you came to visit our site.
-              Such data is then analyzed to determine trends, statistics and the
-              effectiveness of our links and ad banners located on other
-              Internet sites.<br><br><b>We have implemented these
-              practices for your protection.<br></b><br>Please direct your questions
-              regarding our privacy policy to our IPFONLINE site coordinator for
-             clarification. <br><br>
-<b>Industrialproductsfind-Webmaster</b><br><br>
-              IPFonline Limited<br>
-              33, D’Silva Road,<br>
-              Mylapore<br>
-              Chennai - 600 004<br>
-              India<br>
-              <a href="mailto:webmaster@ipfonline.com">webmaster@ipfonline.com</a>
-              <br><br>
-              </font>
-             </p></div>   
-            </td>
-        </tr>
-       <tr>
-        <td height="1">
-        </td>
-       </tr>
-      </tbody></table>
-    </td>
+        //redirect current page to success page
+        //window.location="https://www.ipfonline.com";
+        //window.focus();
+		window.open('https://www.ipfonline.com','mywindow').focus()
+		//alert("my page");
+}
+</script>
+<script>
+$(".downloadLink").click(
+    function(e) {   
+    e.preventDefault();
+    myFunction();
 
-
-<script language="JavaScript">
- RightpanelWP();
- Bottom();
+    }
+);
 </script>
 
-  
-</tr></tbody></table>
-<!-- -->
 
+ 
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-11463356-1");
+        pageTracker._trackPageview();
+    } catch(err) {}</script>
+</div>
 
 
 </body></html>
