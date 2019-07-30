@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailquestions.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613133900id_/https%3A//www.emailquestions.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailquestions.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730203820id_/https%3A//www.emailquestions.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Email Questions
 
@@ -49,7 +49,7 @@ We are committed to ensuring that any information you provide to us is secure. I
 
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190613133900id_/https%3A//www.emailquestions.com/help/help/cookies).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190730203820id_/https%3A//www.emailquestions.com/help/help/cookies).
 
 ## Rights
 
