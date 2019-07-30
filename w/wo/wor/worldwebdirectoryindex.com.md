@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525122938id_/http%3A//worldwebdirectoryindex.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730063707id_/http%3A//worldwebdirectoryindex.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Link Building Services | Backlinks Directory
 
