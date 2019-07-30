@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myidentifiers.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308095946id_/https%3A//www.myidentifiers.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myidentifiers.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730224336id_/https%3A//www.myidentifiers.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bowker | Identifier Services
 
