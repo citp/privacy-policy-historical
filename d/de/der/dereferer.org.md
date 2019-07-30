@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dereferer.org privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530114419id_/http%3A//www.dereferer.org/agreement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dereferer.org privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730124829id_/http%3A//www.dereferer.org/agreement.asp) for the most accurate reproduction.*
 
 # dereferer.org - free derefering service
 
