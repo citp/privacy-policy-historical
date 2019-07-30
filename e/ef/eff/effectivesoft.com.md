@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectivesoft.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428054130id_/https%3A//www.effectivesoft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivesoft.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730132315id_/https%3A//www.effectivesoft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -109,7 +109,7 @@ EffectiveSoft, Corp.
 4445 Eastgate Mall, Suite 200  
 San Diego, CA 92121, USA  
 Or by e-mail:  
-official@effectivesoft.com
+[official@effectivesoft.com](mailto:official@effectivesoft.com)
 
 Unless otherwise stated, EffectiveSoft Corporation is a data controller for personal data we collect subject to this policy. Our address is EffectiveSoft Corporation, 4445 Eastgate Mall, Suite 200, San Diego, CA 92121, USA, [official@effectivesoft.com](mailto:official@effectivesoft.com)
 
