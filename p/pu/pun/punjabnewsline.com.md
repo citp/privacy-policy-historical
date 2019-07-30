@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabnewsline.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622003932id_/http%3A//www.punjabnewsline.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabnewsline.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730173343id_/http%3A//www.punjabnewsline.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
