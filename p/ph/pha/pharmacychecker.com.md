@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacychecker.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417170350id_/https%3A//www.pharmacychecker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacychecker.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730143631id_/https%3A//www.pharmacychecker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PharmacyChecker.com
 
@@ -89,7 +89,7 @@ We sometimes assist people who use the Site by answering their questions and hel
 
 ## Marketing Partners
 
-We work with marketing partners who feed local U.S. pharmacy drug prices to us. This information is only relevant to people living in the U.S. If you choose to enter your zip code on the Site to compare local pharmacy prices, print out a discount card/coupon, and use it to fill a prescription, then the relevant marketing partner will be able to track the purchase associated with that zip code and card, but will not be able to associate that information to your name.
+We work with marketing partners who feed local U.S. pharmacy drug prices to us. This information is only relevant to people living in the U.S. If you choose to enter your ZIP Code on the Site to compare local pharmacy prices, print out a discount card/coupon, and use it to fill a prescription, then the relevant marketing partner will be able to track the purchase associated with that ZIP Code and card, but will not be able to associate that information to your name.
 
 ## Links to other websites
 
