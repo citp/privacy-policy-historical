@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafilings.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405090807id_/https%3A//www.indiafilings.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafilings.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730070025id_/https%3A//www.indiafilings.com/privacypolicy) for the most accurate reproduction.*
 
 # IndiaFilings: Privacy Policy
 
