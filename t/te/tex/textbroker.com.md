@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524223806id_/https%3A//www.textbroker.com/data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730053732id_/https%3A//www.textbroker.com/data-protection) for the most accurate reproduction.*
 
 # Data Protection | textbroker.com
 
@@ -16,7 +16,7 @@ Table of Contents
     2. An overview of the use of Cookies can be found here
     3. WebAnalytics/ Google Analytics/ Google Remarketing/ Ads/Doubleclick by Google
     4. Kissmetrics
-    5. Bing Ads (Microsoft Corporation)
+    5. Reddit Conversion Tracking
     6. Social Media Plugins
     7. Mouseflow
     8. Retargeting via AdRoll
@@ -125,6 +125,7 @@ LinkedIn Ads|  **Without** enhanced comparison (we do not upload any personal cu
 AdRoll|  **Without** enhanced comparison (we do not upload any personal customer information to AdRoll)  
 Outbrain| Only on Thank You Pages to record successful registration  
 YouTube| YouTube Videos are loaded into iframes  
+Reddit Conversion Tracking| Only on Thank You Pages to record successful registration and payments  
 First Party Cookie/Pixel| Details  
 ---|---  
 Google Analytics incl. Data Collection for Advertising Features (Remarketing and Advertising Reporting Features)| No use of User ID  
@@ -167,17 +168,11 @@ Alternatively, you can exercise your right to opt out with future effect at: <ht
 Please note that you must repeat this procedure for each different device you use, and then delete all cookies or use a different browser afterwards.  
 
 
-### e) Bing Ads (Microsoft Corporation)
+### e) Reddit Conversion Tracking
 
-This website uses the conversion-tracking technology “Bing Ads” from Microsoft (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA). Microsoft Bing Ads places a cookie on your computer if you have reached our website via a Microsoft Bing advertisement. Cookies are small text files that are stored on your computer system. These cookies lose their validity after 180 days and are not used for personal identification. If the user visits certain pages of this website and the cookie has not expired, we and Microsoft may recognize that the user clicked on the ad and was directed to that page (conversion page).
+Our website uses the “Reddit Conversion Pixel,” an analysis service provided by Reddit Inc., 520 Third Street, Suite 305, San Francisco, CA 94107, United States. This tool places a cookie on your PC when you visit our website via a Reddit ad. The cookie is not used for personal traceability. If you visit our website, both we and Reddit will know that you clicked on the ad and were directed to our site.
 
-The information collected through the conversion cookie is used to compile conversion statistics, i.e. how many users click on an ad to access a conversion page. This tells us the total number of users who clicked on our ad and were directed to a page with a conversion tracking tag. However, we do not receive information that personally identifies users.
-
-Microsoft Corporation, headquartered in the United States, is certified under the US European Privacy Shield Agreement, which ensures compliance with EU privacy standards.
-
-If you do not wish to participate in tracking, you can object by easily deactivating the Bing Ads Conversion Tracking cookie in your Internet browser under User Settings. Then you will not be included in the conversion-tracking statistics. Alternatively, you can use the US consumer opt-out page at <http://optout.aboutads.info/> to check whether Microsoft advertising cookies are placed in your browser and opt-out of them.
-
-You can find out more about Microsoft Bing Ads’ privacy policy at the following Internet address: <https://privacy.microsoft.com/en-us/privacystatement>
+Conversion statistics are generated using the data collected by conversion cookies. This tells us the total number of users who have responded to our ad and been directed to a web page with a Reddit pixel. This process does not provide us with any information that could personally identify you as a user. If you want to reject this tracking procedure, you can deactivate the storage of cookies via your Internet browser. If necessary, use your browser’s help function for further information. You can find out more about Reddit’s privacy policy at <https://www.reddit.com/help/privacypolicy/>.
 
 ### f) Social Media Plugins
 
