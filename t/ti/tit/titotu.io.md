@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the titotu.io privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630082854id_/http%3A//titotu.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titotu.io privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731004340id_/http%3A//titotu.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Play for free at Titotu.io
+# Política de Privacidade— Jogar de graça em Titotu.io
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/contact). 
 
