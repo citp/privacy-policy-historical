@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chisms.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629125034id_/http%3A//chisms.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chisms.net privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731001851id_/http%3A//chisms.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CHISMS.net
 
