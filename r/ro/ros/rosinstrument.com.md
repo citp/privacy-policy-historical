@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosinstrument.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218182213id_/http%3A//rosinstrument.com/pp.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosinstrument.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730203750id_/http%3A//www.rosinstrument.com/pp.txt) for the most accurate reproduction.*
 
 # 
 
