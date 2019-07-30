@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legiit.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523171649id_/https%3A//www.legiit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legiit.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730032023id_/https%3A//www.legiit.com/privacy) for the most accurate reproduction.*
 
 # Legiit - Privacy Policy
 
@@ -159,7 +159,7 @@ The following links may assist you in managing your cookies settings, or you can
 
 If you share the use of a computer or device, accepting or rejecting the use of cookies may affect all users of that compute or device.
 
-Information on deleting or controlling cookies is also available at [www.aboutcookies.org](https://web.archive.org/web/20190523171649id_/https%3A//www.legiit.com/www.aboutcookies.org) (note that this website is not provided by Legiit, and we therefore cannot ensure its accuracy, completeness or availability). It is important to remember that many of our services may not function properly if your cookies are disabled. For example, cookies may, in certain cases, save you from the need to enter usernames and passwords, and allow session continuity.
+Information on deleting or controlling cookies is also available at [www.aboutcookies.org](https://web.archive.org/web/20190730032023id_/https%3A//www.legiit.com/www.aboutcookies.org) (note that this website is not provided by Legiit, and we therefore cannot ensure its accuracy, completeness or availability). It is important to remember that many of our services may not function properly if your cookies are disabled. For example, cookies may, in certain cases, save you from the need to enter usernames and passwords, and allow session continuity.
 
   
 
