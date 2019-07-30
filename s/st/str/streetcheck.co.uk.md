@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325172703id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730163937id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
