@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outrigger.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009122812id_/https%3A//www.outrigger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outrigger.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730052516id_/https%3A//www.outrigger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outrigger Hotels and Resorts
 
