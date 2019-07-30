@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderealestate.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607204909id_/https%3A//insiderealestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderealestate.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730032942id_/https%3A//insiderealestate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inside Real Estate | Lead Generation + Websites + CRM + Reporting + Powerful Performance
 
