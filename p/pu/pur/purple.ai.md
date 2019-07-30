@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purple.ai privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220141752id_/https%3A//purple.ai/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purple.ai privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730164124id_/https%3A//purple.ai/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Purple
 
@@ -12,10 +12,10 @@ This privacy policy only applies to personal information We hold about individua
 
 We may update this privacy policy from time to time by publishing the amended version on Our website.
 
-**Who We Are  
+ **Who We Are  
 **In this policy, whenever you see the words (“We,” “Us,” or “Our”), it refers to Purple Wifi Ltd, Meadowbank Offices, Junction 22 Business Park, Tweedale Way, Chadderton, Oldham, OL9 8EH. Registered in England Company No: 06444980.
 
-**Information We Collect**  
+ **Information We Collect**  
 We will only ever collect the information We need, including data that will be useful to help Us improve Our services.
 
 We may automatically collect and process the following data about you:
@@ -45,7 +45,7 @@ You are provided with an opportunity to opt out from receiving communications fr
 
 Our site uses cookies to distinguish you from other users of Our site. This helps Us provide you with a good experience when you browse our site and allows Us to improve Our site. For detailed information on the cookies We use and the purpose for which We use them, please see Our cookie policy. If you want to disable cookies, please refer to your browser’s help option.
 
-**How We Use the Information We Collect**  
+ **How We Use the Information We Collect**  
 If you have provided Purple Wifi with personal data to access WiFi in a venue, then We will use this data for the performance of the contract described in Our terms and conditions of service which you agreed to when accessing the service.
 
 We may also process your personal data for Our legitimate business interests. “Legitimate Interests” means the interests of Our company in conducting and managing Our business and providing you with the best services and products in the most secure way. These interests include:
@@ -66,7 +66,7 @@ When We process your personal data for Our legitimate business interests, We alw
 
 If you have any concerns about the processing described above, you have the right to object to this processing. For more information about your rights, please review the “Your Rights” section below.
 
-**Choice / Opt-In and Opt-Out**  
+ **Choice / Opt-In and Opt-Out**  
 Whenever the processing of your personal data requires your consent then you will be given the opportunity to opt-in or opt-out to having your contact details used, as set out above, at the time your details are submitted.
 
 For example, when you request product information, you can tell Us when you provide your details if you do not want to receive any other information from Us or Our partners, or you can let Us know how best to get in touch with you with information that may be of interest.
@@ -75,7 +75,7 @@ If you do not wish Us to use your data as set out above, please leave the releva
 
 Please be aware that if you opt out of marketing communications received from one of our partners, and your information is also held by other partners, you may continue to receive information from these other partners until you inform them that you wish to opt out of marketing communications as well.
 
-**Sharing Your Information**  
+ **Sharing Your Information**  
 Just like most other organisations, We work with third-party service providers which provide important functions to Us that allow Us to be easier, faster, and friendlier in the way We deliver Our services. We need to disclose user data to them from time to time, for any of the purposes set out above, so that the services can be performed.
 
 We have listed below the parties to whom We may disclose your personal data for the purposes set out in this policy:
@@ -90,7 +90,7 @@ We have listed below the parties to whom We may disclose your personal data for 
 
 Some of our partners drop cookies on this site, they may associate these cookies with hashed emails, IP addresses and browser types for the purpose of making advertisements more relevant to you during your browsing experience. Detailed information on these cookies, including ways in which you can opt-out, can be found {here}.We may also disclose your personal information to third parties if We are under a duty to disclose or share your personal data, for legal or regulatory purposes, in relation to existing or future legal proceedings for the prevention of fraud/loss or to protect the rights, property, safety of Our Group, Our customers, or others.
 
-**Data Security  
+ **Data Security  
 **Our standard policy is to store your personal Information on hosted services located in London for data collected in the EU and Africa, New York for data collected in North and South America and Singapore for data collected in Asia and Australasia. However, from time to time, We may allow individual customers to store your personal information on their own servers located within their own country when they are legally obligated to do so or when they request this. We may transfer the information to other offices and to other reputable third-party organisations as explained above – they may be situated inside or outside the European Economic Area, if this is the case We ensure that compliant safeguards are put in place and clearly communicated to you. We may also store information in paper files.
 
 We have security protocols and policies in place to manage and record your data privacy and preferences correctly, and that your data is stored securely to protect against its loss, misuse, and alteration. Documentation can be supplied on request from Our Data Protection Officer using any of the contact methods listed below in the “Your Rights” section.
@@ -99,7 +99,7 @@ Unfortunately, the transmission of data across the internet is not completely se
 
 We will keep your information only for as long as We need it to provide you with the services or information you have required, to administer your relationship with Us, to comply with the law, or to ensure We do not communicate with people that have asked Us not to. When We no longer need information, We will always dispose of it securely by using specialist companies if necessary to do this work for Us. If you are a user of Our WiFi services and you do not log in to one of Our WiFi venues for more than 13 months, all personally identifiable data We store about you is deleted.
 
-**Your Rights**  
+ **Your Rights**  
 Under the data protection legislation, you have the right to request copies of your data, request rectification of your data, request erasure of your data, object to Us processing your data, utilize the right to prevent your data being used for direct marketing, request Us to restrict the processing of your data and, where Our systems allow, utilize the right to access a copy of the information We hold about you (a subject access request) and utilize the right to lodge a complaint with the relevant data protection authority. We will require proof of your identity before we are able to provide you with any personal information that we have about you.
 
 The following information provides additional details about some of these rights and how to exercise them:
@@ -136,4 +136,6 @@ For more information about your rights, please directly contact your local super
 
 * * *
 
-Privacy Policy updated April 2019
+Privacy Policy  
+Created on 22 February 2019   
+Last updated on 18 April 2019
