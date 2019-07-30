@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518041218id_/https%3A//www.smythstoys.com/uk/en-gb/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730153241id_/https%3A//www.smythstoys.com/uk/en-gb/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smyths Toys
 
