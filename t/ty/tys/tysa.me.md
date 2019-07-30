@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tysa.me privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522071949id_/http%3A//tysa.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tysa.me privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731003419id_/http%3A//tysa.me/privacy) for the most accurate reproduction.*
 
 # privacy – tysa.me
 
