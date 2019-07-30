@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928174444id_/https%3A//www.anytimecostumes.com/pages/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730153507id_/https%3A//www.anytimecostumes.com/pages/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
