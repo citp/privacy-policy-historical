@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the amourangels.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627213719id_/http%3A//amourangels.com/privacy_policy_v5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amourangels.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730133523id_/http%3A//www.amourangels.com/privacy_policy_v5.html) for the most accurate reproduction.*
 
 # Amour Angels - Nude Girls Pics, Movies and Videos of the Most Beautiful Teens, Teen Erotic Pictures from AmourAngels.com
 
 **Privacy**  
 
 
-We can be reached via e-mail at [support[at]moneycult.com](mailto:support\[at\]moneycult.com)
+We can be reached via Ticket to Support Department 
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
