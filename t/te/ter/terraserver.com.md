@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504143959id_/https%3A//www.terraserver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2019-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190730100444id_/http%3A//www.terraserver.com/privacy) for the most accurate reproduction.*
 
 # TerraServer - Privacy Policy
 
