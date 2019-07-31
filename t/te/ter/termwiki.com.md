@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the termwiki.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531222742id_/http%3A//en.termwiki.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termwiki.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731142243id_/http%3A//en.termwiki.com/privacy_policy) for the most accurate reproduction.*
 
 # TermWiki: Privacy policy
 
