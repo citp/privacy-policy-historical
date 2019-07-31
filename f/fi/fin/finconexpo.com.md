@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finconexpo.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629174128id_/http%3A//finconexpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finconexpo.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731031318id_/http%3A//finconexpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ [FinCon]
 
