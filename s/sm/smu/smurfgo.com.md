@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smurfgo.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328172947id_/http%3A//smurfgo.com/index.php%3Fview%3Dprivacypolicy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smurfgo.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731203544id_/http%3A//smurfgo.com/index.php%3Fview%3Dprivacypolicy%26) for the most accurate reproduction.*
 
 # SmurfGo.com : Privacy Policy
 
