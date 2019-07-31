@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakatime.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401053638id_/https%3A//wakatime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakatime.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731072704id_/https%3A//wakatime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · WakaTime
 
