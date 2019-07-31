@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5hourenergy.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108152737id_/https%3A//5hourenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5hourenergy.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731152304id_/https%3A//5hourenergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 5-hour ENERGY®
 
