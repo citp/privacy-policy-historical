@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animechiby.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620232315id_/http%3A//www.animechiby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animechiby.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731132153id_/http%3A//www2.animechiby.com/privacy-policy) for the most accurate reproduction.*
 
 # Anime ChibyPRIVACY POLICY - Anime Chiby
 
