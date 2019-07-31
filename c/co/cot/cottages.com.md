@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottages.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515062255id_/https%3A//www.cottages.com/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottages.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731042759id_/https%3A//www.cottages.com/legal/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy - cottages.com
 
