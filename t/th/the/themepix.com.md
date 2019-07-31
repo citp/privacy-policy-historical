@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themepix.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610171034id_/http%3A//themepix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themepix.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731212420id_/http%3A//themepix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThemePix.com
 
