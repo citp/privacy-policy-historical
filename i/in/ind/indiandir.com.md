@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiandir.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316010105id_/http%3A//indiandir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiandir.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731191352id_/http%3A//indiandir.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
