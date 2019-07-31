@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baldwinfilter.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619042508id_/http%3A//www.baldwinfilter.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baldwinfilter.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731120933id_/http%3A//baldwinfilter.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Baldwin Filters | Privacy Policy
 
