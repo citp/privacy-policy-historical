@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ami.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319040711id_/https%3A//ami.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ami.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731181002id_/https%3A//ami.com/en/privacy-policy) for the most accurate reproduction.*
 
 # American Megatrends International LLC - Privacy Policy
 
 * * *
 
-This Privacy Policy applies only to our websites ami.com, stortrends.com, and snapvdi.com.
+This Privacy Policy applies only to our website ami.com.
 
 At American Megatrends International LLC (hereafter known as “AMI”) we respect your privacy.
 
@@ -16,7 +16,7 @@ AMI only collects business related personal data that is used for business commu
 
 If you are in the EEA (European Economic Area), please reference the American Megatrends International GmbH Privacy Policy (<https://ami.de/datenschutz.html>). You may also contact our American Megatrends International GmbH Office at Truderinger Strasse 283, 81825 Munich, Germany or email winfried@ami.de concerning our Privacy Policy for Residents of the European Union.
 
-**AMI websites located at https://ami.com/, https://stortrends.com, and https://snapvdi.com are not to be used by residents of the EEA. If you are a resident of the EEA, please visit<https://ami.de/>.**
+**The AMI website located at https://ami.com/ is not to be used by residents of the EEA. If you are a resident of the EEA, please visit<https://ami.de/>.**
 
 ### Personal Data Collected
 
