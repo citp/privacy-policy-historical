@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamehaus.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331153632id_/https%3A//thegamehaus.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamehaus.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731192700id_/https%3A//thegamehaus.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Game Haus
 
