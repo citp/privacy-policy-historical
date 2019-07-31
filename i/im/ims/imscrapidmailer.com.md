@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imscrapidmailer.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630151822id_/http%3A//imscrapidmailer.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imscrapidmailer.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801001154id_/http%3A//imscrapidmailer.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy — IMSC Rapid Mailer
 
