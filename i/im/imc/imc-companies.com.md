@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imc-companies.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921190843id_/http%3A//www.imc-companies.com/wp-content/uploads/2018/05/Privacy-Statement-IMC.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imc-companies.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731115417id_/http%3A//www.imc-companies.com/wp-content/uploads/2018/05/Privacy-Statement-IMC.pdf) for the most accurate reproduction.*
 
 # 
 
