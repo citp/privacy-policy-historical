@@ -1,23 +1,66 @@
-> *The following text is extracted and transformed from the wackbag.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527183829id_/https%3A//www.wackbag.com/pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackbag.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731142838id_/https%3A//www.wackbag.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wackbag.com
+# Privacy policy | Wackbag.com
 
-For each visitor to our Web page, our Web server automatically recognizes **no** information regarding the visitor's email domain or e-mail address.
-We collect the e-mail addresses of those who post messages to our bulletin board, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations and the IP address of those who post messages to our bulletin board.
-The information we collect is used for internal review and is then discarded.
-With respect to cookies: We use cookies to store visitors preferences.
-If you do not want to receive e-mail from us in the future, please let us know by sending us a message via the [contact us](https://web.archive.org/web/20180527183829id_/http://www.wackbag.com/pages/Privacy/misc/contact) form, or visiting [the User Control Panel](https://web.archive.org/account/preferences) and **un-check** the option to 'receive site mailings'.
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
-Upon request we offer visitors the ability to have inaccuracies corrected in communications that the consumer/visitor has directed to the site.
-Members and Guests can have this information corrected by sending us a message via the [contact us](https://web.archive.org/web/20180527183829id_/http://www.wackbag.com/pages/Privacy/misc/contact) form, or sending a private message to the Staff.
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site and we also offer a 256-Bit TLS Secured version of the site for all visitors.
-If you feel that this site is not following its stated information policy, you may contact us [here.](https://web.archive.org/web/20180527183829id_/http://www.wackbag.com/pages/Privacy/misc/contact)
+We are Wackbag.com ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://www.wackbag.com/misc/contact/).
+
+## What information we hold about you
+
+The type of data that we collect and process includes:
+
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
 
-  * Published
-    Jan 29, 2015
-  * Page views
-    10,348
+
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
+
+We collect some or all of this information in the following cases:
+
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
 
+
+## How your personal information is used
+
+We may use your personal information in the following ways:
+
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
+
+
+
+## Other ways we may use your personal information.
+
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
+
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
+
+## Keeping your data secure
+
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://www.wackbag.com/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://www.wackbag.com/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://www.wackbag.com/misc/contact/) to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us](https://www.wackbag.com/misc/contact/) if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
