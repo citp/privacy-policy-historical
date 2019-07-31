@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jumpseller.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106061748id_/https%3A//jumpseller.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpseller.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731130835id_/http%3A//jumpseller.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
+
+[Support](https://web.archive.org/support)
 
 [WIDETAIL, Lda.](http://widetail.com/) (hereinafter referred to as, **WIDETAIL** ) with tax number PT 509 168 930 and headquartered at at Rua Actor Ferreira da Silva, 100, 4200 - 298 Porto, Portugal is a Portuguese company dedicated, among other activities, to the development and management of the web platform [Jumpseller](https://web.archive.org/) (hereinafter referred to as **PLATFORM** ).
 
