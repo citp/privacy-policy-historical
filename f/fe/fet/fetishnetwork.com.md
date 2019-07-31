@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetishnetwork.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626011623id_/http%3A//www.fetishnetwork.com/records/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetishnetwork.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801013439id_/http%3A//www.fetishnetwork.com/records/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
