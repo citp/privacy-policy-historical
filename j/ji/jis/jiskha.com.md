@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417153243id_/https%3A//www.jiskha.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731234913id_/https%3A//www.jiskha.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
