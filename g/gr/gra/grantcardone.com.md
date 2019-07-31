@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524214500id_/https%3A//grantcardone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731210447id_/https%3A//grantcardone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Grant Cardone - 10X Your Business and Life
 
