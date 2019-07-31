@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singleclickoptimizer.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629154717id_/http%3A//www.singleclickoptimizer.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singleclickoptimizer.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731082236id_/http%3A//www.singleclickoptimizer.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy- PC Optimizer
 
