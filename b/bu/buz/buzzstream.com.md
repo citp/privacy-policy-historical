@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617214019id_/https%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731205351id_/https%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzStream
 
