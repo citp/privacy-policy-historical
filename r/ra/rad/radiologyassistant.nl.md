@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiologyassistant.nl privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629000748id_/http%3A//www.radiologyassistant.nl/en/p5b2226bf7195b/privacy-and-cookie-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiologyassistant.nl privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731060219id_/http%3A//radiologyassistant.nl/en/p5b2226bf7195b/privacy-and-cookie-statement.html) for the most accurate reproduction.*
 
 # The Radiology Assistant : Privacy and cookie statement
 
