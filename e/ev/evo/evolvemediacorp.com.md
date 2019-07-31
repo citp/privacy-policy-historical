@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolvemediacorp.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609124923id_/https%3A//www.evolvemediallc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolvemediacorp.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731235147id_/https%3A//www.evolvemediallc.com/privacy) for the most accurate reproduction.*
 
 # Evolve Media, LLC.
 
