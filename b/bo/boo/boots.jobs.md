@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the boots.jobs privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226195118id_/https%3A//www.boots.jobs/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boots.jobs privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731201651id_/https%3A//www.boots.jobs/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Boots Jobs - Career Opportunities with Boots : Boots Jobs – Career Opportunities with Boots
+# Privacy Statement - Boots Jobs - Career Opportunities with Boots
 
 **1.     Our promise to you**  
 Boots is committed to protecting your privacy.   We will always keep your personal information safe and will never sell it to third parties.  We’ll be clear and open with you about why we collect your personal information and how we use it. Where you have choices, we’ll explain them to you and respect your wishes.
 
 **2.     Who’s in control of your information?**  
-Throughout this Privacy Policy, ‘we’ or ‘Boots’ means Walgreens Boots Alliance Services Limited which, for the purposes of the Data Protection legislation, is a ‘Data Controller’. You can also find lots of useful information about Data Protection, what it means to you as an individual and how it applies to companies like Boots on the Information Commissioner’s website at <http://ico.org.uk/> Office of Data Protection Commissioner for the Republic of Ireland <https://www.dataprotection.ie/docs/Home/>
+Throughout this Privacy Policy, ‘we’ or ‘Boots’ means Walgreens Boots Alliance Services Limited which, for the purposes of the Data Protection legislation, is a ‘Data Controller’. You can also find lots of useful information about Data Protection, what it means to you as an individual and how it applies to companies like Boots on the Information Commissioner’s website at <http://ico.org.uk/> Office of Data Protection Commissioner for the Republic of Ireland [https://dataprotection.ie](https://dataprotection.ie/)
 
 **3.     Using information about you**
 
