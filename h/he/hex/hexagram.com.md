@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexagram.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601000926id_/http%3A//pubocean.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexagram.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731131710id_/http%3A//pubocean.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Pub Ocean
 
