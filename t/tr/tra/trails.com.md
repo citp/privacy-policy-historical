@@ -1,97 +1,171 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423085212id_/https%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731185658id_/https%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AllTrails
 
-Your privacy is important to us. It is Trails.com's policy to respect your privacy regarding any information we may collect from you across our website and other sites we own and operate. 
+**These Terms are effective and were last updated on May 28, 2019.**
 
-Information we collect
+**AllTrails, LLC** ( _“AllTrails”_ , _“our”_ , _“us”_ or _“we”_ ) are committed to protecting and respecting your privacy in connection with your use of our website, [alltrails.com](https://alltrails.com/) (the _“Website(s)”_ ), applications _“Apps”_ ) and other products, services and features thereof (the Website, the Apps and such other products, services and features are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of AllTrails). This privacy policy (“Privacy Policy”) and any other documents referred to herein set forth the basis on which any personal information we collect from you, or that you provide to us, in connection with the Products will be processed by us. Please read the following carefully to understand our practices regarding your personal information and how we will collect, use and disclose your personal information.
 
-**Log data**
+INFORMATION WE MAY COLLECT FROM YOU
+    
 
-When you visit our website, our servers may automatically log the standard data provided by your web browser. This data is considered "non-identifying information", as it does not personally identify you on its own. It may include your computer's Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details. 
+**We may collect and process the following information about you:**
 
-We may also collect data about the device you are using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us. 
+  * \- Personal information including, for example, your name, e-mail address, telephone, credit or debit card or other payment information, information about your usage of the Products and information collected by tracking technologies as further described below that may identify you as an individual or allow online or offline contact with you as an individual.
 
-**Personal information**
+  * \- Facebook profile information, such as name, email address, and Facebook ID, if you choose to log in to the Products through Facebook.
 
-We may ask for personal information, such as your: 
+  * \- Device Information such as operating system version, device type, and system performance information.
 
-  * Name
-  * Email
-  * Social media profiles
-  * Payment information
+  * \- Information collected via tracking technologies, as fully described in section 4.
 
 
 
-This data is considered "identifying information", as it can personally identify you. We only request personal information relevant to providing you with a service, and only use it to help provide or improve this service. 
+CONFIDENTIALITY AND SECURITY
+    
 
-How we collect information
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [support@alltrails.com](mailto:support@alltrails.com). Except as described under the “Disclosure of Your Information” section below, we do not provide your personal information to any third party without your specific consent. 
 
-We collect information by fair and lawful means, with your knowledge and consent. We also let you know why we're collecting it and how it will be used. You are free to refuse our request for this information, with the understanding that we may be unable to provide you with some of your desired services without it. 
+NEWSLETTERS OR OTHER ELECTRONIC COMMUNICATIONS
+    
 
-Use of information
+If you sign up to receive email newsletters or promotional materials from us we will use the information you give us to provide the communications you have requested. If you inform us that you wish to cancel email newsletters or promotional materials by selecting unsubscribe at the bottom of such communication or by emailing us at [support@alltrails.com](mailto:support@alltrails.com), we will remove you from our mailing list. If you provide your phone number through the website in order to receive an SMS message with a link to our Apps or specific content within our Apps, you will receive such SMS message (the “SMS Service”). Standard text message rates will apply. 
 
-We may use a combination of identifying and non-identifying information to understand who our visitors are, how they use our services, and how we may improve their experience of our website in future. We do not disclose the specifics of this information publicly, but may share aggregated and anonymised versions of this information, for example, in website and customer usage trend reports. 
+TRACKING TECHNOLOGIES
+    
 
-We may use your personal details to contact you with updates about our website and services, along with promotional content that we believe may be of interest to you. If you wish to opt out of receiving promotional content, you can follow the "unsubscribe" instructions provided alongside any promotional correspondence from us. 
+AllTrails and our analytics partners, use technologies such as cookies, beacons, tags, and scripts to enable a service to recognize your device so you don't have to provide the same information several times during one task, recognize that you may have already given a username and password so you don't need to do it for every web page requested, and measuring how many people are using services. 
 
-Data processing and storage
+We use local storage technologies, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on the Products also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
-The personal information we collect is stored and processed in United States, or where we or our partners, affiliates and third-party providers maintain facilities. We only transfer data within jurisdictions subject to data protection laws that reflect our commitment to protecting the privacy of our users. 
+We partner with third parties, such as Facebook and Google, to manage our advertising of the Products on other sites or platforms as well as across your other devices based on your past visits to our website. Our third party partners may use technologies such as cookies to gather information about your activities within the Products to deliver such advertising to you, such as retargeting ads. We currently do not respond to do-not-track signals. For more information about interest-based ads, including how to opt-out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that this does not opt you out of being served ads. You may continue to receive generic ads on these third party platforms. You may also opt out of receiving ads across devices by adjusting your ad preference in your Google account. 
 
-We only retain personal information for as long as necessary to provide a service, or to improve our services in future. While we retain this data, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure, and cannot guarantee absolute data security. 
+We use third party trackers to let us know when users have visited the Products by “clicking-through” our sponsored advertising or content hosted on third party platforms. 
 
-If you request your personal information be deleted, or where your personal information becomes no longer relevant to our operations, we will erase it from our system within a reasonable timeframe. 
+The Products use Google Analytics code to gather statistical information. Google Analytics sets cookies to help us accurately estimate the number of visitors to the Products and the volumes of usage of the Products. This is done to ensure that the Products are available when you want them and are fast. For more information on how Google Analytics processes this information, visit [www.google.com/analytics.](http://www.google.com/analytics)
 
-Cookies
+**MOBILE ANALYTICS**
 
-We use "cookies" to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our [Cookie Policy](https://web.archive.org/cookiepolicy.aspx "view cookie policy") for more information. 
-
-Third-party access to information 
-
-We use third-party services for: 
-
-  * Analytics tracking 
-  * User authentication 
-  * Advertising and promotion 
-  * Content marketing 
-  * Email marketing 
-  * Payment processing
+  * We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the Products, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We may link the information we store within the analytics software to any personal information you submit within the mobile application.
 
 
 
-These services may access our data solely for the purpose of performing specific tasks on our behalf. We do not share any personally identifying information with them without your explicit consent. We do not give them permission to disclose or use any of our data for any other purpose. 
 
-Advertisements are sometimes targeted and served to particular users and may come from third party companies; These third party companies include ad networks, ad agencies, and ad technology vendors. Third party ad vendors we work with include but are not limited to: A9, AppNexus, bRealTime, Carambola, Conversant (Valueclick), DistrictM, Index Exchange, OpenX, Pubmatic, Rubicon, Sovrn, TripleLift, AdBridg, Google DFP / AdX, Google Adsense and JWPlayer. 
+**LOG FILES**
 
-We may, from time to time, allow limited access to our data by external consultants and agencies for the purpose of analysis and service improvement. This access is only permitted for as long as necessary to perform a specific function. We only work with external agencies whose privacy policies align with ours. 
+  * As true of most websites, we gather certain information and automatically store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. If you receive the HTML-formatted version of our email newsletter, your opening of the newsletter is notified to us and saved. Your clicks on links in the newsletter are also saved. These and the open statistics are used in aggregate form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting.
 
-We will refuse government and law enforcement requests for data if we believe a request is too broad or unrelated to its stated purpose. However, we may cooperate if we believe the requested information is necessary and appropriate to comply with legal process, to protect our own rights and property, to protect the safety of the public and any person, to prevent a crime, or to prevent what we reasonably believe to be illegal, legally actionable, or unethical activity. 
 
-We do not otherwise share or supply personal information to third parties. We do not sell or rent your personal information to marketers or third parties. 
 
-Children's Privacy 
+WHERE WE STORE YOUR PERSONAL INFORMATION
+    
 
-This website does not knowingly target users under the age of 18, or collect personal information from children. As a parent/guardian, if you believe your child is participating in an activity involving personal information on our website, and you have no received a notification or request for consent, please contact us at customerservice@trails.com. We do not use your supplied contact details for marketing or promotional purposes. 
+All information you provide to us through the Products is stored on our secure servers located in the US. Any payment transactions will be encrypted using SSL technology; all payment information is stored with our payment processor and is never stored on AllTrails’ servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Products, you are responsible for keeping this password confidential. We ask you not to share a password with anyone, and suggest that you change your password frequently. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to the Products; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access. 
 
-Limits of our policy
+SINGLE SIGN-ON
+    
 
-This privacy policy only covers Trails.com's own collecting and handling of data. We only work with partners, affiliates and third-party providers whose privacy policies align with ours, however we cannot accept responsibility or liability for their respective privacy practices. 
+You can log into our Products using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and to pre-populate our sign up form. Services like Facebook Connect give you to the option to post information about your activities on our Products or to your profile page to share with others within your network. 
 
-Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices. 
+ACCESS TO AND DELETION OF PERSONAL INFORMATION
+    
 
-Changes to this policy
+You may access your personal information at any time via an online account, or by emailing [support@alltrails.com](mailto:support@alltrails.com). To request the deletion of your personal data that we have on file please email us at [support@alltrails.com](mailto:support@alltrails.com). We will respond to your request in a reasonable timeframe. 
 
-At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. If you are a registered user on https://www.trails.com, we will notify you using the contact details saved in your account. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information. 
+USES MADE OF THE INFORMATION
+    
 
-Your rights and responsibilities
+**We use information held about you in the following ways:**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+  * To ensure that content provided by the Products is presented in the most effective manner for you and for your computer or other device.
 
-As our user, you have the right to be informed about how your data is collected and used. You are entitled to know what data we collect about you, and how it is processed. You are entitled to correct and update any personal information about you, and to request this information be deleted. You may amend or remove your account information at any time, using the tools provided in your account control panel. 
+  * To provide you with information, products or services related to AllTrails that you request from us or which we feel may interest you, unless you have requested that we not provide this information.
 
-You are entitled to restrict or object to our use of your data, while retaining the right to use your personal information for your own purposes. You have the right to opt out of data about you being used in decisions based solely on automated processing. 
+  * To provide you with customer service communications.
 
-If you have any concerns or questions about how we handle your data and personal information, feel free to contact us at customerservice@trails.com. 
+  * To carry out our obligations arising from any agreements entered into between you and us.
 
-**This policy is effective as of 05/01/2018**
+  * To allow you to participate in interactive features of the Products, when you choose to do so.
+
+  * To notify you about changes to the Products.
+
+  * To understand your broad, non-specific geographic location to help us identify groups of users by general geographic market (such as zip code, state or country).
+
+  * To inform your Community about your registration and use of the Products.
+
+  * To serve our advertisements to you through third party platforms, such as Facebook or Google, on other sites and apps or across your devices.
+
+  * To provide you with the SMS Service.
+
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+
+  * Details of transactions you carry out through the Products are used for the fulfillment of your Product orders.
+
+  * Details of your visits to and interactions with the Products including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+
+  * If you are an existing customer, we will only contact you by electronic means (e-mail or in-Product communication) with information about products and services similar to those which were the subject of a previous sale to you.
+
+  * We do not disclose information about identifiable individuals to companies that host advertisements on our behalf, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target.
+
+
+
+USES MADE OF THE INFORMATION
+    
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+
+**We may also disclose your personal information to third parties as follows:**
+
+  * In some circumstances, based on your specific requests, we may need to disclose your personal information to a third party so that they can provide a service you have requested from such party, or fulfill a request for information from such party. An example of this is the SMS Service. It is the responsibility of any third party that you authorize to receive data to protect that information in accordance with applicable laws, and use it only to provide the services or information you have requested.
+
+  * In some circumstances, we may disclose personal information that you have provided to AllTrails to a third party that offers and/or provides goods or services complementary to our own, but only in cases where you have provided your consent, and where we have provided clear and conspicuous notice at the time the consent was communicated that your email address could be transferred to such other party for the purpose of initiating commercial electronic mail messages.
+
+  * If AllTrails’ service providers (like hosting, market analytics, and payment service providers) require this information to provide services to AllTrails. AllTrails requires each of its service providers to agree to maintain the confidentiality of your personal information disclosed.
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets.
+
+  * If AllTrails or substantially all of our assets are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets.
+
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation such as to comply with a subpoena, bankruptcy proceedings, similar legal process, or in order to enforce or apply our agreements with you; or to protect the rights, property, or safety of AllTrails, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+  * With third parties, such as Facebook, in order to serve AllTrails advertisements on such third party platforms.
+
+
+
+APPLE HEALTH
+    
+
+Our Products may utilize connections to the Apple Health App (“HealthKit”). For more information on HealthKit, please [click here](https://developer.apple.com/documentation/healthkit). You can choose to connect and share information with HealthKit. If you grant access for us to write data to HealthKit, we can add information such as your activity recordings and related information like activity distance and calories burned, amongst other data, to HealthKit. 
+
+Your unique health data you choose to send to HealthKit is not accessible by AllTrails. Our Apps cannot write data to HealthKit unless you grant access. You can remove access at any time inside the Apple Health app. 
+
+Since we do not obtain or read any data from Apple HealthKit, such HealthKit data cannot be not used by us for marketing or advertising purposes, or shared with or sold to advertising platforms, data brokers, or information resellers. 
+
+AllTrails is in no way responsible for the protection of any of your information that you agree to store with HealthKit, which is governed by Apple’s privacy policy and other terms. You and Apple are solely responsible for the protection of such information. Please review Apple’s applicable policies and procedures before granting permission to sync your health data and/or other information with the HealthKit. 
+
+LINKS TO THIRD PARTY SITES
+    
+
+The Products may, from time to time, contain links to and from the Products of our partner networks, advertisers and affiliates. If you follow a link to any of these external websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these websites or their policies. Please check these policies before you submit any personal information to these external websites. 
+
+SOCIAL MEDIA WIDGETS
+    
+
+Our Products include social media features, such as the Facebook Like button, and widgets, such as the “Share This” button, or interactive mini-programs. These features may collect your Internet protocol address, which page you are visiting on our Products, and may set a cookie to enable the feature to function properly. Social media features and widgets are hosted by a third party or hosted directly on our Products. Your interactions with these features are governed by the privacy statement of the company providing it. 
+
+USE OF ALLTRAILS BY MINORS
+    
+
+You must be 18 years of age, or the age of majority in your province, territory or country, to sign up as a registered user of the Products. Individuals under the age of 18, or the applicable age of majority, may utilize the Products only with the involvement and consent of a parent or legal guardian, under such person's account and otherwise subject to these Terms. 
+
+CHANGES TO OUR PRIVACY POLICY
+    
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by in-Product message, email (sent to the e-mail address specified in your account) or by means of a notice in the Products prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+CONTACT
+    
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@alltrails.com](mailto:support@alltrails.com).
+
+AllTrails, LLC 530 Bush St Suite 900 San Francisco, CA 94108
