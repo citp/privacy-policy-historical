@@ -1,162 +1,122 @@
-> *The following text is extracted and transformed from the altrarunning.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817235717id_/https%3A//www.altrarunning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altrarunning.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731231023id_/https%3A//www.altrarunning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Altra Running Footwear
 
-#### **This Privacy Policy was last updated on February 26, 2018.**
+### Our Privacy Policy
 
-This Privacy Policy governs the manner in which ICON Health & Fitness, Inc. (together with its affiliates, partners, licensors, subsidiaries, and/or related companies, “Company,” “we,” “us,” “our”) collect, use, maintain, and disclose information collected from and about you and other users (“you” or “User”) while using the ICON Health & Fitness websites, including without limitation www.iconfitness.com, www.ifit.com, www.nordictrack.com, www.altrarunning.com, www.proform.com, www.freemotionfitness.com, www.weiderfitness.com, www.weslo.com, www.healthrider.com, www.getgoldsgym.com, www.workoutwarehouse.com, and my.iconfitness.com (each an “ICON Site,” and collectively, the “ICON Sites”), and the services provided on the ICON Sites, including iFit Services (each an “ICON Service” and collectively, “ICON Services”) whether accessed via the Internet, a mobile device, other electronic devices, or by any other means. This Privacy Policy is incorporated into and made a part of the Terms of Use governing use of the ICON Sites and ICON Services. We are dedicated to safeguarding Personally Identifiable Information (as defined below) that we collect. 
+#### Last updated: August 22, 2014
 
-We store the information we collect in the United States, so if you are accessing an ICON Site from another country, your information is being transferred to and from the United States. 
+Altra® recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy.
 
-  
-
-
-###  **INFORMATION WE COLLECT AND WHEN**
-
-Some of the information we collect from Users of the ICON Sites can be used to identify the User and some cannot. For example, we collect from Users of the ICON Sites (1) “Personally Identifiable Information” which is information that can be used to locate you, contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, user name, credit card information, etc.) and (2) “aggregate information” which is information about your activities on an ICON Site or in connection with an ICON Service that cannot be used to identify, locate, or contact you (such as frequency of visits to ICON Sites, data entered when using ICON Sites, ICON Site pages most frequently accessed, browser type, links a User clicks, IP address, and other similar information). 
-
-###  **WE COLLECT INFORMATION FROM YOU:**
-
-  * When you use a credit card to pay for an ICON Service or product, we ask for your name, address, credit card and credit card-related information. 
-  * Once you have created an account, you may complete your profile by providing additional Personally Identifiable Information about yourself. 
-  * When you connect your ICON Site account with your Facebook account or other social media account we will have access to the publicly available information from your Facebook or other social media page, and Facebook or other social media site will have access to information you log through an ICON Site while logged onto your ICON Site account through Facebook or the other social media site. 
-  * When you enter a contest, sweepstakes or promotion through an ICON Site. 
-  * When you submit comments, feedback, or suggestions through an ICON Site. 
-  * When you visit an ICON Site, even if you are not logged in, we gather information about your computer operating system (e.g., Windows XP or Mac OS), your “IP Address,” the web browser (e.g., Firefox, Internet Explorer) being used, the referring website information, usage data regarding your activity on such ICON Site, including what web pages you visit or share, what functions you use, as well as overall time spent on that ICON Site. We use this data for internal analysis about the ICON Sites’ performance and services. 
-  * When you share your content with family and friends using ICON’s products, send gift certificates and products, or invite others to participate in an ICON Service or forum, we may collect the information you provide about those people such as name, mailing address, email address, and phone number. We will use such information to fulfill your requests and provide the relevant product or service. 
-
-
-
-You can refuse to supply Personally Identifiable Information, but it may prevent you from having access to an ICON Site’s full functionality. The ICON Sites allow you to edit and update your personal information and preferences at any time. Once you have created an account and log in to an ICON Site -- you are not anonymous to us. 
-
-The ICON Sites are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on the ICON Sites or on or through any of the ICON Services or features, make any purchases through the ICON Sites, use any of the interactive or public comment features of the ICON Sites or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13 years of age, please contact us at the contact information provided below. 
-
-###  **HOW WE USE COLLECTED INFORMATION**
-
-We collect and use your Personally Identifiable Information for the following purposes: 
-
-  * To personalize user experience: 
-    * We may use information in the aggregate to understand how our Users as a group use ICON Services and resources provided on the ICON Sites. 
-  * To improve the ICON Sites and your User experience: 
-    * We continually strive to improve our offerings based on the information and feedback we receive from you. 
-    * We may use information we gather about you to display data trends based on different demographics, make offers and discounts available to you, among other things. 
-  * To provide customer service: 
-    * Your information helps us to more effectively respond to your customer service requests and support needs. 
-    * When a User submits questions or comments to us, we may use that information to respond to the User. 
-    * By creating an account with us, you agree that we may contact you by phone, email, mail, or text message to respond to questions that you submit to us. 
-  * To process transactions: 
-    * We may use the information Users provide when placing an order only to process that order. We do not share credit card information with outside parties except to the extent necessary to provide the service or in connection with our transfer or assignment of our right to payment as permitted by the Terms of Use. 
-  * To send periodic emails and printed materials: 
-    * The address and email address Users provide will be used to send them information, sales offers, and updates pertaining to their ICON Services. Such addresses may also be used to respond to Users, and/or other requests or questions. By creating an account on an ICON Site, Users are opting-in to our mailing list, and will receive emails and/or mail that may include company news, updates, sales information, related product or service information, etc. We may send offers and communications to Users after any subscription or membership to an ICON Service has concluded. If at any time the User would like to unsubscribe from receiving future emails or mail, they may do so by contacting us via the “unsubscribe” link on an ICON Site. 
-  * For our marketing purposes: 
-    * We may use the information Users provide to display targeted advertising or other content that we think may be of interest to the User based on information the User has shared with us. 
-    * We may provide data mining services to third-parties interested in better understanding our Users such as aggregate information about the ICON Sites’ user base, including interests, purchases made, so that such parties may determine if they would like to advertise to our Users. 
-    * By registering an account, you agree that we may contact you at the phone number you have provided us, even if your number is on a do-not-call list or a wireless number, for our marketing purposes. 
-    * We may connect and link your information with the information provided by you to any ICON Site. 
-    * We may also use or sell aggregate information such as information about the pages visited to improve the design, content and performance of the ICON Sites, or to analyze usage and the popularity of certain pages of the ICON Sites. 
-
-
-
-### **International Transfers of Personal Information/Safe Harbor Statement**
-
-As part of our international operations, we may transfer data to our servers and affiliates in other countries from time to time for our legitimate business purposes and to provide services to you. 
-
-###  **_Financial Information_**
-
-When you purchase our services, you will be asked to provide credit card and/or billing information and email address. When credit card data is entered into our system, it is immediately tokenized and sent to a secure payment processor. Your credit card information cannot be seen by our agents and is never stored in our systems. We will use the information provided in connection with a User’s purchase to process your order and for no other purpose. 
+This Privacy Policy was lasted updated October 08, 2018 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website.
 
   
 
 
-###  **WHEN WE SHARE YOUR PERSONAL INFORMATION**
+#### **WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?**
 
-We may provide Personally Identifiable Information to our authorized service providers who assist us in providing ICON Services and performing functions on our behalf. They are prevented from using it in any other way. 
+#### INFORMATION YOU PROVIDE
 
-We may share, rent, sell, or lease, your personal contact information to our trusted marketing partners for their internal or commercial purposes. 
+We collect and store information that you provide to us through our websites, in our stores, through our customer service representatives, at events, through mobile applications, through marketing efforts, including contests, sweepstakes and events, and through third parties, or any other way we interact with you. We are one of the VF Corporation family of brands and may also receive information about you from other brands held by VF Corporation.
 
-We will disclose information we maintain when required by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to requests from law enforcement agencies or other public agencies if we feel that such disclosure may prevent the instigation of a crime. In addition, we may sell or otherwise disclose to third-parties information that does not constitute Personally Identifiable Information. 
+You may choose not to provide certain information, but then you might not be able to take advantage of certain capabilities of this website, our mobile applications or other services we may offer. For example, you must provide certain personal information in order to place an order or to register for an account on or through this website.
 
-Finally, we may disclose your information if (i) there is a transfer, assignment, or sale of our assets or ownership in connection with a proposed or consummated corporate reorganization, such as a merger or acquisition, to the extent permitted by law, or (ii) upon assignment of your membership or Membership Fees to a third-party as permitted by the Terms of Use. 
+We may request, collect and store some or all of the following types of personal information: name, billing address, shipping address, e-mail address, telephone number, financial and payment information, such as credit card number and expiration date, gender, personal interests, birthday, information about a third party you provide when we ship an order. We may also maintain a record of your product interest and purchases. If you access our website or mobile applications with your log-in credentials from a social networking site (e.g. Facebook, Pinterest, or Twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this to the information we have already collected from you via other interactions.
 
-  
+When you download or use our mobile applications, we may receive information about your location and your mobile device. We may use this information to provide you with location-based services like local store information, search results, and other personalized content. Most mobile devices allow users to disable location services by using controls located in the device's settings menu. If you have questions about how to disable your device's location services, please contact your mobile service carrier or your device manufacturer.
 
+#### AUTOMATICALLY COLLECTED INFORMATION
 
-###  **WEB BROWSER COOKIES AND OTHER TECHNOLOGIES USED TO COLLECT INFORMATION**
+We collect and store certain other non-personally identifiable information automatically whenever you interact with us. For example, we may collect your Internet Protocol (IP) address and browser information and reference site domain name when you visit this website and analyze this data for preferences, trends, and site usage statistics.
 
-In addition to the collection of information described above, we use various technologies to collect information from your computer and about your activities on the ICON Sites. 
+We may also collect information by using cookies, web beacons, and related technologies in order to analyze and understand how the website is used and to enhance your visits to the website. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the website.
 
-  * Cookies. When you visit an ICON Site, we may assign your computer one or more cookies, to facilitate access to such ICON Site and to personalize your experience on that ICON Site. A cookie is a small text file, with no Personally Identifiable Information, that we place on User’s computer browser. Through the use of a cookie, we also may automatically collect information about your online activity on an ICON Site, such as the web pages you visit and the links you click. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on the ICON Sites. 
-  * Other technologies. We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of the ICON Sites. Web beacons are tiny graphics which are embedded in the webpage and are used for similar purposes as cookies to track activity. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer to visitors of the ICON Sites, to deliver targeted advertisements, and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
-  * Information collected by third-parties. We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on the ICON Sites. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. The ICON Sites do not provide any personal information to these third-parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. ****
+"Cookies" are small text files that a website sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this website. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this website.
 
-  
+We use third-party companies to provide Internet data hosting and to help us measure and determine how visitors use our website and the effectiveness of our website and promotions in order to help us improve and optimize our website and the products and services we offer. We also use third-party companies to serve advertisements (banners or links) on our behalf across the Internet. These companies use tracking technologies (including cookies and pixel tags) to collect non-identifiable information about your visits to our website and your interactions with our products and services in order to provide tailored advertisements based on your interests and browsing of our website (remarketing) on our behalf and on behalf of other advertisers across the Internet. We use third-party audience data (such as age, gender, and interests) to better understand and advertise to audiences that visit our website. We do not use or associate personally identifiable information with remarketing lists, cookies, data feeds, or other anonymous identifiers. 
 
+Our websites currently do not have a mechanism to recognize “Do Not Track” signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information HERE. Please note this does not opt you out of receiving marketing communications from us.
 
-###  **HOW WE PROTECT YOUR INFORMATION**
+In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on the ICON Sites. 
+We also may use a variety of retail analytics tools in our stores for operational and marketing purposes, such as measuring and analyzing traffic patterns. These tools may collect data from sensors, including video cameras, smartphone detectors, Wi-Fi networks, or other devices, to improve your in-store experience. 
 
-Sensitive and private data exchange between an ICON Site and a User happens over a SSL secured communication channel and is encrypted and protected with digital signatures. 
+#### INFORMATION FROM OTHER SOURCES
 
-We want you to feel confident using the ICON Sites. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission’s website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft. 
+We may collect information about you from third-party sources and information that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network site) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Another example, is that we may receive demographic information about you from a third party to make our service and marketing efforts more efficient and personalized for you.
 
-  
+#### **HOW IS INFORMATION USED?**
 
+We use the personal information we collect to conduct our business, communicate with you, and provide great products, services, and experiences. We or third-party service providers we engage may use the information to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, to provide customer service, to respond to your comments, questions or complaints, to personalize your experiences, to analyze your preferences and shopping habits, to analyze trends and statistics, to administer and fulfill our contests and other promotions, to analyze and improve the website and our products and services, and to send you marketing communications and other information regarding our products, services, marketing, or special events. We also use your information for business purposes such as security, payment processing, analytics, operations, fraud detection, reporting, making back-ups, and legal compliance. 
 
-###  **DELETING YOUR INFORMATION**
+You always have the choice not to receive marketing communications. For instructions on opting out of those communications, please see the section entitled “Can I Indicate Whether or Not I Want to Receive Promotional Communications?” below.
 
-If you have cancelled your account with an Icon Site or Icon Service, and wish to delete your account information, please contact us at (866) 608-1798 during regular business hours. If we delete your account, your user profile will no longer be visible and all information associated with your account will be permanently deleted. We may retain and use your information to comply with applicable law, resolve disputes, or enforce our agreements. You may still receive promotional emails from us regarding new Icon Products or Icon Services. 
+Our blog is managed by a third-party application that may require you to register to post a comment. We do not have access or control of the information and comments posted to the blog. You will need to contact or login into the third-party application if you want the personal information that was posted to the comments section removed. To learn how the third-party application uses your information, please review its privacy policy.
 
-  
+We display personal testimonials/reviews of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at altra_customerservice@vfc.com.
 
+#### **WITH WHOM IS INFORMATION SHARED?**
 
-###  **THIRD PARTY WEBSITES**
+Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information.
 
-Users may find advertising or other content on the ICON Sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from the ICON Sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to an ICON Site, is subject to that website’s own terms and policies. 
+We may share your personal information with other brands within the VF Corporation family of brands (including, for example, Vans®, Timberland®, The North Face®, Kipling®, Icebreaker®, Eagle Creek®, Jansport®, and EastPak®). 
 
-  
+We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating the website, hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us.
 
+We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Altra® or as part of a corporate reorganization, stock sale or other change of control.
 
-###  **ADVERTISING DISCLAIMER**
+#### **WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?**
 
-We share no affiliation with any political party or its views. Our ads visible on political websites are there as a result of remarketing, not a partnership, affiliation, or endorsement. 
+We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-Remarketing lets us show ads to people who have visited the ICON Sites. When people leave an ICON Site without buying anything, remarketing helps us reconnect with them by showing relevant ads across their different devices and websites. The ads simply follow the user to the sites they visit. 
+#### **WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?**
 
-  
+The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
+#### **HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?**
 
-###  **CHANGES TO THIS PRIVACY POLICY**
+You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-We reserve the right to update and change this Privacy Policy at any time without notice to you. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications. 
+We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"
 
-  
+#### **CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?**
 
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "My Account" area of this website, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of personal information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request. 
 
-###  **YOUR ACCEPTANCE OF THESE TERMS**
+If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the website.
 
-By using an ICON Site, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the ICON Sites. Your continued use of an ICON Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+#### **WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER WEBSITE?**
 
-  
+This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth on or referenced in those Linked Websites. We encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit.
 
+#### **HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?**
 
-###  **CALIFORNIA PRIVACY RIGHTS**
+If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
 
-California Civil Code Section 1798.83 permits users of the ICON Sites that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. 
+By Email: ALTRA_CUSTOMERSERVICE@VFC.COM  
+Subject: Privacy Policy Questions  
+Attn: Altra Customer Service
 
-  
+By Postal Mail:  
+ALTRA  
+VF Outdoor, Inc.  
+2701 Harbor Bay Parkway  
+Alameda, Calif. 94502
 
+#### **WHAT IF I AM A RESIDENT OF CALIFORNIA?**
 
-###  **CONTACTING US**
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: 
 
-If you have any questions about this Privacy Policy, the practices of the ICON Sites, or your dealings with the ICON Sites, please contact us at: 
+By Email: ALTRA_CUSTOMERSERVICE@VFC.COM  
+Subject: Privacy Policy Questions  
+Attn: Altra Customer Service
 
-[www.iconfitness.com](http://www.iconfitness.com/)
+By Postal Mail:  
+ALTRA  
+VF Outdoor, Inc.  
+2701 Harbor Bay Parkway  
+Alameda, Calif. 94502
 
-c/o Privacy Manager
+#### **WHAT IF I AM AN INTERNATIONAL USER?**
 
-1500 South 1000 West
-
-Logan, Utah 84321
-
-[support@iconfitness.com](mailto:support@iconfitness.com)
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Altra® to use and collect your personal information in accordance with this Privacy Policy.
