@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changehealthcare.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026081234id_/https%3A//www.changehealthcare.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changehealthcare.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731083334id_/https%3A//www.changehealthcare.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Change Healthcare
 
