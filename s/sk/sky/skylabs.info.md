@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skylabs.info privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630011743id_/http%3A//www.skylabs.info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skylabs.info privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731213919id_/http%3A//skylabs.info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # skylabs.info technology news
 
