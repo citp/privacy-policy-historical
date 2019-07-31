@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliteanswers.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531142131id_/http%3A//www.eliteanswers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliteanswers.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731094542id_/http%3A//www.eliteanswers.com/privacy) for the most accurate reproduction.*
 
 # EliteAnswers.com Privacy Policy
 
