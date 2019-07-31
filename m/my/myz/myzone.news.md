@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myzone.news privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531133357id_/http%3A//privacy.myzone.news) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzone.news privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731152528id_/http%3A//privacy.myzone.news) for the most accurate reproduction.*
 
 # myzone
 
@@ -66,6 +66,8 @@ If you would prefer not to accept cookies, you can do this by activating the set
 
 However, if you use your browser settings to block all cookies, please be aware that some functions and features of the Service may not work properly because we may not be able to recognize and associate you with your account.
 
+To opt out of Google Analytics please click here
+
 **Log Files -**
 
 As is true of most web sites, we may gather certain information automatically and store it in log files.
@@ -81,7 +83,7 @@ A pixel tag is a transparent graphic image, sometimes called a web beacon or tra
 _Our third-party partners/service providers may also use cookies, scripts, web beacons or other technologies for the purpose of targeting; tracking and analyzing your use of the Site or Service; and/or providing you with content, as follows:_
 
 **_  
-_****_Analytics_**
+_****_**Analytics -**_**
 
 _We work with companies that provide services which help us_ _analyze your use of our Site or Service, for internal purposes, and to (anonymously) collect information about your online usage activities across our Site or Service._
 
