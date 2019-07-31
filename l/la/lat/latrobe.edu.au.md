@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503122205id_/https%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731134358id_/https%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
 
 # Website privacy statement, Statements, La Trobe University
 
   *   * [Statements](https://www.latrobe.edu.au/statements)
     * [Privacy](https://www.latrobe.edu.au/statements/privacy)
+      * [Privacy collection notice for employees](https://www.latrobe.edu.au/statements/privacy/privacy-collection-notice-for-employees)
 
 
 
