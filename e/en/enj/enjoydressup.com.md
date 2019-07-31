@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjoydressup.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316154131id_/http%3A//www.enjoydressup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoydressup.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801010448id_/https%3A//www.enjoydressup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Enjoydressup.com
 
@@ -12,7 +12,7 @@ Websites visited through links from this website may or may not have their own p
 
 **www.EnjoyDresup.com** implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
 
-You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](http://www.networkadvertising.org/choices/ "Ads Settings").
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.networkadvertising.org/choices/ "Ads Settings").
 
 We do not collect any personal information from our visitors . Visitors are required to be 13 years or older to play the games on enjoydressup.com. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use. When visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
 
