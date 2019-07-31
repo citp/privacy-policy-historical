@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lansweeper.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326140705id_/https%3A//www.lansweeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lansweeper.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731035647id_/https%3A//www.lansweeper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lansweeper IT Asset Management
 
