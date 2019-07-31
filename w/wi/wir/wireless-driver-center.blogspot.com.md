@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wireless-driver-center.blogspot.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530224339id_/http%3A//wireless-driver-center.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wireless-driver-center.blogspot.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731223356id_/https%3A//wireless-driver-center.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Networking: Drivers-Review-Specs
 
@@ -50,3 +50,6 @@ This Privacy Policy was last updated on October 14th, 2016.
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
 
 **(Administrator)**
+
+  
+
