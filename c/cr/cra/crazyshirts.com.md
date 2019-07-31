@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911135512id_/http%3A//www.crazyshirts.com/category/customer-service/privacy-security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731161855id_/http%3A//www.crazyshirts.com/category/customer-service/privacy-security.do) for the most accurate reproduction.*
 
 # Privacy and Security - Crazy Shirts Official Site
 
@@ -19,7 +19,7 @@ We collect transaction information and email addresses. We collect only the mini
 
 If you purchase from crazyshirts.com, your name and mailing address will be added to the Crazy Shirts print catalog mailing list and database. You may opt-out of receiving any catalogs or email promotional communication by clicking on the below link. 
 
-We use third party advertising companies and marketing partners to serve ads on our behalf on the internet and in our web-based ads. We and our partners may use cookies, web beacons (also known as Gif tags, 1x1 pixels, action tags, etc) to deliver better, targeted marketing messages to consumers and to track certain information about how you navigate our website. We analyze and compile this information on an aggregated basis. This information may include information about your internet service provider, browser type, domain name, IP address, the web site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points. This information allows us to create a website that caters to the needs of our viewers and at the same time give them complete anonymity. 
+We use third party advertising companies and marketing partners to serve ads on our behalf on the internet and in our web-based ads, and we use partners that facilitate email and mail outreach. We and our partners may use cookies, web beacons (also known as Gif tags, 1x1 pixels, action tags, etc) to collect information about you, deliver better, targeted marketing messages and to track certain information about how you navigate our website. We analyze and compile this information on an aggregated basis. This information may include information about your internet service provider, browser type, domain name, IP address, email address, the web site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points. This information allows us to create a website and marketing program that caters to the needs of our viewers. 
 
 Our website uses order forms for you to request information and buy Crazy Shirts products. We collect contact information (such as your email address), and demographic information (such as your zip code). We collect, but do not retain financial information (such as your account and credit card numbers). 
 
@@ -32,7 +32,7 @@ Crazy Shirts does not sell or rent customers' email addresses to other companies
 **Remove or update my personal information**   
 If you have registered for a crazyshirts.com account, we have provided you with a means to log into your account and edit your personal information including name, address, email address, phone number and account password to ensure its accuracy. 
 
-If you signed up to receive email communications and wish to remove your address from our mailing list, you may use the Unsubscribe link provided in our e-mails, call us at 1-800-771-2720 or click [here](https://crazies.crazyshirts.com/pub/sf/ResponseForm?_ri_=X0Gzc2X%3DWQpglLjHJlTQGn5hbAkzc4dcLdWYeU4Aa0WpwunVXMtX%3DWQpglLjHJlTQGNzeSzcL4NzfGTlfoUerczdddfuHNn&_ei_=EkwRYXX_JFE95tjkB4_tS18). 
+If you signed up to receive email communications and wish to remove your address from our mailing list, you may use the Unsubscribe link provided in our e-mails, call us at 1-800-771-2720 or click [here](https://www.crazyshirts.com/ancillary/unsubscribe.do). 
 
 **We listen to you!**  
 We read and respond to every message that is sent to us. A customer care representative will personally get back to you with in 24-48 hours. We do not retain any personal information from your email unless requested to do so.
