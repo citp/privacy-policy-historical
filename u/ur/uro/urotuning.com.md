@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the urotuning.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210548id_/http%3A//www.urotuning.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urotuning.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731115321id_/https%3A//www.urotuning.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Terms: Privacy
-
-**Privacy Policy**
+# Privacy Policy – UroTuning
 
 **What information do we collect?**
 
@@ -13,9 +11,9 @@
 
 
 
- **How do we use your information?**
+**How do we use your information?**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To allow us to better service you in responding to your customer service requests.
@@ -25,7 +23,7 @@ We may use the information we collect from you when you register, purchase produ
 
 
 
- **How do we protect visitor information?**
+**How do we protect visitor information?**
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
@@ -39,7 +37,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
  **Do we disclose the information we collect to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include UroTuning.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include www.Urotuning.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -67,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20170606210548id_/http%3A//www.urotuning.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](http://www.urotuning.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
