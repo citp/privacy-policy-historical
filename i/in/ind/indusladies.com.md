@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indusladies.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531220911id_/http%3A//www.indusladies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indusladies.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731184315id_/http%3A//www.indusladies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indusladies.com
 
