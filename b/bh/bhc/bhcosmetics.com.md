@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhcosmetics.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407141637id_/https%3A//www.bhcosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhcosmetics.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731055327id_/https%3A//www.bhcosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shop Beauty & Makeup Products | BH Cosmetics LLC
 
