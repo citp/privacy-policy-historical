@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sennheiserusa.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518235007id_/https%3A//en-us.sennheiser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sennheiserusa.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731040408id_/http%3A//en-us.sennheiser.com/privacy) for the most accurate reproduction.*
 
 # Sennheiser - Privacy Statement
 
@@ -20,7 +20,7 @@ Am Labor 1
 Germany  
 Tel .: +49 (0) 5130 600 0  
 Fax: +49 (0) 5130 600 1300  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#74171b1a001517003407111a1a1c111d0711065a171b19 "contact@sennheiser.com")  
+E-Mail: [contact@sennheiser.com](mailto:contact@sennheiser.com "contact@sennheiser.com")  
 Further details can be found in the imprint.
 
 **3.Data Protection Officer**
@@ -30,7 +30,7 @@ For questions about this privacy policy, you can also contact the Sennheiser Dat
 Oliver Goldstein  
 PwC Cyber Security Services GmbH  
 Kapelle-Ufer 4, 10117 BerlinGermany  
-e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98f7fff7f4fcebecfdf1f6d8e8effbb5fbe1fafdeaebfdfbedeaf1ece1b6fbf7f5 "ogoldstein@pwc-cybersecurity.com")
+e-mail: [ogoldstein@pwc-cybersecurity.com](mailto:ogoldstein@pwc-cybersecurity.com "ogoldstein@pwc-cybersecurity.com")
 
 **4.Handling of personal data**
 
@@ -122,7 +122,7 @@ Prinzenstraße 5
 30159 Hanover, Germany  
 Telephone + 49 (0) 511 120 4500  
 Fax + 49 (0) 511 120 4599  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cfce3fff8fff8e9e0e0e9cce0eae8a2e2e5e9e8e9feffedefe4ffe9e2a2e8e9 "poststelle@lfd.niedersachsen.de")
+E-Mail: [poststelle@lfd.niedersachsen.de](mailto:poststelle@lfd.niedersachsen.de "poststelle@lfd.niedersachsen.de")
 
 **14.Amendments**  
 Since Sennheiser's website may be subject to change, it may be necessary in individual cases to make changes to this policy. Sennheiser reserves the right to change this policy at any time. The most recent version of this policy can be found on [http://www.sennheiser.com](http://www.sennheiser.com/ "http://www.Sennheiser.com")
