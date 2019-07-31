@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapcustomizer.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526221738id_/https%3A//www.mapcustomizer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcustomizer.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731195907id_/https%3A//www.mapcustomizer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mapcustomizer.com
 
@@ -103,7 +103,7 @@ Users will be notified of any privacy policy changes:
 
 Users are able to change their personal information: 
 
-  * By emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e1f1d1d110b100a0d3e131f0e1d0b0d0a111317041b0c501d1113). 
+  * By emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dabbb9b9b5afb4aea99ab7bbaab9afa9aeb5b7b3a0bfa8f4b9b5b7). 
 
 
 How does our site handle do not track signals?
@@ -148,9 +148,9 @@ We collect your email address in order to identify you as a unique user on the s
 
 To be in accordance with CANSPAM we agree to the following: 
 
-> If at any time you would like to unsubscribe from receiving future emails, you can email your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#452426262a302b313605282435263036312a282c3f20376b262a28), and we will promptly remove you from _ALL_ correspondence. 
+> If at any time you would like to unsubscribe from receiving future emails, you can email your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b3a3838342e352f281b363a2b382e282f343632213e2975383436), and we will promptly remove you from _ALL_ correspondence. 
 
 Contacting Us
     
 
-If you have questions or comments, you can contact me via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfbfaebbbda6aca48fa4aeaaaba6a1a8e1a1aea2aa), or by using the [form on my blog](http://kaeding.name/contact/). 
+If you have questions or comments, you can contact me via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f7f6e7b7d666c644f646e6a6b66616821616e626a), or by using the [form on my blog](http://kaeding.name/contact/). 
