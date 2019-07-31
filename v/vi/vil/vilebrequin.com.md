@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vilebrequin.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104113958id_/https%3A//www.vilebrequin.com/us/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vilebrequin.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731134657id_/https%3A//www.vilebrequin.com/eu/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Vilebrequin Privacy Policy
 
@@ -26,9 +26,9 @@ The specific nature of the data that we collect depends on the form of your inte
 **2.2 Transmission of your information by third parties or via the Internet**  
 2.2.1 During your visit to our site  
 We collect standard information from all Users who browse our Website, even those who do not have a customer account. Vilebrequin monitors the interaction of Users with the Website, monitors performance and collects other information that may be considered Personal Data such as the date and time of access, the IP addresses of Users and information regarding equipment, operating systems and browsers used to access the Website and the URL of the sites that refer Users to the Website.  
-To do this we use cookies and other tracers. In this regard we invite you to consult our [Cookie Policy](https://www.vilebrequin.com/us/en/cookie-policy.html).
+To do this we use cookies and other tracers. In this regard we invite you to consult our [Cookie Policy](https://www.vilebrequin.com/eu/en/cookie-policy.html).
 
-Where allowed by applicable laws, Vilebrequin also uses the services of Google Analytics, a Google Inc. internet service, or similar services to this, in order to track the Users’ interaction with the Website and its performances. For this purpose, Google Analytics collects data and automatically generates reports that are supplied to Vilebrequin. Users may refuse this data processing by disabling the Cookies To view the full list of cookies that we use and to find out how we use them, please read our [Cookie Policy](https://www.vilebrequin.com/us/en/cookie-policy.html).
+Where allowed by applicable laws, Vilebrequin also uses the services of Google Analytics, a Google Inc. internet service, or similar services to this, in order to track the Users’ interaction with the Website and its performances. For this purpose, Google Analytics collects data and automatically generates reports that are supplied to Vilebrequin. Users may refuse this data processing by disabling the Cookies To view the full list of cookies that we use and to find out how we use them, please read our [Cookie Policy](https://www.vilebrequin.com/eu/en/cookie-policy.html).
 
 2.2.2 Orders or payment to third-party providers  
 When you order VILEBREQUIN products from third parties who are not part of the Vilebrequin Network, they may be required to provide us with some of your personal information in connection with the order you have made.  
@@ -89,7 +89,7 @@ Your data may be shared with recipients within the Vilebrequin Network or with e
 The list of internal recipients includes all entities of the Vilebrequin Network (as mentioned in paragraph 1.3 of this Policy).  
 The list of external recipients includes:  
 \- The companies with which you ask us to share your data  
-\- Companies offering services of Cookies and other tracers (please read our [Cookie Policy](https://www.vilebrequin.com/us/en/cookie-policy.html))  
+\- Companies offering services of Cookies and other tracers (please read our [Cookie Policy](https://www.vilebrequin.com/eu/en/cookie-policy.html))  
 \- The service providers that we use in the course of our activities including the processing of your personal data.
 
 **4.1 Sharing of data that allows you to be identified**  
@@ -101,11 +101,10 @@ o The processing of bankcards.
 Vilebrequin only shares the data necessary to carry out the intended purpose with its network of service providers.  
 We make sure that the external service providers with which we liaise protect all the personally identifiable data that we transmit to them in compliance with this Policy.
 
-In the case of the processing of certain orders (depending on the place of dispatch), you may be required to contract directly with specialist service providers in the worldwide shipment of products, such as for example the Pitney Bowes Inc. company. In this case, some of your personal data will be sent to these service providers who are responsible for invoicing, debiting your bankcard, collecting taxes and other fees and delivering the ordered products. We may be contractually bound to provide you with links to the confidentiality policies of third party service providers, which we do directly on our Website.
-
 In the context of the payment execution of your orders, we may be required to transmit your payment information to service providers who carry out payment transactions for us on our behalf. In this case, the collected data is encrypted and processed according to the highest security standards (including, but not limited to, PCI-DSS compliance).  
 We may also be required to disclose your information when it is necessary to comply with the law, regulations or with a legal procedure, or to respond to a government or regulatory request, to enforce or apply the User Conditions or the Terms of Sale, in order to protect the security or integrity of our services and/or to protect the rights, property, including intellectual property, or the security of our entities, our personnel, our customers or users or others. In such a case we will do our best to notify you by e-mail, unless the law prevents us from so doing.
 
+We can also be called upon to send your data to service providers such as Avis Vérifiés (Verified Reviews) who, following your purchase on our website, may send you an email to get your opinion on your shopping experience and on our products. For more information on how Avis Vérifiés uses your data, please see [Avis Vérifiés](https://www.avis-verifies.com/index.php?page=mod_regles_confidentialites)   
 Finally, we may be required to disclose or transmit your personally identifiable data in the event of a sale, merger, bankruptcy, sale of assets or restructuring of our company. If another company acquires your personally identifiable data, we will let you know, and the commitments contained in this Policy will apply to the data transferred to the new entity.
 
 **4.2 Sharing data that does not allow you to be identified**  
@@ -135,21 +134,21 @@ When you provide us with data on our Website, including your credit or debit car
 
 We retain your personal data only during the period necessary for the purposes set forth in this Policy or as provided by the applicable law.
 
-For each data category, we have defined a retention period based on the categories of data collected.
+When processing is necessary for the execution of the contract, the period for retaining data relating to your contact information (such as your name, address, email, etc.) is 10 years. 
 
-Regarding the data relating to your details (such as name, address, e-mail, etc.) the data retention period is 12 months from the last use of your data and in all cases 10 years since your last transaction.
+When you purchase a Vilebrequin product and create a customer account, the period for retaining data relating to your information and your purchase history is 10 years from your first transaction. This data retention period will be renewed each time you perform a new transaction, this is mainly due to our desire to offer you high-quality after–sales service. 
 
-Regarding the data relating to your purchase history, the retention period of this data is 10 years, this is due in particular to our wish to offer you an after-sales service throughout this period.
+Regarding data that concerns the invoicing processes, the retention period of such data is 10 years, this is mainly due to the legal duration of invoice dispute as generally accepted in the countries in which the Vilebrequin Network is located. 
 
-Regarding data that concerns the invoicing processes, the retention period of such data is 10 years, this is chiefly due to the legal duration of invoice dispute as generally accepted in the countries in which the Vilebrequin Network is located.
+When you only register for our newsletter and/or following the creation of a customer account in the absence of any transaction, the period for retaining data relating to your contact information is 3 years. This data retention period will be renewed whenever you interact with Vilebrequin. 
 
 ##  The identity of the entity responsible for processing your data
 
 The entity responsible for collecting and processing your personal data is:
 
 **VILEBREQUIN  
-Personal Data Protection Department  
-(Data Privacy)  
+Personal Data Protection Department (Data Privacy)   
+par T.R.B INTERNATIONAL SA  
 Chemin du Pré-Fleuri 5,  
 1228 Plan-les-Ouates  
 Switzerland**
@@ -182,7 +181,7 @@ In order to secure access to your data, any request that did not originate from 
 
 A reply will be sent to you within 7 days of receiving the request.
 
-Similarly, via your [customer account](https://www.vilebrequin.com/us/en/customer/my-account) we also provide you with the opportunity to directly correct or update your personal data.
+Similarly, via your [customer account](https://www.vilebrequin.com/eu/en/customer/my-account) we also provide you with the opportunity to directly correct or update your personal data.
 
 Finally, in the event of any disagreement with this Policy, you have the right to lodge a complaint with the supervisory authority of your country.
 
@@ -200,3 +199,31 @@ For any questions concerning the personal data policy within Vilebrequin, please
 Personal Data Protection Department  
 (Data Privacy)  
 Chemin du Pré-Fleuri 5, 1228 Plan-les-Ouates, Switzerland**
+
+##  Careers
+
+This notice is to inform you about our confidentiality policy with regard to the personal data you provide to Vilebrequin when making an application on our “Careers” page. 
+
+Please read it carefully. This confidentiality notice was last updated in November 2018.
+
+ **• Personal data we collect on the “Careers” page**  
+When you make an application on our “Careers” page, Vilebrequin may collect certain personal data such as your last name, first name, email address, telephone number or curriculum vitae. By providing this information in the corresponding fields on our “Careers” page and by applying directly through our website, you accept that these personal data may be used and disclosed by Vilebrequin in accordance with this notice. Vilebrequin undertakes not to request any sensitive data from applicants. When you apply, please do not provide sensitive information (e.g., political orientation, religious or philosophical beliefs, union membership, state of health, ethnic origin or sexual orientation). 
+
+**• How we use these personal data**  
+Vilebrequin uses the personal data you provide to assess your application and verify their suitability for a position on offer. Your personal data will also be used to reply to your application and, as the case may be, to invite you to an interview.
+
+ **• Third-party disclosure**  
+Vilebrequin may communicate the personal data provided on the Vilebrequin “Careers” page to any of the subsidiaries in the Vilebrequin Group and to certain third parties insofar as necessary for the recruiting process. Only the people involved in the recruiting process will have access to your personal data. The latter may be used only in the context of the recruiting process in question. Vilebrequin will also disclose your personal data as may be required by law and/or an authority or court having jurisdiction or if, in its opinion, disclosure is necessary to protect Vilebrequin against any prejudice or liability.
+
+ **• Protection and storage of personal data**  
+Vilebrequin undertakes to ensure the security and confidentiality of the personal data you communicate to us. We have taken all technical and organisational measures necessary to protect your data from any loss, unauthorised access, or alteration. Vilebrequin is an international group. Consequently, your data may be transmitted and stored in the countries in which the subsidiaries in the Vilebrequin Group are present and participate in the recruiting process. In this context, your data may be sent to recipients located outside the European Union.  
+Your personal data are stored in our database for 24 months after your application on the “Careers” page of our Vilebrequin website. 
+
+**• Right to access, alter, or delete**  
+In accordance with applicable law, you have the right of access, rectification, deletion, restriction, portability and opposition to the use of your personal data. To exercise your rights, do not hesitate to contact the department in charge of personal data for the Vilebrequin Network directly by email at the address: privacy@vilebrequin.com or by writing to the following address:  
+ **VILEBREQUIN**  
+Personal Data Protection Department   
+Chemin du Pré-Fleuri 5, 1228 Plan-les-Ouates, Switzerland
+
+  
+
