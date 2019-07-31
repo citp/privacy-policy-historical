@@ -1,55 +1,76 @@
-> *The following text is extracted and transformed from the mippin.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726045213id_/https%3A//www.mippin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mippin.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731052748id_/https%3A//www.mippin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mippin
+# Privacy Policy & Disclosure - Mippin
 
-## Who we are
+## Privacy Policy
 
-Our website address is: [http://www.mippin.com](http://www.mippin.com/).
+Mippin operates the [Mippin.com](http://mippin.com/) website, which provides the SERVICE.
 
-## What personal data we collect and why we collect it
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-### Comments
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Mippin.com , unless otherwise defined in this Privacy Policy.
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+**Amazon Associates Program Disclosure:**
 
-### Media
+Mippin.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon website.
 
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+**Information Collection and Use**
 
-### Contact forms
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
-### Cookies
+**Log Data**
 
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+**Cookies**
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive.
 
-If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+Our website uses these “cookies” to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
 
-### Embedded content from other websites
+**Amazon**
 
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon’s Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+**Google Adsense**
 
-### Analytics
+Google Adsense, a third party advertising network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](https://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
 
-## Who we share your data with
+**Google Analytics**
 
-## How long we retain your data
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](https://www.google.com/analytics/learn/privacy.html).
 
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+**Service Providers**
 
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+We may employ third-party companies and individuals due to the following reasons:
 
-## What rights you have over your data
+  * To facilitate our Service;
+  * To provide the Service on our behalf;
+  * To perform Service-related services; or
+  * To assist us in analyzing how our Service is used.
 
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-## Where we send your data
 
-Visitor comments may be checked through an automated spam detection service.
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Security**
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+**Links to Other Sites**
+
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+**Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+
+**Contact Us**
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to [contact us](https://www.mippin.com/contact-us/).
