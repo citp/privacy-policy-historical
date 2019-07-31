@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etradeasia.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322083139id_/http%3A//www.etradeasia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etradeasia.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731084147id_/https%3A//www.etradeasia.com/privacypolicy.html) for the most accurate reproduction.*
 
-# TradeAsia / Global B2B / Privacy Policy - Asian Manufacturers, Asian Suppliers - Asia, China, Taiwan, Trade Directory, Marketplace, Chinese Products, Taiwan Products, China Exporters, Taiwan Exporters
+# TradeAsia / Global B2B - Privacy & Cookie Policy
 
 This is the Privacy Policy governing your use of the e-TradeAsia.com Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and e-TradeAsia.com which by use of this Site you agree to accept. 
 
@@ -46,6 +46,46 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 Top
 
+**Cookies**
+
+_What are cookies?_
+
+Cookies is a small data of text files that the web browser stores on your hard drive. Cookies collect and store certain information which can be accessed by web servers. In addition, most major websites use cookies. Because cookies are necessary to facilitate browsing and to make it more user-friendly, and they do not damage your computer. Some cookies are extremely useful because they can improve your user experience when you return to a website you have already visited. Cookies will remember your preferences, will know how you use the website, and will adapt the content you are shown so that it is more relevant to your personal interests and needs. 
+
+**Use Cookies of on TradeAsia**
+
+TradeAsia may uses “cookies”. Cookies tell us which parts of our websites people have visited, help us measure the effectiveness of ads and web searches, and give us insights into user behavior so we can improve our communications and products. In addition, Cookies on this website that do not require your approval. 
+
+Cookies help us to arrange content to match your preferred interests more quickly. Also, we use cookies which are necessary to make navigating and visiting web sites user friendly. Moreover, cookies tell us which parts of our websites visitors have visited, help us measure the effectiveness of ads and web searches, and give us insights into user behavior so we can improve our services. 
+
+**Categories of Cookies**
+
+● Strictly Necessary Cookies 
+
+These cookies are essential to enable you to browse around our websites and use their features. 
+
+● Performance Cookies 
+
+These cookies collect information about how you use our websites. For example, which pages visitors go often. This data may be used to help optimize our websites and make them easier for you to navigate. These cookies don’t collect information that identifies you. All information these cookies collect is aggregated and therefore anonymous. 
+
+● Functionality Cookies 
+
+These cookies allow our websites to remember choices you make while browsing - for instance, user names, languages choices, and your location that you have already been entered. They may also be used to keep track of what featured products or videos have been viewed to avoid repetition. Also, these cookies collect anonymous information and cannot track your movements on other websites. 
+
+● Marketing Cookies 
+
+These cookies enable us and our carefully selected retail partners to deliver advertisements to you which match your interests by, for example, collecting information about products you have browsed or ordered on our website. In addition, they remember whether you have visited a website or not, and this information can be shared with other organizations such as advertisers. Cookies for improving group targeting and advertising will often be linked to site functionality provided by other organizations. 
+
+**Web Beacons**
+
+Some pages on our website may contain images known as "web beacons", some of which may be served by third parties. Beacons can be embedded in online content, videos, and emails, and can allow a server to read certain types of information from your device, know when you have viewed particular content or a particular email message, determine the time and date on which you viewed the beacon, and the IP address of your device. We and certain third parties use beacons for a variety of purposes, including to analyze the use of our Services and (in conjunction with cookies) to provide content and ads that are more relevant to you. 
+
+**How do I disable and prevent the use of Cookies?**
+
+You may restrict, block or delete the Cookies from this website at any time by changing the configuration of your browser following the steps indicated below. While settings are different in each browser, Cookies are normally configured in the "Preferences" or "Tools" menu. For further details on configuring Cookies in your browser, see the "Help" menu in the browser itself. 
+
+Please note, you can completely disable cookies in your browser at any time. It is important to note that if you change your settings and block certain cookies, you will not be able to take full advantage of some of the features of this site, and we may not be able to provide some of the features you previously chose to use. 
+
 **Changes to Privacy Policy**
 
 Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact e-TradeAsia.com in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that e-TradeAsia.com return and/or destroy all copies of all or part of your Collected Information in e-TradeAsia.com's possession. This Privacy Policy was last amended on June 6, 2006. 
@@ -54,4 +94,4 @@ Top
 
 **Correcting Your Information**
 
-You can access, view and edit your Member Information and Publishing Information through your Account with e-TradeAsia.com. To update or correct such information, please [click here](http://www.etradeasia.com/manager/). 
+You can access, view and edit your Member Information and Publishing Information through your Account with e-TradeAsia.com. To update or correct such information, please [click here](https://web.archive.org/manager). 
