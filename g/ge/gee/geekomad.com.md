@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekomad.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601095240id_/http%3A//www.geekomad.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekomad.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731211533id_/http%3A//www.geekomad.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
