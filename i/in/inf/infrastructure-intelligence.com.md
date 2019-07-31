@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infrastructure-intelligence.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620094608id_/http%3A//www.infrastructure-intelligence.com/website-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infrastructure-intelligence.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731130658id_/http%3A//www.infrastructure-intelligence.com/website-privacy-notice) for the most accurate reproduction.*
 
 # Website privacy notice | Infrastructure Intelligence
 
@@ -68,9 +68,9 @@ Our full details are: Victoria Street Capital Limited
 
 Full name of legal entity: Victoria Street Capital Limited 
 
-Name or title of data privacy manager: Anil Iyer
+Name or title of data privacy manager: Wendy Lasebikan
 
-Email address: [aiyer@acenet.co.uk](mailto:aiyer@acenet.co.uk)
+Email address: [wlasebikan@acenet.co.uk](mailto:wlasebikan@acenet.co.uk)
 
 Postal address: Alliance House, 12 Caxton Street London SW1H 0QL
 
