@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredreads.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629224648id_/http%3A//www.inspiredreads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredreads.com privacy policy that was archived on 2019-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190731110925id_/http%3A//www.inspiredreads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inspired Reads
 
