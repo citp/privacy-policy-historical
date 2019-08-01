@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquaticcommunity.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530115108id_/http%3A//www.aquaticcommunity.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquaticcommunity.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801061717id_/http%3A//www.aquaticcommunity.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # AquaticCommunity Privacy Policy
 
