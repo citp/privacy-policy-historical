@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602010833id_/http%3A//www.build-your-website.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802015851id_/http%3A//www.build-your-website.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
