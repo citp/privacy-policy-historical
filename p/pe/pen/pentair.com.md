@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pentair.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529184518id_/https%3A//www.pentair.com/en/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentair.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801092410id_/https%3A//www.pentair.com/en/privacy-notice.html) for the most accurate reproduction.*
 
 # Pentair Privacy Notice
 
@@ -18,14 +18,14 @@ Pentair values your privacy. This notice describes the personal information Pent
 
   * through websites operated by us, from which you are accessing this Privacy Notice (the “ **Websites** ”),
   * through the software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”),
-  * ·        through any of our Internet of Things connected or connectable devices (our “ **IoT Devices** ”), including our internet-connected water solution products,
+  * through any of our Internet of Things connected or connectable devices (our “ **IoT Devices** ”), including our internet-connected water solution products,
   * through our social media pages and apps that we control from which you are accessing this Privacy Notice  (collectively, our “ **Social Media Pages** ”),
   * through HTML-formatted email messages that we send to you that link to this Privacy Notice, and
   * through offline interactions you have with us.
 
 
 
-Collectively, we refer to the Websites, Apps, IoT Devices, Social Media Pages, emails and offline activities as the “ **Services**.” 
+Collectively, we refer to the Websites, Apps, IoT Devices, Social Media Pages, emails and offline activities as the “ **Services**.”
 
 For the purposes of this notice, “Pentair” refers to Pentair plc and its subsidiaries.
 
