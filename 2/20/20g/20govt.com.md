@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the 20govt.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630191940id_/http%3A//20govt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20govt.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801232847id_/http%3A//20govt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — 20Govt.com
 
 Employment News India [Home](http://20govt.com/) / Privacy Policy
-
-Privacy Policy
-
-1 (20%) 2 vote[s] 
 
 We at www.20govt.com are very serious about privacy of our visitors and readers. Any personal information provided by you including Name, Website, Email etc. will never be provided to anyone outside www.20govt.com. We collect your E-mail address if you want to subscribe to E-mail Updates. Proper information on unsubscribing is also provided in E-mails sent by us.
 
