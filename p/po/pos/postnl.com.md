@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postnl.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623112706id_/https%3A//www.postnl.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postnl.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801140428id_/https%3A//www.postnl.nl/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | PostNL
 
@@ -138,7 +138,7 @@ You are permitted to perform the following acts with the personal data we keep o
 ** You can view and update your data in the following ways:
 
   * If you hold a PostNL account, you will see what data we store on you. There are many details you can change on the spot.
-  * Please use [this form](https://www.postnl.nl/en/privacy-statement/request-or-update-personal-data/ "Request or update your personal data") to request or update your personal data. Alternatively, you can also object to the processing of your personal data.
+  * Please use [this form](https://web.archive.org/en/privacy-statement/request-or-update-personal-data/ "Inzageformulier persoonsgegevens") to request or update your personal data. Alternatively, you can also object to the processing of your personal data.
   * If you have no computer or do not wish to send an e-mail, please send a letter, enclosing a copy of your identity document (for example, a passport or driving licence). Please note: make sure your Citizen Service Number/Burgerservicenummer (if applicable) is invisible on the copy of your ID. We request that you also write down the date and the reason for sending us a copy. This is a way of preventing fraud. Please send your letter, along with a copy of your ID, to the following address:
 
 
@@ -157,5 +157,5 @@ This Privacy Statement applies to all businesses and services featuring the Post
 
 ## Do you have any questions about privacy?
 
-If you have any questions after reading this Privacy Statement about how we use your personal data, please contact our [Customer Service](https://web.archive.org/help-support/ "Help & Support") department or our Data Protection Officer: [fg@postnl.nl](mailto:fg@postnl.nl).   
+If you have any questions after reading this Privacy Statement about how we use your personal data, please contact our Customer Service department or our Data Protection Officer: [fg@postnl.nl](mailto:fg@postnl.nl).   
 Of course, we hope that we answer your privacy-related questions correctly. If you are nevertheless dissatisfied with our response, please submit a complaint to the Dutch Data Protection Authority (Autoriteit Persoonsgegevens).
