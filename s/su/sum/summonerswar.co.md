@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the summonerswar.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082715id_/http%3A//summonerswar.wpengine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summonerswar.co privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801234624id_/https%3A//summonerswar.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Summoners War Ratings Guide
+# Privacy Policy - Summoners War Ratings Guide
 
 This Privacy Policy governs the manner in which our fan site collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://summonerswar.co website (“Site”). This privacy policy applies to the Site and all products and services offered by our site.
 
@@ -56,6 +56,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-admin@summonerswar.co
+[[email protected]](https://summonerswar.co/cdn-cgi/l/email-protection)
 
 This document was last updated on March 1, 2015
