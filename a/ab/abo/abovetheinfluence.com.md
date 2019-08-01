@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovetheinfluence.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129031354id_/https%3A//abovetheinfluence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovetheinfluence.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801213134id_/https%3A//abovetheinfluence.com/privacy) for the most accurate reproduction.*
 
 # Above the Influence
 
