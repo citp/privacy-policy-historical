@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptopros.biz privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601090130id_/http%3A//cryptopros.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptopros.biz privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801143019id_/http%3A//cryptopros.biz/privacy.php) for the most accurate reproduction.*
 
 # Crypto Pros » Privacy Policy
 
