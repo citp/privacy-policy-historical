@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the video-post.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205423id_/http%3A//www.video-post.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video-post.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801180610id_/http%3A//www.video-post.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
