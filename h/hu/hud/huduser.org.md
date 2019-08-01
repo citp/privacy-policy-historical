@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huduser.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214114437id_/http%3A//portal.hud.gov/hudportal/HUD%3Fsrc%3D/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huduser.org privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801192300id_/http%3A//portal.hud.gov/hudportal/HUD%3Fsrc%3D/privacy_policy) for the most accurate reproduction.*
 
 # HUD.gov / U.S. Department of Housing and Urban Development (HUD)
 
