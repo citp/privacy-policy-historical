@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503205638id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801150536id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
 
 # Coins.ph | Privacy Policy | Data collection and Use Practices
 
