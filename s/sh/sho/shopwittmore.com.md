@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopwittmore.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912031151id_/https%3A//shopwittmore.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwittmore.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801113656id_/https%3A//shopwittmore.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – WITTMORE
 
