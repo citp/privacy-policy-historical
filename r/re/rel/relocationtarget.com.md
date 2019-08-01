@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relocationtarget.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616172907id_/http%3A//www.relocationtarget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relocationtarget.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801063219id_/http%3A//www.relocationtarget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Relocation Target
 
