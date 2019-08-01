@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lomography.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407112334id_/https%3A//www.lomography.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lomography.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801110906id_/https%3A//www.lomography.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Lomography
 
