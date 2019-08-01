@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acimacredit.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421075540id_/https%3A//www.acimacredit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acimacredit.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801051921id_/https%3A//www.acimacredit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Notice - Acima Credit
 
