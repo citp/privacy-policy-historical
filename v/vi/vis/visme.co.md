@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visme.co privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628105141id_/https%3A//www.visme.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visme.co privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801204709id_/https%3A//www.visme.co/privacy) for the most accurate reproduction.*
 
 # Visme Privacy Policy | Visme
 
@@ -203,7 +203,7 @@ If we do, and it’s wrong, you can demand we correct it.
 10.5 In some circumstances you have the right to the erasure of your personal data without undue delay, and at the latest within one month of receiving your valid request. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully process. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims.
 
   * (a) We provide users with options to access and fully delete all of the data associated with their accounts, subject to any exclusions that may apply. Use the guide [below, or go to <https://support.visme.co/?s=delete> to use the self-serve deletion feature under your Account > Account Settings > Delete Your Account].
-  * (b) How to Request Deletion of Your Account.  We recommend using this method only if you cannot delete your account yourself by logging in and using the instructions in section 9.5 a [above]. We can only delete data for people who can reasonably prove they are owners of the data in question. We will need to verify your ownership of the data. To submit this request, contact our support team by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#770402070718050337011e041a12591418) and make sure to provide your Full Name, your Username associated with your account and your account#. 
+  * (b) How to Request Deletion of Your Account.  We recommend using this method only if you cannot delete your account yourself by logging in and using the instructions in section 9.5 a [above]. We can only delete data for people who can reasonably prove they are owners of the data in question. We will need to verify your ownership of the data. To submit this request, contact our support team by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdcec8cdcdd2cfc9fdcbd4ced0d893ded2) and make sure to provide your Full Name, your Username associated with your account and your account#. 
 
 
 
@@ -252,4 +252,4 @@ We will usually keep your data on record, until you tell us to delete it.
 
 **12.4 for K-12.**  In addition to those rights as outlined in Section 12 above, we will delete a student’s Covered Information if the school or district requests deletion of data under the control of the school or district. 
 
-For additional inquiries about the privacy of your information, you can contact us by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f5c5a5f5f405d5b6f59465c424a014c40).
+For additional inquiries about the privacy of your information, you can contact us by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#32414742425d404672445b415f571c515d).
