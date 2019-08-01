@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapbox.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413002029id_/https%3A//www.mapbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapbox.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801203802id_/https%3A//www.mapbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Mapbox
 
@@ -100,9 +100,9 @@ If we have a good faith belief that there is an emergency involving the danger o
 
 ### U.S.-EU Privacy Shield and Swiss-U.S. Privacy Shield
 
-We comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/welcome>.
+We (Mapbox, Inc. and Mapbox International, Inc.) comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/welcome>.
 
-In compliance with the Privacy Shield Principles, we are committed to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us using the information in the "Contact Us" section below. We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+In compliance with the Privacy Shield Principles, we are committed to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us using the information in the "Contact Us" section below. We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
 
 Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. Mapbox is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
@@ -118,6 +118,7 @@ We'd love to hear any questions, concerns or feedback you might have about this 
 
 ### Changelog
 
+  * June 19, 2019: Minor changes to the privacy shield section.
   * March 4, 2019: Updates to SDK collection provisions.
   * February 21, 2019: Added language providing more clarity on our right to use information in the event of a dispute under the "Rare and Limited Disclosure" section. 
   * November 16, 2018: Added language describing information practices specific to Vision SDK. 
