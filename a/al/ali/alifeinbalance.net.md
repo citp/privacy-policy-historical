@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alifeinbalance.net privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628082457id_/http%3A//www.alifeinbalance.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alifeinbalance.net privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801141027id_/http%3A//www.alifeinbalance.net/about/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - A Life in Balance by Barb Hoyer
 
