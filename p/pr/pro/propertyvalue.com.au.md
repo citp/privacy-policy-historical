@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407000335id_/http%3A//www.corelogic.com.au/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy-policy) for the most accurate reproduction.*
 
 # CoreLogic Privacy Policy | CoreLogic
 
@@ -26,32 +26,32 @@ CoreLogic maintains a policy of strict confidence concerning your (you, your) pe
 ### Australian Websites
 
   * [www.corelogic.com.au](http://www.corelogic.com.au/)
-  * [www.propertyvalue.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.propertyvalue.com.au)
-  * [www.cityscopeonline.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.cityscopeonline.com.au)
+  * [www.propertyvalue.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.propertyvalue.com.au)
+  * [www.cityscopeonline.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.cityscopeonline.com.au)
   * [vx.valex.com.au ](https://vx.valex.com.au/)
-  * [evrui.corelogic.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/evrui.corelogic.com.au)
-  * [vms.corelogic.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/vms.corelogic.com.au)
-  * [vis.corelogic.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/vis.corelogic.com.au)
-  * [www.residex.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.residex.com.au)
-  * [www.onthehouse.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.onthehouse.com.au)
-  * [www.cordellconnect.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.cordellconnect.com.au)
+  * [evrui.corelogic.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/evrui.corelogic.com.au)
+  * [vms.corelogic.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/vms.corelogic.com.au)
+  * [vis.corelogic.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/vis.corelogic.com.au)
+  * [www.residex.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.residex.com.au)
+  * [www.onthehouse.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.onthehouse.com.au)
+  * [www.cordellconnect.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.cordellconnect.com.au)
 
 
 
 ### NZ Websites
 
-  * [www.corelogic.co.nz](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.corelogic.co.nz)
-  * [www.e-valuate.co.nz](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.e-valuate.co.nz)
-  * [www.addressright.co.nz](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.addressright.co.nz)
-  * [www.property-guru.co.nz](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.property-guru.co.nz)
+  * [www.corelogic.co.nz](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.corelogic.co.nz)
+  * [www.e-valuate.co.nz](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.e-valuate.co.nz)
+  * [www.addressright.co.nz](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.addressright.co.nz)
+  * [www.property-guru.co.nz](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.property-guru.co.nz)
   * <https://access-api.corelogic.asia/access/loginPage.html>
   * <http://emap.co.nz/emap>
   * [https://propertyview.corelogic.co.nz](https://propertyview.corelogic.co.nz/)
   * [http://platinum.cordell.co.nz](http://platinum.cordell.co.nz/)
-  * [www.cityscopeonline.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.cityscopeonline.com.au)
-  * [www.e-valuate.co.nz](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.e-valuate.co.nz)
-  * [www.qv.co.nz](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.qv.co.nz)
-  * [www.terranet.co.nz/](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.terranet.co.nz/)  
+  * [www.cityscopeonline.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.cityscopeonline.com.au)
+  * [www.e-valuate.co.nz](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.e-valuate.co.nz)
+  * [www.qv.co.nz](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.qv.co.nz)
+  * [www.terranet.co.nz/](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.terranet.co.nz/)  
  
 
 
@@ -70,8 +70,8 @@ This Privacy Policy applies in respect of information provided to us by persons 
 
 If you have any further questions or if you wish to receive more information on our information practices and Privacy Policy, please contact our Privacy Officer by email:
 
-  * Australia:  [privacy@corelogic.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/privacy@corelogic.com.au)
-  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
+  * Australia:  [privacy@corelogic.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au)
+  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
 
 
 
@@ -271,8 +271,8 @@ Where we have obtained your consent, we may also send marketing messages on beha
 **_Opt Out_**  
 You can opt out of receiving marketing material from us at any time by contacting us by email: 
 
-  * Australia:  [privacy@corelogic.com.au ](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/privacy@corelogic.com.au%C2%A0)
-  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
+  * Australia:  [privacy@corelogic.com.au ](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au%C2%A0)
+  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
 
 
 
@@ -289,8 +289,8 @@ Your personal information may be disclosed to our subscribers for the purposes o
 
 If you wish to be removed from our Marketing Direct database, please contact our Privacy Officer by email at:
 
-  * Australia:  [privacy@corelogic.com.au ](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/privacy@corelogic.com.au%C2%A0)
-  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
+  * Australia:  [privacy@corelogic.com.au ](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au%C2%A0)
+  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
 
 
 
@@ -364,7 +364,7 @@ We may use third party analytics service providers, including but not limited to
 
 Your IP address and other information will be collected by automated means to report on your use of the services. These third-parties use cookies, web beacons, pixels, embedded scripts and other, similar technologies to automatically collect information about your Website use, report Website trends, and help us compile Website metrics.
 
-You can learn about Google’s specific practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/www.google.com/policies/privacy/partners/). For more information about how Google Analytics uses your information please click here.
+You can learn about Google’s specific practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/www.google.com/policies/privacy/partners/). For more information about how Google Analytics uses your information please click here.
 
 **_Opting out from Cookies and analytics_**  
 You may withdraw or change your cookies consent at any time by modifying your browser settings to accept or decline cookies. You may also go to www.allaboutcookies.org or www.youronlinechoices.eu if you are in Europe, or to www.aboutads.info/choices if you are anywhere else for instructions on how to disable cookies. 
@@ -407,7 +407,7 @@ If we do not adequately answer your concerns, you have the right to make a compl
 If you have any questions relating to this Privacy Policy or your personal information, please contact our Privacy Officer in your jurisdiction as follows:
 
 **Australia**  
- **email:**[privacy@corelogic.com.au](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/privacy@corelogic.com.au)
+ **email:**[privacy@corelogic.com.au](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au)
 
 **Mailing address:  **  
 CoreLogic  
@@ -418,7 +418,7 @@ Australia
 **Telephone:** 1300 734 318 
 
 **New Zealand**  
- **email:**[privacy@corelogic.co.nz](https://web.archive.org/web/20190330125838id_/https://www.corelogic.com.au/about-us/privacy@corelogic.co.nz)
+ **email:**[privacy@corelogic.co.nz](https://web.archive.org/web/20190801130900id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz)
 
 Mailing address:   
 CoreLogic NZ Limited  
