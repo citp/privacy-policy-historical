@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareist.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108033621id_/http%3A//www.shareist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareist.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801101008id_/http%3A//www.shareist.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
