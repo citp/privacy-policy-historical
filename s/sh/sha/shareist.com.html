@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shareist.com privacy policy that was archived on 2019-01-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190108033621id_/http%3A//www.shareist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shareist.com privacy policy that was archived on 2019-08-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190801101008id_/http%3A//www.shareist.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
@@ -22,7 +22,7 @@
 					event.stopImmediatePropagation();
 					var link=$(this);
 					var email=link.closest('.signup_form').find('input[name=signup_email]').val();
-					var regex=/^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+					var regex=/^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,63})+$/;
 					if(email=='' || regex.test(email)){
 						var form=$('<form></form>').attr("method","post").attr("action",link.attr('href'));
 						form.append($('<input></input>').attr("type","hidden").attr("name","signup_email").attr("value",email));
