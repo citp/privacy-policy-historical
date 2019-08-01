@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gramha.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412041503id_/http%3A//gramha.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gramha.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802001656id_/https%3A//gramha.net/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy gramha.com
+# Privacy Policy Gramha.net
 
-What personal information do we collect from the people that visit our website gramha.com?
+What personal information do we collect from the people that visit our website Gramha.net?
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your or other details to help you with your experience.
 
