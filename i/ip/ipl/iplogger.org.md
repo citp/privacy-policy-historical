@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplogger.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629042351id_/https%3A//iplogger.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplogger.org privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802002818id_/https%3A//iplogger.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
