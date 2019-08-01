@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428064739id_/https%3A//help.sportsinteraction.com/hc/en-us/articles/360009421773) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801202001id_/https%3A//help.sportsinteraction.com/hc/en-us/articles/360009421773) for the most accurate reproduction.*
 
 # Privacy Policy – Help Center
 
