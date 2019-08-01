@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketinginsidergroup.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200957id_/https%3A//marketinginsidergroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketinginsidergroup.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802015455id_/https%3A//marketinginsidergroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing Insider Group
 
@@ -240,7 +240,7 @@ We will not store or collect your payment card details. That information is prov
 
  _ **The payment processors we work with are: Stripe**_
 
-Their Privacy Policy can be viewed [here](http://%3Chttps//stripe.com/us/privacy%3E).
+Their Privacy Policy can be viewed here.
 
  **Links To Other Sites**
 
