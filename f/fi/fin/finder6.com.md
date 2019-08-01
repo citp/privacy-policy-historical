@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finder6.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601103915id_/http%3A//www.finder6.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finder6.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802003448id_/http%3A//www.finder6.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Entertainment News, Photos & Videos - Calgary, Edmonton, Toronto, Canada
 
