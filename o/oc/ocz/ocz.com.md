@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocz.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224214238id_/https%3A//ssd.toshiba-memory.com/en-amer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocz.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801072739id_/https%3A//ssd.toshiba-memory.com/en-amer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
