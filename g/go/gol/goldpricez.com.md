@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldpricez.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613163317id_/http%3A//goldpricez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldpricez.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801165219id_/http%3A//goldpricez.com/privacy-policy) for the most accurate reproduction.*
 
 # The Privacy Policy - Gold Price Z
 
