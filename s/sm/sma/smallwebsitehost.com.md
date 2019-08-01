@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallwebsitehost.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601215745id_/http%3A//www.smallwebsitehost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallwebsitehost.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801235548id_/http%3A//www.smallwebsitehost.com/privacy-policy) for the most accurate reproduction.*
 
 # Small Website Hosting – Internet Marketing and web development – Privacy Policy
 
