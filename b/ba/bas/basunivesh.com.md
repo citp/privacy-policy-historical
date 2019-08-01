@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basunivesh.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118061644id_/https%3A//www.basunivesh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basunivesh.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801121947id_/https%3A//www.basunivesh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
