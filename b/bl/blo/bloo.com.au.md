@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloo.com.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630121208id_/https%3A//bloo.com.au/_/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloo.com.au privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801122224id_/http%3A//bloo.com.au/_/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
