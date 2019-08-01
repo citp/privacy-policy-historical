@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rayconglobal.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406111308id_/https%3A//rayconglobal.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayconglobal.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801203159id_/https%3A//rayconglobal.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Raycon
 
@@ -21,7 +21,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 **How do I withdraw my consent?**  
 If after you opt-in to marketing and promotional communications, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [unsubscribe@rayconglobal.com](mailto:unsubscribe@iconqcorp.com) or mailing us at:
 
-Raycon Corporation  
+Raycon Global, Inc.  
 1115 Broadway, Suite 12, New York, NY 10001
 
 #### Section 3- Disclosure
