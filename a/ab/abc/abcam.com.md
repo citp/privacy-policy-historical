@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425014716id_/https%3A//www.abcam.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801091914id_/https%3A//www.abcam.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Abcam's Privacy Policy | Abcam
 
