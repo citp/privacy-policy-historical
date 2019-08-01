@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadvocates.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528113422id_/https%3A//www.theadvocates.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadvocates.org privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801151755id_/https%3A//www.theadvocates.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Advocates for Self-Government
 
