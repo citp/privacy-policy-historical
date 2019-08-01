@@ -1,140 +1,127 @@
-> *The following text is extracted and transformed from the armis.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923151550id_/https%3A//www.armis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armis.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801160302id_/https%3A//www.armis.com/privacy-policy) for the most accurate reproduction.*
 
 # armis.com Privacy Policy • armis
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+### Overview
 
-**What personal information do we collect from the people that visit our blog, website or app?** **  
-** When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
+This privacy policy describes how Armis, and associated entities, collect and use personal information that is gathered from our website and customers.
 
-**When do we collect information?** **  
-** We collect information from you when you register on our site, fill out a form, Use Live Chat, Open a Support Ticket or enter information on our site.
+### Website Visitors
 
-**How do we use your information?** **  
-** We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Visitors to our website may elect to provide personal information in order to obtain more information about our products and services. Such information may include:
+
+  * Name
+  * E-mail Address
+  * Phone Number
+  * Company Name
+  * Country
+
+
+
+We collect information from you when you register on our site, fill out a form, use Live Chat, open a Support Ticket or enter information on our site.
+
+### How is Personal Information provided to website used?
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
   * To allow us to better service you in responding to your customer service requests.
   * To administer a contest, promotion, survey or other site feature.
   * To quickly process your transactions.
   * To send periodic emails regarding your order or other products and services.
-  * To follow up with them after correspondence (live chat, email or phone inquiries)
+  * To follow up with you after correspondence (live chat, email or phone inquiries)
 
 
 
-**How do we protect your information?** **  
-** We do not use vulnerability scanning and/or scanning to PCI standards.
+### Collection and Use of Non-Personal Information on Armis website
 
-We only provide articles and information. We never ask for credit card numbers.
+We may also collect data in a form that, on its own, does not allow us to identify or contact a specific individual. We may use, transfer or disclose non-personal identifiable for any purpose. The following are examples of non-personal information that we collect and how we may use it:
 
-We use regular Malware Scanning.
-
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
-
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
-
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
-
-**Do we use ‘cookies’?** **  
-** Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future
-
-**We use cookies to:**
-
-  * Keep track of advertisements.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+  * When you visit our websites, we may collect technical and navigational information, such as web browser type, Internet protocol address, language, location, time zone, unique device/browser identifier, and URLs requested so that we may better understand visitor behavior and improve our products, services, and content.
+  * We may also collect information regarding specific activities that you perform on our websites. This information is used to help us improve the content and usability of our websites. This information is aggregated and we consider aggregated information as non-personal for the purposes of this privacy policy.
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+**Cookies and Other Technologies on Armis website**
 
-If you turn cookies off, some of the features that make your site experience more efficient may not function properly. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
+Armis websites, products, services, and content use “cookies” and other technologies such as web beacons and pixel tags. These technologies may be used to keep track of advertisements and to compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-**International Transfer of Information**
+We may use this information to analyze trends, administer our website, and to learn about user behavior. If you turn cookies off, some of the features that make your site experience more efficient may not function properly.
 
-Please be aware that information you provide to us or we obtain as a result of your use of the Site or the Software may be processed and transferred all countries in which Armis has offices and operations and be subject to applicable law. This information may also be processed by staff working for us or for one of our suppliers. The privacy and data protection laws in such countries may not be equivalent to such laws in your country of residence. By using our website or any of the Software, or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in countries. ** **
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. It’s also important to note that we do not allow third-party behavioral tracking
 
-**_Personal Information_**
+### Cookies and Other Technologies on Armis website
 
-Armis may share Personal Information under the following circumstances:
+Armis websites, products, services, and content use “cookies” and other technologies such as web beacons and pixel tags. These technologies may be used to keep track of advertisements and to compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-  * In the course of operating our business, it may be necessary or appropriate for us to provide access to your Personal Information to others such as our service providers, contractors and select vendors so that we can operate the Armis Service and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this Privacy Policy and that limit others’ use or disclosure of this Personal Information.
-  * We may share your Personal Information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights, to defend against legal claims or in such circumstances where, in our judgment, disclosure is required or appropriate in accordance with applicable laws and regulations.
-  * We may share your Personal Information if we believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of service or as otherwise required by law.
-  * As we continue to develop our business, we may sell all or part of our business. In such transactions, Personal Information collected from users is generally one of the business assets that will be transferred. The transferred Personal Information will remain subject to this Privacy Policy or subsequent policies to which you have consented.
+We may use this information to analyze trends, administer our website, and to learn about user behavior. If you turn cookies off, some of the features that make your site experience more efficient may not function properly.
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. It’s also important to note that we do not allow third-party behavioral tracking
+
+### Armis Customer Deployments
+
+Armis deployments capture device usage in customer environments including running applications, network services, and web services accessed. Customers provide this usage data to Armis, which may contain personal information that includes:
+
+  * IP Addresses
+  * Username
+  * Mac Addresses
+  * Location
 
 
 
-**Third-party links** **  
-** Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Armis uses this information to discover, monitor and provide visibility to all devices in our customer environments. Armis fully identify all managed, unmanaged, and IoT devices – from traditional devices like laptop computers, smart phones to smart devices like TVs, webcams, printers, HVAC systems, medical devices and more. With these devices properly identified Armis is able to take a comprehensive approach to:
 
-**Google**
+  * Provide complete IoT or asset inventory
+  * Enable devices to safely connect to the corporate network
+  * Secure all outside connections to corporate assets
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+
+### Transfer to Third-Parties
+
+Information provided to us or obtained as a result of the use of the website or the Software may be shared with third-party service providers that are engaged to assist us in managing the processes required to provide these services. Any engagement of a third-party service provider will be governed by appropriate contractual requirements prohibiting the use of your information for any purposes beyond those specifically directed by Armis and requiring that they ensure sufficient administrative and technical security mechanisms are in place to prevent your information from being improperly used, disclosed, or accessed.
+
+For individuals located in the European Economic Area (“EEA”) or Switzerland, when transfers to third parties outside of the EEA or Switzerland occur, Armis will put sufficient protections in place to ensure compliance with the applicable legal requirements, such as use of European Union (“EU”) Model Contracts, or language requiring adherence to the EU-U.S. or Swiss-U.S. Privacy Shield, General Data Protection Regulation (“GDPR”), or other such protocols as may be in place from time to time.
+
+We may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security, law enforcement, or data privacy requirements.
+
+### Access to Personal Information
+
+The amount of personal information that we require you to supply in order to use our services will be limited to that which is relevant to supply such services.
+
+You have the right to request access to, withdraw your consent to the use and processing of, and request the correction of inaccuracies or erasure of your information that we maintain about you, subject to our obligations to maintain your information under applicable laws. We may limit or deny requests that interfere with our legitimate interests, or charge reasonable fees for access, except as prohibited by applicable law.
+
+Armis will only store personally identifiable data about you for as long as it’s reasonably required to fulfill the purposes under which it was first provided by you unless a longer retention period is required or permitted by law.
+
+You may make review, update access, correction, or deletion requests by contacting us at [privacy@armis.com](mailto:privacy@armis.com). Where data is controlled by another entity, customers may be redirected to that company’s privacy contact for resolution.
+
+### Protection of Personal Information
+
+To safeguard this information Armis uses technical, administrative and physical data protection controls including firewall barriers, data encryption techniques and authentication procedures, among others.
+
+Armis retains personal information for as long as it is useful in accordance with all applicable privacy and security regulations and all information may be deleted upon request to privacy@armis.com.
+
+### Third-Party Sites and Services
+
+Our websites and content may contain links to other websites. As such, Armis does not endorse and is not responsible for the privacy practices or the content of these third-party websites. We exercise no control over how your information is stored, maintained or displayed by third parties or on third-party sites.
+
+**Google  
+**Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+We have implemented the following:
+
+  * Remarketing via Google Analytics
+
+
 
 We do not use Google AdSense Advertising on our website.
 
-**We have implemented the following:**
-
-  * Remarketing via Google Analytics
-  * Demographics and Interests Reporting
-
-
-
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
-
-**Opting out:**  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-**California Online Privacy Protection Act** **  
-** CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
-
-**According to CalOPPA, we agree to the following:**
-
-  * Users can visit our site anonymously.
-  * Once this privacy policy is created, we will add a link to it on our homepage or as a minimum, on the first significant page after entering our website.
-  * Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
-
-
-
-You will be notified of any Privacy Policy changes:
-
-  * On our Privacy Policy Page
-
-
-
-Can change your personal information:
-
-  * By emailing us
-
-
-
-**How does our site handle Do Not Track signals?** **  
-** We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-**Does our site allow third-party behavioral tracking?** **  
-** It’s also important to note that we do not allow third-party behavioral tracking
-
-**COPPA (Children Online Privacy Protection Act)** **  
-** When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under the age of 13 years old.
-
-**Fair Information Practices** **  
-** The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:** **  
-** We will notify you via email
-
-  * Within 7 business days
-
-
-
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
+### CAN SPAM Act
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**
+We collect your email address in order to:
 
   * Send information, respond to inquiries, and/or other requests or questions
   * Process orders and to send information and updates pertaining to orders.
@@ -143,7 +130,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-**To be in accordance with CANSPAM, we agree to the following:**
+To be in accordance with CANSPAM, we agree to the following:
 
   * Not use false or misleading subjects or email addresses.
   * Identify the message as an advertisement in some reasonable way.
@@ -154,23 +141,38 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-**If at any time you would like to unsubscribe from receiving future emails, you do the following:**
+If at any time you would like to unsubscribe from receiving future emails, you do the following:
 
   * Follow the instructions at the bottom of each email.
-  * Unsubscribe from this link – <http://response.armis.com/hs/manage-preferences/unsubscribe-simple>
+  * Unsubscribe from this link – <https://response.armis.com/hs/manage-preferences/unsubscribe-simple>
 
 
 
-and we will promptly remove you from  **ALL**  correspondence.
+and we will promptly remove you from **ALL** correspondence.
 
-**Contacting Us  
-**If there are any questions regarding this privacy policy, you may contact us using the information below.
+### California Online Privacy Protection Act
 
-armis.com
+With regard to CalOPPA, Armis agrees to the following:
 
-431 Florence St.  
-Palo Alto, CA 94301  
-USA  
-[support@armis.com](mailto:support@armis.com)
+  * Users can visit our site anonymously.
+  * This privacy policy is accessible publicly our website.
+  * Our Privacy Policy link includes the word ‘Privacy’.
+  * You will be notified of any Privacy Policy changes on this Privacy Policy page.
 
-###### Last Edited on 2017-05-18
+
+
+### Children
+
+The Service is not directed to children. We do not knowingly collect personally identifiable information from children. If you, as a parent or guardian, become aware that your child has provided us with Personal Information without your consent, please contact us. If we become aware that a user is under the age of 13 and has provided us with Personal Information without verifiable parental consent, we will delete such information from our files.
+
+### Notifications
+
+Should a data breach occur, you will be notified via email according to regulatory requirements.
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+### Privacy Changes and Questions
+
+Armis may update its Privacy policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+Last Updated:  **July 10, 2019**
