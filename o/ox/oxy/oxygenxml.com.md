@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516105858id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801063258id_/https%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-(last updated May 2018)
+(last updated June 2019)
 
 This Privacy Policy sets out how Syncro Soft SRL ("Syncro","we") collects, uses and protects Your Personal Data (as defined below) that you provide when you visit our websites ("Sites") and when you use our software products ("Products") and services ("Services").
 
@@ -126,6 +126,10 @@ The Sites, the Products, and the Services are not intended for use by minors. Sy
 ## Links to Third Party Websites
 
 Syncro websites may contain links to other websites, which are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these websites may collect information about you that will be used in accordance with their privacy policy, which may differ from ours. We encourage you to ask questions before you disclose any personal information to others.
+
+## "Do Not Track" Signals under the California Online Protection Act (CalOPPA)
+
+Do Not Track (“DNT”) is a privacy setting in your web browsers that enables you to opt out of tracking by websites and online services. When you activate DNT, the browser will send a message requesting that the website or online service not track you. Currently, our website does not recognize DNT signals. Instead, information collection and sharing practices, as well as the choices we provide you, will continue to operate as described in this Privacy Policy, regardless of whether a DNT signal is received. 
 
 ## Data Security
 
