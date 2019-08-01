@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the art21.org privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501220906id_/https%3A//art21.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the art21.org privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801214449id_/https%3A//art21.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Art21
 
