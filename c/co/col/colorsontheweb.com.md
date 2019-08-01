@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorsontheweb.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630190549id_/http%3A//www.colorsontheweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorsontheweb.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801104146id_/http%3A//www.colorsontheweb.com/privacy) for the most accurate reproduction.*
 
 # Colors on the Web > Home
 
