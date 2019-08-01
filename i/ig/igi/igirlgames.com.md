@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igirlgames.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129134606id_/https%3A//www.igirlgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igirlgames.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801090658id_/https%3A//igirlgames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Girl Games
+# Privacy Policy | Play Fun Girl Games For Girls
 
 ## Who we are
 
-Our website address is: http://www.igirlgames.com/t.
+Our website address is: http://www.igirlgames.com/.
 
 ## What personal data we collect and why we collect it
 
