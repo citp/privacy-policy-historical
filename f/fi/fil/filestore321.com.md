@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filestore321.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616220533id_/http%3A//filestore321.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filestore321.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801181253id_/http%3A//filestore321.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
