@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologyinforms.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511084111id_/http%3A//www.technologyinforms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyinforms.com privacy policy that was archived on 2019-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190801033536id_/http%3A//technologyinforms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # TechnologyInforms.com get the latest Technology News: breaking news, developments trends and analysis on computing, the web, blogs, games, hardware, apps.
 
