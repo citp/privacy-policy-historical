@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justagirlandherblog.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330221600id_/https%3A//justagirlandherblog.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justagirlandherblog.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803001232id_/https%3A//justagirlandherblog.com/disclosure) for the most accurate reproduction.*
 
-# Privacy Policy & Disclosures - Just a Girl and Her Blog
+# Privacy Policy & Disclosures | Abby Lawson
 
 **Last Updated: May 2018**
 
@@ -15,7 +15,7 @@ Name of legal entity: Twenty Three Publishing, LLC
 Email address: hello@justagirlandherblog.com
 
 Mailing address: 4017 Washington Road, PMB 1400, McMurray, PA 15317  
-**  
+ **  
 PERSONAL INFORMATION WE COLLECT**
 
 When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site.
@@ -34,7 +34,7 @@ We also collect communication data that includes any communication that you sen
 
 We may use this data to deliver relevant website content and advertisements to you and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests.
 
-**SENSITIVE DATA**
+ **SENSITIVE DATA**
 
 We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race, ethnicity, religion, political affiliations, or sexual orientation.
 
@@ -60,7 +60,7 @@ We have put in place security measures to prevent your personal data from being 
 
 We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-**YOUR RIGHTS**
+ **YOUR RIGHTS**
 
 Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent. If you wish to exercise these rights please email us at hello@justagirlandherblog.com.
 
@@ -68,21 +68,21 @@ If you are a European resident, you have the right to access personal informatio
 
 Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-**CHANGES**
+ **CHANGES**
 
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-**CONTACT US**
+ **CONTACT US**
 
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at hello@justagirlandherblog.com or by mail using the details provided below:
 
 4017 Washington Road, PMB 1400, McMurray, PA, 15317, United States
 
-**COMMENT POLICY**
+ **COMMENT POLICY**
 
 Two words: Be nice. As people, and women especially, we already spend too much time tearing each other down and competing with one another. This is not the place for harsh criticisms or negativity. We are in this together. We’re on the same team! And while I welcome ideas from readers of all walks of life, I simply ask that those ideas be expressed with respect for one another and a little (or, if the situation warrants, BIG) drop of grace.
 
-#### **AFFILIATE DISCLAIMER**
+####  **AFFILIATE DISCLAIMER**
 
 Some of the sections of this site will allow you to purchase different products and services online provided by other merchants, and not us. Some of the links that we post on our site are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission.*
 
@@ -90,9 +90,9 @@ We are not responsible for the quality, accuracy, timeliness, reliability or any
 
 We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
-_*Disclosed in accordance with the Federal Trade Commission’s 16 CFR, Part 255: “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”_
+ _*Disclosed in accordance with the Federal Trade Commission’s 16 CFR, Part 255: “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”_
 
-**ADVERTISING PRIVACY STATEMENT**
+ **ADVERTISING PRIVACY STATEMENT**
 
 This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
@@ -100,6 +100,6 @@ A cookie is a file containing an identifier (a string of letters and numbers) th
 
 By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-_For European Economic Area Residents_
+ _For European Economic Area Residents_
 
 If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at 4017 Washington Road, PMB 1400, McMurray, PA 15317 ** ** and contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
