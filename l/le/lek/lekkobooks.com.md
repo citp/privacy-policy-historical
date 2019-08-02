@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lekkobooks.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602175522id_/http%3A//www.lekkobooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lekkobooks.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802113247id_/http%3A//www.lekkobooks.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY - lekkobooks.com
 
