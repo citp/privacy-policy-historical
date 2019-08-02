@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmine.io privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624005422id_/https%3A//bigmine.io/docs/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmine.io privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803003616id_/https%3A//bigmine.io/docs/privacypolicy) for the most accurate reproduction.*
 
 # BIGMINE.io Docs
 
