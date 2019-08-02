@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628043353id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802054855id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy
 
