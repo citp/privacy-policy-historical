@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329120409id_/https%3A//utah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802185218id_/https%3A//utah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Utah.com
 
