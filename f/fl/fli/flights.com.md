@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602072036id_/http%3A//www.flights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802100404id_/https%3A//www.flights.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Flights.com
 
