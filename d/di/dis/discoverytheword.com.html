@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discoverytheword.com privacy policy that was archived on 2019-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190623201231id_/http%3A//discoverytheword.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discoverytheword.com privacy policy that was archived on 2019-08-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190802154359id_/http%3A//discoverytheword.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" async-hide"><head>
 		<meta charset="UTF-8">
@@ -24,7 +24,7 @@
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="DiscoveryTheWord » Feed" href="http://discoverytheword.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="DiscoveryTheWord » Comments Feed" href="http://discoverytheword.com/comments/feed/">
-<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
 					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
 			</script><link rel="stylesheet" id="boombox-icomoon-style-css" href="http://discoverytheword.com/wp-content/themes/boombox/fonts/icon-fonts/icomoon/icons.min.css?ver=1.8.0" type="text/css" media="all">
 <link rel="stylesheet" id="boombox-primary-style-css" href="http://discoverytheword.com/wp-content/themes/boombox/css/style.min.css?ver=1.8.0" type="text/css" media="all">
@@ -726,7 +726,23 @@
 		var advadsCfpAd = function( adID ){
 			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
 		};
-		</script><link rel="icon" href="http://discoverytheword.com/wp-content/uploads/2017/05/Favicon.png" sizes="32x32">
+		</script><!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '632460557237782');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=632460557237782&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><link rel="icon" href="http://discoverytheword.com/wp-content/uploads/2017/05/Favicon.png" sizes="32x32">
 <link rel="icon" href="http://discoverytheword.com/wp-content/uploads/2017/05/Favicon.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="http://discoverytheword.com/wp-content/uploads/2017/05/Favicon.png">
 <meta name="msapplication-TileImage" content="http://discoverytheword.com/wp-content/uploads/2017/05/Favicon.png">
@@ -879,6 +895,7 @@ margin: 0 10px 10px 0;
 <script>
 var url_params = {};
 function updateParameter(param_name) {
+	try{
     url_params[param_name] = 'unknown';
     if ("undefined" != typeof Storage) {
         var e = window.sessionStorage.getItem(param_name);
@@ -889,10 +906,15 @@ function updateParameter(param_name) {
             url_params[param_name] = o > i ? document.location.href.substring(i, o) : document.location.href.substr(i), window.sessionStorage.setItem(param_name, url_params[param_name])
         }
     }
+	}catch(err){}
+
 }
 
-updateParameter('isvar');
 updateParameter('utm_source');
+updateParameter('utm_campaign');
+updateParameter('utm_medium');
+updateParameter('utm_content');
+
 </script>
 
 <script src="https://sdk.amazonaws.com/js/aws-sdk-2.283.1.min.js"></script>
@@ -1340,7 +1362,7 @@ Sit back, enjoy, and please share your own ideas and comments with us on our sit
 				<p class="status"></p>
 
 				<form id="boombox-login" class="ajax-auth" action="login" method="post">
-					<input type="hidden" id="security" name="security" value="19aa2e6384"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">					<div class="input-field">
+					<input type="hidden" id="security" name="security" value="c1f56e9758"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">					<div class="input-field">
 						<input type="text" name="useremail" class="required" placeholder="Your username or e-mail">
 					</div>
 					<div class="input-field">
@@ -1374,7 +1396,7 @@ Sit back, enjoy, and please share your own ideas and comments with us on our sit
 			<div class="content">
 				<form id="boombox_forgot_password" class="ajax-auth" action="forgot_password" method="post">
 					<p class="status"></p>
-					<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="cd788c3c81"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">					<div class="input-field">
+					<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="d595b7506b"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">					<div class="input-field">
 						<input type="text" name="userlogin" class="required" placeholder="Your username or e-mail">
 					</div>
 					<div class="input-field">
@@ -1398,6 +1420,8 @@ var advanced_ads_pro_ajax_object = {"ajax_url":"http:\/\/discoverytheword.com\/w
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://discoverytheword.com/wp-content/plugins/advanced-ads-pro/modules/cache-busting/inc/base.min.js?ver=2.3.3"></script>
-		
+<script>window.advads_has_ads = [["21606","ad",null]];
+
+( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {if ( window.advanced_ads_pro ) {advanced_ads_pro.process_passive_cb();} else if ( window.console && window.console.log ) {console.log('Advanced Ads Pro: cache-busting can not be initialized');} });</script>		
 	
 </div></div></body></html>
