@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ref-hunters.ch privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530202344id_/http%3A//www.ref-hunters.ch/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ref-hunters.ch privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802163800id_/http%3A//www.ref-hunters.ch/en/privacy.php) for the most accurate reproduction.*
 
 # Ref-Hunters.ch | Privacy Statement
 
