@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the courttv.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503185055id_/https%3A//www.courttv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courttv.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802204740id_/https%3A//www.courttv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Court TV
+# Privacy Policy - Court TV
 
 Thank you for visiting CourtTV.com, a site presented to you by Katz Broadcasting, LLC, and its affiliates, including Court TV Media, LLC (collectively, “Katz Broadcasting,” “we” or “us”). Your privacy is important to us. This privacy policy explains our online information practices and the choices you can make about the way your information is collected and used at this general audience Katz Broadcasting site and among Katz Broadcasting’s affiliated and operated websites and applications (each, a “Katz Affiliate Site”), which includes any online or mobile sites, applications or services owned, operated or offered by or on behalf of Katz Broadcasting or its affiliates (each a “Site”, collectively the “Sites”). A list of the entities for which Katz Broadcasting currently operates a Site or Sites (each, a “Katz Affiliate”) is available below.
 
-**The Information We Collect**
+**– The Information We Collect –**
 
 _Personally Identifiable Information_
 
@@ -45,6 +45,8 @@ If you choose to submit content for publication (for example, a posting to a blo
 We, the Katz Affiliates, our third-party service providers, advertisers, advertising networks and platforms, agencies, or our partners use the Non-Personally Identifiable Information that is collected to improve the design and content of our Sites, to deliver more relevant marketing messages and advertisements, to enable us to personalize your Internet experience, and to perform analytics. We also may use this information to analyze usage of our Sites or content, as well as to offer you products, programs, or services.
 
 When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Sites, (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social networking sites. By doing so, you consent to the use of this information in accordance with our privacy statement. When you provide personally identifiable information to us through an application, on our Sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://optout.networkadvertising.org/?c=1).
 
 **Information Sharing and Disclosure**
 
@@ -129,7 +131,7 @@ Below is a list of entities for which Katz Broadcasting operates one or more Sit
 
 Bounce Media, LLC
 
-Brown Sugar, LLC  
+Brown Sugar, LLC 
 
 Court TV Media, LLC   
 Escape Media, LLC  
