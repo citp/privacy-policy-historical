@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330171035id_/https%3A//www.modernhealthcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802201011id_/https%3A//www.modernhealthcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Modern Healthcare
 
