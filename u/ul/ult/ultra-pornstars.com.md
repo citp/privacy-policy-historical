@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultra-pornstars.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602035452id_/http%3A//ultra-pornstars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultra-pornstars.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802063536id_/http%3A//www.ultra-pornstars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
