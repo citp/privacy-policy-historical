@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imageteam.org privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305021953id_/http%3A//imageteam.org/page-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageteam.org privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802220010id_/http%3A//imageteam.org/page-Policy.html) for the most accurate reproduction.*
 
-# Policy - ImageTeam.org|Free Image Hosting
+# Policy - ImageTeam.org | Free Image Hosting
 
 When you sign up for an account with **imageteam** , we collect personal information from you including your email address and a password. 
 
