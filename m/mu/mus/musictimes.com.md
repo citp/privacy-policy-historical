@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417113348id_/https%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802153817id_/http%3A//musictimes.com/privacypolicy) for the most accurate reproduction.*
 
 # | Music Times
+
+**Warning** : Use of undefined constant design_content - assumed 'design_content' (this will throw an Error in a future version of PHP) in **/websites/com_musictimes_www/framework/source/contents/design.php** on line **1**
 
 [Music Times]() > Privacy Policy
 
