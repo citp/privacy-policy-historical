@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecnigen.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602092939id_/http%3A//www.tecnigen.com/privacy-policy-details) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecnigen.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802092231id_/http%3A//www.tecnigen.com/privacy-policy-details) for the most accurate reproduction.*
 
 # Privacy Policy of Tecnigen.comTecnigen – A True Tech & Social News Blog
 
