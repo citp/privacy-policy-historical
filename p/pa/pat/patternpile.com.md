@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patternpile.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602033242id_/http%3A//www.patternpile.com/sewing-patterns/patternpile-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patternpile.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802060303id_/http%3A//www.patternpile.com/sewing-patterns/patternpile-com-privacy-policy) for the most accurate reproduction.*
 
 # PatternPile.com - Sewing and Quilting Patterns for Creating Modern Bags, Hats, and Seasonal Quilts
 
