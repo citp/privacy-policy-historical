@@ -1,101 +1,266 @@
-> *The following text is extracted and transformed from the maximuscle.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123165701id_/https%3A//www.maxinutrition.com/help/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximuscle.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802161638id_/https%3A//www.maxinutrition.com/help/security-and-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MaxiNutrition
 
-This privacy statement sets out how HNC Healthy Nutrition Company (UK) Limited (the data controller and “HNC”) uses and protects any information that you provide to us when you use the Maxinutrition.com website or otherwise provide HNC with your personal information.
+This is the Privacy Policy of HNC Health Nutrition (UK) Limited (“we”, us”, “our”), a company registered in England and Wales (company number 11121748) whose registered office is at 2nd Floor New Century House Progress Way, Denton, Manchester, England, M34 2GP.
 
-HNC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using the website, you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy aims to give you information on how we collect and process your personal information, including when you use the www.maxinutrition.com website. This website is not intended for children and we do not collect Personal Information relating to children. We are committed to protecting and respecting your Personal Information and your privacy. Should we ask you to provide certain Personal Information by which you can be identified when using the website, you can be assured that it will only be used in accordance with this privacy statement.
 
-HNC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 29 March 2018.
+HNC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 14 March 2019.
 
-By providing us with your personal information, you agree and consent to its transfer, processing, use and disclosure as outlined in this privacy statement.
+## What Personal Information we collect and When we collect it
 
-### What we collect
+Personal Information means any information about an individual from which that person can be identified. It does not include information where the identity has been removed (anonymous data). 
 
-We collect personally identifiable information (PII) that you provide to us, which is information that identifies you as an individual. We only do this when you have agreed to our request for that information. This PII may include your:
+We may collect, use and store the following Personal Information about you which we have grouped into the following categories: 
 
-  * Name.
-  * Contact information including email address.
-  * Demographic information such as postcode, preferences and interests.
-  * Other information relevant to customer surveys and/or offers.
+  * If you create an account on our website, we will collect your title, name, email address, IP address, password, contact number, gender and date of birth.
+  
 
+  * When you place an order through our online shop, we will collect your Personal Information such as your title, name, email address, IP address, telephone or mobile number, billing and delivery addresses and purchase history. We will also collect Personal Information in relation to the payment you made to us via any third-party website (such as PayPal) in order to process your order. 
+  
 
+  * When you provide a review of our products and our performance on a third-party platform (such as on Trustpilot), we may collect Personal Information such as your name, email address and the opinions expressed in your review. 
+  
 
-### What we do with the information we gather
+  * When you have consented to receive marketing and technical information from us, we will collect your name, email address and your preferences as to the types of marketing and technical information in relation to our products you would like to receive from us. 
+  
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+  * When you contact us by any other means (e.g. email or telephone), we may keep a record of the email you send to us and the information you provide us with at the time. 
+  
 
-  * internal record keeping.
-  * to improve our products and services.
-  * to send you emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * to contact you for market research purposes. We may contact you by email, phone, fax or mail.
-  * to respond to your requests or queries and improve the content of our communication.
+  * If you submit a job application to us, we will collect your contact details and any other information that you provide in the application. 
+  
 
+  * When you complete a survey, we collect the information you provide to us to for research purposes. 
+  
 
+  * When you participate any of our competitions, we collect the information you provide to us to run the competition and for any other purposes communicated to you when you enter the competition. 
+  
 
-### Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-### Sharing PII with third parties
-
-Sometimes we use and share your information with selected third parties to provide support services in connection with our website and in the normal course of business. These parties include Red Eye International Limited (digital marketing services), Red Technology Solutions Limited (E-commerce services), Linn Systems Limited (Order Management Service), Boughey Distribution Limited (product deliver services) and their affiliates as may be necessary.
-
-We may also share your PII with our affiliates, contractors and agents in the normal course of business for delivery of the activities to which you have agreed. Unless otherwise agreed by you, we will not sell or rent PII to other third parties, except that your PII may be transferred to a third party in the event that the business of this site or a part of it and the customer data connected with it is sold, assigned or transferred. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-### Website usage
-
-We also automatically collect information about your computer browser type and operating system, websites you visited before and after visiting our website, standard server log information, Internet Protocol (IP) addresses, GPS location data, mobile phone service provider, and mobile phone operating system. We aggregate this information to understand how our visitors use our websites and mobile applications so that we can improve them and the services we offer. GPS location data does not typically identify individual users. We may also share this aggregated information with other companies within the HNC group and with our Service Partners. This information includes:
-
-  * the total number of visits to our websites and mobile applications.
-  * the number of visitors to each page of our websites and mobile applications.
-  * the domain names of our visitors' internet service providers.
+  * When you visit this website, we may collect information such as your geolocation, weblogs and other communication that is available from the browser. 
 
 
 
-### How we protect your PII
+Please note that we do not collect any special categories of Personal Information (i.e. racial or ethnic origin, political opinions, religious beliefs or other beliefs of a similar nature, trade union membership, physical or mental health or condition, sex life and sexual orientation, generic data and biometric data).
 
-HNC will take appropriate legal, organizational, and technical measures to protect your personal information consistent with applicable privacy and data security laws. When HNC uses a third-party service provider including a Service Partner, that provider will be carefully selected and required to use appropriate measures to protect the confidentiality and security of personal information. We use a variety of security technologies and procedures to help protect your PII from unauthorised access, use or disclosure. Unfortunately, the transmission of information via the Internet or a mobile phone network connection is not completely secure. Although we will do our best to protect your PII, we cannot guarantee the security of the PII you transmit to our websites: any transmission is at your own risk. While we cannot guarantee that loss, misuse or alteration to data will not occur, once we have received your information, we will employ appropriate technical security measures to prevent such unfortunate occurrences.
+## What other information we collect via our website and cookies 
 
-### How we use Cookies 
+As you interact with our website, we may automatically collect information about your website usage such as information about your equipment, browsing actions, IP address, GPS location, mobile phone service provider and operating system and patterns. We aggregate this information to understand how our visitors use our websites and mobile applications so that we can improve them and the services we offer. GPS location data does not typically identify individual users. We collect this information by using cookies, server logs and other similar technologies. 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Our website uses a limited number of cookies, namely: 
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+  * Cookies which stores your acceptance to the use of cookies on our website.
+  
 
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+  * Cookies required for the functioning of our website (e.g. to maintain your shopping basket up to date and/or reviewed products); 
+  
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+  * Cookies required by our partners (including Budget and RedEye) for assessing the impact and success of our marketing campaigns. Please note that these cookies do not store any Personal Information. 
+  
 
-### Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-### When we may disclose your PII to others
-
-HNC reserves the right to disclose personal information about you, including your e-mail address, for reporting to government authorities, to parties in relevant legal proceedings as authorized by the presiding court or tribunal and otherwise to the extent required or explicitly authorized by applicable law. In certain special cases where permitted by local law, we may disclose your PII:
-
-  * when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you or otherwise injuring or interfering with HNC´s rights, property or operations, other users of this website or mobile application or anyone else who could be harmed by such activities.
-  * when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case or administrative investigation.
-  * in connection with a substantial corporate transaction, such as the sale of a product line or division, a merger, consolidation, asset sale or in the unlikely event of bankruptcy.
+  * Cookies required by Google Analytics in order to measure your website usage and improve the experience for our visitors on an ongoing basis. These cookies collect the information about your website usage, namely what pages you visit, how long you stay on each section of the website and what links you click on. 
 
 
 
-PII collected may be transferred to, stored and processed in your country of residence or any other country in which HNC (including its affiliates), subcontractors or agents maintain facilities, including the United States and countries outside the European Economic Area (EEA). This means that your information may be processed in countries with lower data protection standards than your country of residence. By using our website, you consent to any transfer, processing or storing of information outside of your country of residence and outside the EEA. We will ensure that if information is transferred outside your country of residence, it will still be treated in accordance with this Privacy Statement.
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. 
 
-### Use of IP addresses
+## Why we collect your Personal Information 
 
-An IP address is a set of numbers that is automatically assigned to your computer whenever you log on to your Internet service provider or through your organisation's local area network (LAN) or wide area network (WAN). Web servers automatically identify your computer by the IP address assigned to it during your session online.
+  * To manage our relationship with you which will include: registering you as a new account holder, completing your purchase transactions, managing payments and charges, notifying you of product recalls or provide information concerning products you have purchased, notifying you about changes to our terms and conditions of sale on the basis that it is necessary in order to perform our contract with you or because we have a legitimate interest in doing so. 
+  
 
-HNC, or third party companies acting on our behalf, may collect IP addresses for the purposes of systems administration and to audit the use of our websites. We also may use IP addresses to identify users of our websites when we feel it is necessary to enforce compliance with the websites’ terms of use or to protect our service, websites or other users.
+  * To administer and protect our business and the service and products we provide to you (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) on the basis that it is necessary in order to perform our contract with you or because we have a legitimate interest in doing so (i.e. for running the services you use, or providing administration and IT services, network security, or preventing prevent fraud).
+  
 
-### Controlling your personal information
+  * To advertise our products to you, send you our offers by email, to identify your product and service preferences (so that we can improve our merchandise selections, customer service and overall shopping experience), to notify you of new or additional products, services and promotions that might be of interest to you and to measure the effectiveness of these activities. 
+  
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+  * We may use your Personal Information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+  
 
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at Boughey Distribution Limited Nantwich Rd, Wardle, Nantwich CW5 6RS , phoning us on UK 0345 241 2866 or emailing us at customerservice@kruger-uk.com or changing the direct marketing settings in your account.
+  * We may contact you for market research purposes. We will do so on the basis that you have consented to us processing your Personal Information in this way. You can always stop receiving marketing information from us at any time as these communications provide easy ways to unsubscribe. 
+  
+
+  * To respond to your requests or queries and improve the content of our communications on the basis that we have a legitimate interest to do so. 
+  
+
+  * To process and deliver our products to you, including reviewing our clients’ campaign evaluations, managing payments, collecting and recovering money owed to us on the basis that it is necessary in order to perform our contract with you. 
+  
+
+  * To process job applications and CVs submitted to us on the basis that we have a legitimate interest to do so (to fill vacancies and to grow our business).
 
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+## Change of Purpose
+
+We will only use your Personal Information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. 
+
+If we need to use your Personal Information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. 
+
+Please note that we may process your Personal Information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law. 
+
+## Changes to this Privacy Policy and your Duty to Inform us of Changes
+
+It is important that the Personal Information we hold about you is accurate and current. Please keep your details on your account up to date. 
+
+## How we ensure the Security of your Personal Information 
+
+We are committed to ensuring that your information is secure. In order to prevent your Personal Information from being accidentally lost, used or accessed in an unauthorised way, we have put in place appropriate security measures to safeguard and secure the Personal Information we collect via our website. We also limit access to your Personal Information to those employees, agents, subcontractors and other third-parties who have a business need to know. They will only process your Personal Information on our instructions and they are subject to a duty of confidentiality. 
+
+Although we will do our best to protect your personal information, our website may, from time to time, contain links to other websites of interest. However, once you have used these links to leave our website, you should note that we do not have any control over that other website and any Personal Information you will provide is done at your own risk. These websites should have their own privacy policies and we do not accept any responsibility or liability for these policies, the content or operation of these websites. Please check these policies and the terms of the websites before you submit any to these websites. 
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so. 
+
+## Who we share your Personal Information with
+
+We may disclose your Personal Information with third parties as follows: 
+
+  * If we are under a duty to disclose or share it in order to comply with any legal obligations (for example our insurers and HMRC).
+  
+
+  * If we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you or otherwise injuring or interfering with our rights, property or operations, other users of this website or mobile application or anyone else who could be harmed by such activities.
+  
+
+  * With selected third parties to provide support services in connection with our website and in the normal course of business, including: 
+    * Red Eye International Limited (digital marketing services);
+  
+
+    * Red Technology Solutions Limited (E-commerce services); 
+  
+
+    * Linn Systems Limited (Order Management Service); 
+  
+
+    * Boughey Distribution Limited (product deliver services); and 
+  
+
+    * any of their affiliates as may be necessary.
+  
+
+  * With our affiliates, contractors and agents in the normal course of business for delivery of the activities to which you have agreed to.
+  
+
+  * In connection with a substantial corporate transaction, such as the sale of a product line or division, a merger, consolidation, asset sale or in the unlikely event of our insolvency.
+
+
+
+Please note that that we will not sell or rent your Personal Information without your prior consent to any third parties. 
+
+## How Long we keep your Personal Information for
+
+We only retain your Personal Information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements. 
+
+To determine the appropriate retention period for personal information, we consider the amount, the nature and sensitivity of your personal information, the potential harm from unauthorised use or disclosure of your personal information, the purposes for which we process your Personal Information and whether we can achieve these purposes through other means and the applicable legal requirements.
+
+The table below sets out further details: 
+
+**Circumstances in which Personal Information was provided**
+
+| 
+
+**How long we keep it for**  
+  
+---|---  
+  
+When you create an account on our website
+
+| 
+
+Until you ask to be removed or as part of our periodic data cleanse.  
+  
+When you place an order through our online shop
+
+| 
+
+7 years after the order was made.   
+  
+When you provide a review of our products and our performance on a third-party platform (such as on Trustpilot)
+
+| 
+
+Until you ask to be removed from this third-party platform.   
+  
+When you have consented to receive marketing and technical information from us
+
+| 
+
+Until you unsubscribe from our database.  
+  
+When you contact us by any other means (e.g. email or telephone)
+
+| 
+
+Until you ask to be removed or as part of our periodic data cleanse.   
+  
+When you submit a job application to us
+
+| 
+
+1 year from the day your application is submitted to us.   
+  
+When you complete a survey or participate in competitions
+
+| 
+
+Until you ask to be removed.   
+  
+When you visit our website
+
+| 
+
+Our session logs are purged after 60 days and our cookies expire after 30 days unless you block or remove those cookies before.   
+  
+## Where we Store your Personal Information and How it is kept secure
+
+Where we have given you (or where you have chosen) a password which enables you to access certain of our website (i.e. your account), you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+
+Some of the information you provide to us will be transmitted electronically (e.g. information provided via our website or email). We would remind you that the information transmitted via the internet is not completely secure and although we will do our best to protect any information transmitted in this way, we cannot guarantee its complete security.
+
+We have put in place appropriate measures to prevent your Personal Information from being accidentally lost, accessed or used in an unauthorised way, altered or disclosed. Any payment transactions will be encrypted using SSL technology. 
+
+Some Personal Information you have provided to us is stored on secure servers located in the United Kingdom and on the Cloud. 
+
+We do not transfer your personal data outside the European Economic Area (EEA). 
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator (the Information Commissioner in the UK) of a breach where we are legally required to do so. 
+
+## Your Rights in relation to the Personal Information we Hold
+
+You have the right to:
+
+**Request access** to your Personal Information (commonly known as a "data subject access request"). This enables you to receive a copy of the Personal Information we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the Personal Information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected, though we may need to verify the accuracy of the new information you provide to us.
+
+**Request erasure of your personal information.** This enables you to ask us to delete or remove Personal Information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your Personal Information where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your Personal Information to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. 
+
+**Object to processing of your Personal Information** where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your Personal Information for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing of your personal information.** This enables you to ask us to suspend the processing of your Personal Information in the following scenarios: (a) if you want us to establish the information's accuracy; (b) where our use of the information is unlawful but you do not want us to erase it; (c) where you need us to hold the information even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your information but we need to verify whether we have overriding legitimate grounds to use it. 
+
+**Request the transfer of your Personal Information to you or to a third party.** We will provide to you, or a third party you have chosen, your Personal Information in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+
+**Withdraw consent at any time where we are relying on consent to process your personal information.** However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+## CONTACTING US
+
+If you would like to communicate with us about any of the rights mentioned above, or if you have any other queries about the matters mentioned in this privacy policy, please contact us using one of the following options:
+
+  * Websites: https://www.maxinutrition.com/help/contact-us/
+  
+
+  * Email: customerservices@maximuscle.com
+  
+
+  * Telephone: +44 (0)345 241 2866 
+
+
+
+## COMPLAINTS
+
+You have the right to complain to the Information Commissioner about the way in which we collect and use your personal information: www.ico.org.uk/concerns or telephone 0303 123 1113.
+
+**Changes to this privacy policy**
+
+This policy is effective from 14 March 2019. We may change this privacy policy from time to time by updating this webpage. 
