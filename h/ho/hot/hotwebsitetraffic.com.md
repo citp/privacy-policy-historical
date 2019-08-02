@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotwebsitetraffic.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617214426id_/http%3A//hotwebsitetraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwebsitetraffic.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803004119id_/http%3A//hotwebsitetraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Hot Website Traffic and Mailer - Free Manual Traffic Exchange
 
