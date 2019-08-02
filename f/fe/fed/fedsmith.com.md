@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508193010id_/https%3A//www.fedsmith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802201156id_/https%3A//www.fedsmith.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : FedSmith.com
+# Privacy Policy - FedSmith.com
 
   
 We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/fedsmith.com).  
