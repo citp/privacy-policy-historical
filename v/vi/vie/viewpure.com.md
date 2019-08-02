@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewpure.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324065950id_/http%3A//www.viewpure.com/pages/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpure.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802170853id_/http%3A//www.viewpure.com/pages/terms-privacy) for the most accurate reproduction.*
 
 # ViewPure Terms of Service | Privacy Policy |
 
