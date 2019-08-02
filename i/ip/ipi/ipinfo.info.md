@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipinfo.info privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612033200id_/https%3A//ipinfo.info/html/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipinfo.info privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802175016id_/http%3A//ipinfo.info/html/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -20,7 +20,7 @@ As usual, our web server stores information in its log files, which your web bro
 
 This data can not be assigned to you directly as a person, but only to your Internet connection and web browser type. We store them because these data are used for statistical purposes, such as analysis of which services are particularly strong or low in demand, and are important for the defense against vandalism and malicious server attacks. A merge of this data with other data sources will not be done.
 
-Here you can test online what information your web browser at this moment in total tells our, or other web server: [Browsercheck...](https://web.archive.org/web/20190612033200id_/https%3A//ipinfo.info/html/privacy_statement.php)
+Here you can test online what information your web browser at this moment in total tells our, or other web server: [Browsercheck...](https://web.archive.org/web/20190802175016id_/http%3A//ipinfo.info/html/privacy_statement.php)
 
 ### Cookies
 
