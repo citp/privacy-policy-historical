@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersummary.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628141437id_/http%3A//www.supersummary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersummary.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803010331id_/http%3A//www.supersummary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperSummary
 
@@ -31,7 +31,7 @@ Pursuant to Section 1798.83 of the California Civil Code, if you are a Californi
 
 You may withdraw your consent to the collection of Personal Information at any time by sending an email to us. Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose. Please note that we will send you an email confirmation upon receipt of your request. Therefore, if you do not receive a confirmation email, please contact us again with your request. If you do choose to withdraw such consent, your access to the Website may be diminished, or your ability to choose some of the options on the Website may be limited.
 
-Contact email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b02050d042b181e1b0e19181e06060a191245080406)
+Contact email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#751c1b131a3506000510070600181814070c5b161a18)
 
 **Sharing Information**
 
@@ -68,7 +68,7 @@ This Privacy Policy is incorporated into and forms part of the Terms of Service,
 
 **Children’s Privacy**
 
-Protecting the privacy of young children is especially important. Our Website is not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If we learn that personally identifiable information has been collected on the Website from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Website, then you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#41282f272e01323431243332342c2c2033386f222e2c) and request that we delete that child’s personally identifiable information from our systems.
+Protecting the privacy of young children is especially important. Our Website is not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If we learn that personally identifiable information has been collected on the Website from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Website, then you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#11787f777e51626461746362647c7c7063683f727e7c) and request that we delete that child’s personally identifiable information from our systems.
 
 **Cookies and Similar Technologies**
 
