@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haihentai.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601234219id_/http%3A//www.haihentai.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haihentai.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802031845id_/http%3A//www.haihentai.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
