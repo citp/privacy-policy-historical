@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grin.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415140735id_/https%3A//www.grin.com/en/privacy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grin.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802170133id_/https%3A//www.grin.com/en/privacy-en) for the most accurate reproduction.*
 
-# Privacy – GRIN | Publish your bachelor or master thesis, term paper, dissertation and essay for free
+# Privacy | GRIN | Publish your bachelor or master thesis, term paper, dissertation and essay for free
 
 This privacy policy informs you about the nature, scope and purpose of the processing of personal data (hereinafter referred to as “data”) within our online offer of GRIN Verlag and its affiliated websites
 
@@ -361,6 +361,67 @@ We maintain online presence within social networks and platforms in order to com
 Unless otherwise stated in our Privacy Policy, we process users’ data as long as they communicate with us within social networks and platforms, e.g. write posts on our online presence or send us messages.
 
 ## Usage Based Advertising - Online Behavioral Advertising (OBA)
+
+## Usage Based Advertising - Measurement Procedure SZMnG by INFOnline GmbH
+
+Our web pages use the measurement procedure (“SZMnG”) provided by INFOnline GmbH ([https://www.INFOnline.de](https://www.infonline.de/en/)) to measure statistical parameters relating to the use of our sites. The reason for collecting these user metrics is to statistically measure the number of visits to our websites, the number of visitors and their surfing behaviour using a standardised procedure to allow values to be collected that are comparable across the market.
+
+For all sites that are members of the Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. [German Audit Bureau of Circulation] ([IVW – http://www.ivw.eu](https://www.ivw.eu/englische-version)) or that participate in online research carried out by the Arbeitsgemeinschaft Online-Forschung e.V. [German Online Research Working Group] ([AGOF – http://www.agof.de](https://www.agof.de/en/)), the user metrics will be processed further on a regular basis by the AGOF and the Working Group for Media Analysis ([agma – http://www.agma-mmc.de](https://www.agma-mmc.de/)) and will be published under the performance indicator “Unique User” as well as by the IVW with the performance indicators “Page Impression” and “Visits”. This reach and statistics can be accessed on their respective web pages.
+
+ **1\. Legal Basis for Processing**  
+The measurement by INFOnline GmbH using the SZMnG measurement procedure is carried out upon legitimate interest, under Art. 6 Para.1 lit. f) of the GDPR.  
+The purpose of processing personal data is to gain statistics and to create user categories. The statistics are used to understand and substantiate the use of our sites. The user categories form the basis for an interest-oriented alignment of advertising material and advertising measures. A usage measurement which guarantees comparability with competitors in the market is essential for the marketing of this web page. Our legitimate interest stems from the economic usability of our findings that we get from the statistics, user categories and the market value of our web pages, as well as the direct comparison with third-party web pages, which can be determined from the statistics.  
+In addition, we have a legitimate interest in making the pseudonymised data of INFOnline, AGOF and IVW available for the purposes of market research (AGOF, agma) and for statistical purposes (INFOnline, IVW). Furthermore, we have a legitimate interest in providing INFOnline’s pseudonymised data for the further development and provision of interest-oriented advertising material.
+
+ **2\. Types of Data**  
+INFOnline GmbH collects the following data which, according to EU-GDPR, can be linked to a particular person:
+
+  * IP address: On the Internet, each device requires a unique address to transmit information: the IP address. Because of how the Internet functions, it is technically necessary for the IP address to be stored, at least for a short period. IP addresses are truncated to 1 byte before any processing. Further processing is only performed on anonymised IP addresses. No IP addresses that have not been truncated are saved or processed.
+  * A randomly generated Client ID: To allow computer systems to be recognised, the further processing uses either a third-party cookie, a first-party cookie, a local storage object or a signature that is compiled from diverse information from your browser that is transmitted automatically. This identification is explicit for a browser, as long as the cookie or local storage object is not deleted. It is possible to measure the data and to subsequently assign it to the respective client identifier by accessing other websites that also use the measuring method (“SZMnG”) of INFOnline GmbH.  
+The validity of the cookie is restricted to a maximum of 1 year.
+
+
+
+ **3\. Data Use**  
+INFOnline GmbH’s measurement process, which is posted on this web page, determines usage data. This is done to collect the performance indicators of page impressions, visits and clients, and to provide additional performance indicators (e.g. qualified clients). In addition, the measured data is used as follows:
+
+  * Geolocalisation (web page access being linked to the access location) is performed exclusively on the basis of the anonymised IP addresses and only to the geographical level of federal state/region. The collected geographical information cannot, under any circumstances, be used to determine a user’s specific place of residence.
+  * The usage data from a technical client (e.g. from a device’s browser) are amalgamated from all web pages and saved in a database. This information is technically evaluated for age and gender and handed over to the AGOF service providers for further processing. In the course of the AGOF study, random samples for social characteristics are taken for technical evaluation, which are organised into the following categories: Age, Gender, Nationality, Occupation, Marital Status, General Household Information, Household Income, Place of Residence, Internet Use, Online Interests, Place of Use, Type of User.
+
+
+
+ **4\. Data Storage Time**  
+The full IP address will not be saved by INFOnline GmbH. The truncated IP address will be saved for a maximum of 60 days. The usage data in connection with the unique identifier is saved for a maximum of 6 months.
+
+ **5\. Data Disclosure**  
+Neither the IP address nor the truncated IP address will be disclosed. The data with client IDs will be disclosed to the following AGOF service providers for the creation of the AGOF study:
+
+  * Kantar Deutschland GmbH ([https://www.tns-infratest.com/](https://www.kantartns.de/))
+  * Ankordata GmbH & Co. KG ([http://www.ankordata.de/homepage/](https://www.ankordata.de/homepage/))
+  * Interrogare GmbH ([https://www.interrogare.de/](https://www.interrogare.de/en/))
+
+
+
+ **6\. Rights of the Data Subject**  
+The data subject has the following rights:
+
+  * Right of access (Art.15 GDPR)
+  * Right to rectification (Art. 16 GDPR)
+  * Right to object(Art. 21 GDPR)
+  * Right to erasure (Art. 17 GDPR)
+  * Right to restriction of processing (Art. 18 GDPR)
+  * Right to data portability (Art.20 GDPR)
+
+
+
+For inquiries related to this, please consult privacy@openpublishing.com. Please note: For questions such as these, we must ensure that the question actually involves the data subject.
+
+ **Right to Object**  
+If you would rather not take part in the measurement, you can opt out via the following link: [https://optout.ioam.de](https://optout.ioam.de/) In order to guarantee exclusion from the measurement, it is a technical requirement to set a cookie. Should you wish to delete your browser’s cookies, you must go through the opt-out process using the above-mentioned link.
+
+The data subject has the right to submit a complaint to a data protection authority.
+
+Further information on data protection in the measurement procedure can be found on the website of INFOnline GmbH (the company that operates the measurement procedure) ([https://www.infonline.de](https://www.infonline.de/en/)), AGOF’s web page concerning data protection ([http://www.agof.de/datenschutz](http://www.agof.de/en/datenschutz-allgemein/)) and the IVW’s data protection web page ([http://www.ivw.eu](https://www.ivw.eu/englische-version)).
 
 ## Integration of services and contents of third parties
 
