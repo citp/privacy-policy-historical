@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chromacademy.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516171742id_/http%3A//chromacademy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromacademy.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802041930id_/http%3A//chromacademy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # hplc training for the analytical chemist l CHROMacademy.com
 
-Hello. Crawford Scientific Ltd./Advanstar Communications Inc. (together with their affiliated entities, “we", “us”, etc.) know that visitors to and users (“you”, “your”) of CHROMacademy.com (“Website” or “Site”) care about how information about them is used and shared. So we created this privacy policy (“Policy”) to demonstrate our commitment to your privacy. Please note: If you use the Site, it means you consent and accept the terms in this Policy.
+Hello. Crawford Scientific Ltd./MultiMedia Pharm Sciences, LLC. (together with their affiliated entities, “we", “us”, etc.) know that visitors to and users (“you”, “your”) of CHROMacademy.com (“Website” or “Site”) care about how information about them is used and shared. So we created this privacy policy (“Policy”) to demonstrate our commitment to your privacy. Please note: If you use the Site, it means you consent and accept the terms in this Policy.
 
 Data Controllers
 
-Any personal information provided by you or gathered in connection with the Website is controlled by Crawford Scientific Ltd., Holm Street , Strathaven, Scotland, Lanarkshire ML10 6NB, and Advanstar Communications Inc., 485f Route 1 South, Iselin New Jersey 08830. Crawford and Advanstar have executed a Data Transfer Agreement in accordance with the standard contractual clauses authorized by the European Commission. You expressly consent to the transfer of your Personal Information (defined below) to Advanstar.
+Any personal information provided by you or gathered in connection with the Website is controlled by Crawford Scientific Ltd., Holm Street , Strathaven, Scotland, Lanarkshire ML10 6NB, and MultiMedia Pharm Sciences, LLC., 485f Route 1 South, Iselin New Jersey 08830. Crawford and Advanstar have executed a Data Transfer Agreement in accordance with the standard contractual clauses authorized by the European Commission. You expressly consent to the transfer of your Personal Information (defined below) to Advanstar.
 
 What Personal Information Do We Collect?
 
@@ -38,7 +38,7 @@ Opt-Out Option: You can decide whether you want to receive targeted advertising 
 
 If you accept promotional email from us, any email you receive will include instructions on how to be removed from our promotional email list.
 
-**Other Disclosures** : We also may disclose your Personal Information: to the extent we believe we are or will be required to do so by law; to defend our or another’s legal rights (e.g., to prevent fraud); in connection with the sale or prospective sale of all or part of our business; to enforce the Website’s[ //chromacademy.com/terms-conditions.html](https://web.archive.org/web/20190516171742id_/http%3A//chromacademy.com/terms-conditions.html) and to respond to a breach or attempted breach of the security of the Site.
+**Other Disclosures** : We also may disclose your Personal Information: to the extent we believe we are or will be required to do so by law; to defend our or another’s legal rights (e.g., to prevent fraud); in connection with the sale or prospective sale of all or part of our business; to enforce the Website’s[ //chromacademy.com/terms-conditions.html](https://web.archive.org/web/20190802041930id_/http%3A//chromacademy.com/terms-conditions.html) and to respond to a breach or attempted breach of the security of the Site.
 
 We also will provide third parties, e.g., Google and Omniture, with aggregate anonymous data for web analytics and other statistical purposes. This information will be used to evaluate subscribers’ use of the Site and to compile reports on website activity and Internet usage.
 
@@ -63,10 +63,9 @@ California's "Shine the Light" law, Cal. Civ. Code § 1798.83, permits users who
 If you are a California resident, and would like to make such a request, please submit your request, in writing, to:
 
 Online Privacy Coordinator  
-Advanstar Communications Inc.  
-Legal Department  
-131 West 1st Street  
-Duluth, MN 55802
+Multimedia Healthcare Communications,   
+LLC 2 Clarke Drive Cranbury, NJ 08512  
+
 
 or
 
@@ -87,15 +86,15 @@ Our business changes, and our Privacy Policy and <Terms of Service> will change 
 
 **Contact**
 
-If you have any questions about your privacy at the Website, please email us at <//chromacademey.com/contact.asp> with a complete description and we will try to resolve the issue for you. You may also use snail-mail at the following addresses:
+If you have any questions about your privacy at the Website, please email us at [sales@support.chromacademy.com](mailto:sales@support.chromacademy.com) with a complete description and we will try to resolve the issue for you. You may also use snail-mail at the following addresses:
 
 Online Privacy Coordinator  
-Advanstar Communications Inc.  
+MultiMedia Pharm Sciences, LLC.  
 Legal Department  
 131 West 1st Street  
 Duluth, MN 55802
 
-or
+or 
 
 Crawford Scientific Ltd.  
 Holm Street   
