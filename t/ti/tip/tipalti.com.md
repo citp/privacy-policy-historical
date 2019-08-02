@@ -1,51 +1,47 @@
-> *The following text is extracted and transformed from the tipalti.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214225249id_/https%3A//tipalti.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipalti.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802163815id_/https%3A//tipalti.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tipalti
 
-### **Notice Date: April 30, 2018**
-
-###  **Effective Date: May 30, 2018**
-
-Tipalti Inc. and our affiliates (“ **Tipalti** ”, “ **we** ”, “ **our** ” or “ **us** ”) respect the privacy of our users, and are committed to protect their personal information and use it lawfully. This Privacy Policy (“ **Policy** ”) describes how we may collect, use and disclose such personal information, and the rights and choices available to our users regarding such information.
+Tipalti Inc., and Tipalti Payments, Inc., and our affiliates (“ **Tipalti** ”, “ **we** ”, “ **our** ” or “ **us** ”) respect the privacy of our users, and are committed to protect their personal information and use it lawfully. This Privacy Policy (“ **Policy** ”) describes how we may collect, use and disclose such personal information, and the rights and choices available to our users regarding such information.
 
 We strongly urge you to read this policy and make sure you fully understand and agree with it, **before** you access or use any of our services. If you do not read, fully understand and agree to this Privacy Policy, you must refrain from and/or discontinue any use of this website, application or service, and avoid or discontinue all use of any of our services.
 
-  1.  **Your Consent (please read carefully!)**
+  1. **Your Consent (please read carefully!)**
 
 
 
-Tipalti provides global payment processing automation platform and services. This Privacy Policy (“ **Privacy Policy** “) describes how we may collect and use information pertaining to each of our unregistered visitors and registered users, including Payors and Payees (each, a “ **User** “, or “ **you** “), in connection with their access to and use of Tipalti’s platform, services, website (including [tipalti.com](http://www.tipalti.com/) and any of its subdomains, including any of Tipalti’s websites appearing within iFrames integrated under third party domains; collectively, the “ **Website** “) and web applications (collectively, the “ **Services** “).
+Tipalti provides global payment processing automation platform and services. This Privacy Policy (“ **Privacy Policy** “) describes how we may collect and use information pertaining to each of our unregistered visitors and registered users, including Payors and Payees (each, a “ **User** “, or “ **you** “), in connection with their access to and use of Tipalti’s platform, services, website (including [tipalti.com](https://tipalti.com/) and any of its subdomains, including any of Tipalti’s websites appearing within iFrames integrated under third party domains; collectively, the “ **Website** “) and web applications (collectively, the “ **Services** “).
 
 This Privacy Policy constitutes a binding and enforceable legal contract between Tipalti and you – so please read it carefully.
 
 You may use the Services only if you fully agree to this Privacy Policy – and by accessing and/or using any of the Services, you signify and affirm your informed consent to the collection and processing of your Personal Information as defined and explained below.
 
- _Please note_ : you are not obligated by law to provide us with any information. You hereby acknowledge, warrant and agree that any information you do provide us is provided of your own free will and consent, for the purposes and uses described herein.
+_Please note_ : you are not obligated by law to provide us with any information. You hereby acknowledge, warrant and agree that any information you do provide us is provided of your own free will and consent, for the purposes and uses described herein.
 
-  2.  **What Information Do We Collect?**
+  2. **What Information Do We Collect?**
 
 
 
 Tipalti’s Services unify the phases of supplier payments, from vendor on-boarding and payment method selection to funds disbursement and payment reconciliation. Throughout this process, we collect two general types of information regarding our Users:
 
   1. Un-identified and non-identifiable information pertaining to visitors of our Services or un-identified Users, which may be made available to us, or collected automatically via their use of the Services (“ **Non-personal Information** “). Such Non-personal Information does not enable us to identify the person from whom it was collected, and mainly consists of technical and aggregated usage information, such as browsing and ‘click-stream’ activity on the Services, session heatmaps and scrolls, non-identifying information regarding their device, operating system, screen resolution, internet browser, language and keyboard settings, ISP, referring/exit pages, date/time stamps, etc.
-  2. Individually identifiable information, namely information that identifies an individual or may with reasonable efforts cause the identification of an individual, or may be of private or sensitive nature (“ **Personal Information** “). Such Personal Information that is collected by us mainly consists of the following types of information (including, for the avoidance of doubt, Non-personal Information that is connected or linked to said Personal Information to the extent such connection or linkage exists (for example, in order to improve the Services we offer)):
-    1.  ** _Payee Information_** : Information concerning Users to whom payments are made (“ **Payee(s)** “) by Tipalti customers (“ **Payors** “) through the Services. Specifically, such information may include, depending on configuration determination or otherwise at the choice of our Payors or their Payees, the names, physical addresses, e-mail address, phone number, VAT ID, Social Security Numbers or US Taxpayer numbers (as applicable) of the Payees and additional information pertaining to Payees which may be required under applicable tax forms for transferring and receiving payments, country, bank account numbers, IBAN, SWIFT code (or alternatively, their account details at other third party payment processing services such as provided by PayPal, as applicable), payment preferences, session IP address, and supplemental documentation as may be required by Payors of their Payees, that may contain Personal Information (such as a copy of their government-issued identification card, personal bank statements or other documentation serving as proof of identity or valid address), and any other Personal Information provided to us by either Payors or Payees. For more regarding Payee information and how we treat it, please see **Section 6 below**.
-    2.  ** _Payor Information_** : Information concerning Payor Users (including authorized personnel of Payor), namely their company name and affiliation, physical address, E-mails and login credentials to our Services, bank account numbers (or alternatively, their account details at payment processing services such as PayPal, as applicable), payment preferences and transaction history (to the extent that any such information is personally identifiable to any particular persons, otherwise we will deem it as Non-personal Information).
-    3.  ** _Other User Information from both registered and unregistered Users_** : We collect information from you when you contact us for more information regarding our services or register on our site for our support forums, subscribe to our newsletter or webinar series, participate in an online forum, blog, or voluntary survey, download content or fill out a form. We may collect all or some of the following information: name, email address, phone number, company name, title, department, country and/or industry. Alternatively, you may visit our site anonymously. Any data we request that is not required will be specified as voluntary or optional. We may also collect information when you ask to be included in an email or other mailing list.
+  2. Individually identifiable information, namely information that identifies an individual or may with reasonable efforts cause the identification of an individual, or may be of private or sensitive nature (“ **Personal Information** “). Such Personal Information that is collected by us mainly consists of the following types of information (including, for the avoidance of doubt, Non-personal Information that is connected or linked to said Personal Information to the extent such connection or linkage exists (for example, in order to improve the Services we offer)): 
+    1. **_Payee Information_** : Information concerning Users to whom payments are made (“ **Payee(s)** “) by Tipalti customers (“ **Payors** “) through the Services. Specifically, such information may include, depending on configuration determination or otherwise at the choice of our Payors or their Payees, the names, physical addresses, e-mail address, phone number, VAT ID, Social Security Numbers or US Taxpayer numbers (as applicable) of the Payees and additional information pertaining to Payees which may be required under applicable tax forms for transferring and receiving payments, country, bank account numbers, IBAN, SWIFT code (or alternatively, their account details at other third party payment processing services such as provided by PayPal, as applicable), payment preferences, session IP address, and supplemental documentation as may be required by Payors of their Payees, that may contain Personal Information (such as a copy of their government-issued identification card, personal bank statements or other documentation serving as proof of identity or valid address), and any other Personal Information provided to us by either Payors or Payees. For more regarding Payee information and how we treat it, please see **Section 6 below**.
+    2. **_Payor Information_** : Information concerning Payor Users (including authorized personnel of Payor), namely their company name and affiliation, physical address, E-mails and login credentials to our Services, bank account numbers (or alternatively, their account details at payment processing services such as PayPal, as applicable), payment preferences and transaction history (to the extent that any such information is personally identifiable to any particular persons, otherwise we will deem it as Non-personal Information).
+    3. **_Other User Information from both registered and unregistered Users_** : We collect information from you when you contact us for more information regarding our services or register on our site for our support forums, subscribe to our newsletter or webinar series, participate in an online forum, blog, or voluntary survey, download content or fill out a form. We may collect all or some of the following information: name, email address, phone number, company name, title, department, country and/or industry. Alternatively, you may visit our site anonymously. Any data we request that is not required will be specified as voluntary or optional. We may also collect information when you ask to be included in an email or other mailing list.
 
 
-  3.  **How Do We Collect Such Information?**
+  3. **How Do We Collect Such Information?**
 
 
 
 There are two main methods that we use:
 
-  1.  **We collect information through the use of our Services**. Namely, when our Users visit or use our Services, we might be aware of it and may gather, collect and record such uses, sessions and related information, including by using third party services as detailed in Section 8 below, and by using “cookies” and other tracking technologies, as further detailed in Section 9 below.
-  2.  **We collect information which is provided to us voluntarily**. For example, we collect the Personal Information that our Users provide us when registering to our Services, uploading documents to our Services, filling out forms, depositing or withdrawing payments, contacting us, etc. In addition, we may collect Personal Information that is provided to us by a Payor regarding its Payees and vice versa, by banks and payment processing services, and by either a Payor or Payee regarding their employees or representatives using the Services on their behalf.
+  1. **We collect information through the use of our Services**. Namely, when our Users visit or use our Services, we might be aware of it and may gather, collect and record such uses, sessions and related information, including by using third party services as detailed in Section 8 below, and by using “cookies” and other tracking technologies, as further detailed in Section 9 below.
+  2. **We collect information which is provided to us voluntarily**. For example, we collect the Personal Information that our Users provide us when registering to our Services, uploading documents to our Services, filling out forms, depositing or withdrawing payments, contacting us, etc. In addition, we may collect Personal Information that is provided to us by a Payor regarding its Payees and vice versa, by banks and payment processing services, and by either a Payor or Payee regarding their employees or representatives using the Services on their behalf.
 
 
-  4.  **Why Do We Collect Such Information?**
+  4. **Why Do We Collect Such Information?**
 
 
 
@@ -62,7 +58,7 @@ We collect such Non-personal and Personal Information for the following purposes
   9. To conduct any additional activities that may require the use of your Personal Information, for which we will request your consent in advance.
 
 
-  5.  **Where Do We Store Personal Information?**
+  5. **Where Do We Store Personal Information?**
 
 
 
@@ -72,7 +68,7 @@ Tipalti is based in the United States with offices in San Mateo, California and 
 
 While the data protection laws in the above jurisdictions may be different than the laws of your residence or location, please know that Tipalti, its affiliates and Service Providers that store or process your Personal Information on Tipalti’s behalf are each committed to keeping it protected and secured, in accordance with this Privacy Policy and industry standards, regardless of any lesser legal requirements that may apply in their jurisdiction.
 
- **EU-US Privacy Shield & Swiss-US Privacy Shield Frameworks**: Tipalti is committed to upholding the principles of the EU-US Privacy Shield and the Swiss-US Privacy Shield Frameworks, as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Information from Users in the European Union member countries and in Switzerland. Tipalti Inc. has certified that it adheres to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. Tipalti is responsible for the processing of Personal Information it receives, and subsequently transfers to a third party acting on its behalf. If there is any conflict between the provisions of this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern with respect to Personal Information of persons residing in the EU or in Switzerland. To learn more about the Privacy Shield Frameworks, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+**EU-US Privacy Shield & Swiss-US Privacy Shield Frameworks**: Tipalti is committed to upholding the principles of the EU-US Privacy Shield and the Swiss-US Privacy Shield Frameworks, as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Information from Users in the European Union member countries and in Switzerland. Tipalti has certified that it adheres to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. Tipalti is responsible for the processing of Personal Information it receives, and subsequently transfers to a third party acting on its behalf. If there is any conflict between the provisions of this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern with respect to Personal Information of persons residing in the EU or in Switzerland. To learn more about the Privacy Shield Frameworks, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 We are committed to attempt to resolve privacy complaints under the EU-US Privacy Shield and Swiss-US Privacy Shield principles.
 
@@ -80,9 +76,9 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Tipalti commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
 
-Under certain conditions, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. The Federal Trade Commission (FTC) has jurisdiction over Tipalti Inc.’s compliance with the Privacy Shield.
+Under certain conditions, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. The Federal Trade Commission (FTC) has jurisdiction over Tipalti’s compliance with the Privacy Shield.
 
-  6.  **Payee Information**
+  6. **Payee Information**
 
 
 
@@ -90,29 +86,29 @@ Tipalti may collect, store and process certain Non-personal and Personal Informa
 
 For such purposes, Tipalti serves and shall be considered as a “Data Processor” and not as the “Controller” (as both such capitalized terms are defined in the European Data Protection Directive and the upcoming General Data Protection Regulation) of such Payee information. The Payor Users shall be considered as the “Controllers” of such Payee information, and are responsible for complying with all laws and regulations that may apply to the collection and control of such information, including all data protection laws of any relevant jurisdiction.
 
- **Payors are responsible for the security, integrity and authorized use of their Payees’ information, and for obtaining any consents and permissions required for the collection, processing and use of such information.**
+**Payors are responsible for the security, integrity and authorized use of their Payees’ information, and for obtaining any consents and permissions required for the collection, processing and use of such information.**
 
 If you are a Payee of any of our Payors and have had your Personal Information collected on such Payor’s behalf, we recommend that you contact such Payor directly with any privacy or data-related concern you might have. For example, if you wish to access, correct, amend or delete inaccurate information processed by Tipalti on behalf of its Payor Users, please correct the information on the same website from which it was originally entered by you or contact the relevant Payor directly (as they are the “Controller” of such data). If requested to remove any Payee Personal Information, we will respond to such request within thirty (30) days. Unless otherwise instructed by our Payor User, we will retain their Payees’ Personal Information for the period set forth in Section 12 below.
 
 If a Payee has entered a direct agreement and relationship with Tipalti, under which such Payee’s Personal Information is provided by Payee to Tipalti or otherwise collected for any services provided by Tipalti directly to Payee, Tipalti shall be deemed as the “Controller” of such information, and Payee may contact it directly, as further explained in Section 15 below.
 
-  7.  **With Whom Do We Share Personal Information**
+  7. **With Whom Do We Share Personal Information**
 
 
 
 Tipalti may share your Personal Information with third parties (or otherwise allow them access to it) only in the following manners and instances:
 
- **Third Party Services** : Tipalti has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, data and cyber security services, banks, payment processors and correspondents, Credit Bureaus, collection agencies, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording, remote access services, and our business, legal and financial advisors (collectively, “ **Third Party Services** “). Such Third Party Services may receive or otherwise have access to our Users’ Personal Information, depending on each of their particular roles and purposes in facilitating and enhancing our Services and business, and may only use it for such purposes. Tipalti remains responsible and liable for any Personal Information processing done by Third Party Services on its behalf, except for events outside of its reasonable control.
+**Third Party Services** : Tipalti has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, data and cyber security services, banks, payment processors and correspondents, Credit Bureaus, collection agencies, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording, remote access services, and our business, legal and financial advisors (collectively, “ **Third Party Services** “). Such Third Party Services may receive or otherwise have access to our Users’ Personal Information, depending on each of their particular roles and purposes in facilitating and enhancing our Services and business, and may only use it for such purposes. Tipalti remains responsible and liable for any Personal Information processing done by Third Party Services on its behalf, except for events outside of its reasonable control.
 
- **Sharing Payee Information with Payors** : If you are a Payee, we may share your Personal Information with your respective Payor so we can process payments for you from that particular Payor. For further information, please see Section 6 above.
+**Sharing Payee Information with Payors** : If you are a Payee, we may share your Personal Information with your respective Payor so we can process payments for you from that particular Payor. For further information, please see Section 6 above.
 
- **Governmental/Law Enforcement Agencies and Legal Requests or Duties** : We may disclose or otherwise allow access to your Personal Information pursuant to a legal request, such as a subpoena, search warrant or court order, or in compliance with applicable laws, with or without notice to you, if we have a good faith belief that we are legally required to do so, or that disclosure is appropriate in connection with efforts to investigate, prevent, or take action regarding actual or suspected illegal activity, counter terrorist financing verification requirements, fraud, or other wrongdoing.
+**Governmental/Law Enforcement Agencies and Legal Requests or Duties** : We may disclose or otherwise allow access to your Personal Information pursuant to a legal request, such as a subpoena, search warrant or court order, or in compliance with applicable laws, with or without notice to you, if we have a good faith belief that we are legally required to do so, or that disclosure is appropriate in connection with efforts to investigate, prevent, or take action regarding actual or suspected illegal activity, counter terrorist financing verification requirements, fraud, or other wrongdoing.
 
- **Protecting Rights and Safety** : We may share your Personal Information with others, with or without notice to you, if we believe in good faith that this will help protect the rights, property or personal safety of Tipalti, any of our Users, or any member of the general public.
+**Protecting Rights and Safety** : We may share your Personal Information with others, with or without notice to you, if we believe in good faith that this will help protect the rights, property or personal safety of Tipalti, any of our Users, or any member of the general public.
 
- **Tipalti Subsidiaries and Affiliated Companies** : We may share Personal Information internally within our family of companies, for the purposes described in this Privacy Policy and in accordance with Section 5 above. In addition, should Tipalti or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event. If we believe that such change in control might materially affect your Personal Information then stored with us, we will notify you of this event and the choices you may have you via e-mail and/or prominent notice on our Website or Services.
+**Tipalti Subsidiaries and Affiliated Companies** : We may share Personal Information internally within our family of companies, for the purposes described in this Privacy Policy and in accordance with Section 5 above. In addition, should Tipalti or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event. If we believe that such change in control might materially affect your Personal Information then stored with us, we will notify you of this event and the choices you may have you via e-mail and/or prominent notice on our Website or Services.
 
- **For the avoidance of doubt, Tipalti may share your Personal Information in additional manners, pursuant to your explicit approval, or if we are legally obligated to do so. Additionally, we may transfer, share or otherwise use Non-personal Information in our sole discretion and without the need for further approval.   **
+**For the avoidance of doubt, Tipalti may share your Personal Information in additional manners, pursuant to your explicit approval, or if we are legally obligated to do so. Additionally, we may transfer, share or otherwise use Non-personal Information in our sole discretion and without the need for further approval.   **
 
   8. **Use of Cookies and Other Tracking Technologies**
 
@@ -120,37 +116,37 @@ Tipalti may share your Personal Information with third parties (or otherwise all
 
 Tipalti uses certain monitoring and tracking technologies, including ones offered by Third Party Services. These technologies are used in order to maintain, provide and improve our Services on an ongoing basis, and in order to provide a better experience to our visitors and Users. For example, these technologies enable us to keep track of our Users’ preferences and authenticated sessions, to better secure our Services and detect abnormal behaviors, to identify technical issues, and to monitor and improve the overall performance of our Services.
 
- **Cookies** : In order for some of these technologies to work properly, a small data file (“cookie”) must be downloaded and stored on your device, for purposes of session and user authentication, security, keeping the User’s preferences, connection stability, monitoring performance and generally providing and improving our Services.
+**Cookies** : In order for some of these technologies to work properly, a small data file (“cookie”) must be downloaded and stored on your device, for purposes of session and user authentication, security, keeping the User’s preferences, connection stability, monitoring performance and generally providing and improving our Services.
 
 In order to delete or block any cookies, please refer to the “Help” area on your internet browser for further instructions, or look for optional third party add-ons offering cookie management assistance. For example, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the website you visit. Click “Help” in the toolbar of your browser for instructions, or review the cookie management guide produced by the Interactive Advertising Bureau – [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note however that deleting any of Tipalti’s cookies or disabling future cookies or tracking technologies may prevent you from accessing certain areas or features of our Services, or may otherwise adversely affect your user experience.
 
- **Google Analytics** : Our Website uses Google analytics, a web analytics service provided by Google, Inc. Non-personal Information is transmitted to and stored by Google on their servers. Please visit Google Analytics find out how Google uses such information or how you can opt out of being tracked. Please note that we do not change our practices in response to a “Do Not Track” signal in the HTTP header from a browser or mobile application.
+**Google Analytics** : Our Website uses Google analytics, a web analytics service provided by Google, Inc. Non-personal Information is transmitted to and stored by Google on their servers. Please visit Google Analytics find out how Google uses such information or how you can opt out of being tracked. Please note that we do not change our practices in response to a “Do Not Track” signal in the HTTP header from a browser or mobile application.
 
-  9.  **Communications From Tipalti**
+  9. **Communications From Tipalti**
 
 
 
- **Promotional Messages** : By registering to our Services and/or providing Tipalti with your e-mail address or any other contact information (such as your mobile phone number), you expressly agree to receive promotional content, messages or calls from Tipalti or our partners (acting on our behalf) through such means. Accordingly, we shall be entitled to call you or send you promotional content or messages by e-mail, SMS, direct text messages, marketing calls and similar forms of communication.
+**Promotional Messages** : By registering to our Services and/or providing Tipalti with your e-mail address or any other contact information (such as your mobile phone number), you expressly agree to receive promotional content, messages or calls from Tipalti or our partners (acting on our behalf) through such means. Accordingly, we shall be entitled to call you or send you promotional content or messages by e-mail, SMS, direct text messages, marketing calls and similar forms of communication.
 
 If you wish not to receive such promotional messages or calls, you may notify Tipalti at any time or follow the “unsubscribe” or “stop” instructions contained in the promotional communications you receive.
 
- **Service Messages** : Tipalti may also contact you with important information regarding our Services. For example, we may notify you (through any of the means available to us) of changes or updates to our Services, payment issues, service maintenance, etc. You will not be able to opt-out of receive such service messages.
+**Service Messages** : Tipalti may also contact you with important information regarding our Services. For example, we may notify you (through any of the means available to us) of changes or updates to our Services, payment issues, service maintenance, etc. You will not be able to opt-out of receive such service messages.
 
-  10.  **Accessing Your Personal Information**
+  10. **Accessing Your Personal Information**
 
 
 
-If you wish to exercise your right to access and/or request us to make corrections to your Personal Information that you have stored with us, or would like to receive a summary of what Personal Information (if any) of yours we disclosed to third parties for direct marketing purposes, please send us an e-mail to privacy@tipalti.com, or mail your request to Tipalti Inc., 1810 Gateway Drive, Suite 300, San Mateo, CA 94404, Attn: Data Protection Officer, and we will respond within a reasonable timeframe and in accordance with applicable laws. Please note that you may also correct, update or remove certain parts of your Personal Information by yourself, or completely deactivate your account, by logging into your account at Tipalti or by going to the same website where you originally provided the Information.
+If you wish to exercise your right to access and/or request us to make corrections to your Personal Information that you have stored with us, or would like to receive a summary of what Personal Information (if any) of yours we disclosed to third parties for direct marketing purposes, please send us an e-mail to privacy@tipalti.com, or mail your request to Tipalti 1810 Gateway Drive, Suite 300, San Mateo, CA 94404, Attn: Data Protection Officer, and we will respond within a reasonable timeframe and in accordance with applicable laws. Please note that you may also correct, update or remove certain parts of your Personal Information by yourself, or completely deactivate your account, by logging into your account at Tipalti or by going to the same website where you originally provided the Information.
 
 If you are a Payee of any of our Payors, we recommend that you contact such Payor directly if you wish to access, correct, amend or delete inaccurate information processed by Tipalti on behalf of such Payor (for more information, please see Section 6 above).
 
-  11.  **Data Retention**
+  11. **Data Retention**
 
 
 
 We may retain your Personal Information for as long as your User account is active or as otherwise needed to provide you with our Services. We may retain such Personal Information even after you deactivate your account or cease to use our Services, as reasonably necessary to comply with our legal obligations, to resolve disputes regarding any of our Users, prevent fraud and abuse, enforce our agreements and/or protect our legitimate interests.
 
-  12.  **Security**
+  12. **Security**
 
 
 
@@ -162,7 +158,7 @@ We strongly encourage you to set strong passwords for your User account(s), avoi
 
 If you have any questions regarding the security of our Services, please feel free to contact us at privacy@tipalti.com.
 
-  13.  **General**
+  13. **General**
 
 
 
@@ -176,14 +172,14 @@ Our Services are not intended for use by children under the age of 13. To use th
 
 This Privacy Policy was written in English, and may be translated into other languages for your convenience. If a translated (non-English) version of this Privacy Policy conflicts in any way with its English version, the provisions of the English version shall prevail.
 
-  14.  **What if you have any questions?**
+  14. **What if you have any questions?**
 
 
 
-You may contact us at this address: **TIPALTI** **, INC.** 1810 GATEWAY DR., SUITE 300, SAN MATEO, CA 94404, or send an email to: [privacy@tipalti.com](mailto:privacy@tipalti.com).
+You may contact us at this address: **TIPALTI**  1810 GATEWAY DR., SUITE 300, SAN MATEO, CA 94404, or send an email to: [privacy@tipalti.com](mailto:privacy@tipalti.com).
 
 The primary contract for all privacy inquiries is privacy@tipalti.com. However, Tipalti appointed VeraSafe as a representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. VeraSafe can be contacted in addition to privacy@tipalti.com only on matters related to the processing of personal data. To make such an inquiry, please contact VeraSafe using this contact form: <https://www.verasafe.com/privacy-services/contact-article-27-representative>  
-Alternatively, VeraSafe can be contacted at: Matthew Joseph, Zahradníčkova, 1220/20A, Prague 15000, Czech Republic; or VeraSafe Ireland Ltd, Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland.
+Alternatively, VeraSafe can be contacted at: VeraSafe Czech Republic s.r.o, Klimentská 46, Prague 1, 11002, Czech Republic.
 
 * * *
 
@@ -195,7 +191,7 @@ You may apply to any of Tipalti’s positions only if you fully agree to this Pr
 
 You are not obligated by law to provide us with any information, and any information you do provide is provided of your own free will and consent, for the purposes and uses described herein.
 
-  1.  **What information do we collect, how do we collect it, and how do we use it?**
+  1. **What information do we collect, how do we collect it, and how do we use it?**
 
 
 
@@ -203,7 +199,7 @@ Throughout the application and recruitment process, you may provide us (or we ma
 
 We may use such information solely in order to assess our Applicants’ skills, qualifications and overall to verify, consider and process their application and candidacy for any of our positions, and to communicate with them regarding such processes. We may also use it to manage risk and enhance our security and anti-fraud measures, and to create aggregated statistical or inferred data regarding our Applicants, for further development and improvement of our and our partners’ recruitment processes. In addition, we may use it to act as permitted by, and to comply with, any legal or regulatory requirements, and to conduct any additional activities that may require the use of your information, for which we will request your specific consent in advance.
 
-  2.  **Where do we store our applicants’ information, for how long, and how do we secure it?**
+  2. **Where do we store our applicants’ information, for how long, and how do we secure it?**
 
 
 
@@ -213,7 +209,7 @@ We may retain your information even after the applied position has been filled o
 
 Tipalti has implemented security measures designed to protect the personal information of our Applicants, including physical, procedural and electronic measures. Among other things, we offer HTTPS secure access to most areas on our website and services; we use industry standard SSL/TLS encrypted connections to protect the transmission of information that we believe in good faith to be of a sensitive nature; we use encryption tools to protect such sensitive information stored with us; we regularly monitor our systems for possible vulnerabilities and attacks, and seek news ways and tools for further enhancing the security of our Services and the integrity of the personal information that we hold. Please note however, that regardless of the measures we take and the efforts we make, we cannot and do not guarantee the absolute protection and security of any personal information stored with us.
 
-  3.  **Who will have access to your information?**
+  3. **Who will have access to your information?**
 
 
 
@@ -223,8 +219,8 @@ Additionally, we may disclose or otherwise allow access to any Applicants’ per
 
 Finally, we may share personal information internally within our family of companies, for the purposes described above. In addition, should Tipalti or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your personal information may be shared with the parties involved in such event.
 
-  4.  **How can you access your information?**
+  4. **How can you access your information?**
 
 
 
-If you wish to exercise your right to access and/or request us to make corrections to your personal information that you have stored with us, please send us an e-mail to privacy@tipalti.com, or mail your request to Tipalti Inc., 1810 Gateway Drive, San Mateo, CA 94404, Attn: Data Protection Officer, and we will respond within a reasonable timeframe and in accordance with applicable laws. Please note that you may also correct, update or remove certain parts of your personal information by yourself, or completely deactivate your account, by logging into your account at Tipalti.
+If you wish to exercise your right to access and/or request us to make corrections to your personal information that you have stored with us, please send us an e-mail to privacy@tipalti.com, or mail your request to Tipalti, Inc., 1810 Gateway Drive, San Mateo, CA 94404, Attn: Data Protection Officer, and we will respond within a reasonable timeframe and in accordance with applicable laws. Please note that you may also correct, update or remove certain parts of your personal information by yourself, or completely deactivate your account, by logging into your account at Tipalti.
