@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popnhop.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413043101id_/http%3A//popnhop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popnhop.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802025702id_/http%3A//pophitz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – POPnHOP - Leading Site For Pop Fans | Celebrity News
+# Privacy Policy – POP Hitz - Celebrity Gossip news | Latest Pop News
 
 #### Personal Data (or Data)
 
