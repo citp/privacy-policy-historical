@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagekind.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628041650id_/https%3A//www.imagekind.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagekind.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802090210id_/https%3A//www.imagekind.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Buying Art Prints Online
 
