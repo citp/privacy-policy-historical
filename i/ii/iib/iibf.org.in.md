@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iibf.org.in privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601224052id_/http%3A//iibf.org.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iibf.org.in privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802140210id_/http%3A//www.iibf.org.in/privacypolicy.asp) for the most accurate reproduction.*
 
 # IIBF Privacy Policy
 
