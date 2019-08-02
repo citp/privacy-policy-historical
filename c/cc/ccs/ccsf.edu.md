@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccsf.edu privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128162927id_/https%3A//www.ccsf.edu/ccsf/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccsf.edu privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802081628id_/https%3A//www.ccsf.edu/ccsf/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
