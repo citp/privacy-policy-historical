@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maximuscle.com privacy policy that was archived on 2018-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123165701id_/https%3A//www.maxinutrition.com/help/security-and-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maximuscle.com privacy policy that was archived on 2019-08-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190802161638id_/https%3A//www.maxinutrition.com/help/security-and-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js async-hide"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -10,17 +10,17 @@
     
 <!-- RED.WebControls.Head Start -->
 <title>Privacy Policy | MaxiNutrition</title>
+<link rel="canonical" href="https://www.maxinutrition.com/help/security-and-privacy/">
 <meta name="msvalidate.01" content="293DD8348FB12C8F0E34D53477033FDC">
 <meta name="keywords" content="">
 <meta name="description" content="">
-<meta name="google-site-verification" content="JW-gxf5VNGpd6BYUbh918SnmkpRhoqSvL6sDPDDtU-w">
 
 <!-- RED.WebControls.Head End -->
 
 
-    <link href="/DependencyHandler.axd/140da0a66f43048d471a59982df9b6df/60/css" type="text/css" rel="stylesheet"><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/DependencyHandler.axd/bb3cffe33af94d569bc2388a55344f4a/60/js" type="text/javascript"></script>
-<script type="text/javascript">$(document).ready(function() { $('.advertzone').advertTracking('init', {"SessionID":16110601,"DomainNameID":2,"AdvertID":0,"AdvertZoneID":0,"SiteUrl":"","Url":"","UserID":0}); });</script>
-<script type="text/javascript">$(document).ready(function() { $('form.vfform').formvalidation('init', 16110601, 2, 1, 'ENG', 0); });</script>
+    <link href="/DependencyHandler.axd/5e6928f318501a998eb7c8930406a9bf/90/css" type="text/css" rel="stylesheet"><script async="" src="//static.ads-twitter.com/uwt.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/DependencyHandler.axd/1f6edc9ee5edf05f05a44b898d6fc0d1/90/js" type="text/javascript"></script><script src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" type="text/javascript"></script>
+<script type="text/javascript">$(document).ready(function() { $('.advertzone').advertTracking('init', {"SessionID":27971166,"DomainNameID":2,"AdvertID":0,"AdvertZoneID":0,"SiteUrl":"","Url":"","UserID":0}); });</script>
+<script type="text/javascript">$(document).ready(function() { $('form.vfform').formvalidation('init', 27971166, 2, 1, 'ENG', 0); });</script>
 <script type="text/javascript">$(function(){ $.fn.productpopup.init({"PriceListID":2,"WarehouseID":1,"DomainNameID":2,"LanguageID":1}); });</script>
 <script type="text/javascript">$(function(){$.fn.productpopup.hookClick({"PriceListID":2,"WarehouseID":1,"DomainNameID":2,"LanguageID":1});});</script>
 <script type="text/javascript">
@@ -29,81 +29,93 @@ $(document).ready(function() {
 });
 </script>
 <script id="ctl00_ProductPopUp_jtmplProductPopUp_jtmpl" class="templatesource" type="text/x-jquery-tmpl">
-			<div class="col-sm-4">
-				<div class="product-image">
-                    
-                    {{if Product.Attributes.PromotionalBanner!=""}}
-                        <div class="product-special">${Product.Attributes.PromotionalBanner}</div>
-                    {{else}}
-                        {{if Product.Variations.length > 0}}
-                            {{if Product.Attributes.PromoBannerValue}}
-                                   {{if Product.Attributes.PromoBannerValue!=''}}
-                                   <div class="product-special">${Product.Attributes.PromoBannerValue}</div>
-                                    {{/if}}
-                            {{/if}}
-                        {{else}}
+            <div class="n-popup-header">
+				<div>
+                    <a href="${Product.Navigation_Product}">${Product.ProductName}</a>
+				</div>
+            </div>
+
+            <div class="left">
+                <div class="popup-image">
+				    <a href="${Product.Navigation_Product}">
+					    {{if Product.ProductPrimaryImages.DEFAULT_MEDIUM != "/Images/Product/Default/medium/missingimage.png"}}
+						    {{if Product.ProductPrimaryImages.DEFAULT_MEDIUM != ""}}
+						    <img class="scaleAll image-hover" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="${Product.ProductPrimaryImages.DEFAULT_MEDIUM}" alt="${Product.ProductName}" />
+						    {{else}}
+						    <img class="scaleAll image-hover" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/resources/Retail/images/no-image-retail.gif" alt="${Product.ProductName}" />
+						    {{/if}}
+					    {{else}}
+						    <img class="scaleAll image-hover" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/resources/Retail/images/no-image-retail.gif" alt="${Product.ProductName}" />
+					    {{/if}}
+				    </a>
+                </div>
+                <div class="left-content">
+                <div class="popup-checks">
+				    <ul>
+					    {{if Product.Attributes.USP1 != ''}}
+					    <li><span class="sprite check-red"></span>${Product.Attributes.USP1}</li>
+					    {{/if}}
+					    {{if Product.Attributes.USP2 != ''}}
+					    <li><span class="sprite check-red"></span>${Product.Attributes.USP2}</li>
+					    {{/if}}
+					    {{if Product.Attributes.USP3 != ''}}
+					    <li><span class="sprite check-red"></span>${Product.Attributes.USP3}</li>
+					    {{/if}}
+				    </ul>
+			    </div>
+                <div class="popup-view">
+                    <a href="${Product.Navigation_Product}" class="tertiary-button full-width auto">View Full Details</a>
+                </div>
+                </div>
+            </div>
+
+            <div class="right">
+                <div class="popup-price top-p">
+                    <div class="price-wrap">
+					    <div id="data">
+						    <div id="symbol">&pound;</div>
+						    <div id="price-translation"></div>
+						    <div id="now-translation">Now</div>
+						    <div id="was-translation">Was</div>
+						    <div id="from-translation">From</div>
+					    </div>
+
+					    {{if Product.Variations.length > 0}}
+						    <div class="price">From &pound;${Product.VariationMinPrice.Price}</div>
+                            <div class="now-price"></div>
+                            <div class="was-price"></div>
+                        {{/if}}
+
+                        {{if Product.Variations.length == 0}}
                             {{if Product.ProductPrice.WasPrice > Product.ProductPrice.Price}}
-			                    <div class="product-special">Special Offer</div>
-		                    {{/if}}
-                        {{/if}}
-                    {{/if}}
-                    
-
-					<a href="${Product.Navigation_Product}">
-						{{if Product.ProductPrimaryImages.DEFAULT_MEDIUM != "/Images/Product/Default/medium/missingimage.png"}}
-							{{if Product.ProductPrimaryImages.DEFAULT_MEDIUM != ""}}
-							<img class="scaleAll image-hover" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="${Product.ProductPrimaryImages.DEFAULT_MEDIUM}" alt="${Product.ProductName}" />
-							{{else}}
-							<img class="scaleAll image-hover" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/resources/Retail/images/no-image-retail.gif" alt="${Product.ProductName}" />
-							{{/if}}
-						{{else}}
-							<img class="scaleAll image-hover" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/resources/Retail/images/no-image-retail.gif" alt="${Product.ProductName}" />
-						{{/if}}
-					</a>
-				</div>
-
-				<div class="product-rating">
-					{{if Product.IntegerRoundedAverageRating >= 0}}
-					<div class="ratingbar rating${Product.IntegerRoundedAverageRating}"></div>
-					{{/if}}
-				</div>
-			</div>
-
-			<div class="col-sm-8">
-				<div class="product-name"><a href="${Product.Navigation_Product}">${Product.ProductName}</a></div>
-                        
-				<div class="product-prices">
-					<div id="data">
-						<div id="symbol">&pound;</div>
-						<div id="price-translation"></div>
-						<div id="now-translation">Now</div>
-						<div id="was-translation">Was</div>
-						<div id="from-translation">From</div>
-					</div>
-					{{if Product.Variations.length > 0}}
-						<div class="price">From &pound;${Product.VariationMinPrice.Price}</div>
-                        <div class="now-price"></div>
-                        <div class="was-price"></div>
-                    {{/if}}
-
-                    {{if Product.Variations.length == 0}}
-                        {{if Product.ProductPrice.WasPrice > Product.ProductPrice.Price}}
-                                <div class="now-price">Now &pound;${Product.ProductPrice.Price}</div>
 								<div class="was-price">Was &pound;<span class="line-through">${Product.ProductPrice.WasPrice}</span></div>
-						{{else}}
+                                <div class="now-price">Now &pound;${Product.ProductPrice.Price}</div>
+						    {{else}}
                                 <div class="price">&pound;${Product.ProductPrice.Price}</div>
+                            {{/if}}
                         {{/if}}
-                    {{/if}}
-				</div>
-				
-				<form action="/help/security-and-privacy/" method="post" id="AddToBasketForm" class="fnmaintainpostback">
-					<input type="hidden" name="__csrfToken" value="93EE867E5C51F782FD84312A13531E98AEF38B55B3EE692953F911C54A68E6F49B"/>
-					<input type="hidden" name="basket_productcategoryid" id="basket_productcategoryid" value="${Product.ProductCategoryID}" />
-					<input type="hidden" name="basket_validate" id="basket_validate" value="1" />
-					<input type="hidden" name="searchterm" value="" />
+                    </div>
+                </div>
+                <div class="popup-stock stock-init">
+				    {{if Product.Variations.length == 0}}
+					    {{if Product.ProductStockCheck.StockDepletedAddToBasket == false}}
+						    {{if Product.ProductStockCheck.StockLevel > 0}}
+						    <span class="instock-section instock-elem"><span class="sprite check-green-bg"></span>Item&nbsp;in&nbsp;Stock</span>
+						    {{else}}
+						    <span class="outofstock-section outofstock-elem"><span class="sprite cross-red-bg"></span>Out&nbsp;of&nbsp;Stock</span>
+						    {{/if}}
+					    {{/if}}
+				    {{/if}}
+                </div>
+                <div class="popup-product-action">
+				    <form action="/help/security-and-privacy/" method="post" id="AddToBasketForm" class="fnmaintainpostback">
+					    <input type="hidden" name="__csrfToken" value="0E043CDA76B4F4522F9B1478D90AF1BB5AE1B2A084BB31E59047586917059F1C31"/>
+					    <input type="hidden" name="basket_productcategoryid" id="basket_productcategoryid" value="${Product.ProductCategoryID}" />
+					    <input type="hidden" name="basket_validate" id="basket_validate" value="1" />
+					    <input type="hidden" name="searchterm" value="" />
 
-					<div class="product-options">
-                        
+					    <div class="product-options">
+                            
 
 {{if Product.Variations.length > 0}}
 
@@ -128,41 +140,54 @@ $(document).ready(function() {
                     </select>
 
                     <div class="fake-select">
-                        {{each(i, option) dimension.Options}}
-                            {{if i != 0}}
+                        {{each(e, option) dimension.Options}}
+                            {{if e != 0}}
                                 <div class="change-select">
-                                    <a href="#" data-id="${dimension.Uid}" data-index="${i}">
+                                    <a href="#" data-id="${dimension.Uid}" data-index="${e}">
                                         <span class="text">
                                             ${option.Name}
                                         </span>
                                     </a>
                                 </div>
                             {{else}}
-                                <p class="label">${option.Name}</p>
+                                <p class="label"><span class="sprite counter"></span>${option.Name}</p>
                             {{/if}}
                         {{/each}}
                     </div>
                 </div>
 
                 {{if i != 0}}
-                <div id="message">Please select an option</div>
+                <div id="message">Select an option</div>
                 {{/if}}
             {{/each}}
+
+            <div class="product-stock display">
+                <span id="outofstock" class="outofstock-section outofstock-elem" style="display:none;"><span class="sprite cross-red-bg"></span>Item out of Stock</span>
+                <span id="instock" class="instock-section instock-elem" style="display:none;"><span class="sprite check-green-bg"></span>Item in Stock</span>
+            </div>
 
             <div class="add-to-basket">
                 <div id="options">
                     <div class="quantity">
-                        <span class="tag">Qty</span>
+                        <span class="qty-step minus disabled"></span>
                         <input type="number" id="basket_quantity_variations" name="basket_quantity" value="${Product.MinimumOrderQuantity}" class="basket_quantity input" />
+                        <span class="qty-step plus"></span>
+                    </div><!--
+
+                    --><div class="product-prices inline">
+                        <div class="was-price"></div>
+                        <div class="m-p-wrap">
+                            <div class="price"></div>
+                            <div class="now-price"></div>
+                            <div class="rrp-price"></div>
+                        </div>
                     </div>
 
-                    <button type="submit" class="primary-button button" data-pd-variation-disabletillselection>Add To Basket</button>
+                    <button type="submit" class="primary-button button" data-pd-variation-disabletillselection><span class="sprite add-basket-white"></span>Add To Basket</button>
                 </div>
             </div>
 
-            <div class="product-stock">
-                <span id="outofstock2" class="outofstock-section" style="display:none;"><span class="sprite outofstock"></span>Out Of Stock</span>
-            </div>
+
 
         {{/if}}
 
@@ -176,11 +201,12 @@ $(document).ready(function() {
 
             <div id="options">
 			    <div class="quantity">
-				    <span class="tag">Qty</span>
+                    <span class="qty-step minus disabled"></span>
 				    <input type="number" name="basket_quantity" class="basket_quantity input" value="1" />
+                    <span class="qty-step plus"></span>
 			    </div>
 
-			    <input type="submit" class="primary-button button" name="Submit" value="Add To Basket"/>
+			    <button type="submit" class="primary-button button" name="Submit" value="Add To Basket"><span class="sprite add-basket-white"></span>Add To Basket</button>
 		    </div>
         </div>
     {{else}}
@@ -190,51 +216,31 @@ $(document).ready(function() {
 
                 <div id="options">
 			        <div class="quantity">
-				        <span class="tag">Qty</span>
+                        <span class="qty-step minus disabled"></span>
 				        <input type="number" name="basket_quantity" class="basket_quantity input" value="1" />
+                        <span class="qty-step plus"></span>
 			        </div>
 
-			        <input type="submit" class="primary-button button" name="Submit" value="Add To Basket"/>
+			        <button type="submit" class="primary-button button" name="Submit" value="Add To Basket"><span class="sprite add-basket-white"></span>Add To Basket</button>
 		        </div>
             </div>
         {{/if}}
     {{/if}}
 
 {{/if}}
+					    </div>
+				    </form>
+                </div>
+            </div>
 
-                        <div class="product-stock">
-							{{if Product.Variations.length == 0}}
-								{{if Product.ProductStockCheck.StockDepletedAddToBasket == false}}
-									{{if Product.ProductStockCheck.StockLevel > 0}}
-									<span class="instock-section"><span class="sprite instock"></span>In&nbsp;Stock</span>
-									{{else}}
-									<span class="outofstock-section"><span class="sprite outofstock"></span>Out&nbsp;of&nbsp;Stock</span>
-									{{/if}}
-								{{else}}
-									<span class="instock-section"><span class="sprite instock"></span>In&nbsp;Stock</span>
-								{{/if}}
-							{{else}}
-								<span id="instock" class="instock-section" style="display: none;"><span class="sprite instock"></span>In&nbsp;Stock</span>
-							{{/if}}
-						</div>
-					</div>
-				</form>
-
-				<div class="row product-actions">
-					<div class="col-sm-6">
-						<a href="${Product.Navigation_Product}" class="tertiary-button full-width auto">View Full Details</a>
-					</div>
-
-					<div class="col-sm-6">
-						<a href="/my-account/your-wishlist/?productlist_productlisttypeid=4&productlist_add=${Product.ProductID}" class="tertiary-button full-width auto">Add To Wishlist</a>
-					</div>
-				</div>
-			</div>
+            
 		</script>
 
 
     
 
+    
+    
     
     
     
@@ -272,13 +278,13 @@ ga('send', 'pageview');
     
 
     <!--Icons and Tiles-->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/resources/Maxi/images/144-star.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/resources/Maxi/images/114-star.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/resources/Maxi/images/72-star.png">
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/resources/Maxi/images/57-star.png">  
-    <meta name="msapplication-TileColor" content="#F1F1F1">
-    <meta name="msapplication-TileImage" content="/resources/Maxi/images/144-star-tile.png">
-    <link rel="shortcut icon" href="/resources/Maxi/images/favicon.ico"> 
+    <link rel="apple-touch-icon" href="/resources/Maxi/images/apple-touch-icon.png">
+    <link rel="shortcut icon" href="/resources/Maxi/images/favicon.ico">
+    <link rel="icon" type="image/png" href="/resources/Maxi/images/favicon-16x16.png" sizes="16x16">  
+    <link rel="icon" type="image/png" href="/resources/Maxi/images/favicon-32x32.png" sizes="32x32">  
+    <link rel="mask-icon" href="/resources/Maxi/images/safari-pinned-tab.svg">
+    <link rel="manifest" href="/resources/Maxi/images/site.webmanifest">
+    <meta name="msapplication-config" content="/resources/Maxi/images/browserconfig.xml">
 
     <!-- support for legacy browsers -->
     <!--[if IE 8 ]>
@@ -306,9 +312,9 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
 
 
 	<script>(function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "27000185" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script>
-<script src="https://td.yieldify.com/yieldify/code.js?w_uuid=ba0c7bb2-7413-4613-ab0e-f083559f781c&amp;k=1&amp;loca=https://web.archive.org/web/20181123165701id_/https://www.maxinutrition.com/help/security-and-privacy/" async=""></script></head>
+<script src="https://td.yieldify.com/yieldify/code.js?w_uuid=ba0c7bb2-7413-4613-ab0e-f083559f781c&amp;k=1&amp;loca=https://web.archive.org/web/20190802161638id_/https://www.maxinutrition.com/help/security-and-privacy/" async=""></script></head>
 
-<body>
+<body class="maxinormal">
     <!--top header -->
 
     <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -344,7 +350,7 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
 	valueOf() + (h ? '&utmxhash=' + escape(h.substr(1)) : '') +
 	'" type="text/javascript" charset="utf-8"><\/sc' + 'ript>')
 })();
-</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=100269420-16&amp;utmx=&amp;utmxx=&amp;utmxtime=1580407522865" type="text/javascript" charset="utf-8"></script>
+</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=100269420-16&amp;utmx=&amp;utmxx=&amp;utmxtime=1580478871959" type="text/javascript" charset="utf-8"></script>
 <script>	utmx('url', 'A/B');</script>
 <!-- End of Google Analytics Content Experiment code -->
 
@@ -354,87 +360,90 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
 <!-- Affiliate tracking tag end-->
 
 <!-- Desktop Header -->
-<div id="header" class="hidden-xs hidden-sm">
+<div id="header">
 	<div class="container">
-		<div class="row default-header">
-			<div class="col-sm-3">
-				<div class="logo">
-					<a href="/" title="MaxiNutrition">
-						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/resources/Maxi/images/maxi-logo.png" alt="MaxiNutrition"></a>
-				</div>
+        <div class="default-header">
+			<div class="logo">
+				<a href="/" title="MaxiNutrition">
+					<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/resources/Maxi/images/2019/logo.svg" alt="MaxiNutrition">
+
+                    
+				</a>
+                
 			</div>
             
             
-			    <div class="col-md-9">
-				    <div class="header-actions">
-					    <div class="site-search">
-						<form method="get" action="/search-results/" id="SearchForm">
-							    <input type="hidden" id="pricelistid" value="2">
-							    <input type="hidden" id="sessionid" value="16110601">
+            <div class="search-wrap-l">
+			<div class="site-search">
+				<form method="get" action="/search-results/" id="SearchForm">
+					<input type="hidden" id="pricelistid" value="2">
+					<input type="hidden" id="sessionid" value="27971166">
 
-							    <div class="site-search-input">
-								<input type="text" name="searchterm" id="searchterm" placeholder="Search" value="" title="Search" class="stsearchterm fnsearchflyoutterm" autocomplete="off">
+					<div class="site-search-input">
+					<input type="text" name="searchterm" id="searchterm" placeholder="Search" value="" title="Enter keyword or product code" class="stsearchterm fnsearchflyoutterm" autocomplete="off">
 
-								    <button type="submit" name="searchterm_submit" id="SearchButton" class="primary-button" value="Go">Search</button>
+						<button type="submit" name="searchterm_submit" id="SearchButton" class="blank-button" value="Go"><span class="sprite search-black"></span>Search</button>
 
-								    
+                        <div class="search-flyout-lg">
+							
 
 <div class="search-flyout">
-    <script language="javascript" type="text/javascript">$(document).ready(function() { $('#ctl00_retailHeader_Search_Flyout_SearchFlyOutFacetedContext').searchFlyOut('Init',{"SearchTarget":1,"ProductTypeID":0,"TemplateTypeID":0,"CustomParameters":{},"ItemsPropertyDateFormat":"dd MM yyyy","SearchTerm":"","AppliedFacetOrder":{},"AppliedFacets":{},"AppliedFacetsByNavigationName":{},"AppliedDateFacets":{},"ProductCategoryID":0,"PageID":37,"PageInstanceID":0,"ProductID":0,"SearchTermEmpty":true,"SortFieldID":13,"SortDirection":1,"ExpandedFacets":[],"Is404Page":false,"IsLoginPage":false,"ClearAppliedFacetsOnTextSearch":false,"EnableLazyLoading":false,"EnableFileSystemCaching":false,"LazyLoadingLoadPosition":0.8,"CurrentLazyLoadingPage":1,"UrlString":"https://www.maxinutrition.com/help/security-and-privacy/","TaxJurisdictionID":3,"LanguageID":1,"RequestIP":"207.241.229.237","UserID":0,"PriceListID":2,"SessionID":16110601,"DomainNameID":2,"PageSize":5,"PagingFormat":2,"CurrentPage":1,"GroupSize":4,"CompanyID":0,"IncludeSubCategoryProducts":false,"UserInteracted":false,"WarehouseID":1,"TaxSystem":1,"SearchFlyOut":true,"BasketTotalLinePriceDiscountedBeforeDelivery":0,"OfferIDsAppliedToBasket":[],"InitialProductCategoryID":0,"IsSearchTermDefinedByFacet":false},'ExecuteProductSearchByRequest','ExecuteProductSearchByToken')});</script>
-    <script language="javascript" type="text/javascript">$(document).ready(function() { $('#ctl00_retailHeader_Search_Flyout_SearchFlyOutPageFaceted').searchFlyOut('InitForPage',{"SearchTarget":2,"State":3,"TemplateTypeID":0,"PageSearchFields":[{"UniqueName":"ArticleContentSummary","ZoneElement":"Article Content","FieldName":"Summary"}],"CustomParameters":{},"ItemsPropertyDateFormat":"dd MM yyyy","SearchTerm":"","AppliedFacetOrder":{},"AppliedFacets":{},"AppliedFacetsByNavigationName":{},"AppliedDateFacets":{},"ProductCategoryID":0,"PageID":37,"PageInstanceID":0,"ProductID":0,"SearchTermEmpty":true,"SortFieldID":15,"SortDirection":1,"ExpandedFacets":[],"Is404Page":false,"IsLoginPage":false,"ClearAppliedFacetsOnTextSearch":false,"EnableLazyLoading":false,"EnableFileSystemCaching":false,"LazyLoadingLoadPosition":0.8,"CurrentLazyLoadingPage":1,"UrlString":"https://www.maxinutrition.com/help/security-and-privacy/","TaxJurisdictionID":3,"LanguageID":1,"RequestIP":"207.241.229.237","UserID":0,"PriceListID":2,"SessionID":16110601,"DomainNameID":2,"PageSize":3,"PagingFormat":2,"CurrentPage":1,"GroupSize":4,"CompanyID":0,"IncludeSubCategoryProducts":false,"UserInteracted":false,"WarehouseID":1,"TaxSystem":1,"SearchFlyOut":true,"BasketTotalLinePriceDiscountedBeforeDelivery":0,"OfferIDsAppliedToBasket":[],"InitialProductCategoryID":0,"IsSearchTermDefinedByFacet":false},'ExecutePageSearchByRequest','ExecutePageSearchByToken')});</script>
+    <script language="javascript" type="text/javascript">$(document).ready(function() { $('#ctl00_retailHeader_Search_Flyout_SearchFlyOutFacetedContext').searchFlyOut('Init',{"SearchTarget":1,"ProductTypeID":0,"TemplateTypeID":0,"CustomParameters":{},"ItemsPropertyDateFormat":"dd MM yyyy","SearchTerm":"","AppliedFacetOrder":{},"AppliedFacets":{},"AppliedFacetsByNavigationName":{},"AppliedDateFacets":{},"ProductCategoryID":0,"PageID":37,"PageInstanceID":0,"ProductID":0,"SearchTermEmpty":true,"SortFieldID":13,"SortDirection":1,"ExpandedFacets":[],"Is404Page":false,"IsLoginPage":false,"ClearAppliedFacetsOnTextSearch":false,"EnableLazyLoading":true,"EnableFileSystemCaching":false,"LazyLoadingLoadPosition":999.99,"CurrentLazyLoadingPage":1,"UrlString":"https://www.maxinutrition.com/help/security-and-privacy/","TaxJurisdictionID":3,"LanguageID":1,"RequestIP":"207.241.229.224","UserID":0,"PriceListID":2,"SessionID":27971166,"DomainNameID":2,"PageSize":5,"PagingFormat":2,"CurrentPage":1,"GroupSize":2,"CompanyID":0,"IncludeSubCategoryProducts":false,"UserInteracted":false,"WarehouseID":1,"TaxSystem":1,"SearchFlyOut":true,"BasketTotalLinePriceDiscountedBeforeDelivery":0,"OfferIDsAppliedToBasket":[],"InitialProductCategoryID":0,"IsSearchTermDefinedByFacet":false},'ExecuteProductSearchByRequest','ExecuteProductSearchByToken')});</script>
+    <script language="javascript" type="text/javascript">$(document).ready(function() { $('#ctl00_retailHeader_Search_Flyout_SearchFlyOutPageFaceted').searchFlyOut('InitForPage',{"SearchTarget":2,"State":3,"TemplateTypeID":0,"PageSearchFields":[{"UniqueName":"ArticleContentSummary","ZoneElement":"Article Content","FieldName":"Summary"}],"CustomParameters":{},"ItemsPropertyDateFormat":"dd MM yyyy","SearchTerm":"","AppliedFacetOrder":{},"AppliedFacets":{},"AppliedFacetsByNavigationName":{},"AppliedDateFacets":{},"ProductCategoryID":0,"PageID":37,"PageInstanceID":0,"ProductID":0,"SearchTermEmpty":true,"SortFieldID":15,"SortDirection":1,"ExpandedFacets":[],"Is404Page":false,"IsLoginPage":false,"ClearAppliedFacetsOnTextSearch":false,"EnableLazyLoading":true,"EnableFileSystemCaching":false,"LazyLoadingLoadPosition":999.99,"CurrentLazyLoadingPage":1,"UrlString":"https://www.maxinutrition.com/help/security-and-privacy/","TaxJurisdictionID":3,"LanguageID":1,"RequestIP":"207.241.229.224","UserID":0,"PriceListID":2,"SessionID":27971166,"DomainNameID":2,"PageSize":3,"PagingFormat":2,"CurrentPage":1,"GroupSize":2,"CompanyID":0,"IncludeSubCategoryProducts":false,"UserInteracted":false,"WarehouseID":1,"TaxSystem":1,"SearchFlyOut":true,"BasketTotalLinePriceDiscountedBeforeDelivery":0,"OfferIDsAppliedToBasket":[],"InitialProductCategoryID":0,"IsSearchTermDefinedByFacet":false},'ExecutePageSearchByRequest','ExecutePageSearchByToken')});</script>
     <script language="javascript" type="text/javascript">$(document).ready(function() { $('#ctl00_retailHeader_Search_Flyout_SearchFlyOutCategoryContext').searchFlyOut('InitForCategory',{"AttributeID":0,"ResultSize":5,"SearchFlyOut":true,"SortColumnName":"Name","SortDirection":0,"SearchTermEmpty":true,"AppliedDateFacets":{},"AppliedFacets":{},"AppliedFacetsByNavigationName":{},"CompanyID":0,"DomainNameID":2,"IncludeSubCategoryProducts":false,"LanguageID":1,"PriceListID":0,"ProductCategoryID":0,"SearchTarget":5,"SearchTerm":"","UrlString":"https://www.maxinutrition.com/help/security-and-privacy/","BasketTotalLinePriceDiscountedBeforeDelivery":0,"Is404Page":false,"IsLoginPage":false,"OfferIDsAppliedToBasket":[],"PageID":0,"PageInstanceID":0,"ProductID":0,"RequestIP":"","SessionID":0,"TaxJurisdictionID":0,"UserID":0},'ExecuteCategorySearchByRequest','')});</script>
     
-    <div class="row">
+    <div class="product-suggestion-wrap">
         <script class="fnresultstemplate" type="text/x-jquery-tmpl" data-searchtarget="Products">
                 {{if HasProducts}}
-                    <div class="col-sm-7">
-                        <div id="FlyOutProductsResults">
-                            <div class="search-products">
-                                <ul>
-                                {{each(i, Product) Products}}
-                                    <li>
-					                    <a href="${Product.Navigation_Product}" title="${Product.ProductName}">
-                                            <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="${Product.ProductPrimaryImages.DEFAULT_SMALL}" alt="${Product.ProductName}" />
-                                            <div class="product-information">
-						                        <div class="title">${Product.ProductName}</div>
-						                        {{if Product.ProductPrice.Price > 0}}
-                                                <div class="price">&pound;${Product.ProductPrice.Price}</div>
+                    <div id="FlyOutProductsResults">
+                        <div class="search-products">
+                            <ul>
+                            {{each(i, Product) Products}}
+                                <li>
+					                <a href="${Product.Navigation_Product}" title="${Product.ProductName}">
+                                        <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="${Product.ProductPrimaryImages.DEFAULT_SMALL}" alt="${Product.ProductName}" />
+                                        <div class="product-information">
+						                    <div class="title">${Product.ProductName}</div>
+                                            {{if Product.Variations.length > 0}}
+									            {{if Product.VariationMinPrice.Price > 0}}
+                                                    <div class="price">From&nbsp;<span class="val">${Product.VariationMinPrice.Price}</span></div>
+                                                {{/if}}
+                                            {{else}}
+                                                {{if Product.ProductPrice.Price > 0}}
+                                                <div class="price"><span class="val">&pound;${Product.ProductPrice.Price}</span></div>
 						                        {{/if}}
-                                            </div>
-					                    </a>
-				                    </li>
-                                {{/each}}
-                                </ul>
+                                            {{/if}}
+                                        </div>
+					                </a>
+				                </li>
+                            {{/each}}
+                            </ul>
                                 
-                                {{if Paging.TotalPages > 1}}
-                                <div class="see-all-results">
-                                    <a href="/home/search-results?searchterm=${Request.SearchTerm}" title="See all results">See all results&nbsp;&raquo;</a>
-                                </div>
-                                {{/if}}
+                            {{if Paging.TotalPages > 1}}
+                            <div class="see-all-results">
+                                <a class="tertiary-button" href="/home/search-results?searchterm=${Request.SearchTerm}" title="See all products">See all products</a>
                             </div>
+                            {{/if}}
                         </div>
                     </div>
                 {{else}}
                     <div id="FlyOutProductsNoResults"></div>
                 {{/if}}
-        
             </script><div class="fnsearchflyout fnloading">
 
 </div>
-        
+
         <script class="stscripttemplate" type="text/x-jquery-tmpl">
                 {{if SearchTerms.length > 0}}
-                <div class="col-sm-5">
-                    <div class="search-suggestions">
+                <div class="search-suggestions">
 
-                        <p><strong>Are you looking for...</strong></p>
+                    <p><strong>Are you looking for...</strong></p>
 
-                        <ul>
-                            {{each(i, SearchTerm) SearchTerms}}
-                            <li><a href="/search-results?searchterm=${SearchTerm}">${SearchTerm}</a></li>
-                            {{/each}}
-                        </ul>
-                    </div>
+                    <ul>
+                        {{each(i, SearchTerm) SearchTerms}}
+                        <li><a href="/search-results?searchterm=${SearchTerm}">${SearchTerm}</a></li>
+                        {{/each}}
+                    </ul>
                 </div>
                 {{/if}}
             </script><div id="ctl00_retailHeader_Search_Flyout_searchTermAutoComplete" class="stresultsregion">
@@ -446,12 +455,14 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
             {{if HasPages}}
                 <div id="FlyOutPagesResults">
                     <div class="search-pages">
-                        {{each(i, Page) Pages}}
-                        <div class="page">
-                            <h3><a href="${Page.Url}">${Page.Title}</a></h3>
-                            <p>${Page.Attributes.ArticleContentSummaryTrimmed} <a href="${Page.Url}">read more</a></p>
-                        </div>
-                        {{/each}}
+                        <ul>
+                            {{each(i, Page) Pages}}
+                            <li class="page">
+                                <h3><a href="${Page.Url}">${Page.Title}</a></h3>
+                                <p>${Page.Attributes.ArticleContentSummaryTrimmed} <a href="${Page.Url}">read more</a></p>
+                            </li>
+                            {{/each}}
+                        </ul>
                     </div>
                 </div>
             {{else}}
@@ -463,7 +474,7 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
 
     <script class="fnresultstemplate" type="text/x-jquery-tmpl" data-searchtarget="Categories">
             {{if HasCategories}}
-                <div id="FlyOutCategoriesResults">
+                <div id="FlyOutCategoriesResults" class="hidden-sm hidden-xs">
                     <div class="search-categories">
                         {{each(i, Category) Categories}}
                         <div class="category">
@@ -489,34 +500,52 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
     </div>
 </div>
 
-							    </div>
-						    </form>
-					    </div>
+                        </div>
+					</div>
+				</form>
+			</div>
+            </div>
 
-					    
+			<div class="header-actions">
+                <div class="mobile-search-trigger">
+                    <span class="sprite search-red"></span>
+                </div>
+
+                <div class="my-account-links hidden-xs">
+                    <a href="/my-account">
+                        <span class="svg-sprite user">
+                            <svg><use xlink:href="/resources/Maxi/images/svg-sprite.svg#user"></use></svg>
+                       </span>
+                        My Account</a>
+                    <ul>
+                        
+                        <li class="red"><a href="/login/?redirectto=/help/security-and-privacy/" title="Create an account or login" id="sign-in">Create an account or login</a></li>
+                        
+                        <li><a href="/my-account/your-order-history">View Your Order History<span class="sprite order-history-black"></span></a></li>
+                        <li><a href="/my-account/recommend-a-friend">Recommend A Friend<span class="sprite recommend-black"></span></a></li>
+                        <li><a href="/my-account/your-wishlist">Your Wishlist<span class="sprite wishlist-black"></span></a></li>
+                        <li><a href="/my-account/update-your-details">Update Your Details<span class="sprite update-details-black"></span></a></li>
+                        <li><a href="/my-account/update-your-password">Update Your Password<span class="sprite update-password-black"></span></a></li>
+                        
+                        
+                            <li><a href="/maxiteams/Login.aspx?redirectto=/maxiteams">Maxiteams Sign In<span class="sprite maxiteams-login"></span></a></li>
+                        
+                    </ul>
+                </div>
+
+				
 
 <div id="HeaderMiniBasket" class="header-basket no-products">
     
-        <span>
-            <span class="sprite header-basket-icon"></span>
-            <span>0&nbsp;items - £0.00</span>
+        <span class="basket-text">
+            <span class="svg-sprite basket">
+                <span class="number">0</span>
+                <svg><use xlink:href="/resources/Maxi/images/svg-sprite.svg#basket"></use></svg>
+            </span>
+            <span>£0.00</span>
         </span>
     
 </div>
-				    </div>
-
-				    <div class="clearfix"></div>
-			    </div>
-            
-		</div>
-	</div>
-</div>
-
-<!-- Mobile Header -->
-<div id="mobile-header">
-	<div class="container">
-		<div class="mobile-header hidden-md hidden-lg">
-			<div class="mobile-header-row">
 				
                 
                     <div class="mobile-icon">
@@ -529,33 +558,10 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
 					    </a>
 				    </div>
                 
-
-				<div class="logo">
-					<a href="/" title="MaxiNutrition">
-						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/resources/Maxi/images/maxi-logo-mobile.png" alt="MaxiNutrition"></a>
-				</div>
-                
-			    
-
-				    <div class="mobile-icon">
-					    <span class="sprite mobile-search"></span>
-					    <form method="get" action="/home/search-results">
-						    <input type="text" name="searchterm" class="search-input" autocomplete="off" placeholder="Search">
-					    </form>
-				    </div>
-
-				    <div class="mobile-icon">
-					    <a href="/basket">
-						    <span class="sprite mobile-basket">
-							    
-							    <span class="basket-amount">0</span>
-						    </span>
-					    </a>
-				    </div>
-			    
-
 			</div>
-		</div>
+            
+        </div>
+        <div class="search-wrap-s"></div>
 	</div>
 </div>
 
@@ -577,495 +583,551 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
             <ul id="ctl00_retailHeader_Navigation_Menu_Primary_navUl"><li class="first-level">
 		
 			
-				<a href="/" title="Products" class="first-level-link has-dropdown" style="background-color: ;" target="_self">
+				<a href="/maximuscle/" title="Products" class="first-level-link has-dropdown" style="background-color: #E1261C;" target="_self">
 			
 			
-			Products
+			<span>Products</span>
 			</a>
 
-			<div class="dropdown">
-				<div class="dropdown-container">
+            <div class="dd-wrap">
+			<div class="dropdown n-style">
+				<div class="container">
 					<div class="coloured shading">
 						<div class="row">
-
-                            
-                            <div class="col-sm-4">
-
-                                
-
+                            <div class="col-sm-8 col-lg-7 links">
+                                <div class="row">
                                     
+                                    <div class="col-sm-6">
+
+                                        
 
                                             
-
-                                                <a class="link-item" href="/maximuscle/lean/" style="border-color: #0a8931;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #0a8931;">GET LEAN MUSCLE DEFINITION</span>
-                                                        
-                                                        
-                                                        <span class="description">PROMAX LEAN</span>
-                                                        
-                                                    </span>
 
                                                     
-                                                    <span class="image">
-                                                        <span class="icon icon-lean">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
 
-                                            
+                                                        <a class="link-item" href="/maximuscle/lean/" style="border-color: #0a8931;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-lean">&nbsp;</span>
+                                                            </span>
+                                                            
 
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="link-item" href="/maximuscle/strength/" style="border-color: #0085ca;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #0085ca;">INCREASE STRENGTH + POWER</span>
-                                                        
-                                                        
-                                                        <span class="description">CYCLONE</span>
-                                                        
-                                                    </span>
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #0a8931;">GET LEAN MUSCLE DEFINITION</span>
+                                                                
+                                                                
+                                                                <span class="description">PROMAX LEAN</span>
+                                                                
+                                                            </span>
+                                                        </a>
 
                                                     
-                                                    <span class="image">
-                                                        <span class="icon icon-strength">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
 
                                             
-
-                                    
                                 
-                                
-
-                                    
+                                        
 
                                             
-
-                                                <a class="link-item" href="/maximuscle/restore" style="border-color: #e1261c;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #e1261c;">RESTORE + BUILD MUSCLE</span>
-                                                        
-                                                        
-                                                        <span class="description">PROMAX &amp; PROMAX EXTREME</span>
-                                                        
-                                                    </span>
 
                                                     
-                                                    <span class="image">
-                                                        <span class="icon icon-restore">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
 
-                                            
+                                                        <a class="link-item" href="/maximuscle/strength/" style="border-color: #0085ca;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-strength">&nbsp;</span>
+                                                            </span>
+                                                            
 
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="link-item" href="/maximuscle/mass/" style="border-color: #6d2077;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #6d2077;">MUSCLE GAIN + MASS</span>
-                                                        
-                                                        
-                                                        <span class="description">PROGAIN &amp; PROGAIN EXTREME</span>
-                                                        
-                                                    </span>
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #0085ca;">INCREASE STRENGTH + POWER</span>
+                                                                
+                                                                
+                                                                <span class="description">CYCLONE</span>
+                                                                
+                                                            </span>
+                                                        </a>
 
                                                     
-                                                    <span class="image">
-                                                        <span class="icon icon-mass">&nbsp;</span>
-                                                    </span>
+
+                                            
+                                
+                                        
+
+                                            
+
                                                     
-                                                </a>
+
+                                                        <a class="link-item" href="/maximuscle/restore" style="border-color: #e1261c;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-restore">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #e1261c;">RESTORE + BUILD MUSCLE</span>
+                                                                
+                                                                
+                                                                <span class="description">PROMAX &amp; PROMAX EXTREME</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
 
                                             
 
-                                    
-                                
-                                
+                                                    
 
-                                    
+                                                        <a class="link-item" href="/maximuscle/mass/" style="border-color: #6d2077;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-mass">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #6d2077;">MUSCLE GAIN + MASS</span>
+                                                                
+                                                                
+                                                                <span class="description">PROGAIN &amp; PROGAIN EXTREME</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
 
                                             
 
-                                                <a class="standard-link" href="/type/protein/powders/">All Protein Powders</a>
-                                                <div class="clearfix"></div>
+                                                    
+
+                                                        <a class="link-item" href="/gen-p/" style="border-color: #b57ad6;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-gen-p">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #b57ad6;">DEVELOPED FOR WOMEN</span>
+                                                                
+                                                                
+                                                                <span class="description">GENERATION P</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
 
                                             
 
-                                    
-                                
-                                
+                                                    
 
-                                    
+                                                        <a class="link-item" href="/sculptress/" style="border-color: #c22a75;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-sculptress">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #c22a75;">MEAL REPLACEMENT</span>
+                                                                
+                                                                
+                                                                <span class="description">SCULPTRESS</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
 
                                             
 
-                                                <a class="standard-link" href="/type/protein/bars/">All Protein Bars</a>
-                                                <div class="clearfix"></div>
+                                                    
+
+                                                        <a class="standard-link" href="/type/protein/powders/">All Protein Powders</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
 
                                             
 
-                                    
-                                
-                                
+                                                    
 
+                                                        <a class="standard-link" href="/type/protein/bars/">All Protein Bars</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="standard-link" href="/type/protein/drinks/">All Protein Drinks</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="standard-link" href="/maximuscle/">View All Products</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                    </div>
+                                    
+
+                                    
+                                    <div class="col-sm-6">
+
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="link-item" href="/white-tubs/" style="border-color: #939594;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-beginners">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #939594;">PROTEIN FOR BEGINNERS</span>
+                                                                
+                                                                
+                                                                <span class="description">GREAT VALUE ESSENTIAL BLENDS</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="link-item" href="/maximuscle/raw-ingredients/" style="border-color: #111111;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-advanced">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #111111;">PERSONALISED PROTEIN OPTIONS</span>
+                                                                
+                                                                
+                                                                <span class="description">WITH OUR RAW INGREDIENTS</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="link-item" href="/special-offers/bulk-buys/" style="border-color: #791613;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-bulk">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #791613;">BULK BUY OFFERS</span>
+                                                                
+                                                                
+                                                                <span class="description">HUGE SAVINGS ON MULTI-PACKS</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="link-item" href="/special-offers/product-bundles/" style="border-color: #de6e43;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-bundle">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #de6e43;">BUNDLE OFFERS</span>
+                                                                
+                                                                
+                                                                <span class="description">CORE RANGE PRODUCT BUNDLES</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="link-item" href="/special-offers/clearance/" style="border-color: #f0c145;">                
+                                                            
+                                                            <span class="image">
+                                                                <span class="icon icon-clearance">&nbsp;</span>
+                                                            </span>
+                                                            
+
+                                                            <span class="text">
+                                                                
+                                                                <span class="title" style="color: #f0c145;">WAREHOUSE CLEARANCE</span>
+                                                                
+                                                                
+                                                                <span class="description">UP TO 75% OFF RRP</span>
+                                                                
+                                                            </span>
+                                                        </a>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="standard-link" href="/type/accessories/">Accessories</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="standard-link" href="/type/amino-acids/">BCAAs</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="standard-link" href="/type/capsules-and-tablets/">Capsules &amp; Tablets</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="standard-link" href="/type/creatine/">Containing Creatine</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                            
+
+                                                    
+
+                                                        <a class="standard-link" href="/sale/">Sale</a>
+                                                        <div class="clearfix"></div>
+
+                                                    
+
+                                            
+                                
+                                        
+
+                                    </div>
+                                    
+                                </div>
                             </div>
-                            
 
-                            
-                            <div class="col-sm-4">
-
-                                
-
+                            <script type="text/x-jquery-tmpl">
                                     
-
-                                            
-
-                                                <a class="link-item" href="/white-tubs/" style="border-color: #939594;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #939594;">PROTEIN FOR BEGINNERS</span>
-                                                        
-                                                        
-                                                        <span class="description">GREAT VALUE ESSENTIAL BLENDS</span>
-                                                        
-                                                    </span>
-
-                                                    
-                                                    <span class="image">
-                                                        <span class="icon icon-beginners">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
-
-                                            
-
+                                </script><span id="ctl00_retailHeader_Navigation_Menu_Primary_ctl02_ctl00_ArticleListing">
                                     
-                                
-                                
-
-                                    
-
+                                        <div class="col-sm-4 col-lg-5 nav-articles">
+                                            <div class="row">
                                             
+                                                <div class="col-lg-6 article-item column matchHeight">
+                                                    <div class="article-item-inner">
+                                                        <div class="row">
+                                                            <div class="col-xs-12">
+                                                                <a href="/nutrition/advice/yourmax-brand-story/"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/Article/small/MAXI_2019_MARO_ITOJE19978.jpg" alt="MAXI_2019_MARO_ITOJE19978.jpg" class="scaleAll image-hover"></a>
 
-                                                <a class="link-item" href="/maximuscle/raw-ingredients/" style="border-color: #111111;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #111111;">PROTEIN FOR ADVANCED USERS</span>
-                                                        
-                                                        
-                                                        <span class="description">OUR RAW INGREDIENTS</span>
-                                                        
-                                                    </span>
-
-                                                    
-                                                    <span class="image">
-                                                        <span class="icon icon-advanced">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
-
+                                                                <h3 class="article-title"><a href="/nutrition/advice/yourmax-brand-story/">#YourMAX – The Brand Story</a></h3>
+                                                                <p class="article-tag">
+                                                                    
+													                    
+												                    
+													                    
+                                                                            <a href="/nutrition/advice/?tagfilter=#YourMAX">#YourMAX</a>
+													                    
+												                    
+                                                                </p>
+                                                                <p class="link"><a class="tertiary-button read-more" href="/nutrition/advice/yourmax-brand-story/">read more</a></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             
+                                                <div class="col-lg-6 article-item column matchHeight">
+                                                    <div class="article-item-inner">
+                                                        <div class="row">
+                                                            <div class="col-xs-12">
+                                                                <a href="/nutrition/advice/how-exercise-can-help-mental-health/"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/Article/small/ExerciseHealthBanner.jpg" alt="ExerciseHealthBanner.jpg" class="scaleAll image-hover"></a>
 
-                                    
-                                
-                                
-
-                                    
-
+                                                                <h3 class="article-title"><a href="/nutrition/advice/how-exercise-can-help-mental-health/">How Exercise Can Help Your Mental Health</a></h3>
+                                                                <p class="article-tag">
+                                                                    
+													                    
+												                    
+													                    
+                                                                            <a href="/nutrition/advice/?tagfilter=Promax">Promax</a>
+													                    
+												                    
+                                                                </p>
+                                                                <p class="link"><a class="tertiary-button read-more" href="/nutrition/advice/how-exercise-can-help-mental-health/">read more</a></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             
-
-                                                <a class="link-item" href="/special-offers/bulk-buys/" style="border-color: #791613;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #791613;">BULK BUY OFFERS</span>
-                                                        
-                                                        
-                                                        <span class="description">HUGE SAVINGS ON MULTI-PACKS</span>
-                                                        
-                                                    </span>
-
-                                                    
-                                                    <span class="image">
-                                                        <span class="icon icon-bulk">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
-
-                                            
-
+                                            </div>
+                                        </div>
                                     
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="link-item" href="/special-offers/product-bundles/" style="border-color: #de6e43;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #de6e43;">BUNDLE OFFERS</span>
-                                                        
-                                                        
-                                                        <span class="description">CORE RANGE PRODUCT BUNDLES</span>
-                                                        
-                                                    </span>
-
-                                                    
-                                                    <span class="image">
-                                                        <span class="icon icon-bundle">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="standard-link" href="/type/protein/drinks/">All Protein Drinks</a>
-                                                <div class="clearfix"></div>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="standard-link" href="/maximuscle/">View All Products</a>
-                                                <div class="clearfix"></div>
-
-                                            
-
-                                    
-                                
-                                
-
-                            </div>
-                            
-
-                            
-                            <div class="col-sm-4">
-
-                                
-
-                                    
-
-                                            
-
-                                                <a class="link-item" href="/gen-p/" style="border-color: #b57ad6;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #b57ad6;">DEVELOPED FOR WOMEN</span>
-                                                        
-                                                        
-                                                        <span class="description">GENERATION P</span>
-                                                        
-                                                    </span>
-
-                                                    
-                                                    <span class="image">
-                                                        <span class="icon icon-gen-p">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="link-item" href="/sculptress/" style="border-color: #c22a75;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #c22a75;">MEAL REPLACEMENT</span>
-                                                        
-                                                        
-                                                        <span class="description">SCULPTRESS</span>
-                                                        
-                                                    </span>
-
-                                                    
-                                                    <span class="image">
-                                                        <span class="icon icon-sculptress">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="link-item" href="/special-offers/clearance/" style="border-color: #f0c145;">                
-                                                    <span class="text">
-                                                        
-                                                        <span class="title" style="color: #f0c145;">WAREHOUSE CLEARANCE</span>
-                                                        
-                                                        
-                                                        <span class="description">UP TO 75% OFF OUR BEST SELLERS</span>
-                                                        
-                                                    </span>
-
-                                                    
-                                                    <span class="image">
-                                                        <span class="icon icon-clearance">&nbsp;</span>
-                                                    </span>
-                                                    
-                                                </a>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="standard-link" href="/type/accessories/">Accessories</a>
-                                                <div class="clearfix"></div>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="standard-link" href="/type/amino-acids/">BCAAs</a>
-                                                <div class="clearfix"></div>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="standard-link" href="/type/capsules-and-tablets/">Capsules &amp; Tablets</a>
-                                                <div class="clearfix"></div>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="standard-link" href="/type/creatine/">Containing Creatine</a>
-                                                <div class="clearfix"></div>
-
-                                            
-
-                                    
-                                
-                                
-
-                                    
-
-                                            
-
-                                                <a class="standard-link" href="/sale/">Sale</a>
-                                                <div class="clearfix"></div>
-
-                                            
-
-                                    
-                                
-                                
-
-                            </div>
-                            
+                                </span>
 						</div>
+
+                        
 					</div>
 				</div>
 			</div>
+            </div>
 		
 	</li><li class="first-level">
 		
 			
-				<a href="/" title="Training Zone" class="first-level-link has-dropdown" target="_self">
+				<a href="/training/" title="Training Zone" class="first-level-link has-dropdown" style="background-color: ;" target="_self">
 			
 			
-			Training Zone
+			<span>Training Zone</span>
 			</a>
 
-			<div class="dropdown">
-				<div class="dropdown-container">
+            <div class="dd-wrap">
+			<div class="dropdown n-style">
+				<div class="container">
 					<div class="three-column shading">
 						<div class="row">
 
                             <div class="col-sm-4">
                                 
-                                    <a class="link-item" href="/training/tips/">                
-                                        <span class="text">
+                                    <a class="link-item" href="/training/tips/" style="border-color: #444;">                
+                                        <span class="text" style="color: #444;">
                                             Training Tips
                                         </span>
                                     </a>
                                 
-                                    <a class="link-item" href="/training/plans/">                
-                                        <span class="text">
+                                    <a class="link-item" href="/training/plans/" style="border-color: #444;">                
+                                        <span class="text" style="color: #444;">
                                             Training Plans
                                         </span>
                                     </a>
                                 
-                                    <a class="link-item" href="/training/body-parts/">                
-                                        <span class="text">
+                                    <a class="link-item" href="/training/body-parts/" style="border-color: #444;">                
+                                        <span class="text" style="color: #444;">
                                             Isolation Exercises
                                         </span>
                                     </a>
                                 
-                                    <a class="link-item" href="/training/beginners-guide/">                
-                                        <span class="text">
+                                    <a class="link-item" href="/training/beginners-guide/" style="border-color: #444;">                
+                                        <span class="text" style="color: #444;">
                                             Essential Training Guides
                                         </span>
                                     </a>
@@ -1078,9 +1140,8 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
                                     
                                         <div class="col-sm-6">
                                             <div class="section matchHeight">
-                                                <div class="title">WHAT'S YOUR GOAL?</div>
-
-                                                <ul>
+                                                <ul class="ul-def">
+                                                    <li class="title"><span class="ln">WHAT'S YOUR GOAL?</span></li>
                                                 
                                                     <li><a href="/sports/bodybuilding/">Get Bigger</a></li>
                                                 
@@ -1100,9 +1161,8 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
                                     
                                         <div class="col-sm-6">
                                             <div class="section matchHeight">
-                                                <div class="title">TRAINING BY SPORT</div>
-
-                                                <ul>
+                                                <ul class="ul-def">
+                                                    <li class="title"><span class="ln">TRAINING BY SPORT</span></li>
                                                 
                                                     <li><a href="/sports/gym-user/">Gym User</a></li>
                                                 
@@ -1138,18 +1198,20 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
 					</div>
 				</div>
 			</div>
+            </div>
 		
 	</li><li class="first-level">
 		
 			
-				<a href="/" title="NUTRITION GUIDES" class="first-level-link has-dropdown" target="_self">
+				<a href="/nutrition/" title="Nutrition Guides" class="first-level-link has-dropdown" style="background-color: ;" target="_self">
 			
 			
-			NUTRITION GUIDES
+			<span>Nutrition Guides</span>
 			</a>
 
-			<div class="dropdown">
-				<div class="dropdown-container">
+            <div class="dd-wrap">
+			<div class="dropdown n-style">
+				<div class="container">
 					<div class="three-column shading">
 						<div class="row">
 
@@ -1187,9 +1249,8 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
                                     
                                         <div class="col-sm-12">
                                             <div class="section matchHeight">
-                                                <div class="title">PRODUCT TYPES</div>
-
-                                                <ul>
+                                                <ul class="ul-def">
+                                                    <li class="title"><span class="ln">PRODUCT TYPES</span></li>
                                                 
                                                     <li><a href="/maximuscle/?product-type=Shakes">Shakes</a></li>
                                                 
@@ -1221,35 +1282,20 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
 					</div>
 				</div>
 			</div>
+            </div>
 		
 	</li><li class="first-level">
 		
 			
-				<a href="/our-expertise/heroes/" title="AMBASSADORS" class="first-level-link" target="_self">
+				<a href="/our-expertise/heroes/" title="Team Maximuscle" class="first-level-link" style="background-color: ;" target="_self">
 			
-			AMBASSADORS
-			</a>
-		
-	</li><li class="first-level">
-		
-			
-				<a href="/sale/" title="Black Friday" class="first-level-link" style="background-color: #f0c145;" target="_self">
-			
-			Black Friday
+			<span>Team Maximuscle</span>
 			</a>
 		
 	</li></ul>
+
+            
         </div>
-        <ul class="login-links">
-
-            
-                    <li class="first-level login-link"><a class="first-level-link" href="/login/?redirectto=/my-account" title="Sign In / Register"><span class="sprite navigation-login-icon"></span>Sign In / Register</a></li>
-                
-
-            
-
-        </ul>
-        <div class="clearfix"></div>
     </div>
 </div>
 
@@ -1258,8 +1304,18 @@ src = "https://www.facebook.com/tr?id=239365556425488&ev=PageView&noscript=1"
 <nav id="mobile-menu" class="hidden-md hidden-lg jqhidden">
 	<div class="navigation-inner">
 		<ul>	
-			<li class="first-level">
-<span>Products</span>
+			
+            
+			<red:datatypesourcefield name="Column One" list="True">
+                <fields>
+					<red:textboxfield name="Title Text">
+                    <red:linkfield name="Title Link">
+					<red:linkfield name="Links" list="True">
+                </red:linkfield></red:linkfield></red:textboxfield></fields>
+            </red:datatypesourcefield>
+
+		    <li class="first-level">
+<span style="background-color: #E1261C;">Products</span>
 <ul>
 <li class="second-level second-level-image" style="border-color: #0a8931;">
 <a href="/maximuscle/lean/" target="_self" title="GET LEAN MUSCLE DEFINITION" style="color: #0a8931;">
@@ -1281,6 +1337,16 @@ RESTORE + BUILD MUSCLE
 MUSCLE GAIN + MASS
 </a>
 </li>
+<li class="second-level second-level-image" style="border-color: #b57ad6;">
+<a href="/gen-p/" target="_self" title="DEVELOPED FOR WOMEN" style="color: #b57ad6;">
+DEVELOPED FOR WOMEN
+</a>
+</li>
+<li class="second-level second-level-image" style="border-color: #c22a75;">
+<a href="/sculptress/" target="_self" title="MEAL REPLACEMENT" style="color: #c22a75;">
+MEAL REPLACEMENT
+</a>
+</li>
 <li class="second-level second-level-image">
 <a href="/type/protein/powders/" target="_self" title="All Protein Powders">
 All Protein Powders
@@ -1289,26 +1355,6 @@ All Protein Powders
 <li class="second-level second-level-image">
 <a href="/type/protein/bars/" target="_self" title="All Protein Bars">
 All Protein Bars
-</a>
-</li>
-<li class="second-level second-level-image" style="border-color: #939594;">
-<a href="/white-tubs/" target="_self" title="PROTEIN FOR BEGINNERS" style="color: #939594;">
-PROTEIN FOR BEGINNERS
-</a>
-</li>
-<li class="second-level second-level-image" style="border-color: #111111;">
-<a href="/maximuscle/raw-ingredients/" target="_self" title="PROTEIN FOR ADVANCED USERS" style="color: #111111;">
-PROTEIN FOR ADVANCED USERS
-</a>
-</li>
-<li class="second-level second-level-image" style="border-color: #791613;">
-<a href="/special-offers/bulk-buys/" target="_self" title="BULK BUY OFFERS" style="color: #791613;">
-BULK BUY OFFERS
-</a>
-</li>
-<li class="second-level second-level-image" style="border-color: #de6e43;">
-<a href="/special-offers/product-bundles/" target="_self" title="BUNDLE OFFERS" style="color: #de6e43;">
-BUNDLE OFFERS
 </a>
 </li>
 <li class="second-level second-level-image">
@@ -1321,14 +1367,24 @@ All Protein Drinks
 View All Products
 </a>
 </li>
-<li class="second-level second-level-image" style="border-color: #b57ad6;">
-<a href="/gen-p/" target="_self" title="DEVELOPED FOR WOMEN" style="color: #b57ad6;">
-DEVELOPED FOR WOMEN
+<li class="second-level second-level-image" style="border-color: #939594;">
+<a href="/white-tubs/" target="_self" title="PROTEIN FOR BEGINNERS" style="color: #939594;">
+PROTEIN FOR BEGINNERS
 </a>
 </li>
-<li class="second-level second-level-image" style="border-color: #c22a75;">
-<a href="/sculptress/" target="_self" title="MEAL REPLACEMENT" style="color: #c22a75;">
-MEAL REPLACEMENT
+<li class="second-level second-level-image" style="border-color: #111111;">
+<a href="/maximuscle/raw-ingredients/" target="_self" title="PERSONALISED PROTEIN OPTIONS" style="color: #111111;">
+PERSONALISED PROTEIN OPTIONS
+</a>
+</li>
+<li class="second-level second-level-image" style="border-color: #791613;">
+<a href="/special-offers/bulk-buys/" target="_self" title="BULK BUY OFFERS" style="color: #791613;">
+BULK BUY OFFERS
+</a>
+</li>
+<li class="second-level second-level-image" style="border-color: #de6e43;">
+<a href="/special-offers/product-bundles/" target="_self" title="BUNDLE OFFERS" style="color: #de6e43;">
+BUNDLE OFFERS
 </a>
 </li>
 <li class="second-level second-level-image" style="border-color: #f0c145;">
@@ -1366,23 +1422,23 @@ Sale
 <li class="first-level">
 <span>Training Zone</span>
 <ul>
-<li class="second-level second-level-image">
-<a href="/training/tips/" target="_self" title="Training Tips">
+<li class="second-level second-level-image" style="border-color: #444;">
+<a href="/training/tips/" target="_self" title="Training Tips" style="color: #444;">
 Training Tips
 </a>
 </li>
-<li class="second-level second-level-image">
-<a href="/training/plans/" target="_self" title="Training Plans">
+<li class="second-level second-level-image" style="border-color: #444;">
+<a href="/training/plans/" target="_self" title="Training Plans" style="color: #444;">
 Training Plans
 </a>
 </li>
-<li class="second-level second-level-image">
-<a href="/training/body-parts/" target="_self" title="Isolation Exercises">
+<li class="second-level second-level-image" style="border-color: #444;">
+<a href="/training/body-parts/" target="_self" title="Isolation Exercises" style="color: #444;">
 Isolation Exercises
 </a>
 </li>
-<li class="second-level second-level-image">
-<a href="/training/beginners-guide/" target="_self" title="Essential Training Guides">
+<li class="second-level second-level-image" style="border-color: #444;">
+<a href="/training/beginners-guide/" target="_self" title="Essential Training Guides" style="color: #444;">
 Essential Training Guides
 </a>
 </li>
@@ -1412,7 +1468,7 @@ Essential Training Guides
 </ul>
 </li>
 <li class="first-level">
-<span>NUTRITION GUIDES</span>
+<span>Nutrition Guides</span>
 <ul>
 <li class="second-level second-level-image" style="border-color: #444;">
 <a href="/nutrition/recipes/" target="_self" title="Recipes" style="color: #444;">
@@ -1447,18 +1503,27 @@ Meal Plans
 </ul>
 </li>
 <li class="first-level">
-<a href="/our-expertise/heroes/" target="_self" title="AMBASSADORS">AMBASSADORS</a>
-</li>
-<li class="first-level">
-<a href="/sale/" target="_self" title="Black Friday" style="background-color: #f0c145;">Black Friday</a>
+<a href="/our-expertise/heroes/" target="_self" title="Team Maximuscle">Team Maximuscle</a>
 </li>
 
-        </ul>
-			
-        <ul>
+
             
-                    <li class="login-link"><a class="first-level-link" href="/login/?redirectto=/my-account" title="Sign In / Register"><span class="sprite navigation-login-icon"></span>Sign In / Register</a></li>
+                    <li class="white-link">
+                        <a class="first-level-link" href="/login/?redirectto=/my-account" title="Create an account or login">
+                            <span class="sprite my-account-red"></span>My Account
+                        </a>
+                    </li>
                 
+
+            
+            
+            
+            <li class="white-link">
+                <a class="first-level-link" href="/maxiteams/Login.aspx?redirectto=/maxiteams" title="Maxiteams Sign In">
+                    <span class="sprite maxiteams-login"></span>Maxiteams Sign In
+                </a>
+            </li>
+            
 
             
 		</ul>
@@ -1471,57 +1536,88 @@ Meal Plans
 
 	    <div class="usp">
 		    <div class="container">
-			    <div class="row">
-				    <ul id="usp-slider" class="usp-slider">
-                     
-					    
-					<li class="item default">
+				<ul id="usp-slider" class="usp-slider">
+                    
+
+                    <li class="item">
+                        <div class="i-wrap">
+                            <div class="trustpilot">
+                                <div class="text">
+                                    <!-- TrustBox widget - Micro Star -->
+                                    <div class="trustpilot-widget" data-locale="en-GB" data-template-id="5419b732fbfb950b10de65e5" data-businessunit-id="50c8c0aa00006400051f82be" data-style-height="24px" data-style-width="100%" data-theme="light">
+                                        <a href="https://uk.trustpilot.com/review/maxinutrition.com" target="_blank" rel="noopener">Trustpilot</a>
+                                    </div>
+                                    <!-- End TrustBox widget -->
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+					
+
+				<li class="item">
+                    <div class="i-wrap">
+					
+					<span class="image">
+						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/Fully_Batch_Tested_Grey.png" alt="Fully_Batch_Tested_Grey">
+					</span>
+					
+
+					<span class="text">
 						
-						<span class="image">
-							<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/delivery.png" alt="Delivery"></span>
+						<a class="l-wrap" href="/our-expertise/our-science/Informed-Sport/" target="_self" title="Informed-Sport">
+                        100% Batch Tested
+							
+						</a>
 						
+					</span>
+                    </div>
+				</li>
 
-						    <span class="text">
-							    
-							    <a href="/help/delivery-information/" target="_self" title="Delivery Information">
-								    
+					
 
-								    <span>
-									    Free UK Delivery over £40
-									    
-								    </span>
+				<li class="item">
+                    <div class="i-wrap">
+					
+					<span class="image">
+						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/Loyalty_Points_Icon_Grey.png" alt="Loyalty_Points_Icon_Grey">
+					</span>
+					
 
-								    
-							    </a>
-							    
-						    </span>
-					    </li>
-					    
-					<li class="item default">
+					<span class="text">
 						
-						<span class="image">
-							<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/money-back.png" alt="Money Back Guarantee"></span>
+						<a class="l-wrap" href="/loyaltypoints/" target="_self" title="Your Maximuscle Loyalty Points">
+                        Earn Loyalty Points
+							
+						</a>
 						
+					</span>
+                    </div>
+				</li>
 
-						    <span class="text">
-							    
-							    <a href="/help/money-back-guarantee/" target="_self" title="Money Back Guarantee">
-								    
+					
 
-								    <span>
-									    Money Back Guarantee
-									    
-								    </span>
+				<li class="item">
+                    <div class="i-wrap">
+					
+					<span class="image">
+						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/DPD_Symbol_Grey.png" alt="DPD_Symbol_Grey">
+					</span>
+					
 
-								    
-							    </a>
-							    
-						    </span>
-					    </li>
-					    
-				    </ul>
-				    <div class="clearfix"></div>
-			    </div>
+					<span class="text">
+						
+						<a class="l-wrap" href="/help/delivery-information/" target="_self" title="Delivery Information">
+                        Free Delivery Orders +£40
+							
+						</a>
+						
+					</span>
+                    </div>
+				</li>
+
+					
+				</ul>
 		    </div>
 	    </div>
 
@@ -1529,109 +1625,285 @@ Meal Plans
 
 
 
-    <div class="cookie-policy">
-        <a href="" class="close" title="close"></a>
-
-        <div class="cookie-message"><p>We use cookies on our website to enhance your experience. <a href="/help/cookie-policy/">Click here</a> to find out more about our usage.</p></div>
-    </div>
-
 
 
 
     <!-- TEMPLATE CONTENT -->
     
     
+
+    <div class="container-fluid content">
+        <div class="component_list">
+
+</div>
+    </div>
+
     <div class="container content">
         <div class="components">
             <div class="row">
             <!-- Top Advert -->
             <div class="col-sm-12">
-                <div id="ctl00_mainContent_Top_Advert_Zone_AdvertZone" class="advertzone" data-advertzoneid="1">
-	
-        
+             <div id="ctl00_mainContent_Top_Advert_Zone_AdvertZone" class="advertzone" data-advertzoneid="0">
 
-                <div class="advert" data-advertid="144">
-                    <a href="/sale">
-                    <picture>
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="/Images/NoResize/default/BlackFriday-75-Desktop-Global.jpg" media="(min-width: 768px)">
-                        <!--[if EI 9]></video><![endif]-->
-                        <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="data:image/gif;base64,R0lGODlhAQABAAAAADs=" srcset="/Images/NoResize/default/BlackFriday-75-Mobile-Global.jpg" alt="Black Friday - Up to 75% OFF" class="scaleAll">
-                    </picture>
-                    </a>
-                </div>
+</div>
 
-            
-</div><br>
+             <!-- Global Advert -->
+	         <div id="ctl00_mainContent_Global_Advert_Zone_Xhome_AdvertZone" class="advertzone" data-advertzoneid="0">
+
+</div>
+
+             <br>
             </div>
 
             <div class="col-md-9 col-md-push-3 right-column">
                 <div class="component_list">
 	
         <div class="component wysiwyg-component">
-        
+            
 
-        <h1>Privacy Statement</h1>
-<p>This privacy statement sets out how HNC Healthy Nutrition Company (UK) Limited (the data controller and “HNC”) uses and protects any information that you provide to us when you use the Maxinutrition.com website or otherwise provide HNC with your personal information.</p>
-<p>HNC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using the website, you can be assured that it will only be used in accordance with this privacy statement.</p>
-<p>HNC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 29 March 2018.</p>
-<p>By providing us with your personal information, you agree and consent to its transfer, processing, use and disclosure as outlined in this privacy statement.</p>
-<h3>What we collect</h3>
-<p>We collect personally identifiable information (PII) that you provide to us, which is information that identifies you as an individual. We only do this when you have agreed to our request for that information. This PII may include your:</p>
+            
+                <h1>Privacy Policy</h1>
+<p>This is the Privacy Policy of HNC Health Nutrition (UK) Limited (“we”, us”, “our”), a company registered in England and Wales (company number 11121748) whose registered office is at 2nd Floor New Century House Progress Way, Denton, Manchester, England, M34 2GP.</p>
+<p>This privacy policy aims to give you information on how we collect and process your personal information, including when you use the www.maxinutrition.com website. This website is not intended for children and we do not collect Personal Information relating to children.  We are committed to protecting and respecting your Personal Information and your privacy.  Should we ask you to provide certain Personal Information by which you can be identified when using the website, you can be assured that it will only be used in accordance with this privacy statement.</p>
+<p>HNC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 14 March 2019.</p>
+<h2>What Personal Information we collect and When we collect it</h2>
+<p>Personal Information means any information about an individual from which that person can be identified. It does not include information where the identity has been removed (anonymous data). </p>
+<p>We may collect, use and store the following Personal Information about you which we have grouped into the following categories: </p>
 <ul>
-    <li>Name.</li>
-    <li>Contact information including email address.</li>
-    <li>Demographic information such as postcode, preferences and interests.</li>
-    <li>Other information relevant to customer surveys and/or offers.</li>
+    <li>If you create an account on our website, we will collect your title, name, email address, IP address, password, contact number, gender and date of birth.</li>
+    <br>
+    <li>
+    When you place an order through our online shop, we will collect your Personal Information such as your title, name, email address, IP address, telephone or mobile number, billing and delivery addresses and purchase history. We will also collect Personal Information in relation to the payment you made to us via any third-party website (such as PayPal) in order to process your order.
+    </li>
+    <br>
+    <li>
+    When you provide a review of our products and our performance on a third-party platform (such as on Trustpilot), we may collect Personal Information such as your name, email address and the opinions expressed in your review.
+    </li>
+    <br>
+    <li>
+    When you have consented to receive marketing and technical information from us, we will collect your name, email address and your preferences as to the types of marketing and technical information in relation to our products you would like to receive from us.
+    </li>
+    <br>
+    <li>
+    When you contact us by any other means (e.g. email or telephone), we may keep a record of the email you send to us and the information you provide us with at the time.
+    </li>
+    <br>
+    <li>
+    If you submit a job application to us, we will collect your contact details and any other information that you provide in the application.
+    </li>
+    <br>
+    <li>
+    When you complete a survey, we collect the information you provide to us to for research purposes.
+    </li>
+    <br>
+    <li>
+    When you participate any of our competitions, we collect the information you provide to us to run the competition and for any other purposes communicated to you when you enter the competition.
+    </li>
+    <br>
+    <li>
+    When you visit this website, we may collect information such as your geolocation, weblogs and other communication that is available from the browser. </li>
 </ul>
-<h3>What we do with the information we gather</h3>
-<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+<p>Please note that we do not collect any special categories of Personal Information (i.e. racial or ethnic origin, political opinions, religious beliefs or other beliefs of a similar nature, trade union membership, physical or mental health or condition, sex life and sexual orientation, generic data and biometric data).</p>
+<h2>What other information we collect via our website and cookies </h2>
+<p>As you interact with our website, we may automatically collect information about your website usage such as information about your equipment, browsing actions, IP address, GPS location, mobile phone service provider and operating system and patterns. We aggregate this information to understand how our visitors use our websites and mobile applications so that we can improve them and the services we offer. GPS location data does not typically identify individual users. We collect this information by using cookies, server logs and other similar technologies. </p>
+<p>Our website uses a limited number of cookies, namely: </p>
 <ul>
-    <li>internal record keeping.</li>
-    <li>to improve our products and services.</li>
-    <li>to send you emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
-    <li>to contact you for market research purposes. We may contact you by email, phone, fax or mail.</li>
-    <li>to respond to your requests or queries and improve the content of our communication.</li>
+    <li>
+    Cookies which stores your acceptance to the use of cookies on our website.</li>
+    <br>
+    <li>
+    Cookies required for the functioning of our website (e.g. to maintain your shopping basket up to date and/or reviewed products); </li>
+    <br>
+    <li>
+    Cookies required by our partners (including Budget and RedEye) for assessing the impact and success of our marketing campaigns. Please note that these cookies do not store any Personal Information. </li>
+    <br>
+    <li>
+    Cookies required by Google Analytics in order to measure your website usage and improve the experience for our visitors on an ongoing basis. These cookies collect the information about your website usage, namely what pages you visit, how long you stay on each section of the website and what links you click on. </li>
 </ul>
-<h3>Security</h3>
-<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
-<h3>Sharing PII with third parties</h3>
-<p>Sometimes we use and share your information with selected third parties to provide support services in connection with our website and in the normal course of business. These parties include Red Eye International Limited (digital marketing services), Red Technology Solutions Limited (E-commerce services), Linn Systems Limited (Order Management Service), Boughey Distribution Limited (product deliver services) and their affiliates as may be necessary.</p>
-<p>We may also share your PII with our affiliates, contractors and agents in the normal course of business for delivery of the activities to which you have agreed. Unless otherwise agreed by you, we will not sell or rent PII to other third parties, except that your PII may be transferred to a third party in the event that the business of this site or a part of it and the customer data connected with it is sold, assigned or transferred. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
-<h3>Website usage</h3>
-<p>We also automatically collect information about your computer browser type and operating system, websites you visited before and after visiting our website, standard server log information, Internet Protocol (IP) addresses, GPS location data, mobile phone service provider, and mobile phone operating system. We aggregate this information to understand how our visitors use our websites and mobile applications so that we can improve them and the services we offer. GPS location data does not typically identify individual users. We may also share this aggregated information with other companies within the HNC group and with our Service Partners. This information includes:</p>
+<p>You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. </p>
+<h2>Why we collect your Personal Information </h2>
 <ul>
-    <li>the total number of visits to our websites and mobile applications.</li>
-    <li>the number of visitors to each page of our websites and mobile applications.</li>
-    <li>the domain names of our visitors' internet service providers.</li>
+    <li>
+    To manage our relationship with you which will include: registering you as a new account holder, completing your purchase transactions, managing payments and charges, notifying you of product recalls or provide information concerning products you have purchased, notifying you about changes to our terms and conditions of sale on the basis that it is necessary in order to perform our contract with you or because we have a legitimate interest in doing so. </li>
+    <br>
+    <li>
+    To administer and protect our business and the service and products we provide to you (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) on the basis that it is necessary in order to perform our contract with you or because we have a legitimate interest in doing so (i.e. for running the services you use, or providing administration and IT services, network security, or preventing prevent fraud).</li>
+    <br>
+    <li>
+    To advertise our products to you, send you our offers by email, to identify your product and service preferences (so that we can improve our merchandise selections, customer service and overall shopping experience), to notify you of new or additional products, services and promotions that might be of interest to you and to measure the effectiveness of these activities. </li>
+    <br>
+    <li>
+    We may use your Personal Information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. </li>
+    <br>
+    <li>
+    We may contact you for market research purposes. We will do so on the basis that you have consented to us processing your Personal Information in this way. You can always stop receiving marketing information from us at any time as these communications provide easy ways to unsubscribe. </li>
+    <br>
+    <li>
+    To respond to your requests or queries and improve the content of our communications on the basis that we have a legitimate interest to do so. </li>
+    <br>
+    <li>
+    To process and deliver our products to you, including reviewing our clients’ campaign evaluations, managing payments, collecting and recovering money owed to us on the basis that it is necessary in order to perform our contract with you. </li>
+    <br>
+    <li>
+    To process job applications and CVs submitted to us on the basis that we have a legitimate interest to do so (to fill vacancies and to grow our business).</li>
 </ul>
-<h3>How we protect your PII</h3>
-<p>HNC will take appropriate legal, organizational, and technical measures to protect your personal information consistent with applicable privacy and data security laws. When HNC uses a third-party service provider including a Service Partner, that provider will be carefully selected and required to use appropriate measures to protect the confidentiality and security of personal information. We use a variety of security technologies and procedures to help protect your PII from unauthorised access, use or disclosure. Unfortunately, the transmission of information via the Internet or a mobile phone network connection is not completely secure. Although we will do our best to protect your PII, we cannot guarantee the security of the PII you transmit to our websites: any transmission is at your own risk. While we cannot guarantee that loss, misuse or alteration to data will not occur, once we have received your information, we will employ appropriate technical security measures to prevent such unfortunate occurrences.</p>
-<h3>How we use Cookies </h3>
-<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
-<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
-<p>Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
-<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.</p>
-<h3>Links to other websites</h3>
-<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
-<h3>When we may disclose your PII to others</h3>
-<p>HNC reserves the right to disclose personal information about you, including your e-mail address, for reporting to government authorities, to parties in relevant legal proceedings as authorized by the presiding court or tribunal and otherwise to the extent required or explicitly authorized by applicable law. In certain special cases where permitted by local law, we may disclose your PII:</p>
+<h2>Change of Purpose</h2>
+<p>We will only use your Personal Information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. </p>
+<p>If we need to use your Personal Information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. </p>
+<p>Please note that we may process your Personal Information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law. </p>
+<h2>Changes to this Privacy Policy and your Duty to Inform us of Changes</h2>
+<p>It is important that the Personal Information we hold about you is accurate and current. Please keep your details on your account up to date. </p>
+<h2>How we ensure the Security of your Personal Information </h2>
+<p>We are committed to ensuring that your information is secure. In order to prevent your Personal Information from being accidentally lost, used or accessed in an unauthorised way, we have put in place appropriate security measures to safeguard and secure the Personal Information we collect via our website. We also limit access to your Personal Information to those employees, agents, subcontractors and other third-parties who have a business need to know. They will only process your Personal Information on our instructions and they are subject to a duty of confidentiality. </p>
+<p>Although we will do our best to protect your personal information, our website may, from time to time, contain links to other websites of interest. However, once you have used these links to leave our website, you should note that we do not have any control over that other website and any Personal Information you will provide is done at your own risk. These websites should have their own privacy policies and we do not accept any responsibility or liability for these policies, the content or operation of these websites. Please check these policies and the terms of the websites before you submit any to these websites. </p>
+<p>We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so. </p>
+<h2>Who we share your Personal Information with</h2>
+<p>We may disclose your Personal Information with third parties as follows: </p>
 <ul>
-    <li>when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you or otherwise injuring or interfering with HNC´s rights, property or operations, other users of this website or mobile application or anyone else who could be harmed by such activities.</li>
-    <li>when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case or administrative investigation.</li>
-    <li>in connection with a substantial corporate transaction, such as the sale of a product line or division, a merger, consolidation, asset sale or in the unlikely event of bankruptcy.</li>
+    <li>
+    If we are under a duty to disclose or share it in order to comply with any legal obligations (for example our insurers and HMRC).</li>
+    <br>
+    <li>
+    If we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you or otherwise injuring or interfering with our rights, property or operations, other users of this website or mobile application or anyone else who could be harmed by such activities.</li>
+    <br>
+    <li>
+    With selected third parties to provide support services in connection with our website and in the normal course of business, including:
+    <ul>
+        <li>
+        Red Eye International Limited (digital marketing services);</li>
+        <br>
+        <li>
+        Red Technology Solutions Limited (E-commerce services); </li>
+        <br>
+        <li>
+        Linn Systems Limited (Order Management Service); </li>
+        <br>
+        <li>
+        Boughey Distribution Limited (product deliver services); and </li>
+        <br>
+        <li>
+        any of their affiliates as may be necessary.</li>
+    </ul>
+    </li>
+    <br>
+    <li>
+    With our affiliates, contractors and agents in the normal course of business for delivery of the activities to which you have agreed to.</li>
+    <br>
+    <li>
+    In connection with a substantial corporate transaction, such as the sale of a product line or division, a merger, consolidation, asset sale or in the unlikely event of our insolvency.</li>
 </ul>
-<p>PII collected may be transferred to, stored and processed in your country of residence or any other country in which HNC (including its affiliates), subcontractors or agents maintain facilities, including the United States and countries outside the European Economic Area (EEA). This means that your information may be processed in countries with lower data protection standards than your country of residence. By using our website, you consent to any transfer, processing or storing of information outside of your country of residence and outside the EEA. We will ensure that if information is transferred outside your country of residence, it will still be treated in accordance with this Privacy Statement.</p>
-<h3>Use of IP addresses</h3>
-<p>An IP address is a set of numbers that is automatically assigned to your computer whenever you log on to your Internet service provider or through your organisation's local area network (LAN) or wide area network (WAN). Web servers automatically identify your computer by the IP address assigned to it during your session online.</p>
-<p>HNC, or third party companies acting on our behalf, may collect IP addresses for the purposes of systems administration and to audit the use of our websites. We also may use IP addresses to identify users of our websites when we feel it is necessary to enforce compliance with the websites’ terms of use or to protect our service, websites or other users.</p>
-<h3>Controlling your personal information</h3>
-<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+<p>Please note that that we will not sell or rent your Personal Information without your prior consent to any third parties. </p>
+<h2>How Long we keep your Personal Information for</h2>
+<p>We only retain your Personal Information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements.  </p>
+<p>To determine the appropriate retention period for personal information, we consider the amount, the nature and sensitivity of your personal information, the potential harm from unauthorised use or disclosure of your personal information, the purposes for which we process your Personal Information and whether we can achieve these purposes through other means and the applicable legal requirements.</p>
+<p>The table below sets out further details: </p>
+<table border="1" cellspacing="0" cellpadding="0" style="border: none;">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-style: solid; border-width: 1pt; text-align: left;">
+            <p style="text-align: center;"><strong>Circumstances in which Personal Information was provided</strong></p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-left: none; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: center;"><strong>How long we keep it for</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p style="text-align: justify;">When you create an account on our website</p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: justify;">Until you ask to be removed or as part of our periodic data cleanse.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p style="text-align: justify;">When you place an order through our online shop</p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: justify;">7 years after the order was made. </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p style="text-align: justify;">When you provide a review of our products and our performance on a third-party platform (such as on Trustpilot)</p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: justify;">Until you ask to be removed from this third-party platform. </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p style="text-align: justify;">When you have consented to receive marketing and technical information from us</p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: justify;">Until you unsubscribe from our database.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p style="text-align: justify;">When you contact us by any other means (e.g. email or telephone)</p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: justify;">Until you ask to be removed or as part of our periodic data cleanse. </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p style="text-align: justify;">When you submit a job application to us</p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: justify;">1 year from the day your application is submitted to us. </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p style="text-align: justify;">When you complete a survey or participate in competitions</p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: justify;">Until you ask to be removed. </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p style="text-align: justify;">When you visit our website</p>
+            </td>
+            <td valign="top" style="width: 226.55pt; padding: 0cm 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p style="text-align: justify;">Our session logs are purged after 60 days and our cookies expire after 30 days unless you block or remove those cookies before. </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h2>Where we Store your Personal Information and How it is kept secure</h2>
+<p>Where we have given you (or where you have chosen) a password which enables you to access certain of our website (i.e. your account), you are responsible for keeping this password confidential. We ask you not to share a password with anyone. </p>
+<p>Some of the information you provide to us will be transmitted electronically (e.g. information provided via our website or email). We would remind you that the information transmitted via the internet is not completely secure and although we will do our best to protect any information transmitted in this way, we cannot guarantee its complete security.</p>
+<p>We have put in place appropriate measures to prevent your Personal Information from being accidentally lost, accessed or used in an unauthorised way, altered or disclosed. Any payment transactions will be encrypted using SSL technology. </p>
+<p>Some Personal Information you have provided to us is stored on secure servers located in the United Kingdom and on the Cloud. </p>
+<p>We do not transfer your personal data outside the European Economic Area (EEA). </p>
+<p>We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator (the Information Commissioner in the UK) of a breach where we are legally required to do so. </p>
+<h2>Your Rights in relation to the Personal Information we Hold</h2>
+<p>You have the right to:</p>
+<p><strong>Request access </strong>to your Personal Information (commonly known as a "data subject access request"). This enables you to receive a copy of the Personal Information we hold about you and to check that we are lawfully processing it.</p>
+<p><strong>Request correction</strong> of the Personal Information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected, though we may need to verify the accuracy of the new information you provide to us.</p>
+<p><strong>Request erasure of your personal information.</strong> This enables you to ask us to delete or remove Personal Information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your Personal Information where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your Personal Information to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. </p>
+<p><strong>Object to processing of your Personal Information</strong> where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your Personal Information for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.</p>
+<p><strong>Request restriction of processing of your personal information.</strong> This enables you to ask us to suspend the processing of your Personal Information in the following scenarios: (a) if you want us to establish the information's accuracy; (b) where our use of the information is unlawful but you do not want us to erase it; (c) where you need us to hold the information even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your information but we need to verify whether we have overriding legitimate grounds to use it. </p>
+<p><strong>Request the transfer of your Personal Information to you or to a third party.</strong> We will provide to you, or a third party you have chosen, your Personal Information in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. </p>
+<p><strong>Withdraw consent at any time where we are relying on consent to process your personal information.</strong> However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.</p>
+<h2>CONTACTING US</h2>
+<p>If you would like to communicate with us about any of the rights mentioned above, or if you have any other queries about the matters mentioned in this privacy policy, please contact us using one of the following options:</p>
 <ul>
-    <li>Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.</li>
-    <li>If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at Boughey Distribution Limited Nantwich Rd, Wardle, Nantwich CW5 6RS  , phoning us on UK 0345 241 2866 or emailing us at customerservice@kruger-uk.com or changing the direct marketing settings in your account.</li>
+    <li>
+    Websites:	https://www.maxinutrition.com/help/contact-us/</li>
+    <br>
+    <li>Email: <span style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f5f5; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">customerservices@maximuscle.com</span></li>
+    <br>
+    <li>Telephone: +44 (0)345 241 2866 </li>
 </ul>
-<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.</p>
+<h2>COMPLAINTS</h2>
+<p>You have the right to complain to the Information Commissioner about the way in which we collect and use your personal information: www.ico.org.uk/concerns or telephone 0303 123 1113.</p>
+<p><strong>Changes to this privacy policy</strong></p>
+<p>This policy is effective from 14 March 2019. We may change this privacy policy from time to time by updating this webpage. </p>
+            
         </div>
     
 </div>
@@ -1660,7 +1932,7 @@ Meal Plans
 
             <div class="col-md-3 col-md-pull-9 left-column">
                 <div class="component_list">
-<div class="navigator-menu"><ul class="nav"><li><a href="/help/" title="Terms and Conditions">Terms and Conditions</a></li><li><a href="/help/fair-processing-notice/" title="Fair Processing Notice">Fair Processing Notice</a></li><li><a href="/help/cookie-policy/" title="Cookie Policy">Cookie Policy</a></li><li><a href="/help/security-and-privacy/" title="Privacy Policy">Privacy Policy</a></li><li><a href="/help/frequently-asked-questions/" title="Frequently Asked Questions">Frequently Asked Questions</a></li><li><a href="/help/buy-today/" title="Why Buy MaxiNutrition Protein?">Why Buy MaxiNutrition Protein?</a></li><li><a href="/help/returns/" title="Returns Policy">Returns Policy</a></li><li><a href="/help/affiliates/" title="Affiliate Programme">Affiliate Programme</a></li><li><a href="/help/delivery-information/" title="Delivery Information">Delivery Information</a></li><li><a href="/help/money-back-guarantee/" title="Money Back Guarantee">Money Back Guarantee</a></li><li><a href="/help/contact-us/" title="Contact Us">Contact Us</a></li></ul></div>	
+<div class="navigator-menu"><ul class="nav"><li class=""><a href="/help/" title="Terms and Conditions">Terms and Conditions</a></li><li class=""><a href="/help/fair-processing-notice/" title="Fair Processing Notice">Fair Processing Notice</a></li><li class=""><a href="/help/cookie-policy/" title="Cookie Policy">Cookie Policy</a></li><li class=" selected"><a href="/help/security-and-privacy/" title="Privacy Policy">Privacy Policy</a></li><li class=""><a href="/help/frequently-asked-questions/" title="Frequently Asked Questions">Frequently Asked Questions</a></li><li class=""><a href="/help/buy-today/" title="Why Buy Maximuscle Protein?">Why Buy Maximuscle Protein?</a></li><li class=""><a href="/help/returns/" title="Returns Policy">Returns Policy</a></li><li class=""><a href="/help/affiliates/" title="Affiliate Programme">Affiliate Programme</a></li><li class=""><a href="/help/delivery-information/" title="Delivery Information">Delivery Information</a></li><li class=""><a href="/help/money-back-guarantee/" title="Money Back Guarantee">Money Back Guarantee</a></li><li class=""><a href="/help/contact-us/" title="Contact Us">Contact Us</a></li></ul></div>	
         
         
         <div class="navigator-menu">
@@ -1677,6 +1949,7 @@ Meal Plans
                 <div id="ctl00_mainContent_Side_Advert_Zone_AdvertZone" class="advertzone" data-advertzoneid="0">
 
 </div>
+
             </div>
 
             <!-- Bottom Advert -->
@@ -1684,6 +1957,7 @@ Meal Plans
                 <div id="ctl00_mainContent_Bottom_Advert_Zone_AdvertZone" class="advertzone" data-advertzoneid="0">
 
 </div>
+
             </div>
         </div>
         </div>
@@ -1700,7 +1974,7 @@ Meal Plans
 
 	
     <form id="ctl00_User_Subscribe_frmSubscribe" class="vfform  vfform-validateatclient vfform-validatefieldatclient" method="post" data-vfformname="maxi_form_subscribe" data-vfform-enableautoscroll="True" autocomplete="off">
-	<input name="maxiformsubscribe_0_targetform" type="hidden" id="maxiformsubscribe_0_targetform" value="maxiformsubscribe_0"><input type="hidden" name="__csrfToken" value="93EE867E5C51F782FD84312A13531E98AEF38B55B3EE692953F911C54A68E6F49B">
+	<input name="maxiformsubscribe_0_targetform" type="hidden" id="maxiformsubscribe_0_targetform" value="maxiformsubscribe_0"><input type="hidden" name="__csrfToken" value="0E043CDA76B4F4522F9B1478D90AF1BB5AE1B2A084BB31E59047586917059F1C31">
 	
 		<div id="ctl00_User_Subscribe_frmSubscribe_fldFirstName" class="field vffield" data-vffieldname="firstname" data-vfinvalidclass="vferror" data-vfvalidclass="vfvalid">
 		
@@ -1752,7 +2026,7 @@ Meal Plans
 			Please consent to the marketing agreement.
 		</div>
             <p class="frmCheckBox">
-                <input type="checkbox" name="consent" id="consent" value=" checked=" checked""="">
+                <input type="checkbox" name="consent" id="consent" value="1" checked="checked">
                 <label for="consent"><span class="vflabel">Send me offers and news. I understand Maxinutrition will use my personal data to improve services and send me <a href="#" class="show-marketing-popup">marketing communications</a>, I also agree to the <a href="#" class="show-privacy-popup">Privacy Policy</a>.</span><span class="vfrequired"> *</span></label>
             </p>
         
@@ -1779,203 +2053,140 @@ Meal Plans
     });
 </script>
     
+    
+
+    <div class="components">
+        <div class="component">
+            <div class="review-carousel">
+                <div class="container">
+                    <div class="component-title">
+<h2 class="text"><span>
+What our customers say</span></h2>
+</div>
+<!-- TrustBox widget - Carousel -->
+<div class="trustpilot-widget" data-locale="en-GB" data-template-id="53aa8912dec7e10d38f59f36" data-businessunit-id="50c8c0aa00006400051f82be" data-style-height="130px" data-style-width="100%" data-theme="light" data-stars="4,5" data-schema-type="Organization">
+<a href="https://uk.trustpilot.com/review/maxinutrition.com" target="_blank">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 	<div id="footer">
-		<div class="container">
-		    
-            
+        
+		<div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="trusted-by col-sm-6">
+					    
+				    </div>
+                    
+                    
+				    <div class="payment-methods col-sm-6">
+                        
+                            <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/All-Payment-Options-300px.png" alt="Accepted Cards">
+                        
+                    </div>
+                </div>
+            </div>
+		</div>
 
-			    <div class="footer-top">
-				    <div class="row">
-					    <div class="col-sm-6 col-md-4 img1">
-						    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/maxi-homepage-footer-assets-3.jpg" alt="Get Rewarded for Your Loyalty" class="scaleAll image-hover">
-					    </div>
-					    <div class="col-sm-6 col-md-4 img2">
-						    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/maxi-homepage-footer-assets-2.jpg" alt="Order More > Get More" class="scaleAll image-hover">
-					    </div>
+		<div class="footer-middle footer-links">
+            <div class="container">
+                <div class="row">
+                    
 
-					    <div class="col-sm-12 col-md-4 footer-social">
+                    <div class="col-sm-12">
+                        <div class="row">
+				    
+					    <div class="col-sm-3">
 						    
-						    <h3>Connect with us</h3>
-						    <ul>
-							    
-							    <li>
-								    
-								    <a href="https://www.facebook.com/maximuscle" title="Maximuscle Facebook" target="_self">
-									    
-									    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/maxi-homepage-social-fb.png" alt="Follow us on Facebook">
-									    
-								    </a>
-								    
-							    </li>
-							    
-							    <li>
-								    
-								    <a href="https://twitter.com//maximuscle" title="Maximuscle Twitter" target="_self">
-									    
-									    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/maxi-homepage-social-twitter.png" alt="Follow us on Twitter">
-									    
-								    </a>
-								    
-							    </li>
-							    
-							    <li>
-								    
-								    <a href="https://www.youtube.com/maximuscle" title="Subscribe to our YouTube Channel" target="_self">
-									    
-									    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/maxi-homepage-social-youtube.png" alt="Subscribe to Our YouTube Channel">
-									    
-								    </a>
-								    
-							    </li>
-							    
-							    <li>
-								    
-								    <a href="https://www.instagram.com/maximuscle/" title="Follow us on Instagram" target="_self">
-									    
-									    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/maxi-homepage-social-insta.png" alt="Follow us on Instagram">
-									    
-								    </a>
-								    
-							    </li>
-							    
-						    </ul>
+						    <h3 class="footer-header">Help</h3>
 						    
 
-						    <p>Stay up to date with everything we're doing. Exclusive promotions, articles and more.</p>
-					    </div>
-				    </div>
-			        </div>
-
-			    <div class="footer-middle">
-				    <div class="row">
-					    <div class="col-md-6">
-						    <div class="row">
-							    
-							    <div class="col-sm-5 col-sm-offset-1 col-md-6 col-md-offset-0 footer-links matchHeight">
+						    <div class="footer-content">
+							    <ul>
 								    
-								    <h3 class="footer-header">Help<span class="sprite arrow"></span></h3>
+								    <li>
+									    <a href="/maxiteams" target="_self" title="Maxiteams Sign In">Maxiteams Sign In</a>
+								    </li>
 								    
-
-								    <div class="footer-content">
-									    <ul>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/help/contact-us/" target="_self" title="Contact Us">Contact Us</a>
-										    </li>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/help/security-and-privacy/" target="_self" title="Learn about our sites privacy policy">Privacy Policy</a>
-										    </li>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/help/terms-and-conditions/" target="_self" title="Terms and Conditions">Terms and Conditions</a>
-										    </li>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/help/cookie-policy/" target="_self" title="Cookie Policy">Cookie Policy</a>
-										    </li>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/sitemap/" target="_self" title="Sitemap">Sitemap</a>
-										    </li>
-										    
-									    </ul>
-								    </div>
-							    </div>
-							    
-							    <div class="col-sm-5 col-sm-offset-1 col-md-6 col-md-offset-0 footer-links matchHeight">
+								    <li>
+									    <a href="/help/contact-us/" target="_self" title="Contact Us">Contact Us</a>
+								    </li>
 								    
-								    <h3 class="footer-header">Our Expertise<span class="sprite arrow"></span></h3>
+								    <li>
+									    <a href="/help/security-and-privacy/" target="_self" title="Learn about our sites privacy policy">Privacy Policy</a>
+								    </li>
 								    
-
-								    <div class="footer-content">
-									    <ul>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/our-expertise/heroes/" target="_self" title="Our Ambassadors &amp; Heroes">Our Ambassadors &amp; Heroes</a>
-										    </li>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/our-expertise/our-science/" target="_self" title="Our Science">Our Science</a>
-										    </li>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/our-expertise/campaigns/" target="_self" title="Campaigns">Campaigns</a>
-										    </li>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/our-expertise/new-to-sports-nutrition/" target="_self" title="Are You New to Sports Nutrition?">Are You New to Sports Nutrition?</a>
-										    </li>
-										    
-										    <li>
-											    <span class="sprite footer-arrow"></span>
-											    <a href="/help/affiliates/" target="_self" title="Affiliate Programme">Join our Affiliate Programme</a>
-										    </li>
-										    
-									    </ul>
-								    </div>
-							    </div>
-							    
+								    <li>
+									    <a href="/help/terms-and-conditions/" target="_self" title="Terms and Conditions">Terms and Conditions</a>
+								    </li>
+								    
+								    <li>
+									    <a href="/help/cookie-policy/" target="_self" title="Cookie Policy">Cookie Policy</a>
+								    </li>
+								    
+								    <li>
+									    <a href="/sitemap/" target="_self" title="Sitemap">Sitemap</a>
+								    </li>
+								    
+							    </ul>
 						    </div>
 					    </div>
+					    
+					    <div class="col-sm-3">
+						    
+						    <h3 class="footer-header">Our Expertise</h3>
+						    
 
-					    <div class="col-md-6">
-						    <div class="row">
-							    <div class="col-sm-5 col-sm-offset-1 col-md-6 col-md-offset-0">
-								    <div class="row">
-                                        
-									    <div class="col-sm-12 payment-methods">
-										    <h3>Secure Payments</h3>
-										    
-                                            
-                                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/All-Payment-Options-300px.png" alt="Accepted Cards">
-                                            
-									    </div>
-                                        
-									    <div class="col-sm-12 trusted-by">
-										    
-                                            <h3>Trusted By</h3>
-                                            <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/Images/NoResize/default/informed-sport-trusted-by-sport-logo-nutrition.png" alt="Trusted By">
-                                            
-									    </div>
-								    </div>
-							    </div>
-
-							    <div class="col-sm-5 col-sm-offset-1 col-md-6 col-md-offset-0 customer-service">
-								    <h3>Customer Service</h3>
-
-								    <script defer="" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.sync.bootstrap.min.js"></script>
-								    <div class="trustpilot-widget" data-locale="en-GB" data-template-id="53aa8807dec7e10d38f59f32" data-businessunit-id="50c8c0aa00006400051f82be" data-style-height="105px" data-style-width="160px" data-theme="light">
-									    <a href="//uk.trustpilot.com/review/maxishop.com" target="_blank">Trustpilot</a>
-								    </div>
-							    </div>
+						    <div class="footer-content">
+							    <ul>
+								    
+								    <li>
+									    <a href="/our-expertise/heroes/" target="_self" title="Our Ambassadors &amp; Heroes">Our Ambassadors &amp; Heroes</a>
+								    </li>
+								    
+								    <li>
+									    <a href="/our-expertise/our-science/" target="_self" title="Our Science">Our Science</a>
+								    </li>
+								    
+								    <li>
+									    <a href="/our-expertise/campaigns/" target="_self" title="Campaigns">Campaigns</a>
+								    </li>
+								    
+								    <li>
+									    <a href="/our-expertise/new-to-sports-nutrition/" target="_self" title="Are You New to Sports Nutrition?">Are You New to Sports Nutrition?</a>
+								    </li>
+								    
+								    <li>
+									    <a href="/help/affiliates/" target="_self" title="Affiliate Programme">Join our Affiliate Programme</a>
+								    </li>
+								    
+							    </ul>
 						    </div>
 					    </div>
-				    </div>
-			    </div>
-            
-            
+					    
+                        </div>
+                    </div>
+                </div>
+            </div>
+		</div>
+        
 
-			<div class="footer-bottom">
-				<div class="row">
-					<div class="copyright col-xs-12">
-						<p>
-							Maximuscle and Maxinutrition are divisions of HNC Healthy Nutrition Company (UK) Ltd. Registered in England and Wales. <br>Company registration number 11121748 VAT no. GB290091805 1995-2018 ©
-                            
+		<div class="footer-bottom">
+			<div class="container">
+                <div class="row">
+				    <div class="copyright col-sm-12">
+					    <strong>Maximuscle and Maxinutrition</strong> are divisions of HNC Healthy Nutrition Company (UK) Ltd. Registered in England and Wales. <br>Company registration number 11121748 VAT no. GB290091805 1995-2019 ©
+                        
         <img src="https://reporting.maximuscle.com/cgi-bin/rr/blank.gif?nourl=www.maxinutrition.com%2fhelp%2fsecurity-and-privacy%2f" width="1" height="1">
     
-						</p>
-					</div>
-				</div>
+				    </div>
+                </div>
 			</div>
 		</div>
 	</div>
@@ -1986,38 +2197,55 @@ Meal Plans
     
 
 
+<!-- Embedded WhosOn Start -->
+<script type="text/javascript" src="//hosted8.whoson.com/include.js?domain=www.maxinutrition.com"></script> 
+<script type="text/javascript">
+if(sWOTrackPage)sWOTrackPage();
+</script>
+<!-- Embedded WhosOn End -->
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+twq('init','o1xgk');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
 
     
     <!-- Needs to be placed in its own component(object) this should not remain here. -->
     
 
 <div id="quick_view_popup" class="popup quick-view-popup">
-    <a href="#" class="quick_view_popup_close sprite close" title="close"></a>
-    <div class="row product-line-information">
+    <a href="#" class="quick_view_popup_close close" title="close"></a>
+    <div class="product-line-information">
 		<div id="ctl00_ProductPopUp_jtmplProductPopUp" class="productpopup-jtmpl templatelocation" data-jtmplid="ctl00_ProductPopUp_jtmplProductPopUp_jtmpl">
 
 </div>
     </div>
 </div>
 
-    <script>
-        $(function () {
-            $('#quick_view_popup').popup({
-                transition: 'all 0.3s',
-                focuselement: $('#quick_view_popup')
-            });
+<script>
+    $(function () {
+        $('#quick_view_popup').popup({
+            transition: 'all 0.3s',
+            focuselement: $('#quick_view_popup')
         });
-    </script>
+    });
+</script>
     
     <div class="device-xs visible-xs"></div>
     <div class="device-sm visible-sm"></div>
     <div class="device-md visible-md"></div>
     <div class="device-lg visible-lg"></div>
+    <div class="device-xl visible-xl"></div>
 
     
 
     <script src="/resources/Maxi/javascript/bottom-deferred.js" defer=""></script>
-
     <!--bottom header-->
 
 </body></html>
