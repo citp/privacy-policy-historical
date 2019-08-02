@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xometry.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612024521id_/https%3A//www.xometry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xometry.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802224324id_/https%3A//www.xometry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,12 +19,15 @@ We collect information about you in various ways when you use our Website and Se
 We collect the information you voluntarily provide to us.  For example:
 
   * We may collect personal information from you, such as your first and last name, phone number, email address, company name, job title and password when you create an account to log in to our network (“Account”).
+  * We may collect personal information from you, such as your first and last name, phone number, email address, company name, and job title when you engage in conversation with a chatbot ("Bot"). 
   * When you order Services on our Website, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
   * We retain information on your behalf, such as specifications and engineering tolerances that you store using your Account.
   * If you provide us feedback or contact us via email, we will collect your name and email address, as well as any other content included in the email, in order to send you a reply.
   * In certain circumstances we may request that you provide us with photocopies of your ID and other related documents for fraud prevention purposes and to verify your identity.
   * When you participate in one of our surveys, we will collect the information you provide.
   * We may also collect personal information at other points on our Website that state that personal information is being collected.
+  * If you provide us feedback or contact us via text message ("SMS"), we will collect your name and phone number, as well as any other content included in the SMS, in order to send you a reply. 
+
 
 
 
