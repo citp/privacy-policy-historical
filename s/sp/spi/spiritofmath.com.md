@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spiritofmath.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201143043id_/https%3A//www.spiritofmath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritofmath.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802134504id_/https%3A//www.spiritofmath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spirit of Math Schools
 
 Spirit of Math Schools Inc. (the “Company”) is an after-school enrichment program that operates corporately owned campuses in Canada and the United States and grants franchises for the operation of additional Spirit of Math campuses in Canada. The Company is committed to ensuring the privacy of those who enroll in its program and those who visit its website. The purpose of this Privacy Policy is to tell you what personal information we collect about students and their parents or guardians, how we use it, whether we disclose it to anybody else, how long we keep it, and how you can request access to your personal information or obtain more information about the Company’s privacy policies and procedures.
 
-**What Personal Information Does the Company Collect and Why?**
+ **What Personal Information Does the Company Collect and Why?**
 
 The Company, through its network of company-owned and franchised local Spirit of Math campuses, collects personal information of its students in the normal course of doing business. “Personal information” is any information that could be used to identify a student and, depending on the nature of your interaction with us, may include the following (“Personal Information”):
 
@@ -29,7 +29,7 @@ The Company may use your Personal Information to provide you with program servic
 
 The Registration form requests permission to use students photographs for promotional and for training Purposes, which requires your initials for each purpose, along with your signature and the date. In limited circumstances, the Company may contact you and ask for your permission to use a name of a student in its marketing. This will only be done with your express consent and signature, and normally would be used only when listing awards and achievements, and for the use of a partial name in testimonials.
 
-**Does the Company Disclose Personal Information?**
+ **Does the Company Disclose Personal Information?**
 
 The Company does not sell your Personal Information to third parties. However, the Company may, on occasion, share some or all of your Personal Information with third parties for the purposes set out above. For example, Personal information may be shared:
 
@@ -40,23 +40,23 @@ The Company does not sell your Personal Information to third parties. However, t
 
 Additionally, the Company may disclose your Personal Information where and when required or permitted by law to do so. Please note that your Personal Information will, upon any sale of all or substantially all of the assets of the Company, be transferred to a purchaser agreeing to use your Personal Information for the same purposes outlined in this Privacy Policy. Similarly, in the event of the termination, dissolution, sale or reorganization of a local Spirit of Math campus/franchise, Personal Information will revert to the Company for potential transfer to a new Spirit of Math Campus.
 
-**How Does the Company Protect the Personal Information It Collects?**
+ **How Does the Company Protect the Personal Information It Collects?**
 
 The Company has implemented appropriate safeguards and security measures to protect your Personal Information from loss, theft, unauthorized access, disclosure, copying, use or modification. Security measures adopted by the Company include limiting the number of individuals with access to your Personal Information. All affiliates, suppliers, agents, employees and other parties performing services on our behalf who handle Personal Information are bound to maintain the confidentiality of all Personal Information and may not use the information for any unauthorized purpose.
 
-**Accuracy and Access**
+ **Accuracy and Access**
 
 We are committed to ensuring that the Personal Information we hold for each student is accurate, up-to-date and complete. You have the right to access your Personal Information in our files and to update or remove that information as necessary, subject to any legal restrictions that would prohibit such action. To access your Personal Information, please contact our Privacy Officer by telephone, e-mail or post at the numbers and address provided below. Please be sure to specify what information requires updating or removal.
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 The Company may add, modify or remove portions of this Privacy Policy, as and when it deems necessary or appropriate. You will be able to determine when this Privacy Policy was most recently modified by referring to the “last update” date appearing at the end of this document.
 
-**Email Privacy statement:**
+ **Email Privacy statement:**
 
 Spirit of Math adheres to the Canadian Anti-Spam Legislation (CASL) and all commercial electronic messages (CEMs) offer a safe unsubscribe option.
 
-**Concerns about your Privacy**
+ **Concerns about your Privacy**
 
 If you have any questions or concerns about privacy, confidentiality, or how a request for Personal Information has been handled by the Company, please contact the Company’s Privacy Officer at:
 
