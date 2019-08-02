@@ -1,61 +1,43 @@
-> *The following text is extracted and transformed from the newslinkzone.info privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519112837id_/http%3A//newslinkzone.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newslinkzone.info privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802194457id_/http%3A//newslinkzone.info/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy – News Link Fashion
+# Privacy Policy
 
-### 1\. INTRODUCTION
+Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it.
 
-**1.1. PURPOSE OF POLICY.** newslinkzone.info (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of newslinkzone.info (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
-**1.2. NOTICE CONCERNING CHILDREN**
+## I. Data Collected
 
-PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
+Browsing the Website. You can use the search function and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
 
-### 2\. INFORMATION COLLECTION PRACTICES
+Registering on the Website. From time to time and at our discretion, we may allow you to register an account on the Website. Registration of an account may be required for saving your preferences, saving favorites and accessing other features on the Website. We may require the following personal information in addition to others at the time of registration: your username (which you generate) and e-mail address. You may be assigned a password which you may choose to change. Your IP address is recorded automatically.
 
-**2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
+Usage Information. We may record information about your usage of the Website such as the videos you watch, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
 
-In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site. 
+Uploaded Content. Any personal information or content you voluntarily disclose online, including videos, comments and your profile page, becomes publicly available and may be collected and used by others.
 
-**2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
+Correspondences. We may keep a record of any correspondence between you and us.
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+Cookies. When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
 
-(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
+## II. Data Usage
 
-(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us. 
+We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website.
 
-### 3\. USE AND SHARING OF INFORMATION
+We may use your e-mail address or other personal information to send commercial or marketing messages without your consent. We may use your e-mail without further consent for non-marketing or administrative purposes.
 
-**3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
+We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates). They may also be used to provide targeted advertising based on your country of origin and other personal information.
 
-(a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings. 
+We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes.
 
-(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+## III. Disclosures of Information
 
-(c) USE OF COOKIES. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.
 
-(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose any information we have for you if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+If you upload any illegal material to the Website, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
 
-(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of the Site or our company, including the information collected through this Site. If Company or substantially all of its assets are acquired by a third party, user information will be one of the assets transferred to the acquirer.
+## IV. Miscellaneous
 
-### 4\. SECURITY
+If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential. Anyone else with your password may access your account and other personal information.
 
-The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
-
-### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
-
-**5.1. THIRD PARTY WEBSITES**
-
-From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
-
-### 6\. CONTACT INFORMATION AND POLICY UPDATES
-
-**6.1. CONTACTING US**
-
-If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site. 
-
-**6.2. UPDATES AND CHANGES**
-
-We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
-
-(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well. 
+While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
