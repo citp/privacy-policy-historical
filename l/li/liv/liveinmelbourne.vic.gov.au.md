@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveinmelbourne.vic.gov.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304053025id_/https%3A//liveinmelbourne.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinmelbourne.vic.gov.au privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803002024id_/https%3A//liveinmelbourne.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Live in Melbourne
 
