@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qqtube.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503230324id_/https%3A//www.qqtube.com/en/content/2-privacy-policy-how-we-use-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qqtube.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802101530id_/https%3A//www.qqtube.com/en/content/2-privacy-policy-how-we-use-info) for the most accurate reproduction.*
 
 # Privacy Policy - How we use info - QQTube
 
