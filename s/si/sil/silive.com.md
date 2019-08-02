@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407064749id_/https%3A//www.silive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802172909id_/https%3A//www.silive.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
