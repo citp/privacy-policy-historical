@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmyhomework.co.uk privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608044035id_/https%3A//www.teamsatchel.com/legals/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmyhomework.co.uk privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802161623id_/https%3A//www.teamsatchel.com/legals/privacy_policy.html) for the most accurate reproduction.*
 
 # Protecting your personal information and data - Satchel
 
