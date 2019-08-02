@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digwp.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223022303id_/https%3A//digwp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digwp.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803014329id_/https%3A//digwp.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Digging Into WordPress
 
