@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldhousedreams.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624164047id_/https%3A//www.oldhousedreams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldhousedreams.com privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802142526id_/https%3A//www.oldhousedreams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - Old House Dreams
 
