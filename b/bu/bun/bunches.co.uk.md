@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bunches.co.uk privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819231246id_/https%3A//www.bunches.co.uk/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunches.co.uk privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802173615id_/https%3A//www.bunches.co.uk/terms%23privacyPolicy) for the most accurate reproduction.*
 
 # Terms and Conditions, Privacy, and Cookie Policy | Bunches
 
 Bunches Florapost Ltd are completely dedicated to your total satisfaction.
 
-If you have any suggestions or comments regarding our flowers please email us at [flowers@bunches.co.uk](mailto:flowers@bunches.co.uk).
+If you have any suggestions or comments regarding our flowers please email us at [flowers@bunches.co.uk](mailto:flowers@bunches.co.uk) .
 
 ### Our Contact Details:
 
@@ -32,7 +32,7 @@ This site has been designed to make ordering flowers in the Bunches Florapost ra
 ### General Delivery Information For All Orders
 
   * We can deliver to any postal address in the UK. We only deliver within the UK and we do not deliver to Europe or the Republic of Ireland.
-  * Our 26 years of experience shows that over 97% of deliveries arrive the next working day.
+  * Our 26 years of experience shows that over 93% of deliveries arrive the next working day.
   * Please note **we cannot offer same day delivery**.
   * When ordering please enter the full address including the postcode of the recipient. **We will not be held responsible for items that are not delivered due to incorrect details.**
   * We do not pass on any details and the only information sent with the gift is the personal message card.
@@ -46,7 +46,7 @@ This site has been designed to make ordering flowers in the Bunches Florapost ra
 ### Delivery Information For Flower and Balloon Gifts
 
   * All items include delivery by Royal Mail First Class Post unless stated otherwise. Please allow 1-2 working days for delivery.
-  * We usually despatch flowers one day prior to the delivery date requested.
+  * We usually dispatch flowers one day prior to the delivery date requested.
   * As we deliver by First Class Royal Mail we cannot deliver on Sunday or Bank Holidays.
   * Deliveries can take place up to 6:00pm Monday to Friday and up to 1:00pm on Saturday.
 
@@ -57,7 +57,7 @@ This site has been designed to make ordering flowers in the Bunches Florapost ra
   * For an additional fee of £5.99 we offer a guaranteed delivery on the day of your choice between 8:00am and 6:00pm.
   * Flowers delivered by this service will need to be signed for by the recipient.
   * For an extra £7.99 you can guarantee delivery for before 1:00pm on the day of your choice.
-  * For next working day deliveries, orders must be placed before 6:00pm.
+  * For next working day deliveries, orders must be placed before 17:30pm Monday to Friday and 11am Saturday.
 
 
 
@@ -65,7 +65,7 @@ This site has been designed to make ordering flowers in the Bunches Florapost ra
 
 Bunches Florapost accept payment from all major credit and debit cards, including Visa, Mastercard, Switch/Maestro, American Express, Visa Electron, Delta, Eurocard, and JCB. We also accept payment by PayPal.
 
-This site uses Sagepay, Braintree (PayPal), and WorldPay for online credit card transactions. These are the most popular online payment systems in the UK. All payment information is transmitted in secure mode and is encrypted using the highest levels of online security encryption available. Firewalls within the Sagepay system prevent any unauthorised access to your information. Credit card details are captured within the systems of the payment providers, and no card details are stored on your computer or computers belonging to Bunches Florapost. When your order has been placed, you will receive an email from Bunches to confirm the payment has been successful.
+This site uses Braintree (PayPal) and Stripe for online credit card transactions. These are the most popular online payment systems in the UK. All payment information is transmitted in secure mode and is encrypted using the highest levels of online security encryption available. Credit card details are captured within the systems of the payment providers, and no card details are stored on your computer or computers belonging to Bunches Florapost. When your order has been placed, you will receive an email from Bunches to confirm the payment has been successful.
 
 ### Substitution Policy
 
@@ -73,7 +73,7 @@ In the unlikely event of supply difficulties, Bunches Florapost Ltd reserves the
 
 ### Returns Policy And Cancellation Rights
 
-If you are in any way disappointed with our flowers or service, please telephone us on freephone [0800 626 249](tel:0800626249) or [(+44) 1623 750343](tel:+441623750343), or email us at [flowers@bunches.co.uk](mailto:flowers@bunches.co.uk). Alternatively you can write to us at: 
+If you are in any way disappointed with our flowers or service, please telephone us on freephone [0800 626 249](tel:0800626249) or [(+44) 1623 750343](tel:+441623750343), or email us at [flowers@bunches.co.uk](mailto:flowers@bunches.co.uk) . Alternatively you can write to us at: 
 
 Bunches Florapost Ltd  
 19 Hazelford Way  
@@ -106,40 +106,53 @@ Every effort is made to keep the website up and running smoothly. However, Bunch
 
 ### SSAFA, the Armed Forces Charity
 
-For those customers who visit Bunches.co.uk via SSAFA, the Armed Forces Charity website, Bunches.co.uk will donate 12% of the order total to SSAFA in support of the charity. 
+For those customers who visit Bunches.co.uk via SSAFA, the Armed Forces Charity website, Bunches Florapost Ltd will donate 12% of the order total to SSAFA in support of the charity. 
 
 For our hampers, we have the following additional and amended terms. 
 
   * All hampers exclude delivery.
-  * Hamper delivery will be charged at £6.50.
-  * The following postcodes will incur an additional charge to the standard £6.50 and delivery to these postcodes can take up to 48 hours: 
-    * **AB, IV, KW, PA, PH, BT, HS, KA, and IM.**
-  * Unfortunately we cannot deliver hampers to the following postcodes: 
-    * **GY, JE, TR21 - TR25, and ZE.**
-  * Hampers will be delivered by courier on your chosen day between Monday and Friday.
-  * There are no deliveries on Saturday, Sunday, or bank holidays.
+  * Hamper delivery charges start at £4.50.
   * We cannot deliver hampers on the same day of ordering. Orders placed before 1:00pm can be dispatched same day for delivery at the earliest available date.
-  * All hampers will have to be signed for and if the recipient is out then a card will be left with instructions to contact the courier.
   * We do not deliver outside the UK.
   * We cannot deliver to PO boxes or BFPO addresses.
 
 
 
+### For hampers delivered by tracked courier
+
+  * The following postcodes will incur an additional charge to the standard delivery to these postcodes. It can take 2 - 7 working days for delivery: 
+    * **AB, BT, FK, G, GY, HS, JE, IM, IV, KA, KW, PA, PH, PO, TD, TR, and ZE.**
+  * The Saturday and Sunday delivery service is currently unavailable for the following postcodes:
+    * DD8 - DD10, SY23 - SY25, SA20, TR12, and TR19.
+  * Hampers sent out via courier (DPD / Fedex) are delivered on your chosen date between Monday and Friday. Courier delivered hampers cannot be delivered on Saturdays, Sundays, or bank holidays.
+  * All hampers will have to be signed for and if the recipient is out then a card will be left with instructions to contact the courier.
+
+
+
+### For hampers delivered by Royal Mail
+
+  * Hampers below 2kg in weight can be delivered by Royal Mail.
+  * Royal Mail Tracked 48 costs £4.50 and takes 2 - 3 working days to arrive.
+  * Royal Mail Tracked 24 costs £6.50 for next working day delivery.
+  * Hampers delivered by Royal Mail cannot be delivered on Sundays and bank holidays.
+
+
+
 Here at Bunches, we understand how important your personal data is. We have and always will be committed to protecting your information, and we do this in compliance with both the Data Protection Act and GDPR.
 
-To Deliver Happiness...
+To Deliver Happiness…
 
 We will only ever use your data to process your order, to contact you regarding the order and to keep you up to date with useful product information and offers. We simply wish to provide you with the best possible service and we only use the necessary data to deliver happiness for you on every occasion.
 
-You're in Control...
+You're in Control…
 
 If you want us to keep in touch, we will. If not, that's no problem. If you ever want to unsubscribe - this can be done by simply clicking 'unsubscribe' on any of our emails or via your online Bunches account under 'edit your details'. Alternatively, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Rest Assured...
+Rest Assured…
 
 We store all your personal data securely, and we won't hang onto your data any longer than needs be.
 
-Simple and Straightforward ...
+Simple and Straightforward…
 
 We don't hide behind complex legal terms so if you have any questions regarding our privacy policy, we have our own data protection officer on site available to answer any queries you may have.
 
@@ -181,7 +194,7 @@ We value your data and would therefore never sell your data to any third party. 
 In the process of fulfilling your order or marketing requests we do pass your data onto the following parties:
 
   * Delivery companies including Royal Mail, Royal Mail Special Delivery, DPD and DPD Local.
-  * Our payment service providers Braintree and Sagepay.
+  * Our payment service providers: Braintree and Stripe.
   * Our marketing distribution companies.
 
 
@@ -195,8 +208,8 @@ You can stop marketing materials being sent at any time.
 You can do so…
 
   * Via your online Bunches account under 'edit your details'.
-  * By clicking 'unsubscribe' at the bottom of any one of our emails.
-  * Or by contacting our customer support team by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deb8b2b1a9bbacad9ebcabb0bdb6bbadf0bdb1f0abb5), or alternatively by phone on 0800 626 249.
+  * By clicking 'unsubscribe' at the bottom of any one of our emails. 
+  * Or by contacting our customer support team by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#caaca6a5bdafb8b98aa8bfa4a9a2afb9e4a9a5e4bfa1), or alternatively by phone on 0800 626 249. 
 
 
 
@@ -207,7 +220,7 @@ Stopping marketing messages will not stop order confirmation emails and order up
 If you wish to amend any of your account details, this can be done…
 
   * Via your online Bunches account under 'edit your details'.
-  * Or by contacting our customer support team by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dabcb6b5adbfa8a99ab8afb4b9b2bfa9f4b9b5f4afb1), or alternatively by phone on 0800 626 249.
+  * Or by contacting our customer support team by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e2848e8d95879091a280978c818a8791cc818dcc9789), or alternatively by phone on 0800 626 249. 
 
 
 
@@ -215,7 +228,7 @@ Any amendments will be actioned immediately on your account but may take up to 7
 
 #### Keeping your information
 
-We will hold your data for as long as you have an account with us; if you don't order with us for 36 months or more, we will contact you to let you know we will no longer be keeping in touch, but we will still keep your account in case you ever want to come back! If you still wish to hear from us this can be updated at any point by contacting our customer support team by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cea8a2a1b9abbcbd8eacbba0ada6abbde0ada1e0bba5), or alternatively by phone on 0800 626 249.
+We will hold your data for as long as you have an account with us; if you don't order with us for 36 months or more, we will contact you to let you know we will no longer be keeping in touch, but we will still keep your account in case you ever want to come back! If you still wish to hear from us this can be updated at any point by contacting our customer support team by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8ded4d7cfddcacbf8dacdd6dbd0ddcb96dbd796cdd3), or alternatively by phone on 0800 626 249.
 
 If you don't have an account with us and use our guest checkout feature, we will hold your data for as long as we may need to be able to provide you with the highest degree of customer care.
 
@@ -235,11 +248,11 @@ Here at Bunches we believe that it is of great importance that you are aware of 
   * The right to stop direct marketing messages - this can be done via your online account, by clicking unsubscribe at the bottom of any marketing email or alternatively by contacting our customer support team.
   * The right to request your data to be transferred to either yourself or another service provider.
   * The right to withdraw consent.
-  * The right to file a complaint with the Data Protection Regulator - in the UK this is the Information Commissioner's Office. Details of how to contact them can be found at ICO.org.uk.
+  * The right to file a complaint with the Data Protection Regulator - in the UK this is the Information Commissioner's Office. Details of how to contact them can be found at ICO.org.uk. 
 
 
 
-If you wish to exercise any of your rights, or have any questions, our Data Protection officer will be more than happy to help. Please send any queries to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a5e5b4e5b4a48554e5f594e5355547a584f5459525f49145955144f51), or alternatively you can ask to speak to our data protection officer on 0800 626 249.
+If you wish to exercise any of your rights, or have any questions, our Data Protection officer will be more than happy to help. Please send any queries to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f09491849180829f84959384999f9eb092859e93989583de939fde859b), or alternatively you can ask to speak to our data protection officer on 0800 626 249.
 
 #### Updates to this notice
 
@@ -281,11 +294,24 @@ Criteo|
   * udi
   * dis
 
-| These cookies are used to allow us to produce personalised marketing in an **anonymous** manner on partner websites. You can opt out of Criteo cookies on their [privacy policy page](http://www.criteo.com/us/privacy-policy).| [Click here for an overview of privacy at Criteo and/or opt out.](https://www.criteo.com/us/privacy-policy)  
-  
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+| These cookies are used to allow us to produce personalised marketing in an **anonymous** manner on partner websites. You can opt out of Criteo cookies on their [privacy policy page](http://www.criteo.com/us/privacy-policy). | [Click here for an overview of privacy at Criteo and/or opt out.](https://www.criteo.com/us/privacy-policy)  
+Adalyser| 
 
-To opt out of being tracked by Google Analytics across all websites visit <https://tools.google.com/dlpage/gaoptout>.
+  1. __adal_ca
+  2. __adal_cw
+  3. __adal_id
+
+|  These cookies are also used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site and the pages they visited. Specifically: 
+
+  1. Storing which advertising campaign drove a user to visit the website;
+  2. The time and date of the visit;
+  3. A unique identifier for the device used to visit the website.
+
+| [Click here for an overview of privacy at Adalyser.](https://www.adalyser.com/)  
+  
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/). 
+
+To opt out of being tracked by Google Analytics across all websites visit <https://tools.google.com/dlpage/gaoptout>. 
 
 ### YouTube Cookies
 
@@ -293,52 +319,30 @@ We embed videos from our official YouTube channel using YouTube's privacy-enhanc
 
 ### Payment Cookies
 
- _Sagepay_ and _Braintree_ use cookies to store session details when handling payments. You can read more about their cookie and privacy policies at the following links: [Sagepay Privacy Policy](http://www.sagepay.com/privacy_policy), [Braintree (PayPal Inc.) Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full). 
+ _Stripe_ and _Braintree_ use cookies to store session details when handling payments. You can read more about their cookie and privacy policies at the following links: [Stripe Privacy Policy](https://stripe.com/gb/privacy), [Braintree (PayPal Inc.) Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full). 
 
 #### Flower Press
 
 ##### Flower Press Competition
 
-  * Competition opens Thursday 16th August 2018 and the closing date for entries is midnight Friday 24th August 2018.
-  * Prize: 3 winners will be selected at random from the correct entries and will receive a Sweet Violet bouquet and a gift box of 3 Belvoir Cordials. No cash alternative available and the prize is non-transferable.
+  * Competition opens Thursday 18th July 2019 and the closing date for entries is midnight Friday 26th July 2019.
+  * Prize: three winners will be selected at random from the correct entries and will receive a Summer Fair bouquet. No cash alternative available and the prize is non-transferable.
   * Competitions and prize draws are open to everyone aged 18 and over (excluding employees of Bunches Florapost Ltd, their families or anyone else associated with the promotion).
   * Entries must be original and they must not copy the work of someone else.
   * Only one entry per person. Entries made on behalf of another person will not be accepted and joint submissions are not allowed.
   * Prize can only be delivered to addresses within the UK.
-  * The winners will be chosen randomly from all legitimate entries after the closing date. Bunches.co.uk reserves the right to reject fraudulent entries or those not compliant with the Terms and Conditions.
+  * The winners will be chosen randomly from all legitimate entries after the closing date. Bunches reserves the right to reject fraudulent entries or those not compliant with the Terms and Conditions.
   * The judge's decision is final and no correspondence will be entered into.
-  * Winners will be notified by email by Tuesday 28th August 2018. If the winners do not respond, Bunches.co.uk reserves the right to forfeit the allocation of the prize.
+  * Winners will be notified by email by Monday 29th July 2019. If the winners do not respond, Bunches reserves the right to forfeit the allocation of the prize.
   * The winners may not use the prize in conjunction with any other offer, promotion or prize draw.
   * The prize will be sent to the address provided by the entrant.
   * No responsibility can be accepted for entries that are lost, delayed, or which are not received for any reason.
   * The prize is subject to availability and Bunches.co.uk reserves the right to change the prize to something of a similar value without notice if circumstances beyond our control require it to do so. This also applies to prizes being provided by a third party.
-  * The winners may be asked to participate in Bunches.co.uk post-promotion publicity.
+  * The winners may be asked to participate in Bunches post-promotion publicity.
   * The promoter is Bunches Florapost, 19 Hazelford Way, Newstead Village, Nottinghamshire, NG15 0DQ. Please do not send entries to this address.
   * Your personal data will be treated in confidence by Bunches Florapost Ltd and will not be disclosed to any other parties for their marketing purposes.
   * All entry instructions form part of these terms and conditions. By entering this promotion, all participants will be deemed to have accepted and be bound by them.
-  * Terms & Conditions correct as of 12th July 2018.
-
-
-
-##### Monday Email Prize Draw
-
-  * Prize draw closes at midnight on the Sunday following the Monday email.
-  * Prize: 5 winners will be selected at random from the entries and will receive the winning bouquet as stated in the email. Each prize will be sent separately. No cash alternative available and the prize is non-transferable.
-  * Competitions and prize draws are open to everyone aged 18 and over (excluding employees of Bunches Florapost Ltd their families or anyone else associated with the promotion).
-  * Only one entry per person. Entries made on behalf of another person will not be accepted and joint submissions are not allowed.
-  * Prize can only be delivered to addresses within the UK.
-  * The winners will be chosen randomly from all legitimate entries after the closing date. Bunches.co.uk reserves the right to reject fraudulent entries or those not compliant with the Terms and Conditions.
-  * The judge's decision is final and no correspondence will be entered into.
-  * Winners will be notified by email on the following Monday. If the winners do not respond, Bunches.co.uk reserves the right to forfeit the allocation of the prize.
-  * The winners may not use the prize in conjunction with any other offer, promotion or prize draw.
-  * The prize will be sent to the address provided by the entrant.
-  * No responsibility can be accepted for entries that are lost, delayed, or which are not received for any reason.
-  * The prize is subject to availability and Bunches.co.uk reserves the right to change the prize to something of a similar value without notice if circumstances beyond our control require it to do so. This also applies to prizes being provided by a third party.
-  * The winners may be asked to participate in Bunches.co.uk post-promotion publicity.
-  * The promoter is Bunches Florapost, 19 Hazelford Way, Newstead Village, Nottinghamshire, NG15 0DQ. Please do not send entries to this address.
-  * Your personal data will be treated in confidence by Bunches Florapost Ltd and will not be disclosed to any other parties for their marketing purposes.
-  * All entry instructions form part of these terms and conditions. By entering this promotion, all participants will be deemed to have accepted and be bound by them.
-  * Terms & Conditions correct as of 15th August 2018.
+  * Terms & Conditions correct as of 16th July 2019.
 
 
   *[VAT]: Value Added Tax
