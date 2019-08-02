@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariogamez.cc privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623201319id_/http%3A//www.mariogamez.cc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariogamez.cc privacy policy that was archived on 2019-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190802165645id_/http%3A//mariogamez.cc/privacy.html) for the most accurate reproduction.*
 
 # MarioGamez.CC - Privacy
 
