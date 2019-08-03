@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremeladyboys.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603183318id_/http%3A//www.procustomersupport.com/privacy.php%3Fsite%3Dextremeladyboys.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeladyboys.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803083201id_/http%3A//www.procustomersupport.com/privacy.php%3Fsite%3Dextremeladyboys.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
