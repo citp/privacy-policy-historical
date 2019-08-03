@@ -1,77 +1,149 @@
-> *The following text is extracted and transformed from the noelgallagher.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129203316id_/https%3A//www.noelgallagher.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noelgallagher.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803203040id_/https%3A//www.noelgallagher.com/terms) for the most accurate reproduction.*
 
 # Official Website | Noel Gallagher's High Flying Birds
 
-This website (“website”) is operated by Sour Mash Records LTD (SMRL)  whose address is PO Box, 14877, London, NW1 62X. The terms “]”, “we”, “us”, “our” and “ours” when used in this Privacy Statement mean SMRL which includes both subsidiaries, divisions, branches, affiliates or companies under the control of SMRL. The terms “you”, “your” and “yours” when used in this Privacy Statement mean any user of this website. IMPORTANT: BY SUBMITTING PERSONAL DATA TO US AND/OR BY USING OUR WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW.
+Noel Gallagher is a musical artist (performing as Noel Gallagher and also as Noel Gallagher’s High Flying Birds), producing recordings, live performances, music, merchandise and tickets. Sour Mash Records is Noel Gallagher’s label, and the owner and operator of this website [www.noelgallagher.com](https://www.noelgallagher.com/). This privacy policy explains how we, Sour Mash, use any personal information we collect about you when you use this website, purchase from our webstore, or opt in to our mailing list.
 
-SCOPE OF PRIVACY STATEMENT
+Noel Gallagher is managed by Ignition Management, which is a registered data controller, and can be contacted as follows:
 
-We are committed to the privacy and confidentiality of information provided by you to us. This Privacy Statement describes our current policies and practices with regard to Personal Data collected by us from you directly and/or through the website to the extent that such Personal Data is protected by applicable European data protection laws. The term “Personal Data” refers to personally identifiable information about you, such as your name, e-mail address or mailing address.
+* By email: [info@ignition.co.uk](mailto:info@ignition.co.uk)
+* By post: Ignition, 54 Linhope Street, NW1 6HL, London, UK
 
-NOTIFICATION OF CHANGES TO PRIVACY STATEMENT
+## Topics:
 
-We are continually improving our methods of communication and adding new functionality and features to this website and to our existing products and services. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change from time to time. If and when our data practices change, we will notify you and the local data authority where required by law of the changes. We encourage you to check this page frequently.
+  * Information we collect about you
+  * How we collect personal information
+  * How we store your information
+  * How long we retain your information
+  * How we use your information
+  * Marketing
+  * Access to your information and correction
+  * Cookies
+  * Third parties
+  * Other websites
+  * International transfer of information
+  * Changes to our privacy policy
+  * How to contact us
 
-COLLECTION OF PERSONAL DATA INCLUDING E-MAIL ADDRESSES
 
-You may choose to buy products from us or receive additional information from us. When you purchase our products or request additional information, we request personal information about you such as your name, postal address, e-mail address, telephone number and payment details. We may also ask for demographic information to enable us to provide a personalised service to you. The information you provide is either manually or electronically stored in our databases. We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate post codes are received, we may use third party software to fix them.
 
-USE OF PERSONAL DATA
+## Information we collect about you
 
-We will use your Personal Data to fulfil your requests and we will ask only for data that is adequate, relevant and not excessive for those purposes. Where we send you information for any purpose, it may be sent by e-mail or post. When we ask you for Personal Data it may include the following purposes:
+We collect information about you when you:
 
-We may contact you occasionally to inform you of new acts, artists or products we will be promoting;
+  * Purchase music, merchandise, tickets or other products and services from us;
+  * Voluntarily subscribe to our mailing list through the means set out below;
+  * Voluntarily complete customer surveys, provide feedback and participate in promotions and competitions; and/or
+  * Use our website.
 
-We may send you regular updates on issues we think will be of interest to you;
 
-We may send you requested information on our products and services;
 
-We may use your Personal Data for marketing purposes and market research; and
+This information may include:
 
-We may use your Personal Data internally to administer this website and help us improve our services.
+  * Name
+  * Email address
+  * Postal address
+  * Phone number
+  * IP address
 
-UNSUBSCRIBE
 
-We hope you will be delighted with our products and services. However, if you do not wish to receive e-mails from us and want to be removed from our electronic mailing list, please e-mail us at the address given below with “Email Unsubscribe” in the subject heading. If you also wish to be removed from our post marketing database, please let us know by e-mailing us at the address given below with “Mail Unsubscribe” in the subject heading or writing to us at the address given below. info@ignition.co.uk
 
-ANONYMOUS DATA COLLECTED THROUGH THIS WEBSITE
+## How we collect personal information
 
-In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our website. For example, our web server automatically logs which pages of our website our visitors view, their IP addresses and which web browsers our visitors use. This technology does not identify you personally, it simply enables us to compile statistics about our visitors and their use of our website. Our website contains hyperlinks to other pages on our website. We may use technology to track how often these links are used and which pages on our website our visitors choose to view. Again this technology does not identify you personally – it simply enables us to compile statistics about the use of these hyperlinks.
+We collect personal data in the following ways, always with your consent:
 
-COOKIES
+  * Through opt-in forms provided by Mailchimp
+  * Through purchase of products and services from our website using Townsend and through third party websites such as See Tickets.
 
-In order to collect the anonymous data described in the preceding paragraph, we may use temporary “cookies” that remain in the cookies file of your browser until the browser is closed. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. We also use your IP address to help diagnose problems with our server and to administer our website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information. We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics.
 
-DISCLOSURE OF YOUR PERSONAL DATA
 
-We do not share, sell or distribute your Personal Data with unrelated third parties, except as otherwise provided for in this Privacy Statement and under these limited circumstances:
+## How we store your information
 
-In order to provide you with the information or products which you have requested, Personal Data may occasionally be transferred or shared with other companies within our group of companies or third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf.
+We store your personal data using secure servers and third party data processors. These include:
 
-We will keep your contact details on our database and may, from time to time, e-mail or post you information to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive e-mails or post from us for these purposes, please let us know by following the “unsubscribe” procedure set out above.
+  * Office 360
+  * Townsend
+  * Mailchimp
 
-Where you have consented, we may also share your Personal Data with other companies within our group of companies or disclose your Personal Data to other businesses who may contact you about their products or services that may interest you.
 
-We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, reorganisation, dissolution or similar event.
 
-We will inform you of any such transfer or disclosure as required by law. Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law.
+When we export your data to local servers for processing, we delete any temporary local copies as soon as processing is complete.
 
-DATA ACCESS AND CORRECTIONS
+Through our use of these data processors, your personal information may be transferred internationally. Where this is the case, we do our best to ensure that the data processors are compliant with data protection rules.
 
-Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will disclose to you the Personal Data we hold about you, for which we may make a charge up to the maximum as allowed by applicable law. We will also correct, amend or delete any Personal Data that is inaccurate and notify any third party recipients of the necessary changes. You may update any information you have given to us by contacting us at the addresses given below. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on us.
+## How long we retain your information
 
-LINKS TO OTHER WEBSITES
+We will hold your data until you request us to delete it which you can do by unsubscribing via the link at the footer of every marketing email you receive from us, or by emailing us at info@ignition.co.uk.
 
-This website may contain hyperlinks to websites that are not operated by us. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. We do not control these websites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself.
+If you consider that we are misusing your personal data, you have the right to make a complaint to the Information Commissioner’s Office, and the right to seek to enforce your rights through judicial remedy.
 
-TRANSFER OF DATA ABROAD
+## How we use your information
 
-If you are visiting this website from a country other than the country in which our servers are located (currently England) the various communications will necessarily result in the transfer of information across international boundaries. By visiting this website and communicating electronically with us, you consent to the processing and transfer of your Personal Data as set out in this Privacy Statement.
+We collect information about you to process your order and manage the services we provide to you. The lawful basis for this processing is the contract formed by the transaction.
 
-GOVERNING LAW
+If you opt-in to receive marketing communications from us, we will email you about news, updates, and other products and services we think may be of use to you. The lawful basis for this processing is consent. We may use your information to provide you with targeted content, information and offers. We will not share your information for marketing purposes.
 
-The laws of England and Wales govern any controversy or claim of whatever nature arising out of or relating to the use of this website, without regard to any conflict of laws provisions. All actions or proceedings arising out of or relating to this Privacy Statement, its validity, performance, enforcement or breach, or the subject matter of this Privacy Statement may be heard in the courts of England and Wales and you hereby irrevocably consent and submit yourself to the personal jurisdiction of said courts for all such purposes. Notwithstanding the foregoing, we retain the right to bring legal proceedings in any jurisdiction where we believe that breach of this agreement is taking place or originating.
+We may share, transfer or disclose your information to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, reorganisation, dissolution or similar event. We will inform you where any such transfer is required by law. Where appropriate, before transferring or disclosing your information to a third party, we will require the third party to take adequate precautions to protect your information and to comply with applicable laws.
 
-FEEDBACK
+## Marketing
 
-We welcome comments about this Privacy Statement. If you have any questions about this Statement or any part of our service, you may contact us by e-mailing info@ignition.co.uk. Any feedback will be stored at this office.
+We would like to send you news, updates and information about our activities which may be of interest to you. If you have consented to receive marketing, you may opt out at a later date.
+
+You have a right at any time to stop us from contacting you for marketing purposes. You can do this by unsubscribing using the link in the footer of every email we send to you. Alternatively, if you no longer wish to be contacted for marketing purposes, and/or you would like your personal data to be removed permanently, please email or write to us at the above address.
+
+## Access to your information and correction
+
+You have the right to request a copy of the information we hold about you. If you would like a copy of some or all of your personal information, please email or write to us at the above address.
+
+We want to make sure that your personal information is accurate and up to date. You can correct the information we hold about you by clicking “update subscription preferences” in the footer of any marketing email we send to you, or by emailing us or writing to us at the above address.
+
+## Cookies
+
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and compile statistical reports on website activity. We use cookies for the following purposes: to enable certain website functions, to provide analytics, to store your preferences, and to enable advertisements delivery, including behavioural advertising on third party platforms including Facebook, Twitter, and Google.
+
+We use both session and persistent cookies on the website and we use different types of cookies:
+
+## Essential cookies
+
+We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.
+
+## Third-party cookies
+
+In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the website, deliver advertisements on and through the website, and so on.
+
+For further information, visit [www.aboutcookies.org](http://www.aboutcookies.org/) and/or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+You can set your browser not to accept cookies and the above websites explain how to remove cookies from your browser. However please note that in some cases, some website features may not function without cookies switched on.
+
+## Third parties
+
+In collecting, storing, and processing your data, we may use the following data processors:
+
+  * Mailchimp
+  * Townsend
+  * Office 360
+
+
+
+We maintain data processing agreements with each of these data processors to protect the security of your data.
+
+## Other websites
+
+Our website may contain links to other websites. This privacy policy only applies to [www.noelgallagher.com](https://www.noelgallagher.com/). When you click through to other websites, you should be aware of their privacy policies.
+
+## International transfer of information
+
+If you are visiting this website from a country other than the United Kingdom, this may result in the transfer of information across international boundaries.
+
+## Changes to our privacy policy
+
+We review our privacy policy regularly and we will place any updates on this webpage. This privacy policy was last updated on 23rd May 2018.
+
+## How to contact us
+
+Please contact us if you have questions about our privacy policy or information we hold about you:
+
+  * By email: [info@ignition.co.uk](mailto:info@ignition.co.uk)
+  * By post: Ignition, 54 Linhope Street, NW1 6HL, London, UK
+
+
