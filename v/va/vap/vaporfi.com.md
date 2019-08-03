@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaporfi.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223111722id_/https%3A//www.vaporfi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporfi.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803050641id_/https%3A//www.vaporfi.com/privacy.html) for the most accurate reproduction.*
 
 # VaporFi | Privacy Policy
 
