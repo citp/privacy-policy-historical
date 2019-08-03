@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustybuffy.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627030934id_/http%3A//www.bustybuffy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustybuffy.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803160652id_/http%3A//bustybuffy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
