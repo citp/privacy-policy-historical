@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realdoll.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612041607id_/https%3A//www.realdoll.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdoll.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803111013id_/https%3A//www.realdoll.com/privacy-policy) for the most accurate reproduction.*
 
 # RealDoll – The World's Finest Love Doll | Privacy Policy
 
