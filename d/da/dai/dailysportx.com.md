@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailysportx.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405204028id_/http%3A//www.dailysportx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysportx.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803035218id_/http%3A//www.dailysportx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailySportX
 
