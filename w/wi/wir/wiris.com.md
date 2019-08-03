@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the wiris.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603151800id_/http%3A//www.wiris.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiris.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804004713id_/http%3A//www.wiris.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WIRIS | math & science
 
-_Version 1.2_  
-_April 2nd, 2019_
+_Version 1.3_  
+_June 25, 2019_
 
 ## Terms of use
 
@@ -59,6 +59,9 @@ We use Google Analytics to collect information about visitor behaviour on our we
 
 You can find out more about Google’s position on privacy as regards its analytics service at <https://policies.google.com/technologies/partner-sites>
 
+  * Hotjar:  
+[Hotjar](https://www.hotjar.com/) is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on this [link](https://www.hotjar.com/legal/policies/privacy).   
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/legal/compliance/opt-out).” 
 
 
 
