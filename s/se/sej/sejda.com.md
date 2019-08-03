@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sejda.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622121005id_/https%3A//www.sejda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sejda.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804005115id_/https%3A//www.sejda.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sejda
 
