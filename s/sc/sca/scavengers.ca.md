@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scavengers.ca privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602063357id_/http%3A//www.scavengers.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scavengers.ca privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803145845id_/https%3A//www.scavengers.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Scavengers Studio
 
@@ -6,7 +6,7 @@
 
 **Effective date: August 16, 2018.**
 
-This Privacy Policy explains how Scavengers Studio (“Scavengers Studio”, “we”, “us”) collects, uses, and discloses information we obtain through [www.scavengers.ca](http://www.scavengers.ca/) (the “Website”) and along with Scavengers Studio’s Game Software and any other applications, products, services, or websites operated by Scavengers Studio that link to this Privacy Policy (collectively with the Website, the “Service”).
+This Privacy Policy explains how Scavengers Studio (“Scavengers Studio”, “we”, “us”) collects, uses, and discloses information we obtain through [www.scavengers.ca](https://www.scavengers.ca/) (the “Website”) and along with Scavengers Studio’s Game Software and any other applications, products, services, or websites operated by Scavengers Studio that link to this Privacy Policy (collectively with the Website, the “Service”).
 
 Scavengers Studio complies with all applicable laws related to personal information and we strive to protect the rights of individual users by adopting this Privacy Policy in accordance with relevant laws and regulations. Scavengers Studio is the data controller of your personal information.
 
