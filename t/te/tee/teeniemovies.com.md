@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teeniemovies.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603161825id_/http%3A//www.teeniemovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeniemovies.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803080353id_/http%3A//www.teeniemovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Teenie Movies
 
