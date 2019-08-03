@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hermoments.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223211054id_/https%3A//hermoments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermoments.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803163622id_/https%3A//hermoments.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Her Moments
+# Privacy Policy
 
 Your privacy is very important to us at Her Moments, and so we have a few fundamental principles that we follow in order to protect it:
 
