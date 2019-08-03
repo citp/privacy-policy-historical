@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qpdownload.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411153450id_/https%3A//qpdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qpdownload.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803191648id_/https%3A//qpdownload.com/privacy.php) for the most accurate reproduction.*
 
 # QP Download - The Biggest Download Portal!
 
