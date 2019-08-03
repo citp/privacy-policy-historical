@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indianastrology2000.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102050243id_/https%3A//www.indianastrology2000.com/indianastrology/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianastrology2000.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803182713id_/https%3A//www.indianastrology2000.com/indianastrology/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We, at Indianastrology2000.com understand the need for privacy for our members and are fully committed to protect their personal information. We take all possible steps to ensure that transactions at Indianastrology2000.com are absolutely secure. Below are the details of our privacy policy.
+We, at Indianastrology2000.com understand the need for privacy for our members and are fully committed to protect their personal information. We take all possible steps to ensure that transactions at Indianastrology2000.com are absolutely secure. Below are the details of our privacy policy. 
 
 **Members’ Information**
 
