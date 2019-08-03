@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishanyone.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601002858id_/http%3A//englishanyone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishanyone.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803211007id_/https%3A//englishanyone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EnglishAnyone.com - Become a Confident, Fluent English Speaker with the World's #1 English Fluency Guide
 
