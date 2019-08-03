@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530220502id_/http%3A//www.restaurants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803050207id_/http%3A//www.restaurants.com/privacy-policy) for the most accurate reproduction.*
 
 # Restaurants.com: find & compare the best restaurants near you
 
