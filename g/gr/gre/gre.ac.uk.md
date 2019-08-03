@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624225209id_/https%3A//www.gre.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803135035id_/https%3A//www.gre.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | About the university | University of Greenwich
 
@@ -39,6 +39,12 @@ _utmz |  Used by Google Analytics to record information about how visitors arriv
   
 You can find out more about cookies and Google Analytics, on the  [Google website](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet).
 
+### Session Cam
+
+Name| Description| Expires  
+---|---|---  
+Session Cam| This cookie is used so that we are able to record user behaviour during a single session of a users' visit to the website. The data is collected to identify where users struggle so we can improve those areas of the site. Information collected will include mouse movements, page scrolling, click activity and data entered onto website forms| When you close your browser  
+  
 ### Targeted advertising
 
 We pay for adverts to increase awareness of our services. Some of these are 'targeted' at people who have been on our site before, or have viewed other relevant sites. To do this we provide information to the advertising company by placing a small pixel on certain pages. This information can't be used to identify you.
