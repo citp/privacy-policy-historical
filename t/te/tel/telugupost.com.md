@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugupost.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527084538id_/http%3A//telugupost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugupost.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803140031id_/https%3A//telugupost.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY — Telugu Post
 
@@ -35,8 +35,8 @@ Cookies (data file placed on a Device when it is used to access the Services) ma
 ### **Google  **
 
   * We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) to measure site traffic.
-  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to http://telugupost.com.
-  * Google’s use of advertising cookies enables it and its partners to serve ads to Telugu Post users based on their visit to our site (http://telugupost.com) and/or other sites on the Internet.
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to https://telugupost.com.
+  * Google’s use of advertising cookies enables it and its partners to serve ads to Telugu Post users based on their visit to our site (https://telugupost.com) and/or other sites on the Internet.
   * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads)
 
 
