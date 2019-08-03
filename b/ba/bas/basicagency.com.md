@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basicagency.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424090253id_/https%3A//basicagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicagency.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803052121id_/https%3A//basicagency.com/privacy-policy) for the most accurate reproduction.*
 
 # Your Privacy | BASIC™ | Privacy Policy
 
