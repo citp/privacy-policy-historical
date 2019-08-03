@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630151100id_/http%3A//www.traderslaboratory.com/forums/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803102541id_/http%3A//www.traderslaboratory.com/forums/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Traders Laboratory
 
