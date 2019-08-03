@@ -1,8 +1,21 @@
-> *The following text is extracted and transformed from the filestream.me privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109070214id_/https%3A//filestream.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filestream.me privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803093551id_/https%3A//filestream.me/privacy-policy) for the most accurate reproduction.*
 
 # FileStream.me
 
 ## **Privacy Policy**
+
+Filestream.me is aware that the protection of personal data and its confidential handling is of great concern to our users. We would therefore like to illustrate which personal date and information we collect and how we handle it.
+
+By registering or using our services or our website you agree to the use of your personal data in accordance with the terms and conditions in this Privacy Policy. By providing your personal data you agree to use of your personal data in accordance with the terms and conditions in the Privacy Policy.
+
+**Collection and Use of Personal Data**  
+Personal data is information that identifies you, such as your name, e-mail or postal addresses.
+
+This Privacy Policy applies to the collection, use and disclosure of all personal data that may be obtained by filestream.me at anytime you interact with us. filestream.me stores, uses, or transfers your personal data only accordingly to your consent and to the extent needed in each specific case (e.g. to respond to your questions or concerns, to fulfil your requests or in order that you are able to store your data under a filestream.me account).
+
+Personal data may for example be collected when you visit our websites, sign-up for services or participate in any marketing activities, in particular when you sign-up for a filestream.me account or when you store your data under a filestream.me account.
+
+The data collected by filestream.me may be stored and processed in any country in which filestream.me operates. You also consent to any such transfer of your personal data to a country outside your country (e.g. outside the European Union or to a state not member of the European Economic Area). Should such a transfer take place, the information remains subject to this Privacy Policy.
 
 Further, it may be necessary for filestream.me to transfer personal data to other companies or to external service providers for further data processing. filestream.me requires that these parties agree to process personal data based on our instructions and in compliance with this Privacy Policy.
 
