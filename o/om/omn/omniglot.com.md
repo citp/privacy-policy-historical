@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniglot.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626113821id_/http%3A//www.omniglot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniglot.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803174427id_/http%3A//www.omniglot.com/privacy.htm) for the most accurate reproduction.*
 
 # Omniglot Privacy Policy
 
@@ -16,9 +16,9 @@ I do not collect any personal information about you. However, if you send me an 
 
 ## What I do with the information I gather
 
-  * If you make a contribution to Omniglot, such as sending corrections or new material, I will put your name on the relevant page(s), or on the [contributors' page](http://www.omniglot.com/contributors.htm), to acknowledge your contribution. If you prefer to remain anonymous, please [let me know](https://web.archive.org/web/20190626113821id_/http%3A//www.omniglot.com/contact.htm).
-  * I occasionally may give your contact details to other visitors to this site who you might be able to help with a language-related question. If you would prefer not be contacted in this way, please [let me know](https://web.archive.org/web/20190626113821id_/http%3A//www.omniglot.com/contact.htm).
-  * If you submit an article or a constructed script, I may put your name and email address in a HTML comment at the bottom of the page. This is only visible if you view the source code. If someone else wishes to contact you about the article or script, this helps me remember your details, rather than searching through my email. If you prefer not to be contacted about your article(s), please [let me know](https://web.archive.org/web/20190626113821id_/http%3A//www.omniglot.com/contact.htm).
+  * If you make a contribution to Omniglot, such as sending corrections or new material, I will put your name on the relevant page(s), or on the [contributors' page](http://www.omniglot.com/contributors.htm), to acknowledge your contribution. If you prefer to remain anonymous, please [let me know](https://web.archive.org/web/20190803174427id_/http%3A//www.omniglot.com/contact.htm).
+  * I occasionally may give your contact details to other visitors to this site who you might be able to help with a language-related question. If you would prefer not be contacted in this way, please [let me know](https://web.archive.org/web/20190803174427id_/http%3A//www.omniglot.com/contact.htm).
+  * If you submit an article or a constructed script, I may put your name and email address in a HTML comment at the bottom of the page. This is only visible if you view the source code. If someone else wishes to contact you about the article or script, this helps me remember your details, rather than searching through my email. If you prefer not to be contacted about your article(s), please [let me know](https://web.archive.org/web/20190803174427id_/http%3A//www.omniglot.com/contact.htm).
 
 
 
@@ -58,7 +58,7 @@ I use Google AdSense Advertising on this website.
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact me](https://web.archive.org/web/20190626113821id_/http%3A//www.omniglot.com/contact.htm). 
+If there are any questions regarding this privacy policy you may [contact me](https://web.archive.org/web/20190803174427id_/http%3A//www.omniglot.com/contact.htm). 
 
 Last Edited on 7th June 2018. 
 
