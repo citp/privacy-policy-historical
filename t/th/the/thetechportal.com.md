@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetechportal.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403065322id_/https%3A//thetechportal.com/privacy-policy-new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechportal.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804010719id_/https%3A//thetechportal.com/privacy-policy-new) for the most accurate reproduction.*
 
 # Welcome to The Tech Portal Privacy Policy | The Tech Portal
 
-_In August 2014, we announced that The The Tech Portal was becoming a part of Blue Box Media Private Limited. Blue Box Media is a consolidated media company formed by combining The Tech Portal and Connect Jaipur (now functioning as a separate spin-off entity named WhereIndiaConnects). We server with the single mission of creating a global, digital-only media brand out of India, which could match up South Asia’s grim digital media scenario, to the west._
+_In August 2014, we announced that The The Tech Portal was becoming a part of Blue Box Media Private Limited. Blue Box Media is a consolidated media company formed by combining The Tech Portal and Connect Jaipur (now functioning as a separate spin-off entity named WhereIndiaConnects). We serve with the single mission of creating a global, digital-only media brand out of Asia._
 
 ## **The Privacy Pledge**
 
