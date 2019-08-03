@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micolet.co.uk privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306091417id_/https%3A//www.micolet.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micolet.co.uk privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803060548id_/https%3A//www.micolet.co.uk/privacy) for the most accurate reproduction.*
 
 # Micolet - Privacy Policy
 
@@ -10,7 +10,7 @@ The website www.micolet.co.uk is managed by:
 
 Corporate name: Micolet Web, S.L.  
 Intra-community VAT: ESB95808770  
-Headquarter: Avenida José Luis Goyoaga, 34. 48950 Erandio - Bizkaia  
+Headquarter: Avenida Ribera de Axpe 11, 2D - 202. 48950 Erandio - Bizkaia  
 Email: info@micolet.co.uk  
 Registered in the mercantile registry of Bizkaia (Spain) Tome 5538, Sheet 205, Page BI-66348.  
 Micolet is a trademark registered on EUIPO No 016681199 
@@ -19,7 +19,7 @@ Micolet is a trademark registered on EUIPO No 016681199
 
 In accordance with the Organic Law 15/1999, of 13 December of Protection of Personal Data, we inform you that personal data provided through our website www.micolet.co.uk (Micolet), be classed as confidential and will be stored in databases owned by Micolet Web S.L. (hereinafter Micolet Web), duly registered in the Data Protection Agency (www.agpd.es).
 
-User can exercise this right access, rectification, cancellation, and opposition according to the Organic Law 15/1999, 13 December, Personal Data Protection, via email info@micolet.co.uk, by mail to Micolet Web S.L. Jose Luis de Goyoga 34, 48950 Erandio - Bizkaia or in terms of applicable regulation.
+User can exercise this right access, rectification, cancellation, and opposition according to the Organic Law 15/1999, 13 December, Personal Data Protection, via email info@micolet.co.uk, by mail to Micolet Web S.L. Avenida Ribera de Axpe 11, 2D - 202. 48950 Erandio - Bizkaia or in terms of applicable regulation.
 
 Micolet Web is committed to protecting User’s privacy. The information that Micolet Web collects from the users and visitors is described in the following paragraphs. If you do not agree with this Privacy Policy do not use the Micolet website.
 
