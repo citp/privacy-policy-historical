@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the radiocut.fm privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607011236id_/https%3A//radiocut.fm/privacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiocut.fm privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803135010id_/https%3A//us.radiocut.fm/privacidad) for the most accurate reproduction.*
 
-# Privacy Policy | RadioCut
+# Privacy Policy | RadioCut USA
 
-This Privacy Policy governs the manner in which RadioCut Inc. collects, uses, maintains and discloses information collected from users (each, a 'User') of the [radiocut.fm](https://web.archive.org/web/20190607011236id_/https://radiocut.fm/privacidad/radiocut.fm) website ("Site"). This privacy policy applies to the Site and all products and services offered by RadioCut Inc..
+This Privacy Policy governs the manner in which RadioCut Inc. collects, uses, maintains and discloses information collected from users (each, a 'User') of the [radiocut.fm](https://web.archive.org/web/20190803135010id_/https://us.radiocut.fm/privacidad/radiocut.fm) website ("Site"). This privacy policy applies to the Site and all products and services offered by RadioCut Inc..
 
 **Personal identification information**
 
