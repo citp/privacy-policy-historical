@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frieze.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330123516id_/https%3A//frieze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frieze.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803095547id_/https%3A//frieze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frieze
 
