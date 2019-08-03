@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purehotmodels.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608130000id_/http%3A//portal.purehotmodels.com/portal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purehotmodels.com privacy policy that was archived on 2019-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190803115812id_/http%3A//portal.purehotmodels.com/portal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pure Hot Models
 
