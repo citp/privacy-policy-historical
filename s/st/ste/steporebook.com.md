@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steporebook.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204062749id_/http%3A//www.steporebook.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steporebook.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804192441id_/http%3A//www.steporebook.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Stepor Ebook
 
