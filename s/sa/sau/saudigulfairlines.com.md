@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saudigulfairlines.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618154449id_/http%3A//www.saudigulfairlines.com/en/help-centre/view/HTML/30/9/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saudigulfairlines.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804055516id_/http%3A//www.saudigulfairlines.com/en/help-centre/view/HTML/30/9/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | SaudiGulf Airlines
 
