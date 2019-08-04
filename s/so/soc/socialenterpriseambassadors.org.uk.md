@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialenterpriseambassadors.org.uk privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527232813id_/http%3A//www.socialenterpriseambassadors.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialenterpriseambassadors.org.uk privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804174117id_/http%3A//www.socialenterpriseambassadors.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SE Ambassadors
 
