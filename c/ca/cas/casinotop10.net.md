@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320100251id_/https%3A//www.casinotop10.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804134505id_/https%3A//www.casinotop10.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Read all about CasinoTop10.net's Privacy Policy
 
-CasinoTop10 respects your privacy. Any information collected by this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. You can rest assured that any information that you give to CasinoTop10 will be kept with the uttermost care and will not be used in way to which you have not consented.
+CasinoTop10 respects your privacy. Any information collected by this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. You can rest assured that any information that you give to CasinoTop10 will be kept with the uttermost care and will not be used in any way in which you have not consented.
 
 **Resale or disclosure of information to third parties:**
 
