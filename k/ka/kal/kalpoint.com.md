@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalpoint.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603145839id_/http%3A//kalpoint.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalpoint.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804054432id_/http%3A//www.kalpoint.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – KalPoint.com
 
