@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insta-member.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604043308id_/http%3A//insta-member.com/launch/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insta-member.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804023622id_/http%3A//insta-member.com/launch/privacy) for the most accurate reproduction.*
 
 # InstaMember - Privacy Policy
 
