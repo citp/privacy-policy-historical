@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynalist.io privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618023858id_/https%3A//dynalist.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynalist.io privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804094246id_/https%3A//dynalist.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dynalist
 
