@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecodeofinfluence.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626235724id_/http%3A//www.statbrook.com/disclaimers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecodeofinfluence.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804135746id_/http%3A//www.statbrook.com/disclaimers/privacy.html) for the most accurate reproduction.*
 
 # Statbrook Associates LLC Privacy Policy
 
