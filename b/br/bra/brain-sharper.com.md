@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brain-sharper.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619073919id_/http%3A//brain-sharper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brain-sharper.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804040436id_/http%3A//brain-sharper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BrainSharper
 
