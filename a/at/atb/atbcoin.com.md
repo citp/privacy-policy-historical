@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atbcoin.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910222516id_/https%3A//atbcoin.com/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atbcoin.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804083224id_/https%3A//atbcoin.com/privacy-policy-en) for the most accurate reproduction.*
 
 # ATB Privacy policy | ATB Coin - Good for Business. Good for You
 
