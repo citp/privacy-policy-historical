@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706120141id_/https%3A//www.dll-files.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804204838id_/https%3A//www.dll-files.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - DLL-files.com
 
