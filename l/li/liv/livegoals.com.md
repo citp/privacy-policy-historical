@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livegoals.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419112612id_/https%3A//www.livegoals.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livegoals.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804231410id_/https%3A//www.livegoals.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy For Livegoals.com
 
