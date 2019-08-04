@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishopchangi.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614141952id_/http%3A//www.changiairport.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishopchangi.com privacy policy that was archived on 2019-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190804022752id_/http%3A//www.changiairport.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Changi Airport Singapore
 
