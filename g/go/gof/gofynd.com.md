@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the gofynd.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210142556id_/http%3A//info.gofynd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofynd.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805173048id_/https%3A//care.fynd.com/solution/articles/33000214398-privacy-policy) for the most accurate reproduction.*
 
-# Fynd: Nearby Fashion Shopping
+# Privacy Policy : Fynd Care
+
+********
+
+## Privacy Policy 
+
+Modified on: Mon, 11 Dec, 2017 at 4:11 PM
+
+* * *
 
 ### INTRODUCTION
 
@@ -30,7 +38,7 @@ Device-specific information such as your hardware model, operating system versio
 
 Historical details of how you used our service, such as your search queries. This enable us to make suggestions based on your general location, like brands around you or relevant promotions.
 
-Broad, non-specific location, which we derive from your IP address. 
+Broad, non-specific location, which we derive from your IP address.
 
 Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
 
@@ -48,7 +56,7 @@ E-mail, SMS and In-App communications: We love to proactively reach out to our u
 
 Information from other sources: We may receive information about you from other sources and add it to our account information.
 
-In the Profile/My Account section, we indicate the controls and relevant settings associated with your Fynd account. 
+In the Profile/My Account section, we indicate the controls and relevant settings associated with your Fynd account.
 
 ### WHAT WE DO WITH YOUR PERSONAL INFORMATION?
 
@@ -62,7 +70,7 @@ When you agree to the terms set in this policy you give us permission to collect
 
 4\. to communicate with you for service related or technical updates via emails, notifications, text or other messages which you agree to receive
 
-5\. to communicate with you directly, or through our partners, for marketing and promotional purposes via emails, notifications, or other messages, consistent with any permissions you may have communicated to us 
+5\. to communicate with you directly, or through our partners, for marketing and promotional purposes via emails, notifications, or other messages, consistent with any permissions you may have communicated to us
 
 6\. with securely processing your payments, maintaining your bag, wishlists, promotions or offers from your account, and prevent any associated fraud or abuse on the service
 
@@ -140,4 +148,12 @@ If you would like to access, correct, amend or delete any personal information w
 
 Fynd
 
-A317, Sagar Tech Plaza, Saki Naka, Andheri East, Mumbai, MH, 400072, India.
+501, 5th Floor, Corporate Centre, Andheri (E), Mumbai - 400 059
+
+* * *
+
+Did you find it helpful? Yes No
+
+Send feedback
+
+Sorry we couldn't be helpful. Help us improve this article with your feedback.
