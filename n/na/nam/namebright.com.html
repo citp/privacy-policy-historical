@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the namebright.com privacy policy that was archived on 2019-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190514063838id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the namebright.com privacy policy that was archived on 2019-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190805052547id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="webkit safari linux"><head>
     <!-- Google Tag Manager -->
@@ -44,6 +44,7 @@
 <link type="text/css" rel="stylesheet" href="/css/additional_3.css">
 <script type="text/javascript" language="javascript" src="/js/jquery.watermark.min.js"></script>
 <script type="text/javascript" src="/js/namebright.js"></script>
+<script src="https://js.braintreegateway.com/js/braintree-2.32.1.min.js"></script>
 
     <script type="text/javascript">
         var bruid = null;
@@ -123,12 +124,12 @@
 						<form class="f_login" action="https://www.namebright.com/Login.aspx" method="post" autocomplete="off">
                             
                             <span><input type="text" id="master_username" name="username" class="inputTextOverlay watermark" data-value="Username" style="color: rgb(192, 192, 192);"></span>
-                            <span><input type="text" id="master_password" name="85PI51VG95R637QCACZM_password" class="inputTextOverlay watermark" data-value="Password" autocomplete="off" style="color: rgb(192, 192, 192);" maxlength="8"></span>
+                            <span><input type="text" id="master_password" name="YZL70HQC45HTO118V66D_password" class="inputTextOverlay watermark" data-value="Password" autocomplete="off" style="color: rgb(192, 192, 192);" maxlength="8"></span>
                             
                             <input type="hidden" id="bruidTop" name="bruid" value=""><script type="text/javascript"></script>
 							<input name="ctl00$dest" type="hidden" id="dest">
                             <span style="position:relative;top:1px;">
-                                <div id="adaZEtykQp6dbHfRMTSp" class="animateButtonContainer"><input id="23G6iSWSlKocFIfuu7dk" type="submit" value="" class="animateButtonClone" style="position: absolute; top: 0px; left: 0px; background-position: left bottom;"><input id="master_login_submit" type="submit" value="" class="animateButton" style="position: relative;"></div>
+                                <div id="GxXZszGUDlV1cvNusDtk" class="animateButtonContainer"><input id="yeKKWgLXTFHz1N4PoueX" type="submit" value="" class="animateButtonClone" style="position: absolute; top: 0px; left: 0px; background-position: left bottom;"><input id="master_login_submit" type="submit" value="" class="animateButton" style="position: relative;"></div>
                             </span>
 							<a class="lock" href="#">secure</a>
 							<a class="txt" href="https://www.namebright.com/LoginHelp">Forgot?</a>
@@ -170,7 +171,7 @@
                         <input id="searchText" style="color:#000; width:120px; " type="text" data-focus="true" data-value="Search" name="keyword" maxlength="100" class="submitText ">
                         
 
-						<div id="Lk8ArvpS7wCgdqFT8z1z" class="animateButtonContainer"><input id="T5hR0rhpr7HmFN9vIAbD" type="submit" value="" class="subm animateButtonClone" style="position: absolute; top: 0px; left: 0px; background-position: left bottom;"><input id="searchSubmit" type="submit" value="" class="subm animateButton" style="position: relative;"></div>
+						<div id="vI7i05T90ev4XSM539Ss" class="animateButtonContainer"><input id="6xHrorPf9EvPDZRxS1aT" type="submit" value="" class="subm animateButtonClone" style="position: absolute; top: 0px; left: 0px; background-position: left bottom;"><input id="searchSubmit" type="submit" value="" class="subm animateButton" style="position: relative;"></div>
                         <div class="note" id="advSearch_hover_note">
                             Click here for the Advanced Search of my domain names.
                             <div style="border-top: 1px solid grey; height:1px; margin: 14px 10px 15px 10px;"></div>
@@ -189,6 +190,8 @@
         
 		<div id="divBreadCrumbs" class="crumbs mb12"><p class="bread"><a href="/">Home</a>  <em>/</em> NameBright Privacy Policy</p></div>
 
+        
+    
         
         
         
@@ -522,5 +525,23 @@ This is a feature that helps you manage domain names in bulk.  By copying a list
             if (up == '') { $('#master_password').addClass('errorInput'); hasErrors = true; }
             if (hasErrors) { return false; }
         });
+        
+        $('#transferSecurityConfigure').click(function(e) {
+            $('.transferSecurityNoticeConfigure').hide();
+            $('#transferSecurityNoticeConfigureWrap').slideDown(500);
+        });
+        
+        $('#transferSecurityNoticeSetToHigh').click(function(e) {
+            CallPageMethod("saveGdprTransferApproval", ['isEnabled', false], successTransferSecuritySet, null, '/account/controls/pageMethods.aspx');
+        });
+        
+        $('#transferSecurityNoticeSetToIgnore').click(function(e) {
+           CallPageMethod("transferSecuritySetToIgnore", [], successTransferSecuritySet, null, '/account/controls/pageMethods.aspx');
+        });
+        
+        function successTransferSecuritySet(result) {
+            $('#transferSecurityDiv').hide();
+        }
+        
     });
 </script><!-- WEBVS=fca7fc5a-3ca2-4d71-b0b3-83e6bdbc4363 --><div style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="/images/logo_hover.gif"></div></body></html>
