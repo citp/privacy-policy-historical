@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogonize.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602212331id_/http%3A//wordpress-templates-free.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogonize.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805170159id_/http%3A//wordpress-templates-free.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wordpress Blog - WPTF
 
