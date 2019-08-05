@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickerbar.info privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628215157id_/http%3A//www.tickerbar.info/privacy.ghc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickerbar.info privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805055718id_/http%3A//www.tickerbar.info/privacy.ghc) for the most accurate reproduction.*
 
 # TickerBar - It's ALWAYS a Sure Bet! (A Non-Complicated Paid to Surf Program)
 
