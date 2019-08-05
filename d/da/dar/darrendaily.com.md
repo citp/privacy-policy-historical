@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darrendaily.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331093551id_/https%3A//dh.darrenhardy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darrendaily.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805103917id_/https%3A//dh.darrenhardy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Darren Hardy
 
