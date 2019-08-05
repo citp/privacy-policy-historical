@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the winemag.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330151202id_/https%3A//www.winemag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemag.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805192050id_/https%3A//www.winemag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wine Enthusiast Magazine
 
 **Winemag.com Privacy Policy** ** **
 
-Effective July 27, 2018
+Effective from July 27, 2018
 
-Welcome to winemag.com.  The Wine News Inc. (“we”, “us” or the “Company”) is committed to protecting your privacy! This Privacy Policy describes how we obtain, use, share and protect your personal information, including information gathered through your use of winemag.com, related websites wineenthusiast.com and wineexpress.com (“Websites”), and any services we may provide (collectively, “Services”). This Privacy Policy covers data, including personal information, collected through our Services and all other means whether online or offline.  **By using our Services, you accept the practices described in this Privacy Policy.**   If you do not agree to this Privacy Policy, please do not use our Services. \
+Welcome to winemag.com.  The Wine News Inc. (“we”, “us” or the “Company”) is committed to protecting your privacy! This Privacy Policy describes how we obtain, use, share and protect your personal information, including information gathered through your use of winemag.com, related websites wineenthusiast.com and wineexpress.com (“Websites”), and any services we may provide (collectively, “Services”). This Privacy Policy covers data, including personal information, collected through our Services and all other means whether online or offline.  **By using our Services, you accept the practices described in this Privacy Policy.**   If you do not agree to this Privacy Policy, please do not use our Services.
 
 We encourage you to read this Privacy Policy to learn more about:
 
