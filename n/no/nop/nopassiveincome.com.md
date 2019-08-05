@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nopassiveincome.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428101653id_/http%3A//nopassiveincome.com/privacy-disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopassiveincome.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805231649id_/http%3A//nopassiveincome.com/privacy-disclosure-policy) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policy
 
