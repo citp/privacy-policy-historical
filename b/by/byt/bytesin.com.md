@@ -1,58 +1,65 @@
-> *The following text is extracted and transformed from the bytesin.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327185934id_/http%3A//www.bytesin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytesin.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805210541id_/https%3A//www.bytesin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Collected information**
+This privacy statement has been created to explain in detail how our website is processing information collected from you, or that you chose to provide to us. We are committed to online privacy so please read this policy carefully, as it will allows you to understand our views and disposition related to your personal data, and the way we will handle it.
 
-We collect information from our visitors when they create an account on our website or subscribe to the newsletter. This information is willingly provided by our visitors.
+###  **Collected information**
 
-When we display ads on our site, the third-party ad vendors we work with use cookies to track your Internet usage and behaviors in order to serve you relevant ads. Usually, the information they collect is not personally identifiable and is used simply to improve the content they serve.
+This website may collect and use information you chose to provide to us. This can happen by filling in forms on [www.bytesin.com](http://www.bytesin.com/) (our site), or by engaging into conversations with us via email or other methods. In this category, the following types of information are also included: information provided by you during account creation, subscription to our services, using our search tools, entering competitions, surveys or promotions, and when you report a problem.
 
-**Information usage**
+We also collect some types of information automatically (during your visits on our website), which includes:
 
-BYTESIN uses collected information in several ways:
-
-  * To help you receive a personalized experience. This means your username is remembered for comments.
-  * We also use the newsletter information you provide us with to send you period emails regarding new posts on our website you might be interested in.
-
+  * Technical information, such as your IP address, your login information, operating system, platform, device identifier, browser type and version, time zone setting and browser plug-in types and versions.
+  * Information regarding your visit, which includes the complete Uniform Resource Locators (URL) clickstream to, through and from our site, viewed and searched products, page response times, length of visits to specific pages, mouse clicks, mouse overs and other page interaction information, as well as methods used to browse away from the page. None of this information will be able to identify you by name, and you are not required to provide us with your name or address to use [www.bytesin.com](https://www.bytesin.com/).
+  * Information received from other sources, which include information we receive from advertising networks, analytics and search information providers and business partners.
 
 
-We do not disclose your personal details to third-parties except the ones that are involved in operating our website and business as long as they are willing to keep the data confidential.
 
-**Cookies**
+###  **Cookies**
 
-We rely on cookies to receive statistics about our website’s usage and they may also be used to save your comment IDs.
+Cookies are used by our website to distinguish you from other users that visit it. Cookies make it possible for us to offer you a positive experience while you’re browsing our website and helps us improve it further.
 
-**Third party links**
+Cookies are “txt” files that web servers offer to your browser, and then are stored on your computer’s hard disk. The majority of browsers are configured to accept cookies, but you do have the option to change your browser’s settings in order to notify you when you receive a cookie, or to refuse cookies. Nevertheless, you should be aware some areas of BytesIn can only be normally seen if cookies are allowed by your browser.
 
-BYTESIN may occasionally link to third-party websites, services or products. If you choose to visit them, keep in mind they have their own privacy policies and we are not responsible for their activities and content.
+We use cookies to offer you a more feature-rich experience of using this website, as they let us customize what you see, based on what we learned about your preferences during your visits on BytesIn. Normally, we use the following types of cookies:
 
-BYTESIN values your personal information’s privacy. Please read the privacy policy below o understand what kind of personal information we receive and collect from individuals who visit our website and the steps we take to secure it.
+  * Essential cookies – these are needed for our website to function properly
+  * Analytical/Performance cookies – they allow us to recognize, count the number of visitors and see how they navigate our website during visits.
+  * Functionality cookies – used to improve our website’s performance and make it easier for our visitors to use it.
+  * Third Party cookies – most adverts displayed on our website are generated by third parties. While we do our best to display ads that are relevant for BytesIn and our visitors, some of the companies we are working with may set their own or other third party cookies through these adverts.
 
-Your personal information will never be sold or shared with third parties.
 
-**Cookies and Web Beacons**
 
-Cookies are small bits of data used to store information regarding a website’s visitors, such as their preferences. This information can be used to customize our website’s features and behavior according to your usage.
+###  **How we use information**
 
-BYTESIN may use third party advertisements and some of them rely on web beacons and cookies to collection information from the ads they serve such as your IP address, browser you used, your ISP and other personally non-identifiable details.
+We may use information about you, in the following ways:
 
-You can use your browser’s settings and also the ones of certain security applications to completely disable or selectively turn off our cookies and third-party cookies. Nevertheless, this may limit some features of our site, and of other websites.
+  * Information you provided, can be used to offer you information, services and products you request from us and other goods and services that we feel could interest you; to notify you about modifications we bring to your service (you will only be contacted by electronic means); to make sure our website’s content is optimized for you and your computer.
+  * Information we collect about you, can be used to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes; to improve our site, so content on BytesIn is optimized for you and your computer; to let you participate in interactive features of our service; to ensure our website’s security; to analyze and measure how effective and relevant is our advertising for you and other users of our website; to make recommendations and suggestions to you and other users of our site, regarding services or goods we feel may interest you or them.
+  * Information we receive from other sources, can be combined with information we collect about you or you choose to provide us with. It may be used for any of the purposes described above, depending on its type.
+  * Information you provide to us or that we collect from you (as described above) may be shared with select third-parties such as advertisers and advertising networks (in order to select and offer relevant adverts to you and our website visitors in general), analytics and search engine providers (to improve and optimize bytesin.com) and business partners.Please note that none of the data we may share with third-parties includes personally identifiable information.
 
-**Log files**
 
-Our website (like most others) collects and uses information stored in log files. This information includes your ISP, your IP address, the time you visited our site, the pages you’ve viewed during the visit and the Internet browser you used for the visit.
 
-We respect the privacy of our users, and as a result the only personal information we collect is the one you choose to provide us with (such as when creating an account on our website, for example).
+###  **Personal data handling and storage**
 
-BYTESIN does not sell, make public, rent, or share any personally identifiable information provided by our users with third-party entities or individuals outside our website staff and the companies that help us run it.
+All website related data including personal data provided by you or that we collect from you is stored on our servers. Both our website and servers have security measures implemented to ensure the stored information is protected against loss, misuse and alteration. Other than our own staff, no third-parties are authorized to directly access the personal data we store.
 
-We may occasionally display advertisements from Google and other third-party vendors that rely on cookies to serve ads. These cookies are only used to collect various Internet usage statistics and preferences in order to serve more relevant ads.
+However, there is no way data transmission over the Internet can be 100% secure. As a result, we cannot guarantee the safety of your information and all data transmission you make through bytesin.com is made on your own risk.
 
-BYTESIN is not responsible for the content of external sites to which we link. Each website has their own terms of usage and privacy policies and we recommend you read them for each site you visit before providing them with any personal data.
+We’ll never make personally identifiable information about you public without your prior express consent. Nevertheless, we are not responsible for any personal details you chose to disclose about yourself via comments, the forum, your account profile and other areas of our website that are visible to the public.
 
-We collect data from cookies since they allow us to recognize you each time you visit and personalize some of our site’s features to better suit your needs. Please keep in mind cookies do not contain any personal information.
+###  **Your Rights**
 
-While we do not share the personal information you provide us with, you are solely responsible for keeping your passwords and other account details secure.
+We don’t use your personal data for marketing purposes (such as sending newsletters via email) without informing you and giving you the option to refuse. Any forms or boxes that may be used to collect your data for such purposes include certain boxes you can check in order to prevent your personal data from being processed for the purposes described above.
 
-Third-party websites and services accessible through BYTESIN have their own privacy policies and terms of use for which we are not liable nor responsible. If you have any questions about their privacy policies, please contact these third-parties directly.
+Our website can include links to other websites, advertisers and affiliates (outgoing links). Please be aware that if you choose to follow outgoing links, these websites have their own privacy policies for which we don’t accept responsibility or liability.
+
+###  **Privacy Policy Changes**
+
+Any privacy policy changes we may make will be posted on this page. In certain cases we may also chose to notify our visitors via email or post them in a visible place on our website (i.e. the homepage). Please check this page regularly to stay up to date regarding our privacy policy.
+
+###  **Contact**
+
+If you experience any privacy related problems on our website, have questions, comments or requests do not hesitate to let us know via our [contact page](https://www.bytesin.com/contact/).
