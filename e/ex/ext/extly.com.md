@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406142030id_/https%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805175626id_/https%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Extly - Empower your website with our solutions
 
 _Last update: May 22th, 2018_
 
-Extly CB is committed to protecting your privacy and your personal information when you are using our services and visiting our websites. This Privacy Policy explains how we collect your Personal Data, how we use these data, and your rights to control their use. This privacy policy applies to all data that we have collected or collect related to you, and according to our [Terms of Service.](https://www.extly.com/terms-of-use.html)
+Extly CB is committed to protecting your privacy and your personal information when you are using our services and visiting our websites. This Privacy Policy explains how we collect your Personal Data, how we use these data, and your rights to control their use. This privacy policy applies to all data that we have collected or collect related to you, and according to our [Terms of Service.](http://www.extly.com/terms-of-use.html)
 
-If you have any questions or comments, or if you want to update, delete, or change any Personal Data we hold, or you have a concern about the way in which we have handled any privacy matter, please use our [contact form](https://www.extly.com/contact-us.html) to send us a message.
+If you have any questions or comments, or if you want to update, delete, or change any Personal Data we hold, or you have a concern about the way in which we have handled any privacy matter, please use our [contact form](http://www.extly.com/contact-us.html) to send us a message.
 
 ### 1\. Who is collecting your data
 
@@ -122,7 +122,7 @@ We will retain the following data:
 
 **(a) Disaggregated data:** Disaggregated data will be retained without a deadline for deletion.
 
-**(b) Subscribers data:** During the time your account is active or as long as needed to provide you with our Services under our [Terms of Service](https://www.extly.com/terms-of-use.html). In any case, it will be the minimum necessary from time to time, currently subject to certain statutes of limitation terms:
+**(b) Subscribers data:** During the time your account is active or as long as needed to provide you with our Services under our [Terms of Service](http://www.extly.com/terms-of-use.html). In any case, it will be the minimum necessary from time to time, currently subject to certain statutes of limitation terms:
 
   * Four years: Law on Infringements and Sanctions in the Social Order (obligations regarding affiliation, registration, cancellation, contribution, payment of salaries…); Art. 66 ff. General Tax Law (Accounting Books…);
   * Five years: Art. 1964 Civil Code (personal actions without special time limit)
