@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powershop.com.au privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518154339id_/https%3A//www.powershop.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powershop.com.au privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805214243id_/https%3A//www.powershop.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Powershop Australia
 
