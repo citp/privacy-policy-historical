@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the write.as privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122184720id_/https%3A//write.as/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the write.as privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805140919id_/https%3A//write.as/privacy) for the most accurate reproduction.*
 
 # Write.as Privacy Policy
 
@@ -8,7 +8,7 @@ Privacy is in our name: write as yourself; write as anyone. Without anyone close
 
 The short story is that **we never share your data** , and **we minimize what we know about you**. The information we _do_ collect may be needed for a moment, but we permanently delete it as soon as it's no longer needed.
 
-Write.as (and specifically, [A Bunch Tell, LLC](http://www.abunchtell.com/)) operates several websites including [write.as](https://write.as/), [html.house](https://html.house/), [paste.as](https://paste.as/), and [snap.as](https://snap.as/). This policy applies to all of our products.
+Write.as (and specifically, [A Bunch Tell, LLC](https://abunchtell.com/)) operates several websites including [write.as](https://write.as/), [html.house](https://html.house/), [paste.as](https://paste.as/), and [snap.as](https://snap.as/). This policy applies to all of our products.
 
 ## What we don't collect
 
