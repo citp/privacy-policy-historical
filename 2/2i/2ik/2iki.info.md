@@ -1,97 +1,61 @@
-> *The following text is extracted and transformed from the 2iki.info privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125022551id_/http%3A//2iki.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2iki.info privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805084032id_/http%3A//2iki.info/privacy-policy) for the most accurate reproduction.*
 
-# privacy – 2iki.info
+# Privacy Policy | 2iki Journal
 
-This privacy policy applies to the information (the Site) collects about you from any device you use to access products, services, software, websites, and other goods and services offered, owned, or operated by (collectively “Services”). Some of these Services may provide you with additional information and choices about your privacy, which you should review.
+### 1\. INTRODUCTION
 
-This policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from the Site. The information collected or received by third parties is subject to their own privacy policies.
+**1.1. PURPOSE OF POLICY.** Nanang Net (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of Nanang Net (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
-### Collection of Your Information
+**1.2. NOTICE CONCERNING CHILDREN**
 
-It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). Therefore, we will not disclose to any unauthorized third party a User’s name or contact information. We will also not monitor, edit or disclose the contents of a User’s information unless required to do so by law or in the good faith belief that such action is necessary to: 
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
 
-  * Conform to the edicts of the law or comply with legal process served on us;
-  * Protect and defend our rights or property;
-  * Act under exigent circumstances to protect the personal safety of Users or the public;
-  * To prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or
-  * Fix or debug problems with our servers/software/service.
+### 2\. INFORMATION COLLECTION PRACTICES
 
+**2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
 
+In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site. 
 
-When you register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (”Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. The Site may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to the Site, and make public via your privacy settings, will also be available to other users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on the Site. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.
+**2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
 
-As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-Your information may be supplemented with additional information from other companies such as publicly available information, information about households, and other information which we may append or match to your information.
+(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
 
-The Site may also receive or collect certain technical information when you use our Services. This may include: your browser or operating system, your manner of connecting to the Internet (including the type of device you are using) and the name of your Internet service provider or wireless carrier; your Internet protocol (IP) address; information about Services that you used prior to registering with the Site; and data relating to malfunctions or problems occurring when you use the Site Services. Additionally, we may collect information about other software on your device for the limited purpose of protecting your security or improving your online experience.
+(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us. 
 
-### How Your Information is Used
+### 3\. USE AND SHARING OF INFORMATION
 
-Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
+**3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
 
-### Privacy Policy and Consumer Education
+(a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings. 
 
-### Children’s Privacy
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact info@, titled Privacy. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
-We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
+(c) USE OF COOKIES. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
 
-### Consumer Education Related to Social Networking
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose any information we have for you if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
-Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of the Site or our company, including the information collected through this Site. If Company or substantially all of its assets are acquired by a third party, user information will be one of the assets transferred to the acquirer.
 
-  * http://onguardonline·gοv/socialnetworking·html [[link](http://onguardonline.gov/socialnetworking.html)]
-  * http://onguardonline·gοv/socialnetworking_youth·html [[link](http://onguardonline.gov/socialnetworking_youth.html)]
+### 4\. SECURITY
 
+The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
 
+### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
 
-### Other Information/Logging and Cookies
+**5.1. THIRD PARTY WEBSITES**
 
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
 
-We also use the services of a third-party advertising companies – such as Gοοgle Adsense – and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use “non-identifying information” (which will not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. Snippet from Gοοgle Adsense website :
+### 6\. CONTACT INFORMATION AND POLICY UPDATES
 
-> Google uses the DoubleClick cookie on publisher websites displaying AdSense for content ads. Subject to any applicable laws, rules and regulations, you will have the sole and exclusive right to use all data derived from your use of the DoubleClick cookie for any purpose related to your business, provided that Gοοgle may use and disclose this data subject to the terms of [Google’s advertising privacy policies](http://www.google.com/intl/en/privacy/ads/privacy-policy.html "Google’s Advertising Privacy Policies") and any applicable laws, rules and regulations.
+**6.1. CONTACTING US**
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit Network Advertising Initiative (networkadvertising·org) and read their article regarding [Opt Out of Behavioral Advertising](http://www.networkadvertising.org/managing/opt_out.asp "Opt Out of Behavioral Advertising").
+If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site. 
 
-### Information Sharing And Disclosure
+**6.2. UPDATES AND CHANGES**
 
-_Members/Users._  
-In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.  
-Even with all the appropriate precautions we take to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services.
+We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
 
-_Aggregate Information and Non-Identifying Information._  
-We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.
-
-_Service Providers._  
-We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your non-identifying personal information or log data (cookies) only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-
-### Changing OR Deleting Your Information
-
-All members/authors may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
-
-### Our Commitment to Security
-
-The Site concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access.
-
-The Site has established safeguards to help prevent unauthorized access to or misuse of your information, but cannot guarantee that your information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the Site and its affiliated providers’ policies). To protect your privacy and security, we may use passwords or other technologies to register or authenticate you and enable you to take advantage of the Services, and before granting access or making corrections to your information.
-
-### International Transfer
-
-Your “non-identifying” personal information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the France and choose to provide information to us, please be advised that we transfer Personal Information to the France and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-### Links To Other Sites
-
-The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
-### Changes to this Privacy Notice and Additional Information
-
-The Site may update this Privacy Notice from time to time, and so you should review this Policy periodically. If there are significant changes to the Site’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the Site as well as for special features and services not described in this Policy that may be introduced in the future.
-
-_Violations and Comments_  
-Please report any violations of the TOS to abuse@, titled : Abuse/Violation; or make any comments to info@.
-
-_Last Updated_  
-Monday, April 9th 2018 – 00:04:23 PM
+(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well. 
