@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtwithscience.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104104204id_/https%3A//builtwithscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtwithscience.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805042427id_/https%3A//builtwithscience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
