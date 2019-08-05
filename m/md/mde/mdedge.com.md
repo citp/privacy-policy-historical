@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdedge.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522091627id_/https%3A//www.mdedge.com/corporate-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdedge.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805182641id_/https%3A//www.mdedge.com/corporate-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MDedge
 
