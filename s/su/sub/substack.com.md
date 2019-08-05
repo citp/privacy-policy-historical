@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the substack.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612014721id_/https%3A//substack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the substack.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805115922id_/https%3A//substack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
