@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the independent.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419224459id_/https%3A//www.independent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805201349id_/https%3A//www.independent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Santa Barbara Independent
+# Privacy Policy - The Santa Barbara Independent
 
 This is the website of Independent.com.
 
