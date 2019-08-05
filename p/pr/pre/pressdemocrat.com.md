@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420083803id_/https%3A//www.sonomamediainvestments.com/privacy/SMI_PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805183749id_/https%3A//www.sonomamediainvestments.com/privacy/SMI_PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # PRESS DEMOCRAT PRIVACY POLICY
 
