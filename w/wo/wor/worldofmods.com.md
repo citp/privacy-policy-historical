@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofmods.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401050142id_/https%3A//www.worldofmods.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofmods.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805225757id_/https%3A//www.worldofmods.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -38,5 +38,3 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 _Last modified 19.01.2016_
-
-* * *
