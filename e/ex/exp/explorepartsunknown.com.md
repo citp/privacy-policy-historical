@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorepartsunknown.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401023702id_/https%3A//explorepartsunknown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorepartsunknown.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806010753id_/https%3A//explorepartsunknown.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
