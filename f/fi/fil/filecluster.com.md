@@ -1,35 +1,65 @@
-> *The following text is extracted and transformed from the filecluster.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408032817id_/https%3A//www.filecluster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecluster.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805210541id_/https%3A//www.bytesin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**General**
+This privacy statement has been created to explain in detail how our website is processing information collected from you, or that you chose to provide to us. We are committed to online privacy so please read this policy carefully, as it will allows you to understand our views and disposition related to your personal data, and the way we will handle it.
 
-This privacy statement was created because FileCluster.com is firmly committed to privacy over the internet. When a visitor requests pages from FileCluster.com, our Web servers automatically recognize the browser's domain name and IP address. Our server does not record e-mail addresses or private informations. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. From time to time, we may ask users to provide an e-mail address or mailing address for the purpose of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request before the information is requested.
+###  **Collected information**
 
-**Cookies**
+This website may collect and use information you chose to provide to us. This can happen by filling in forms on [www.bytesin.com](http://www.bytesin.com/) (our site), or by engaging into conversations with us via email or other methods. In this category, the following types of information are also included: information provided by you during account creation, subscription to our services, using our search tools, entering competitions, surveys or promotions, and when you report a problem.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while browsing our site. Some of our partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. Please refer to the privacy policies of the network for details. 
+We also collect some types of information automatically (during your visits on our website), which includes:
 
-**Google Adsense**
+  * Technical information, such as your IP address, your login information, operating system, platform, device identifier, browser type and version, time zone setting and browser plug-in types and versions.
+  * Information regarding your visit, which includes the complete Uniform Resource Locators (URL) clickstream to, through and from our site, viewed and searched products, page response times, length of visits to specific pages, mouse clicks, mouse overs and other page interaction information, as well as methods used to browse away from the page. None of this information will be able to identify you by name, and you are not required to provide us with your name or address to use [www.bytesin.com](https://www.bytesin.com/).
+  * Information received from other sources, which include information we receive from advertising networks, analytics and search information providers and business partners.
 
-Google Adsense is FileCluster's primary ad partner and being a 3rd party service provider, you should be aware of the following:
 
-\- Google, as a third party vendor, uses cookies to serve ads on our site.
 
-\- Google's use of the DART cookie enables it to serve ads to you, our users based on their visit to your sites and other sites on the Internet.
+###  **Cookies**
 
-\- Any user can opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy located [here](http://www.google.com/privacy_ads.html).
+Cookies are used by our website to distinguish you from other users that visit it. Cookies make it possible for us to offer you a positive experience while you’re browsing our website and helps us improve it further.
 
-**Security**
+Cookies are “txt” files that web servers offer to your browser, and then are stored on your computer’s hard disk. The majority of browsers are configured to accept cookies, but you do have the option to change your browser’s settings in order to notify you when you receive a cookie, or to refuse cookies. Nevertheless, you should be aware some areas of BytesIn can only be normally seen if cookies are allowed by your browser.
 
-This website takes every precaution to protect the user's private information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this [link](http://www.ssl.com/).
+We use cookies to offer you a more feature-rich experience of using this website, as they let us customize what you see, based on what we learned about your preferences during your visits on BytesIn. Normally, we use the following types of cookies:
 
-**Links**
+  * Essential cookies – these are needed for our website to function properly
+  * Analytical/Performance cookies – they allow us to recognize, count the number of visitors and see how they navigate our website during visits.
+  * Functionality cookies – used to improve our website’s performance and make it easier for our visitors to use it.
+  * Third Party cookies – most adverts displayed on our website are generated by third parties. While we do our best to display ads that are relevant for BytesIn and our visitors, some of the companies we are working with may set their own or other third party cookies through these adverts.
 
-This web site contains links to other sites. Please be aware that we, FileCluster.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-**Software submissions**
 
-Any developer can submit any downloadable software on FileCluster.com. once the software is accepted and added, we are offering it's details (e.g. publisher name, download links, descriptions) to our users. We do not offer any private informations to our users about the developers, such as email addresses or physical addresses. FileCluster can contact the developer regarding its software status, updates, problems or software related issues.
+###  **How we use information**
 
-If you have any concern regarding our services or products offered within this website, feel free to [contact us](https://web.archive.org/contact.html).
+We may use information about you, in the following ways:
+
+  * Information you provided, can be used to offer you information, services and products you request from us and other goods and services that we feel could interest you; to notify you about modifications we bring to your service (you will only be contacted by electronic means); to make sure our website’s content is optimized for you and your computer.
+  * Information we collect about you, can be used to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes; to improve our site, so content on BytesIn is optimized for you and your computer; to let you participate in interactive features of our service; to ensure our website’s security; to analyze and measure how effective and relevant is our advertising for you and other users of our website; to make recommendations and suggestions to you and other users of our site, regarding services or goods we feel may interest you or them.
+  * Information we receive from other sources, can be combined with information we collect about you or you choose to provide us with. It may be used for any of the purposes described above, depending on its type.
+  * Information you provide to us or that we collect from you (as described above) may be shared with select third-parties such as advertisers and advertising networks (in order to select and offer relevant adverts to you and our website visitors in general), analytics and search engine providers (to improve and optimize bytesin.com) and business partners.Please note that none of the data we may share with third-parties includes personally identifiable information.
+
+
+
+###  **Personal data handling and storage**
+
+All website related data including personal data provided by you or that we collect from you is stored on our servers. Both our website and servers have security measures implemented to ensure the stored information is protected against loss, misuse and alteration. Other than our own staff, no third-parties are authorized to directly access the personal data we store.
+
+However, there is no way data transmission over the Internet can be 100% secure. As a result, we cannot guarantee the safety of your information and all data transmission you make through bytesin.com is made on your own risk.
+
+We’ll never make personally identifiable information about you public without your prior express consent. Nevertheless, we are not responsible for any personal details you chose to disclose about yourself via comments, the forum, your account profile and other areas of our website that are visible to the public.
+
+###  **Your Rights**
+
+We don’t use your personal data for marketing purposes (such as sending newsletters via email) without informing you and giving you the option to refuse. Any forms or boxes that may be used to collect your data for such purposes include certain boxes you can check in order to prevent your personal data from being processed for the purposes described above.
+
+Our website can include links to other websites, advertisers and affiliates (outgoing links). Please be aware that if you choose to follow outgoing links, these websites have their own privacy policies for which we don’t accept responsibility or liability.
+
+###  **Privacy Policy Changes**
+
+Any privacy policy changes we may make will be posted on this page. In certain cases we may also chose to notify our visitors via email or post them in a visible place on our website (i.e. the homepage). Please check this page regularly to stay up to date regarding our privacy policy.
+
+###  **Contact**
+
+If you experience any privacy related problems on our website, have questions, comments or requests do not hesitate to let us know via our [contact page](https://www.bytesin.com/contact/).
