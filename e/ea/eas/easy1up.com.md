@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easy1up.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511201132id_/http%3A//easy1up.com/en/u/privacy_policy%3Fid%3DNULL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy1up.com privacy policy that was archived on 2019-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190805025725id_/http%3A//www.easy1up.com/privacy_policy.php%3Fid%3DNULL) for the most accurate reproduction.*
 
-# easy1up.com
+# Easy1up.com
 
 ### **"we" refers to easy1up executive team and site admin.**
 
