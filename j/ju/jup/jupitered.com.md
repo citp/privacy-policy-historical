@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jupitered.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628071847id_/http%3A//jupitered.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jupitered.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806011933id_/http%3A//jupitered.com/privacy.html) for the most accurate reproduction.*
 
 # Jupiter Ed Privacy Policy
 
