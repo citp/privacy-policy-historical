@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellaball.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606091834id_/http%3A//hellaball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellaball.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806015442id_/http%3A//hellaball.com/privacy) for the most accurate reproduction.*
 
 # privacy – hellaball.com
 
