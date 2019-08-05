@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydesert.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520213300id_/https%3A//cm.desertsun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydesert.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806003338id_/https%3A//eu.desertsun.com/privacy) for the most accurate reproduction.*
 
-# static.desertsun.com
+# Privacy Policy
 
 Last Updated: May 14, 2018
 
