@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sclance.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613054227id_/http%3A//www.sclance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclance.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806023343id_/http%3A//www.sclance.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
