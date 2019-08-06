@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthreviewcenter.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606101048id_/http%3A//healthreviewcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthreviewcenter.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806143818id_/http%3A//healthreviewcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Health advice, fitness tips, and reviews - Health Review Center
 
