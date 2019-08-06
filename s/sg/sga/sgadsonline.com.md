@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206231225id_/http%3A//sgadsonline.com/en_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806051928id_/http%3A//sgadsonline.com/en_privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Sgadsonline
 
