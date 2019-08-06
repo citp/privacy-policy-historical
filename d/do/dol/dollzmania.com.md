@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollzmania.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604223857id_/http%3A//en.virtualpopstar.com/login%3Fdo%3Dshow_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollzmania.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806142909id_/http%3A//en.virtualpopstar.com/login%3Fdo%3Dshow_terms) for the most accurate reproduction.*
 
 # Terms of Use - Virtual Popstar
 
