@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javascripter.net privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606165253id_/http%3A//www.javascripter.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javascripter.net privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806111828id_/http%3A//www.javascripter.net/privacy.htm) for the most accurate reproduction.*
 
 # JavaScripter.net: Privacy
 
