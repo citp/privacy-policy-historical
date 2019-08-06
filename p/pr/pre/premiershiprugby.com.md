@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiershiprugby.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401064225id_/https%3A//www.premiershiprugby.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiershiprugby.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806143558id_/https%3A//www.premiershiprugby.com/legal) for the most accurate reproduction.*
 
 # Legal Notice & Privacy Policy | Premiership Rugby
 
