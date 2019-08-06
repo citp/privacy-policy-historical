@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakify.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313215352id_/http%3A//freakify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakify.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806104009id_/https%3A//freakify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Freakify.com | Learn Technology : Freakify.com
 
@@ -6,7 +6,7 @@
 
 At freakify.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by freakify.com and how it is used.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 freakify.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Privacy Policy
@@ -41,11 +41,11 @@ For, instance one of our partners, Google uses the DoubleClick DART cookie on Fr
 
 Our web sites contain links to other sites. Freakify.com is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information. After one year it is our right to remove links from guest posts.
 
- **Cookies & 3rd Party Advertisements**
+**Cookies & 3rd Party Advertisements**
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/privacy/ads/).
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit[http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/choices/).
 
 Note: This Page can get updated any time, without an prior noitce, so keep checking back.
 
