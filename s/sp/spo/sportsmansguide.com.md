@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421010954id_/https%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807012632id_/https%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
 
-# Sportsman's Guide - Outdoor Gear, Military Surplus, Survival Gear and more
+# Privacy Policy | Sportsman's Guide
 
 ###  Privacy Statement 
 
