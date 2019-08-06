@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123freecell.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230064441id_/http%3A//123freecell.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123freecell.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806134252id_/http%3A//123freecell.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 123 Freecell Privacy Policy
 
@@ -29,4 +29,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://www.247games.org/support>
+<https://www.247games.com/support>
