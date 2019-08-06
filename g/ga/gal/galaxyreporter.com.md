@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galaxyreporter.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415134921id_/http%3A//galaxyreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyreporter.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806110107id_/http%3A//galaxyreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Galaxy Reporter
 
