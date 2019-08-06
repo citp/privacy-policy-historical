@@ -1,65 +1,97 @@
-> *The following text is extracted and transformed from the talentsprint.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616011512id_/https%3A//www.talentsprint.com/privacy-policy.dpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentsprint.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806102735id_/https%3A//www.talentsprint.com/privacy-policy.dpl) for the most accurate reproduction.*
 
-# TalentSprint | Youth Career Accelerator
+# Deep Tech Expertise for Professionals and Graduates - TalentSprint
 
-This site is owned by TalentSprint Education Services Private Limited, here in after referred to as "TalentSprint". The term "TalentSprint" have been used interchangeably in this site. TalentSprint would like to safeguard the information you provide to us about yourself. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information, to this site. Use of this site constitutes your consent to our Privacy Policy. By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
+This Privacy Policy (“ **Policy** ”) provides information about how TalentSprint Private Limited, a company incorporated under the Companies Act, 1956 having its registered office at PSR Prime Towers, Suite No. G02, 101 & 102 Sy No 126 (P), beside DLF Cyber City, Gachibowli, Hyderabad, Rangareddy, TG- 560032 (the “ **Website Provider** ”) collects, uses, stores, archives and transfers information/data (used interchangeably hereafter) from you, through your use of the website www.talentsprint.com (“ **Website** ”)
 
-**Copyright**
+### Scope
 
-All information displayed, transmitted or carried on [www.TalentSprint.com](https://www.talentsprint.com/) is protected by copyright and other intellectual property laws. You may not, under any circumstances, modify, publish, distribute, repost, perform, display or in any way commercially exploit any of the content on this web site.
+This Policy covers only data collected through the Website and not any other data collection or processing, including, without limitation, data collection practices of other mobile applications or web pages that are linked to the Website or data that is collected offline or through web sites, products, or services offered or belonging to third parties. Occasionally, reference would be made to this Policy in notices and consent requests related to specific surveys, ratings or other modalities present in the Website.
 
-**What we collect**
+### Types of Data and Collection Methods
 
-Like many Web sites, this site actively collects information from its visitors by permitting you to communicate directly with us via e-mail and feedback forms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on). Some areas of this site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, order processing, submitting a resume). As you navigate through the Web site, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as navigational data collection. This site may use Internet Protocol (IP) addresses. An IP Address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). We may use your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site.
+The following instances are when data might be collected by the Website Provider; when you (i) request information; (ii)apply to use or participate in or subscribe to any service offered through the Website; (iii) submit any content in the Website; (iv) register as a user; or (vi) otherwise actively send data through/using the Website. The Website Provider will collect, use, store and archive information about you in the following general categories:
 
-**What we do with the information we gather**
+### Information You Provide to Us
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * **Personal Information:** We access personal information provided by you, such as information provided at the time of (i) registration or in relation to use or modification of your account, (ii) request for on-demand services, customer support, or (iii) which is otherwise communicated to us which may include your name, gender, email address(es), mobile/phone number, mailing address(es), graduation year, graduation percentile, to (a) resolve any complaints/feedback in relation to the use of the Website, (b) enhance your experience of the Website; and (c) provide you with customized content/services on the Website.
+  * **Sensitive Information:** We access your credit/debit card details (e.g. credit card number and related verification information), and other financial information such as bank account details, as well as related personal information, such as your name, address, mobile number, date of birth, education, professional experience, etc., at the time of making payments to the service providers through the approved payment processing provider for the services/products purchased through the Website.
 
 
 
-**Security**
+### Information we collect through your use of the Website and/or the Services
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, no data transmissions over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warranty the security of any information you transmit to us via the internet, and you do so at your own risk. Once we have received your transmission, we will use our best efforts to ensure its security on our systems.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can Click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, S1 you may change your mind at any time by writing to or emailing us at [unsubscribe@talentsprint.com](mailto:unsubscribe@talentsprint.com)S2
+  * **Usage and Preference Information:** We may access information about your interactions with the Website such as the date and time you use the Website, the areas or pages of the Website or internet resources that you visit (through the Website), the amount of time you spend viewing pages, the searches you make, the services you avail; and the settings you have chosen. The Website uses cookies, open device identifier number, web beacons or similar technologies to collect the information under this category. The Website Provider may use the above mentioned technologies to: (i) monitor the Website usage; and (ii) improve the content and services provided on and through the Website.
+  * **Log Information:** When you interact with the Website, we collect server logs, which may include information like IP address, access dates and times, and other system activity, type of browser, and the third-party site or service you were using before interacting with the Website to understand the usage of the Website and the demographic information about the user base of the Website.
+  * **Interactive Features/Forums Information:** The Website Provider will store any information you share using the interactive features (such as learning management system, online chat, online classroom sessions and email features) of the Website. You understand that any information (including personal information) which you may share through the interactive features with any third parties or other users of the Website will be solely at your risk as to the security of such information and the Website Provider cannot guarantee the security of such information or the nature of its use by the third parties to whom you disclose such information.
+  * **Transaction Information:** We may access transaction details related to your use of the Website including the type of services requested, date and time of the request, complaints against the services sourced and other related transaction details to (i) monitor the Website usage; and (ii) improve the content and services provided on and through the Website.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+_Cookies._ The Website Provider uses cookies, open device identifier number, web beacons or similar technologies to collect the information described above. A cookie is a small text file that may be stored on the hard drive of your device when you use the Website. The Website Provider may also use the above mentioned technologies to: (i) monitor the Website usage; and (ii) conduct research to improve the content and services provided on the Website.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to TalentSprint Pvt. Ltd., PSR Prime Tower, Beside DLF Cyber City, Gachibowli, Hyderabad - 500032.
+The Website Provider also allows other companies such as web analytics partners to set or access their cookies or web beacons or similar technologies on the Website. For example, the Website Provider may use third party web analytics partners to analyze big-data on its behalf. These third-party analytics partners employ cookies, web beacons and other similar technologies to measure and analyze the big-data. To do so, these partners may use information about your use of the Website, which information will be anonymized such that it cannot reasonably be used to identify you. This data can also be used for online marketing purposes by the Website Provider.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+### Collection Purposes, Use of Data
 
-**Contacting Us**
+The Website Provider uses the data that is collected for the following general purposes:
 
-If there are any questions regarding this privacy policy you may contact us by Clicking the "Contact Us" in the "About Us" menu tab.
+  * To deliver the services made available through the Website
+  * To respond to the request that you sent us such as your request for information, or your request to subscribe to a service;
+  * To administer, protect and improve the Website;
+  * To facilitate payments through the Website;
+  * To better understand the preferences of users of the Website;
+  * To identify server problems;
+  * To compile aggregated statistics about usage of the Website;
+  * To help personalize your experience of the Website;
+  * To improve the services offered to you;
+  * To help the Website Provider in its internal business functioning;
+  * To provide you with information about technologies, product or service releases, news, and other communications;
+  * To the extent permitted by applicable law, the Website Provider may combine various types of data that is collected; and
+  * Any other use the Website Provider may describe at the point when it collects data.
 
-**Changes to this Policy**
 
-Any changes in this Policy will be updated & posted on this site. Please check back periodically, and especially before you provide any personally identifiable information.
+
+### External Links on Website 
+
+The Website may contain hyperlinks to other websites, content or resources. We have no control over any websites or resources, which are provided by other companies or persons. You acknowledge and agree that we are not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such websites or resources. You acknowledge and agree that we are not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources. These third-party service providers and third-party sites may have their own privacy policies governing the storage and retention of your Personal information that you may be subject to. We recommend that when you enter a third-party website, you review the third-party site’s privacy policy as it relates to safeguarding your personal information. We may use third-party advertising companies to serve ads when you visit the website. You may visit the third-party websites and choose to opt-out of the use of cookies for interest-based advertising if the third party offers such an option. 
+
+### Disclosures of Personal & Other Information
+
+The Website Provider may share or transfer information you disclose on or is collected through the Website only for the following purposes: (i) to the approved payment processing provider(s), to facilitate the provision of Services through the Website; and(ii) as required by law or in the interest of protecting or exercising the Website Provider’s or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings. Your acceptance to this Policy or terms and conditions of this Website and/or usage of the Website shall be deemed to be your express consent to the Website Provider for sharing or disclosing any of your information or data (as mentioned herein) for the purpose and manner as provided in this Policy and no separate consent for any purpose shall be required.
+
+### Access
+
+If personal information you have submitted through the Website is no longer accurate, current, or complete, you are allowed to update these changes using the Website, but the Website Provider reserves the right to use information obtained previously to verify your identity or take other actions that it believes is appropriate.
+
+### Confidentiality
+
+You further acknowledge that the Website may contain information which is designated confidential by us and that you shall not disclose such information without our prior written consent. Your information is regarded as confidential and therefore will not be divulged to any third party, unless if legally required to do so to the appropriate authorities or as per this Policy. We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail other than as per the terms of this Policy or our terms of service. 
+
+### Website Communication
+
+We have a strict ‘No Spam’ policy. We don’t share email address of our users for marketing purpose. We may send you certain emails in relation to the proper functioning of your account, your opinion of current services or of potential new services to be offered on the Website or any promotional material. If you wish to opt-out of receiving promotional emails, please send a request to customercare@talentsprint.com.
+
+### Retention
+
+We will retain your information for as long as your account is active. Provided however, we may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or if required by law. 
+
+### Security
+
+The security of your personal information is a top priority for us. We are committed to protecting the security of your personal information. We treat data as an asset that must be protected against loss and unauthorized access. Experts design our security measures and we use a variety of technologies and procedures to protect such data from unauthorized access by members inside and outside the company. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Although the Website Provider takes reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction, however, “perfect security”; does not exist on the Internet. You therefore agree that any security breaches beyond the control of our standard security procedures are at your sole risk and discretion. Your use of Website is subjected to our Policy and Terms of Service. If you do not agree to this we request you not to use this portal
+
+### Amendments
+
+The Website Provider reserves the right to change, modify, add or remove portions of this Policy at any time, but will alert you that changes have been made by indicating on the Policy the date it was last updated. When you use the Website, you are accepting the current version of this Policy as posted on the Website at that time. It is recommended that users revisit this Policy on occasion to learn of any changes.
+
+### Contact Us
+
+If you have any questions, or concerns about this Policy or any complaints or grievances about the manner in which the Website Provider handles your personal information or the use of your personal information (in doing so acknowledging that the Website Provider may be unable to provide you all or some of the services), please feel free to contact the Grievance Officer any time at 
+
+Contact Details: **customercare@talentsprint.com**
+
+**[Note: You acknowledge and agree that you will have to send an email to customercare@talentsprint.com if you wish to delete/disable your account and have all your information deleted from the Website databases and servers.]**
+
+THE USE OF THE WEBSITE OR ANY PART OF THE SERVICES ON THE WEBSITE, EITHER IN WHOLE OR IN PART, SIGNIFIES YOUR AGREEMENT TO THIS PRIVACY POLICY.
+
+Last Updated: July 25, 2019
