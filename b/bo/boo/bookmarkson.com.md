@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkson.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621115730id_/http%3A//zokality.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkson.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806145357id_/http%3A//zokality.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
