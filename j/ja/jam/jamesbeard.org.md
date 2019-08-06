@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesbeard.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503173115id_/https%3A//www.jamesbeard.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesbeard.org privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806114751id_/https%3A//www.jamesbeard.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | James Beard Foundation
 
@@ -12,7 +12,11 @@ Like many other websites, the James Beard Foundation website occasionally deposi
 
 #### Payment Transactions 
 
-The James Beard Foundation uses trusted third party platforms for all credit card transactions related to donations, memberships, reservations, and ticketing. When completing a transaction, please refer to the platform’s privacy policy for more information. For additional questions regarding data privacy, please email [publications@jamesbeard.org](mailto:publications@jamesbeard.org).
+Any payment data collected by a third party platform on our behalf is only transmitted in a limited format to any Foundation staff. For credit cards, this would only include details such as the last four digits, expiration date, and country of issuance.
+
+All payment data obtained by the organization is protected by various measures of security including physical, electronic, and procedural safeguards. Safeguards include, but are not limited to: strong access controls, device encryption, network firewalls, and destruction of physical collections of payment data.
+
+For additional questions regarding data privacy, please email [publications@jamesbeard.org](mailto:publications@jamesbeard.org).
 
 #### Volunteering Personal Data
 
