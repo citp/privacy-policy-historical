@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox9.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614053136id_/http%3A//www.fox9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox9.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806093353id_/https%3A//www.fox9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KMSP
 
