@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401080813id_/https%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806104814id_/https%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Indianapolis Business Journal
 
 This privacy policy describes how IBJ Media Corp. (The Company) uses and protects the information a user releases to [www.ibj.com](http://www.ibj.com/).
 
