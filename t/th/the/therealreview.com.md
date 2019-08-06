@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the therealreview.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916211757id_/http%3A//www.therealreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealreview.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806074624id_/https%3A//www.therealreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – The Real Review
+# Privacy Policy – The Real Review
 
 The Real Review operates on the principle that the privacy of its members is paramount. We collect minimal personal information on registration: your email address, a user name, which may but need not be your real name, and your mobile number in case you choose to use it to access the mobile application. That’s it. Even so, it is important that you understand what we do, and do not do, with the information generated through use of The Real Review. Our Privacy Policy contains important information about how we look after your privacy; please read it carefully. We also encourage you to review our Terms and Conditions of Use.
 
-The Real Review reviews its privacy practices from time to time, and may amend this Privacy Policy as required to reflect its business practices, new industry standards or applicable laws or regulations from time to time. We ask that you periodically review this page for updates to our Privacy Policy. To contact The Real Review about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please [contact us](http://www.therealreview.com/contact-us/) .
+The Real Review reviews its privacy practices from time to time, and may amend this Privacy Policy as required to reflect its business practices, new industry standards or applicable laws or regulations from time to time. We ask that you periodically review this page for updates to our Privacy Policy. To contact The Real Review about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please [contact us](https://www.therealreview.com/contact-us/) .
 
 ## Personal Information
 
@@ -16,7 +16,7 @@ When you use our website, we collect your browser type and IP address and log in
 
 You post User Content (as defined in the The Real Review Terms and Conditions of Use) on The Real Review at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your pages and information. Accordingly we cannot and do not guarantee that User Content will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on The Real Review.
 
-Any improper collection or misuse of information provided on The Real Review is a violation of the The Real Review Terms and Conditions of Use and should be [reported](http://www.therealreview.com/contact-us/).
+Any improper collection or misuse of information provided on The Real Review is a violation of the The Real Review Terms and Conditions of Use and should be [reported](https://www.therealreview.com/contact-us/).
 
 The Real Review does not provide access to your information to anyone under any circumstances (short of legal compulsion), including third party marketers. Should you wish to deal with third parties who advertise product offerings on or through The Real Review, you must initiate the dealings.
 
@@ -40,4 +40,4 @@ Access and control over your personal information on The Real Review is readily 
 
 ## Contacting Us
 
-Please [contact us](http://www.therealreview.com/contact-us/) with any questions and comments regarding our Privacy Policy.
+Please [contact us](https://www.therealreview.com/contact-us/) with any questions and comments regarding our Privacy Policy.
