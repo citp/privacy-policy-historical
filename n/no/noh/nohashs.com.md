@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nohashs.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606164719id_/http%3A//www.nohashs.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nohashs.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806052101id_/http%3A//www.nohashs.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -148,7 +148,7 @@ The information you can access will change as the Services change.
 
 If you are a registered user of nohashs, you can change or delete any saved payment card details and add or edit shipping and billing address information. 
 
-You have the right to access information held about you. In the UK the Data Protection Act 1998 (the "Act") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of 10 to meet our costs in providing you with details of the information we hold about you. You may at any time request correction or deletion of your personal data, and object to any processing of your personal data by emailing us at legal@nohashs.com. We will respond to your access and/or correction request within four (4) weeks. 
+You have the right to access information held about you. In the UK the Data Protection Act 1998 (the "Act") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of 10 to meet our costs in providing you with details of the information we hold about you. You may at any time request correction or deletion of your personal data, and object to any processing of your personal data by emailing us at [[email protected]](http://www.nohashs.com/cdn-cgi/l/email-protection) We will respond to your access and/or correction request within four (4) weeks. 
 
 ####  9\. What Choices Do I Have 
 
@@ -166,7 +166,7 @@ Please note that if you choose not to receive legal notices from us, such as thi
 
 ####  10\. Children 
 
-We do not knowingly market or sell products for purchase by children. The Services are not designed for use by children under 13 years old. Children under 13 are not allowed to register with or use the Services, or submit personal data through the Services. We do not knowingly collect personal data from anyone under the age of 13. If we discover that we have collected personal information from a child under 13, we will delete that information immediately. If you believe that we might have any information from a child under age 13, please contact us at caitlin@nohashs.com
+We do not knowingly market or sell products for purchase by children. The Services are not designed for use by children under 13 years old. Children under 13 are not allowed to register with or use the Services, or submit personal data through the Services. We do not knowingly collect personal data from anyone under the age of 13. If we discover that we have collected personal information from a child under 13, we will delete that information immediately. If you believe that we might have any information from a child under age 13, please contact us at [[email protected]](http://www.nohashs.com/cdn-cgi/l/email-protection)
 
 ####  11\. Changes To This Policy 
 
