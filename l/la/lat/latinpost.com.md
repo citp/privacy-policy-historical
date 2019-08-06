@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinpost.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506083607id_/https%3A//www.latinpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinpost.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806084640id_/http%3A//www.latinpost.com/privacypolicy) for the most accurate reproduction.*
 
 # Latin Post
 
