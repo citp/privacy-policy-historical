@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527140135id_/https%3A//www.oklahoman.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806181123id_/https%3A//oklahoman.com/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK Privacy Policy | NewsOK.com
 
