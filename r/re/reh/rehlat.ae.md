@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rehlat.ae privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427134744id_/https%3A//www.rehlat.ae/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehlat.ae privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806114431id_/https%3A//www.rehlat.ae/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rehlat
 
