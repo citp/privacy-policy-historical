@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the slopeofhope.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630050921id_/https%3A//slopeofhope.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slopeofhope.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806032514id_/https%3A//slopeofhope.com/page/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Slope of Hope
+# Privacy Policy – Slope of Hope
+
+**What information do we collect?**
 
 We collect information from you when you register on our site or place an order.
 
@@ -48,7 +50,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
@@ -60,6 +62,8 @@ This policy was last modified on March 25, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
+Socialtrade Corporation  
 555 Bryant 711  
-Palo Alto, CA 94301  
+Palo Alto, CA 94301
+
 tim@socialtrade.com
