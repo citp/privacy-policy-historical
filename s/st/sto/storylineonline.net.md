@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storylineonline.net privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822221819id_/http%3A//www.storylineonline.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storylineonline.net privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806184058id_/https%3A//www.storylineonline.net/privacy-policy) for the most accurate reproduction.*
 
 # Storyline Online
 
@@ -10,4 +10,4 @@ The video hosts used on our site may also use their own cookies.  We have no co
 
 To remove a cookie, check your browser preferences to delete it.
 
-If you sign-up for email updates (which is great!), we will store your email address in our mailing list. By signing up, you give us permission to email you periodically. We will not sell or share your email address with anyone else.
+If you sign-up for email updates (which is great!), we will store your email address in our MailChimp mailing list. By signing up, you give us permission to email you periodically. We will not sell or share your email address with anyone else.
