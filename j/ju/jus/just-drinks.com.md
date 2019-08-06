@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607093010id_/https%3A//www.just-drinks.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806043423id_/https%3A//www.just-drinks.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # just-drinks.com: Privacy & Cookies
 
