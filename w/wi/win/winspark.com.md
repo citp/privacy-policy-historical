@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winspark.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606180940id_/http%3A//www.winspark.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winspark.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806121247id_/http%3A//www.winspark.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
 
 # WinsPark - Privacy and Security Policy
 
