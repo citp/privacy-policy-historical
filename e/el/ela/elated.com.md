@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509200621id_/https%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807010612id_/https%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Matt Doyle | Elated Communications
 
