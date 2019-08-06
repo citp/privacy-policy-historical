@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcams.su privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606210959id_/http%3A//redcams.su/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcams.su privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806205611id_/http%3A//redcams.su/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows - Free Porn Chat - RedCams Free Porno Chat Online
 
