@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boozallen.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330130234id_/https%3A//www.boozallen.com/tools/footer-navigation/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boozallen.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806143052id_/https%3A//www.boozallen.com/tools/footer-navigation/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
