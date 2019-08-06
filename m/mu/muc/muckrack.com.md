@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muckrack.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200247id_/https%3A//muckrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muckrack.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806100747id_/https%3A//muckrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ Muck Rack reserves the right to modify this Privacy Policy from time to time in 
 California Civil Code Section 1798.83 permits users of the Service who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with “California Privacy Rights” in the heading to [privacy@muckrack.com](mailto:privacy@muckrack.com) or write us at: 
 
 Muck Rack Privacy Rights  
-588 Broadway #503  
+96 Spring Street, 7th Floor  
 New York, New York 10012 
 
 ##  Contact Us 
