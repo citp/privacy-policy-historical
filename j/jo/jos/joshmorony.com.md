@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625005140id_/https%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807003617id_/https%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | joshmorony - Learn Ionic & Build Mobile Apps with Web Tech
 
-This document outlines the privacy policy for this website. We will always treat any information you supply on this website with respect. Any information requested will be done so with the goal of improving your experience on this website.
+This document outlines the privacy policy for this website. We will always treat any information you supply on this website with respect. Any information requested or used will be done so with the goal of improving your experience on this website.
 
 **Does this website use cookies?**
 
@@ -12,7 +12,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-We work with third parties (Google AdSense) to serve ads targeted to users’ interests, but we do not collect or store this information ourselves.
+We work with third parties to serve advertisements and content targeted to users’ interests.
 
 **Third Party Links**
 
@@ -48,7 +48,15 @@ Throughout your use of this website, types of personally identifiable informatio
   * Your name
   * Your email address
   * Your website address
+  * Your preferences and responses to survey questions
   * Payment information (if you are purchasing products, this data will not be stored on this website)
+
+
+
+Additional personally identifiable information may also be stored based on your interactions with the website if you have opted in to the mailing list or have bought products including:
+
+  * Specific products that you have purchased
+  * Specific pages on the website that you have visisted
 
 
 
@@ -58,21 +66,21 @@ All personal information that is collected through this website will be stored w
 
 **How will the information be used?**
 
-Primarily, the personal information that you supply will be used for communication, or to facilitate the sale (and refunds) of any products that you might purchase through this website. A detailed list of how types of data will be used is available later in this document.
+Primarily, the personal information that you supply will be used for communication, targetting content, and to facilitate the sale (and refunds) of any products that you might purchase through this website. A detailed list of how types of data will be used is available later in this document.
 
 **Who will the information be shared with?**
 
 Any personal data collected through this website will never be sold to any 3rd party. The only 3rd party companies that will have access to any personal data related to this website will be the data processors that are outlined below. These data processors are used solely to help facilitate the function and operation of this website.
+
+**How long will the information be stored?**
+
+Data will be stored for an indeterminate amount of time, but it may be deleted at any time without notice. You may also request to have your data deleted at any time.
 
 ### 3rd Party Tools This Website Uses
 
 **Google Analytics**
 
 This website has enabled the IP Anonymization feature of Google Analytics. This prevents personally identifiable information from being stored on the Google Analytics servers in relation to your interactions with this website. If you would like to know more about IP Anonymization you can [click here](https://support.google.com/analytics/answer/2763052?hl=en)
-
-**Contact Form**
-
-If you choose to interact with the contact form on this website, it will ask for personal information, which is required in order for me to provide a response to you. The information that you enter will be used to send an email directly to my email address hosted with GMail. Any information you enter into the contact form will not be used in any other way other than to respond to you, and the information is not stored anywhere other than on GMail’s own servers.
 
 **ConvertKit**
 
@@ -92,6 +100,7 @@ Depending on your interactions with emails that you receive, or actions you take
   * The volume of emails you would prefer to receive
   * Your responses to any surveys/polls that may be conducted (generally this is used to help determine the kind of content that is added to the website)
   * Any products you have purchased
+  * Specific pages on the website that you have visited
   * Specific forms or sequences that you signed up to on the website
 
 
@@ -106,6 +115,12 @@ When you purchase a product, your email will be stored in order to send you upda
 
 The comments on this website are made available through the [Disqus](https://disqus.com/) comments system. Any personal information that you decide to supply through the comments system will be stored on their servers.
 
+**RightMessage**
+
+This tool is used to provide personalised content based on your specific interests (determined by your responses to optional survey questions or by other pages you have visited on the website). If you have opted in to the mailing list for this website, then the data associated with this tool will be personally identifiable (you can, however, unsubscribe from the mailing list at any time if you wish).
+
+No personally identifiable information is stored on RightMessage’s servers.
+
 **Your Consent**
 
 By using our site, you consent to our websites privacy policy.
@@ -114,13 +129,13 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 25/05/2018
+This policy was last modified on 11/07/2019
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[https://wwwjoshmorony.com](https://wwwjoshmorony.com/)
+[https://www.joshmorony.com](https://www.joshmorony.com/)
 
 privacy@joshmorony.com
 
