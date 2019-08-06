@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyaero.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630001929id_/http%3A//www.flyaero.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyaero.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806220627id_/http%3A//www.flyaero.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Aerocontractors the reliable way to fly - Book cheap flights flyaero.com
 
