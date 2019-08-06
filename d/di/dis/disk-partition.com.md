@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disk-partition.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429123742id_/http%3A//www.disk-partition.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disk-partition.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806121815id_/https%3A//www.disk-partition.com/privacy.html) for the most accurate reproduction.*
 
 # Free Partition Manager - AOMEI Partition Assistant Standard
 
