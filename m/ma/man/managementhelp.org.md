@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managementhelp.org privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413055112id_/https%3A//managementhelp.org/aboutfml/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementhelp.org privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806125751id_/http%3A//managementhelp.org/aboutfml/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
