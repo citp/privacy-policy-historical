@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianapublicmedia.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406193758id_/https%3A//indianapublicmedia.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianapublicmedia.org privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806100815id_/https%3A//indianapublicmedia.org/about/privacy.php) for the most accurate reproduction.*
 
-# About Indiana Public Media (WFIU Public Radio and WTIU Public TV)
+# Privacy Policy | About - Indiana Public Media
 
 Effective Date June 25, 2009
 
