@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiz-maker.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414231547id_/https%3A//www.quiz-maker.com/Security-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiz-maker.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806214529id_/https%3A//www.quiz-maker.com/Security-Privacy) for the most accurate reproduction.*
 
 # Security and Privacy Policy at Quiz Maker
 
@@ -121,3 +121,40 @@ Quiz Maker utilizes secure Stripe payment processing for online credit card tran
 Quizzes deemed to be offensive, illegal or defamatory may be removed at our sole discretion. If you have a complaint about a specific quiz please contact us via the link below and make sure you send us the link. 
 
 Should you require further clarification or have a suggestion in regards to our privacy policy please do not hesitate to get in [contact with us](https://web.archive.org/Contact)
+
+Trivia / Marked
+
+Your quiz assigns a final score.
+
+eg: Can you pass a license test?  
+How many God Father quotes can you match?  
+How well do you know your Civil War History?
+
+Personality / Type
+
+Your quiz assigns a type.
+
+eg: Which Disney character are you?  
+Which career is right for you?  
+Which Game of Thrones Character are you?
+
+Survey / Other
+
+Your quiz is designed to obtain feedback
+
+eg: Employee Satisfaction Quiz  
+Customer Satisfaction Survey  
+Annual car salesman survey
+
+Poll / Vote
+
+Your quiz is designed for voting
+
+eg: Vote for your favorite color
+
+Flip Card
+
+Match each question to it's answer
+
+eg: Match Answers to Questions  
+
