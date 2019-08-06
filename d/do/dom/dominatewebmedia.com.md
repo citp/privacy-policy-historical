@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominatewebmedia.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606123030id_/http%3A//www.dominatewebmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominatewebmedia.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806155503id_/http%3A//www.dominatewebmedia.com/privacy) for the most accurate reproduction.*
 
 # Dominate Web Media Privacy - Dominate Web Media
 
@@ -22,7 +22,7 @@ If we ask for your personal information for a secondary reason (i.e. newsletter 
 
 You may withdraw your consent at any time by clicking on an “unsubscribe” link which is offered at the bottom of every email we send.
 
-You may also withdraw your consent anytime, by contacting us at support@DominateWebmedia.com or mailing us at: Dominate Web Media 38830 236th Ave SE, Enumclaw, Wa 98022.
+You may also withdraw your consent anytime, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or mailing us at: Dominate Web Media 38830 236th Ave SE, Enumclaw, Wa 98022.
 
  **SECTION 3 – DISCLOSURE**
 
@@ -82,7 +82,7 @@ We reserve the right to modify this privacy policy at any time, so please review
 
  **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@DominateWebmedia.com or by mail at Dominate Web Media
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by mail at Dominate Web Media
 
 [Re: Privacy Compliance Officer]
 
