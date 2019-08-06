@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331090507id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806135522id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Statement – TicketSwap
 
-Last update: January 2019
+Last update: May 2019
 
 ### Who are we and what do we do?
 
@@ -45,7 +45,6 @@ Name, date of birth, gender, city and country of residence, telephone number, em
 
 Bank account,  tokenized payment   details and bank account holder name
 
-  
 | 
 
 **We use**
@@ -58,7 +57,6 @@ Bank account,  tokenized payment   details and bank account holder name
 
 Facebook app specific  ID and Twitter ID
 
-  
 | 
 
 **We use**
@@ -89,7 +87,6 @@ Instagram |
 **Electronic Identifiers**  
 IP address, cookies and  pixels
 
-  
 | 
 
 **We use**
@@ -102,7 +99,6 @@ IP address, cookies and  pixels
 
 Personal and technical information
 
-  
 | 
 
 **We use**
@@ -219,27 +215,63 @@ E-mail: info@ticketswap.com  
 
 The Data Processors we use for the processing of personal data in order to deliver our Services are listed hereunder:
 
-  
-**Processor**  
-| **Purpose  
-** | **Location**  
-| **Explanation**  
-  
----|---|---|---  
-Facebook  
-| Marketing/Analytics  
-| California, US  
+Processor
+
 | 
 
-For Facebook we use the services of Facebook Custom Audience (see Facebook Business for more information). This means that the Facebook Data you shared with us, will be sent (back) to Facebook in a hashed format. Facebook is contractually obliged not to use said data for any other purpose than to render its audience targeting services. See [here](https://www.facebook.com/business/gdpr) for the relevant terms.
+Purpose
 
-Included in the [Privacy Shield list](https://www.privacyshield.gov/list).
+| 
 
+Location
+
+| 
+
+Explanation  
   
+---|---|---|---  
   
-Firebase  
-| Marketing/Analytics  
-| California, US  
+Branch
+
+| 
+
+Marketing / Analytics 
+
+| 
+
+California, US
+
+| 
+
+Branch provides solutions that unify user measurement across different devices, platforms and channels. It fixes that by providing a holistic view of various user touch points and ensuring that links take the user to the right place on the website or native app.   
+For more information refer to the [Branch Privacy Policy. ](https://branch.io/policies/#privacy)  
+  
+Facebook
+
+| 
+
+Marketing/Analytics
+
+| 
+
+California, US
+
+| 
+
+For Facebook we use the services of Facebook Custom Audience (see Facebook Business for more information). This means that the Facebook Data you shared with us, will be sent (back) to Facebook in a hashed format. Facebook is contractually obliged not to use said data for any other purpose than to render its audience targeting services. See [here](https://www.facebook.com/business/gdpr) for the relevant terms.
+
+Included in the [Privacy Shield list](https://www.privacyshield.gov/list).  
+  
+Firebase
+
+| 
+
+Marketing/Analytics
+
+| 
+
+California, US
+
 | 
 
 Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. (“Google”). In order to understand Google's use of personal data, consult [Google's partner policy](https://policies.google.com/technologies/partner-sites). Firebase Analytics may share personal data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. This application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service.
@@ -248,95 +280,292 @@ Users may opt-out of certain Firebase features through applicable device setting
 
 Included in the [Privacy Shield list](https://www.privacyshield.gov/list).  
   
-Google Adwords | Marketing/Analytics  
-| California, US  
-| Google AdWords is an online advertising service developed by Google where advertisers pay to display brief advertising copy, product listings, and video content within the Google ad network to web users (Google Display Network, Google Search, YouTube etc.). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts (such as: re-marketing/re-targeting purposes). You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests. See [here](https://www.blog.google/products/ads/changes-to-our-ad-policies-to-comply-with-the-GDPR/) for the details and relevant terms.  
-Google Analytics | Marketing/Analytics | California, US | 
+Google Adwords
+
+| 
+
+Marketing/Analytics
+
+| 
+
+California, US
+
+| 
+
+Google AdWords is an online advertising service developed by Google where advertisers pay to display brief advertising copy, product listings, and video content within the Google ad network to web users (Google Display Network, Google Search, YouTube etc.). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts (such as: re-marketing/re-targeting purposes). You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests. See [here](https://www.blog.google/products/ads/changes-to-our-ad-policies-to-comply-with-the-GDPR/) for the details and relevant terms.  
+  
+Google Analytics
+
+| 
+
+Marketing/Analytics
+
+| 
+
+California, US
+
+| 
 
 Google Analytics is a web analysis service provided by Google. Google utilizes the personal data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the personal data collected to contextualize and personalize the ads of its own advertising network. Personal data collected are cookies and usage data. See [here](https://privacy.google.com/businesses/compliance/#?modal_active=none) for the details.
 
 Included in the [Privacy Shield list](https://www.privacyshield.gov/list).  
   
-Google Login API | Marketing | California, US | A Google Account is a user account that is required for access, authentication and authorization to certain online Google services, including Gmail and similar products. It is a public API and  service provided by Google Inc. Google utilizes the personal data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google service. We use Google Login API for the fast registration process.   
-Google Optimize | Marketing/Analytics | California, US | Google Optimize (Optimize) is an experimentation tool developed by Google. Optimize utilizes Google Analytics cookies to target content variants to a user and a content experiment cookie to determine a user’s participation in an experiment. We are using this tool to record and track visitors involvement in a website experiment such as an A/B Test where half of our website users see one webpage, and the other half see another custom variant. These tests help us improve the user experience.  
-Google Tag Manager | Marketing/Analytics | California, US | Google Tag Manager is a tag management system created by Google to manage JavaScript and HTML tags used for tracking and analytics on websites. We use this service to load scripts into our webpages. These scripts can have tracking or advertising purposes which are also mentioned in this Privacy Policy.  
-Instagram | Marketing | California, US | Instagram is a photo and video-sharing social networking service owned by Facebook, Inc. The user can share any listing or anything on Instagram based on the feature that offered in the platform. For public accounts anyone on Instagram can see the user story, while for private accounts only approved followers can see stories. Whenever we use the services of Instagram the Instagram privacy [policy](http://instagram.com/legal/privacy/) applies.   
-For Further Information refer to this [thread](https://help.instagram.com/519522125107875).  
-Mailchimp | Mass Messaging  | Georgia, US | 
+Google Login API
 
-We use Mailchimp to send promotional emails to our users. We share your name and email address with Mailchimp. Whenever we use the services of Mailchimp the Mailchimp [privacy policy](https://mailchimp.com/legal/privacy/) applies.
-
-Included in the [Privacy Shield list](https://www.privacyshield.gov/list).
-
-  
-  
-Mailgun | Mass Messaging  | California, US | 
-
-We use Mailgun to send transactional emails to our users. We share different types of personal data with Mailgun depending on what kind of message we send. Whenever we use the services of Mailgun the Mailgun [privacy policy](https://www.mailgun.com/privacy-policy) applies.
-
-Included in the [Privacy Shield list](https://www.privacyshield.gov/list).
-
-  
-  
-MessageBird | Mass Messaging | The Netherlands, EU  
 | 
 
-We use MessageBird to send text messages (SMS) to our users. We share your phone number, and SMS content with MessageBird. The SMS content could contain personal information to directly address you (e.g. name). Whenever we use the services of MessageBird the MessageBird [privacy policy](https://www.messagebird.com/en/privacy) applies.
+Marketing
+
+| 
+
+California, US
+
+| 
+
+A Google Account is a user account that is required for access, authentication and authorization to certain online Google services, including Gmail and similar products. It is a public API and  service provided by Google Inc. Google utilizes the personal data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google service. We use Google Login API for the fast registration process.   
+  
+Google Optimize
+
+| 
+
+Marketing/Analytics
+
+| 
+
+California, US
+
+| 
+
+Google Optimize (Optimize) is an experimentation tool developed by Google. Optimize utilizes Google Analytics cookies to target content variants to a user and a content experiment cookie to determine a user’s participation in an experiment. We are using this tool to record and track visitors involvement in a website experiment such as an A/B Test where half of our website users see one webpage, and the other half see another custom variant. These tests help us improve the user experience.  
+  
+Google Tag Manager
+
+| 
+
+Marketing/Analytics
+
+| 
+
+California, US
+
+| 
+
+Google Tag Manager is a tag management system created by Google to manage JavaScript and HTML tags used for tracking and analytics on websites. We use this service to load scripts into our webpages. These scripts can have tracking or advertising purposes which are also mentioned in this Privacy Policy.  
+  
+Hotjar
+
+| 
+
+Marketing/Analytics
+
+| 
+
+Malta, EU
+
+| 
+
+Hotjar is a tool that reveals the online behavior and voice of our users. By combining analysis and feedback tools, Hotjar gives us an idea  of how to improve our platform.
+
+For more information refer to the [Hotjar privacy policy](https://www.hotjar.com/privacy).  
+  
+Instagram
+
+| 
+
+Marketing
+
+| 
+
+California, US
+
+| 
+
+Instagram is a photo and video-sharing social networking service owned by Facebook, Inc. The user can share any listing or anything on Instagram based on the feature that offered in the platform. For public accounts anyone on Instagram can see the user story, while for private accounts only approved followers can see stories. Whenever we use the services of Instagram the Instagram privacy [policy](http://instagram.com/legal/privacy/) applies. 
+
+For further Information refer to this [thread](https://help.instagram.com/519522125107875).  
+  
+Mailchimp
+
+| 
+
+Mass Messaging 
+
+| 
+
+Georgia, US
+
+| 
+
+We use Mailchimp to send promotional emails to our users. We share your name and email address with Mailchimp. Whenever we use the services of Mailchimp the Mailchimp [privacy policy](https://mailchimp.com/legal/privacy/) applies.
+
+Included in the [Privacy Shield list](https://www.privacyshield.gov/list).  
+  
+Mailgun
+
+| 
+
+Mass Messaging 
+
+| 
+
+California, US
+
+| 
+
+We use Mailgun to send transactional emails to our users. We share different types of personal data with Mailgun depending on what kind of message we send. Whenever we use the services of Mailgun the Mailgun [privacy policy](https://www.mailgun.com/privacy-policy) applies.
+
+Included in the [Privacy Shield list](https://www.privacyshield.gov/list).  
+  
+MessageBird
+
+| 
+
+Mass Messaging
+
+| 
+
+The Netherlands, EU
+
+| 
+
+We use MessageBird to send text messages (SMS) and emails to our users. We share your phone number, email address and SMS content with MessageBird. The SMS content could contain personal information to directly address you (e.g. name). Whenever we use the services of MessageBird the MessageBird [privacy policy](https://www.messagebird.com/en/privacy) applies.
 
 Is established in the EU and thus needs to comply with the Relevant Legislation.  
   
-Mixpanel | Marketing/Analytics | California, US | 
+Mixpanel
+
+| 
+
+Marketing/Analytics
+
+| 
+
+California, US
+
+| 
 
 Mixpanel is a business analytics service company. It tracks user interactions with web and mobile applications and provides tools for targeted communication with them. Its tool-set contains in-app A/B tests and user survey forms. Data collected is used to build custom reports and measure user engagement and retention. Ticketswap use Mixpanel  for better reporting and user analysis.
 
 [Privacy Policy of Mixpanel](https://mixpanel.com/legal/privacy-overview/)  
   
-Mollie | Payments   
-Only for EUR payments  
-| The Netherlands, EU | 
+Mollie
+
+| 
+
+Payments 
+
+Only for EUR payments
+
+| 
+
+The Netherlands, EU
+
+| 
 
 In performing its services, Mollie acts as a Data Processor for TicketSwap. As a payment services provider, Mollie however also has own obligations with regard to your personal data. Mollie can therefore also be regarded as a Data Controller with regard to your personal data. For any data processing operations Mollie performs as a data controller, Mollie’s [privacy policy](https://www.mollie.com/en/privacy) applies.
 
 Is established in the EU and thus needs to comply with the Relevant Legislation.  
   
-Przelewy24 (“P24”)  
-| Payments   
-Only for PLN payments  
-| Poland, EU | 
+Przelewy24 (“P24”)
 
-In performing its services, P24 acts as a Data Processor for TicketSwap. As a payment services provider, P24 however also has own obligations with regard to your personal data. P24 can therefore also be regarded as a Data Controller with regard to your personal data. For any data processing operations P24 performs as a data controller, P24 [privacy policy](https://www.przelewy24.pl/eng/privacy-policy) applies. See for more information also the  [GDPR Information page](https://www.przelewy24.pl/eng/information-obligation-gdpr-payer).
-
-Is established in the EU and thus needs to comply with the Relevant Legislation.
-
-  
-  
-Secureswap | Mass Messaging | The Netherlands, EU  
 | 
 
-For our SecureSwap service we have partnered up with various ticket providers. We have entered into data processing agreements with those ticket providers, as to safeguard your personal data as much as possible. Refer to [here](https://www.ticketswap.com/partners) for the full list of partnered ticket providers and organizers.
+Payments 
 
-Is established in the EU and thus needs to comply with the Relevant Legislation.
+Only for PLN payments
 
+| 
+
+Poland, EU
+
+| 
+
+In performing its services, P24 acts as a Data Processor for TicketSwap. As a payment services provider, P24 however also has own obligations with regard to your personal data. P24 can therefore also be regarded as a Data Controller with regard to your personal data. For any data processing operations P24 performs as a data controller, P24 [privacy policy](https://www.przelewy24.pl/eng/privacy-policy) applies. See for more information also the [GDPR Information page](https://www.przelewy24.pl/eng/information-obligation-gdpr-payer).
+
+Is established in the EU and thus needs to comply with the Relevant Legislation.  
   
+Secureswap
+
+| 
+
+Mass Messaging
+
+| 
+
+The Netherlands, EU
+
+| 
+
+For our SecureSwap service we have partnered up with various ticket providers. We have entered into data processing agreements with those ticket providers, as to safeguard your personal data as much as possible. Refer to [here](https://www.ticketswap.com/partners) for the full list of partnered ticket providers and organizers.
+
+Is established in the EU and thus needs to comply with the Relevant Legislation.  
   
-Segment | Marketing/Analytics | California, US | 
+Segment
+
+| 
+
+Marketing/Analytics
+
+| 
+
+California, US
+
+| 
 
 Segment is a place to collect customer data and send it to our tools for analytics (e.g. Google Analytics, Firebase) and marketing purposes (e.g. Google Adwords, Facebook Pixel etc.). Essentially Segment is a company that helps us process our customer data. We collect personal data and cookies to identify the users and pushing data to Segment to connect with other 3rdparty products for analytical and marketing purposes. See [here](https://segment.com/docs/legal/privacy/) for the details.
 
-Included in the [Privacy Shield list  
-](https://www.privacyshield.gov/list).  
-  
-  
-Snapchat | Marketing | California, US | 
+Included in the [Privacy Shield list](https://www.privacyshield.gov/list)
 
-Snap Inc. is an American technology and camera company, based in Santa Monica, California. We use Snapchat API to give our  users a chance to share their public information on Snapchat.
+.  
+  
+Snapchat
+
+| 
+
+Marketing
+
+| 
+
+California, US
+
+| 
+
+Snap Inc. is an American technology and camera company, based in Santa Monica, California. We use Snapchat API to give our users a chance to share their public information on Snapchat.
 
 [Snapchat Privacy Policy](https://www.snap.com/en-US/privacy/privacy-policy/)  
   
-Stripe | Payments | California, US | 
+Stripe
 
-In performing its services, Stripe acts as a Data Processor for TicketSwap. As a payment services provider, Stripe however also has its own obligations with regard to your personal data. Stripe can therefore also be regarded as a Data Controller with regard to your personal data. For any data processing operations Stripe performs as a data controller, Stripe’s [privacy policy](https://stripe.com/nl/privacy) applies.
+| 
+
+Payments
+
+| 
+
+California, US
+
+| 
+
+In performing its services, Stripe acts as a Data Processor for TicketSwap. As a payment services provider, Stripe however also has its own obligations with regard to your personal data. Stripe can therefore also be regarded as a Data Controller with regard to your personal data. For any data processing operations Stripe performs as a data controller, Stripe’s [privacy policy](https://stripe.com/nl/privacy) applies.
 
 When processing payments or payouts we may use Stripe to process payments made to us and to other users. In such event your payment information will be transmitted to Stripe via an encrypted connection. Stripe uses and processes your payment information, such as bank account number in accordance with Stripe’s privacy policy. We only store tokenized data in connection with the processing of payments (incl. last 4 digits credit card number) ourselves.
 
-Included in the [Privacy Shield list](https://www.privacyshield.gov/list).
+Included in the [Privacy Shield list](https://www.privacyshield.gov/list).  
+  
+TransferWise
+
+| 
+
+Payouts
+
+| 
+
+United Kingdom, EU
+
+| 
+
+TransferWise processes payouts to Sellers in a selected number of countries* in Central Eastern Europe. We send your bank account holder name, IBAN and date of birth to TransferWise to execute the payout. 
+
+Whenever you are receiving payouts as a Seller in the aforementioned countries the [TransferWise privacy policy](https://transferwise.com/privacy-policy) applies.
+
+*refer to [FAQ item](https://www.ticketswap.com/help/item/144) about payouts.
