@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megagoods.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604052056id_/https%3A//www.megagoods.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagoods.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806175958id_/https%3A//www.megagoods.com/privacy.php) for the most accurate reproduction.*
 
 # Megagoods.com Consumer Electronics Distributor - We Drop Ship!
 
