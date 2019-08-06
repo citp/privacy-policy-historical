@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewesternstar.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327165049id_/http%3A//saltwire.com/saltwire_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewesternstar.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806164346id_/http%3A//saltwire.com/saltwire_privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
