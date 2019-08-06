@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ccsnh.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191703id_/https%3A//www.ccsnh.edu/ccsnh-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccsnh.edu privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806034341id_/https%3A//www.ccsnh.edu/ccsnh-privacy-policy) for the most accurate reproduction.*
 
-# CCSNH Privacy Statement - CCSNH
+# CCSNH Privacy Statement | Community College System of New Hampshire
 
 **Revised:   12/14/2012**
 
