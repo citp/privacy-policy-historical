@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rosegal.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330083448id_/https%3A//www.rosegal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosegal.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806054120id_/https%3A//www.rosegal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rosegal.com
 
-This Privacy Statement explains how Fayin E-Commerce (Hong Kong)Ltd (“Rosegal” “we,” “us,” or “our”) collects, uses, and discloses your personal information in connection with its operation of the Rosegal ecommerce platform.
+#### Privacy Policy
 
 What information do we collect? 
 
