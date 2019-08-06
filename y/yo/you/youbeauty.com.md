@@ -1,79 +1,69 @@
-> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507142617id_/https%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806145531id_/https%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - YouBeauty
 
-Effective Date: March 27, 2002
+Last Updated: June 6th, 2019
 
-Before using the YouBeauty.com (“we”, “us” or “our”) website, please read this Privacy Policy carefully. This Privacy Policy provides an explanation of what information we collect, how we collect it, how we use it and disclose it, and what choices you have regarding the collection, use and disclosure of your information. By using any part of our website you agree to be bound by this Privacy Policy and consent to the collection, use and disclosure of your information as described herein.
+This Privacy Policy describes the provides an explanation of what information YouBeauty (the “Site”, “we”, us”, “our”), may collect and how we may use and process it. By submitting your details to us via the Site you consent to our use of your personal information in accordance with this Privacy Policy.
 
-### Applicability and Third Party Websites and Services
+#### Applicability and third-party websites and services
 
-This Privacy Policy only applies to our website and does not apply to third party websites you may reach by clicking a link, advertisement or other online material located on this Site, or third party websites or other online services which may be displayed on this Site. If you click on a link to a third party website or other online service, or supply information to a third party website or other online service that is placed within our webpage, you are interacting with that third party and this Privacy Policy will not apply. We encourage you to review the privacy policies of those third party websites and services.
+This Privacy Policy only applies to our website and does not apply to third party websites you may link to from this Site or third-party web pages or other online services which may be displayed on this Site. If you click on a link to a third-party website or service, or supply information to a third-party website or service that is placed within our webpage, you are interacting with that third party and this Privacy Policy will not apply.
 
-### We may collect your personal information in the following ways:
+#### We may collect your personal information in the following ways:
 
-  1. When you sign up to receive our newsletter, when you register with our site to complete quizzes and surveys, or when you otherwise provide us with your information;
-  2. From third parties, including websites which publish our ads and offers, as well as other online and offline sources such as identity verification services, and other service providers and vendors, and we may combine such information with other information you have provided to us; and
-  3. Automatically based on interaction with our site with the use of cookies and other technology (as described below).
-
+  1. _When you provide it to us._ We may collect your information when you submit an inquiry form or otherwise provide us with your information, including, but not limited to, name, email address, telephone number, postal address or other information you may provide to us;
+  2. _Automatically._ We may collect your information automatically based on interaction with our site, using cookies and other technology (as described below).
 
 
-### Information We May Collect
 
-Personally identifying information you provide:
+#### Types of Information we may collect:
 
-Examples of the types of personally identifying information you may provide include, but are not limited to, your name, email address, telephone number, age, birthday, zip code, payment card information, optional profile photo, your interests in and use of various products and services and other information.
+_Personally identifying information:_ Examples of the types of personally identifying information includes, but may not be limited to, your name, email address, telephone number, zip code, and other information you may provide. You can choose not to provide us with such information, but some of our services and certain parts of our Site may not be accessible to you.
 
-Other information we collect:
+_Other information we collect:_  We may automatically collect information about your interaction with our Site, our advertisements and other promotional content using technologies like cookies and web beacons, and via our web server’s log files. Examples of information which may be collected by our various technologies include browser information, your device IP address, whether you clicked on one of our advertisements, pages you’ve visited on the Site, which website you came from, date and time stamp information, and other navigation and click-through information. Although information we collect through these tracking devices is not always identifiable to a person when collected, we may combine such information with personally identifiable information like your name or email address or other information that could be used to identify you and to provide you with relevant advertising when visiting our Site, third party websites or to send you email advertisements. We treat this combined information as personally identifiable information.
 
-We automatically collect information about your interaction with our Site, our advertisements and other promotional content using technologies like cookies and web beacons, and via our web server’s log files. Examples of information which may be collected by our various technologies include browser information, your device IP address, whether you clicked on one of our advertisements, pages you’ve visited on the Site, which website you came from, date and time stamp information, and other navigation and click-through information. Although information we collect through these tracking devices is not always personally identifying when collected, we may combine such information with personally identifying information like your name or email address or other information that could be used to identify you.
+#### How we may use the information that we collect.
 
-### How we may use the information that we collect
+The information that we collect about you may be used by us or by third parties we engage in any manner and for any purpose permitted by law. This may include combining your personally identifiable information, such as your email address, and information that does not identify you personally, such as your IP address, device ID, a unique cookie recognized on your browser, or information associated with such non-personally identifiable information, such as information about your browsing history, whether collected on this site or a third-party site. We, or third parties we engage, may use this combined information to send you information, including by email, about our products or services.
 
-The information that we collect about you may be used by us in any manner and for any purpose permitted by law. This may include sharing your information, both personally identifiable information and non-personally identifiable information, with third parties for marketing purposes, including but not limited to, sending you emails r offers for goods and services that may interest you. If you do not want us to share your personally identifying information with third parties for marketing purposes, you may [opt-out here](mailto:optout@youbeauty.com).  Additionally, we may, or we may engage third parties who may, combine your personally identifiable information, such as your email address, with non-personally identifiable information such as your IP address, device ID, a unique cookie recognized on your browser, or information associated with such non-personally identifiable information such as information about your browsing history, whether collected on this site or a third-party site, for the purpose of sending you more relevant advertising, including by email.  To opt-out from this service [click here](http://www.aboutads.info/choices/).
+We may also share this information with third parties for their own marketing purposes, including but not limited to, sending you more relevant advertising emails or offers for goods and services that may interest you. If you do not want us to share your personally identifying information with third parties for their own marketing purposes, you may opt-out by emailing supportdesk@youbeauty.com.
 
-### How You Can Opt-Out of Certain Data Sharing
+#### Cookies and Other Technology
 
-Any personal information collected may be shared immediately for direct marketing purposes, but you may opt-out of further sharing for direct marketing by submitting your request to [optout@youbeauty.com.](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=optout@youbeauty.com)
+Cookies are small data files that are stored on your computer or device by your web browser. We use cookies to store information so that you do not have to re-enter your information upon revisiting our Site. Cookies also enable us to provide personalized content, monitor our marketing campaigns, track your entries and submissions and gather information about your interactions with our Site or with one of our advertisements. Cookies may be set by us or our business partners and service providers when you visit the Site or when you interact with one of our advertisements or other content. We use both session cookies, which terminate when you close your browser, and persistent cookies, which may remain on your computer until you delete them. You may decline cookies if your web browser software permits. If you have questions about disabling cookies, you should consult with your browser’s manufacturer. Note, however, that some parts of the Site may not operate correctly if you disable cookies. We may also track your use of our Site, your interaction with our advertisements on our sites or other sites, and other content gathered through web beacons (also called pixel tags or clear gifs). Web beacons can be used for various purposes, including to help us improve our Site, services and marketing communications.
 
-### Cookies and Other Technology
+#### Targeted Ads and Analytics Services
 
-Cookies are small data files that are stored on your computer or device by your web browser. We use cookies to store information so that you do not have to re-enter your information upon revisiting one of our Sites. Cookies also enable us to provide personalized content, monitor our marketing campaigns, track your entries and submissions and gather information about your interactions with our Site or with one of our advertisements. Cookies may be set by us or our business partners and service providers when you visit the Site or when you interact with one of our advertisements or other content. We use both session cookies, which terminate when you close your browser, and persistent cookies, which may remain on your computer until you delete them. You may decline cookies if your web browser software permits. If you have questions about disabling cookies, you should consult with your browser’s manufacturer. Note, however, that some parts of the Site may not operate correctly if you disable cookies.We may also track your use of our Site, advertisements and other content through web beacons (also called pixel tags or clear gifs). Web beacons can be used for various purposes, including helping us improve our Site, services and marketing communications.
+We may have relationships with third party advertising and analytics services companies that may place advertisements on our behalf onto other websites, perform tracking and reporting functions for those sites and our advertisements, and place third party advertisements on our Site. Information that may be collected includes, but may not be limited to, information about the websites you’ve viewed and advertisements you’ve interacted with, along with your IP address, date and time of interaction, your ISP and the browser you use to visit this Site. Such information may be combined with personally identifiable information like your name or email address or other information that could be used to identify you, and which may be used, among other things, to deliver advertising, including by email, and through Facebook, from us and from other companies targeted to your preferences and interests, and to better understand your interactions with our site and advertisements, and other websites and advertisements observed by these advertising companies. To learn more about targeted advertising (also called interest-based advertising), analytics services and your choices, including how to opt-out of some third party ads, advertising networks and ad servers, you may wish to visit the [DAA Consumer Opt-Out Page ](http://optout.aboutads.info/#!/), [NAI Consumer Opt-Out Page](http://www.networkadvertising.org/choices/), and [Google’s information page.](https://www.google.com/settings/ads)
 
-### Blogs and Public Forums
+#### Your Choices regarding collection of your information.
 
-YouBeauty features blogs and public forums where users may discuss certain beauty topics and share their stories with other members within the community. In order to participate in the conversations and post comments on our blogs and public forums you must register for membership but conversations and comments are viewable to the public and should not be considered private.Any information you share on our blogs and public forums (including personally identifying information or personal medical information) is open to the public and not private. You should think carefully before posting any personally identifying information. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. Such posted information may also appear in search engine results generated by Yahoo, Google, Bing, MSN, and other search engines. YouBeauty reserves the rights to remove any verbiage on our blogs and public forums that we deem inappropriate.
+  * _Providing Information._ You can always choose not to provide us with your information that identifies you personally.
+  * _Opting Out of Our Promotional Emails._ You may opt-out of receiving targeted and other marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as “unsubscribe”), or by submitting your request to supportdesk@youbeauty.com. Please allow 10 business days for us to process your opt-out request.
+  * _Declining Cookies_. If you do not want to accept our cookies, you can adjust your browser settings to decline cookies. You should note, however, that certain areas of the Site may not operate properly if you decide not to accept cookies.
+  * _Do Not Track._ This site does not respond to “do not track” or similar signals.
 
-### Targeted Ads and Analytics Services
 
-We have relationships with third party advertising and analytics service companies who may place a cookie on your computer or device when you visit our site or use web beacons for the purpose of collecting information which may include, but is not limited to, information about the websites you view and advertisements you interact with, your IP address, date/time stamp information, your ISP and the browser you use to visit this Site. Any information collected may be may be linked to information provided by other third parties and may be used for, among other things, to deliver advertising (from us and from other companies) targeted to your preferences and interests, and to better understand the usage and visitation of our Site and the other websites tracked by these advertising companies. In addition, this information may be shared by such third party advertising and analytical service companies with other third parties for the purpose of targeting advertisements to your preferences and interests. Such third parties may also place advertisements on our behalf onto other websites, perform tracking and reporting functions for those sites and our advertisements, and place third party advertisements on our Site. To learn more about targeted advertising (also called behavioral advertising), analytics services and your choices, including how to opt-out of targeted advertising, you may visit the [NAI Consumer Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp) and the [Google information page.](http://www.google.com/settings/ads)
 
-### Your choices regarding the collection of your information.
+#### California Privacy Rights:
 
-Providing Information.
+California law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes.  Because our Policy gives you a choice of opting out of having your contact information disclosed to third parties for their own direct marketing purposes, we may instead provide you with information on how to exercise your preferences. To request such information, please contact us at supportdesk@youbeauty.com.
 
-You can choose not to provide us with your personally identifying information. Note, however, that you may not have access to certain of our products and services if you decide not to provide us with your information.
+Please see above if you wish to learn more about restricting the sharing of your contact information with third parties for their direct marketing purposes.
 
-Opting Out of Our Promotional Emails
+#### Children’s Privacy
 
-You may opt-out of receiving marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as “unsubscribe”), or by submitting your request to [optout@youbeauty.com.](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=optout@youbeauty.com) Please allow 10 business days for us to process your opt-out request. Also, note that opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well.
+This Site is intended for general audiences, and is not intended for use by persons under the age of 13. If we learn that we have inadvertently collected personal information from a child under the age of 13, we will delete it.  If you believe that we have collected personal information from a child under 13, please contact us using the information below.
 
-Declining Cookies
+#### Updates to this Privacy Policy
 
-If you do not want to accept our cookies, you can adjust your browser settings to decline cookies. You should note, however, that certain areas of the Site may not operate properly if you decide not to accept cookies.
+We reserve the right to change this Privacy Policy at any time by posting an updated Privacy Policy on our Site without advance notice to you. Any updated Privacy Policy will be effective immediately upon posting.
 
-Behavioral Advertising Opt-Out
+#### Personal Information Transferred to the U.S.
 
-Some third party advertising companies may collect information about you through cookies and other technologies in connection with their behavioral advertising programs. For information on opting out from behavioral advertising practices, please refer to the [Targeted Ads and Analytics Services](http://www.youbeauty.com/privacy#TargetedAds) section above.
+We operate our Site in the United States, and it is intended for use only by those in the U.S.  Data protection and privacy laws in the U.S. differ significantly from those in other locations.  If you are located outside the U.S., you understand and acknowledge that the personal information that we collect will be transferred to and processed in the U.S., and you consent to such activities.
 
-### Children’s Privacy
+#### Contact Us
 
-This Site is intended for general audiences, and is not intended for use by persons under the age of 13. If we learn that we have inadvertently collected personal information from a child under the age of 13, we will delete it. If you believe that we have collected personal information from a child under 13, please contact us using the information below.
-
-### Updates to this Privacy Policy
-
-We reserve the right to change this Privacy Policy at any time by posting an updated Privacy Policy to our Site without advance notice to you. We encourage you to check this page often for updates and revisions. Any updated Privacy Policy will be effective immediately upon posting.
-
-### Contact Us
-
-If you have any questions or comments relating to our website, this notice, or would like to access or correct the information we may hold about you, please contact us by email at:[legal@youbeauty.com ](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=legal@youbeauty.com)You may also send your questions or comments to our address:Youbeauty.com185 Madison Avenue Floor 5New York, NY 10016Phone: (646) 449-9445Fax: (646) 499-9446
+If you have any questions or comments relating to our website or this notice, please contact us by email at: supportdesk@youbeauty.com.
