@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonoma.edu privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626201028id_/http%3A//www.sonoma.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonoma.edu privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806112824id_/http%3A//www.sonoma.edu/privacy) for the most accurate reproduction.*
 
 # Online Privacy Notice | Sonoma State University
 
