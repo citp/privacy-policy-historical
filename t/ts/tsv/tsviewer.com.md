@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsviewer.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119092817id_/https%3A//www.tsviewer.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsviewer.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806093420id_/https%3A//www.tsviewer.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - TSViewer.com [en]
 
@@ -84,7 +84,7 @@ Most of the cookies we use are so-called "session cookies." They are automatical
 
 You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.
 
-Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use (such as the TSViewer) are stored pursuant to Art. 6 paragraph 1, letter f of DSGVO. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy and our [cookie policy](https://web.archive.org/web/20190119092817id_/https%3A//www.tsviewer.com/index.php?page=cookies).
+Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use (such as the TSViewer) are stored pursuant to Art. 6 paragraph 1, letter f of DSGVO. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy and our [cookie policy](https://web.archive.org/web/20190806093420id_/https%3A//www.tsviewer.com/index.php?page=cookies).
 
 ### Server log files
 
