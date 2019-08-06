@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyware.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119125340id_/https%3A//cyware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyware.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806174648id_/https%3A//cyware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cyware
 
@@ -25,19 +25,19 @@ THE COMPANY WILL NEVER ASK YOU AND YOU MUST NEVER PROVIDE SENSITIVE PERSONAL DAT
 
 YOU MUST NOT DISCLOSE YOUR:
 
-(i) passwords;
+(i) passwords
 
-(ii) financial information such as bank account details, credit card details, debit card details, secure pin number, passwords, etc.;
+(ii) financial information such as bank account details, credit card details, debit card details, secure pin number, passwords, etc.
 
-(iii) physical, physiological and mental health condition;
+(iii) physical, physiological and mental health condition
 
-(iv) sexual orientation;
+(iv) sexual orientation
 
-(v) medical records and history;
+(v) medical records and history
 
-(vi) biometric information;
+(vi) biometric information
 
-(vii) national identification numbers;
+(vii) national identification numbers
 
 (viii) and such other sensitive personal data or information.
 
