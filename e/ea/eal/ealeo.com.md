@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ealeo.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604093039id_/http%3A//ealeo.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ealeo.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807005813id_/http%3A//ealeo.com/page/privacy) for the most accurate reproduction.*
 
 # Shopping. Made Simple. | Ealeo.com
 
