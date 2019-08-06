@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamproducts.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602065336id_/http%3A//www.dreamproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamproducts.com privacy policy that was archived on 2019-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190806165622id_/http%3A//www.dreamproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
