@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the justprop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103811id_/http%3A//www.justprop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justprop.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807195434id_/http%3A//www.justprop.com/privacy-policy) for the most accurate reproduction.*
 
-# JustProp - About Us
+# JustProp.com - About Us
 
 **What information do we collect?**
 
 We collect information from you when you register on our site, subscribe to our newsletter or post on forum. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or justprop.com. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or JustProp.com. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
@@ -50,7 +50,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.justprop.com](http://www.justprop.com/)
+Please also visit our [Terms and Conditions](https://web.archive.org/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.JustProp.com](http://www.justprop.com/)
 
 **Your Consent**
 
