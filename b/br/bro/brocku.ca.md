@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brocku.ca privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426135029id_/https%3A//brocku.ca/university-secretariat/fippa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brocku.ca privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807212353id_/https%3A//brocku.ca/university-secretariat/fippa) for the most accurate reproduction.*
 
 # Protection of Privacy – University Secretariat
 
