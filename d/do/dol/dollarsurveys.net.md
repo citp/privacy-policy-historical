@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarsurveys.net privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605200048id_/http%3A//www.dollarsurveys.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarsurveys.net privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807193657id_/http%3A//www.dollarsurveys.net/privacy.asp) for the most accurate reproduction.*
 
 # Paid Online Surveys for Free
 
