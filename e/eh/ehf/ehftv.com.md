@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehftv.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408084149id_/https%3A//www.ehftv.com/pdf/Privacy%2520Notice_EHFM_20182305.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehftv.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807105307id_/https%3A//www.ehftv.com/pdf/Privacy%2520Notice_EHFM_20182305.pdf) for the most accurate reproduction.*
 
 # 
 
