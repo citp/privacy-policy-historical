@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caixinglobal.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326193502id_/https%3A//www.caixinglobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caixinglobal.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807114350id_/https%3A//www.caixinglobal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Caixin
 
