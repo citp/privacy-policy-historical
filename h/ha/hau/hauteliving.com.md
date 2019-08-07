@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hauteliving.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401183510id_/http%3A//hauteliving.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hauteliving.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807021110id_/https%3A//hauteliving.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer
 
