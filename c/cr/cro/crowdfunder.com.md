@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830101752id_/https%3A//www.crowdfunder.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807125702id_/https%3A//www.crowdfunder.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Crowdfunder Blog | Privacy Policy
 
 #### Crowdfunder
 
 #### PRIVACY POLICY
 
-Last Updated: 5-3-16
+Last Updated: January 12, 2019
 
 Welcome! This privacy policy (“Privacy Policy”) governs the website [www.crowdfunder.com](https://www.crowdfunder.com/) (including both mobile and online versions) (the “Site”), online and mobile services (e.g., apps), and software made available by Crowdfunder, Inc. and/or its subsidiaries (“Crowdfunder”, “we”, “our” or “us”), including your use of interactive features, platforms, widgets, plug-ins, applications, content, downloads and/or other online services that we own and control and that post a link to this Privacy Policy (collectively with the Site, the “Service”). This Privacy Policy does not apply to data we receive from third parties, unless we combine such data with Personal Information (defined below) that we have ourselves collected under this Privacy Policy. This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below), and does not govern the data practices of third parties that may interact with our Service.
 
@@ -18,85 +18,74 @@ In addition, please review the Service’s [Terms of Use](https://www.crowdfunde
 
 It is important that you read and understand the entire Privacy Policy before using the Service. To ease review, each section below contains a brief introductory summary and a link to the full explanation. Click on the headings and the “More” buttons to be taken to the full explanation. Any capitalized terms that appear in but are not otherwise defined in the introduction have the meanings given to them elsewhere in the Privacy Policy.
 
-
-
-  1. What Information Does the Service Collect?
-    * (a) Information You Provide to Us  
+  1.     1. What Information Does the Service Collect?
+      * (a) Information You Provide to Us  
 We may collect certain Personal Information and Business Information (defined below) that you provide to us when you interact with the Service. For example, we may collect this information through various forms and in various places on the Service, including when you sign-up for an account to use the Service or post an investment opportunity on the Service. More
-    * (b) Information Collected and Stored As You Access and Use the Service  
+      * (b) Information Collected and Stored As You Access and Use the Service  
 Certain information may be collected from you automatically when you access and use the Service. For example, we and third parties may use Tracking Technologies (defined below) to collect Usage Information (defined below) based on your Device Identifier (defined below) for a variety of purposes, which may include activities over time and across third party locations. More
-    * (c) Location-Based Information  
+      * (c) Location-Based Information  
 When using our Service, we may obtain information about your location or provide other location-based services to you. More
-    * (d) Information Third Parties Provide About You  
+      * (d) Information Third Parties Provide About You  
 We may obtain information about you from third parties. More
-    * (e) Interactions with Third-Party Services  
-If you interact with third-party services, those services may send us information about you and you or we may send them information about you. [More](https://web.archive.org/web/20170704094226id_/https://blog.crowdfunder.com/privacy-policy/1e)
-    * (f) California Do Not Track Disclosures  
+      * (e) Interactions with Third-Party Services  
+If you interact with third-party services, those services may send us information about you and you or we may send them information about you. [More](https://web.archive.org/web/20190807125726id_/http://blog.crowdfunder.com/privacy-policy/1e)
+      * (f) California Do Not Track Disclosures  
 We do not look for or respond to “do not track” signals. More
-    * (g) Information You Provide About a Third Party   
+      * (g) Information You Provide About a Third Party   
 You may provide us information about others, such as when you add an individual to your account. If so, the information you provide (names, email addresses, etc.) may be used so they can obtain the benefits of the Service. More
 
 
-
-  1. How Do We Use The Information Collected?  
+  1.     1. How Do We Use The Information Collected?  
 We use your Personal Information, Business Information and Usage Information for a variety of purposes detailed in this Section. More
 
 
-
-  1. How and When Do We Share Information With Third Parties?  
+  1.     1. How and When Do We Share Information With Third Parties?  
 We may provide your information to third parties under various circumstances detailed in this Section. These may include: 
-    * (a) When You Request Information From or Provide Information to Third Parties  
+      * (a) When You Request Information From or Provide Information to Third Parties  
 If you request information from third parties, request that we send information to third parties or interact with third-party websites, ads, content or tools, we may share your information with such parties and/or they may collect your information directly. More
-    * (b) Third Parties Providing Services on our Behalf  
+      * (b) Third Parties Providing Services on our Behalf  
 Our vendors may collect your information on our behalf or we may share it with them so that they may provide services to us and you. Some may offer you choices regarding the collection and use of your information. More
-    * (c) To Protect the Rights of Crowdfunder and Others  
+      * (c) To Protect the Rights of Crowdfunder and Others  
 There are a variety of administrative and legal reasons for which we may share some or all of your information. More
-    * (d) Affiliates and Business Transfer  
+      * (d) Affiliates and Business Transfer  
 We may share your information with our affiliates as well as in the event of a sale, merger or similar transaction. More
-    * (e) Your Connecticut Privacy Rights  
+      * (e) Your Connecticut Privacy Rights  
 We make good faith efforts to protect the security of Social Security numbers. More
 
 
-
-  1. What About Information I Disclose Publicly or to Others?
-    * (a) User Content and Public Information  
+  1.     1. What About Information I Disclose Publicly or to Others?
+      * (a) User Content and Public Information  
 Posting content in public areas makes it available to others. We may share and use your public information for any reason not otherwise prohibited by this Privacy Policy. More
-    * (b) Name and Likeness  
+      * (b) Name and Likeness  
 You grant us the right to use your name and likeness in connection with your posting and activities. More
 
 
+  1.     1. Ads and Information About You  
+We and third parties may send you targeted ads based on your location, information and/or behavior. If you object, you can exercise choices some third parties may offer. By using this Site, you consent to Crowdfunder contacting you and marketing to you through e-mail, text messaging, and serving of ads to you through third parties such as Facebook, Google and others. When you fill out, totally or partially, any form or otherwise provide Crowdfunder with any of your personal information on the Site by creating a Registration Account or otherwise, or through any third-party service implemented on the Site, you consent to us sending you marketing materials about any matter that Crowdfunder wishes to send to you related to our Services and the companies or Users using Crowdfunder’s services. You will have the right to opt out of any e-mail or text message marketing once you have received such marketing materials from us.  
+Crowdfunder uses cookies and other similar technologies to improve your browsing experience and the functionality of our Site. By clicking “Accept All Cookies” you consent to the storing on your device of all the technologies described in our Cookie Policy. Your current cookie settings can be changed at any time by clicking “Cookie Preferences”. We also urge you to read our Privacy Policy and this entire Terms of Use to better understand how we maintain our site, and how we may collect and use visitor data. By using this Site, you consent to Crowdfunder contacting you and marketing to you through e-mail, text messaging, serving of ads through third parties such as Facebook, Google and others, some of which is facilitated by the use of cookies and other similar technology.More
 
-  1. Ads and Information About You  
-We and third parties may send you targeted ads based on your location, information and/or behavior. If you object, you can exercise choices some third parties may offer. More
 
-
-
-  1. Does Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Service?  
+  1.     1. Does Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Service?  
 We may allow you to access third-party content on the Service, or to link to third-party applications and locations from the Service, but we are not responsible for your interaction with third-party content, apps and locations. More 
 
 
-
-  1. How Do I Change My Information and Communications Preferences?   
+  1.     1. How Do I Change My Information and Communications Preferences?   
 You may change certain account information and communications preferences as more fully detailed in this Section. More
 
 
-
-  1. What About the Transfer of Information to the United States?   
+  1.     1. What About the Transfer of Information to the United States?   
 You consent to your data being transferred to the United States. More
 
 
-
-  1. What Should Parents Know About Children?  
+  1.     1. What Should Parents Know About Children?  
 We do not intend to collect Personal Information from children. If you think we have, let us know. More
 
 
-
-  1. What About Security?  
+  1.     1. What About Security?  
 No data security is absolute, but we endeavor to take reasonable steps to secure data appropriately. More
 
 
-
-  1. What About Changes to the Privacy Policy?   
+  1.     1. What About Changes to the Privacy Policy?   
 We may change this Privacy Policy upon posting of a revised privacy policy. However, we will continue to treat your Personal Information under the terms of the privacy policy in effect when it was collected unless you otherwise consent. More
 
 
@@ -126,7 +115,7 @@ This Usage Information may include:
 
 We may use various methods and technologies to store or collect Usage Information (“Tracking Technologies”). Tracking Technologies may set, change, alter or modify settings or configurations on your Device. A few of the Tracking Technologies used on the Service, include, without limitation, the following (and subsequent technology and methods later developed):
 
-Cookies. A cookie is a data file placed on a Device when it is used to visit the Service. A Flash cookie (or locally shared object) is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device. HTML5 cookies can be programmed through HTML5 local storage. Unlike Flash cookies, HTML5 cookies do not require a plug-in. Regular cookies may generally be disabled or removed by tools that are available as part of most commercial browsers, and in some but not all instances can be blocked in the future by selecting certain settings. Each browser you use will need to be set separately and different browsers offer different functionality and options in this regard. Also, these tools may not be effective with regard to Flash cookies or HTML5 cookies. For information on disabling Flash cookies, go to Adobe’s website [www.adobe.com](https://web.archive.org/web/20170704094226id_/https://blog.crowdfunder.com/privacy-policy/www.adobe.com). Please be aware that if you disable or remove cookies, Flash cookies, or HTML5 cookies on your Device, some parts of our Service may not function properly, and that when you revisit our Service your ability to limit cookies is subject to your browser settings and limitations.
+Cookies. A cookie is a data file placed on a Device when it is used to visit the Service. A Flash cookie (or locally shared object) is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device. HTML5 cookies can be programmed through HTML5 local storage. Unlike Flash cookies, HTML5 cookies do not require a plug-in. Regular cookies may generally be disabled or removed by tools that are available as part of most commercial browsers, and in some but not all instances can be blocked in the future by selecting certain settings. Each browser you use will need to be set separately and different browsers offer different functionality and options in this regard. Also, these tools may not be effective with regard to Flash cookies or HTML5 cookies. For information on disabling Flash cookies, go to Adobe’s website [www.adobe.com](https://web.archive.org/web/20190807125726id_/http://blog.crowdfunder.com/privacy-policy/www.adobe.com). Please be aware that if you disable or remove cookies, Flash cookies, or HTML5 cookies on your Device, some parts of our Service may not function properly, and that when you revisit our Service your ability to limit cookies is subject to your browser settings and limitations.
 
 Web Beacons. Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) may be included in our Service’s pages and messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a page or email can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Service, to monitor how users navigate the Service, to count how many emails that were sent were actually opened or to count how many particular links were actually viewed.
 
