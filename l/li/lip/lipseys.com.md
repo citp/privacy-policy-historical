@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipseys.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607014746id_/http%3A//www.lipseys.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipseys.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807144216id_/http%3A//www.lipseys.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Lipseys.com Privacy Policy
 
