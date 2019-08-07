@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservativeinstitute.org privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526145852id_/https%3A//www.conservativeinstitute.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativeinstitute.org privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807124434id_/https%3A//www.conservativeinstitute.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
