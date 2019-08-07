@@ -1,51 +1,83 @@
-> *The following text is extracted and transformed from the gelaskins.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408063931id_/http%3A//nuvango.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gelaskins.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807115211id_/https%3A//www.gelaskins.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nuvango
+# Privacy policy
 
-#### Last updated June 20, 2014
+PRIVACY STATEMENT
 
-This is the Privacy Policy of the Nuvango website (together with our affiliates and subsidiaries, “Nuvango”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information.
+\----
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms of Use.
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-### How We Use Your Information
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.   
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.   
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to provide to you the services offered by the Site; resolve service disputes; troubleshoot problems; measure consumer interest in our products and services, inform you about online and offline offers, products, services, events and updates; deliver information to you that, in some cases, is relevant to your interests, such as product news; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our Terms of Use; provide you with system or administrative messages, and as otherwise described to you at the time of collection.
+SECTION 2 - CONSENT
 
-We may also use personal information about you to improve our marketing and promotional efforts, to analyze Site usage, to improve our content and product offerings, and to customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
+How do you get my consent?   
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.   
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-### What Information Do We Collect?
+How do I withdraw my consent?   
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at drew@nuvango.com or mailing us at:   
+Nuvango   
+2738 Dundas St. West Toronto Ontario CA M6P 1Y3
 
-Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
+SECTION 3 - DISCLOSURE
 
-In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you become a registered User, we require you to provide various contact and identity information and other personal information as indicated on the relevant forms on the Site, and you are no longer anonymous to us. Where possible, on these forms we indicate which fields are required and which fields are optional. In addition, as you use the Site, you can from time to time enter or send to us personal information. 
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-You always have the option to not provide information by choosing not to become a User or by not using the particular feature of the Site for which the information is being collected.
+SECTION 4 - SHOPIFY
 
-We also automatically track certain information about you based upon your behavior on our Site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, your IP address and your location.
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.   
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-“Cookies” are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests.
+Payment:   
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.   
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.   
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.   
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
 
-Following your registration on the Site, you can review and change your information in your account area. If you disclose personal information on the Site and wish to have it removed, please contact us at the support contact information posted on the Site.
+SECTION 5 - THIRD-PARTY SERVICES
 
-### Our Disclosure of Your Information
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.   
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.   
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.   
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.   
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.   
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-We will not sell or rent your personally identifiable information to third parties without your explicit consent. The following describes some of the ways that your information may be disclosed in the normal scope of business to provide our services:
+Links   
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-Anonymized Aggregated Data. We aggregate and anonymize data and use and disclose such information for a variety of purposes. However, in these situations, we do not disclose any information that could be used to identify you personally. 
+SECTION 6 - SECURITY
 
-Public Areas of the Site. All of your activities in the public areas of the Site will be identifiable to your User ID, and other people can see your published content.
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.   
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-Subsidiaries and Affiliates; Service Providers. We may from time to time use the services of affiliates, subsidiaries and unrelated service providers in the operation of the Site, and may disclose personal information to them in the course of our use of their services. For example, we may use the services of third-party hosting companies to host the operation of the Site. This may involve the hosting of data, including personal information, on servers operated by those hosting companies. We take care to use only service providers that we believe are reputable and able to live up to our and your expectations, including about the handling of confidential information.
+SECTION 7 - COOKIES
 
-Law and Harm; Jurisdictions. Notwithstanding anything to the contrary in this policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our or any other person’s rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information. Finally, please note that in some cases, personal information that we collect may be stored or processed outside of Canada. In such cases, we continue to protect the information with appropriate safeguards, but it may be subject to the legal jurisdiction of those countries and governmental authorities in those countries.
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.   
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).   
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits   
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.   
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.   
+_secure_session_id, unique token, sessional   
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
-We may also disclose personal information to the acquirer or its agents in the course of the sale of our business. If we do this, the disclosure will be subject to confidentiality arrangements customary in such transactions.
+SECTION 8 - AGE OF CONSENT
 
-### Security
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-Nuvango strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any personal information you enter into registration forms on the Site. The encryption process protects your information, by scrambling it before it is sent to us from your computer. We also make commercially reasonable effort to ensure the security of your personal information on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us.
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
 
-### Questions?
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.   
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please [email](mailto:contact@nuvango.com) us at : contact@nuvango.com
+QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at contact@gelaskins.com or by mail at   
+GelaSkins Inc.   
+[Re: Privacy Compliance Officer]   
+2738 Dundas St. West Toronto Ontario CA M6P 1Y3   
+\----
