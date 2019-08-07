@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolhunting.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403221038id_/https%3A//coolhunting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolhunting.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807020728id_/https%3A//coolhunting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - COOL HUNTING
 
