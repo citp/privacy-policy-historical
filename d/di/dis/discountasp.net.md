@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627082936id_/https%3A//discountasp.net/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807152629id_/https%3A//discountasp.net/policies/privacy) for the most accurate reproduction.*
 
 # DiscountASP.NET policies
 
@@ -11,6 +11,8 @@ This Privacy Policy covers our collection, use and disclosure of information we 
 **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
 
 DiscountASP.NET and its parent company Host Collective, Inc. and subsidiary company, Everleap, participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
+
+DiscountASP.NET and its parent company Host Collective, Inc. and subsidiary company, Everleap, complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland, to the United States in reliance on Privacy Shield. DiscountASP.NET and its parent company Host Collective, Inc. and subsidiary company, Everleap, has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [privacyshield.gov](https://www.privacyshield.gov/). 
 
 DiscountASP.NET is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. DiscountASP.NET complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -48,13 +50,13 @@ If you have any questions about security on our Web site, you can email us at su
 
 **Data Retention**
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer provide you services contact us at billing@discountasp.net. We will retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information and personal data we process on behalf of our Clients for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer provide you services contact us at billing@discountasp.net. We will retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **Statistical Information**
 
-All of our servers collect statistical information such as your IP address, date you visited, computer you are using, and operating system, among other data (Statistical Information). This information does not identify individual users. We use this information to analyze trends and understand demographic information about our user base so that we can improve our services and usability of our services. 
+All of our servers collect statistical information such as your IP address, date you visited, computer you are using, and operating system, among other data (Statistical Information). We use this information to analyze trends and understand demographic information about our user base so that we can improve our services and usability of our services. 
 
-We may use Statistical Information to operate our hardware and software, diagnose problems and administer our web site. We may also use aggregate information to modify the products and services we offer based on who is visiting our web site, and what they are purchasing. We do not use this data to identify you individually.
+We may use Statistical Information to operate our hardware and software, diagnose problems and administer our web site. We may also use aggregate information to modify the products and services we offer based on who is visiting our web site, and what they are purchasing.
 
 **Third Party Products and Services**
 
@@ -78,11 +80,11 @@ Third parties with whom we partner to provide certain features on our site or to
 
 **Behavioral Targeting**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/) (or if located in the European Union click [here](https://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **Google AdSense/Adwords**
 
-We use Google AdSense to advertise this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on other Web sites. You may opt-out of the use of this cookie by visiting [Google’s Advertising and Privacy page](http://www.google.com/privacy_ads.html).
+We use Google AdSense to advertise this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on other Web sites. You may opt-out of the use of this cookie by visiting [Google’s Advertising and Privacy page](https://www.google.com/privacy_ads.html).
 
 **Choice/Opt-out**
 
@@ -122,9 +124,9 @@ In the event DiscountASP.NET goes through a business transition, such as a merge
 
 If you use our forum or blog you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personally identifiable information from our blog or community forum, contact us at support@discountasp.net. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why. 
 
-**Public Member Directory**
+**Forum Member Directory**
 
-We will list you in our public accessible member directory. If you wish to request removal of your information from our directory, you can contact us at support@discountasp.net. 
+As a member of our Forum, depending on your activity, we may list you in our member directory only visible to other Forum Members. If you wish to request removal of your information from our Forum Member Directory, you can contact us at support@discountasp.net.
 
 **Customer Testimonials**
 
@@ -150,7 +152,7 @@ Our web site includes social media features, such as the Facebook Like button an
 
 **Changes in this Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes at http://www.discountasp.net/policies/privacy/, the control panel, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We encourage you to periodically review this page for the latest information on our privacy practices. We reserve the right to modify this privacy policy at any time, so please review it frequently. Before we make material changes to this policy, we will notify you by email. 
+If we decide to change our privacy policy, we will post those changes at https://www.discountasp.net/policies/privacy/, the control panel, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We encourage you to periodically review this page for the latest information on our privacy practices. We reserve the right to modify this privacy policy at any time, so please review it frequently. Before we make material changes to this policy, we will notify you by email. 
 
 **Contact Information**
 
@@ -160,4 +162,4 @@ Suite 200
 Monrovia, CA 91016  
 [Contact Form](https://discountasp.net/about-us/contact/)
 
-Last Update: March 20, 2018
+Last Update: March 25, 2019
