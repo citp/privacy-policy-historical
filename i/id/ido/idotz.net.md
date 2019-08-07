@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607102805id_/https%3A//idotz.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807165809id_/https%3A//idotz.net/privacy.cfm) for the most accurate reproduction.*
 
 # iDotz.Net - Domain Name Registrar: Search.. Name.. Succeed!
 
@@ -6,9 +6,9 @@
 
 Privacy Policy
 
-We're updating our Privacy Policy on May 25, 2018. Our new policy and current policy are both below.
+We're updating our Privacy Policy on May 25, 2018. Our new policy and old policy are both below.
 
-This is our updated Privacy Policy which goes into effect on May 25, 2018.
+This is our updated Privacy Policy which went into effect on May 25, 2018.
 
 ___________________
 
@@ -16,17 +16,17 @@ ___________________
 Who We Are  
  
 
-BRS Media, Inc. provides Online Services like Domains, DNS, Hosting and Streaming services via dotFM, dotAM, dotRadio, Get.fm, iDotz.Net, iRRP.Net, IDdp.Net, Webz.Net, HostRock.Net and iRadio.com.
+BRS Media, Inc. provides Online Services like Domains, DNS, Hosting and Streaming services via dot.FM, dot.AM, dotRadio, Get.fm, iDotz.Net, iRRP.Net, IDdp.Net, Webz.Net, HostRock.Net, MainStBranding.com, MainStreetBranding.com, DigitalAM.com and iRadio.com.
 
-This privacy policy applies to all visitors and customers using or accessing any of the websites that we produced and maintain for the services that we provide, including dot.fm, dot.am, radio.fm, radio.am, get.fm, idotz.net, irrp.net, iddp.net, webz.net, hostrock.net and iradio.com. It also applies to human resources data of our employees and contractors.
+This privacy policy applies to all visitors and customers using or accessing any of the websites that we produced and maintain for the services that we provide, including dot.fm, dot.am, radio.fm, radio.am, get.fm, idotz.net, irrp.net, iddp.net, webz.net, hostrock.net, mainstbranding.com, digitalam.com and iradio.com. It also applies to human resources data of our employees and contractors.
 
 This policy DOES NOT cover websites that we host for our customers as part of HostRock.net or iRRP.Net. For these sites, the site owner/customer is responsible for publishing its own privacy policy.
 
 BRS Media, Inc. is a registered corporation in California, USA. Our mailing address is:
 
 BRS Media, Inc.  
-55 New Montgomery St. Ste 622  
-San Francisco, CA 94105-3432  
+350 Townsend Street Suite 321  
+San Francisco, CA 94107-1696  
 USA
 
 For any privacy-related questions, you can reach us at admin@brsmedia.com.
@@ -232,8 +232,8 @@ Registrants may elect not to receive e-mail communications from iDotz.Net regard
 
 BRS Media Inc.  
 Attention: iDotz.Net Opting Out  
-55 New Montgomery St. Suite 622  
-San Francisco, CA 94105-3432
+350 Townsend Street Suite 321  
+San Francisco, CA 94107-1696
 
  iDotz.Net understands that security is important to our users. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. When you transmit personal information to us, we encrypt it using SSL (Secure Socket Layer), the industry standard for encryption software. Encryption provides a secure means to protect your information as it passes over the web to our server. iDotz.Net utilizes Thawte SSL Web Server Certificates to offer secure communications by encrypting all data to and from the site. You can verify this certificate by clicking here: 
 
@@ -272,8 +272,8 @@ iDotz.Net Certificate
 
 BRS Media Inc.  
 Attention: iDotz.Net Privacy Policy  
-55 New Montgomery St. Suite 622  
-San Francisco, CA 94105-3432
+350 Townsend Street Suite 321  
+San Francisco, CA 94107-1696
 
   
  
