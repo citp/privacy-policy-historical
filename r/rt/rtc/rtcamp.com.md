@@ -1,49 +1,63 @@
-> *The following text is extracted and transformed from the rtcamp.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123202123id_/https%3A//rtcamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtcamp.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807082934id_/https%3A//rtcamp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - rtCamp
+# Privacy Policy
 
-2012-01-31T19:27:02+00:00 2015-05-22T19:27:04+00:00
+This page specifies the data that we collect, how we collect it and why we collect it. If you have any additional queries, or if we have failed to provide you with any information, you can contact us via our [Contact Page](https://rtcamp.com/contact/) and we will get back to you within two working days.
 
-**Privacy policy for rtCamp:**
+The overarching principles of our policy are as follows:
 
-  * Your use of any information or materials on this website is entirely at your own decision, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
-  * This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
-  * All trademarks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website.
-  * Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offence.
-  * From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
-  * Your use of this website and any dispute arising out of such use of the website is subject to the laws of India or other regulatory authority.
+  * We don’t ask you for personal information unless we have to
+  * We don’t share your personal information with anyone outside of rtCamp unless explicitly specified in this document
+  * We don’t store any of your personal information unless we need it for testing, development or to make our services better. Even in this case, we make sure to irreversibly delete it as soon as it has served its purpose
 
 
 
-**Log Files:**  
-rtCamp makes use of log files (which includes IP addresses, type of browser, internet service providers, referrer, number of clicks etc) to understand user movements and demographics. Such information is not linked to any information that is personally identifiable.
+This has been our policy before GDPR, and will be our policy going forward, regardless of regulation.
 
-**Cookies:**
+### Comments
 
-  * rtCamp use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-  * We will not sell, disseminate, disclose, trade, transmit, transfer, share, lease or rent any personally identifiable information to any third party not specifically authorized by you to receive your information except as we have disclosed to you in this Privacy Policy. However we may use such information to update you about promotional offers and updates from us.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+### Contact forms
+
+You may voluntarily provide us with your name and email address to set up a contact request or subscribe to our newsletter.
+
+We use Mailchimp to send and manage our newsletter subscriptions. When you voluntarily subscribe to our newsletter, we send your name and email to Mailchimp.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). We also use social share buttons for Facebook, Twitter, LinkedIn and Google on our site and in our newsletters. Embedded content these or any embedded websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+We track visitors and their movement across this site. Tracking includes IP addresses, type of browser and referrer. Such information is not linked to any information that is personally identifiable.
+
+We use Google Analytics which allows us to collect information about how you use our site. If you access our website directly (and not via an email) your visits will be tracked anonymously. We use Google Analytics and Hotjar to understand how our website is being used in order to improve the experience for you. All user data is anonymous.
+
+For our [careers site](https://careers.rtcamp.com/), we use referral tracking. This is strictly opt-in. As part of this, we collect
+
+  * Landing Page Referring URL 
+  * IP address of referrer 
+  * Date of referral 
 
 
 
-**Support**
+### How long we retain your data
 
-  * rtCamp gives support for premium products with Helpdesk. Helpdesk support requires raising a ticket on this website.
-  * All personal data, admin information is accessible only to the user who raises the ticket and rtCamp’s support team.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
+### What rights you have over your data
 
+As per the GDPR, you can request us for an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**Advertising:**
+Though unlikely, we reserve the right to change this Privacy Policy without providing you with advance notice.
 
-  * rtCamp has implemented and uses Display Advertising
-  * rtCamp makes use of remarketing with Google Adwords and Google Analytics to advertise online
-  * Our advertising campaigns don’t collect personally identifiable information (PII)
-  * Third-party vendors, including Google, show our ads on sites across the Internet
-  * rtCamp and third-party vendors, including Google, uses first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
-  * If you prefer ads not to be based on interests and demographics, then you can opt-out of Google Analytics for Display Advertising using [Google Ads Preferences Manager](https://www.google.com/settings/ads/onweb/ "Google Ads Preferences Manager")
-
-
-
-**Changes in Our Privacy Policy:**  
-We reserve the right to change this Privacy Policy without providing you with advance notice of our intent to make the changes.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to us or email us at contact@rtcamp.com as soon as possible.
+If you have any additional queries, or if we have failed to provide you with any information, you can contact us via our [Contact Page](https://rtcamp.com/contact/) and we will get back to you within two working days.
