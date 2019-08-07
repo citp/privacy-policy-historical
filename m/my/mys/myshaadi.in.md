@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshaadi.in privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601223900id_/http%3A//myshaadi.in/main/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshaadi.in privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807220459id_/http%3A//myshaadi.in/main/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
