@@ -1,180 +1,463 @@
-> *The following text is extracted and transformed from the superchevy.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429175205id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superchevy.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807030312id_/https%3A//www.motortrendgroup.com/privacy) for the most accurate reproduction.*
 
-# Primedia Consumer Privacy Policy
+# Privacy - MotorTrend Group
 
-Primedia and its family of consumer publications are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users and subscribers so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please note that some of our websites are subject to separate privacy policies. We encourage you to always check the privacy policy on each website you visit to be sure you understand the privacy policy governing that site, since use of this site constitutes agreement with these terms. We urge you to read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions, but offer this short summary to highlight key points. 
+This privacy policy applies only to the websites and applications controlled by Motor Trend Group, LLC, and/or their subsidiary and affiliated entities (collectively, “MTG,” “we” or “us”) where this privacy policy is posted (collectively, the “Sites”).
 
-**What Information Do We Collect About You?  
-__**
+####   
+**OVERVIEW**  
 
-**_
-  * Personal Information
-  * Subscriptions and Orders
-  * Information Collected Automatically
-  * Other Information
-_**
-**__ **
 
-**What Do We Do with Information We Collect?**
+**A. Who We Are:**
 
-**How Do We Share Personal Information?**
+We are Motor Trend Group. We provide a range of free and paid-for content services, which are available through our websites or our mobile and television applications worldwide (with content availability subject to geographic territories) (the “Services”).
 
-  * _Primedia and Its Agents_
-  * _Participating Vendors_
-  * _Credit Card Companies_
-  * _Advertisers, Sponsors and Promotional and Business Partners_
-  * _Important Note_
+We are based in the United States. Our company details are in WHO WE ARE section below.
 
-**How Do We Use Cookies?**  
-**How Do We Use Web Beacons?**  
-**What About Third Party Advertisers?**  
-**How Can You Control Your Personal Information?**  
-**Security of Your Personal Information**  
-**Children's Privacy**  
-**Links**  
-**Changes in Corporate Structure**  
-**Visitors Outside the United States**  
-**Changes to Our Privacy Policy**  
-**Contact Information**
+If you have any questions or need any help in relation to our privacy policy, please contact our Data Protection Officer at dpo@discovery.com.
 
-**WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
+**B. Our Values And What This Privacy Policy Is For:**
 
-You can visit our websites, read articles and other materials, and check on offerings without giving us any personally identifiable information. So that we can provide our users and subscribers with the most efficient and enhanced, personalized service, we request information about you in certain circumstances, and collect certain information automatically. We also use contact lists and other information we may obtain from third parties. For the convenience of our customers and to better serve you, a customer account includes all the collected personal information we may have, but you can update or correct your contact information or change your preferences about receiving offers and information from us or third parties at any time. All information we have about you will be available to all of our brands and affiliates at Primedia. 
+We value your privacy and want to be accountable and fair to you as well as transparent with you in the way that we collect and use your personal information. Our overall aim is to ensure that our collection and use of personal information is appropriate to the provision of the Services to you, and is in accordance with applicable data protection laws. We also want you to know your rights in relation to your information which you can find here, in YOUR RIGHTS section.  
+In line with these values, this privacy policy tells you what to expect when we collect and use personal information about you. We have tried to make it easy for you to navigate so you can find the information that is most relevant to you and our relationship with you.
 
-_**Personal Information**_
+We are always looking to improve the information we provide to our customers and contacts so if you have any feedback on this privacy policy, please let us know using our contact details in the CONTACT section.
 
-We collect personally identifiable information, such as names, mailing addresses, and/or e-mail addresses, when you subscribe to one of our magazines, place an order (see the section below for more information on subscriptions and orders), or register at one of our web sites. Website visitors may register to receive one of our e-mail updates, respond to a survey, or enter online contests and sweepstakes; we may offer offline contests and sweepstakes as well. Registration may be required to participate in message boards, bulletin boards, or chat rooms at our websites or to take advantage of special offers.   
-Sometimes registration can be accomplished by submitting only a user name and password. Other types of offerings require submission of additional information. The information we collect may include your e-mail address, name, address, phone number, age, gender, hobbies, family information, and similar demographic information or information related to your interests. For example, our automotive publications and websites may ask about the type of car you drive. Some of our sites may offer you the opportunity to receive offers directly from third parties, or to match you directly with a trusted fulfillment partner, such as an automobile dealer or bank. In the latter case, in addition to contact information and other details, we will ask you to provide a social security number and certain financial and credit-related information to facilitate a response from our fulfillment partners. Registration forms will indicate what information is required and what information (if any) is optional.   
+**C. Who This Privacy Policy Applies To:**
 
+This privacy policy applies to all users of our Services.
 
-**_Subscriptions and Orders_**
+**D. What This Privacy Policy Contains:**
 
-If you wish to subscribe to one of our publications or place an order for products or services online, you must generally establish a credit card account with us or our vendors. In addition to the customary information needed to fill your order (full name, email address, physical address, ship-to name and address, gift information, etc.), subscriptions and orders necessitate collection of your credit card number and credit card expiration date. Electronic order acknowledgments are sent when an subscription or order is placed online. Most of our websites allow visitors to subscribe to our publications online, and some sites also offer areas where you may purchase items online. We may offer online and offline subscribers a "bill me" option if they do not wish to use a credit card, but visitors should check online stores to see if other payment options are permitted for online store purchases apart from credit cards.   
+This privacy policy describes the following important topics relating to your information:
 
+WHO WE ARE
 
-**_Information Collected Automatically_**
+CHILDREN
 
-Our websites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our websites. In addition, we use cookies to track usage patterns at our site and to control the display of ads, as well as to offer other functionalities (such as screening for age, helping to track items in your shopping basket at sites which offer online shopping opportunities, and "recognizing" you to speed up your log-in when you visit our sites). See below for more detail on cookies.
+THE PERSONAL INFORMATION WE COLLECT ABOUT YOU
 
-_**Other Information**_
+HOW WE STORE AND USE YOUR PERSONAL INFORMATION
 
-We conduct market research in an effort to continually improve our publications and websites and may purchase lists of potential subscribers or customers from third parties. Those lists may include information on current subscribers or customers. This information is included in our database. That helps us, for example, minimize multiple mailings and e-mailings, and provide information tailored to your interests.  
+HOW WE SHARE YOUR PERSONAL INFORMATION AND WHO WE SHARE IT WITH
 
+INTERNATIONAL TRANSFERS
 
-**WHAT DO WE DO WITH COLLECTED INFORMATION?**
+COOKIES
 
-We use information you provide to fulfill your requests, improve our publications, products and services, and operate our business. For example, we use personal information so that we may display or send custom, personalized content to our website visitors and to send newsletters, mail, e-mails, features, promotional material, surveys and other updates, information or offers to our users and subscribers. A user may, at any time, opt out of receiving promotional offers by mail, telephone or e-mail. We also use collected information to evaluate and administer our products and services, fulfill customer requests, like subscription and other orders, respond to any problems that may arise, such as magazine delivery failures, difficulties in navigating our sites or accessing certain features, as well as to gauge user trends to determine what products and services are most popular with users, and to put you in touch with trusted fulfillment partners who can provide services that we cannot.   
-We allow users of our website to send articles or links by email to other parties who may be interested in them. We do not retain any email addresses (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such articles or links after they are sent, and do not share "send a friend" e-mail addresses with third parties.   
-Of course, we use personal information to allow you to subscribe online or to make product purchases at certain of our websites. Rest assured that we and our technical and fulfillment agents and consultants follow careful procedures to safeguard credit card data in connection with your transactions.  
-We may produce reports for advertisers, sponsors and vendors containing anonymous, aggregate information about our users and subscribers, such as demographic, age and online usage information. This allows us to provide content and offers that are most relevant to our subscribers and users and to work more closely with advertisers.  
+SECURITY
 
+DATA RETENTION
 
-**HOW DO WE SHARE PERSONAL INFORMATION?**
+YOUR RIGHTS
 
-Personal information is available to Primedia, including its brands and affiliates, and its or their technical and fulfillment agents and consultants who make this site and our publications, products and services available to you. Anonymous information is available to our advertisers, sponsors and promotional and business partners. We share your personal information with third parties only as described below.  
+THIRD PARTY SITES
 
+YOUR CALIFORNIA PRIVACY RIGHTS
 
-_**Primedia and Its Agents**_. Primedia may access both anonymous, aggregate demographic data and any personal information you provide for internal marketing or other business purposes, including sending you notices of subscription renewal deadlines, new publications, services or products we offer likely to be of interest, and filling subscription and other orders. To facilitate subscriptions and orders, Primedia will cache your order information, and create an authorization with a merchant account (i.e., your credit card company). There are many companies who may be required to assist Primedia in making its publications, products and web sites available to you. Web host firms, technical and database consultants, advertising agencies, and fulfillment firms, including firms assisting us in offering contests and promotions, may have access to personally identifiable information in the course of making our products and services available. All companies working for Primedia must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law.   
+DISPUTE RESOLUTION
 
+CHOICE OF LAW; CHOICE OF FORUM
 
-_**Participating Vendors**_. Some of our sites offer opportunities to make purchases online from special participating vendors. On sites with online purchase opportunities for products and merchandise, we will also give participating manufacturers, retailers, wholesalers or distributors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide. Primedia is not responsible for their privacy policies, and urges you to inquire about their information practices. In addition, all vendors will receive the same anonymous, aggregate data that our advertisers do.  
+CHANGES TO THIS PRIVACY POLICY
 
+CONTACT, COMPLAINTS, QUESTIONS AND SUGGESTIONS
 
-_**Credit Card Companies**_. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. Primedia will not otherwise provide any personal data to your credit card company.   
+**E. Your Rights To Object:** You have various rights in respect of our use of your personal information as set out in YOUR RIGHTS section. Two of the fundamental rights to be aware of are that you may:
 
+1\. Ask us to stop using your personal information for direct marketing purposes. If you exercise this right, we will stop using your personal information for this purpose; and  
+2\. Ask us to consider any valid objections which you have to our use of your personal information where we process your personal information on the basis of our, or another person’s, legitimate interest.  
+You can find out more information in YOUR RIGHTS section 0.  
+**F. What You Need To Do And Your Confirmation To Us:** Please read this privacy policy carefully to understand how we handle your personal information.
 
-_**Advertisers, Sponsors and Promotional and Business Partners**_. We share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and with participating vendors at sites offering online sales opportunities. No personally identifiable information is disclosed to any of these third parties in providing these reports. Credit card numbers, bank account numbers, and passwords are not shared with advertisers, sponsors or promotional partners, and are only shared with specific vendors with whom you place an online order.  
+**THE DETAIL**
 
+**WHO WE ARE**
 
-Offline and online contact information is handled differently. As is customary in the publications business, offline contact information is shared with third parties who may send you offers or information about their products or services. **You must opt-out if you do not wish to receive information from us or third parties by mail.**  
+We are Motor Trend Group, LLC, registered in the United States of America with company number 6453648 whose registered office is at 1 Discovery Place, Silver Spring, MD 20910, United States of America (“MTG”) and we are the data controller of the personal information that we collect from you.
 
+You can contact us in relation to this privacy policy by e-mail to our Data Protection Officer at dpo@discovery.com.
 
-We may extend e-mail offers to you on behalf of our business partners about their products or services, but only if you have indicated that you would like to receive such offers. Although Primedia may receive a fee from our business partners for this service, Primedia sends those offers on behalf of the business partner, and does not share your e-mail address with them. Of course, you may opt out of receiving those offers at any time.   
+**CHILDREN**
 
+We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Services unless your parent or guardian has provided us with their consent for your use of the Services.
 
-At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. Primedia is not responsible for the privacy policies and procedures of any third party.  
+**THE PERSONAL INFORMATION WE COLLECT ABOUT YOU**
 
+Information That You Share With Us
 
-**_Trusted Fulfillment Partners_**. Sometimes we will give you the opportunity to opt in to receive e-mail offers directly from third parties not affiliated with Primedia. If you decide to accept these offers, we will provide your contact information to the third party. In addition, some of our sites are intended to facilitate transactions between you and a third party, such as an automobile dealer or bank. To do so, we collect and share additional personal information, like credit information or Social Security numbers, so they can provide the product or service you request. For example, should you request a loan quote or place an order, your personal information will be distributed to trusted fulfillment partners so they can process your order, check and approve your credit application or loan request, respond to requests for information, or provide further information about products and services that they believe will meet your continuing needs. As our trusted fulfillment partners may keep and use your information whether or not you purchase their products or use their services, your personal information will be subject to their privacy policies, and you should contact them directly for more information about their specific privacy and opt-out policies.   
+When you make an account and log in to access and browse the Services, we collect the following information from you:
 
+•  Your name;
 
-_**Public Postings**_. You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through Primedia's websites or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards or message boards, or if you post personal information online (such as your e-mail address, photograph, etc.), you may receive unsolicited messages from others. Primedia has no control over this use of your personal information.   
+•  Your e-mail address;
 
+•  If provided by you, your date of birth;
 
-_**Important Note**_
+•  If provided by you, your gender;
 
-We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property and assure adherence to our terms of use; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation or process. 
+•  Any e-mail communications, including attachments, which you send to us;
 
-**HOW DO WE USE COOKIES?**
+•  Where you are purchasing Services from us, your payment information including billing address; bank account and payment card details and information about the transactions such as the products or Services purchased;
 
-Your Web browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you. Our third party advertisers may also use cookies.   
+•  Profile data including your username and password for registering an account, your profile avatar, purchases or orders made by you, you interests and preferences; and
 
+•  Your preferences in receiving marketing from us and our third parties and your communication preferences.
 
-**HOW DO WE USE WEB BEACONS?**
+•  When you access and browse the Services without creating an account or logging into an account and contact us, we collect any e-mail communications, including attachments, which you send to us.
 
-Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns. 
+**Information From Your Online Interactions**
 
-**WHAT ABOUT THIRD PARTY ADVERTISERS?**
+We collect the following information from your interaction with the Services:
 
-Some of the banner ads displayed in our websites are provided by outside companies. These ads contain cookies and may also contain Web beacons. Unlike cookies and Web beacons used by Primedia in content it controls at its Web sites, cookies or Web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. DoubleClick is our third party ad server. If you would like to know more about their information gathering practices and "opt-out" procedures, please see <http://www.doubleclick.com/us/corporate/privacy>.
+How you access our Services and the devices that you use to access our Services. This includes collecting unique online identifiers such as IP address and your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this Services; and
 
-**HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**
+Information about how you use the Services, including but not limited to your video consumption and playback, sign-in and sign-out, playback error and browsing information.  
+**Third Parties Or Publicly Available Sources**
 
-We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information or change your preferences.
+We may receive personal information about you from various third parties as set out below:
 
-1\. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.   
-2\. If you are a subscriber to one of our magazines, you may be able to log on and update or change your contact or account information by contacting us at <https://store.primediamags.com/service>.  
-3\. You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.  
-4\. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: Primedia Magazines, Inc., c/o Privacy Coordinator, 200 Madison Avenue, New York, NY 10016. In those instances, we will retain your information in a "do not promote" file in our database.   
-5\. You may also contact us at [privacypolicy@primedia.com](mailto:privacypolicy@primedia.com).  
+If you log into the Services through a third-party account such as Facebook, we will collect certain information relating to your account with those third parties (including your name, profile image, age group, gender and other information available on your public profile), your date of birth and your e-mail address. You can manage the information data which is shared by such third parties with us by amending your preferences through using the privacy settings which these third parties provide on their platforms;  
+**Technical data from the following parties:**
 
+• Analytics providers based inside and outside the US and EU, such as [e.g. Adobe Analytics and Google Analytics];
 
-We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail. 
+• Advertising networks based inside and outside the US and EU, such as [e.g. Facebook Audience Network and FreeWheel]; and
 
-**SECURITY OF YOUR PERSONAL INFORMATION**
+• Search information providers, based inside and outside the US and EU, such as [e.g. Adobe Audience Manager].
 
-We use Secure Sockets Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices internally and with our service providers suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy. We take special precautions to safeguard your credit card data in our system.  
-Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered.   
-Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions or within any system cannot be assured. Primedia employees are made aware of its privacy practices through periodic communications and training. We limit access to personal data only to those Primedia employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. To maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis. Remember, however, that any personal information you post in chat rooms or message boards is available to anyone. We ask our agents, promotional and business partners, and trusted fulfillment partners to provide assurances of reasonable security, but are not responsible for the privacy or security practices of any third party.  
+For further information about how each of these parties collect and use your data, please see the ‘Third-Party advertising companies’ section below;
 
+Contact, financial and transaction data from providers of technical, payment and delivery services;
 
-**CHILDREN'S PRIVACY**
+Identity and contact data from data brokers, aggregators and publicly availably sources; and
 
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. Primedia is strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13 and have adopted techniques to age-screen users on our teen-oriented sites to ensure compliance with this Privacy Policy and the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations establish United States federal law that protects the privacy of children using the Internet. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children's use of the Internet.   
+Third parties that provide certain services to us within the Services, for example, facilitating and administering customer feedback forms, newsletter subscriptions and competitions.
 
+  
+**HOW WE STORE AND USE YOUR PERSONAL INFORMATION**
 
-**LINKS**
+We store and use your personal information for the following reasons:
 
-Primedia may offer links to or from Web sites it controls to other sites within the Primedia family as well as to sites operated by third parties. We offer links to third party sites so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally-identifiable information.
+• It is necessary in order for us to fulfil a contract that we have with you;
 
-**CHANGES IN CORPORATE STRUCTURE**
+• It is required in our legitimate interests;
 
-In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets. 
+• It is required in order for us to comply with our legal obligations; or
+
+• It is permitted because you have provided your consent to us.
+
+Where we need to collect personal information by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (in this case, to provide you with the Services). In this case, we may have to cancel the Services but we will notify you if this is the case at the time.  
+**Necessary For Us To Fulfil Our Contract With You**
+
+We collect, store and use your personal information including your name, e-mail address, payment details, postal address and information about how you use and access the Services because it is necessary in order to provide the Services requested by you pursuant to the contract made between you and us when you agreed to our Terms of Use. This includes:
+
+• Making the Services available to you;
+
+• Providing any Services that you request;
+
+• Administering the Services;
+
+• Provide personalised recommendations and content within the Services by collecting data about you in order to build a profile of your preferences based on your activity when you use the Services. The Services cannot be provided to you without this profiling. If you wish to object to this profiling, we may not be able to provide the Services to you and you should not use or access the Services;
+
+• Service and account administration requirements such as where we need to contact you for reasons related to the Services (for example, where we need to send you a password reminder, to notify you about Services updates or amendments to our Terms of Use, Cookie Policy or this privacy policy); and
+
+• Where you are purchasing Services from us, process your payment (including but not limited to using third party service providers to process such payment).
+
+If you have entered into a promotion or competition on the Services, then, pursuant to the promotion and/or competition terms and conditions provided to you at the time of entry, we will use your contact details (such as e-mail address or postal address) to administer your entry and inform you if you have won a prize.  
+**Our Legitimate Interests**
+
+Sometimes, our use of your personal information is for purposes which are ancillary to the provision of the Services. In those circumstances, we believe we have a legitimate interest in handling your personal information, and believe that the benefits of this storage and use of your personal information will outweigh any potential impact on you and not unduly prejudice your rights or freedoms. The relevant circumstances are:
+
+• Detecting and preventing fraud;
+
+• Keeping our Services, products and IT systems secure;
+
+• Ensuring that our own processes, procedures and systems are as efficient as possible;
+
+• Analysing and enhancing the information that we collect;
+
+• Analysing your video consumption, playback and general viewing habits in order to understand viewership and update and improve our Services, including but not limited to our content, features, scheduling, technology and products;
+
+• Determining the effectiveness of our promotional campaigns and advertising;
+
+• To use IP addresses and device identifiers to identify the location of users and block any unauthorised users;
+
+• Deal with your enquiries and requests (for example if you were to call customer services to ask for help and assistance then we would need to process your contact details);
+
+• Suggest similar products to you that you may be interested in and to understand which products appeal to our customers; and
+
+• If you have paid for your use of the Services, for marketing purposes, we may contact you by email with products and Services which we think may interest you (for more information, please see the MARKETING section below); and
+
+• Where you have opted out of our marketing or objected to receiving e-mails from us, then we need to keep records of your preferences to ensure that we do not contact you if you have asked us not to.
+
+If we rely on our (or another person’s) legitimate interests for using your personal information, we will undertake a balancing test to ensure that our (or the other person’s) legitimate interests are not outweighed by your interests or fundamental rights and freedoms which require protection of the personal information. You can ask us for information on this balancing test by using the contact details in the CONTACT section.  
+**When You Have Provided Consent To Us**
+
+Where you have given us your consent (either by paying for use of a Service and/or providing consent otherwise), we will contact you by e-mail and/or text message with products and Services which we think may interest you. For more information, please see the MARKETING section below.
+
+If we rely on your consent for us to use your personal information in a particular way, but you later change your mind, you may withdraw your consent by contacting our Data Protection Officer at dpo@discovery.com and we will stop doing so.  
+**For Legal Reasons**
+
+We will use your personal information in order to comply with our legal obligations. These obligations include:
+
+• If you have a paid subscription to use the Services and live in the European Union (the “EU”), we are legally required to allow you and you are legally entitled to watch the Services when you’re visiting another country in the EU provided that we have verified your country of residence. We verify your country of residence using your IP address and payment information or, if you are a resident in Sweden, by your billing address;]
+
+• Us complying with our legal obligations; and
+
+• If we are asked by regulatory bodies or law enforcement agencies to share your personal information with them.
+
+**Anonymous Data**
+
+We collect anonymised details about visitors to our website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details we collect for these purposes.  
+**Marketing**
+
+**Marketing From Us**
+
+We may use your name, contact details, technical, usage and profile data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you.
+
+You will receive marketing communications from us if you have requested information from us, or purchased a subscription for the Services from us, or if you provided us with your details when you entered a competition or registered for a promotion, and, in each case, you have not opted out from receiving that marketing.
+
+**Third-Party Marketing**
+
+For those EU-based users only, we will get your express opt-in consent before we share your personal information with any company outside our group of companies for marketing purposes.  
+**Opting Out**
+
+We want to provide you with choices regarding certain personal information uses, particularly around marketing and advertising. You can change your choices at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences in your settings. Depending on the type of user experience, we have established certain personal information control mechanisms such as accessing and adjusting account settings, or by following the opt-out links on any marketing message sent to you, or by contacting us at any time, or by emailing our Data Protection Officer at dpo@discovery.com.
+
+You can ask us or third parties to stop sending you marketing messages at any time. You can change your choices at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences in your settings. Depending on the type of user experience, we have established certain personal information control mechanisms such as accessing and adjusting account settings, or by following the opt-out links on any marketing message sent to you, or by contacting us at any time, or by emailing our Data Protection Officer at dpo@discovery.com.
+
+Where you opt out of receiving these marketing messages, this will not apply to personal information provided to us as a result of a product/service purchase, product/service experience or other transactions. Therefore, you will continue to receive essential messages about the functionality and/or administration of our Services (for example, as mentioned above, where we need to send you a password reminder, to notify you about Services updates or amendments to legal terms).  
+**Third-Party Advertising Companies**
+
+We want to make sure that our advertising and marketing is relevant and interesting to you and our other users. To achieve this, we use third-party advertising and technology companies to serve ads and/or provide aggregated data to assist in serving ads when you visit or use our Services. This includes third party technology companies which collect data about you in order to build a profile of your preferences based on your activities when you visit or use our Services. We also use these companies to automatically collect data from you when you use our Services in order to help us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, to which we use to analyse your use of the Services.
+
+These third party advertising companies collect, store and use data by integrating cookies and other tracking software on our Services. Please see our Cookie Policy for further information. In some cases these third parties will also use the data that they collect for their own purposes, for example they may: aggregate your data with other data they hold and use this to inform advertising related services provided to other clients; and work with other advertising companies and share your personal information with such companies as part of the process.
+
+Please see our Cookie Policy for more information on the third party advertising companies which collect, use and store data about you, and the use of cookies and other tracking technologies on our Services. From our Cookie Policy you can also find out how to exercise control over this collection and use of data. If you choose to restrict or prevent tracking for these purposes then the advertising you see when you visit or use our Services will no longer be tailored to your preferences.
+
+We might also share your data with social media or other similar platforms, so that you and other people can see relevant content on that platform. For example, we may use the Facebook Custom Audiences service and share your email address in a protected format with Facebook so that we can: include you in a custom audience that we will serve relevant advertising content to on Facebook; or create an audience of other Facebook users based on the information in your Facebook profile.
+
+**HOW WE SHARE YOUR PERSONAL INFORMATION AND WHO WE SHARE IT WITH**
+
+We disclose information under the following circumstances:
+
+Third-party service providers: When we share information with third-party service companies to facilitate or to provide certain services on our behalf. This will include:
+
+• IT infrastructure companies that facilitate our provision of the Services to you;
+
+• IT support service providers; and
+
+• Other third-party service providers, for the purpose of providing or tracking our customers’ use of the Services (including but not limited to payment processors).
+
+These companies are authorised to use your personal information only as necessary to provide these Services to us.
+
+**Group companies:** We may provide your personal information to our subsidiaries or affiliated companies for the purpose of processing personal information on our behalf to provide the Services to you. These parties are required to process such information based on our instructions and in accordance with this privacy policy. They do not have any independent right to share this information.
+
+**Compliance with laws and legal proceedings:** When we respond to court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. When we believe in our sole discretion it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
+
+**Merger or acquisition:** When we need to transfer information about you if we are acquired by or merged with another company. If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified afterwards via e-mail and/or a prominent notice on our Services of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+**INTERNATIONAL TRANSFERS**
+
+If you are located outside of the United States then we will transfer personal information that we collect from you to third party data processors located in countries that are outside of the European Economic Area (“EEA”) (including to the US) or to members of our group of companies in connection with the above purposes. Please be aware that countries which are outside the EEA may not offer the same level of data protection as the EEA, although our collection, storage and use of your personal information will continue to be governed by this privacy policy. If you are located outside of the US, please be aware that information we collect will be transferred to and processed in the US. By using the Services or providing us with any information, you consent to this transfer and processing of your information in the US.
+
+When transferring personal information of an EU resident outside the EEA, we will:
+
+• include the standard contractual data protection clauses approved by the European Commission for transferring personal information outside the EEA into our contracts with those third parties (these are the clauses approved under Article 46.2 of the General Data Protection Regulation (“GDPR”); or
+
+• ensure that the country in which your personal information will be handled has been deemed “adequate” by the European Commission under Article 45 of the GDPR; or
+
+• (where appropriate when we are transferring your personal information to a recipient in the US) ensure that the recipient is part of the Privacy Shield which requires them to provide similar protection to any personal information shared between Europe and the US.
+
+You can find out further information about the rules on data transfers outside the EEA, including the mechanisms that we rely upon, on the European Commission website here.
+
+**COOKIE AND SIMILAR TECHNOLOGIES**
+
+Technologies such as cookies, beacons, tags and scripts are used by us and our partners, affiliates, or analytics or service providers. These technologies are used in analysing trends, administering the Services, tracking users’ movements around the Services and to gather demographic information about our user base as a whole. We receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use cookies, for example, to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Services, but your ability to use some features or areas of our Services may be limited.
+
+Please read more about how we use cookies and what information is collected using cookies in our Cookie Policy here.
+
+PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
+
+**SECURITY**
+
+Whilst we take appropriate technical and organisational measures to safeguard the personal information that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.
+
+We are committed to protecting your personal information using appropriate technical and operational measures such as access controls that restrict and manage the ways in which your personal information is stored and handled.
+
+**DATA RETENTION**
+
+We will retain information (including personal information) for as long as we need to use it for the reasons set out in the privacy policy and will delete it after that time except where we need to keep any personal information to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+We may delete your personal information (including any account that you set up to use on the Services) if you do not use the Services in a certain time period pursuant to the specific Service.
+
+In some circumstances, we may anonymise your personal information (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+**YOUR RIGHTS**
+
+You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact our Data Protection Officer at dpo@discovery.com at any time. You have the right to request that we:
+
+• Provide access to any personal information we hold about you;
+
+• Update any of your personal information which is out of date or incorrect;
+
+• Delete any personal information which we are holding about you;
+
+• Restrict the way that we process your personal information;
+
+• Prevent the processing of your personal information for direct-marketing purposes;
+
+• Provide your personal information to a third party provider of services;
+
+• Provide you with a copy of any personal information which we hold about you; or
+
+• Consider any valid objections which you have to our use of your personal information.
+
+• We will consider all such requests and provide our response within a reasonable period (and in any event within any time period required by applicable law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances.
+
+If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any request you make.
+
+If we delete any personal information which we are holding about you, this deletion may only relate to the Services and not any other service provided by us in other jurisdictions. You should make requests for each account that you may have set up to access the Services or any other service provided by us.
+
+**THIRD PARTY SITES**
+
+The Services contain links and pages to other websites operated by third parties. Please note that this privacy policy applies only to the personal information that we collect through the Services and we cannot be responsible for personal information that third parties may collect, store and use through their website. You should always read the privacy policy of each website you visit carefully.
+
+**DISPUTE RESOLUTION**
+
+In the event of any controversy, claim or dispute (“dispute”) related to or arising out of your use of the Services, other than disputes related to or involving our intellectual property or our licensed intellectual or proprietary rights, you and MTG mutually agree to the following dispute resolution procedure:
+
+• The parties will first attempt in good faith to resolve any dispute by informal negotiation. The informal negotiation period will begin when the party asserting the dispute sends a written notice to the other party describing the facts and circumstances of the dispute. If, after sixty (60) days from the date the notice of dispute is sent, the parties have been unable to resolve the dispute, either party may commence binding arbitration. The parties may agree to extend the informal dispute resolution period by mutual written agreement.
+
+• If the parties are unable to resolve the dispute through informal negotiation, you and MTG agree that exclusive jurisdiction for the dispute shall be binding arbitration before one arbitrator to be mutually agreed upon by both parties. If the parties cannot agree on the selection of an Arbitrator, they shall each select one Arbitrator from the list of qualified JAMS arbitrators and those two Arbitrators shall select the person who shall serve as the Arbitrator for such dispute. Arbitration shall be initiated in the New York, N.Y., area and shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on any potential award may be entered in any court having jurisdiction. BY USING THE SITES, YOU ARE HEREBY GIVING UP YOUR RIGHT TO LITIGATE A DISPUTE IN COURT BEFORE A JUDGE OR JURY. Unless the arbitrator concludes that the arbitration was frivolous or brought for an improper purpose, we will pay all filing, JAMS, and arbitrator’s fees and expenses.
+
+• ALL DISPUTES SHALL BE RESOLVED ON AN INDIVIDUAL BASIS. Neither party shall have the right to have a dispute heard as a class action and no arbitration or proceeding can be combined with another without the prior written consent of all parties to the proceeding.
+
+**CHOICE OF LAW; CHOICE OF FORUM**
+
+This privacy policy has been made in and shall be construed in accordance with the laws of the State of Maryland, without giving effect to any conflict of law principles.
+
+The parties acknowledge that this policy evidences a transaction involving interstate commerce. Notwithstanding the provision in the preceding paragraph with respect to applicable substantive law, any arbitration conducted pursuant to the terms of this Policy shall be governed by the Federal Arbitration Act (9 U.S.C. §§ 1-16).
+
+By using the Sites, you agree that the exclusive jurisdiction for any dispute not subject to the arbitration provision discussed above shall be the state and federal courts located in Maryland.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [yourcaliforniaprivacyrights@primedia.com](mailto:yourcaliforniaprivacyrights@primedia.com) and please include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.   
-**VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. To make such a request, please contact us: MOTOR TREND GROUP | 1 Discovery Place, Silver Spring, MD 20910 | Phone: (240) 662-2000 | Email: dpo@discovery.com.
 
-Our websites and the servers that make these sites available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of New York in the United States. Any information you provide in subscribing to one of our publications or registering or ordering at one of our web sites will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer, processing and use. 
+We do not support Do Not Track browser settings and do not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
 
-**CHANGES TO OUR PRIVACY POLICY**
+**CHANGES TO THIS PRIVACY POLICY**
 
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make material changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so, and we will e-mail registered website visitors information on material changes to this policy. Your continued use of the Site means you accept the updated privacy policy. 
+Please check back regularly to keep informed of updates to this privacy policy. Where we make significant changes to this privacy policy, and we have your e-mail address, we will send you notification of the changes.
 
-**CONTACT INFORMATION**
+**CONTACT, COMPLAINTS, QUESTIONS AND SUGGESTIONS**
 
-If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [privacypolicy@primedia.com](mailto:privacypolicy@primedia.com). Please include the URL of the Web site and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to [yourcaliforniaprivacyrights@primedia.com](mailto:yourcaliforniaprivacyrights@primedia.com) and include the information noted in Your California Privacy Rights.
+We have a Data Protection Officer that can assist with all queries regarding our processing of personal information. Our Data Protection Officer can be contacted by e-mailing dpo@discovery.com.
 
-Or you can contact us by mail at: 
+If you have any complaints about our Services, please contact us at:
 
-Privacy Coordinator   
-Primedia Magazines, Inc.  
-200 Madison Avenue.  
-New York, NY 10016  
+1 Discovery Place, Silver Spring, MD 20910 | Phone: 240-662-2000 | Email: dpo@discovery.com
 
+In the EEA, you may also make a complaint to the supervisory body for data protection matters (the Information Commissioner’s Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
 
-Or you can fax us at 212-448-4503 Attn: Privacy Coordinator   
+You have the right to lodge a complaint with local data protection authorities in the EEA if you believe we have not complied with applicable data protection laws. The local authority differs depending on the country. Please see the Annex for your local data protection authority.
 
+All information you provide in any written communication will also be covered by this policy.
 
-Updated March 31, 2006 
+Effective: May 25, 2018. © Motor Trend Group, LLC. All Rights Reserved.  
+**Annex**
+
+List of Data Protection Authorities (EEA Countries)
+
+For those residing in the EU, you have the right to lodge a complaint with local data protection authorities in the EEA if you believe we have not complied with applicable data protection laws.
+
+The local authority differs depending on the country. Please see below for details of the local data protection authorities in the EEA countries in which we operate.
+
+**Denmark**
+
+Datatilsynet  
+Borgergade 28, 5  
+1300 Copenhagen K  
+Tel. +45 33 1932 00  
+Fax +45 33 19 32 18  
+e-mail: dt@datatilsynet.dk  
+Website: http://www.datatilsynet.dk/
+
+**Finland**
+
+Office of the Data Protection Ombudsman  
+P.O. Box 315  
+FIN-00181 Helsinki  
+Tel. +358 10 3666 700  
+Fax +358 10 3666 735  
+e-mail: tietosuoja@om.fi  
+Website: http://www.tietosuoja.fi/en/
+
+**Germany**
+
+Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit  
+Husarenstraße 30  
+53117 Bonn  
+Tel. +49 228 997799 0; +49 228 81995 0  
+Fax +49 228 997799 550; +49 228 81995 550  
+e-mail: poststelle@bfdi.bund.de  
+Website: http://www.bfdi.bund.de/
+
+The competence for complaints is split among different data protection supervisory authorities in Germany.  
+Competent authorities can be identified according to the list provided under  
+https://www.bfdi.bund.de/bfdi_wiki/index.php/Aufsichtsbeh%C3%B6rden_und_Landesdatenschutzbeauftragte
+
+**Netherlands**
+
+Autoriteit Persoonsgegevens  
+Prins Clauslaan 60  
+P.O. Box 93374  
+2509 AJ Den Haag/The Hague  
+Tel. +31 70 888 8500  
+Fax +31 70 888 8501  
+e-mail: info@autoriteitpersoonsgegevens.nl  
+Website: https://autoriteitpersoonsgegevens.nl/nl
+
+**Norway**
+
+Datatilsynet  
+Postboks 8177 Dep.  
+0034 Oslo  
+Tel: +47 22 39 69 00  
+e-mail: postkasse@datatilsynet.no
+
+Website: https://www.datatilsynet.no/English/
+
+**Spain**
+
+Agencia de Protección de Datos  
+C/Jorge Juan, 6  
+28001 Madrid  
+Tel. +34 91399 6200  
+Fax +34 91455 5699  
+e-mail: internacional@agpd.es  
+Website: https://www.agpd.es/
+
+**Sweden**
+
+Datainspektionen  
+Drottninggatan 29  
+5th Floor  
+Box 8114  
+104 20 Stockholm  
+Tel. +46 8 657 6100  
+Fax +46 8 652 8652  
+e-mail: datainspektionen@datainspektionen.se  
+Website: http://www.datainspektionen.se/
+
+**UK**
+
+The Information Commissioner’s Office  
+Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF  
+Tel. +44 1625 545 745  
+e-mail: international.team@ico.org.uk  
+Website: https://ico.org.uk
