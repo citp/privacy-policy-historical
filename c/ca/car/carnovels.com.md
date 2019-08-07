@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnovels.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613101933id_/http%3A//carnovels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnovels.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807200132id_/http%3A//www.carnovels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarNovels
 
