@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416175000id_/https%3A//www.merrillcorp.com/us/en/legal/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807104627id_/http%3A//www.merrillcorp.com/us/en/legal/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
