@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417101312id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807195927id_/https%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
 
 # 3P Learning's Privacy Policy
 
@@ -8,7 +8,7 @@ This webpage explains our privacy and security commitments in plain language.
 
   * __
 
-3P Learning is a global e-learning resource company. We produce and/or distribute a range of online resources and a network of websites including but not limited to those for the [Mathletics](http://www.mathletics.com/), [Spellodrome](http://www.spellodrome.com/), [Readiwriter](http://readiwriter.com/), [Reading Eggs, ](http://www.readingeggs.com/)[Mathseeds, ](http://www.3plearning.com/mathseeds/)[Spellodrome, ](http://www.spellodrome.com/)[Gooseberry Planet, ](https://gooseberryplanet.com/)and [World Maths Day / World Education Games](http://www.worldeducationgames.com/) branded resources and products.
+3P Learning is a global e-learning resource company. We produce and/or distribute a range of online resources and a network of websites including but not limited to those for the [Mathletics](http://www.mathletics.com/), [Spellodrome](http://www.spellodrome.com/), [Readiwriter](http://readiwriter.com/), [Reading Eggs, ](http://www.readingeggs.com/)[Mathseeds, ](http://www.3plearning.com/mathseeds/)[Wordflyers](https://wordflyers.com.au/)[, ](http://www.spellodrome.com/)[Gooseberry Planet, ](https://gooseberryplanet.com/)and [World Maths Day / World Education Games](http://www.worldeducationgames.com/) branded resources and products.
 
   * __
 
@@ -16,7 +16,7 @@ Each product or resource, together with challenge websites for national and regi
 
   *  __
 
-References to the Site in this Privacy Policy includes all products and resources that we produce and /or distribute, as mentioned above.  
+References to the Site in this Privacy Policy includes all products and resources that we produce and /or distribute  
 
 
 
@@ -55,16 +55,16 @@ Collectively, this legislation includes, without limitation:
 
   * The Australian Privacy Act 1988
   * The New Zealand Privacy Act 1993
-  * The United Kingdom Data Protection Act 2018 ([View 3P Learning’s ICO Registration Certificate](http://cdn.3plearning.com/wp-content/uploads/2017/05/3P-Learning-ICO-Registration-Certificate.pdf))
-  * The United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission
-  * The United States Family Educational Rights and Privacy Act
+  * The United Kingdom Data Protection Act 2018 ([View 3P Learning’s ICO Registration Certificate](http://cdn.3plearning.com/wp-content/uploads/2019/06/Registration_Certificate.pdf))
+  * The United States Children’s Online Privacy Protection Act (“COPPA”) and Rule as administered by the Federal Trade Commission
+  * The United States Family Educational Rights and Privacy Act (“FERPA”)
   * The Alberta Freedom of Information and Protection of Privacy Act
-  * The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA)
+  * The Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”)
   * The Freedom of Information and Protection of Privacy Act (British Columbia) (“FIPPA”)
   * The Personal Information International Disclosure Protection Act (Nova Scotia) (“PIIDPA”).
   * The Municipal Freedom of Information and Protection of Privacy Act, Ontario (“MFIPPA”)
-  * The Student Online Personal Information Protection Act, California (SOPIPA)
-  * With effect from 25 May 2018, the EU General Data Protection Regulation (Regulation 2016/679).  
+  * The Student Online Personal Information Protection Act, California (“SOPIPA”)
+  * With effect from 25 May 2018, the EU General Data Protection Regulation (Regulation 2016/679)(“GDPR”).  
 
 
 
@@ -105,11 +105,12 @@ The information collected from Registrants, customers or prospective customers m
 
 
 
-  * to provide access to our products and services, or to provide quotes or offers for, and updates about, our products and services;
+  * to provide access to our products and services;
+  * to manage prospective purchases, purchased subscriptions and payments including to provide quotes or offers for, and updates about, our products and services;
   * to send a confirmation notice to the Registrant of the registration;
   * to administer and manage accounts, including password resetting, responding to questions raised by Registrants, to contact the Registrant about any problems with the Registrant’s account or conduct on the Site;  
 
-  * to send out a 3P Learning newsletter or emails about the Site including information about current events, changes, improvements, upgrades, and rules of the Site;  
+  * to send out a 3P Learning newsletter or emails about the Site including information about current events, changes, improvements, upgrades, new product development and rules of the Site;  
 
   * to publish the names of winners and high performers on the Site or in the 3P Learning newsletter and to provide results data for each Registrant or school class;  
 
@@ -129,6 +130,10 @@ Hall of Fame leaderboards : 3P Learning strives to provide a highly engaging Sit
 
  **The Site does not provide students with any means to communicate directly with each other. There are no chat rooms connected with the learning resources.**
 
+  *  __
+
+ **Access to, and use of customer feedback forums, such as 3P Learning Uservoice, is designed for use by parents, teachers and other contributors who are not legally minors.  **
+
 
 
 
@@ -136,17 +141,17 @@ Hall of Fame leaderboards : 3P Learning strives to provide a highly engaging Sit
 
   * __
 
-3P Learning will keep your personal information confidential and not sell or knowingly divulge your information to advertisers or any external third parties, unless:
+3P Learning will keep your personal information confidential and not sell or disclose your information to advertisers or any external third parties, unless:
 
 
 
-  * we believe, in good faith, that we are required to share your information with a third party in order to comply with law, regulation, legal process, court order or subpoena;  
+  * we believe, in good faith, that we are required to share your information with a third party such as a regulator or court in order to comply with law, regulation, legal process, court order or subpoena;  
 
   * to enforce our [Terms & Conditions](http://www.3plearning.com/terms) or the terms of the licence granted to access and use the Site;  
 
-  * the disclosure is to a third party that acts on our behalf or processes data on our behalf, such as a distributor of our products and services, the licensor or owner of a product or resource that we distribute, or to a contracted service provider;  
+  * the disclosure is to a third party that acts on our behalf, powers certain aspects of our Sites or processes data on our behalf, such as a distributor of our products and services, the licensor or owner of a product or resource that we distribute, or to a contracted service provider;  
 
-  * in connection with any transaction involving our companies or assets, where another party acquires ownership or operation of the Site, in which case that successor organization will be subject to this Privacy Policy; or  
+  * in connection with any transaction involving our companies or assets, where another party acquires ownership or operation of the Site, in which case that successor organization will be subject to the obligations in this Privacy Policy and any contractual representations we have entered into; or  
 
   * to protect the safety and security of our Registrants and our Site.  
 
@@ -154,11 +159,15 @@ Hall of Fame leaderboards : 3P Learning strives to provide a highly engaging Sit
 
   * __
 
-If third parties act on our behalf, we require them to hold, use and disclose your personal information in accordance with this Privacy Policy and applicable privacy obligations.
+If third parties act on our behalf, we require them to hold, use and disclose your personal information in accordance with this Privacy Policy, applicable privacy obligations and our contractual obligations
 
   *  __
 
-Generally we will only use your information within 3P Learning, however, sometimes we provide data on results to government education departments, peak bodies managing or representing schools, or schools themselves, especially in the case of School Customers, who use the features of our products (such as performance reporting tools) for educational / teaching purposes. We will require these third parties to comply strictly with our instructions and we will require that they not use the data for commercial purposes.
+Generally we will only use your information within 3P Learning, however, sometimes we provide data on results to government education departments, peak bodies managing or representing schools, or schools themselves, especially in the case of School Customers, who use the features of our products (such as performance reporting tools) for educational / teaching purposes. We will require these third parties to comply strictly with our instructions, use the information only for legitimate educational interests and not for any commercial purposes.
+
+  *  __
+
+We do not sell data to advertisers (whether personal, anonymous or aggregated). We do not use data to engage in targeted advertising to children and we do not create or build personal profiles of students other than for the purpose of supporting authorized educational/school purposes or as otherwise specifically authorized by a parent/student or school/educational institution customer.  
 
 
 
@@ -218,7 +227,7 @@ Registrants have a right to request a copy of the personal information we hold a
 
   *  __
 
-If you wish to receive a copy of this information or to update or correct information held about you, please address your request to the Privacy and Data Protection Officer (contact details below). We will endeavor to deal with your request promptly.
+If you wish to receive a copy of this information or to update or correct information held about you, please address your request to the Privacy and Data Protection Officer (contact details below). We will endeavour to deal with your request promptly.
 
 
 
@@ -227,7 +236,7 @@ If you wish to receive a copy of this information or to update or correct inform
 
   * __
 
-3P Learning is committed to information security. We will use all reasonable endeavours to keep the personal information we collect and use in a secure environment, and we have implemented technical, administrative and physical security measures that are designed to protect personal information from unauthorised access, disclosure, use and modification. As part of our privacy compliance processes we review these security procedures to consider appropriate new technology and methods.  
+3P Learning is committed to information security. We will use all reasonable endeavours to keep the personal information we collect and use in a secure environment, and we have implemented appropriate technical, administrative and physical security measures that are designed to protect personal information from unauthorised access, disclosure, use and modification. As part of our privacy compliance processes we review these security procedures to consider appropriate new technology and methods and engage independent third parties to review and audit aspects of our information security.  
 
   *  __
 
@@ -260,7 +269,7 @@ As we operate globally, we may on occasion allow your personal information to be
 
   * by companies within the 3P Group (i.e. 3P Learning Limited and its subsidiaries) for operational, administrative and compliance purposes;  
 
-  * by our sales, operational or global customer support teams (primarily, although not exclusively, located in Australia, the United Kingdom and Canada); or  
+  * by our sales, operational or global customer support teams (primarily, although not exclusively, located in Australia, the United Kingdom, the USA and Canada); or  
 
   * by one of our licensors (who owns, develops and hosts a particular product) or distributors (sales agents or resellers) who requires the information to set up, service or manage a customer account;  
 
@@ -295,7 +304,7 @@ In addition to personal information and results data, 3P Learning also collects 
 
   * __
 
-When agreeing to the Term and Conditions, Registrants grant us the right to use this anonymous information for our own purposes, such as the preparation of statistical reports or to change the content of our products.
+When agreeing to the Term and Conditions, Registrants grant us the right to use this anonymous information for our own purposes, such as the preparation of statistical reports or to improve and change the content of our products.
 
 
 
@@ -399,7 +408,7 @@ We take all reasonable contractual or other measures to protect your personal in
 
 
 
-The information below should be read in addition to our Privacy Policy, and outlines specific information relevant to certain aspects of our GDPR compliance. 3P Learning Ltd is registered with the Independent Commissioners Office, registration reference no: Z2188515. A copy of this certificate can be downloaded [here](http://cdn.3plearning.com/wp-content/uploads/2017/05/3P-Learning-ICO-Registration-Certificate.pdf). 3P Learning Ltd is a company registered in England and Wales with company registration no. 05919214 and is a trading company within the 3P Learning Group ([https://www.3plearning.com](https://www.3plearning.com/)). 
+The information below should be read in addition to our Privacy Policy, and outlines specific information relevant to certain aspects of our GDPR compliance. 3P Learning Ltd is registered with the Independent Commissioners Office, registration reference no: Z2188515. A copy of this certificate can be downloaded [here](https://cdn.3plearning.com/wp-content/uploads/2019/06/Registration_Certificate.pdf?_ga=2.257622722.81476279.1563455726-1494968852.1563455726). 3P Learning Ltd is a company registered in England and Wales with company registration no. 05919214 and is a trading company within the 3P Learning Group ([https://www.3plearning.com](https://www.3plearning.com/)). 
 
   * __
 
