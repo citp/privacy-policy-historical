@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602121328id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807205208id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Houston Classifieds - Privacy Policy
 
