@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516221811id_/https%3A//pennymacusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807162001id_/https%3A//www.pennymacusa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PennyMac
 
