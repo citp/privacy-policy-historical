@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad-mins.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607005524id_/http%3A//ad-mins.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-mins.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807144454id_/http%3A//ad-mins.com/privacy.php) for the most accurate reproduction.*
 
 # Ad-Mins
 
