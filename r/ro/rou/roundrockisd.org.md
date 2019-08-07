@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundrockisd.org privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301163336id_/https%3A//roundrockisd.org/about-rrisd/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundrockisd.org privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807040401id_/https%3A//roundrockisd.org/about-rrisd/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Round Rock ISD
 
