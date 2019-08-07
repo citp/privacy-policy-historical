@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618083040id_/https%3A//www.motortrendgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807030312id_/https%3A//www.motortrendgroup.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MotorTrend Group
 
