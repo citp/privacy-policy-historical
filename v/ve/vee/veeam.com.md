@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424142819id_/https%3A//www.veeam.com/privacy-policy.html%3Fad%3Din-text-link%23cookie) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807175509id_/https%3A//www.veeam.com/privacy-policy.html%3Fad%3Dcookie%23cookie) for the most accurate reproduction.*
 
 # Veeam: Privacy Policy – how we use your personal information, use of third party services, cookies
 
