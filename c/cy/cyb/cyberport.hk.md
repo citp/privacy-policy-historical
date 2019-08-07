@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberport.hk privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620011459id_/http%3A//cyberport.hk/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberport.hk privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807172939id_/https%3A//www.cyberport.hk/en/privacy_policy) for the most accurate reproduction.*
 
 # Hong Kong Cyberport Management Company Limited - Privacy Policy Statement
 
