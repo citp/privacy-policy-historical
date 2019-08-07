@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the supabets.co.za privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614134816id_/http%3A//supabets.co.za/Pages/Footer_Privacy/Guest) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supabets.co.za privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807073421id_/http%3A//www.supabets.co.za/Pages/Footer_Privacy/Guest) for the most accurate reproduction.*
 
 # Supabets
 
 [ ](https://web.archive.org/TPAutologin.aspx?Destinazione=ISLotto_ToWebClient)
+
+[ ](https://web.archive.org/TPAutologin.aspx?Destinazione=TurfSports)
 
 | 
 
@@ -18,6 +20,9 @@
       * To take any actions and measures, as may be required by law or by a governmental or regulatory body, to protect any confidential or disclosed information;
       * Not to force the discloser to disclose, reveal or exchange any information to us or our employees; and
       * To, on written request of the discloser, destroy, delete or remove from its records any confidential or disclosed information received from the discloser.
+
+Portapa 2 (Pty) Ltd t/a SUPABETS is licenced by Mpumalanga Gambling Board. Registration No. 2009/016148/07. 37 Fricker Road, Illovo, Johannesburg, Gauteng, 2196
+
 
 
 
