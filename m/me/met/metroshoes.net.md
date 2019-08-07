@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metroshoes.net privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126064550id_/https%3A//www.metroshoes.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroshoes.net privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807130848id_/https%3A//www.metroshoes.net/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -198,7 +198,7 @@ and such processing is carried out by automated means, you have the right to rec
 
 11.2 We use Google Analytics to analyse the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy/.[ The relevant cookies are: [identify cookies].]
 
-11.3 [We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies.] OR [We publish Google AdSense advertisements on our website. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. This behaviour tracking allows Google to tailor the advertisements that you see on other websites to reflect your interests (but we do not publish interest-based advertisements on our website).] You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: https://support.google.com/ads/answer/7395996.[ The relevant cookies are: [identify cookies].]
+11.3 [We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies.] OR [We publish Google AdSense advertisements on our website. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. This behaviour tracking allows Google to tailor the advertisements that you see on other websites to reflect your interests (but we do not publish interest-based advertisements on our website).] You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: https://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: https://support.google.com/ads/answer/7395996.[ The relevant cookies are: [identify cookies].]
 
 11.4 We use [identify service provider] to [specify service]. This service uses cookies for [specify purpose(s)]. You can view the privacy policy of this service provider at www.metroshoes.net.[ The relevant cookies are: [identify cookies].]
 
@@ -210,7 +210,7 @@ and such processing is carried out by automated means, you have the right to rec
 
 (b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);
 
-(c) http://www.opera.com/help/tutorials/security/cookies/ (Opera);
+(c) https://www.opera.com/help/tutorials/security/cookies/ (Opera);
 
 (d) https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);
 
