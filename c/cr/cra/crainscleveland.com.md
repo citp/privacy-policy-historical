@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crainscleveland.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512192645id_/https%3A//www.crainscleveland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainscleveland.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807081234id_/https%3A//www.crainscleveland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Crain's Cleveland Business
 
@@ -245,7 +245,7 @@ General Counsel
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
 Detroit, MI  48207  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4f4d56495e5c46575a534f7f5c4d5e5651115c5052)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e6e6c77687f7d67767b726e5e7d6c7f7770307d7173)
 
 313-446-6000
 
@@ -255,4 +255,4 @@ Crain Communications Limited
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
 Detroit, MI  48207  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8dfdffe4fbeceef4e5e8e1fdcdeeffece4e3a3eee2e0)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deaeacb7a8bfbda7b6bbb2ae9ebdacbfb7b0f0bdb1b3)
