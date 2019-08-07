@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the safelistpro.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921235821id_/http%3A//www.safelistpro.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelistpro.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807194918id_/http%3A//safelistpro.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
+  
 Privacy Policy  
 
 
