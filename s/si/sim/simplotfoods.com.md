@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplotfoods.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623194946id_/http%3A//www.simplot.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplotfoods.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807201012id_/http%3A//www.simplot.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for Website Visitors | J.R. Simplot Company
 
