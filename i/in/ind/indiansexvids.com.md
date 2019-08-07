@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexvids.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607121128id_/http%3A//indianpornoffers.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexvids.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807194009id_/http%3A//indianpornoffers.com/privacy/index.html) for the most accurate reproduction.*
 
 # Indian Porn Offers - Privacy Policy
 
