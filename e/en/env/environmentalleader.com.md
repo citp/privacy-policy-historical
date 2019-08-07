@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402090541id_/https%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807223211id_/https%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
 
 # Environmental Leader | Privacy Policy Disclosures
 
