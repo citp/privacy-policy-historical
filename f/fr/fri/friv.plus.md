@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friv.plus privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531211432id_/http%3A//www.friv.plus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friv.plus privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807173840id_/http%3A//www.friv.plus/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Friv.plus
 
