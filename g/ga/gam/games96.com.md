@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games96.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605214333id_/http%3A//www.freegames.net/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games96.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807142705id_/http%3A//www.freegames.net/page/2.html) for the most accurate reproduction.*
 
 # Free Games - Play Free Online Games - Privacy Policy
 
