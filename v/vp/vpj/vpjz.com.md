@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpjz.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517151252id_/http%3A//vpjz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpjz.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807202423id_/http%3A//vpjz.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Privacy Policy Full Version Download For PC Windows 7/8/10/XP
 
