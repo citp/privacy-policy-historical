@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mavenlink.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407184023id_/https%3A//www.mavenlink.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mavenlink.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807122918id_/https%3A//www.mavenlink.com/legal/privacy) for the most accurate reproduction.*
 
 # Mavenlink: Privacy Policy
 
