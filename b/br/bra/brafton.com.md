@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brafton.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417131034id_/https%3A//www.brafton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brafton.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807183609id_/https%3A//www.brafton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -42,6 +42,9 @@ Brafton does not share your personal information with third parties.  We may us
 
 
 
-The website has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+The website has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-Updated May 23rd 2018
+**Advertising Opt-Out**  
+If you browse our website, third parties may set cookies in your browser to enable targeted advertising. You can opt out of this advertising at [youronlinechoices.com](http://youronlinechoices.com/).
+
+Updated May 31st, 2019
