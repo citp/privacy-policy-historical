@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the currencio.co privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620001401id_/https%3A//currencio.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencio.co privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807202816id_/http%3A//currencio.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Currencio
 
-Market Cap: $277 299 747 510
+Market Cap: $298 689 266 474
 
-Coins: [1 760](https://web.archive.org/cryptocurrencies/) Exchanges: [218](https://web.archive.org/exchanges/) Market Cap: $277 299 747 510 Volume (24h): $49 157 186 871
+Coins: [1 760](https://web.archive.org/cryptocurrencies/) Exchanges: [218](https://web.archive.org/exchanges/) Market Cap: $298 689 266 474 Volume (24h): $60 754 278 112
 
 This Privacy Policy will inform you on:
 
