@@ -1,46 +1,28 @@
-<!--The following is the downloaded HTML source of the justprop.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606103811id_/http%3A//www.justprop.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justprop.com privacy policy that was archived on 2019-08-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190807195434id_/http%3A//www.justprop.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script type="text/javascript" src="/assets/bcdd975d/jquery.js"></script>
-<script type="text/javascript" src="/assets/bcdd975d/jui/js/jquery-ui.min.js"></script>
-<title>JustProp - About Us</title>
-<meta name="description" content="JustProp - About Us">
-<meta name="keywords" content="JustProp - About Us">
+<script type="text/javascript" src="/assets/916f0ea8/jquery.js"></script>
+<script type="text/javascript" src="/assets/916f0ea8/jui/js/jquery-ui.min.js"></script>
+<title>JustProp.com - About Us</title>
+<meta name="description" content="JustProp.com - About Us">
+<meta name="keywords" content="JustProp.com - About Us">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/themes/classic/css/jquery-ui.min.css?v=1472289739" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/font-awesome.min.css?v=1472289739" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/bootstrap.min.css?v=1472289739" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/bootstrap-multiselect.css?v=1460890621" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/circle.css?v=1461996574" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/bootstrap-slider.css?v=1467806285" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/jgallery.min.css?v=1461996574" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/lightbox.css?v=1472019347" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/style_home.css?v=1495535666" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/material.css?v=1470300436" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/owl.carousel.css?v=1483800687" type="text/css">
-<link rel="stylesheet" href="/themes/classic/css/owl.theme.css?v=1483800687" type="text/css">
-<script type="text/JavaScript">
-/*$(document).ready(function () {
-    $("body").on("contextmenu",function(e){
-        return false;
-    });
-function killCopy(e){
-return false
-}
-function reEnable(){
-return true
-}
-});*/
-document.onselectstart=new Function ("return false")
-if (window.sidebar){
-document.onmousedown=killCopy
-document.onclick=reEnable
-}
-</script>
+<link rel="stylesheet" href="/themes/classic/css/jquery-ui.min.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/font-awesome.min.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/bootstrap.min.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/bootstrap-multiselect.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/circle.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/bootstrap-slider.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/jgallery.min.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/lightbox.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/style_home.css?v=1503679401" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/material.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/owl.carousel.css?v=1501151426" type="text/css">
+<link rel="stylesheet" href="/themes/classic/css/owl.theme.css?v=1501151426" type="text/css">
 </head>
 <body>
 <div id="main" class="main-bg">
@@ -200,6 +182,8 @@ $("#headersearchkeyword").keyup(function()
 	var first = '';
 	var second = '';
 	var keyword = $("#headersearchkeyword").val();
+	var keyword1 = $("#headersearchkeyword").val();
+	
 	var dealtype = $("#dealtype :selected").attr('id');
 	var city = $("#selectcity :selected").text();
 	var cityVal = $("#selectcity :selected").val();
@@ -271,6 +255,15 @@ $("#headersearchkeyword").keyup(function()
             }
             };
         }
+	var postData = {"query":{
+				"match":{
+					"title":{
+						"query": ""+keyword1+"",
+						"operator": "and"
+						}
+					}
+				}
+			};
 		postData = JSON.stringify(postData);
 			$.ajax({
             		type: "POST",
@@ -316,9 +309,9 @@ $('#headersearchkeyword').keyup(function(e){
 });
 </script>
                     <div class="col-md-4 col-sm-10 col-xs-4 pull-right padding-none mobile_header"> 
-                    	<ul class="header-nav pull-right">
+			<ul class="header-nav pull-right">
 			 <li><a href="http://www.justprop.com/forum" class="heaer-add-listing">Forum</a></li>
-                             <li><a href="" class="heaer-add-listing" data-toggle="modal" data-target="#list-property-pop" onclick="openSellPropertyForm(7);">Sell Property</a></li>
+                             <li><a href="" class="heaer-add-listing">Start Discussion</a></li>
                            <li><a href="#" id="toggle-sidebar" class="dropdown-toggle side-nav-style">Menu<i class="fa fa-bars"></i></a></li>
                         </ul>
                           <span class="search_icon"><i class="fa fa-search"></i></span>
@@ -330,7 +323,7 @@ $('#headersearchkeyword').keyup(function(e){
 
 
 
-<section class="relative JustProp">
+<section class="relative JustProp.com">
 
 <div class="aboutnew-banner-div">
   <img class="info-banner" src="/themes/classic/images/privacy4.jpg">
@@ -342,7 +335,7 @@ $('#headersearchkeyword').keyup(function(e){
 <div class="container buyingcar_wrap abt_msg" id="section_top">
 <div class="row">
 <h1>Privacy Policy</h1>
-<strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, subscribe to our newsletter or post on forum. <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or justprop.com. You may, however, visit our site anonymously.<br><br>Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..<br><br><strong>What do we use your information for?</strong> <br><br>
+<strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, subscribe to our newsletter or post on forum. <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or JustProp.com. You may, however, visit our site anonymously.<br><br>Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..<br><br><strong>What do we use your information for?</strong> <br><br>
 Any of the information we collect from you may be used in one of the following ways: <br><br>
 <i class="fa fa-hand-o-right" aria-hidden="true"></i>To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>
 <i class="fa fa-hand-o-right" aria-hidden="true"></i>To process transactions<br>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
@@ -367,7 +360,7 @@ This online privacy policy applies only to information collected through our web
 
 <strong>Terms and Conditions</strong> 
 <br><br>
-Please also visit our <a href="/terms-of-use">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a ondragstart="return false;" href="http://www.justprop.com">www.justprop.com</a>
+Please also visit our <a href="/terms-of-use">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a ondragstart="return false;" href="http://www.JustProp.com">www.JustProp.com</a>
 <br><br>
 
 <strong>Your Consent</strong> 
@@ -424,8 +417,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 	<div class="col-md-4">
          <span class="footer-list-head">Follow us</span>
           <ul class="footer-list">
-		<li><a href="https://www.facebook.com/justprop/?fref=ts" target="_blank">Facebook</a></li>
-            	<li><a href="https://twitter.com/just_prop" target="_blank">Twitter</a></li>
+		<li><a href="#" target="_blank">Facebook</a></li>
+            	<li><a href="#" target="_blank">Twitter</a></li>
 	 </ul>
         </div>
         
@@ -439,8 +432,8 @@ If there are any questions regarding this privacy policy you may contact us usin
   <div class="col-sm-8 col-xs-12"><span>Copyright © 2016 <strong>JustProp.com</strong>- All Rights Reserved</span></div>
   <div class="col-sm-4  col-xs-12">
    <ul class="footer-social pull-right">
-    <li><a href="https://www.facebook.com/justprop/?fref=ts" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li>
-    <li><a href="https://www.facebook.com/justprop/?fref=ts" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="#" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="#" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
     </ul>
    </div>
    </div>
@@ -451,19 +444,29 @@ If there are any questions regarding this privacy policy you may contact us usin
 <img src="/themes/classic/images/homeloading.gif" alt="loading" style="position: fixed; left: 44%; top: 40%;z-index: 999;">
 </div>
 
-<script type="text/javascript" src="/themes/classic/js/bootstrap.min.js?v=1460890622"></script>
-<script type="text/javascript" src="/themes/classic/js/bootstrap-multiselect.js?v=1460890622"></script>
-<script type="text/javascript" src="/themes/classic/js/jquery.simple-sidebar.min.js?v=1460890622"></script>
-<script type="text/javascript" src="/themes/classic/js/jgallery.js?v=1460890622"></script>
-<script type="text/javascript" src="/themes/classic/js/jquery-scrolltofixed-min.js?v=1460890622"></script>
-<script type="text/javascript" src="/themes/classic/js/lightbox.js?v=1472019347"></script>
-<script type="text/javascript" src="/themes/classic/js/bootstrap-slider.js?v=1467806285"></script>
-<script type="text/javascript" src="/themes/classic/js/owl.carousel.js?v=1483800687"></script>
-<script type="text/javascript" src="/themes/classic/js/custom.js?v=1484224894"></script>
-<script type="text/javascript" src="/themes/classic/js/contact-function.js?v=1482916357"></script>
-<script type="text/javascript" src="/themes/classic/js/gmaps.js?v=1475217708"></script>
-<script type="text/javascript" src="/themes/classic/js/project.js?v=1494835278"></script>
+<script type="text/javascript" src="/themes/classic/js/bootstrap.min.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/bootstrap-multiselect.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/jquery.simple-sidebar.min.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/jgallery.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/jquery-scrolltofixed-min.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/lightbox.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/bootstrap-slider.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/owl.carousel.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/custom.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/contact-function.js?v=1501236302"></script>
+<script type="text/javascript" src="/themes/classic/js/gmaps.js?v=1501151426"></script>
+<script type="text/javascript" src="/themes/classic/js/project.js?v=1501151426"></script>
 <script type="text/javascript">
+function showDefault(){
+//$('.buttonforOut').show(); 
+//$('.buttonforIn').hide(); 
+}
+$(document).ready(function(){
+    $('.close_x, #gmail').on('click', function() {
+        $("#loginform").fadeOut();
+    });
+});
+
 var baseUrl = '';
 function redirectHeaderUrl(item)
 {
@@ -508,6 +511,75 @@ var catid = $('#sd_post_category').val();
       	   	});
 	}
 }
+$(document).ready(function(){
+        setTimeout(function () {
+            $('.form_area').toggleClass('active');
+        }, 2000);
+		$('.close_chat,.chat_button').on('click',function(){
+				$('.form_area').toggleClass('active')
+		})
+		$('.close_chat').on('click',function(){
+				$('.chat_button').addClass('visible')
+		})
+		$('.chat_button').on('click',function(){
+				$(this).removeClass('visible')
+		})
+	})
+function saveChatLead()
+{
+  	var error = false;
+	var name = $('#ch_name').val();
+	var email = $('#ch_email').val();
+        var phone = $('#ch_phone').val();
+	var projectid = $('#ch_project_id').val();
+	var type = $('#ch_project_type').val();
+
+	if(!name) {
+            $('#ch_name').attr('placeholder','Name Required');
+	    document.getElementById("ch_name").className += " formInvalid";
+            error = true;
+        }if(!email) {
+            $('#ch_email').attr('placeholder','Email Required');
+	    document.getElementById("ch_email").className += " formInvalid";
+            error = true;
+        }if(email) {
+            if(!validateEmail(email)){
+		$('#ch_email').val('');
+                $('#ch_email').attr('placeholder','Please enter a valid Email');
+	    	document.getElementById("ch_email").className += " formInvalid";
+            	error = true;
+            }
+        }if(!phone) {
+            $('#ch_phone').attr('placeholder','Phone Required');
+	    document.getElementById("ch_phone").className += " formInvalid";
+            error = true;
+        }if(phone) {
+            if(phone.length < 10){
+		$('#ch_phone').val('');
+                $('#ch_phone').attr('placeholder','Please enter a valid Phone No');
+	    	document.getElementById("ch_phone").className += " formInvalid";
+            	error = true;
+		}
+        }
+
+        if(!error){
+	$('#loader').show();
+	var source = 9;
+		$.ajax({
+        		type: 'POST',
+            		url: "/leads/main/main/saveLeadByProjectId",
+        		data: {name: name, email: email, phone: phone, projectid: projectid, type: type, source: source},
+			success: function(data) { 
+				$('#loader').hide();
+				if(data !== "error"){
+				$('#start_chat_form').hide();
+				$('#start_chat_reply').show();
+				}else
+				$('#start_chat_form').show();
+            		},
+    		});
+        }
+}
 </script>
 <style type="text/css">
 .count_height{position:relative}.header-inner.fixed{z-index:9!important}.black_back{position:fixed;height:100%;width:100%;background:rgba(0,0,0,.3);top:0;display:none}.black_back.open{display:block}.project-header .header-top-sec{position:fixed;top:0;width:100%;z-index:99}.project-detail-inner .wrap{float:left}@media(max-width:767px){span.search_icon{display:block;position:relative;z-index:101;padding:15px 8px}span.search_icon.back{background:#f5f5f5}.header-search-main{display:none;position:fixed;top:48px;background:#f5f5f5}.choosecity{margin:8px 10px 8px 0;height:40px}.form-width-search{width:100%;margin-top:0;margin-bottom:10px}.header-search-button-small{display:none}}@media(max-width:414px){.mobile_logo{width:140px}.header-logo>img{max-width:130px}}
@@ -524,7 +596,7 @@ var catid = $('#sd_post_category').val();
 				}
 
 				if(type == "post" && typeof originalOptions.data === "object"){
-					options.data = $.extend(originalOptions.data, { "YII_CSRF_TOKEN": "b2e71e5f284ee8863d8ade033993a5440ba19b74" });
+					options.data = $.extend(originalOptions.data, { "YII_CSRF_TOKEN": "b0af4478052bd944f9ddcb7fe17beaf05a0c8094" });
 					options.data = $.param(options.data);
 				}
 			});
