@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the palantir.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607090127id_/https%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palantir.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807234302id_/https%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.*
 
 # Palantir's Privacy and Security Statement | Palantir
 
-> Last modified: May 2018
+> Last Reviewed: July 2019
 
 ### The Highlights:
 
