@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the wvxu.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618072932id_/http%3A//www.cinradio.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvxu.org privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807060839id_/http%3A//www.cinradio.org/privacy) for the most accurate reproduction.*
 
 # Cincinnati Public Radio
 
 ### Privacy Policy and Terms of Use:
 
-[If you are looking to subscribe to our email lists, click here](https://web.archive.org/web/20190618072932id_/https://www.cinradio.org/subscribe/)
+[If you are looking to subscribe to our email lists, click here](https://web.archive.org/web/20190807060839id_/https://www.cinradio.org/subscribe/)
 
-[If you are looking to unsubscribe from our email lists, click here](https://web.archive.org/web/20190618072932id_/https://www.cinradio.org/unsubscribe/)
+[If you are looking to unsubscribe from our email lists, click here](https://web.archive.org/web/20190807060839id_/https://www.cinradio.org/unsubscribe/)
 
 You have come to this page from a website or digital service produced by Cincinnati Public Radio (CPR). We recognize the importance of privacy to visitors to any CPR website, and we want you to know how we collect and use information about you when you visit our websites. This privacy policy explains what type of information is collected from you when you visit this and other CPR websites, and how we may use that information. 
 
-**[CINCINNATI PUBLIC RADIO PRIVACY POLICY](https://web.archive.org/web/20190618072932id_/https://www.cinradio.org/docs/CPR%20Privacy%20Policy.pdf) \- EFFECTIVE DATE JUNE 30, 2018**
+**[CINCINNATI PUBLIC RADIO PRIVACY POLICY](https://web.archive.org/web/20190807060839id_/https://www.cinradio.org/docs/CPR%20Privacy%20Policy.pdf) \- EFFECTIVE DATE JUNE 30, 2018**
 
 Welcome to the CINCINNATI PUBLIC RADIO Online Privacy Policy ("Privacy Policy"). This Privacy Policy describes the information Cincinnati Public Radio, Inc. (collectively, "CINCINNATI PUBLIC RADIO," "we" or "us") collect or allow others to collect from you and your computer or device when you use cinradio.org or other sites, our mobile apps other applications, email newsletters, digital platforms or other interactive services provided by CINCINNATI PUBLIC RADIO that link to or refer to this Privacy Policy (collectively, the "CINCINNATI PUBLIC RADIO Services" or "our Services"). This Privacy Policy also explains how that information may be used and shared and the choices you have to limit or prevent certain uses or sharing of that information. Please note that this Privacy Policy does not govern websites and services of third parties that may link to or be linked to from the CINCINNATI PUBLIC RADIO Services.
 
@@ -192,4 +192,4 @@ Our Services are controlled and operated within the United States. Any informati
 
 **NOTICE TO EU RESIDENTS**
 
-Our handling of information about EU residents is governed by the [**CINCINNATI PUBLIC RADIO Privacy Notice for EU Residents**](https://web.archive.org/web/20190618072932id_/https://www.cinradio.org/docs/CPR%20Privacy%20Policy%20for%20EU.pdf), effective May 25, 2018. This Privacy Policy does not apply to EU residents. 
+Our handling of information about EU residents is governed by the [**CINCINNATI PUBLIC RADIO Privacy Notice for EU Residents**](https://web.archive.org/web/20190807060839id_/https://www.cinradio.org/docs/CPR%20Privacy%20Policy%20for%20EU.pdf), effective May 25, 2018. This Privacy Policy does not apply to EU residents. 
