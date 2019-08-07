@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beerandbrewing.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524215215id_/https%3A//beerandbrewing.com/cbbinfo/2VXHQ1EPEk22A0IWMams6G/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beerandbrewing.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807020912id_/https%3A//beerandbrewing.com/cbbinfo/2VXHQ1EPEk22A0IWMams6G/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Craft Beer & Brewing
 
