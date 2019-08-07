@@ -1,64 +1,69 @@
-<!--The following is the downloaded HTML source of the dorcousa.com privacy policy that was archived on 2018-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181126091147id_/https%3A//www.dorcousa.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dorcousa.com privacy policy that was archived on 2019-08-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190807153355id_/https%3A//www.dorcousa.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
     <title>Dorco USA – Privacy Policy</title>
     <meta name="keywords" content="dorco, Dorco USA, dorco shai, dorco pace, privacy policy, men’s razors, women’s razors, razors, shave, shaving systems, blade"><meta name="description" content="Read Dorco USA Privacy Policy. Dorco USA is a leading distributor of razors, shaving systems, and refill cartridges for men and women."><link rel="canonical" href="https://www.dorcousa.com/privacy-policy/">
     
      
-    <link href="https://cdn7.bigcommerce.com/s-234ee/product_images/dorcofavicon.ico" rel="shortcut icon">
+    <meta property="og:image" content="https://cdn11.bigcommerce.com/s-234ee/product_images/uploaded_images/logo.v2.png?t=1553102877&amp;_ga=2.117984521.1829384776.1553101537-543324443.1550183555"> 
+    <link href="https://cdn11.bigcommerce.com/s-234ee/product_images/dorcofavicon.ico" rel="shortcut icon">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="theme-color" content="#17b8e6">
-    <link data-stencil-stylesheet="" href="https://cdn7.bigcommerce.com/s-234ee/stencil/8e4e7f40-cbf9-0136-5719-191d946b9138/e/9a4d9e90-5ab2-0136-f8b4-0242ac11000e/css/theme-a4e9bbf0-cbf9-0136-89d7-2ba71dbf9472.css" rel="stylesheet">
-    <link href="//fonts.googleapis.com/css?family=Lato:400,700,900|Montserrat:400|Karla:400" rel="stylesheet">
-    <script type="text/javascript" async="" src="https://a.klaviyo.com/media/js/analytics/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W5P69QN"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://cdn7.bigcommerce.com/s-234ee/stencil/8e4e7f40-cbf9-0136-5719-191d946b9138/e/9a4d9e90-5ab2-0136-f8b4-0242ac11000e/modernizr-custom.js"></script>
+    <link data-stencil-stylesheet="" href="https://cdn11.bigcommerce.com/s-234ee/stencil/c76cb510-5323-0137-270e-0242ac110009/e/d62de1d0-79af-0137-1d65-0242ac11002d/css/theme-57d2dcd0-79a3-0137-35b7-0242ac11002b.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900|Montserrat:400|Karla:400&amp;display=swap" rel="stylesheet">
+    <script type="text/javascript" async="" src="https://a.klaviyo.com/media/js/analytics/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W5P69QN"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://cdn11.bigcommerce.com/s-234ee/stencil/c76cb510-5323-0137-270e-0242ac110009/e/d62de1d0-79af-0137-1d65-0242ac11002d/modernizr-custom.js"></script>
 
     <!-- Start Tracking Code for analytics_facebook -->
 
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-fbq('set', 'autoConfig', 'false', '161395464699790');
-fbq('init', '161395464699790');
-fbq('set', 'agent', 'plbigcommerce1.2', '161395464699790');
+fbq('set', 'autoConfig', 'false', '1668216176810146');
+fbq('init', '1668216176810146');
+fbq('set', 'agent', 'plbigcommerce1.2', '1668216176810146');
 
-window.onload=function() {
-    var m,
-        productIdMap = {},
+window.onload = function() {
+    var productIdMap = {},
         productIdsOnPage = getUniqueProductIdsOnPage(),
-        urlParams = decodeURIComponent(window.location.search);
+        pathName = window.location.pathname;
 
     fbq('track', 'PageView');
 
     // Search events start -- only fire if the shopper lands on the /search.php page
-    if (window.location.pathname.indexOf('/search.php') !== -1) {
-        if ((m = /search_query=(.*)&/.exec(urlParams)) !== null) {
-            fbq('track', 'Search', { content_ids: productIdsOnPage, content_type: 'product_group', search_string: m[1] });
-        }
+    if (pathName.indexOf('/search.php') === 0 && getUrlParameter('search_query')) {
+        fbq('track', 'Search', {
+            content_ids: productIdsOnPage,
+            search_string: getUrlParameter('search_query')
+        });
     }
     // Search events end
 
     // Wishlist events start -- only fire if the shopper attempts to add an item to their wishlist
-    if (window.location.pathname.indexOf('/wishlist.php') !== -1 && (m = /added_product_id=(.\d)/.exec(urlParams)) !== null) {
-        fbq('track', 'AddToWishlist', { content_ids: [m[1]], content_type: 'product_group' });
+    if (pathName.indexOf('/wishlist.php') === 0 && getUrlParameter('added_product_id')) {
+        fbq('track', 'AddToWishlist', {
+            content_ids: [getUrlParameter('added_product_id')]
+        });
     }
     // Wishlist events end
 
     // Lead events start -- only fire if the shopper subscribes to newsletter
-    if (window.location.pathname.indexOf('/subscribe.php') !== -1 && (m = /result=success/.exec(urlParams)) !== null) {
+    if (pathName.indexOf('/subscribe.php') === 0 && getUrlParameter('result') === 'success') {
         fbq('track', 'Lead', {});
     }
     // Lead events end
 
     // Registration events start -- only fire if the shopper registers an account
-    if (window.location.pathname.indexOf('/login.php') !== -1 && (m = /action=account_created/.exec(urlParams)) !== null) {
+    if (pathName.indexOf('/login.php') === 0 && getUrlParameter('action') === 'account_created') {
         fbq('track', 'CompleteRegistration', {});
     }
     // Registration events end
 
     // Checkout events start -- only fire if the shopper lands on a /checkout* page
-    if(window.location.pathname.indexOf('/checkout') !== -1) {
-        if (urlParams.indexOf('process_payment') !== -1) {
+    if (pathName === '/checkout.php' || /^\/(embedded-)?checkout$/.test(pathName)) {
+        window.sessionStorage.setItem('fb_conversion_key_', 'true');
+
+        if (getUrlParameter('action') === 'process_payment') {
             fbq('track', 'AddPaymentInfo');
         } else {
             fbq('track', 'InitiateCheckout');
@@ -78,19 +83,30 @@ window.onload=function() {
             return acc;
         }, []);
     }
+
+    function getUrlParameter(name) {
+        var cleanName = name.replace(/[\[]/, '\[').replace(/[\]]/, '\]');
+        var regex = new RegExp('[\?&]' + cleanName + '=([^&#]*)');
+        var results = regex.exec(window.location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }
 }
 </script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=161395464699790&ev=PageView&noscript=1&a=plbigcommerce1.2"/></noscript>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1668216176810146&ev=PageView&noscript=1&a=plbigcommerce1.2"/></noscript>
 
 <!-- End Tracking Code for analytics_facebook -->
 
 <!-- Start Tracking Code for analytics_googleanalytics -->
+
+<script src="https://code.jquery.com/jquery-1.8.3.min.js" integrity="sha256-YcbK69I5IXQftf/mYD8WY0/KmEDCv1asggHpJk1trM8=" crossorigin="anonymous"></script>
+
 
 <script type="text/javascript">
 !function(e,a,t,n,r){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=a.getElementsByTagName(t)[0],c=a.createElement(t);c.async=!0,c.src="https://www.googletagmanager.com/gtm.js?id=GTM-W5P69QN",i.parentNode.insertBefore(c,i)}(window,document,"script","dataLayer");var pageTracker=function(e){var a,t=[];return{_addTrans:function(e,t,n,r,i){a={id:e,affiliation:t,revenue:n,tax:r,shipping:i}},_addItem:function(e,a,n,r,i,c){t.push({id:a,name:n,brand:"Dorco",variant:r,price:i,quantity:c})},_trackTrans:function(){e.push({event:"purchase",pageType:"Order Confirmation",ecommerce:{purchase:{actionField:a,products:t}}})}}}(window.dataLayer);
 </script>
 <meta name="google-site-verification" content="HsSMFcAUxJYf_AmRWGB2tSe6DV3ThDYGrquqj1Y7thk">
 <meta name="google-site-verification" content="fxRkx3dNSTOOqFNCNJlW0VRsvl5m_SslNyudCa9NPEs">
+<meta name="google-site-verification" content="IjrIo7Ows_tyTh-BpDFuf7bELlMrfGlL1N-_9ZmGTmA">
 
 <!-- Addrexx Code -->
 <script>
@@ -105,165 +121,146 @@ _cc_s.src = (("http:" === document.location.protocol) ? "http:" : "https:") + "/
 loadaddrexx();
 }
 
-
-
-
 function actionStep3() {
-	if( ! jQuery('#CheckoutStepBillingAddress').hasClass('ExpressCheckoutBlockCollapsed') ) {
-		var products = [];
-		var gaVar = {};
-		gaVar = {
-			event: 'checkout',
-		    pageType: 'Checkout',
-		    ecommerce: {
-			    checkout: {
-				    products: products,
-				    actionField: {
-					    step: 3
-				    }
-			    }
-		    }
-	    };
-	    dataLayer.push(gaVar);
-	    
-	    if ( jQuery('#checkout_type_register:checked').length > 0 ) {
-		    var gaVar = {};
-		    gaVar = { event: 'accountCreated', pageType: 'Checkout' };
-		    dataLayer.push(gaVar);
-	    }
-	    
-	}
+var products = [];
+var gaVar = {};
+gaVar = {
+event: 'checkout',
+   pageType: 'Checkout',
+   ecommerce: {
+   checkout: {
+   products: products,
+   actionField: {
+   step: 3,
+                                            test: test
+   }
+   }
+   }
+   };
+   dataLayer.push(gaVar);
+   
+   var gaVar = {};
+   gaVar = { event: 'accountCreated', pageType: 'Checkout' };
+   dataLayer.push(gaVar);
 }
 
 function actionStep4() {
-	if( ! jQuery('#CheckoutStepShippingProvider').hasClass('ExpressCheckoutBlockCollapsed') ) {
-		var gaVar = {};
-		var products = [];
-		gaVar = {
-			event: 'checkout',
-		    pageType: 'Checkout',
-		    ecommerce: {
-			    checkout: {
-				    products: products,
-				    actionField: {
-					    step: 4
-				    }
-			    }
-		    }
-	    };
-	    dataLayer.push(gaVar);
-	}
+var gaVar = {};
+var products = [];
+gaVar = {
+event: 'checkout',
+   pageType: 'Checkout',
+   ecommerce: {
+   checkout: {
+   products: products,
+   actionField: {
+   step: 4
+   }
+   }
+   }
+   };
+   dataLayer.push(gaVar);
 }
 
 function actionStep5() {
-	if( ! jQuery('#CheckoutStepConfirmation').hasClass('ExpressCheckoutBlockCollapsed') ) {
-		var gaVar = {};
-		var products = [];
-		gaVar = {
-			event: 'checkout',
-		    pageType: 'Checkout',
-		    ecommerce: {
-			    checkout: {
-				    products: products,
-				    actionField: {
-					    step: 5
-				    }
-			    }
-		    }
-	    };
-	    dataLayer.push(gaVar);
-    }
+var gaVar = {};
+var products = [];
+gaVar = {
+event: 'checkout',
+   pageType: 'Checkout',
+   ecommerce: {
+   checkout: {
+   products: products,
+   actionField: {
+   step: 5
+   }
+   }
+   }
+   };
+   dataLayer.push(gaVar);
 }
 
 function actionStep6() {
-	if( ! jQuery('#CheckoutStepPaymentDetails').hasClass('ExpressCheckoutBlockCollapsed') ) {
-		var gaVar = {};
-		var products = [];
-		gaVar = {
-			event: 'checkout',
-		    pageType: 'Checkout',
-		    ecommerce: {
-			    checkout: {
-				    products: products,
-				    actionField: {
-					    step: 6
-				    }
-			    }
-		    }
-	    };
-	    dataLayer.push(gaVar);	
-	    if( jQuery("#join_mailing_list").is(':checked') ) {
-		   var gaVar = {};
-		   gaVar = { event: 'newsletterSignup', pageType: 'Checkout' };
-		   dataLayer.push(gaVar); 
-	    }
-    }
+var gaVar = {};
+var products = [];
+gaVar = {
+event: 'checkout',
+   pageType: 'Checkout',
+   ecommerce: {
+   checkout: {
+   products: products,
+   actionField: {
+   step: 6
+   }
+   }
+   }
+   };
+   dataLayer.push(gaVar);
+   
+   if( jQuery("#receiveUpdates").is(':checked') ) {
+  var gaVar = {};
+  gaVar = { event: 'newsletterSignup', pageType: 'Checkout' };
+  dataLayer.push(gaVar); 
+   }
 }
 
 window.onload = function() {
     if (window.jQuery) {  
         // jQuery is loaded  
        	var checkout_page = jQuery('html').attr('id');
-	   	if( checkout_page == 'checkout-page' ) {
-	   		var products = [];
-	   		var gaVar = {};
-	   		
-	   		gaVar = {
-		   		event: 'checkout',
-			    pageType: 'Checkout',
-			    ecommerce: {
-				    checkout: {
-					    products: products,
-					    actionField: {
-						    step: 2
-					    }
-				    }
-			    }
-		    };
-		    dataLayer.push(gaVar);  
-		    
-		    
-		    jQuery(document).on('click', '#CreateAccountButton', function(e){
-			    setTimeout(actionStep3, 3000);
-			});
-			
-			jQuery(document).on('click', '#CheckoutStepBillingAddress .ChangeLink', function(e){
-			    setTimeout(actionStep3, 3000);
-			});
-			
-			
-			jQuery(document).on('click', '#CheckoutStepBillingAddress .billingButton', function(e){
-				setTimeout(actionStep4, 3000);
-			});
-			jQuery(document).on('click', '#CheckoutStepShippingProvider .ChangeLink', function(e){
-			    setTimeout(actionStep4, 3000);
-			});
-			
-			jQuery(document).on('click', '#CheckoutStepShippingProvider .btn', function(e){
-				setTimeout(actionStep5, 3000);
-			});
-			jQuery(document).on('click', '#CheckoutStepConfirmation .ChangeLink', function(e){
-				setTimeout(actionStep5, 3000);
-			});
-			
-			jQuery(document).on('click', '#CheckoutStepConfirmation #bottom_payment_button', function(e){
-				setTimeout(actionStep6, 3000);
-			});
-			
-			
-			
-			jQuery(document).on('click', '#LoginButton', function(e){
-				var gaVar = {};
-				gaVar = {
-					event: 'accountLogin',
-				    pageType: 'Checkout'
-			    };
-			    dataLayer.push(gaVar);
-				    
-			});
-	   		
-		} 
-    } 	
+  if( checkout_page == 'checkout-page' ) {
+  var products = [];
+  var gaVar = {};
+ 
+  gaVar = {
+  event: 'checkout',
+   pageType: 'Checkout',
+   ecommerce: {
+   checkout: {
+   products: products,
+   actionField: {
+   step: 2
+   }
+   }
+   }
+   };
+   dataLayer.push(gaVar);  
+   
+jQuery(document).on('click', '#checkout-customer-returning #checkout-customer-continue', function(e){
+var gaVar = {};
+gaVar = {
+event: 'accountLogin',
+   pageType: 'Checkout'
+   };
+   dataLayer.push(gaVar);
+   
+});
+jQuery(document).on('click', '#checkout-customer-guest #checkout-customer-continue', function(e){
+   setTimeout(actionStep3, 3000);
+});
+jQuery(document).on('click', '#checkout-billing-continue', function(e){
+setTimeout(actionStep4, 3000);
+});
+jQuery(document).on('click', '#checkout-shipping-continue', function(e){
+setTimeout(actionStep5, 3000);
+});
+jQuery(document).on('click', '#checkout-payment-continue', function(e){
+setTimeout(actionStep6, 3000);
+});
+jQuery(document).on('click', '.stepHeader', function(e){
+var step = jQuery(this).parent().attr('step');
+switch(step) {
+case 'billing' :
+setTimeout(actionStep4, 3000);
+break;
+case 'shipping' :
+setTimeout(actionStep5, 3000);
+break;
+}
+});
+ 
+} 
+    }
 }
 </script>
 
@@ -272,8 +269,11 @@ window.onload = function() {
 <!-- End Tracking Code for analytics_googleanalytics -->
 
 
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/shared/bower/checkout-sdk/dist/checkout-button.umd-165446dd1b865a9c314ea950307e8536bd6c6974.js" defer=""></script>
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/r-4efb4dd5e4991a55f21fd77f3b4e71bd9d87d287/vendor/bower_components/braintree-web/index.js" defer=""></script>
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/r-4efb4dd5e4991a55f21fd77f3b4e71bd9d87d287/javascript/braintree.js" defer=""></script>
 <script type="text/javascript">
-var BCData = {};
+var BCData = {"csrf_token":"1f616f3573a61f1c939ae97dbff0070dd820fff622738f5c3f3caf5518c6bbf3"};
 </script>
 <script src="https://conduit.mailchimpapp.com/js/stores/store_7sdzfuxybdwii851cy95/conduit.js" async=""></script>
     
@@ -392,7 +392,7 @@ function MM_swapImage() { //v3.0
         <div class="container">
             <div class="row mx-0">
                 <div class="upper-menu upper-menu-left col px-0">
-                    Shipping is FREE in U.S.*
+                    Shipping is FREE in U.S. for orders over $25*
                 </div>
                 <div class="upper-menu upper-menu-right col px-0">
                     <ul class="navbar-nav pull-right">
@@ -410,7 +410,7 @@ function MM_swapImage() { //v3.0
                 <div class="main-menu-logo col px-0">
                     <a href="https://www.dorcousa.com/">
         <div class="header-logo-image-container">
-            <img class="header-logo-image lazyload" data-sizes="auto" src="https://cdn7.bigcommerce.com/s-234ee/stencil/8e4e7f40-cbf9-0136-5719-191d946b9138/e/9a4d9e90-5ab2-0136-f8b4-0242ac11000e//img/loading.svg" data-src="https://cdn7.bigcommerce.com/s-234ee/images/stencil/original/logo_1541079341__63115.original.png" alt="Dorco USA" title="Dorco USA">
+            <img class="header-logo-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-234ee/stencil/c76cb510-5323-0137-270e-0242ac110009/e/d62de1d0-79af-0137-1d65-0242ac11002d/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-234ee/images/stencil/250x76/dorconewlogo_1554491596__55041.original.jpg" alt="Dorco USA" title="Dorco USA">
         </div>
 </a>
                 </div>
@@ -484,6 +484,19 @@ has-dropdown-menu
 <li class="nav-item nav-menu-item
 has-dropdown-menu
 ">
+<a href="https://www.dorcousa.com/sales/" class="nav-link">Sales</a>
+<ul class="dropdown-menu">
+    <li class="nav-item">
+        <a href="https://www.dorcousa.com/sale-items-men/" class="nav-link">Men's Sale Items</a>
+            </li>
+    <li class="nav-item">
+        <a href="https://www.dorcousa.com/sale-items-women/" class="nav-link">Women's Sale Items</a>
+            </li>
+</ul>
+</li>
+<li class="nav-item nav-menu-item
+has-dropdown-menu
+">
 <a href="https://www.dorcousa.com/combo-sets/" class="nav-link">Gifts &amp; Sets</a>
 <ul class="dropdown-menu">
     <li class="nav-item">
@@ -494,22 +507,6 @@ has-dropdown-menu
             </li>
     <li class="nav-item">
         <a href="https://www.dorcousa.com/gifts/" class="nav-link">Gifts</a>
-            </li>
-</ul>
-</li>
-<li class="nav-item nav-menu-item
-has-dropdown-menu
-">
-<a href="https://www.dorcousa.com/sales/" class="nav-link">Sales</a>
-<ul class="dropdown-menu">
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/student-discount/" class="nav-link">Student Discount</a>
-            </li>
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/sale-items-men/" class="nav-link">Men's Sale Items</a>
-            </li>
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/sale-items-women/" class="nav-link">Women's Sale Items</a>
             </li>
 </ul>
 </li>
@@ -652,6 +649,18 @@ has-dropdown-menu
 </ul>
 </li>
 <li class="nav-item nav-menu-item has-dropdown-menu">
+    <a href="https://www.dorcousa.com/sales/" class="nav-link">Sales</a>
+    <div class="dropdown-toggle-button"><span class="dropdown-toggle-button-icon"></span></div>
+<ul class="dropdown-menu">
+    <li class="nav-item">
+        <a href="https://www.dorcousa.com/sale-items-men/" class="nav-link">Men's Sale Items</a>
+            </li>
+    <li class="nav-item">
+        <a href="https://www.dorcousa.com/sale-items-women/" class="nav-link">Women's Sale Items</a>
+            </li>
+</ul>
+</li>
+<li class="nav-item nav-menu-item has-dropdown-menu">
     <a href="https://www.dorcousa.com/combo-sets/" class="nav-link">Gifts &amp; Sets</a>
     <div class="dropdown-toggle-button"><span class="dropdown-toggle-button-icon"></span></div>
 <ul class="dropdown-menu">
@@ -663,21 +672,6 @@ has-dropdown-menu
             </li>
     <li class="nav-item">
         <a href="https://www.dorcousa.com/gifts/" class="nav-link">Gifts</a>
-            </li>
-</ul>
-</li>
-<li class="nav-item nav-menu-item has-dropdown-menu">
-    <a href="https://www.dorcousa.com/sales/" class="nav-link">Sales</a>
-    <div class="dropdown-toggle-button"><span class="dropdown-toggle-button-icon"></span></div>
-<ul class="dropdown-menu">
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/student-discount/" class="nav-link">Student Discount</a>
-            </li>
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/sale-items-men/" class="nav-link">Men's Sale Items</a>
-            </li>
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/sale-items-women/" class="nav-link">Women's Sale Items</a>
             </li>
 </ul>
 </li>
@@ -755,7 +749,7 @@ has-dropdown-menu
                 <div class="main-menu-logo col px-0">
                     <a href="https://www.dorcousa.com/">
         <div class="header-logo-image-container">
-            <img class="header-logo-image lazyload" data-sizes="auto" src="https://cdn7.bigcommerce.com/s-234ee/stencil/8e4e7f40-cbf9-0136-5719-191d946b9138/e/9a4d9e90-5ab2-0136-f8b4-0242ac11000e//img/loading.svg" data-src="https://cdn7.bigcommerce.com/s-234ee/images/stencil/original/logo_1541079341__63115.original.png" alt="Dorco USA" title="Dorco USA">
+            <img class="header-logo-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-234ee/stencil/c76cb510-5323-0137-270e-0242ac110009/e/d62de1d0-79af-0137-1d65-0242ac11002d/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-234ee/images/stencil/250x76/dorconewlogo_1554491596__55041.original.jpg" alt="Dorco USA" title="Dorco USA">
         </div>
 </a>
                 </div>
@@ -829,6 +823,19 @@ has-dropdown-menu
 <li class="nav-item nav-menu-item
 has-dropdown-menu
 ">
+<a href="https://www.dorcousa.com/sales/" class="nav-link">Sales</a>
+<ul class="dropdown-menu">
+    <li class="nav-item">
+        <a href="https://www.dorcousa.com/sale-items-men/" class="nav-link">Men's Sale Items</a>
+            </li>
+    <li class="nav-item">
+        <a href="https://www.dorcousa.com/sale-items-women/" class="nav-link">Women's Sale Items</a>
+            </li>
+</ul>
+</li>
+<li class="nav-item nav-menu-item
+has-dropdown-menu
+">
 <a href="https://www.dorcousa.com/combo-sets/" class="nav-link">Gifts &amp; Sets</a>
 <ul class="dropdown-menu">
     <li class="nav-item">
@@ -839,22 +846,6 @@ has-dropdown-menu
             </li>
     <li class="nav-item">
         <a href="https://www.dorcousa.com/gifts/" class="nav-link">Gifts</a>
-            </li>
-</ul>
-</li>
-<li class="nav-item nav-menu-item
-has-dropdown-menu
-">
-<a href="https://www.dorcousa.com/sales/" class="nav-link">Sales</a>
-<ul class="dropdown-menu">
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/student-discount/" class="nav-link">Student Discount</a>
-            </li>
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/sale-items-men/" class="nav-link">Men's Sale Items</a>
-            </li>
-    <li class="nav-item">
-        <a href="https://www.dorcousa.com/sale-items-women/" class="nav-link">Women's Sale Items</a>
             </li>
 </ul>
 </li>
@@ -929,7 +920,7 @@ has-dropdown-menu
                 <a href="https://www.dorcousa.com/" class="breadcrumb-label">Home</a>
         </li>
         <li class="breadcrumb is-active">
-                <span class="breadcrumb-label">Privacy Policy</span>
+                <a href="https://www.dorcousa.com/privacy-policy/" class="breadcrumb-label">Privacy Policy</a>
         </li>
 </ul>
 
@@ -977,14 +968,13 @@ has-dropdown-menu
                 </div>
             </div>
         </div>
-        <div><div class="press-home-logo"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo1.jpg" width="100%"></div>
-        	<div class="press-home-logo"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo2.jpg" width="100%"></div>
-        	<div class="press-home-logo"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo3.jpg" width="100%"></div>
-        	<div class="press-home-logo"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo4.jpg" width="100%"></div>
-        	<div class="press-home-logo"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo5.jpg" width="100%"></div>
-        	<div class="press-home-logo"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo6.jpg" width="100%"></div>
-            <div class="press-home-logo"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo7b.jpg" width="100%"></div>
-        	<div class="press-home-logo"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo8.jpg" width="100%"></div>
+        <div><div class="press-home-logo"><img alt="ABC logo for Dorco press" src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo1.jpg" width="100%"></div>
+        	<div class="press-home-logo"><img alt="Business Insider logo for Dorco press" src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo2.jpg" width="100%"></div>
+        	<div class="press-home-logo"><img alt="CBS logo for Dorco press" src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo3.jpg" width="100%"></div>
+        	<div class="press-home-logo"><img alt="Today Show logo for Dorco press" src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo4.jpg" width="100%"></div>
+        	<div class="press-home-logo"><img alt="The Telegraph logo for Dorco press" src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo6.jpg" width="100%"></div>
+            <div class="press-home-logo"><img alt="People Magazine logo for Dorco press" src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo7b.jpg" width="100%"></div>
+        	<div class="press-home-logo"><img alt="Wall Street Journal logo for Dorco press" src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/press-logo8.jpg" width="100%"></div>
         </div>
   </div>
 </div>
@@ -995,7 +985,7 @@ has-dropdown-menu
 	        <form id="email_signup" class=" klaviyo_bare_embed_HRCKud" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
             <style>
             .klaviyo_messages .error_message {
-              color: #ef0d0d;
+              color: #87B940;
             }
             </style>
             <input type="hidden" name="g" value="HRCKud">
@@ -1072,11 +1062,11 @@ has-dropdown-menu
                 <div class="col-lg-4">
                     <div class="footer-menu">
                         <ul>
-                            <li><a href="http://shavetalks.com/" target="_blank">Shave Talks</a></li>
+                            <li><a href="https://shavetalks.com/" target="_blank">Shave Talks</a></li>
                             <li><a href="https://dorcousa.zendesk.com/hc/en-us">FAQ</a></li>
                             <li><a href="https://dorcousa.zendesk.com/hc/en-us/requests/new">Contact Us</a></li>
                             <li><a href="/affiliate-program/">Affiliate Program</a></li>
-                            <li><a href="http://dorcousa.referralcandy.com/" target="_blank">Referral Program</a></li>
+                            <li><a href="https://dorcousa.referralcandy.com/" target="_blank">Referral Program</a></li>
                             <li><a href="/return-policy/">Return Policy</a></li>
                         </ul>
                     </div>
@@ -1101,7 +1091,7 @@ has-dropdown-menu
                 </div>
             </div>
           <div class="row grid-gutter-vertical">
-            <div style="padding-top:40px; text-align:center; width:100%;"><font style=" line-height: 20px; font-family: Arial, Helvetica, sans-serif; color:#ff4854; font-size:20px;"><strong>SHIPPING IS FREE IN U.S.</strong><br></font>
+            <div style="padding-top:40px; text-align:center; width:100%;"><font style=" line-height: 20px; font-family: Arial, Helvetica, sans-serif; color:#87B940; font-size:20px;"><strong>SHIPPING IS FREE IN U.S. FOR ORDERS $25 OR HIGHER</strong><br></font>
 <font style="font-size: 11px; line-height: 11px !important; font-family: Arial, Helvetica, sans-serif; color: #808080;">*Canada orders ship free at $40.<br>
 </font>
 <table border="0" align="center" cellpadding="0" cellspacing="0">
@@ -1110,7 +1100,7 @@ has-dropdown-menu
       <td height="6" colspan="3"> </td>
       </tr>
     <tr>
-      <td><a href="http://www.dorcocanada.ca/" target="_blank"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/icon-ca.png" width="38" height="21" alt=""></a></td>
+      <td><a href="https://www.dorcocanada.ca/" target="_blank"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/icon-ca.png" width="38" height="21" alt=""></a></td>
       <td width="10">&nbsp;</td>
       <td><a href="https://www.razorsbydorco.co.uk/" target="_blank"><img src="https://cdn2.bigcommerce.com/server2800/234ee/product_images/uploaded_images/icon-uk.png" width="38" height="21" alt=""></a></td>
     </tr>
@@ -1133,7 +1123,7 @@ All discounts and coupons are one use per-customer unless otherwise stated.
             <div class="row grid-gutter-vertical">
                 <div class="col secondary-footer-left">
                     <p>
-                        Copyright © <span id="copyright_year">2018</span> Dorco USA All Rights Reserved.
+                        Copyright © <span id="copyright_year">2019</span> Dorco USA All Rights Reserved.
                     </p>
                 </div>
                 <div class="col secondary-footer-right">
@@ -1165,12 +1155,12 @@ All discounts and coupons are one use per-customer unless otherwise stated.
         </div>
     </div>
 
-    <script>window.__webpack_public_path__ = "https://cdn7.bigcommerce.com/s-234ee/stencil/8e4e7f40-cbf9-0136-5719-191d946b9138/e/9a4d9e90-5ab2-0136-f8b4-0242ac11000e/dist/";</script>
-    <script src="https://cdn7.bigcommerce.com/s-234ee/stencil/8e4e7f40-cbf9-0136-5719-191d946b9138/e/9a4d9e90-5ab2-0136-f8b4-0242ac11000e/dist/theme-bundle.main.js"></script>
+    <script>window.__webpack_public_path__ = "https://cdn11.bigcommerce.com/s-234ee/stencil/c76cb510-5323-0137-270e-0242ac110009/e/d62de1d0-79af-0137-1d65-0242ac11002d/dist/";</script>
+    <script src="https://cdn11.bigcommerce.com/s-234ee/stencil/c76cb510-5323-0137-270e-0242ac110009/e/d62de1d0-79af-0137-1d65-0242ac11002d/dist/theme-bundle.main.js"></script>
 
     <script>
     // Exported in app.js
-    window.stencilBootstrap("page", "{\"themeSettings\":{\"general_site_color\":\"#17b8e6\",\"body_inner_background_color_default\":\"#ffffff\",\"body_inner_background_color_alternative\":\"#f5f5f5\",\"heading_font_color\":\"#333333\",\"body_font_color\":\"#666666\",\"border_color\":\"#e8e8e8\",\"link_color_regular\":\"#17b8e6\",\"link_color_hover\":\"#333333\",\"primary_button_text_color_regular\":\"#ffffff\",\"primary_button_background_color_regular\":\"#17b8e6\",\"primary_button_text_color_hover\":\"#ffffff\",\"primary_button_background_color_hover\":\"#333333\",\"secondary_button_text_color_regular\":\"#ffffff\",\"secondary_button_background_color_regular\":\"#333333\",\"secondary_button_text_color_hover\":\"#ffffff\",\"secondary_button_background_color_hover\":\"#17b8e6\",\"applePay-button\":\"black\",\"input_text_color\":\"#666666\",\"input_background_color\":\"#ffffff\",\"input_border_color\":\"#e8e8e8\",\"input_border_color_focus\":\"#17b8e6\",\"checkbox_radio_text_color\":\"#333333\",\"checkbox_radio_background_color\":\"#ffffff\",\"checkbox_radio_border_color\":\"#e8e8e8\",\"label_text_color_regular\":\"#333333\",\"label_background_color_regular\":\"#eeeeee\",\"label_text_color_hover\":\"#333333\",\"label_background_color_hover\":\"#f5f5f5\",\"filter_text_color_regular\":\"#707070\",\"filter_background_color_regular\":\"#ffffff\",\"filter_border_color_regular\":\"#e8e8e8\",\"filter_text_color_hover\":\"#707070\",\"filter_background_color_hover\":\"#f5f5f5\",\"filter_border_color_hover\":\"#e8e8e8\",\"social_icon_text_color_regular\":\"#333333\",\"social_icon_text_color_hover\":\"#17b8e6\",\"page_title_bar_background_color\":\"#ffffff\",\"page_title_bar_border_color\":\"#e8e8e8\",\"page_title_bar_title_color\":\"#333333\",\"page_title_bar_breadcrumb_text_color\":\"#666666\",\"page_title_bar_breadcrumb_link_color_regular\":\"#333333\",\"page_title_bar_breadcrumb_link_color_hover\":\"#17b8e6\",\"loading_progress_bar_color\":\"#17b8e6\",\"modal_overlay_background_color\":\"#000000\",\"loading_overlay_background_color\":\"#ffffff\",\"header_background_color\":\"#ffffff\",\"header_link_color_regular\":\"#5a5a5a\",\"header_link_color_hover\":\"#333333\",\"header_highlight_color\":\"#17b8e6\",\"header_logo_color\":\"#333333\",\"upper_header_text_color\":\"#17b8e6\",\"upper_header_background_color\":\"#ffffff\",\"upper_header_border_color\":\"#e8e8e8\",\"upper_header_link_color_regular\":\"#333333\",\"upper_header_link_color_hover\":\"#17b8e6\",\"primary_footer_background_color\":\"#242425\",\"primary_footer_border_color\":\"#808080\",\"primary_footer_heading_color\":\"#ffffff\",\"primary_footer_text_color\":\"#808080\",\"primary_footer_link_color_regular\":\"#808080\",\"primary_footer_link_color_hover\":\"#17b8e6\",\"secondary_footer_background_color\":\"#ffffff\",\"secondary_footer_border_color\":\"#ffffff\",\"secondary_footer_text_color\":\"#808080\",\"secondary_footer_link_color_regular\":\"#808080\",\"secondary_footer_link_color_hover\":\"#17b8e6\",\"secondary_footer_social_icon_text_color_regular\":\"#333333\",\"secondary_footer_social_icon_text_color_hover\":\"#17b8e6\",\"module_carousel_1_heading_color\":\"#333333\",\"module_carousel_1_description_color\":\"#707070\",\"upper_header_left_text\":\"Shipping is FREE in U.S.*\",\"menu_link_limit\":\"5\",\"mega_menu_1_title\":\"Womens\",\"mega_menu_2_title\":\"\",\"mega_menu_3_title\":\"\",\"mega_menu_4_title\":\"\",\"mega_menu_5_title\":\"\",\"mega_menu_6_title\":\"\",\"mega_menu_7_title\":\"\",\"mega_menu_8_title\":\"\",\"mega_menu_9_title\":\"\",\"mega_menu_10_title\":\"\",\"module_carousel_1_transition_effect\":\"fade\",\"module_carousel_1_fullscreen_slider\":\"enabled\",\"module_carousel_1_caption_alignment\":\"left\",\"module_carousel_1_caption_position\":\"left-center\",\"module_home_page_section_1\":\"module_carousel_1\",\"module_home_page_section_2\":\"module_product_grid_carousel_1\",\"module_home_page_section_3\":\"module_featured_images_1\",\"module_home_page_section_4\":\"none\",\"module_home_page_section_5\":\"none\",\"module_home_page_section_6\":\"none\",\"module_product_grid_carousel_1_row_background\":\"default\",\"module_product_grid_carousel_1_product_layout\":\"carousel\",\"module_product_grid_carousel_1_products_to_display\":\"featured\",\"module_product_grid_carousel_2_row_background\":\"alternative\",\"module_product_grid_carousel_2_product_layout\":\"carousel\",\"module_product_grid_carousel_2_products_to_display\":\"top_sellers\",\"module_product_grid_carousel_3_row_background\":\"default\",\"module_product_grid_carousel_3_product_layout\":\"carousel\",\"module_product_grid_carousel_3_products_to_display\":\"new\",\"homepage_new_products_count\":8,\"homepage_featured_products_count\":8,\"homepage_top_products_count\":8,\"homepage_blog_posts_count\":2,\"productpage_videos_count\":8,\"productpage_reviews_count\":12,\"productpage_related_products_count\":8,\"productpage_similar_by_views_count\":0,\"categorypage_products_per_page\":6,\"brandpage_products_per_page\":12,\"searchpage_products_per_page\":12,\"show_product_quick_view\":true,\"show_product_review_icons\":true,\"show_product_brand\":false,\"show_product_weight\":true,\"show_product_dimensions\":false,\"show_newsletter_popup\":false,\"show_powered_by\":false,\"shop_by_brand_show_footer\":true,\"show_copyright_footer\":true,\"show_accept_amex\":false,\"show_accept_discover\":false,\"show_accept_mastercard\":false,\"show_accept_paypal\":false,\"show_accept_visa\":false,\"logo_position\":\"left\",\"logo_size\":\"original\",\"brand_size\":\"700x900\",\"gallery_size\":\"300x300\",\"productgallery_size\":\"500x659\",\"product_size\":\"700x900\",\"productview_thumb_size\":\"200x200\",\"productthumb_size\":\"200x200\",\"thumb_size\":\"100x100\",\"zoom_size\":\"1280x1280\",\"blog_size\":\"1110x1110\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"body-font\":\"Google_Lato_400\",\"headings-font\":\"Google_Lato_700\",\"logo-font\":\"Google_Lato_900\",\"fontSize-root\":16,\"fontSize-h1\":28,\"fontSize-h2\":22,\"fontSize-h3\":20,\"fontSize-h4\":18,\"fontSize-h5\":16,\"fontSize-h6\":14,\"color-primary\":\"#333333\",\"color-primaryDark\":\"#222222\",\"color-primaryDarker\":\"#000000\",\"color-primaryLight\":\"#707070\",\"color-secondary\":\"#ffffff\",\"color-secondaryDark\":\"#e8e8e8\",\"color-secondaryDarker\":\"#555555\",\"color-error\":\"#ff7d7d\",\"color-errorLight\":\"#ffdddd\",\"color-info\":\"#666666\",\"color-infoLight\":\"#e8e8e8\",\"color-success\":\"#69d66f\",\"color-successLight\":\"#d5ffd8\",\"color-warning\":\"#d4cb49\",\"color-warningLight\":\"#fffdea\",\"color-black\":\"#000000\",\"color-white\":\"#ffffff\",\"color-whitesBase\":\"#eeeeee\",\"color-grey\":\"#555555\",\"color-greyDarkest\":\"#333333\",\"color-greyDarker\":\"#444444\",\"color-greyDark\":\"#666666\",\"color-greyMedium\":\"#999999\",\"color-greyLight\":\"#a5a5a5\",\"color-greyLighter\":\"#e8e8e8\",\"color-greyLightest\":\"#f5f5f5\",\"alert-color\":\"#444444\",\"alert-color-alt\":\"#ffffff\",\"hide_content_navigation\":false,\"optimizedCheckout-header-backgroundColor\":\"#f7f7f7\",\"optimizedCheckout-show-backgroundImage\":false,\"optimizedCheckout-backgroundImage\":\"\",\"optimizedCheckout-backgroundImage-size\":\"1000x400\",\"optimizedCheckout-show-logo\":\"none\",\"optimizedCheckout-logo\":\"\",\"optimizedCheckout-logo-size\":\"250x100\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-headingPrimary-color\":\"#333333\",\"optimizedCheckout-headingPrimary-font\":\"Google_Montserrat_400\",\"optimizedCheckout-headingSecondary-color\":\"#333333\",\"optimizedCheckout-headingSecondary-font\":\"Google_Montserrat_400\",\"optimizedCheckout-body-backgroundColor\":\"#ffffff\",\"optimizedCheckout-contentPrimary-color\":\"#4f4f4f\",\"optimizedCheckout-contentPrimary-font\":\"Google_Karla_400\",\"optimizedCheckout-contentSecondary-color\":\"#989898\",\"optimizedCheckout-contentSecondary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#454545\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#666666\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#989898\",\"optimizedCheckout-buttonPrimary-borderColor\":\"#454545\",\"optimizedCheckout-buttonPrimary-borderColorHover\":\"#666666\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"#989898\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonSecondary-color\":\"#4f4f4f\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#e8e8e8\",\"optimizedCheckout-link-color\":\"#4496f6\",\"optimizedCheckout-link-font\":\"Google_Karla_400\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#f5f5f5\",\"optimizedCheckout-discountBanner-textColor\":\"#333333\",\"optimizedCheckout-discountBanner-iconColor\":\"#333333\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-step-backgroundColor\":\"#4f4f4f\",\"optimizedCheckout-step-textColor\":\"#ffffff\",\"optimizedCheckout-form-textColor\":\"#666666\",\"optimizedCheckout-formField-backgroundColor\":\"white\",\"optimizedCheckout-formField-borderColor\":\"#989898\",\"price_as_low_as\":false,\"restrict_to_login\":false,\"swatch_option_size\":\"22x22\",\"geotrust_ssl_common_name\":\"www.dorcousa.com\",\"geotrust_ssl_seal_size\":\"S\"},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":{\"header\":null,\"notice\":null,\"message\":null,\"securePath\":\"https://www.dorcousa.com\",\"password\":null},\"urls\":{\"home\":\"https://www.dorcousa.com/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\"},\"brands\":\"https://www.dorcousa.com/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout.php\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":{\"new\":\"/rss.php?type=rss\",\"new_atom\":\"/rss.php?type=atom\",\"popular\":\"/rss.php?action=popularproducts&type=rss\",\"popular_atom\":\"/rss.php?action=popularproducts&type=atom\",\"featured\":\"/rss.php?action=featuredproducts&type=rss\",\"featured_atom\":\"/rss.php?action=featuredproducts&type=atom\",\"search\":\"/rss.php?action=searchproducts&type=rss\",\"search_atom\":\"/rss.php?action=searchproducts&type=atom\"}},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}}}").load();
+    window.stencilBootstrap("page", "{\"themeSettings\":{\"general_site_color\":\"#17b8e6\",\"body_inner_background_color_default\":\"#ffffff\",\"body_inner_background_color_alternative\":\"#f5f5f5\",\"heading_font_color\":\"#333333\",\"body_font_color\":\"#666666\",\"border_color\":\"#e8e8e8\",\"link_color_regular\":\"#17b8e6\",\"link_color_hover\":\"#333333\",\"primary_button_text_color_regular\":\"#ffffff\",\"primary_button_background_color_regular\":\"#17b8e6\",\"primary_button_text_color_hover\":\"#ffffff\",\"primary_button_background_color_hover\":\"#333333\",\"secondary_button_text_color_regular\":\"#ffffff\",\"secondary_button_background_color_regular\":\"#333333\",\"secondary_button_text_color_hover\":\"#ffffff\",\"secondary_button_background_color_hover\":\"#17b8e6\",\"applePay-button\":\"black\",\"input_text_color\":\"#666666\",\"input_background_color\":\"#ffffff\",\"input_border_color\":\"#e8e8e8\",\"input_border_color_focus\":\"#17b8e6\",\"checkbox_radio_text_color\":\"#333333\",\"checkbox_radio_background_color\":\"#ffffff\",\"checkbox_radio_border_color\":\"#e8e8e8\",\"label_text_color_regular\":\"#333333\",\"label_background_color_regular\":\"#eeeeee\",\"label_text_color_hover\":\"#333333\",\"label_background_color_hover\":\"#f5f5f5\",\"filter_text_color_regular\":\"#707070\",\"filter_background_color_regular\":\"#ffffff\",\"filter_border_color_regular\":\"#e8e8e8\",\"filter_text_color_hover\":\"#707070\",\"filter_background_color_hover\":\"#f5f5f5\",\"filter_border_color_hover\":\"#e8e8e8\",\"social_icon_text_color_regular\":\"#333333\",\"social_icon_text_color_hover\":\"#17b8e6\",\"page_title_bar_background_color\":\"#ffffff\",\"page_title_bar_border_color\":\"#e8e8e8\",\"page_title_bar_title_color\":\"#333333\",\"page_title_bar_breadcrumb_text_color\":\"#666666\",\"page_title_bar_breadcrumb_link_color_regular\":\"#333333\",\"page_title_bar_breadcrumb_link_color_hover\":\"#17b8e6\",\"loading_progress_bar_color\":\"#17b8e6\",\"modal_overlay_background_color\":\"#000000\",\"loading_overlay_background_color\":\"#ffffff\",\"header_background_color\":\"#ffffff\",\"header_link_color_regular\":\"#5a5a5a\",\"header_link_color_hover\":\"#333333\",\"header_highlight_color\":\"#17b8e6\",\"header_logo_color\":\"#333333\",\"upper_header_text_color\":\"#17b8e6\",\"upper_header_background_color\":\"#ffffff\",\"upper_header_border_color\":\"#e8e8e8\",\"upper_header_link_color_regular\":\"#333333\",\"upper_header_link_color_hover\":\"#17b8e6\",\"primary_footer_background_color\":\"#242425\",\"primary_footer_border_color\":\"#808080\",\"primary_footer_heading_color\":\"#ffffff\",\"primary_footer_text_color\":\"#808080\",\"primary_footer_link_color_regular\":\"#808080\",\"primary_footer_link_color_hover\":\"#17b8e6\",\"secondary_footer_background_color\":\"#ffffff\",\"secondary_footer_border_color\":\"#ffffff\",\"secondary_footer_text_color\":\"#808080\",\"secondary_footer_link_color_regular\":\"#808080\",\"secondary_footer_link_color_hover\":\"#17b8e6\",\"secondary_footer_social_icon_text_color_regular\":\"#333333\",\"secondary_footer_social_icon_text_color_hover\":\"#17b8e6\",\"module_carousel_1_heading_color\":\"#333333\",\"module_carousel_1_description_color\":\"#707070\",\"upper_header_left_text\":\"Shipping is FREE in U.S. for orders over $25*\",\"menu_link_limit\":\"5\",\"mega_menu_1_title\":\"Womens\",\"mega_menu_2_title\":\"\",\"mega_menu_3_title\":\"\",\"mega_menu_4_title\":\"\",\"mega_menu_5_title\":\"\",\"mega_menu_6_title\":\"\",\"mega_menu_7_title\":\"\",\"mega_menu_8_title\":\"\",\"mega_menu_9_title\":\"\",\"mega_menu_10_title\":\"\",\"module_carousel_1_transition_effect\":\"fade\",\"module_carousel_1_fullscreen_slider\":\"enabled\",\"module_carousel_1_caption_alignment\":\"left\",\"module_carousel_1_caption_position\":\"left-center\",\"module_home_page_section_1\":\"module_carousel_1\",\"module_home_page_section_2\":\"module_product_grid_carousel_1\",\"module_home_page_section_3\":\"module_featured_images_1\",\"module_home_page_section_4\":\"none\",\"module_home_page_section_5\":\"none\",\"module_home_page_section_6\":\"none\",\"module_product_grid_carousel_1_row_background\":\"default\",\"module_product_grid_carousel_1_product_layout\":\"carousel\",\"module_product_grid_carousel_1_products_to_display\":\"featured\",\"module_product_grid_carousel_2_row_background\":\"alternative\",\"module_product_grid_carousel_2_product_layout\":\"carousel\",\"module_product_grid_carousel_2_products_to_display\":\"top_sellers\",\"module_product_grid_carousel_3_row_background\":\"default\",\"module_product_grid_carousel_3_product_layout\":\"carousel\",\"module_product_grid_carousel_3_products_to_display\":\"new\",\"homepage_new_products_count\":8,\"homepage_featured_products_count\":8,\"homepage_top_products_count\":8,\"homepage_blog_posts_count\":2,\"productpage_videos_count\":8,\"productpage_reviews_count\":12,\"productpage_related_products_count\":8,\"productpage_similar_by_views_count\":0,\"categorypage_products_per_page\":6,\"brandpage_products_per_page\":12,\"searchpage_products_per_page\":12,\"show_product_quick_view\":true,\"show_product_review_icons\":true,\"show_product_brand\":false,\"show_product_weight\":true,\"show_product_dimensions\":false,\"show_newsletter_popup\":false,\"show_powered_by\":false,\"shop_by_brand_show_footer\":true,\"show_copyright_footer\":true,\"show_accept_amex\":false,\"show_accept_discover\":false,\"show_accept_mastercard\":false,\"show_accept_paypal\":false,\"show_accept_visa\":false,\"logo_position\":\"left\",\"logo_size\":\"250x76\",\"brand_size\":\"700x900\",\"gallery_size\":\"300x300\",\"productgallery_size\":\"500x659\",\"product_size\":\"700x900\",\"productview_thumb_size\":\"200x200\",\"productthumb_size\":\"200x200\",\"thumb_size\":\"100x100\",\"zoom_size\":\"1280x1280\",\"blog_size\":\"1110x1110\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"body-font\":\"Google_Lato_400\",\"headings-font\":\"Google_Lato_700\",\"logo-font\":\"Google_Lato_900\",\"fontSize-root\":16,\"fontSize-h1\":28,\"fontSize-h2\":22,\"fontSize-h3\":20,\"fontSize-h4\":18,\"fontSize-h5\":16,\"fontSize-h6\":14,\"color-primary\":\"#333333\",\"color-primaryDark\":\"#222222\",\"color-primaryDarker\":\"#000000\",\"color-primaryLight\":\"#707070\",\"color-secondary\":\"#ffffff\",\"color-secondaryDark\":\"#e8e8e8\",\"color-secondaryDarker\":\"#555555\",\"color-error\":\"#ff7d7d\",\"color-errorLight\":\"#ffdddd\",\"color-info\":\"#666666\",\"color-infoLight\":\"#e8e8e8\",\"color-success\":\"#69d66f\",\"color-successLight\":\"#d5ffd8\",\"color-warning\":\"#d4cb49\",\"color-warningLight\":\"#fffdea\",\"color-black\":\"#000000\",\"color-white\":\"#ffffff\",\"color-whitesBase\":\"#eeeeee\",\"color-grey\":\"#555555\",\"color-greyDarkest\":\"#333333\",\"color-greyDarker\":\"#444444\",\"color-greyDark\":\"#666666\",\"color-greyMedium\":\"#999999\",\"color-greyLight\":\"#a5a5a5\",\"color-greyLighter\":\"#e8e8e8\",\"color-greyLightest\":\"#f5f5f5\",\"alert-color\":\"#444444\",\"alert-color-alt\":\"#ffffff\",\"hide_content_navigation\":false,\"optimizedCheckout-header-backgroundColor\":\"#f7f7f7\",\"optimizedCheckout-show-backgroundImage\":false,\"optimizedCheckout-backgroundImage\":\"\",\"optimizedCheckout-backgroundImage-size\":\"1000x400\",\"optimizedCheckout-show-logo\":\"custom\",\"optimizedCheckout-logo\":\"https://cdn11.bigcommerce.com/s-234ee/images/stencil/{:size}/logo_dorco_1554221651__00109.png\",\"optimizedCheckout-logo-size\":\"250x100\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-headingPrimary-color\":\"#333333\",\"optimizedCheckout-headingPrimary-font\":\"Google_Montserrat_400\",\"optimizedCheckout-headingSecondary-color\":\"#333333\",\"optimizedCheckout-headingSecondary-font\":\"Google_Montserrat_400\",\"optimizedCheckout-body-backgroundColor\":\"#ffffff\",\"optimizedCheckout-contentPrimary-color\":\"#4f4f4f\",\"optimizedCheckout-contentPrimary-font\":\"Google_Karla_400\",\"optimizedCheckout-contentSecondary-color\":\"#989898\",\"optimizedCheckout-contentSecondary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#454545\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#666666\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#989898\",\"optimizedCheckout-buttonPrimary-borderColor\":\"#454545\",\"optimizedCheckout-buttonPrimary-borderColorHover\":\"#666666\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"#989898\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonSecondary-color\":\"#4f4f4f\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#e8e8e8\",\"optimizedCheckout-link-color\":\"#4496f6\",\"optimizedCheckout-link-font\":\"Google_Karla_400\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#f5f5f5\",\"optimizedCheckout-discountBanner-textColor\":\"#333333\",\"optimizedCheckout-discountBanner-iconColor\":\"#333333\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-step-backgroundColor\":\"#4f4f4f\",\"optimizedCheckout-step-textColor\":\"#ffffff\",\"optimizedCheckout-form-textColor\":\"#666666\",\"optimizedCheckout-formField-backgroundColor\":\"white\",\"optimizedCheckout-formField-borderColor\":\"#989898\",\"price_as_low_as\":false,\"restrict_to_login\":false,\"swatch_option_size\":\"22x22\",\"geotrust_ssl_common_name\":\"www.dorcousa.com\",\"geotrust_ssl_seal_size\":\"S\"},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":{\"header\":null,\"notice\":null,\"message\":null,\"securePath\":\"https://www.dorcousa.com\",\"password\":null},\"urls\":{\"home\":\"https://www.dorcousa.com/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\"},\"brands\":\"https://www.dorcousa.com/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout.php\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":{\"new\":\"/rss.php?type=rss\",\"new_atom\":\"/rss.php?type=atom\",\"popular\":\"/rss.php?action=popularproducts&type=rss\",\"popular_atom\":\"/rss.php?action=popularproducts&type=atom\",\"featured\":\"/rss.php?action=featuredproducts&type=rss\",\"featured_atom\":\"/rss.php?action=featuredproducts&type=atom\",\"search\":\"/rss.php?action=searchproducts&type=rss\",\"search_atom\":\"/rss.php?action=searchproducts&type=atom\"}},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}}}").load();
     </script>
 
 <script>
@@ -1193,8 +1183,8 @@ for (i = 0; i < acc.length; i++) {
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js"></script> 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js"></script>
 
-    <script type="text/javascript" src="https://cdn7.bigcommerce.com/r-4066de8f9419b8b140448eb1c6f0f063002ef592/javascript/visitor_stencil.js"></script>
-<script src="https://chimpstatic.com/mcjs-connected/js/users/277e1dd9f98f7f15053bae4f1/7d3d2d8a826934ae331435331.js" defer=""></script>
+    <script type="text/javascript" src="https://cdn11.bigcommerce.com/r-4efb4dd5e4991a55f21fd77f3b4e71bd9d87d287/javascript/visitor_stencil.js"></script>
+<script src="https://chimpstatic.com/mcjs-connected/js/users/277e1dd9f98f7f15053bae4f1/7d3d2d8a826934ae331435331.js" defer=""></script><script src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=NDfGpC"></script>
     <!-- snippet location footer -->
     <script>
             
@@ -1320,6 +1310,7 @@ for (i = 0; i < acc.length; i++) {
         </div>
 
 </div>
+
 
 
 
