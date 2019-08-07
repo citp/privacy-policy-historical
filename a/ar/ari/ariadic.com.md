@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariadic.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601085606id_/http%3A//www.ariadic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariadic.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807110026id_/http%3A//www.ariadic.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled 2
 
