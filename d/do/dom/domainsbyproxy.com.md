@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the domainsbyproxy.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403233845id_/https%3A//www.domainsbyproxy.com/policy/ShowDoc.aspx%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsbyproxy.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807020302id_/https%3A//www.domainsbyproxy.com/policy/ShowDoc.aspx%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last Revised: April 1, 2019**
+**Last Revised: April 4, 2019**
 
 _**To view our archived Privacy Policy, click  [here](http://www.domainsbyproxy.com/policy/ShowDoc.aspx?pageid=27895).**_ _ _  
 
@@ -113,7 +113,7 @@ Go Daddy Operating Company, LLC is responsible for the processing of personal da
 
 With respect to personal data received or transferred pursuant to each Privacy Shield Framework, Go Daddy Operating Company, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Go Daddy Operating Company, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 In compliance with the Privacy Shield Principles, Go Daddy Operating Company, LLC commits to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us in any manner provided in the " **CONTACT US** " section below in this Privacy Policy. 
 
