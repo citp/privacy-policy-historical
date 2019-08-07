@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9and10news.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628104756id_/https%3A//www.9and10news.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9and10news.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807021808id_/https%3A//www.9and10news.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 9 & 10 News
 
