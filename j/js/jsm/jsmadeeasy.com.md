@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jsmadeeasy.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608021002id_/http%3A//www.jsmadeeasy.com/privasy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsmadeeasy.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807135523id_/http%3A//www.jsmadeeasy.com/privasy.htm) for the most accurate reproduction.*
 
 # JavaScript Made Easy: Free JavaScripts Tutorials Example Code
 
