@@ -1,330 +1,19 @@
-<!--The following is the downloaded HTML source of the hopeshared.com privacy policy that was archived on 2019-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603000853id_/http%3A//hopeshared.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hopeshared.com privacy policy that was archived on 2019-08-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190807054025id_/http%3A//hopeshared.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=228224087380974"></script><script type="text/javascript" async="" src="//hopeshared.com/prebid/prebid.js"></script>
+<!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
+<meta property="fb:pages" content="761548177231309">
 
-<script>
-var utmHandler = {
-    createCookie: function(name,value,days) {
-      if (days) {
-        var date = new Date();
-        date.setTime(date.getTime()+(days*24*60*60*1000));
-        var expires = "; expires="+date.toGMTString();
-      }
-      else var expires = "";
-      document.cookie = name+"="+value+expires+"; path=/";
-    },
-    readCookie: function(name) {
-      var nameEQ = name + "=";
-      var ca = document.cookie.split(';');
-      for(var i=0;i < ca.length;i++) {
-          var c = ca[i];
-          while (c.charAt(0)==' ') c = c.substring(1,c.length);
-          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-      }
-      return null;
-    },
-    getSource: function() {
-          var src = this.readCookie('utmsrc');
-          return src;
-    },
-    isFacebook: function() {
-      if (this.getSource() == 'facebook' || this.getSource() == 'facebook.com'){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    isYahoo: function() {
-      if (this.getSource() == 'yahoo' || this.getSource() == 'yahoo.com'){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    isPaid: function() {
-      var src = this.readCookie('utmsrc');
-      if(!src){ return false; }
-      var utm = src.toLowerCase();
-      if (utm == "taboola" || utm == "outbrain" || utm == "yahoo" || utm == "yahoo.com" || utm == "facebook" || utm == "facebook.com"){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    dump: function() {
-      console.log(
-        "cookie: " + this.readCookie('utmsrc') +
-        "\n source: " + this.getSource() + 
-        "\n isPaid: " + this.isPaid() + 
-        "\n isFacebook: " + this.isFacebook() + 
-    "\n isYahoo: " + this.isYahoo() + 
-    "\n enabled: " + JSON.stringify(this.enabled)
-        );
-    },
-    page: 0,
-    numpages: 1,
-    isLast: function() {
-        if(this.page === this.numpages){
-            return true;
-        } else {
-            return false;
-        }
-    },
-    isFirst: function() {
-        if(this.page < 2) {
-            return true;
-        } else {
-            return false;
-        }
-    },
-    enabled: { 
-    tynt: { infeed: false, sliderp1: false, sliderp2: false },
-    exit: false
-    }
-}
 
-</script>
 
-<!-- BEGIN PREBID -->
-<script>
-    function getSize () {
-        return (document.documentElement["clientWidth"]);
-    };
 
-    var pageSize = getSize();
-
-    var PREBID_TIMEOUT = (pageSize >= 728) ? 1500 : 1500;
-
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-    
-    function initAdserver() {
-        if (pbjs.initAdserverSet) return;
-        (function() {
-            var gads = document.createElement('script');
-            gads.async = true;
-            gads.type = 'text/javascript';
-            var useSSL = 'https:' == document.location.protocol;
-            gads.src = (useSSL ? 'https:' : 'http:') +
-            '//www.googletagservices.com/tag/js/gpt.js';
-            var node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-        })();
-        pbjs.initAdserverSet = true;
-    };
-    setTimeout(initAdserver, PREBID_TIMEOUT);
-
-    var pbjs = pbjs || {};
-    pbjs.que = pbjs.que || [];
-    (function() {
-        var pbjsEl = document.createElement("script");
-        pbjsEl.type = "text/javascript";
-        pbjsEl.async = true;
-        pbjsEl.src = "//hopeshared.com/prebid/prebid.js";
-        var pbjsTargetEl = document.getElementsByTagName("head")[0];
-        pbjsTargetEl.insertBefore(pbjsEl, pbjsTargetEl.firstChild);
-    })();
-
-    pbjs.que.push(function() {
-        if (pageSize >= 728) {
-            var adUnits = [{ 
-                code: 'div-gpt-ad-1491580724068-4',  //hs_header
-                sizes: [[728, 90]],
-                bids: [
-                    { bidder: 'aol', params: { placement: '4630529', network: '10488.1', sizeId: '225', alias: '4630529' }},
-                    { bidder: 'pulsepoint', params: { cf: '728X90', cp: 560836, ct: 595781 }},
-                    { bidder: 'appnexus', params: { placementId: '11228558' }},
-                    { bidder: 'sekindoapn', params: { placementId: '11186634' }},
-                    { bidder: 'brealtime', params: { placementId: '11185359' }},
-                    { bidder: 'defymedia', params: { placementId: '11184698' }},
-                    { bidder: 'districtmDMX', params: { id: '158269' }}
-                ]
-            },{
-                code: 'div-gpt-ad-1491580724068-6',  //hs_side
-                sizes: [[300, 600]],
-                bids: [
-                    { bidder: 'aol', params: { placement: '4630526', network: '10488.1', sizeId: '529', alias: '4630526' }},
-                    { bidder: 'pulsepoint', params: { cf: '300X600', cp: 560836, ct: 595792 }},
-                    { bidder: 'appnexus', params: { placementId: '11228583' }},
-                    { bidder: 'sekindoapn', params: { placementId: '11186635' }},
-                    { bidder: 'brealtime', params: { placementId: '11185362' }},
-                    { bidder: 'defymedia', params: { placementId: '11184700' }},
-                    { bidder: 'districtmDMX', params: { id: '158271' }}
-                ]
-            },{ 
-                code: 'div-gpt-ad-1491580724068-3', //hs_article_btf
-                sizes: [[728, 90]],
-                bids: [
-                    { bidder: 'aol', params: { placement: '4630527', network: '10488.1', sizeId: '225', alias: '4630527' }},
-                    { bidder: 'pulsepoint', params: { cf: '728X90', cp: 560836, ct: 595783 }},
-                    { bidder: 'appnexus', params: { placementId: '11228559' }},
-                    { bidder: 'sekindoapn', params: { placementId: '11186648' }},
-                    { bidder: 'brealtime', params: { placementId: '11185360' }},
-                    { bidder: 'defymedia', params: { placementId: '11184699' }},
-                    { bidder: 'districtmDMX', params: { id: '158270' }}
-                ]
-            }];
-        } else {
-            var adUnits = [{
-                code: 'div-gpt-ad-1491580724068-6',  //hs_side
-                sizes: [[300, 600]],
-                bids: [
-                    { bidder: 'aol', params: { placement: '4630536', network: '10488.1', sizeId: '529', alias: '4630536' }},
-                    { bidder: 'pulsepoint', params: { cf: '300X600', cp: 560836, ct: 595794 }},
-                    { bidder: 'appnexus', params: { placementId: '11228594' }},
-                    { bidder: 'sekindoapn', params: { placementId: '11186638' }},
-                    { bidder: 'brealtime', params: { placementId: '11185367' }},
-                    { bidder: 'defymedia', params: { placementId: '11184712' }},
-                    { bidder: 'districtmDMX', params: { id: '158274' }}
-                ]
-            },{ 
-                code: 'div-gpt-ad-1491580724068-3', //hs_article_btf
-                sizes: [[320, 50]],
-                bids: [
-                    { bidder: 'aol', params: { placement: '4630537', network: '10488.1', sizeId: '3055', alias: '4630537' }},
-                    { bidder: 'pulsepoint', params: { cf: '320X50', cp: 560836, ct: 595799 }},
-                    { bidder: 'appnexus', params: { placementId: '11228591' }},
-                    { bidder: 'sekindoapn', params: { placementId: '11186639' }},
-                    { bidder: 'brealtime', params: { placementId: '11185364' }},
-                    { bidder: 'defymedia', params: { placementId: '11184715' }},
-                    { bidder: 'districtmDMX', params: { id: '158272' }}
-                ]
-            }];            
-        }
-        pbjs.addAdUnits(adUnits);
-
-        pbjs.addCallback('adUnitBidsBack', function(adUnitCode){
-        console.log('ad unit bids back for : ' + adUnitCode);
-    });
-        pbjs.requestBids({
-            bidsBackHandler: function(bidResponses) {
-                initAdserver();
-            }
-        })
-        pbjs.bidderSettings = {
-            districtmDMX: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * .85 * .88) * 1.14;
-                }
-            },
-            sekindoapn: { 
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * .80 * .69) * 1.14;
-                }
-            },
-            defymedia: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * .80 * .65) * 1.14;
-                }
-            },
-            sovrn: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * .89) * 1.14;
-                }
-            },
-            brealtime: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * .87) * 1.14;
-                }
-            },
-            pulsepoint: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * 1.01) * 1.14;
-                }
-            },
-            appnexus: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * .86) * 1.14;
-                }
-            },
-            aol: {
-                bidCpmAdjustment : function(bidCpm){
-                    return (bidCpm * 1 * 1.1) * 1.14;
-                }
-            },
-            standard: {
-                alwaysUseBid: false,
-                adserverTargeting: [{
-                    key: "hb_bidder",
-                    val: function(bidResponse) {
-                        return bidResponse.bidder;
-                    }
-                }, {
-                    key: "hb_adid",
-                    val: function(bidResponse) {
-                        return bidResponse.adId;
-                    }
-                }, {
-                    key: "hb_pb",
-                    val: function(bidResponse) {
-                        // define your own function to assign price bucket
-                        if (bidResponse.cpm < 0.50)
-                            return bidResponse.pbHg;
-                        if (bidResponse.cpm <= 10.00)
-                            return bidResponse.pbMg;
-                        if (bidResponse.cpm > 10.00)
-                            return "10.00";
-                    }
-                }, {
-                    key: "hb_size",
-                    val: function(bidResponse) {
-                        return bidResponse.size;
-                    }
-                }]
-            }
-        }
-    });
-</script>
-
-<script>
-    googletag.cmd.push(function() {
-
-    var mapping1 = googletag.sizeMapping().
-        addSize([768,200],[[336,280],[300,250]]).
-        addSize([0,0],[320,50]).
-        build();
-
-    var mapping2 = googletag.sizeMapping().
-        addSize([768,200],[728,90]).
-        addSize([0,0],[[300,250],[320,100],[320,50]]).
-        build();
-
-    var mapping3 = googletag.sizeMapping().
-        addSize([768,200],[728,90]).
-        addSize([0,0],[]).
-        build();
-
-    googletag.defineSlot('/28931921/hs_article_btf', [[728, 90], [300,250], [320, 50], [320, 100]], 'div-gpt-ad-1491580724068-3').defineSizeMapping(mapping2).addService(googletag.pubads());
-    googletag.defineSlot('/28931921/hs_side', [300, 600], 'div-gpt-ad-1491580724068-6').addService(googletag.pubads());
-    googletag.defineSlot('/28931921/hs_header', [728, 90], 'div-gpt-ad-1491580724068-4').defineSizeMapping(mapping3).addService(googletag.pubads());
-
-        pbjs.que.push(function() {
-            pbjs.setTargetingForGPTAsync();
-        });
-    
-        googletag.pubads().enableSingleRequest();
-        googletag.pubads().collapseEmptyDivs();
-        googletag.enableServices();       
-    });
-    </script>
-<!-- END PREBID -->
-
-</head><body class="page-template-default page page-id-43 group-blog wpb-js-composer js-comp-ver-5.4.5 vc_responsive"><div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=228224087380974";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 <title>Privacy Policy</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v11.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v11.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://hopeshared.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -333,7 +22,7 @@ var utmHandler = {
 <meta property="og:url" content="http://hopeshared.com/privacy-policy/">
 <meta property="og:site_name" content="Hope Shared">
 <meta property="article:publisher" content="https://www.facebook.com/hopeshared">
-<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://hopeshared.com/#organization","name":"","url":"http://hopeshared.com/","sameAs":["https://www.facebook.com/hopeshared"]},{"@type":"WebSite","@id":"http://hopeshared.com/#website","url":"http://hopeshared.com/","name":"Hope Shared","publisher":{"@id":"http://hopeshared.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://hopeshared.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://hopeshared.com/privacy-policy/#webpage","url":"http://hopeshared.com/privacy-policy/","inLanguage":"en-US","name":"Privacy Policy","isPartOf":{"@id":"http://hopeshared.com/#website"},"datePublished":"2013-11-02T19:40:18+00:00","dateModified":"2018-05-24T22:53:02+00:00"}]}</script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=730842956996390"></script><script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://hopeshared.com/#organization","name":"","url":"http://hopeshared.com/","sameAs":["https://www.facebook.com/hopeshared"]},{"@type":"WebSite","@id":"http://hopeshared.com/#website","url":"http://hopeshared.com/","name":"Hope Shared","publisher":{"@id":"http://hopeshared.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://hopeshared.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://hopeshared.com/privacy-policy/#webpage","url":"http://hopeshared.com/privacy-policy/","inLanguage":"en-US","name":"Privacy Policy","isPartOf":{"@id":"http://hopeshared.com/#website"},"datePublished":"2013-11-02T19:40:18+00:00","dateModified":"2018-05-24T22:53:02+00:00"}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -341,18 +30,32 @@ var utmHandler = {
 <link rel="alternate" type="application/rss+xml" title="Hope Shared » Feed" href="http://hopeshared.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Hope Shared » Comments Feed" href="http://hopeshared.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Hope Shared » Privacy Policy Comments Feed" href="http://hopeshared.com/privacy-policy/feed/">
-<link rel="stylesheet" id="parent-style-css" href="http://hopeshared.com/wp-content/themes/hope17/style.css?ver=5.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="semplicemente-style-css" href="http://hopeshared.com/wp-content/themes/hope17-child/style.css?ver=5.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="rgi-custom-style-css" href="http://hopeshared.com/wp-content/themes/hope17-child/rgi-custom-style.css?ver=5.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="http://hopeshared.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://hopeshared.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_fontawsome_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/fontawesome/css/font-awesome.min.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_animate_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/animate.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_slick_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/slick/slick.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_loadawsome_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/loaders.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_priority_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/priority-navigation/priority-nav-core.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_hover_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/hover-css/hover.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_pagination_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/pagination/pagination.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_malihu_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/malihuscroll/jquery.mCustomScrollbar.min.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="http://hopeshared.com/wp-content/themes/hope17/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="semplicemente-style-css" href="http://hopeshared.com/wp-content/themes/hope17-child/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="rgi-custom-style-css" href="http://hopeshared.com/wp-content/themes/hope17-child/rgi-custom-style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="http://hopeshared.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://hopeshared.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://hopeshared.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=6.0.3" type="text/css" media="all">
 <link rel="stylesheet" id="semplicemente-googlefonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='http://hopeshared.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.3' type='text/css' media='screen' />
+<![endif]-->
+<link rel="stylesheet" id="ul_bete_front_css-css" href="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/core.css?ver=2.2.0" type="text/css" media="all">
+<script type="text/javascript" src="http://hopeshared.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/lazysizes.js?ver=2.2.0"></script>
 <script type="text/javascript" src="http://hopeshared.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
 <script type="text/javascript" src="http://hopeshared.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://hopeshared.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hopeshared.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hopeshared.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 5.2.1">
+<meta name="generator" content="WordPress 5.2.2">
 <link rel="shortlink" href="http://hopeshared.com/?p=43">
 <link rel="alternate" type="application/json+oembed" href="http://hopeshared.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhopeshared.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://hopeshared.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhopeshared.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -363,14 +66,47 @@ var utmHandler = {
 		
 </style>
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://hopeshared.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://hopeshared.com/wp-content/uploads/h.png" sizes="32x32">
+<link rel="icon" href="http://hopeshared.com/wp-content/uploads/h.png" sizes="32x32">
 <link rel="icon" href="http://hopeshared.com/wp-content/uploads/h.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="http://hopeshared.com/wp-content/uploads/h.png">
 <meta name="msapplication-TileImage" content="http://hopeshared.com/wp-content/uploads/h.png">
-<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	<script>RGI.setTrackingPixels();</script>
+	
+	
+</head><body class="page-template-default page page-id-43 group-blog wpb-js-composer js-comp-ver-6.0.3 vc_responsive"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=730842956996390";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1162094703954120');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1162094703954120&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
 
 
+
+<div id="rgi-oop-wrap" style="display:none;"></div>
+<div id="rgi-outofpage"></div>
+	
 <div id="page" class="hfeed site">
 
     <header id="masthead" class="site-header" role="banner">
@@ -386,9 +122,10 @@ var utmHandler = {
 		</ul>
     	</div>
 		</div>
-    </header><!-- #masthead -->
 
-    <div id="content" class="site-content">
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
@@ -439,7 +176,7 @@ http://optout.aboutads.info/#!/</p>
 <p>If You have any questions about this Privacy Policy, the practices of this Site, or Your dealings with this Site, please contact Us by emailing info[at]HopeShared.com.</p>
 			</div><!-- .entry-content -->
 	<span style="display:none" class="updated">November 2, 2013</span>
-	<div style="display:none" class="vcard author"><a class="url fn n" href="http://hopeshared.com/author/admin/">admin</a></div>
+	<div style="display:none" class="vcard author"><a class="url fn n" href="http://hopeshared.com/author/admin/">Paula Thomas</a></div>
 	<footer class="entry-footer">
 			</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
@@ -449,10 +186,10 @@ http://optout.aboutads.info/#!/</p>
 	</div><!-- #primary -->
 
 
+
 	</div><!-- #content -->
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -463,27 +200,40 @@ http://optout.aboutads.info/#!/</p>
   ga('send', 'pageview');
 </script>
 
+							
+
+				
+		
+			
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-content/themes/hope17/js/jquery.semplicemente.js?ver=1.0"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-content/themes/hope17/js/navigation.js?ver=20120206"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/comment-reply.min.js?ver=5.2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/hopeshared.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://hopeshared.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3"></script>
+<script type="text/javascript" src="http://hopeshared.com/wp-content/themes/hope17/js/jquery.semplicemente.min.js?ver=5.2.2"></script>
+<script type="text/javascript" src="http://hopeshared.com/wp-content/themes/hope17/js/navigation.js?ver=20151215"></script>
+<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/comment-reply.min.js?ver=5.2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var q2w3_sidebar_options = [{"sidebar":"sidebar-3","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-4","custom_html-3"]}];
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://hopeshared.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.8"></script>
-<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/wp-embed.min.js?ver=5.2.1"></script>
+<script type="text/javascript" src="http://hopeshared.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9"></script>
+<script type="text/javascript" src="http://hopeshared.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
 
 
 
-</body></html>
+
+<div class="sub-footer">
+    <div class="footer-trademark">© 2019 HopeShared.com All Rights Reserved</div>
+    <ul class="footer-menu">
+        <li id="privacy-policy"><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li id="infringement-policy"><a href="/infringement-policy/">Infringement Policy</a></li>
+        <li id="submit-content"><a href="/submit-content/">Submit Content</a></li>
+    </ul>
+</div></body></html>
