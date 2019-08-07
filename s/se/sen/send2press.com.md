@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326190838id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807033732id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
