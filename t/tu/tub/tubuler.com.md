@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubuler.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608075532id_/http%3A//tubuler.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubuler.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807195159id_/http%3A//tubuler.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # play | Privacy Policy
 
