@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifeproof.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323222745id_/https%3A//www.lifeproof.com/en-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeproof.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808014711id_/https%3A//www.lifeproof.com/en-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | LifeProof
+# Privacy Policy
 
 This privacy policy (this “Policy”) applies to lifeproof.com, operated by Otter Products, LLC (“Otter”). This Policy describes how Otter collects, uses and shares the personal information you provide on otterproducts.com. It also describes the choices available to you regarding our use of your personal information, and how you can access and update this information.
 
