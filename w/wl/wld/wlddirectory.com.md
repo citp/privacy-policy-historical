@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlddirectory.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609155835id_/http%3A//www.wlddirectory.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlddirectory.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807024726id_/http%3A//wlddirectory.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
