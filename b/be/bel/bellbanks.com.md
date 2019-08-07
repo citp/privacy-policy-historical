@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellbanks.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522070341id_/https%3A//www.bellbanks.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellbanks.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807204637id_/https%3A//www.bellbanks.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bell Bank
 
