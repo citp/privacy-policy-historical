@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626102133id_/http%3A//www.wlsam.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2019-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190807045433id_/http%3A//www.wlsam.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WLS-AM 890 | WLS-AM
 
