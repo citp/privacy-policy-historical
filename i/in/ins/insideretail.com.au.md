@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331055126id_/https%3A//octomedia.com.au/index.php/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808201723id_/http%3A//octomedia.com.au/index.php/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | Octomedia - Serving Audiences in Australia and the World since 1972
 
