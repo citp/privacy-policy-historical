@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubebuddy.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511014813id_/https%3A//www.tubebuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubebuddy.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808101253id_/https%3A//www.tubebuddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TubeBuddy
 
