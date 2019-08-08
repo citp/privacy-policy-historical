@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euractiv.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521174932id_/https%3A//www.euractiv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euractiv.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808172808id_/https%3A//www.euractiv.com/privacy) for the most accurate reproduction.*
 
 # EURACTIV Privacy Policy – EURACTIV.com
 
