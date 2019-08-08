@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraltrek.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609050329id_/http%3A//viraltrek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraltrek.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809010601id_/http%3A//viraltrek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viraltrek
 
