@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckbit.co.in privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608213430id_/http%3A//ww43.luckbit.co.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckbit.co.in privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808224212id_/http%3A//ww43.luckbit.co.in/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
