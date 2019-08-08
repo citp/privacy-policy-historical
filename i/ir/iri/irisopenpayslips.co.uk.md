@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irisopenpayslips.co.uk privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014023438id_/https%3A//www.irisopenpayslips.co.uk/Home/PrivacyPolicy%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irisopenpayslips.co.uk privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808194413id_/https%3A//www.irisopenpayslips.co.uk/Home/PrivacyPolicy%23privacyPolicy) for the most accurate reproduction.*
 
 # IRIS OpenPayslips
 
@@ -6,7 +6,7 @@
 
 This policy sets out how we will use and protect personal information that you give us when you use our websites at [www.irisopenpaye.co.uk](http://www.irisopenpayslips.co.uk/) ("our Websites"). 
 
-If you have any questions or comments about this policy please write to Data Controller, IRIS Software Group Limited, Riding Court House, Riding Court Road, Datchet SL3 9JT. If you have any questions about the security at our website, please contact us at [webmaster@iris.co.uk](mailto:webmaster@iris.co.uk). 
+If you have any questions or comments about this policy please write to Data Controller, IRIS Software Group Limited, Heathrow Approach, 470 London Road, Slough SL3 8QY. If you have any questions about the security at our website, please contact us at [webmaster@iris.co.uk](mailto:webmaster@iris.co.uk). 
 
 ## Acceptance
 
@@ -32,9 +32,9 @@ Our Websites may contain links that make it easy for you to visit the websites o
 
 ## Accessing and updating personal information
 
-If any of your personal information changes or becomes out of date please amend your registration details on the site or let us know by emailing us at [webmaster@iris.co.uk](mailto:webmaster@iris.co.uk). You may inform us at any time should you wish us to delete personal information we hold about you by writing to Company Secretary, IRIS Software Group Limited, Riding Court House, Riding Court Road, Datchet SL3 9JT. 
+If any of your personal information changes or becomes out of date please amend your registration details on the site or let us know by emailing us at [webmaster@iris.co.uk](mailto:webmaster@iris.co.uk). You may inform us at any time should you wish us to delete personal information we hold about you by writing to Company Secretary, IRIS Software Group Limited, Heathrow Approach, 470 London Road, Slough SL3 8QY. 
 
-You have a right to access the personal data held about you. To obtain a copy of the personal information we hold about you, please write to Data Controller, IRIS Software Group Limited, Riding Court House, Riding Court Road, Datchet SL3 9JT. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+You have a right to access the personal data held about you. To obtain a copy of the personal information we hold about you, please write to Data Controller, IRIS Software Group Limited, Heathrow Approach, 470 London Road, Slough SL3 8QY. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
 
 ## IP addresses and cookies
 
@@ -89,7 +89,7 @@ If you are a new customer, and where we permit selected third parties to use you
 
 ## Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by writing to Data Controller, IRIS Software Group Limited, Riding Court House, Riding Court Road, Datchet SL3 9JT. 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by writing to Data Controller, IRIS Software Group Limited, Heathrow Approach, 470 London Road, Slough SL3 8QY. 
 
 ## Disclosure of your information
 
