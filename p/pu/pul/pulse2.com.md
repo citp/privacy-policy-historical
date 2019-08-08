@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulse2.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408002846id_/https%3A//pulse2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulse2.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808130542id_/https%3A//pulse2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
