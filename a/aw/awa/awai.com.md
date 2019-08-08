@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awai.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218193324id_/https%3A//www.awai.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awai.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808193739id_/https%3A//www.awai.com/about/privacy) for the most accurate reproduction.*
 
 # American Writers & Artists Inc. Privacy Statement
 
@@ -38,7 +38,7 @@ If you have any questions or comments you can reach us via our contact page or w
 
 ## Disclaimer
 
-American Writers & Artists Inc. does not act as personal career advisors or guarantee employment as a result of taking one of our programs. AWAI provides its members with information about improving their writing, design and photography skills. The executive staff and Board of Advisors who contribute to AWAI's programs are proud of the reputation AWAI has built since its inception in 1997. We believe the information presented to our members in our published resources and at our meetings and seminars is the best and most useful available to people interested in writing and graphic design today. The information presented in AWAI programs is for the exclusive use of AWAI members. Copying or disseminating any information published by AWAI, electronic or otherwise is strictly prohibited. Members should be aware that AWAI is not a school nor does it offer any degrees recognized by employers. Income results may vary.
+American Writers & Artists Inc. does not act as personal career advisors or guarantee employment as a result of taking one of our programs. AWAI provides its members with information about improving their writing, and design. The executive staff and Board of Advisors who contribute to AWAI's programs are proud of the reputation AWAI has built since its inception in 1997. We believe the information presented to our members in our published resources and at our meetings and seminars is the best and most useful available to people interested in writing and graphic design today. The information presented in AWAI programs is for the exclusive use of AWAI members. Copying or disseminating any information published by AWAI, electronic or otherwise is strictly prohibited. Members should be aware that AWAI is not a school nor does it offer any degrees recognized by employers. Income results may vary.
 
 **American Writers & Artists Inc.**  
 101 SE 6th Avenue, Suite A • Delray Beach, FL 33483  
