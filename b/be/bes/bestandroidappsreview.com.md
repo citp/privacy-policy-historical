@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestandroidappsreview.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608105109id_/http%3A//bestandroidappsreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestandroidappsreview.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808124340id_/http%3A//bestandroidappsreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Best Android Apps Review
 
