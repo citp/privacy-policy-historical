@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app1.works privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605235156id_/http%3A//app1.works/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app1.works privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809014234id_/http%3A//app1.works/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - App1.works - Download Books And Magazines
 
