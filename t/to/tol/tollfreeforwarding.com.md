@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tollfreeforwarding.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102065323id_/https%3A//tollfreeforwarding.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollfreeforwarding.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808124950id_/https%3A//tollfreeforwarding.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TollFreeForwarding.com
 
@@ -114,7 +114,7 @@ We are committed to adhering to GDPR rules for all of our EU customers
 
 ### Data Processing Addendum
 
-We offer a [data processing addendum](https://web.archive.org/web/20190102065323id_/https%3A//tollfreeforwarding.com/content/DataProcessingAmendment-TollFreeForwarding.pdf) (DPA) for our customers who collect data from folks in the EU. Our DPA offers contractual terms that meet GDPR requirements and that reflect our data privacy and security commitments to our customers. There is no new action needed on the part of our current TollFreeForwarding.com customers.
+We offer a [data processing addendum](https://web.archive.org/web/20190808124950id_/https://tollfreeforwarding.com/content/privacy-policy/DataProcessingAmendment-TollFreeForwarding.pdf) (DPA) for our customers who collect data from folks in the EU. Our DPA offers contractual terms that meet GDPR requirements and that reflect our data privacy and security commitments to our customers. There is no new action needed on the part of our current TollFreeForwarding.com customers.
 
 ### Personnel Matters
 
