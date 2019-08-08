@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimscatalog.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512180610id_/https%3A//thesimscatalog.com/sims4/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimscatalog.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808183610id_/https%3A//thesimscatalog.com/sims4/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Sims 4 Catalog
 
