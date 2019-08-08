@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobswatches.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125133041id_/https%3A//www.bobswatches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobswatches.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808230444id_/https%3A//www.bobswatches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Designer Rolex Luxury Timepieces at Bob's Watches
 
