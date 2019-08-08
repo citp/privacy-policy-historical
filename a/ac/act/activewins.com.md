@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewins.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606040752id_/http%3A//activewins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewins.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808164852id_/http%3A//www.activewins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActiveWins
 
@@ -10,7 +10,7 @@ This Privacy Policy is designed to help you understand how we collect, use and s
 
 **Data Controller**
 
-ActiveWin Media Ltd, Data Protection Officer, [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#75161a1805191c141b1610351416011c0310021c1b5b161a5b001e) 72-76 Steam Packet House, Manchester, M2 4JG
+ActiveWin Media Ltd, Data Protection Officer, [compliance@activewin.co.uk](mailto:compliance@activewin.co.uk) 72-76 Steam Packet House, Manchester, M2 4JG
 
 **Personal Information**
 
