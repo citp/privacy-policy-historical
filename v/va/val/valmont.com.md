@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valmont.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531053440id_/http%3A//www.valmont.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valmont.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808181020id_/http%3A//www.valmont.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
