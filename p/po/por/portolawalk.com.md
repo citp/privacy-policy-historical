@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portolawalk.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606133446id_/http%3A//www.portolawalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portolawalk.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808132236id_/http%3A//www.portolawalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Portola Walk
 
