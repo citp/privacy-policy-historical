@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605051231id_/http%3A//www.burgan.com/aboutus/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808215645id_/http%3A//www.burgan.com/aboutus/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
