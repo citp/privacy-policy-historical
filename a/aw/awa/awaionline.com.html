@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awaionline.com privacy policy that was archived on 2019-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190218193324id_/https%3A//www.awai.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awaionline.com privacy policy that was archived on 2019-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190808193739id_/https%3A//www.awai.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,7 +11,7 @@
 	<title>American Writers &amp; Artists Inc. Privacy Statement</title>
 
 	<link href="/rss/main/rss.xml" rel="alternate" type="application/rss+xml" title="AWAI Main RSS Feed">
-	<link href="/_css/responsive/site.0902.css" rel="stylesheet" type="text/css">
+	<link href="/_css/responsive/site.0417.css" rel="stylesheet" type="text/css">
 	<link href="/_css/responsive/global.1011.css" rel="stylesheet" type="text/css">
 	<link href="/_css/responsive/jquery-ui.1001.css" rel="stylesheet" type="text/css">
 	<link href="/_css/magnific.css" rel="stylesheet" type="text/css">
@@ -35,8 +35,6 @@
 	<script src="/_js/site.0601.js"></script>
 	
 	<style>
-@import url('https://fonts.googleapis.com/css?family=Oxygen:400,700');
-
 @-webkit-keyframes simpleBannerSlideInFromBottom {
   0% {
     -webkit-transform: translateY(100%);
@@ -61,426 +59,457 @@
   }
 }
 
-.fixed-banner-minimized {
-  display: none;
+/*
+============================
+Popup Animations
+============================
+*/
+
+/* Default state */
+.mfp-animate.mfp-wrap .mfp-content {
+  opacity: 0;
+  -webkit-transition: all 0.15s ease-out;
+  -moz-transition: all 0.15s ease-out;
+  -o-transition: all 0.15s ease-out;
+  transition: all 0.15s ease-out;
 }
 
-.fixed-bubble-banner-wrapper {
-  -webkit-animation: 1s ease-in 0s 1 simpleBannerSlideInFromBottom;
-  animation: 1s ease-in 0s 1 simpleBannerSlideInFromBottom;
-  background: #000;
-  background: linear-gradient(#333, #000);
-  left: 0;
-  margin: 0 auto;
-  padding: 7px;
-  position: fixed;
-  right: 0;
-  z-index: 1;
+/* Animating in */
+.mfp-animate.mfp-wrap.mfp-ready .mfp-content {
+  opacity: 1;
 }
 
-.fixed-bubble-banner-bottom {
-  bottom: 0;
-}
-
-.fixed-bubble-banner-top-copy {
-  background-color: #fff;
-  border-top-right-radius: 0.33em;
-  bottom: 47px;
-  font-size: 20px;
-  font-weight: bold;
-  left: -33px;
-  line-height: 1;
-  padding: 0.25em 0.5em 0.33em 33px;
-  position: absolute;
-}
-
-.fixed-bubble-banner-close {
-  background-color: #999;
-  border: 4px solid #fff;
-  border-radius: 50%;
-  color: #fff;
-  cursor: pointer;
-  font-size: 30px;
-  height: 1em;
-  line-height: 1;
-  text-align: center;
-  font-weight: bold;
-  position: absolute;
-  right: -50px;
-  top: -25px;
-  width: 1em;
-}
-
-.fixed-bubble-banner-close:hover,
-.fixed-bubble-banner-close:focus {
-  background-color: #f00;
-}
-
-.fixed-bubble-banner-close:active {
-  background-color: #900;
-}
-
-.fixed-bubble-banner-copy {
-  display: table;
-  margin: 0 auto;
-  position: relative;
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-headline {
-  color: #fff;
-  display: table-cell;
-  font-size: 18px;
-  line-height: 1.5;
-  text-align: center;
-  text-shadow: 0 0 5px rgba(0, 0, 0, 0.9);
-  vertical-align: middle;
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta-wrapper {
-  display: table-cell;
-  padding: 0 0 0 10px;
-  vertical-align: middle;
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta:before {
-  background: -webkit-linear-gradient(left top, left bottom, from(rgba(255, 255, 255, 0.6)), to(rgba(255, 255, 255, 0.1)));
-  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.1));
-  border-radius: 100px;
-  content: '';
-  height: 50%;
-  left: 0;
-  margin: auto;
-  position: absolute;
-  right: 0;
-  top: 4px;
-  width: 90%;
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta {
-  background: #f86a01;
-  background: linear-gradient(#fe862e, #f86a01, #f86a01, #cf5901);
-  border-radius: 100px;
-  color: #fff;
-  display: block;
-  font-family: 'Open Sans Condensed', Verdana, Helvetica, sans-serif;
-  font-size: 15px;
-  font-weight: bold;
-  line-height: 1.2;
-  padding: 10px 35px 12px 25px;
-  position: relative;
-  text-align: left;
-  text-shadow: 0px -1px rgba(0, 0, 0, 0.33);
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta > .fixed-bubble-banner-cta-text {
-  position: relative;
-  z-index: 10;
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta > .fa {
-  bottom: 0;
-  font-size: 18px;
-  height: 50%;
-  margin: auto;
-  position: absolute;
-  right: 15px;
-  top: 0;
-  z-index: 10;
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta:after {
-  border-radius: 100px;
-  content: '';
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta:hover:after,
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta:focus:after {
-  background-color: rgba(255, 255, 255, 0.15);
-}
-
-.fixed-bubble-banner-copy .fixed-bubble-banner-cta:active:after {
-  background-color: rgba(0, 0, 0, 0.15);
-}
-
-.fixed-bubble-banner-icon {
-  bottom: 5px;
-  position: absolute;
-  right: 102%;
-}
-
-.fixed-bubble-banner-icon > .fa {
-  background-color: #fff;
-  border: 4px solid #000;
-  border-radius: 50%;
-  color: #000;
-  font-size: 1.5em;
-  padding: 0.3em 0.4em 0.35em;
-}
-
-.fixed-bubble-banner-icon > img {
-  border: 4px solid #fff;
-  border-radius: 50%;
-  display: block;
+/* Animating out */
+.mfp-animate.mfp-wrap.mfp-removing .mfp-content {
+  opacity: 0;
 }
 
 /*
 ============================
-Fixed Bubble Banner Overrides
+Base Banner Styles
 ============================
 */
 
-.fixed-bubble-banner-cos {
-  background: transparent;
-  padding: 0;
-}
-
-.fixed-bubble-banner-cos .fixed-bubble-banner-copy {
-  border-radius: 1em 1em 0 0;
-  padding: 0.2em 0.9em;
-  background: #7dcbff;
-}
-
-.fixed-bubble-banner-cos .fixed-bubble-banner-top-copy {
-  background: #ff914f;
-  color: #000;
-  bottom: 100%;
-  border-radius: 0.6em 0.6em 0 0;
-  box-shadow: 0.1rem 0 0.2rem 0 rgba(0, 0, 0, 0.1);
-  font-size: 1.8em;
-  font-family: 'Oxygen', sans-serif;
-  font-weight: 700;
-  margin: 0 auto;
-  left: 0;
-  right: 0;
-  text-align: center;
-  width: 70%;
-  text-shadow: none;
-}
-
-.fixed-bubble-banner-cos .fixed-bubble-banner-headline {
-  color: #000;
-  border-radius: 0.8em;
-  padding: 0.2em;
-  max-width: 27em;
-  text-shadow: none;
-  font-size: 1.2em;
-  font-family: 'Oxygen', sans-serif;
-  font-weight: 400;
-  line-height: 1.3;
-}
-
-.fixed-bubble-banner-cos .fixed-bubble-banner-cta {
-  background: #fffb77;
-  background: linear-gradient(65deg, #fffb77, #fffa55, #fff931);
-  box-shadow: 0.313em 0.313em 0.313em rgba(0, 0, 0, 0.15);
-  text-shadow: none;
-  font-family: 'Oxygen', sans-serif;
-  font-weight: 700;
-  color: #000;
-  max-width: 17em;
-  text-align: center;
-  -webkit-animation: shake-vertical 10s cubic-bezier(0.455, 0.03, 0.515, 0.955) 3.7s both infinite;
-  animation: shake-vertical 10s cubic-bezier(0.455, 0.03, 0.515, 0.955) 3.7s both infinite;
-}
-
-.fixed-bubble-banner-cos .fixed-bubble-banner-copy .fixed-bubble-banner-cta > .fixed-bubble-banner-cta-text {
-  font-size: 1.1em;
-}
-
-.fixed-bubble-banner-cos .fixed-bubble-banner-icon {
-  width: 7em;
-  height: auto;
-  right: 98%;
-  bottom: 12%;
-  -webkit-animation: bounce-in-top 1.1s 2s both;
-  animation: bounce-in-top 1.1s 2s both;
+.fixed-banner-minimized {
   display: none;
 }
 
-.fixed-bubble-banner-cos .fixed-bubble-banner-icon img {
-  border: 0 none;
+.teaser-banner_banner {
+  -webkit-animation: 1s ease-out 0.5s 1 forwards simpleBannerSlideInFromBottom;
+  animation: 1s ease-out 0.5s 1 forwards simpleBannerSlideInFromBottom;
+  bottom: 0;
+  left: 0;
+  margin: 0 auto;
+  padding-top: 0.7em; /* May need to be altered if adding content on top */
+  position: fixed;
+  right: 0;
+  -webkit-transform: translateY(100%);
+  transform: translateY(100%);
+  width: 100%;
+  z-index: 2;
+}
+
+.teaser-banner_banner .teaser-banner_banner-background {
+  background: #eee;
+}
+
+.teaser-banner_banner .teaser-banner_banner-wrapper {
+  margin: 0 auto;
+  max-width: 60em; /* May need to be altered depending on content length */
+  padding: 1em;
+  position: relative;
+  text-align: center;
+}
+
+.teaser-banner_banner .teaser-banner_banner-content {
+  display: -ms-inline-flexbox;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.teaser-banner_banner .teaser-banner_banner-text {
+  color: inherit;
+  line-height: 1.4;
+
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+}
+
+.teaser-banner_banner .teaser-banner_banner-button {
+  border: 1px solid currentColor;
   border-radius: 0.5em;
+  display: inline-block;
+  font-size: 0.9em;
+  line-height: 1.3;
+  margin: 0.5em 0 0.5em 0.5em;
+  max-width: 100%;
+  padding: 0.3em 0.5em;
+  vertical-align: middle;
+  min-width: 5em; /* Needs to be altered depending on text in button. Sets the width point when the button can be inline with the main text. */
+  width: 10em; /* Needs to be altered depending on text in button. Acts as a max-width when the button is inline. */
+
+  -webkit-flex: 1 1 0;
+  -ms-flex: 1 1 0;
+  flex: 1 1 0;
+
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
-.fixed-bubble-banner-cos .fixed-bubble-banner-close {
-  z-index: 1;
-  width: 1.3em;
+.teaser-banner_banner .teaser-banner_banner-button-icon {
+  font-size: inherit;
+  line-height: inherit;
+  margin-right: 0.2em;
+}
+
+.teaser-banner_banner .teaser-banner_banner-close {
+  background: #999;
+  border: 0.1em solid #fff;
+  border-radius: 50%;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1.5em;
+  font-weight: bold;
   height: 1.3em;
-  right: 13%;
-  top: -56%;
-  box-shadow: 0.1rem 0 0.2rem 0 rgba(0, 0, 0, 0.1);
+  line-height: 1;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: -0.5em;
+  width: 1.3em;
 }
 
-@media (min-width: 72em) {
-  .fixed-bubble-banner-cos .fixed-bubble-banner-icon {
+.teaser-banner_banner .teaser-banner_banner-close:hover,
+.teaser-banner_banner .teaser-banner_banner-close:focus {
+  background: #f00;
+}
+
+.teaser-banner_banner .teaser-banner_banner-close:active {
+  background: #900;
+}
+
+/*
+============================
+Base Popup Styles
+============================
+*/
+
+.teaser-banner_content {
+  background: #eee;
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 1px 2.5em;
+  position: relative;
+}
+
+.teaser-banner_content a.teaser-banner-cta {
+  font-size: 1.25em;
+}
+
+/*
+============================
+Banner Add-on - Eyebrow
+============================
+*/
+
+.teaser-banner_banner.-eyebrow .teaser-banner_banner-eyebrow {
+  display: none;
+}
+
+/* Media query needs to be adjusted to make sure eyebrow copy is on 1 line. */
+@media (min-width: 60em) {
+  /* padding-top should be adjusted to account for eyebrow. Should be the greater of image vs eyebrow, when applicable. */
+  .teaser-banner_banner.-eyebrow {
+    padding-top: 3em;
+  }
+
+  .teaser-banner_banner.-eyebrow .teaser-banner_banner-eyebrow {
     display: block;
+    background: #bfbfbf;
+    border-radius: 1em 1em 0 0;
+    bottom: 100%;
+    position: absolute;
+    margin: auto;
+    padding: 0.2em 2.2em;
+    left: 0;
+    right: 0;
+  }
+
+  .teaser-banner_banner.-eyebrow .teaser-banner_banner-close {
+    top: -2em;
   }
 }
 
-/* ===== Animations ===== */
+/*
+============================
+Banner Add-on - Image (Outside & Inside)
+============================
+*/
 
-@-webkit-keyframes bounce-in-top {
-  0% {
-    -webkit-transform: translateY(-500px);
-    transform: translateY(-500px);
-    -webkit-animation-timing-function: ease-in;
-    animation-timing-function: ease-in;
-    opacity: 0;
+.teaser-banner_banner.-image img {
+  display: none;
+}
+
+/* Media query needs to be adjusted based on screen space. */
+@media (min-width: 60em) {
+  /* padding-top should be adjusted to account for image height. Should be the greater of image vs eyebrow, when applicable. */
+  .teaser-banner_banner.-image {
+    padding-top: 3.5em;
   }
-  38% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    -webkit-animation-timing-function: ease-out;
-    animation-timing-function: ease-out;
+
+  .teaser-banner_banner.-image img {
+    display: block;
+    bottom: 1em;
+    position: absolute;
+  }
+
+  /* Outside (Default) Rules */
+  .teaser-banner_banner.-image .teaser-banner_banner-wrapper {
+    max-width: 54em;
+  }
+
+  .teaser-banner_banner.-image img {
+    right: 100%;
+  }
+
+  /* Inside Rules */
+  .teaser-banner_banner.-image.-inside .teaser-banner_banner-wrapper {
+    max-width: 61em;
+  }
+
+  .teaser-banner_banner.-image.-inside .teaser-banner_banner-wrapper {
+    /* value should be image width + desired white space */
+    padding-left: 170px;
+    padding-left: calc(150px + 1em);
+  }
+
+  /* For use when an eyebrow is present too */
+  .teaser-banner_banner.-eyebrow.-image.-inside .teaser-banner_banner-eyebrow {
+    /* value should be image width + desired white space */
+    margin-left: 170px;
+    margin-left: calc(150px + 1em);
+  }
+
+  .teaser-banner_banner.-image.-inside img {
+    left: 0.5em;
+  }
+}
+
+/* Banner Overrides */
+
+.teaser-banner_banner .teaser-banner_banner-button {
+  width: 100%;
+}
+
+.teaser-banner_banner.-eyebrow .teaser-banner_banner-eyebrow {
+  font-size: 1.1em;
+  font-weight: bold;
+  background: #21bbee;
+  color: #202124;
+}
+
+.teaser-banner_banner .teaser-banner_banner-button {
+  background: #bd0001;
+  color: #f2f2f2;
+  font-weight: bold;
+  padding: 8px 5px;
+  border: none;
+}
+
+.teaser-banner_banner .teaser-banner_banner-background {
+  background: #202124;
+}
+
+.teaser-banner_banner-headline {
+  color: #f2f2f2;
+}
+
+.teaser-banner_banner.-image img {
+  right: 94%;
+  bottom: 25%;
+  transform: rotate(-20deg);
+  -webkit-animation: flicker-4 8s linear infinite both;
+  animation: flicker-4 8s linear infinite both;
+}
+
+.teaser-banner_banner.-image .teaser-banner_banner-wrapper {
+  max-width: 42em;
+}
+
+/* Animations */
+
+@-webkit-keyframes flicker-4 {
+  0%,
+  100% {
     opacity: 1;
   }
-  55% {
-    -webkit-transform: translateY(-65px);
-    transform: translateY(-65px);
-    -webkit-animation-timing-function: ease-in;
-    animation-timing-function: ease-in;
-  }
-  72% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    -webkit-animation-timing-function: ease-out;
-    animation-timing-function: ease-out;
-  }
-  81% {
-    -webkit-transform: translateY(-28px);
-    transform: translateY(-28px);
-    -webkit-animation-timing-function: ease-in;
-  }
-  90% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    -webkit-animation-timing-function: ease-out;
-    animation-timing-function: ease-out;
-  }
-  95% {
-    -webkit-transform: translateY(-8px);
-    transform: translateY(-8px);
-    -webkit-animation-timing-function: ease-in;
-    animation-timing-function: ease-in;
-  }
-  100% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    -webkit-animation-timing-function: ease-out;
-    animation-timing-function: ease-out;
-  }
-}
-@keyframes bounce-in-top {
-  0% {
-    -webkit-transform: translateY(-500px);
-    transform: translateY(-500px);
-    -webkit-animation-timing-function: ease-in;
-    animation-timing-function: ease-in;
-    opacity: 0;
-  }
-  38% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    -webkit-animation-timing-function: ease-out;
-    animation-timing-function: ease-out;
+  31.98% {
     opacity: 1;
   }
-  55% {
-    -webkit-transform: translateY(-65px);
-    transform: translateY(-65px);
-    -webkit-animation-timing-function: ease-in;
-    animation-timing-function: ease-in;
+  32% {
+    opacity: 0;
   }
-  72% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    -webkit-animation-timing-function: ease-out;
-    animation-timing-function: ease-out;
+  32.8% {
+    opacity: 0;
   }
-  81% {
-    -webkit-transform: translateY(-28px);
-    transform: translateY(-28px);
-    -webkit-animation-timing-function: ease-in;
+  32.82% {
+    opacity: 1;
   }
-  90% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    -webkit-animation-timing-function: ease-out;
-    animation-timing-function: ease-out;
+  34.98% {
+    opacity: 1;
   }
-  95% {
-    -webkit-transform: translateY(-8px);
-    transform: translateY(-8px);
-    -webkit-animation-timing-function: ease-in;
-    animation-timing-function: ease-in;
+  35% {
+    opacity: 0;
   }
+  35.7% {
+    opacity: 0;
+  }
+  35.72% {
+    opacity: 1;
+  }
+  36.98% {
+    opacity: 1;
+  }
+  37% {
+    opacity: 0;
+  }
+  37.6% {
+    opacity: 0;
+  }
+  37.62% {
+    opacity: 1;
+  }
+  67.98% {
+    opacity: 1;
+  }
+  68% {
+    opacity: 0;
+  }
+  68.4% {
+    opacity: 0;
+  }
+  68.42% {
+    opacity: 1;
+  }
+  95.98% {
+    opacity: 1;
+  }
+  96% {
+    opacity: 0;
+  }
+  96.7% {
+    opacity: 0;
+  }
+  96.72% {
+    opacity: 1;
+  }
+  98.98% {
+    opacity: 1;
+  }
+  99% {
+    opacity: 0;
+  }
+  99.6% {
+    opacity: 0;
+  }
+  99.62% {
+    opacity: 1;
+  }
+}
+@keyframes flicker-4 {
+  0%,
   100% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    -webkit-animation-timing-function: ease-out;
-    animation-timing-function: ease-out;
+    opacity: 1;
   }
-}
-
-@-webkit-keyframes shake-vertical {
-  0%,
-  10% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
+  31.98% {
+    opacity: 1;
   }
-  1%,
-  3%,
-  5%,
-  7% {
-    -webkit-transform: translateY(-8px);
-    transform: translateY(-8px);
+  32% {
+    opacity: 0;
   }
-  2%,
-  4%,
-  6% {
-    -webkit-transform: translateY(8px);
-    transform: translateY(8px);
+  32.8% {
+    opacity: 0;
   }
-  8% {
-    -webkit-transform: translateY(6.4px);
-    transform: translateY(6.4px);
+  32.82% {
+    opacity: 1;
   }
-  9% {
-    -webkit-transform: translateY(-6.4px);
-    transform: translateY(-6.4px);
+  34.98% {
+    opacity: 1;
   }
-}
-@keyframes shake-vertical {
-  0%,
-  10% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
+  35% {
+    opacity: 0;
   }
-  1%,
-  3%,
-  5%,
-  7% {
-    -webkit-transform: translateY(-8px);
-    transform: translateY(-8px);
+  35.7% {
+    opacity: 0;
   }
-  2%,
-  4%,
-  6% {
-    -webkit-transform: translateY(8px);
-    transform: translateY(8px);
+  35.72% {
+    opacity: 1;
   }
-  8% {
-    -webkit-transform: translateY(6.4px);
-    transform: translateY(6.4px);
+  36.98% {
+    opacity: 1;
   }
-  9% {
-    -webkit-transform: translateY(-6.4px);
-    transform: translateY(-6.4px);
+  37% {
+    opacity: 0;
+  }
+  37.6% {
+    opacity: 0;
+  }
+  37.62% {
+    opacity: 1;
+  }
+  67.98% {
+    opacity: 1;
+  }
+  68% {
+    opacity: 0;
+  }
+  68.4% {
+    opacity: 0;
+  }
+  68.42% {
+    opacity: 1;
+  }
+  95.98% {
+    opacity: 1;
+  }
+  96% {
+    opacity: 0;
+  }
+  96.7% {
+    opacity: 0;
+  }
+  96.72% {
+    opacity: 1;
+  }
+  98.98% {
+    opacity: 1;
+  }
+  99% {
+    opacity: 0;
+  }
+  99.6% {
+    opacity: 0;
+  }
+  99.62% {
+    opacity: 1;
   }
 }
 	</style>
@@ -1015,7 +1044,7 @@ Fixed Bubble Banner Overrides
 			<div class="featured-content-open-wrapper">
 				<a href="#featured-content" class="featured-content-open featured-content-toggle" role="button" aria-expanded="false" aria-controls="featured-content" aria-label="Open Today’s News" tabindex="7">
 					<span class="nowrap"><span class="fa fa-newspaper-o" aria-hidden="true"></span> Today</span>
-					<span class="notification" hidden="" style="display: inline; opacity: 0.754521;">7 <span class="hidden-a11y">Unread Items</span></span>
+					<span class="notification" hidden="" style="display: inline; opacity: 0.972016;">6 <span class="hidden-a11y">Unread Items</span></span>
 				</a>
 			</div>
 			
@@ -1074,7 +1103,7 @@ Fixed Bubble Banner Overrides
 					<li><a href="https://www.facebook.com/AmericanWritersArtistsInc" tabindex="49" target="_blank"><span class="fa fa-facebook"><span class="hidden-a11y">Join Our Facebook Fan Page</span></span></a></li>
 					<li><a href="https://twitter.com/AWAI_Online" tabindex="50" target="_blank"><span class="fa fa-twitter"><span class="hidden-a11y">Follow Us On Twitter</span></span></a></li>
 					<li><a href="https://www.pinterest.com/awaionline/" tabindex="51" target="_blank"><span class="fa fa-pinterest-p"><span class="hidden-a11y">Follow Us On Pinterest</span></span></a></li>
-					<li><a href="https://www.linkedin.com/groups?gid=726097" tabindex="52" target="_blank"><span class="fa fa-linkedin"><span class="hidden-a11y">Connect With Us On LinkedIn</span></span></a></li>
+					<li><a href="https://www.linkedin.com/groups/726097/" tabindex="52" target="_blank"><span class="fa fa-linkedin"><span class="hidden-a11y">Connect With Us On LinkedIn</span></span></a></li>
 				</ul>
 			
 			</nav>
@@ -1090,64 +1119,60 @@ Fixed Bubble Banner Overrides
 	<li class="featured-content-category-entry">
 	<a href="/news/?l=t" tabindex="55"><span class="fa fa-newspaper-o" aria-hidden="true"></span> News</a>
 	<ul>
-	<li data-page-id="18502" class="featured-content-category-entry-unread">
-	<span><a href="/2019/02/circle-of-success-was-the-turning-point-for-them/?l=t" tabindex="56">Circle of Success Was the Game-Changer in These Members’ Copywriting Careers</a> After going through Circle of Success these members found their copywriting careers taking off.</span>
+	<li data-page-id="19322" class="featured-content-category-entry-unread">
+	<span><a href="/2019/08/self-marketing-secrets-to-a-6-figure-copywriting/?l=t" tabindex="56">What You Need to Build the Business Side of Your Copywriting Career</a> As a copywriter you actually run your own business. Here’s how to make sure you're as profitable as you can be.</span>
 	</li>
-	<li data-page-id="18512" class="featured-content-category-entry-unread">
-	<span><a href="/2019/02/regarding-your-path-to-success/?l=t" tabindex="57">Regarding Your Path To Success: Enrollment Officially Open for Circle of Success</a> Circle of Success, is the only program in the world where you work directly with top people in the business — professional writers and marketers who serve both as teacher and mentors. If you want to become a professional copywriter — but you’re not moving forward as quickly as you’d like to … Then I encourage you to have a look at what Circle of Success has done for others.</span>
-	</li>
-	<li data-page-id="18503" class="featured-content-category-entry-unread">
-	<span><a href="/2019/02/3-pros-share-their-stories-about-bootcamp/?l=t" tabindex="58">3 Pros Share Their Stories, Secrets, and Top Takeaways…  To Help You Navigate Bootcamp Confidently, Have Fun, and Springboard Your Career Forward! </a> 3 Pros Share Their Stories, Secrets, and Top Takeaways… To Help You Navigate Bootcamp Confidently, Have Fun, and Springboard Your Career Forward! 
-</span>
+	<li data-page-id="19298" class="featured-content-category-entry-unread">
+	<span><a href="/2019/08/your-writing-and-our-help/?l=t" tabindex="57">Your Writing + Our Help = Successful Writing Business</a> Earlier this year, a team of experts and I helped a group of writers build complete freelance businesses… ones that were up and running — and attracting new clients with paying projects — in under 30 days. And we’ve decided to do it again… Which means now it’s your turn!</span>
 	</li>
 	</ul>
 	</li>
 	</ul>
 	<ul class="featured-content-category">
 	<li class="featured-content-category-more">
-	<a href="/news/?l=t" tabindex="59">Read More News&nbsp;…</a>
+	<a href="/news/?l=t" tabindex="58">Read More News&nbsp;…</a>
 	</li>
 	</ul>
 	<ul class="featured-content-category">
 	<li class="featured-content-category-entry">
-	<a href="/content/search/?tag=3237&amp;l=t" tabindex="60"> The Writer’s Life</a>
+	<a href="/content/search/?tag=3237&amp;l=t" tabindex="59"> The Writer’s Life</a>
 	<ul>
-	<li data-page-id="18507" class="featured-content-category-entry-unread">
-	<span><a href="/2019/02/how-to-get-started-making-money-as-a-writer/?l=t" tabindex="61">How to Get Started Making Money as a Writer</a> Want to get paid to write but don’t know how to start? AWAI’s been successfully teaching the steps to take for 20+ years. Follow this 9-step blueprint...</span>
+	<li data-page-id="19304" class="featured-content-category-entry-unread">
+	<span><a href="/2019/08/is-this-what-youre-afraid-of/?l=t" tabindex="60">Is This What You’re Afraid Of?</a> If you want to make money as a copywriter, but you feel stuck in a loop of preparation, you may have a hidden fear holding you back. Here’s the solution…</span>
 	</li>
-	<li data-page-id="18489" class="featured-content-category-entry-unread">
-	<span><a href="/2019/02/why-your-business-needs-to-repeat-to-repeat/?l=t" tabindex="62">Why Your Business Needs to Repeat. To Repeat.</a> Your copywriting income can be more predictable when you have work booked for the coming month before the month even begins. Here’s how you find it.</span>
-	</li>
-	</ul>
-	</li>
-	</ul>
-	<ul class="featured-content-category">
-	<li class="featured-content-category-entry">
-	<a href="/content/search/?tag=55&amp;l=t" tabindex="63"> The Golden Thread</a>
-	<ul>
-	<li data-page-id="18504" class="featured-content-category-entry-unread">
-	<span><a href="/2019/02/4-formulas-for-writing-attention-getting-headlines/?l=t" tabindex="64">The Queen of Controls Shares 4 Proven Formulas for Writing Attention-Getting Headlines</a> Use these four proven techniques for writing attention-grabbing headlines, developed by “A-list” copywriter Carline Anglade-Cole, the “Queen of Controls.”</span>
+	<li data-page-id="19302" class="featured-content-category-entry-unread">
+	<span><a href="/2019/08/secret-structure-of-an-effective-linkedin-profile/?l=t" tabindex="61">The Secret Structure of an Effective LinkedIn Profile</a> Getting attention for your freelance writing business is easier when you follow these five tips. Enhance your inbound and outbound marketing efforts.</span>
 	</li>
 	</ul>
 	</li>
 	</ul>
 	<ul class="featured-content-category">
 	<li class="featured-content-category-entry">
-	<a href="/content/search/?tag=4422&amp;l=t" tabindex="65"> B2B Writing Success</a>
+	<a href="/content/search/?tag=2336&amp;l=t" tabindex="62"> Wealthy Web Writer</a>
 	<ul>
-	<li data-page-id="18499" class="featured-content-category-entry-unread">
-	<span><a href="/2019/02/how-do-your-clients-measure-success/?l=t" tabindex="66">How Do Your Clients Measure Success?</a> Do you know how your clients really measure success? It might not be sales, leads, or new clients. To get it right, it pays to do your homework!</span>
+	<li data-page-id="19318" class="featured-content-category-entry-unread">
+	<span><a href="/2019/08/the-money-conversation-tips-for-negotiating-fees/?l=t" tabindex="63">3 Things to Keep in Mind When Talking Money with Clients</a> Do you hate the money conversation? A lot of writers do. But Ilise Benun has three tips that can help you approach talking money with confidence.</span>
+	</li>
+	</ul>
+	</li>
+	</ul>
+	<ul class="featured-content-category">
+	<li class="featured-content-category-entry">
+	<a href="/content/search/?tag=4422&amp;l=t" tabindex="64"> B2B Writing Success</a>
+	<ul>
+	<li data-page-id="19323" class="featured-content-category-entry-unread">
+	<span><a href="/2019/08/5-pitfalls-to-avoid-in-b2b-copywriting/?l=t" tabindex="65">5 Pitfalls to Avoid in B2B Copywriting</a> You probably know the common pitfalls to avoid in your B2B copywriting, but do you know to steer clear of these better-disguised pitfalls?</span>
 	</li>
 	</ul>
 	</li>
 	</ul>
 	<ul class="featured-content-category">
 	<li class="featured-content-category-more">
-	<a href="/content/?l=t" tabindex="67">Read More Free Articles&nbsp;…</a>
+	<a href="/content/?l=t" tabindex="66">Read More Free Articles&nbsp;…</a>
 	</li>
 	</ul>
 			</div>
-			<a href="#featured-content-toggle" class="featured-content-backdrop featured-content-toggle" hidden="" tabindex="68"></a>
+			<a href="#featured-content-toggle" class="featured-content-backdrop featured-content-toggle" hidden="" tabindex="67"></a>
 			<!-- End Featured Content -->
 
 	
@@ -1163,7 +1188,7 @@ Fixed Bubble Banner Overrides
 	<!-- Begin Breadcrumbs -->
 	<div class="breadcrumbs">
 	<div class="bc-bar-left"></div>
-	<a href="/" tabindex="69"><img src="/_img/framework/templates/default/bc-home.gif" height="20" width="14" alt="home"></a><a href="/about/" tabindex="70">About AWAI Copywriting Training Programs </a><span>Privacy Statement</span>
+	<a href="/" tabindex="68"><img src="/_img/framework/templates/default/bc-home.gif" height="20" width="14" alt="home"></a><a href="/about/" tabindex="69">About AWAI Copywriting Training Programs </a><span>Privacy Statement</span>
 	</div>
 	<!-- End Breadcrumbs -->
 	
@@ -1181,23 +1206,23 @@ Fixed Bubble Banner Overrides
 	<p>If you subscribe to The Golden Thread, or purchase any products from American Writers &amp; Artists Inc., your name and email address will be placed in a database. As with all other personal information, only authorized employees of American Writers &amp; Artists Inc. ever have access to this data. We do not give American Writers &amp; Artists Inc. email addresses to outside companies.</p>
 	<p>American Writers &amp; Artists Inc. does not sell or rent your email address to anyone. We may use your name and address to send you information on other American Writers &amp; Artists Inc. products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.</p>
 	<p>Any email you send to American Writers &amp; Artists Inc. is completely confidential. We will not add your name to our email list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.</p>
-	<p>If at any time you wish to be removed from our mailing list, please <a href="/contact/" tabindex="71">contact our Member Services department</a>.</p>
+	<p>If at any time you wish to be removed from our mailing list, please <a href="/contact/" tabindex="70">contact our Member Services department</a>.</p>
 	<h2>Cookies</h2>
 	<p>American Writers &amp; Artists Inc. (AWAI) uses cookies, tracking pixels and related technologies. Our site uses cookies dropped by us or third parties (such as Facebook) for a variety of purposes including to operate and personalize the website. Also, cookies may be used to track how you use the site and to target ads to you on other websites.</p>
-	<p>If you would like to opt-out of the collection and use of information for ad targeting, please visit: <a href="http://www.aboutads.info/choices" tabindex="72" target="_blank">www.aboutads.info/choices</a>.</p>
+	<p>If you would like to opt-out of the collection and use of information for ad targeting, please visit: <a href="http://www.aboutads.info/choices" tabindex="71" target="_blank">www.aboutads.info/choices</a>.</p>
 	<h2>Discussion Board</h2>
 	<p>You are welcome to participate in the American Writers &amp; Artists Inc. Discussion Board. Please note that submitting your email address or a URL is completely voluntary but you do so at your own risk. While American Writers &amp; Artists Inc. does not harvest email addresses from the Discussion Board, there is nothing to prevent an unscrupulous company from doing so.</p>
-	<p>You must submit a name to submit a message to the Discussion Board, but it does not have to be your name; aliases are completely acceptable as long as they are unique and not meant to impersonate another person. If you feel someone is impersonating you on our Discussion Board, please <a href="/contact/" tabindex="73">contact us</a> and we will take all necessary actions, including legal, to correct the matter.</p>
+	<p>You must submit a name to submit a message to the Discussion Board, but it does not have to be your name; aliases are completely acceptable as long as they are unique and not meant to impersonate another person. If you feel someone is impersonating you on our Discussion Board, please <a href="/contact/" tabindex="72">contact us</a> and we will take all necessary actions, including legal, to correct the matter.</p>
 	<p>We reserve the right to remove any messages from the Board which are advertisements to buy or sell securities, are unrelated ads for other products, contain profanity or are otherwise illegal. But ultimately we cannot be held responsible for any claims made on our Discussion Board.</p>
 	<p>If you have any questions or comments you can reach us via our contact page or with the information below.</p>
 	<h2>Disclaimer</h2>
-	<p>American Writers &amp; Artists Inc. does not act as personal career advisors or guarantee employment as a result of taking one of our programs. AWAI provides its members with information about improving their writing, design and photography skills. The executive staff and Board of Advisors who contribute to AWAI's programs are proud of the reputation AWAI has built since its inception in 1997. We believe the information presented to our members in our published resources and at our meetings and seminars is the best and most useful available to people interested in writing and graphic design today. The information presented in AWAI programs is for the exclusive use of AWAI members. Copying or disseminating any information published by AWAI, electronic or otherwise is strictly prohibited. Members should be aware that AWAI is not a school nor does it offer any degrees recognized by employers. Income results may vary.</p>
+	<p>American Writers &amp; Artists Inc. does not act as personal career advisors or guarantee employment as a result of taking one of our programs. AWAI provides its members with information about improving their writing, and design. The executive staff and Board of Advisors who contribute to AWAI's programs are proud of the reputation AWAI has built since its inception in 1997. We believe the information presented to our members in our published resources and at our meetings and seminars is the best and most useful available to people interested in writing and graphic design today. The information presented in AWAI programs is for the exclusive use of AWAI members. Copying or disseminating any information published by AWAI, electronic or otherwise is strictly prohibited. Members should be aware that AWAI is not a school nor does it offer any degrees recognized by employers. Income results may vary.</p>
 	<p class="center"><strong>American Writers &amp; Artists Inc.</strong><br>
 	101 SE 6th Avenue, Suite A • Delray Beach, FL 33483<br>
 	Phone: (561) 278-5557</p>
 	<div class="content-details">
 	<div class="sharing-panel">
-	<a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F" class="facebook-link" tabindex="74" target="_blank">Facebook</a> &nbsp; <a href="http://twitter.com/share?url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F&amp;text=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement" class="twitter-link" tabindex="75" target="_blank">Twitter</a> &nbsp; <a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F&amp;media=https%3A%2F%2Fwww.awai.com%2F_img%2Fframework%2Ftemplates%2Fdefault%2F2012%2Flogo.png&amp;description=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement" class="pinterest-link" tabindex="76" target="_blank">Pinterest</a> &nbsp; <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F&amp;title=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement&amp;summary=American+Writers+%26amp%3B+Artists+Inc.+takes+individual+privacy+very+seriously.+We+are+also+aware+of+the+threats+to+your+security+and+privacy+on+the+Internet.&amp;source=American+Writers+%26amp%3B+Artists+Inc." class="linkedin-link" tabindex="77" target="_blank">LinkedIn</a> &nbsp; <a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F" class="google-link" tabindex="78" target="_blank">Google+</a> &nbsp; <a href="/send-to-friend/?url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F&amp;TB_iframe=true" class="mail-link thickbox" rel="nofollow" tabindex="79">Email a Friend</a>
+	<a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F" class="facebook-link" tabindex="73" target="_blank">Facebook</a> &nbsp; <a href="http://twitter.com/share?url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F&amp;text=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement" class="twitter-link" tabindex="74" target="_blank">Twitter</a> &nbsp; <a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F&amp;media=https%3A%2F%2Fwww.awai.com%2F_img%2Fframework%2Ftemplates%2Fdefault%2F2012%2Flogo.png&amp;description=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement" class="pinterest-link" tabindex="75" target="_blank">Pinterest</a> &nbsp; <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F&amp;title=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement&amp;summary=American+Writers+%26amp%3B+Artists+Inc.+takes+individual+privacy+very+seriously.+We+are+also+aware+of+the+threats+to+your+security+and+privacy+on+the+Internet.&amp;source=American+Writers+%26amp%3B+Artists+Inc." class="linkedin-link" tabindex="76" target="_blank">LinkedIn</a> &nbsp; <a href="/send-to-friend/?url=https%3A%2F%2Fwww.awai.com%2Fabout%2Fprivacy%2F&amp;TB_iframe=true" class="mail-link thickbox" rel="nofollow" tabindex="77">Email a Friend</a>
 	</div>
 		</div>
 	</div>
@@ -1215,7 +1240,7 @@ Fixed Bubble Banner Overrides
 	<p><strong class="indigo">Call Member Services</strong><br>
 	<strong class="big wine"><span class="big">866-879-2924</span> (Toll Free)</strong><br>
 	<span class="gray">Mon – Fri 8:30 AM to 5:00 PM ET</span><br>
-	<a href="/contact/?l=sb" class="bold not-visited" tabindex="80">More Ways to Contact Us »</a></p>
+	<a href="/contact/?l=sb" class="bold not-visited" tabindex="78">More Ways to Contact Us »</a></p>
 </div>
 
 
@@ -1236,68 +1261,68 @@ Fixed Bubble Banner Overrides
 		<div class="footer-inner cf">
 			<div class="footer-inner-top-row">
 				<ul class="social-links">
-					<li><a href="https://www.facebook.com/AmericanWritersArtistsInc" tabindex="81" target="_blank"><span class="fa fa-facebook"><span class="hidden-a11y">Join Our Facebook Fan Page</span></span></a></li>
-					<li><a href="https://twitter.com/AWAI_Online" tabindex="82" target="_blank"><span class="fa fa-twitter"><span class="hidden-a11y">Follow Us On Twitter</span></span></a></li>
-					<li><a href="https://www.pinterest.com/awaionline/" tabindex="83" target="_blank"><span class="fa fa-pinterest-p"><span class="hidden-a11y">Follow Us On Pinterest</span></span></a></li>
-					<li><a href="https://www.linkedin.com/groups?gid=726097" tabindex="84" target="_blank"><span class="fa fa-linkedin"><span class="hidden-a11y">Connect With Us On LinkedIn</span></span></a></li>
+					<li><a href="https://www.facebook.com/AmericanWritersArtistsInc" tabindex="79" target="_blank"><span class="fa fa-facebook"><span class="hidden-a11y">Join Our Facebook Fan Page</span></span></a></li>
+					<li><a href="https://twitter.com/AWAI_Online" tabindex="80" target="_blank"><span class="fa fa-twitter"><span class="hidden-a11y">Follow Us On Twitter</span></span></a></li>
+					<li><a href="https://www.pinterest.com/awaionline/" tabindex="81" target="_blank"><span class="fa fa-pinterest-p"><span class="hidden-a11y">Follow Us On Pinterest</span></span></a></li>
+					<li><a href="https://www.linkedin.com/groups/726097/" tabindex="82" target="_blank"><span class="fa fa-linkedin"><span class="hidden-a11y">Connect With Us On LinkedIn</span></span></a></li>
 				</ul>
-				<p class="text-ad"><a href="/make-money-writing/" tabindex="85">Begin writing for money and enjoying the writer's life with AWAI! &nbsp; <span class="footer-button">Learn more</span></a></p>
+				<p class="text-ad"><a href="/make-money-writing/" tabindex="83">Begin writing for money and enjoying the writer's life with AWAI! &nbsp; <span class="footer-button">Learn more</span></a></p>
 			</div>
 			<div id="search" class="footer-search" role="search">
 				<form action="/search/" method="get" class="search">
 					<div class="search-input-container">
 						<label for="footer-q"><span class="fa fa-search"></span> <span class="hidden-a11y">Search</span> | </label>
-						<input type="search" name="q" id="footer-q" placeholder="Search" tabindex="86"><button type="submit" tabindex="87">Search</button>
+						<input type="search" name="q" id="footer-q" placeholder="Search" tabindex="84"><button type="submit" tabindex="85">Search</button>
 					</div>
 				</form>
 			</div>
 			<div class="footer-nav-container">
 				<ul class="footer-nav-list">
 					<li class="footer-nav-list-headline">Free Resources</li>
-					<li><a href="/content/" tabindex="88">Article Search</a></li>
-					<li><a href="/copywriter-rates/" tabindex="89">Pricing Guide</a></li>
-					<li><a href="/inside-awai/" tabindex="90">How-To Webinars</a></li>
-					<li><a href="/writing-prompts/" tabindex="91">Writing Prompts</a></li>
-					<li><a href="/glossary/" tabindex="92">Glossary</a></li>
+					<li><a href="/content/" tabindex="86">Article Search</a></li>
+					<li><a href="/copywriter-rates/" tabindex="87">Pricing Guide</a></li>
+					<li><a href="/inside-awai/" tabindex="88">How-To Webinars</a></li>
+					<li><a href="/writing-prompts/" tabindex="89">Writing Prompts</a></li>
+					<li><a href="/glossary/" tabindex="90">Glossary</a></li>
 				</ul>
 
 				<ul class="footer-nav-list">
 					<li class="footer-nav-list-headline">Products &amp; Training</li>
-					<li><a href="/catalog/?l=sn1" tabindex="93">Product Catalog</a></li>
-					<li><a href="/copywriting/" tabindex="94">Copywriting Training</a></li>
-					<li><a href="/catalog/?l=sn2" tabindex="95">Self-Guided Programs</a></li>
-					<li><a href="/live-events/" tabindex="96">Live Training Events</a></li>
-					<li><a href="/news/" tabindex="97">Special Offers / News</a></li>
+					<li><a href="/catalog/?l=sn1" tabindex="91">Product Catalog</a></li>
+					<li><a href="/copywriting/" tabindex="92">Copywriting Training</a></li>
+					<li><a href="/catalog/?l=sn2" tabindex="93">Self-Guided Programs</a></li>
+					<li><a href="/live-events/" tabindex="94">Live Training Events</a></li>
+					<li><a href="/news/" tabindex="95">Special Offers / News</a></li>
 				</ul>
 
 				<ul class="footer-nav-list">
 					<li class="footer-nav-list-headline">About Us</li>
-					<li><a href="/about/" tabindex="98">About AWAI</a></li>
-					<li><a href="/about/promise/" tabindex="99">Our Promise</a></li>
-					<li><a href="/about/experts/" tabindex="100">Meet the Experts</a></li>
-					<li><a href="/about/staff/" tabindex="101">Meet the Team</a></li>
-					<li><a href="/about/testimonials/" tabindex="102">Testimonials / Stories</a></li>
-					<li><a href="/case-studies/" tabindex="103">Case Studies</a></li>
-					<li><a href="/freelancer-directory/" tabindex="104">Directory of Writers</a></li>
+					<li><a href="/about/" tabindex="96">About AWAI</a></li>
+					<li><a href="/about/promise/" tabindex="97">Our Promise</a></li>
+					<li><a href="/about/experts/" tabindex="98">Meet the Experts</a></li>
+					<li><a href="/about/staff/" tabindex="99">Meet the Team</a></li>
+					<li><a href="/about/testimonials/" tabindex="100">Testimonials / Stories</a></li>
+					<li><a href="/case-studies/" tabindex="101">Case Studies</a></li>
+					<li><a href="/freelancer-directory/" tabindex="102">Directory of Writers</a></li>
 				</ul>
 
 				<ul class="footer-nav-list">
 					<li class="footer-nav-list-headline">Help &amp; Support</li>
-					<li><a href="/help/" tabindex="105">Help</a></li>
-					<li><a href="/contact/" tabindex="106">Contact Us</a></li>
-					<li><a href="/faq/" tabindex="107">FAQs</a></li>
-					<li><a href="/aboutmyawai/" tabindex="108">What is myAWAI?</a></li>
+					<li><a href="/help/" tabindex="103">Help</a></li>
+					<li><a href="/contact/" tabindex="104">Contact Us</a></li>
+					<li><a href="/faq/" tabindex="105">FAQs</a></li>
+					<li><a href="/aboutmyawai/" tabindex="106">What is myAWAI?</a></li>
 				</ul>
 
 				<ul class="footer-nav-list">
 					<li class="footer-nav-list-headline">Members</li>
-					<li><a href="/members/" tabindex="109">Member Area</a></li>
-					<li><a href="/aboutmyawai/" tabindex="110">About myAWAI</a></li>
-					<li><a href="/groupsite/" tabindex="111">Member Forums</a></li>
-					<li><a href="/calendar/" tabindex="112">Calendar</a></li>
-					<li><a href="/job-opportunities/" tabindex="113">Job Opportunities</a></li>
-					<li><a href="/members/catalog/" tabindex="114">Member Catalog</a></li>
-					<li><a href="/members/" tabindex="115">Login</a></li>
+					<li><a href="/members/" tabindex="107">Member Area</a></li>
+					<li><a href="/aboutmyawai/" tabindex="108">About myAWAI</a></li>
+					<li><a href="/groupsite/" tabindex="109">Member Forums</a></li>
+					<li><a href="/calendar/" tabindex="110">Calendar</a></li>
+					<li><a href="/job-opportunities/" tabindex="111">Job Opportunities</a></li>
+					<li><a href="/members/catalog/" tabindex="112">Member Catalog</a></li>
+					<li><a href="/members/" tabindex="113">Login</a></li>
 				</ul>
 
 			</div>
@@ -1308,17 +1333,17 @@ Fixed Bubble Banner Overrides
 					Delray Beach, FL 33483<br>
 					(561) 278-5557 or (866) 879-2924</p>
 				</div>
-				<div class="security-badges"><a href="https://www.bbb.org/south-east-florida/business-reviews/copywriting/american-writers-and-artists-in-delray-beach-fl-26000012#sealclick" title="Better Business Bureau Accredited Business" tabindex="116" target="_blank"><img src="/_img/toolbox/logos/bbb.png" alt="BBB Accredited Business" title="Better Business Bureau Accredited Business" height="32"></a> <a href="https://www.mcafeesecure.com/RatingVerify?ref=www.awai.com" title="McAfee Secure Verified" tabindex="117" target="_blank"><img src="https://images.scanalert.com/meter/www.awai.com/12.gif" alt="McAfee Secure tested daily" title="McAfee Secure Verified" height="32"></a></div>
+				<div class="security-badges"><a href="https://www.bbb.org/south-east-florida/business-reviews/copywriting/american-writers-and-artists-in-delray-beach-fl-26000012#sealclick" title="Better Business Bureau Accredited Business" tabindex="114" target="_blank"><img src="/_img/toolbox/logos/bbb.png" alt="BBB Accredited Business" title="Better Business Bureau Accredited Business" height="32"></a> <a href="https://www.mcafeesecure.com/RatingVerify?ref=www.awai.com" title="McAfee Secure Verified" tabindex="115" target="_blank"><img src="https://images.scanalert.com/meter/www.awai.com/12.gif" alt="McAfee Secure tested daily" title="McAfee Secure Verified" height="32"></a></div>
 			</div>
 			<hr class="footer-rule">
-			<p class="copyright">Copyright © 2019 <a href="/" tabindex="118">American Writers &amp; Artists Inc.</a></p>
+			<p class="copyright">Copyright © 2019 <a href="/" tabindex="116">American Writers &amp; Artists Inc.</a></p>
 			<div class="footer-nav-secondary">
 				<ul>
-					<li><a href="/about/privacy/" tabindex="119">Privacy Policy</a></li>
-					<li><a href="/help/" tabindex="120">Help</a></li>
-					<li><a href="/sitemap/" tabindex="121">Site Map</a></li>
-					<li><a href="/rss/main/rss.xml" class="popup" tabindex="122" target="_blank">RSS Feed</a></li>
-					<li><a href="/contact/" tabindex="123">Contact Us</a></li>
+					<li><a href="/about/privacy/" tabindex="117">Privacy Policy</a></li>
+					<li><a href="/help/" tabindex="118">Help</a></li>
+					<li><a href="/sitemap/" tabindex="119">Site Map</a></li>
+					<li><a href="/rss/main/rss.xml" class="popup" tabindex="120" target="_blank">RSS Feed</a></li>
+					<li><a href="/contact/" tabindex="121">Contact Us</a></li>
 				</ul>
 			</div>
 		</div>
