@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefactory.ro privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517002036id_/http%3A//www.thefactory.ro/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefactory.ro privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808172031id_/http%3A//www.thefactory.ro/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
