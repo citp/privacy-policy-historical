@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentationpro.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620032250id_/http%3A//www.presentationpro.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentationpro.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808093127id_/http%3A//www.presentationpro.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # PresentationPro Privacy Statement
 
