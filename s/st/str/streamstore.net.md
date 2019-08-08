@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamstore.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191201id_/http%3A//streamstore.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamstore.net privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808190825id_/http%3A//streamstore.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stream Store
 
