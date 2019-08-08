@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pentasecurity.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227220408id_/https%3A//www.pentasecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentasecurity.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808085101id_/https%3A//www.pentasecurity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Penta Security
 
