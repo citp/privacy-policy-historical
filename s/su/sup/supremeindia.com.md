@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supremeindia.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608235158id_/http%3A//www.supremeindia.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supremeindia.com privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808092757id_/http%3A//www.supremeindia.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
