@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uniqlo.com privacy policy that was archived on 2019-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190606233526id_/https%3A//www.uniqlo.com/us/en/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uniqlo.com privacy policy that was archived on 2019-08-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190809001255id_/https%3A//www.uniqlo.com/us/en/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 
@@ -111,7 +111,7 @@
 }
 </script>
 
-<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/../images/favicon.ico" rel="shortcut icon">
+<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/../images/favicon.ico" rel="shortcut icon">
 
 
 
@@ -124,13 +124,13 @@
 
 
 
-<link rel="stylesheet" href="/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/css/fontfaces.css" type="text/css" crossorigin="">
-<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/css/allinone.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/css/fontfaces.css" type="text/css" crossorigin="">
+<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/css/allinone.css" rel="stylesheet" type="text/css">
 <!--[if gte IE 9 | !IE]><!-->
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <![endif]-->
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
@@ -142,12 +142,12 @@
 
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/js/lib/html5.js"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/js/lib/html5.js"></script>
 <![endif]-->
 
 
 
-<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/certona/css/resonance.css" type="text/css" rel="stylesheet">
+<link href="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/certona/css/resonance.css" type="text/css" rel="stylesheet">
 
 
 <script type="text/javascript">//<!--
@@ -190,6 +190,9 @@ dw.ac = {
 /* <![CDATA[ (head-cquotient.js) */
 var CQuotient = window.CQuotient = {};
 CQuotient.clientId = 'bbbx-UniqloUS';
+CQuotient.realm = 'BBBX';
+CQuotient.siteId = 'UniqloUS';
+CQuotient.instanceType = 'prd';
 CQuotient.activities = [];
 CQuotient.cqcid='';
 CQuotient.cquid='';
@@ -232,11 +235,15 @@ CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
 		} // not handling the other dw.ac.* events currently
 	}
 };
-CQuotient.trackViewProduct = function(/* Object */ productData){
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
 	var cq_params = {};
 	cq_params.cookieId = CQuotient.getCQCookieId();
 	cq_params.userId = CQuotient.getCQUserId();
-	cq_params.product = productData;
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	
 	if(CQuotient.sendActivity) {
 		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
 	} else {
@@ -354,11 +361,12 @@ dataLayer =[{
   "pageCategory": "privacy-security",
   "visitorLoginState": "guest",
   "user_email_hashed": "",
+  "user_email_nonhashed": "",
   "customerCountry": "US",
   "customerState": null,
   "dwId": "",
-  "userId": "bcaEqa2Ofgemj6ajWiC4KeGezK",
-  "sessionId": "-6_iljD_r5YLD5tZklh5o7F3q2pNkQgO_Q0="
+  "userId": "abv5IyVDuAModuy42RvQxmc0fR",
+  "sessionId": "gguXUWLRq3J4sGeX1pDvqhUxqENeYBs9BJQ="
 }];
 </script>
  
@@ -450,9 +458,7 @@ resx.top2 = 100000;
 
 
 
-
-                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"251092",ustr:"",originlat:"0",clientrtt:"3",ghostip:"23.61.195.180",ipv6:false,pct:"10",clientip:"207.241.232.121",requestid:"1376eb0",region:"17497",protocol:"",blver:14,akM:"x",akN:"ae",akTT:"O",akTX:"1",akTI:"1376eb0",ai:"355545",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
-                    <script>bazadebezolkohpepadr="627480240"</script><script type="text/javascript" src="https://www.uniqlo.com/akam/11/256696ca" defer=""></script></head>
+<script>bazadebezolkohpepadr="627479020"</script><script type="text/javascript" src="https://www.uniqlo.com/akam/11/25669146" defer=""></script></head>
 <body>
 <div id="wrapper" class="pt_primary header-wrapper">
 
@@ -588,21 +594,26 @@ resx.top2 = 100000;
 
 
 <div class="content-asset" id="header-promo-banner"><!-- dwMarker="content" dwContentID="5cb3774bae59f251e51d015b4b" -->
-<p class="free-shipping red"><strong>Free Shipping on Orders $75+</strong></p>
+<p class="free-shipping"><strong class="red">FREE Shipping on Orders $75+</strong>
 <style>
 .free-shipping {
     display: inline-block;
     font-size: 15px;
     font-family: "UniqloProBold", arial;
     font-weight: normal;
-    color: red;
+    color: black;
     display: inline-block;
     float: left;
     margin-top: 3px;
     text-transform: none;
+   position: absolute;
 }
 
-.free-shipping.red {
+.header-wrapper .promo-container .promo-banner {
+    position: absolute;
+}
+
+.free-shipping .red {
     font-size: 15px;
     color: red;
 }
@@ -611,13 +622,34 @@ resx.top2 = 100000;
     width: 39%;
 }
 
+@media (max-width: 1180px) {
+    li.frined {
+        display: none !important;
+    }
+}
+
+@media (max-width: 1180px) {
+    li.frined {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1070px) and (min-width: 1024px){
+.header-wrapper .promo-container .more-details .top-bar-menu-items li.carrer {
+    display: none;
+}
+}
+
 @media (max-width: 1024px) {
     .desktop_uniqlo .header-wrapper .promo-container .promo-banner {
         width: 51%;
     }
 }
+.header-wrapper .top-banner {
+    max-width: 1280px;
+}
 </style>
-</div> <!-- End content-asset -->
+</p></div> <!-- End content-asset -->
 
 
 
@@ -707,7 +739,7 @@ resx.top2 = 100000;
     <li class="giftcard">
         <a href="https://www.uniqlo.com/us/en/bulk-order.html">
                     <span class="e-giftcart"></span>
-                    <strong> Bulk Order </strong>
+                    <strong>Bulk</strong>
                 </a>
     </li>
     <li class="stores">
@@ -757,7 +789,7 @@ resx.top2 = 100000;
 }
 
 .header-wrapper .promo-container ul.stores li a span.e-giftcart {
-    background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/v1559848273902/bulk-1.png?$png$") no-repeat;
+    background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/v1565301733597/bulk-1.png?$png$") no-repeat;
     height: 20px;
     width: 19px;
     display: inline-block;
@@ -797,7 +829,7 @@ resx.top2 = 100000;
 }
 
 .header-wrapper .promo-container ul.more-details .top-bar-menu-items li a span.e-giftcart {
-    background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/v1559848273902/bulk-1.png?$png$") no-repeat;
+    background: url("https://www.uniqlo.com/na-static/on/demandware.static/-/Library-Sites-Uniqlo/default/v1565301733597/bulk-1.png?$png$") no-repeat;
     height: 20px;
     width: 19px;
     display: inline-block;
@@ -965,7 +997,7 @@ Women
 
 
 
-<a class="notclickable label bold  navlarge notclickable " href="/us/en/women/tops-1">
+<a class="notclickable label bold  navlarge notclickable " href="/us/en/women/tops">
 
 Tops
 </a>
@@ -1007,34 +1039,6 @@ T-Shirts
 
 UT: Graphic Tees
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1139,6 +1143,8 @@ Sweaters and Cardigans
 
 
 
+
+
 </li>
 
 
@@ -1193,6 +1199,8 @@ Ultra Light Down Collection
 
 
 
+
+
 </li>
 
 
@@ -1209,6 +1217,35 @@ Ultra Light Down Collection
 
 Jackets
 </a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/women/fleece">
+
+Fleece
+</a>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1268,9 +1305,41 @@ Dresses and Jumpsuits
 
 
 </li><li>
-<a class="regular gray " href="/us/en/women/dresses-and-jumpsuits/bra-dresses">
+<a class="regular gray " href="/us/en/women/dresses-and-jumpsuits/long-sleeve-dresses">
 
-Bra Dresses
+Long Sleeve Dresses
+</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+<li>
+<a class="regular gray " href="/us/en/women/dresses-and-jumpsuits/3%2F4-sleeve-dresses">
+
+3/4 Sleeve Dresses
+</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+<li>
+<a class="regular gray " href="/us/en/women/dresses-and-jumpsuits/short-sleeve-dresses">
+
+Short Sleeve Dresses
 </a>
 </li>
 
@@ -1299,16 +1368,14 @@ Sleeveless Dresses
 
 
 
-<li>
-<a class="regular gray " href="/us/en/women/dresses-and-jumpsuits/short-sleeve-dresses">
 
-Short Sleeve Dresses
+
+<li>
+<a class="regular gray " href="/us/en/women/dresses-and-jumpsuits/bra-dresses">
+
+Bra Dresses
 </a>
 </li>
-
-
-
-
 
 
 
@@ -1419,6 +1486,14 @@ Skirts
 
 Jeans
 </a>
+
+
+
+
+
+
+
+
 
 
 
@@ -2017,11 +2092,11 @@ Featured Collections
 
 
 
-<a class="regular gray  " href="/us/en/women/wide-pants">
+<a class="regular gray  " href="/us/en/women/back-to-campus">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-Wide Pants
+Back To Campus
 </a>
 
 
@@ -2038,9 +2113,11 @@ Wide Pants
 
 
 
-<a class="   " href="/us/en/women/uv-cut">
+<a class="   " href="/us/en/women/curved-pants">
 
-UV Cut
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Curved Pants
 </a>
 
 
@@ -2057,12 +2134,10 @@ UV Cut
 
 
 
-<a class="regular gray  " href="/us/en/women/linen-collection">
+<a class="regular gray  " href="/us/en/women/wear-to-work">
 
-Linen Collection
+Wear To Work
 </a>
-
-
 
 
 
@@ -2094,10 +2169,14 @@ Linen Collection
 
 
 
-<a class="regular gray  " href="/us/en/women/vacation-shop">
+<a class="regular gray  " href="/us/en/women/trend-report">
 
-Vacation Shop
+Trend Report
 </a>
+
+
+
+
 
 
 
@@ -2158,33 +2237,6 @@ Uniqlo Essentials
 
 
 
-<a class="regular gray  " href="/us/en/women/wear-to-work">
-
-Wear To Work
-</a>
-
-
-
-
-
-
-
-
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
 <a class="notclickable label bold  navlarge notclickable " href="/us/en/women/special-collaborations">
 
 Special Collaborations
@@ -2204,11 +2256,74 @@ Special Collaborations
 
 
 
-<a class="regular gray  " href="/us/en/women/manga">
+<a class="regular gray  " href="/us/en/women/one-piece">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-Manga
+One Piece
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/women/edo-ukiyo-e">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Edo Ukiyo-E
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/women/andy-warhol">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Andy Warhol
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/women/keith-haring">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Keith Haring
 </a>
 
 
@@ -2256,69 +2371,6 @@ View All &gt;
 
 New Arrivals
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="clickable featured bold arrow navlarge " href="/us/en/women/limited-time-offers">
-
-Limited-Time Offers
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2589,40 +2641,6 @@ UT: Graphic Tees
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
 
 
@@ -2699,6 +2717,25 @@ Dress Shirts
 
 
 
+<a class="regular gray  " href="/us/en/men/customized-for-you-easy-care-shirts">
+
+Customized For You: Easy Care Shirts
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
 <a class="regular gray  " href="/us/en/men/polo-shirts">
 
 Polo Shirts
@@ -2757,6 +2794,8 @@ Sweatshirts
 
 Sweaters
 </a>
+
+
 
 
 
@@ -2867,6 +2906,45 @@ Jackets
 
 
 
+<a class="regular gray  " href="/us/en/men/fleece">
+
+Fleece
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
 <a class="regular gray  " href="/us/en/men/shop-all-outerwear-%3E">
 
 Shop All Outerwear &gt;
@@ -2880,6 +2958,122 @@ Shop All Outerwear &gt;
 
 
 
+
+<ul class="menu-vertical ">
+
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="notclickable label bold  navlarge " href="/us/en/men/sweatshirts-and-sweatpants">
+
+Sweatshirts and Sweatpants
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+</li><li>
+<a class="regular gray " href="/us/en/men/sweatshirts-and-sweatpants/hoodies">
+
+Hoodies
+</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+<li>
+<a class="regular gray " href="/us/en/men/sweatshirts-and-sweatpants/pullovers">
+
+Pullovers
+</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+<a class="regular gray " href="/us/en/men/sweatshirts-and-sweatpants/dry-stretch-sweat">
+
+DRY Stretch Sweat
+</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+<li>
+<a class="regular gray " href="/us/en/men/sweatshirts-and-sweatpants/classic-sweat">
+
+Classic Sweat
+</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+<li>
+<a class="regular gray " href="/us/en/men/sweatshirts-and-sweatpants/sweatpants">
+
+Sweatpants
+</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
 
 
 
@@ -3057,6 +3251,25 @@ Shorts
 
 
 
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/men/sweatpants">
+
+Sweatpants
+</a>
 
 
 
@@ -3456,12 +3669,33 @@ Featured Collections
 
 
 
-<a class="regular gray  " href="/us/en/men/fathers-day-shop">
+<a class="regular gray  " href="/us/en/men/back-to-campus">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-Father's Day Shop
+Back To Campus
 </a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/men/wear-to-work">
+
+Wear To Work
+</a>
+
+
 
 
 
@@ -3493,8 +3727,6 @@ Father's Day Shop
 
 <a class="regular gray  " href="/us/en/men/ambassador-gamewear">
 
-<span class="badge " style="background:transparent;color:red ;">new  </span>
-
 Ambassador Gamewear
 </a>
 
@@ -3524,9 +3756,9 @@ Ambassador Gamewear
 
 
 
-<a class="   " href="/us/en/men/uv-cut">
+<a class="   " href="/us/en/men/kando-pants">
 
-UV Cut
+Kando Pants
 </a>
 
 
@@ -3543,55 +3775,10 @@ UV Cut
 
 
 
-<a class="regular gray  " href="/us/en/men/linen-collection">
+<a class="regular gray  " href="/us/en/men/ankle-pants">
 
-Linen Collection
+Ankle Pants
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="regular gray  " href="/us/en/men/vacation-shop">
-
-Vacation Shop
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3638,33 +3825,6 @@ Uniqlo Essentials
 
 
 
-<a class="regular gray  " href="/us/en/men/wear-to-work">
-
-Wear To Work
-</a>
-
-
-
-
-
-
-
-
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
 <a class="notclickable label bold  navlarge notclickable " href="/us/en/men/special-collaborations">
 
 Special Collaborations
@@ -3684,16 +3844,12 @@ Special Collaborations
 
 
 
-<a class="regular gray  " href="/us/en/men/engineered-garments">
+<a class="regular gray  " href="/us/en/men/one-piece">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-Engineered Garments
+One Piece
 </a>
-
-
-
-
 
 
 
@@ -3709,11 +3865,53 @@ Engineered Garments
 
 
 
-<a class="regular gray  " href="/us/en/men/manga">
+<a class="regular gray  " href="/us/en/men/edo-ukiyo-e">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-Manga
+Edo Ukiyo-E
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/men/andy-warhol">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Andy Warhol
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/men/keith-haring">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Keith Haring
 </a>
 
 
@@ -3761,63 +3959,6 @@ View All &gt;
 
 New Arrivals
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="clickable featured bold arrow navlarge " href="/us/en/men/limited-time-offers">
-
-Limited-Time Offers
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4074,20 +4215,6 @@ Shirts and Blouses
 
 
 
-
-
-<li>
-<a class="regular gray " href="/us/en/girls/t-shirts-and-tops/sweaters">
-
-Sweaters
-</a>
-</li>
-
-
-
-
-
-
 <li class="">
 
 
@@ -4104,6 +4231,10 @@ UT: Graphic Tees
 
 
 
+</li>
+
+
+<li class="">
 
 
 
@@ -4112,19 +4243,10 @@ UT: Graphic Tees
 
 
 
+<a class="regular gray  " href="/us/en/girls/sweatshirts">
 
-
-
-
-
-
-
-
-
-
-
-
-
+Sweatshirts
+</a>
 
 
 
@@ -4172,14 +4294,14 @@ Warm Padded
 
 
 
+
+
 <li>
 <a class="regular gray " href="/us/en/girls/outerwear/jackets-and-coats">
 
 Jackets and Coats
 </a>
 </li>
-
-
 
 
 
@@ -4239,9 +4361,9 @@ Dresses and Skirts
 
 
 </li><li>
-<a class="regular gray " href="/us/en/girls/dresses-and-skirts/dresses">
+<a class="regular gray " href="/us/en/girls/dresses-and-skirts/skirts">
 
-Dresses
+Skirts
 </a>
 </li>
 
@@ -4255,9 +4377,9 @@ Dresses
 
 
 <li>
-<a class="regular gray " href="/us/en/girls/dresses-and-skirts/skirts">
+<a class="regular gray " href="/us/en/girls/dresses-and-skirts/dresses">
 
-Skirts
+Dresses
 </a>
 </li>
 
@@ -4450,14 +4572,10 @@ Innerwear and Loungewear
 
 
 
-
-
-
-
 </li><li>
-<a class="regular gray " href="/us/en/girls/innerwear-and-loungewear/leggings-and-tights">
+<a class="regular gray " href="/us/en/girls/innerwear-and-loungewear/undershirts">
 
-Leggings and Tights
+Undershirts
 </a>
 </li>
 
@@ -4470,10 +4588,14 @@ Leggings and Tights
 
 
 
-<li>
-<a class="regular gray " href="/us/en/girls/innerwear-and-loungewear/undershirts">
 
-Undershirts
+
+
+
+<li>
+<a class="regular gray " href="/us/en/girls/innerwear-and-loungewear/leggings-and-tights">
+
+Leggings and Tights
 </a>
 </li>
 
@@ -4697,6 +4819,31 @@ Featured Collections
 
 
 
+<a class="regular gray  " href="/us/en/girls/back-to-school">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Back To School
+</a>
+
+
+
+
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
 <a class="regular gray  " href="/us/en/girls/online-exclusives">
 
 Online Exclusives
@@ -4745,11 +4892,11 @@ Special Collaborations
 
 
 
-<a class="regular gray  " href="/us/en/girls/manga">
+<a class="regular gray  " href="/us/en/girls/one-piece">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-Manga
+One Piece
 </a>
 
 
@@ -4766,11 +4913,11 @@ Manga
 
 
 
-<a class="regular gray  " href="/us/en/girls/the-brands-hawaiian-loco">
+<a class="regular gray  " href="/us/en/girls/keith-haring">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-The Brands Hawaiian Loco
+Keith Haring
 </a>
 
 
@@ -4937,45 +5084,6 @@ New Arrivals
 
 </li>
 
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="clickable featured bold arrow navlarge " href="/us/en/girls/limited-time-offers">
-
-Limited-Time Offers
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</li>
-
 </ul>
 
 
@@ -5058,7 +5166,23 @@ T-Shirts and Tops
 
 
 
+
+
+
+</li><li>
+<a class="regular gray " href="/us/en/boys/t-shirts-and-tops/shirts">
+
+Shirts
+</a>
 </li>
+
+
+
+
+
+
+
+
 
 
 <li class="">
@@ -5077,6 +5201,10 @@ UT: Graphic Tees
 
 
 
+</li>
+
+
+<li class="">
 
 
 
@@ -5085,19 +5213,10 @@ UT: Graphic Tees
 
 
 
+<a class="regular gray  " href="/us/en/boys/sweatshirts-1">
 
-
-
-
-
-
-
-
-
-
-
-
-
+Sweatshirts
+</a>
 
 
 
@@ -5145,14 +5264,14 @@ Warm Padded
 
 
 
+
+
 <li>
 <a class="regular gray " href="/us/en/boys/outerwear/jackets">
 
 Jackets
 </a>
 </li>
-
-
 
 
 
@@ -5372,14 +5491,10 @@ Innerwear and Loungewear
 
 
 
-
-
-
-
 </li><li>
-<a class="  " href="/us/en/boys/innerwear-and-loungewear/leggings">
+<a class="regular gray " href="/us/en/boys/innerwear-and-loungewear/undershirts">
 
-Leggings
+Undershirts
 </a>
 </li>
 
@@ -5392,10 +5507,14 @@ Leggings
 
 
 
-<li>
-<a class="regular gray " href="/us/en/boys/innerwear-and-loungewear/undershirts">
 
-Undershirts
+
+
+
+<li>
+<a class="  " href="/us/en/boys/innerwear-and-loungewear/leggings">
+
+Leggings
 </a>
 </li>
 
@@ -5617,6 +5736,27 @@ Featured Collections
 
 
 
+<a class="regular gray  " href="/us/en/boys/back-to-school">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Back To School
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
 <a class="regular gray  " href="/us/en/boys/online-exclusives">
 
 Online Exclusives
@@ -5663,11 +5803,11 @@ Special Collaborations
 
 
 
-<a class="regular gray  " href="/us/en/boys/manga">
+<a class="regular gray  " href="/us/en/boys/one-piece">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-Manga
+One Piece
 </a>
 
 
@@ -5684,11 +5824,11 @@ Manga
 
 
 
-<a class="regular gray  " href="/us/en/boys/the-brands-hawaiian-loco">
+<a class="regular gray  " href="/us/en/boys/keith-haring">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-The Brands Hawaiian Loco
+Keith Haring
 </a>
 
 
@@ -5822,43 +5962,6 @@ New Arrivals
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="clickable featured bold arrow navlarge " href="/us/en/boys/limited-time-offers">
-
-Limited-Time Offers
-</a>
 
 
 
@@ -6074,16 +6177,6 @@ UT: Graphic Tees
 
 
 
-
-
-
-
-
-
-
-
-
-
 </li>
 
 
@@ -6113,9 +6206,9 @@ Pajamas
 
 
 </li><li>
-<a class="regular gray " href="/us/en/baby/pajamas/short-sleeve">
+<a class="regular gray " href="/us/en/baby/pajamas/long-sleeve">
 
-Short-Sleeve
+Long Sleeve
 </a>
 </li>
 
@@ -6129,9 +6222,9 @@ Short-Sleeve
 
 
 <li>
-<a class="regular gray " href="/us/en/baby/pajamas/long-sleeve">
+<a class="regular gray " href="/us/en/baby/pajamas/short-sleeve">
 
-Long Sleeve
+Short-Sleeve
 </a>
 </li>
 
@@ -6149,7 +6242,7 @@ Long Sleeve
 
 
 
-<a class="clickable featured gray arrow " href="/us/en/baby/view-all">
+<a class="clickable featured gray arrow notclickable " href="/us/en/baby/view-all">
 
 View All
 </a>
@@ -6313,9 +6406,9 @@ Innerwear and Socks
 
 
 </li><li>
-<a class="regular gray " href="/us/en/baby/innerwear-and-socks/airism-undershirts">
+<a class="regular gray " href="/us/en/baby/innerwear-and-socks/undershirts">
 
-AIRism Undershirts
+Undershirts
 </a>
 </li>
 
@@ -6329,9 +6422,9 @@ AIRism Undershirts
 
 
 <li>
-<a class="regular gray " href="/us/en/baby/innerwear-and-socks/undershirts">
+<a class="regular gray " href="/us/en/baby/innerwear-and-socks/airism-undershirts">
 
-Undershirts
+AIRism Undershirts
 </a>
 </li>
 
@@ -6413,9 +6506,9 @@ Bodysuits
 
 
 </li><li>
-<a class="regular gray " href="/us/en/baby/bodysuits/sleeveless-bodysuits">
+<a class="regular gray " href="/us/en/baby/bodysuits/long-sleeve-bodysuits">
 
-Sleeveless Bodysuits
+Long Sleeve Bodysuits
 </a>
 </li>
 
@@ -6445,9 +6538,9 @@ Short-Sleeve Bodysuit
 
 
 <li>
-<a class="regular gray " href="/us/en/baby/bodysuits/long-sleeve-bodysuits">
+<a class="regular gray " href="/us/en/baby/bodysuits/sleeveless-bodysuits">
 
-Long Sleeve Bodysuits
+Sleeveless Bodysuits
 </a>
 </li>
 
@@ -6607,22 +6700,6 @@ Gift Sets
 
 
 <li>
-<a class="regular gray " href="/us/en/baby/accessories/socks">
-
-Socks
-</a>
-</li>
-
-
-
-
-
-
-
-
-
-
-<li>
 <a class="regular gray " href="/us/en/baby/accessories/bibs">
 
 Bibs
@@ -6638,10 +6715,12 @@ Bibs
 
 
 
-<li>
-<a class="regular gray " href="/us/en/baby/accessories/swaddle">
 
-Swaddle
+
+<li>
+<a class="regular gray " href="/us/en/baby/accessories/socks">
+
+Socks
 </a>
 </li>
 
@@ -6670,6 +6749,25 @@ Swaddle
 <a class="notclickable label bold  navlarge notclickable " href="/us/en/baby/featured-collections">
 
 Featured Collections
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/baby/baby-qanda">
+
+Baby Q&amp;A
 </a>
 
 
@@ -6801,47 +6899,9 @@ Special Collaborations
 
 
 
-<a class="regular gray  " href="/us/en/baby/the-picture-book">
+<a class="regular gray  " href="/us/en/baby/pixar-vacation">
 
-The Picture Book
-</a>
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="regular gray  " href="/us/en/baby/mickey-blue">
-
-Mickey Blue
-</a>
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="regular gray  " href="/us/en/baby/peppa-pig">
-
-Peppa Pig
+Pixar Vacation
 </a>
 
 
@@ -6855,6 +6915,35 @@ Peppa Pig
 
 <ul class="menu-vertical last-vertical-ul">
 
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="clickable featured bold arrow navlarge " href="/us/en/baby/new-arrivals">
+
+New Arrivals
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li>
 
 
 <li class="">
@@ -7014,6 +7103,25 @@ Boys New Arrivals
 
 </li>
 
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="https://www.uniqlo.com/us/en/baby/new-arrivals">
+
+Babies' New Arrivals
+</a>
+
+
+
+</li>
+
 </ul>
 
 
@@ -7051,11 +7159,11 @@ Just In - New UT!
 
 
 
-<a class="regular gray  notclickable " href="/us/en/new/kaws">
+<a class="regular gray  " href="/us/en/new/one-piece">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-KAWS
+One Piece
 </a>
 
 
@@ -7072,11 +7180,74 @@ KAWS
 
 
 
-<a class="regular gray  " href="/us/en/new/manga">
+<a class="regular gray  " href="/us/en/new/edo-ukiyo-e">
 
 <span class="badge " style="background:transparent;color:red ;">new  </span>
 
-Manga
+Edo Ukiyo-E
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/new/andy-warhol">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Andy Warhol
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/new/keith-haring">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+Keith Haring
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/new/the-brands-okashi">
+
+<span class="badge " style="background:transparent;color:red ;">new  </span>
+
+The Brands Okashi
 </a>
 
 
@@ -7084,6 +7255,9 @@ Manga
 </li>
 
 </ul>
+
+
+
 
 
 
@@ -7101,9 +7275,9 @@ Manga
 
 
 
-<a class="notclickable label bold  navlarge notclickable " href="/us/en/new/just-in---collaborations">
+<a class="notclickable label bold  navlarge notclickable " href="/us/en/new/coming-soon">
 
-Just In - Collaborations
+Coming Soon
 </a>
 
 
@@ -7120,11 +7294,28 @@ Just In - Collaborations
 
 
 
-<a class="regular gray  " href="/us/en/new/engineered-garments">
+<a class="regular gray  " href="/us/en/new/hana-tajima">
 
-<span class="badge " style="background:transparent;color:red ;">new  </span>
+Hana Tajima
+</a>
 
-Engineered Garments
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/new/ines-de-la-fressange-2">
+
+Ines de la Fressange
 </a>
 
 
@@ -7132,9 +7323,6 @@ Engineered Garments
 </li>
 
 </ul>
-
-
-
 
 
 
@@ -7161,10 +7349,8 @@ Engineered Garments
 
 
 
-
-
-<a class="has-sub-menu extended-width red " href="/us/en/women/weekly-promotions">
-Special Offers
+<a class="has-sub-menu  red " href="/us/en/women/weekly-promotions">
+Sale
 </a>
 
 
@@ -7175,105 +7361,8 @@ Special Offers
 <div class="level-2">
 
 
-<ul class="menu-vertical ">
 
 
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="notclickable label bold  navlarge notclickable " href="/us/en/special-offers/limited-time-offers">
-
-Limited-Time Offers
-</a>
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="regular gray  " href="https://www.uniqlo.com/us/en/women/limited-time-offers">
-
-Women
-</a>
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="regular gray  " href="https://www.uniqlo.com/us/en/men/limited-time-offers">
-
-Men
-</a>
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="regular gray  " href="https://www.uniqlo.com/us/en/girls/limited-time-offers">
-
-Girls
-</a>
-
-
-
-</li>
-
-
-<li class="">
-
-
-
-
-
-
-
-
-<a class="regular gray  " href="https://www.uniqlo.com/us/en/boys/limited-time-offers">
-
-Boys
-</a>
-
-
-
-</li>
-
-</ul>
 
 
 
@@ -7291,7 +7380,7 @@ Boys
 
 
 
-<a class="notclickable label bold  navlarge notclickable " href="/us/en/special-offers/sale">
+<a class="notclickable label bold  navlarge notclickable " href="/us/en/sale/sale-2">
 
 Sale
 </a>
@@ -7310,7 +7399,7 @@ Sale
 
 
 
-<a class="regular gray  " href="/us/en/special-offers/women-3">
+<a class="regular gray  " href="/us/en/sale/women-4">
 
 Women
 </a>
@@ -7329,7 +7418,7 @@ Women
 
 
 
-<a class="regular gray  " href="/us/en/special-offers/men-5">
+<a class="regular gray  " href="/us/en/sale/men-6">
 
 Men
 </a>
@@ -7348,7 +7437,7 @@ Men
 
 
 
-<a class="regular gray  " href="/us/en/special-offers/girls-5">
+<a class="regular gray  " href="/us/en/sale/girls-5">
 
 Girls
 </a>
@@ -7367,7 +7456,7 @@ Girls
 
 
 
-<a class="regular gray  " href="/us/en/special-offers/boys-5">
+<a class="regular gray  " href="/us/en/sale/boys-6">
 
 Boys
 </a>
@@ -7386,7 +7475,7 @@ Boys
 
 
 
-<a class="regular gray  " href="/us/en/special-offers/baby-1">
+<a class="regular gray  " href="/us/en/sale/baby-2">
 
 Baby
 </a>
@@ -7400,8 +7489,124 @@ Baby
 
 
 
+<ul class="menu-vertical ">
 
 
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="notclickable label bold  navlarge notclickable " href="/us/en/sale/ut-graphic-tees-sale">
+
+UT Graphic Tees Sale
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/sale/women-6">
+
+Women
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/sale/men-8">
+
+Men
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/sale/girls-7">
+
+Girls
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/sale/boys-8">
+
+Boys
+</a>
+
+
+
+</li>
+
+
+<li class="">
+
+
+
+
+
+
+
+
+<a class="regular gray  " href="/us/en/sale/baby-4">
+
+Baby
+</a>
+
+
+
+</li>
+
+</ul>
 
 
 
@@ -7588,9 +7793,27 @@ your bag is empty
 
 <div class="sale-child">
 
-<div class=" slick-banner" style="background-color:navy;">
+<a href="">
 
-<div class="sale-discount">SHOP THE GIFT GUIDE + FREE GIFT BOX FOR DAD ON ORDERS $99+</div>
+<div class=" slick-banner" style="background-color:red;">
+
+<div class="sale-discount">ONLINE ONLY! FREE AIRISM ITEM WITH ORDERS $75+</div>
+
+
+
+
+
+</div>
+
+</a>
+
+</div>
+
+<div class="sale-child">
+
+<div class=" slick-banner" style="background-color:grey;">
+
+<div class="sale-discount">HANA TAJIMA 2019 FALL/WINTER COLLECTON AVAILABLE 8/15</div>
 
 
 
@@ -7599,7 +7822,7 @@ your bag is empty
 
 <span class="slick-data">
 
-<a href="https://www.uniqlo.com/us/en/men/fathers-day-shop" aria-label="SHOP THE GIFT GUIDE   FREE GIFT BOX FOR DAD ON ORDERS  99 ">SHOP NOW</a>
+<a href="https://www.uniqlo.com/us/en/page/hana-tajima.html" aria-label="HANA TAJIMA 2019 FALL WINTER COLLECTON AVAILABLE 8 15">PREVIEW NOW</a>
 
 
 
@@ -7612,9 +7835,9 @@ your bag is empty
 
 <div class="sale-child">
 
-<div class=" slick-banner" style="background-color:dark blue;">
+<div class=" slick-banner" style="background-color:red;">
 
-<div class="sale-discount">GET STYLES WORN ON THE COURT BY BRAND AMBASSADOR ROGER FEDERER!</div>
+<div class="sale-discount">SHOP LIMITED-QUANTITY MARKDOWNS NOW WHILE SUPPLIES LAST</div>
 
 
 
@@ -7623,8 +7846,10 @@ your bag is empty
 
 <span class="slick-data">
 
-<a href="https://www.uniqlo.com/us/en/men/ambassador-gamewear" aria-label="GET STYLES WORN ON THE COURT BY BRAND AMBASSADOR ROGER FEDERER ">SHOP NOW</a>
+<a href="https://www.uniqlo.com/us/en/women/sale" aria-label="SHOP LIMITED QUANTITY MARKDOWNS NOW WHILE SUPPLIES LAST">SHOP WOMEN</a>
 
+
+<a href="https://www.uniqlo.com/us/en/men/sale" aria-label="SHOP LIMITED QUANTITY MARKDOWNS NOW WHILE SUPPLIES LAST">SHOP MEN</a>
 
 
 
@@ -7636,9 +7861,9 @@ your bag is empty
 
 <div class="sale-child">
 
-<div class=" slick-banner" style="background-color:dark blue;">
+<div class=" slick-banner" style="background-color:grey;">
 
-<div class="sale-discount">ENTER TO WIN A TRIP TO JAPAN FROM UNIQLO!</div>
+<div class="sale-discount">FAST RETAILING AND UN WOMEN SIGN GLOBAL PARTNERSHIP</div>
 
 
 
@@ -7647,7 +7872,7 @@ your bag is empty
 
 <span class="slick-data">
 
-<a href="https://www.dojomojo.com/promo-lookup/dd6cc633-bb95-4333-91dd-827569f550c7" aria-label="ENTER TO WIN A TRIP TO JAPAN FROM UNIQLO ">ENTER NOW</a>
+<a href="http://www.uniqlo.com/en/sustainability/action/unwomen/index.html" aria-label="FAST RETAILING AND UN WOMEN SIGN GLOBAL PARTNERSHIP">READ MORE</a>
 
 
 
@@ -7663,6 +7888,8 @@ your bag is empty
  
 	
 </div>
+
+
 
 
 <div id="main" role="main" class="page-content content-wrapper clearfix">
@@ -8638,7 +8865,7 @@ $(document).ready(() => {
   <li><a href="/on/demandware.store/Sites-UniqloUS-Site/default/GiftCards-Show" title="Gift Card Balance" aria-label="Gift Card Balance">Gift Card Balance</a></li>
 <!--  <li><a href="/us/en/help/accessibility" title="Accessibility" aria-label="Accessibility">Accessibility</a></li> -->
   <li><a href="/us/en/help/accessibility-%2F-your-protection" title="Accessibility" aria-label="Accessibility">Accessibility</a></li>
-  <li><a href="https://www.uniqlo.com/us/en/email-preferences/" title="Unsubscribe" aria-label="Unsubscribe">Unsubscribe</a></li>  
+  <li><a href="https://www.uniqlo.com/us/en/email-preferences/" title="Unsubscribe" aria-label="Unsubscribe">Unsubscribe</a></li> 
 <li><a href="https://www.uniqlo.com/us/en/contact/" title="Contact Us" aria-label="Contact Us">Contact Us</a></li>
   <!--<li><a href="http://uniqlo.extole.io" title="">Refer A Friend</a></li>-->
 <li><a href="/us/en/page/refer-a-friend.html" title="">Refer A Friend</a></li>
@@ -8794,7 +9021,7 @@ $(document).ready(() => {
 <div class="country-list-select">
     <p>change region</p>
     <div class="category-list">
-        <ul>
+        <ul style="width: 180px">
             <li><a link="" rel="alternate" hreflang="en-au" href="https://www.uniqlo.com/au/">australia</a></li>
             <li><a link="" rel="alternate" hreflang="en-ca" href="https://www.uniqlo.com/ca/">canada</a></li>
             <li><a link="" rel="alternate" hreflang="zh-cn" href="https://www.uniqlo.com/cn/">china</a></li>
@@ -8802,9 +9029,10 @@ $(document).ready(() => {
             <li><a link="" rel="alternate" hreflang="en" href="https://www.uniqlo.com/eu/">eu</a></li>
             <li><a link="" rel="alternate" hreflang="fr-fr" href="https://www.uniqlo.com/fr/">france</a></li>
             <li><a link="" rel="alternate" hreflang="de-de" href="https://www.uniqlo.com/de/">germany</a></li>
-        </ul>
-        <ul>
             <li><a link="" rel="alternate" hreflang="zh-hk" href="https://www.uniqlo.com/hk/">Hongkong &amp; macau</a></li>
+        </ul>
+        <ul style="width: 180px">
+            <li><a link="" rel="alternate" hreflang="en-in" href="https://www.uniqlo.com/in/">India</a></li>
             <li><a link="" rel="alternate" hreflang="id-id" href="https://www.uniqlo.com/id/">indonesia</a></li>
             <li><a link="" rel="alternate" hreflang="en" href="https://www.uniqlo.com/it/it/">italy</a></li>
             <li><a link="" rel="alternate" hreflang="ja-jp" href="https://www.uniqlo.com/jp/">japan</a></li>
@@ -8812,7 +9040,7 @@ $(document).ready(() => {
             <li><a link="" rel="alternate" hreflang="en-my" href="https://www.uniqlo.com/my/">malaysia</a></li>
             <li><a link="" rel="alternate" hreflang="en-ph" href="https://www.uniqlo.com/ph/">philippines</a></li>
         </ul>
-        <ul>
+        <ul style="width: 180px">
             <li><a link="" rel="alternate" hreflang="ru-ru" href="https://www.uniqlo.com/ru/">russia</a></li>
             <li><a link="" rel="alternate" hreflang="en-sg" href="https://www.uniqlo.com/sg/">singapore</a></li>
             <li><a link="" rel="alternate" hreflang="es-es" href="https://www.uniqlo.com/es/">spain</a></li>
@@ -8834,7 +9062,7 @@ $(document).ready(() => {
 </div>
 
 </div><!-- /footer -->
-<a href="#" class="back-to-top"><img alt="Back to Top" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/../images/back-to-top.png"></a>
+<a href="#" class="back-to-top"><img alt="Back to Top" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/../images/back-to-top.png"></a>
 </div>
 
 
@@ -8855,9 +9083,9 @@ $(document).ready(() => {
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please check phone number and try again.","REMOVE":"Remove","QTY":"QUANTITY","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFTCARD_NUMBER_MISSING":"Please enter a valid Gift Card number. ","GIFTCARD_NUMBER_PIN_MISSING":"Invalid Gift Card or Pin number. Please re-enter.","GIFTCARD_PIN_MISSING":"Please enter a valid pin number.","RECAPTCHA_SITE_KEY":"6LeJUoYUAAAAAAMUPDQ7RNifM7m_cvapCzy90tOm","RECAPTCHA_DEBUG_FLAG":null,"RECAPTCHA_ENABLED_FLAG":true,"GIFT_CERT_INVALID":"The gift card or pin number you've entered is invalid.","GIFT_CERT_BALANCE":"Your current gift card balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COUPON_CODE_UNKNOWN":"Invalid Promo code - please try again (Promo Codes are case sensitive).","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","PREORDER_DATE":"This preorder item <b>ships in {0}</b>.","ITEM_STATUS_NOTAVAILABLE":"Item is no longer available","TERS_AND_CONDITIONS":"See terms & conditions.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Sorry we coluldn't find your city,state or zip code entry.please check your info and try again","CHECKOUT_INVALID_ZIP":"Please check zipcode and try again.","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please match the requested format.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please check the card number and try again.","VALIDATE_CARDTYPE":"Invalid credit card number, please note that only the following payment methods are accepted: Visa, Mastercard, American Express, Discover, JCB & Paypal.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_EQUALTOConfirm":"Both email and confirm email must match, please check and try again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Password must be between {0} - 20 characters, and include numbers and letters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","INVALID_CVN":"Enterd character is less than minimum input","VALIDATE_PASSWORD":"Password must be between 8 - 20 characters, and include numbers and letters.","VALIDATE_PROVINCE":"province*","VALIDATE_ADDRESS":"We are sorry but one or more of the characters you entered are not allowed","GA_CATEGORY_CART":"gAnalytics.events.cart","GA_ACTION_REMOVEPRODUCT":"gAnalytics.events.removeproduct","GA_ACTION_UPDATEPRODUCT":"gAnalytics.events.updateproduct","GA_ACTION_SEARCH":"gAnalytics.events.search","GA_ACTION_ADDPRODUCTPV":"gAnalytics.events.addproductpv","GA_ACTION_ADDPRODUCTQV":"gAnalytics.events.addproductqv","GA_CATEGORY_MINICART":"gAnalytics.events.minicart","GA_ACTION_MINICART":"gAnalytics.events.minicart.open","GA_ACTION_QUICKVIEW":"gAnalytics.events.quickview.open","GA_CATEGORY_QUICKVIEW":"gAnalytics.events.quickview","GA_ACTION_SIGNIN":"gAnalytics.events.login","GA_CATEGORY_USER":"gAnalytics.events.accessinfo","GA_ACTION_ADDPRODUCT":"gAnalytics.events.addproduct","GA_ACTION_ADDALLPRODUCT":"gAnalytics.events.addalltocart","GA_ACTION_ADDALLPRODUCTQV":"gAnalytics.events.addalltocartqv","GA_ACTION_ADDALLPRODUCTPV":"gAnalytics.events.addalltocartpv","GA_CATEGORY_NAVIGATION":"gAnalytics.events.navigation","GA_ACTION_CATEGORY":"gAnalytics.events.category","GA_ACTION_LOGOUT":"gAnalytics.events.logout","GA_CATEGORY_PROMOTION":"gAnalytics.events.promotion","GA_ACTION_REMOVEPROMOTION":"gAnalytics.events.removepromotion","GA_CATEGORY_PDPVIEW":"gAnalytics.events.pdpview","GA_ACTION_PDPVIEW":"gAnalytics.events.quickview","SIGNUPFAIL":"Email Subscribtion failed.","SIGNUPSUCCESS":"Email Subscribed.","SIGNUPINVALID":"Inavalid email.","EMAILSUCCESS":"Success!","EMAILNOTIFICATIONSUCCESS":"We will email you when this item is back in stock.","EMAILNOTIFICATIONFAIL":"Please fill out this field.Your email address entries do not match.","EMAILNOTIFICATIONFAILID":"Please include an '@' in the email address. ","EMAILNOTIFICATIONFAILIDD":"Please match the requested format.Your email address entries do not match.","EMAILNOTIFICATIONFAILWARN":"is missing an '@'.Your email address entries do not match. ","FORGOT_PASSWORD":"global.forgotpassword","STORE_INSTOCK":"available","STORE_LOWSTOCK":"low stock","STORE_NOT_AVAILABLE":"not available","STORE_OUTOFSTOCK":"unavailable in these stores","STORE_INSTOCK_MSG":"store within 50 miles of","STORE_INSTOCK_MSGS":"stores within 50 miles of","STORE_NO_RESULTS":"Sorry this product is not available in a store near you.","INVALID_POSTAL":"Sorry, we don't understand your city, state or ZIP code entry. Please check your info and try again.","INVALID_PDPPOSTAL":"Please enter a valid ZIP code.","INSTOCK_OVERLAY":"Availability at store is not guaranteed. Inventory status refreshed hourly.","OUTOFSTOCK_OVERLAY":"Ship to FREE for when you select 'in Store Pick Up' at checkout (selected stores only)","AVAILABILITY_CHANGE":"Please note availability may change","FIND_STORE":"Find Store","STORES_EMPTY":"There are no stores within 50 miles of this location.","ZIP_ERROR":"Sorry, no results.","ZIPCODE_ERROR":"Please enter a valid 5-digit zip code","AVAILABLE_STORE_IN":"Available in","NOTIFICATION_EMPTY":"Please enter an email address.","NOTIFICATION_COMMON":"Your email address entries do not match.","NOTIFICATION_SYMBOL":"is missing an '@'.","NOTIFICATION_FORMAT":"Please check your email address and try again.","PURCHASE_LIMIT":"Sorry, limit of","PURCHASE_LIMIT_LAST":"per customer","EMAIL_SUCCESS":"Thank you for signing up for Uniqlo emails. We are excited to keep in touch!","EMAIL_SUBSCRIBED":"Sorry, this email is already subscribed","CARTLIMIT_MSG":"Sorry, limit of 98 items per order.","STORE_MORE":"More","STORE_LESS":"Less","NOTIFICATION_FAIL":"Please fill out this field.","NotificationID":"Please include an '@' in the email address.","NOTIFICATION_WARN":"is missing an '@'.Please match the requested format.","NOTIFICATION_FAILID":"Please match the requested format.","NUMBERS_ONLY":"Numbers only","SELECT":"Select","CONFIRM_PASSWORD":"Both password and confirm password must match, please check and try again.","CONFIRM_EMAIL":"Both email and confirm email must match, please check and try again.","ZIP_CODE":"Zip Code*","POSTAL_CODE":"Postal Code","SIZE_CHART":"Size Chart","INVALID_CVN_NO":"The CVV number is not valid.","ALPHABET_VALIDATION":"Invalid Characters.","RESOURCE_SELECT":"STATE*","OOS_BONUSITEM":"Sorry, this option is out of stock","GIFT_CARD_CONTENT":"FIND YOUR PIN","NO_STORES_MSG":"Apologies, there are no pickup locations within a 10 mile radius of this zip code.","OUT_OF_STOCK":"- OUT OF STOCK -","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Item is no longer available","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-UniqloUS-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-UniqloUS-Site/default/Page-Include","continueUrl":"https://www.uniqlo.com/us/en/search-results/","staticPath":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/","addGiftCert":"/us/en/buy-gift-certificate/","minicartGC":"/on/demandware.store/Sites-UniqloUS-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-MiniAddProduct","cartShow":"/us/en/cart/","giftRegAdd":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.uniqlo.com/us/en/wallet/","addressesList":"https://www.uniqlo.com/us/en/addressbook/","wishlistAddress":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Wishlist-SetShippingAddress","wishlistShow":"https://www.uniqlo.com/us/en/wishlist/","deleteAddress":"/on/demandware.store/Sites-UniqloUS-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetAvailability","removeImg":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-UniqloUS-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-ResetPaymentForms","compareShow":"/us/en/compare/","compareAdd":"/on/demandware.store/Sites-UniqloUS-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-UniqloUS-Site/default/Compare-RemoveProduct","compareEmptyImage":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-RedeemGiftCertificateJson","applyGiftCard":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-ApplyGiftCard","addCoupon":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-Inventory","storeDetails":"/us/en/stores-details/","setPreferredStore":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetStore","setStoreForBasket":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetStoreForBasket","setZipCode":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-GetZipCode","billing":"/us/en/Billing/","summary":"/us/en/review-order/","setSessionCurrency":"/on/demandware.store/Sites-UniqloUS-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-UniqloUS-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-UniqloUS-Site/default/Page-Include?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-UniqloUS-Site/default/RateLimiter-HideCaptcha","getProductLineCount":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetProductLineItemCount","getProductPurchaseLimiCount":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetProductPurchaseLimiCount","addDonationProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-AddDonationProduct","removeDonationProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-RemoveDonationProduct","termsAndConditions":"/us/en/help/terms-conditions","customerInfo":"/on/demandware.store/Sites-UniqloUS-Site/default/Home-IncludeHeaderCustomerInfo","emailNotification":"/on/demandware.store/Sites-UniqloUS-Site/default/BISNSave-Bisn","multiShippingSelectSM":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShippingMultiple-SelectShippingMethod","ioProduct":"http://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/IO-Product","ioCart":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/IO-Cart","getGtmData":"/on/demandware.store/Sites-UniqloUS-Site/default/GTMTagManager-Start","emailSignUp":"/on/demandware.store/Sites-UniqloUS-Site/default/ENews-SubscribeAjax","niceselectplugin":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/lib/jquery/jquery.nice-select.js","giftBoxProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GiftboxProduct","removeGiftWrap":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-RemoveGiftWrap"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"isGTM":true,"isPOPUP":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"Product_360_Image":null,"TOKENIZATION_ENABLED":true,"ISQUICKVIEWDISABLE":null,"TIMEOUTFORUGC":20000};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please check phone number and try again.","REMOVE":"Remove","QTY":"QUANTITY","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFTCARD_NUMBER_MISSING":"Please enter a valid Gift Card number. ","GIFTCARD_NUMBER_PIN_MISSING":"Invalid Gift Card or Pin number. Please re-enter.","GIFTCARD_PIN_MISSING":"Please enter a valid pin number.","RECAPTCHA_SITE_KEY":"6LeJUoYUAAAAAAMUPDQ7RNifM7m_cvapCzy90tOm","RECAPTCHA_DEBUG_FLAG":null,"RECAPTCHA_ENABLED_FLAG":true,"GIFT_CERT_INVALID":"The gift card or pin number you've entered is invalid.","GIFT_CERT_BALANCE":"Your current gift card balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COUPON_CODE_UNKNOWN":"Invalid Promo code - please try again (Promo Codes are case sensitive).","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","PREORDER_DATE":"This preorder item <b>ships in {0}</b>.","ITEM_STATUS_NOTAVAILABLE":"Item is no longer available","TERS_AND_CONDITIONS":"See terms & conditions.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Sorry we coluldn't find your city,state or zip code entry.please check your info and try again","CHECKOUT_INVALID_ZIP":"Please check zipcode and try again.","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please match the requested format.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATE1":"Please select Day/Month/Year","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please check the card number and try again.","VALIDATE_CARDTYPE":"Invalid credit card number, please note that only the following payment methods are accepted: Visa, Mastercard, American Express, Discover, JCB & Paypal.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_EQUALTOConfirm":"Both email and confirm email must match, please check and try again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Password must be between {0} - 20 characters, and include numbers and letters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","INVALID_CVN":"Enterd character is less than minimum input","VALIDATE_PASSWORD":"Password must be between 8 - 20 characters, and include numbers and letters.","VALIDATE_PROVINCE":"province*","VALIDATE_ADDRESS":"We are sorry but one or more of the characters you entered are not allowed","GA_CATEGORY_CART":"gAnalytics.events.cart","GA_ACTION_REMOVEPRODUCT":"gAnalytics.events.removeproduct","GA_ACTION_UPDATEPRODUCT":"gAnalytics.events.updateproduct","GA_ACTION_SEARCH":"gAnalytics.events.search","GA_ACTION_ADDPRODUCTPV":"gAnalytics.events.addproductpv","GA_ACTION_ADDPRODUCTQV":"gAnalytics.events.addproductqv","GA_CATEGORY_MINICART":"gAnalytics.events.minicart","GA_ACTION_MINICART":"gAnalytics.events.minicart.open","GA_ACTION_QUICKVIEW":"gAnalytics.events.quickview.open","GA_CATEGORY_QUICKVIEW":"gAnalytics.events.quickview","GA_ACTION_SIGNIN":"gAnalytics.events.login","GA_CATEGORY_USER":"gAnalytics.events.accessinfo","GA_ACTION_ADDPRODUCT":"gAnalytics.events.addproduct","GA_ACTION_ADDALLPRODUCT":"gAnalytics.events.addalltocart","GA_ACTION_ADDALLPRODUCTQV":"gAnalytics.events.addalltocartqv","GA_ACTION_ADDALLPRODUCTPV":"gAnalytics.events.addalltocartpv","GA_CATEGORY_NAVIGATION":"gAnalytics.events.navigation","GA_ACTION_CATEGORY":"gAnalytics.events.category","GA_ACTION_LOGOUT":"gAnalytics.events.logout","GA_CATEGORY_PROMOTION":"gAnalytics.events.promotion","GA_ACTION_REMOVEPROMOTION":"gAnalytics.events.removepromotion","GA_CATEGORY_PDPVIEW":"gAnalytics.events.pdpview","GA_ACTION_PDPVIEW":"gAnalytics.events.quickview","SIGNUPFAIL":"Email Subscribtion failed.","SIGNUPSUCCESS":"Email Subscribed.","SIGNUPINVALID":"Inavalid email.","EMAILSUCCESS":"Success!","EMAILNOTIFICATIONSUCCESS":"We will email you when this item is back in stock.","EMAILNOTIFICATIONFAIL":"Please fill out this field.Your email address entries do not match.","EMAILNOTIFICATIONFAILID":"Please include an '@' in the email address. ","EMAILNOTIFICATIONFAILIDD":"Please match the requested format.Your email address entries do not match.","EMAILNOTIFICATIONFAILWARN":"is missing an '@'.Your email address entries do not match. ","FORGOT_PASSWORD":"global.forgotpassword","STORE_INSTOCK":"available","STORE_LOWSTOCK":"low stock","STORE_NOT_AVAILABLE":"not available","STORE_OUTOFSTOCK":"unavailable in these stores","STORE_INSTOCK_MSG":"store within 50 miles of","STORE_INSTOCK_MSGS":"stores within 50 miles of","STORE_NO_RESULTS":"Sorry this product is not available in a store near you.","INVALID_POSTAL":"Sorry, we don't understand your city, state or ZIP code entry. Please check your info and try again.","INVALID_PDPPOSTAL":"Please enter a valid ZIP code.","INSTOCK_OVERLAY":"Availability at store is not guaranteed. Inventory status refreshed hourly.","OUTOFSTOCK_OVERLAY":"Ship to FREE for when you select 'in Store Pick Up' at checkout (selected stores only)","AVAILABILITY_CHANGE":"Please note availability may change","FIND_STORE":"Find Store","STORES_EMPTY":"There are no stores within 50 miles of this location.","ZIP_ERROR":"Sorry, no results.","ZIPCODE_ERROR":"Please enter a valid 5-digit zip code","AVAILABLE_STORE_IN":"Available in","NOTIFICATION_EMPTY":"Please enter an email address.","NOTIFICATION_COMMON":"Your email address entries do not match.","NOTIFICATION_SYMBOL":"is missing an '@'.","NOTIFICATION_FORMAT":"Please check your email address and try again.","PURCHASE_LIMIT":"Sorry, limit of","PURCHASE_LIMIT_LAST":"per customer","EMAIL_SUCCESS":"Thank you for signing up for Uniqlo emails. We are excited to keep in touch!","EMAIL_SUBSCRIBED":"Sorry, this email is already subscribed","CARTLIMIT_MSG":"Sorry, limit of 98 items per order.","STORE_MORE":"More","STORE_LESS":"Less","NOTIFICATION_FAIL":"Please fill out this field.","NotificationID":"Please include an '@' in the email address.","NOTIFICATION_WARN":"is missing an '@'.Please match the requested format.","NOTIFICATION_FAILID":"Please match the requested format.","NUMBERS_ONLY":"Numbers only","SELECT":"Select","CONFIRM_PASSWORD":"Both password and confirm password must match, please check and try again.","CONFIRM_EMAIL":"Both email and confirm email must match, please check and try again.","ZIP_CODE":"Zip Code*","POSTAL_CODE":"Postal Code","SIZE_CHART":"Size Chart","INVALID_CVN_NO":"The CVV number is not valid.","ALPHABET_VALIDATION":"Invalid Characters.","RESOURCE_SELECT":"STATE*","OOS_BONUSITEM":"Sorry, this option is out of stock","GIFT_CARD_CONTENT":"FIND YOUR PIN","NO_STORES_MSG":"Apologies, there are no pickup locations within a 10 mile radius of this zip code.","OUT_OF_STOCK":"- OUT OF STOCK -","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Item is no longer available","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-UniqloUS-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-UniqloUS-Site/default/Page-Include","continueUrl":"https://www.uniqlo.com/us/en/search-results/","staticPath":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/","addGiftCert":"/us/en/buy-gift-certificate/","minicartGC":"/on/demandware.store/Sites-UniqloUS-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-MiniAddProduct","cartShow":"/us/en/cart/","giftRegAdd":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.uniqlo.com/us/en/wallet/","addressesList":"https://www.uniqlo.com/us/en/addressbook/","wishlistAddress":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Wishlist-SetShippingAddress","wishlistShow":"https://www.uniqlo.com/us/en/wishlist/","deleteAddress":"/on/demandware.store/Sites-UniqloUS-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-GetAvailability","removeImg":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-UniqloUS-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-ResetPaymentForms","compareShow":"/us/en/compare/","compareAdd":"/on/demandware.store/Sites-UniqloUS-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-UniqloUS-Site/default/Compare-RemoveProduct","compareEmptyImage":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-RedeemGiftCertificateJson","applyGiftCard":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COBilling-ApplyGiftCard","addCoupon":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-Inventory","storeDetails":"/us/en/stores-details/","setPreferredStore":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetStore","setStoreForBasket":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetStoreForBasket","setZipCode":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-UniqloUS-Site/default/StoreInventory-GetZipCode","billing":"/us/en/Billing/","summary":"/us/en/review-order/","setSessionCurrency":"/on/demandware.store/Sites-UniqloUS-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-UniqloUS-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-UniqloUS-Site/default/Page-Include?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-UniqloUS-Site/default/RateLimiter-HideCaptcha","getProductLineCount":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetProductLineItemCount","getProductPurchaseLimiCount":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetProductPurchaseLimiCount","addDonationProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-AddDonationProduct","removeDonationProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Product-RemoveDonationProduct","termsAndConditions":"/us/en/help/terms-conditions","customerInfo":"/on/demandware.store/Sites-UniqloUS-Site/default/Home-IncludeHeaderCustomerInfo","emailNotification":"/on/demandware.store/Sites-UniqloUS-Site/default/BISNSave-Bisn","multiShippingSelectSM":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/COShippingMultiple-SelectShippingMethod","ioProduct":"http://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/IO-Product","ioCart":"https://www.uniqlo.com/on/demandware.store/Sites-UniqloUS-Site/default/IO-Cart","getGtmData":"/on/demandware.store/Sites-UniqloUS-Site/default/GTMTagManager-Start","emailSignUp":"/on/demandware.store/Sites-UniqloUS-Site/default/ENews-SubscribeAjax","niceselectplugin":"https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/lib/jquery/jquery.nice-select.js","giftBoxProduct":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GiftboxProduct","removeGiftWrap":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-RemoveGiftWrap","getReservedInventory":"/on/demandware.store/Sites-UniqloUS-Site/default/Cart-GetReservedInventoryDetail"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"isGTM":true,"isPOPUP":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"Product_360_Image":null,"TOKENIZATION_ENABLED":true,"ISQUICKVIEWDISABLE":null,"TIMEOUTFORUGC":20000,"CART_TIMER":15,"CART_TIMER_ENABLED":false,"RESERVED_CART_ENABLED":false,"AUTOCOMPLETE_ENABLED_FLAG":true};
 window.IsBISNEnabled = "true";
 }());
 </script>
@@ -8870,10 +9098,11 @@ window.User = {"zip":null,"storeId":null};
 </script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/js/allinone.js"></script>
+<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/js/allinone.js"></script>
 
 
-<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyDS_HR30W0u0eN1ac8yZ18L-W4OgGoXv5E"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/js/Autocomplete.js" type="text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS_HR30W0u0eN1ac8yZ18L-W4OgGoXv5E&amp;libraries=places&amp;callback=initAutocomplete" async="" defer=""></script>
 
 <script type="text/javascript" src="//cdn.rawgit.com/googlemaps/v3-utility-library/master/markerwithlabel/src/markerwithlabel.js"></script>
 
@@ -8943,7 +9172,7 @@ processed++;
 </script>
 
 
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/certona/js/resxclsa.js" type="text/javascript"></script>
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/certona/js/resxclsa.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 resx = undefined;
@@ -8970,9 +9199,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 <!-- Demandware Apple Pay -->
 <script type="text/javascript">//<!--
@@ -8982,7 +9211,7 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.uniqlo.com\/on\/demandware.stor
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1559848273902/internal/jscript/applepay.js" async="true"></script>
-<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]); _cf.push(['_setAu', '/assets/080ea57017070fdd4fcc5fe4279d']);</script><script type="text/javascript" src="/assets/080ea57017070fdd4fcc5fe4279d"></script><noscript><img src="https://www.uniqlo.com/akam/11/pixel_256696ca?a=dD1kYWQ1ZDJhMzgzMmFmMGY5MmJlNTQxMzA0MTMzMGZiZjhkMTE5NjgwJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript>
+<script type="text/javascript" src="https://www.uniqlo.com/na-static/on/demandware.static/Sites-UniqloUS-Site/-/default/v1565301733597/internal/jscript/applepay.js" async="true"></script>
+<noscript><img src="https://www.uniqlo.com/akam/11/pixel_25669146?a=dD0zN2NjYTU4ODAwYjdlYTk0MWU2OWVmZmI5ZWE4OTkxMzc2MjgzYWE3JmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript><script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]); _cf.push(['_setAu', '/assets/aba077ad17070fdd4fcc5fe4279d']);</script><script type="text/javascript" src="/assets/aba077ad17070fdd4fcc5fe4279d"></script>
 
 </body></html>
