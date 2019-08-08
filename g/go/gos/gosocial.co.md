@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gosocial.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161946id_/http%3A//www.gosocial.co/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosocial.co privacy policy that was archived on 2019-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190808230610id_/http%3A//www.gosocial.co/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - Go Social
 
 **PRIVACY POLICY**
 
-The website, located at www.gosocial.co is operated by Murphy IT Ltd, a company incorporated in England (registered number) and whose registered office is at 25 School Lane, Addingham, LS290JN. We are a private limited company.
+The website, located at news.gosocial.co is operated by Murphy IT Ltd, a company incorporated in England (registered number) and whose registered office is at 25 School Lane, Addingham, LS290JN. We are a private limited company.
 
 During your use of our sites we will collect personal information about you. This Privacy Policy sets out the information practices used by us, including the type of personal information we gather, how the information is used, and with whom the information is shared.
 
@@ -94,7 +94,7 @@ We may collect information about your computer, including where available your I
 
 **COOKIES POLICY**
 
-The website, located at www.gosocial.co is operated by Murphy IT Ltd, a company incorporated in England (registered number) and whose registered office is at 25 School Lane, Addingham, LS290JN. We are a private limited company.
+The website, located at news.gosocial.co is operated by Murphy IT Ltd, a company incorporated in England (registered number) and whose registered office is at 25 School Lane, Addingham, LS290JN. We are a private limited company.
 
 This Cookies Policy sets out the cookie practices used by us, including the type of cookies we may use, the purposes for using the cookies and how you may refuse to accept or block the cookies.
 
