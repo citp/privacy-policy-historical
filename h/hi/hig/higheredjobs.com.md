@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416033133id_/https%3A//www.higheredjobs.com/company/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809012348id_/https%3A//www.higheredjobs.com/company/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=29a396dd-c433-4529-a8d9-cfae9d5ec02b)
-
 This privacy policy applies to http://www.higheredjobs.com owned and operated by Internet Employment Linkage ("We", "Us", "HigherEdJobs.com"). This privacy policy describes how Internet Employment Linkage collects and uses the personally identifiable information you provide on our website: http://www.higheredjobs.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our Chief Operating Officer, Andrew Hibel, at [privacy@higheredjobs.com](mailto:privacy@higheredjobs.com).
 
 ## PRIVACY PHILOSOPHY
 
@@ -31,7 +29,7 @@ D. Tracking Technologies. We Internet Employment Linkage and our partners use te
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests.
 
 E. Job Postings. Persons, whether as individuals or as employees of a business who use the Employer Section or the Single Posting Pages of the website may be asked for their business email addresses, business address and phone, billing information, and a password. Although there is no cost to Job Seekers for using the services on the website, Job Posters will be charged a fee for requested services. We use data collected from Job Posters to provide requested services.
 
@@ -91,7 +89,7 @@ If, at any time, you have questions or concerns about HigherEdJobs.com's Privacy
 
 THANK YOU FOR USING HIGHEREDJOBS.COM.
 
-Last Updated: 11/17/2017
+Last Updated: 6/06/2019
 
 ## CONTACT US
 
