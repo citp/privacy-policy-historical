@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyjokesclub.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303043459id_/http%3A//funnyjokesclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyjokesclub.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809221010id_/http%3A//funnyjokesclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Funny Jokes Club
 
