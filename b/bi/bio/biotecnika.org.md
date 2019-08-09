@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331195110id_/https%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809125442id_/https%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BioTecNika
 
