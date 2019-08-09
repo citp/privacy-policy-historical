@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nppa.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503171009id_/https%3A//nppa.org/page/641) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nppa.org privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809163711id_/https%3A//nppa.org/page/641) for the most accurate reproduction.*
 
 # NPPA Privacy Policy | NPPA
 
