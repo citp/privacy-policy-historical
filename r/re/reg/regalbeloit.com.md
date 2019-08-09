@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regalbeloit.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817075752id_/http%3A//regalbeloit.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalbeloit.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809035837id_/https%3A//www.regalbeloit.com/Privacy) for the most accurate reproduction.*
 
-# Regal Beloit | Privacy
+# Privacy | Regal Beloit
 
 **REGAL BELOIT GLOBAL PRIVACY POLICY**
 
@@ -11,7 +11,6 @@ This Privacy Policy also applies to your personal information that is processed 
   
 Brand | Website  
 ---|---  
-Benshaw | http://www.benshaw.com  
 Browning | http://www.regalpts.com  
 Cemp | http://www.cemp-international.it  
 Durst | http://www.regalpts.com  
@@ -20,7 +19,6 @@ Fasco | http://www.fasco.com
 Foote-Jones | http://www.regalpts.com  
 Grove Gear | http://www.grovegear.com  
 Hub-City | http://www.hubcityinc.com  
-Hy Bon/EDI | https://hy-bon.com  
 Jaure | http://www.regalpts.com  
 Kop-Flex | http://www.regalpts.com  
 Marathon Generators | https://www.marathongenerators.com  
@@ -34,8 +32,6 @@ Rollway | http://www.regalpts.com
 Rotor | https://www.rotor.nl  
 Sealmaster | http://www.regalpts.com  
 System Plast | http://www.regalpts.com  
-Unico | http://www.unicous.com  
-Velvet Drive | http://www.regalpts.com  
 Genteq | https://www.genteqmotors.com  
 Nicotra-Gebhardt | http://www.nicotra-gebhardt.com  
   
@@ -238,7 +234,6 @@ Regal Beloit France SAS | 14 Rue des Cours, Neuves za de la Peupleraie, Pontcarr
 Regal Beloit GmbH | Postfach 10 55 53 Dusseldorf 40046 | Germany | HRB13906  
 Cemp International GmbH | Dr Atzinger Strasse 5 Passau D-94036 | Germany | DE8136347793  
 System Plast GmbH | Gewerbering Strasse 14 Dohna 01809 | Germany | 210/118/03862  
-Unico Deutschland GmbH | Dortmunder Straffe 7 Wilnsdorf D-57234 | Germany | 342/5840/0817  
 Cemp Srl | Via Piemonte 16 Senago 20030 | Italy | IT05933500968  
 Elco E-Trade S.r.l. | Via del Brugo No 5 Legnano Milan 20025 | Italy | 02060700160  
 System Plast S.R.L. | Via G Marconi 1 Inzago Milan 20065 | Italy | 646900167  
@@ -252,7 +247,6 @@ Regal Beloit UK Ltd | 30 Harborough Road, Northampton NN2 7AZ | United Kingdom |
 Regal Manufacturing Limited | One, New Change, London EC4M 9AF | United Kingdom | 00516559  
 Rotor (UK) Limited | 16 Everitt Close Denington Industrial EstateWellingborough NN8 2QF | United Kingdom | 5098331  
 System Plast Limited | Highdown House, 11 Highdown Road, Leamington Spa, Warwickshire CV31 1XT  | United Kingdom | 3211982  
-Unico (UK) Ltd. | Garamonde Drive Wymbush Milton Keynes MK8 8LF | United Kingdom | 2276322  
   
 **REGAL BELOIT COOKIE POLICY**
 
