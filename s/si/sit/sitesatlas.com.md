@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesatlas.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426132702id_/https%3A//www.sitesatlas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesatlas.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810014238id_/https%3A//www.sitesatlas.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - World Sites Atlas (Sitesatlas.com)
 
