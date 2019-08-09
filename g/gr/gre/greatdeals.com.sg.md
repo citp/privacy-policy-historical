@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatdeals.com.sg privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416153019id_/https%3A//www.greatdeals.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdeals.com.sg privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809183424id_/https%3A//www.greatdeals.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Deals Singapore
 
