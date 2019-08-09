@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darchermedia.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114121033id_/http%3A//www.darchermedia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darchermedia.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809183002id_/http%3A//darchermedia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Darcher Media
 
