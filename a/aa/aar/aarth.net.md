@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarth.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629004641id_/http%3A//aarth.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarth.net privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809120635id_/http%3A//www.aarth.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Aarth.com - Integrated Ad serving for Mobile, Video, RTB, Rich Media and Emailer
 
