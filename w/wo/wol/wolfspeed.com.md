@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfspeed.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502152738id_/http%3A//www.cree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfspeed.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809054938id_/http%3A//www.cree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
