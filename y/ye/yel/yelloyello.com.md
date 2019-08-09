@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelloyello.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514215020id_/https%3A//www.yelloyello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelloyello.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809112627id_/https%3A//yelloyello.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - YelloYello
 
