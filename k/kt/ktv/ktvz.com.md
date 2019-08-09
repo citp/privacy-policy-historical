@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520010228id_/http%3A//www.ktvz.com/about/privacy-policy/68279187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809034054id_/http%3A//www.ktvz.com/about/privacy-policy/68279187) for the most accurate reproduction.*
 
 # Privacy Policy - KTVZ
 
