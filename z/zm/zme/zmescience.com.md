@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401190946id_/https%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809022834id_/https%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Cookie Settings
 
-Last updated: February 6, 2019
+Last updated: June 19, 2019
 
 This privacy policy sets out how ZME Science uses and protects any information that you give ZME Science when you use this website.
 
@@ -51,7 +51,7 @@ The information ZME Science or third party collaborators might collect might inc
 
 ### Data that is collected passively
 
- **1\. Device / Service usage information**
+**1\. Device / Service usage information**
 
 We may automatically collect certain information about the computer or devices (including mobile devices or tablets, as well as other technology which may not have been invented yet) you use to access the Services.
 
@@ -59,13 +59,13 @@ We may collect and analyze information such as (a) IP addresses, geolocation inf
 
 We may also collect information from your browser or device. This includes but is not limited to your operating system, plug-ins, system fonts, resolution and other data, for purposes of creating a unique profile or “fingerprint” of your browser or device. We may use this profile or fingerprint to understand and analyze how you interact with the Services, to customize content or advertising to you through the Services, to monitor against fraud or misuse of the Services, or in other ways consistent with this Privacy Policy. This also contributes to the improvement of the overall user experiences.
 
- **2\. Location**
+**2\. Location**
 
 We and our service providers may collect both direct and indirect Location data (e.g., IP address, zip code). The Services use this location information to provide customized location-based services, content, promotional offers and other information that may be of interest to you.
 
 We may also use location information to improve the functionality of the Services.
 
- **3\. Cookies and other electronic tags**
+**3\. Cookies and other electronic tags**
 
 ZME Science and our service providers may also collect data about your use of the Services through the use of Internet server logs, cookies and/or tracking pixels. A web server log is a file where website activity is stored to distinguish you from other users of our website. A cookie is a small text file that is placed on your computer when you visit a website, that enables us to: (i) recognize your computer; (ii) store your preferences and settings; (iii) understand the web pages of the Services you have visited; (iv), enhance your user experience by delivering content specific to your interests; (v) perform searches and analytics; and (vi) assist with security administrative functions.
 
@@ -73,10 +73,10 @@ Some cookies are placed in your browser cache while those associated with Flash 
 
 We and our service providers use the following cookies:
 
-  *  **Strictly necessary cookies.**  These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
-  *  **Analytical/performance cookies.**  They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
-  *  **Functionality cookies.**  These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-  *  **Targeting cookies.**  These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+  * **Strictly necessary cookies.**  These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * **Analytical/performance cookies.**  They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+  * **Functionality cookies.**  These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies.**  These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
 
 
@@ -152,9 +152,11 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you or your business. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the hashed or obfuscated personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms, including but not limited to, computers, mobile devices, and Smart TVs, over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. Your data may be transferred outside of the country from which it was originally collected. To learn more about interest-based advertising in general and to opt out, please visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices). To opt-out of the use of your mobile device ID for targeted advertising, please see [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices).
+
 ### Personalized content and ad serving
 
- **1\. Analytics**
+**1\. Analytics**
 
 We may use third-party web analytics services on our Services, such as those of Google Analytics provided byGoogle, Inc. (“Google”). These service providers use the sort of technology previously described in the “Cookies and other electronic technologies” section to help us analyze how users use the Services, including by noting the third-party website from which you arrive, and provide certain features to you. For example, the Google Trusted Store badge displayed on some of the Services is served to you through the use of cookies. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section.
 
@@ -164,7 +166,7 @@ To prevent Google Analytics from using your information for analytics, you may r
 
 If you receive emails from us, we may use certain tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
 
- **2\. Tailored mobile and desktop advertising**
+**2\. Tailored mobile and desktop advertising**
 
 The advertisements you see while using our Services may be personalized through the use of third-party advertising technologies that allow for the delivery of relevant content and advertising on the Services, as well as other websites you visit and other applications you use. The ads may be based on various factors such as the content of the page you are visiting, the information you provide such as your age and gender, your searches, demographic data, user-generated content, and other information we collect from you. These ads may be based on your current activity or your activity over time and across other websites and online services and may be tailored to your interests.
 
