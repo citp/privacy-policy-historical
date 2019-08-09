@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samuelmerritt.edu privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609050215id_/http%3A//www.samuelmerritt.edu/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuelmerritt.edu privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809185301id_/http%3A//www.samuelmerritt.edu/privacy_policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Samuel Merritt University
 
