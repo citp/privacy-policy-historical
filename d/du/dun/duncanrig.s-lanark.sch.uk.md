@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duncanrig.s-lanark.sch.uk privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608050557id_/http%3A//www.duncanrig.s-lanark.sch.uk/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duncanrig.s-lanark.sch.uk privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809074042id_/http%3A//www.duncanrig.s-lanark.sch.uk/privacy_notice) for the most accurate reproduction.*
 
 # Privacy Notice - Duncanrig Secondary School
 
