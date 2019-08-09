@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motilaloswalmf.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214105541id_/http%3A//www.motilaloswalmf.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motilaloswalmf.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809072652id_/https%3A//www.motilaloswalmf.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Motilal Oswal
 
