@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsearchforum.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515093725id_/https%3A//www.localsearchforum.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsearchforum.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809234833id_/https%3A//www.localsearchforum.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Local Search Forum
 
