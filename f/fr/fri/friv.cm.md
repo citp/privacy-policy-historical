@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friv.cm privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620093038id_/http%3A//www.friv.cm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friv.cm privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809033959id_/http%3A//www.friv.cm/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Friv Games at Friv.cm 🔥
+# Privacy Policy - Friv Games Online - Friv.cm 🥇
 
 This Privacy Policy governs the manner in which Friv.cm collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.friv.cm website (“Site”). This privacy policy applies to the Site and all products and services offered by Friv.cm.
 
