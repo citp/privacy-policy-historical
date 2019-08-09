@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citationsy.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622073849id_/https%3A//citationsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citationsy.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810003345id_/https%3A//citationsy.com/privacy) for the most accurate reproduction.*
 
 # Privacy · Citationsy
 
