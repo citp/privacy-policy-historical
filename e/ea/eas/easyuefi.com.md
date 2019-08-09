@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyuefi.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406215059id_/https%3A//www.easyuefi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyuefi.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809090523id_/https%3A//www.easyuefi.com/privacy.html) for the most accurate reproduction.*
 
 # The EasyUEFI Development Team Privacy Policy
 
