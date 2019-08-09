@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nomadcapitalist.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020234437id_/http%3A//nomadcapitalist.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadcapitalist.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809021626id_/https%3A//nomadcapitalist.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Policy | Nomad Capitalist
 
-Last updated October 2018
+Last updated December 2018
 
 Your privacy is important to Nomad Capitalist Limited (herein, “Nomad”). We developed this Privacy Notice to provide you with information on how we process your personal data when you create a Nomad account, interact with our customer support specialists, visit nomadcapitalist.com or visit other Nomad websites that include a link to this Privacy Notice
 
@@ -57,7 +57,7 @@ Subject to applicable data protection law we may share your personal data with:
 ● Fraud prevention agencies, credit reference agencies, and debt collection agencies  
 ● Courts, to comply with legal requirements, and for the administration of justice  
 ● In an emergency or to otherwise protect your vital interests  
-● Anyone else where we have your consent or as required by law 
+● Anyone else where we have your consent or as required by law
 
 ## Cookies and Similar Technologies
 
@@ -73,6 +73,7 @@ _cfduid | Website functionality
 _gat | Google Analytics  
 _gid | Google Analytics  
 _ga | Google Analytics  
+_gtm | Google Tag Manager  
   
 Here are examples of third-party providers of analytics and similar services we currently use:  
 **Analytics Services:**  
