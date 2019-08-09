@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.nh.us privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525093719id_/https%3A//www.nh.gov/policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nh.us privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809211059id_/https%3A//www.nh.gov/policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy| NH.gov
 
@@ -58,6 +58,7 @@ We consider any information that could reasonably be used to identify you as "pe
   * Your E-mail address;
   * Your social security number;
   * Your password;
+  * Your IP address;
   * Bank account information;
   * Credit card information;
   * License or identification number;
