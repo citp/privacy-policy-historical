@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miracletele.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513130144id_/https%3A//miracletele.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miracletele.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809201835id_/https%3A//miracletele.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
