@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwall.us privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607073905id_/http%3A//hdwall.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwall.us privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809232651id_/http%3A//hdwall.us/privacy) for the most accurate reproduction.*
 
 # Privacy
 
