@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grab.com privacy policy that was archived on 2019-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190611041357id_/https%3A//www.grab.com/sg/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grab.com privacy policy that was archived on 2019-08-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190809211234id_/https%3A//www.grab.com/sg/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-SG" class="no-js async-hide"><head>
 		<meta charset="UTF-8">
@@ -108,8 +108,29 @@
 		}
 
 		var urlParams = getUrlParams();
-		if (urlParams.utm_source) {setCookie('utm_source', urlParams.utm_source);}
-		if (urlParams.utm_medium) {setCookie('utm_medium', urlParams.utm_medium);}
+		var searchEngines = {
+		'www.google': 'Google',
+		'search.yahoo': 'Yahoo',
+		'www.bing': 'Bing',
+		'baidu.com': 'Baidu',
+		'm.baidu.com': 'Baidu'
+		};
+		var theReferrer = document.referrer;
+		var referrerMatched;
+		Object.keys(searchEngines).forEach(key => {
+		if (theReferrer.includes(key)) {
+			referrerMatched = searchEngines[key];
+			return false;
+		}
+		});
+		if (urlParams.utm_source) {
+		setCookie('utm_source', urlParams.utm_source);
+		} else if (referrerMatched) { setCookie('utm_source', referrerMatched);
+		}
+		if (urlParams.utm_medium) {
+		setCookie('utm_medium', urlParams.utm_medium);
+		} else if (referrerMatched) { setCookie('utm_medium', 'non-paid');
+		}
 		if (urlParams.utm_content) {setCookie('utm_content', urlParams.utm_content);}
 		if (urlParams.utm_term) {setCookie('utm_term', urlParams.utm_term);}
 		if (urlParams.utm_campaign) {setCookie('utm_campaign', urlParams.utm_campaign);}
@@ -176,7 +197,7 @@
 <link rel="canonical" href="https://www.grab.com/sg/privacy/">
 <meta name="google-site-verification" content="vfxuon_ZyPfaowDg8ecP-FSfSGVGrBY08WH0gISpyGk">
 <meta name="msvalidate.01" content="62D708192352CDCE3B73BA9B4A94A95C">
-<!-- End The SEO Framework by Sybre Waaijer | 0.00889s -->
+<!-- End The SEO Framework by Sybre Waaijer | 0.00961s -->
 
 <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
 <link rel="dns-prefetch" href="//s.w.org">
@@ -198,10 +219,10 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="elementor/widgets/widgets_registered-css" href="https://www.grab.com/sg/wp-content/plugins/grab-elementor/assets/styles.css?ver=5200754" media="all">
+<link rel="stylesheet" id="elementor/widgets/widgets_registered-css" href="https://www.grab.com/sg/wp-content/plugins/grab-elementor/assets/styles.css?ver=5217950" media="all">
 <link rel="stylesheet" id="wp-ulike-css" href="https://www.grab.com/sg/wp-content/plugins/wp-ulike/assets/css/wp-ulike.min.css?ver=3.5.0" media="all">
 <link rel="stylesheet" id="bootstrap-css" href="https://www.grab.com/sg/wp-content/themes/grabsg/css/bootstrap.min.v3.3.6.css?ver=1.0" media="all">
-<link rel="stylesheet" id="common_css-css" href="https://www.grab.com/sg/wp-content/themes/grabsg/css/common.css?ver=20180124" media="">
+<link rel="stylesheet" id="common_css-css" href="https://www.grab.com/sg/wp-content/themes/grabsg/css/common.css?ver=20190702" media="">
 <link rel="stylesheet" id="press_css-css" href="https://www.grab.com/sg/wp-content/themes/grabsg/css/press-stylesheet.css?ver=20180124" media="">
 <link rel="stylesheet" id="sanomat_css-css" href="https://www.grab.com/sg/wp-content/themes/grabsg/fonts/Sanomat/1512-PNDUFW-11oct17.css?ver=20180124" media="">
 <link rel="stylesheet" id="tablepress-default-css" href="https://www.grab.com/sg/wp-content/uploads/sites/4/tablepress-combined.min.css?ver=6" media="all">
@@ -211,9 +232,10 @@ img.emoji {
 <script type="text/javascript" src="https://www.grab.com/sg/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=4.4.3"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.1.6/js/swiper.min.js?ver=147"></script>
 <script type="text/javascript" src="https://www.grab.com/sg/wp-content/plugins/grab-elementor/assets/scripts.js?ver=147"></script>
+<script type="text/javascript" src="https://www.grab.com/sg/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.4.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var userSettings = {"url":"\/","uid":"0","time":"1560226437","secure":"1"};
+var userSettings = {"url":"\/","uid":"0","time":"1565385154","secure":"1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.grab.com/sg/wp-includes/js/utils.min.js?ver=4.9.8"></script>
@@ -242,379 +264,270 @@ var userSettings = {"url":"\/","uid":"0","time":"1560226437","secure":"1"};
 			<div class="container">
 
 <!-- new menu -->
+
+<style>
+.wrapper { margin-top: 68px;}
+
+#top .navbar-default .navbar-collapse{padding-left: 6px; padding-right: 6px;}
+#top .navbar-default { min-height: 66px;}
+#top .navbar-brand{ margin-top:16px;}
+@media only screen and (max-width: 767px){
+	.wrapper { margin-top: 50px; }
+}
+
+</style>
+<nav class="navbar navbar-default hidden-xs" role="navigation"> 
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul id="main-menu" class="nav navbar-nav">
+	        <li class="dropdown main-list">
+	            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+	            	<i class="fa fa-bars bars" aria-hidden="true"></i>
+	            	<span class="bars">Menu</span>
+	            	<i class="fa fa-times times" aria-hidden="true" style="display: none;"></i>
+	            </a>
+	            <ul class="dropdown-menu multi-column columns-3" style="background-image:linear-gradient(to right, rgba(246,248,250,1) 40%, rgba(246,248,250,0.5)), url(https://assets.grab.com/wp-content/uploads/sites/4/2019/07/01155506/about-background1.jpg)">
+			        <div class="grabnav-tab-container">
+			            <div class="grabnav-tab-menu">
+			              <div class="list-group">
+			              	<a href="#" class="list-group-item text-center active" data-bg="https://assets.grab.com/wp-content/uploads/sites/4/2019/07/01155506/about-background1.jpg">About</a><a href="#" class="list-group-item text-center " data-bg="https://assets.grab.com/wp-content/uploads/sites/4/2019/07/01155856/PAX.jpg">Consumer</a><a href="#" class="list-group-item text-center " data-bg="https://assets.grab.com/wp-content/uploads/sites/4/2019/07/01160224/DAX-2.jpg">Driver</a><a href="#" class="list-group-item text-center " data-bg="https://assets.grab.com/wp-content/uploads/sites/4/2019/07/01160633/MEX-2.jpg">Merchant</a><a href="#" class="list-group-item text-center " data-bg="https://assets.grab.com/wp-content/uploads/sites/4/2019/07/01160813/enterprise_background1.jpg">Enterprise</a>			              </div>
+			            </div>
+			            <div class="grabnav-tab">
+			            	<div class="grabnav-tab-content active">
+										<div class="item-link">
+					                    	<h4><a href="/sg/brand-story/">Brand Story</a></h4>
+					                    	<p>Who we are and what we stand for</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/locations/">Locations</a></h4>
+					                    	<p>Cities and countries we call home</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/safety/">Trust &amp; Safety</a></h4>
+					                    	<p>What we do to keep you safe</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/press/">Newsroom</a></h4>
+					                    	<p>Latest news and announcements, fresh off the press</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/grab-financial-group/">Grab Financial Group</a></h4>
+					                    	<p>Financial services that are accessible and affordable to all </p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="https://grab.careers/">Careers</a></h4>
+					                    	<p>Join us on our mission to drive Southeast Asia forward</p>
+					                    </div>
+					                    </div><div class="grabnav-tab-content ">
+										<div class="item-link">
+					                    	<h4><a href="/sg/blog/">What's New</a></h4>
+					                    	<p>Latest happenings, promos and stories</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/transport/">Transport</a></h4>
+					                    	<p>Everything to do with getting you from A to B</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/pay/">GrabPay</a></h4>
+					                    	<p>Go cashless, pay seamlessly</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/food/">GrabFood</a></h4>
+					                    	<p>Your favourite foods delivered to your doorstep</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/express/">GrabExpress</a></h4>
+					                    	<p>Send things easily and quickly</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/rewards/">GrabRewards</a></h4>
+					                    	<p>Exclusive privileges you'll enjoy as a Grab user</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/subscriptions/">Subscriptions</a></h4>
+					                    	<p>Monthly plans with added savings on rides and food</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/score/">SCORE</a></h4>
+					                    	<p>Subscription programme with Grab, Fairprice, Zalora and more</p>
+					                    </div>
+					                    </div><div class="grabnav-tab-content ">
+										<div class="item-link">
+					                    	<h4><a href="/sg/blog/driver/">What's New</a></h4>
+					                    	<p>Latest news and announcements for Grab Driver-partners</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/driver/transport/">Transport</a></h4>
+					                    	<p>Be your own boss and drive on your own time</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/driver/food/">GrabFood</a></h4>
+					                    	<p>Deliver food and earn when you want</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/driver/express/">GrabExpress</a></h4>
+					                    	<p>Earn extra income as you help deliver items on-demand</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/driver/finance/">GrabFinance</a></h4>
+					                    	<p>Financial programmes for the on-the-go lifestyle of driver-partners</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/driver/insure/">GrabInsure</a></h4>
+					                    	<p> Tailored insurance plans for driver-partners </p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/driver/centre/">Driver Centre</a></h4>
+					                    	<p>Find your nearest driver centre</p>
+					                    </div>
+					                    </div><div class="grabnav-tab-content ">
+										<div class="item-link">
+					                    	<h4><a href="/sg/merchant/pay/">GrabPay</a></h4>
+					                    	<p>Simplify your daily transactions by accepting cashless payment </p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/merchant/food/">GrabFood</a></h4>
+					                    	<p>Grow your business by reaching millions of hungry Grab customers</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/merchant/finance/">GrabFinance</a></h4>
+					                    	<p>Hassle-free funding for merchant-partners </p>
+					                    </div>
+					                    </div><div class="grabnav-tab-content ">
+										<div class="item-link">
+					                    	<h4><a href="/sg/business/">Grab for Business</a></h4>
+					                    	<p>Grab services catered to your business needs</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/business/ads/">GrabAds</a></h4>
+					                    	<p>Take advantage of our exposure, online-to-offline</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/business/gifts/">GrabGifts</a></h4>
+					                    	<p>Customise Grab vouchers for customers, guests and employees </p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="https://ventures.grab.com/">GrabVentures</a></h4>
+					                    	<p>Our accelerator programme focused on growing startups</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/business/partnerships/">Partnerships</a></h4>
+					                    	<p>Collaborate with us and see how we can help each other</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/business/portal/">Portal</a></h4>
+					                    	<p>Manage all your Grab business activities in one place</p>
+					                    </div>
+					                    
+										<div class="item-link">
+					                    	<h4><a href="/sg/business/finance/">GrabFinance</a></h4>
+					                    	<p> Easy access to funding for business goals</p>
+					                    </div>
+					                    </div>			            </div>
+			        </div>
+	            </ul>
+	        </li>
+	        <li class="">
+	        	<a class="navbar-brand text-hide bg-size-cover grab-logo" href="https://www.grab.com/sg">Grab Singapore</a>
+	        </li>
+        </ul>
+        <ul id="secondary-menu" class="nav navbar-nav">
+        	
+						<li class="dropdown partner">
+				            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+				            	<span>Be Our Partner</span>
+				            	<i class="fa fa-angle-down" aria-hidden="true"></i>
+				            </a>
+				            <ul class="dropdown-menu multi-column columns-3">
+				            <li data="1"><a href="/sg/driver/transport/" class="icon-taxi-drive-white" style="">Grab Driver</a></li><li data="1"><a href="/sg/driver/food/" class="icon-taxi-drive-white" style="">Food Delivery Driver</a></li><li data="1"><a href="/sg/driver/express/" class="icon-taxi-drive-white" style="">Express Delivery Driver</a></li><li data="1"><a href="/sg/merchant/food/" class="icon-taxi-drive-white" style="">Food Merchant</a></li><li data="1"><a href="/sg/merchant/pay/" class="icon-taxi-drive-white" style="">Pay Merchant</a></li>
+				            </ul>
+				        </li>
+					
+						<li class="help helpcentre">
+	        				<a href="https://help.grab.com/passenger/sg">Help Centre</a>
+	        			</li>
+						        	        <li class="search">
+	        	<input id="search-key" type="text" style="display: none;">
+	        	<i class="fa fa-search" aria-hidden="true"></i>
+	        </li>
+	        	        <li>
+				<a href="https://hub.grab.com/" rel="nofollow"><i class="fa fa-user login" title="Login"></i></a>
+			</li>
+			        </ul>
+
+    </div>
+    <!--/.navbar-collapse-->
+</nav>
+<nav id="mobile-menu-navigation" class="visible-xs" role="navigation">
+	<ul id="mobile-menu" class="cd-navigation list-unstyled">
+		<li class="menu-item-drive dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            	<i class="fa fa-bars bars" aria-hidden="true"></i>
+            	<i class="fa fa-times times" aria-hidden="true" style="display: none;"></i>
+            </a>
+			<ul class="dropdown-menu main-dropdown">
+								<li class="menu-item-drive level-one-child dark-menu">
+					<a href="https://hub.grab.com/" rel="nofollow" class="sub-menu-toggle">Login</a>
+				</li>
+								
+						<li class="menu-item-has-children menu-item-drive level-one-child dark-menu">
+							<a href="#" class="sub-menu-toggle">Be Our Partner <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							<ul id="sub-menu-drive" class="sub-menu list-unstyled">
+							<li><a href="/sg/driver/transport/" class="icon-taxi-drive-white" style="">Grab Driver</a></li><li><a href="/sg/driver/food/" class="icon-taxi-drive-white" style="">Food Delivery Driver</a></li><li><a href="/sg/driver/express/" class="icon-taxi-drive-white" style="">Express Delivery Driver</a></li><li><a href="/sg/merchant/food/" class="icon-taxi-drive-white" style="">Food Merchant</a></li><li><a href="/sg/merchant/pay/" class="icon-taxi-drive-white" style="">Pay Merchant</a></li>
+							</ul>
+						</li>
+							<li class="menu-item-drive level-one-child dark-menu helpcentre">
+								<a href="https://help.grab.com/passenger/sg" class="sub-menu-toggle">Help Centre</a>
+							</li>
+						
+								<li class="menu-item-has-children menu-item-drive level-one-child"><a href="#" class="sub-menu-toggle">About<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							<ul id="sub-menu-drive" class="sub-menu list-unstyled"><li><a href="/sg/brand-story/">Brand Story</a></li><li><a href="/sg/locations/">Locations</a></li><li><a href="/sg/safety/">Trust &amp; Safety</a></li><li><a href="/sg/press/">Newsroom</a></li><li><a href="/sg/grab-financial-group/">Grab Financial Group</a></li><li><a href="https://grab.careers/">Careers</a></li>  </ul></li><li class="menu-item-has-children menu-item-drive level-one-child"><a href="#" class="sub-menu-toggle">Consumer<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							<ul id="sub-menu-drive" class="sub-menu list-unstyled"><li><a href="/sg/blog/">What's New</a></li><li><a href="/sg/transport/">Transport</a></li><li><a href="/sg/pay/">GrabPay</a></li><li><a href="/sg/food/">GrabFood</a></li><li><a href="/sg/express/">GrabExpress</a></li><li><a href="/sg/rewards/">GrabRewards</a></li><li><a href="/sg/subscriptions/">Subscriptions</a></li><li><a href="/sg/score/">SCORE</a></li>  </ul></li><li class="menu-item-has-children menu-item-drive level-one-child"><a href="#" class="sub-menu-toggle">Driver<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							<ul id="sub-menu-drive" class="sub-menu list-unstyled"><li><a href="/sg/blog/driver/">What's New</a></li><li><a href="/sg/driver/transport/">Transport</a></li><li><a href="/sg/driver/food/">GrabFood</a></li><li><a href="/sg/driver/express/">GrabExpress</a></li><li><a href="/sg/driver/finance/">GrabFinance</a></li><li><a href="/sg/driver/insure/">GrabInsure</a></li><li><a href="/sg/driver/centre/">Driver Centre</a></li>  </ul></li><li class="menu-item-has-children menu-item-drive level-one-child"><a href="#" class="sub-menu-toggle">Merchant<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							<ul id="sub-menu-drive" class="sub-menu list-unstyled"><li><a href="/sg/merchant/pay/">GrabPay</a></li><li><a href="/sg/merchant/food/">GrabFood</a></li><li><a href="/sg/merchant/finance/">GrabFinance</a></li>  </ul></li><li class="menu-item-has-children menu-item-drive level-one-child"><a href="#" class="sub-menu-toggle">Enterprise<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							<ul id="sub-menu-drive" class="sub-menu list-unstyled"><li><a href="/sg/business/">Grab for Business</a></li><li><a href="/sg/business/ads/">GrabAds</a></li><li><a href="/sg/business/gifts/">GrabGifts</a></li><li><a href="https://ventures.grab.com/">GrabVentures</a></li><li><a href="/sg/business/partnerships/">Partnerships</a></li><li><a href="/sg/business/portal/">Portal</a></li><li><a href="/sg/business/finance/">GrabFinance</a></li>  </ul></li>			</ul>
+		</li>
+		<li>
+			<a class="navbar-brand text-hide bg-size-cover grab-logo" href="https://www.grab.com/sg">Grab Singapore</a>
+		</li>
+		<li class="search">
+        	<input id="mobile-search" type="text" style="display: none;">
+        	<i class="fa fa-search" aria-hidden="true"></i>
+        </li>
+	</ul>
+</nav>
+
+<!--/.navbar-->
 <!-- end of new menu -->
 
 				
-				<nav class="navbar navbar-default">
-
-					<div class="navbar-header">
-						<a class="navbar-brand text-hide bg-size-cover" href="https://www.grab.com/sg/">Grab Singapore</a>
-					</div>
-					<ul id="nav-main" class="nav navbar-nav hidden-xs">
-						<li class="dropdown dropdown-large list-countries">						
-													<a href="#" class="dropdown-toggle sg" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="flag"></span></a>
-							<ul class="dropdown-menu dropdown-menu-large row list-countries" style="position: fixed; top: 60px;">
-															<li><a href="https://www.grab.com/sg" class="sg">
-									<span class="flag"></span>
-									Singapore</a>
-								</li>
-															<li><a href="https://www.grab.com/my" class="my">
-									<span class="flag"></span>
-									Malaysia</a>
-								</li>
-															<li><a href="https://www.grab.com/id" class="id">
-									<span class="flag"></span>
-									Indonesia</a>
-								</li>
-															<li><a href="https://www.grab.com/th" class="th">
-									<span class="flag"></span>
-									Thailand</a>
-								</li>
-															<li><a href="https://www.grab.com/vn" class="vn">
-									<span class="flag"></span>
-									Vietnam</a>
-								</li>
-															<li><a href="https://www.grab.com/ph" class="ph">
-									<span class="flag"></span>
-									Philippines</a>
-								</li>
-															<li><a href="https://www.grab.com/mm" class="mm">
-									<span class="flag"></span>
-									Myanmar</a>
-								</li>
-															<li><a href="https://www.grab.com/kh" class="kh">
-									<span class="flag"></span>
-									Cambodia</a>
-								</li>
-															<li><a href="https://www.grab.com/sg/where-we-are/" class="globe">
-									<span class="flag"></span>
-									Full city list
-									</a>
-								</li>
-							</ul>
-						</li>
-																		
-						<li class="dropdown dropdown-large">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-								Services							</a>
-														<ul class="dropdown-menu dropdown-menu-large row list-icons" style="position: fixed; top: 60px;  text-align: center; ">
-																								<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/taxi/" class="icon-taxi">
-													Taxi													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/car/" class="icon-car">
-													Car													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/hitch/" class="icon-hitch">
-													Hitch													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/share/" class="icon-share">
-													Share													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/coach/" class="icon-coach">
-													Coach													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/shuttle/" class="icon-shuttle">
-													Shuttle													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/shuttleplus/" class="icon-shuttle">
-													Shuttle Plus													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/family/" class="icon-family">
-													Family													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/justgrab/" class="icon-justgrab">
-													JustGrab													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/rental/" class="icon-rental">
-													GrabRentals													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/wheels/" class="icon-wheel">
-													Wheels													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/food/" class="icon-grabfood">
-													Food													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/express/" class="icon-express">
-													Express<br>Beta													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/grabpet/" class="icon-grabpet">
-													GrabPet													</a>
-												</li>
-																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
-														<a href="https://www.grab.com/sg/trip-planner/" class="icon-triplanner">
-													Trip<br>Planner													</a>
-												</li>
-																			</ul>
-						</li>
-																								<li class="dropdown dropdown-large">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-								Corporate							</a>
-							<ul class="dropdown-menu dropdown-menu-large row list-icons" style="position: fixed; top: 60px;">
-																								<li class="col-sm-2">
-														<a href="https://www.grab.com/sg/score/" class="icon-score">SCORE</a>
-												</li>
-																												<li class="col-sm-2">
-														<a href="https://www.grab.com/sg/business/" class="icon-work">Grab for Business</a>
-												</li>
-																												<li class="col-sm-2">
-														<a href="https://www.grab.com/sg/grab-ventures/" class="icon-ventures">Grab Ventures</a>
-												</li>
-																			</ul>
-						</li>
-																							<li>
-								<a href="/sg/grabpay/" class="grabpay-brand"></a>
-							</li>
-										<li>
-						<a href="/sg/grabrewards/" class="grabrewards-brand"></a>
-					</li>
-					</ul>
-					<ul class="nav navbar-nav navbar-right hidden-xs">
-												<li>
-							<a href="https://help.grab.com/passenger/en-sg">Help Centre</a>						</li>
-												<li>
-							<a href="https://hub.grab.com/" rel="nofollow"><i class="fa fa-user login" title="Login"></i></a>
-						</li>
-																	</ul>
-
-															<ul id="nav-drive" class="nav navbar-nav navbar-right hidden-xs ">
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-								Drive with Grab							</a>
-							<ul class="dropdown-menu list-icons">
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/sg/driver/" class="icon-drive-white" style="">
-									Drive with Grab</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/sg/driver/taxi/" class="icon-taxi-drive-white" style="">
-									Taxi Driver</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/sg/driver/car/" class="icon-car-drive-white" style="">
-									Car Driver</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/sg/driver/hitch/" class="icon-hitch-drive-white" style="">
-									Hitch Driver</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/sg/driver/rental/" class="icon-rental-drive-white" style="">
-									Rental Driver</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/sg/driver/food/" class="icon-grabfood-drive-white" style="">
-									GrabFood Driver</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/sg/driver/grabpet/" class="icon-grabpet-drive-white" style="">
-									GrabPet Driver</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/sg/driver/express/" class="icon-bike-drive-white" style="">
-									GrabExpress Driver</a>
-								</li>
-														</ul>
-						</li>
-					</ul>
-					
-				</nav>
-				<a id="cd-menu-trigger" href="#0" class="visible-xs"><span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span></a>
-
-									<a id="btn-download" href="https://www.grab.com/sg/driver" class="visible-xs btn btn-green weight-bold outline text-caps">Driver Sign-Up</a>
-				
-			
 
 			</div><!-- /container -->
 		</div>
-				<nav class="visible-xs mobile-menu" id="cd-lateral-nav">
-						<div class="inner">
-				<a href="https://hub.grab.com/" target="_blank" class="btn btn-green btn-block weight-bold outline" rel="nofollow">Login</a>
-			</div>
-							<ul class="cd-navigation list-unstyled" id="menu-main-navigation">
-										<li class="menu-item-has-children menu-item-drive">
-								<a href="#">Drive with Grab</a>
-								<ul id="sub-menu-drive" class="sub-menu list-unstyled list-icons">
-																							<li class="link-">
-								<a href="https://www.grab.com/sg/driver/" class="icon-drive">Drive with Grab</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/sg/driver/taxi/" class="icon-taxi-drive">Taxi Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/sg/driver/car/" class="icon-car-drive">Car Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/sg/driver/hitch/" class="icon-hitch-drive">Hitch Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/sg/driver/rental/" class="icon-rental-drive">Rental Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/sg/driver/food/" class="icon-grabfood-drive">GrabFood Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/sg/driver/grabpet/" class="icon-grabpet-drive">GrabPet Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/sg/driver/express/" class="icon-bike-drive">GrabExpress Driver</a>
-							</li>
-														</ul>
-						</li>
-																		<li class="menu-item-has-children">
-							<a href="#">Services</a>
-								<ul class="sub-menu list-unstyled list-icons">
-																					<li>
-							<a href="https://www.grab.com/sg/taxi/" class="icon-taxi">
-								Taxi							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/car/" class="icon-car">
-								Car							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/hitch/" class="icon-hitch">
-								Hitch							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/share/" class="icon-share">
-								Share							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/coach/" class="icon-coach">
-								Coach							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/shuttle/" class="icon-shuttle">
-								Shuttle							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/shuttleplus/" class="icon-shuttle">
-								Shuttle Plus							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/family/" class="icon-family">
-								Family							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/justgrab/" class="icon-justgrab">
-								Just							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/rental/" class="icon-rental">
-								Rental							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/wheels/" class="icon-wheel">
-								Wheels							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/food/" class="icon-grabfood">
-								Food							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/express/" class="icon-express">
-								Express Beta							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/grabpet/" class="icon-grabpet">
-								Pet							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/sg/trip-planner/" class="icon-triplanner">
-								Trip Planner							</a>
-						</li>
-																		</ul>
-						</li>
-																		<li class="menu-item-has-children">
-								<a href="#">Corporate</a>
-								<ul class="sub-menu list-unstyled list-icons">
-																						<li>
-												<a href="https://www.grab.com/sg/score/" class="icon-score">SCORE</a>
-										</li>
-																						<li>
-												<a href="https://www.grab.com/sg/business/" class="icon-work">Grab for Business</a>
-										</li>
-																						<li>
-												<a href="https://www.grab.com/sg/grab-ventures/" class="icon-ventures">Grab Ventures</a>
-										</li>
-																		</ul>
-						</li>
-												<li>
-								<a href="https://www.grab.com/sg/about/">About</a>
-						</li>
-												<li>
-							<a href="/sg/grabpay/" class="grabpay-brand mobile-nav"></a>
-						</li>
-												<li>
-							<a href="/sg/grabrewards/" class="grabrewards-brand mobile-nav"></a>
-						</li>
-												<li>
-						</li><li class="menu-item"><a href="https://www.grab.com/sg/blog/">Blog</a></li>						
-						<li>
-								<a href="https://www.grab.com/sg/press/">Press</a>
-						</li>
-						<li>
-								<a href="https://grab.careers/" target="_blank">Careers</a>
-						</li>
-												<li>
-								<a href="https://www.grab.com/sg/safety/">Safety</a>
-						</li>
-						<li><a href="https://help.grab.com/passenger/en-sg">Help Centre</a></li>
-						<li class="menu-item-has-children">
-								<a href="#">Singapore</a>
-								<ul class="sub-menu list-unstyled list-countries">
-									
-							<li><a href="https://www.grab.com/sg" class="sg">Singapore</a></li>
-
-						
-							<li><a href="https://www.grab.com/my" class="my">Malaysia</a></li>
-
-						
-							<li><a href="https://www.grab.com/id" class="id">Indonesia</a></li>
-
-						
-							<li><a href="https://www.grab.com/th" class="th">Thailand</a></li>
-
-						
-							<li><a href="https://www.grab.com/vn" class="vn">Vietnam</a></li>
-
-						
-							<li><a href="https://www.grab.com/ph" class="ph">Philippines</a></li>
-
-						
-							<li><a href="https://www.grab.com/mm" class="mm">Myanmar</a></li>
-
-						
-							<li><a href="https://www.grab.com/kh" class="kh">Cambodia</a></li>
-
-														<li><a href="https://www.grab.com/sg/where-we-are/" class="globe">Full city list</a>
-								</li>
-							</ul>
-						</li>
-									</ul>
-		</nav>
 		
 		<div class="wrapper">
 
@@ -798,108 +711,109 @@ Email: dataprotection@grab.com</span></p>
 		
 	</main>
 
-			<section class="sitemap">
+		
+	
+	<!-- new footer -->
+	<section class="sitemap nav-sitemap">
 		<div class="container">
 	    	<div class="row">
-				<div class="footer-secTop">
-					<div class="col-sm-12 col-md-3">
-						<div class="footer-about-grab">
-							<div class="grab-logo bottom-margin-md">
-								<a href="https://www.grab.com/sg/"><img src="https://www.grab.com/sg/wp-content/themes/grabsg/images/grab-white.png"></a>
-							</div>
-													<div class="grab-infor">
-								<p>28 Sin Ming Lane,<br>
+	    		<div id="nav-footer" class="footer-secTop">
+				    <div class="col-sm-12 col-md-3">
+				        <div class="footer-about-grab">
+				            <div class="bottom-margin-md div-logo">
+				                <a class="navbar-brand text-hide bg-size-cover grab-logo" href="https://www.grab.com/sg">Grab Singapore</a>
+				            </div>
+				            				            <div class="grab-infor">
+				            	<h4>Forward Together</h4>
+				                <p>28 Sin Ming Lane,<br>
 #01-143, Midview City<br>
 Singapore 573972</p>
-							</div>
-							<div class="grab-contact top-margin-md">
-								<p></p>
-								<p><a href="mailto:"></a></p>
-							</div>
-							            		</div><!-- /footer-about-grab-->
-	        		</div><!-- /col-sm-12 col-md-3-->
+				            </div>
+				            <div class="grab-contact top-margin-md">
+				                <h4>Follow us and keep updated!</h4>
+				                <a target="_blank" href="https://www.facebook.com/Grab"><i class="fa fa-facebook"></i></a><a target="_blank" href="https://www.instagram.com/grab_sg/"><i class="fa fa-instagram"></i></a><a target="_blank" href="https://twitter.com/grabsg"><i class="fa fa-twitter"></i></a>				            </div>
+				            <div class="country-selector">
+				            	<div class="dropup list-countries">
+				            		<a class="dropdown-toggle sg" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				            			<span class="flag"></span> Singapore <i class="fa fa-angle-up"></i>
+				            		</a>
+									<div class="dropdown-menu">
+																						<a href="https://www.grab.com/sg" class="sg">
+											<span class="flag"></span>
+											Singapore</a>
+																						<a href="https://www.grab.com/my" class="my">
+											<span class="flag"></span>
+											Malaysia</a>
+																						<a href="https://www.grab.com/id" class="id">
+											<span class="flag"></span>
+											Indonesia</a>
+																						<a href="https://www.grab.com/th" class="th">
+											<span class="flag"></span>
+											Thailand</a>
+																						<a href="https://www.grab.com/vn" class="vn">
+											<span class="flag"></span>
+											Vietnam</a>
+																						<a href="https://www.grab.com/ph" class="ph">
+											<span class="flag"></span>
+											Philippines</a>
+																						<a href="https://www.grab.com/mm" class="mm">
+											<span class="flag"></span>
+											Myanmar</a>
+																						<a href="https://www.grab.com/kh" class="kh">
+											<span class="flag"></span>
+											Cambodia</a>
+																			</div>
+								</div>
+				            </div>
+				        </div>
+				        <!-- /footer-about-grab-->
+				    </div>
+				    <!-- /col-sm-12 col-md-3-->
 
+				    <div class="col-sm-12 col-md-9 hidden-xs">
+				        <div class="row sitemap-container">
+				        	
+											<div class="col-sm-4 col-md-2 first-col">
+										<h4 class="text-caps"><a href="https://help.grab.com/passenger/sg">Help Centre</a></h4>
+											</div>
+											<div class="col-sm-4 col-md-2">
+				                				<h4 class="text-caps">About</h4>
+				                				<ul class="sitemapList">
+										<li><a href="/sg/brand-story/">Brand Story</a></li><li><a href="/sg/locations/">Locations</a></li><li><a href="/sg/safety/">Trust &amp; Safety</a></li><li><a href="/sg/press/">Newsroom</a></li><li><a href="/sg/grab-financial-group/">Grab Financial Group</a></li><li><a href="https://grab.careers/">Careers</a></li>
+												</ul>
+											</div>
+											<div class="col-sm-4 col-md-2">
+				                				<h4 class="text-caps">Consumer</h4>
+				                				<ul class="sitemapList">
+										<li><a href="/sg/blog/">What's New</a></li><li><a href="/sg/transport/">Transport</a></li><li><a href="/sg/express/">GrabExpress</a></li><li><a href="/sg/food/">GrabFood</a></li><li><a href="/sg/pay/">GrabPay</a></li><li><a href="/sg/rewards/">GrabRewards</a></li><li><a href="/sg/subscriptions/">Subscriptions</a></li>
+												</ul>
+											</div>
+											<div class="col-sm-4 col-md-2">
+				                				<h4 class="text-caps">Driver</h4>
+				                				<ul class="sitemapList">
+										<li><a href="/sg/blog/driver/">What's New</a></li><li><a href="/sg/driver/transport/">Transport</a></li><li><a href="/sg/driver/food/">GrabFood</a></li><li><a href="/sg/driver/express/">GrabExpress</a></li><li><a href="/sg/driver/finance/">GrabFinance</a></li><li><a href="/sg/driver/insure/">GrabInsure</a></li><li><a href="/sg/driver/centre/">Driver Centre</a></li>
+												</ul>
+											</div>
+											<div class="col-sm-4 col-md-2">
+				                				<h4 class="text-caps">Merchant</h4>
+				                				<ul class="sitemapList">
+										<li><a href="/sg/blog/merchant/">What's new</a></li><li><a href="/sg/merchant/pay/">GrabPay</a></li><li><a href="/sg/merchant/food/">GrabFood</a></li><li><a href="/sg/merchant/finance/">GrabFinance</a></li>
+												</ul>
+											</div>
+											<div class="col-sm-4 col-md-2">
+				                				<h4 class="text-caps">Enterprise</h4>
+				                				<ul class="sitemapList">
+										<li><a href="/sg/business/">Grab for Business</a></li><li><a href="/sg/business/ads/">GrabAds</a></li><li><a href="/sg/business/gifts/">GrabGifts</a></li><li><a href="https://ventures.grab.com/">GrabVentures</a></li><li><a href="/sg/business/partnerships/">Partnerships</a></li><li><a href="/sg/business/portal/">Portal</a></li><li><a href="/sg/business/finance/">GrabFinance</a></li>
+												</ul>
+											</div>				        </div>
+				        <!-- /row sitemap-container -->
 
-					<div class="col-sm-12 col-md-9 hidden-xs">
-						<div class="row sitemap-container">
-
-							<div class="col-xs-6 col-sm-4 col-md-3">
-																<h4 class="text-caps">Company</h4>
-								<ul class="sitemapList" id="menu-company-menu">
-									<li class="menu-item" id="menu-item-1040"><a href="https://www.grab.com/sg/about/">About</a></li>
-																		<li class="menu-item" id="menu-item-1047"><a href="https://www.grab.com/sg/press/">Press</a></li>
-
-									<li class="menu-item"><a href="https://www.grab.com/sg/blog/">Blog</a></li>																		<li class="menu-item"><a href="https://www.grab.com/sg/food-blog">Food Blog</a></li>									<li class="menu-item" id="menu-item-1039"><a href="https://grab.careers" target="_blank">Careers</a></li>
-																			<li class="menu-item" id="menu-item-1038"><a href="https://www.grab.com/sg/security/">Security</a></li>
-																											<li class="menu-item" id="menu-item-1050"><a href="https://www.grab.com/sg/driver/gdc">Driver Centre</a></li>
-										            				</ul>
-	            											</div><!-- /col-xs-6 col-sm-4 col-md-3 -->
-							<div class="col-xs-6 col-sm-4 col-md-3">
-								<h4 class="text-caps">Services</h4>
-								<ul id="menu-footer-services" class="sitemapList"><li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="https://www.grab.com/sg/taxi/">GrabTaxi</a></li>
-<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="https://www.grab.com/sg/car/">GrabCar</a></li>
-<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="https://www.grab.com/sg/hitch/">GrabHitch</a></li>
-<li id="menu-item-7311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7311"><a href="https://www.grab.com/sg/share/">GrabShare</a></li>
-<li id="menu-item-9707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9707"><a href="https://www.grab.com/sg/coach/">GrabCoach</a></li>
-<li id="menu-item-11229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11229"><a href="https://www.grab.com/sg/shuttle/">GrabShuttle</a></li>
-<li id="menu-item-27158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27158"><a href="https://www.grab.com/sg/shuttleplus/">GrabShuttle Plus</a></li>
-<li id="menu-item-21719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21719"><a href="https://www.grab.com/sg/family/">GrabFamily</a></li>
-<li id="menu-item-23638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23638"><a href="https://www.grab.com/sg/justgrab/">JustGrab</a></li>
-<li id="menu-item-23637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23637"><a href="https://www.grab.com/sg/rental/">GrabRentals</a></li>
-<li id="menu-item-45264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45264"><a href="https://www.grab.com/sg/wheels/">GrabWheels</a></li>
-<li id="menu-item-37069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37069"><a href="https://www.grab.com/sg/food/">GrabFood</a></li>
-<li id="menu-item-42674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42674"><a href="https://www.grab.com/sg/express/">GrabExpress Beta</a></li>
-<li id="menu-item-51373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51373"><a href="https://www.grab.com/sg/grabpet/">GrabPet</a></li>
-<li id="menu-item-54311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54311"><a href="https://www.grab.com/sg/trip-planner/">Trip Planner</a></li>
-</ul>	            			</div><!-- /col-xs-6 col-sm-4 col-md-3 -->
-				            <div class="col-xs-6 col-sm-4 col-md-3">
-				            	<h4 class="text-caps">Corporate</h4>
-								<ul id="menu-footer-corporate" class="sitemapList"><li id="menu-item-35142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35142"><a href="https://www.grab.com/sg/score/">SCORE</a></li>
-<li id="menu-item-39522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39522"><a href="https://www.grab.com/sg/business/">Grab for Business</a></li>
-<li id="menu-item-381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381"><a href="https://www.grab.com/sg/partnerships/">Partnerships</a></li>
-<li id="menu-item-37806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37806"><a href="https://ventures.grab.com">Grab Ventures</a></li>
-<li id="menu-item-38440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38440"><a href="https://www.grab.com/sg/press/business/grab-unveils-open-platform-strategy-to-build-southeast-asias-first-everyday-superapp/">Grab Platform</a></li>
-</ul>				            </div><!-- /col-xs-6 col-sm-4 col-md-3 -->
-				            				            <div class="col-xs-6 col-sm-4 col-md-3">
-				            	<h4 class="text-caps">Ride</h4>
-								<ul id="menu-footer-ride" class="sitemapList"><li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="https://www.grab.com/sg/driver/">Drive</a></li>
-<li id="menu-item-42365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42365"><a href="https://www.grab.com/sg/safety/">Safety</a></li>
-<li id="menu-item-23658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23658"><a href="https://help.grab.com/hc/en-sg">Help Centre</a></li>
-</ul>				            </div><!-- /col-xs-6 col-sm-4 col-md-3 -->
-				            	        			</div><!-- /row sitemap-container -->
-
-	        		</div><!-- /col-sm-12 col-md-9 -->
-										<div class="col-sm-12 col-md-12 hidden-xs">
-						<hr>
-	        		</div>
-	    		</div><!-- /footer-secTop-->
-
-	    	</div><!-- /row-->
-
-			<div class="row ">
-				<div class="col-xs-6 col-sm-4 col-md-3 socialArea">
-					<div class="row hidden-xs">
-						<div class="col-xs-12">
-							<h4 class="text-caps">Stay in Touch</h4>
-	        			</div>
-	        		</div><!-- /row-->
-
-										<div class="row">
-												<div class="col-xs-4">
-							<a target="_blank" href="https://www.facebook.com/grabsg" class="fb socialIcon hvr-float-shadow"><i class="fa fa-facebook fa-2x"></i></a>
-						</div>
-																		<div class="col-xs-4">
-							<a target="_blank" href="https://www.instagram.com/grab_sg" class="instagram socialIcon hvr-float-shadow"><i class="fa fa-instagram fa-2x"></i></a>
-						</div>
-																		<div class="col-xs-4">
-							<a target="_blank" href="https://twitter.com/grabsg" class="twitter socialIcon hvr-float-shadow"><i class="fa fa-twitter fa-2x"></i></a>
-						</div>
-							        		</div><!-- /row-->
-	    		</div><!-- /col-sm-6 col-md-2 socialArea -->
-	    	</div><!-- /row-->
-		</div><!-- /container -->
-	</section><!-- /sitemap -->
-    
+				    </div>
+				</div>
+					    	</div>
+	    </div>
+	</section>
+	<!--  -->
 	
 	<footer>
 		<div class="container">
@@ -1182,24 +1096,106 @@ $(".innerLink").click(function(event) {
 		searchBing('#mobile-menu .search input');	
 	});
 
-	var input = document.getElementById("search-key");
-	input.addEventListener("keyup", function(event) {
-	  if (event.keyCode === 13) {
-		event.preventDefault();
+	$('#secondary-menu').on('keyup', '#search-key', function(e) {
+	  if (e.keyCode === 13) {
+		e.preventDefault();
 	    searchBing('#secondary-menu .search input');
 	  }
 	});
 
-	var input = document.getElementById("mobile-search");
-	input.addEventListener("keyup", function(event) {
-	  if (event.keyCode === 13) {
-		event.preventDefault();
+	$('#mobile-menu').on('keyup', '#mobile-search', function(e) {
+	  if (e.keyCode === 13) {
+		e.preventDefault();
 	    searchBing('#mobile-menu .search input');
 	  }
 	});
 
 </script>
-<script type="text/javascript">
+<script>jQuery(document).ready(function($) {
+	salesforceForm = false;
+	jQuery("form").each(function() {
+		if (jQuery(this).attr('action').search(/salesforce/i) >= 0) {
+			salesforceForm = true;
+			id = jQuery(this).attr('id')
+		}
+	});
+
+	if (salesforceForm) {
+		jQuery('input[name="00N7F00000RuaYi"]').each(function() { $(this).attr('name', '00N7F00000RuaYi[]'); })
+		jQuery('#sf-recaptcha').attr('data-sitekey', '6Le3PjIUAAAAAA6qH0HYORp6HKJhdxxH3f5iuA1e');
+
+		jQuery('.msg-error').remove();
+		jQuery('.elementor-field-type-submit').before('<div class="elementor-widget-form elementor-field-group"><p class="msg-error"></p></div>');
+		jQuery('input[type="submit"]').before('<div class="col-sm-12 msg-error error"></div>');
+		jQuery('.msg-error').addClass('error');
+
+		jQuery('input').on('keyup', function () {
+			if (jQuery("#"+id).valid()) {
+        		jQuery('form .submit-button').prop('disabled', false);
+		        jQuery('button[type="submit"]').prop('disabled', false);
+    		} else {
+        		jQuery('form .submit-button').prop('disabled', true);
+	    		jQuery('button[type="submit"]').prop('disabled', true);
+    		}
+		});
+
+		jQuery('select').on('change', function () {
+    		if (jQuery("#"+id).valid()) {
+        		jQuery('form .submit-button').prop('disabled', false);
+		        jQuery('button[type="submit"]').prop('disabled', false);
+    		} else {
+    			jQuery('form .submit-button').prop('disabled', true);
+	    		jQuery('button[type="submit"]').prop('disabled', true);
+    		}
+		});
+
+		jQuery("#"+id).off('submit');
+		jQuery("#"+id).on('submit', function(e) {
+			e.stopImmediatePropagation()
+			e.preventDefault();
+			if (jQuery("#"+id).valid()) {
+				jQuery('form .submit-button').prop('disabled', true);
+				jQuery('button[type="submit"]').prop('disabled', true);
+				jQuery('.msg-error').html('');
+
+				jQuery.ajax({
+		        	url: '/wp-admin/admin-ajax.php?action=submitSalesforceForm',
+		        	type: 'post',
+		        	dataType: 'json',
+		        	data: $(this).serialize(),
+		        	success: function(data) {
+		        		console.log(data);
+		        		if (data.success) {
+		        			parameters        = '';
+		        			if ($('#partnershiptype').length) {
+		        				parameters = '?grabcom_form=2&grabcom_service=' + $('#partnershiptype').val();
+		        			}
+		        			else if ($('#Typeofpartnership').length) {
+		        				parameters = '?grabcom_form=2&grabcom_service=' + $('#Typeofpartnership').val();
+		        			}
+
+		        			location.href = jQuery("input[name='retURL']").val() + parameters;
+		        		}
+		        		else {
+		        			grecaptcha.reset();
+		        			jQuery('.msg-error').html(data.data.message);
+		        			console.log(data.data.sfMessage)
+		        		}
+
+		        		jQuery('form .submit-button').prop('disabled', false);
+		        		jQuery('button[type="submit"]').prop('disabled', false);
+		            }
+		        });
+	    	}
+	    	else {
+	    		jQuery('form .submit-button').prop('disabled', true);
+	    		jQuery('button[type="submit"]').prop('disabled', true);
+	    	}
+
+	    	return false;
+		});
+	}
+});</script><script type="text/javascript">
 /* <![CDATA[ */
 var wp_ulike_params = {"ajax_url":"https:\/\/www.grab.com\/sg\/wp-admin\/admin-ajax.php","notifications":"0"};
 /* ]]> */
