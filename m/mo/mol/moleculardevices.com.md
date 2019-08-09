@@ -1,128 +1,175 @@
-> *The following text is extracted and transformed from the moleculardevices.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165131id_/https%3A//www.moleculardevices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleculardevices.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809231340id_/https%3A//www.moleculardevices.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Molecular Devices
+# Privacy Policy - About Personal Information Protection | Molecular Devices
 
-Moleculardevices.com Global Privacy Notice
+**Molecular Devices Privacy Policy**
 
-Effective Date:  October 3, 2014
+**Effective Date:  April 30, 2018** ([View archived versions](https://web.archive.org/privacy-policy-archive))
 
-Molecular Devices LLC, along with our affiliates and subsidiaries, (“Molecular Devices”) respect your concerns about privacy and value the relationship we have with you.  This Global Privacy Notice describes the types of personal information we collect on www.moleculardevices.com (the “Site”), how we use the information, with whom we share it, and the choices available regarding our use of the information.  We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.  
+This privacy policy (“Privacy Policy”) explains how we handle the Personal Data provided to us as described in this Privacy Policy, including through websites, mobile sites, mobile applications, and other digital services and products controlled by Molecular Devices, LLC, 3860 N. First St., San Jose, CA 95134, USA, that link to this Privacy Policy (collectively, “Molecular Devices Sites”). Molecular Devices is the data controller for the processing of Personal Data under applicable law.
 
-This Global Privacy Notice does not apply to Molecular Devices sites that have their own separate privacy policies or notices.  
+This Privacy Notice does not apply to Molecular Devices Sites that do not link to this Privacy Policy or to third-party Web sites to which Molecular Devices Sites may link.
 
-Click on one of the links below to jump to the listed section.
+#### **TYPES OF INFORMATION  WE COLLECT ONLINE**
 
-  * Information We Collect
-  * How We Use the Information We Collect
-  * Online Tracking
-  * Information We Share
-  * Your Choices
-  * Notice to California Residents
-  * Access and Correction
-  * Data Transfers
-  * How We Protect Personal Information
-  * Links To Other Websites
-  * Updates To Our Global Privacy Notice
-  * How To Contact Us
+The types of Personal Data that we may collect while you use the Molecular Devices Sites are described in this section and include both information that you provide to us and information that we collect automatically when you use the Molecular Devices Sites.
 
+For purposes of this Privacy Notice, “ **Personal Data** ” means information that identifies you or that could reasonably be used to identify you. Examples of Personal Data include name, address, telephone number, and email address.
 
+**Information You Provide**
 
-_**Information We Obtain**_  
+You do not have to register for a service or program to receive much of the information available through Molecular Devices Sites. However, some of our content is available only to registered or identified users and will require you to set up a profile or provide specific information about yourself in order to provide you the service.
 
-We may obtain certain personal information (such as your name and contact details) when you choose to provide them through our Site.  The types of information we may obtain include:
+**Personal Data You Provide When Visiting Molecular Devices Sites**  
 
-  * Contact information (such as name, postal address, email address, and mobile or other phone number);
-  * username and password to access Molecular Devices products and services online;
-  * account number;
-  * payment information (such as payment card number, expiration date, delivery address, and billing address); and
-  * content you may provide (for example, when you complete our Online Contact Form).
+Molecular Devices collects Personal Data that you provide on Molecular Devices Sites, for example, when purchasing a product, to receive marketing products and information, contact Molecular Devices customer service, or respond to Molecular Devices questionnaires or surveys. This could include:
+
+  * Contact Information such as your name, address, phone number, or email address.
+  * Registration Information such as your username and password.
+  * Employment, education and other background information when you inquire about employment with Molecular Devices.
+  * Payment information (such as banking information, payment card number, expiration date, delivery address, and billing address).
+  * Content you may provide (for example, when you complete our Online Contact Form or submit other information).
 
 
 
-In addition, when you visit our Site, we may obtain certain information by automated means, such as cookies and web beacons.    The information we obtain in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, geographic location, referring URLs, information on actions taken on our site, and dates and times of website visits.    A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser.  A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.  Through these automated collection methods, we obtain “clickstream data,” which is a log of content on which a visitor clicks while browsing a website.    As the visitor clicks through the website, a record of the action may be collected and stored.    Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies.  Please note, however, that without cookies you may not be able to use all of the features of our Site.  
+**Personal Data You Share During Other Interactions with Molecular Devices**
 
-To the extent required by applicable law, we will obtain your consent before collecting information using cookies or similar automated means.
+You may contact Molecular Devices to ask questions, discuss your concerns, or report issues regarding our products. If you communicate with or request information from Molecular Devices, you may be prompted to provide your contact information as well as any Personal Data that is relevant to your request.  
+ 
 
-_**How We Use the Information We Obtain**_  
+#### **INFORMATION THAT MAY BE COLLECTED AUTOMATICALLY**  
 
-We may use the information we obtain through the Site to: 
+When you use the Molecular Devices Sites, we also may collect certain usage and device information automatically as described below.
 
-  * Create and manage your online account;
-  * offer and provide products and services to you; 
-  * communicate with you about, and administer your participation in, surveys, events, programs, promotions and other offers;
-  * display content on our Site;
-  * process your payments;
-  * respond to and communicate with you about your inquiries and requests and provide information you request;
-  * register your purchased products and provide product and service support;
-  * process claims we receive in connection with our products and services;
-  * operate, evaluate and improve our business (including developing new products and services; enhancing and improving our services; managing our communications; analyzing our products; performing data analytics; and performing accounting, auditing, billing reconciliation and collection activities and other internal functions);
-  * perform data analysis and other analyses and processing (including market and consumer research, trend analysis, financial analysis, anonymization, encryption and tokenization of personal information);
-  * protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; 
-  * comply with and enforce applicable legal requirements, relevant industry standards and our policies;
-  * promote our products and services and other Danaher company products and services
+**IP Address**  
+
+We may record the Internet Protocol (“IP”) address of your computer or other electronic device when you visit the Molecular Devices Sites. An IP address identifies the electronic device you use to access the Sites, which allows us to maintain communication with your computer as you move about Molecular Devices Sites and to customize content.
+
+**Cookies and Other Tracking Technologies**
+
+We also collect information about your use of Molecular Devices Sites through tracking technologies such as cookies and web beacons. A “cookie” is a unique numeric code that is transferred to your computer to track your interests and preferences and to recognize you as a return visitor. A “Web beacon” is a transparent graphic image placed on a Web site, e-mail or advertisement that enables the monitoring of things such as user activity and site traffic. These technologies help remember your preferences and allow us to bring you the content and features that are likely to be of greatest interest to you on the basis of “clickstream” data that shows your previous activities on Molecular Devices Sites.
+
+We utilize Google Display Advertising (such as Retargeting with Google Analytics, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting) to (1) show you our ads on other websites based on your prior visits to Molecular Devices Sites, and (2) better understand our ad impressions and use of ad services. In connection with the Google Analytics Demographics and Interest Reporting service, we may use data from Google's interest-based advertising or third-party audience data (such as age, gender and interests) with Google Analytics to understand and improve our marketing campaigns and Site content.
+
+Some of our online advertising takes place through Google Display Advertising. As part of this program, we use Google Analytics features such as Retargeting. In connection with that feature and others offered by ad networks, we and the operators of ad networks, including Google, may use third-party cookies (such as the DoubleClick cookie) – and in some cases first-party cookies (such as the Google Analytics cookie) – to inform, optimize and serve ads across the Internet, based on a user's past visits to Molecular Devices Sites. We also may show you ads from some of our affiliated companies when you visit Molecular Devices Sites.
+
+You can opt out of Google Ads by visiting <http://www.google.com/ads/preferences>. If you do not want your data used by Google Analytics, you can install the Google Analytics opt-out browser add-on at the[ Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout).
+
+This Molecular Devices Site is not designed to respond to "do not track" signals received from browsers.
+
+To learn more about cookies and other tracking technologies, including how to disable them, please visit <http://www.allaboutcookies.org/>. Please note that some cookies are essential to the functioning of our Sites and deleting or disabling them will reduce the site’s functionality.
+
+**Mobile Tracking**  
+
+Some Molecular Devices Sites are available either as mobile applications or mobile sites that you can use on your mobile device. If you use a mobile device to access and use the Molecular Devices Sites, we may collect the following mobile-specific information in addition to the other information described above: device or advertising ID, device type, hardware type, media access control (“MAC”) address, international mobile equipment identity (“IMEI”), the version of your mobile operating system, the platform used to access or download the Molecular Devices Site (e.g., Apple, Google, Amazon, Windows), location information and usage information about your device and your use of the Molecular Devices Sites.
+
+**Information Collected from Other Sources**
+
+We may combine information about you from a visit to one Molecular Devices Site with information about you from visits to other Molecular Devices Sites. We may also combine information about you that is collected through the Molecular Devices Sites with information that we have collected offline, as well as with information provided to us by third parties.
+
+#### **HOW WE USE YOUR INFORMATION**
+
+We use your Personal Data to provide you the product and services you request, communicate with you, improve your experience on the Molecular Devices Sites, generally improve our products and services and for other internal business purposes. The Personal Data we collect about you may be stored as long as it is required for the purposes identified when you provided the information for such specific purposes or for any new purposes identified by us and consented to by you, and for any appropriate time thereafter including a sufficient time following to permit you to ask any questions regarding its use, after which point it will be archived only for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws.
+
+**Providing Product and Services You Request**
+
+If you choose to purchase a product or receive our services, we use the Personal Data that you provide through Molecular Devices Sites to manage your orders and invoices, to process payments, to respond to your questions, provide you the services you request and offer an optimal customer experience.
+
+**Marketing**
+
+You may also receive marketing information from Molecular Devices and related affiliates, such as offers regarding Molecular Devices related products or services, invitations to participate in surveys about our products, or notifications about special promotions. In such cases, we will use your contact and other Personal Data to send you marketing information.
+
+**Customized User Experiences**
+
+The Personal Data that you provide may be used to create customized offers, information, or services tailored to your interests and preferences. Also, we may use your IP address and the data that we obtain automatically through the use of cookies or similar tracking technologies to make our Molecular Devices Sites easier to use and navigate as well as to personalize the content provided on Molecular Devices Sites by anticipating the information and services that may be of interest to you.
+
+**Business and Product Improvement**
+
+In order to discover new facts that could help Molecular Devices better understand customer needs and help improve, develop, and evaluate product, services, materials, and programs. Molecular Devices analyzes the information that you have provided. For these purposes Molecular Devices does not use information that can directly identify you.
+
+**Site Analytics and Improvement**
+
+We may use the information that you provide and the information we collect automatically about your use of the Molecular Devices Sites to monitor user traffic patterns and preferences for site improvement, analytics and optimization.
+
+**Legal Basis for Processing**
+
+Under data protection laws, Molecular Devices must have a legal basis to process your Personal Data. The legal basis that applies in an instance will depend on for which of the specific purposes described above Molecular Devices is processing your Personal Data:
+
+  * In certain cases, Molecular Devices may ask for your consent to collect and process your Personal Data. Should you choose to provide your consent, you may later withdraw your consent by contacting us as described in the “Your Privacy Choices” section. Please note that the withdrawal of consent will not affect processing which has already occurred.
+  * In other instances, the processing of your Personal Data may be necessary in order to comply with an applicable law or regulation or for the performance of a contract to which you are subject. You may not be able to opt-out of this processing, or your choice to opt-out may impact our ability to perform a contractual obligation otherwise owed to you.
+  * In still other instances, Molecular Devices may process your Personal Data based on Molecular Devices’ legitimate interests in communicating with you about our products and services, and about scientific research and educational opportunities. You have the right to opt-out of all such processing of your Personal Data. You may do so by contacting us as described in the “Your Privacy Choices” section.
 
 
 
-In addition, we use information collected online through cookies, web beacons and other automated means for purposes such as (i) customizing our users’ visits to our Site, (ii) delivering content (including advertising) tailored to our users’ interests and the manner in which our users browse our Site, and (iii) managing our business.  We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our users.    We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our users.    
-We may use third party web analytics services on this Site, such as those of Google Analytics and ActOn.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Site.  The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the Site.  To learn more about Google Analytics and how to opt out, please visit [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).  Act-On may use certain other information collected from you to help diagnose technical problems, administer this website, and improve the quality and types of services delivered. ActOn complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. ActOn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ActOn's certification, please visit http://www.export.gov/safeharbor/.
+#### **INFORMATION WE SHARE**
 
-We also may use the information in other ways for which we provide specific notice at the time of collection.  
+We only share your Personal Data with third parties as described below. We do not sell or rent Personal Data to third parties for their own marketing purposes.
 
-_**Online Tracking **_  
-On the Site, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests.    This section of our Global Privacy Notice provides details and explains how to exercise your choices.
+**Third-Party Advertising and Online Behavioral Advertising**
 
-You may see certain ads on other websites based on your visits to our Site because we participate in advertising networks administered by third-party vendors.    Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests and browsing context.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons.  The networks use this information to show you advertisements that are tailored to your individual interests.  The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the websites.  This data collection takes place both on our Site and on third-party websites that participate in the ad networks.  This process also helps us track the effectiveness of our marketing efforts.  To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices).  
+You may be provided with online advertisements of Molecular Devices products and services on third-party websites and mobile services that are tailored to you, for example, on the basis of information that you provide to Molecular Devices or a third-party website you are visiting, or of your browsing activity, purchases, or interests. These types of tailored online advertisements may come through several sources, such as the following:
 
-We utilize Google Display Advertising (such as Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting) to (1) show you our ads on other websites based on your prior visits to our Site, and (2) better understand our ad impressions and use of ad services.   In connection with the Google Analytics Demographics and Interest Reporting service, we may use data from Google’s interest-based advertising or third-party audience data (such as age, gender and interests) with Google Analytics to understand and improve our marketing campaigns and Site content.  
-
-Some of our online advertising takes place through Google Display Advertising.  As part of this program, we use Google Analytics features such as Retargeting.  In connection with that feature and others offered by ad networks, we and the operators of ad networks, including Google, may use third-party cookies (such as the DoubleClick cookie) – and in some cases first-party cookies (such as the Google Analytics cookie) – to inform, optimize and serve ads across the Internet based on a user’s past visits to our Site.  We also may show you ads from some of our affiliates when you visit our Site.
-
-You can opt out of Google AdWords remarketing service and Google Analytics for Display Advertising by clicking [here](http://www.google.com/ads/preferences). Our Site is not designed to respond to “do not track” signals received from browsers.
-
-_**Information We Share**_  
-
-We do not sell or otherwise disclose personal information we collect about you, except as described here.
-
-We may share your personal information with:
-
-  * Our affiliates and subsidiaries for the purposes described in this Global Privacy Notice.
-  * Service providers who perform services on our behalf based on our instructions.  We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.  Examples of these service providers include entities that respond to customer inquiries, process credit card payments, fulfill orders, and provide web hosting and marketing services.  
-  * Other third parties with your consent.
+  * We may share with our advertising service providers your non-identifying information that we have obtained from cookies and other tracking technologies on our Molecular Devices Sites.
+  * Some Molecular Devices Sites participate in online behavioral advertising (this is also sometimes called re-target advertising or interest-based advertising). You can identify these sites by the “Advertising Choices” link in the footer. Our advertising network partners may place and use cookies on Molecular Devices Web sites and on other third-party Web sites to collect information about your activities in order to provide you with online advertisements that are based on your interests.
+  * Some Web browsers may transmit “do-not-track” signals to Web sites with which the browser communicates. As of the Effective Date of this Privacy Notice, an industry standard has not yet been established on how to respond to these signals. Therefore, Molecular Devices does not currently respond to these signals. As discussed above, you can opt-out from advertisers that use your browsing history to deliver online behavioral advertisements by clicking on the AdChoices icon.
 
 
 
-In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials based on a lawful disclosure request, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.  
+**Affiliates, Vendors and Suppliers**
 
-We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+We have relationships with suppliers and affiliated companies who help us operate our business and for whom it may be necessary to have access to your Personal Data in the course of providing services to Molecular Devices. We will not authorize these parties to use your Personal Data for any purpose that is not related to Molecular Devices’ and its related affiliates’ business operation. We may also share your Personal Data with affiliates to offer and provide information about related products and services. We do not share Personal Data from countries that require consent, unless consent has been obtained in advance to sharing with related affiliates. We require these parties to handle Personal Data in accordance with this Privacy Notice.
 
-_**Your Choices **_
+**Co-branded Sites**
 
-We offer you certain choices in connection with the personal information we collect from you, such as how we use the information and how we communicate with you.  To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified in the How to Contact Us section of this Global Privacy Notice.
+We may partner with other companies to provide you with content or services on a joint or “co-branded” basis. At a co branded site, you will see both the Molecular Devices logo and the logo of the co-branding partner displayed on your screen. You should read the individual privacy policies of our co-branding partners, as they may differ in some respects from ours. Reading these policies will help you to make an informed decision about whether to provide your information to a given site.
 
-_**Notice to California Residents **_
+**Product Reports**
 
-Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties.  To make this request, California residents may contact us as specified in the How to Contact Us section below.
+If you contact Molecular Devices regarding your experience in using one of our products, we may use the information that you provide in submitting reports to the designated government regulatory authority, as required of us by law.
 
-_**Access and Correction **_
+**Legal Rights and Obligations**
 
-To the extent provided by the law of your jurisdiction, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) block or delete your personal information from our database.  To exercise these rights, please contact us as indicated in the How To Contact Us section of this Global Privacy Notice.  To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information.  If you are resident in the EU, a charge may be applicable before we provide a copy to you of any of your personal information that we maintain.
+In certain limited circumstances, Molecular Devices may need to disclose your Personal Data in order to comply with a legal obligation or demand, such as to comply with reporting obligations to our governing regulatory authorities regarding the safety of our products, or in connection with the sale or transfer of one of our product lines or divisions, which includes the services provided through one or more of the Molecular Devices Sites. In such instances, we will take measures to protect your Personal Data to the extent possible. We also reserve the right to use Personal Data to investigate and prosecute users who violate our rules or who engage in behavior that is illegal or harmful to others or to others’ property.
 
-_**Data Transfers**_
+**Change in Organization**
 
-We may transfer the personal information we collect about you through the Site to countries other than the country in which the information originally was collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your personal information to other countries, we will protect that information as described in this Global Privacy Notice.  If you are located in the European Union (“EU”) or Switzerland, we will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries outside of the EU or Switzerland.  
+In the event Molecular Devices decides to reorganize or divest our business through sale, merger, or acquisition, Molecular Devices may share Personal Data about you with actual or prospective purchasers. We will require any actual or prospective purchasers to treat this Personal Data in a manner consistent with this Privacy Policy.
 
-_**How We Protect Personal Information**_
+#### **CHILDREN PRIVACY**
 
-We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  
+Molecular Devices does not knowingly collect or use any Personal Data directly from children on Molecular Devices Sites (for the purposes of this Privacy Policy, “children” means minors younger than 18). We do not knowingly allow children to order our products, to communicate with us, or to use any of our online services. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.
 
-_**Links To Other Websites **_
+#### **YOUR PRIVACY CHOICES**
 
-Our Site may provide links to other websites for your convenience and information.  These websites may operate independently from us.  Linked websites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites.  To the extent any linked websites you visit are not owned or controlled by us, we are not responsible for the websites’ content, any use of the websites, or the privacy practices of the websites.  
+You may contact us at any time if you have questions about this Privacy Policy or the Personal Data we collect about you. You can also opt-out or unsubscribe from our marketing communications.
 
-_**Updates To Our Global Privacy Notice **_
+You have the right to see and get a copy of Personal Data about you that we maintain as well as to ask us to make corrections to inaccurate or incomplete Personal Data about you. You have the right to receive data you have provided to us in a machine-readable format and to transmit that data to another controller. You may also request the erasure of your Personal Data or the restriction of its processing, or object to the processing of Personal Data about you. To seek access to Personal Data about you, to file a concern, complaint, or request for correction, email us at [privacy@moldev.com](mailto:dataprivacy@moldev.com). Alternatively, you may also send a letter to the following address:
 
-This Global Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices.  We will post a prominent notice on our Site to notify you of any significant changes to our Global Privacy Notice and indicate at the top of the Notice when it was most recently updated.  
+Molecular Devices  
+Attn: Privacy  
+3860 N. First St.  
+San Jose, CA 95134
 
-_**How To Contact Us **_
+The local Data Protection Authority is responsible for making sure that privacy law is followed in your country. For more information about your privacy rights, or if you are not able to resolve a problem directly with us and wish to make a complaint, contact your country’s Data Protection Authority.
 
-If you have any questions or comments about this Global Privacy Notice, or if you would like us to update information we have about you or your preferences, to exercise your rights of access, rectification, blocking, or deletion, or to object to the processing of your personal information, please contact us at [info@moldev.com](mailto:info@moldev.com?subject=Privacy%20Policy) or [webmaster@moldev.com](mailto:webmaster@moldev.com?subject=From%20Privacy%20Policy). 
+In all communications to Molecular Devices, please include your email address, the Web site address, mobile application, and/or the specific Molecular Devices product to which you provided Personal Data (e.g., Molecular Devices.com), and a detailed explanation of your request. If you would like to delete, amend, or correct your Personal Data and are contacting us by email, please put “Deletion Request” or “Amendment/Correction Request” in the subject line of the email. We will respond to all reasonable requests in a timely manner and may need to further confirm your identity in order to process certain requests.
+
+#### **DATA  SECURITY**
+
+Molecular Devices maintains reasonable technical, administrative and physical controls to secure any Personal Data collected through the Molecular Devices Sites. However, there is always some risk that an unauthorized third party could intercept an Internet transmission, or that someone will find a way to thwart our security systems. We urge you to exercise caution when transmitting Personal Data over the Internet, especially your financial-related information. Molecular Devices cannot guarantee that unauthorized third parties will not gain access to your Personal Data; therefore, when submitting Personal Data to Molecular Devices Sites, you must weigh both the benefits and the risks.
+
+#### **THIRD PARTY SITES AND SOCIAL MEDIA PLUG-INS**
+
+This Privacy Notice does not apply to Molecular Devices Sites that do not link to this Privacy Notice, or to third-party Web sites to which Molecular Devices Sites may link. Molecular Devices Sites may use social media plug-ins (e.g., the Facebook “Like” button, “Share to Twitter” button) to enable you to easily share information with others. When you visit Molecular Devices Sites, the operator of the social plug-in can place a cookie on your computer or other electronic device that enables that operator to recognize individuals who have previously visited our Site. If you are logged into the social media Web site (e.g., Facebook, Twitter) while browsing on our Molecular Devices Site, the social media plug-in allows that social media Web site to receive information that you have visited our Molecular Devices Site. The social media plug-in also allows the social media Web site to share information about your activities on our Molecular Devices Site with other users of their social media Web site. These sharing settings are managed by the social media Web site and governed by its privacy policy.
+
+**Accessing Our Sites Globally**
+
+This site is owned and operated by Molecular Devices in the United States, but the information you provide will be accessible to our affiliates, vendors, and suppliers in other countries in accordance with this policy. Furthermore, if you are visiting this site from a country other than the United States, your communication with us will necessarily result in the transfer of information across international borders. The level of legal protection for Personal Data is not the same in all countries; however, we will take the security measures described in this Privacy Notice in an effort to keep your information secure. By using this site, you consent to storage and processing of your Personal Data in the United States and in any country to which we may transfer your information in the course of our business operations.
+
+**Notice to California Residents**
+
+Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of Personal Data that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us at [privacy@moldev.com](mailto:mailto:privacy@moldev.com).
+
+#### **CHANGES TO OUR PRIVACY POLICY**
+
+We will only use Personal Data in the manner described in this Privacy Policy in effect when the information was collected from you or as authorized by you. However, and subject to any applicable consent requirements, we reserve the right to change the terms of this Privacy Policy at any time. Any changes to this Privacy Policy will be reflected on this page with a new effective date. Molecular Devices encourages you to review this Privacy Policy regularly for any changes. Any Personal Data collected upon your continued use of Molecular Devices Sites will be handled in accordance with the currently posted Privacy Policy.
