@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154125id_/https%3A//sojo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809225321id_/https%3A//sojo.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sojourners
 
@@ -44,5 +44,3 @@ As a 501(c)(3) nonprofit, we rely on the generous contributions of our supporter
 Out of mutual respect we will not rent, sell, or exchange any personal donor information with outside parties, organizations, or individuals. This includes all relevant information obtained through online donation forms, dispatched appeals, phone calls, and in person solicitation. Online credit card donations are processed securely by our contracted e-commerce service. We maintain this information in our database in order to keep you up-to-date on our future work and related issues that may be of interest. If you wish to refrain from receiving our emails and/or direct mail solicitation, you can contact our office at [donate@sojo.net](mailto:donate@sojo.net) or call 202-328-8842.
 
 _If you have further questions about this privacy policy, please contact us at[sojourners@sojo.net](mailto:sojourners@sojo.net) or call 202-328-8842._
-
-## Subscribe
