@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622082326id_/https%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809212713id_/https%3A//job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # The Privacy Policy for Job-Hunt.Org - Job-Hunt.org
 
 By [Susan P. Joyce](https://web.archive.org/onlinejobsearchguide/online-job-search-expert-Susan-P-Joyce.shtml)
 
-This Privacy Policy is provided by NETability, Inc. (“us” or “we”), the owner and operator of JOB-HUNT.ORG (the “Site”) in order to clarify our practices regarding the collection, storage, use and disclosure of information gathered by us and the choices available to you regarding the collection and use of your personal information. By visiting the Site, you are confirming that you have read, understood and consent to our practices in collection, storage, use and disclosure of your personal information.
+This Privacy Policy is provided by NETability, Inc. (“us” or “we”), the owner and operator of JOB-HUNT.ORG (the “Site”) in order to clarify our practices regarding the collection, storage, use and disclosure of information gathered by us and the choices available to you regarding the collection and use of your personal information. 
 
-We are committed to being a trustworthy partner in your job search. You can visit Job-Hunt.Org as often as you want without telling us who you are or revealing any personal information about yourself.
+By visiting the Site, you are confirming that you have read, understood and consent to our practices in collection, storage, use and disclosure of your personal information.
+
+> We are committed to being a trustworthy partner in your job search. You can visit Job-Hunt.Org as often as you want without telling us who you are or revealing any personal information about yourself.
 
 If you should have any questions or concerns about this Privacy Policy, please send an email to SJoyce@netability.com.
 
@@ -48,7 +50,7 @@ We use IP addresses to analyze trends, administer the site, track user movements
 
 **Advertisers/Sponsors:**
 
-We practice transparency in revenue generation. Revenue-generating links are identified as "Advertisement" or "Sponsor" or are across the top of a page or in the column on the right side of Job-Hunt pages.
+We practice transparency in revenue generation. With the exception of Google AdSense ads placed on Job-Hunt by Google, all revenue-generating links are identified as "Advertisement" or "Sponsor."
 
 Advertisers such as Google's AdSense can place ads on Job-Hunt's pages.
 
@@ -63,7 +65,9 @@ Advertisers such as Google's AdSense can place ads on Job-Hunt's pages.
 
 _Please note that the use of ads on the Site enable it to be available for free to all users._
 
-Please be aware that if you use an external link from the Site to an advertiser’s or sponsor’s site (each, a “Sponsor Website”), this Privacy Policy does not apply to any such Sponsor Website. Your browsing or other activities on any third-party website, including those linked to the Site, are subject to such third party’s own rules and policies which may differ from this Privacy Policy. We are not responsible for any activities and practices by each Sponsor Website, including the information or content provided thereon. By accessing or using the Site, you are agreeing that we are not responsible for, and we do not exercise control over, any third-parties with whom you may come into contact with or engage in a transaction with as a direct or indirect result of your access of use of the Site, including, but not limited to sponsors and advertisers.
+Please be aware that if you use an external link from the Site to an advertiser’s or sponsor’s site (each, a “Sponsor Website”), this Privacy Policy does not apply to any such Sponsor Website. Your browsing or other activities on any third-party website, including those linked to the Site, are subject to such third party’s own rules and policies which may differ from this Privacy Policy. 
+
+We are not responsible for any activities and practices by each Sponsor Website, including the information or content provided thereon. By accessing or using the Site, you are agreeing that we are not responsible for, and we do not exercise control over, any third-parties with whom you may come into contact with or engage in a transaction with as a direct or indirect result of your access of use of the Site, including, but not limited to sponsors and advertisers.
 
 ### Outside Links:
 
@@ -97,7 +101,9 @@ Agents of the Site may provide supportive services, such as e-mail list manageme
 
 ### Cookies:
 
-When you access the Site, we or our third party partners and advertisers may send one or more cookies to your computer. A "cookie" is a piece of data stored on the visitor's hard drive containing information about the visitor. In some circumstances, we use "cookies" to test visitor reactions to some particular aspect of the Site or to track the number of visitors for our advertisers. Our cookies do not collect any personally identifiable information. You can usually modify the security setting of your browser to block or to accept cookies or show an alert when a cookie is being sent. Please be informed that some features of the Site may not function properly if cookies are refused. Check your browser's Help function for more information.
+When you access the Site, we or our third party partners and advertisers may send one or more cookies to your computer. A "cookie" is a piece of data stored on the visitor's hard drive containing information about the visitor. In some circumstances, we use "cookies" to test visitor reactions to some particular aspect of the Site or to track the number of visitors for our advertisers. 
+
+Our cookies do not collect any personally identifiable information. You can usually modify the security setting of your browser to block or to accept cookies or show an alert when a cookie is being sent. Please be informed that some features of the Site may not function properly if cookies are refused. Check your browser's Help function for more information.
 
 ### Notification of Changes:
 
@@ -117,7 +123,7 @@ If you have any concerns about your privacy at Job-Hunt or a complaint about ina
 >  P.O. Box 507  
 >  Marlborough, MA 01752-0507
 
-Updated: 10 June 2018
+Updated: 8 August 2019
 
 * * *
 
