@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camillestyles.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413085520id_/https%3A//camillestyles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camillestyles.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809145254id_/https%3A//camillestyles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Camille Styles
 
