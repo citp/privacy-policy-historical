@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oursurfing.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529074729id_/http%3A//www.oursurfing.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursurfing.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809065655id_/http%3A//www.oursurfing.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
