@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-faq.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624213912id_/http%3A//www.memebridge.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-faq.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809153438id_/http%3A//www.memebridge.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MemeBridge
 
@@ -21,6 +21,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Rating: 6.8/ **10** (138 votes cast)
+Rating: 6.8/ **10** (139 votes cast)
 
-Privacy Policy, 6.8 out of 10 based on 138 ratings 
+Privacy Policy, 6.8 out of 10 based on 139 ratings 
