@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110015720id_/https%3A//coachfederation.org/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809171915id_/https%3A//coachfederation.org/policies) for the most accurate reproduction.*
 
 # The Gold Standard in Coaching | ICF - Policies
 
