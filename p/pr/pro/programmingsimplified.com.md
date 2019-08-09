@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the programmingsimplified.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508123606id_/https%3A//www.programmingsimplified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmingsimplified.com privacy policy that was archived on 2019-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190809213447id_/https%3A//www.programmingsimplified.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Programming Simplified
-
-  
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/programmingsimplified.com).  
-
 
 Privacy Policy for [www.programmingsimplified.com](http://www.programmingsimplified.com/)
 
