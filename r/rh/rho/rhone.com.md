@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rhone.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420205944id_/https%3A//www.rhone.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhone.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810144414id_/https%3A//www.rhone.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Rhone
+# Privacy Policy | Rhone
 
 **RHONE APPAREL PRIVACY POLICY**
 
