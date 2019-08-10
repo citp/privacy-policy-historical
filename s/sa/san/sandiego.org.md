@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825181206id_/https%3A//www.sandiego.org/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810125149id_/https%3A//www.sandiego.org/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - The Official Travel Resource for the San Diego Region
 
