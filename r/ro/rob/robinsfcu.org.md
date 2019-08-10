@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427065029id_/https%3A//www.robinsfcu.org/sites/PDF/Disclosures/2016_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810182742id_/https%3A//www.robinsfcu.org/sites/default/files/Privacy.Policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                              Rev [07/2016]
+                                                                                                                              Rev [07/2019]
                            WHAT DOES ROBINS FINANCIAL CREDIT UNION DO
   FACTS                    WITH YOUR PERSONAL INFORMATION?
                            Financial companies choose how they share your personal information. Federal law gives
@@ -78,23 +78,21 @@ protect my personal information?       and use, we use security measures that co
                                        These measures include computer safeguards and secured files
                                        and buildings.
 How does Robins Financial Credit Union We collect your personal information, for example, when you
-collect my personal information?           open an account or apply for a loan
+collect my personal information?
+                                           open an account or apply for a loan
                                            send emails or other types of communication to the credit union
                                            conduct transactions with us or others
                                        We also collect information we receive from consumer reporting
                                        agencies and other third parties such as market research firms.
-                                       Federal law gives you the right to limit only
-Why can’t I limit all sharing?
+Why can’t I limit all sharing?         Federal law gives you the right to limit only
                                            sharing for affiliates’ everyday business purposes—information
                                             about your creditworthiness
                                            affiliates from using your information to market to you
                                            sharing for nonaffiliates to market to you
                                        State laws and individual companies may give you additional rights to
                                        limit sharing.
-                                       Robins Financial Credit Union will treat an opt-out request from any one
-What happens when I limit sharing
-                                       party to an account as if all of you chose to opt-out.
-for an account I hold jointly with
+What happens when I limit sharing      Robins Financial Credit Union will treat an opt-out request from any one
+for an account I hold jointly with     party to an account as if all of you chose to opt-out.
 someone else?
 Definitions
 Affiliates                             Companies related by common ownership or control. They can be
