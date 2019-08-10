@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330141601id_/https%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810205336id_/https%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Support
 
-Last modified: March 27, 2019
+Last modified: July 2, 2019
 
 Hello from GoodRx. This privacy policy covers the GoodRx website (goodrx.com) and the GoodRx mobile apps (collectively, the “Site”).
 
-First of all, thank you for placing your trust in us. We understand that your personal medical information is sensitive, and also that privacy policies and legalese can be scary, so we want to thank you for (1) trusting GoodRx with the limited personal medical information that we receive from you (more on that below) and (2) taking the time to read this privacy policy. We’ll try to keep it simple!
+First of all, thank you for placing your trust in us. We understand that your personal information is sensitive, and also that privacy policies and legalese can be scary, so we want to thank you for (1) trusting GoodRx with the limited personal medical information that we receive from you (more on that below) and (2) taking the time to read this privacy policy. We’ll try to keep it simple!
 
 If you are still confused by the privacy policy after reading this, please reach out to our co-CEO, Doug Hirsch (you might have seen him in our commercials!) and he will make me (the lawyer) re-write these privacy policies. Please email us at [help@goodrx.com](mailto:help@goodrx.com).
 
@@ -16,9 +16,9 @@ For those of you who don’t like to read long privacy policies, here’s a quic
 
 2\. No, really. GoodRx does not sell your personal medical data. In other words, GoodRx does not sell information regarding your drug prescriptions and medical conditions that are linked to your name, contact information and other personal data you provide us.
 
-3\. In limited cases, GoodRx uses personal medical data that is linked to your name and contact information. We use this data to fulfill services that you request from us (such as sending you a discount card, etc), and to reach out to you about prescription savings opportunities.
+3\. GoodRx uses personal medical data that is linked to your name and contact information. We use this data to fulfill services that you request from us (such as sending you a discount card, etc), and to reach out to you about prescription savings opportunities (such as refill reminders or alerts about lower prices for your prescriptions). While we hope you find our messages useful, you can opt out of our messages by following the instructions we provide in our communications.
 
-4\. When we talk about medical data, what we typically mean is the name, dosage, form, and quantity of a prescription you’ve filled through us. We don’t have access to the rest of your medical history unless you provide it to us.
+4\. When we talk about medical data, what we typically mean is the name, dosage, form, quantity and other information related to a prescription you’ve filled through us. Please see below for more information.
 
 ## **Information Collected by GoodRx (and How We Use It)**
 
@@ -75,7 +75,7 @@ We use cookies to collect, store and sometimes track information for statistical
 
 We use remarketing with Google and Facebook, and other remarketing providers to advertise online and offline. We may place cookies, tags, pixels, SDKs and other tracking technology on your computer or other devices, or otherwise collect and provide your personal information to assist Google, Facebook, other third parties, or GoodRx to feed advertisements or to send direct mail campaigns to you based on your past visits to GoodRx and other websites; and we may also allow other third parties, including Google, to do so as well. 
 
-  * **Advertising on GoodRx**
+  * [**Advertising on GoodRx**](https://support.goodrx.com/hc/en-us/articles/360026530331-Advertising-on-GoodRx)
 
 We use third-party advertising companies to serve ads when you visit GoodRx. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. GoodRx adheres to Digital Advertising Alliance principles. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
