@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momentum-music.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609034751id_/http%3A//www.momentum-music.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentum-music.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810045458id_/http%3A//www.momentum-music.com/privacy) for the most accurate reproduction.*
 
 # Privacy ~ Momentum Music
 
