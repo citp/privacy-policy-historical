@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skatewarehouse.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123012545id_/https%3A//www.skatewarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skatewarehouse.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810031024id_/https%3A//www.skatewarehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Skate Warehouse
 
