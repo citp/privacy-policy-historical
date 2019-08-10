@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nestle.pk privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608205448id_/https%3A//www.nestle.pk/info/yourdata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.pk privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810170929id_/https%3A//www.nestle.pk/info/yourdata) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Nestlé
 
 Nestlé Pakistan Limited (“Nestlé”) and its group companies ( **Nestlé** ) is committed to safeguarding your privacy and ensuring that you continue to trust Nestlé with your personal data. When you interact with us, you may share personal information with us which allows identification of you as an individual (e.g. name, email address, address, telephone number). This is known as “personal data”.
 
@@ -87,7 +87,7 @@ Nestlé collects and uses personal data only as necessary for the purposes for w
   * **Consumer service** \- to provide you with consumer service, including responses to your inquiries, complaints and general feedback about our products. Consumer service may be provided through various forms of communication, including via email, letter, telephone and online chat features.
   * **Consumer engagement** \- to get you more actively engaged with our products and services. This may involve the use or publication of consumer-generated content.
   * **Personalisation** \- Nestlé may combine personal data about you collected from one source (e.g. a website) with data collected from another source (e.g. an offline event). This provides Nestlé with a more complete view of you as a consumer, which, in turn, allows Nestlé to serve you better and with greater personalisation, including in respect of the following:
-    * _Websites_ \- to improve and personalise your experience on websites, using data such as account login information, technical computer information, and/or previous website usage information;
+    *  _Websites_ \- to improve and personalise your experience on websites, using data such as account login information, technical computer information, and/or previous website usage information;
     * _Products_ \- to improve Nestlé’s products, tailor them to your needs and come up with new product ideas. This includes the use of demographic information, consumer profiling information and consumer feedback; and
     * _Interest-based advertising_ \- to serve you advertisements tailored to your interests. One way Nestlé does this is to match activities or information collected on Nestlé Sites with data collected about you on third party sites (i.e. data-matching). This type of advertising is also known as “online behavioural advertising” or “targeted advertising”. Such personalisation is typically performed via cookies or similar technologies.
   * **Marketing communications** \- to provide you with marketing communications where you have opted-in to receiving such communications (including information about Nestlé, its products and services, competitions and promotions). These can be shared via electronic means (e.g. SMS, emails and online advertising) and via post.
@@ -95,7 +95,7 @@ Nestlé collects and uses personal data only as necessary for the purposes for w
 If you opt-in to receiving SMS, your mobile service provider’s policy for receiving SMS will apply, which may be at a fee.
 
   * **Social features** – to offer you a number of social features, including the following:
-    * _Website community features on a Nestlé Site -_ When you visit a Nestlé Site with a community feature and upload or share recipes, pictures, videos, artwork or other content, Nestlé may use and display the personal data that you share on such sites. 
+    *  _Website community features on a Nestlé Site -_ When you visit a Nestlé Site with a community feature and upload or share recipes, pictures, videos, artwork or other content, Nestlé may use and display the personal data that you share on such sites. 
     * _Website viral features_ \- Nestlé may use your personal data to offer you website viral features, such as a tell-a-friend program, where you can share certain news, product information, promotions or other content with family and friends. This typically requires the collection and use of personal contact information (e.g. names and emails) so that the selected one-time message/content can be delivered to their recipients. 
     * _Third party social networking_ \- Nestlé may use your personal data from when you interact with third party social networking features such as “Facebook Connect” or “Facebook Like”. These features may be integrated on Nestlé Sites including for purposes such as running contests and allowing you to share content with friends. If you use these features, Nestlé may have the ability to obtain certain personal data about you from your social networking information. You can learn more about how these features work, and the profile data Nestlé may obtain about you, by visiting the website of the relevant third party social network. 
     * _Other specific purposes -_ We may use your personal data for other specific business purposes, including to maintain the day-to-day operation and security of Nestlé Sites, to conduct demographic studies or audits, and to contact you for consumer research.
@@ -210,7 +210,7 @@ Nestlé Pakistan Limited
 308-Upper Mall, Lahore, Pakistan  
 Email: **[**Akmal.Saeed@PK.nestle.com**](mailto:shahzad.umar@pk.nestle.com)
 
-## 10.  **[Appointment of Ombudsman for Nestlé Privacy policy](https://web.archive.org/asset-library/documents/policy/privacy-ombudsman-appointment.pdf)**
+## 10.  **[Appointment of Ombudsman for Nestlé Privacy policy](https://web.archive.org/sites/g/files/pydnoa361/files/asset-library/documents/policy/privacy-ombudsman-appointment.pdf)**
 
 Return to top
 
