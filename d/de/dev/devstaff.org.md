@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devstaff.org privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610023048id_/http%3A//devstaff.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devstaff.org privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810230402id_/http%3A//devstaff.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Dev Staff
 
