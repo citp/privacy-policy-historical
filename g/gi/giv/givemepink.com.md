@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemepink.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313072126id_/https%3A//www.givemepink.com/pages/privacy/%3Fnats%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemepink.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811005551id_/https%3A//www.givemepink.com/pages/privacy/%3Fnats%3D) for the most accurate reproduction.*
 
 # Privacy Policy on Sapphic Erotica
 
