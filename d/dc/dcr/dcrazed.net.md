@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dcrazed.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228050222id_/https%3A//dcrazed.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcrazed.net privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810164922id_/https%3A//designseer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DesignSeer
 
 _This is our updated Privacy Policy which goes into effect on May 25, 2018._
 
-### Who we are
+###  Who we are
 
 Our website address is: https://designseer.com.
 
@@ -12,7 +12,7 @@ This privacy policy describes how DesignSeer.com uses and protects any informati
 
 ### What Personal Data We Collect And Why We Collect It
 
-**Use of personal information**
+ **Use of personal information**
 
 We use the information you provide to register for an account, receive newsletters, write comments, use certain other services, or participate in our support forums.
 
@@ -22,7 +22,7 @@ We would like to send you email marketing communication which may be of interest
 
 You have a right at any time to stop us from contacting you for marketing purposes. If you no longer wish to be contacted for marketing purposes, please click on the unsubscribe link at the bottom of the email.
 
-#### Access to data
+### Access to data
 
 You have the right to request a copy of the information we hold about you. If you would like a copy of some or all your personal information, please follow the instructions at the end of this policy.
 
@@ -31,17 +31,17 @@ DesignSeer.com user accounts can be edited by following these steps:
 2) You will be redirected to https://profiles.designseer.com/your_username.  
 3) Click the “Edit” link next to your username.
 
-#### Website Visitors
+### Website Visitors
 
 Like most website operators, DesignSeer.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. DesignSeer.com’s purpose in collecting non-personally identifying information is to better understand how DesignSeer.com’s visitors use its website. From time to time, DesignSeer.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 DesignSeer.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. DesignSeer.com does not use IP addresses to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-#### Aggregated Statistics
+### Aggregated Statistics
 
 DesignSeer.com may collect statistics about the behavior of visitors to its websites. For instance, DesignSeer.com may monitor the most popular pages on any competitor site or use spam screened by the Antispam Bee service to help identify spam. DesignSeer.com may display this information publicly or provide it to others. However, DesignSeer.com does not disclose personally-identifying information other than as described below.
 
-#### Analytics
+### Analytics
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our website. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. Google also collects Demographics and interests data so that our website may provide you with the best user experience.
 
@@ -49,11 +49,11 @@ You can opt-out of having made your activity on the Service available to Google 
 
 For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
 
-#### Third Party Links
+### Third Party Links
 
 Our website may contain links to other websites provided by third parties, not under our control. When following a link and providing information to a 3rd-party website, please be aware that we are not responsible for the data provided to that third party. This privacy policy only applies to the websites listed at the beginning of this document, so when you visit other websites, even when you click on a link posted on DesignSeer.com, you should read their own privacy policies.
 
-#### Cookies
+### Cookies
 
 If you leave a comment on our site you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
@@ -63,31 +63,31 @@ When you log in, we will also set up several cookies to save your login informat
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-#### Embedded content from other websites
+### Embedded content from other websites
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-#### Ads
+### Ads
 
 Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by DesignSeer.com and does not cover the use of cookies by any advertisers.
 
-#### Comments
+### Comments
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-#### Media
+### Media
 
 If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-#### Contact / Subscription Forms
+### Contact / Subscription Forms
 
 Customers that email us, or use any of the contact forms on our websites, will have their email address, IP address, and any data provided in the contact form or body of the email stored in G Suite archives and in our third-party service provider, Mailchimp. We use email marketing to communicate with customers and potential customers from time to time. All email lists and campaigns are “opt-in” meaning we will not send you these sorts of emails unless you indicated that you wish to receive them during signup or other interactions on our website. All marketing emails sent by us will include an unsubscribe link in the footer of the email. Emails sent to you may also include standard tracking, including open and click activities.
 
-#### Registered Users
+### Registered Users
 
 Certain visitors to DesignSeer.com choose to interact with DesignSeer.com in ways that require DesignSeer.com to gather personally-identifying information. The amount and type of information that DesignSeer.com gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address.
 
@@ -136,4 +136,4 @@ Although most changes are likely to be minor, DesignSeer.com may change its Priv
 
 ### Contact
 
-Please contact us if you have any questions about our privacy policy or information we hold about you by emailing mail@designseer.com. 
+Please contact us if you have any questions about our privacy policy or information we hold about you by emailing mail@designseer.com.
