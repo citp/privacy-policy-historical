@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyguidepro.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610163234id_/http%3A//www.moneyguidepro.com/ifa/home/privacy%3FhideToolbar%3DFalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyguidepro.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810212110id_/http%3A//www.moneyguidepro.com/ifa/home/privacy%3FhideToolbar%3DFalse) for the most accurate reproduction.*
 
 # Envestnet | MoneyGuide - Financial Planning Software
 
