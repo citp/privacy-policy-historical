@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lurnworkshop.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209090659id_/http%3A//www.lurnworkshop.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lurnworkshop.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810210329id_/http%3A//lurnworkshop.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Lurn
 
