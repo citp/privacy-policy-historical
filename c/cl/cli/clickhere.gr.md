@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickhere.gr privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609044354id_/http%3A//www.clickhere.gr/content/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickhere.gr privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810031317id_/http%3A//www.clickhere.gr/content/privacypolicy.asp) for the most accurate reproduction.*
 
 # clickhere.gr: Privacy Policy
 
