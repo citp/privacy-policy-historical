@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djhungama.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627063337id_/http%3A//djhungama.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djhungama.net privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811015351id_/http%3A//www.djhungama.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DJ Hungama
 
