@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dliflc.edu privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611005013id_/http%3A//www.dliflc.edu%3Fpage_id%3D135) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dliflc.edu privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810204254id_/http%3A//www.dliflc.edu%3Fpage_id%3D135) for the most accurate reproduction.*
 
 # Privacy | Defense Language Institute Foreign Language Center
 
