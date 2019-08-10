@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsmenow.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423234741id_/http%3A//appsmenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsmenow.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810225355id_/https%3A//appsmenow.com/privacy-policy) for the most accurate reproduction.*
 
 # Best Apps, Reviews, Price Drops, Walkthrough, Cheats, Answers for iPhone, iPad, Android
 
