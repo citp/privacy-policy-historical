@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303113400id_/https%3A//www.expatistan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810121904id_/https%3A//www.expatistan.com/privacy-policy) for the most accurate reproduction.*
 
 # Expatistan :: International Cost of Living comparisons
 
@@ -76,7 +76,7 @@ Personal data collected may include Cookies and Usage Data. [Privacy Policy](htt
 Payment processing services allow us to process payments by credit card or other means. To ensure greater security, we do not collect any payment information directly, other than the result of the transaction as sent to us by the payment providers. Some of these services may also enable the sending of timed messages to you, such as emails containing invoices or notifications concerning the payment.  
 We use the following payment provider services: 
     * Braintree, a payment service provided by Braintree, a division of PayPal, Inc. 
-    * PayPal, a payment service provided by PayPal Inc. [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://web.archive.org/web/20190303113400id_/https%3A//www.expatistan.com/Privacy%20Policy)
+    * PayPal, a payment service provided by PayPal Inc. [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://web.archive.org/web/20190810121904id_/https%3A//www.expatistan.com/Privacy%20Policy)
   * Hosting and Web Infraestructure  
 Hosting and Web infraestructure allow us to host data and files and to serve them to you. They also provide long-term safe storage for our data and files for the purpose of backups, as well as providing services to monitor and fix problems in our infraestructure. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.  
 We use the following hosting and web infraestructure services: 
