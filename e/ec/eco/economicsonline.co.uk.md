@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economicsonline.co.uk privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406132125id_/http%3A//www.economicsonline.co.uk/Privacy%2520policy%2520%28May2018%29.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economicsonline.co.uk privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810105708id_/http%3A//www.economicsonline.co.uk/Privacy%2520policy%2520%28May2018%29.pdf) for the most accurate reproduction.*
 
 # 1
 
