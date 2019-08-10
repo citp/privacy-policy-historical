@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611034946id_/https%3A//www.whsv.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810183135id_/https%3A//www.whsv.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
