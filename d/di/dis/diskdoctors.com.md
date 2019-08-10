@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diskdoctors.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224032311id_/http%3A//diskdoctors.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diskdoctors.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810140823id_/http%3A//diskdoctors.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Disk Doctors.com
 
