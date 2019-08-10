@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trainingauthors.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610023109id_/http%3A//www.trainingauthors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingauthors.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810112718id_/http%3A//www.trainingauthors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Training Authors for Success
+# Privacy Policy - Training Authors with CJ and Shelley Hitz
 
 Body and Soul Publishing LLC (“us”, “we”, or “our”) operates the Trainingauthors.com website (the “Service”).
 
@@ -243,7 +243,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: support@trainingauthors.com
+  * By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * By mail: P.O. Box 6542 Colorado Springs, CO 80904
 
 
