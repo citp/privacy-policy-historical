@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsecrethunt.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609120539id_/http%3A//www.onsecrethunt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsecrethunt.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810200450id_/http%3A//www.onsecrethunt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | On Secret Hunt
 
