@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424121103id_/https%3A//brainmass.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810203024id_/https%3A//brainmass.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BrainMass
 
