@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmartsupport.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620054252id_/https%3A//www.mysmartsupport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartsupport.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810133036id_/https%3A//www.mysmartsupport.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy policy - My Smart Support
 
