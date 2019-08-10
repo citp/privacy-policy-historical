@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyreasons.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419130843id_/http%3A//www.moneyreasons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyreasons.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810063616id_/https%3A//www.moneyreasons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
