@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcrosswords.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619174409id_/http%3A//webcrosswords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrosswords.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810222610id_/http%3A//webcrosswords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Crossword Puzzles | WebCrosswords.com
 
