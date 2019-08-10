@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlegreenfootballs.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624100336id_/http%3A//littlegreenfootballs.com/article/48195_Terms_of_Service-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlegreenfootballs.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810072358id_/http%3A//littlegreenfootballs.com/article/48195_Terms_of_Service-Privacy_Policy) for the most accurate reproduction.*
 
 # Terms of Service/Privacy Policy - Little Green Footballs
 
