@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abstrengthguide.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920081055id_/https%3A//abstrengthguide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abstrengthguide.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810031659id_/https%3A//abstrengthguide.com/privacy.php) for the most accurate reproduction.*
 
 # Dr. Kareem Privacy Policy
 
