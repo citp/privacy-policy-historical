@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thepassiontest.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014115045id_/http%3A//thepassiontest.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepassiontest.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810223830id_/https%3A//thepassiontest.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ThePassionTest.com
 
-**[](http://thepassiontest.com/)**
+[](https://thepassiontest.com/)
 
-You are here: [Home](http://thepassiontest.com/ "ThePassionTest.com") / Privacy Statement
+You are here: [Home](https://thepassiontest.com/ "ThePassionTest.com") / Privacy Statement
 
 ## Privacy Statement
 
