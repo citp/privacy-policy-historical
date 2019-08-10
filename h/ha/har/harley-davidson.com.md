@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harley-davidson.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608073558id_/https%3A//www.harley-davidson.com/us/en/footer/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harley-davidson.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810061950id_/https%3A//www.harley-davidson.com/us/en/footer/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Harley-Davidson USA
 
