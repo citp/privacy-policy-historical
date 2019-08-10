@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longmanlight.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609225648id_/http%3A//www.longmanlight.com/contact-us/privacy-policy-140.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longmanlight.com privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810095559id_/http%3A//www.longmanlight.com/contact-us/privacy-policy-140.html) for the most accurate reproduction.*
 
 # Privacy Policy - Longman Stage Lighting
 
