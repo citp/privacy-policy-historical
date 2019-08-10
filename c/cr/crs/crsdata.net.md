@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627124231id_/http%3A//crsdata.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.net privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810121028id_/http%3A//crsdata.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRS Data
 
@@ -64,6 +64,6 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800.374.7488 or** **via email at getinfo@crsdata.com** **.**
 
-"We continue to choose CRS Data hands down. The quality of their service, data and product is superior. We know and trust that their team will take care of us and be an integral part of growing our revenue."
+The Real Estate [Suite] … gives me an edge in an industry that is quite competitive.” 
 
-**JOHN RYAN** \- Georgia MLS 
+**ROSS RYLANCE** \- Keller Williams Realty, Franklin 
