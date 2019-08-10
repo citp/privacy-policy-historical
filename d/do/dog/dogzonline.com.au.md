@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323002519id_/https%3A//dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2019-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190810033502id_/https%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # Australia's Pure Bred Dogs - Dogz Online
 
