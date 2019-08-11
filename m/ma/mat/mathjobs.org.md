@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathjobs.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611213534id_/http%3A//www.mathjobs.org/help/mathjobs/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathjobs.org privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811122206id_/http%3A//www.mathjobs.org/help/mathjobs/misc/privacy.html) for the most accurate reproduction.*
 
 # MATHJOBS.ORG PRIVACY STATEMENT
 
