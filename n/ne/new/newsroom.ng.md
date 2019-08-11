@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newsroom.ng privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320103324id_/https%3A//newsroom.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsroom.ng privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811120507id_/https%3A//neusroom.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Newsroom
+# Privacy
 
 _Last Updated on October 15, 2014_
 
-This Privacy Policy discloses the privacy practices for Newsroom Nigeria and [newsroom.ng](http://http//newsroom.ng/) (including any other applications collectively referred to as the “Newsroom Nigeria”), and to any services that display this notice.
+This Privacy Policy discloses the privacy practices for Newsroom Nigeria and [neusroom.com](http://http//neusroom.com/) (including any other applications collectively referred to as the “Newsroom Nigeria”), and to any services that display this notice.
 
 The Newsroom Nigeria Services may contain links to other websites for your convenience and information. We are not responsible for the privacy practices or the content of those sites.
 
@@ -20,7 +20,7 @@ Registration for the Newsroom Nigeria may require that you supply certain person
 
 You may choose to log in, create an account or enhance your profile at Newsroom Nigeria through the Facebook Connect feature on Newsroom Nigeria. By doing this, you are asking Facebook to send us certain information from your Facebook profile, and you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information available to us through the Facebook interface. After you have connected, Facebook also sends us additional information from your profile that allows us to display a Facebook module on the pages you view.
 
-To disassociate your [newsroom.ng](http://newsroom.ng/) registration from third party accounts, including Facebook, please see our Social Media FAQ.
+To disassociate your [neusroom.com](https://neusroom.com/) registration from third party accounts, including Facebook, please see our Social Media FAQ.
 
 **Billing and Credit Card Information**
 
@@ -28,13 +28,13 @@ To enable payment and donations via the Newsroom Nigeria Services, we collect an
 
 **User Generated Content and Public Activities (Including Comments, Reader Reviews and TimesPeople)**
 
-We offer you opportunities to engage in public activities on [newsroom.ng](http://newsroom.ng/) and other Newsroom Nigeria Services. “Public activities” are any actions you take on [newsroom.ng](http://newsroom.ng/) that are designed to be visible to other users, including comments, recommendations, reader reviews, ratings or any other items that you submit. Any information you disclose in your public activities, along with your screen name or ID, or any image or photo, becomes public and may be used by The Newsroom Nigeria for online and offline promotional or commercial uses in any and all media. If you choose to engage in public activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas.
+We offer you opportunities to engage in public activities on [neusroom.com](https://neusroom.com/) and other Newsroom Nigeria Services. “Public activities” are any actions you take on [neusroom.com](https://neusroom.com/) that are designed to be visible to other users, including comments, recommendations, reader reviews, ratings or any other items that you submit. Any information you disclose in your public activities, along with your screen name or ID, or any image or photo, becomes public and may be used by The Newsroom Nigeria for online and offline promotional or commercial uses in any and all media. If you choose to engage in public activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas.
 
 We are not responsible for the personally identifiable information you choose to submit in the course of your public activities and we have no responsibility to publish, take down, remove or edit any of your public activities or submissions. For more information, see the Comments FAQ and read the Forums, Discussions and User
 
 Generated Content section of the Terms of Service.
 
-If you have registered for a [newsroom.ng](http://newsroom.ng/) account, we will track and aggregate your public activities on [newsroom.ng](http://newsroom.ng/). By choosing to participate in public activities, you are electing to share and display such public activities via newsroom.ng. Also, public activities may be included in RSS feeds, APIs and made available to other websites via other formats. As a result, your public activities may appear on other websites, blogs, or feeds. Keep in mind that we are not responsible for any personal information you choose to make public via your public activities, and you agree that such sharing will be deemed to have been done by you, not Newsroom Nigeria.
+If you have registered for a [neusroom.com](https://neusroom.com/) account, we will track and aggregate your public activities on [neusroom.com](https://neusroom.com/). By choosing to participate in public activities, you are electing to share and display such public activities via neusroom.com. Also, public activities may be included in RSS feeds, APIs and made available to other websites via other formats. As a result, your public activities may appear on other websites, blogs, or feeds. Keep in mind that we are not responsible for any personal information you choose to make public via your public activities, and you agree that such sharing will be deemed to have been done by you, not Newsroom Nigeria.
 
 When you share or recommend (with or without adding your own comments) any Newsroom Nigeria articles or content to your Facebook profile, that action is governed by the Facebook Privacy Policy. We do not record those comments.
 
@@ -58,9 +58,9 @@ We use various Internet technologies to manage the Newsroom Nigeria and track us
 
 **Device Information**. We may collect non-personal information about the computer, mobile device or other device you use to access the Newsroom Nigeria Services, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
 
-**Cookies, Beacons, Local Storage and Other Similar Technologies.** We use “cookies,” Web beacons, HTML5 local storage and other similar technologies. These technologies allow us to manage access to and use of the Services, recognize you and provide personalization, and help us understand how people use the Newsroom Nigeria Services. You will not be able to access certain areas of our websites, including [newsroom.ng](http://newsroom.ng/), if your computer does not accept cookies from us. We do not respond to browser-based “do not track” signals. For more detailed information about our use of cookies and local storage, and how to manage them, see Frequently Asked Questions About Cookies and Similar Technologies in our Help section.
+**Cookies, Beacons, Local Storage and Other Similar Technologies.** We use “cookies,” Web beacons, HTML5 local storage and other similar technologies. These technologies allow us to manage access to and use of the Services, recognize you and provide personalization, and help us understand how people use the Newsroom Nigeria Services. You will not be able to access certain areas of our websites, including [neusroom.com](https://neusroom.com/), if your computer does not accept cookies from us. We do not respond to browser-based “do not track” signals. For more detailed information about our use of cookies and local storage, and how to manage them, see Frequently Asked Questions About Cookies and Similar Technologies in our Help section.
 
-The Newsroom Nigeria Services may transmit non-personally identifiable website usage information about our visitors to a reputable third party in order to show you advertising for Newsroom Nigeria when you visit other sites. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please [click here](http://newsroom.ng/advertise/).
+The Newsroom Nigeria Services may transmit non-personally identifiable website usage information about our visitors to a reputable third party in order to show you advertising for Newsroom Nigeria when you visit other sites. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please [click here](https://neusroom.com/advertise/).
 
 **Analytics Technologies.** We have hired third parties to provide us information, reports and analysis about the usage, browsing patterns of users of the Newsroom Nigeria Services.
 
@@ -68,7 +68,7 @@ The Newsroom Nigeria Services may transmit non-personally identifiable website u
 
 **Log Files and Your Reading History.** We automatically log certain usage information about your use of Newsroom Nigeria, including a reading history of the pages you view.
 
-We use this information in order to provide you with customized Recommendations on newsroom.ng based on your reading history. We also use log files to analyze usage of our websites and mobile applications.
+We use this information in order to provide you with customized Recommendations on neusroom.com based on your reading history. We also use log files to analyze usage of our websites and mobile applications.
 
 **Location Information.** Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-
 
@@ -78,11 +78,11 @@ Ads may be displayed within our apps. The ads you see are not targeted to you ba
 
 **Information Collected by Third Parties**
 
-Some of the services and advertisements included in the Newsroom Nigeria, including on newsroom.ng and within our mobile apps, are delivered or served by third-party companies. These companies may place or recognize cookies, Web beacons or other technology to track certain non-personal information about our website users. For example, in the course of serving certain advertisements, an advertiser may place or recognize a unique cookie on your browser in order to collect certain information about your use of the Newsroom Nigeria. In many cases, this information could be used to show you ads on other websites based on your interests.
+Some of the services and advertisements included in the Newsroom Nigeria, including on neusroom.com and within our mobile apps, are delivered or served by third-party companies. These companies may place or recognize cookies, Web beacons or other technology to track certain non-personal information about our website users. For example, in the course of serving certain advertisements, an advertiser may place or recognize a unique cookie on your browser in order to collect certain information about your use of the Newsroom Nigeria. In many cases, this information could be used to show you ads on other websites based on your interests.
 
 We do not have access to, nor control over, advertisers’ or service providers’ use of cookies or other tracking technologies or how they may be used.
 
-Google serves advertisements onto [newsroom.ng](http://newsroom.ng/). It uses the DART cookie to serve ads based on your visit to newsroom.ng and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google serves advertisements onto [neusroom.com](https://neusroom.com/). It uses the DART cookie to serve ads based on your visit to neusroom.com and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 Your access to our websites should not be affected if you do not accept cookies served by third parties.
 
@@ -140,23 +140,23 @@ The Newsroom Nigeria complies with the federal **CAN-SPAM Act of 2003**. We will
 
 **Promotional Email.** The Newsroom Nigeria may periodically email you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each email, or (2) you can opt-out here.
 
-**Survey Email.** We may send you an email inviting you to participate in user surveys, asking for feedback on [www.newsroom.ng](http://www.newsroom.ng/) and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve the Newsroom Nigeria Services, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
+**Survey Email.** We may send you an email inviting you to participate in user surveys, asking for feedback on [www.neusroom.com](https://www.neusroom.com/) and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve the Newsroom Nigeria Services, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
 
 **HTML Email.** When you sign up to receive email from us, you can select either plain text or HTML (with images) format. If you select the HTML format, we may place a one-pixel gif to determine whether or not readers viewed the email. This process does not leave any information on your computer, nor does it collect information from your computer. The Newsroom Nigeria may share this data with others in aggregate only.
 
 **Emails From You.** If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in emails. We will use your email address to respond directly to your questions or comments.
 
-**Email This Article Feature.** [Newsroom.ng](http://newsroom.ng/) readers may use this feature to email links to articles (or other content such as slideshows). The email addresses that you supply to this service are saved for your convenience for future articles you may wish to email; these addresses are not used for any other purpose, and will not be shared with any third parties.
+**Email This Article Feature.** [Newsroom.ng](https://neusroom.com/) readers may use this feature to email links to articles (or other content such as slideshows). The email addresses that you supply to this service are saved for your convenience for future articles you may wish to email; these addresses are not used for any other purpose, and will not be shared with any third parties.
 
 **HOW DO I CHANGE OR UPDATE MY PERSONAL INFORMATION?**
 
 The Newsroom Nigeria Home Delivery Web Account. You may update and/or edit your Home Delivery account information online at the Home Delivery website by clicking on the link for Update Account. Should you require assistance, please call +2348105087076.
 
-**Manage Your[Newsroom.ng](http://newsroom.ng/) Account in the My Account Area.** You may review and update your [newsroom.ng](http://newsroom.ng/) membership or account information and access your transaction history in the My Account area.
+**Manage Your[Newsroom.ng](https://neusroom.com/) Account in the My Account Area.** You may review and update your [neusroom.com](https://neusroom.com/) membership or account information and access your transaction history in the My Account area.
 
-There are a number of things you can do in the My Account area to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process. The Email Preferences tab is the place to go to sign up for our email newsletters and manage your delivery options. To gain access to the areas of the My Account area containing personal information, you will be asked to re-enter your password. If you do not remember your password, you can reset your password here. If you need further assistance, please [click here and leave a message](http://newsroom.ng/contact/).
+There are a number of things you can do in the My Account area to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process. The Email Preferences tab is the place to go to sign up for our email newsletters and manage your delivery options. To gain access to the areas of the My Account area containing personal information, you will be asked to re-enter your password. If you do not remember your password, you can reset your password here. If you need further assistance, please [click here and leave a message](https://neusroom.com/contact/).
 
-**Manage Your Newsroom Nigeria Account.** Manage and update your account by logging in at [www.newsrom.ng](http://www.newsroom.ng/). Simply click on the “My Account” section at the top right corner of the navigational bar and proceed to “Edit Profile”. You may securely update your information, email address and password registered to the account. Should you require assistance, please call us at+2348105087076.
+**Manage Your Newsroom Nigeria Account.** Manage and update your account by logging in at [www.newsrom.ng](https://www.neusroom.com/). Simply click on the “My Account” section at the top right corner of the navigational bar and proceed to “Edit Profile”. You may securely update your information, email address and password registered to the account. Should you require assistance, please call us at+2348105087076.
 
 **HOW DO I OPT-OUT FROM RECEIVING EMAILS?**
 
