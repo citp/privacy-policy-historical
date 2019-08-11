@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gta-sanandreas.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528170248id_/http%3A//www.igta5.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gta-sanandreas.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811081815id_/http%3A//www.igta5.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
