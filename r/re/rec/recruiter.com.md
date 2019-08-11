@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612043215id_/https%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811130536id_/https%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.*
 
 # Recruiter.com - Privacy Policy
 
@@ -255,7 +255,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email or write to us at the following address. 
 
 Email: info@recruiter.com.com  
-Address: Recruiter.com, Inc., PO BOX 86, Bristol, Connecticut 06011 
+Address: Recruiter.com Group, Inc., 100 Waugh Drive, Suite 300, Houston, Texas 77007 
 
 We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate. 
 
@@ -283,9 +283,9 @@ By using our site, you consent to our privacy policy.
 **CONTACT US**
 
 If you have questions or comments about this Privacy Policy, please contact us at:   
-Recruiter.com, Inc.  
-PO Box 86  
-Bristol, CT 06011
+Recruiter.com Group, Inc.  
+100 Waugh Drive, Suite 300  
+Houston, Texas 77007 
 
 info@recruiter.com  
 Web page: https://www.recruiter.com/contact.html
