@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pangu8.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705002202id_/https%3A//pangu8.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pangu8.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811184823id_/https%3A//pangu8.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,7 +87,7 @@ _Contacting Us:_
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-[](http://pangu8.com/)
+[](https://pangu8.com/)
 
 O | _What personal information do we collect from the people that visit our blog, website or app?_  
 ---|---  
