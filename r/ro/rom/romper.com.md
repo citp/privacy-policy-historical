@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romper.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331020819id_/https%3A//www.romper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romper.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811023603id_/https%3A//www.romper.com/privacy) for the most accurate reproduction.*
 
 # Romper.com Privacy Policy
 
