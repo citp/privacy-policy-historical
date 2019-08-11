@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anitaborg.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407141436id_/https%3A//anitab.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anitaborg.org privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811100252id_/https%3A//anitab.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AnitaB.org
 
@@ -10,7 +10,8 @@ Your privacy is important, so the Anita Borg Institute for Women and Technology 
 
 By using the Site(s), you expressly consent to the information handling practices described in this Privacy Policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Site(s).
 
-This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy is incorporated into by reference and made a part of our Terms of Use for the Sites. We may periodically make changes to this Privacy Policy that we will include on this page. The effective date at the top of this page indicates the date of the most current Privacy Policy in effect. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of the Site(s) constitutes your agreement to this Privacy Policy and any future revisions. AnitaB.org shall not be liable for any damages You may suffer as a result of its failure to provide you notice of any changes to this Privacy Policy as set forth herein. If you would like to be notified when this Privacy Policy is updated, please contact us by email at [Privacy@AnitaB.org](mailto:privacy@anitab.org) or by postal mail at Privacy Director, Anita Borg Institute for Women and Technology, 1501 Page Mill Road, MS 1105, Palo Alto, CA 94304.
+This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy is incorporated into by reference and made a part of our Terms of Use for the Sites. We may periodically make changes to this Privacy Policy that we will include on this page. The effective date at the top of this page indicates the date of the most current Privacy Policy in effect. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of the Site(s) constitutes your agreement to this Privacy Policy and any future revisions. AnitaB.org shall not be liable for any damages You may suffer as a result of its failure to provide you notice of any changes to this Privacy Policy as set forth herein. If you would like to be notified when this Privacy Policy is updated, please contact us by email at [Privacy@AnitaB.org](mailto:privacy@anitab.org) or by postal mail at Privacy Director, Anita Borg Institute for Women and Technology, 1301 Shoreway Road,  
+Suite 425, Belmont, CA 94002.
 
 ## **Scope of Policy**
 
@@ -142,4 +143,4 @@ We may also automatically record certain information from your device by using v
 
 ## **Contacting AnitaB.org**
 
-If you would like to contact AnitaB.org regarding this Privacy Policy, please contact us by email at [Privacy@AnitaB.org](mailto:privacy@anitab.org) or by postal mail at Privacy Director, Anita Borg Institute for Women and Technology, 1501 Page Mill Road, MS 1105, Palo Alto, CA 94304.
+If you would like to contact AnitaB.org regarding this Privacy Policy, please contact us by email at [Privacy@AnitaB.org](mailto:privacy@anitab.org) or by postal mail at Privacy Director, Anita Borg Institute for Women and Technology, 1301 Shoreway Road, Suite 425, Belmont, CA 94002.
