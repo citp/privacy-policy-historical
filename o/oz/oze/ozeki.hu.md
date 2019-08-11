@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozeki.hu privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207125429id_/http%3A//www.ozeki.hu/index.php%3Fowpn%3D2449) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozeki.hu privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811164922id_/http%3A//www.ozeki.hu/index.php%3Fowpn%3D2449) for the most accurate reproduction.*
 
 # SMS Gateway - Company, Privacy
 
