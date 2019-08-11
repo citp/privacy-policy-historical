@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurstraightguys.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607222553id_/http%3A//amateurstraightguys.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurstraightguys.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811051906id_/http%3A//www.amateurstraightguys.com/tour/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Amateur Straight Guys
 
