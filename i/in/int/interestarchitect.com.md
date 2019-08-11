@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interestarchitect.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612055227id_/http%3A//appbreed.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interestarchitect.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811021419id_/http%3A//appbreed.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Appbreed Software
 
