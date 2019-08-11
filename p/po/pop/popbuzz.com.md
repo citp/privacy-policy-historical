@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popbuzz.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330134809id_/https%3A//www.popbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popbuzz.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811102443id_/https%3A//www.popbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Statement - PopBuzz
 
