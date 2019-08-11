@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thismatter.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213202841id_/https%3A//thismatter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismatter.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811215255id_/https%3A//thismatter.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For thismatter.com
 
