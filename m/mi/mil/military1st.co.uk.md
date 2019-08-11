@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531231719id_/http%3A//www.military1st.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811112319id_/https%3A//www.military1st.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Military 1st
+# Privacy Policy
 
-In this privacy policy references to "we", "us" and "our" are to MMG Trading Ltd.  
+In this privacy policy references to "we", "us" and "our" are to MMG Trading Ltd.
+
 References to "our Website" or "the Website" are www.military1st.co.uk or any of our other associated websites.
 
 Important Note: Your privacy is very important to us. We never sell your details.
@@ -12,7 +13,7 @@ What information we collect and how we use your information.
 The information we collect via the Website may include:
 
   1. Any personal details you knowingly provide us with through forms and our email, such as name, address, telephone number etc.
-  2. Under no circumstances will we hold sensitive payment details such as your card number, expiry date and security code. All transactions are handled through our accredited payment bureau, Sage Pay. For more information on the Sage Pay privacy policy please refer to www.sagepay.com
+  2. Under no circumstances will we hold sensitive payment details such as your card number, expiry date and security code. All transactions are handled through our accredited payment bureau, Adyen. For more information on the Adyen privacy policy please refer to www.adyen.com
   3. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
   4. Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.
   5. Data recorded by the Website which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on your computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers 'help' facility.
