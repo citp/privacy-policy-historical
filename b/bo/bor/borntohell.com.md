@@ -1,60 +1,73 @@
-> *The following text is extracted and transformed from the borntohell.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024090709id_/http%3A//borntohell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borntohell.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812014642id_/http%3A//borntohell.com/borntohell-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BornToHell
+# BornToHell Privacy Policy – Borntohell
 
-#### Privacy Policy:
+Cookies & 3rd Party Advertisements
 
- **At BornToHel your privacy is of utmost importance to us. We do not gather any information regarding our users like their phone no., Social Security numbers, Bank Account No. and nor any credit card information. We only collect information when you subscribe our newsletter or send in your response to a survey.**
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-##### Log Files
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address. We create a log file which contains your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+The following is an outline of BorntoHell Privacy Policy.
 
-The information we collect is used to improve the content, layout, and usability of our website. This information is not sold to anyone, including commercial partners.
+•General
 
-##### Security
+At BorntoHell we know that your number one concern is that we meet the security and privacy standards you expect. You should be aware of the following safety and privacy issues when you browse our website.
 
-BornToHel does not collect any sensitive data like credit card information or Social Security numbers and therefore offers a significantly reduced incentive for data theft; we take very seriously our responsibility to protect your private information.
+What information is collected by BorntoHell?
 
-##### Third Party Ads
+Standard use of the Site
 
-BornToHel works with third parties to serve ads and promotions through this site as well as to assist us in managing customer information and to communicate with you. To find out more about how these third parties manage the privacy of information in conjunction with serving ads on this site, please visit the privacy policy on their web sites.
+In general, you can browse the Site without telling us who you are or revealing any personal information. The only information we gather during a general navigation on the Site is the information intended for the server logs: IP (Internet Protocol) address, domain name, browser type, operating system and information such as the site from which you are connected, pages visited, and the dates and times of those visits.
 
-When you are accessing BornToHel you may promotion through an advertising vehicle, and are asked for personal information, you are not sharing that information with BornToHel. Promotions, surveys and other sweepstakes offerings may be sponsored, or co-sponsored, by another company. Some or all of the data collected during such a program may be shared with the marketing partner. Your participation is always voluntary.
+Collect of Personal Information
 
-##### Email Addresses
+If you subscribe to a newsletter, log on, request information, send any comments or if you join a discussion group or electronic mailing list, you will need to provide some personal information : name and e-mail address, for example. Such information is collected only with your permission and is stored in different databases and mailing lists belonging to BorntoHell.
 
-When you make a comment or contact us using the contact page your email id is required. Please be assured that your email address will only be used for responding to your email or comment and will never be made publicly available. We will never sell your email address to any third parties, ever.
+The registration of personal information leads to the submission of a cookie* on certain parts of BorntoHell. By setting this cookie, BorntoHell will remember your personal details at the next visit so you do not have to re-enter the same information. This helps us to improve the quality of services that we offer.
 
-##### Comments Policy
+Participation in electronic discussion groups means that other participants in the group that you have chosen (including those who are not Site Administrators) will be aware of any personal information that you choose to disclose. In some open discussion groups the information is public.
 
-We Welcome comments on our website this requires your Name and Email address. We do not sell or miss use this data. We reserve the right to remove any comment that is not suitable for publication. This could include but is not limited to objectionable and abusive comments. Hate, racist comments, or any other form of prejudice will be removed and the comment poster will be banned!  
-Comments made for sole purpose of getting backlinks or advertizing your/any product will not be accepted. Link to third party website will require moderation and we reserve the rights to edit/delete such links.
+What does BorntoHell do with the information it collects?
 
-Spam in any form will not be accepted and will be deleted immediately. We may take action against such spammers.
+Standard use of the Site
 
-##### RSS Feed
+The information collected during the navigation in the “BorntoHell” area is used to analyze trends and the use of the site in order to improve its usefulness. No personal information is attached there.
 
-When you subscribe for our RSS Feed on your Email we collect your Email address. Your email id is just used for sending you the latest post on our Website. Feeds email is send automatically whenever there is new post on our website. We do not sell or misuse your email id and nor send you spam messages.
+Personal Information
 
-##### Links
+BorntoHell may use such information to:
 
-This website may contain links to other websites. Please be aware that we “BornToHel” is not responsible for the privacy policy of other websites. We encourage you to be aware when you reach to other Website read the privacy statements of each and every website that collects personally identifiable information.
+* Contact you – either in response to a request or a suggestion, or to send you news, documents, publications, and so on;
 
-Our website contains external links to commercial partners. We are not responsible for the content of these websites, nor their privacy practices. Please refer to the privacy policy listed on their website to find out more information about what information they collect and how they use it.
+* Confirm your entries on the site;
 
-##### Copyrights
+* “Remember” your online profile and preferences;
 
-We take lot of caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If we use the multimedia content like images or Video we link back to the original owner of the content. We do not represent that content as our own property. If you find anything that could be considered a violation of the copyright norms, please contact us immediately.
+* Statistical analysis performing.
 
-##### Notification of Changes
+What will happen if I do not want to provide personal information?
 
-BornToHel may from time to time, amend this Policy, in whole or in part, at its sole discretion. If there are material changes to this Policy or in how BornToHel uses your personally identifiable information, BornToHel will prominently post such changes with a notice on the homepage of the website prior to implementing the change. Please check this page periodically for changes. Continued use of this site following notification of a change in privacy policy shall constitute acceptance of the change and this Policy.
+Providing personal information on the Site is optional. If you do not want to deliver information of this kind, you can always surf the Site, but you will not be able to access the entire Service and its Information.
 
-##### Disclaimer
+Removal or modification of information
 
-Many time on our Website we use the name of other companies and product like Microsoft, iPad, Apple, iPhone, Samsung etc this does not mean that we own or we have the right on the name or product. All name and products are property of their respected owner. All trademark and copyrights are on the name of respected owner and we do not claim as our own.
+You can delete or modify your personal information at any time by returning to the page where you registered them or by contacting the coordinator of the page. If the page in question does not provide any information on this subject, you can contact privacy(at)BorntoHell for more information.
 
-Further we would like to emphasize that the earning tips given on our blog is purely a personal opinion and should not be taken as a advice. Neither BornToHel nor its owner holds any responsibility whatsoever for your decisions and also on the financial outcome resulting on the advice rendered on BornToHel. The ideas expressed on BornToHel are our own views and should not be taken as recommendations in any way.
+If you are not the issuer of personal information that concerns you and want to have it removed, you can send your request to privacy(at)BorntoHell
 
-Did you find apk for android? You can find new [Free Android Games](https://dlandroid24.com/) and apps.
+Security
+
+The personal data entrusted to the Site will not be sold or transferred to any third party. Any information provided to BorntoHell by users of the Site is preserved with the utmost care and maximum safety. It will be used only in the manner described in this privacy policy, or according to the special rules of visited sites or in a manner to which you have explicitly consented. BorntoHell uses techniques and a variety of measures to ensure the safety of information stored in its systems and protects them from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
+
+All our volunteers who have access to personal information or are associated with the processing of these data, are obliged to respect the confidentiality of every user of the Site, which covers the personal information.
+
+The Site provides links to sites outside the “BorntoHell” area and could not be held responsible for the privacy practices or the content located on them.
+
+Modifications
+
+Any modification of these terms can be made at any time without prior publication or announcement.
+
+Contact
+
+For any questions or inquiries about our privacy policy, you can contact us
