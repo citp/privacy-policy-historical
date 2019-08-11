@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarzip.download privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611044811id_/http%3A//rarzip.download/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarzip.download privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811203358id_/http%3A//rarzip.download/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
