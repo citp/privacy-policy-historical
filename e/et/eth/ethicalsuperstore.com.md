@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409183600id_/https%3A//www.ethicalsuperstore.com/help-privacy-and-security/%23Cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811163450id_/https%3A//www.ethicalsuperstore.com/help-privacy-and-security/%23Cookies) for the most accurate reproduction.*
 
 # Help - Privacy, Security & GDPR - Ethical Superstore
 
