@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openweathermap.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330120913id_/https%3A//openweather.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openweathermap.org privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812000319id_/https%3A//openweather.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # 
 
