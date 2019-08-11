@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickscrowd.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614174721id_/http%3A//clickscrowd.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickscrowd.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811232109id_/http%3A//www.clickscrowd.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ClicksCrowd™ - The #1 Exclusive CPC Affiliate Network
 
