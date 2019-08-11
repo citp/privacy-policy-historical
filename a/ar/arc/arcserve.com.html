@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the arcserve.com privacy policy that was archived on 2019-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190517122711id_/https%3A//www.arcserve.com/about/eu-us-privacy-shield) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arcserve.com privacy policy that was archived on 2019-08-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190811023954id_/https%3A//www.arcserve.com/about/eu-us-privacy-shield) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 	<meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5QWDJV"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5QWDJV"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="pingback" href="https://www.arcserve.com/xmlrpc.php">
   <link rel="apple-touch-icon" sizes="180x180" href="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/favicon/apple-icon-180x180.png">
@@ -17,18 +17,18 @@
 <link rel="alternate" hreflang="es" href="https://www.arcserve.com/es/about/eu-us-privacy-shield/">
 <link rel="alternate" hreflang="en-sg" href="https://www.arcserve.com/asia/about/eu-us-privacy-shield/">
 <link rel="alternate" hreflang="ja-jp" href="https://www.arcserve.com/jp/about/eu-us-privacy-shield/">
-<link rel="alternate" hreflang="br" href="https://www.arcserve.com/br/about/eu-us-privacy-shield/">
+<link rel="alternate" hreflang="pt" href="https://www.arcserve.com/br/about/eu-us-privacy-shield/">
 <link rel="alternate" hreflang="es-mx" href="https://www.arcserve.com/la/about/eu-us-privacy-shield/">
 <link rel="alternate" hreflang="en-gb" href="https://www.arcserve.com/uk/about/eu-us-privacy-shield/">
 
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-<script data-cfasync="false" type="text/javascript">//<![CDATA[
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
 	var gtm4wp_datalayer_name = "dataLayer";
 	var dataLayer = dataLayer || [];
 //]]>
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
-<!-- This site is optimized with the Yoast SEO plugin v11.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v11.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Arcserve LLC / EU-US Privacy Shield Policy. Arcserve LLC is a trans-national business headquartered in the United States.">
 <link rel="canonical" href="https://www.arcserve.com/about/eu-us-privacy-shield/">
 <meta property="og:locale" content="en_US">
@@ -40,7 +40,9 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="Arcserve LLC / EU-US Privacy Shield Policy. Arcserve LLC is a trans-national business headquartered in the United States.">
 <meta name="twitter:title" content="EU-US Privacy Shield Policy | Arcserve">
-<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.arcserve.com/#organization","name":"","url":"https://www.arcserve.com/","sameAs":[]},{"@type":"WebSite","@id":"https://www.arcserve.com/#website","url":"https://www.arcserve.com/","name":"Arcserve","publisher":{"@id":"https://www.arcserve.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.arcserve.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.arcserve.com/about/eu-us-privacy-shield/#webpage","url":"https://www.arcserve.com/about/eu-us-privacy-shield/","inLanguage":"en-US","name":"EU-US Privacy Shield Policy | Arcserve","isPartOf":{"@id":"https://www.arcserve.com/#website"},"datePublished":"2018-08-23T14:24:38+00:00","dateModified":"2018-10-05T15:42:39+00:00","description":"Arcserve LLC / EU-US Privacy Shield Policy. Arcserve LLC is a trans-national business headquartered in the United States."}]}</script>
+<meta name="twitter:site" content="@arcserve">
+<meta name="twitter:creator" content="@arcserve">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.arcserve.com/#website","url":"https://www.arcserve.com/","name":"Arcserve","potentialAction":{"@type":"SearchAction","target":"https://www.arcserve.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.arcserve.com/about/eu-us-privacy-shield/#webpage","url":"https://www.arcserve.com/about/eu-us-privacy-shield/","inLanguage":"en-US","name":"EU-US Privacy Shield Policy | Arcserve","isPartOf":{"@id":"https://www.arcserve.com/#website"},"datePublished":"2018-08-23T14:24:38+00:00","dateModified":"2018-10-05T15:42:39+00:00","description":"Arcserve LLC / EU-US Privacy Shield Policy. Arcserve LLC is a trans-national business headquartered in the United States."}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
@@ -48,9 +50,9 @@
 <link rel="alternate" type="application/rss+xml" title="Arcserve » Feed" href="https://www.arcserve.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Arcserve » Comments Feed" href="https://www.arcserve.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s28241.pcdn.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://s28241.pcdn.co/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s28241.pcdn.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s28241.pcdn.co/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -65,20 +67,20 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet" id="main-css" href="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/css/main.min.css?ver=5.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="slickcss-css" href="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/vendor/slick/slick.min.css?ver=5.1.1" type="text/css" media="all">
-<script type="text/javascript" src="https://s28241.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+	<link rel="stylesheet" id="arc-main-css" href="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/css/main.min.css?ver=1565034562" type="text/css" media="all">
+<link rel="stylesheet" id="slickcss-css" href="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/vendor/slick/slick.min.css?ver=5.2.2" type="text/css" media="all">
+<script type="text/javascript" src="https://s28241.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
 <script type="text/javascript" src="https://s28241.pcdn.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9.2"></script>
-<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/js/main.js?ver=1"></script>
+<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.10"></script>
+<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/js/main.min.js?ver=1564438993"></script>
 <link rel="https://api.w.org/" href="https://www.arcserve.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.arcserve.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s28241.pcdn.co/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 5.1.1">
+<meta name="generator" content="WordPress 5.2.2">
 <link rel="shortlink" href="https://www.arcserve.com/?p=260">
 <link rel="alternate" type="application/json+oembed" href="https://www.arcserve.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.arcserve.com%2Fabout%2Feu-us-privacy-shield%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.arcserve.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.arcserve.com%2Fabout%2Feu-us-privacy-shield%2F&amp;format=xml">
-<meta name="generator" content="WPML ver:4.2.6 stt:69,1,4,3,27,68,64,2,66,67;">
+<meta name="generator" content="WPML ver:4.2.7.1 stt:69,1,4,3,27,68,64,2,66,67;">
 <script>
 	// opens a new page with event tracking:
 	function cta_click(o_this, link){
@@ -92,8 +94,58 @@ img.emoji {
 
 
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-<script data-cfasync="false" type="text/javascript">//<![CDATA[
-	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"administrator"});//]]>
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"administrator"};
+
+	// if dataLayer contains ecommerce purchase data, check whether it has been already tracked
+	if ( dataLayer_content.transactionId || ( dataLayer_content.ecommerce && dataLayer_content.ecommerce.purchase ) ) {
+		// read order id already tracked from cookies
+		var gtm4wp_orderid_tracked = "";
+		var gtm4wp_cookie = "; " + document.cookie;
+		var gtm4wp_cookie_parts = gtm4wp_cookie.split( "; gtm4wp_orderid_tracked=" );
+		if ( gtm4wp_cookie_parts.length == 2 ) {
+			gtm4wp_orderid_tracked = gtm4wp_cookie_parts.pop().split(";").shift();
+		}
+
+		// check enhanced ecommerce
+		if ( dataLayer_content.ecommerce && dataLayer_content.ecommerce.purchase ) {
+			if ( gtm4wp_orderid_tracked && ( dataLayer_content.ecommerce.purchase.actionField.id == gtm4wp_orderid_tracked ) ) {
+				delete dataLayer_content.ecommerce.purchase;
+			} else {
+				gtm4wp_orderid_tracked = dataLayer_content.ecommerce.purchase.actionField.id;
+			}
+		}
+
+		// check standard ecommerce
+		if ( dataLayer_content.transactionId ) {
+			if ( gtm4wp_orderid_tracked && ( dataLayer_content.transactionId == gtm4wp_orderid_tracked ) ) {
+				delete dataLayer_content.transactionId;
+				delete dataLayer_content.transactionDate;
+				delete dataLayer_content.transactionType;
+				delete dataLayer_content.transactionAffiliation;
+				delete dataLayer_content.transactionTotal;
+				delete dataLayer_content.transactionShipping;
+				delete dataLayer_content.transactionTax;
+				delete dataLayer_content.transactionPaymentType;
+				delete dataLayer_content.transactionCurrency;
+				delete dataLayer_content.transactionShippingMethod;
+				delete dataLayer_content.transactionPromoCode;
+				delete dataLayer_content.transactionProducts;
+			} else {
+				gtm4wp_orderid_tracked = dataLayer_content.transactionId;
+			}
+		}
+
+		if ( gtm4wp_orderid_tracked ) {
+			var gtm4wp_orderid_cookie_expire = new Date();
+			gtm4wp_orderid_cookie_expire.setTime( gtm4wp_orderid_cookie_expire.getTime() + (365*24*60*60*1000) );
+			var gtm4wp_orderid_cookie_expires = "expires="+ gtm4wp_orderid_cookie_expire.toUTCString();
+			document.cookie = "gtm4wp_orderid_cookie_expire=" + gtm4wp_orderid_tracked + ";" + gtm4wp_orderid_cookie_expire + ";path=/";
+		}
+
+	}
+
+	dataLayer.push( dataLayer_content );//]]>
 </script>
 <script data-cfasync="false">//<![CDATA[
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -150,35 +202,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li id="menu-item-267" class="sub-insight menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="https://www.arcserve.com/insights/">Insights</a></li>
 <li id="menu-item-269" class="sub-resource menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://www.arcserve.com/data-protection-resources/">Resources</a></li>
 </ul>      <ul class="nav navbar-nav navbar-brand mx-auto">
-      <li class="nav-item"> <a href="https://www.arcserve.com"> <img class="logo" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/Arcserve_logo_black.png"></a></li>
+      <li class="nav-item"> <a href="https://www.arcserve.com"> <img alt="Arcserve logo" class="logo" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/Arcserve_logo_black.png"></a></li>
       </ul>
       <ul id="menu-header-right" class="navbar-nav header-left"><li id="menu-item-34602" class="sub-login menu-item menu-item-type-custom menu-item-object-custom menu-item-34602"><a href="https://cloud.arcserve.com">Login</a></li>
+<li id="menu-item-94168" class="sub-contactus menu-item menu-item-type-post_type menu-item-object-page menu-item-94168"><a href="https://www.arcserve.com/about/contact/">Contact Us</a></li>
 <li id="menu-item-36225" class="sub-support menu-item menu-item-type-custom menu-item-object-custom menu-item-36225"><a href="#">Support</a></li>
 <li id="menu-item-22323" class="sub-local navIcon local menu-item menu-item-type-custom menu-item-object-custom menu-item-22323"><a href="#">Local</a></li>
 <li id="menu-item-906" class="sub-search navIcon search menu-item menu-item-type-custom menu-item-object-custom menu-item-906"><a href="#">Search</a></li>
 </ul>  </div>
 
 </nav>
-    <div class="dropdown-menu subMenu" data-menu="search">
-      <div class="container">
-      <div class="row">
-        <div class="col">
-            <div id="header-search" class="search">
-              <input id="search-field" type="text" placeholder="KEYWORD">
-              <span class="search-label">Search</span>
-            </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col">
-          <ul id="search-results"></ul>
-        </div>
-      </div>
-      <div class="row">
-        <img class="search-x close-search" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/search/small_x.png">
-      </div>
-      </div>
-    </div><div class="dropdown-menu subMenu" data-menu="solutions">
+<div class="dropdown-menu subMenu" data-menu="search">
+	<div class="container">
+		<div class="row">
+			<div class="col no-margin">
+				<div id="header-search" class="search">
+					<input id="search-field" type="text" placeholder="KEYWORD">
+					<span class="search-label">Search</span>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<ul id="search-results"></ul>
+			</div>
+		</div>
+		<div class="row" style="display: none;">
+			<img class="search-x close-search" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/search/small_x.png">
+		</div>
+	</div>
+</div><div class="dropdown-menu subMenu" data-menu="solutions">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
@@ -194,7 +247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                               <div class="col-lg-4 col-md-12">
             <h4>
-              <a class="" href="https://www.arcserve.com/data-protection-solutions/prevent-data-loss/">
+              <a class="" href="https://www.arcserve.com/data-protection-solutions/data-loss-prevention/">
                 Prevent Data Loss                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
               </a>
             </h4>
@@ -377,7 +430,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-12 aside">
+	      <div class="col-lg-3 col-md-12 aside">
       <h3 class="asideHeader">Current Partners</h3>
       <ul>
                   <li>
@@ -398,7 +451,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              
       </ul>          
     </div>
-  </div>
+	    </div>
 </div>
 </div><div class="dropdown-menu  subMenu" data-menu="insight">
     <div class="container">
@@ -473,21 +526,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3 class="blueHeader">Product</h3>
           <div class="row">
             <div class="col-md-12">
-                              <a class="arrowBlock" href="/resources/?resource_application=appliance">Appliance                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
+                              <a class="arrowBlock" href="/data-protection-resources/?resource_application=appliance">Appliance                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
                 </a>
-                              <a class="arrowBlock" href="/resources/?resource_application=archiving">Archiving                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
+                              <a class="arrowBlock" href="/data-protection-resources/?resource_application=archiving">Archiving                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
                 </a>
-                              <a class="arrowBlock" href="/resources/?resource_application=cloud">Cloud                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
+                              <a class="arrowBlock" href="/data-protection-resources/?resource_application=cloud">Cloud                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
                 </a>
-                              <a class="arrowBlock" href="/resources/?resource_application=cloud-direct">Cloud Direct                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
+                              <a class="arrowBlock" href="/data-protection-resources/?resource_application=cloud-direct">Cloud Direct                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
                 </a>
-                              <a class="arrowBlock" href="/resources/?resource_application=high-availability">High Availability                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
+                              <a class="arrowBlock" href="/data-protection-resources/?resource_application=high-availability">High Availability                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
                 </a>
-                              <a class="arrowBlock" href="/resources/?resource_application=ransomware">Ransomware                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
+                              <a class="arrowBlock" href="/data-protection-resources/?resource_application=ransomware">Ransomware                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
                 </a>
-                              <a class="arrowBlock" href="/resources/?resource_application=tape">Tape                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
+                              <a class="arrowBlock" href="/data-protection-resources/?resource_application=tape">Tape                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
                 </a>
-                              <a class="arrowBlock" href="/resources/?resource_application=udp">UDP                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
+                              <a class="arrowBlock" href="/data-protection-resources/?resource_application=udp">UDP                <img class="arrw" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/button/arrow_yellow.png" alt="">
                 </a>
                            
             </div>
@@ -497,7 +550,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3 class="blueHeader">Resource type</h3>
             <ul>
                               <li>
-                  <a href="/resources/?resource_type=assessment-tools">
+                  <a href="/data-protection-resources/?resource_type=assessment-tools">
                     <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Assessment_Tools.png" alt="">
                     Assessment Tools                  </a>
                 </li>
@@ -507,37 +560,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     Blog                  </a>
                 </li>
                               <li>
-                  <a href="/resources/?resource_type=brochures">
+                  <a href="/data-protection-resources/?resource_type=brochures">
                     <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Brochure.png" alt="">
                     Brochure                  </a>
                 </li>
                               <li>
-                  <a href="/resources/?resource_type=case-studies">
+                  <a href="/data-protection-resources/?resource_type=case-studies">
                     <img src="https://s28241.pcdn.co/wp-content/uploads/2018/10/Case_Study-navigation.png" alt="">
                     Case Studies                  </a>
                 </li>
                               <li>
-                  <a href="/resources/?resource_type=ebooks">
+                  <a href="/data-protection-resources/?resource_type=ebooks">
                     <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/eBook.png" alt="">
                     eBook                  </a>
                 </li>
                               <li>
-                  <a href="/resources/?resource_type=infographics">
+                  <a href="/data-protection-resources/?resource_type=infographics">
                     <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/infographic.png" alt="">
                     Infographics                  </a>
                 </li>
                               <li>
-                  <a href="/resources/?resource_type=videos">
+                  <a href="/data-protection-resources/?resource_type=videos">
                     <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Video.png" alt="">
                     Videos                  </a>
                 </li>
                               <li>
-                  <a href="/resources/?resource_type=webinars">
+                  <a href="/data-protection-resources/?resource_type=webinars">
                     <img src="https://s28241.pcdn.co/wp-content/uploads/2018/10/Webinar.png" alt="">
                     Webinars                  </a>
                 </li>
                               <li>
-                  <a href="/resources/?resource_type=white-papers">
+                  <a href="/data-protection-resources/?resource_type=white-papers">
                     <img src="https://s28241.pcdn.co/wp-content/uploads/2019/02/White_Paper.png" alt="">
                     White Papers                  </a>
                 </li>
@@ -549,57 +602,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>  
   </div>
 </div><div class="dropdown-menu subMenu " data-menu="support">
-  <div class="container">
-      <div class="row">
-          <div class="col-sm-12">
-          <h5>
-          <a href="#">Support <img src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets//images/pages/careers/Arrow_Yellow.png" alt=""></a> 
-        </h5>
-          </div>
-        </div>
-      <div class="row row-eq-height">
-                <div class="col-lg-3 col-md-12 aside">
-          <h3>Need help? </h3>
-          <p>We’re here to assist you. </p>  
-                    <a href="https://support.arcserve.com" class="supLink">
-            <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Pointer.png" alt="">
-            Access online product support          </a>
-            
-     
-        </div>
-                <div class="col-lg-3 col-md-12 aside">
-          <h3>Call</h3>
-          <p>Would you prefer to speak to a living, breathing person? 
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h5><a href="#">Support<img src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets//images/pages/careers/Arrow_Yellow.png" alt=""></a></h5>
+			</div>
+		</div>
+		<div class="row row-eq-height">
+						<div class="col-md-12 aside col-lg-4 offset-lg-4">
+				<h3>Need help?</h3>
+				<div class="description">
+					We’re here to assist you. 				</div>
+									<a href="https://support.arcserve.com" class="supLink">
+						<img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Pointer.png" alt="">
+						Access online product support					</a>
+							</div>
+					</div>
+	</div>
+
+</div><div class="dropdown-menu subMenu " data-menu="contactus">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h5><a href="#">Contact Us<img src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/pages/careers/Arrow_Yellow.png" alt=""></a></h5>
+			</div>
+		</div>
+		<div class="row row-eq-height">
+						<div class="col-md-12 aside col-lg-4">
+				<h3>Call</h3>
+				<div class="description">
+					Would you prefer to speak to a living, breathing person? 
 Give us a call.
-</p>  
-                      <h4>+1-844-639-6792</h4>
-                    <a href="/about/contact/call-me/" class="supLink">
-            <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Phone.png" alt="">
-            Request a call instead          </a>
-            
-     
-        </div>
-                <div class="col-lg-3 col-md-12 aside">
-          <h3>Chat</h3>
-          <p>Let’s get your questions answered right now. </p>  
-                    <a href="javascript:LC_API.open_chat_window();" class="supLink">
-            <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Chat.png" alt="">
-            Launch a sales chat          </a>
-            
-     
-        </div>
-                <div class="col-lg-3 col-md-12 aside">
-          <h3>Email</h3>
-          <p>Whether it’s a simple question or some ideas to share, we’d love to hear from you.</p>  
-                    <a href="mailto:info@arcserve.com" class="supLink">
-            <img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Email.png" alt="">
-            Drop us a line          </a>
-            
-     
-        </div>
-            
-      </div>    
-  </div>
+
+<h4>+1-844-639-6792</h4>				</div>
+								<a href="https://www.arcserve.com/about/contact/call-me/" class="supLink">
+					<img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Phone.png" alt="">
+					Request a call instead				</a>
+							</div>
+						<div class="col-md-12 aside col-lg-4">
+				<h3>Chat</h3>
+				<div class="description">
+					Let’s get your questions answered right now. 				</div>
+								<a href="javascript:LC_API.open_chat_window();" class="supLink">
+					<img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Chat.png" alt="">
+					Launch a sales chat				</a>
+							</div>
+						<div class="col-md-12 aside col-lg-4">
+				<h3>Email</h3>
+				<div class="description">
+					Whether it’s a simple question or some ideas to share, we’d love to hear from you.				</div>
+								<a href="mailto:info@arcserve.com" class="supLink">
+					<img src="https://s28241.pcdn.co/wp-content/uploads/2018/09/Email.png" alt="">
+					Drop us a line				</a>
+							</div>
+					</div>
+	</div>
 
 </div><div class="dropdown-menu subMenu" data-menu="local">
     <div class="container">
@@ -615,6 +672,7 @@ Give us a call.
       <h3 class="asideHeader">North America</h3>
       <div class="row">
                   <a class="arrowBlock" href="/">English</a>
+                  <a class="arrowBlock" href="/fr/">French</a>
               </div>
     </div>
         <div class="col-lg-2 col-sm-12 aside">
@@ -657,14 +715,14 @@ Give us a call.
       <div class="menuExpand">
         <img class="" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/nav/burger_menu.png" alt="">
       </div>
-      <a href="https://www.arcserve.com"> <img class="logo" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/Arcserve_logo_black.png"></a>
+      <a href="https://www.arcserve.com"> <img alt="Arcserve logo" class="logo" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/Arcserve_logo_black.png"></a>
       <div class="searchMenuIcon">
           <img class="" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/nav/search.png" alt="">             
       </div>    
     </div>
     <div class="inMainMenu">
       &nbsp;
-      <a href="https://www.arcserve.com"> <img class="logo" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/nav/Arcserve_logo_white.png"></a>
+      <a href="https://www.arcserve.com"> <img alt="Arcserve logo" class="logo" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/nav/Arcserve_logo_white.png"></a>
       <div class="closeMenu">
         <img class="" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/images/ui/nav/close.png" alt="">
       </div>
@@ -687,6 +745,7 @@ Give us a call.
 <li class="sub-insight menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="https://www.arcserve.com/insights/">Insights</a></li>
 <li class="sub-resource menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://www.arcserve.com/data-protection-resources/">Resources</a></li>
 </ul>      <ul id="menu-header-right-1" class="mobile mobile-right"><li class="sub-login menu-item menu-item-type-custom menu-item-object-custom menu-item-34602"><a href="https://cloud.arcserve.com">Login</a></li>
+<li class="sub-contactus menu-item menu-item-type-post_type menu-item-object-page menu-item-94168"><a href="https://www.arcserve.com/about/contact/">Contact Us</a></li>
 <li class="sub-support menu-item menu-item-type-custom menu-item-object-custom menu-item-36225"><a href="#">Support</a></li>
 <li class="sub-local navIcon local menu-item menu-item-type-custom menu-item-object-custom menu-item-22323"><a href="#">Local</a></li>
 <li class="sub-search navIcon search menu-item menu-item-type-custom menu-item-object-custom menu-item-906"><a href="#">Search</a></li>
@@ -796,7 +855,7 @@ Give us a call.
 	<li id="menu-item-23762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23762"><a href="https://www.arcserve.com/about/leadership/">Leadership</a></li>
 	<li id="menu-item-23763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23763"><a href="https://www.arcserve.com/about/our-story/">Our Story</a></li>
 	<li id="menu-item-23770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23770"><a href="https://www.arcserve.com/about/awards/">Awards</a></li>
-	<li id="menu-item-35078" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35078"><a href="/press-releases">Press Releases</a></li>
+	<li id="menu-item-94697" class="menu-item menu-item-type-post_type_archive menu-item-object-press-releases menu-item-94697"><a href="https://www.arcserve.com/press-releases/">Press Releases</a></li>
 	<li id="menu-item-91314" class="menu-item menu-item-type-post_type_archive menu-item-object-in-the-news menu-item-91314"><a href="https://www.arcserve.com/in-the-news/">In the News</a></li>
 </ul>
 </li>
@@ -845,30 +904,27 @@ Give us a call.
 
 
 </div>
-<div class="live-chat">
- 
-    <div class="chatImage"></div>
+<div class="live-chat" onclick="LC_API.open_chat_window();return false;">
+     <div class="chatImage"></div>
     <p>Live Chat</p>
 </div>
 <div class="free-trial">
   <a href="https://www.arcserve.com/free-trial-selection/">
-    <!-- <p>Free<br class='d-none d-sm-block'/> Trial</p> -->
     <p>Free Trial</p>
-    
   </a>
 </div>
-      <div class="modalOverlay"></div>
-    <div class="interceptBody">
-      <div class="close"></div>
-      <div class="copy">
-        <h4 class="ppc-marquee__main-heading">Get your data backed up with an Arcserve 30-day free trial</h4>
+	<div class="modalOverlay"></div>
+	<div class="interceptBody">
+		<div class="close"></div>
+		<div class="copy">
+			<h4 class="ppc-marquee__main-heading">Get your data backed up with an Arcserve 30-day free trial</h4>
 <p>Experience complete protection for critical business data with image-based, heterogeneous backup, replication, high availability and global deduplication. Back up and recover to and from any target, and manage all processes with one unified console.</p>
-        <a href="https://www.arcserve.com/free-backup-software-trial/" class="mobileLink button primary">Get your free trial</a>
-      </div>
-      <div class="formContain">
-        <h5>Get your free trial</h5><iframe class="interceptPopup" src="https://learn.arcserve.com/l/466321/2018-10-01/wddg2" frameborder="0" allowtransparency="true"></iframe>      </div>
-          </div>
-    
+			<a href="https://www.arcserve.com/free-backup-software-trial/" class="mobileLink button primary">Get your free trial</a>
+		</div>
+		<div class="formContain">
+			<h5>Get your free trial</h5><iframe class="interceptPopup" src="https://learn.arcserve.com/l/466321/2018-10-01/wddg2" frameborder="0" allowtransparency="true"></iframe>		</div>
+			</div>
+  
 
 
 <script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/vendor/slick/slick.min.js"></script>
@@ -876,10 +932,10 @@ Give us a call.
 <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/assets/js/vendor/modal-video.min.js"></script>
 <script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/vendor/rellax-master/rellax.min.js"></script>
-<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/js/modules/search.js"></script>
-<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/js/modules/socialbuttons.js"></script>
-<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/js/modules/lazyload.js"></script>
-<script type="text/javascript" src="https://s28241.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/js/modules/search.min.js"></script>
+<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/js/modules/socialbuttons.min.js"></script>
+<script type="text/javascript" src="https://s28241.pcdn.co/wp-content/themes/Arcserve/deploy/js/modules/lazyload.min.js"></script>
+<script type="text/javascript" src="https://s28241.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.2/iframeResizer.min.js"></script>
     <script>
       jQuery(function($){
@@ -927,6 +983,6 @@ Give us a call.
       })
 
     </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"34d0d479a4","applicationID":"200193502","transactionName":"MlFQNxMCV0tZBUYKCgsbcwAVClZWFxJXDhUJVUYGTBNYX11LUBYMCVBXEQ==","queueTime":0,"applicationTime":806,"atts":"HhZTQVsYREU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"34d0d479a4","applicationID":"200193502","transactionName":"MlFQNxMCV0tZBUYKCgsbcwAVClZWFxJXDhUJVUYGTBNYX11LUBYMCVBXEQ==","queueTime":0,"applicationTime":327,"atts":"HhZTQVsYREU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
