@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9jaflaver.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613031253id_/http%3A//9jaflaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9jaflaver.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811055426id_/https%3A//9jaflaver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 9jaflaver
 
