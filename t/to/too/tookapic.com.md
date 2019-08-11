@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the tookapic.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920005444id_/https%3A//tookapic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tookapic.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811104923id_/https%3A//tookapic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tookapic
 
-We analyze the anonymised information of our users to better match our offer and website content to your needs. This site also **uses cookies** to, for example, analyze traffic on the site. You can specify the conditions for storage or access of cookies in your browser. [Learn more](https://web.archive.org/privacy). 
+The privacy policy of Tookapic regarding your personal data could be limited into only one sentence - the security of your data above all! Below we will present you with a some essential information and principles regarding GDPR. We want the use of our Website to be not only user friendly, but also safe. That is why we set high standards for ourselves in terms of data privacy. 
 
-If you have any questions, let us know at [hello@tookapic.com](mailto:hello@tookapic.com). We are here for you. 
+If you have any questions, let us know at hello@tookapic.com. We are here for you. 
 
-###  Who we are? 
+##  Who we are? 
 
 It's easy. The Tookapic website is all about the authentic photos taken by people for whom photography is more than a passion. Our motto is "Capture your life in pictures. Day by day." You can take pictures for yourself or for your loved ones. Tookapic helps you to take your photography into a different level. However, to do this, we need some of your personal information about you that we will be the controller. 
 
-###  How do we process your data? 
+##  How do we process your data? 
 
 By registering an account you provide us with a login and email address. These are the data necessary for us to provide our service. We must know to whom we provide it and have the opportunity to contact our users. We also process your data regarding the IP number, data stored in the cookie and in local storage. 
 
-###  Legal basis for data processing 
+##  Legal basis for data processing 
 
 The main basis for the processing of your personal data is a contract that you conclude with us by registering an account on our website. As we wrote above, if you do not provide your details, there will be no registration and as a result you cannot start your photo journey with Tookapic. A key element of the contract is also sending specific system notifications, such as a pop-up, which allows you to contact via chat or email about changing the terms of the Regulations or the Privacy Policy. 
 
-In addition to notifications, you will receive from time to time promotional newsletters from us and our partners. In this respect, the basis for processing is our legitimate interest - we must be able to contact our clients and perform work that will make our service even better. We will not do this if you oppose to it by using GDPR compliant panel <https://tookapic.com/account/notifications> or by contacting [hello@tookapic.com](mailto:hello@tookapic.com) by email. We respect it. 
+In addition to notifications, you will receive from time to time promotional newsletters from us and our partners. In this respect, the basis for processing is our legitimate interest - we must be able to contact our clients and perform work that will make our service even better. We will not do this if you oppose to it by using GDPR compliant panel https://tookapic.com/settings/preferences or by contacting hello@tookapic.com by email. We respect it. 
 
 If you have agreed, we will process your personal data also in order to send information about our activities. We are constantly improving our website, that's why we want to keep you updated. Giving a consent for receiving some commercial materials is voluntary - you can withdraw at any time and not suffer any consequences. 
 
-###  How we use your data? 
+##  How we use your data? 
 
 Your data is necessary for us to provide our service. You already know that. Therefore, we process data that allows us to keep in touch with you. Of course, we are not self-sufficient and we need to share your data with our partners, thanks to which we can provide you with the functionality of our website. 
 
@@ -30,15 +30,15 @@ If you use our service or you are simply visiting our site, your activity will b
 
 Please bear in mind that we collect the data stored in the cookie_id to match the content to your needs. When writing about "content" we mean what we and our Users publish on our website. When writing about "matching" we mean making content more interesting to you. The data stored in the cookie allows us to analyze your behavior. Their collection is based on your consent, which you expressed by pressing the "Ok, I want to go to the website" button or simply by closing the pop-up. This automatic processing of personal data is profiling, but on its basis we do not take any binding decisions that could affect your rights in any way. You just get a better designed website. 
 
-###  With whom we share your data? 
+##  With whom we share your data? 
 
 So far, we are not able to provide all the services we need just by ourselves (but we try very hard!). That is why we use the services of external suppliers and processors. We share your data to the following categories of entities: 
 
-  1. communication systems that allow us to contact you 
-  2. hosting companies. 
-  3. accounting firm. 
-  4. payment processing company 
-  5. Analyzing tools 
+  * communication systems that allow us to contact you 
+  * hosting companies. 
+  * accounting firm. 
+  * payment processing company 
+  * Analyzing touls 
 
 
 
@@ -49,20 +49,19 @@ Name  |  Service
 Paddle  |  Payment processing   
 PayPal  |  Payment processing   
 Amazon Web Services  |  Hosting   
+DigitalOcean  |  Hosting   
 Facebook  |  Social sign-up & sign-in  
 Analyzing website traffic and user behavior   
 Twitter  |  Social sign-up & sign-in  
 Analyzing website traffic and user behavior   
 Google+  |  Social sign-up & sign-in   
 Google Analytics  |  Analyzing website traffic and user behavior   
-Amplitude  |  Analyzing website traffic and user behavior   
-HotJar  |  Heatmaps   
 Google Optimize  |  A/B Tests   
 Help Scout  |  Help Desk   
   
 Remember that we are obliged to cooperate with law enforcement and courts. If we are told to transfer your data, then we will have to do it. 
 
-###  Your rights 
+##  Your rights 
 
 Remember that: 
 
@@ -75,7 +74,7 @@ Remember that:
 
 
 
-###  How long we keep retaining your data? 
+##  How long we keep retaining your data? 
 
 As long as you use our services, we store and process your data. After removing your account from the site, we process your data by storing it for a period corresponding to the period of limitation of claims. We do it in order to secure your rights. 
 
@@ -83,11 +82,11 @@ As long as you use our services, we store and process your data. After removing 
 
 We are constantly changing for the better, so it may happen that we update our privacy policy in order to find better ways to protect your data. We will let you know once we prepare it. 
 
-###  Contact 
+##  Contact 
 
-If you have any questions, please contact us at [hello@tookapic.com](mailto:hello@tookapic.com). We’d love to help you! 
+If you have any questions, please contact us at hello@tookapic.com. We’d love to help you! 
 
-###  Cookies 
+##  Cookies 
 
 To make our service even better, we need to collect not only personal data but also other information about you. Cookies provide statistical data about users' traffic and their use of particular websites. You can disable the option of accepting cookies in your browser at any time, which may, however, cause difficulties in using the Website. 
 
@@ -95,34 +94,34 @@ Cookies do not serve us to collect personalized information about you and this i
 
 Using the full functionality of the Website may requires placing so-called "Third Party Cookies". 
 
-###  How to disable cookies? 
+##  How to disable cookies? 
 
 Cookies are saved in your browser's cache. It means that you decide yourself whether website publishers will know what parts of the website you use. Cookies allow the publisher to display to you content that may be more attractive to you based on your previous behavior. To view the customized content that the user who visits the site for the first time will see the cookie information in your browser (Firefox, Internet Explorer, Chrome and others) in your user account of the computer or telephone. The information collected using cookies may also be used to collect information for commercial purposes and may be used by publishers of advertising systems, e.g. Adchoice belonging to Google, to adjust the displayed advertising. 
 
-###  Instructions on disabling cookies in specific browsers: 
+##  Instructions on disabling cookies in specific browsers: 
 
 At any time, you can disable cookies for a specific website or in general for all connections from your browser. 
 
-####  Mozilla Firefox 
+###  Mozilla Firefox 
 
 In the "Tools" menu, select "Options" in their "Privacy" tab. The browser gives you the opportunity to reuse it. 
 
-####  Microsoft Internet Explorer 
+###  Microsoft Internet Explorer 
 
 In the "Tools" menu, select "Internet Options" and in their "Privacy" tab. Special slider to regulate the total number of pages. 
 
-####  Google Chrome 
+###  Google Chrome 
 
 In the hidden menu select "Tools" and then "Clear user data ...". In addition to the possibility of using cookies. 
 
-####  Opera 
+###  Opera 
 
 With the "Opera" button in the corner menu and the "select" menu and then "Clear event history ...". In addition to the ability to delete already set cookies, there is also a button "Manage cookies ...". 
 
-####  Safari 
+###  Safari 
 
 In the "Safari" menu, select "Preferences" and the "Privacy" tab in them. They contain information about cookies in files. 
 
-####  On mobile phones, tablets and other mobile devices 
+###  On mobile phones, tablets and other mobile devices 
 
 Each model can be operated in a different way. Therefore, we encourage you to familiarize yourself with the offer. 
