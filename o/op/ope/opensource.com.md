@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614230204id_/https%3A//opensource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811215253id_/https%3A//opensource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Opensource.com
 
