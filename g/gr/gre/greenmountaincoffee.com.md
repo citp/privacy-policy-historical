@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401025019id_/http%3A//www.keurig.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811233219id_/http%3A//www.keurig.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,14 @@ Last Updated: February 2019
 
 This Privacy Policy applies to the information Keurig Green Mountain, Inc., its parent, Keurig Dr. Pepper, Inc., or its affiliates* (referred to in this policy as “we”, “us” or “our”) collect on Keurig.com, Keurig.ca, kgm.com, timothys.ca, vanhoutte.com, baristaprima.ca and any other websites, including mobile sites, that are owned and operated by us, that display this Privacy Policy. 
 
-This Privacy Policy describes: 
+This Privacy Policy describes:  
 
-•  What information we collect   
-•  How we use and share your information   
-•  The choices you can make about how we collect, use and share your information
+
+  * What information we collect
+  * How we use and share your information
+  * The choices you can make about how we collect, use and share your information
+
+
 
 This Privacy Policy **does not apply** to Keurig sites that do not display or link to this Privacy Policy, but have their own Privacy Policy or third party sites that you may link to from one of our sites.
 
@@ -24,8 +27,10 @@ _We also collect information about you from other companies, such as demographic
 
 We collect information about you and your use of our sites in different ways: 
 
-• Some information you provide directly to us, such as when you register your brewer or provide account information.   
-• Other information we collect about you through Cookies and Other Similar Technologies to help us operate our sites effectively and provide you the best products, services and site experiences that we can. • We also collect information about you from other companies (for example by purchasing demographic data about you or through social media sites such as Facebook and Twitter). • When you access our sites through any means, including a mobile device or smartphone, we may collect information about you, including your geographic location.
+    * Some information you provide directly to us, such as when you register your brewer or provide account information.
+    * Other information we collect about you through Cookies and Other Similar Technologies to help us operate our sites effectively and provide you the best products, services and site experiences that we can.
+    * We also collect information about you from other companies (for example by purchasing demographic data about you or through social media sites such as Facebook and Twitter).
+    * When you access our sites through any means, including a mobile device or smartphone, we may collect information about you, including your geographic location.
 
 **Personal and Non-Personal Information**
 
@@ -41,9 +46,20 @@ You can always choose not to provide some or all of this information, though som
 
 _How we collect this information:_ You provide us information when you do things like:
 
-   • place an order    • create an account    • register your brewer    • give reviews on our products and our sites    • communicate with Customer Care    • participate in an online forum or community    • apply for a job    • contact our investor site    • participate in promotions, surveys, or contests    • use other functions or services available on our sites such as “sharing” content or our refer-a-friend program    • access our site through any means, including your mobile device or smartphone    • shop in our retail store
+    * place an order
+    * create an account
+    * register your brewer
+    * give reviews on our products and our sites
+    * communicate with Customer Care
+    * participate in an online forum or community
+    * apply for a job
+    * contact our investor site
+    * participate in promotions, surveys, or contests
+    * use other functions or services available on our sites such as “sharing” content or our refer-a-friend program
+    * access our site through any means, including your mobile device or smartphone
+    * shop in our retail store
 
-**Information We Automatically Collect from Your Use of Our Sites:**   
+**Information We Automatically Collect from Your Use of Our Sites:**  
 We use technologies like cookies, web beacons and other similar technologies to automatically collect information about you when you visit our sites and through advertising that may appear on our sites and other companies’ sites. Cookies collect all sorts of information, such as device-specific information including capabilities, your unique device identifier (if you are accessing our sites through a mobile device or smartphone), your IP address, your browser type, time zone and language settings and operating system. Cookies also collect clickstream information like how long you spend on our sites, what pages you view, any search queries and what other sites you visited before and after coming to our sites.
 
 Please read our section on Cookies and Other Similar Technologies to learn more about what information is collected, and how it is used and shared.
@@ -54,7 +70,8 @@ If you use social media platforms like Facebook, depending on your privacy setti
 
 _How we collect this information:_ We collect this information by doing things like:
 
-   • purchasing or renting demographic information about you from other companies    • collecting publicly available information about you and information that you make available from social media sites
+    * purchasing or renting demographic information about you from other companies
+    * collecting publicly available information about you and information that you make available from social media sites
 
   * **How We Use and Share Your Information**
 
@@ -62,7 +79,10 @@ _We use and share your information for many purposes, such as personalizing your
 
 We use and share your information for many purposes, such as:
 
-   • personalizing your experience on our sites    • improving our sites    • providing our products and services    • and communicating with you about promotions or products and services that we think you may be interested in
+    * personalizing your experience on our sites
+    * improving our sites
+    * providing our products and services
+    * and communicating with you about promotions or products and services that we think you may be interested in
 
 We also use and share your information to perform market research and studies so that we can continue to advertise and market to you in a meaningful manner and to develop new products and services that may be of interest to you.
 
@@ -70,7 +90,20 @@ We partner with other companies who collect and process some of the information 
 
 We, our affiliates, and our Third Party Partners use your information to do things such as:
 
-   • fulfill your orders and other requests in connection with the operation of our sites    • provide you Consumer Care and service your account    • create and maintain your consumer profile, correcting and updating your information    • combine information we collect about you with information you provide    • display or send you information and advertisements that we believe match your interests and profile    • facilitate updates to our sites, improve the working of our sites, and compile statistics about our users and your use of our sites    • better personalize your experience on our sites    • administer surveys, contests, and promotions    • process payment information    • administer our email communications    • organize, administer, process, or provide advertising services    • analyze data on our behalf to help us provide more relevant offers and advertising to you and to eliminate the delivery of duplicate offers    • administer our promotions, surveys or contests    • manage our referral and loyalty programs
+    * fulfill your orders and other requests in connection with the operation of our sites
+    * provide you Consumer Care and service your account
+    * create and maintain your consumer profile, correcting and updating your information
+    * combine information we collect about you with information you provide
+    * display or send you information and advertisements that we believe match your interests and profile
+    * facilitate updates to our sites, improve the working of our sites, and compile statistics about our users and your use of our sites
+    * better personalize your experience on our sites
+    * administer surveys, contests, and promotions
+    * process payment information
+    * administer our email communications
+    * organize, administer, process, or provide advertising services
+    * analyze data on our behalf to help us provide more relevant offers and advertising to you and to eliminate the delivery of duplicate offers
+    * administer our promotions, surveys or contests
+    * manage our referral and loyalty programs
 
 We also use cookies and other similar technologies to gather aggregated statistics (meaning they do not identify you personally) to help us understand our sites’ performance effectiveness including the effectiveness of any advertising and promotions we may be running. Read our section on Cookies and Other Similar Technologies to learn more about we use these technologies.
 
@@ -94,39 +127,48 @@ _In addition we, may share the information we collect from these technologies, s
 
 We use various internet technologies to:
 
-   • collect and share information about you and your use of our sites    • distinguish you from other users of our sites    • administering and facilitating your access to and use of our sites    • understanding your behavior on our sites and analyzing usage behavior    • measuring the effectiveness of advertisements    • target advertising to you
+    * collect and share information about you and your use of our sites
+    * distinguish you from other users of our sites
+    * administering and facilitating your access to and use of our sites
+    * understanding your behavior on our sites and analyzing usage behavior
+    * measuring the effectiveness of advertisements
+    * target advertising to you
 
 In addition, we may share the information we collect from these technologies, such as demographic data, IP address, aggregate usage statistics for our sites, with advertisers and other third parties.
 
 Some cookies (or other similar technologies as described below) are set by us when you visit our sites and others may be set by third parties both on our sites and on third party sites. This is because we have contracted with that third party to provide these services to you on our behalf (such as analytics) or because the non-Keurig sites you are visiting contain content or ads from third parties delivered by ad networks. When your browser connects to those third party links (and therefore third party cookies), they may be collecting information about you and your online activities that is not governed by this privacy policy. See our section on Links to Third Party Sites for more information.
 
-**_Cookies_**   
+**_Cookies_**  
 TA cookie is a small browser specific file of letters and numbers that is sent to your browser and stored on the hard drive of your computer (or internet enabled device) when you visit our sites. We use the following cookies on our website:
 
-**Strictly necessary cookies** \- These cookies are essential in order to enable you to move around our sites and use its features, such as remembering what products you placed in your cart. Without these cookies, services you have asked for cannot be provided. 
+**Strictly necessary cookies** \- These cookies are essential in order to enable you to move around our sites and use its features, such as remembering what products you placed in your cart. Without these cookies, services you have asked for cannot be provided.
 
-**Analytical or Performance cookies** \- These cookies collect information in an anonymous form about how our site is used. They allow us to do such things as recognize recent activity and content consumed, count the number of visitors to our sites and see how our sites are navigated. 
+ **Analytical or Performance cookies** \- These cookies collect information in an anonymous form about how our site is used. They allow us to do such things as recognize recent activity and content consumed, count the number of visitors to our sites and see how our sites are navigated.
 
-**Functionality cookies** \- These are used to recognize you when you return to our sites. This enables us to do such things as personalize our content for you and remember your preferences and settings. 
+ **Functionality cookies** \- These are used to recognize you when you return to our sites. This enables us to do such things as personalize our content for you and remember your preferences and settings.
 
 We use cookies for many reasons, including:
 
-•   **Analytics** to help us manage and operate our sites and improve their functioning by analyzing how users interact with our sites. •   **Remembering** you so we can personalize your experience on our sites, including storing your preferences and settings, such as what language your browser is set to our sites or from what country your computer is visiting our sites. •   **Targeted advertising** to do things like promote products and services that we believe may be of interest to you and ensuring that you don’t see the same advertisement repeatedly. Because we have advertisements on our own sites as well as sites of third parties, we are able to gather information over time about the types of pages, content and ads that you, or others who are using your computer, have visited or viewed. We do this to help us select and display targeted advertisements and promotions that we believe may be of interest to you. •   **Account Sign-In** so you can move around our sites without having to re-enter your account information. •   **Combining** information about you that we collect from cookies (and other similar technologies) with your consumer profile.
+    * **Analytics** to help us manage and operate our sites and improve their functioning by analyzing how users interact with our sites.
+    * **Remembering** you so we can personalize your experience on our sites, including storing your preferences and settings, such as what language your browser is set to our sites or from what country your computer is visiting our sites.
+    * **Targeted advertising** to do things like promote products and services that we believe may be of interest to you and ensuring that you don’t see the same advertisement repeatedly. Because we have advertisements on our own sites as well as sites of third parties, we are able to gather information over time about the types of pages, content and ads that you, or others who are using your computer, have visited or viewed. We do this to help us select and display targeted advertisements and promotions that we believe may be of interest to you.
+    * **Account Sign-In** so you can move around our sites without having to re-enter your account information.
+    * **Combining** information about you that we collect from cookies (and other similar technologies) with your consumer profile.
 
-**_How to Manage Cookies:_**   
-_Browser Settings_ : You may choose to refuse cookies by changing your browser’s settings. However, our sites need certain cookies to perform certain functions, including the online purchase of products. As a result, not all parts of our sites will function properly if you turn off cookies in your browser.
+**_How to Manage Cookies:_**  
+ _Browser Settings_ : You may choose to refuse cookies by changing your browser’s settings. However, our sites need certain cookies to perform certain functions, including the online purchase of products. As a result, not all parts of our sites will function properly if you turn off cookies in your browser.
 
 _Opt Out Controls for Advertising:_ We understand that not everyone wants to receive behaviorally targeted advertising. Here are a few sites you can visit to learn how to opt out from receiving this kind of advertising: (Note that opting out does not mean you will stop seeing ads, it just means those ads won’t be behaviorally targeted and while we will still collect information about you, we cannot use that information for the purpose of behaviorally targeted advertising.)
 
-Digital Advertising Alliance: <https://www.aboutads.info/choices/>   
+Digital Advertising Alliance: <https://www.aboutads.info/choices/>  
 Network Advertising Initiative: <https://www.networkadvertising.org/managing/opt_out.asp>
 
 You can learn more about cookies, by going to <https://www.allaboutcookies.org/cookies>
 
-**_Other Similar Technologies_**   
-•  Web Beacons: Web beacons, also known as clear GIFs or pixel tags, are transparent image files embedded in our sites, advertisements, or emails and are used to deliver cookies. Web beacons collect generic information about your navigation through a single site or a series of sites to help us compile statistics about the effectiveness of our sites and promotional campaigns. They can also let us know things such as whether or not you opened or acted upon an email or newsletter or other advertisement we sent you.
+**_Other Similar Technologies_**
 
-•  Local Shared Objects: Local shared objects, also known as “Flash cookies,” are data files placed on your computer when you visit a site. Local shared objects are similar to cookies and track your online activity.
+    * Web Beacons: Web beacons, also known as clear GIFs or pixel tags, are transparent image files embedded in our sites, advertisements, or emails and are used to deliver cookies. Web beacons collect generic information about your navigation through a single site or a series of sites to help us compile statistics about the effectiveness of our sites and promotional campaigns. They can also let us know things such as whether or not you opened or acted upon an email or newsletter or other advertisement we sent you.
+    * Local Shared Objects: Local shared objects, also known as “Flash cookies,” are data files placed on your computer when you visit a site. Local shared objects are similar to cookies and track your online activity.
 
   * **Online Tracking**
 
@@ -180,24 +222,24 @@ If we make material changes to the way we use personal information, before they 
 
   * **Questions? How to Reach Us**
 
-To contact Consumer Care, please use the following: 
+To contact Consumer Care, please use the following:
 
-**Email:** [csrah@keurig.com](mailto:csrah@keurig.com)
+ **Email:** [csrah@keurig.com](mailto:csrah@keurig.com)
 
-Phone   
-Call us toll free at:   
+Phone  
+Call us toll free at:  
 Greenmountaincoffee.com: **866-901-BREW (2739)** or in Canada at **800-361-5628**
 
 Mailing Address: 
 
-**For the US:**   
-Keurig Green Mountain, Inc.   
-33 Coffee Lane   
-Waterbury, VT 05676 
+**For the US:**  
+Keurig Green Mountain, Inc.  
+33 Coffee Lane  
+Waterbury, VT 05676
 
-**For Canada:**   
-Keurig Canada Inc.   
-3700, Jean-Rivard   
+ **For Canada:**  
+Keurig Canada Inc.  
+3700, Jean-Rivard  
 Montreal, Quebec H1Z 4K3 CANADA
 
 If you have questions about our **_privacy practices_** contact us [privacy@keurig.com](mailto:privacy@keurig.com) or at the phone numbers or addresses above.
