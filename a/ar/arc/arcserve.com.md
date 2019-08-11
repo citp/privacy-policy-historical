@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517122711id_/https%3A//www.arcserve.com/about/eu-us-privacy-shield) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811023954id_/https%3A//www.arcserve.com/about/eu-us-privacy-shield) for the most accurate reproduction.*
 
 # EU-US Privacy Shield Policy | Arcserve
 
