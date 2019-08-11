@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviso.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420225307id_/https%3A//www.reviso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviso.com privacy policy that was archived on 2019-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190811064224id_/https%3A//www.reviso.com/privacy-policy) for the most accurate reproduction.*
 
 # Reviso.com - Privacy Policy
 
