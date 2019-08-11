@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpopstarz.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220748id_/https%3A//www.kpopstarz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpopstarz.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812012333id_/https%3A//www.kpopstarz.com/privacypolicy) for the most accurate reproduction.*
 
 # KpopStarz
 
