@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrosupply.co privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331074447id_/https%3A//www.retrosupply.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrosupply.co privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813004613id_/https%3A//www.retrosupply.co/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RetroSupply Co.
 
