@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611222948id_/https%3A//www.goldenskate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812025306id_/https%3A//www.goldenskate.com/privacy) for the most accurate reproduction.*
 
 # Golden Skate Privacy Policy
 
