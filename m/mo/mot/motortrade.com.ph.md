@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motortrade.com.ph privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627074324id_/http%3A//motortrade.com.ph/privacy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motortrade.com.ph privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812224038id_/http%3A//motortrade.com.ph/privacy-page) for the most accurate reproduction.*
 
 # Privacy Page - Motortrade
 
