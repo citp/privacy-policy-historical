@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the list25.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430032312id_/https%3A//list25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list25.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812124008id_/https%3A//list25.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,6 +41,13 @@ If List 25, or substantially all of its assets were acquired, or in the unlikely
 **Ads**
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by List 25 and does not cover the use of cookies by any advertisers.
+
+Not Always Right participates in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. For more information please visit [http://www.aboutads.info](http://www.aboutads.info/).
+
+We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>. We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>.
+
+How to opt out  
+<http://optout.networkadvertising.org/#!/>
 
 **Comments**
 
