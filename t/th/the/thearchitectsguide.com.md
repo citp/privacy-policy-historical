@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thearchitectsguide.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417052117id_/https%3A//www.thearchitectsguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearchitectsguide.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813015815id_/https%3A//www.thearchitectsguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Architect's Guide
 
