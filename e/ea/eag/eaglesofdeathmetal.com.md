@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglesofdeathmetal.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219090839id_/https%3A//eaglesofdeathmetal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglesofdeathmetal.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812073318id_/https%3A//eaglesofdeathmetal.com/privacy) for the most accurate reproduction.*
 
 # Eagles of Death Metal Official : PRIVACY POLICY FOR CLIENTS 1/13/2013
 
@@ -8,15 +8,15 @@ Website Privacy Policy for  Eagles of Death Metal Official 
 
 As of 01-10-2013
 
-Eagles of Death Metal Official has created this Privacy Policy in order to demonstrate our firm commitment to protecting personal information. The following discloses our information gathering and dissemination practices relating to a website located at http://eaglesofdeathmetal.com (the “Site” or the “Website”) and any mobile applications and other services that we may make available from time to time (collectively, the “Services”). The information you provide on this Site will not be shared other than as outlined in this Privacy Policy. By using the Services, you consent to the collection and use by us of any personal and other information you provide whilst using the Services in accordance with our Privacy Policy (this “Privacy Policy”). If you do not agree to the Privacy Policy, please do not use the Services.
+Eagles of Death Metal Official has created this Privacy Policy in order to demonstrate our firm commitment to protecting personal information. The following discloses our information gathering and dissemination practices relating to a website located at https://eaglesofdeathmetal.com (the “Site” or the “Website”) and any mobile applications and other services that we may make available from time to time (collectively, the “Services”). The information you provide on this Site will not be shared other than as outlined in this Privacy Policy. By using the Services, you consent to the collection and use by us of any personal and other information you provide whilst using the Services in accordance with our Privacy Policy (this “Privacy Policy”). If you do not agree to the Privacy Policy, please do not use the Services.
 
-Please carefully read our Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20190219090839id_/https%3A//eaglesofdeathmetal.com/privacy?page=tc).
+Please carefully read our Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20190812073318id_/https%3A//eaglesofdeathmetal.com/privacy?page=tc).
 
 This Website presents information and content that is owned, licensed, or provided by Eagles of Death Metal Official its subsidiaries and affiliates ("Administrator"). The Site may also include services provided by third parties and distributed through the Site by virtue of a license, grant or some other form of agreement between the third party and Administrator. When used in this Privacy Policy, "we", “us” and "our" mean Administrator.
 
 **Visiting Our Website**
 
-You can use the Services without providing any personal or individually identifiable information by sending an email info@eaglesofdeathmetal.com with a request to do so.  The request should include your name, email address, login information, and any specifics that may help us to prevent the collection of personally identifiable information you do not wish to have collected or disclosed. You may also be able to set the security settings on your browser to prevent certain tracking and logging features. If you opt to restrict the information we collect, the Services may be less functional for you.
+You can use the Services without providing any personal or individually identifiable information by sending an email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with a request to do so.  The request should include your name, email address, login information, and any specifics that may help us to prevent the collection of personally identifiable information you do not wish to have collected or disclosed. You may also be able to set the security settings on your browser to prevent certain tracking and logging features. If you opt to restrict the information we collect, the Services may be less functional for you.
 
 There are times when you may choose to give us personally identifiable information about yourself. For example, you may wish to register, make purchases, read articles, view information, receive e-mails from us, receive invitations to attend events, participate in discussions, preview new services, or participate in special promotions. If you register to use the Services or if you conduct transactions through the Site or any related mobile applications, we will collect information about the transactions you engage in and your other activities. We need certain information from you to register you, authenticate you, process your entries and payments, and send goods to you, as necessary.
 
@@ -136,7 +136,7 @@ From time to time, Administrator may communicate with you regarding your transac
 
 • Where applicable, return to the web page(s) or service where you originally registered your preferences and follow the opt-out instructions.
 
-• E-mail us at info@eaglesofdeathmetal.com.  Be sure to provide your name, e-mail address and postal address, and specific relevant information about the particular service you no longer wish to receive.
+• E-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  Be sure to provide your name, e-mail address and postal address, and specific relevant information about the particular service you no longer wish to receive.
 
 Please be aware that when you opt out of receiving communications, it may affect the services you have chosen to receive from us where accepting the communications is a condition of receiving such services. By registering as a user or purchasing products, you consent to receiving administration and transaction related communications.
 
@@ -152,17 +152,17 @@ Our Website and data collection devices include "Widgets," which are interactive
 
 **Cookies**
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive to enable our Services to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or hashed (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to http://www.privacychoice.org/choose.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive to enable our Services to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or hashed (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to https://www.privacychoice.org/choose.
 
 **Children’s Privacy**
 
 We do not knowingly collect or distribute personally identifiable information from children under the age of 13. As one measure to ensure that we do not gather personally identifiable information from children under 13, we require that all individuals provide a valid credit card number before completing a purchase order. If you are the parent or guardian of a child under the age of 13 and believe that we have collected personally identifiable information contrary to this policy or, in the United States, the Children’s Online Privacy Protection Act (COPPA), please contact us by e-mail so that we may delete such information. You can learn more about COPPA at the United States Federal Trade Commission website:
 
-<http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>
+<https://www.ftc.gov/privacy/privacyinitiatives/childrens.html>
 
 **Notice and Choice**
 
-We may ask for your consent to collect, use, or disclose personal information in certain ways, and you may be required to give your consent in order to use our services. We reserve the right to process personal information in the course of providing services through the Services without the knowledge of individuals involved.  If you wish to opt out of our collection or our disclosure of personally identifiable information to third parties, you may contact us at info@eaglesofdeathmetal.com with a request to do so.  The request should include your name, email address, login information, and any specifics that may help us to prevent the collection of personally identifiable information you do not wish to have collected or disclosed.  Please note that if you opt out of our data collection practices, the Services may be less functional for you.
+We may ask for your consent to collect, use, or disclose personal information in certain ways, and you may be required to give your consent in order to use our services. We reserve the right to process personal information in the course of providing services through the Services without the knowledge of individuals involved.  If you wish to opt out of our collection or our disclosure of personally identifiable information to third parties, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with a request to do so.  The request should include your name, email address, login information, and any specifics that may help us to prevent the collection of personally identifiable information you do not wish to have collected or disclosed.  Please note that if you opt out of our data collection practices, the Services may be less functional for you.
 
 **Transfers**
 
@@ -178,4 +178,4 @@ This Privacy Policy is effective as of  as of 01-10-2013. We reserve the right 
 
 **Contact Us**
 
-It is important for us to know what visitors have to say about our Website. To contact us with your questions or comments please email us at info@eaglesofdeathmetal.com.  
+It is important for us to know what visitors have to say about our Website. To contact us with your questions or comments please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
