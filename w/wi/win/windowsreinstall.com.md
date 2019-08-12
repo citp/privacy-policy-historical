@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsreinstall.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620200644id_/http%3A//windowsreinstall.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsreinstall.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812120653id_/http%3A//www.windowsreinstall.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
