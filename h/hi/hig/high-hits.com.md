@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the high-hits.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617085919id_/http%3A//high-hits.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the high-hits.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812062939id_/http%3A//high-hits.com/privacy_policy.php) for the most accurate reproduction.*
 
 # High-Hits.com
 
