@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babysittermovies.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206212029id_/http%3A//www.babysittermovies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysittermovies.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812103923id_/http%3A//www.babysittermovies.com/privacy.html) for the most accurate reproduction.*
 
 # Babysitter Movies - Babysitter Porn, Babysitter Sex, & Babysitter Fuck
 
