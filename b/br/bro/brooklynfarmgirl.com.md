@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynfarmgirl.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509082940id_/https%3A//brooklynfarmgirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynfarmgirl.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813003224id_/https%3A//brooklynfarmgirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brooklyn Farm Girl
 
