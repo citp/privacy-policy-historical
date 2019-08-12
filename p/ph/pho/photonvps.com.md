@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonvps.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204121955id_/https%3A//www.photonvps.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonvps.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812194444id_/https%3A//www.photonvps.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PhotonVPS - Privacy Policy
 
@@ -31,3 +31,5 @@ Our site provides users the opportunity to opt-out of receiving communications f
 ##### Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. Email : [sales@photonvps.com](mailto:sales@photonvps.com)
+
+Sign up and be online in 30 minutes
