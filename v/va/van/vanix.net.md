@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanix.net privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612165444id_/http%3A//vanix.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanix.net privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812043622id_/http%3A//vanix.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vanix.net
 
