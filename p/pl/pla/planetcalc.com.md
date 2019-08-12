@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the planetcalc.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612040828id_/https%3A//planetcalc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetcalc.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812034258id_/https%3A//planetcalc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Updated on 05/25/2018
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or use services from planetcalc.com (the “Site”).
 
