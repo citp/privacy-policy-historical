@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512174736id_/https%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812232355id_/https%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy - #1 Trusted Relationship Site
 
