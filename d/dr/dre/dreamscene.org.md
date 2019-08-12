@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamscene.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622095118id_/http%3A//dreamscene.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamscene.org privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813001017id_/http%3A//www.dreamscene.org/privacy.php) for the most accurate reproduction.*
 
 # dreamscene.org - Privacy Policy
 
@@ -63,4 +63,4 @@ The personal data collected are: Cookie and IP.
 
 If you have any questions, complaints, suggestions, or feedback of any kind, please feel free to contact us: 
 
-[contact](https://web.archive.org/web/20190622095118id_/http%3A//dreamscene.org/contact.php)
+[contact](https://web.archive.org/web/20190813001017id_/http%3A//www.dreamscene.org/contact.php)
