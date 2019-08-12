@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalscrapbookplace.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210075914id_/http%3A//www.mymemories.com/mms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalscrapbookplace.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812115123id_/http%3A//www.mymemories.com/mms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyMemories
 
@@ -24,7 +24,7 @@ We may send a cookie which may be stored on by your browser on your computer's h
 
 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one. 
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: [www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html).
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: [www.google.com/privacypolicy.html](https://www.google.com/privacypolicy.html).
 
 (3) Using your personal data
 
