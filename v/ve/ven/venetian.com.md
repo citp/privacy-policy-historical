@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venetian.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616163419id_/https%3A//www.venetian.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venetian.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812085715id_/https%3A//www.venetian.com/policy.html) for the most accurate reproduction.*
 
 # The Venetian® Las Vegas | Privacy Policy
 
