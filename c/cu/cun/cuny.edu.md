@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuny.edu privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613233807id_/http%3A//www.cuny.edu/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuny.edu privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812030152id_/http%3A//www.cuny.edu/website/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – The City University of New York
 
