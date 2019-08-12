@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331183616id_/https%3A//piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812232039id_/https%3A//piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms and Conditions | Piktochart
 
@@ -42,27 +42,15 @@ We place cookies on all of Piktochart’s pages to perform web analytics with th
 
 ###### Children Under 16
 
-As a family friendly site, Piktochart has a zero tolerance to obscenity and nudity featured in any created visuals hosted on Piktochart.
-
-In efforts to comply with the Children’s Online Privacy Protection Act (COPPA) and the European Union’s General Data Protection Regulation (GDPR), Piktochart’s products and services are directed only to people who are at least 13 years of age or older.
-
-However, children under 16 years of age from the EU region, **are not allowed** to create a Piktochart account and to use the application for the time being. We may allow them to do so at the later stage with a parental consent as a requirement. Reach out to our [support team](https://support.piktochart.com/contact-us/) to any clarifications on that matter.
+As a family friendly site, Piktochart has a zero tolerance to obscenity and nudity featured in any created visuals hosted on Piktochart. In efforts to comply with the Children’s Online Privacy Protection Act (COPPA) and the European Union’s General Data Protection Regulation (GDPR), Piktochart’s products and services are directed only to people who are at least 13 years of age or older. However, children under 16 years of age from the EU region, **are not allowed** to create a Piktochart account and to use the application for the time being. We may allow them to do so at the later stage with a parental consent as a requirement. Reach out to our [support team](https://support.piktochart.com/contact-us/) to any clarifications on that matter.
 
 ###### 3.2 Visual Creation and Sharing Information
 
-You can use the Piktochart platform to create visuals in accordance with our [Terms of Use](https://piktochart.com/piktocharts-terms-of-use/). All content that you create within Piktochart including all the assets (images, icons) that you upload remain private to your account unless you choose to share it publicly or to specific team members (if you are on the Piktochart For Teams plan). 
-
-We access your content only when you give us explicit permission in order to resolve any issues you have within the application. Ultimately, you alone get to choose who will see your visuals and uploaded content.
+You can use the Piktochart platform to create visuals in accordance with our [Terms of Use](https://piktochart.com/piktocharts-terms-of-use/). All content that you create within Piktochart including all the assets (images, icons) that you upload remain private to your account unless you choose to share it publicly or to specific team members (if you are on the Piktochart For Teams plan).  We access your content only when you give us explicit permission in order to resolve any issues you have within the application. Ultimately, you alone get to choose who will see your visuals and uploaded content.
 
 ###### 3.3 Service Usage Data
 
-For improvement purposes, we keep anonymous records of your Piktochart usage, including our website and blog pages. The records include data such as the number of visits and time spent on pages, interactions like clicks on buttons or links, as well as search terms. 
-
-Device information, and data on your operating system and web browser are also anonymously collected and aggregated to ensure the best performance of our site and app on various platforms. 
-
-Part of the above information is also temporarily stored in cookies.
-
-Whenever you visit any of our pages, we receive the URL of the pages that you came from and the destination (Piktochart) page that you landed on. As part of the page request, we collect your IP address, proxy server, operating system, web browser and add-ons, device identifier and/or ISP and mobile data provider. This data is collected anonymously and aggregated without any personal information to attribute against.
+For improvement purposes, we keep anonymous records of your Piktochart usage, including our website and blog pages. The records include data such as the number of visits and time spent on pages, interactions like clicks on buttons or links, as well as search terms.  Device information, and data on your operating system and web browser are also anonymously collected and aggregated to ensure the best performance of our site and app on various platforms.  Part of the above information is also temporarily stored in cookies. Whenever you visit any of our pages, we receive the URL of the pages that you came from and the destination (Piktochart) page that you landed on. As part of the page request, we collect your IP address, proxy server, operating system, web browser and add-ons, device identifier and/or ISP and mobile data provider. This data is collected anonymously and aggregated without any personal information to attribute against.
 
 ###### 3.4 Cookies
 
@@ -80,25 +68,15 @@ You can disable cookies by changing the settings on your web browser ([Chrome](h
 
 ###### 3.4.4 The Cookies We Set
 
-We set and manage some cookies that are required for Piktochart to work properly. When you create an account with Piktochart, or visit any of Piktochart pages, we set a cookie. These cookies are used to remember your preferences once you have logged out.
-
-If you are visitor of Piktochart, we use the cookies to know if you are a blog subscriber or registered with us for any other service.
+We set and manage some cookies that are required for Piktochart to work properly. When you create an account with Piktochart, or visit any of Piktochart pages, we set a cookie. These cookies are used to remember your preferences once you have logged out. If you are visitor of Piktochart, we use the cookies to know if you are a blog subscriber or registered with us for any other service.
 
 ###### 3.4.5 Third Party Cookies
 
-We also set cookies from trusted third parties (called third party cookies) to provide some functionality. Refer to the section 4.4 on the third parties that we work with.
-
-These cookies are used to monitor and measure site performance, page visits, and support live chat with our sales and support teams.
-
-We use social media buttons and/or plugins on our site to allow you to connect with us via your social accounts. Those plugins set their own cookies as outlined in their privacy policies. 
-
-Information about your use of our website is shared with trusted social media, advertising and analytics partners in order to customize content and advertising, to provide social media features and to analyze traffic to our website. 
+We also set cookies from trusted third parties (called third party cookies) to provide some functionality. Refer to the section 4.4 on the third parties that we work with. These cookies are used to monitor and measure site performance, page visits, and support live chat with our sales and support teams. We use social media buttons and/or plugins on our site to allow you to connect with us via your social accounts. Those plugins set their own cookies as outlined in their privacy policies.  Information about your use of our website is shared with trusted social media, advertising and analytics partners in order to customize content and advertising, to provide social media features and to analyze traffic to our website. 
 
 ###### 3.5 Support, Surveys & Service Cancellation Information
 
-When you reach out to Piktochart support for assistance, we collect data about your application issue or feedback, as well as other information such as the title of your visual, or the last four digits of your credit card (to resolve billing and payment issues), to allow us to investigate any reported issues. 
-
-We store this interaction information for quality assurance purposes and to improve our customer support. We also store your responses and interactions as part of any user surveys, and feedback sessions. When you cancel your premium subscription, we collect data about cancellation reasons and any other feedback you provide us with.
+When you reach out to Piktochart support for assistance, we collect data about your application issue or feedback, as well as other information such as the title of your visual, or the last four digits of your credit card (to resolve billing and payment issues), to allow us to investigate any reported issues.  We store this interaction information for quality assurance purposes and to improve our customer support. We also store your responses and interactions as part of any user surveys, and feedback sessions. When you cancel your premium subscription, we collect data about cancellation reasons and any other feedback you provide us with.
 
 ###### 3.6 Others
 
@@ -114,11 +92,7 @@ We use your personal data to authenticate and authorize you to use the applicati
 
 ###### 4.2 Communications
 
-We will contact you to communicate about key account changes (including password reset, account deletion etc), billing reminders, invoices, to answer support queries, availability of services and outages, network updates or other service/application related issues, security updates, legal and policy updates. You cannot opt out of receiving these critical service, security and legal updates from us. 
-
-Apart from critical communication, we may reach out to notify you about the product updates and announcements (including new feature launches, changes to existing features or functionality, new template launches etc), send newsletters and other product and design tips via email, only if you have opted to receive them
-
-We have two ways to communicate with you:
+We will contact you to communicate about key account changes (including password reset, account deletion etc), billing reminders, invoices, to answer support queries, availability of services and outages, network updates or other service/application related issues, security updates, legal and policy updates. You cannot opt out of receiving these critical service, security and legal updates from us.  Apart from critical communication, we may reach out to notify you about the product updates and announcements (including new feature launches, changes to existing features or functionality, new template launches etc), send newsletters and other product and design tips via email, only if you have opted to receive them We have two ways to communicate with you:
 
   1. In-App Notification
   2. Email
@@ -131,9 +105,7 @@ We can push notifications and messages to the notification center within the app
 
 ###### Email Communication:
 
-We may contact you through email only if you have opted in to receive communication via this channel. Our email communication is also powered by Intercom. We store your contact information, name and some usage details (the subscription plan you are on, the number of visuals you have created, the date of last activity etc) with Intercom to be able to email you with the communication you have opted to receive. 
-
-As a registered user of Piktochart, you can change the email communication preferences and topics on which you want to receive communication about. As a visitor of Piktochart, you can change your communication preferences to the newsletters you might have subscribed to.
+We may contact you through email only if you have opted in to receive communication via this channel. Our email communication is also powered by Intercom. We store your contact information, name and some usage details (the subscription plan you are on, the number of visuals you have created, the date of last activity etc) with Intercom to be able to email you with the communication you have opted to receive.  As a registered user of Piktochart, you can change the email communication preferences and topics on which you want to receive communication about. As a visitor of Piktochart, you can change your communication preferences to the newsletters you might have subscribed to.
 
 ###### 4.3 Marketing
 
@@ -153,9 +125,7 @@ We generate insights by aggregating data that helps us improve our products and 
 
 ###### 4.7 Security & Investigation
 
-We use your data including your communication and interaction with us to investigate security issues, violation of our terms of use and privacy policy, any fraudulent or harmful activities that affect our users, visitors, and the general public.
-
-We also have an automated mechanism to detect publicly published visuals for spam and content that violate our terms of use.
+We use your data including your communication and interaction with us to investigate security issues, violation of our terms of use and privacy policy, any fraudulent or harmful activities that affect our users, visitors, and the general public. We also have an automated mechanism to detect publicly published visuals for spam and content that violate our terms of use.
 
 ##### 5\. How We Share Your Information
 
@@ -184,7 +154,7 @@ If you are part of the Piktochart For Teams plan, then your email address and na
 
 ###### 5.4 Third Parties We Share Your Information With
 
-We use third party services to help us provide some of our services (eg: web hosting, data storage, communication, customer support, payment, maintenance, development and analysis etc). These third parties will only have access to data relevant for the service they provide. They are obligated to not share with others or use your data for any other purposes. Below is a list of the third parties that we use and the data that we share with them:
+We use third party services to help us provide some of our services (eg: web hosting, data storage, communication, customer support, payment, maintenance, development and analysis etc). These third parties will only have access to data relevant for the service they provide. They are obligated to not share with others or use your data for any other purposes. Below is a list of the third parties that we use and the data that we share with them:  
 
  **Category**|  **Party Name & Product**|  **Why do we share?**|  **What do we share?**  
 ---|---|---|---  
@@ -201,11 +171,11 @@ Facebook Ads & Pixel| To personalise ads on Facebook to improve relevance. To me
 Mailchimp| To manage blog subscribers and sync their data with Intercom.| Email ID, name.  
 Typeform| To conduct user research, customer service, and marketing surveys.| Name, email, subscription plan, role, user  responses and other information obtained from the survey.  
 LinkedIn Insight Tag & Pixel| To personalise ads on LinkedIn to improve relevance. To measure conversion from LinkedIn Ads. Read more [here](https://www.linkedin.com/help/lms/answer/65521/the-linkedin-insight-tag-frequently-asked-questions?lang=en).|  Metadata such as IP address information, timestamp, and events (e.g. page views). All data is encrypted.  
-Hosting & Storage| Amazon| To host our application databases using Amazon RDS.  We also use Amazon S3 for file storage and backups.|   
-Google| To host our application databases using Google Cloud SQL. Additionally, we store temporary data in Google Cloud Storage for our image processing services. Data in Cloud Storage is automatically removed within 48 hours. Firebase to support the commenting module for team visuals. This is applicable for the users on the Team plan.|   
+Hosting & Storage| Amazon| To host our application databases using Amazon RDS.  We also use Amazon S3 for file storage and backups.|    
+Google| To host our application databases using Google Cloud SQL. Additionally, we store temporary data in Google Cloud Storage for our image processing services. Data in Cloud Storage is automatically removed within 48 hours. Firebase to support the commenting module for team visuals. This is applicable for the users on the Team plan.|    
 Analytics| Google| To perform web analytics on the Piktochart website and web application. For more information on this, visit [this page](https://policies.google.com/privacy/partners).| Cookies are used to collect anonymous data on site usage.  
 Application monitoring| AppSignal| Backend application monitoring.| It includes stack traces and request headers that might contain PII.  
-| Sentry| Frontend Application monitoring.| Edit Email id of the user as an hashed value.  
+ | Sentry| Frontend Application monitoring.| Edit Email id of the user as an hashed value.  
   
 ###### 5.5 Disclosure For Law Enforcement
 
@@ -219,11 +189,7 @@ We will share your personal data in the event of a sale, merger, acquisition or 
 
 ###### 6.1 Rights to Access & Rectify Your Information
 
-You are the owner of your data. Any data you share with us or create using the application is accessible to you at all times. You can access and change your profile, payment information, communication preferences and consent to the terms of use and privacy policy from the account settings within Piktochart. You can access, edit, change sharing options, and delete your visuals from the [dashboard](https://create.piktochart.com/dashboard) in Piktochart.
-
-If you are a member or owner of a team account, you can perform the same tasks from the [team settings](https://create.piktochart.com/teams/team_redirect/account/billing) and [team dashboard](https://create.piktochart.com/teams/team_redirect/dashboard) pages.
-
-As a visitor (blog subscriber) of Piktochart, you can change your subscription options from the visitor settings.
+You are the owner of your data. Any data you share with us or create using the application is accessible to you at all times. You can access and change your profile, payment information, communication preferences and consent to the terms of use and privacy policy from the account settings within Piktochart. You can access, edit, change sharing options, and delete your visuals from the [dashboard](https://create.piktochart.com/dashboard) in Piktochart. If you are a member or owner of a team account, you can perform the same tasks from the [team settings](https://create.piktochart.com/teams/team_redirect/account/billing) and [team dashboard](https://create.piktochart.com/teams/team_redirect/dashboard) pages. As a visitor (blog subscriber) of Piktochart, you can change your subscription options from the visitor settings.
 
 ###### 6.2 Rights to Limit or Restrict Processing
 
@@ -235,23 +201,17 @@ You can place a request with us to download all your personal data, uploaded ass
 
 ###### 6.4 Data Retention & Inactive Accounts
 
-We do not retain your data any longer than necessary to provide you the services. We retain your data until your account is active and/or if it is on a paid subscription plan. If you are not on a paid subscription plan and your account is inactive for more than 12 months, then we reserve the right to deactivate your account after providing due notifications. After 30 days of providing the last reminder to use your account, we can delete your account if we do not receive any written request to retain the data or if there is no activity detected. As part of the deletion, we will also email you a copy of your data including the visual json data.
-
-However, even after deletion, we may retain some personal data as mentioned in the section below.
+We do not retain your data any longer than necessary to provide you the services. We retain your data until your account is active and/or if it is on a paid subscription plan. If you are not on a paid subscription plan and your account is inactive for more than 12 months, then we reserve the right to deactivate your account after providing due notifications. After 30 days of providing the last reminder to use your account, we can delete your account if we do not receive any written request to retain the data or if there is no activity detected. As part of the deletion, we will also email you a copy of your data including the visual json data. However, even after deletion, we may retain some personal data as mentioned in the section below.
 
 ###### 6.5 Account Deletion
 
-You can choose to delete your account at any time from your account settings. Deletion of your account will delete all data that we have about you in our systems and any data we have shared with our third parties as described under the section on “How We Share Your Information”. When you choose to delete your account, we do not automatically send you a downloadable copy of all your data. However, you could place a request to get a copy of your data [here](https://support.piktochart.com/articles/360001841865-personal-data-request) before deleting your account, or after you have deleted your account before the 14 days grace period ends.
-
-Upon account deletion and/or request for data erasure, we’ll still retain a bare minimum of your personal data that is reasonably necessary to resolve any disputes, and to comply with legal and regulatory obligations. For example, as part of the regulatory compliance, we are required to maintain records of user consent to use and process their data and/or to delete their data. Therefore, we continue to store consent information and some relevant details about when that consent or deletion request was made.
+You can choose to delete your account at any time from your account settings. Deletion of your account will delete all data that we have about you in our systems and any data we have shared with our third parties as described under the section on “How We Share Your Information”. When you choose to delete your account, we do not automatically send you a downloadable copy of all your data. However, you could place a request to get a copy of your data [here](https://support.piktochart.com/articles/360001841865-personal-data-request) before deleting your account, or after you have deleted your account before the 14 days grace period ends. Upon account deletion and/or request for data erasure, we’ll still retain a bare minimum of your personal data that is reasonably necessary to resolve any disputes, and to comply with legal and regulatory obligations. For example, as part of the regulatory compliance, we are required to maintain records of user consent to use and process their data and/or to delete their data. Therefore, we continue to store consent information and some relevant details about when that consent or deletion request was made.
 
 ##### 7\. Other Important Information
 
 ###### 7.1 Lawful Processing
 
-Our collection and processing of your personal data is based on lawful processing. Lawful basis for data processing includes explicit consent that you have provided us, and through contract with you (for example to carry out any contractual obligation that we may have entered with you), and for legitimate business interests that include providing you with our products and services.
-
-Any consent that you provide can be revoked by you at any time. However, where legitimate business interests are concerned, you have the right to object to data collection and processing in which case we reserve the right to delete your account to comply with your objection to  having your data stored and processed.
+Our collection and processing of your personal data is based on lawful processing. Lawful basis for data processing includes explicit consent that you have provided us, and through contract with you (for example to carry out any contractual obligation that we may have entered with you), and for legitimate business interests that include providing you with our products and services. Any consent that you provide can be revoked by you at any time. However, where legitimate business interests are concerned, you have the right to object to data collection and processing in which case we reserve the right to delete your account to comply with your objection to  having your data stored and processed.
 
 ###### 7.2 Cross-Border Transfer of Data
 
