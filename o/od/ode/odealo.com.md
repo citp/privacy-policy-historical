@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odealo.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424185227id_/https%3A//odealo.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odealo.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812044908id_/https%3A//odealo.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Odealo MMO Marketplace - Buy, Sell & Trade Game Currency, Gold, Items
 
