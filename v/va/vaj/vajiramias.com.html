@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vajiramias.com privacy policy that was archived on 2019-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612044021id_/https%3A//vajiramias.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vajiramias.com privacy policy that was archived on 2019-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190812101508id_/http%3A//vajiramias.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<!-- vajiram_ias_app_.png -->
@@ -19,7 +19,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900|Open+Sans:300,400,600,700" rel="stylesheet">
 		
 		<link href="/static/vajiramandravi/libraries/fonts/fontawesome-4.7.0_and_ionicons-2.0.1/css/font-awesome_ionicons.min.css" rel="stylesheet" type="text/css">
-		<link rel="stylesheet" href="/static/CACHE/css/2072cc021ae2.css" type="text/css">
+		<link rel="stylesheet" href="/static/CACHE/css/53da45a29b48.css" type="text/css">
 
 		
 		
@@ -387,7 +387,7 @@ qp('track', 'ViewContent');
   
 	<input name="image" type="file" class="hidden" id="editor_image_field">
 	<form class="hidden" id="csrf_form">
-    <input type="hidden" name="csrfmiddlewaretoken" value="1KLQQl33jJjztujgMhgms6lcmufZGVACqTr61LJb36cRDQ2rMCPpgrjgc65C4L0l">
+    <input type="hidden" name="csrfmiddlewaretoken" value="p8kgY1z3kgfEExsErmh1lWulsP6oPfG0mMIvQ1p1QeFBeOPvSKB8mrsHcZWGdmFS">
   </form>
 	<!--  Javascript  -->
 	<script type="text/javascript" src="/static/CACHE/js/92387bcbdff4.js"></script>	
@@ -419,6 +419,12 @@ qp('track', 'ViewContent');
 			$('body').removeClass("show_top_bar");
 			createCookie('hide_top_bar_cookie','true',7);
 		});
+
+		if(readCookie('premium_mode') == 'true'){
+			$('a').each(function(){
+				$(this).attr('href', $(this).attr('href')+"?exclusive=true");
+			});
+		}
 		
 
 	</script>
