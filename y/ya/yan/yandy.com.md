@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yandy.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206045557id_/https%3A//www.yandy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yandy.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812234442id_/https%3A//www.yandy.com/privacy-policy) for the most accurate reproduction.*
 
 # Sexy Lingerie Shop, Intimate Apparel Lingerie Store, Sexy Halloween Costumes
 
