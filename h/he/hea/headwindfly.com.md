@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headwindfly.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612232827id_/http%3A//www.headwindfly.com/help.dhtml%3Faction%3Dview%26id%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headwindfly.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812220223id_/https%3A//www.headwindfly.com/help.dhtml%3Faction%3Dview%26id%3D33) for the most accurate reproduction.*
 
 # Headwindfly - A place to Buy, Sell & Trade
 
