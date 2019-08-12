@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630020223id_/https%3A//ioneblackamericaweb.files.wordpress.com/2017/05/reach-privacy-policy-final.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812092304id_/https%3A//ioneblackamericaweb.files.wordpress.com/2017/05/reach-privacy-policy-final.pdf) for the most accurate reproduction.*
 
 # 
 
