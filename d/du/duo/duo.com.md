@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duo.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414235159id_/https%3A//duo.com/legal/privacy-notice-general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duo.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812100423id_/https%3A//duo.com/legal/privacy-notice-general) for the most accurate reproduction.*
 
 # Duo Legal: General Privacy Notice | Duo Security
 
