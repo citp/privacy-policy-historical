@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514123214id_/https%3A//www.gamblingcommission.gov.uk/Footer/Privacy-and-cookies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813015046id_/https%3A//www.gamblingcommission.gov.uk/Footer/Privacy-and-cookies.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies
 
