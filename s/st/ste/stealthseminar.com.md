@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stealthseminar.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528021658id_/http%3A//www.stealthseminar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthseminar.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812221755id_/http%3A//www.stealthseminar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stealth Seminar | Stealth Seminar
+# Privacy Policy | StealthSeminar
 
 Effective Date: May 25, 2018
 
