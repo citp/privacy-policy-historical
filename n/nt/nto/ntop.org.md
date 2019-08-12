@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntop.org privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220031716id_/https%3A//www.ntop.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntop.org privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812121755id_/https%3A//www.ntop.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ntop
 
@@ -6,7 +6,7 @@
 
 ### GDPR Compliancy
 
-ntop grants you the respect of privacy protection laws and [GDPR 679/2016](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation), in particular as specified in Articles 13 to 22, and 34. At any time you can [contact the data protection officer](https://www.ntop/support/need-help-2/contact-us/) Luca Deri to request information about this matter. We grant you that collected information (for instance your name and email when you contact us) will be used only for complying with regulatory laws and will not be disclosed to third party as specified later in this page.
+ntop grants you the respect of privacy protection laws and [GDPR 679/2016](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation), in particular as specified in Articles 13 to 22, and 34. At any time you can [contact the data protection officer](https://www.ntop/support/need-help-2/contact-us/) Luca Deri to request information about this matter. We grant you that collected information (for instance your name and email when you contact us) will be used only for complying with regulatory laws and will not be disclosed to third party as specified later in this page. At any time you can contact us to access your personal data, modify or ask us to delete them as of Art 18.
 
 ### Website Visitors
 
