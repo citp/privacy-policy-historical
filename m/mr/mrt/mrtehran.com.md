@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrtehran.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409224549id_/https%3A//mrtehran.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrtehran.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812142318id_/https%3A//mrtehran.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MrTehran.com
 
