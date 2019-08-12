@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securesurf.biz privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606075408id_/http%3A//securesurf.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securesurf.biz privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812222601id_/http%3A//securesurf.biz/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
