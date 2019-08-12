@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalshopex.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612111142id_/http%3A//globalshopex.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshopex.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812112232id_/https%3A//www.globalshopex.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
