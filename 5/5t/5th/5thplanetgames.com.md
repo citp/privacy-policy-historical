@@ -1,55 +1,96 @@
-> *The following text is extracted and transformed from the 5thplanetgames.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411181026id_/https%3A//www.5thplanetgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5thplanetgames.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812202514id_/https%3A//www.5thplanetgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 5th Planet Games
 
 blueArrow logo facebook twitter instagram youtube linkedin download-icon down-arrow pdf-icon PDF close PlayBtn
 
-**Effective Date** : June 20, 2013
+**Welcome to 5th Planet Games Development ApS. Your privacy is important to us.**
 
-**Welcome to 5th Planet Games ApS. Your privacy is important to us.**  
-5th Planet Games and its affiliates (“5th Planet Games”, “us”, “our” or “we”) are dedicated to protecting the privacy rights of our users (“users” or “you”). This Privacy Policy (the “Policy”) describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our websites, including www.Hugo Games.net and www.gunshine.net (the “Sites”) or any 5th Planet Games game provided on other websites or other third party sources (collectively, the “Service”). Please note that the scope of this Policy is limited to information collected or received by 5th Planet Games through your use of the Service. 5th Planet Games is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer. Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.  
-By using the Service, you are expressing your agreement to this Policy and the processing of your data, including your personal information, in the manner provided in this Policy. If you do not agree to these terms, please do not use the Service.
+5th Planet Games and its affiliates (“5th Planet Games”, “us”, “our” or “we”) are dedicated to protecting the privacy rights of our users (“users” or “you”).
 
-**Information Collection and Use**  
-5th Planet Games collects information as described below. 5th Planet Games’s primary goals in collecting and using information is to create your account, provide Services to you, improve our Service, contact you, conduct research and create reports for internal use. We store information on servers located in the United States and may store information on servers and equipment in other countries.
+This Privacy Policy (the “Policy”) applies to all of our games, whether played on any of our Sites, on mobile devices, PCs or on any other platforms such as Facebook, Kartridge and Kongregate.com.
 
-**Social Networking Websites**  
-We may collect and record information through the social networking website you use to access the Service (“SN Website”) or other third party source in accordance with the policies and terms of the SN Website or service provider. The information we collect when you access the Service on an SN Website may include: (1) your name, (2) your SN Website user identification number and/or user name, (3) locale, city, state and country, (4) sex, (5) birth date, (6) email address, (7) profile picture or its URL, and (8) the SN Website user identification numbers for your friends that are also connected to 5th Planet Games’s game(s).  
-We may also collect (1) your name, (2) your email address, and(3) your age or birthday directly from you when you access our Service on a SN Website. If you provide your email address in connection with a 5th Planet Games game, the email address will be retained by 5th Planet Games and we may use that email address to contact you about your gaming experience with 5th Planet Games games and notify you about company news and promotions. Your phone number may be used to help connect you with other users via our social networking system and for SMS notifications. Your birth date may be used to analyze user trends and target certain promotions.
+The Policy describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our websites, including: [www.5thplanetgames.com](https://www.5thplanetgames.com/), [www.dawnofthedragons.com](http://www.dawnofthedragons.com/), [www.ageofheroesgame.com](http://www.ageofheroesgame.com/), [www.curioquestgame.com](http://www.curioquestgame.com/), [www.9livesgame.com](http://www.9livesgame.com/), (the “Sites”) or any other games provided by 5th Planet Games on other websites or other third party sources (collectively, the “Service”).
 
-**5th Planet Games’s Sites**  
-While you are browsing 5th Planet Games’s Sites, your computer’s operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically. We may use this information to monitor and analyze your use of the Service. In addition, we may ask you to submit and we may process data that is personal to you, including but not limited to your name, profile photo, gender, age or birthday, links to your profiles on SN Websites and other third party sites, user names, phone number, and e-mail and mail addresses. We may use this information to create a user profile. We may use your email address to contact you about your experience with 5th Planet Games Sites and notify you about company news and promotions. Your phone number may be used to help connect you with other users via our social networking system and for SMS notifications. Your gender and birthday may be used to analyze user trends and target certain promotions. Your mail address may be used if we have merchandise or other physical promotional materials that we want to send to you.  
-When you interact with 5th Planet Games’s Sites, 5th Planet Games will create an online user ID number to identify your profile on the 5th Planet Games Site. This online user ID number will appear in the URL of 5th Planet Games’s Sites, but will only permit access to information that is considered public or that you have designated as public. You may opt-out at any time of public indexing of your public profile information.
+Please note that the scope of this Policy is limited to information collected or received by 5th Planet Games through your use of the Service. 5th Planet Games is not responsible for the actions of any third-party, the content of their sites, the use of information you provide to them, or any products or services they may offer. Any link to those sites does not constitute our sponsorship of, or affiliation with those third parties.
 
-**Forums**  
-5th Planet Games may at times offer you the ability to post content to a blog, message board, chat room or within 5th Planet Games’s applications or other forums (“Forums”). You should be aware that any visitor to the Forums may read your postings on the Forums. Furthermore, any information that you may post to a Forum, including your username or other account profile information, will be disclosed and available to all users and viewers of that Forum, and will therefore no longer be private. 5th Planet Games cannot guarantee the security of such information that is disclosed or communicated online in public areas such as the Forums, and you provide such information at your own risk. 5th Planet Games does not author, edit, endorse, or monitor any Forum. You acknowledge and agree that 5th Planet Games has no responsibility for the accuracy or availability of information provided on any Forum. 5th Planet Games reserves the right at any time, in its sole discretion, to remove any content that a user may post on any Forum and restrict their access to any Forum.
+By downloading, accessing and/or playing our games or interacting with any of our Sites or other Services, you are expressing your agreement to this Policy and the processing of your data, including your personal information, in the manner provided in this Policy. If you do not agree to these terms, please do not use the Service.
 
-**Invite a Friend**  
-5th Planet Games may offer you the opportunity to opt-in to import your address book contacts or manually enter e-mail addresses so that your contacts can be located in 5th Planet Games games and/or you can invite them to join you in 5th Planet Games games. Such contact information will be used only for the purpose of sending communications to the addressee. We send these invites on your behalf and as your service provider. You agree that you and/or your friend are responsible for any text messaging rates that apply. You can opt-out from the storing of these contacts. Passwords provided to 5th Planet Games for importing purposes will not be stored by 5th Planet Games.
+This Privacy Policy was last updated on June 13, 2019
 
-**iOS and Android Platforms**  
-When you use any of the 5th Planet Games games or applications on a mobile platform, we may collect and record certain information such as your unique device ID, hardware type, the version of your operating system (“OS”), your device name, your telephone number, your email address (if you provide this information to us upon request), and your location (based on your Internet Protocol (“IP”) address and longitude and latitude). This information is useful to us for troubleshooting and helps us understand usage trends. Your phone number may be used to help connect you with other users via our social networking system and for SMS notifications.  
-We may also give users the opportunity to opt-in to location-based services, which rely upon a device’s GPS coordinates. You may opt-out of these location services via the settings on your device. A user’s location may be used to suggest friends with whom they might want to connect, analyze usage trends or target certain promotions.  
-In addition, we create a unique user mobile ID to track your use of our Service. This unique user mobile ID is stored in connection with your profile information to track the 5th Planet Games games you are playing. In addition, it may be used to link a character with which you play our games to your username on the Forums. We may link the unique user mobile ID to the online user ID to connect your profiles and associated data for internal analysis and targeting certain promotions.  
-We may also collect (1) your name, (2) your email address, and (3) your age or birthday directly from you when you access our Service through your mobile device. If you provide your email address in connection with a 5th Planet Games game, the email address will be retained by 5th Planet Games and we may use that email address to contact you about your gaming experience with 5th Planet Games games and notify you about company news and promotions. Your phone number may be used to help connect you with other users via our social networking system and for SMS notifications. Your birth date may be used to analyze user trends and target certain promotions.
+**Information Collection and Use**
 
-**Game Data Collection**  
-Whenever you play our games, regardless of the platform on which you play, we collect data about all of your interactions with the game and with the other players inside the game via server log files.
+5th Planet Games collects information as described below. 5th Planet Games’ primary goals in collecting and using information is to create your account, provide Services to you, improve our Service, contact you, conduct research and create reports for internal use. We store information on servers located in the United States and Europe, and may store information on servers and equipment in other countries.
 
-**Other Collection**  
-We may also acquire information from you through (1) your access and participation in message boards on the Service, (2) your email of a question to our customer support, (3) your participation in surveys regarding the Service or (4) your participation in a sweepstakes or contest through the Service.  
+**Social Networking Websites**
+
+We may collect and record information through the social networking website you use to access the Service (“SN Website”) or other third party source in accordance with the policies and terms of the SN Website or service provider. The information we collect when you access the Service on an SN Website may include: (1) your name, (2) your SN Website user identification number and/or user name, (3) locale, city, state and country, (4) gender, (5) birth date, (6) email address, (7) profile picture or its URL, and (8) the SN Website user identification numbers for your friends that are also connected to 5th Planet Games’ game(s).
+
+We may also collect (1) your name, (2) your email address, and (3) your age or birthday directly from you when you access our Service on a SN Website. If you provide your email address in connection with a 5th Planet Games game, the email address will be retained by 5th Planet Games and we may use that email address to contact you about your gaming experience with 5th Planet Games’ games and notify you about company news and promotions.
+
+**5th Planet Games’ Sites**
+
+While you are browsing 5th Planet Games’ Sites, your computer’s operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically. We may use this information to monitor and analyze your use of the Service. In addition, we may ask you to submit and we may process data that is personal to you, including but not limited to your name, profile photo, gender, age or birthday, links to your profiles on SN Websites and other third party sites, user names and e-mail. We may use this information to create a user profile. We may use your email address to contact you about your experience with 5th Planet Games Sites and notify you about company news and promotions. Your gender and birthday may be used to analyze user trends and target certain promotions.
+
+When you interact with 5th Planet Games’ Sites, 5th Planet Games will create an online user ID number to identify your profile on the 5th Planet Games Site. This online user ID number will appear in the URL of 5th Planet Games’ Sites, but will only permit access to information that is considered public or that you have designated as public. You may opt-out at any time of public indexing of your public profile information.
+
+**Forums**
+
+5th Planet Games may at times offer you the ability to post content to a blog, message board, chat room or within 5th Planet Games’ applications or other forums (“Forums”). You should be aware that any visitor to the Forums may read your postings on the Forums. Furthermore, any information that you may post to a Forum, including your username or other account profile information, will be disclosed and available to all users and viewers of that Forum, and will therefore no longer be private. 5th Planet Games cannot guarantee the security of such information that is disclosed or communicated online in public areas such as the Forums, and you provide such information at your own risk. 5th Planet Games does not author, edit, endorse, or monitor any Forum. You acknowledge and agree that 5th Planet Games has no responsibility for the accuracy or availability of information provided on any Forum. 5th Planet Games reserves the right at any time, in its sole discretion, to remove any content that a user may post on any Forum and restrict their access to any Forum.
+
+**Invite a Friend**
+
+5th Planet Games may offer you the opportunity to opt-in to connect with a friend using third party services, such as Facebook, import your address book contacts or manually enter e-mail addresses so that your contacts can be located in 5th Planet Games’ games and/or you can invite them to join you in 5th Planet Games’ games. Such contact information will be used only for the purpose of sending communications to the addressee. Passwords provided to 5th Planet Games for importing purposes will not be stored by 5th Planet Games.
+
+**iOS and Android Platforms**
+
+When you use any of the 5th Planet Games’ games or applications on a mobile platform, we may collect and record certain information such as your unique device ID, hardware type, the version of your operating system (“OS”), your device name, your email address (if you provide this information to us upon request), and your location (based on your Internet Protocol (“IP”) address and longitude and latitude). This information is useful to us for troubleshooting and helps us understand usage trends.
+
+We may also give users the opportunity to opt-in to location-based services, which rely upon a device’s GPS coordinates. You may opt-out of these location services via the settings on your device. A user’s location may be used to suggest friends with whom they might want to connect, analyze usage trends or target certain promotions.
+
+In addition, we create a unique user mobile ID to track your use of our Service. This unique user mobile ID is stored in connection with your profile information to track the 5th Planet Games’ games you are playing. In addition, it may be used to link a character with which you play our games to your username on the Forums. We may link the unique user mobile ID to the online user ID to connect your profiles and associated data for internal analysis and targeting certain promotions.
+
+We may also collect (1) your name, (2) your email address, and (3) your age or birthday directly from you when you access our Service through your mobile device. If you provide your email address in connection with a 5th Planet Games’ game, the email address will be retained by 5th Planet Games and we may use that email address to contact you about your gaming experience with 5th Planet Games’ games and notify you about company news and promotions. Your birth date may be used to analyze user trends and target certain promotions.
+
+**Game Data Collection**
+
+Whenever you play our games, regardless of the platform on which you play, we collect data about selected interactions with the game and with the other players inside the game via server log files.
+
+**Other Collection**
+
+We may also acquire information from you through (1) your access and participation in message boards on the Service, (2) your email of a question to our customer support, (3) your participation in surveys regarding the Service or (4) your participation in a sweepstakes or contest through the Service.
+
 If we begin offering our Service on a platform without an in-app purchase billing system, we may need to collect credit card and billing information.
 
-**Cookies**  
-A cookie is a small text file that we transfer to your computer and/or device, to identify a user’s computer/device and to “remember” things about your visit, such as your preferences or a user name and password. Information contained in a cookie may be linked to your personal information for purposes such as improving the quality of our Service, tailoring recommendations to your interests, and making the Service easier to use. You can disable cookies at any time, although you may not be able to access or use features of the Service.  
-We may feature advertisements served by third parties that deliver cookies to your computer/device so the content you access and advertisements you see can be tracked. Since the third party advertising companies associate your computer/device with a number, they will be able to recognize your computer/device each time they send you an advertisement. These advertisers may use information about your visits to our Service and third party sites and applications in order to measure advertisement performance and to provide advertisements about goods and services of interest to you. This Policy does not apply to, and we are not responsible for the data collection practices of these third party advertisers, and we encourage you to check their privacy policies to learn more about their use of cookies and other technology.  
-You may click on the following link: http://www.networkadvertising.org (or such other URL as may be specified by us from time to time) for information on how to opt-out of the use of cookies for the delivery of more relevant advertising.
+**Cookies**
 
-**Web Beacons**  
+A cookie is a small text file that we transfer to your computer and/or device, to identify a user’s computer/device and to “remember” things about your visit, such as your preferences or a username and password. Information contained in a cookie may be linked to your personal information for purposes such as improving the quality of our Service, tailoring recommendations to your interests, and making the Service easier to use. You can disable cookies at any time, although you may not be able to access or use features of the Service.
+
+We may feature advertisements served by third parties that deliver cookies to your computer/device so the content you access and advertisements you see can be tracked. Since the third party advertising companies associate your computer/device with a number (Advertising ID), they will be able to recognize your computer/device each time they send you an advertisement. These advertisers may use information about your visits to our Service and third party sites and applications in order to measure advertisement performance and to provide advertisements about goods and services of interest to you. This Policy does not apply to, and we are not responsible for the data collection practices of these third party advertisers, and we encourage you to check their privacy policies to learn more about their use of cookies and other technology.
+
+**Web Beacons**
+
 Third party advertising companies and we may collect information using Web beacons. Web beacons or “gifs”, are electronic images that may be used in our Services or in our emails. We use Web beacons to deliver cookies, count visits and to tell if an email has been opened and acted upon. Advertisers use web beacons in connection with our Services in order to collect and use data regarding the viewing and usage of content, advertisement performance and your interests for the purpose of delivering relevant advertising to you.
 
-**Third Party Services**  
+**Third Party Services**
+
 Our services may also contain third party tracking tools from our service providers, an example of which includes Google Analytics. Such third parties may use cookies, APIs, and SDKs in our services to enable them to collect and analyze user information on our behalf. While a third party may have access to your personal information in connection with the performance of services for 5th Planet Games, it may not use such information for any purpose other than providing its services.
+
+**Your Rights**
+
+You have certain rights in connection with your personal information and how we handle it. You can exercise these rights at any time by contacting through one of the available contact methods.
+
+Your rights include:
+
+  * **Right of access:** You have a right to know what information we hold about you and in some cases to have the information communicated to you. If you wish to exercise this right please contact us letting us know that you wish to exercise your right of access and what information in particular you would like to receive. We reserve the right to ask for reasonable evidence to verify your identity before we provide you with any information. Please note that we may not be able to provide all the information you ask for, for instance if the information includes personal information about another person. Where we are not able to provide you with information that you have asked for, we will do our best to tell you why. We will try to respond to any request for a right of access as soon as possible.
+  * **Right to correct personal information:** We try to keep the information that we hold about you accurate and up to date. Should you realize that any of the information that we hold about you is incorrect, you can contact us to inform so we can correct the information as soon as we can.
+  * **Data deletion:** In some circumstances you have a right to have some of the personal information that we hold about you deleted. Should you wish to have any information about you deleted, please contact us. Please note that in order to process your request you must delete our games from your mobile devices and clear our cookies from any device where you have played our games in a web browser. Where we delete personal information about you, we may still retain some or all of that information for other purposes such as maintaining financial records, protecting or enforcing legal rights, maintaining marketing suppression lists or for technical reasons such as maintaining technical security or our database integrity. We may also retain your information in an anonymized form. In some instances, personal information about you that is visible through gameplay such as username, avatar, your high scores and any chat messages may be cached on other players’ devices and we may not be able to remove or update that data from those devices, for example if that device is not connected to a wifi network.
+  * **Account deactivation:** If you have created an account with us, you can contact us to deactivate that account. We may ask you for other information before we are able to deactivate your account. That information might include information about your mobile device. Other steps you should take should you wish to completely deactivate your account include disassociating your Facebook account from our mobile games and deleting our games from your mobile devices. Please note that if you completely deactivate your account all your progress in our games and any unspent virtual items will be lost and we may not be able to restore them in the future.
+  * **Data portability:** In some circumstances, you may have the right to request that data which you have provided to us is provided to you, so you can transfer this to another data controller.
+  * **Restriction of processing:** In some cases, you may have the right to request a restriction of the processing of your personal data, such as when you are disputing the accuracy of your data held by us.
+  * **Right to object:** You have the right to object to the processing of personal data about you which is processed on the grounds of legitimate interests.
+
+
 
 **How We Use Information**
 
@@ -60,7 +101,6 @@ We use information collected through our Service for purposes described in this 
   * operate and improve our Service;
   * understand you and your preferences to enhance your experience and enjoyment using our Service;
   * respond to your comments and questions and provide customer service;
-  * provide and deliver products and services you request;
   * send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
   * communicate with you about promotions, rewards, upcoming events, and other news about products and services offered by 5th Planet Games and our selected partners;
   * enable you to communicate with other users; and
@@ -68,36 +108,42 @@ We use information collected through our Service for purposes described in this 
 
 
 
-**Disclosure of Your information**  
+We will keep your information for as long as your account is active or we consider it necessary for the purposes described in this Privacy Policy. We will also retain and use your information for as long as is required in order to comply with our legal obligations.
+
+**Disclosure of Your information**
+
 5th Planet Games does not share your personal information except as approved by you or as described below:
 
   * With your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies.
-  * 5th Planet Games may engage other companies and individuals to perform services on our behalf. Examples of these services include sending e-mails to you and analyzing data. While these agents and service providers may have access to your personal information in connection with the performance of services for 5th Planet Games, they may not use such information for any purpose other than providing such services to us.
+  * 5th Planet Games may engage other companies and individuals to perform services on our behalf. While these agents and service providers may have access to your personal information in connection with the performance of services for 5th Planet Games, they may not use such information for any purpose other than providing such services to us.
   * We may release your information as permitted by law or when we believe that release is appropriate to comply with the law; enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
-  * 5th Planet Games may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company.
   * We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
 
 
 
-**Changes to the Policy**  
+**Changes to the Policy**
+
 We reserve the right to change this Policy at any time. If we decide to change this Policy, we will post those changes on this page and update the date at the top of the page. The changes will be effective when posted. Please check this page on a regular basis so that you remain aware of what information we collect and how we use it.
 
-**Security**  
+**Security**
+
 5th Planet Games takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties.  
 Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems. Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining access to this information. We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties.
 
-**Our Policy Regarding Children**  
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to use our Service. If you are under 13, please do not attempt to use our Service or send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.
+**Our Policy Regarding Children**
 
-**Opting Out of Marketing**  
-You may opt-out of receiving promotional emails from us by following the instructions in those emails. If you opt-out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.  
-You may also opt-out of receiving SMS notifications from us, either via SMS or online.
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to use our Service. If you are under 13, please do not attempt to use our Service or send any information about yourself to us, including your name or email address. No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.
 
-**International Transfer**  
+**Opting Out of Marketing**
+
+You may opt-out of receiving promotional emails from us by following the instructions in those emails. If you opt-out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+
+**International Transfer**
+
 We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Policy.
 
 Contact Information  
 **5th Planet Games**  
-Østergade 17, 2  
-1100 Copenhagen K  
+Gothersgade 11  
+1123 Copenhagen C  
 Denmark
