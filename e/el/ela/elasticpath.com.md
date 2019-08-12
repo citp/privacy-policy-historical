@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elasticpath.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615011207id_/https%3A//www.elasticpath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticpath.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813002006id_/http%3A//www.elasticpath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
