@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsfuel.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730065516id_/https%3A//www.graphicsfuel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsfuel.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813012841id_/https%3A//www.graphicsfuel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GraphicsFuel
 
