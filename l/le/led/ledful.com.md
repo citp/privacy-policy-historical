@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledful.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612163429id_/http%3A//www.ledful.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledful.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812211027id_/http%3A//www.ledful.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 2008-2018 LEDFUL
 
