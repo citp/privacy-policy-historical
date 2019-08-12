@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriedwiki.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402044429id_/https%3A//marriedwiki.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriedwiki.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812101305id_/http%3A//www.marriedwiki.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mariedwiki.com
 
