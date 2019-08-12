@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401114107id_/https%3A//www.hachettebookgroup.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812203031id_/https%3A//www.moon.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hachette Book Group
+# Privacy Policy | Moon Travel Guides
 
 Last Updated July 23, 2018
 
