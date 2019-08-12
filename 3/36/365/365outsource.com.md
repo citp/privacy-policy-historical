@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365outsource.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116063632id_/http%3A//www.365outsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365outsource.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812133500id_/https%3A//www.365outsource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 365Outsource.com
 
@@ -47,7 +47,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms of service**
 
-Please visit our terms of service page – <http://www.365outsource.com/terms>
+Please visit our terms of service page – <https://www.365outsource.com/terms>
 
 **Your Consent**
 
@@ -63,7 +63,7 @@ This policy was last modified on August 3, 2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-  * [http://www.365outsource.com/contact-us ](http://www.365outsource.com/contact-us)  
+  * [https://www.365outsource.com/contact-us ](https://www.365outsource.com/contact-us)  
 inquires@365outsource.com
 
 
