@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the andbeyond.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529021043id_/https%3A//www.andbeyond.com/notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andbeyond.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812105041id_/https%3A//www.andbeyond.com/notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.andBeyond.com | andBeyond
 
 ## Table of Contents
 
-**1.Scope of policy**  
+ **1.Scope of policy**  
 **2.Introduction**  
 **3.What is Personal Information**  
 **4.How do we process Personal Information?**  
@@ -42,7 +42,7 @@ Personal Information includes any information which relates to and renders it po
 
 ### 4\. How do we process Personal Information?
 
-Personal Information may be collected either through or by electronic means, which includes, without limitation, the use of our websites (i.e. [*.andbeyond.com](http://www.andbeyond.com/) including all other websites and / or landing pages), electronic mail , text, voice, sound or image messages, or through non-electronic means which includes, without limitation, the capturing of Personal Information on hard copy documents.
+Personal Information may be collected either through or by electronic means, which includes, without limitation, the use of our websites (i.e. [*.www.andbeyond.com](https://www.andbeyond.com/) including all other websites and / or landing pages), electronic mail , text, voice, sound or image messages, or through non-electronic means which includes, without limitation, the capturing of Personal Information on hard copy documents.
 
 When using our websites your Personal Information may be collected either actively where you or your appointed agent provide us with certain Personal Information or inactively where we collect information from you that you have not actively provided. See below for a more detailed discussion.
 
@@ -142,7 +142,7 @@ Should you at any point in time decide that you do not (a) wish us to continue t
 
 ### 10\. Information access
 
-You will be given reasonable access to your Personal Information to correct errors or to delete any information which you may have provided. If you wish to correct or delete any of your Personal Information, please contact us by e-mail at myandbeyondinfo@andbeyond.com
+You will be given reasonable access to your Personal Information to correct errors or to delete any information which you may have provided. If you wish to correct or delete any of your Personal Information, please contact us by e-mail at [myandBeyondinfo@andBeyond.com](mailto:myandBeyondinfo@andBeyond.com)
 
 To respond to your request or inquiry, we may require information to allow us to verify that you are the person authorised to view the Personal Information you are requesting access to as contemplated in this Policy. We reserve the right to, at our discretion, refuse to allow you access to certain information which, in our view, if provided to you, will compromise another person’s privacy or will violate any applicable law, foreign law, regulation, or directive in respect of which we are obliged to observe and adhere to pursuant to processing Personal Information.
 
