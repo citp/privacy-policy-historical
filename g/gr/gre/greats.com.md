@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greats.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226081826id_/https%3A//www.greats.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greats.com privacy policy that was archived on 2019-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190812172414id_/https%3A//greats.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Greats
+# Privacy Policy | GREATS
 
 Effective Date of Current Policy: August 6, 2013
 
