@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globallysearch.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613054118id_/http%3A//globallysearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallysearch.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813235044id_/http%3A//www.globallysearch.com/privacy.php) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
