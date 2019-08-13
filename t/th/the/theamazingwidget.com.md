@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamazingwidget.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615012024id_/http%3A//www.theamazingwidget.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamazingwidget.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813043053id_/http%3A//www.theamazingwidget.com/privacy.html) for the most accurate reproduction.*
 
 # The Amazing Widget
 
