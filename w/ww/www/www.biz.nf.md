@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.biz.nf privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403073746id_/https%3A//www.biz.nf/tos.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.biz.nf privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813024243id_/https%3A//www.biz.nf/tos.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Terms of Service: Biz.nf Web Hosting & Domain Names
 
