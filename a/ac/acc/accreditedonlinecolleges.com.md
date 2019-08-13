@@ -1,57 +1,35 @@
-> *The following text is extracted and transformed from the accreditedonlinecolleges.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126202426id_/http%3A//www.accreditedonlinecolleges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accreditedonlinecolleges.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813155615id_/https%3A//www.accreditedonlinecolleges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AccreditedOnlineColleges.com
 
-## Terms of Use and Privacy Policy for Use of AccreditedOnlineColleges.com (Effective Date 2/5/2016)
+Terms of Use and Privacy Policy for Use of AccreditedOnlineColleges.com (Effective January 5, 2016)
 
-Thank you for visiting AccreditedOnlineColleges.com. We appreciate your interest in our website content and services. Please take a moment to read through the page and familiarize yourself with the conditions governing the use of our website. You will learn how AccreditedOnlineColleges.com gathers and applies different types of information in order to bring you content and related products and services.
+Thank you for your interest and use of the content and services of AccreditedOnlineColleges.com. This page will explain how AccreditedOnlineColleges.com gathers and utilizes different kinds of information so that we may provide users with content, products, and services relevant to education options and related topics. By using our website, you are agreeing to this Terms of Use and Privacy Policy. Even when we obtain consent explicitly or implicitly, AccreditedOnlineColleges.com’s legitimate interest in obtaining data for its university and other education related clients is its legal basis for collecting data from persons in the European Union and countries with similar privacy laws.
 
-By visiting our website, we assume you agree to these Terms of Use and Privacy Policy. 
+AccreditedOnlineColleges.com collects two kinds of information: _submitted information_ and _automatic information_.
 
-### Future Term & Policy Changes
+_Automatic information_ includes certain types of anonymous information whenever you interact with AccreditedOnlineColleges.com. This data aids in creating improvements in our user experience, such as providing more relevant and tailored content. For example, we use “cookies” to collect anonymous data for analytics, site optimization and for tailored advertising and marketing. This data includes (but is not limited to) your browser version, operating system version, and your IP address.
 
-We may revise our Terms of Use and Privacy Policy in the future. Therefore, it is a good idea to periodically revisit this page for the most up to date practices concerning your privacy and other important information.
+By utilizing our website, you acknowledge and agree that automatic information collected on AccreditedOnlineColleges.com may be shared with schools, affiliated companies, and third parties for the purpose of providing information about degrees, programs and other education-related products and services.
 
-## Cookies
+_Submitted information_ is data that is voluntarily inputted and submitted by users through our web forms, which may include personal contact information, such as name, telephone number, mailing address, and email address, as well any other information that may be required to match users to an education product or service. Submitted information is collected, stored and shared with schools and other third parties as necessary to provide users with information about education-related services, in addition to schools and programs.
 
-We use cookies, and by using this website, you acknowledge and consent to our use of cookies. What are cookies? Cookies are small pieces of data sent from a website and stored in the user’s web browser, commonly for technical purposes such as web analytics. We perform our web analytics using Google Analytics, a Google, Inc. tool ([Learn more](http://www.google.com/intl/en/analytics/privacyoverview.html) about Google Analytics).
+By submitting this information, you authorize AccreditedOnlineColleges.com (as well as our affiliated schools and partners) to contact you in accordance with all applicable laws by phone, through text messages, or by email or mail regarding education options or related topics. You also acknowledge and agree that we retain the right to release any collected information, including personally identifiable information, as needed, to businesses providing our company with administration services (such as an email delivery service). In addition, through this action, you grant us, our affiliates, and our partners and vendors the right to contact you for a period of time, and relinquish any rights granted to you by the Do Not Call list or other applicable law. Your submission serves as an omission to Do Not Call requirements established by state and federal governments and may exempt us from other applicable laws.
 
-Advertising cookies do not contain personally identifiable information, so users are still anonymous. Their purpose is to allow advertisers to make ads more relevant to the user’s interests. Advertising cookies — sometimes referred to as third-party cookies — track navigation and publish ads on behalf of third parties.
+If you receive any email communications from us, a school, or third party, you will be afforded the ability to unsubscribe through a link in the email, at which point you will be removed from further mailings from that sender.
 
-### How We Use Cookies
+We also retain the right to release your personal information in circumstances required by law, such as to abide by a subpoena or other legal procedure. This will be when, in good faith, we believe it is necessary to preserve our rights, ensure the safety of you or others, explore alleged fraud, to reply to a government or legal request, and/or in the instance that AccreditedOnlineColleges.com is merging, acquisitioning, or selling some or all of its assets to a third party.
 
-We use cookies through services and partnerships with vendors and third party service providers. They help us with the following:
+In addition, it is possible that we will revise our Terms of Use and Privacy Policy in the future if we change our practices. We recommend that you revisit this document periodically to stay up-to-date with our practices concerning your privacy and other important information.
 
-  * Web Analytics: We capture demographic and other anonymous data for web optimization and other analysis
-  * Lead Auditing: This helps ensure the accuracy, relevancy and also the validity of information that users provide for us
-  * Tracking Marketing and Conversion: This includes (but is not limited to), targeting and optimizing digital ad serving to improve relevance, the user experience, and advertising effectiveness
+## Use of Cookies
 
+Cookies are small pieces of data sent from a website and stored in the user’s web browser, including for technical purposes such as web analytics. By using this website, you acknowledge that we use cookies and consent to our use of cookies. Our web analytics are primarily performed using Google Analytics, a tool provided by Google, Inc.
 
+Advertising cookies do not contain personally identifiable information and allow users to remain anonymous. However, they do permit advertisers to make ads more relevant to the user’s interests. Advertising cookies are sometimes referred to as third-party cookies because they track navigation and publish ads on behalf of third parties. For more information about Google Analytics and its uses, check Google’s privacy policy at <https://support.google.com/analytics/answer/6004245>.
 
-### Removing Cookies
+AccreditedOnlineColleges.com, including services and partnerships with vendors and third-party service providers, may use cookies for Web analytics such as demographic and other anonymous data for web optimization and other analysis, and “lead auditing” to ensure the accuracy, relevance and validity of submitted information. In addition, our use of marketing and conversion-tracking cookies is for, but not limited to, targeting and optimizing digital ad serving to improve relevance, user experience, and advertising effectiveness.
 
-You can remove cookies at any time through your browser. You may have to do this on a regular basis. Check the settings on your web browser for specifics. You can generally opt out of receiving personalized ads from members of the Network Advertising Initiative (NAI) or those who follow the Digital Advertising Alliance’s Self-Regulatory Principles, as well as from other third party advertisers and ad networks. You can also unsubscribe by visiting the opt-out pages on the NAI website and DAA websites.
+You can remove cookies through your browser settings at any time, though you may need to do this on a per use and not one-time basis. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website.
 
-## What We Collect
-
-**Submitted Information:** Users submit personal contact information via our web forms. This includes name, telephone number, mailing address and email address.
-
-Users voluntarily submit information to AccreditedOnlineColleges.com because they are requesting information on an educational product or service. We collect the submitted information, store it and then share it with schools and other third parties, so they can to provide the requested information about schools, programs and education-related services. 
-
-When you voluntarily submit information to us, you authorize AccreditedOnlineColleges.com and our affiliated schools and partners to contact you by telephone, text messages, email or mail. This is in accordance with all applicable laws, regarding education options or related topics.
-
-### Email Opt-Out
-
-If you receive any email communications from us, a school, or third party that you do not want, you will be afforded the ability to opt-out of future mailings via a link in the email.
-
-**Automatic Information:** When you visit AccreditedOnlineColleges.com, we receive and store certain types of anonymous information. We do this so we can make site improvements as well as to create a more relevant user experience. We use cookies to collect this anonymous data. This includes information such as your browser version, operating system version, and your IP address, among other things. This data is collected for the purpose of analytics, site optimization and for tailored advertising and marketing purposes.
-
-By using this website, we assume you acknowledge and agree that the information we collect on our website may be shared with schools, affiliated companies, and third parties. This is done for the purpose of providing you with degree information, as well as to inform you of other programs and education-related products and services. By this acknowledgement, you also agree with our right to release any collected information, personally identifiable or otherwise, as needed, to businesses providing administration services for our company, such as email service delivery
-
-When you submit personal information to AccreditedOnlineColleges.com, you grant permission for us, our affiliated entities, including schools, third party marketing partners and vendors to contact you via telephone, text messages, email, or mail. We will contact you for the purpose of providing information, marketing or otherwise, for education-related services and products.
-
-The submitting of information also gives us, our affiliates, and our partners and vendors, the right to contact you and relinquishes any rights granted to you by the Do Not Call list or other applicable laws, for a period of time. The voluntary submission of information effectively omits Do Not Call requirements established by state and federal governments and may also provide exemption for us from other applicable laws. We can also release your personal information, for example to abide by a subpoena or other legal procedure, or in other instances required by law. AccreditedOnlineColleges.com can utilize this option when, in good faith, we believe it is necessary to preserve our rights, ensure the safety of you or others, explore alleged fraud, or to reply to a government or legal request, and/or in the instance that AccreditedOnlineColleges.com enters into a merger, acquisition, or sale of some or all of its assets to a third party.
-
-## Contact Us
-
-çIf you have any questions or concerns about our Terms of Use and Privacy Policy, please contact us via our web contact form.
+Contact us if you have any questions or concerns about this Terms of Use and Privacy Policy, or if you wish to make a Subject Access Request under the General Data Protection Regulations of the European Union.
