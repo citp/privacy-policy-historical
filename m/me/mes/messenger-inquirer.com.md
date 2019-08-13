@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messenger-inquirer.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629102313id_/http%3A//www.messenger-inquirer.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messenger-inquirer.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813093852id_/https%3A//www.messenger-inquirer.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | messenger-inquirer.com
 
