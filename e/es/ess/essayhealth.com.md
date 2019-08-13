@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essayhealth.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623150813id_/http%3A//essayhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essayhealth.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813102257id_/http%3A//essayhealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Easy Health
 
