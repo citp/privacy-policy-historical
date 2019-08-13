@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612175021id_/https%3A//www.scotland.org.uk/about-scotland.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813050328id_/https%3A//www.scotland.org.uk/about-scotland.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | About Scotland.org.uk
 
