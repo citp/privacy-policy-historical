@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullforms.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630213128id_/http%3A//fullforms.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullforms.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813104251id_/https%3A//fullforms.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | FullForms
 
@@ -49,7 +49,7 @@ FullForms.com contains links to other sites. **F ullForms** is not responsible f
 
 ## QUESTIONS OR SUGGESTIONS
 
-If you have any questions or comments regarding this Privacy Policy, you can contact us via our: [Feedback Form](http://fullforms.com/feedback.php)
+If you have any questions or comments regarding this Privacy Policy, you can contact us via our: [Feedback Form](https://fullforms.com/feedback.php)
 
 ## Changes to this Privacy Policy
 
