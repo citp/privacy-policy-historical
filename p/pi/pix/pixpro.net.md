@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixpro.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630131408id_/http%3A//pixpro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixpro.net privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813165938id_/http%3A//www.pixpro.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixpro
 
@@ -48,7 +48,7 @@ This privacy notice provides you with details of how Pixpro Stockholm AB, org.nr
     * give us feedback.
 
 
-  * Automated technologies or interactions: As you use our website, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns. We collect this data by using cookies, server logs and similar technologies. We may also receive Technical Data about you if you visit other websites that use our cookies. Please see our [Cookie Policy](http://pixpro.net/cookie-policy) for further details.
+  * Automated technologies or interactions: As you use our website, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns. We collect this data by using cookies, server logs and similar technologies. We may also receive Technical Data about you if you visit other websites that use our cookies. Please see our [Cookie Policy](http://www.pixpro.net/cookie-policy) for further details.
   * Third parties or publicly available sources: We may receive personal data about you from various third parties and public sources as set out below: 
     * Technical Data from parties such as: Infusionsoft, Kajabi and Shopify based outside the EU;
     * analytics providers such as Google based outside the EU;
@@ -239,7 +239,7 @@ We will continually update this privacy policy to mirror any changes in how we t
 
 ## 12 – Cookies
 
-Pixpro is using cookies to give a more personified user experience to our users and customers.You can set your browser to refuse all or some cookies, or alert you when websites set or use cookies. If you disable or refuse cookies, please note that some parts of our websites may become inaccessible or not function properly. For more information about the cookies we use, please see our [Cookie Policy](http://pixpro.net/cookie-policy).
+Pixpro is using cookies to give a more personified user experience to our users and customers.You can set your browser to refuse all or some cookies, or alert you when websites set or use cookies. If you disable or refuse cookies, please note that some parts of our websites may become inaccessible or not function properly. For more information about the cookies we use, please see our [Cookie Policy](http://www.pixpro.net/cookie-policy).
 
 ## 13 – Questions and contact information
 
