@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabiantan.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613095407id_/http%3A//www.fabiantan.com/mst/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabiantan.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813125749id_/http%3A//www.fabiantan.com/mst/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.MassSocialTraffic.com
 
