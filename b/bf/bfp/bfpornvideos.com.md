@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfpornvideos.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530045943id_/http%3A//www.bfpornvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfpornvideos.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814004545id_/http%3A//bfpornvideos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
