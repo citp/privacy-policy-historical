@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509165744id_/https%3A//www.omaze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813104538id_/https%3A//www.omaze.com/pages/privacy) for the most accurate reproduction.*
 
-# Enter To Win Your Dream Experience - Omaze.com
+# Privacy Policy
 
 Effective: April 24, 2018
 
@@ -127,11 +127,11 @@ Our Website is hosted in the United States and each Sweepstakes drawing takes pl
 
 **Dispute Resolution**
 
-If you believe that Omaze has not adhered to this Policy in connection with the transfer of your personal information to the United States, please contact Omaze by e-mail at service@Omaze.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we agree to settle your dispute exclusively under the International Centre for Dispute Resolution (“ICDR”) in accordance with its International Arbitration Rules. To file a complaint via ICDR, please visit http://go.adr.org/privacyshield.html.
+ If you believe that Omaze has not adhered to this Policy in connection with the transfer of your personal information to the United States, please contact Omaze by e-mail at service@Omaze.com.  We will do our best to address your concerns.  If you feel that your complaint has been addressed incompletely, we agree to settle your dispute exclusively under the JAMS Comprehensive Rules or International Rules of JAMS International.
 
 **Your Rights**
 
-You have the right to be provided with information as to the nature of the personal information stored or processed about you by Omaze and may request deletion or amendments.
+ If you believe that Omaze has not adhered to this Policy in connection with the transfer of your personal information to the United States, please contact Omaze by e-mail at service@Omaze.com.  We will do our best to address your concerns.  If you feel that your complaint has been addressed incompletely, we agree to settle your dispute exclusively under the JAMS Comprehensive Rules or International Rules of JAMS International.
 
 You may email privacy@omaze.com to review, update, and revise your personal information.
 
