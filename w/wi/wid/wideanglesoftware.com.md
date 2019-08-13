@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wideanglesoftware.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130062114id_/https%3A//www.wideanglesoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wideanglesoftware.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813074855id_/https%3A//www.wideanglesoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Wide Angle Software Ltd
 
@@ -67,11 +67,12 @@ This Policy applies only to the actions of Wide Angle Software and Users with re
 
 ### 5\. Third Party Websites and Services
 
-Wide Angle Software does do not share your information or data with third parties except in the following limited circumstances: 
+Wide Angle Software does not share your information or data with third parties except in the following limited circumstances: 
 
-  * 5.1 To facilitate customers in making credit card or PayPal payments;
-  * 5.2 To invite you to review our products or services;
-  * 5.3 To deliver and help us track our marketing and advertising content.
+  * 5.1 To facilitate you to make credit/debit card or PayPal payments, as set out in clause 3.5;
+  * 5.2 To facilitate activation code services provided by softWORKZ for the purposes of licensing your purchased software, please see the [softWORKZ privacy policy](https://www.softworkz.com/privacy.html);
+  * 5.3 To invite you to review our products or services. We use Trustpilot to collect your feedback which means that we will share your name, email address and reference number with Trustpilot for the Purpose. If you want to read more about how Trustpilot process your data, please see their [Privacy Policy](https://legal.trustpilot.com/end-user-privacy-terms);
+  * 5.4 To conduct online surveys, questionnaires and research exclusively for the purpose of improving our products and services. We use SurveyMonkey to conduct online surveys, questionnaires and research, see the [SurveyMonkey’s privacy policy](https://www.surveymonkey.com/mp/legal/privacy-policy/).
 
 
 
