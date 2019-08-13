@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugbydump.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401035032id_/https%3A//www.rugbydump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbydump.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813193751id_/https%3A//www.rugbydump.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | RugbyDump
 
