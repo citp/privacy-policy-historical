@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the element.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104074926id_/https%3A//www.element.com/terms/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the element.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813134639id_/https%3A//www.element.com/terms/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Element
 
@@ -74,7 +74,7 @@ Your information will be kept if required for the reasons described here and to 
 
 ##### Marketing
 
-From time to time, we may send you information about our Products and Services that we believe may be of interest to you or your business. You may receive this information by letter, telephone or email. If you no longer wish to receive these updates, please let us know by contacting us at [marketing@element.com](mailto:marketing@element.com?subject=Unsubscribe) or by following the unsubscribe link provided in every email.
+From time to time, we may send you information about our Products and Services that we believe may be of interest to you or your business. You may receive this information by letter, telephone or email. If you no longer wish to receive these updates, please let us know by contacting us at [](mailto:marketing@element.com?subject=Unsubscribe)[tactical.marketing@element.com](mailto:mailto:tactical.marketing@element.com) or by following the unsubscribe link provided in every email.
 
 ##### Cookies
 
