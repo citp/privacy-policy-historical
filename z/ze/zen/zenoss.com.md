@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528005201id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813183635id_/https%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zenoss
 
-## The intent of this Privacy Policy is to disclose Zenoss privacy practices, whether you are a casual browser of our website or a Community member who chooses to interact actively with us through our website, use our software, or receive email from us.
-
-## This Privacy Policy applies to Zenoss websites and Services that link to or reference this Policy and describes how we handle personal information and the choices available to you regarding collection, use, access, and how to update and correct your personal information.
-
-### **Collection of Your Personal Information**
+## Collection of Your Personal Information
 
 Zenoss does not collect personally-identifying information from visitors to our website unless the visitor has volunteered personally-identifying information, as described below in the "Active Community Members" and "Interactive Product Users" sections.  But, like most website operators, Zenoss does collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the visitor's Internet Protocol (IP) address, browser type, internet service provider, operating system, language preference, referring page, exit page, clickstream data, and the date and time of each visitor request. We may use this non-personally identifying information to create a profile or log of your preferences, but we do not tie information in this file to any of your personally identifying information which we may have. 
 
@@ -30,7 +26,7 @@ We and the third parties we engage may combine the information we collect from y
 
 If you choose to provide Zenoss with a third party's personal information (such as name, email, and phone number), you represent that you have the third party's consent to do so.  Examples include forwarding reference or marketing material to a friend or sending job referrals. Third parties may unsubscribe from any future communication following the link provided in the initial message or contacting [privacy@zenoss.com](mailto:privacy@zenoss.com).
 
-###  **Sharing Your Personal Information**
+## Sharing Your Personal Information
 
 We may share your personal information with third parties for the purposes of operating our business, delivering, improving, and customizing our Services, sending marketing and other communications related to our business, and for other legitimate purposes permitted by applicable law or otherwise with your consent.  We shall never sell your personal data to third parties.
 
@@ -43,13 +39,13 @@ We may share personal information for Zenoss business operations in the followin
   * In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company.
   * With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of Zenoss, its business partners, you, or others; or as otherwise required by applicable law.
   * In aggregated, anonymized, and/or de-identified form which cannot reasonably be used to identify you.
-  * I will [visit the Zenoss communications preference](https://pages.zenoss.com/Unsubscribe.html) webpage to hereby consent to use my Personal Information for Zenoss to collect, use, share and communicate to interact with Zenoss and their Services in accordance with the above.
+  * I will [visit the Zenoss communications preference](https://pages.zenoss.com/Unsubscribe.html) webpage to hereby consent to use my Personal Information for Zenoss to collect, use, share and communicate to interact with Zenoss and their Services in accordance with the above.
 
 
 
 (I shall be returned to this Privacy Policy after my opt-in consent determination.)
 
-###  **Use of Cookies and other Web Technologies**
+## Use of Cookies and other Web Technologies
 
 Like many websites, Zenoss uses automatic data collection tools, such as cookies, embedded web links, and web beacons. These tools collect certain standard information that your browser sends to our website. Examples include your browser type and the address of the website from which you arrived at our website.
 
@@ -78,9 +74,9 @@ A “cookie” is a string of information that a website stores on a visitor's c
 
 Some web browsers may give you the ability to enable a "do not track" feature that sends signals to the websites you visit, indicating that you do not want your online activities tracked. This is different from blocking or deleting cookies, as browsers with a "do not track" feature enabled may still accept cookies.
 
-No industry standard currently exists on how companies should respond to "do not track" signals, although one may develop in the future. Zenoss websites do not currently recognize and respond to "do not track" signals. If we do in the future, we will describe how in this Privacy Statement. You can learn more about "do not track" at [www.allaboutdnt.com](http://www.allaboutdnt.com/).
+No industry standard currently exists on how companies should respond to "do not track" signals, although one may develop in the future. Zenoss websites do not currently recognize and respond to "do not track" signals. If we do in the future, we will describe how in this Privacy Statement. You can learn more about "do not track" at [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-###  **Uses of Your Personal Information**
+## Uses of Your Personal Information
 
 Zenoss may use your personal information for the purposes of operating our business, delivering, improving, and customizing our websites and Services, sending marketing and other communications related to our business, and for other legitimate purposes permitted by applicable law. Some of the ways we may use personal information include:
 
@@ -118,16 +114,16 @@ Zenoss needs your help in keeping your personal information accurate and up to d
 
   * Some Zenoss entities may act as or be considered "data controllers". When a Zenoss department is acting as a data controller, you can exercise your rights of access and request corrections, suppression, or deactivations under applicable data protection laws directly with that Zenoss entity as described in the specific Solution documentation.
   * If you need additional assistance, or help with accessing, correcting, suppressing, or deleting your personal information, please feel free to contact us directly. We will conduct good faith efforts to honor reasonable requests to access, delete, update, suppress, or correct your data. We will respond to your request within 30 days. If we are unable to honor your request, we will provide you with an explanation.
-  * Please contact us at [privacy@zenoss.com](mailto:privacy@Zenoss.com) for any such request.
+  * Please contact us at [privacy@zenoss.com](mailto:privacy@Zenoss.com) for any such request.
 
 
 
-###  **Selecting Your Communication Preferences**
+## Selecting Your Communication Preferences
 
 We give you the choice of receiving a variety of information related to our Services. You can manage your communication preferences through the following methods:
 
   * By following the instructions included in each promotional email from us to unsubscribe from that particular mailing.
-  * By visiting the Zenoss communications preference webpage linked [here](https://pages.zenoss.com/Unsubscribe.html).
+  * By visiting the Zenoss communications preference webpage linked [here](https://pages.zenoss.com/Unsubscribe.html).
   * By sending us a message through [email](mailto:privacy@zenoss.com) or by mail to:
 
 
@@ -162,23 +158,23 @@ Also, please recognize that individual forums and chat rooms may have additional
 
 If you are under the age of 13, please do not use this site.  Zenoss encourages parents and guardians to take an active role in their children's online activities.  Zenoss does not knowingly collect personal information from children without appropriate parental or guardian consent. If you believe that we may have collected personal information from someone under the applicable age of consent in your country without proper consent, please let us know using the methods described in the Contact Us section and we will take appropriate measures to investigate and address the issue promptly.
 
-###  **California Privacy Rights**
+## California Privacy Rights
 
 Residents of the State of California, under California Civil Code § 1798.83, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an opt-out or opt-in choice for use of your personal information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
 
 Zenoss qualifies for the alternative option. We have a comprehensive privacy statement, and provide you with details on how you may either opt-out or opt-in to the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year.
 
-If you are a California resident and request information about how to exercise your third-party disclosure choices, please email us at [privacy@zenoss.com](mailto:privacy@zenoss.com).
+If you are a California resident and request information about how to exercise your third-party disclosure choices, please email us at [privacy@zenoss.com](mailto:privacy@zenoss.com).
 
-###  **How can you contact us?**
+## How can you contact us?
 
 If you have any questions about this statement or our privacy practices, you may contact us via email at [privacy@zenoss.com](mailto:privacy@zenoss.com).
 
-###  **What is the effective date of this version of the privacy policy?**
+## What is the effective date of this version of the privacy policy?
 
 This version of the privacy policy is effective as of May 25, 2018. Any new provisions will be effective as soon as they are posted.
 
-###  **Privacy Policy Changes**
+## Privacy Policy Changes
 
 From time to time, we may make changes to our information practices and/or this policy. In such a case, we will update this policy accordingly, so please review this page periodically for the latest information on our privacy practices.
 
