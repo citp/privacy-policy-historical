@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613212754id_/http%3A//egnsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813232039id_/http%3A//egnsoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | EGN Software - MLM Script | Network Marketing | Multi Level Marketing Software | Online business
 
