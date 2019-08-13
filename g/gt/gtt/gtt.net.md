@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtt.net privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505074311id_/https%3A//www.gtt.net/us-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtt.net privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813094227id_/https%3A//www.gtt.net/gb-en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
