@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105200052id_/https%3A//www.upmchealthplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813152618id_/https%3A//www.upmchealthplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | UPMC Health Plan
 
@@ -67,6 +67,7 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
   * [Personal Representative Designation Form](https://p.widencdn.net/o6ydgd/CM_PRDForm_Web)
   * [Member Authorization to Use/Disclose PHI](https://p.widencdn.net/vyxqcu/CM_PHIForm_Web)
   * [Alternate Address Request Form](https://p.widencdn.net/lud9oe/CM_Alternate-Request-Form_Web)
+  * [Formulario de nombramiento de representante personal](https://embed.widencdn.net/pdf/plus/upmc/5qzqv7ku57/2019-inf-prd-es_web.pdf)
 
 
 
@@ -91,7 +92,7 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
   * [Notice of Privacy Practices](https://p.widencdn.net/9h9uzm/CHIP_NOPP_web)
   * [Personal Representative Designation Form](https://p.widencdn.net/6gdh7v/CHIP_PRDForm_Web)
   * [Member Authorization to Use/Disclose PHI](https://p.widencdn.net/ktvysb/CHIP_PHIFrom_web)
-  * [Notificación de prácticas de privacidad](https://p.widencdn.net/tllnaa/chip-privacy-sp_web)
+  * [Notificación de prácticas de privacidad](https://embed.widencdn.net/pdf/plus/upmc/xs5tbtbvvg/2019-chip-upmc-notice-privacy-practices-es_web.pdf?u=ogmehe)
 
 
 
