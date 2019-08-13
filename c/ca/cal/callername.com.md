@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callername.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406221344id_/http%3A//callername.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callername.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813182330id_/http%3A//callername.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
