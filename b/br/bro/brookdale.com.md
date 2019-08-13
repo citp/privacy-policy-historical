@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookdale.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009150135id_/https%3A//www.brookdale.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookdale.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813024950id_/https%3A//www.brookdale.com/en/privacy-policy.html%3Fcap%3Dprivacy) for the most accurate reproduction.*
 
 # Brookdale Senior Living Privacy Policy
 
@@ -83,8 +83,8 @@ Last Updated: March 2016
 **Terms of Use**  
 [Brookdale Terms of Use](https://web.archive.org/en/privacy-policy/terms-of-use.html "Brookdale Terms of Use")
 
-**Equal Opportunity Employment Policy**  
-[English](https://web.archive.org/content/dam/brookdale/en/documents/Equal-Opportunity-ENGLISH.pdf "Equal Opportunity English") / [Spanish](https://web.archive.org/content/dam/brookdale/en/documents/Equal-Opportunity-SPANISH.pdf "Equal Opportunity Spanish") / [Hmong](https://web.archive.org/content/dam/brookdale/en/documents/Equal-Opportunity-HMONG.pdf "Equal Opportunity HMong")
+**Equal Employment Opportunity Policy**  
+[Brookdale](https://web.archive.org/content/dam/brookdale/en/documents/DOC_EEO_policy_f01_final.pdf)
 
 **HIPAA Information**  
 [Brookdale Senior Living HIPAA Information ****](https://web.archive.org/en/hipaa.html "Brookdale HIPAA")
