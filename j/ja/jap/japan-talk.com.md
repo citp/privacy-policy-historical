@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424160539id_/https%3A//www.japan-talk.com/jt/new/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813144711id_/https%3A//www.japan-talk.com/jt/new/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Japan Talk
 
@@ -69,6 +69,23 @@ People Who Viewed This Also Viewed
   
 
 
+  
+
+
+## Recently on Japan Talk
+
+  
+
+
+[](https://www.japan-talk.com/jt/new/koenji-awa-odori) | | 
+
+## [2019 Koenji Awa Odori](https://www.japan-talk.com/jt/new/koenji-awa-odori)
+
+posted by John Spacey  
+A massive traditional dance festival in a trendy Tokyo neighborhood better known for punk.   
+  
+---|---|---  
+  
   
 
 
