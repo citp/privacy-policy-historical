@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastmidlandstrains.co.uk privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625215820id_/https%3A//www.eastmidlandstrains.co.uk/site-information/legal-privacy/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastmidlandstrains.co.uk privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814013257id_/https%3A//www.eastmidlandstrains.co.uk/site-information/legal-privacy/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | East Midlands Trains
 
