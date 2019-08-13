@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istartsurf.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620121510id_/http%3A//www.istartsurf.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istartsurf.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813161614id_/http%3A//www.istartsurf.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
