@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docprime.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122225533id_/https%3A//docprime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docprime.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813084710id_/https%3A//docprime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | docprime
 
