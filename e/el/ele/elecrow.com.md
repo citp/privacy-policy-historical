@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elecrow.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403160621id_/https%3A//www.elecrow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elecrow.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813114803id_/https%3A//www.elecrow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ West of F-building 8th floor,
 
 Fusen industry park ,
 
-Gushu Hangcheng road ,Bao'an Ave, 
+Gushu Hangcheng road ,Bao'an Ave,
 
 Shenzhen city,
 
@@ -48,4 +48,4 @@ China
 
 +86 0755-23204330
 
-[service@elecrow.com](mailto:service@elecrow.com)
+[service@elecrow.com](mailto:service@elecrow.com) 
