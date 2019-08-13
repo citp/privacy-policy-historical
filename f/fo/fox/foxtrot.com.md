@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtrot.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519224613id_/http%3A//www.foxtrot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtrot.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813021221id_/http%3A//www.foxtrot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FoxTrot Comics by Bill Amend
 
