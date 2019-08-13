@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalyan-city.blogspot.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122224922id_/http%3A//kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html%23Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalyan-city.blogspot.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813180142id_/https%3A//kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html%23Privacy_policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy of Kalyan City Life Blog
 
@@ -27,7 +27,7 @@ To know more about and/or to clarify any of the above-mentioned or missed points
 
 ##  **Privacy policy of blog**
 
-Google (a 3rd party vendor) uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie "Read more on HTTP Cookies on Wikipedia") to serve advertisements (ads) on [kalyan-city.blogspot.com](http://kalyan-city.blogspot.com/ "Kalyan City life Blog") and its other country-specific TLDs (ccTLDs). The use of DoubleClick DART cookie enables Google to serve relevant contextual ads to users based on their visits to this blog and other websites on the internet. To know more about how ads are served users may opt to read [Google advertising privacy policy](http://www.google.com/policies/privacy/ads/ "Privacy policy of Google Advertising").
+Google (a 3rd party vendor) uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie "Read more on HTTP Cookies on Wikipedia") to serve advertisements (ads) on [kalyan-city.blogspot.com](http://kalyan-city.blogspot.com/ "Kalyan City life Blog") and its other country-specific TLDs (ccTLDs). The use of DoubleClick DART cookie enables Google to serve relevant contextual ads to users based on their visits to this blog and other websites on the internet. To know more about how ads are served users may opt to read [Google advertising privacy policy](https://www.google.com/policies/privacy/ads/ "Privacy policy of Google Advertising").
 
 Cookie is a small data file that is sent from a web server and gets stored in a user's browser. The cookie is stored when a user is browsing through a website. Cookies are harmless tiny files and may not affect the functioning of a computer system. However, they do raise privacy concerns as they keep a long-term record of users browsing patterns.
 
@@ -41,7 +41,7 @@ If your online privacy is of great concern to you, then we suggest you better ta
 
 Like many other websites, this blog also use web analytics tools and/or softwares like Google Analytics and Woopra. These services anonymously collect data and keep server logs (records) of all users' activities on this blog. These logs mainly contain a record of user's IP address, country of origin, name of browser or user-agent used, operating system (OS), screen resolution, address of referring site, visit durations, searched keywords, etc.
 
-A web log is created when any user sends an information request on this blog. Furthermore, we don't directly track a user's presence on this blog. The user data is collected and securely stored only by above-mentioned web analytics tools. This information helps us (admins of this blog) to study and understand the needs, demands and behaviour of our incoming traffic. This overall, prepare us to give our visitors a quality knowledge sharing experience. To find out more on this, users may opt to read privacy policy of [Google Analytics](http://www.google.com/policies/privacy/ads/#toc-analytics "Privacy policy of Google Analytics") and [Woopra](http://www.woopra.com/privacy/ "Privacy policy of Woopra").
+A web log is created when any user sends an information request on this blog. Furthermore, we don't directly track a user's presence on this blog. The user data is collected and securely stored only by above-mentioned web analytics tools. This information helps us (admins of this blog) to study and understand the needs, demands and behaviour of our incoming traffic. This overall, prepare us to give our visitors a quality knowledge sharing experience. To find out more on this, users may opt to read privacy policy of [Google Analytics](https://www.google.com/policies/privacy/ads/#toc-analytics "Privacy policy of Google Analytics") and [Woopra](http://www.woopra.com/privacy/ "Privacy policy of Woopra").
 
 To prevent web analytics tools from collecting your details you may opt to **disable the javascript** option in your default browser. To find out where this option is exactly located, refer your browser's help file.
 
@@ -54,8 +54,3 @@ We promise to abide by this policy strictly.
 The current policy is, in effect, from 24th September 2012.
 
 Yours Truly, Kalyan City Life Team.
-
-  
-
-
-### Related
