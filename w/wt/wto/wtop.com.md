@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtop.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621010035id_/http%3A//corporate.hubbardradio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtop.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814001428id_/http%3A//corporate.hubbardradio.com/privacy-policy) for the most accurate reproduction.*
 
 # Hubbard Radio – Privacy Policy
 
