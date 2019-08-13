@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zopbuy.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612165700id_/http%3A//zopbuy.com/accordion) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopbuy.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813034736id_/http%3A//zopbuy.com/accordion) for the most accurate reproduction.*
 
 # Security and Privacy – ZopBuy – Online Shopping
 
