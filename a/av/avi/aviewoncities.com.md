@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521091607id_/http%3A//aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2019-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190813192418id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
 
 # A View On Cities - Privacy Policy
 
