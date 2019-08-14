@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficbonus.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629071938id_/http%3A//trafficbonus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbonus.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814182855id_/http%3A//www.trafficbonus.com/privacy) for the most accurate reproduction.*
 
 # Traffic Bonus Member's Area
 
