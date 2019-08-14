@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the swarajyamag.com privacy policy that was archived on 2019-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190402152259id_/https%3A//swarajyamag.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swarajyamag.com privacy policy that was archived on 2019-08-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190814183737id_/https%3A//swarajyamag.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/NewsArticle"><head>
   <link rel="manifest" href="/manifest.json">
@@ -14,7 +14,7 @@
     }]);
     OneSignal.push(["sendTag", "swarajya-breaking-news", "true"]);
   </script>
-    <meta name="csrf-token" id="csrf-token" content="daAHsiXA7C7vJJCfEPKZ4GATLW1QSpzsi6NFgesS">
+    <meta name="csrf-token" id="csrf-token" content="0oXWQa8VvFvMEwsoKILu8WyGy1h5T3NI1WCsEWGf">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta name="twitter:widgets:csp" content="on">
     <meta property="fb:pages" content="670321879700525">
@@ -28,7 +28,7 @@
     <meta name="keywords" content="Swarajya, Read India Right, Rajaji, India, Politics, Narendra Modi, BJP, RSS, Congress">
     <link rel="shortcut icon" href="https://fea.assettype.com/swarajya/assets/favicon-93c01b605c.ico">
     <link rel="alternate" type="application/atom+xml" href="/feed" title="Swarajya - Read India Right ATOM Feed">
-    <link rel="stylesheet" type="text/css" href="https://fea.assettype.com/swarajya/assets/application-4bd6c00d2f.css">
+    <link rel="stylesheet" type="text/css" href="https://fea.assettype.com/swarajya/assets/application-2a779ee8fd.css">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,400italic,700,700italic">
 
     <meta name="title" content="Privacy Policy">
@@ -483,7 +483,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1516690481363-0');
               </a>
             </div>
             <div class="swarajya-nsubscribe">
-                <a href="https://subscriptions.swarajyamag.com/regular-plans/?utm_source=direct&amp;utm_medium=website&amp;utm_campaign=homepage" title="Subscribe" class="swarajya-subscribe-link">
+                <a href="https://subscriptions.swarajyamag.com/join-us/?utm_source=direct&amp;utm_medium=website&amp;utm_campaign=homepage" class="swarajya-subscribe-link" title="Subscribe">
                     Subscribe
                 </a>
             </div>
@@ -564,6 +564,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1516690481363-0');
                                                                                                         <li class="section">
                                             <a role="link" style="color:#000000" href="https://swarajyamag.com/weekend-issues">Weekend Issues Archive</a>
                                     </li>
+                                                            </ul>
+            <ul>
+                                                                        <li class="section">
+                                            <a role="link" style="color:#000000" href="https://swarajyamag.com/section/news-brief">News Brief</a>
+                                    </li>
                                                 <li class="section mobile-msection-link">
                     <a role="link" style="color:#000000" href="https://swarajyamag.com/users/profile">My Profile</a>
                 </li>
@@ -577,9 +582,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1516690481363-0');
                 <div class="magazine-title">Magazine</div>
 
                 <div class="magazine-cover">
-                    <a href="https://swarajyamag.com/issue/15212">
+                    <a href="https://swarajyamag.com/issue/25705">
                         <figure>
-                            <img src="//images.assettype.com/swarajya/2019-04/432a43f6-a2a8-460f-8e1c-6806149b9437/april_cover.jpg?w=237&amp;q=60&amp;fmt=pjpeg&amp;auto=format" alt="Current Issue">
+                            <img src="//images.assettype.com/swarajya/2019-08/34af1b8e-5254-469f-ab9c-1911b4e42f78/August_Cover__1_.jpg?w=237&amp;q=60&amp;fmt=pjpeg&amp;auto=format" alt="Current Issue">
                         </figure>
                     </a>
 
@@ -609,7 +614,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1516690481363-0');
         </a>
         <h5>Sign in to your account</h5>
         <form method="post" accept-charset="utf-8" action="https://swarajyamag.com/users/login">
-            <input type="hidden" name="_token" value="daAHsiXA7C7vJJCfEPKZ4GATLW1QSpzsi6NFgesS">
+            <input type="hidden" name="_token" value="0oXWQa8VvFvMEwsoKILu8WyGy1h5T3NI1WCsEWGf">
             <div style="display:none;">
                 <input type="hidden" name="_method" value="POST">
             </div>
@@ -1410,6 +1415,47 @@ $(document).ready(function () {
 			return false;
    }
 
+
+   var bigpictureCount = 1;
+   var bigpicture_ajax = false;
+   $('.load-more-bigpicture').click(function(){
+   $('#image-source').toggleClass("loading-bigpicture");
+       if(bigpicture_ajax == false){
+                    bigpicture_ajax = true;
+                    setTimeout(loadBigpicture(), 1000);
+                }
+   });
+
+   function loadBigpicture(){
+
+   var bigpictureLimit = 10;
+   var bigpictureOffset = bigpictureLimit * bigpictureCount;
+
+   var url = "/bigpicture/top/"+bigpictureLimit+"/"+bigpictureOffset;
+
+     $.ajax({
+                url: url,
+                type: 'GET',
+                data: "",
+                success: function(data){
+                    if(data != ''){
+                        $('.bigpicture-collection-content').append(data);
+						lazyLoad();
+						$('#image-source').toggleClass("loading-bigpicture");
+						bigpicture_ajax = false;
+                        bigpictureCount++;
+                    }
+                },
+				statusCode: {
+                    404: function() {
+                      $('.load-more-bigpicture').hide();
+                    }
+                }
+            });
+			return false;
+   }
+
+
    var fact_checking_offset = 1;
    var fact_checking_limit = 2;
    var fact_ajax = false;
@@ -1737,6 +1783,17 @@ $(document).ready(function () {
       window.location = "https://subscriptions.swarajyamag.com/offer/?offer="+recurringPlan+"&utm_source=direct&utm_medium=website&utm_campaign=fromarticlebottom";
     });
 
+     $(".patron-plan").click(function(){
+
+      ga('send', 'event', {'eventCategory': 'User Action','eventAction': 'Appeal Box Patron','eventLabel': 'Appeal Box Patron'});
+      window.location = "https://subscriptions.swarajyamag.com/patron/?utm_source=webiste&utm_medium=appealbox&utm_campaign=patron";
+    });
+
+    $(".regular-subscriber-plan").click(function(){
+
+      ga('send', 'event', {'eventCategory': 'User Action','eventAction': 'Appeal Box Regular Subscribe','eventLabel': 'Appeal Box Regular Subscribe'});
+      window.location = "https://subscriptions.swarajyamag.com/digital/?utm_source=box&utm_medium=appealbox&utm_campaign=appealbox";
+    });
 
     $(".sponsor-now").click(function(){
 
@@ -1760,7 +1817,7 @@ $(document).ready(function () {
     $(".story-card-view .story-elements:nth-child(2) .smag-astory-container").attr("id","non-subscriber-text");
 
 </script>
-<script type="text/javascript" src="https://fea.assettype.com/swarajya/assets/application-e0d52ec693.js"></script>
+<script type="text/javascript" src="https://fea.assettype.com/swarajya/assets/application-0521e3f152.js"></script>
 <script type="text/javascript">
     app.initQtReady();
 	app.subscribe.subscribePopup(paywallTrigger);
