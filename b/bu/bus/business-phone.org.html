@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the business-phone.org privacy policy that was archived on 2019-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190627164143id_/http%3A//business-phone.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the business-phone.org privacy policy that was archived on 2019-08-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190814113940id_/http%3A//business-phone.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" itemscope="itemscope" itemtype="http://schema.org/WebPage"><!-- head --><head>
 
@@ -429,7 +429,7 @@ google_ad_height = 250;
 	<input type="text" class="field" name="s" id="s" placeholder="Enter your search">			
 	<input type="submit" class="submit" value="" style="display:none;">
 	
-</form></aside><aside id="text-15" class="widget widget_text">			<div class="textwidget"><p><iframe src="http://business-phone.org/ad/ad3/300x250-1.html" frameborder="0" scrolling="NO" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups"></iframe></p>
+</form></aside><aside id="text-15" class="widget widget_text">			<div class="textwidget"><p><iframe src="http://business-phone.org/ad/ad3/300x250-1.html" frameborder="0" scrolling="NO" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups" style="width:100%;height:250px"></iframe></p>
 </div>
 		</aside><aside id="text-2" class="widget widget_text"><h3>FIND US</h3>			<div class="textwidget"><a href="#" class="icon_bar  icon_bar_facebook icon_bar_small"><span class="t"><i class="icon-facebook"></i></span><span class="b"><i class="icon-facebook"></i></span></a>
 <a href="#" class="icon_bar  icon_bar_google icon_bar_small"><span class="t"><i class="icon-gplus"></i></span><span class="b"><i class="icon-gplus"></i></span></a>
@@ -460,7 +460,7 @@ google_ad_height = 600;
 	<li class="cat-item cat-item-4"><a href="http://business-phone.org/category/voip-calling/" title="VOIP Calling can be difficult. Read here on how it can be made easy!">VOIP Calling</a>
 </li>
 		</ul>
-			</aside><aside id="text-17" class="widget widget_text">			<div class="textwidget"><p><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://business-phone.org/ad/ad2/300x250-1.html" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups"></iframe></p>
+			</aside><aside id="text-17" class="widget widget_text">			<div class="textwidget"><p><iframe src="http://business-phone.org/ad/ad1/300x250-1.html" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups" style="width:100%;height:250px"></iframe></p>
 </div>
 		</aside></div></div>
 	</div>
@@ -544,7 +544,39 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/business-phone.org\/wp-json\/contac
 <script type="text/javascript" src="http://business-phone.org/wp-includes/js/comment-reply.min.js?ver=5.1.1"></script>
 <script type="text/javascript" src="http://business-phone.org/wp-content/plugins/wp-spamshield/js/jscripts-ftr-min.js"></script>
 <script type="text/javascript" src="http://business-phone.org/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
-
+        <script type="text/javascript">
+            function AI_responsive_widget() {
+                jQuery('object.StefanoAI-youtube-responsive').each(function () {
+                    jQuery(this).parent('.fluid-width-video-wrapper').removeClass('fluid-width-video-wrapper').removeAttr('style').css('width', '100%').css('display', 'block');
+                    jQuery(this).children('.fluid-width-video-wrapper').removeClass('fluid-width-video-wrapper').removeAttr('style').css('width', '100%').css('display', 'block');
+                    var width = jQuery(this).parent().innerWidth();
+                    var maxwidth = jQuery(this).css('max-width').replace(/px/, '');
+                    var pl = parseInt(jQuery(this).parent().css('padding-left').replace(/px/, ''));
+                    var pr = parseInt(jQuery(this).parent().css('padding-right').replace(/px/, ''));
+                    width = width - pl - pr;
+                    if (maxwidth < width) {
+                        width = maxwidth;
+                    }
+                    jQuery(this).css('width', width + "px");
+                    jQuery(this).css('height', width / (16 / 9) + "px");
+                    jQuery(this).find('iframe').css('width', width + "px");
+                    jQuery(this).find('iframe').css('height', width / (16 / 9) + "px");
+                });
+            }
+            if (typeof jQuery !== 'undefined') {
+                jQuery(document).ready(function () {
+                    var tag = document.createElement('script');
+                    tag.src = "https://www.youtube.com/iframe_api";
+                    var firstScriptTag = document.getElementsByTagName('script')[0];
+                    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+                    AI_responsive_widget();
+                });
+                jQuery(window).resize(function () {
+                    AI_responsive_widget();
+                });
+            }
+                </script>
+        
 
 
 
