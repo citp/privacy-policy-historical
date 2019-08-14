@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nttgame.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208173648id_/https%3A//www.nttgame.com/en/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nttgame.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814225532id_/https%3A//www.nttgame.com/en/corporate/privacypolicy) for the most accurate reproduction.*
 
 # NTTGame Portal – Free to Play Online Games Portal - About Us
 
