@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orangesoda.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914162139id_/http%3A//www.orangesoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangesoda.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814173650id_/https%3A//www.orangesoda.com/privacy-policy) for the most accurate reproduction.*
 
-# OrangeSoda Privacy Policy
+# Privacy Policy | OrangeSoda
 
 ### ORANGESODA PRIVACY POLICY
 
