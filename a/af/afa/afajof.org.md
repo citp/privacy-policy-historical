@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the afajof.org privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510093927id_/http%3A//afajof.org/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afajof.org privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815014858id_/https%3A//afajof.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - American Finance Association
-
-## Privacy Policy
+# Privacy Policy - The American Finance Association
 
 afajof.org (the ‘Website’) is published by Wiley Periodicals, Inc. a subsidiary of John Wiley & Sons, Inc., (registered office: 111 River Street, Hoboken, NJ 07030, USA) (‘we’ or the ‘Publisher’) in association with selected reputable providers. We, the Publisher recognize the importance of protecting any information we collect about you, our afajof.org Users and will take all reasonable steps to maintain the security, integrity and privacy of your information in accordance with our Privacy Policy. By submitting your information to afajof.org, you consent to the practices described. 
 
@@ -13,7 +11,7 @@ afajof.org does not collect personal data about you automatically through the us
 **Use of User Information**  
 There will be no disclosure of information obtained about you, the Users of afajof.org to any third party without your express consent.
 
-If required by law or to enforce the afajof.org [Terms of Use](https://web.archive.org/page/TermsofUse);
+If required by law or to enforce the afajof.org [Terms of Use](https://afajof.org/terms-and-conditions/);
 
 Where necessary in connection with services provided by appropriate intermediaries, who will be required to comply with the confidentiality provisions of this policy;
 
