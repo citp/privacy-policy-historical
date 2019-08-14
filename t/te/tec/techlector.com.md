@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techlector.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408152759id_/https%3A//techlector.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlector.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814184426id_/https%3A//techlector.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TecHLecToR
 
@@ -26,7 +26,7 @@ Cookies, depending on your stay, can be divided into session or permanent cookie
 
 In addition, depending on their purpose, cookies can be classified as:
 
-  * ### **Embedded content from other websites**
+  * ###  **Embedded content from other websites**
 
 
 
@@ -35,7 +35,7 @@ Articles on this site may include embedded content (e.g. videos, images, article
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-  * ### **Performance Cookies**
+  * ###  **Performance Cookies**
 
 
 
@@ -46,14 +46,14 @@ For example, in this type include:
 
   *     * Volume settings for VCRs or sound.
     * The video streaming speeds that are compatible with your browser.
-  * ### **Geolocation cookies**
+  * ###  **Geolocation cookies**
 
 
 
 
 Cookies are used to determine which country the site or service is used. This cookie is completely anonymous and is only used to help guide the content of your location.
 
-  * ### **Registration Cookies**
+  * ###  **Registration Cookies**
 
 
 
@@ -63,7 +63,7 @@ They are generated when the user is registered or later opened their session, an
   *     * Keep the user identified so that if you close a web browser, service or computer and at another time or another day re-enter the service or web, will remain identified, thus facilitating your navigation without having to identify. This feature can be deleted if the user presses the “Exit” feature, so this cookie is deleted and the next time that you enter the site the user will have to re-authenticate to be connected.
     * Verify that the user is authorized to access certain services, such as participating in a contest.
     * In addition, some services may use third-party connectors such as Facebook, Twitter, or Google. When you enter a service with network credentials or a third-party identification system, you authorize the third party to maintain a persistent cookie that remembers your identity and guarantees access to the service until it expires. You may delete this cookie and revoke access to the service through third-party social networks or third-party identification systems by updating your preferences on the specific social network.
-  * ### **Analysis Cookies**
+  * ###  **Analysis Cookies**
 
 
 
@@ -77,7 +77,7 @@ The main objectives are:
       * If the user you are accessing is new or recurring.
 
 
-  * ### **Advertising Cookies**
+  * ###  **Advertising Cookies**
 
 
 
@@ -92,21 +92,21 @@ Companies that generate these cookies have their own privacy policies.
 
 TecHLecToR.com uses Google to manage these services. For more information, visit <https://policies.google.com/technologies/ads>.
 
-  * ### **Technical cookies**
+  * ###  **Technical cookies**
 
 
 
 
 Technical cookies are used on the Site for the sole purpose of making it possible to browse the site and allow you to use its features. These are always first-party cookies, as they are conveyed directly by us on the Site. Some technical cookies are essential to offer you an optimal browsing experience or to allow you to authenticate on the site, for example, to make a purchase on the Site or enter in your reserved area (so-called browsing cookies). Browsing cookies are normally session cookies and therefore, once the browser is closed, they are automatically deactivated. Other technical cookies are used to allow you to store some of your preferences (for example, the language or country of origin) without having to reset them during subsequent visits (cd functionality cookies). For this reason, functionality cookies are often persistent cookies, as they remain stored on your computer even after the browser is closed until the expiration date provided for them or until you have decided to delete them. As required by current legislation on privacy, for the installation of these cookies is not required your prior consent. Of course, you are free to block the installation of technical cookies, by changing the settings of your browser (read paragraph E, No. 1 to know how to do). Consider, however, that by blocking the installation of technical cookies, or subsequently eliminating them, the ability to access the site, to use all or part of it.
 
-  * ### **Other information**
+  * ###  **Other information**
 
 
 
 
 As highlighted in the introduction to this statement, the Company collects and processes some of your personal data through cookies that it carries directly on the Site (first-party cookies). The Company acts as the data controller of this data, in compliance with the provisions of the Privacy Code. We will treat your data only with electronic tools, in a totally automated way and without human intermediation. Therefore, our employees and collaborators will never access the content of your personal data obtained through cookies. Some of our employees and collaborators, appointed by us as data processors, may carry out maintenance work on the computer systems that host your data, without ever being able to access their actual content. Personal data may be stored on servers managed by third parties (eg IT systems providers) or may be managed by subjects specialized in online advertising, acting as external data controllers on the basis of a specific appointment in writing by part of the Company. We inform you that, in compliance with the conditions and guarantees established by law, your data may be transferred to countries outside the European Economic Area, which may not offer a level of protection of privacy and personal data protection comparable to that guaranteed by European privacy laws. Your personal data will not be disclosed to third-party data controllers nor will they be disseminated. IT system providers) or could be managed by subjects specialized in online advertising, acting as external data controllers on the basis of a specific written appointment by the Company. We inform you that, in compliance with the conditions and guarantees established by law, your data may be transferred to countries outside the European Economic Area, which may not offer a level of protection of privacy and personal data protection comparable to that guaranteed by European privacy laws. Your personal data will not be disclosed to third-party data controllers nor will they be disseminated. IT system providers) or could be managed by subjects specialized in online advertising, acting as external data controllers on the basis of a specific written appointment by the Company. We inform you that, in compliance with the conditions and guarantees established by law, your data may be transferred to countries outside the European Economic Area, which may not offer a level of protection of privacy and personal data protection comparable to that guaranteed by European privacy laws. Your personal data will not be disclosed to third-party data controllers nor will they be disseminated. who act as external data controllers on the basis of a specific written appointment by the Company. We inform you that, in compliance with the conditions and guarantees established by law, your data may be transferred to countries outside the European Economic Area, which may not offer a level of protection of privacy and personal data protection comparable to that guaranteed by European privacy laws. Your personal data will not be disclosed to third-party data controllers nor will they be disseminated. who act as external data controllers on the basis of a specific written appointment by the Company. We inform you that, in compliance with the conditions and guarantees established by law, your data may be transferred to countries outside the European Economic Area, which may not offer a level of protection of privacy and personal data protection comparable to that guaranteed by European privacy laws. Your personal data will not be disclosed to third-party data controllers nor will they be disseminated. your data may be transferred to countries outside the European Economic Area, which may not offer a level of protection of privacy and personal data protection comparable to that guaranteed by European privacy laws. Your personal data will not be disclosed to third-party data controllers nor will they be disseminated. your data may be transferred to countries outside the European Economic Area, which may not offer a level of protection of privacy and personal data protection comparable to that guaranteed by European privacy laws. Your personal data will not be disclosed to third-party data controllers nor will they be disseminated.
 
-  * ### **Comments**
+  * ###  **Comments**
 
 
 
@@ -115,14 +115,14 @@ When visitors leave comments on the site we collect the data shown in the commen
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-  * ### **Media**
+  * ###  **Media**
 
 
 
 
 If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-  * ### **How long we retain your data**
+  * ###  **How long we retain your data**
 
 
 
@@ -131,30 +131,30 @@ If you leave a comment, the comment and its metadata are retained indefinitely. 
 
 For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-  * ### **What rights you have over your data**
+  * ###  **What rights you have over your data**
 
 
 
 
 If you have an account on this site or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-  * ### **Where we send your data**
+  * ###  **Where we send your data**
 
 
 
 
 Visitor comments may be checked through an automated spam detection service.
 
-## **How to disable cookies on your browser**
+##  **How to disable cookies on your browser**
 
 Most browsers now allow the user to configure whether or not to accept cookies. These settings are usually found in your browser’s “options” or “Preferences” menu.
 
 Here are the instructions for setting cookies in the main browsers:
 
-  * _Chrome_  : Settings -> Show advanced options -> Privacy -> Content settings. For more information, you can check Google support or browser Help.
-  * _Firefox_  : Tools -> Options -> Privacy -> History -> Custom Settings. For more information, see Mozilla support or browser Help.
-  * _Internet Explorer_  : Tools -> Internet Options -> Privacy -> Settings. For more information, see Microsoft support or the browser Help.
-  * _Safari_  : Preferences -> Security. For more information, see Apple Support or Browser Help.
+  *  _Chrome_  : Settings -> Show advanced options -> Privacy -> Content settings. For more information, you can check Google support or browser Help.
+  *  _Firefox_  : Tools -> Options -> Privacy -> History -> Custom Settings. For more information, see Mozilla support or browser Help.
+  *  _Internet Explorer_  : Tools -> Internet Options -> Privacy -> Settings. For more information, see Microsoft support or the browser Help.
+  *  _Safari_  : Preferences -> Security. For more information, see Apple Support or Browser Help.
 
 
 
@@ -168,14 +168,14 @@ Before using this tool, we recommend that you carefully read the general terms 
 
 Use Your Online Choices consciously. Although, in fact, Your Online Choices brings together many of the most important advertising companies that use cookies, some of the third parties that install cookies through the Site may not have joined Your Online Choices. Therefore, the use of Your Online Choices does not guarantee that you will receive third-party cookies by browsing the Site. Also remember that by deleting all cookies from your browser, even technical cookies issued by Your Online Choices to remember your choices could be deleted, making third-party cookies active again.
 
-### **Changes To This Privacy Policy**
+###  **Changes To This Privacy Policy**
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-**Contact Us**
+ **Contact Us**
 
 If you have any questions about this Privacy Policy, please [contact us](https://techlector.com/contact-us/).
 
-_updated: 22/5/18_
+ _updated: 22/5/18_
