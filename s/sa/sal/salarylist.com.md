@@ -1,118 +1,171 @@
-> *The following text is extracted and transformed from the salarylist.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927070217id_/http%3A//www.salarylist.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salarylist.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814162418id_/https%3A//www.salarylist.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY
+Updated: November 20, 2018
 
-Date of Last Revision: May 6th, 2011
+**Your Privacy Matters** ****
 
-Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:   
-A. We do not rent or sell your personally identifiable information to third parties for marketing purposes.  
-B. We do not share your contact information with another User without your consent.  
-C. Any personally identifiable information that you provide will be secured with industry standard protocols and technology.
+CareerSpace’s mission is to provide information and tools to help people find fulfilling jobs and grow in their career to achieve professional success.  Central to this mission is our commitment to be transparent and compliant about the data we collect about you, how it is used and with whom it is shared.
 
-SalaryList.com Privacy Policy Highlights  
-This page summarizes the key highlights from our privacy policy. By using SalaryList.com and other JobsAndCareer.com network sites, you represent that you are 13 years old or older and you consent to the information collection and use practices described herein. For more information, read our full privacy policy below.  
-Personal information collected  
-We collect information:  
-When you register an account to become a user (“User”), such as your name, e-mail, country, location and a password.  
-When you add to your profile with further information about yourself or your private contacts.  
-We use cookies and other technologies to recognize you, customize your experience and serve advertisements.  
-We automatically receive from your internet use such information as your IP address, the URLs of sites from which you arrive or leave the JobsAndCareer.com websites, your type of browser and your ISP.  
-Uses of personal information  
-We use the information you provide to:  
-Administer your account with us and customize the service we provide to you.  
-To send you service or promotional communications through email and notices on the JobsAndCareer.com network sites.  
-We do not sell, rent or otherwise provide your personal identifiable information to any third parties for marketing purposes.  
-We provide you with the means to control whether or not your contact information is shared with another User.  
-In order to deliver our services, we may share information with third parties.  
-Enable you to share your information and communicate with other Users, or provide (usually at your option) your personal details to third parties offering combined services with JobsAndCareer.com.  
-Your information choices  
-You can:  
-Review, enhance or edit your personal information through your account settings page.  
-Choose what information you make available through your public profile.  
-Control the messages you receive from JobsAndCareer.com and other Users and how these messages are sent.  
-Change your settings to control visibility and accessibility through our website.  
-Tell us to close your JobsAndCareer.com account.  
-Security  
-Personal information you provide will be secured with industry standards and technology.  
-How to contact us  
-If you have any questions or comments please contact us (Attn: Privacy Policy).  
-====================  
-SalaryList.com Privacy Policy  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the JobsAndCareer.com service after notice of changes have been sent to you or published on the JobsAndCareer.com network sites, you are consenting to the changes.  
-Please read this privacy policy to learn more about:  
-What personally identifiable information of yours is collected by JobsAndCareer.com network sites.  
-How the information is used.  
-With whom the information may be shared.  
-How you can access and change your account settings.  
-What security procedures are in place to protect the loss, misuse or alteration of information collected by JobsAndCareer.com network sites.  
-How to contact us.  
-1\. Personal Information Collected  
-The purpose of the JobsAndCareer.com network sites is to permit Users to voluntarily share jobs and career related information for the purposes of achieving jobs satisfaction and career success. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the JobsAndCareer.com network sites. If you have any hesitation about providing such information to us and/or having such information displayed on the JobsAndCareer.com network sites or otherwise used in any manner permitted in this Privacy Policy and the Terms of Use, you should not become a member of the JobsAndCareer.com network sites community.  
-We collect your personal information in the following ways:  
-1.1 Registration  
-In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including JobsAndCareer.com network sites, to identify you: name, email address, country, ZIP/postal code, a brief summary of your background, and a password chosen by you.  
-1.2 Profile Information  
-Once you become a User, you may provide additional information describing your skills, professional experiences, and career objectives. Providing additional information beyond what is required at registration to become a User is entirely optional, but enables you to better identify yourself and find new opportunities in the JobsAndCareer.com network sites system to build and leverage our career network. Any information you provide at registration or in the Profile section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used hereunder, including for the purpose of serving advertisements through the service. If you opt-out you may lose the potential benefit of being a User, including receiving ads that are more targeted to your interests.  
-1.3 Contacts Information  
-In order to invite others to connect with you directly in JobsAndCareer.com network sites, you may use the JobsAndCareer.com network sites services to invite them if they are a User, or enter their names and email addresses. This information will be used by JobsAndCareer.com network sites to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders.
+This Privacy Policy sets out how CareerSpace uses the personal information we collect and receive about you.  We offer our users choices about the data we collect, use and share as described in this Privacy Policy, Cookie Policy, and our Terms of Service.
 
-  You may also choose to manually enter or upload data about your contacts into your account settings section of the JobsAndCareer.com network sites. You may not invite anyone to connect with you whom you do not know. All information entered there will only be viewable by you and will not be searchable by others in the JobsAndCareer.com network sites without your permission. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own information.  
-1.4 Customer Service  
-JobsAndCareer.com network sites may collect information through the JobsAndCareer.com network sites in order to, among other things, accurately categorize and respond to a customer’s inquiry and deliver appropriate service levels.  
-1.5 Cookies  
-Like most websites, JobsAndCareer.com network sites use cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows JobsAndCareer.com network sites to recognize you as a User when you return to the JobsAndCareer.com network sites using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to use the JobsAndCareer.com network sites. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on our website.  
-One type of cookie, known as a “persistent” cookie, is set once you’ve logged in to your JobsAndCareer.com network sites account. The next time you visit the JobsAndCareer.com network sites, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. In order to access or change any of your private information or to send a message to another User, however, you must log in securely again with your password even if your computer contains your persistent cookie.  
-Additionally, if you log out of the JobsAndCareer.com network sites you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a “session” cookie, is used to identify a particular visit to the JobsAndCareer.com network sites. Session cookies expire after a short time or when you close your web browser.  
-We use cookies to improve the quality of our service by storing User preferences and tracking User trends. In the course of serving advertisements or optimizing services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, your occupation, or information about your professional or educational background, for greater customization of your user experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the JobsAndCareer.com network sites or services. JobsAndCareer.com network sites do not store personally identifiable information in the cookies.
+This Privacy Policy applies to all the products, services, websites and apps offered by Career Space Inc. and its affiliates (collectively “CareerSpace”), except where otherwise noted.  Those websites include [_http://www.careeranswers.com_](http://www.careeranswers.com/)  [ _http://www.resumematch.com_](http://www.resumematch.com/)  [ _http://www.interviewanswers.com_](http://www.interviewanswers.com/)  [ _http://www.jobcompare.com_](http://www.jobcompare.com/)  [ _http://www.salarylist.com_](http://www.salarylist.com/)  and [_http://www.careerspace.com_](http://www.careerspace.com/)   We refer to those products, services, websites and apps collectively as the “services” in this policy.  Unless otherwise noted, our services are provided by Career Space Inc. inside of the United States.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click Google ad and content network privacy policy  
-1.6 Log Files, IP Addresses and Information about Your Computer  
-Due to the communications standards on the Internet, when you visit the JobsAndCareer.com network sites we automatically receive the URL of the site from which you came and the site to which you are going when you leave JobsAndCareer.com network sites. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the JobsAndCareer.com network sites service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law.  
-1.7 Consent toJobsAndCareer.com Network Sites Processing Information about You  
-Certain information you provide to JobsAndCareer.com network sites may reveal, or allow others to identify, your nationality, ethnic origin, religion or other aspects of your private life, and more generally about you. Please be aware that in providing information to JobsAndCareer.com network sites for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and JobsAndCareer.com network sites’ Terms of Use. The supplying of all such information by you to JobsAndCareer.com network sites, including all information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the Terms of Use, but please note that your withdrawal of consent will not be retroactive.  
-1.8 Rights to Access, Correct and Eliminate Information about You  
-You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein.  
-We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by contacting us (Attn: Privacy Policy)  
-2\. Uses of Personal Information  
-JobsAndCareer.com network sites are online service dedicated to helping peoples more effectively connect with one another to achieve job satisfaction and career success. The personally identifiable information you choose to provide on our websites is used to help you describe yourself to other Users. Other information, that does not personally identify you as an individual, is collected by JobsAndCareer.com network sites from Users (such as, for example, patterns of utilization) and is exclusively owned by JobsAndCareer.com network sites. This information can be utilized by JobsAndCareer.com network sites in such manner as JobsAndCareer.com network sites, in its sole discretion, deems appropriate.  
-2.1 JobsAndCareer.com Network Sites Communications  
-JobsAndCareer.com network sites will communicate with you through email and notices posted on the JobsAndCareer.com network sites or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges for messages to your mobile device). These include a series of up to three welcome emails which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from JobsAndCareer.com network sites related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. JobsAndCareer.com network sites may send you promotional information unless you have opted out of receiving such information. You can change your e-mail and contact preferences at any time by logging into your account settings and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by contacting us.  
-2.2 Customized Content  
-Information provided to JobsAndCareer.com network sites (or to third parties with whom it offers combined services) is also used to customize your experience on our website. For example, when you login to your account we will display the screen names of new Users who have recently followed you.  
-2.3 Sharing Information with Third Parties  
-JobsAndCareer.com network sites take the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information.  
-JobsAndCareer.com network sites offer a “public profile” feature which allows Users to publish portions of their JobsAndCareer.com network sites profile, including their “name”, but not their “email address” to the public Internet. Users may opt-out of this feature by contacting us, however JobsAndCareer.com network sites do not warrant how often third-party search engines will update their cache.  
-We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on JobsAndCareer.com network sites. We may segment our Users by role (i.e. interview coach, career center), industry, geographic location, or company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Users’ activities on the site, please contact us.  
-2.4 Surveys and Polls  
-As a User, you will receive requests to participate in market research including polls and surveys submitted by other JobsAndCareer.com network sites members. If you participate in surveys and polls offered through our website, the information you provide may be visible to others using the JobsAndCareer.com network sites. You may opt-out of participating by contacting us to stop receiving these inquiries and requests.  
-2.5 Forums/Chats/Blogs  
-If you post on the Answers section of JobsAndCareer.com network sites, or use a bulletin board, import a blog, or participate in a chat room on JobsAndCareer.com network sites, you should be aware that any personally identifiable information you choose to provide there can be read, collected, or used by other Users of these forums, as well as other third parties, and could be used to send you unsolicited messages. JobsAndCareer.com network sites are not responsible for the personally identifiable information you choose to submit in these forums.  
-2.6 Communications to Other Users  
-Many emails you initiate through JobsAndCareer.com network sites, e.g., an invitation sent to a non-User, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many answers you have provided), but will not list the people to whom you’re directly connected. Other communications that you initiate through the JobsAndCareer.com network sites, like a private message, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.  
-2.7 Legal Disclaimer  
-It is possible that we may need to disclose personal information when required by law, such as responses to civil or criminal subpoenas, or other requests by law enforcement personnel. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, subpoena, or other legal process or request to JobsAndCareer.com network sites brought in any country throughout the world, or to exercise our legal rights or defend against legal claims.  
-2.8 Disclosures to Others  
-We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a JobsAndCareer.com network site or company. Any third party to which we transfer or sell JobsAndCareer.com’s assets will have the right to continue to use the personal and other information that you provide to us.  
-3\. Your Information Choices  
-3.1 Accessing and Changing Your Account Information  
-You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your JobsAndCareer.com network sites account including your email, and contact preferences, at any time by logging in to your account on the JobsAndCareer.com network sites. Please be aware that even after your request for a change is processed, JobsAndCareer.com network sites may, for a time, retain residual information about you in its backup and/or archival copies of its database.  
-3.2 Closing Your Account  
-You can also close your account through the JobsAndCareer.com network sites. If you close your JobsAndCareer.com network sites account, we will remove your name and other personally identifiable information from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. To request that we close your account and remove your information from the JobsAndCareer.com network sites, please contact us. You will receive an email response to account closing requests. Please send your reply using an email account that you have registered with JobsAndCareer.com network sites under your name.  
-4\. Your Obligations  
-As a User, you have certain obligations toward the other Users with whom you will be communicating. Certain of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities of like-minded members, such as JobsAndCareer.com network sites:  
-You must, at all times, respect the terms and conditions of the then-current Privacy Policy and the Terms of Use. This includes respecting all intellectual property rights which may belong to third parties (such as photographs).  
-You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of JobsAndCareer.com network sites and its community of Users.  
-You must not provide information to JobsAndCareer.com network sites and /or other Users which you believe might be injurious or detrimental to your person, professional or social status.  
-Any violation of these guidelines may lead to the restriction, suspension or termination of your account by JobsAndCareer.com network sites, as we take these principles seriously and consider them to be the basis on which our Users adhere to the JobsAndCareer.com network sites and the services which it offers.  
-5\. Important Information  
-5.1 Children  
-Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.  
-5.2 Changes to this Privacy Policy  
-JobsAndCareer.com network sites may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on the JobsAndCareer.com network sites or send you an email, as provided for above. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.  
-If you use the JobsAndCareer.com network sites service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.  
-6\. Security  
-In order to secure your personal information, access to your data on JobsAndCareer.com network sites is password-protected when it is exchanged between your web browser and the JobsAndCareer.com network sites. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center. It is your responsibility to protect the security of your login information. Please note that emails and instant messaging and similar means of communication with other users of JobsAndCareer.com network sites are not encrypted and we strongly request you not to communicate any confidential information through these means.  
-7\. How to contact us  
-If you have questions or comments about this privacy policy, please contact us (Attn: Privacy Policy).
+**Types of Personal Information** ****
+
+CareerSpace collects personal information in support of its mission to provide information and tools to help people find fulfilling jobs and grow in their career to achieve professional success.  This personal information is collected through a variety of ways.  For example, we collect personal information through the registration and use of our software and mobile apps, whether downloaded or accessed through a cloud-based service.  We also collect personal information when you use or visit CareerSpace websites, attend a CareerSpace hosted or sponsored event, or participate in a CareerSpace community.  We may receive your personal information if you are a CareerSpace supplier or partner.  We may also receive your information from third party partners.  If you have other agreements with CareerSpace, then those agreements control with regard to the subject matter they cover.
+
+The type of information we collect will depend on your interactions with CareerSpace. It may include:
+
+**Contact and Log In Information.**  Name, employer, title, email address, physical address, phone number, and similar contact info, user names and passwords.
+
+**Payment Information.**  Credit card number, banking information and billing address.
+
+**Demographic Information.**  Employment status, occupation, region.  On occasion, CareerSpace may collect other demographic information, such as gender, race and age.
+
+**Registration Information.**  Product registration information, product interest information, transaction information, and in some cases, student verification information.  We may also collect registration information related to your attendance at CareerSpace events, including travel info, scheduling information, food preferences or allergies, accessibility requests and others.
+
+**Usage and Geographic Data.**  CareerSpace collects personal information related to your use of our products, services and websites so that we can analyse and improve.  CareerSpace may use aggregated, non-personally identifiable usage data for external training and marketing purposes.  In some instances, CareerSpace may provide administrative functionality that allows you to opt out of the collection of some usage data.
+
+Usage data may include information about your computer's or mobile device's operating system and browser type, device type, details about how you are using our products (but not including the underlying data), view your Internet Protocol (IP) address, geographic areas derived from your IP address, networking connection data, CareerSpace cookie information, file information, metadata, time stamped logs regarding access times and duration of visits, the websites you visited before coming to CareerSpace websites, and other usage data relating to your activities on our Sites, including the pages you request.  We may link this information to the personal information you provide for purposes described in this Privacy Policy, and may provide targeted product information back to users based on their user data.
+
+**Third Party Data.**  We may receive your personal information from third party suppliers or partners.  If you connect with CareerSpace accounts on third party social networking sites, we may receive information about your social networking accounts, for example, your name, user name or display name, public profile, and email address.  We may combine information you provide with data we collect automatically and with data we receive from third parties.  Certain third parties, including analytics companies, advertisers and ad networks, may automatically collect information about you through our websites using cookies, Web beacons, and device identifiers, including personal information about your online activities over time and across different websites, devices, online channels and applications.
+
+**Images, Video and Recordings.**  Pictures, videos or audio recordings may be collected by CareerSpace. For example, if you attend a CareerSpace event, your image may be captured in a photo or video. If you call CareerSpace customer support, your call may be recorded.
+
+If you decline to provide your personal information or ask us to delete it, we may be unable to continue to provide or support our products or services.
+
+**Ways we Use Personal Information** ****
+
+We use the personal information we collect for the purposes described in this Privacy Policy, as covered in any agreement that incorporates this Policy, or as disclosed to you in connection with our websites.  For example, we will use your information to:
+
+• Provide and deliver products or services, including software updates;
+
+• Operate and improve our operations, systems, products, and services;
+
+• Understand you and your preferences to enhance your experience;
+
+• Respond to your comments and questions and provide customer service;
+
+• Send you service-related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+
+• Communicate with you and your referrals about promotions, upcoming events, and news about products and services offered by CareerSpace and our selected partners;
+
+• Link or combine information about you with other personal information we get from third parties, to help understand your needs and provide you with better and more personalized service;
+
+• Enforce our terms and conditions or protect our business, partners, or users; or
+
+• Protect against, investigate, and deter fraudulent, unauthorized, or illegal activity
+
+**Reasons for Using Your Information** ****
+
+When we process your personal information we will only do so where at least one of the following applies:
+
+• We need to use your personal information to perform our responsibilities under our contract with you and to provide you with tools and services;
+
+• We have a legitimate reason to use your personal information.  For example, it is in our legitimate interests to use your personal information to improve our products and services; to tell you about changes to this Privacy Policy and other policies; to tell you about new products, services and events or changes to our products, services or websites; for business reasons (for example to develop and expand our business); and to tell you about offers or promotions we are running;
+
+• You have given consent to use your personal information.  You may withdraw consent by "opting out" where we give you the opportunity to do so, or by contacting us using the contact details below.
+
+• If it is necessary for us to use your personal information in order to comply with a legal obligation; or
+
+• You have chosen to make the information public.  You should not share any personal information which you wish to keep confidential or private.
+
+**Sharing of Personal Information** ****
+
+CareerSpace works to keep your personal information confidential and secure, and does not sell your personal data.  In some circumstances CareerSpace may share your information with third parties, for example:
+
+• We may share your personal information when we have your permission, including when you choose to share information using CareerSpace Public or post to our community websites;
+
+• We provide personal information to trusted partners who work on behalf of or with CareerSpace to provide us with services, for example, our training and certification partners, and our data storage and marketing vendors and software providers.  These companies may use your personal information to perform services and to help CareerSpace communicate with you about offers from CareerSpace and our marketing partners.  CareerSpace maintains contracts with these companies restricting their access, use and disclosure of personal information in compliance with this Privacy Policy and any legal obligations;
+
+• If you connect to your third party accounts through our products, we will use that information to authenticate you, enumerate the data sources available to you, download any data you request us to, and download and refresh authentication tokens or persist authentication information such as user names and passwords as necessary to continue to connect to these data;
+
+• We may share your personal information with our current or future affiliates, which may include parent and subsidiary companies, joint ventures, or other companies under common control, in which case we will require our affiliates to honor this Privacy Policy;
+
+• We will disclose your personal information to comply with legal requirements, for example, in response to a court order or a subpoena.  We also may disclose your personal information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, verify, prevent, enforce compliance with, or take action regarding illegal or suspected illegal activities; suspected fraud; situations involving potential threats to the physical safety of any person; protection of the rights and property of CareerSpace, our agents, customers, or others; violations or suspected violations of our agreements and policies; or as otherwise required or permitted by law or consistent with legal requirements;
+
+• We transfer or disclose your personal information for corporate reasons.  For example, to third parties in connection with or during negotiation of any merger, financing, acquisition, bankruptcy or similar transaction.  We may also share personal information with our auditors, attorneys or other advisors in the connection with corporate functions; and
+
+• Finally, we also share aggregated, anonymized or statistical information about you, including demographics data, with others for a variety of purposes, for example, for improving products and services for CareerSpace and others.
+
+We may facilitate third party services or ways to share data through third parties, including social media platforms, websites, applications, and services through “plug-ins,” widgets, buttons, and other third party features on and connected with our websites, communications or products.  Third parties whose services you use in connection with CareerSpace, such as our training and certification partners, or third parties whose websites we link to, may have information practices that are different from ours.  This Privacy Policy does not apply to the activities of third parties when they are collecting or using data for their own purpose or on behalf of others. We are not responsible for the activities of these third parties.  We encourage you to review their privacy policies to understand how they use your information.
+
+**Storage and Security of Your Personal Information** ****
+
+We have reasonable and appropriate physical, electronic, and managerial procedures in place to help safeguard your personal information.  However, you should know that no company, including CareerSpace, can fully eliminate security risks associated with personal information.  To help protect yourself, use a strong password, do not use the same passwords to access your CareerSpace accounts that you use with other accounts or services, and protect your user names and passwords to help prevent others from accessing your accounts and services.  For more information about CareerSpace security practices, see https://www.careerspace.com/legal/security.
+
+We offer you the ability to post information and exchange ideas through our websites and other services such as CareerAnswers.  Because your posts and information shared through CareerAnswers are public and can be seen by others, we caution all users to consider what they post and not to disclose any personal information.  CareerSpace will not be responsible in the event that you disclose personal information in your posts, through our public services or during any other communication with other website users.
+
+Information collected by CareerSpace or on our behalf may be stored on your computers, on your mobile devices, or on our servers, and may be transferred to, accessed from, or stored and processed in, the United States and other countries including but not limited to Ireland, the United Kingdom, France, Germany, Australia, Singapore, Japan, and China, and any other country where CareerSpace or its service providers maintain facilities or support centers (a list of CareerSpace offices can be found here: https://www.careerspace.com/about/contact), including jurisdictions that may not have data privacy laws that provide protections equivalent to those provided in your home country.  However, we will protect all personal information we obtain in accordance with this Privacy Policy and take reasonable steps to ensure that it is treated lawfully.
+
+In certain circumstances we may retain your personal information after you have closed your account or are no longer actively engaged with CareerSpace.  For example:
+
+• We may retain your personal information after you have closed your account so that we can send you information about products, services and publications we think you may be interested in.  You can "unsubscribe" to receiving such messages or tell us you are no longer interested;
+
+• We may retain your personal information in order to protect our legal rights, or those of third parties, or to comply with the law; and
+
+• We may retain personal information about how you have used our products and services in order to improve and develop our business.
+
+• If you purchase products or services from us, we may retain your personal information for as long as we need to in order to provide you with customer service, or for compliance purposes, for example, in order to comply with our record keeping requirements.
+
+**Controlling your Personal Information** ****
+
+Our marketing emails permit you to "opt-out" of receiving further marketing emails.  You may contact us at customerservice@careerspace.com at any time to let us know that you no longer wish to receive further marketing emails.  If you opt-out, we may still send you transactional emails.  Transactional emails include emails about your accounts and our business dealings with you, such as renewals and updates, and, as allowed by applicable law, requests for your participation in surveys.
+
+When you use our websites, you can usually choose to set your browser to remove cookies and to reject cookies from our servers.  If you choose to remove or reject cookies, this could affect certain features or services of our websites.  For information about how to remove or manage cookies please read our cookie policy.
+
+You may have the right, depending on which country you reside in, to ask us to provide a copy of the personal information we hold about you (provided that we may ask you for proof of your identity).  You may also have the right to ask us to correct any inaccuracies in your personal information or to ask us to delete it.  We will consider these requests regardless of where you live.
+
+In addition, if you are based in the EU and accessing our Sites, then you also have the right to ask us to:
+
+• Confirm whether or not personal information about you is being processed;
+
+• Provide you with details about how we process your personal information;
+
+• Consider your valid objection to the processing of your personal information (including the right to object to processing on grounds relating to your particular situation where we are relying on our legitimate interests as a legal basis for processing your personal information);
+
+• Update or delete personal information which we hold about you;
+
+• Restrict the way we process your personal information;
+
+• Consider your valid request to transfer your personal information to a third party provider of services (data portability); and
+
+• Ask us to treat your consent as withdrawn if you have previously provided us with consent to process your personal information and we rely on it as our legal basis for processing.
+
+If you need help or wish to exercise any of the above rights or have questions about them, please contact us at privacy@careerspace.com.  We will consider all such requests and provide our response as soon as we can.  Please note, however, that personal information may be exempt from such requests in certain circumstances, which may include circumstances where we need to keep processing your personal information for our legitimate interests or to comply with a legal obligation.  We may request you provide us with information necessary to confirm your identity.
+
+**Cookies and Web Beacons** ****
+
+Our websites may use various software technologies including “cookies,” “web beacons” and “pixel tags.”  “Cookies” are small text files that we and others may place in visitors' computer browsers to store their preferences.  "Web beacons" or “Pixel tags” are small pieces of code placed on a web page or within the body of an email to monitor the behavior and collect data about the visitors viewing a web page or viewing or opening an email.  For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.  We may use web beacons on our websites from time to time for this and advertising purposes.
+
+We partner with third parties who may place cookies on your browser when you visit our websites, may send their own cookies to your cookie file, and may use those cookies to track and collect information about you and your online activities over time and across different websites, devices, and applications and to provide targeted advertising based on your interests and previous browsing history.
+
+Third party ad networks may automatically collect information about your visits to our websites and other websites, such as your IP address, your Internet service provider, and the browser you use to visit our websites.  They do this using cookies, web beacons or other technologies.  You can learn more about practices of many of these third parties by visiting the Digital Advertising Alliance (http://www.aboutads.info/choices/) in the USA, Digital Advertising Alliance of Canada (http://youradchoices.ca/) in Canada or the European Digital Advertising Alliance (http://www.youronlinechoices.eu/) in Europe.  This Privacy Policy does not apply to, and we are not responsible for, cookies or web beacons and other technologies in third party advertising.  We encourage you to check the privacy policies of third party advertisers and/or ad services to learn about their use of cookies, web beacons and other technology.  For more information about the cookies and related technologies used on our websites, please refer to our Cookie Policy (www.careerspace.com/cookies/).
+
+**Privacy Shield and Data Transfer** ****
+
+For the personal information of residents of the European Economic Area (EEA), CareerSpace adheres to the Privacy Shield Principles (as outlined here: https://www.privacyshield.gov/welcome) and is an active participant in the Privacy Shield framework.  Our Privacy Shield certification covers the types of personal information set out in this Privacy Policy, and CareerSpace is subject to the investigative and enforcement powers of the Federal Trade Commission.
+
+If we transfer your personal information to third parties outside the EEA will only do so where one of the following applies:
+
+• In the case of transfers of personal information to the US, if the recipient is a member of the Privacy Shield Framework;
+
+• Where the transfer of personal information is to a corporate affiliate of CareerSpace, and we have in place binding corporate rules with such member which safeguard the personal information;
+
+• Where we have in place standard model contractual clauses approved by the European Commission or other legally compliant terms; or
+
+• There is an adequacy decision by the European Commission which means that the recipient country is deemed to provide adequate protection for such personal information.
+
+You may direct any inquiries or complaints concerning our Privacy Shield compliance to privacy@careerspace.com.  You may also contact JAMS, at https://www.jamsadr.com/eu-us-privacy-shield. JAMS has committed to respond to complaints and to provide appropriate recourse at no cost to you.  If neither CareerSpace nor JAMS resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.  You may also make a complaint to the relevant EU data privacy supervisory authority.
+
+**How to contact us** ****
+
+Career Space Inc. is located in the United States.
+
+If you have any questions about how we use your personal information, or if you have any other privacy-related questions, please contact us at privacy@careerspace.com or at CareerSpace Inc., Attn: CareerSpace Legal, 15600 Redmond Way Suite 101, Redmond, Washington 98052.
+
+**Updates** ****
+
+From time to time, we will update this Privacy Policy.  In the event there are material changes to our information practices, we will note those changes on CareerSpace’s Privacy Policy webpage (www.careerspace.com/legal/privacy-policy) and in some cases send a notification of changes via email.
