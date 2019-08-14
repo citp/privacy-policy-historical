@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616231823id_/https%3A//www.bowlerocorp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814055234id_/https%3A//www.bowlerocorp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bowlero Corporation
 
@@ -145,7 +145,7 @@ By using Company’s tools, products, and services which this Privacy Policy is 
 
 ### 12\. QUESTIONS REGARDING THIS PRIVACY POLICY
 
-If you have questions regarding this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4106342432351224333728222401032e362d24332e022e33316f222e2c) or by mail at AMF Corporate, 7313 Bell Creek Rd., Mechanicsville, VA 23111.
+If you have questions regarding this Privacy Policy, please contact us at [GuestService@BowleroCorp.com](mailto:GuestService@BowleroCorp.com) or by mail at AMF Corporate, 7313 Bell Creek Rd., Mechanicsville, VA 23111.
 
 ### 13\. MODIFICATIONS TO THIS PRIVACY POLICY
 
