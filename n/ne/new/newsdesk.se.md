@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsdesk.se privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613202013id_/https%3A//www.mynewsdesk.com/about/terms-and-conditions/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsdesk.se privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814055742id_/https%3A//www.mynewsdesk.com/about/terms-and-conditions/privacy_policy) for the most accurate reproduction.*
 
 # Mynewsdesk is the world's leading all-in-one brand newsroom and multimedia PR platform.
 
