@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lme.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611181145id_/https%3A//www.lme.com/About/Legal/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lme.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815013110id_/https%3A//www.lme.com/en-GB/About/Legal/Privacy-statement) for the most accurate reproduction.*
 
 # London Metal Exchange: Privacy statement
 
