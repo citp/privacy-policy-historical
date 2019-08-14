@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hkpro.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505201240id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dhkpro.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hkpro.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814112458id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dhkpro.com) for the most accurate reproduction.*
 
 # 
 
