@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the su.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503141824id_/https%3A//su.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the su.org privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815010416id_/https%3A//su.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singularity University
 
@@ -229,13 +229,9 @@ Attn: General Counsel
 
 Singularity Education Group
 
-NASA Research Park
+2831 Mission College Blvd
 
-Building 20, S. Akron Road
-
-MS 20-1
-
-Moffett Field, CA 94035-0001
+Santa Clara, CA 95054-1838
 
 Phone: +1 (650) 200-3434
 
