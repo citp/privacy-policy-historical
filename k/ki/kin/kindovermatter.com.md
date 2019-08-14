@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kindovermatter.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424160226id_/https%3A//kindovermatter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kindovermatter.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814171051id_/https%3A//kindovermatter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - kind over matter
 
