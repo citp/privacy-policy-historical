@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logos-vector.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023640id_/http%3A//logos-vector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logos-vector.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814211239id_/http%3A//logos-vector.com/privacy) for the most accurate reproduction.*
 
 # Logos Vector - Privacy policy
 
