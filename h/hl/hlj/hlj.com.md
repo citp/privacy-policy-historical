@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the hlj.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420050710id_/https%3A//support.hlj.com/hc/en-us/articles/200989834-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlj.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814134820id_/https%3A//support.hlj.com/hc/en-us/articles/200989834-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – HobbyLink Japan
 
-Effective date: May 25, 2018
+Effective date: May 25, 2018  
+ _Updated May 22, 2019_  
 
-HobbyLink Japan, Inc. ("us", "we", or "our") operates the http://www.hlj.com website (the "Service").
+
+HobbyLink Japan Ltd. ("us", "we", or "our") operates the https://hlj.com website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [http://www.hlj.com](http://www.hlj.com/)
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from <https://support.hlj.com/hc/en-us/articles/115001722094-Terms-Conditions-of-Use>
 
 ## Definitions
 
@@ -88,7 +90,7 @@ Examples of Cookies we use:
 ##   
 Use of Data
 
-HobbyLink Japan, Inc. uses the collected data for various purposes:
+HobbyLink Japan Ltd. uses the collected data for various purposes:
 
   * To provide and maintain our Service
   * To notify you about changes to our Service
@@ -104,9 +106,9 @@ HobbyLink Japan, Inc. uses the collected data for various purposes:
 ##   
 Retention of Data
 
-HobbyLink Japan, Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+HobbyLink Japan Ltd. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-HobbyLink Japan, Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+HobbyLink Japan Ltd. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
 ##   
 Transfer Of Data
@@ -117,25 +119,25 @@ If you are located outside Japan and choose to provide information to us, please
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-HobbyLink Japan, Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+HobbyLink Japan Ltd. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ##   
 Disclosure Of Data
 
 ### Business Transaction
 
-If HobbyLink Japan, Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+If HobbyLink Japan Ltd. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 ### Disclosure for Law Enforcement
 
-Under certain circumstances, HobbyLink Japan, Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, HobbyLink Japan Ltd. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 ### Legal Requirements
 
-HobbyLink Japan, Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:
+HobbyLink Japan Ltd. may disclose your Personal Data in the good faith belief that such action is necessary to:
 
   * To comply with a legal obligation
-  * To protect and defend the rights or property of HobbyLink Japan, Inc.
+  * To protect and defend the rights or property of HobbyLink Japan Ltd.
   * To prevent or investigate possible wrongdoing in connection with the Service
   * To protect the personal safety of users of the Service or the public
   * To protect against legal liability
@@ -163,13 +165,13 @@ You can enable or disable Do Not Track by visiting the Preferences or Settings p
 ##   
 Your Rights
 
-HobbyLink Japan, Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+HobbyLink Japan Ltd. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
 Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us to make the required changes.
 
 If you are a user in the European Union and wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
 
-In certain circumstances, users in the European Union have the right:
+In certain circumstances, users in the European Union and the State of California have the right:
 
   * To access and receive a copy of the Personal Data we hold about you
   * To rectify any Personal Data held about you that is inaccurate
@@ -177,7 +179,7 @@ In certain circumstances, users in the European Union have the right:
 
 
 
-Users in the European Union have the right to data portability for the information you provide to HobbyLink Japan, Inc.. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+Users in the European Union have the right to data portability for the information you provide to HobbyLink Japan Ltd. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
@@ -202,7 +204,7 @@ For more information on the privacy practices of Google, please visit the Google
 
 ### Behavioral Remarketing
 
-HobbyLink Japan, Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+HobbyLink Japan Ltd. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
 ### Google AdWords
 
