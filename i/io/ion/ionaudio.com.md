@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ionaudio.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413060531id_/https%3A//www.ionaudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ionaudio.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814075846id_/https%3A//www.ionaudio.com/privacy-policy) for the most accurate reproduction.*
 
 # inMusic Privacy Policy
 
