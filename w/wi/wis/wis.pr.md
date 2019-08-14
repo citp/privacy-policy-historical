@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wis.pr privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613112333id_/http%3A//wis.pr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wis.pr privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814075108id_/http%3A//wis.pr/privacy) for the most accurate reproduction.*
 
 # Whisper Privacy Policy
 
