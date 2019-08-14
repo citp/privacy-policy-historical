@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpscash.nl privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031140336id_/http%3A//www.vpscash.nl/generalconditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpscash.nl privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814213422id_/http%3A//www.vpscash.nl/generalconditions) for the most accurate reproduction.*
 
 # VPSCash
 
@@ -11,7 +11,7 @@ These Terms and Conditions are drawn up in Dutch and in English. In case of any 
 IWords used in these Terms of singular or plural, beginning capitalized, have the meanings as defined in this article below. 
 
   1. **Terms and conditions:** General Terms and Conditions.
-  2. **VPSCash:** DThe private company with limited liability Virtual PC Services BV, established in (2031 ES) Haarlem at the Tingietersweg 14-16, registered with the Chamber of Commerce under number 37074926 and whose VAT Identification number: NL 8080.07.816.B.01 
+  2. **VPSCash:** DThe private company with limited liability Virtual PC Services BV, established in (1096 BC) Amsterdam at the Amstelplein 62, registered with the Chamber of Commerce under number 37074926 and whose VAT Identification number: NL 8080.07.816.B.01 
   3. **Affiliate Program:** The system of Products and Services that are offered to consumers through Affiliates. 
   4. **Affiliate:** a third company or individual, other than the Partner Program, which advertises the Products or Services of that Partner Program.
   5. **Payment Service Provider:** payment as a service on the Internet. this provider has the ability to process online payments. 
@@ -110,7 +110,7 @@ If you want to use the Member database, you will have to register as a member. W
 
 You will be asked to enter a valid e-mail address and password. In your account you can add information to your account, such as your age, date of birth, place of residence and preferences. The Website asks you for this information in order to best tailor its service to you and to put you in touch with profiles that match your preferences. To the extent you provide such personal information to the Website, you expressly authorize us to process this specific personal data.
 
-  * Data controller: Virtual PC Services B.V., established in Haarlem and registered with the Chamber of Commerce under number 37074926 and with its headquarters, Tingietersweg 14-16, 2031 ES Haarlem, support@vpscash.nl.
+  * Data controller: Virtual PC Services B.V., established in Haarlem and registered with the Chamber of Commerce under number 37074926 and with its headquarters, Amstelplein 62, 1096 BC Amsterdam, support@vpscash.nl.
   * The developers and administrators of this platform
   * The financial department
   * The service department
