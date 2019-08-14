@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowritingaid.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508171558id_/https%3A//prowritingaid.com/en/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowritingaid.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814131322id_/https%3A//prowritingaid.com/en/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,7 +118,7 @@ By using our site, you consent to our [privacy policy](https://prowritingaid.com
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 22-May-18
+This document was last modified on 01-Aug-19
 
 ## Contact us
 
