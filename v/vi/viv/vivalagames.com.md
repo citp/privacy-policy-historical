@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivalagames.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614232250id_/http%3A//www.vivalagames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivalagames.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814114525id_/http%3A//www.vivalagames.com/privacy.php) for the most accurate reproduction.*
 
 # VivaLaGames.Com - Privacy Policy
 
