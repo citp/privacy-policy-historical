@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savills.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629214047id_/http%3A//www.savills.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savills.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814173616id_/https%3A//www.savills.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Savills | Privacy Policy
 
@@ -42,17 +42,21 @@ We will collect your full name and contact details (such as phone number, email 
 
 In addition, if we are providing a service to you, or on your behalf, where we are required to do so by law, we will collect information relating to your identity, which will be at least one form of photographic identification (such as a passport, a driving licence or an identification card) and one form of documentation with proof of your place of residence (such as a recent utility bill).
 
-We will also confirm whether you have any relatives or close connections working at Savills so that we can consider potential conflict of interests and if identified how to manage these , in accordance with our statutory and regulatory obligations.
+We will also confirm whether you have any relatives or close connections working at Savills so that we can consider potential conflict of interests and if identified how to manage these, in accordance with our statutory and regulatory obligations.
 
 Depending on the service that we provide to you (or on your behalf) we may also collect additional personal information as detailed below;
 
 **Buy, Sell, Let, Rent**
 
-If you are selling or letting a property through us;
+If you are buying, selling or letting a property through us; 
 
   * We will collect a contact telephone number to get in touch with you about organising viewings and updating you on any offers received or rental applications for your property.
   * Where you are not the legal owner of the property we will request details from you as to your ability to sell or let the property such as a Power of Attorney, Guardianship Order or Grant of Probate.
-  * We will collect your bank account details to arrange onward payment of rent due to you
+  * Where you engage with Savills, we may collect information required to identify you to meet anti-money laundering and counter terrorist financing requirements.
+  * If we are dealing with an entity such as a company, trust or charity, we may need to obtain personal information for the beneficiaries of the entity and those in a position of control. This will include, but is not limited to, identity and address documents. We may also need to collect information on other individuals who have an interest in the property who are not considered to be our customers.
+  * We will collect your bank account details to arrange onward payment of rent due to you.
+  * Where we are working alongside third parties such as solicitors, developers, joint or multi agents, we may need to share these documents on the basis of legitimate interests.
+  * If you wish to purchase a property we are listing for sale where you have specifically provided us with these, we will collect personal information relating to any specific access requirements you may have in relation to a property so that we can find a property that is suitable for your needs. We will also collect personal information required to source a property for you and, where required, negotiate the purchase of a property on your behalf.
 
 
 
@@ -61,36 +65,45 @@ If you wish to rent a property we are listing;
   * Specific access requirements so that we can find a property that is suitable for your needs
   * Your bank / building / similar account details to allow us to manage an approved tenancy deposit account for you and to set up your rental payments.
   * If you are a tenant renting under the 'Right to Rent' scheme we will collect details of your Biometric residence card, your immigration status document and/or your birth certificate to carry out our required checks under this scheme
+  * We may also need to collect specific identity documents from you for the purpose of preventing and detecting crime, fraud or money laundering.
 
 
-
-If you wish to purchase a property we are listing for sale where you have specifically provided us with these, we will collect personal information relating to any specific access requirements you may have in relation to a property so that we can find a property that is suitable for your needs. We will also collect personal information required to source a property for you and, where required, negotiate the purchase of a property on your behalf.
 
 **Property Management**
 
-Where we engage with you to manage property on your behalf we will ask for additional emergency contact information in case we need to get in touch with you outside of working hours or in the event there is a matter requiring your urgent attention. Where you engage us for portfolio management services we will share your personal information with third party lenders as is necessary to allow us to fulfil our obligations to you and to properly manage and advise you on your property investments.
+  * Where we engage with you to manage property on your behalf we will ask for additional emergency contact information in case we need to get in touch with you outside of working hours or in the event there is a matter requiring your urgent attention.
+  * Where you engage us for portfolio management services we will share your personal information with third party lenders as is necessary to allow us to fulfil our obligations to you and to properly manage and advise you on your property investments.
+  * Where you are a tenant in a building managed by Savills, we may need to share your personal information with the property owner, but will only do so where we have considered your own rights first.
+  * Where we operate CCTV in a property, we may capture your image which would constitute your personal data.
+
+
 
 **Investment Management**
 
-Where you engage with Savills Investment Management LLP or one of its subsidiaries as an individual investor we will collect information required to identify you to meet anti-money laundering and counter terrorist financing requirements. If the investor is an entity such as a company, trust or charity, we may need to collect personal information about the controllers and the beneficiaries of the entity.
+  * Where you engage with Savills Investment Management LLP or one of its subsidiaries as an individual investor we will collect information required to identify you to meet anti-money laundering and counter terrorist financing requirements.
+  * If the investor is an entity such as a company, trust or charity, we may need to collect personal information about the controllers and the beneficiaries of the entity.
+
+
 
 **Other**
 
-If you subscribe to receive research, news or other market updates from us, then in addition to the above we will collect details about the sector in which you work and the type of content that you would like to receive.
+  * If you subscribe to receive research, news or other market updates from us, then in addition to the above we will collect details about the sector in which you work and the type of content that you would like to receive.
+
+
 
 **4\. How we use your personal information**
 
 What is the legal basis of our data processing?
 
-Under data protection legislation we are only permitted to use your personal information if we have a legal basis for doing so. We rely on the following legal bases to use your information;
+Under data protection legislation we are only permitted to use your personal information if we have a legal basis for doing so. We rely on the following legal bases to use your information;
 
   * For employment-related purposes
   * Where we need information to perform the contract we have entered into with you
   * Where we need to comply with a legal obligation
-  * Where the processing is necessary for us to carry out activities for which it is in Savills' legitimate interests (or those of a third party) to do so and provided that your interests and fundamental rights do not override those interests, including: 
-    * Processing that is necessary for us to promote our business, brands and products and measure the reach and effectiveness of our campaigns. – this will include sending you marketing information from time to time after you have engaged us to provide services or received services from us either which may be similar and of interest to you or where you have expressly indicated that you would like to receive such information. You have the right to opt out of receiving this information at any time.
+  * Where the processing is necessary for us to carry out activities for which it is in Savills legitimate interests (or those of a third party) to do so and provided that your interests and fundamental rights do not override those interests, including: 
+    * Processing that is necessary for us to promote our business, brands and products and measure the reach and effectiveness of our campaigns – this will include sending you marketing information from time to time after you have engaged us to provide services or received services from us either which may be similar and of interest to you or where you have expressly indicated that you would like to receive such information. You have the right to opt out of receiving this information at any time.
     * Processing that is necessary to improve our knowledge of the real estate sector – this will include undertaking market analysis and research so that we better understand trends in the property sector and provide better knowledge along with more tailored and relevant services for our customers in the future.
-    * Processing necessary for us to operate the administrative and technical aspects of our business efficiently and effectively – this will include: verifying the accuracy of information that we hold about you and create a better understanding of you as a customer; processing for administrative efficiency purposes such as where we outsource certain administrative functions to third parties who are specialise in such services; processing for network and information security purposes i.e. in order for us to take steps to protect your information against loss, damage, theft or unauthorised access or to comply with a request from you in connection with the exercise of any of your rights outlined below.
+    * Processing necessary for us to operate the administrative and technical aspects of our business efficiently and effectively – this will include verifying the accuracy of information that we hold about you and create a better understanding of you as a customer; processing for administrative efficiency purposes such as where we outsource certain administrative functions to third parties who are specialise in such services; processing for network and information security purposes i.e. in order for us to take steps to protect your information against loss, damage, theft or unauthorised access or to comply with a request from you in connection with the exercise of any of your rights outlined below.
 
 
 
@@ -107,15 +120,14 @@ We may process special categories of personal information and criminal convictio
 
 
 
-**How we use your personal information**
-
-For specific information on how your personal information will be used for the services you have requested from us, please select from any of the options below;
+Specific information on how your personal information will be used for the particular services you have requested from us is provided below.
 
 **Buy, Sell, Let, Rent**
 
-  * We use your personal information for the purposes of fulfilling our obligations to you to let or sell your property or, if you are a buyer or tenant, for the purposes of arranging a contract for sale or a lease for you.
-  * If you are purchasing a property we are acting as agents for the sale of or selling a property through us we will share your personal information with your appointed solicitors and the solicitors acting for the other side of the deal as is necessary to facilitate the sale or purchase.
-  * If you are renting a property we are acting as letting agents of, we will share your personal data with third party referencing agencies for the purposes of the prevention and detection of crime, fraud and/or money laundering and checking your suitability to rent that property.
+  * We use your personal information for the purposes of fulfilling our obligations to you to let or sell your property or, if you are a buyer or tenant, for the purposes of arranging viewings, obtaining feedback, and arranging a contract for sale or a lease for you.
+  * We will use your personal information to conduct due diligence in accordance with other legal or regulatory obligations
+  * We will share your personal information with your appointed solicitors and the solicitors and agents acting for the other side of the deal as is necessary to facilitate the sale or purchase. We may also share your personal information with joint or multi agents or developers, as the case may be.
+  * We will share your personal data with third party referencing agencies for the purposes of the prevention and detection of crime, fraud and/or money laundering and checking your suitability to rent that property.
 
 
 
@@ -123,6 +135,7 @@ For specific information on how your personal information will be used for the s
 
   * Where we are managing property on your behalf we may need to pass your personal information from time to time on to third party contractors whom we have engaged to carry out maintenance on your properties.
   * We may also pass your personal information to SPF Private Clients Limited.
+  * We operate CCTV in properties based on our legitimate interest in protecting the property and ensuring the safety of visitors, tenants and clients, as well as to assist with the prevention and detection of crime.
 
 
 
@@ -146,7 +159,7 @@ We may pass your personal data to SPF Private Clients Limited, an independent co
 **Other uses of your personal information**
 
   * If we sell any part of our business and/or integrate it with another organisation your details may be disclosed to our advisers and to prospective purchasers or joint venture partners and their advisers. If this occurs the new owners of the business will only be permitted to use your information in the same or similar way as set out in this privacy notice.
-  * We will share personal information with our regulators, governmental or quasi-governmental organisations, law enforcement authorities and with courts, tribunals and arbitrators as may be required from time to time in order to comply with our regulatory and legal obligations;
+  * We will share personal information with our regulators, governmental or quasi-governmental organisations, law enforcement authorities and with courts, tribunals and arbitrators as may be required from time to time in order to comply with our regulatory and legal obligations.
   * Where we use third party services providers who process personal information on our behalf in order to provide services to us. This includes IT systems providers and IT contractors as well as third party referencing or screening agencies for the purposes of the prevention and detection of crime.
   * We may share your personal information with any person working within the Savills Group on a need to know basis to ensure we are able to perform our obligations to you.
   * We will hold your personal information on our client management systems and use this to provide you with marketing information about similar services offered by Savills to those which you have engaged us to provide which we feel you might find useful from time to time. You have the opportunity to opt out of receiving this information at any time.
@@ -157,8 +170,8 @@ We may pass your personal data to SPF Private Clients Limited, an independent co
 
 We need some of your personal information to perform the services you have requested from us. For example:
 
-  * where we are selling a property on your behalf we need to know your contact information so that we can update you with information on viewings, offers and the progress of the sale;
-  * where you have asked us to find you a property which meets certain access requirements, we may need to know some further details about your particular circumstances so that we can find you a suitable property;
+  * where we are selling a property on your behalf we need to know your contact information so that we can update you with information on viewings, offers and the progress of the sale; and
+  * where you have asked us to find you a property which meets certain access requirements, we may need to know some further details about your particular circumstances so that we can find you a suitable property.
 
 
 
@@ -190,14 +203,15 @@ We may transfer, store, or process your personal information in locations outsid
 We’ll use one of these safeguards:
 
   * Transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Learn more on the European Commission Justice website.
-  * Put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here on the European Commission Justice website,
+  * Put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here on the European Commission Justice website.
   * Transfer it to organisations that are part of Privacy Shield. This is a framework that sets privacy standards for data sent between the US and EU countries. It makes sure those standards are similar to what is used within the EEA. You can find out more about data protection on the European Commission Justice website.
 
 
 
 **8\. Your rights in relation to your personal information**
 
-  * You have a number of rights in relation to your personal information, these include the right to:
+You have a number of rights in relation to your personal information, including the right to:
+
   * Be informed about how we use your personal information
   * Obtain access to your personal information that we hold
   * Request that your personal information is corrected if you believe it is incorrect, incomplete or inaccurate
@@ -220,25 +234,27 @@ We’ll use one of these safeguards:
 
 If you would like to exercise any of your rights please contact [data@savills.com](mailto:data@savills.com).
 
+Please note that we will keep a record of the fact that you have made a request to exercise your rights, and our response to your request, in order to demonstrate compliance with our data protection obligations and so that we can handle any queries, complaints or claims in relation to your request. This record will be kept in accordance with our retention policies at section 6 above.
+
 **9\. Complaints and Contact Details**
 
 Complaints
 
-If you have any complaints about the way we use your personal information please contact the Customer Relations Officer at complaints@savills.com who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK). If you need more information about how to contact your local data protection authority please let us know by contacting data@savills.com.
+If you have any complaints about the way we use your personal information please contact the Customer Relations Officer at [complaints@savills.com](mailto:complaints@savills.com) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK). If you need more information about how to contact your local data protection authority please let us know by contacting [data@savills.com](mailto:data@savills.com).
 
 Contact details
 
-If you have any questions, comments or requests regarding any aspect of this Privacy Policy, please do not hesitate to contact us by sending an email to data@savills.com or writing to the Database Management Team, Savills plc, 33 Margaret Street, London W1G 0JD.
+If you have any questions, comments or requests regarding any aspect of this Privacy Policy, please do not hesitate to contact us by sending an email to [data@savills.com](mailto:data@savills.com) or writing to the Database Management Team, Savills plc, 33 Margaret Street, London W1G 0JD.
 
 **10\. The use of cookies by Savills**
 
-What is a cookie?
+What is a cookie? 
 
 A cookie is a small text file that is downloaded onto your computer when you visit certain websites and allows a website to recognise a user's computer. Cookies are used to help users navigate websites more efficiently and to perform certain functions, as well as to provide information to the owners of the website.
 
-What cookies do Savills use?
+What cookies do Savills use? 
 
-The table below lists the cookies used by this website and provides a description of how each cookie works, clicking the '+' symbol will expand the box to give further explanation on each cookie. Where further information about a cookie exists on an external website a link has been provided under 'More information'.
+The table below lists the cookies used by this website and provides a description of how each cookie works, clicking the '+' symbol will expand the box to give further explanation on each cookie. Where further information about a cookie exists on an external website a link has been provided under 'More information'
 
 **How do I restrict or delete cookies?**
 
