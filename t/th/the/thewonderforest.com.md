@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewonderforest.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330155041id_/https%3A//thewonderforest.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewonderforest.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815005704id_/https%3A//thewonderforest.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer / Privacy Policy - Wonder Forest
 
