@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613143624id_/http%3A//www.howtogetridofstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814052959id_/http%3A//www.howtogetridofstuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – How to Get Rid of Stuff
 
