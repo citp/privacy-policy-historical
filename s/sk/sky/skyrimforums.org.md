@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyrimforums.org privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627124430id_/http%3A//skyrimforums.org/gaming-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyrimforums.org privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814063719id_/http%3A//skyrimforums.org/gaming-news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TESO, Skyrim and RPG News and Forums - Skyrim Forums
 
