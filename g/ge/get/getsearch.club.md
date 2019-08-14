@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsearch.club privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029080248id_/http%3A//getsearch.club/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsearch.club privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814144845id_/http%3A//getsearch.club/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
