@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usmleworld.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628145144id_/http%3A//www.uworld.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmleworld.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814102607id_/http%3A//www.uworld.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # UWorld - #1 Test Prep for USMLE, ABIM, ABFM, NCLEX, SAT, ACT & MCAT
 
