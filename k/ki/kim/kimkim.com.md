@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimkim.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403185325id_/https%3A//www.kimkim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimkim.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814192402id_/https%3A//www.kimkim.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | kimkim
 
