@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabify.io privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604142357id_/http%3A//tabify.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabify.io privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814150015id_/http%3A//tabify.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy – Tabify.io
 
