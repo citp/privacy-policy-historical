@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abyznewslinks.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613141751id_/http%3A//www.abyznewslinks.com/priva.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abyznewslinks.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815011512id_/http%3A//www.abyznewslinks.com/priva.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ABYZ News Links
 
