@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familysurvivalsystem.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621174123id_/http%3A//www.familysurvivalsystem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familysurvivalsystem.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814090047id_/http%3A//familysurvivalsystem.com/privacy.html) for the most accurate reproduction.*
 
 # FSS Privacy
 
