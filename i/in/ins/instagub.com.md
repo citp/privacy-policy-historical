@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instagub.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517165856id_/https%3A//www.instaguz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instagub.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814215046id_/https%3A//www.instagiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Instaguz
+# Privacy Policy | Instagiz
 
 #### What personal information do we collect from the people that visit our website?
 
