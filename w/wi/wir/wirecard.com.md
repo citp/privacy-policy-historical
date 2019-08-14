@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirecard.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510151249id_/https%3A//www.wirecard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirecard.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814225455id_/https%3A//www.wirecard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wirecard
 
@@ -41,9 +41,11 @@ We offer a contact form on our website. Wirecard will store the personal data pr
 
   * to respond to your contact request; 
   * in anonymized form to support our internal business objectives, namely data analyses, revisions, the development of new products, improvement of this internet presence, improvement of our services, detection of usage trends and determination of the effectiveness of our advertising campaigns;
-  * in order to prevent and identify abuse or fraud. The data collected via the contact form will not be forwarded to third parties. Affiliated companies of Wirecard AG pursuant to Sections 15 et seqq. of the German Stock Corporation Act (Aktiengesetz) are not to be regarded as third parties. Wirecard forwards your personal data to affiliated companies where necessary in order to respond to your contact request.
+  * in order to prevent and identify abuse or fraud.
 
 
+
+The data collected via the contact form will not be forwarded to third parties. Affiliated companies of Wirecard AG pursuant to Sections 15 et seqq. of the German Stock Corporation Act (Aktiengesetz) are not to be regarded as third parties. Wirecard forwards your personal data to affiliated companies where necessary in order to respond to your contact request.
 
 #### 5.3 Information you provide by registering for our newsletter 
 
@@ -93,9 +95,8 @@ This Wirecard website uses the pixel function of Facebook Custom Audience. The F
 
 The Facebook Pixel is integrated into this Wirecard website with an "advanced matching" function. The pixel initiates the processing of personal data by Facebook and enables the identification of users via numerous websites. This tracking procedure allows target group-oriented advertising. 
 
-The Facebook Pixel stores a cookie, which is a tiny text file, on your device when you access our Wirecard website. If you are logged in to Facebook at the same time or subsequently log in to Facebook, the visit of this this Wirecard website will be noted in your Facebook profile. That information is stored and processed by Facebook so that a connection to the respective user profile is possible and can be used for market research and advertising purposes. Also, data such as name and e-mail address of non-Facebook users who are not logged on to a Facebook account while visiting this Wirecard website are recorded via the pixel and its "advanced matching" function.
+The Facebook Pixel stores a cookie, which is a tiny text file, on your device when you access our Wirecard website. If you are logged in to Facebook at the same time or subsequently log in to Facebook, the visit of this this Wirecard website will be noted in your Facebook profile. That information is stored and processed by Facebook so that a connection to the respective user profile is possible and can be used for market research and advertising purposes. Also, data such as name and e-mail address of non-Facebook users who are not logged on to a Facebook account while visiting this Wirecard website are recorded via the pixel and its "advanced matching" function.  
 
-To prevent your personal data from being collected through the Facebook Pixel via this Wirecard website users can click the following link.
 
 If you want to prevent the collection of your data through the Facebook Pixel on this Wirecard website, you can use this link.
 
