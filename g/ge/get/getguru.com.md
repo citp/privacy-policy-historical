@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getguru.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222151857id_/https%3A//www.getguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getguru.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814195109id_/https%3A//www.getguru.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Guru
+# Our Privacy Policy at Guru | Guru
 
 Last Modified: June, 13th, 2018
 
