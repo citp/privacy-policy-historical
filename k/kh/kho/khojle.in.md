@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khojle.in privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630072607id_/http%3A//www.khojle.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khojle.in privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814105850id_/http%3A//www.khojle.in/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
