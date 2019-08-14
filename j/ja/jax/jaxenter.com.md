@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaxenter.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407075538id_/https%3A//jaxenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaxenter.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814052539id_/https%3A//jaxenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JAXenter
 
@@ -83,4 +83,4 @@ After clicking the link, we store an opt-out cookie with an unlimited validity o
 If you have any further questions, e.g. about data we have stored about you, please do not hesitate to contact us.  
 Software & Support Media GmbH, Schwedlerstr. 8,60314 Frankfurt, Germany is the controller according to data protection law. Contact requests may be sent via email to [info@sandsmedia.com](mailto:info@sandsmedia.com).
 
-Bitkom Servicegesellschaft mbH, Albrechtstraße 10, 10117 Berlin, Germany is our Data Protection Officer. Contact requests may be sent via email to [datenschutz@bitkom-consult.de](mailto:datenschutz@bitkom-consult.de).
+Mrs Sabrina Brameshuber – Bitkom Servicegesellschaft mbH, Albrechtstraße 10, 10117 Berlin, Germany is our Data Protection Officer. Contact requests may be sent via email to [datenschutz@bitkom-consult.de](mailto:datenschutz@bitkom-consult.de).
