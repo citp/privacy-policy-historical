@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the games-workshop.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919113203id_/https%3A//www.games-workshop.com/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-workshop.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815013650id_/https%3A//www.games-workshop.com/Privacy-Notice) for the most accurate reproduction.*
 
 # Privacy Notice | Games Workshop Webstore
 
-  * [ Contact Us ](https://web.archive.org/Contact-Us)
-  * [ Frequently Asked Questions ](https://web.archive.org/Frequently-Asked-Questions)
-  * [ Delivery ](https://web.archive.org/Delivery)
-  * [ Pre-Orders ](https://web.archive.org/Pre-Orders)
-  * [ Returns ](https://web.archive.org/Returns)
-  * [ What customers say ](https://web.archive.org/What-customers-say)
-  * [ Privacy Notice ](https://web.archive.org/Privacy-Notice)
-  * [ Cookie Notice ](https://web.archive.org/Cookie-Notice)
-  * [ Terms of Website Use ](https://web.archive.org/Terms-of-Website-Use)
-  * [ Terms and Conditions of Sale ](https://web.archive.org/Terms-and-Conditions-of-Sale)
-  * [ White Dwarf Privacy Notice ](https://web.archive.org/White-Dwarf-Privacy-Notice)
-  * [ Intellectual Property Policy ](https://web.archive.org/Intellectual-Property-Policy)
-  * [ Copyright and Legal Information ](https://web.archive.org/Copyright-and-Legal-Information)
-  * [ Taxes and Charges ](https://web.archive.org/Taxes-and-Charges)
-  * [ Rules Errata ](https://web.archive.org/Rules-Errata)
-  * [ Virtual Gift Vouchers ](https://web.archive.org/Virtual-Gift-Vouchers)
-  * [ Webstore Exclusive Products ](https://web.archive.org/Webstore-Exclusive-Products)
-  * [ Subscribe to Win: Three £100 Gift Vouchers Up For Grabs ](https://web.archive.org/Subscribe-to-Win-Three-100-Gift-Vouchers-Up-For-Grabs-GW)
-  * [ Warhammer Age of Sigmar Soul Wars - Free Warscroll Cards ](https://web.archive.org/Warhammer-Age-of-Sigmar-Soul-Wars-Free-Warscroll-Cards)
-  * [ Adeptus Titanicus Collector’s Coin ](https://web.archive.org/Titanicus_coin)
-  * [ Buy a Titan, Win a Titan ](https://web.archive.org/Buy-a-Titan-Win-a-Titan)
+  * [ Contact Us ](https://web.archive.org/en-DK/Contact-Us)
+  * [ Frequently Asked Questions ](https://web.archive.org/en-DK/Frequently-Asked-Questions)
+  * [ Delivery ](https://web.archive.org/en-DK/Delivery)
+  * [ Pre-Orders ](https://web.archive.org/en-DK/Pre-Orders)
+  * [ Returns ](https://web.archive.org/en-DK/Returns)
+  * [ Virtual Gift Vouchers ](https://web.archive.org/en-DK/Virtual-Gift-Vouchers)
+  * [ Privacy Notice ](https://web.archive.org/en-DK/Privacy-Notice)
+  * [ Cookie Notice ](https://web.archive.org/en-DK/Cookie-Notice)
+  * [ Terms of Website Use ](https://web.archive.org/en-DK/Terms-of-Website-Use)
+  * [ Terms and Conditions of Sale ](https://web.archive.org/en-DK/Terms-and-Conditions-of-Sale)
+  * [ White Dwarf Privacy Notice ](https://web.archive.org/en-DK/White-Dwarf-Privacy-Notice)
+  * [ Intellectual Property Policy ](https://web.archive.org/en-DK/Intellectual-Property-Policy)
+  * [ Copyright and Legal Information ](https://web.archive.org/en-DK/Copyright-and-Legal-Information)
+  * [ Taxes and Charges ](https://web.archive.org/en-DK/Taxes-and-Charges)
+  * [ Rules Errata ](https://web.archive.org/en-DK/Rules-Errata)
+  * [ JOIN THE BLACK LEGION! ](https://web.archive.org/en-DK/Chaos_Dogtags)
+  * [ Apocalypse Collector’s Coin ](https://web.archive.org/en-DK/Apocalypse_Coin)
+  * [ Newsletter Prize Draw - Terms & Conditions ](https://web.archive.org/en-DK/Email_Signup)
+  * [ Warcry Faction Art Cards ](https://web.archive.org/en-DK/Warcry_artcards)
 
 
 
@@ -51,6 +49,7 @@ We may collect, store, and use the following categories of your personal informa
   * Telephone call information, including call recordings, phone number and length of call.
   * Gift List information.
   * Social media profile information, including profile name and picture.
+  * Photographs.
   * Details of your visits to the Websites, and information about how your device has interacted with our Websites, including search and browsing history, the pages accessed and links clicked.
   * Information collected automatically from your device, including IP address, device type, operating system, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location) and other technical information.
 
@@ -74,9 +73,11 @@ The situations in which we will process your personal information are listed bel
   * To ensure that the Websites are presented in the most effective manner for you and your device.
   * To send you newsletters or catalogues or provide you with information, products or services that you request from us, or which we feel may interest you.
   * To carry out our obligations arising from any contracts entered into between you and us
+  * To check the authenticity of applications.
   * To process refunds.
   * To interact with you and handle and respond to communications with you.
   * To allow you to participate in interactive features of our Websites and service, when you choose to do so.
+  * To promote customer interactions, activities and engagement.
   * To notify you about changes to our service.
   * To contact you and to update you in respect of any partially complete or incomplete orders you have made.
   * To carry out your requests in respect of any Gift List you may create.
@@ -209,4 +210,4 @@ You can see when this notice was last updated by checking the date displayed at 
 
 #### 13 Contact us
 
-This notice is overseen by the Data Protection Manager of the Games Workshop group.If you have any questions, complaints or requests please make contact with our Data Protection Manager by email: [dpm@gwplc.com](mailto:dpo@gwplc.com).
+This notice is overseen by the Data Protection Manager of the Games Workshop group.If you have any questions, complaints or requests please make contact with our Data Protection Manager by email: [privacy@gwplc.com](mailto:privacy@gwplc.com).
