@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investintech.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406062321id_/https%3A//www.investintech.com/about/legal/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investintech.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814201820id_/https%3A//www.investintech.com/about/legal/policy) for the most accurate reproduction.*
 
 # Investintech.com Website Privacy Policy
 
