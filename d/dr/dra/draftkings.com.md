@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draftkings.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418212802id_/https%3A//www.draftkings.com/help/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftkings.com privacy policy that was archived on 2019-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190814211053id_/https%3A//www.draftkings.com/help/privacy/us) for the most accurate reproduction.*
 
 # DraftKings - Daily Fantasy Sports for Cash
 
