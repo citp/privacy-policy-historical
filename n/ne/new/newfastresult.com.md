@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newfastresult.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616031325id_/http%3A//www.newfastresult.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newfastresult.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815211649id_/http%3A//www.newfastresult.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Newfastresult.com- Privacy Policy
 
