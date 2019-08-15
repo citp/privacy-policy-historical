@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the codewithchris.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422155224id_/https%3A//codewithchris.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codewithchris.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816015757id_/https%3A//codewithchris.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Affiliate Disclosure
 
 ### Introduction
 
-As a reader of many other sites, I understand how important privacy, is especially in this day and age. 
+As a reader of many other sites, I understand how important privacy, is especially in this day and age.
 
 I want to ensure that my readers feel as safe as possible and the information below is full disclosure on what happens on CodeWithChris.com (a.k.a the Site).
 
@@ -36,23 +36,23 @@ If you wish to disable cookies, you may do so through your web browser options.
 
 Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
 
-**Amazon**
+ **Amazon**
 
 Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon’s Privacy Policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
 
-**Google Adsense**
+ **Google Adsense**
 
 Google Adsense, a third party advertising network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
 
-**Google Analytics**
+ **Google Analytics**
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy.](http://www.google.com/analytics/learn/privacy.html)
 
-**Google Site Stats**
+ **Google Site Stats**
 
 To measure performance, Google uses small strings of text (known as cookies) that are placed on your computer when you click on ads. Cookies typically remain active on your computer for about 30 days. If you visit certain pages of the advertiser’s website during that period, Google and the advertiser will be able to tell that you saw the ad delivered by Google. You can read more about Google Site Stats [here.](https://services.google.com/sitestats/en_US.html?cid=1060759437)
 
-**Google Remarketing**
+ **Google Remarketing**
 
 We use Google AdWords Remarketing to advertise CodeWithChris across the internet, in particular on the Google Display Network.
 
@@ -66,7 +66,7 @@ Google AdWords Remarketing allows us to tailor our marketing to better suit your
 
 If you do not wish to see ads from CodeWithChris you can opt out in several ways:  
 1\. Opt out of Google’s use of cookies by visiting Google’s [Ads Settings](http://www.google.com/settings/ads).  
-2\. Opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+2\. Opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](https://www.networkadvertising.org/managing/opt_out.asp).
 
 ### How Do We Store Your Information?
 
@@ -92,13 +92,9 @@ To remove your Disqus comments from my site, you must do that yourself by loggin
 As an advertiser on Facebook and through my Facebook page, CodeWithChris may collect content or information from a Facebook user. Such information may be used in the same manner specified in this Privacy Policy. You consent to the collection of such information. CodeWithChris abides by Facebook’s Data Use Restrictions.
 
   * Any ad data collected, received or derived from our Facebook ad (“Facebook advertising data”) is only shared with someone acting on my behalf, such as a service provider. I’m responsible for ensuring that my service providers protect any Facebook advertising data or any other information obtained from me, limit the use of all of that information, and keep it confidential and secure.
-
   * I do not use Facebook advertising data for any purpose (including retargeting, commingling data across multiple advertisers’ campaigns, or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis (unless authorized by Facebook) and only to assess the performance and effectiveness of my Facebook advertising campaigns.
-
   * I do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifiers that identify any particular user, browser, computer or device.
-
   * I do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service.
-
 
 
 
@@ -116,7 +112,7 @@ To make any of these requests, please get in touch with using our contact form [
 
 Unfortunately, that’s some jargon that I had to include in my policy, but let me speak in plain English from here on:
 
-Currently I’m an affiliate with Amazon and a publisher in the Google Adsense program so you may see some of the advertisements on the site and some of the links in my articles or on the Resources page are affiliate links which means that I’ll collect a small percentage of the sale as commission. 
+Currently I’m an affiliate with Amazon and a publisher in the Google Adsense program so you may see some of the advertisements on the site and some of the links in my articles or on the Resources page are affiliate links which means that I’ll collect a small percentage of the sale as commission.
 
 The reason that these are in place is because the small commissions add up and help support the costs to run the site and helps me feed my family without being overly intrusive to my audience’s experience and learning on the site.
 
@@ -126,4 +122,4 @@ With that said, I’d like to sincerely thank you and my readers.
 
 Chris
 
-**Last Updated: June 1st, 2018**
+ **Last Updated: June 1st, 2018**
