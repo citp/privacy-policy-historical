@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624172845id_/https%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816004727id_/https%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Gear Guide Australia
 
