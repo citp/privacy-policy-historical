@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the finder.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620184815id_/https%3A//www.finder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finder.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816010146id_/https%3A//www.finder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | finder.com
-
-We value our editorial independence, basing our comparison results, content and reviews on objective analysis without bias. But we may receive compensation when you click links on our site. Learn more about [how we make money from our partners](https://web.archive.org/how-we-make-money). 
 
 finder.com respects your privacy and shares your concern about the security of data you may submit to finder’s websites and the _related mobile applications_ and services (collectively, the “Services”). Our privacy policy (the “Privacy Policy”), which forms part of our Terms of Use, explains the information we collect, how we use and protect it, how to access and update your information, and how to manage your privacy settings when using the Services.
 
@@ -342,3 +340,5 @@ Sydney, NSW, Australia 2000
 ### Changes to finder’s Privacy and Cookies Policy
 
 This policy will be updated from time to time and becomes effective the moment it is posted on our site. The date of the most recent revision will appear on the page. Please revisit this page each time you submit personal information to finder to stay aware of any changes to this Privacy Policy. If you subsequently use our site or services, you are deemed to have accepted the amended policy. If you do not agree to these changes, please do not continue to use finder website to submit personal information to finder.
+
+Was this content helpful to you? No  Yes 
