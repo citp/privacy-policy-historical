@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackerthemes.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604032807id_/https%3A//hackerthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerthemes.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815202451id_/https%3A//hackerthemes.com/privacy) for the most accurate reproduction.*
 
 # HackerThemes
 
