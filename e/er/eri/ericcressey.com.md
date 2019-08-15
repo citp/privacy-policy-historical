@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericcressey.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403065328id_/https%3A//ericcressey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericcressey.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815212314id_/https%3A//ericcressey.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
