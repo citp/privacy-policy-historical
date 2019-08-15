@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualteen.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615090450id_/http%3A//www.virtualteen.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualteen.org privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815164047id_/http%3A//www.virtualteen.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
