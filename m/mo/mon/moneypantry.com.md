@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneypantry.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512044613id_/https%3A//moneypantry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneypantry.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815073633id_/https%3A//moneypantry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MoneyPantry
 
