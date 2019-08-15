@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509123159id_/https%3A//www.pinkcherry.ca/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815050333id_/https%3A//www.pinkcherry.ca/pages/privacy) for the most accurate reproduction.*
 
 # PinkCherry Privacy & Security Policy - Online Sex Toy Retailer | PinkCherry.ca
 
@@ -12,6 +12,8 @@ At PinkCherry.ca Canada (a division of TBMBM, Inc.), we know that your privacy a
 ### What do you do with the information that you collect from me when I purchase a product?
 
 All sales information is kept confidential and is used only for reporting purposes at PinkCherry.ca Canada. We DO NOT sell or distribute this information in any form to 3rd parties.
+
+Authenticated visitation data collected by Google signals and associated with Google user accounts may be shared with Google for analytical purposes.
 
   
 
