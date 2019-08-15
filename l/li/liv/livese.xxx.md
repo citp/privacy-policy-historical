@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livese.xxx privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615091454id_/http%3A//www.livese.xxx/en/policy%23personaldata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livese.xxx privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815134233id_/http%3A//www.livese.xxx/en/policy%23personaldata) for the most accurate reproduction.*
 
 # LiveSe.xxx - The World's #1 Live Sex Web Cam Video Chat Community
 
