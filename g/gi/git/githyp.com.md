@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the githyp.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116195355id_/http%3A//www.githyp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the githyp.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815195132id_/https%3A//www.githyp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GitHyp
 
@@ -50,7 +50,7 @@ GitHyp will also retain Usage Data for internal analysis purposes. Usage Data is
 
 **How can you review and correct information you submitted to the Site, unsubscribe, or opt out?**
 
-Your saved Account, Privacy Settings, and Personal Details can be viewed, updated, or deleted at any time by visiting http://www.githyp.com/account.
+Your saved Account, Privacy Settings, and Personal Details can be viewed, updated, or deleted at any time by visiting https://www.githyp.com/account.
 
 To unsubscribe from our mailing lists and remove your information from our databases, you can send an email to info@githyp.com. In this email, you must include your user name and password, and a description of the information you would like to change.
 
