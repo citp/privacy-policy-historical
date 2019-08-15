@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honestmarijuana.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401011807id_/https%3A//honestmarijuana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestmarijuana.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816011809id_/https%3A//honestmarijuana.com/privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer - Honest Marijuana
 
