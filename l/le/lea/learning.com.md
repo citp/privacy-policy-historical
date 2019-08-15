@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212051417id_/https%3A//www.learning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815232418id_/https%3A//www.learning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learning.com
 
-##### PLEASE CAREFULLY REVIEW THE LEARNING.COM PRIVACY POLICY AND THE STUDENT DATA PRIVACY POLICY BELOW (IF APPLICABLE) BEFORE USING THIS WEBSITE.
+**PLEASE CAREFULLY REVIEW THE LEARNING.COM PRIVACY POLICY AND THE STUDENT DATA PRIVACY POLICY BELOW (IF APPLICABLE) BEFORE USING THIS WEBSITE.**
 
-In addition, to the extent that you are a party to or otherwise enjoy any rights or benefits under the Learning.com Master Services Agreement and/or the Learning.com Classroom Editions Terms and Conditions (collectively referred to herein as “Agreement and/or Terms”), the Privacy Policies are incorporated into the Agreement and/or Terms and the use of Learning.com’s website indicates your assent to the terms of one or both of those agreements (including the Privacy Policies). If you are not a party to or do not otherwise enjoy any rights or benefits under the Agreement and/or Terms, the use of Learning.com’s website indicates your assent to the terms of this Privacy Policy.
+ Last Updated June, 2019
 
-Notice to EU Individuals: Learning.com does not intend to have customers outside of the United States. However, this Privacy Policy is intended to comply with the “General Data Protection Regulation” or “GDPR” and provide appropriate protection and care with respect to the treatment of your user information in accordance with the GDPR.
+Welcome to The Learning Internet, Inc.’s dba Learning.com PRIVACY POLICY AND THE STUDENT DATA PRIVACY POLICY at Learning.com’s designated website (the “Website”). References to “us”, “we”, “our”, or “Learning.com” herein shall mean The Learning Internet, Inc., dba Learning.com.
 
-##### 1\. Information you provide and information we collect
+In addition, to the extent that you are a party to or otherwise enjoy any rights or benefits under the Learning.com Master Services Agreement and/or the Learning.com Classroom Editions Terms and Conditions (collectively referred to herein as “Agreement and/or Terms”), the Privacy Policies are incorporated into the Agreement and/or Terms and the use of Learning.com’s Website  indicates your assent to the terms of one or both of those agreements (including the Privacy Policies). If you are not a party to or do not otherwise enjoy any rights or benefits under the Agreement and/or Terms, the use of Learning.com’s Website indicates your assent to the terms of this Privacy Policy.
+
+Notice to EU Individuals: Learning.com does not intend to have customers outside of the United States. However, this Privacy Policy is intended to comply with the “General Data Protection Regulation” or “GDPR” and provide appropriate protection and care with respect to the treatment of your “personally identifiable information” or “personal information” in accordance with the GDPR.
+
+  1. **Information you provide and information we collect**
+
+
 
 **Personal Information**
 
-Learning.com strives to provide information and services that are well tailored to your needs. To do this, we may ask you to register or to provide certain personal information in order to use the services including visiting various areas of our website, entering a contest or sweepstakes, gaining access to premium content, registering for an event, completing surveys, submitting content, subscribing to a newsletter or asking us for additional information. We only collect personally identifiable information that you submit voluntarily through a form. If you choose not to register or provide personal information as we request, you may still enjoy our website.
+Learning.com strives to provide information and services that are well tailored to your needs. To do this, we may ask you to register or to provide certain personal information in order to use the services and our products, including visiting various areas of our Website, entering a contest or sweepstakes, gaining access to premium content, registering for an event, completing surveys, submitting content, subscribing to a newsletter or asking us for additional information. We only collect personally identifiable information that you submit voluntarily through a form. If you choose not to register or provide personal information as we request, you may still enjoy our Website.
 
 **Cookies**
 
@@ -22,45 +28,71 @@ The use of “cookies” is standard in the Internet industry. They are used on 
 
 An IP address is a number that has been automatically assigned to your computer. Web servers automatically identify your computer by its IP address. Learning.com may collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers, sponsors, and partners, and to audit the use of our site. When Users request Web pages from our services, our servers log the Users’ IP addresses. We do not normally link IP addresses to anything personally identifiable. This means that a User’s session will be logged, but the User remains anonymous to us. We can and will use IP addresses to identify a User when we feel it is necessary to enforce compliance with our rules or terms of service or to protect our service, site, customers or others. Some features of our services, such as certain message boards, may display IP addresses along with the message- poster’s User name and message. Please review each feature prior to use and only use those that disclose information you are comfortable sharing.
 
-##### 2\. Use of Personal Information
+  2. **Use of Personal Information**
+
+
 
 In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: respond to inquiries for more information, send information or content to you which we think may be of interest to you , send you marketing communications relating to our business, promote use of our services to you and share promotional and information content with you in accordance with your communication preferences; send information to you regarding changes to our Privacy Policy or other legal agreements. Learning.com may occasionally present a special contest or promotion sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor, we will inform you of that when we request your information. In exceptional cases when we have reason to believe that doing so is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Learning.com’s rights or property, our Users, or anyone else who could be harmed by such activities, we may disclose User information when we believe in good faith that the law requires us to do so.
 
-##### 3\. Third-party advertisers
+  3. **Third-party advertisers**
 
-This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. Google uses cookies to serve ads based on someone’s past visits to a specific website. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
-##### 4\. Opting Out
+
+This Website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our Website. Google uses cookies to serve ads based on someone’s past visits to a specific website. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Of course, any data collected will be used in accordance with this Privacy Policy and Google’s privacy policy.  For clarity, other than including links to certain third party websites as detailed in Section 7, Links to Other Sites, Learning.com does not permit third party advertisements on our Website or in our services or products.
+
+  4. **Opting Out**
+
+
 
 Learning.com provides users the opportunity to “opt out” or “opt in” for receiving communications concerning Learning.com, updates to its services, and promotional materials whenever registration is required. The term “opt out” refers to the user’s ability to provide an electronic notification declining further specified kinds of contact, including but not limited to promotional and general informational email. This is done by selecting an option on a website screen or in a website dialog box, with such selection made by the user at the user’s sole discretion. The term “opt in” refers to a user’s ability to provide an electronic notification inviting further specified kinds of contact, including but not limited to email. This is also done by selecting an option on a website screen or in a website dialog box, with such selection made by the user. At any point in the future, a User may “opt out” or “opt in” regarding communications from Learning.com by updating the User’s information on Learning.com’s “My Settings” link. The “opt in” and “opt out” features will not, however, affect email specifically directed to a User for purposes of discussing membership activity, in response to User inquiries, or to enforce this Privacy Policy.
 
-##### 5\. Unsubscribe from Our Communications
+  5. **Unsubscribe from Our Communications**
+
+
 
 You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our e-mails, updating your communication preferences, or by sending us email us at [privacy@learning.com](mailto:privacy@learning.com) or postal mail to Learning.com 1620 SW Taylor Street, Suite 100, Portland, Oregon, 97216.
 
-##### 6\. Use of Aggregate User Information
+  6. **Use of Aggregate User Information**
 
-Learning.com may share aggregate information about our Users with advertisers, business partners, sponsors and other third parties. For example, we may say that our audience is “x” percent male and “y” percent female. We use this information to customize our content and advertising to deliver services that are well tailored to our Users’ needs.
 
-##### 7\. Links to Other Sites
 
-Learning.com’s services may include or bring you into contact with links to third party owned, controlled, or managed websites. Additionally, you may see links from advertisers, sponsors and other partners who may use Learning.com’s logo as part of a co-branding agreement. Learning.com does not control content, or any aspect, of these third party websites. For example, if you click on a search result or banner advertisement, that click takes you off our sites. Third party websites may send you their own cookies, collect data or solicit personal information. While we identify sponsor and advertiser areas of our Website, we do not control the practices or the content of these third party sites. Once you leave our servers (you can usually see where you are by checking the URL in the location bar on your browser), the use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can’t find the privacy policy of any of these sites via a link from that site’s homepage, you should contact the site directly for more information and proceed entirely at your own risk. We specifically recommend that children check with their parents, guardians or teachers before clicking onto any third party sites.
+Learning.com may share aggregate information about our Users with advertisers, business partners, sponsors and other third parties. For example, we may say that our audience is “x” percent male and “y” percent female. We use this information to customize our content and advertising to deliver services that are well tailored to our Users’ needs. De-identified/aggregate data will have all direct and indirect personal identifiers removed. This includes, but is not limited to, name, ID numbers, date of birth, demographic information, location information, and school ID. Furthermore, Learning.com agrees not to attempt to re-identify de-identified data and not to transfer de-identified data to any party unless that party agrees not to attempt re-identification.
 
-##### 8\. Security of Information
+  7. **Links to Other Sites**
+
+
+
+Learning.com’s services and products may include or bring you into contact with links to third party owned, controlled, or managed websites. Additionally, you may see links from advertisers, sponsors and other partners who may use Learning.com’s logo as part of a co-branding agreement. Learning.com does not control content, or any aspect, of these third party websites. For example, if you click on a link to a third party website referenced in our content, that click takes you off our Website. Third party websites may send you their own cookies, collect data or solicit personal information. We do not control the practices or the content of third party sites. Once you leave our servers (you can usually see where you are by checking the URL in the location bar on your browser), the use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can’t find the privacy policy of any of these sites via a link from that site’s homepage, you should contact the site directly for more information and proceed entirely at your own risk. We specifically recommend that children check with their parents, guardians or teachers before clicking onto any third party sites.
+
+  8. **Security of Information**
+
+
 
 The security of our Users’ personally identifiable information is of the highest priority. Learning.com exercises great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Learning.com cannot ensure or warrant the security of any information you transmit to us or through our services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. Whenever credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption. If you have an account or use another password-protected service, you are the only person who can access it and view the User information concerning the account. We strongly recommend that you do not share your password with anyone. Learning.com will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Please remember to sign out properly and close your browser window when you have finished your work. This helps ensure that others cannot access your personal information and in the event the computer you use is accessible to others or if you share a computer with someone else or use a computer in a public place such as a library or Internet cafe. In addition, from time to time Learning.com may create and supply, at its sole discretion, additional security features for its Users. These security features are designed only for the use of Users. Learning.com provides no warranty, express or implied, that any such security features may not be broken, violated or in some way compromised.
 
-##### Data Protection Officer
+  9. **Data Protection Officer**
 
-For questions related to data use and protection, you can contact the appointed data protection officer via email through: [privacy@learning.com](mailto:privacy@learning.com)
 
-##### Your Acceptance of These Terms
+
+For questions related to our data use and protection, you can contact the appointed data protection officer via email through: [privacy@learning.com](mailto:privacy@learning.com)
+
+  10. **Special Rights of California Residents**
+
+
+
+Under California Civil Code Section 1798.83 (also referred to as S.B. 27), if you are a California resident and the business relationship between you and us is primarily for personal, family, or household purposes, you may request certain limited information about our disclosures (if any) of your personal information to third parties for their direct marketing purposes. To make such a request, please contact us at the email or mailing addresses set forth in the Contact Information section with “Request for California Privacy Information” in the subject of your communication. You may submit this type of information request to us only once per calendar year. If applicable, we will provide you, by email or written correspondence, a list of the categories of personally identifiable information that we disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year. We will also provide you the names and addresses of those third parties.
+
+  11. **Your Acceptance of These Terms**
+
+
 
 By using this site, you signify your assent to the Learning.com’s Privacy Policy. If you do not agree with this Privacy Policy, you may not use our services. Your continued use of the services following the posting of changes to these terms will indicate that you accept those changes.
 
-##### STUDENT DATA PRIVACY POLICY
+  **STUDENT DATA PRIVACY POLICY**
 
-##### 1\. General Compliance With Laws
+  1. **General Compliance With Laws**
+
+
 
 The safety of children is Learning.com’s highest priority. We comply with applicable laws and regulations, including the Family Educational Rights and Privacy Act of 1974 (FERPA) and the Children’s Online Privacy Protection Act of 1998 (COPPA). Learning.com will only use information collected for educational purposes as it relates to our services and WILL NOT:
 
@@ -72,13 +104,16 @@ The safety of children is Learning.com’s highest priority. We comply with appl
   * Entice any student by the prospect of a special game, prize or other activity to divulge more information than is needed to participate in the activity.
 
 
+  2. **Policies for Children Under the Age of 13**
 
-##### 2\. Policies for Children Under the Age of 13
+
 
 Learning.com encourage parents and guardians to spend time online with their children and to participate in the activities offered through our services. No information should be submitted or posted through our services by any User under 13 years of age without the consent of their parent or guardian. At this time, Learning.com is not collecting any personally identifiable information from Users under the age of 13. Children who access Learning.com’s content with login ID’s provided by their schools will not be asked to provide any personally identifiable information to Learning.com.
 
 As with all our Users, we will collect and share aggregate, anonymous information as explained above.
 
-##### 3\. Parents’ Right to Review or Delete Information
+  3. **Parents’ Right to Review or Delete Information**
+
+
 
 A parent may review the information a child has submitted to us by sending us a written request addressed to Consumer Relations, Attn: Children’s Online Privacy Act – Information Request, 1620 SW Taylor Street, Suite 100, Portland, Oregon 97205. The request must include the name and address of the child, the child’s password and any other information that will allow us to verify that writer is the parent of the child whose information is being requested. In addition, a parent can instruct us to delete a child’s information at any time and can also instruct us not to collect any more personal information from the child by sending us a written request addressed to Consumer Relations, Attn: Children’s Online Privacy Act – Delete Request, 1620 SW Taylor Street, Suite 100, Portland, Oregon 97205. However, if such a request is made, such request may unfortunately preclude the child’s participation in certain activities.
