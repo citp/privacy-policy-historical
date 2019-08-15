@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408124351id_/https%3A//www.brainshark.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815073513id_/https%3A//www.brainshark.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brainshark
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=d86225ab-d785-4de6-91e4-c912ca59abb4)
 
-## Last Updated: February 7, 2018
+## Last Updated: May 30, 2019
 
-Brainshark, Inc. (“Brainshark”) is committed to protecting the privacy of your information and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our Website privacy practices. Please note that this Privacy Policy covers all of our Websites including our applications, while that portion covered by the TRUSTe Privacy Seal covers specific elements of our sites described below.
+Brainshark, Inc. (“Brainshark”) is committed to protecting the privacy of your information and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our Website privacy practices. Please note that this Privacy Policy covers all our Websites including our applications.
 
 ### 1\. Websites Covered
 
-This Privacy Policy covers the information practices of Brainshark in its role as a data controller on its Websites: http://www.brainshark.com; http://www.slideshark.com; and http://app.demand.brainshark.com (collectively referred to as “Brainshark’s Websites”).
+This Privacy Policy covers the information practices of Brainshark on its website (https://www.brainshark.com) and mobile application (collectively referred to as “Brainshark’s Websites”). The use of information collected through our Services shall be limited to the purpose of providing and enhancing the service for which the Customer has engaged Brainshark.
 
 Brainshark’s Websites may contain links to third party sites that are not owned or controlled by Brainshark. Additionally, Brainshark’s services are used by customers to deliver video presentations that are embedded and linked within their own Websites and third party sites. Brainshark is not responsible for the information practices or content of its customers or third party sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every Website that collects personally identifiable information. This privacy policy applies only to information collected by this Website.
 
@@ -57,7 +57,7 @@ In the event that Brainshark is a party to a merger, acquisition by another comp
 
 ### 5\. Communications Preferences
 
-Brainshark partners with a third party to display advertising on our website or to manage our advertising on other sites. The third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
+Brainshark partners with a third party to display advertising on our website or to manage our advertising on other sites. The third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
 Brainshark offers Customers and Visitors who provide contact information a means to choose how Brainshark uses the information provided. Visitors and any recipients of marketing messages from Brainshark may click on the “unsubscribe” link located on the bottom of the Brainshark’s marketing emails. Customers can change their communication preferences at any time through the “My Profile” page when logged in to the Service or you can decide not to receive communications that help you use the Service.
 
@@ -117,9 +117,13 @@ If you have any questions about security on our Web site, you can contact us at 
 
 Upon request, Brainshark will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [support@brainshark.com](mailto:support@brainshark.com).
 
-You may access, correct, or request deletion of your personal information by logging in to your account, contacting us at support@brainshark.com, by [completing this form](https://www.brainshark.com/contact-sales). In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
+You may access, correct, or request deletion of your personal information by logging in to your account, contacting us at support@brainshark.com, by [completing this form](https://www.brainshark.com/contact-sales).
 
-We will respond to these requests within a reasonable timeframe.
+Brainshark collects information under the direction of its Customers and has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Brainshark Customer (the data controller). If requested to remove data, we will respond within a reasonable timeframe.
+
+We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
+
+In certain circumstances we may be required by law to retain your personal information including personal information we process on behalf of our Customers or may need to retain your personal information in order to continue providing a service.
 
 ### 14\. Right to lodge a complaint
 
@@ -166,6 +170,6 @@ Brainshark, Inc.
 Waltham, MA 02453  
 United States of America
 
-© 2018 Brainshark, Inc. All rights reserved. Brainshark, myBrainshark, and all other trademarks referenced herein are trademarks of Brainshark, Inc.
+© 2019 Brainshark, Inc. All rights reserved. Brainshark, myBrainshark, and all other trademarks referenced herein are trademarks of Brainshark, Inc.
 
 Click here to change your Privacy Settings
