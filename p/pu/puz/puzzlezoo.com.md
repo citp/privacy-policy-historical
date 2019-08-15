@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlezoo.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612160559id_/http%3A//www.puzzlezoo.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlezoo.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815150646id_/http%3A//www.puzzlezoo.com/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy | PuzzleZoo.com
 
