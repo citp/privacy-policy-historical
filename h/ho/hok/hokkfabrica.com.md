@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hokkfabrica.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122222210id_/https%3A//hokkfabrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hokkfabrica.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815095843id_/https%3A//hokkfabrica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HOKK fabrica
+# Privacy Policy | HOKK fabrica
 
 This privacy policy sets out how HOKK fabrica uses and protects any information that you give HOKK fabrica when you use this website. HOKK fabrica is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. HOKK fabrica may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
