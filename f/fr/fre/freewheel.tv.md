@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235625id_/https%3A//freewheel.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815141230id_/http%3A//freewheel.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FreeWheel, A Comcast Company
 
