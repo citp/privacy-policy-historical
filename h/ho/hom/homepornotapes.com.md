@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepornotapes.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612213658id_/http%3A//www.homepornotapes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepornotapes.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815030616id_/http%3A//www.homepornotapes.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
