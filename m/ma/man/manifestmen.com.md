@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manifestmen.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615094512id_/http%3A//www.manifestmen.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manifestmen.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815184718id_/http%3A//www.manifestmen.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Naked Men - Manifest Men
 
