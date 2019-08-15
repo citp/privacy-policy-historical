@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zercustoms.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617143239id_/http%3A//www.zercustoms.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zercustoms.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815174134id_/http%3A//www.zercustoms.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ZerCustoms.com Privacy Policy
 
