@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609065905id_/http%3A//www.whitewave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2019-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190815204445id_/http%3A//www.whitewave.com/privacy) for the most accurate reproduction.*
 
 # WhiteWave Foods
 
