@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linux-apps.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608163638id_/https%3A//www.linux-apps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linux-apps.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816205504id_/https%3A//www.linux-apps.com/privacy) for the most accurate reproduction.*
 
 # linux-apps.com
 
