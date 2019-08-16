@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lgnewsroom.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629001755id_/http%3A//www.lgnewsroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lgnewsroom.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816100340id_/http%3A//www.lgnewsroom.com/privacy) for the most accurate reproduction.*
 
 # Privacy | LG Newsroom
 
