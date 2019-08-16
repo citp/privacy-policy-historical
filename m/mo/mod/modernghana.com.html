@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the modernghana.com privacy policy that was archived on 2019-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190627025336id_/https%3A//www.modernghana.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modernghana.com privacy policy that was archived on 2019-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190816125545id_/https%3A//www.modernghana.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -59,7 +59,7 @@
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
-	  gtag('config', 'UA-509858-1');
+	  gtag('config', 'UA-509858-1', { 'optimize_id': 'GTM-W7N8P4D'});
 	</script>
 
 <script type="text/javascript">
@@ -77,7 +77,7 @@
 		.carousel-caption>h3{line-height: 1.45;}
 		audio{height:40px;}
 		.box-content img {cursor:pointer;}
-		.top_nollywood{display:none!important}
+		.top_nollywood, .top_menu{display:none!important}
 		.related-article ul li {padding-bottom: 15px;}
 		.related-article ul li a {font-size: 16px; color: #333; font-weight: 900;}
 		.related-article h3 { border-bottom: 1px dotted #dcdcdc; padding: 10px 0 16px;font-family: 'Open Sans Extrabold';}
@@ -116,7 +116,7 @@
 		}
 		@media screen and (min-width:767px) and (max-width:1024px){.top_menu_hide{display:none!important;}}
 		@media screen and (max-width: 767px){
-			.top_nollywood{display:block!important;}
+			#m-search,.top_nollywood{display:block!important;}
 			#header{background-color:#bb1919;}
 			#body-container-top-line, .news-title-top, .affix {display:none!important;}
 			.pd{padding:10px!important;}
@@ -140,6 +140,7 @@
 			.related-article ul li a {font-size: 15px;}
 			.body-container-top-line {margin-bottom: 8px;}
 			.nav-bottom{margin-bottom:5px}
+			.top-menu .navbar-nav>li>a { padding: 6px 8px; font-weight:600}
 		}
 		@media screen and (max-width:350px){.hide2{display:none!important;}}
 		@media screen and (min-width:500px)and (max-width:767px){.hide3{display:block;}}
@@ -148,9 +149,8 @@
 		.static-pagination {border-top: 0px;}
 		.pagination {margin-top:0}
 		.box-shadow{margin-top:10px;text-align:center;}
-		
-
-	</style>
+			
+</style>
 </head>
 <body>
 <header>
@@ -158,11 +158,11 @@
 <div class="row">
 <div class="col-xs-12 col-sm-3">
 <div class="logo">
-<a class="logo_show" href="/"><img src="/assets/logo/logo.png" alt="Modern Ghana logo" style="max-height:100px" class="img-responsive"></a>
-<a class="logo_hide" style="display:none;" href="/"><img src="/assets/categories-images/sticky-logo.png" alt="Modern Ghana logo" class="img-responsive"></a>
+<a class="logo_show" href="/"><img src="/assets/logo/site-logo.png" alt="Modern Ghana logo" style="max-height:100px" class="img-responsive"></a>
+<a class="logo_hide" style="display:none;" href="/"><img src="/assets/logo/site-logo2.png" alt="Modern Ghana logo" style="max-height:35px;padding-bottom:4px" class="img-responsive"></a>
 </div>
 <div class="logo_sticky">
-<a href="/"><img src="/assets/categories-images/sticky-logo.png" alt="Modern Ghana logo" class="img-responsive"></a>
+<a href="/"><img src="/assets/logo/sticky-logo.png" alt="Modern Ghana logo" class="img-responsive"></a>
 <div class="letest-update-hide" style="margin-top:2px;"></div>
 </div>
 </div>
@@ -174,27 +174,27 @@
 <button type="submit" id="search" style="display:none;float:right;" class="btn"><i class="fa fa-angle-right"></i></button>
 <nav class="navbar navbar-inverse">
 <div class="navbar-header nav-bottom">
-<button type="button" id="toggle-right" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
 <button type="button" id="toggle-left" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar1">
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
- </div>
+<button type="button" id="toggle-right" class="navbar-toggle collapsed" data-toggle="collapse" style="padding: 3px 0px 3px 1px;font-size: large;background-color: #fff!important; margin: 8px 0 0;" data-target="#myNavbar" aria-expanded="false">
+<span class="glyphicon glyphicon-option-vertical" style="font-size: large;font-weight: 500;"></span>
+</button>
+<span id="m-search" onclick="window.location='/search/'" class="glyphicon glyphicon-search nav-search" aria-hidden="true" style="display:none;position: relative; float: right;padding: 9px 10px 9px 0;font-size: large;margin: 5px 0 0;"></span>
+</div>
 <div class="collapse navbar-collapse" id="myNavbar">
 <ul class="list-inline nav navbar-nav">
-<li><a href="/" title="Modern Ghana Homepage">Home</a></li>
-<li><a href="/ghanahome/ghana/" title="Republic of Ghana">Ghana</a></li>
-<li><a href="/advertise/" title="Adveritise">Advertise</a></li>
-<li><a target="_blank" href="https://radio.modernghana.com" title="Online Radio Stations">Radio</a></li>
-<li><a href="/player/tv/" title="Watch TV Online">TV</a></li>
-<li><a href="/videomovies/" title="African Movies">Movies</a></li>
-<li><a href="/videonews/" title="News TV">Video</a></li>
-<li style="margin-right:55px;"><a title="Contact Us" href="/contact/">Contact</a></li>
+<li><a href="https://www.modernghana.com/" title="Modern Ghana Homepage">Home</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/ghana/" title="Republic of Ghana"> Ghana</a></li>
+<li><a href="https://www.modernghana.com/advertise/" title="Adveritise">Advertising</a></li>
+<li><a target="_blank" href="https://radio.modernghana.com" title="Online Radio Stations"> Radio</a></li>
+<li><a href="https://www.modernghana.com/player/tv/" title="Watch TV Online"> TV</a></li>
+<li><a href="https://www.modernghana.com/videomovies/" title="African Movies"> Movies</a></li>
+<li><a href="https://www.modernghana.com/videonews/" title="News TV">Video </a></li>
+<li style="margin-right:55px;"><a title="Contact Us" href="https://www.modernghana.com/contact/">Contact </a></li>
 <li role="presentation" class="dropdown">
-<a style="margin-right:0;padding: 2px 8px;" class="dropdown-toggle" data-toggle="dropdown" href="/ghanahome/members/login/" role="button" aria-haspopup="true" aria-expanded="false"> Login <span class="fa fa-chevron-right lgn"></span></a>
+<a style="margin-right:0;padding: 2px 8px;" class="dropdown-toggle" data-toggle="dropdown" href="https://www.modernghana.com/ghanahome/members/login/" role="button" aria-haspopup="true" aria-expanded="false"> Login <span class="fa fa-chevron-right lgn"></span></a>
 <ul class="dropdown-menu" style="right:0">
 <li>
 <form class="form-inline" action="/ghanahome/members/login/" method="post">
@@ -208,7 +208,7 @@
 <input type="hidden" name="action" value="login">
 </form>
 </li>
-<li style="text-align: right;"><em><a href="/ghanahome/members/login/forgetpassword/">Forgot Password</a><br><a href="/ghanahome/members/register/">New User ! REGISTER..</a></em></li>
+<li style="text-align: right;"><em><a href="https://www.modernghana.com/ghanahome/members/login/forgetpassword/">Forgot Password</a><br><a href="https://www.modernghana.com/ghanahome/members/register/">New User ! REGISTER..</a></em></li>
 </ul>
 </li>
 </ul>
@@ -224,13 +224,13 @@
 <div class="col-xs-12 col-md-2 ltst-updt" style="padding-left:0">
 <div class="letest-update">
 <em>
-<p style="cursor:pointer;" onclick="javascript:window.location='/news/940918/trailer-anas-to-drop-shocking-video-on-children-at-orphana.html';"><span>FEATURED:</span> [trailer] Anas To Drop Shocking Video On Children At Orphanage Eating ...</p>
+<p style="cursor:pointer;" onclick="javascript:window.location='/news/947183/an-open-letter-to-national-security-minister-alber.html';"><span>FEATURED:</span> An Open Letter To National Security Minister Albert Kan Dapaah!!!...</p>
 </em>
 </div>
 </div>
 <div class="col-xs-12 col-md-10 gl-ad-720X90">
 <div class="top-ad-banner" style="padding-bottom:2px;">
-<span id="ctr_bfv3YMl88S_728x90" style="width:728px;height:90px;"></span><script type="text/javascript"> Criteo.events.push(function() { Criteo.DisplayAcceptableAdIfAdblocked({ "zoneid": 1325034, "containerid": "ctr_bfv3YMl88S_728x90" , "overrideZoneFloor": false }); });</script> <span id="TopAds_728x90"> <script type="text/javascript"> Criteo.events.push(function() { Criteo.Passback.RenderAd('TopAds_728x90', function(adUnit){ console.log('passback for adunit:',adUnit); var div = document.getElementById(adUnit); var ad = document.createElement('ins'); ad.className = 'adsbygoogle'; ad.setAttribute('style', 'display:inline-block;width:728px;height:90px'); ad.setAttribute('data-ad-client', 'ca-pub-2880489375589404'); ad.setAttribute('data-ad-slot', '3032579979'); var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true; script.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; div.appendChild(script); var script2 = document.createElement('script'); script2.appendChild(document.createTextNode(gg)); div.appendChild(ad); div.appendChild(script2); }); });</script></span>
+<span id="ctr_diy3COn00U_728x90" style="width:728px;height:90px;"></span><script type="text/javascript"> Criteo.events.push(function() { Criteo.DisplayAcceptableAdIfAdblocked({ "zoneid": 1325034, "containerid": "ctr_diy3COn00U_728x90" , "overrideZoneFloor": false }); });</script> <span id="TopAds_728x90"> <script type="text/javascript"> Criteo.events.push(function() { Criteo.Passback.RenderAd('TopAds_728x90', function(adUnit){ console.log('passback for adunit:',adUnit); var div = document.getElementById(adUnit); var ad = document.createElement('ins'); ad.className = 'adsbygoogle'; ad.setAttribute('style', 'display:inline-block;width:728px;height:90px'); ad.setAttribute('data-ad-client', 'ca-pub-2880489375589404'); ad.setAttribute('data-ad-slot', '3032579979'); var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true; script.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; div.appendChild(script); var script2 = document.createElement('script'); script2.appendChild(document.createTextNode(gg)); div.appendChild(ad); div.appendChild(script2); }); });</script></span>
 </div>
 </div>
 </div>
@@ -254,45 +254,45 @@
 <div class="container">
 <div class="collapse navbar-collapse" id="myNavbar1">
 <ul class="nav navbar-nav">
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/newsarchive/" title="NEWS">NEWS <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/sportsarchive/" title="SPORTS">SPORTS <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/africa/" title="AFRICA">AFRICA <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown top_menu_hide"><a class="dropdown-toggle" href="/ghanahome/world/" title="WORLD">WORLD <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/opinions/" title="OPINIONS">OPINIONS <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/politics/" title="POLITICS">POLITICS <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/business/" title="BUSINESS">BUSINESS <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown top_menu_hide"><a class="dropdown-toggle" href="/ghanahome/diaspora/" title="diaspora">DIASPORA <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/lifestyle/" title="LIFESTYLE">LIFESTYLE <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown top_nollywood"><a class="dropdown-toggle" href="/ghanahome/nollywood/" title="nollywood">NOLLYWOOD <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/entertainment/" title="ENTERTAINMENT">ENTERTAINMENT <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/media/?menu_id=33" title="VIDEOS, PHOTOS &amp; AUDIOS">MEDIA <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/estates/" title="REAL ESTATE">REAL ESTATE <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown top_menu_hide"><a class="dropdown-toggle" href="/ghanahome/classifieds/" title="CLASSIFIEDS">CLASSIFIEDS <i class="fa fa-chevron-down"></i></a></li>
-<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="/ghanahome/profiles/" title="MEMBERS">MEMBERS <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/newsarchive/" title="NEWS">NEWS <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/sportsarchive/" title="SPORTS">SPORTS <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/africa/" title="AFRICA">AFRICA <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown top_menu_hide"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/world/" title="WORLD">WORLD <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/opinions/" title="OPINIONS">OPINIONS <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/politics/" title="POLITICS">POLITICS <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/business/" title="BUSINESS">BUSINESS <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown top_menu_hide"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/diaspora/" title="diaspora">DIASPORA <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/lifestyle/" title="LIFESTYLE">LIFESTYLE <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown top_nollywood"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/nollywood/" title="nollywood">NOLLYWOOD <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/entertainment/" title="ENTERTAINMENT">ENTERTAINMENT <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/media/?menu_id=33" title="VIDEOS, PHOTOS &amp; AUDIOS">MEDIA <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/estates/" title="REAL ESTATE">REAL ESTATE <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown top_menu_hide"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/classifieds/" title="CLASSIFIEDS">CLASSIFIEDS <i class="fa fa-chevron-down"></i></a></li>
+<li class="dropdown mega-dropdown"><a class="dropdown-toggle" href="https://www.modernghana.com/ghanahome/profiles/" title="MEMBERS">MEMBERS <i class="fa fa-chevron-down"></i></a></li>
 </ul>
 </div>
 </div>
 </nav>
 <div class="section-nav" id="section-nav">
 <ul>
-<li id="menu_1"><a href="/" title="HOME">Home</a></li>
-<li id="menu_2"><a href="/news/" title="NEWS">News</a></li>
-<li id="menu_4"><a href="/sports/" title="SPORTS">SPORTS</a></li>
-<li id="menu_7"><a href="/business/" title="BUSINESS">BUSINESS</a></li>
-<li id="menu_12"><a href="/estates/" title="REAL ESTATE">REAL ESTATE</a></li>
-<li id="menu_3"><a href="/ghanahome/africa/" title="AFRICA">AFRICA</a></li>
-<li id="menu_5"><a href="/ghanahome/opinions/" title="OPINIONS">OPINIONS</a></li>
-<li id="menu_6"><a href="/ghanahome/politics/" title="POLITICS">POLITICS</a></li>
-<li id="menu_9"><a href="/ghanahome/lifestyle/" title="LIFESTYLE">LIFESTYLE</a></li>
-<li id="menu_11"><a href="/ghanahome/world/" title="WORLD">WORLD</a></li>
-<li id="menu_10"><a href="/ghanahome/entertainment/" title="ENTERTAINMENT">ENTERTAINMENT</a><span id="menu_16"></span></li>
-<li id="menu_14"><a href="/media/" title="MEDIA">MEDIA</a></li>
-<li id="menu_13"><a href="/ghanahome/classifieds/" title="CLASSIFIEDS">CLASSIFIEDS</a></li>
-<li id="menu_20"><a href="/ghanahome/health/" title="HEALTH">HEALTH</a></li>
-<li id="menu_8"><a href="/ghanahome/diaspora/" title="diaspora">DIASPORA</a></li>
-<li id="menu_15"><a href="/ghanahome/profiles/" title="MEMBERS">MEMBERS</a></li>
-<li id="menu_17"><a href="/ghanahome/nollywood/" title="NOLLYWOOD">NOLLYWOOD</a></li>
-<li><a href="#"> </a></li>
+<li id="menu_1"><a href="https://www.modernghana.com/" title="HOME">Home</a></li>
+<li id="menu_2"><a href="https://www.modernghana.com/news/" title="NEWS">News</a></li>
+<li id="menu_4"><a href="https://www.modernghana.com/sports/" title="SPORTS">SPORTS</a></li>
+<li id="menu_7"><a href="https://www.modernghana.com/business/" title="BUSINESS">BUSINESS</a></li>
+<li id="menu_12"><a href="https://www.modernghana.com/estates/" title="REAL ESTATE">REAL ESTATE</a></li>
+<li id="menu_3"><a href="https://www.modernghana.com/ghanahome/africa/" title="AFRICA">AFRICA</a></li>
+<li id="menu_5"><a href="https://www.modernghana.com/ghanahome/opinions/" title="OPINIONS">OPINIONS</a></li>
+<li id="menu_6"><a href="https://www.modernghana.com/ghanahome/politics/" title="POLITICS">POLITICS</a></li>
+<li id="menu_9"><a href="https://www.modernghana.com/ghanahome/lifestyle/" title="LIFESTYLE">LIFESTYLE</a></li>
+<li id="menu_11"><a href="https://www.modernghana.com/ghanahome/world/" title="WORLD">WORLD</a></li>
+<li id="menu_10"><a href="https://www.modernghana.com/ghanahome/entertainment/" title="ENTERTAINMENT">ENTERTAINMENT</a><span id="menu_16"></span></li>
+<li id="menu_14"><a href="https://www.modernghana.com/media/" title="MEDIA">MEDIA</a></li>
+<li id="menu_13"><a href="https://www.modernghana.com/ghanahome/classifieds/" title="CLASSIFIEDS">CLASSIFIEDS</a></li>
+<li id="menu_20"><a href="https://www.modernghana.com/ghanahome/health/" title="HEALTH">HEALTH</a></li>
+<li id="menu_8"><a href="https://www.modernghana.com/ghanahome/diaspora/" title="diaspora">DIASPORA</a></li>
+<li id="menu_15"><a href="https://www.modernghana.com/ghanahome/profiles/" title="MEMBERS">MEMBERS</a></li>
+<li id="menu_17"><a href="https://www.modernghana.com/ghanahome/nollywood/" title="NOLLYWOOD">NOLLYWOOD</a></li>
+<li><a href="https://www.modernghana.com#"> </a></li>
 </ul>
 </div>
 <div class="submenubar top_menu_hide">
@@ -300,16 +300,16 @@
 <div class="row">
 <div class="col-xs-9 col-sm-9" style="padding-right:5px;">
 <ul>
-<li><a href="/archive/" class="btn btn-success btn-xs" style="padding:1.5px 5px; color:white;border-radius: 4px;font-weight: 700;">Archive</a></li>
-<li> <a href="/ghanahome/can/2019/">AFCON 2019</a></li>
-<li><a href="/popular/1/1">Popular</a></li>
-<li><a href="/hotstories/">Hot Stories</a></li>
-<li><a href="/dossiers/">Dossiers</a></li>
-<li><a href="/ghanahome/quotes/">Quotes </a></li>
-<li><a href="/ghanahome/poems/poems.asp">Poems </a></li>
-<li><a href="/ghanahome/poems/poems_views.asp">Jokes </a></li>
+<li><a href="https://www.modernghana.com/archive/" class="btn btn-success btn-xs" style="padding:1.5px 5px; color:white;border-radius: 4px;font-weight: 700;">Archive</a></li>
+<li> <a href="https://www.modernghana.com/ghanahome/can/2019/">AFCON 2019</a></li>
+<li><a href="https://www.modernghana.com/popular/1/1">Popular</a></li>
+<li><a href="https://www.modernghana.com/hotstories/">Hot Stories</a></li>
+<li><a href="https://www.modernghana.com/dossiers/">Dossiers</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/quotes/">Quotes </a></li>
+<li><a href="https://www.modernghana.com/ghanahome/poems/poems.asp">Poems </a></li>
+<li><a href="https://www.modernghana.com/ghanahome/poems/poems_views.asp">Jokes </a></li>
 </ul>
-<a id="crt-206276" style="margin-right:0; padding: 5px 8px;border-radius: 4px;" href="/ghanahome/columnist/" class="onair">Columnists</a>
+<a id="crt-206276" style="margin-right:0; padding: 5px 8px;border-radius: 4px;" href="https://www.modernghana.com/ghanahome/columnist/" class="onair">Columnists</a>
 <a target="_blank" href="https://radio.modernghana.com" style="margin-right:5px; padding: 5px 8px;border-radius: 4px;" class="onair onair2">OnAIR</a>
 </div>
 <div class="col-xs-3 col-sm-3" style="padding-left:0">
@@ -332,7 +332,7 @@
 <div class="row">
 <div class="col-xs-12 col-sm-12">
 <div class="row">
-<div class="col-xs-12 col-sm-2 achive-page"><h3>About Us</h3><ul><li><a href="/ghanahome/../aboutus/?menu_id=11&amp;sub_menu_id=268&amp;gender=">About Us</a></li><li><a href="/ghanahome/../contact/?menu_id=11&amp;sub_menu_id=269&amp;gender=">Contact Us</a></li><li><a href="/ghanahome/../team/?menu_id=11&amp;sub_menu_id=1275&amp;gender=">The Team</a></li><li><a href="/ghanahome/../links/?menu_id=11&amp;sub_menu_id=271&amp;gender=">Partners</a></li><li><a href="/ghanahome/../jobs/?menu_id=11&amp;sub_menu_id=273&amp;gender=">Jobs</a></li><li><a href="/ghanahome/../sitemap/?menu_id=11&amp;sub_menu_id=287&amp;gender=">Site Map</a></li></ul><h3>Services</h3><ul><li><a href="/ghanahome/../advertise/?menu_id=11&amp;sub_menu_id=267&amp;gender=">Advertising</a></li><li><a href="/ghanahome/../rssfeed/?menu_id=11&amp;sub_menu_id=1320&amp;gender=">RSS Feeds</a></li><li><a href="/ghanahome/../terms/?menu_id=11&amp;sub_menu_id=275&amp;gender=">Terms of use</a></li><li><a href="/ghanahome/../privacy/?menu_id=11&amp;sub_menu_id=281&amp;gender=">Privacy Policy</a></li><li><a href="/ghanahome/../cookiepolicy/?menu_id=11&amp;sub_menu_id=1321&amp;gender=">Cookie Policy</a></li></ul>
+<div class="col-xs-12 col-sm-2 achive-page"><h3>About Us</h3><ul><li><a href="/ghanahome/../aboutus/?menu_id=11&amp;sub_menu_id=268&amp;gender=">About Us</a></li><li><a href="/ghanahome/../contact/?menu_id=11&amp;sub_menu_id=269&amp;gender=">Contact Us</a></li><li><a href="/ghanahome/../links/?menu_id=11&amp;sub_menu_id=271&amp;gender=">Partners</a></li><li><a href="/ghanahome/../jobs/?menu_id=11&amp;sub_menu_id=273&amp;gender=">Jobs</a></li><li><a href="/ghanahome/../sitemap/?menu_id=11&amp;sub_menu_id=287&amp;gender=">Site Map</a></li></ul><h3>Services</h3><ul><li><a href="/ghanahome/../advertise/?menu_id=11&amp;sub_menu_id=267&amp;gender=">Advertising</a></li><li><a href="/ghanahome/../rssfeed/?menu_id=11&amp;sub_menu_id=1320&amp;gender=">RSS Feeds</a></li><li><a href="/ghanahome/../terms/?menu_id=11&amp;sub_menu_id=275&amp;gender=">Terms of use</a></li><li><a href="/ghanahome/../privacy/?menu_id=11&amp;sub_menu_id=281&amp;gender=">Privacy Policy</a></li><li><a href="/ghanahome/../cookiepolicy/?menu_id=11&amp;sub_menu_id=1321&amp;gender=">Cookie Policy</a></li></ul>
 <div id="fix" class="google-add">
 <span id="crt-206276">
 <span id="Page_160x600"> <script type="text/javascript"> Criteo.events.push(function() { Criteo.Passback.RenderAd('Page_160x600', function(adUnit){ console.log('passback for adunit:',adUnit); var div = document.getElementById(adUnit); var ad = document.createElement('ins'); ad.className = 'adsbygoogle'; ad.setAttribute('style', 'display:inline-block;width:160px;height:600px'); ad.setAttribute('data-ad-client', 'ca-pub-2880489375589404'); ad.setAttribute('data-ad-slot', '3751063177'); var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true; script.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; div.appendChild(script); var script2 = document.createElement('script'); script2.appendChild(document.createTextNode(gg)); div.appendChild(ad); div.appendChild(script2); }); });</script></span>
@@ -438,73 +438,73 @@ If you have questions or suggestions, please complete a <a href="/ghanahome/mg_s
 <div class="col-xs-12 col-sm-2">
 <h3>News</h3>
 <ul>
-<li><a href="/group/1/1">News</a></li>
-<li><a href="/section/Education">Education </a></li>
-<li><a href="/section/CrimePunishment">Crime/Punishment</a></li>
-<li><a href="/section/SocialNews">Social Affairs </a></li>
-<li><a href="/section/PressRelease">Press Releases </a></li>
-<li><a href="/section/RegionalNews">Regional News </a></li>
-<li><a href="/ghanahome/health/">Health News</a></li>
+<li><a href="https://www.modernghana.com/group/1/1">News</a></li>
+<li><a href="https://www.modernghana.com/section/Education">Education </a></li>
+<li><a href="https://www.modernghana.com/section/CrimePunishment">Crime/Punishment</a></li>
+<li><a href="https://www.modernghana.com/section/SocialNews">Social Affairs </a></li>
+ <li><a href="https://www.modernghana.com/section/PressRelease">Press Releases </a></li>
+<li><a href="https://www.modernghana.com/section/RegionalNews">Regional News </a></li>
+<li><a href="https://www.modernghana.com/ghanahome/health/">Health News</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Sports</h3>
 <ul>
-<li><a href="/gender/2/1">Sports</a></li>
-<li><a href="/section/FootballNews">Football News</a></li>
-<li><a href="/section/LeagueReport">League News</a></li>
-<li><a href="/section/Boxing">Boxing News</a></li>
-<li><a href="/ghanahome/league/">League Table</a></li>
-<li><a href="/ghanahome/league/results.asp?menu_id=89&amp;sub_menu_id=429">League Results</a></li>
-<li><a href="/section/cupofnations/">Cup Of Nations</a></li>
+<li><a href="https://www.modernghana.com/gender/2/1">Sports</a></li>
+<li><a href="https://www.modernghana.com/section/FootballNews">Football News</a></li>
+<li><a href="https://www.modernghana.com/section/LeagueReport">League News</a></li>
+<li><a href="https://www.modernghana.com/section/Boxing">Boxing News</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/league/">League Table</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/league/results.asp?menu_id=89&amp;sub_menu_id=429">League Results</a></li>
+<li><a href="https://www.modernghana.com/section/cupofnations/">Cup Of Nations</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Politics</h3>
 <ul>
-<li><a href="/group/5/1">Politics</a></li>
-<li><a href="/ghanahome/ghanavotes/">Elections</a></li>
-<li><a href="/section/CPPNews">CPP News</a></li>
-<li><a href="/section/NPPNews">NPP News</a></li>
-<li><a href="/section/NDCNews">NDC News</a></li>
-<li><a href="/section/PNCNews">PNC News</a></li>
-<li><a href="/section/PPPNews">PPP News</a></li>
+<li><a href="https://www.modernghana.com/group/5/1">Politics</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/ghanavotes/">Elections</a></li>
+<li><a href="https://www.modernghana.com/section/CPPNews">CPP News</a></li>
+<li><a href="https://www.modernghana.com/section/NPPNews">NPP News</a></li>
+<li><a href="https://www.modernghana.com/section/NDCNews">NDC News</a></li>
+<li><a href="https://www.modernghana.com/section/PNCNews">PNC News</a></li>
+<li><a href="https://www.modernghana.com/section/PPPNews">PPP News</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Diaspora</h3>
 <ul>
-<li><a href="/group/7/1">Diaspora</a></li>
-<li><a href="/section/DiasporaUKIreland">UK &amp; Ireland</a></li>
-<li><a href="/section/DiasporaUsa">United States</a></li>
-<li><a href="/section/DiasporaCanada">Canada</a></li>
-<li><a href="/section/DiasporaGermany">Germany</a></li>
-<li><a href="/section/DiasporaSwitzerland">Switzerland</a></li>
-<li><a href="/section/DiasporaNetherlands">Netherlands</a></li>
+<li><a href="https://www.modernghana.com/group/7/1">Diaspora</a></li>
+<li><a href="https://www.modernghana.com/section/DiasporaUKIreland">UK &amp; Ireland</a></li>
+<li><a href="https://www.modernghana.com/section/DiasporaUsa">United States</a></li>
+<li><a href="https://www.modernghana.com/section/DiasporaCanada">Canada</a></li>
+<li><a href="https://www.modernghana.com/section/DiasporaGermany">Germany</a></li>
+<li><a href="https://www.modernghana.com/section/DiasporaSwitzerland">Switzerland</a></li>
+<li><a href="https://www.modernghana.com/section/DiasporaNetherlands">Netherlands</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Real Estate</h3>
 <ul>
-<li><a href="/ghanahome/estates/?menu_id=37&amp;sub_menu_id=711&amp;cat_id=137">Homes For Sale</a></li>
-<li><a href="/ghanahome/estates/?menu_id=37&amp;sub_menu_id=712&amp;cat_id=138">Uncompleted Houses</a></li>
-<li><a href="/ghanahome/estates/?menu_id=37&amp;sub_menu_id=707&amp;cat_id=133">Bargain Houses</a></li>
-<li><a href="/ghanahome/estates/?menu_id=37&amp;sub_menu_id=709&amp;cat_id=135">Luxury Houses</a></li>
-<li><a href="/ghanahome/estates/?menu_id=37&amp;sub_menu_id=744&amp;cat_id=195">House For Rent</a></li>
-<li><a href="/ghanahome/estates/?menu_id=37&amp;sub_menu_id=717&amp;cat_id=313">Unserviced Plots</a></li>
-<li><a href="/ghanahome/estates/?menu_id=37&amp;sub_menu_id=924&amp;cat_id=315">Serviced Plots</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/estates/?menu_id=37&amp;sub_menu_id=711&amp;cat_id=137">Homes For Sale</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/estates/?menu_id=37&amp;sub_menu_id=712&amp;cat_id=138">Uncompleted Houses</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/estates/?menu_id=37&amp;sub_menu_id=707&amp;cat_id=133">Bargain Houses</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/estates/?menu_id=37&amp;sub_menu_id=709&amp;cat_id=135">Luxury Houses</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/estates/?menu_id=37&amp;sub_menu_id=744&amp;cat_id=195">House For Rent</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/estates/?menu_id=37&amp;sub_menu_id=717&amp;cat_id=313">Unserviced Plots</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/estates/?menu_id=37&amp;sub_menu_id=924&amp;cat_id=315">Serviced Plots</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Entertainment</h3>
 <ul>
-<li><a href="/gender/3/1">Entertainment</a></li>
-<li><a href="/gender/4/1">Nollywood</a></li>
-<li><a href="/player/tv/" title="Online Tv Stations">Online TV</a></li>
-<li><a href="/videomovies/">Latest Movies</a></li>
-<li><a href="/videonews/">Video News</a></li>
-<li><a href="/player/clips/">Video Clips</a></li>
-<li><a href="/album/report/list">Photo Gallery</a></li>
+<li><a href="https://www.modernghana.com/gender/3/1">Entertainment</a></li>
+<li><a href="https://www.modernghana.com/gender/4/1">Nollywood</a></li>
+<li><a href="https://www.modernghana.com/player/tv/" title="Online Tv Stations">Online TV</a></li>
+<li><a href="https://www.modernghana.com/videomovies/">Latest Movies</a></li>
+<li><a href="https://www.modernghana.com/videonews/">Video News</a></li>
+<li><a href="https://www.modernghana.com/player/clips/">Video Clips</a></li>
+<li><a href="https://www.modernghana.com/album/report/list">Photo Gallery</a></li>
 </ul>
 </div>
 </div>
@@ -512,80 +512,80 @@ If you have questions or suggestions, please complete a <a href="/ghanahome/mg_s
 <div class="col-xs-12 col-sm-2">
 <h3>Africa</h3>
 <ul>
-<li><a href="/group/2/1">Africa</a></li>
-<li><a href="/section/Nigeria">Nigeria</a></li>
-<li><a href="/section/Egypt">Egypt</a></li>
-<li><a href="/section/Libya">Libya</a></li>
-<li><a href="/section/Congo">Congo</a></li>
-<li><a href="/section/Liberia">Liberia</a></li>
-<li><a href="/section/Kenya">Kenya</a></li>
-<li><a href="/section/IvoryCoast">Ivory Coast</a></li>
-<li class="last-chld"><a href="/section/SouthAfrica">South Africa</a></li>
+<li><a href="https://www.modernghana.com/group/2/1">Africa</a></li>
+<li><a href="https://www.modernghana.com/section/Nigeria">Nigeria</a></li>
+<li><a href="https://www.modernghana.com/section/Egypt">Egypt</a></li>
+<li><a href="https://www.modernghana.com/section/Libya">Libya</a></li>
+<li><a href="https://www.modernghana.com/section/Congo">Congo</a></li>
+<li><a href="https://www.modernghana.com/section/Liberia">Liberia</a></li>
+<li><a href="https://www.modernghana.com/section/Kenya">Kenya</a></li>
+<li><a href="https://www.modernghana.com/section/IvoryCoast">Ivory Coast</a></li>
+<li class="last-chld"><a href="https://www.modernghana.com/section/SouthAfrica">South Africa</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Opinions</h3>
 <ul>
-<li><a href="/group/4/1">Opinions</a></li>
-<li><a href="/ghanahome/columnist/?menu_id=50&amp;sub_menu_id=386">Columnists</a></li>
-<li><a href="/section/FeatureArticle">Featured Articles</a></li>
-<li><a href="/section/OpinionFeature">Opinions</a></li>
-<li><a href="/section/Editorial">Editorial</a></li>
-<li><a href="/section/Critics">Critics</a></li>
-<li><a href="/section/Commentaries">Commentaries</a></li>
-<li><a href="/haveyoursay/">Have Your Say</a></li>
-<li><a href="/ghanahome/poll/">Polls &amp; Surveys</a></li>
+<li><a href="https://www.modernghana.com/group/4/1">Opinions</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/columnist/?menu_id=50&amp;sub_menu_id=386">Columnists</a></li>
+<li><a href="https://www.modernghana.com/section/FeatureArticle">Featured Articles</a></li>
+<li><a href="https://www.modernghana.com/section/OpinionFeature">Opinions</a></li>
+<li><a href="https://www.modernghana.com/section/Editorial">Editorial</a></li>
+<li><a href="https://www.modernghana.com/section/Critics">Critics</a></li>
+<li><a href="https://www.modernghana.com/section/Commentaries">Commentaries</a></li>
+<li><a href="https://www.modernghana.com/haveyoursay/">Have Your Say</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/poll/">Polls &amp; Surveys</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Business</h3>
 <ul>
-<li><a href="/group/6/1">Business News</a></li>
-<li><a href="/section/BusinessFinance">Business &amp; Finance</a></li>
-<li><a href="/section/CommodityNews">Commodity News</a></li>
-<li><a href="/section/EconomyInvestments">Economy &amp; Investments</a></li>
-<li><a href="/ghanahome/estates/">Real Estate</a></li>
-<li><a href="/ghanahome/classifieds/">Classifieds</a></li>
-<li><a href="/ghanahome/yellowpages/">Business Directory</a></li>
-<li><a href="/ghanahome/directory/">Website Directory</a></li>
-<li><a href="/ghanahome/bookshop/">Book Directory</a></li>
+<li><a href="https://www.modernghana.com/group/6/1">Business News</a></li>
+<li><a href="https://www.modernghana.com/section/BusinessFinance">Business &amp; Finance</a></li>
+<li><a href="https://www.modernghana.com/section/CommodityNews">Commodity News</a></li>
+<li><a href="https://www.modernghana.com/section/EconomyInvestments">Economy &amp; Investments</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/estates/">Real Estate</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/classifieds/">Classifieds</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/yellowpages/">Business Directory</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/directory/">Website Directory</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/bookshop/">Book Directory</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>LifeStyle</h3>
 <ul>
-<li><a href="/gender/5/1">LifeStyle</a></li>
-<li><a href="/section/BeautyFashion">Beauty/Fashion</a></li>
-<li><a href="/section/FamilyParenting">Family/Parenting</a></li>
-<li><a href="/section/HealthFitness">Health/Fitness</a></li>
-<li><a href="/section/HomeFood">Home/Food</a></li>
-<li><a href="/section/Poem">Poetry</a></li>
-<li><a href="/section/relationships">Relationships</a></li>
-<li><a href="/section/SocialIssues">Social Issues</a></li>
-<li><a href="/section/WomenIssues">Women Issues </a></li>
+<li><a href="https://www.modernghana.com/gender/5/1">LifeStyle</a></li>
+<li><a href="https://www.modernghana.com/section/BeautyFashion">Beauty/Fashion</a></li>
+<li><a href="https://www.modernghana.com/section/FamilyParenting">Family/Parenting</a></li>
+<li><a href="https://www.modernghana.com/section/HealthFitness">Health/Fitness</a></li>
+<li><a href="https://www.modernghana.com/section/HomeFood">Home/Food</a></li>
+<li><a href="https://www.modernghana.com/section/Poem">Poetry</a></li>
+<li><a href="https://www.modernghana.com/section/relationships">Relationships</a></li>
+<li><a href="https://www.modernghana.com/section/SocialIssues">Social Issues</a></li>
+<li><a href="https://www.modernghana.com/section/WomenIssues">Women Issues </a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Classifieds</h3>
 <ul>
-<li><a href="/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=354&amp;cat_id=1&amp;has_price=3">Announcements </a></li>
-<li><a href="/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=355&amp;cat_id=17&amp;has_price=2">Business</a></li>
-<li><a href="/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=364&amp;cat_id=186&amp;has_price=2"> Services </a></li>
-<li><a href="/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=362&amp;cat_id=173&amp;has_price=2">Jobs/Employment </a></li>
-<li><a href="/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=356&amp;cat_id=29">Computers/Software </a></li>
-<li><a href="/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=360&amp;cat_id=150">Car/Trucks</a></li>
-<li><a href="/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=1062&amp;cat_id=325&amp;has_price=3">Friendships/Penpals</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=354&amp;cat_id=1&amp;has_price=3">Announcements </a></li>
+<li><a href="https://www.modernghana.com/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=355&amp;cat_id=17&amp;has_price=2">Business</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=364&amp;cat_id=186&amp;has_price=2"> Services </a></li>
+<li><a href="https://www.modernghana.com/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=362&amp;cat_id=173&amp;has_price=2">Jobs/Employment </a></li>
+<li><a href="https://www.modernghana.com/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=356&amp;cat_id=29">Computers/Software </a></li>
+<li><a href="https://www.modernghana.com/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=360&amp;cat_id=150">Car/Trucks</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/classifieds/list_classifieds.asp?menu_id=7&amp;sub_menu_id=1062&amp;cat_id=325&amp;has_price=3">Friendships/Penpals</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-2">
 <h3>Members</h3>
 <ul>
-<li><a href="/ghanahome/members/?page=5">All Profiles</a></li>
-<li><a href="/ghanahome/members/?gender=Female">Female Profiles</a></li>
-<li><a href="/ghanahome/members/?gender=Male">Male Profiles</a></li>
-<li><a href="/ghanahome/members/hotornot.asp?page=5">Hot Or Not</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/members/?page=5">All Profiles</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/members/?gender=Female">Female Profiles</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/members/?gender=Male">Male Profiles</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/members/hotornot.asp?page=5">Hot Or Not</a></li>
 </ul>
-<div class="social-icons">
+ <div class="social-icons">
 <a target="_blank" href="https://www.facebook.com/modernghanaweb" class="fa fa-facebook"></a>
 <a target="_blank" href="https://twitter.com/modernghanaweb" class="fa fa-twitter"></a>
 <a target="_blank" href="https://www.pinterest.com/modernghana/" class="fa fa-pinterest"></a><br>
@@ -598,21 +598,21 @@ If you have questions or suggestions, please complete a <a href="/ghanahome/mg_s
 <div class="row ftr-horizontal-menu">
 <div class="col-xs-12 col-sm-12">
 <ul>
-<li><a href="/"><i class="fa fa-circle"></i> Home</a></li>
-<li><a href="/ghanahome/ghana/"><i class="fa fa-circle"></i> Ghana</a></li>
-<li><a href="/aboutus/"><i class="fa fa-circle"></i> About us</a></li>
-<li><a href="/contact/"><i class="fa fa-circle"></i> Contact us</a></li>
-<li><a href="/team/" title="our team"><i class="fa fa-circle"></i> The Team</a></li>
+<li><a href="https://www.modernghana.com/"><i class="fa fa-circle"></i> Home</a></li>
+<li><a href="https://www.modernghana.com/ghanahome/ghana/"><i class="fa fa-circle"></i> Ghana</a></li>
+<li><a href="https://www.modernghana.com/aboutus/"><i class="fa fa-circle"></i> About us</a></li>
+<li><a href="https://www.modernghana.com/contact/"><i class="fa fa-circle"></i> Contact us</a></li>
+<li><a href="https://www.modernghana.com/team/" title="our team"><i class="fa fa-circle"></i> The Team</a></li>
 <li><a target="_blank" href="https://radio.modernghana.com"><i class="fa fa-circle"></i> Online Radio</a></li>
-<li><a href="/player/tv/"><i class="fa fa-circle"></i> TV</a></li>
-<li><a href="/videomovies/"><i class="fa fa-circle"></i> Movies</a></li>
-<li><a href="/videonews/"><i class="fa fa-circle"></i> Videos</a></li>
-<li><a href="/advertise/"><i class="fa fa-circle"></i> Advertising</a></li>
-<li><a href="/sitemap/"><i class="fa fa-circle"></i> Sitemap</a></li>
-<li><a href="/links/"><i class="fa fa-circle"></i> Links</a></li>
-<li><a href="/terms/"><i class="fa fa-circle"></i> Terms &amp; Conditions</a></li>
-<li><a href="/privacy/"><i class="fa fa-circle"></i> Privacy Policy</a></li>
-<li><a href="javascript:void(0);" onclick="window.__cmp('displayConsentUi')"><i class="fa fa-circle"></i> Change Consent</a></li>
+<li><a href="https://www.modernghana.com/player/tv/"><i class="fa fa-circle"></i> TV</a></li>
+<li><a href="https://www.modernghana.com/videomovies/"><i class="fa fa-circle"></i> Movies</a></li>
+<li><a href="https://www.modernghana.com/videonews/"><i class="fa fa-circle"></i> Videos</a></li>
+<li><a href="https://www.modernghana.com/advertise/"><i class="fa fa-circle"></i> Advertising</a></li>
+<li><a href="https://www.modernghana.com/sitemap/"><i class="fa fa-circle"></i> Sitemap</a></li>
+<li><a href="https://www.modernghana.com/links/"><i class="fa fa-circle"></i>Partners</a></li>
+<li><a href="https://www.modernghana.com/terms/"><i class="fa fa-circle"></i> Terms &amp; Conditions</a></li>
+<li><a href="https://www.modernghana.com/privacy/"><i class="fa fa-circle"></i> Privacy Policy</a></li>
+<li><a href="https://www.modernghana.comjavascript:void(0);" onclick="window.__cmp('displayConsentUi')"><i class="fa fa-circle"></i> Consent</a></li>
 </ul>
 </div>
 </div>
