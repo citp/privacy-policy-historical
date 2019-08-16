@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501211855id_/https%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816030354id_/https%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motley Fool Australia
 
@@ -29,7 +29,7 @@ Your personal information (as outlined above) is disclosed to and processed and 
   * **Provide Our Services:**   The Motley Fool uses your information to deliver, and provide access to the services and features that you have subscribed to, or otherwise requested.  We also use your information for administrative purposes such as billing and member support.  When necessary, we will use your information to investigate any complaints or possible violations of our Terms of Service.
   * **More Customised Service:** The Motley Fool collects your personal information to provide you, the user, with the best and most personalised Web experience possible and to provide our advertisers with an efficient means to reach the right audience. In short, by knowing a little about you, The Motley Fool can deliver more relevant content and advertisements to you while at our Web site and thus, provide you with a more efficient, customised and seamless experience when using our service.
   * **Internal Research:** Cookies and the other information we automatically track are used to help us better understand how our audience uses our site as well as for internal research on users’ demographics and interests. Each browser accessing The Motley Fool is given a unique cookie which is then used to determine usage patterns and to help in targeting content and ads based on user interests.
-  * **To Contact You:** We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you’d rather not receive these marketing communications, unsubscribe [here](http://www.fool.com.au/unsubscribe).
+  * **To Contact You:** We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you’d rather not receive these marketing communications, unsubscribe [here](https://www.fool.com.au/unsubscribe).
 
 
 
@@ -82,7 +82,7 @@ The Motley Fool takes reasonable steps to ensure that your personal information 
 
 **Access to Your Information**
 
-In accordance with the Australian Privacy Principles, upon written request, The Motley Fool will (other than as permitted by law) provide you access to the personal information we hold about you as well as grant you the opportunity to correct any incorrect personal information. If your access request is denied, we will give you the reasons for denying your request. To contact us about accessing your information, please click [here](http://www.fool.com.au/privacy-contact/). Alternatively, you can submit your request to:
+In accordance with the Australian Privacy Principles, upon written request, The Motley Fool will (other than as permitted by law) provide you access to the personal information we hold about you as well as grant you the opportunity to correct any incorrect personal information. If your access request is denied, we will give you the reasons for denying your request. To contact us about accessing your information, please click [here](https://www.fool.com.au/privacy-contact/). Alternatively, you can submit your request to:
 
 Privacy
 
