@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brendid.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417160218id_/http%3A//wp.me/P4b3jj-KZ) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brendid.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816024047id_/http%3A//wp.me/P4b3jj-KZ) for the most accurate reproduction.*
 
 # Policies & Disclosures - Bren Did
 
