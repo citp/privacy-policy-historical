@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pickyourown.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629101224id_/http%3A//www.pickyourown.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickyourown.org privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816141835id_/http%3A//www.pickyourown.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # PickYourOwn.org's Privacy Policy
 
-Looking for PickYourOwn.org's Privacy Policy in 2019?  Scroll down this page and  follow the links. And if you bring home some fruit or vegetables and want to can, freeze, make jam, salsa or pickles, [see this page for simple, reliable, illustrated canning, freezing or preserving directions](https://web.archive.org/web/20190629101224id_/http%3A//allaboutcanning.htm). There are plenty of other related resources, click on the resources dropdown above. 
+Looking for PickYourOwn.org's Privacy Policy in 2019?  Scroll down this page and  follow the links. And if you bring home some fruit or vegetables and want to can, freeze, make jam, salsa or pickles, [see this page for simple, reliable, illustrated canning, freezing or preserving directions](https://web.archive.org/web/20190816141835id_/http%3A//allaboutcanning.htm). There are plenty of other related resources, click on the resources dropdown above. 
 
 The privacy of our visitors to PickYourOwn.org  is important to us. At PickYourOwn.org, we recognize that privacy of your personal information is important to you, too!  Here is information on what types of personal information we receive and collect when you use and visit PickYourOwn.org, and how we safeguard your information.  We never sell or release your personal information to third parties.
 
@@ -24,7 +24,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Here are some of the ways you can control the information that is shared by your device when you visit  our website:
 
-We use Google Analytics to understand how visitors engage with their sites or apps. If you don’t want Analytics to be used in your browser, you can[ install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout). Learn more about [ Google Analytics and privacy](https://support.google.com/analytics/answer/6004245).   
+We use Google Analytics to understand how visitors engage with their sites or apps. If you don't want Analytics to be used in your browser, you can[ install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout). Learn more about [ Google Analytics and privacy](https://support.google.com/analytics/answer/6004245).   
 Many browsers, including Chrome, allow you to block third-party cookies. You can also clear any existing cookies from within your browser. [ Learn more about managing cookies in Chrome](https://support.google.com/chrome/answer/95647).  Google's [ Ad Settings](https://adssettings.google.com/authenticated) helps you control ads you see on Google services (such as Google Search or YouTube), or on non-Google websites (such as ours) and apps that use Google ad services. You can also learn how ads are personalized, opt out of ad personalization, and block specific advertisers.
 
 ### Our Commitment To Data Security 
