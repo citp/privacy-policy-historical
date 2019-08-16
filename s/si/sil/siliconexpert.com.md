@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023053412id_/http%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816161923id_/https%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiliconExpert
 
@@ -193,9 +193,9 @@ We reserve the right to revise and reissue this Privacy Policy at any time. Any 
 **16\. CONTACT US**
 
 For any requests relating to your Personal Information, or if you have any questions about this Privacy Policy, please contact us at:  
-SiliconExpert, Inc.  
-2975 Scott Blvd., Suite 100  
-Santa Clara, CA 95054  
+SiliconExpert Technologies  
+245 Main Street  
+Cambridge, MA 02142  
 [info@siliconexpert.com](mailto:info@siliconexpert.com)
 
 © 2020 All Rights Reserved. SiliconExpert Technologies, Inc.
