@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyersfavorite.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628161718id_/http%3A//www.lawyersfavorite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersfavorite.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816110541id_/http%3A//lawyersfavorite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lawyers Favorite
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2c45424a436c43414b5f58594845435f024f4341)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98f1f6fef7d8f7f5ffebecedfcf1f7ebb6fbf7f5)
 
 
 
