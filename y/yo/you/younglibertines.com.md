@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younglibertines.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624032646id_/http%3A//www.younglibertines.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younglibertines.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816135328id_/http%3A//www.younglibertines.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
