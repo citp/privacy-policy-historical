@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchprivate.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626190924id_/http%3A//www.searchprivate.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchprivate.org privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816044115id_/http%3A//www.searchprivate.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - searchprivate.org
 
@@ -24,7 +24,7 @@ The GDPR Owner is responsible for ensuring that this notice is made available to
 
 The Company develops and markets browser extensions. We create browser extensions and offer them to consumers. 
 
-  * Gdpr-requests@tightropeinteractive.com
+  * [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * Tightrope Interactive: GDPR REQUEST
   * 588 Sutter St #551
   * San Francisco, CA 94102
@@ -201,4 +201,4 @@ If you feel that we have not followed our Privacy Policy, please let us know. Al
 
 Tightrope Interactive, Inc. 588 Sutter St #551, San Francisco, CA 94102
 
-Alternatively, if you would like, contact us via e-mail at webmaster@searchprivate.org
+Alternatively, if you would like, contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
