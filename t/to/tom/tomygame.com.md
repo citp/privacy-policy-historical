@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomygame.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526064650id_/http%3A//tomygame.com/index.php%3Fview%3Dprivacypolicy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomygame.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816072404id_/http%3A//tomygame.com/index.php%3Fview%3Dprivacypolicy%26) for the most accurate reproduction.*
 
 # TomyGame.com : Privacy Policy
 
