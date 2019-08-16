@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avistaz.to privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115015330id_/https%3A//avistaz.to/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avistaz.to privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816135918id_/https%3A//avistaz.to/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AvistaZ
 
