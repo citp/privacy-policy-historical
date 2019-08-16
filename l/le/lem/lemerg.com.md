@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemerg.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616225504id_/http%3A//lemerg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemerg.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816235207id_/http%3A//lemerg.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
