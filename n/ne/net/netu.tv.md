@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netu.tv privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627165935id_/https%3A//netu.tv/view_page.php%3Fpid%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netu.tv privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816055911id_/https%3A//netu.tv/view_page.php%3Fpid%3D13) for the most accurate reproduction.*
 
 # Netu.tv videohosting - Privacy policy
 
