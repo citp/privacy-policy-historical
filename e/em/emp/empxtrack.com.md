@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empxtrack.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019083705id_/https%3A//empxtrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empxtrack.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816195503id_/https%3A//empxtrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Empxtrack
 
