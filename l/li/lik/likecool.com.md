@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likecool.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608055129id_/http%3A//likecool.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likecool.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816104932id_/http%3A//www.likecool.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
