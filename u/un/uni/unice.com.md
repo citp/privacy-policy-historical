@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unice.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423042319id_/https%3A//www.unice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unice.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816034744id_/https%3A//www.unice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UNice.com
 
