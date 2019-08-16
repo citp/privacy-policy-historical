@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccras.nic.in privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601160003id_/http%3A//www.ccras.nic.in/node/928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccras.nic.in privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816231915id_/http%3A//ccras.nic.in/node/928) for the most accurate reproduction.*
 
 # Privacy policy | Central Council for Research in Ayurvedic Sciences, Ministry of AYUSH, Government of India
 
