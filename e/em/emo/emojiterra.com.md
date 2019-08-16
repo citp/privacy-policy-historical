@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emojiterra.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520192014id_/https%3A//emojiterra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emojiterra.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816205807id_/https%3A//emojiterra.com/privacy-policy) for the most accurate reproduction.*
 
 # EmojiTerra: Privacy Policy
 
