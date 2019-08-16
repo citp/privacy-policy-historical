@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmo.com.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330213724id_/https%3A//www.cmo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmo.com.au privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816192606id_/https%3A//www.cmo.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CMO Australia
 
