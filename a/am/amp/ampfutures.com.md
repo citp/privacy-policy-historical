@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampfutures.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035916id_/http%3A//www.ampfutures.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampfutures.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816040713id_/https%3A//www.ampfutures.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - AMP Futures
 
