@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westportgolfclub.ie privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617035624id_/http%3A//www.westportgolfclub.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westportgolfclub.ie privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816204109id_/http%3A//www.westportgolfclub.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
