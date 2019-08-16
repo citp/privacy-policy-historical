@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softis.info privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616225142id_/http%3A//www.softis.info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softis.info privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817002728id_/http%3A//www.softis.info/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to softis.info - Privacy Policy
 
