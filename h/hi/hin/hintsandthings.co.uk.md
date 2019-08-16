@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612021714id_/http%3A//hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816031326id_/http%3A//hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ The Google search featured on site is set to only search HInts and Things.
 
 Google, as a third-party vendor, uses cookies to serve ads on your site. 
 
-Users may opt out of personalised advertising by visiting [Ads Settings](https://www.google.co.uk/settings/ads). (Alternatively, users can opt out of a third-party vendor's use of cookies for personalised advertising by visiting [ http://optout.aboutads.info/#!/](http://optout.aboutads.info/#!/)  )
+Users may opt out of personalised advertising by visiting [Ads Settings](https://adssettings.google.co.uk/anonymous?sig=ACi0TCjnLlOZlyTHk9cG8vRCjVmblbcCJGbW7H01ZcmOcp_VX9uzXwFAx5iiESOFkVuiGyNDnWEDzeALg_2XCuoOr0zj0JBB3QeaCHb2PqviLOfcFg8EOzI&hl=en). (Alternatively, users can opt out of a third-party vendor's use of cookies for personalised advertising by visiting  [http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN) )
 
 The only third party serving appearing on Hints and Things is via Google Adsense.
 
