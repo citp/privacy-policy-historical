@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617062416id_/http%3A//www.prepaidmeters.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817015120id_/http%3A//www.prepaidmeters.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Prepaid Meters - Our Privacy Policy
+# Our Privacy Policy - Prepaid Meters
 
 We recognise the importance of protecting your personal information. As such we subscribe to the principles, outlined in Section 51 of the [Electronic Communications and Transactions Act 2002](http://www.internet.org.za/ect_act.html) that governs your right to having your personal information kept private.
 
