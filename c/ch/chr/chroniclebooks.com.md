@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211051425id_/https%3A//www.chroniclebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2019-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190816100326id_/https%3A//www.chroniclebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,7 +77,7 @@ Email: hello@chroniclebooks.com
 **Opt-In/Opt-Out of Email Communications**
 
   
-Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers, news about our products and services, or promotional and community-building communications. You may also be provided with the opportunity to receive offers directly from select companies other than us. If you opt-in to these communications, at any time you can follow a link provided in every email message to unsubscribe from that mailing list or email service. 
+Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers, news about our products and services, or promotional and community-building communications. You may also be provided with the opportunity to receive offers directly from select companies other than us. If you opt-in to these communications, at any time you can follow a link provided in every email message to unsubscribe from that mailing list or email service.
 
 Chronicle Books will use information you provide through the Site, such as your email address or other personally identifiable information, without further consent for non-promotional or administrative purposes, such as notifying you of major website updates.
 
@@ -105,4 +105,4 @@ We may occasionally update this Policy. When we do, we will also revise the “l
 
 **Copyright**
 
-Copyright © 1996-2018 Chronicle Books LLC. All rights reserved. No material herein may be reproduced in any form by any means without the express written consent of Chronicle Books.
+Copyright © 1996-2019 Chronicle Books LLC. All rights reserved. No material herein may be reproduced in any form by any means without the express written consent of Chronicle Books.
