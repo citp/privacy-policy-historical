@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623083249id_/http%3A//www.funambol.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817212206id_/http%3A//www.funambol.com/privacy.html) for the most accurate reproduction.*
 
 # Funambol: Leader of White-Label Cloud Services
 
