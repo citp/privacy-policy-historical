@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604141208id_/https%3A//www.comicrelief.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818005948id_/https%3A//www.comicrelief.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Comic Relief
 
@@ -51,7 +51,7 @@ Name or title:        Head of Assurance
 
   Email address:        privacy@comicrelief.com
 
-  Postal address:        Hanover House, 14 Hanover Square, London, W1S 1HP
+  Postal address:         1st Floor, 89 Albert Embankment, London, SE1 7TP
 
   Telephone number:    +44 (0) 20 7820 2000
 
@@ -263,4 +263,4 @@ We may need to request specific information from you to help us confirm your ide
 
 #### TIME LIMIT TO RESPOND 
 
-We try to respond to all legitimate requests within 30 days. Occasionally it may take us longer than 30 days if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+We try to respond to all legitimate requests within 30 days. Occasionally it may take us longer than 30 days if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
