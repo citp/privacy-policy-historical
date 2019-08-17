@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markbook.info privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617031956id_/http%3A//markbook.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markbook.info privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817021334id_/http%3A//markbook.info/privacy) for the most accurate reproduction.*
 
 # privacy
 
