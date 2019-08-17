@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textfixer.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403043010id_/https%3A//www.textfixer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textfixer.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817024252id_/https%3A//www.textfixer.com/privacy) for the most accurate reproduction.*
 
 # TextFixer.com - Privacy Policy
 
