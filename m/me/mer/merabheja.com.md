@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merabheja.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605213225id_/https%3A//merabheja.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merabheja.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817185051id_/https%3A//merabheja.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
 
