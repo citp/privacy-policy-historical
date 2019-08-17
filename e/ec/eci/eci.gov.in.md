@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eci.gov.in privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603092320id_/https%3A//eci.gov.in/website-policy/privacy-policy-r5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eci.gov.in privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817051646id_/https%3A//eci.gov.in/website-policy/privacy-policy-r5) for the most accurate reproduction.*
 
 # Privacy Policy - Website Policies - Election Commission of India
 
