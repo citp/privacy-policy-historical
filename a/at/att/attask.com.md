@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attask.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616083217id_/https%3A//www.workfront.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attask.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817041059id_/https%3A//www.workfront.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Privacy Shield Statement | Workfront
 
@@ -64,7 +64,7 @@ We may (and we may allow third party service providers to) use cookies or simila
 
 ### Children
 
-Workfront does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Workfront, please contact us, and we will delete that information.
+Workfront does not knowingly collect Personal Data from children under the age of 16. If you are under the age of 16, please do not submit any Personal Data through the Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Service without their permission. If you have reason to believe that a child under the age of 16 has provided Personal Data to Workfront, please contact us, and we will delete that information.
 
 ### Third Party Sites
 
@@ -73,6 +73,10 @@ This Privacy Policy applies only to the Service. The Service may contain links t
 ### Personal Data Sharing
 
 There are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: Business Transfers: As we develop our business, we might decide to sell or buy businesses or assets. In connection with any potential or actual corporate sale, merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, dissolution or similar event or transaction, Personal Data may be disclosed to third parties as it may be part of the assets potentially transferred or otherwise relevant to the transaction. Agents, Consultants and Third Parties: Like many businesses, Workfront sometimes hires other companies to perform certain business-related functions, including to help us understand and improve the use of our Service. We may share any information we receive with vendors and service providers retained in connection with the operation of our business. With respect to Personal Data that is subject to our Privacy Shield registration, before disclosing Personal Data to a subcontractor or third-party agent, Workfront will obtain assurances from the recipient that it will: (a) use the Personal Data only to assist Workfront in providing the Service; (b) provide at least the same level of protection for Personal Data as required by the Privacy Shield Principles; and (c) notify Workfront if the recipient is no longer able to provide the required protections. Upon notice, Workfront will act promptly to stop and remediate unauthorized processing of Personal Date by a recipient. Workfront will remain liable for onward transfers to its subcontractors and third-party agents. Legal Requirements: Workfront may disclose your Personal Data if requested, subpoenaed and/or if we are required to do so by law, regulation, legal process, or by any court of competent jurisdiction or any inquiry or investigation by any governmental, official or regulatory body which is lawfully entitled to require any such disclosure, or otherwise in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Workfront or a third party, (iii) act in urgent circumstances to protect the personal safety of users of the Service or the public, or (iv) protect Workfront against potential legal liability.
+
+### Do Not Sell My Personal Information
+
+We do not sell, rent, or share personal data we collect directly from you or about you from third parties with third party Advertisers for their own marketing purposes, unless you choose in advance to have such information shared for this purpose.
 
 ### Right of Choice for Individuals
 
