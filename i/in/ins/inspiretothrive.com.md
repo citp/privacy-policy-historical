@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiretothrive.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531235123id_/https%3A//inspiretothrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiretothrive.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817030948id_/https%3A//inspiretothrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
