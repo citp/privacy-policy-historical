@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireflyfestival.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327033220id_/http%3A//www.madisonhousepresents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireflyfestival.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817193806id_/http%3A//www.madisonhousepresents.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY « Madison House Presents
 
