@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldstarsoftware.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618013402id_/http%3A//www.goldstarsoftware.com/infouse.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldstarsoftware.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817181743id_/http%3A//www.goldstarsoftware.com/infouse.asp) for the most accurate reproduction.*
 
 # Information Use Policy | Goldstar Software
 
@@ -10,7 +10,7 @@ If you sign up for our mailing list, you will receive the Goldstar Software Mete
 
 If you sign up for our PSQL Tech Tip series, you will receive one new Email every "Tech Tip Tuesday" which will give you some tips on using the PSQL database and its tools.
 
-Of course, you can always [change your delivery preferences](https://web.archive.org/web/20190618013402id_/http%3A//www.goldstarsoftware.com/mledit.asp) or [delete your account completely](https://web.archive.org/web/20190618013402id_/http%3A//www.goldstarsoftware.com/mlremove.asp) at any time.
+Of course, you can always [change your delivery preferences](https://web.archive.org/web/20190817181743id_/http%3A//www.goldstarsoftware.com/mledit.asp) or [delete your account completely](https://web.archive.org/web/20190817181743id_/http%3A//www.goldstarsoftware.com/mlremove.asp) at any time.
 
 ## Privacy
 
@@ -20,7 +20,7 @@ We are committed to respecting your privacy and recognize your need for protecti
 
 Effective May 25, 2018, we extended our commitment to your privacy and data security by integrating changes prescribed by the EU GDPR legal framework. This includes the following changes:
 
-  * Assuring customer access to a full explanation of [how and why we use cookies](https://web.archive.org/web/20190618013402id_/http%3A//www.goldstarsoftware.com/cookies.asp) and other information we collect about you and the choices and controls available to you.
+  * Assuring customer access to a full explanation of [how and why we use cookies](https://web.archive.org/web/20190817181743id_/http%3A//www.goldstarsoftware.com/cookies.asp) and other information we collect about you and the choices and controls available to you.
   * Alerting all users of goldstarsoftware.com about our use of cookies and allowing you to confirm your acceptance of this use.
   * Ensuring that the companies we work with to process transactions and ensure a smooth and efficient shopping experience are also taking steps to upgrade their policies and practices to give visitors and customers greater understanding of how they use information and more control over how this information is used.
   * Requiring a dual opt-in process prior to sending out marketing, promotion and informational emails, other than those that are required for the safe completion and recording of a transaction.
@@ -31,7 +31,7 @@ Effective May 25, 2018, we extended our commitment to your privacy and data secu
 
 We may collect IP and e-mail address (where possible) of visitors to our web site, information volunteered by the consumer, such as survey and promotion-related information, and/or site registrations. This information is used to improve the content and functionality of our website. It is also used to notify you of site updates and new product offerings. If you choose to visit our shopping site (shop2.goldstarsoftware.com), we may ask you to provide information for ordering products. For your convenience, we maintain a record of this information, as well as all products that you purchase.
 
-We use cookies to store visitor preferences, record session information and to remember things for you such as your login information, recent page views and shopping cart. You have the right and ability to refuse to accept cookies. Please see our [Cookie Policy](https://web.archive.org/web/20190618013402id_/http%3A//www.goldstarsoftware.com/cookies.asp) for further details.
+We use cookies to store visitor preferences, record session information and to remember things for you such as your login information, recent page views and shopping cart. You have the right and ability to refuse to accept cookies. Please see our [Cookie Policy](https://web.archive.org/web/20190817181743id_/http%3A//www.goldstarsoftware.com/cookies.asp) for further details.
 
 ## Using Collected Information
 
@@ -72,4 +72,4 @@ We may, from time to time, make changes to these policies. When we make a signif
 
 ## Contacting Us
 
-If you have further questions regarding Goldstar Software's Privacy or Security policies, please [contact us](https://web.archive.org/web/20190618013402id_/http%3A//www.goldstarsoftware.com/contact.asp). We welcome your comments and suggestions.
+If you have further questions regarding Goldstar Software's Privacy or Security policies, please [contact us](https://web.archive.org/web/20190817181743id_/http%3A//www.goldstarsoftware.com/contact.asp). We welcome your comments and suggestions.
