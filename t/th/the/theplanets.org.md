@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplanets.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222806id_/https%3A//theplanets.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplanets.org privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817185812id_/https%3A//theplanets.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Affiliate Disclaimer • The Planets
 
