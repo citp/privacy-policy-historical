@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbalcony.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617000727id_/http%3A//www.redbalcony.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbalcony.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817031457id_/http%3A//www.redbalcony.com/privacy) for the most accurate reproduction.*
 
 # Privacy – RedBalcony > Movie Trailers, TV, DVDs, Videos, Viral Videos, Celebrities Videos, Photos and Games
 
