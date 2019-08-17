@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gnewsline.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927214007id_/http%3A//www.gnewsline.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnewsline.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817231839id_/http%3A//www.gnewsline.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Global Newsline India ::: Privacy & Policy
+# GnewsLine::: Privacy & Policy
 
 ### INTRODUCTION:
 
-This Privacy Policy describes how Global Newsline, Inc. ("Gnewsline," "us" or "we"), will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data").
+This Privacy Policy describes how GnewsLine, Inc. ("GnewsLine ," "us" or "we"), will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data").
 
-This Policy applies to PII and Related Data received by us from consumers when they visit, register or subscribe to the online editions of Global Newsline (www.Gnewsline.com) and related services or sites that link to this Privacy Policy.
+This Policy applies to PII and Related Data received by us from consumers when they visit, register or subscribe to the online editions of GnewsLine (www.gnewsline.com) and related services or sites that link to this Privacy Policy.
 
-From time to time Global Newsline may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
+From time to time GnewsLine may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
 
 ### INFORMATION THAT WE COLLECT:
 
@@ -34,7 +34,7 @@ Third Party Ad Servers. Some of the advertisements and other services that appea
 
 ### NOTICE:
 
-Third Party Web Sites. Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with Global Newsline or other Global Newsline logo, even though they are not operated or maintained by us. For example, the Business & Hire section of Global Newsline online offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links.
+Third Party Web Sites. Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with GnewsLine or other GnewsLine logo, even though they are not operated or maintained by us. For example, the Business & Hire section of GnewsLine online offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links.
 
 We're not responsible for the privacy practices of web sites operated by third parties that are linked to or integrated with our sites or for the privacy practices of third party Internet advertising companies. Once you've left our site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
@@ -55,17 +55,17 @@ Our web sites may also be linked to sites operated by companies affiliated with 
 
 
 
-Information about your activities on our sites and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests. We may combine the information that we collect from you with information that you provide to us in connection with your use of other Global Newsline products, services and web sites, or information we collect from third parties.
+Information about your activities on our sites and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests. We may combine the information that we collect from you with information that you provide to us in connection with your use of other GnewsLine products, services and web sites, or information we collect from third parties.
 
 ### Sharing your Information
 
-Except as set forth herein, or if we inform you otherwise at the time of data collection, we will not share your PII or Related Data outside of Global Newsline.
+Except as set forth herein, or if we inform you otherwise at the time of data collection, we will not share your PII or Related Data outside of GnewsLine.
 
 **Affiliates:** We may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies.
 
 **Service Providers:** We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access to your PII and Related Data solely for the purpose of providing these services to us or on our behalf.
 
-**Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of Global Newsline, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Global Newsline sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction.
+**Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of GnewsLine, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if GnewsLine sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction.
 
 **Corporate, Third-Party, and Student Subscriptions:** If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. If you have a student subscription associated with a professor or school, we may notify your professor or school to confirm your subscription, access or use. When providing these notices, we may reveal limited amounts of your personally identifiable information such as your name or email address.
 
@@ -81,15 +81,19 @@ When an individual chooses to post information that will be publicly disclosed, 
 
 You must update your preferences for each of our publications separately, as indicated below:
 
-Global Newsline Online  
-To opt out of receiving marketing from Global Newsline Online, if you are a subscriber visit our Member Center. Others may notify us by contacting Customer Service at [info@Gnewsline.com](mailto:info@Gnewsline.com)
+GnewsLine Online  
+To opt out of receiving marketing from GnewsLine Online, if you are a subscriber visit our Member Center. Others may notify us by contacting Customer Service at [info@gnewsline.com](mailto:info@gnewsline.com)
 
 ### ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII
 
 You may review and update the personally identifiable information that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Most subscribers also can update their information online by signing on to their accounts and visiting the appropriate account management sections. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately.
 
-Subscribers to Global Newsline Online  
-may contact Customer Service at [info@Gnewsline.co.in](mailto:info@Gnewsline.co.in) Most subscribers to Global Newsline Online may also update their information by going to Member Center. 
+###  PLEASE ALSO VISIT THE BELOW MENTIONED GOOGLE WEB PAGE
+
+[How Google uses data when you use our partners' sites or apps](https://www.google.com/intl/en/policies/privacy/partners/)
+
+Subscribers to GnewsLine Online  
+may contact Customer Service at [info@gnewsline.com](mailto:info@gnewsline.com) Most subscribers to GnewsLine Online may also update their information by going to Member Center. 
 
 ### SECURITY: WE PROTECT THE SECURITY OF PII
 
@@ -101,16 +105,16 @@ We retain your information for as long as necessary to permit us to use it for t
 
 ### TRANSFER TO US OR OTHER COUNTRIES
 
-Your information may be stored and processed in the United States or any other country where Global Newsline has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country.
+Your information may be stored and processed in the United States or any other country where GnewsLine has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country.
 
 REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us at  
-[ info@Gnewsline.co.in](mailto:info@Gnewsline.co.in)
+[ info@gnewsline.com](mailto:info@gnewsline.com)
 
 This policy was last updated on November 8th, 2010
 
-Gnewsline are committed to ensure that our visitors are aware of how our website operates and its relation to the privacy of customer information. This cookie policy is our first step in educating our website visitors and adhering to new EU/India online privacy laws, as set by the Department for Media Culture and Sport (DMCS).
+GnewsLine are committed to ensure that our visitors are aware of how our website operates and its relation to the privacy of customer information. This cookie policy is our first step in educating our website visitors and adhering to new EU/India online privacy laws, as set by the Department for Media Culture and Sport (DMCS).
 
 ### About Cookies
 
@@ -138,23 +142,23 @@ HTML5 storage utilises a new storage medium for client-side processing for savin
 
 ### What do we use cookies for?
 
-The Gnewsline India website uses a variety of cookies to deliver on-page services to website visitors. Additionally, Gnewsline India use analytical products to deliver statistical reporting on how website visitors are interacting on the website. This data is used to improve website performance and continuously develop new content for our website visitors to enjoy.
+The GnewsLine website uses a variety of cookies to deliver on-page services to website visitors. Additionally, GnewsLine use analytical products to deliver statistical reporting on how website visitors are interacting on the website. This data is used to improve website performance and continuously develop new content for our website visitors to enjoy.
 
 ### Information collected from cookies
 
-Gnewsline India do not collect any personally identifiable information from the various services used on the website including analytical reporting. Additionally, no information is shared with 3rd parties and analytical data is kept only for internal organisational use.
+GnewsLine do not collect any personally identifiable information from the various services used on the website including analytical reporting. Additionally, no information is shared with 3rd parties and analytical data is kept only for internal organisational use.
 
 ### Universally controlling cookies
 
-Whilst Gnewsline India are implementing a suitable opt-in/out control solution, you may wish to manually control the cookies being placed on your machine. You can limit this to the Gnewsline India domain or every website that you visit through your internet browser  
+Whilst GnewsLine are implementing a suitable opt-in/out control solution, you may wish to manually control the cookies being placed on your machine. You can limit this to the GnewsLine domain or every website that you visit through your internet browser  
 Note: blocking certain cookies may affect the functionality of this website. 
 
 ### Cookie control solution
 
-Gnewsline India are currently investigating cookie control systems for use on the website; this would enable website visitors to change their cookie opt-in/out status at any time.
+GnewsLine are currently investigating cookie control systems for use on the website; this would enable website visitors to change their cookie opt-in/out status at any time.
 
 ### More information
 
-This website is owned and operated by Global Newsline, Inc.
+This website is owned and operated by GnewsLine, Inc.
 
 If you have any questions about our privacy or our cookie policy, please do not hesitate to contact us and we can discuss your concerns.
