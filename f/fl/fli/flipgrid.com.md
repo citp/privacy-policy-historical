@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipgrid.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318004946id_/https%3A//legal.flipgrid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipgrid.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817200458id_/https%3A//legal.flipgrid.com/privacy.html) for the most accurate reproduction.*
 
 # Flipgrid - Privacy Policy
 
@@ -123,7 +123,7 @@ Flipgrid reserves the right to share Users’ personal information to respond to
 
 Each Grid and the content submitted to a Grid, such as Topics and videos, will be displayed in the Grid and will be visible to anyone who joins the Grid as administered and permitted by the Grid Owner, subject to the Grid Owner’s ability to deactivate or moderate submissions. The Grid Owner, and not Flipgrid, sets the Grid's privacy settings. 
 
-Grid Owners choose whether Users are permitted to link to external sites. External sites are governed by their respective privacy policies. Flipgrid leverages Youtube.com's and Vimeo.com's enhanced privacy modes to mark links as 'do not track.'
+Grid Owners choose whether Users are permitted to link to external sites. External sites are governed by their respective privacy policies. Flipgrid leverages Youtube.com's and Vimeo.com's enhanced privacy modes to mark links as 'do not track.' Grid owners may also record Shorts videos and may share the videos with others.
 
 We may publish comments or feedback from a User about Flipgrid only if we obtain that User’s consent. 
 
