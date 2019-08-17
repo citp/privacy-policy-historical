@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrtstudio.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516190639id_/http%3A//www.jrtstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrtstudio.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817080406id_/http%3A//www.jrtstudio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JRT Studio
 
