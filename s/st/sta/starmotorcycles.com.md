@@ -1,40 +1,46 @@
-> *The following text is extracted and transformed from the starmotorcycles.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182202id_/https%3A//www.yamahamotorsports.com/motorsports/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmotorcycles.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817204338id_/https%3A//www.yamahamotorsports.com/motorsports/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Yamaha Motor Corporation U.S.A. ("Yamaha") values your personal information and respects your privacy.  The purpose of this Notice is to keep you informed of: ([1](https://web.archive.org/general/pages/privacy-policy#personal)) [personal information we may collect from or about you](https://web.archive.org/general/pages/privacy-policy#personal); ([2](https://web.archive.org/general/pages/privacy-policy#share)) [how we may use and share that information](https://web.archive.org/general/pages/privacy-policy#share); ([3](https://web.archive.org/general/pages/privacy-policy#response)) [the choices and resources you have with respect to the forgoing](https://web.archive.org/general/pages/privacy-policy#response); ([4](https://web.archive.org/general/pages/privacy-policy#collection)) [our collection, use and sharing of other non-personal information](https://web.archive.org/general/pages/privacy-policy#collection); and ([5](https://web.archive.org/general/pages/privacy-policy#additional)) [additional information about the Yamaha Website & Yamaha’s privacy practices](https://web.archive.org/general/pages/privacy-policy#additional).  Our primary purpose in the collection and use of this information is to further our efforts to interact and build relationships with you, our potential or existing customers, in order to provide a diverse array of innovative and reliable products. 
+#### **  
+YAMAHA MOTOR CORPORATION, U.S.A. PRIVACY NOTICE  
+**
+
+**  
+Effective  May 25, 2018**
 
 This Notice applies to the Yamaha website located at [http://www.yamahamotorsports.com](http://www.yamaha-motor.com/) and other related websites owned and operated by Yamaha that may link to this Notice (the "Yamaha Website" or "Website"). The Website and this Notice are intended for U.S. residents only.  If you are a resident of another country, please use the following link to find the appropriate Yamaha affiliate that corresponds to your geographic region. <https://global.yamaha-motor.com/link/index.html>  By using the Website, or providing us with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside or are a citizen.
 
-**1.      ****Information We May Collect From or About You**
+#### **1.  ** **Information We May Collect From or About You  
+**
 
-**Passive Information.**   When you visit the Yamaha Website, we may collect passive information about your visit. Passive information is any form of aggregate data, navigational data, tracking data, click-stream data, or historical data, which does not on its own personally identify you. Passive Information includes information collected through cookies and web beacons ([see 4 below](https://web.archive.org/general/pages/privacy-policy#collection))  
+**Passive Information.**   When you visit the Yamaha Website, we may collect passive information about your visit. Passive information is any form of aggregate data, navigational data, tracking data, click-stream data, or historical data, which does not on its own personally identify you. Passive Information includes information collected through cookies and web beacons (see 4 below)  
 
 **Personal Information.**   When you register a product, purchase products through our ecommerce programs via the Website, send us an email, subscribe to one of our newsletters, or submit other data through the Yamaha Website, we may obtain and collect personal information. Personal information is information collected that personally identifies you, such as by name, email address, mailing address, phone number.  This personal information may be combined with Passive Information or additional information we receive from third parties, as well.  
 
-**2\. How We May Share or Use Your Personal Information**
+#### **2\. How We May Share or Use Your Personal Information**
 
 **Sharing.**   Personal information may be shared by Yamaha on an international basis with its parent entity, subsidiaries and affiliates, and such information may be further shared between internal product groups in order to enhance the Yamaha customer experience and offer additional products and/or services that may be of interest to you.   We may also share your personal information with third parties either at your express direction, such as when you request that we have a dealer contact you or you authorize sharing of your personal information with a third party business partner.  Yamaha is not responsible for the handling of such information by these third parties who are responsible for their own privacy policies that would govern such collection, use and handling of this information.  Yamaha may also appoint third party agents in connection with its marketing and survey efforts, subject to a confidentiality agreement concerning the information. In any case, Yamaha will not, without your consent, disclose any such personal information for use in connection with an unrelated third party's marketing efforts.
 
-**Use.**   Yamaha does not send unsolicited bulk emails or marketing-related communications to anyone who has requested that we not contact them. We send promotional information and communications only to those who have taken affirmative steps to subscribe to these communications or our existing registered customers, who have not unsubscribed or opted out of such communications. You may "opt-out" of our promotional use of your personal information ([see 3 below](https://web.archive.org/general/pages/privacy-policy#response)).
+**Use.**   Yamaha does not send unsolicited bulk emails or marketing-related communications to anyone who has requested that we not contact them. We send promotional information and communications only to those who have taken affirmative steps to subscribe to these communications or our existing registered customers, who have not unsubscribed or opted out of such communications. You may "opt-out" of our promotional use of your personal information (see 3 below).
 
-If you have opted out of our promotional use of such personal information ([see 3 below](https://web.archive.org/general/pages/privacy-policy#response)), Yamaha will not use or disclose such information except as follows:
+If you have opted out of our promotional use of such personal information (see 3 below), Yamaha will not use or disclose such information except as follows:
 
 \- to communicate directly with you in connection with your Yamaha products, purchases or specific requests;  
 \- to validate credit card numbers;  
-\- to permit our website designers to develop features and services that meet your needs ([see 4 below](https://web.archive.org/general/pages/privacy-policy#collection), including Cookies);  
-\- to tailor your experience on our Website, showing you individually tailored content ([see 4 below](https://web.archive.org/general/pages/privacy-policy#collection), including Cookies);  
+\- to permit our website designers to develop features and services that meet your needs (see 4 below, including Cookies);  
+\- to tailor your experience on our Website, showing you individually tailored content (see 4 below, including Cookies);  
 \- to comply with a lawful subpoena or court order;  
 \- to remedy any violation or breach of an agreement between you and Yamaha; and  
 \- to prevent harm to the property or rights of Yamaha or its customers.
 
-**3\. Choices & Resources With Respect to Your Personal Information**
+#### **3\. Choices & Resources With Respect to Your Personal Information**
 
 **Response Opt-Out.** In response to any Yamaha promotional or marketing communication, such as a newsletter or other circulation, if you wish to no longer receive such communications, please follow the "unsubscribe" instructions contained in such communication.  The entity or business group sending such communication will mark your personal information with this request to cease further marketing communications.  However, you may receive future communications from other entities or business groups within Yamaha that have received your personal information, unless you have already unsubscribed from such communications from those other entities or business groups or you have communicated a request to opt-out of such communications from all Yamaha business groups.
 
 **Opt-Out, Amend or Delete Contact.**   If you wish to opt-out of our use and disclosure of your personal information for marketing and survey purposes (other than through use of the unsubscribe/opt-out provided in a marketing communication you may have received), or if you wish to amend or delete certain information that you have previously provided, please email your request to [privacy@yamaha-motor.com](mailto:privacy@yamaha-motor.com).  If opting out in such communication, please provide detail of the specific product segment you wish to opt-out of or whether you wish to opt-out of all applicable products with respect to use and disclosure of your personal information for marketing and survey purposes.  With respect to amendment or deletion of certain information, we will endeavor to provide a simple way to review, correct, update or remove personal information, as applicable.  In some limited circumstances, such as to resolve disputes, comply with retention obligations, troubleshoot problems and enforce our Terms and Conditions, we may retain in our files information you have requested us to remove, but such information is not actively used. 
 
-**4\. Collection, Use & Sharing of Passive & Other Information Beyond the Scope of Personal Information  **
+#### **4\. Collection, Use & Sharing of Passive & Other Information Beyond the Scope of Personal Information  **
 
 **Aggregate Information.**   Yamaha may share aggregate statistical information with business partners, sponsors or other third parties without sharing your personal information. For example, we may tell an advertiser that X number of visitors visited a certain area on a website, or that Y number of men and Z number of women applied for extended service, but we would not disclose anything that uniquely identifies those individuals.
 
@@ -50,9 +56,9 @@ If you have opted out of our promotional use of such personal information ([see 
 
 **Performance and Use of Your Yamaha Product.   **Yamaha products and connected device applications may collect, use, and share data related to your use of and the performance of your Yamaha Product.  This data (if collected at all) is collected either through your use of connected device applications or through diagnostic tools and is used by Yamaha, its affiliates and servicers generally to provide more effective service and maintenance of your Yamaha product, as well as to continue to provide and improve quality products, features and services.
 
-**5\. Additional Information about the Yamaha Website and Yamaha’s Privacy Practices**
+#### **5\. Additional Information about the Yamaha Website and Yamaha’s Privacy Practices**
 
-**Terms of Use.**   By using this Website you accept the General Terms and Conditions for using the Website, which are published either in proximate location to the link for this Notice or if not, then the Terms as provided in the following link shall apply  <http://www.yamaha-motor.com/corporate/gen_terms.aspx>, which incorporate the terms of this Notice by reference. If you do not agree to any of these Terms, you should not use the Website.
+**Terms of Use.**   By using this Website you accept the General Terms and Conditions for using the Website, which are published either in proximate location to the link for this Notice or if not, then the Terms as provided in the following link shall apply  [https://www.yamahamotorsports.com/motorsports/pages/terms-conditions](https://web.archive.org/motorsports/pages/terms-conditions), which incorporate the terms of this Notice by reference. If you do not agree to any of these Terms, you should not use the Website.
 
 **Information Communicated via Social Media & Other Similar Third Party Platforms.**  Any information disclosed via third party communication platforms are outside of the Yamaha Website and subject to the privacy policies of those applicable third parties. Exercise caution before disclosing your personal information via these public venues (whether through public post or via direct messages) all of which you do at your own risk. If you do so, you may receive unsolicited emails or "spam." Yamaha cannot safeguard the privacy of personal information that is disclosed and can be viewed or accessed online in this manner.  Personal information you provide to Yamaha via third party communication platforms may be combined with any of your personal information Yamaha may already have subject to this Notice.
 
@@ -62,7 +68,7 @@ If you have opted out of our promotional use of such personal information ([see 
 
 **Children's Online Privacy Protection.**  The Yamaha Website complies with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation protects the privacy of children using the Internet. Yamaha does not knowingly collect contact or personally identifiable information from children under 13. The Yamaha Website is not intended to solicit information of any kind from children under 13, and is designed to block our knowing acceptance of any such information, wherever age related information is requested. It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by emailing us at [privacy@yamaha-motor.com](mailto:privacy@yamaha-motor.com).
 
-**Should Yamaha make changes to its Privacy Policy, we will publish an updated Notice to the Website, and/or attempt to further inform you via available contact information.   **
+**Should Yamaha make changes to its Privacy Policy, we will publish an updated Notice to the Website, and/or attempt to further inform you via available contact information.  **
 
 If you have questions or concerns regarding the contents of this Notice or any related matters, please contact us at [privacy@yamaha-motor.com](mailto:privacy@yamaha-motor.com), or at the following address:  
 Yamaha Motor Corporation, U.S.A.  
