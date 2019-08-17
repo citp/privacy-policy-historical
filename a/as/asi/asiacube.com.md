@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiacube.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616141014id_/http%3A//asiacube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiacube.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817060026id_/http%3A//asiacube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
