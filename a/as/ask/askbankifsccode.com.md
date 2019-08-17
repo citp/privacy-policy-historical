@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askbankifsccode.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117192643id_/http%3A//www.askbankifsccode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askbankifsccode.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817205601id_/https%3A//www.askbankifsccode.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Askbankifsccode does use cookies to store information about visitors preferences
 **DoubleClick DART Cookie**    
 .:: Google, as a third party vendor, uses cookies to serve ads on Askbankifsccode.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to Askbankifsccode and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <https://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 Google Adsense
