@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runwaytv.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122170331id_/http%3A//www.runwaytv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runwaytv.com privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817224025id_/http%3A//www.runwaytv.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – RUNWAY TV® RUNWAY MAGAZINE HOLLYWOOD
 
