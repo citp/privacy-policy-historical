@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphone7updates.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617184646id_/http%3A//www.iphone7updates.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone7updates.org privacy policy that was archived on 2019-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190817145611id_/http%3A//www.iphone7updates.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
