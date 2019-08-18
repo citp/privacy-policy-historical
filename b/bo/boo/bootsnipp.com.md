@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootsnipp.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319184931id_/https%3A//bootsnipp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootsnipp.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818163153id_/https%3A//bootsnipp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@
     
     Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  http://optout.aboutads.info/.
     
-    A list of potential third parties is here
+    A list of potential third parties is [here](https://bootsnipp.com/privacy#adnetworks)
     
     DO NOT TRACK
     Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
