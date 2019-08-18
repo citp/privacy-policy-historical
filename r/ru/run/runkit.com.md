@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runkit.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007181020id_/https%3A//runkit.com/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runkit.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819015304id_/https%3A//runkit.com/s/privacy) for the most accurate reproduction.*
 
 # RunKit: Privacy Policy
 
