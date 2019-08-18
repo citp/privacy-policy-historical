@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaf.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615142339id_/https%3A//www.gaf.com/en-us/our-company/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaf.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818222506id_/https%3A//www.gaf.com/en-us/our-company/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
 
 # GAF | Privacy Policy
 
