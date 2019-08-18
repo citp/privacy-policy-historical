@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 11points.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417144943id_/https%3A//11points.com/privacy-policy-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11points.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818115129id_/https%3A//11points.com/privacy-policy-disclosures) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosures
 
