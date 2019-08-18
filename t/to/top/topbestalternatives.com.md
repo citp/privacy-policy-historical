@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbestalternatives.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324090153id_/https%3A//www.topbestalternatives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbestalternatives.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818134241id_/https%3A//www.topbestalternatives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Top Best Alternatives
 
