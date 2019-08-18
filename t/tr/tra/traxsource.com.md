@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traxsource.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330081759id_/https%3A//www.traxsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traxsource.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818205138id_/https%3A//www.traxsource.com/privacy) for the most accurate reproduction.*
 
 # Traxsource
 
@@ -209,10 +209,8 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Contact Us
+## Policy Inquiries
 
-If you have any questions about this Privacy Policy, please contact us:
+If you have any questions about this Privacy Policy, please contact our [Data Protection Officer](mailto:comply@traxsource.com).
 
-By email: [comply@traxsource.com](mailto:%20comply@traxsource.com)
-
-By visiting this page on our website: <https://traxsource.zendesk.com/hc/en-us/requests/new>
+Or, visit this page on our website: <https://traxsource.zendesk.com/hc/en-us/requests/new>
