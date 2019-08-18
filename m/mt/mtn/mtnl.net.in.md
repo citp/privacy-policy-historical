@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtnl.net.in privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302215314id_/http%3A//mtnl.in/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtnl.net.in privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818020420id_/http%3A//mtnl.in/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 
 
