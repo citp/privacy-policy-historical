@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229074236id_/http%3A//www.edfringe.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818141307id_/https%3A//www.edfringe.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Edinburgh Festival Fringe
 
-The Edinburgh Festival Fringe website ([www.edfringe.com](http://www.edfringe.com/), including, without limitation, [tickets.edfringe.com](http://tickets.edfringe.com/), [edfringe.com/shop](http://www.edfringe.com/shop), [registration.edfringe.com](http://registration.edfringe.com/), [www.fringeworldcongress.co.uk](http://www.fringeworldcongress.co.uk/), [www.worldfringeday.com](http://www.worldfringeday.com/)  and other websites owned or controlled by us, from time to time)  (the "Website") and the Fringe mobile app for iPhone and Android (the "App") are maintained by the Edinburgh Festival Fringe Society, a company limited by guarantee and incorporated in Scotland (No SC 046605, Registered Charity No SC 002995) which sells tickets for the Edinburgh Festival Fringe, and the Festival Fringe Trading Limited, trading as Edinburgh Festival Fringe Shop, incorporated in Scotland (No SC 130813, VAT registration number 171 276 804) which sells goods.  Please remember that throughout the terms that follow, when we mention ‘we’, ‘us’, ‘our’, etc, we mean Edinburgh Festival Fringe Society Limited ("EFFS") and/or Festival Fringe Trading Limited ("FFTL") (as applicable). When we refer to ‘you’ we mean the user and/or browser of the Website or App and those persons, organisations or companies registering a show for the Edinburgh Festival Fringe.
+The Edinburgh Festival Fringe website ([www.edfringe.com](https://www.edfringe.com/), including, without limitation, [tickets.edfringe.com](https://tickets.edfringe.com/), [edfringe.com/shop](https://www.edfringe.com/shop), [registration.edfringe.com](https://registration.edfringe.com/), [fringemaker.edfringe.com](http://fringemaker.edfringe.com/), [inspiration.edfringe.com](http://inspiration.edfringe.com/), [www.fringeworldcongress.co.uk](http://www.fringeworldcongress.co.uk/), [www.worldfringeday.com](http://www.worldfringeday.com/)  and other websites owned or controlled by us, from time to time)  (the "Website") and the Fringe mobile app for iPhone and Android (the "App") are maintained by the Edinburgh Festival Fringe Society, a company limited by guarantee and incorporated in Scotland (No SC 046605, Registered Charity No SC 002995) which sells tickets for the Edinburgh Festival Fringe, and the Festival Fringe Trading Limited, trading as Edinburgh Festival Fringe Shop, incorporated in Scotland (No SC 130813, VAT registration number 171 276 804) which sells goods.  Please remember that throughout the terms that follow, when we mention ‘we’, ‘us’, ‘our’, etc, we mean Edinburgh Festival Fringe Society Limited ("EFFS") and/or Festival Fringe Trading Limited ("FFTL") (as applicable). When we refer to ‘you’ we mean the user and/or browser of the Website or App and those persons, organisations or companies registering a show for the Edinburgh Festival Fringe.
 
 Our principal place of business is at 180 High Street, Edinburgh, EH1 1QS. You can email us at [admin@edfringe.com](mailto:admin@edfringe.com).  The main telephone number for our office is 0131 226 0026.
 
@@ -12,11 +12,11 @@ FFTL is the data controller in respect of the collection of personal information
 
 You are not required to provide any personal information in order to access the majority of the content available on the Website or App. We do, however, require you to supply certain personal details when you register with us or make a purchase from the Website or App, in order to process your transaction and/or fulfil your order. This information includes;, name, address, email address and payment details.
 
-We will also collect and process any personal data supplied by you in connection with your use of [registration.edfringe.com](http://registration.edfringe.com/) when registering a show at the Festival Fringe (for further information on this, please see the "How will my data be used when registering for a show?" section of this policy).
+We will also collect and process any personal data supplied by you in connection with your use of [registration.edfringe.com](https://registration.edfringe.com/) when registering a show at the Festival Fringe (for further information on this, please see the "How will my data be used when registering for a show?" section of this policy).
 
 To become a member of the Fringe Society we require your name, address and contact information as set out in our forms, which will be stored on our secure server and used to send your essential election communications.
 
-We will also ask you for information when you enter a competition or promotion sponsored by us and if you report a problem with the Website; typically your name and contact information that you supply us with, such as your email address or phone number.
+We will also ask you for information when you enter a competition or promotion sponsored by us, interact with tools, services or games we produce, and if you report a problem with the Website; typically your name and contact information that you supply us with, such as your email address or phone number.
 
 We may also collect information about your computer, the mobile telephone and/or handheld device on which you are using the App or Website, including where available your IP address, operating system and browser type, mobile network information as well as the mobile telephone or handheld device's telephone number, for system administration and to report aggregate information about users' browsing actions and patterns (from which users cannot be identified).
 
@@ -55,6 +55,8 @@ We also will use information held about you for the purposes of our legitimate i
 If you do not provide us with your information, we may not be able to provide services to you. We will let you know about this at the appropriate time.
 
 We have an annual programme of research to help us understand our audiences and your experience of attending the Fringe.  This includes (but is not limited to) an online survey.  All bookers will be invited to participate in the research but are under no obligation to take part.  Full details of the processes are provided when you are invited to participate.  All research is carried out according to Market Research Society guidelines.
+
+We will also collect and analyse aggregate data on purchases, buying patterns and audience trends to inform research and service design. 
 
 #### Will we disclose the information we collect to outside parties?
 
@@ -169,11 +171,11 @@ The following are cookies you may come across on this Website.
       * which internet browsers are being used
       * what content is popular
       * which interactive tools are used
-    * For more information visit [Google Privacy Center: transparency and choice](http://www.google.com/intl/en/privacy/).  
+    * For more information visit [Google Privacy Center: transparency and choice](https://www.google.com/intl/en/privacy/).  
  
   * **AddThis**
     * Domain: addthis.com
-    * Purpose: The "AddThis" button to enable visitors to share information easily using a variety of social networking web sites and other services. The [AddThis Privacy and Data Practices Policy](http://www.addthis.com/privacy) details what information is collected and used by this service.  
+    * Purpose: The "AddThis" button to enable visitors to share information easily using a variety of social networking web sites and other services. The [AddThis Privacy and Data Practices Policy](https://www.addthis.com/privacy) details what information is collected and used by this service.  
  
   * **DoubleClick**
     * Domain: google.co.uk/doubleclick
@@ -200,7 +202,7 @@ The following are cookies you may come across on this Website.
 ​
   * **Facebook (third party)**
     * Domain: facebook.com
-    * For more information, please see the [Facebook Privacy Policy](http://www.facebook.com/policy.php).
+    * For more information, please see the [Facebook Privacy Policy](https://www.facebook.com/policy.php).
 
 
 
