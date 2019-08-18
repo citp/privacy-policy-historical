@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tackledirect.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210142235id_/https%3A//www.tackledirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tackledirect.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818211739id_/https%3A//www.tackledirect.com/privacypolicy.html) for the most accurate reproduction.*
 
 # TackleDirect Privacy & Security
 
@@ -17,6 +17,8 @@ There may be times (such as when you purchase or order a product, subscribe to a
 Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web site. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications from us.
 
 In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
+
+TackleDirect may collect your email address via cookies and pixels on the website through the use of trusted third party partners. These partners may combine your email information with other information they have access to such as a mailing address so that TackleDirect may serve relevant marketing offers to you via direct mail. If you do not want TackleDirect to collect information about you, please contact us to opt out via email, live chat, or by phone.
 
  **Using Information About You**
 
