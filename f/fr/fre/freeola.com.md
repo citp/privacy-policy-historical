@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214185634id_/https%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818174906id_/https%3A//freeola.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Freeola Privacy Policy
-
-## Introduction
 
 We have chosen to minimise the information that we hold about you, and to make that information available to you within your MyFreeola account, and to store it securely and to delete it readily, and to gain your consent for non-essential marketing emails. However, basic transaction information must be retained under tax legislation, and it is also essential that we retain sufficient information to contact you if necessary, and to properly identify you before discussing your account with you.
 
@@ -160,7 +158,7 @@ Please feel free to contact us should you have any queries regarding our policy 
 
   * Phone: 01376 55 6060
   * Email: dataprivacy@freeola.co.uk
-  * Support Ticket: [https://freeola.com/support/request/](https://web.archive.org/support/request/)
+  * Support Ticket: <https://freeola.com/support/request/>
   * Write to us at: Freeola Limited, 94 Church Street, Bocking, Braintree, Essex, CM7 5JY
 
 
@@ -168,7 +166,5 @@ Please feel free to contact us should you have any queries regarding our policy 
 #### Exceptions:
 
 If the police or other law enforcement agencies request personal information, there may be circumstances where we, or our suppliers may be obliged to provide information.
-
-Our websites use cookies to improve their functionality. By using our site, you accept the use of cookies on your device. We respect your privacy and do not set any third-party advertising cookies. [About our cookies](https://freeola.com/legal/cookies.php).
 
 It appears you are using an old browser, as such, some parts of the Freeola and Getdotted site will not work as intended. Using the latest version of your browser, or another browser such as Google Chrome, Mozilla Firefox, or Opera will provide a better, safer browsing experience for you.
