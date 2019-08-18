@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blcklst.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507105652id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blcklst.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819004835id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Black List
 
