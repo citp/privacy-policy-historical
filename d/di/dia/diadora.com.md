@@ -1,48 +1,48 @@
-> *The following text is extracted and transformed from the diadora.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303084541id_/https%3A//www.diadora.com/en/us/customer_service/privacy_%2526_security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diadora.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818234040id_/https%3A//www.diadora.com/en/us/customer_service/privacy_%2526_security/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Diadora Online Shop
+# Privacy Policy - Diadora Online Shop US
 
-## **PRIVACY POLICY**
+## **INFORMATION NOTICE ON DATA PROCESSING**
 
-### **WHY THIS NOTICE**  
+Diadora S.p.a. with registered office at Via Montello no. 80, in Caerano di San Marco – Treviso as data controller of your personal data (hereinafter the “Controller”), provides this information notice to the Data Subject in compliance with the European Union and Italian legislation on personal data protection, to inform you on the purposes of, and methods for, the processing of the personal data which you may provide while browsing this website (hereafter the “Website”).  
+We must point out that this policy only refers to the Website and not to third-party websites which the User may connect to through the links available in the Website.  
+The Data Controller has appointed a Data Protection Officer (DPO), which the Data Subject may contact by writing to the following address: [dpo@diadora.com](mailto:dpo@diadora.com)
 
+### **CATEGORIES OF DATA THAT MAY BE PROCESSED**
 
-This page describes the procedures to manage the site with reference to the processing of the personal data of its users. This information is also provided pursuant to [article 13 of the Legislative Decree No. 196/2003 - Personal data protection Code](http://www.garanteprivacy.it/garante/doc.jsp?ID=1311248#art_13) to those who interact with the web services of Diadora Sport S.r.l. electronically accessible from the address:
+__Navigation data__
 
-**www.diadora.com**
+The computer systems and software procedures in charge of the website's operation acquire, during their normal operation, some personal data the transmission of which is implicit in the use of internet communication protocols. This information is not collected in order to be associated to identified data subjects, but due to its nature it may, by means of processing and integration with data held by third parties, allow users’ identification. This category includes the IP addresses or domain names of the computers used by the users to connect to the website, URI (Uniform Resource Identifier) form addresses of the resources requested, the time of the request, the method used to submit the request to the server, the size of the file obtained in reply, the numerical code indicating the status of the reply given by the server (done, error, etc.) and other parameters concerning the user's operating system and computer environment. This data is used with the sole purpose of obtaining anonymous statistical information concerning the use of the site and to check its correct operation and it is deleted immediately after processing.
 
-This information is provided for the web site of Diadora Sport S.r.l. only and does not apply to any other web site possibly visited by the user through a link. The information also follows the Recommendation No. 2/2001, adopted by the European Data Protection Authorities, members of the Group created under [article 29 of Directive No. 95/46/EC](http://www.garanteprivacy.it/garante/document?ID=432175), on 17 May 2001 in order to identify some minimal requirements for the collection on-line of personal data and, specifically, the procedures, timing and nature of the information that data controllers are required to provide to the users when they access web pages, regardless of the purposes of such access. 
+__Data voluntarily supplied by the User__
 
-### **THE “DATA CONTROLLER”**
+The optional, explicit and voluntary dispatching of electronic mail to the addresses indicated in the Website entails the subsequent acquisition of the sender's address, necessary in order to reply to the requests, and also any other personal data contained in the message. The Website contains fillable forms which provide specific information on the processing of personal data and, where necessary, requests for consent: we therefore invite you to read it before filling in the form.
 
-Visiting this web site may entail the processing of data related to any identified or identifiable person. The Data Controller is Diadora Sport S.r.l. with registered office in Via Montello, 80, Caerano di San Marco – Treviso.
+__Cookie__
 
-### **LOCATION WHERE DATA ARE PROCESSED AND DISCLOSURE OF THE DATA**  
+For any information on the use of cookies by the Website, [click here](https://www.diadora.com/en/us/cookie.html) to view our cookie policy.
 
+### **Purposes and legal basis of the processing, Mandatory or optional disclosure of data and consequences of the refusal OF CONSENT**
 
-Any processing activity related to the web services of this site is performed at the registered office of Diadora Sport S.r.l. by internal staff specifically appointed with the processing of the data, and at the offices of the partners selected for the delivery of the service, specifically appointed as external data controllers. No data resulting from the web service is disclosed, but it may be transferred to third parties, through the data controllers mentioned above, also outside of the European Union, for the performance of specific activities (payment management, logistics, computer service). 
+The Controller will process your data to facilitate navigation and to provide the services you may have requested through the forms specifically provided on the Website. Except as specified for navigation data and technical cookies, within the sections of the site concerning specific services provided upon request, you may supply your personal data for the purposes set out in the relevant policies, but failure to supply it may make it impossible to obtain the requested service.
 
-### **CATEGORIES OF DATA PROCESSED**  
+### **DATA RETENTION PERIOD**
 
+The Data Controller will process the personal data collected through the use of the Website for the time strictly necessary to achieve the purposes for which it was collected and, once completed, for any term provided for by the applicable regulations.  
+For more details, please refer to the information notices provided in relation to specific services.
 
-__Browsing data__
+### **SCOPE OF DATA DISCLOSURE AND CATEGORIES OF RECIPIENTS**
 
-The IT systems and software procedures used in this site acquire, in their regular functioning, some personal data  he transmission of which is a feature implied in Internet communications protocol. These information is not collected to be linked to any identified data subject, however, by its very nature, it might allow user identification, once processed and matched with data held by third parties. This category of data includes the IP addresses or the domain names of the computers used to access this web site, the URI (Uniform Resource Identifier) notation addresses of the resources required, the time of the request, the method used for filing the request with the server, the size of the file received in reply, the numeric code that specifies the status of the reply given by the server (successful, error, etc.) and other parameters related to the operating system and to the IT environment of the user. This data is used only for the purpose of collecting anonymous statistical information on the use of the site and to verify the correct functioning thereof, and will be deleted immediately after processing. The data could be used for the purpose of ascertaining liabilities in case of possible cyber crimes against the site: other than in this case, currently the data on web contracts remain available for no more than the period of time strictly necessary to complete the aforementioned activities.
+The Controller shall not disseminate the data; however, it will disclose it its personnel authorised to carry out the processing as part of their respective duties, as well as to third parties, to the extent that this may be necessary. In order to be tasked with processing the data on behalf of the Controller, those recipients will be appointed as data processors under a specific agreement or other legal document. For more details, please refer to the information notices provided in relation to specific services.
 
-  
-__Data voluntarily supplied by the user__
+### **TRANSFER OF DATA TO A THIRD COUNTRY AND/OR AN INTERNATIONAL ORGANISATION**
 
-The optional, explicit and voluntary transmission of emails to the addresses specified on this site entails the subsequent acquisition of the address of the sender, required in order to reply to the requests, and other personal data (if any) included in the mail. Specific summary information notices will be gradually made available or displayed on the pages of the site prepared for specific on-demand services.
+The data will not be transferred to third non-EU countries nor to international organisations.
 
-### **DATA TO BE PROVIDED ON AN OPTIONAL BASIS**
+### **DATA SUBJECTS’ RIGHTS**
 
-Besides the specifications provided for navigation data, the user is free to supply personal data reported in the application form to Diadora Sport S.r.l.  or in any way specified during any contact with the Office for the purpose of requesting the forwarding of information materials or other communications. Failure to supply such data may make it impossible to obtain the requested material or communications. For the sake of completeness, it should be noted that in some cases (not included in the ordinary management of this site), the Authority can request information pursuant to [article 157 of the Legislative Decree no. 196/2003](http://www.garanteprivacy.it/garante/doc.jsp?ID=1311248#art_157), for the purpose of controlling the treatment of personal data. In these cases, a reply is mandatory under penalty of administrative sanctions.
+The Data Subject may request from the Controller access to and rectification, where inaccurate, or erasure of his/her personal data, and restriction of the data processing, where the relevant conditions are met; he/she may also object to the processing for legitimate interests pursued by the Controller and obtain the portability of personally provided data only if this is subject to automated processing based on consent or contract. Moreover, the Data Subject may withdraw his/her consent when this is necessary to pursue the processing purposes. In this case, however, the withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal. You may exercise your rights by sending the form available here to the Controller at the following e-mail address: [privacy@diadora.com](mailto:privacy@diadora.com) . We also remind you that you may lodge a complaint with the competent authorities, i.e., the Garante per la protezione dei dati personali [Italian Data Protection Authority] ([www.garanteprivacy.it](https://www.garanteprivacy.it/)).
 
-### **PROCESSING ARRANGEMENTS**
+Last updated: October 2018.
 
-Personal data are processed with automated means for no longer than is necessary to achieve the purposes for which it has been collected Specific security measures are implemented to prevent the data from being lost, used unlawfully and/or inappropriately, and accessed without authorization.
-
-### **DATA SUBJECTS' RIGHTS**
-
-Data subjects are entitled to obtain at any time confirmation about the existence of personal data, to be informed of their contents and origin, to verify their accuracy, or to request such data to be implemented, updated or rectified ([article 7 of Legislative Decree no. 196/2003](http://www.garanteprivacy.it/garante/doc.jsp?ID=1311248#art_7)). The above-mentioned article also grants the right to request the cancellation, transformation in an anonymous form or blocking of any data that is processed in breach of any provision of law as well as to object in all cases, on legitimate grounds, to the processing of the data.  
-With reference to the aforementioned processing, you may exercise the rights provided for in article 7 of the Legislative Decree no. 196 of 30 June 2003, by transmitting a specific written request to the email address **[privacy@diadorasport.it](mailto:privacy@diadorasport.it)**  to the kind attention of the data controller.
+This information notice may be subject to change: we recommend that you regularly check this web page and take into account the date of the last update. Any change will be effective from the date of publication on the Website.
