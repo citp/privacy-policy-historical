@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theandroidsoul.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601212656id_/https%3A//www.theandroidsoul.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theandroidsoul.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819001908id_/https%3A//www.theandroidsoul.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Android Soul
 
