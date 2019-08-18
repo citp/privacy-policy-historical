@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureinfotech.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620162041id_/https%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureinfotech.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819011840id_/https%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Pureinfotech
 
@@ -38,7 +38,7 @@ No personally identifiable information you give us is provided to them for cooki
 
 Some third-party advertisements may be provided by Google, which uses the DoubleClick cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to other sites on the Web.
 
-You may opt out of the use of the DoubleClick cookie by visiting the Google ad and content network [privacy policy](https://policies.google.com/technologies/ads). (Cookie opt out for [Skimlinks link](https://optout.skimlinks.com/), and information to [opt out from Vibrant Media can be found here](https://www.vibrantmedia.com/whats-intellitxt/).)
+You may opt out of the use of the DoubleClick cookie by visiting the Google ad and content network [privacy policy](https://policies.google.com/technologies/ads). (Cookie to [opt out from Vibrant Media can be found here](https://www.vibrantmedia.com/whats-intellitxt/).)
 
 Browsers can be set to accept or reject cookies automatically, or notify you when a cookie is being requested. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site, should you so choose.
 
@@ -91,8 +91,6 @@ Some of the products that we recommend on this website have affiliate links whic
 Some of the other third-party advertisements providers we use include:
 
   * [Vibrant Media](https://www.vibrantmedia.com/whats-intellitxt/)
-  * [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496) 
-  * [Skimlinks](https://skimlinks.com/privacy-policy) 
 
 
 
