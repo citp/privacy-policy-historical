@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatstacksblog.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301153657id_/https%3A//fatstacksblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatstacksblog.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818155619id_/https%3A//fatstacksblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fat Stacks Blog
 
@@ -57,4 +57,4 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute, or rent your personal information to third parties unless we have your expressed permission or are required by law to do so.  We may use your personal information to send you promotional information about third parties which we think you may find interesting.  You may request details of personal information which we hold about you under the Data Protection Act 1998.  (A small fee will be payable). If you would like a copy of the information held on you please contact us **.   **If you believe that any information we are holding on you is incorrect or incomplete, please contact us. We will promptly correct any information found to be incorrect.
 
-[](https://fatstacksblog.com/wp-content/uploads/2019/01/Fat-Stacks-quote-from-Breaking-Bad-by-Jesse-Pinkman-jan16.jpg)
+[](https://fatstacksblog.com/best-email-newsletter-ever)
