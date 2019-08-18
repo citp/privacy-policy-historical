@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeuncut.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616005839id_/https%3A//www.creativeuncut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeuncut.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818153744id_/https%3A//www.creativeuncut.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Creative Uncut
 
@@ -40,7 +40,7 @@ We work only with advertising companies who are GDPR compliant. Creative Uncut d
 
 This website has, in the past, accepted fan artwork submitted by visitors. The artists had the option of providing a username of their choice along with their fan art to be posted on the Creative Uncut website. By default, an artist's email address and real name was not listed with their artwork unless explicitly requested. If you have submitted fan art in the past and requested to include your name or email address but have since changed your mind, please 
 
-[_contact me_](https://web.archive.org/web/20190616005839id_/https%3A//www.creativeuncut.com/info.html)
+[_contact me_](https://web.archive.org/web/20190818153744id_/https%3A//www.creativeuncut.com/info.html)
 
 and I will promptly remove any information at your request.
 
@@ -56,6 +56,6 @@ At times, there may be changes made to this privacy policy to accommodate change
 
 If you have any questions or concerns regarding this privacy policy or the practices of this website, please feel free to contact us via the 
 
-[_info page_](https://web.archive.org/web/20190616005839id_/https%3A//www.creativeuncut.com/info.html)
+[_info page_](https://web.archive.org/web/20190818153744id_/https%3A//www.creativeuncut.com/info.html)
 
 . 
