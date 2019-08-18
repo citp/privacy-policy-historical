@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenpenzo.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401142549id_/https%3A//lenpenzo.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenpenzo.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818190803id_/https%3A//lenpenzo.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy – Len Penzo dot Com
 
