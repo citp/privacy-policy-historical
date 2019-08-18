@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205012132id_/https%3A//www.yoursclothing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818114132id_/https%3A//www.yoursclothing.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yours Clothing
 
@@ -8,7 +8,7 @@ The sections below make up our privacy policy. It sets out the rules we follow r
 
 ## Who are we
 
-Yours Clothing Limited, Unit B, Finmere Park, Southgate Way, Orton Southgate, Peterborough, PE2 6YG, registered in England and Wales under company number 2886196 operate our sites, under the trading names of Yours Clothing, and BadRhino, and are referred to in this policy as ‘we’, ‘our’, and ‘us’.
+Yours Clothing Limited, Newcombe House, Bakewell Road, Peterborough, PE2 6XU, registered in England and Wales under company number 2886196 operate our sites, under the trading names of Yours Clothing, and BadRhino, and are referred to in this policy as ‘we’, ‘our’, and ‘us’.
 
 We are the data controller of any information provided to us via our websites, mobile phone applications, stores, or social media pages. We are registered with the Information Commissioners Office in the UK with reference number Z1618891.
 
@@ -152,12 +152,10 @@ You have a right to ask us to do any of the following in relation to your person
 
 If you wish to update, or verify the details you have submitted to Yours Clothing, or request a copy of your details that we hold, you may do so by logging into your account, contacting us via our [Contact Form](https://web.archive.org/contact-us), by telephone [03448 204 204](tel:03448204204), or writing to us at the address given below: 
 
-Unit B,   
-Finmere Park,   
-Southgate Way,   
-Orton Southgate,   
+Newcombe House,   
+Bakewell Road,   
 Peterborough,   
-PE2 6YG   
+PE2 6XU,   
 United Kingdom 
 
 Our security procedures mean that we may request proof of identity before we reveal any information. This proof of identity could take the form of any personal data provided to us upon registration of your account. We would suggest that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information.
