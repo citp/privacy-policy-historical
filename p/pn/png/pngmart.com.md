@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pngmart.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629150716id_/http%3A//www.pngmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngmart.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818030820id_/http%3A//www.pngmart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PNG Mart
 
@@ -58,7 +58,6 @@ We offer JPG to PNG image removal service users will see the purchase PayPal but
 
 ## Third Party Site Privacy Policy’s
 
-**Google +1 Button –** <https://www.google.com/intl/en/privacy/plusone/>  
 **Feedburner** – Newsletter at <https://www.feedburner.com/fb/a/privacy>  
 **Facebook.com** – fan page, FaceBook like, share and send buttons; <https://www.facebook.com/policy.php>  
 **Twitter.com** – Twitter tweet button; Twitter <https://twitter.com/privacy>  
