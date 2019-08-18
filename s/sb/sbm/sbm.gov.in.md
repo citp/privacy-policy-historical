@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbm.gov.in privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629070152id_/http%3A//swachhbharatmission.gov.in/sbmcms/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbm.gov.in privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818200833id_/https%3A//swachhbharatmission.gov.in/sbmcms/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Swachh Bharat Mission - Gramin, Ministry of Drinking Water and Sanitation
 
