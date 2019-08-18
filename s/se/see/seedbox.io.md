@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedbox.io privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522064609id_/https%3A//seedbox.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedbox.io privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818160414id_/https%3A//seedbox.io/privacy-policy) for the most accurate reproduction.*
 
 # Terms of Service - seedbox.io
 
