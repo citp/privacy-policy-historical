@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenorthface.co.uk privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925232543id_/https%3A//www.thenorthface.co.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenorthface.co.uk privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818185055id_/https%3A//www.thenorthface.co.uk/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Highlights
 
