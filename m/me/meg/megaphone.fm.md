@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaphone.fm privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609131935id_/https%3A//megaphone.fm/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaphone.fm privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818110906id_/https%3A//megaphone.fm/terms/privacy) for the most accurate reproduction.*
 
 # Online Advertising Legal Terms and Conditions | Megaphone
 
