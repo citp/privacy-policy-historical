@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbyyonline.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613005527id_/http%3A//www.abbyyonline.com/en/Help/Privacy/main) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbyyonline.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818073753id_/http%3A//www.abbyyonline.com/en/Help/Privacy/main) for the most accurate reproduction.*
 
 # Privacy Policy
 
