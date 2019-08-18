@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blocktv.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418181954id_/https%3A//blocktv.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blocktv.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818072338id_/https%3A//blocktv.com/info/privacy-policy) for the most accurate reproduction.*
 
 # BLOCKTV: Privacy Policy
 
