@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yandex.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628215627id_/https%3A//yandex.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yandex.com privacy policy that was archived on 2019-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190818133922id_/https%3A//yandex.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal documents. Help
 
 Effective Date: 24 of May, 2018
 
-Current version is available at [https://yandex.com/legal/confidential/](https://web.archive.org/legal/confidential/index.html)
+Current version is available at [https://yandex.com/legal/confidential](https://web.archive.org/legal/confidential/index.html)
 
 This Privacy Policy (“ **Policy** ”) covers any information, about you that may include personal data as defined by applicable laws and regulations (“ **Personal information** ”), which YANDEX LLC or affiliated entities, including all entities belonging to the same group as YANDEX LLC (“ **Yandex** ”), may obtain when you use any of the Yandex websites, programs, products or services, including its search, e-mail, map, storage service or any other program, product or service (collectively, the “ **[Services](https://yandex.ru/all) **”), information about which you can find on [yandex.ru](https://web.archive.org/legal/privacy/yandex.ru), [yandex.com](https://web.archive.org/legal/privacy/yandex.com), [yandex.ua](https://web.archive.org/legal/privacy/yandex.ua), [yandex.by](https://web.archive.org/legal/privacy/yandex.by), [yandex.kz](https://web.archive.org/legal/privacy/yandex.kz), [yandex.com.tr](https://web.archive.org/legal/privacy/yandex.com.tr) and other Yandex websites (collectively, the “ **Sites** ”), and as well as during the performance of any contract or agreement Yandex conclude with you in relation to your using the Services. Also, Personal information can be obtained by Yandex through its partners (“ **Partners** ”), such as advertising partners, who provide you with access to or let you use websites, programs, products or services owned or operated by them. Partners can provide Personal information to Yandex only as stipulated by applicable laws and regulations and in accordance with special agreements between Yandex and each of the Partners. 
 
@@ -98,23 +98,23 @@ Yandex may transfer your Personal information to our employees (within the limit
 
 in case where you use Services of the company NBCO “Yandex.Money” LLC (OGRN: 1127711000031), your Personal information may be transferred to NBCO “Yandex.Money” LLC for processing on the terms and for the purposes set forth in Agreement on use of the Yandex.Money service (<https://money.yandex.ru/doc.xml?id=522764>) and Privacy Policy of NBCO “Yandex.Money” LLC (<https://money.yandex.ru/doc.xml?id=525698>);
 
-in case where you use Services of the company “Yandex.Classifieds” LLC (OGRN: 5157746192742), your Personal information may be transferred to “Yandex.Classifieds” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Auto” (<https://www.yandex.ru/legal/auto_termsofuse/>), “Yandex.Job” (<https://www.yandex.ru/legal/job_termsofuse/>), “Yandex.Realty” (<https://www.yandex.ru/legal/realty_termsofuse/>), “Yandex.Travel” (<https://www.yandex.ru/legal/travel_termsofuse/>);
+in case where you use Services of the company “Yandex.Classifieds” LLC (OGRN: 5157746192742), your Personal information may be transferred to “Yandex.Classifieds” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Auto” ([https://www.yandex.ru/legal/auto_termsofuse](https://www.yandex.ru/legal/auto_termsofuse/)), “Yandex.Job” ([https://www.yandex.ru/legal/job_termsofuse](https://www.yandex.ru/legal/job_termsofuse/)), “Yandex.Realty” ([https://www.yandex.ru/legal/realty_termsofuse](https://www.yandex.ru/legal/realty_termsofuse/)), “Yandex.Travel” ([https://www.yandex.ru/legal/travel_termsofuse](https://www.yandex.ru/legal/travel_termsofuse/));
 
-in case where you use Services of the company “Yandex.Taxi” LLC (OGRN: 5157746192731), your Personal information may be transferred to “Yandex.Taxi” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Taxi” (<https://yandex.ru/legal/taxi_termsofuse/>);
+in case where you use Services of the company “Yandex.Taxi” LLC (OGRN: 5157746192731), your Personal information may be transferred to “Yandex.Taxi” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Taxi” ([https://yandex.ru/legal/taxi_termsofuse](https://yandex.ru/legal/taxi_termsofuse/));
 
-in case where you use Services of the company “Yandex.Market” LLC (OGRN: 1167746491395), your Personal information may be transferred to “Yandex.Market” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Market” (<https://yandex.ru/legal/market_termsofuse/>);
+in case where you use Services of the company “Yandex.Market” LLC (OGRN: 1167746491395), your Personal information may be transferred to “Yandex.Market” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Market” ([https://yandex.ru/legal/market_termsofuse](https://yandex.ru/legal/market_termsofuse/));
 
 in case where you use Services of the company “Yandex Cloud Technologies” LLC (OGRN: 1167746432040), your Personal information may be transferred to “Yandex Cloud Technologies” LLC;
 
-in case where you use Services of the company “Yandex.Drive” LLC (OGRN: 5177746277385), your Personal information may be transferred to “Yandex.Drive” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Drive” (<https://www.yandex.ru/legal/drive_termsofuse/>);
+in case where you use Services of the company “Yandex.Drive” LLC (OGRN: 5177746277385), your Personal information may be transferred to “Yandex.Drive” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Drive” ([https://www.yandex.ru/legal/drive_termsofuse](https://www.yandex.ru/legal/drive_termsofuse/));
 
-in case where you use Services of the company “Yandex.Autobuses” LLC (OGRN: 1177746347591), your personal information may be transferred to “Yandex.Autobuses” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Autobuses” (<https://yandex.ru/legal/bus_termsofuse/>);
+in case where you use Services of the company “Yandex.Autobuses” LLC (OGRN: 1177746347591), your personal information may be transferred to “Yandex.Autobuses” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Yandex.Autobuses” ([https://yandex.ru/legal/bus_termsofuse](https://yandex.ru/legal/bus_termsofuse/));
 
-in case where you use Services of the company “EDADIL PROMO” LLC (OGRN: 5157746114477), your personal information may be transferred to “EDADIL PROMO” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Edadeal” (<http://corp.edadeal.ru/legal/>);
+in case where you use Services of the company “EDADIL PROMO” LLC (OGRN: 5157746114477), your personal information may be transferred to “EDADIL PROMO” LLC for processing on the terms and for the purposes set forth in Terms of Use of “Edadeal” ([http://corp.edadeal.ru/legal](http://corp.edadeal.ru/legal/));
 
-in case where you use Services of the company “Kinopoisk” LLC (OGRN: 1077759854919), your personal information may be transferred to “Kinopoisk” LLC for processing on the terms and for the purposes set forth in Terms of Use of “KinoPoisk” (<https://www.kinopoisk.ru/docs/usage/>);
+in case where you use Services of the company “Kinopoisk” LLC (OGRN: 1077759854919), your personal information may be transferred to “Kinopoisk” LLC for processing on the terms and for the purposes set forth in Terms of Use of “KinoPoisk” ([https://www.kinopoisk.ru/docs/usage](https://www.kinopoisk.ru/docs/usage/));
 
-in case where you use Services of the Yandex Europe AG, your Personal information may be transferred to Yandex Europe AG for processing on the terms and for the purposes set forth in Yandex Terms of Service (<https://yandex.com/legal/termsofservice/>).
+in case where you use Services of the Yandex Europe AG, your Personal information may be transferred to Yandex Europe AG for processing on the terms and for the purposes set forth in Yandex Terms of Service ([https://yandex.com/legal/termsofservice](https://yandex.com/legal/termsofservice/)).
 
 7.2 **Outside the Yandex Group**
 
@@ -132,7 +132,7 @@ ii. any national or international regulatory, enforcement, exchange body, centra
 
 iii. third parties if you expressed your consent to such transfer or transfer of your Personal information is required for your use of a certain Service or performance of a particular agreement or contract with you;
 
-iv. any third party to ensure legal protection for Yandex and/or the third parties if you violate the User Agreement of any of the Yandex Services ([https://yandex.com/legal/rules/](https://web.archive.org/legal/rules/index.html)), this Policy or the terms of use of specific Services, or if there is a threat of such violation.
+iv. any third party to ensure legal protection for Yandex and/or the third parties if you violate the User Agreement of any of the Yandex Services ([https://yandex.com/legal/rules](https://web.archive.org/legal/rules/index.html)), this Policy or the terms of use of specific Services, or if there is a threat of such violation.
 
 Yandex stores Personal information in the Russian Federation and in the EEA.
 
@@ -222,4 +222,4 @@ _____________________________
 
 _Previous versions of the document:_
 
-_[https://yandex.com/legal/privacy/18092012/](https://web.archive.org/legal/privacy/18092012/index.html) _
+_[https://yandex.com/legal/privacy/18092012](https://web.archive.org/legal/privacy/18092012/index.html) _
