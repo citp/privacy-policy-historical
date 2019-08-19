@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dechacare.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619014342id_/http%3A//dechacare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dechacare.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819114641id_/http%3A//dechacare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – My Blog
 
