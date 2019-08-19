@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the displaylink.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025130811id_/http%3A//www.displaylink.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the displaylink.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819064204id_/https%3A//www.displaylink.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -65,7 +65,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 We require all third parties to respect the security of your personal information and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal information for their own purposes and only permit them to process your personal information for specified purposes and in accordance with our instructions.
 
-## Where We Storage and Transfer of Your Information Personal Data
+## Storage and Transfer of Your Information
 
 The data information that we collect from you may be shared within the DisplayLink group. This may involve your information being transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. Whenever we transfer your personal information out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
@@ -101,13 +101,13 @@ You can choose to accept or decline cookies. Most browsers automatically accept 
 
 ## Links To Other Websites
 
-Our web site may contain links to other web sites not operated by DisplayLink.. Such sites are not governed by this notice and we are not responsible for the protection and privacy of any information which you provide whilst visiting such sites.
+Our web site may contain links to other web sites not operated by DisplayLink. Such sites are not governed by this notice and we are not responsible for the protection and privacy of any information which you provide whilst visiting such sites.
 
 ## Your Legal Rights
 
-Under certain circumstances, you have the rights under data protection law in relation to access information held about you. These rights include: to have access to the information we hold about you; to request correction of that information; to request its erasure where we do not have a good reason to hold it; to object to or request the restriction of the processing of your information; to ask for a copy of your information to be transferred to you or a third party; or to withdraw your consent to processing (but we may still process your information where we have another lawful basis for doing so).
+Under certain circumstances, you have rights under data protection law in relation to information held about you. These rights include: to have access to the information we hold about you; to request correction of that information; to request its erasure where we do not have a good reason to hold it; to object to or request the restriction of the processing of your information; to ask for a copy of your information to be transferred to you or a third party; or to withdraw your consent to processing (but we may still process your information where we have another lawful basis for doing so).
 
-Your rights of access can be exercised in accordance with that Act by contacting us via the email address below. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You will not have to pay a fee to access your information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+These rights can be exercised by contacting us via the email address below. You will not have to pay a fee to access your information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
@@ -115,10 +115,10 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 ## Changes To this Privacy Notice
 
-We may change this notice from time to time by updating this page. This notice was last updated on 24th May 2018 and historic versions can be obtained by contacting us. Any changes we may make to this notice in the future will be posted on this page and, where appropriate, may be notified to you when you use the tools.
+We may change this notice from time to time by updating this page. This notice was last updated on 30th October 2018 and historic versions can be obtained by contacting us. Any changes we may make to this notice in the future will be posted on this page and, where appropriate, may be notified to you when you use the tools.
 
 ## Contact
 
-For the purpose of the Data Protection Act 1998, the DisplayLink is made up of different legal entities, details of which can be found here. This privacy notice is issued on behalf of the DisplayLink group so when we mention “DisplayLink”, “we”, “us” or “our” in this privacy notice, we are referring to the relevant company in the DisplayLink group responsible for processing your data. The data controller responsible for your personal information and this web site is DisplayLink (UK) Limited of 140 Cambridge Science Park, Milton Road, Cambridge CB4 0GF, UK. Questions, comments and requests regarding this privacy notice are welcomed and should be addressed to [privacy@displaylink.com](mailto:privacy@displaylink.com).
+For the purpose of the Data Protection Act 2018, the DisplayLink is made up of different legal entities, details of which can be found here. This privacy notice is issued on behalf of the DisplayLink group so when we mention “DisplayLink”, “we”, “us” or “our” in this privacy notice, we are referring to the relevant company in the DisplayLink group responsible for processing your data. The data controller responsible for your personal information and this web site is DisplayLink (UK) Limited of 140 Cambridge Science Park, Milton Road, Cambridge CB4 0GF, UK. Questions, comments and requests regarding this privacy notice are welcomed and should be addressed to [privacy@displaylink.com](mailto:privacy@displaylink.com).
 
 [Explore the Benefits of DisplayLink](https://web.archive.org/small-office/benefits)
