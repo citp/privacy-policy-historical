@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622203159id_/https%3A//www.gcu.edu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819035658id_/https%3A//www.gcu.edu/privacy-policy.php) for the most accurate reproduction.*
 
 # Christian University | Privacy Policy | Grand Canyon University
 
@@ -49,17 +49,17 @@ You retain the right at all times to lodge a complaint about our management of y
 
 Grand Canyon University may disclose PII data to third parties who are approved vendors dedicated to performing tasks on behalf of GCU. We may also disclose PII in response to legal processes, such as court order or a subpoena, in the response to a law enforcement agency’s request or where we believe it is necessary to investigate, prevent and/or take action regarding suspected illegal activities.
 
-GCU uses Google Analytics to display retargeted ads to our site prospects, on GCU’s behalf, across the internet. Google may collect non-PII data about your visits to our sites and your interaction with our products or services. This anonymous information is collected through the use of a pixel tag. No PII is collected during this process. If you do not want Google to collect this information, you may opt out of their service by visiting: <https://tools.google.com/dlpage/gaoptout>
+GCU uses Google Analytics to display retargeted ads to our site prospects, on GCU’s behalf, across the internet. GCU also uses FullStory and HotJar to track user interaction and impressions on our sites in order to understand and improve site performance and provide more personalized user experiences. This information is collected through the use of a pixel tag.
 
-Grand Canyon University Online Advertising Features include: Acquia Lift, Salesforce Marketing Cloud, Hotjar, Snapchat, Quantcast, Quinnstreet, Bing and Yahoo. GCU also uses some or all of the following: Facebook and Twitter cookie tracking, web beacons and similar technologies. These features allow GCU to track impressions on our sites for marketing purposes. If you wish to opt out of these online advertising features please follow the instructions on the corresponding pages linked to below:
+If you do not want Google to collect this information, you may opt out of their service by visiting:
 
-[BING](https://about.ads.microsoft.com/en-us/resources/policies/opt-out-of-the-microsoft-advertising-optimization-program)
+Google: <https://tools.google.com/dlpage/gaoptout>
 
-[YAHOO ](https://aim.yahoo.com/aim/sg/en/optout/)
+FullStory: <https://www.fullstory.com/optout/>
 
-[FACEBOOK ](https://www.facebook.com/help/568137493302217)
+HotJar: <https://www.hotjar.com/legal/compliance/opt-out>
 
-[TWITTER ](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads)
+Grand Canyon University Online Advertising Features include: Acquia Lift, Salesforce Marketing Cloud, FullStory, HotJar, Snapchat, Quantcast, Quinnstreet, Bing and Yahoo. GCU also uses some or all of the following: Facebook and Twitter cookie tracking, web beacons and similar technologies. These features allow GCU to track impressions on our sites for marketing purposes. If you wish to opt out of these online advertising features please follow the instructions on the corresponding pages linked to below:
 
 ##  Third Party Links 
 
