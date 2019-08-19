@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savoryexperiments.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417095832id_/https%3A//www.savoryexperiments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savoryexperiments.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819033811id_/https%3A//www.savoryexperiments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Savory Experiments
 
@@ -20,13 +20,13 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 ### What information do we collect and how do we use it?
 
- **Information you voluntarily submit to our website:**  
+**Information you voluntarily submit to our website:**  
 We may collect PII such as name or email address when you sign up for our newsletter, leave a comment or complete a contact form.
 
- **Automatically Collected Information:**  
+**Automatically Collected Information:**  
 Like most websites, we collect basic PII and the device you use to access our Website. For example, when you visit our website, it logs your IP address, location, operating system, referring website, pages you viewed, dates and times accessed and type of device you used to access. We may also collect information on the information you view while here, such as links you click on.
 
- **Cookies:**  
+**Cookies:**  
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 Like most websites, we use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
@@ -35,7 +35,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify your browser setting to decline cookies, if you prefer. This may prevent you from taking full advantage of the website.
 
- **Advertising:**  
+**Advertising:**  
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers, although if you’ve updated your personal web browser settings, this should prevent them from being seen.
 
 We use advertising service vendors to help present advertisements on the Website, including MediaVine. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data.
@@ -44,10 +44,10 @@ The use of cookies, web beacons, or similar technologies by these advertising se
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://optout.networkadvertising.org/?c=1#!/).
 
- _Display Ads:_  
+_Display Ads:_  
 We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
- _Retargeting Ads:_  
+_Retargeting Ads:_  
 From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
 ### Third Party Use of PII:
@@ -58,9 +58,9 @@ Additionally, the Website may use third-party service providers to service vario
 
 The Website currently uses the following third-party service providers:
 
- _Google Analytics_ – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+_Google Analytics_ – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
- _ActiveCampaign_ – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to [ActiveCampaign’s privacy policy](https://www.activecampaign.com/privacy-policy/) for further information.
+_ActiveCampaign_ – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to [ActiveCampaign’s privacy policy](https://www.activecampaign.com/privacy-policy/) for further information.
 
 ### Anonymous Data:
 
