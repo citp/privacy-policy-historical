@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giga74.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916215342id_/https%3A//safelinkreview.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giga74.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820001229id_/https%3A//safelinkreview.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Get website cost online
 
