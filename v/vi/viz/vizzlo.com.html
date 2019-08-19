@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vizzlo.com privacy policy that was archived on 2019-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330223638id_/https%3A//vizzlo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vizzlo.com privacy policy that was archived on 2019-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190819115118id_/https%3A//vizzlo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -17,10 +17,15 @@
 				environment: "prod",
 				client: {
 					javascript: {
-						code_version: "85b350a8f913671ed69512c4125a06a08e9a3b11"
+						code_version: "d02e0febfa836e17af362c8c636af6530457f583"
 					},
-					code_version: "85b350a8f913671ed69512c4125a06a08e9a3b11"
+					code_version: "d02e0febfa836e17af362c8c636af6530457f583"
 				}
+			},
+			transform: function(payload){
+				payload.actions = window.rollbarActionHistory;
+				payload.vizzardId = window.rollbarVizzardId,
+				payload.vizzardTitle = window.rollbarVizzardTitle
 			}
 		};
 		!function(r){function o(n){if(e[n])return e[n].exports;var t=e[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,o),t.loaded=!0,t.exports}var e={};return o.m=r,o.c=e,o.p="",o(0)}([function(r,o,e){"use strict";var n=e(1),t=e(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.1/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,o,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,o){this.options=r,this._rollbarOldOnError=null;var e=s++;this.shimId=function(){return e},window&&window._rollbarShims&&(window._rollbarShims[e]={handler:o,messages:[]})}function a(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShims={},r._rollbarWrappedError=null;var t=new p(o);return n(function(){o.captureUncaught&&(t._rollbarOldOnError=r.onerror,i.captureUncaughtExceptions(r,t,!0),i.wrapGlobals(r,t,!0)),o.captureUnhandledRejections&&i.captureUnhandledRejections(r,t,!0);var n=o.autoInstrument;return(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[e]=t,t})()}function l(r){return n(function(){var o=this,e=Array.prototype.slice.call(arguments,0),n={shim:o,method:r,args:e,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i=e(2),s=0,d=e(3),c=function(r,o){return new t(r,o)},p=d.bind(null,c);t.prototype.loadFull=function(r,o,e,t,a){var l=function(){var o;if(void 0===r._rollbarDidLoad){o=new Error("rollbar.js did not load");for(var e,n,t,l,i=0;e=r._rollbarShims[i++];)for(e=e.messages||[];n=e.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(o);break}}"function"==typeof a&&a(o)},i=!1,s=o.createElement("script"),d=o.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,e||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,o,e){try{var n;if(n="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){e&&"function"==typeof e&&e.apply(this,arguments);try{return r.apply(this,arguments)}catch(e){var o=e;throw"string"==typeof o&&(o=new String(o)),o._rollbarContext=n()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:p}},function(r,o){"use strict";function e(r,o,e){if(r){var t;"function"==typeof o._rollbarOldOnError?t=o._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,o._rollbarOldOnError=t);var a=function(){var e=Array.prototype.slice.call(arguments,0);n(r,o,t,e)};a.belongsToShim=e,r.onerror=a}}function n(r,o,e,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),o.handleUncaughtException.apply(o,n),e&&e.apply(r,n)}function t(r,o,e){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),o&&o.handleUnhandledRejection&&o.handleUnhandledRejection(e,n)};n.belongsToShim=e,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,o,e){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(o,r[t].prototype,e)}}function l(r,o,e){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){for(var n=o.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(o,e,t){n.call(this,o,r.wrap(e),t)};t._rollbarOldAdd=n,t.belongsToShim=e,o.addEventListener=t;for(var a=o.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,o,e){a.call(this,r,o&&o._rollbar_wrapped||o,e)};l._rollbarOldRemove=a,l.belongsToShim=e,o.removeEventListener=l}}r.exports={captureUncaughtExceptions:e,captureUnhandledRejections:t,wrapGlobals:a}},function(r,o){"use strict";function e(r,o){this.impl=r(o,this),this.options=o,n(e.prototype)}function n(r){for(var o=function(r){return function(){var o=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,o)}},e="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureDomContentLoaded,captureLoad".split(","),n=0;n<e.length;n++)r[e[n]]=o(e[n])}e.prototype._swapAndProcessMessages=function(r,o){this.impl=r(this.options);for(var e,n,t;e=o.shift();)n=e.method,t=e.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],e.ts]):this[n].apply(this,t));return this},r.exports=e},function(r,o){"use strict";r.exports=function(r){return function(o){if(!o&&!window._rollbarInitialized){r=r||{};for(var e,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;e=window._rollbarShims[i++];)n||(n=e.handler),e.handler._swapAndProcessMessages(l,e.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
@@ -35,23 +40,14 @@
 	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png?20589bce74912b7f306185225f74faf3">
 
 	
-	<meta name="keywords" content="chart, graphics, infographics, diagrams, business graphics, presentations, chart designer, chart maker, online chart maker, presentation tool, chart tool">
-	<meta property="og:title" content="Create engaging charts and business graphics with Vizzlo.">
-	<meta property="og:description" content="Create high-quality charts and business graphics for free in just seconds.">
-	<meta property="og:url" content="https://vizzlo.com/">
-	<meta property="og:image" content="https://vizzlo.com/img/logo200.png">
-	<meta property="twitter:site" content="@vizzlo">
-	<meta property="twitter:card" content="summary">
-	
-	
 
 	
 	<title>Privacy Policy — Vizzlo</title>
 	
-    <link rel="preload" as="style" href="/css/global.css?6f7c243fe72626e73869438aecbaf4fa">
+    <link rel="preload" as="style" href="/css/global.css?d9f10c517679e09567d7dd09efe89b25">
     <link rel="preload" as="style" href="/css/vendor.css?2ee9e19400f9eb54ef8d5076be5f876d">
 	  <link rel="stylesheet" type="text/css" href="/css/vendor.css?2ee9e19400f9eb54ef8d5076be5f876d">
-    <link rel="stylesheet" type="text/css" href="/css/global.css?6f7c243fe72626e73869438aecbaf4fa">
+    <link rel="stylesheet" type="text/css" href="/css/global.css?d9f10c517679e09567d7dd09efe89b25">
 	
 	
 	
@@ -148,284 +144,11 @@ for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElemen
             });
         }
     </script>
+
+    
 </head>
 
-<body class=""><svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
-    <defs>
-        <symbol id="linkedin" viewBox="0 0 24 24">
-            <title>linkedin</title>
-            <path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"></path>
-        </symbol>
-
-        <symbol id="linkedin-rounded" viewBox="0 0 24 24">
-            <title>linkedin-rounded</title>
-            <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 16h-2v-6h2v6zm-1-6.891c-.607 0-1.1-.496-1.1-1.109 0-.612.492-1.109 1.1-1.109s1.1.497 1.1 1.109c0 .613-.493 1.109-1.1 1.109zm8 6.891h-1.998v-2.861c0-1.881-2.002-1.722-2.002 0v2.861h-2v-6h2v1.093c.872-1.616 4-1.736 4 1.548v3.359z"></path>
-        </symbol>
-
-        <symbol id="facebook" viewBox="0 0 24 24">
-            <title>facebook</title>
-            <path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"></path>
-        </symbol>
-
-        <symbol id="facebook-rounded" viewBox="0 0 24 24">
-            <title>facebook-rounded</title>
-            <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"></path>
-        </symbol>
-
-        <symbol id="twitter-rounded" viewBox="0 0 24 24">
-            <title>twitter-rounded</title>
-            <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183 4.04-2.83 8.544-8.164 8.544-1.622 0-3.131-.476-4.402-1.291 1.524.18 3.045-.244 4.252-1.189-1.256-.023-2.317-.854-2.684-1.995.451.086.895.061 1.298-.049-1.381-.278-2.335-1.522-2.304-2.853.388.215.83.344 1.301.359-1.279-.855-1.641-2.544-.889-3.835 1.416 1.738 3.533 2.881 5.92 3.001-.419-1.796.944-3.527 2.799-3.527.825 0 1.572.349 2.096.907.654-.128 1.27-.368 1.824-.697-.215.671-.67 1.233-1.263 1.589.581-.07 1.135-.224 1.649-.453-.384.578-.87 1.084-1.433 1.489z"></path>
-        </symbol>
-
-        <symbol id="pinterest-rounded" viewBox="0 0 24 24">
-            <title>pinterest-rounded</title>
-            <path d="M12 0c-6.627 0-12 5.372-12 12 0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146 1.124.347 2.317.535 3.554.535 6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z" fill-rule="evenodd" clip-rule="evenodd"></path>
-        </symbol>
-
-        <symbol id="youtube-rounded" viewBox="0 0 24 24">
-            <title>youtube-rounded</title>
-            <path d="M10.918 13.933h.706v3.795h-.706v-.419c-.13.154-.266.272-.405.353-.381.218-.902.213-.902-.557v-3.172h.705v2.909c0 .153.037.256.188.256.138 0 .329-.176.415-.284v-2.881zm.642-4.181c.2 0 .311-.16.311-.377v-1.854c0-.223-.098-.38-.324-.38-.208 0-.309.161-.309.38v1.854c-.001.21.117.377.322.377zm-1.941 2.831h-2.439v.747h.823v4.398h.795v-4.398h.821v-.747zm4.721 2.253v2.105c0 .47-.176.834-.645.834-.259 0-.474-.094-.671-.34v.292h-.712v-5.145h.712v1.656c.16-.194.375-.354.628-.354.517.001.688.437.688.952zm-.727.043c0-.128-.024-.225-.075-.292-.086-.113-.244-.125-.367-.062l-.146.116v2.365l.167.134c.115.058.283.062.361-.039.04-.054.061-.141.061-.262v-1.96zm10.387-2.879c0 6.627-5.373 12-12 12s-12-5.373-12-12 5.373-12 12-12 12 5.373 12 12zm-10.746-2.251c0 .394.12.712.519.712.224 0 .534-.117.855-.498v.44h.741v-3.986h-.741v3.025c-.09.113-.291.299-.436.299-.159 0-.197-.108-.197-.269v-3.055h-.741v3.332zm-2.779-2.294v1.954c0 .703.367 1.068 1.085 1.068.597 0 1.065-.399 1.065-1.068v-1.954c0-.624-.465-1.071-1.065-1.071-.652 0-1.085.432-1.085 1.071zm-2.761-2.455l.993 3.211v2.191h.835v-2.191l.971-3.211h-.848l-.535 2.16-.575-2.16h-.841zm10.119 10.208c-.013-2.605-.204-3.602-1.848-3.714-1.518-.104-6.455-.103-7.971 0-1.642.112-1.835 1.104-1.848 3.714.013 2.606.204 3.602 1.848 3.715 1.516.103 6.453.103 7.971 0 1.643-.113 1.835-1.104 1.848-3.715zm-.885-.255v.966h-1.35v.716c0 .285.024.531.308.531.298 0 .315-.2.315-.531v-.264h.727v.285c0 .731-.313 1.174-1.057 1.174-.676 0-1.019-.491-1.019-1.174v-1.704c0-.659.435-1.116 1.071-1.116.678.001 1.005.431 1.005 1.117zm-.726-.007c0-.256-.054-.445-.309-.445-.261 0-.314.184-.314.445v.385h.623v-.385z"></path>
-        </symbol>
-
-        <symbol id="youtube2" viewBox="0 0 24 24">
-            <title>youtube2</title>
-            <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"></path>
-        </symbol>
-
-        <symbol id="github-rounded" viewBox="0 0 24 24">
-            <title>github-rounded</title>
-            <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path>
-        </symbol>
-
-        <symbol id="settings" viewBox="0 0 24 24">
-            <title>settings</title>
-            <path fill="none" d="M0 0h20v20H0V0z"></path>
-            <path d="M15.95 10.78c.03-.25.05-.51.05-.78s-.02-.53-.06-.78l1.69-1.32c.15-.12.19-.34.1-.51l-1.6-2.77c-.1-.18-.31-.24-.49-.18l-1.99.8c-.42-.32-.86-.58-1.35-.78L12 2.34c-.03-.2-.2-.34-.4-.34H8.4c-.2 0-.36.14-.39.34l-.3 2.12c-.49.2-.94.47-1.35.78l-1.99-.8c-.18-.07-.39 0-.49.18l-1.6 2.77c-.1.18-.06.39.1.51l1.69 1.32c-.04.25-.07.52-.07.78s.02.53.06.78L2.37 12.1c-.15.12-.19.34-.1.51l1.6 2.77c.1.18.31.24.49.18l1.99-.8c.42.32.86.58 1.35.78l.3 2.12c.04.2.2.34.4.34h3.2c.2 0 .37-.14.39-.34l.3-2.12c.49-.2.94-.47 1.35-.78l1.99.8c.18.07.39 0 .49-.18l1.6-2.77c.1-.18.06-.39-.1-.51l-1.67-1.32zM10 13c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"></path>
-        </symbol>
-
-        <symbol id="wrench" viewBox="0 0 24 24">
-            <title>wrench</title>
-            <path d="M5.496 1.261l3.77 3.771c.409 1.889-2.33 4.66-4.242 4.242l-3.77-3.771c-.172.585-.254 1.189-.254 1.793 0 1.602.603 3.202 1.826 4.426 1.351 1.351 3.164 1.957 4.931 1.821.933-.072 1.852.269 2.514.931l7.621 7.611c.577.578 1.337.915 2.096.915 1.661 0 3.047-1.411 3.012-3.077-.016-.737-.352-1.47-.914-2.033l-7.621-7.612c-.662-.661-1.002-1.581-.931-2.514.137-1.767-.471-3.58-1.82-4.93-1.225-1.224-2.825-1.834-4.427-1.834-.603 0-1.207.09-1.791.261zm15.459 18.692c0 .553-.447 1-1 1-.553 0-1-.448-1-1s.447-1 1-1 1 .447 1 1z"></path>
-        </symbol>
-
-        <symbol id="log-in" viewBox="0 0 24 24">
-            <title>log-in</title>
-            <path d="M8 9v-4l8 7-8 7v-4h-8v-6h8zm2-7v2h12v16h-12v2h14v-20h-14z"></path>
-        </symbol>
-
-        <symbol id="log-out" viewBox="0 0 24 24">
-            <title>log-out</title>
-            <path d="M16 9v-4l8 7-8 7v-4h-8v-6h8zm-16-7v20h14v-2h-12v-16h12v-2h-14z"></path>
-        </symbol>
-
-        <symbol id="close" viewBox="0 0 24 24">
-            <title>close</title>
-            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="menu" viewBox="0 0 24 24">
-            <title>menu</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path>
-        </symbol>
-
-        <symbol id="copy" viewBox="0 0 24 24">
-            <title>copy</title>
-            <path d="M10 19h10v1h-10v-1zm14-13v18h-18v-6h-6v-18h18v6h6zm-18 0h10v-4h-14v14h4v-10zm16 2h-1.93c-.669 0-1.293.334-1.664.891l-1.406 2.109h-3.93l-1.406-2.109c-.371-.557-.995-.891-1.664-.891h-2v14h14v-14zm-12 6h10v-1h-10v1zm0 3h10v-1h-10v1z"></path>
-        </symbol>
-
-        <symbol id="heart" viewBox="0 0 24 24">
-            <title>heart</title>
-            <path d="M12 4.248c-3.148-5.402-12-3.825-12 2.944 0 4.661 5.571 9.427 12 15.808 6.43-6.381 12-11.147 12-15.808 0-6.792-8.875-8.306-12-2.944z"></path>
-        </symbol>
-
-        <symbol id="lock" viewBox="0 0 24 26.5">
-            <title>lock</title>
-            <path d="M17.7,9h-1.3V6.5c0-3.4-2.7-6.2-6.1-6.3c0,0-0.1,0-0.1,0C6.8,0.3,4,3.1,4,6.5c0,0,0,0,0,0.1V9H2.7
-	c-1.4,0-2.5,1.1-2.5,2.5V24c0,1.4,1.1,2.5,2.5,2.5h15c1.4,0,2.5-1.1,2.5-2.5V11.5C20.2,10.2,19.1,9,17.7,9z M11.6,18.7v1
-	c0,0.8-0.7,1.5-1.5,1.5s-1.5-0.7-1.5-1.5v-1c-0.6-0.5-1-1.2-1-2c0-1.4,1.1-2.5,2.5-2.5s2.5,1.1,2.5,2.5
-	C12.7,17.5,12.3,18.3,11.6,18.7z M14.1,9H6.3V6.5c-0.1-2.1,1.5-4,3.7-4.1c2.1-0.1,4,1.5,4.1,3.7c0,0.1,0,0.3,0,0.4L14.1,9z"></path>
-        </symbol>
-
-        <symbol id="chevron-left" viewBox="0 0 24 24">
-            <title>Left</title>
-            <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="chevron-right" viewBox="0 0 24 24">
-            <title>Right</title>
-            <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="expand-less" viewBox="0 0 24 24">
-            <title>Expand less</title>
-            <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="expand-more" viewBox="0 0 24 24">
-            <title>Expand more</title>
-            <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="create-new-folder" viewBox="0 0 24 24">
-            <title>Create new folder</title>
-            <path fill="none" d="M0 0h24v24H0V0z"></path>
-            <path d="M20 6h-8l-2-2H4c-1.11 0-1.99.89-1.99 2L2 18c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-1 8h-3v3h-2v-3h-3v-2h3V9h2v3h3v2z"></path>
-        </symbol>
-
-        <symbol id="image" viewBox="0 0 24 24">
-            <title>Image</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"></path>
-        </symbol>
-
-        <symbol id="share" viewBox="0 0 24 24">
-            <title>Share</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"></path>
-        </symbol>
-
-        <symbol id="list" viewBox="0 0 24 24">
-            <title>List</title>
-            <path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="grid" viewBox="0 0 24 24">
-          <title>Grid</title>
-          <path d="M3,11H11V3H3M3,21H11V13H3M13,21H21V13H13M13,3V11H21V3"></path>
-        </symbol>
-
-        <symbol id="sort" viewBox="0 0 24 24">
-          <title>Sort</title>
-          <path d="M3 18h6v-2H3v2zM3 6v2h18V6H3zm0 7h12v-2H3v2z"></path>
-          <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="sort-by-alpha" viewBox="0 0 24 24">
-          <title>Sort</title>
-            <path fill="none" d="M0 0h24v24H0V0zm0 0h24v24H0V0zm.75.75h22.5v22.5H.75z"></path>
-            <path d="M14.94 4.66h-4.72l2.36-2.36zm-4.69 14.71h4.66l-2.33 2.33zM6.1 6.27L1.6 17.73h1.84l.92-2.45h5.11l.92 2.45h1.84L7.74 6.27H6.1zm-1.13 7.37l1.94-5.18 1.94 5.18H4.97zm10.76 2.5h6.12v1.59h-8.53v-1.29l5.92-8.56h-5.88v-1.6h8.3v1.26l-5.93 8.6z"></path>
-        </symbol>
-
-        <symbol id="settings" viewBox="0 0 24 24">
-          <title>Settings</title>
-            <path fill="none" d="M0 0h20v20H0V0z"></path>
-            <path d="M15.95 10.78c.03-.25.05-.51.05-.78s-.02-.53-.06-.78l1.69-1.32c.15-.12.19-.34.1-.51l-1.6-2.77c-.1-.18-.31-.24-.49-.18l-1.99.8c-.42-.32-.86-.58-1.35-.78L12 2.34c-.03-.2-.2-.34-.4-.34H8.4c-.2 0-.36.14-.39.34l-.3 2.12c-.49.2-.94.47-1.35.78l-1.99-.8c-.18-.07-.39 0-.49.18l-1.6 2.77c-.1.18-.06.39.1.51l1.69 1.32c-.04.25-.07.52-.07.78s.02.53.06.78L2.37 12.1c-.15.12-.19.34-.1.51l1.6 2.77c.1.18.31.24.49.18l1.99-.8c.42.32.86.58 1.35.78l.3 2.12c.04.2.2.34.4.34h3.2c.2 0 .37-.14.39-.34l.3-2.12c.49-.2.94-.47 1.35-.78l1.99.8c.18.07.39 0 .49-.18l1.6-2.77c.1-.18.06-.39-.1-.51l-1.67-1.32zM10 13c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"></path>
-        </symbol>
-
-        <symbol id="public" viewBox="0 0 24 24">
-          <title>Public</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path>
-        </symbol>
-
-        <symbol id="play-arrow" viewBox="0 0 24 24">
-            <title>Play Video</title>
-            <path d="M8 5v14l11-7z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="search" viewBox="0 0 24 24">
-            <title>Search</title>
-            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="building" viewBox="0 0 24 24">
-            <title>Building</title>
-            <path d="M21 22h2v2h-22v-2h2v-22h18v22zm-10-3h-2v4h2v-4zm4 0h-2v4h2v-4zm4-17h-14v20h2v-5h10v5h2v-20zm-12 11h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2zm-8-3h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2zm-8-3h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2zm-8-3h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2z"></path>
-        </symbol>
-
-        <symbol id="cloud" viewBox="0 0 24 24">
-            <title>cloud</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"></path>
-        </symbol>
-
-        <symbol id="cloud-offline" viewBox="0 0 24 24">
-            <path fill="none" d="M0 0h24v24H0V0z"></path>
-            <path d="M24 15c0-2.64-2.05-4.78-4.65-4.96C18.67 6.59 15.64 4 12 4c-1.33 0-2.57.36-3.65.97l1.49 1.49C10.51 6.17 11.23 6 12 6c3.04 0 5.5 2.46 5.5 5.5v.5H19c1.66 0 3 1.34 3 3 0 .99-.48 1.85-1.21 2.4l1.41 1.41c1.09-.92 1.8-2.27 1.8-3.81zM4.41 3.86L3 5.27l2.77 2.77h-.42C2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h11.73l2 2 1.41-1.41L4.41 3.86zM6 18c-2.21 0-4-1.79-4-4s1.79-4 4-4h1.73l8 8H6z"></path>
-        </symbol>
-
-        <symbol id="cloud-queue" viewBox="0 0 24 24">
-            <title>cloud-queue</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM19 18H6c-2.21 0-4-1.79-4-4s1.79-4 4-4h.71C7.37 7.69 9.48 6 12 6c3.04 0 5.5 2.46 5.5 5.5v.5H19c1.66 0 3 1.34 3 3s-1.34 3-3 3z"></path>
-        </symbol>
-
-        <symbol id="dropbox" viewBox="0 0 24 24">
-            <path d="M12,14.56L16.35,18.16L18.2,16.95V18.3L12,22L5.82,18.3V16.95L7.68,18.16L12,14.56M7.68,2.5L12,6.09L16.32,2.5L22.5,6.5L18.23,9.94L22.5,13.36L16.32,17.39L12,13.78L7.68,17.39L1.5,13.36L5.77,9.94L1.5,6.5L7.68,2.5M12,13.68L18.13,9.94L12,6.19L5.87,9.94L12,13.68Z"></path>
-        </symbol>
-
-        <symbol id="googledrive" viewBox="0 0 24 24">
-            <path d="M7.71,3.5L1.15,15L4.58,21L11.13,9.5M9.73,15L6.3,21H19.42L22.85,15M22.28,14L15.42,2H8.58L8.57,2L15.43,14H22.28Z"></path>
-        </symbol>
-
-        <symbol id="verified-user" viewBox="0 0 24 24">
-            <title>User</title>
-            <path d="M0 0h24v24H0z" fill="none"></path><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"></path>
-        </symbol>
-
-        <symbol id="check" viewBox="0 0 24 24">
-            <title>Check</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path>
-        </symbol>
-
-        <symbol id="loyalty" viewBox="0 0 24 24">
-            <title>Loyalty</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.42l9 9c.36.36.86.58 1.41.58.55 0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06-.59-1.42zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7zm11.77 8.27L13 19.54l-4.27-4.27C8.28 14.81 8 14.19 8 13.5c0-1.38 1.12-2.5 2.5-2.5.69 0 1.32.28 1.77.74l.73.72.73-.73c.45-.45 1.08-.73 1.77-.73 1.38 0 2.5 1.12 2.5 2.5 0 .69-.28 1.32-.73 1.77z"></path>
-        </symbol>
-
-        <symbol id="star" viewBox="0 0 24 24">
-            <title>Star</title>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="star-border" viewBox="0 0 24 24">
-            <title>Star</title>
-            <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="onedrive" viewBox="0 0 24 24">
-            <path d="M20.08,13.64C21.17,13.81 22,14.75 22,15.89C22,16.78 21.5,17.55 20.75,17.92L20.58,18H9.18L9.16,18V18C7.71,18 6.54,16.81 6.54,15.36C6.54,13.9 7.72,12.72 9.18,12.72L9.4,12.73L9.39,12.53A3.3,3.3 0 0,1 12.69,9.23C13.97,9.23 15.08,9.96 15.63,11C16.08,10.73 16.62,10.55 17.21,10.55A2.88,2.88 0 0,1 20.09,13.43L20.08,13.64M8.82,12.16C7.21,12.34 5.96,13.7 5.96,15.36C5.96,16.04 6.17,16.66 6.5,17.18H4.73A2.73,2.73 0 0,1 2,14.45C2,13 3.12,11.83 4.53,11.73L4.46,11.06C4.46,9.36 5.84,8 7.54,8C8.17,8 8.77,8.18 9.26,8.5C9.95,7.11 11.4,6.15 13.07,6.15C15.27,6.15 17.08,7.83 17.3,9.97H17.21C16.73,9.97 16.27,10.07 15.84,10.25C15.12,9.25 13.96,8.64 12.69,8.64C10.67,8.64 9,10.19 8.82,12.16Z"></path>
-        </symbol>
-
-        <symbol id="box" viewBox="0 0 41 22">
-            <path d="M39.7 19.2c.5.7.4 1.6-.2 2.1-.7.5-1.7.4-2.2-.2l-3.5-4.5-3.4 4.4c-.5.7-1.5.7-2.2.2-.7-.5-.8-1.4-.3-2.1l4-5.2-4-5.2c-.5-.7-.3-1.7.3-2.2.7-.5 1.7-.3 2.2.3l3.4 4.5L37.3 7c.5-.7 1.4-.8 2.2-.3.7.5.7 1.5.2 2.2L35.8 14l3.9 5.2zm-18.2-.6c-2.6 0-4.7-2-4.7-4.6 0-2.5 2.1-4.6 4.7-4.6s4.7 2.1 4.7 4.6c-.1 2.6-2.2 4.6-4.7 4.6zm-13.8 0c-2.6 0-4.7-2-4.7-4.6 0-2.5 2.1-4.6 4.7-4.6s4.7 2.1 4.7 4.6c0 2.6-2.1 4.6-4.7 4.6zM21.5 6.4c-2.9 0-5.5 1.6-6.8 4-1.3-2.4-3.9-4-6.9-4-1.8 0-3.4.6-4.7 1.5V1.5C3.1.7 2.4 0 1.6 0 .7 0 0 .7 0 1.5v12.6c.1 4.2 3.5 7.5 7.7 7.5 3 0 5.6-1.7 6.9-4.1 1.3 2.4 3.9 4.1 6.8 4.1 4.3 0 7.8-3.4 7.8-7.7.1-4.1-3.4-7.5-7.7-7.5z"></path>
-        </symbol>
-
-        <symbol id="people" viewBox="0 0 24 24">
-            <path d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"></path>
-        </symbol>
-
-        <symbol id="arrow-drop-down" viewBox="0 0 24 24">
-            <path d="M7 10l5 5 5-5z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="arrow-drop-up" viewBox="0 0 24 24">
-            <path d="M7 14l5-5 5 5z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-
-        <symbol id="add" viewBox="0 0 24 24">
-            <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"></path>
-            <path d="M0 0h24v24H0z" fill="none"></path>
-        </symbol>
-    </defs>
-</svg>
+<body class="">
 <script>
     if(window.top !== window || window.location.search.indexOf('mode=office') > -1) {
         document.body.classList.add('office');
@@ -449,17 +172,6 @@ for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElemen
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <nav id="navbar" class="main-navbar main-navbar--public fn-scroll-toggle navbar navbar-expand-md fixed-top navbar-dark pt-2 pb-0 py-md-0">
     <div id="navbarOverlay" class="navbar-overlay"></div>
 
@@ -468,17 +180,17 @@ for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElemen
             <button class="navbar-toggler pl-0 pr-3" id="mobile-menu-button" type="button" aria-controls="navbarSupportedContent" aria-label="Toggle navigation">
 
                 <i class="svg-icon navbar-toggler__menu">
-                    <svg><use xlink:href="/img/icons.svg?89ff90c9d5b3c3ce0b8faed433052f08#menu"></use></svg>
+                    <svg><use xlink:href="#menu"></use></svg>
                 </i>
             </button>
 
             <a class="navbar-brand navbar-brand__main" href="/" id="vizzloLogo">
                 <div class="navbar-brand__img--small d-inline-block d-lg-none">
-                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/img/logo80.png" class="img-fluid lazy" alt="Vizzlo">
+                    <img src="/img/logo80.png" data-src="/img/logo80.png" class="img-fluid" alt="Vizzlo">
                 </div>
 
                 <div class="d-none d-lg-inline-block">
-                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/img/vizzlo_brand.svg" class="navbar-brand__img mt-2 lazy" alt="Vizzlo">
+                    <img src="/img/vizzlo_brand.svg" data-src="/img/vizzlo_brand.svg" class="navbar-brand__img mt-2" alt="Vizzlo">
 
                     <div class="navbar-brand__patch position-relative mr-2">
                         <img src="/img/patch_white.svg" data-src="/img/patch_white.svg" class="" alt="Vizzlo">
@@ -504,60 +216,47 @@ for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElemen
                 </li>
 
                 <li class="nav-item ">
+                    <a id="guideLink" class="nav-link" href="/guide">Data Viz Guide</a>
+                </li>
+
+                <li class="nav-item ">
                     <a class="nav-link" href="/pricing">Pricing</a>
                 </li>
 
-                <li class="nav-item dropdown main-navbar__menu-dropdown d-none d-md-inline-block ">
-                    <a class="nav-link dropdown-toggle" href="#" id="useCasesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Use Cases
-                    </a>
-                    <div class="dropdown-menu mt-0" aria-labelledby="useCasesDropdown">
-                        <a class="dropdown-item font-weight-light " href="/for/consultants">For Consultants</a>
-                        <a class="dropdown-item font-weight-light " href="/for/project-managers">For Project Managers</a>
-                        <a class="dropdown-item font-weight-light " href="/enterprise">For Enterprises</a>
-                    </div>
-                </li>
-
-                <li class="nav-item dropdown main-navbar__menu-dropdown d-none d-md-inline-block ">
-                    <a class="nav-link dropdown-toggle" href="#" id="integrationsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Integrations
-                    </a>
-                    <div class="dropdown-menu mt-0" aria-labelledby="integrationsDropdown">
-                        <a class="dropdown-item font-weight-light " href="/for/google-slides">For Google Slides</a>
-                        <a class="dropdown-item font-weight-light " href="/for/powerpoint">For PowerPoint</a>
-                    </div>
-                </li>
-
-                <li class="dropdown-divider d-block d-md-none"></li>
-
                 
-                <li class="nav-item d-block d-md-none ">
-                    <a class="nav-link" href="/for/consultants">For Consultants</a>
-                </li>
 
-                <li class="nav-item d-block d-md-none ">
-                    <a class="nav-link" href="/for/project-managers">For Project Managers</a>
-                </li>
 
-                <li class="nav-item d-block d-md-none ">
-                    <a class="nav-link" href="/enterprise">For Enterprises</a>
-                </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="nav-item ">
+    <a class="nav-link" href="/apps">Apps</a>
+</li>
+
+
 
                 <li class="dropdown-divider d-block d-md-none"></li>
 
                 
 
-                <li class="nav-item d-block d-md-none ">
-                    <a class="nav-link" href="/for/google-slides">For Google Slides</a>
+                <li class="nav-item nav-item--public-jobs ">
+                    <a class="nav-link" href="/jobs">Jobs</a>
+                    
                 </li>
-
-                <li class="nav-item d-block d-md-none ">
-                    <a class="nav-link" href="/for/powerpoint">For PowerPoint</a>
-                </li>
-
-                <li class="dropdown-divider d-block d-md-none"></li>
-
-                
 
                 <li class="nav-item d-block d-md-none">
                     <a class="nav-link" target="_blank" href="https://blog.vizzlo.com/">Blog</a>
@@ -1002,37 +701,40 @@ Germany</p>
 <footer id="pageFooter" class="content-section footer-section">
     <div class="container">
         <div class="row">
-            <dl class="col-12 col-sm-6 col-md-4 col-lg-2">
+            <dl class="col-12 col-sm-6 col-md-3 col-lg-2">
                 <dt>The Product</dt>
                 <dd><a href="/">Home</a></dd>
                 <dd><a title="Infographics, chart types and visualization templates" href="/vizzards">Portfolio</a></dd>
                 <dd><a title="Vizzlo Premium, Business, Enterprise" href="/pricing">Pricing</a></dd>
                 <dd>
-                    <a href="/for/google-slides">For Google Slides</a>
+                      <a href="/apps">Apps</a>
                 </dd>
-                <dd>
-                    <a href="/for/powerpoint">For PowerPoint</a>
-                </dd>
+            </dl>
+
+            <dl class="col-12 col-sm-6 col-md-3 col-lg-2">
+                <dt>Discover</dt>
+                <dd><a href="/gallery">Examples Gallery</a></dd>
+                <dd><a href="/guide">Data Viz Guide</a></dd>
+                <dd><a href="https://blog.vizzlo.com/">Blog</a></dd>
                 <dd><a href="https://help.vizzlo.com">Help Center</a></dd>
             </dl>
 
-            <dl class="col-12 col-sm-6 col-md-4 col-lg-2">
+            <dl class="col-12 col-sm-6 col-md-3 col-lg-2">
                 <dt>The Solution</dt>
                 <dd><a title="Business Graphics for Project Consultants" href="/for/consultants">Consultants</a></dd>
                 <dd><a title="Business Graphics for Project Managers" href="/for/project-managers">Project Managers</a></dd>
                 <dd><a title="Business Graphics for Enterprises" href="/enterprise">Enterprises</a></dd>
             </dl>
 
-            <dl class="col-12 col-sm-6 col-md-4 col-lg-2">
+            <dl class="col-12 col-sm-6 col-md-3 col-lg-2">
                 <dt>The Company</dt>
                 <dd><a href="/about">About Us</a></dd>
-                <dd><a href="https://blog.vizzlo.com">Blog</a></dd>
                 <dd><a href="/jobs">Jobs</a></dd>
                 <dd><a href="/contact">Contact Us</a></dd>
                 <dd><a href="/security">Security</a></dd>
             </dl>
 
-            <div class="col-12 col-sm-6 col-md-12 col-lg-5 offset-lg-1">
+            <div class="col-12 col-sm-6 col-md-12 col-lg-4">
                 <dl>
                     <dt>Follow Us</dt>
                     <dd>
@@ -1073,6 +775,15 @@ Germany</p>
                                 </a>
                             </li>
                         </ul>
+                    </dd>
+                    <dd class="border-top border-gray-600 mt-4 pt-4">
+                        <a href="https://itunes.apple.com/us/app/vizzlo/id1457168657" rel="nofollow" target="_blank" class="d-inline-block mr-4 mb-sm-4 mb-md-0">
+                            <img data-src="/img/mac-app-store.png?2f06ccef475d611a9ee945661bb04ce0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" height="42" alt="get app on Mac app store">
+                        </a>
+
+                        <a href="https://www.microsoft.com/en-us/p/vizzlo/9p0kgq2k4qtg" rel="nofollow" class="d-inline-block" target="_blank">
+                            <img data-src="/img/microsoft-btn.png?c101ed9edc61f31ae02ed859978610b1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" height="48" alt="get app on Microsoft store">
+                        </a>
                     </dd>
                 </dl>
             </div>
@@ -1127,7 +838,7 @@ Germany</p>
     var lastScrollPosition = 0;
     var ticking = false;
 
-    window.vizzloIcons = '\/img\/icons.svg?89ff90c9d5b3c3ce0b8faed433052f08';
+    window.vizzloIcons = '\/img\/icons.svg?3425dfe845e3f50ca911db13e2e058db';
     window.mediator = new Shepherd.Evented();
     window.mediator.on('myTour', function() { window.startTutorial(true);});
 
@@ -1181,14 +892,6 @@ Germany</p>
                 img.removeAttribute('data-src');
             };
         });
-    });
-
-    document.addEventListener("DOMContentLoaded",function () {
-        if (window.myTour) {
-            
-            window.myTour.on('cancel', function() {window.hideTourBackdrop(); window.saveTourClose()});
-            window.myTour.on('complete', function() {window.hideTourBackdrop(); window.saveTourClose()});
-        }
     });
 
     window.videoJSONLD = function(videoID) {
@@ -1667,6 +1370,36 @@ Germany</p>
         topScrollButton.addClass('d-none');
     }
 
+    function initTourEvents() {
+        if (!window.myTour) {
+            return;
+        }
+
+        var hideTour = function() {
+            window.hideTourBackdrop();
+            window.saveTourClose();
+        };
+
+        var handleBackdropClick = function(e) {
+            if ($(e.target).hasClass('shepherd-active')) {
+                window.myTour.complete();
+            }
+        };
+
+        var handleStarTour = function() {
+            $document.on('click', handleBackdropClick)
+        };
+
+        var handleCompleteTour = function() {
+            hideTour();
+            $document.off('click', handleBackdropClick)
+        };
+
+        window.myTour.on('start', handleStarTour);
+        window.myTour.on('cancel', hideTour);
+        window.myTour.on('complete', handleCompleteTour);
+    }
+
     window.addEventListener('scroll', function() {
         lastScrollPosition = $window.scrollTop();
 
@@ -1693,7 +1426,7 @@ Germany</p>
             beforeSend: function(xhr, settings) {
                 
                 if (!/^(GET|HEAD|OPTIONS|TRACE)$/.test(settings.type)) {
-                    xhr.setRequestHeader("X-CSRF-Token", "Zy0XUji2AULttMVq9DWKxg");
+                    xhr.setRequestHeader("X-CSRF-Token", "I8OVxMVfRFMGROlskDEvXQ");
                 }
             }
         });
@@ -1763,6 +1496,7 @@ Germany</p>
             }, 5000);
         }
 
+        initTourEvents();
         initTypeahead();
         toggleTopButton($window.scrollTop());
     });
