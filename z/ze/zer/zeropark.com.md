@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeropark.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302021150id_/https%3A//zeropark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeropark.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819100839id_/https%3A//zeropark.com/privacy-policy) for the most accurate reproduction.*
 
 # Website and Mobile App Privacy Policy - Zeropark. Traffic That Converts
 
@@ -132,7 +132,9 @@ Your local law may require to set out the Legal Grounds on which we rely in orde
   * ensuring accountability (demonstration of compliance with our obligations under the law)
   * storing data for archiving or statistical purposes
 
-| The legal basis on which we process your Data in these circumstances is our legitimate interest (article 6.1. point f) of GDPR) to: pursue claims or defend against claims, responding your inquiries, improve the Services, detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement, monitor compliance with our [Terms and Conditions](https://zeropark.com/advertiser-terms-and-conditions/). Our legitimate interest is also ensuring accountability (i.e. demonstration of compliance with our obligations under the law, in particular GDPR), as well as storing data for archiving and statistical purposes.   
+| The legal basis on which we process your Data in these circumstances is our legitimate interest (article 6.1. point f) of GDPR) to: pursue claims or defend against claims, responding your inquiries, improve the Services, detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement, monitor compliance with our [Terms and Conditions](https://zeropark.com/advertiser-terms-and-conditions/). Our legitimate interest is also ensuring accountability (i.e. demonstration of compliance with our obligations under the law, in particular GDPR), as well as storing data for archiving and statistical purposes.
+
+For the purposes of advertising, market research as well as the research of behaviour and preferences of users, with the purpose of improving the quality of services by results of such research, the legal basis on which we process your Data in these circumstances is your voluntary consent according to the act on providing services by electronic means.  
   
   * conducting necessary tax and accounting operations 
 
@@ -191,7 +193,7 @@ For example:
 
 We want you to feel confident using our Site to conduct business. However, you should also take care of how you handle and disclose your Data and avoid sending Personal Information through insecure channels or networks. It is important for you to protect yourself against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer and under no circumstances do not share your password with anyone, even with us – we will NEVER ask for it.
 
-Please see more Information about security measures we use **here**. 
+Please see more Information about security measures we use [**here**](https://codewise.com/hosted/technical-organisational-measures.pdf). 
 
 ## **IX. International transfer of Data**
 
