@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbdoilreview.org privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208215533id_/https%3A//cbdoilreview.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbdoilreview.org privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819212805id_/https%3A//cbdoilreview.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CBD Oil Review
 
