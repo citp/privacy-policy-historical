@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newseveryday.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630171102id_/https%3A//www.newseveryday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newseveryday.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819233724id_/http%3A//www.newseveryday.com/privacypolicy) for the most accurate reproduction.*
 
 # News Every Day
 
