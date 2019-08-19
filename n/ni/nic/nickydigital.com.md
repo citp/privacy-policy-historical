@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickydigital.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607150412id_/https%3A//nickydigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickydigital.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819184835id_/https%3A//nickydigital.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NickyDigital.com {SMILE}
 
