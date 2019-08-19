@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giordano.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204015622id_/http%3A//www.giordano.com.hk/policy/privarynoticeen.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giordano.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819041921id_/http%3A//www.giordano.com.hk/policy/privarynoticeen.pdf) for the most accurate reproduction.*
 
 # GIORDANO PRIVACY NOTICE 1
 
