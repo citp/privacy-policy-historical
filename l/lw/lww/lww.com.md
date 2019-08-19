@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516144438id_/https%3A//shop.lww.com/privacy-default) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819141327id_/https%3A//shop.lww.com/privacy-default) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/pages/default.aspx) > Privacy Policy
-
-The Privacy Policy has been updated as of October 4, 2017
+The Privacy Policy has been updated as of May 9, 2018
 
 Wolters Kluwer Health, Inc. (“we” or “our”) has developed this Privacy Policy to demonstrate our commitment to your privacy on the Internet. This Privacy Policy applies to the information gathering and dissemination practices for websites and applications operated by Wolters Kluwer Health, Inc. and its affiliates that link to it (the “Web Services”). This Privacy Policy is designed to inform you about the types of information that we may collect from you when you use our Web Services. It explains how we use and disclose that information and your rights in relation to that information. The process for notifying you of any changes to our Privacy Policy is discussed at the end of this document. Each time you use the Web Services the current version of this Privacy Policy will apply. We encourage you to frequently review our Privacy Policy and note the effective date listed at the bottom.
 
@@ -55,7 +53,7 @@ We may also use third party vendors to identify users and deliver interest-based
 
   * ### Automated Tracking Technologies
 
-We may automatically collect information about your use of the Web Services through the technologies described below. The following descriptions are designed to provide you with additional detail about our current approach to information collected from automated tracking technologies. 
+We may automatically collect information about your use of the Web Services through the technologies described below. The following descriptions are designed to provide you with additional detail about our current approach to information collected from automated tracking technologies.
 
 _Web Utilization Data_. Our servers automatically capture and save Web Utilization Data. Examples of such information include:
 
@@ -96,6 +94,8 @@ _Performance Cookies_. These are cookies that allow us to recognize and count th
 _Functionality Cookies_. These are cookies that are used to recognize you when you return to the Web Services. This enables us to personalize our content and remember your preferences (for example, your choice of language or region).
 
 _Targeting and Advertising Cookies_. These are cookies that record your visits to the Web Services, the pages you have visited and the links you have followed. Our targeting and advertising cookies collect information about your Web Services browsing history in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. Please see our “Interest-based Advertising” section below for more information about your choices regarding our and our vendors’ use of these cookies.
+
+The information stored in the Cookies from our website is used by Wolters Kluwer Health, Inc. and may be used and managed by external entities to provide services, including advertising services, requested by us to improve our services and the experience of the user browsing our website.
 
 
 
@@ -217,7 +217,7 @@ Residents of California who have provided Personal Information to us have the ri
 
 ## Our Right to Change Privacy Policy
 
-We reserve the right to change this Privacy Policy at any time by posting a new or revised statement. This Privacy Policy was last revised and is effective as of October 4, 2017.
+We reserve the right to change this Privacy Policy at any time by posting a new or revised statement. This Privacy Policy was last revised and is effective as of May 9, 2018.
 
 ## How to Contact Us
 
