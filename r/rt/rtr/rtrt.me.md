@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtrt.me privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509171556id_/https%3A//rtrt.me/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtrt.me privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819172448id_/https%3A//rtrt.me/legal/privacy) for the most accurate reproduction.*
 
 # Privacy » RTRT.me
 
@@ -35,7 +35,7 @@ _
 
 RTRT.me is a software Platform providing real-time race tracking and other race-event related services for running and multi-sport events (the “Services”). This Privacy Policy applies to RTRT.me, the RTRT.me mobile app, any white-labeled or re-branded mobile apps by RTRT, and other RTRT.me related software, sites, apps, communications, API's and systems, including off-site services such as our embeddable iframe HTML widgets, but excluding services that state that they are offered under a different privacy policy (the "Platform"). Also, this Privacy Policy does not apply to 3rd party content that has been embedded in our apps as "Info Sections" that open in the in-app browser of our mobile app, or as a new tab in of a web browser.
 
-## Data We Store and How We Collect It _http://rtrt.me/legal/privacy#data-we-collect_
+## Data We Store and How We Collect It _https://rtrt.me/legal/privacy#data-we-collect_
 
 Data in our Platform includes:
 
@@ -107,7 +107,7 @@ You may disable cookies and local storage in your browser or device settings, ho
 
 **Event Administrator Activity:** If you are an Event Administrator using our admin console or tools, we log and keep a history of your actions taken. 
 
-## How We Use Data _http://rtrt.me/legal/privacy#how-we-use-data_
+## How We Use Data _https://rtrt.me/legal/privacy#how-we-use-data_
 
 No matter what Service is being provided, your personal information is only used to provide the Services and for the purposes mentioned in this Privacy Policy. We do not sell your personal information to 3rd parties. 
 
@@ -165,7 +165,7 @@ If you are signed in, you Preferences are securely and privately associated with
 
 We may use the information we collect to help promote safety and security on and off our Platform, such as for investigating suspicious activity, violations of this Privacy Policy, our Terms of Use or the terms and requirements of the event, or for protecting our or others’ rights or property. 
 
-## How Data Is Shared _http://rtrt.me/legal/privacy#how-data-is-shared_
+## How Data Is Shared _https://rtrt.me/legal/privacy#how-data-is-shared_
 
 Data may be shared in the following ways:
 
@@ -189,7 +189,7 @@ Anonymized data (also known as de-identified information or aggregated non-perso
 
 We may access, preserve and share information with regulators, law enforcement or others in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions inside or outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. Information we receive about you, including financial transaction data related to purchases made on or through our Services, can be accessed, processed and retained for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We may also retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other term violations. 
 
-## Your Right to Control _http://rtrt.me/legal/privacy#right-to-control_
+## Your Right to Control _https://rtrt.me/legal/privacy#right-to-control_
 
 We offer the following options to control your data:
 
@@ -205,7 +205,7 @@ We offer the following options to control your data:
 
 **Right to Access and/or Take Your Data:** You can ask us for a copy of your personal data and we will provide it in a machine readable form. 
 
-## Data Retention _http://rtrt.me/legal/privacy#data-retention_
+## Data Retention _https://rtrt.me/legal/privacy#data-retention_
 
 We store your data until it is no longer necessary to provide the Services. 
 
@@ -213,7 +213,7 @@ How long we store data must be determined on a case-by-case basis. The duration 
 
 If you choose to delete your Account as explained in Your Right to Control your online personal information becomes inaccessible immediately. However, it may take up to 90 days to delete all of your information from our offline backup systems. If reasonably necessary to comply with our legal obligations, we may preserve data for legal reasons or to prevent harm, including in the manner described in the How Data Is Shared section. 
 
-## Data Security & International Data Transfers _http://rtrt.me/legal/privacy#security-and-transfers_
+## Data Security & International Data Transfers _https://rtrt.me/legal/privacy#security-and-transfers_
 
 Personal data stored by RTRT on the Platform is handled carefully and in accordance with all applicable privacy law requirements. For example:
 
@@ -227,7 +227,7 @@ Personal data stored by RTRT on the Platform is handled carefully and in accorda
 
 **Data Transfers:** We operate internationally and transfer information to our systems in the United States or other countries for the purposes described in this Privacy Policy. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Dilltree Inc is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. Dilltree complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. However, Dilltree cannot be held liable for any damages caused by third parties. 
 
-## Grounds For Personal Data Processing _http://rtrt.me/legal/privacy#legal-bases_
+## Grounds For Personal Data Processing _https://rtrt.me/legal/privacy#legal-bases_
 
 The following are RTRT’s grounds for processing personal data:
 
@@ -239,7 +239,7 @@ The following are RTRT’s grounds for processing personal data:
 
 **NOTE:** Where we rely on your consent to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object. See Your Right to Control. If you have any questions about the lawful bases upon which we collect and use your personal data, please contact our Data Protection Officer at [dpo@rtrt.me](mailto:dpo@rtrt.me?subject=Questioning%20Bases%20for%20Data%20Collection). 
 
-## Children _http://rtrt.me/legal/privacy#children_
+## Children _https://rtrt.me/legal/privacy#children_
 
 Our Services are not intended for children under 16 years of age. 
 
@@ -249,13 +249,13 @@ Our Services are not intended for children under 16 years of age. No one under t
 
 We have designated the United Kingdom as the legal supervisory authority (LSA) for any privacy law issues related to the GDPR or other privacy laws in the European Union. 
 
-## Changes _http://rtrt.me/legal/privacy#changes_
+## Changes _https://rtrt.me/legal/privacy#changes_
 
 We may change this Privacy Policy from time to time. 
 
 The most recent version of the Privacy Policy is reflected by the version date located at the top of this Privacy Policy. All updates and amendments are effective immediately upon notice, which we may give by any means, including, but not limited to, posting a revised version of this Privacy Policy at <https://rtrt.me/legal/privacy> or displaying a notice in our apps the next time you use Account. We encourage you to review this Privacy Policy often to stay informed of changes that may affect you, as your continued use of our Services signifies your continuing consent to be bound by this Privacy Policy. Our electronically or otherwise properly stored copies of this Privacy Policy are each deemed to be the true, complete, valid, authentic, and enforceable copy of the version of this Privacy Policy which were in effect on each respective date you used our Services. 
 
-## Contact _http://rtrt.me/legal/privacy#contact_
+## Contact _https://rtrt.me/legal/privacy#contact_
 
 Here is how you can contact us:
 
