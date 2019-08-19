@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530182156id_/https%3A//www.destinationhotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819165016id_/https%3A//www.destinationhotels.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Destination Hotels & Resorts - Hospitality Management
+# Destination Hotels – Privacy Policy
 
-This Privacy & Cookies Policy applies to your interactions with Two Roads Hospitality LLC or with any of its respective subsidiary companies whose websites you access and which cause this Privacy & Cookies Policy to be displayed (respectively referred to as “we”, “us” or the “Company” in this policy), including, without limitation, your interaction with us at [http://www.TwoRoadsHotels.com](http://www.tworoadshotels.com/) or any other websites, applications, online services, or interactive features or downloads that post a link to this Privacy & Cookies Policy, however accessed (the “Services”). This Privacy & Cookies Policy explains our information collection practices, such as the types of information we collect and how we may use that information. Please review this Privacy & Cookies Policy carefully. In addition, please review the Terms and Conditions, which governs your use of the Services.
+This Privacy & Cookies Policy applies to your interactions with Destination Hotels or with any of its respective subsidiary companies whose websites you access and which cause this Privacy & Cookies Policy to be displayed (respectively referred to as “we”, “us” or the “Company” in this policy), including, without limitation, your interaction with us at [](https://www.hyatt.com/en-US/info/privacy-policy)<https://www.destinationhotels.com/> or any other websites, applications, online services, or interactive features or downloads that post a link to this Privacy & Cookies Policy, however accessed (the “Services”). This Privacy & Cookies Policy explains our information collection practices, such as the types of information we collect and how we may use that information. Please review this Privacy & Cookies Policy carefully. In addition, please review the Terms and Conditions, which governs your use of the Services.
 
 ### Table of Contents
 
@@ -133,10 +133,10 @@ We may update this Privacy & Cookies Policy at any time and any changes will be 
 
 ### COOKIES POLICY OVERVIEW
 
-In order to provide information and ensure transparency, Two Roads Hospitality established this policy so that you can learn more about:
+In order to provide information and ensure transparency, Destination Hotels established this policy so that you can learn more about:
 
-• The origin and purpose of the information processed when you browse Two Roads Hospitality websites  
-• Your rights with regard to cookies and other tracking technologies used by Two Roads Hospitality
+• The origin and purpose of the information processed when you browse Destination Hotels websites  
+• Your rights with regard to cookies and other tracking technologies used by Destination Hotels
 
 **External Facing Website Cookies Notices**
 
@@ -146,17 +146,17 @@ Cookies Banner Pop-up: Important Cookies Information – this message will appea
 
 **Cookies Notice**
 
-Two Roads Hospitality websites, like many others, use small files called cookies to help us customize your experience. Cookies are small text files that are stored by the browser (for example Explorer or Safari) on your computer or mobile phone. They allow websites to store things like user preferences. Cookies act as a “memory” for a website, so that the website can recognize you when you come back and therefore, respond appropriately. There are various types of cookies. For example, site performance cookies, anonymous analytics cookies, geotargeting cookies, registration cookies, advertising cookies, and third-party advertising cookies.
+Destination Hotels websites, like many others, use small files called cookies to help us customize your experience. Cookies are small text files that are stored by the browser (for example Explorer or Safari) on your computer or mobile phone. They allow websites to store things like user preferences. Cookies act as a “memory” for a website, so that the website can recognize you when you come back and therefore, respond appropriately. There are various types of cookies. For example, site performance cookies, anonymous analytics cookies, geotargeting cookies, registration cookies, advertising cookies, and third-party advertising cookies.
 
-Two Roads Hospitality may use cookies to:
+Destination Hotels may use cookies to:
 
 (1) Identify a data subject when they log onto our website.
 
-(2) Deliver content, including advertisements, relevant to your interest on Two Roads Hospitality websites.
+(2) Deliver content, including advertisements, relevant to your interest on Destination Hotels websites.
 
 (3) Keep track of items you have stored in your shopping basket.
 
-(4) Conduct research and diagnostics to improve Two Roads Hospitality’s content, products and services.
+(4) Conduct research and diagnostics to improve Destination Hotel’s content, products and services.
 
 (5) Prevent fraudulent activity.
 
@@ -171,22 +171,22 @@ In the European Union, cookies are, at present, governed by the E-Privacy Direct
 
 In the European Union, cookies are, at present, governed by the E-Privacy Directive, Directive 2002/58/EC, as amended by Directive 2009/136/EC. The E-Privacy Directive (or EPD) is set to be replaced by the E-Privacy Regulation (or EPR) sometime in 2018, with enforcement likely to begin in 2019.
 
-**Two Roads Hospitality use of cookies**
+**Destination Hotels use of cookies**
 
-Two Roads Hospitality collects information during a data subject’s visit to the Two Roads Hospitality websites using cookies. We use these cookies for a variety of reasons, most commonly to distinguish the data subject from other users of our websites and help compile aggregate statistics about usage of our websites. We also use cookies to help us provide data subjects with a positive experience when browsing our website, to improve our content, and to personalize a data subject’s visit.
+Destination Hotels collects information during a data subject’s visit to the Destination Hotels websites using cookies. We use these cookies for a variety of reasons, most commonly to distinguish the data subject from other users of our websites and help compile aggregate statistics about usage of our websites. We also use cookies to help us provide data subjects with a positive experience when browsing our website, to improve our content, and to personalize a data subject’s visit.
 
-**Main Two Roads Hospitality Cookies**
+**Main Destination Hotels Cookies**
 
-Two Roads Hospitality may use the following cookies. From time to time, this list may modify or be updated. We will update the list accordingly.
+Destination Hotels may use the following cookies. From time to time, this list may modify or be updated. We will update the list accordingly.
 
 **1\. Analytics Cookies.** These cookies are used to estimate our audience, identify usage patterns, and speed up searches.  
-**2\. Session Cookies.** These cookies are used to maintain your transactions. Generally, your session cookies expire when your browser is closed. The use of the session cookies reduces the need for Two Roads Hospitality to transfer your information over the internet.  
+**2\. Session Cookies.** These cookies are used to maintain your transactions. Generally, your session cookies expire when your browser is closed. The use of the session cookies reduces the need for Destination Hotels to transfer your information over the internet.  
 **3\. Functional Cookies.** These cookies are used to recognize repeat visitors to the site and allow the website to remember the choices you make (such as user name, language or the region you are in.) They are often used to record specific browsing information (including the way a data subject arrived at the site, the page you view, and options you select:  
 **a. Country Preference Cookies.** Used to record your country preference.  
 **b. Language Preference Cookies.** Used to record your preferred language.  
 **c. Consent Management System Cookies.** Denotes the way the site is being viewed.  
 **d. Authentication Management Cookies.** Contains your authentication ticket information.  
-**4\. Tracking Cookies.** From time to time, we may leverage the relationships of carefully selected and monitored partners to assist in the delivery of a quality website. Some of those partners may set cookies during your visit to track the performance of marketing campaigns and/or meet contractual obligations with Two Roads Hospitality. While these cookies do not store personal details relating to you, we do not have access or control over the cookies and similar technologies that our partners use.
+**4\. Tracking Cookies.** From time to time, we may leverage the relationships of carefully selected and monitored partners to assist in the delivery of a quality website. Some of those partners may set cookies during your visit to track the performance of marketing campaigns and/or meet contractual obligations with Destination Hotels. While these cookies do not store personal details relating to you, we do not have access or control over the cookies and similar technologies that our partners use.
 
 **How can someone turn off cookies?**
 
@@ -242,4 +242,4 @@ To expedite all Data Subject Access Requests, please provide any additional deta
 
 ### CONTACT US
 
-If you have questions or comments about this Privacy & Cookies Policy, you can contact us at [402-935-5301](tel:402-935-5301.).
+If you have questions or comments about this Privacy & Cookies Policy, you can contact us at [402-935-5301](tel:402-935-5301.) or [privacy@hyatt.com](mailto:privacy@hyatt.com).
