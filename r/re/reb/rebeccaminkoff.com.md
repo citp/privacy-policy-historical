@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529021737id_/https%3A//www.rebeccaminkoff.com/pages/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819064712id_/https%3A//www.rebeccaminkoff.com/pages/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security – Rebecca Minkoff
 
