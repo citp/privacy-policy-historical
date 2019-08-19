@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericabuteau.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618110754id_/http%3A//ericabuteau.com/about/disclosure/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericabuteau.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819131002id_/https%3A//ericabuteau.com/about/disclosure/privacy) for the most accurate reproduction.*
 
 # Privacy – Erica R. Buteau
 
