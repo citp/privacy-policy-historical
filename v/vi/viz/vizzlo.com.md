@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizzlo.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330223638id_/https%3A//vizzlo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizzlo.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819115118id_/https%3A//vizzlo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Vizzlo
 
