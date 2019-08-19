@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianarticlefinder.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626054505id_/http%3A//australianarticlefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianarticlefinder.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819212153id_/http%3A//australianarticlefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Article Finder
 
