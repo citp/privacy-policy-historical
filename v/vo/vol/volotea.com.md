@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volotea.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523170243id_/https%3A//volotea.com/en/legal-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volotea.com privacy policy that was archived on 2019-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190819093341id_/https%3A//volotea.com/en/legal-conditions/privacy-policy) for the most accurate reproduction.*
 
 # VOLOTEA - Privacy policy
 
