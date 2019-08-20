@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedboxes.cc privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103161356id_/https%3A//community.seedboxes.cc/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedboxes.cc privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820192058id_/https%3A//community.seedboxes.cc/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Seedboxes.cc Support Community
 
@@ -36,15 +36,9 @@ You may choose to stop receiving our newsletter or marketing emails by following
 
 We enable you to create a profile, and share information such as messages, photos, and videos with others within your network. We cannot control the actions of others with whom you may choose to share your pages and information. Also we cannot guarantee that the content you post on our site will not be viewed by others outside your network.
 
-## Information Obtained from Third Parties
-
-We obtain address information about you from third party sources, such as the US Postal Service, to verify your address so we can properly ship your order to you and to prevent fraud. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
 ## Disclosure to Third Parties
 
-We will share your information with third parties only in the ways that are described in this privacy statement.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We will not disclose your personal data to any third parties. 
 
 ### We may disclose your personal information
 
