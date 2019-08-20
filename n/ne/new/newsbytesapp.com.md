@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsbytesapp.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607064923id_/https%3A//www.newsbytesapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbytesapp.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820194226id_/https%3A//www.newsbytesapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
