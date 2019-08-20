@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dianjinwa.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214025629id_/http%3A//www.dianjinwa.com/about/yszc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianjinwa.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820062725id_/https%3A//www.dianjinwa.com/about/yszc.html) for the most accurate reproduction.*
 
-# Privacy Policy_Dianjinwa Video - 点金蛙视频
+# Privacy Policy - Dianjinwa Video - Free Hot Videos
 
 ## Privacy Policy
 
