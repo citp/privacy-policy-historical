@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsluna.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616134856id_/http%3A//adsluna.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsluna.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820211728id_/http%3A//adsluna.com/privacy.html) for the most accurate reproduction.*
 
 # AdsLuna - Advertising Network
 
@@ -36,7 +36,7 @@ We may collect and process the personal information that you provide us by submi
 
 As well, by a user performing any actions on our Websites (Platforms) we may automatically collect the following information:
 
-·       Your **AdsLuna.com, Trafficviews.com** ****[****](https://web.archive.org/web/20190616134856id_/http%3A//adsluna.com/%3Cspan%20lang=EN-US%20style='font-size:11.0pt;line-height:150%;font-family:)**** credential information, platform, OS and browser versions, timezone, IP (Internet protocol) and other technical information.
+·       Your **AdsLuna.com, Trafficviews.com** ****[****](https://web.archive.org/web/20190820211728id_/http%3A//adsluna.com/%3Cspan%20lang=EN-US%20style='font-size:11.0pt;line-height:150%;font-family:)**** credential information, platform, OS and browser versions, timezone, IP (Internet protocol) and other technical information.
 
 ·       Analytical information considering your visits on our Websites (Platforms). This information may include: the incoming source of your visit, your behaviour flow, bounce-rate, enter and exit pages, page response times, certain pages spending time, and other information.
 
