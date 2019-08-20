@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnmaxwell.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331225550id_/https%3A//www.johnmaxwellacademy.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnmaxwell.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820205258id_/https%3A//www.johnmaxwellacademy.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
