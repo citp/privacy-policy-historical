@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorace.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420175924id_/https%3A//mirrorace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorace.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820220317id_/https%3A//mirrorace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MirrorAce
 
