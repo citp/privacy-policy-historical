@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grouphigh.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419020824id_/https%3A//www.grouphigh.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouphigh.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820212711id_/https%3A//www.grouphigh.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GroupHigh
+# Privacy Policy - GroupHigh, A Mavrck Company
 
 GroupHigh LLC. (“GroupHigh”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of (a) our websites, including those located at GroupHigh.com, app.grouphigh.com, and app8.grouphigh.com (each a “Site”) (b) our Services, including the GroupHigh Apps and API, and (c) Developer Apps. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at www.grouphigh.com/legal/terms-of-use
 
