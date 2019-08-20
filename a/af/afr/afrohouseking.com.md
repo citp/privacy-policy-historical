@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afrohouseking.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517131626id_/https%3A//afrohouseking.com/terms-conditions-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrohouseking.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820092621id_/https%3A//afrohouseking.com/terms-conditions-privacy) for the most accurate reproduction.*
 
 # Terms, Conditions & Privacy • Afro House King
 
