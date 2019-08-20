@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the forpressrelease.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509143814id_/https%3A//www.forpressrelease.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forpressrelease.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820103237id_/https%3A//www.forpressrelease.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - For Press Release - Online Press Release Distribution Service
 
-|   
----  
-|  |  |  |  |  |   
----  
-  
 **Privacy Policy**
 
 For PressRelease.com is a leading press release distribution service provider that is committed to maintaining the privacy policy to protect the personal information of customers, users and other visitors to our website.
@@ -21,47 +16,4 @@ At the time of registering an account with us, you need to submit your personal 
 
 However, ForPressRelease and its subsidiary companies may update or send promotional emails on some occasions. 
 
-By having registered with us, you will be able to post press releases with your media contact details. This media contact will be visible to all readers who will access your press release on our website.   
-  
-   
-| 
-
-Recently Posted Press News on May 9, 2019    
-  
----  
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-|    
----  
-  
-Recently Visited Press News on May 9, 2019    
-  
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-|   
----  
-[](https://web.archive.org/web/20190509143814id_/https%3A//www.forpressrelease.com/submitpromotionalvideo.php)  
-   
-   
- 
+By having registered with us, you will be able to post press releases with your media contact details. This media contact will be visible to all readers who will access your press release on our website. 
