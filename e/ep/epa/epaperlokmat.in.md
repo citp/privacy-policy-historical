@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epaperlokmat.in privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629123158id_/http%3A//epaperlokmat.in/%23tab2default) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epaperlokmat.in privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820192500id_/http%3A//epaperlokmat.in/%23tab2default) for the most accurate reproduction.*
 
 # Lokmat ePaper: Marathi News Paper | Online English, Hindi & Marathi Paper | Daily News ePaper| Today’s News Papers | लोकमत वृत्तपत्रे
 
