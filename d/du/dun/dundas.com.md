@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315180749id_/https%3A//www.dundas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820164002id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dundas Data Visualization
 
@@ -79,6 +79,12 @@ AddSearch (3rd party)
 default expiration: 2 years
 
 description: Used to recognize browser type and version for purposes such as saving preferences (search term) and delivering relevant content. More information on the cookies set by AddSearch and how to opt out are on the AddSearch website.
+
+Bombora (3rd party)
+
+session-only
+
+description: Used to collect information in either an aggregate form to help understand how websites are being used or to determine the effectiveness of marketing campaigns. More information on the cookies set by Bombora and how to opt out are on the [Bombora](https://bombora.com/privacy/cookie-statement) website.
 
 1\. Google Analytics (1st party)
 
