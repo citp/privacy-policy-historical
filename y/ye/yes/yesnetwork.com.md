@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601034302id_/http%3A//web.yesnetwork.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820195611id_/http%3A//web.yesnetwork.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
