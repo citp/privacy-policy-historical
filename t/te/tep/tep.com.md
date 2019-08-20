@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tep.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416221525id_/https%3A//www.tep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tep.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820161101id_/https%3A//www.tep.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Tucson Electric Power
 
