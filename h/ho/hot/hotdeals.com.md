@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410060252id_/https%3A//www.hotdeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820173242id_/https%3A//www.hotdeals.com/privacy-policy) for the most accurate reproduction.*
 
 # HotDeals.com | Privacy Policy
 
@@ -32,5 +32,9 @@ HotDeals.com contains links to sites other than HotDeals.com; those sites may no
 ##### Effect of Privacy Policy
 
 This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party. HotDeals.com reserves the right to change this privacy policy at any time and users will be notified of any changes made. 
+
+##### Disclosure Policy
+
+HotDeals is in relation with Affiliate Networks, such as Commission Junction, LinkShare, ShareaSale, with whom we partner to provide certain offers, promotions or features available on or through our products and when you click on links provided by Affiliate Networks and buy something, we will earn a small commission from the advertiser at no additional cost to you.". When you leave our site to a merchant's site through one of the affiliate networks coupons or offers, Affiliate Networks will use cookies, pixels or other similar technologies on our products to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, content viewed, search terms, location of the device, a cookie identifier, communication type (broadband or dial-up), and browser-related properties).
 
 **USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.**
