@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506015005id_/https%3A//www.trafficswarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821002652id_/https%3A//trafficswarm.com/privacy-policy) for the most accurate reproduction.*
 
 # A Swarm of Free Traffic to Your Site Guaranteed! Get Targeted Free Advertising with TrafficSwarm.com
 
@@ -47,7 +47,7 @@ This web site has security measures in place to protect against loss, misuse and
 TrafficSwarm.com provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in the following ways:
 
 1\. Email: customersupport@trafficswarm.com   
-2\. Postal Mail: 1875 Lawrence Street, Suite 750, Denver, CO 80202 USA  
+2\. Postal Mail: 205 North Detroit Street #600 Denver CO 80206 USA  
 3\. FAX: (734) 661-0173  
 4\. Phone: (720) 316-2204  
 5\. Website: You may also login to your account at any time to change, delete inaccuracies, or modify your personal information.  
