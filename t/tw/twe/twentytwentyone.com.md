@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twentytwentyone.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630082216id_/https%3A//twentytwentyone.com/online-help/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twentytwentyone.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821010018id_/https%3A//twentytwentyone.com/online-help/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy | twentytwentyone
 
