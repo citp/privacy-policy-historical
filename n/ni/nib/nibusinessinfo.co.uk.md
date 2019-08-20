@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nibusinessinfo.co.uk privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520213455id_/https%3A//www.nibusinessinfo.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nibusinessinfo.co.uk privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820101204id_/https%3A//www.nibusinessinfo.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | nibusinessinfo.co.uk
 
