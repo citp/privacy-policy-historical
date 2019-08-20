@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630165238id_/https%3A//www.gwr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820103551id_/https%3A//www.gwr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Western Railway
 
-**Last updated: 9 November 2018**
+**Last updated: 18 April 2019**
 
 ## At a glance this is what you need to know
 
@@ -67,7 +67,7 @@ This section explains the length of time that we will retain your personal data.
 
 This section explains that you have rights in relation to your personal data. It also explains what these rights are and how you can go about exercising them.
 
-### 12.Cookies
+### 12\. Cookies
 
 This section explains that our website uses cookies and where you can find further information about the cookies used.
 
@@ -80,7 +80,7 @@ This section provides you with contact information should you have any questions
 
 ## Cookie policy
 
-**Last updated: 18 April 2019**
+**Last updated: 9 August 2019**
 
 This policy explains how our website, mobile app and Wi-Fi portal use cookies.
 
@@ -112,171 +112,6 @@ d) **Targeting cookies** : We use these anonymous cookies to determine the conte
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
-**Host domain**
-
-| 
-
-**File name**
-
-| 
-
-**Category**  
-  
----|---|---  
-  
-myaccount.gwr.com
-
-| 
-
-__utmb  
-__utma  
-__utmz  
-__utmc
-
-| 
-
-Performance cookies  
-  
-GWR.com
-
-| 
-
-_gid  
-__utmt  
-__utma  
-__utmb  
-_gat_UA-3373558-4  
-_gat_UA-3373558-7  
-SC_ANALYTICS_GLOBAL_COOKIE  
-_ga  
-__utmz  
-__utmc  
-sc.ASP.NET_SESSIONID  
-sc.UserId  
-  
-ws.sessioncam.com
-
-| 
-
-sc.ASP.NET_SESSIONID  
-  
-GWR.com
-
-| 
-
-_dc_gtm_UA-3373558-7  
-ASP.NET_SessionId  
-_dc_gtm_UA-3373558-4
-
-| 
-
-Strictly necessary cookies  
-  
-adnxs.com
-
-| 
-
-uuid2
-
-| 
-
-Targeting cookies  
-  
-bing.com
-
-| 
-
-MUID  
-  
-bat.bing.com
-
-| 
-
-MUIDB  
-  
-doubleclick.net
-
-| 
-
-IDE  
-Id  
-  
-google.com
-
-| 
-
-APISID  
-SSID  
-SAPISID  
-HSID  
-SID  
-  
-tripadvisor.co.uk
-
-| 
-
-TATravelInfo  
-ServerPool  
-TAUD  
-TASession  
-TAUnique  
-TACds  
-SRT  
-TART  
-TASSK  
-PMC  
-SRT  
-TART  
-TASSK  
-PMC  
-  
-twitter.com
-
-| 
-
-auth_token  
-twll  
-secure_session  
-guest_id  
-__utma  
-personalization_id  
-remember_checked  
-remember_checked_on  
-  
-youtube.com
-
-| 
-
-SID  
-HSID  
-demographics  
-PREF  
-APISID  
-SSID  
-LOGIN_INFO  
-SAPISID  
-  
-facebook.com 
-
-| 
-
-datr  
-fr  
-  
-tapad.com
-
-| 
-
-TapAd_DID
-
-TapAd_TS  
-  
-cdn.syndication.twimg.com
-
-| 
-
-lang  
-  
 ### Cookies and similar technologies set by third parties
 
 On some pages of our site other organisations, for example Facebook and other social networks, may also set their own cookies or use other similar technologies (e.g. web beacons, pixels and local storage technologies) to collect or receive information from our website or elsewhere on the internet and use that information to provide measurement services and target ads. Because of how these technologies work, our site cannot access this information. These third parties are responsible for setting out their own cookie and privacy policies.
