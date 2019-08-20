@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geminicad.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918015446id_/https%3A//www.geminicad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geminicad.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820111018id_/https%3A//www.geminicad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gemini Cad Systems
 
@@ -12,15 +12,15 @@ This Privacy Policy has been compiled to better serve you in understanding how a
 
 Please read our Privacy Policy carefully. By using Gemini CAD Systems websites, you consent to the data practices described in this statement.
 
-**What personal information we collect from the people visiting our blog, websites or app**
+ **What personal information we collect from the people visiting our blog, websites or app**
 
 The most common types of information we collect, when you register on our website, depending on the situation, regard: your name, email address, mailing address, phone number, other contact details, support queries, web analytics data or other details used to help you with your navigating experience.
 
-**When we collect information**
+ **When we collect information**
 
 We collect information from you when you register on our websites, post-correspondence (live chat, email or phone inquiries), after subscribing to a newsletter, responding to a survey, filling out a form or entering information on our website, providing us with feedback on our products or services, and, automatically, as you navigate through our websites or use certain other features specific to the latter.
 
-**How we use your information**
+ **How we use your information**
 
 We collect the information for the following purposes:
 
@@ -34,11 +34,11 @@ We collect the information for the following purposes:
 
 
 
-**How long the information is retained**
+ **How long the information is retained**
 
 Information collected on our website will only be retained for as long as necessary to fulfill the purpose for which it was collected. If you wish to access or correct any information Gemini CAD Systems holds about you, you may have your data deleted, blocked or corrected (as long as the applicable law is complied with). You have the right to access the personal information we hold about you; this service is free of charge.
 
-**How we protect your information**
+ **How we protect your information**
 
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make sure your visiting our site is as safe as possible.
 
@@ -48,7 +48,7 @@ Your personal information is contained behind secured networks and is only acces
 
 We implement a variety of security measures when a user places an order, enters, submits, or accesses their personal information, in order to maintain the safety of the latter.
 
-**Do we use ‘cookies’?**
+ **Do we use ‘cookies’?**
 
 Gemini CAD Systems uses cookies to help you personalize your online experience. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow it); thus, the site’s or service provider’s systems can recognize your browser and store and remember certain information. For instance, we use cookies to be able to compile aggregate data on the site traffic and site interaction so that we could offer better site experiences and tools in the future.
 
@@ -63,7 +63,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 If you disable cookies, some of the features that make your site experience more efficient may not function properly.
 
-**Third-party disclosure**
+ **Third-party disclosure**
 
 We do not sell, trade, or transfer users’ Personally Identifiable Information to third parties unless we provide them with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, as long as those parties agree to keep this information confidential. We may also release information, when release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
@@ -79,11 +79,11 @@ Gemini CAD Systems does not use sensitive personal information, regarding, for i
 
 Please keep in mind that, if you directly disclose Personally Identifiable Information or sensitive personal data through Gemini CAD Systems’s public message boards, this information may be collected and used by others.
 
-**Third-party links**
+ **Third-party links**
 
 We do not include or offer third-party products or services on our website.
 
-**How our site handles Do-Not-Track signals**
+ **How our site handles Do-Not-Track signals**
 
 We honor Do-Not-Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
@@ -106,7 +106,7 @@ You can change your personal information:
 
 
 
-**We will take the following responsive action, in case a data breach occurs:**
+ **We will take the following responsive action, in case a data breach occurs:**
 
   * Notifying the competent authorities and the affected users in the shortest time possible, without unjustified delays.
 
@@ -114,11 +114,11 @@ You can change your personal information:
 
 We also agree to the Individual Redress Principle, which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-**CAN-SPAM Act**
+ **CAN-SPAM Act**
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**
+ **We collect your email address in order to:**
 
   * Send information, respond to inquiries, and/or other requests or questions;
   * Send you additional information related to our product and/or service.
@@ -136,10 +136,10 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-**  
+ **  
 If, at any time, you would like to unsubscribe from receiving future emails, you can f** **ollow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.**
 
-**Contact Us**
+ **Contact Us**
 
 Should there be questions regarding this Privacy Policy, you may contact us using the information below.
 
@@ -151,6 +151,6 @@ Tudor Vianu 2A, Iasi, 700500, Romania
 
 Tel. +40 232 237546
 
-**Thank you**! Getting acquainted with our Privacy Policy is understanding how your personal information is used.
+ **Thank you**! Getting acquainted with our Privacy Policy is understanding how your personal information is used.
 
 Gemini CAD Systems Privacy Policy v1.0 last edited on 24th March 2018
