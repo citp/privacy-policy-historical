@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayasrilanka.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627181938id_/http%3A//jayasrilanka.net/others/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayasrilanka.net privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820200657id_/https%3A//jayasrilanka.net/others/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | JayaSriLanka
 
@@ -191,16 +191,17 @@ info@jayasrilanka.net
 
 Last Edited on 2017-10-20
 
+  
 Subscribe Us On Youtube:  
 
 
 Share This Page On:   
-[](http://facebook.com/sharer.php?u=http://www.jayasrilanka.net/others/privacy-policy.php)   [](whatsapp://send?text=http://www.jayasrilanka.net/others/privacy-policy.php)    [](http://twitter.com/home?status=http://www.jayasrilanka.net/others/privacy-policy.php)   [](sms:?body=http://www.jayasrilanka.net/others/privacy-policy.php)
+[](https://facebook.com/sharer.php?u=https://jayasrilanka.net/others/privacy-policy.php)   [](whatsapp://send?text=https://jayasrilanka.net/others/privacy-policy.php)    [](https://twitter.com/home?status=https://jayasrilanka.net/others/privacy-policy.php)   [](sms:?body=https://jayasrilanka.net/others/privacy-policy.php)
 
 JayaSriLanka.Net is the best place to download or listen Sri Lankan music online. We hope you enjoy our service and stay and find our website valuable. Thank You Very Much For Using This Web Site.
 
 **Follow Us On:**   
-[ Facebook ](http://facebook.com/jayasrilanka.net) [ Twitter ](http://twitter.com/jslnetwork) [Google+](https://plus.google.com/app/basic/+sithumjayasrilanka/posts) [ **You** **Tube**](https://www.youtube.com/c/JayasrilankaNetwork)
+[ Facebook ](https://facebook.com/jayasrilanka.net) [ Twitter ](https://twitter.com/jslnetwork) [Google+](https://plus.google.com/app/basic/+sithumjayasrilanka/posts) [ **You** **Tube**](https://www.youtube.com/c/JayasrilankaNetwork)
 
 Original Song Files Pamanak Upload Karanna,   
 Song Eke Music,lyrics,saha wenath thorathuru description thula sadahan karanna.  
