@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emcrit.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403045809id_/https%3A//emcrit.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emcrit.org privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820204558id_/https%3A//emcrit.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
