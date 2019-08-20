@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepart.io privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127140150id_/https%3A//deepart.io/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepart.io privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820043645id_/https%3A//deepart.io/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
