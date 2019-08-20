@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticjokes.net privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621000842id_/http%3A//fantasticjokes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticjokes.net privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820183507id_/http%3A//fantasticjokes.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fantastic Jokes
 
