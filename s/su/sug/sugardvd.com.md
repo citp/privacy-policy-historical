@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugardvd.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202035553id_/https%3A//www.sugarinstant.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugardvd.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820140720id_/https%3A//www.sugarinstant.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # SugarInstant.com - Porn on your Roku, PC, Mac, Playstation & iOS
 
