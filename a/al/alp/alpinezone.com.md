@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528153352id_/http%3A//www.alpinezone.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820112910id_/http%3A//www.alpinezone.com/other/privacy-policy) for the most accurate reproduction.*
 
 # AlpineZone.com Privacy Policy
 
