@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natureworldnews.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516011420id_/https%3A//www.natureworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natureworldnews.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820082356id_/http%3A//natureworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Nature World News
 
