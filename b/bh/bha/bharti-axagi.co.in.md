@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharti-axagi.co.in privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924175642id_/https%3A//www.bharti-axagi.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharti-axagi.co.in privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820134243id_/https%3A//www.bharti-axagi.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Protection | Bharti AXA GI
 
@@ -94,7 +94,7 @@ e) Sharing the Personal Data with any Service provider duly engaged by Us, eithe
 
 f) Disclosing any information compelled under the rules, regulations, guidelines or order of any statutory body or Court.
 
-By providing your Contact Information You have consented to be contacted by us on the said Contact Information even if the said Contact Information is registered under the National Do Not Call ("NDNC") Registry, on Your own volition and free will. You may withdraw the consent or change your interests at any time and may opt-out of any marketing / promotional / newsletters mailings by sending us a letter or an email to that effect at [unsubscribe@bharti-axagi.co.in.](mailto:unsubscribe@bharti-axagi.co.in)
+By providing your Contact Information You have consented to be contacted by us on the said Contact Information even if the said Contact Information is registered under the National Do Not Call ("NDNC") Registry, on Your own volition and free will. You may withdraw the consent or change your interests at any time and may opt-out of any marketing / promotional / newsletters mailings by sending us a letter or an email to that effect at [unsubscribe@bhartiaxa.com.](mailto:unsubscribe@bhartiaxa.com)
 
 The Company reserves the right to send you certain service related communication, without offering you the facility to opt-out.
 
