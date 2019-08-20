@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porndig.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615170738id_/https%3A//www.porndig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porndig.com privacy policy that was archived on 2019-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190820144856id_/https%3A//www.porndig.com/privacy-policy) for the most accurate reproduction.*
 
 # Porndig Privacy Policy
 
