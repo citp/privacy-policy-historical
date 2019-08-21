@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saragottfriedmd.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320024528id_/https%3A//www.saragottfriedmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saragottfriedmd.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821054413id_/https%3A//www.saragottfriedmd.com/privacy-policy) for the most accurate reproduction.*
 
-# The Gottfried Institute Privacy Policy | Sara Gottfried MD
+# The Gottfried Institute Privacy Policy - Sara Gottfried MD
 
 The following describes the Privacy Policy for our SaraGottfriedMD.com website.
 
@@ -54,4 +54,4 @@ As with any of our administrative and legal notice pages, the contents of this p
 
 QUESTIONS/COMMENTS/CONCERNS
 
-If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our [Contact](https://www.saragottfriedmd.com/contact/ "Contact") information.
+If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our [Contact](http://www.saragottfriedmd.com/contact/ "Contact") information.
