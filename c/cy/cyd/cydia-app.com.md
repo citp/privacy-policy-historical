@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydia-app.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414053538id_/https%3A//cydia-app.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydia-app.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821024422id_/https%3A//cydia-app.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cydia App
 
@@ -58,4 +58,4 @@ Visitor comments may be checked through an automated spam detection service.
 
 To get in touch with use , use the [Contact Form](https://cydia-app.com/contact/) on this page.
 
-*Please let us know if the Download LINKS on this page are NOT WORKING.
+*Found a broken link? Help us by reporting it in comments below.
