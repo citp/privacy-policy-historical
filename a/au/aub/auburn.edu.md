@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auburn.edu privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627185307id_/http%3A//www.auburn.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auburn.edu privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821080454id_/http%3A//www.auburn.edu/privacy) for the most accurate reproduction.*
 
 # Auburn University | Privacy Statement
 
@@ -26,7 +26,7 @@ Visitors using online forms or applications on our web pages may choose to suppl
 
 Auburn University policy does not allow the release of personally identifiable information to third parties (other than its agents when required for university business) except with permission of the person identified or as allowed or required by law.
 
-This Privacy Notice outlines the collection, use, and disclosure of Personal Data provided to Auburn University ("AU") by prospective undergraduate students and applicants.  Additionally, this document provides notice as required under the European Union's ("EU") General Data Protection Regulation ("GDPR"), which regulates data collection and use of Personal Data of persons located in the EU.
+This Privacy Notice outlines the collection, use, and disclosure of Personal Data provided to Auburn University ("AU") by prospective undergraduate and graduate students and applicants. Additionally, this document provides notice as required under the European Union's ("EU") General Data Protection Regulation ("GDPR"), which regulates data collection and use of Personal Data of persons located in the EU.
 
 For purposes of this notice, Personal Data includes such information as name, email address, physical address, photos, IP address, as well as other sensitive personal data obtained with prior consent.
 
@@ -47,7 +47,7 @@ There will be some instances where the collection and processing of personal dat
 
 ### Types of Personal Data Collected/Processed and Purpose
 
-Enrollment Services collects the following categories of Personal Data in order to recruit and admit undergraduate students:
+Enrollment Services and the Graduate School collect the following categories of Personal Data in order to recruit and admit undergraduate and graduate students:
 
   * Name
   * Contact information including, without limitation, email address, physical address, phone number, and other location data
@@ -55,23 +55,23 @@ Enrollment Services collects the following categories of Personal Data in order 
   * Details of your educational qualifications
   * _Information related to visa requirements, copies of passports and other documents to ensure compliance with U.S. laws_
   * _Financial information gathered for the purposes of verifying eligibility for study in the United States_
-  * Information related to the prevention and detection of crime and the safety of employees, students and visitors of Auburn University 
+  * Information related to the prevention and detection of crime and the safety of employees, students and visitors of Auburn University 
 
 
 
-The Personal Data that Enrollment Services collects may be shared internally with academic units, Alumni Affairs and other school officials with a legitimate educational interest.
+The Personal Data that Enrollment Services and the Graduate School collect may be shared internally with academic units, Alumni Affairs and other school officials with a legitimate educational interest.
 
-If you have specific questions regarding the collection and use of your Personal Data by Enrollment Services, please contact the Director, Enrollment Services-Operations at (334) 844-6420.
+If you have specific questions regarding the collection and use of your Personal Data by Enrollment Services, please contact the Director, Enrollment Services-Operations at (334) 844-6420. For questions regarding the collection and use of your Personal Data by the Graduate School, please contact the Dean of the Graduate School at (334) 844-4700. 
 
 If you refuse to provide Personal Data that Auburn University required in connection with one of Auburn University's lawful bases for collecting such Personal Data, such refusal may make it impossible for Auburn University to provide you education, employment, research or other requested services.
 
 ### Where Auburn University gets Personal and Sensitive Personal Data
 
-Auburn University receives Personal Data from multiple sources. Most often, Auburn University gets this data directly from the Data Subject or under the direction of the Data Subject who has provided it to a third party. In addition to data collected from the Data Subject, Enrollment Services collects data from ACT, College Board, Cappex, and the State of Alabama Statewide Transfer & Articulation Reporting System (STARS) and other entities in accordance with the Family Education Rights and Privacy Act (FERPA).
+Auburn University receives Personal Data from multiple sources. Most often, Auburn University gets this data directly from the Data Subject or under the direction of the Data Subject who has provided it to a third party. In addition to data collected from the Data Subject, Enrollment Services and the Graduate School may collect data from ACT, College Board, Cappex, ETS, and the State of Alabama Statewide Transfer & Articulation Reporting System (STARS) and other entities in accordance with the Family Education Rights and Privacy Act (FERPA).
 
 ### Individual Rights of the Data Subject under the GDPR
 
-In addition to the right to receive the information provided in this Privacy Notice, if you are an individual data subject covered by under GDPR (i.e. located in the EU/EEA) you have the right to:
+In addition to the right to receive the information provided in this Privacy Notice, if you are an individual data subject covered by GDPR (i.e. located in the EU/EEA) you have the right to:
 
   * Request from Auburn University access to and rectification or erasure of Personal Data or restriction of processing Personal Data concerning the Data Subject, the right to object to processing and the right to portability of Personal Data;
   * Where processing is based upon consent, to withdraw consent at any time, without affecting Auburn University's right to process Personal Data based upon consent before its withdrawal;
@@ -111,7 +111,7 @@ Auburn University will not share your Personal Data with third parties except:
 
 Auburn University maintains records for the time periods specified in the [Public Universities of Alabama - Functional Analysis & Records Disposition Authority](http://www.lib.auburn.edu/specialcollections/docs/pdf/universities-general-rda-2017-05-24-1.pdf).
 
-This Privacy Notice outlines the collection, use, and disclosure of Personal Data provided to the Auburn University ("AU") Office of Audit, Compliance & Privacy ("OACP") by non-AU subscribers to _Case in Point: Lessons for the proactive manager_.  Additionally, this document provides notice as required under the European Union's ("EU") General Data Protection Regulation ("GDPR") which regulates data collection and use of Personal Data of persons located in the EU. 
+This Privacy Notice outlines the collection, use, and disclosure of Personal Data provided to the Auburn University ("AU") Office of Audit, Compliance & Privacy ("OACP") by non-AU subscribers to _Case in Point: Lessons for the proactive manager_. Additionally, this document provides notice as required under the European Union's ("EU") General Data Protection Regulation ("GDPR") which regulates data collection and use of Personal Data of persons located in the EU. 
 
 For purposes of this notice, Personal Data includes such information as name, email address, physical address, photos, IP address, as well as other sensitive personal data obtained with prior consent.
 
@@ -142,7 +142,7 @@ OACP collects the following categories of Personal Data, with your consent, in o
 
 
 
-The Personal Data that OACP collects as part of this subscription process will be saved to our service provider's ( _[Constant Contact](https://www.endurance.com/privacy)_ ) databases in order to manage our subscription lists and facilitate the sending of our newsletter.  We may also share your information among OACP management in order to evaluate and improve our subscription reach.  
+The Personal Data that OACP collects as part of this subscription process will be saved to our service provider's ( _[Constant Contact](https://www.endurance.com/privacy)_ ) databases in order to manage our subscription lists and facilitate the sending of our newsletter. We may also share your information among OACP management in order to evaluate and improve our subscription reach.  
 If you have specific questions regarding the collection and use of your Personal Data by OACP, please contact the Robert Gottesman, Director Institutional Compliance & Privacy at 334.844.4389  
 If you refuse to provide your email address it will be impossible for OACP to provide you with a subscription to our newsletter: _Case In Point_. Access to newsletter content may still be obtained via our website.
 
@@ -296,7 +296,7 @@ Auburn University will not share your Personal Data with third parties except:
 
 Auburn University maintains records for the time periods specified in the [Public Universities of Alabama - Functional Analysis & Records Disposition Authority](http://www.lib.auburn.edu/specialcollections/docs/pdf/universities-general-rda-2017-05-24-1.pdf).
 
-This Privacy Notice outlines the collection, use, and disclosure of Personal Data provided to Auburn University Human Resources ("AU") by **Non-Faculty Applicant(s)**.  Additionally, this document provides notice as required under the European Union's ("EU") General Data Protection Regulation ("GDPR"), which regulates data collection and use of Personal Data of persons located in the EU.
+This Privacy Notice outlines the collection, use, and disclosure of Personal Data provided to Auburn University ("AU") by **Employee Applicant(s)**. Additionally, this document provides notice as required under the European Union's ("EU") General Data Protection Regulation ("GDPR"), which regulates data collection and use of Personal Data of persons located in the EU.
 
 For purposes of this notice, Personal Data includes such information as name, email address, physical address, photos, IP address, as well as other sensitive personal data obtained with prior consent.
 
@@ -329,7 +329,7 @@ Human Resources collects the following categories of Personal Data in order to p
 
 
 
-The Personal Data that Human Resources collects may be shared on an as needed basis with:
+The Personal Data that AU collects may be shared on an as needed basis with:
 
   * Appropriate employees at the University during recruitment and selection processes
   * Professional and personal references provided on application materials
@@ -338,13 +338,13 @@ The Personal Data that Human Resources collects may be shared on an as needed ba
 
 
 
-If you have specific questions regarding the collection and use of your Personal Data by Human Resources, please contact the Marketing and Communication Specialist, 1550 East Glen Avenue, Auburn, AL 36830 or (334) 844-4145.
+If you have specific questions regarding the collection and use of your Personal Data collected as part of non-faculty employment application by Human Resources, please contact the Marketing and Communication Specialist, 1550 East Glen Avenue, Auburn, AL 36830 or (334) 844-4145, for questions about the data collected as part of a faculty employee application please contact the Special Assistant to the Provost for Human Resources, 208 Samford Hall, Auburn, AL 36849 or (334) 844-4000.
 
 If you refuse to provide Personal Data that Auburn University required in connection with one of Auburn University's lawful bases for collecting such Personal Data, such refusal may make it impossible for Auburn University to provide you education, employment, research or other requested services.
 
 ### Where Auburn University gets Personal and Sensitive Personal Data
 
-Auburn University receives Personal Data from multiple sources. Most often, Auburn University gets this data directly from the Data Subject or under the direction of the Data Subject who has provided it to a third party. In addition to data collected from the Data Subject, Human Resources collects data from 
+Auburn University receives Personal Data from multiple sources. Most often, Auburn University gets this data directly from the Data Subject or under the direction of the Data Subject who has provided it to a third party. In addition to data collected from the Data Subject, AU collects data from 
 
   * Companies or organizations providing specific services to, or on behalf of, the University for recruitment and selection purposes to include, criminal, driving and academic background checks
 
