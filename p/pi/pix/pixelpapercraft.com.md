@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelpapercraft.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630172856id_/http%3A//www.pixelpapercraft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelpapercraft.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821154532id_/http%3A//www.pixelpapercraft.com/privacy) for the most accurate reproduction.*
 
 # Pixel Papercraft
 
