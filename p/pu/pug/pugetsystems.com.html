@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the pugetsystems.com privacy policy that was archived on 2019-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190405083048id_/https%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pugetsystems.com privacy policy that was archived on 2019-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190822000818id_/https%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5PZN6WT"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5PZN6WT"></script><script type="text/javascript">
+<script type="text/javascript">
 		(typeof window.dataLayer == "undefined") ? window.dataLayer = [] : dataLayer = window.dataLayer;  
 		window.createCookie = function(name, value, days) {
 			if (days) {
@@ -25,7 +25,7 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-5PZN6WT');</script>
 
-<link rel="stylesheet" href="/static/css/59/css_bootstrap.css">
+<link rel="stylesheet" href="/static/css/64/css_bootstrap.css">
 
 <!--[if lt IE 9]>
 		<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -99,7 +99,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a class="navbar-brand visible-xs-block" href="https://www.pugetsystems.com/"><img src="https://cdn.pugetsystems.com/images/logo_white_sm.png" width="83" height="30" alt="Puget Systems small logo"></a>
 </div>
 <div id="puget-navbar" class="navbar-collapse collapse">
-<ul class="nav navbar-nav navbar-right" data-smartmenus-id="15804168681805906">
+<ul class="nav navbar-nav navbar-right sm-collapsible" data-smartmenus-id="1580477593667139">
 <li id="puget-search-li-on" class="hidden-xs"><a id="puget-search-a-on" href="#"><span class="glyphicon glyphicon-search"></span></a></li>
 <li id="puget-search-li-off" class="hidden"><a id="puget-search-a-off" href="#"><span class="glyphicon glyphicon-remove"></span></a></li>
 </ul>
@@ -111,10 +111,97 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 </div>
 </form>
-<ul class="nav navbar-nav" data-smartmenus-id="1580416868180252">
+<ul class="nav navbar-nav sm-collapsible" data-smartmenus-id="15804775936695532">
+<li id="puget-nav-solutions">
+<a href="/solutions/index.php" class="has-submenu" id="sm-15804775936695532-1" aria-haspopup="true" aria-controls="sm-15804775936695532-2" aria-expanded="false">Solutions <span class="caret hidden-sm hidden-md hidden-lg navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-2" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-1" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li>
+<a href="/solutions/content_creation/index.php">Content Creation</a>
+</li>
+<li>
+<a style="padding-left:20px;" href="/solutions/content_creation/photo.php" class="has-submenu" id="sm-15804775936695532-3" aria-haspopup="true" aria-controls="sm-15804775936695532-4" aria-expanded="false"><small>Photography</small> <span class="caret navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-4" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-3" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li><a href="/recommended/Recommended-Systems-for-Adobe-Lightroom-Classic-CC-141" id="puget-nav-solutions-141"><img src="https://www.pugetsystems.com/pic_disp.php?id=40660&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Adobe Lightroom Classic CC Thumbnail" style="margin-right:10px;">Adobe Lightroom Classic CC</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Adobe-Photoshop-CC-139" id="puget-nav-solutions-139"><img src="https://www.pugetsystems.com/pic_disp.php?id=40659&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Adobe Photoshop CC Thumbnail" style="margin-right:10px;">Adobe Photoshop CC</a></li>
+</ul>
+</li>
+<li>
+<a style="padding-left:20px;" href="/solutions/content_creation/post.php" class="has-submenu" id="sm-15804775936695532-5" aria-haspopup="true" aria-controls="sm-15804775936695532-6" aria-expanded="false"><small>Post Production</small> <span class="caret navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-6" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-5" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li><a href="/recommended/Recommended-Systems-for-Adobe-After-Effects-CC-144" id="puget-nav-solutions-144"><img src="https://www.pugetsystems.com/pic_disp.php?id=40661&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Adobe After Effects CC Thumbnail" style="margin-right:10px;">Adobe After Effects CC</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Adobe-Premiere-Pro-CC-143" id="puget-nav-solutions-143"><img src="https://www.pugetsystems.com/pic_disp.php?id=40662&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Adobe Premiere Pro CC Thumbnail" style="margin-right:10px;">Adobe Premiere Pro CC</a></li>
+<li><a href="/recommended/Recommended-Systems-for-DaVinci-Resolve-187" id="puget-nav-solutions-187"><img src="https://www.pugetsystems.com/pic_disp.php?id=42329&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="DaVinci Resolve Thumbnail" style="margin-right:10px;">DaVinci Resolve</a></li>
+</ul>
+</li>
+<li>
+<a style="padding-left:20px;" href="/solutions/content_creation/design.php" class="has-submenu" id="sm-15804775936695532-7" aria-haspopup="true" aria-controls="sm-15804775936695532-8" aria-expanded="false"><small>3D Design and Animation</small> <span class="caret navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-8" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-7" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li><a href="/recommended/Recommended-Systems-for-Agisoft-Metashape-145" id="puget-nav-solutions-145"><img src="https://www.pugetsystems.com/pic_disp.php?id=55264&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Agisoft Metashape Thumbnail" style="margin-right:10px;">Agisoft Metashape</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Autodesk-3ds-Max-159" id="puget-nav-solutions-159"><img src="https://www.pugetsystems.com/pic_disp.php?id=39954&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk 3ds Max Thumbnail" style="margin-right:10px;">Autodesk 3ds Max</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Autodesk-Maya-165" id="puget-nav-solutions-165"><img src="https://www.pugetsystems.com/pic_disp.php?id=40242&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk Maya Thumbnail" style="margin-right:10px;">Autodesk Maya</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Cinema-4D-166" id="puget-nav-solutions-166"><img src="https://www.pugetsystems.com/pic_disp.php?id=40243&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Cinema 4D Thumbnail" style="margin-right:10px;">Cinema 4D</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Pix4D-207" id="puget-nav-solutions-207"><img src="https://www.pugetsystems.com/pic_disp.php?id=44639&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Pix4D Thumbnail" style="margin-right:10px;">Pix4D</a></li>
+<li><a href="/recommended/Recommended-Systems-for-RealityCapture-228" id="puget-nav-solutions-228"><img src="https://www.pugetsystems.com/pic_disp.php?id=55360&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="RealityCapture Thumbnail" style="margin-right:10px;">RealityCapture</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Unity-188" id="puget-nav-solutions-188"><img src="https://www.pugetsystems.com/pic_disp.php?id=42868&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Unity Thumbnail" style="margin-right:10px;">Unity</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Unreal-Engine-200" id="puget-nav-solutions-200"><img src="https://www.pugetsystems.com/pic_disp.php?id=42867&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Unreal Engine Thumbnail" style="margin-right:10px;">Unreal Engine</a></li>
+</ul>
+</li>
+<li>
+<a style="padding-left:20px;" href="/solutions/content_creation/rendering.php" class="has-submenu" id="sm-15804775936695532-9" aria-haspopup="true" aria-controls="sm-15804775936695532-10" aria-expanded="false"><small>Rendering</small> <span class="caret navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-10" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-9" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li><a href="/recommended/Recommended-Systems-for-OTOY-OctaneRender-192" id="puget-nav-solutions-192"><img src="https://www.pugetsystems.com/pic_disp.php?id=42582&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="OTOY OctaneRender Thumbnail" style="margin-right:10px;">OTOY OctaneRender</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Redshift-195" id="puget-nav-solutions-195"><img src="https://www.pugetsystems.com/pic_disp.php?id=42600&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Redshift Thumbnail" style="margin-right:10px;">Redshift</a></li>
+<li><a href="/recommended/Recommended-Systems-for-V-Ray-199" id="puget-nav-solutions-199"><img src="https://www.pugetsystems.com/pic_disp.php?id=42619&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="V-Ray Thumbnail" style="margin-right:10px;">V-Ray</a></li>
+</ul>
+</li>
+<li>
+<a href="/solutions/engineering/index.php">Engineering</a>
+</li>
+<li>
+<a style="padding-left:20px;" href="/solutions/engineering/cad.php" class="has-submenu" id="sm-15804775936695532-11" aria-haspopup="true" aria-controls="sm-15804775936695532-12" aria-expanded="false"><small>CAD</small> <span class="caret navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-12" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-11" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li><a href="/recommended/Recommended-Systems-for-Autodesk-AutoCAD-134" id="puget-nav-solutions-134"><img src="https://www.pugetsystems.com/pic_disp.php?id=41026&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk AutoCAD Thumbnail" style="margin-right:10px;">Autodesk AutoCAD</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Autodesk-Inventor-173" id="puget-nav-solutions-173"><img src="https://www.pugetsystems.com/pic_disp.php?id=41027&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk Inventor Thumbnail" style="margin-right:10px;">Autodesk Inventor</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Autodesk-Revit-171" id="puget-nav-solutions-171"><img src="https://www.pugetsystems.com/pic_disp.php?id=41025&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk Revit Thumbnail" style="margin-right:10px;">Autodesk Revit</a></li>
+<li><a href="/recommended/Recommended-Systems-for-IrisVR-Prospect-221" id="puget-nav-solutions-221"><img src="https://www.pugetsystems.com/pic_disp.php?id=52229&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="IrisVR Prospect Thumbnail" style="margin-right:10px;">IrisVR Prospect</a></li>
+<li><a href="/recommended/Recommended-Systems-for-SOLIDWORKS-150" id="puget-nav-solutions-150"><img src="https://www.pugetsystems.com/pic_disp.php?id=41727&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="SOLIDWORKS Thumbnail" style="margin-right:10px;">SOLIDWORKS</a></li>
+</ul>
+</li>
+<li>
+<a style="padding-left:20px;" href="/solutions/engineering/photogrammetry.php" class="has-submenu" id="sm-15804775936695532-13" aria-haspopup="true" aria-controls="sm-15804775936695532-14" aria-expanded="false"><small>Photogrammetry</small> <span class="caret navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-14" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-13" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li><a href="/recommended/Recommended-Systems-for-Agisoft-Metashape-145" id="puget-nav-solutions-145"><img src="https://www.pugetsystems.com/pic_disp.php?id=55264&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Agisoft Metashape Thumbnail" style="margin-right:10px;">Agisoft Metashape</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Pix4D-207" id="puget-nav-solutions-207"><img src="https://www.pugetsystems.com/pic_disp.php?id=44639&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Pix4D Thumbnail" style="margin-right:10px;">Pix4D</a></li>
+<li><a href="/recommended/Recommended-Systems-for-RealityCapture-228" id="puget-nav-solutions-228"><img src="https://www.pugetsystems.com/pic_disp.php?id=55360&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="RealityCapture Thumbnail" style="margin-right:10px;">RealityCapture</a></li>
+</ul>
+</li>
+<li>
+<a href="/solutions/scientific/index.php" class="has-submenu" id="sm-15804775936695532-15" aria-haspopup="true" aria-controls="sm-15804775936695532-16" aria-expanded="false">Scientific Computing <span class="caret navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-16" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-15" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li><a href="/recommended/Recommended-Systems-for-Machine-Learning-AI-TensorFlow-174" id="puget-nav-solutions-174"><img src="https://www.pugetsystems.com/pic_disp.php?id=41159&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Machine Learning / AI TensorFlow Thumbnail" style="margin-right:10px;">Machine Learning / AI TensorFlow</a></li>
+</ul>
+</li>
+<li>
+<a href="/solutions/more/index.php" class="has-submenu" id="sm-15804775936695532-17" aria-haspopup="true" aria-controls="sm-15804775936695532-18" aria-expanded="false">More <span class="caret navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-18" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-17" aria-expanded="false">
+<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
+<li><a href="/recommended/Recommended-Systems-for-Live-Streaming-156" id="puget-nav-solutions-156"><img src="https://www.pugetsystems.com/pic_disp.php?id=39216&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Live Streaming Thumbnail" style="margin-right:10px;">Live Streaming</a></li>
+<li><a href="/recommended/Recommended-Systems-for-Virtual-Reality-155" id="puget-nav-solutions-155"><img src="https://www.pugetsystems.com/pic_disp.php?id=42408&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Virtual Reality Thumbnail" style="margin-right:10px;">Virtual Reality</a></li>
+</ul>
+</li>
+</ul>
+</li>
 <li id="puget-nav-products">
-<a href="/desktop.php" class="has-submenu" id="sm-1580416868180252-1" aria-haspopup="true" aria-controls="sm-1580416868180252-2" aria-expanded="false">Products <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-2" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-1" aria-expanded="false">
+<a href="/desktop.php" class="has-submenu" id="sm-15804775936695532-19" aria-haspopup="true" aria-controls="sm-15804775936695532-20" aria-expanded="false">Products <span class="caret hidden-sm hidden-md hidden-lg navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="sm-15804775936695532-20" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-19" aria-expanded="false">
 <li><a href="/echo.php" id="puget-nav-products-echo">
 <span class="puget-menubar-image hidden-xs" style="background-position:0px 0px;"></span>
 <b>Echo</b><br><small>Our smallest PC, with full desktop performance.</small>
@@ -154,86 +241,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a></li>
 </ul>
 </li>
-<li id="puget-nav-solutions">
-<a href="/solutions/index.php" class="has-submenu" id="sm-1580416868180252-3" aria-haspopup="true" aria-controls="sm-1580416868180252-4" aria-expanded="false">Solutions <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-4" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-3" aria-expanded="false">
-<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
-<li>
-<a href="/solutions/content_creation/index.php">Content Creation</a>
-</li>
-<li>
-<a style="padding-left:20px;" href="/solutions/content_creation/photo.php" class="has-submenu" id="sm-1580416868180252-5" aria-haspopup="true" aria-controls="sm-1580416868180252-6" aria-expanded="false"><small>Photography</small> <span class="caret"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-6" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-5" aria-expanded="false">
-<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
-<li><a href="/recommended/Recommended-Systems-for-Adobe-Lightroom-Classic-CC-141" id="puget-nav-solutions-141"><img src="https://www.pugetsystems.com/pic_disp.php?id=40660&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Adobe Lightroom Classic CC Thumbnail" style="margin-right:10px;">Adobe Lightroom Classic CC</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Adobe-Photoshop-CC-139" id="puget-nav-solutions-139"><img src="https://www.pugetsystems.com/pic_disp.php?id=40659&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Adobe Photoshop CC Thumbnail" style="margin-right:10px;">Adobe Photoshop CC</a></li>
-</ul>
-</li>
-<li>
-<a style="padding-left:20px;" href="/solutions/content_creation/post.php" class="has-submenu" id="sm-1580416868180252-7" aria-haspopup="true" aria-controls="sm-1580416868180252-8" aria-expanded="false"><small>Post Production</small> <span class="caret"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-8" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-7" aria-expanded="false">
-<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
-<li><a href="/recommended/Recommended-Systems-for-Adobe-After-Effects-CC-144" id="puget-nav-solutions-144"><img src="https://www.pugetsystems.com/pic_disp.php?id=40661&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Adobe After Effects CC Thumbnail" style="margin-right:10px;">Adobe After Effects CC</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Adobe-Premiere-Pro-CC-143" id="puget-nav-solutions-143"><img src="https://www.pugetsystems.com/pic_disp.php?id=40662&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Adobe Premiere Pro CC Thumbnail" style="margin-right:10px;">Adobe Premiere Pro CC</a></li>
-<li><a href="/recommended/Recommended-Systems-for-DaVinci-Resolve-187" id="puget-nav-solutions-187"><img src="https://www.pugetsystems.com/pic_disp.php?id=42329&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="DaVinci Resolve Thumbnail" style="margin-right:10px;">DaVinci Resolve</a></li>
-</ul>
-</li>
-<li>
-<a style="padding-left:20px;" href="/solutions/content_creation/design.php" class="has-submenu" id="sm-1580416868180252-9" aria-haspopup="true" aria-controls="sm-1580416868180252-10" aria-expanded="false"><small>3D Design and Animation</small> <span class="caret"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-10" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-9" aria-expanded="false">
-<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
-<li><a href="/recommended/Recommended-Systems-for-Agisoft-PhotoScan-145" id="puget-nav-solutions-145"><img src="https://www.pugetsystems.com/pic_disp.php?id=42415&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Agisoft PhotoScan Thumbnail" style="margin-right:10px;">Agisoft PhotoScan</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Autodesk-3ds-Max-159" id="puget-nav-solutions-159"><img src="https://www.pugetsystems.com/pic_disp.php?id=39954&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk 3ds Max Thumbnail" style="margin-right:10px;">Autodesk 3ds Max</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Autodesk-Maya-165" id="puget-nav-solutions-165"><img src="https://www.pugetsystems.com/pic_disp.php?id=40242&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk Maya Thumbnail" style="margin-right:10px;">Autodesk Maya</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Cinema-4D-166" id="puget-nav-solutions-166"><img src="https://www.pugetsystems.com/pic_disp.php?id=40243&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Cinema 4D Thumbnail" style="margin-right:10px;">Cinema 4D</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Unity-188" id="puget-nav-solutions-188"><img src="https://www.pugetsystems.com/pic_disp.php?id=42868&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Unity Thumbnail" style="margin-right:10px;">Unity</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Unreal-Engine-200" id="puget-nav-solutions-200"><img src="https://www.pugetsystems.com/pic_disp.php?id=42867&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Unreal Engine Thumbnail" style="margin-right:10px;">Unreal Engine</a></li>
-</ul>
-</li>
-<li>
-<a style="padding-left:20px;" href="/solutions/content_creation/rendering.php" class="has-submenu" id="sm-1580416868180252-11" aria-haspopup="true" aria-controls="sm-1580416868180252-12" aria-expanded="false"><small>Rendering</small> <span class="caret"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-12" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-11" aria-expanded="false">
-<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
-<li><a href="/recommended/Recommended-Systems-for-OTOY-OctaneRender-192" id="puget-nav-solutions-192"><img src="https://www.pugetsystems.com/pic_disp.php?id=42582&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="OTOY OctaneRender Thumbnail" style="margin-right:10px;">OTOY OctaneRender</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Redshift-195" id="puget-nav-solutions-195"><img src="https://www.pugetsystems.com/pic_disp.php?id=42600&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Redshift Thumbnail" style="margin-right:10px;">Redshift</a></li>
-<li><a href="/recommended/Recommended-Systems-for-V-Ray-199" id="puget-nav-solutions-199"><img src="https://www.pugetsystems.com/pic_disp.php?id=42619&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="V-Ray Thumbnail" style="margin-right:10px;">V-Ray</a></li>
-</ul>
-</li>
-<li>
-<a href="/solutions/engineering/index.php" class="has-submenu" id="sm-1580416868180252-13" aria-haspopup="true" aria-controls="sm-1580416868180252-14" aria-expanded="false">Engineering <span class="caret"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-14" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-13" aria-expanded="false">
-<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
-<li><a href="/recommended/Recommended-Systems-for-Agisoft-PhotoScan-145" id="puget-nav-solutions-145"><img src="https://www.pugetsystems.com/pic_disp.php?id=42415&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Agisoft PhotoScan Thumbnail" style="margin-right:10px;">Agisoft PhotoScan</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Autodesk-AutoCAD-134" id="puget-nav-solutions-134"><img src="https://www.pugetsystems.com/pic_disp.php?id=41026&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk AutoCAD Thumbnail" style="margin-right:10px;">Autodesk AutoCAD</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Autodesk-Inventor-173" id="puget-nav-solutions-173"><img src="https://www.pugetsystems.com/pic_disp.php?id=41027&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk Inventor Thumbnail" style="margin-right:10px;">Autodesk Inventor</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Autodesk-Revit-171" id="puget-nav-solutions-171"><img src="https://www.pugetsystems.com/pic_disp.php?id=41025&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Autodesk Revit Thumbnail" style="margin-right:10px;">Autodesk Revit</a></li>
-<li><a href="/recommended/Recommended-Systems-for-IrisVR-Prospect-221" id="puget-nav-solutions-221"><img src="https://www.pugetsystems.com/pic_disp.php?id=52229&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="IrisVR Prospect Thumbnail" style="margin-right:10px;">IrisVR Prospect</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Pix4D-207" id="puget-nav-solutions-207"><img src="https://www.pugetsystems.com/pic_disp.php?id=44639&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Pix4D Thumbnail" style="margin-right:10px;">Pix4D</a></li>
-<li><a href="/recommended/Recommended-Systems-for-SOLIDWORKS-150" id="puget-nav-solutions-150"><img src="https://www.pugetsystems.com/pic_disp.php?id=41727&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="SOLIDWORKS Thumbnail" style="margin-right:10px;">SOLIDWORKS</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Zemax-OpticStudio-176" id="puget-nav-solutions-176"><img src="https://www.pugetsystems.com/pic_disp.php?id=41697&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Zemax OpticStudio Thumbnail" style="margin-right:10px;">Zemax OpticStudio</a></li>
-</ul>
-</li>
-<li>
-<a href="/solutions/scientific/index.php" class="has-submenu" id="sm-1580416868180252-15" aria-haspopup="true" aria-controls="sm-1580416868180252-16" aria-expanded="false">Scientific Computing <span class="caret"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-16" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-15" aria-expanded="false">
-<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
-<li><a href="/recommended/Recommended-Systems-for-Agisoft-PhotoScan-145" id="puget-nav-solutions-145"><img src="https://www.pugetsystems.com/pic_disp.php?id=42415&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Agisoft PhotoScan Thumbnail" style="margin-right:10px;">Agisoft PhotoScan</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Machine-Learning-AI-TensorFlow-174" id="puget-nav-solutions-174"><img src="https://www.pugetsystems.com/pic_disp.php?id=41159&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Machine Learning / AI TensorFlow Thumbnail" style="margin-right:10px;">Machine Learning / AI TensorFlow</a></li>
-</ul>
-</li>
-<li>
-<a href="/solutions/more/index.php" class="has-submenu" id="sm-1580416868180252-17" aria-haspopup="true" aria-controls="sm-1580416868180252-18" aria-expanded="false">More <span class="caret"></span></a>
-<ul class="dropdown-menu" id="sm-1580416868180252-18" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-17" aria-expanded="false">
-<li class="dropdown-header" style="padding-left:10px;">Recommended Systems For:</li>
-<li><a href="/recommended/Recommended-Systems-for-Live-Streaming-156" id="puget-nav-solutions-156"><img src="https://www.pugetsystems.com/pic_disp.php?id=39216&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Live Streaming Thumbnail" style="margin-right:10px;">Live Streaming</a></li>
-<li><a href="/recommended/Recommended-Systems-for-Virtual-Reality-155" id="puget-nav-solutions-155"><img src="https://www.pugetsystems.com/pic_disp.php?id=42408&amp;width=30&amp;height=30&amp;pwidth=30&amp;pheight=30" width="30" height="30" alt="Virtual Reality Thumbnail" style="margin-right:10px;">Virtual Reality</a></li>
-</ul>
-</li>
-</ul>
-</li>
 <li id="puget-nav-publications">
-<a href="/all_news.php" class="has-submenu" id="sm-1580416868180252-19" aria-haspopup="true" aria-controls="puget-nav-publications-articles" aria-expanded="false">Publications <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
-<ul class="dropdown-menu" id="puget-nav-publications-articles" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-19" aria-expanded="false">
+<a href="/all_news.php" class="has-submenu" id="sm-15804775936695532-21" aria-haspopup="true" aria-controls="puget-nav-publications-articles" aria-expanded="false">Publications <span class="caret hidden-sm hidden-md hidden-lg navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="puget-nav-publications-articles" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-21" aria-expanded="false">
 <li><a href="/all_articles.php">Articles</a></li>
 <li><a href="/all_hpc.php">HPC Blog</a></li>
 <li><a href="/all_blog.php">Blog</a></li>
@@ -242,16 +252,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 </li>
 <li id="puget-nav-support" class="hidden-sm">
-<a href="/support/index.php" class="has-submenu" id="sm-1580416868180252-20" aria-haspopup="true" aria-controls="puget-nav-publications-support" aria-expanded="false">Support <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
-<ul class="dropdown-menu" id="puget-nav-publications-support" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-20" aria-expanded="false">
+<a href="/support/index.php" class="has-submenu" id="sm-15804775936695532-22" aria-haspopup="true" aria-controls="puget-nav-publications-support" aria-expanded="false">Support <span class="caret hidden-sm hidden-md hidden-lg navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="puget-nav-publications-support" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-22" aria-expanded="false">
 <li><a href="/support/index.php">Contact Support</a></li>
 <li><a href="/help/index.php">Online Help Guides</a></li>
 <li><a href="/warranty.php">Warranty Info</a></li>
 </ul>
 </li>
 <li id="puget-nav-aboutus">
-<a href="/aboutus.php" class="has-submenu" id="sm-1580416868180252-21" aria-haspopup="true" aria-controls="puget-nav-publications-aboutus" aria-expanded="false">About Us <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
-<ul class="dropdown-menu" id="puget-nav-publications-aboutus" role="group" aria-hidden="true" aria-labelledby="sm-1580416868180252-21" aria-expanded="false">
+<a href="/aboutus.php" class="has-submenu" id="sm-15804775936695532-23" aria-haspopup="true" aria-controls="puget-nav-publications-aboutus" aria-expanded="false">About Us <span class="caret hidden-sm hidden-md hidden-lg navbar-toggle sub-arrow"></span></a>
+<ul class="dropdown-menu" id="puget-nav-publications-aboutus" role="group" aria-hidden="true" aria-labelledby="sm-15804775936695532-23" aria-expanded="false">
 <li><a href="/aboutus.php">About Us</a></li>
 <li><a href="/contact.php">Contact Us</a></li>
 <li class="visible-sm"><a href="/support/index.php">Support</a></li>
@@ -323,7 +333,7 @@ document.write(user + '@' + site + '</a>');
 <li><a href="/configmenu.php">Build Your Own Computer</a></li>
 <li><a href="/site_map.php">Site Map</a></li>
 <li><a href="/faq.php">FAQ</a></li>
-<li><span title="Page parsed in 52 ms with 9.68 MB memory and 4 queries.   ">©</span> Copyright 2019 - Puget Systems, All Rights Reserved.</li>
+<li><span title="Page parsed in 44 ms with 10.1 MB memory and 4 queries.   ">©</span> Copyright 2019 - Puget Systems, All Rights Reserved.</li>
 <li class="puget-footer-social hidden-xs hidden-sm" id="puget-footer_social">
 <a href="#" class="puget_rating_trigger cboxElement" title="Give feedback about this page!">[+]</a>&nbsp;&nbsp;
 <a class="btn btn-social-icon btn-facebook" target="_blank" href="https://www.facebook.com/PugetSystems" title="Become a fan on Facebook" rel="nofollow">
@@ -335,7 +345,7 @@ document.write(user + '@' + site + '</a>');
 <a class="btn btn-social-icon btn-youtube" target="_blank" href="https://www.youtube.com/user/pugetsys" title="View our YouTube channel" rel="nofollow">
 <i class="fa fa-youtube"></i>
 </a>
- <a class="btn btn-social-icon btn-linkedin" target="_blank" href="https://www.linkedin.com/company/puget-systems" title="View us on Linked In" rel="nofollow">
+<a class="btn btn-social-icon btn-linkedin" target="_blank" href="https://www.linkedin.com/company/puget-systems" title="View us on Linked In" rel="nofollow">
 <i class="fa fa-linkedin"></i>
 </a>
 <a class="btn btn-social-icon btn-rss" target="_blank" href="/subscribe.php" title="View our RSS Feeds">
@@ -346,16 +356,6 @@ document.write(user + '@' + site + '</a>');
 </div>
 <div class="row " id="puget-footer_sublist">
 <div class="col-sm-2 col-xs-6 puget-footer-list small">
-<ul id="puget-footer_sublist_workstations">
-<li><h5>Workstations</h5></li>
-<li><a href="/solutions/content_creation/index.php">Content Creation</a></li>
-
-<li><a href="/solutions/engineering/index.php">Engineering</a></li>
-<li><a href="/solutions/scientific/index.php">Scientific PCs</a></li>
-<li><a href="/solutions/more/index.php">More</a></li>
-</ul>
-</div>
-<div class="col-sm-2 col-xs-6 puget-footer-list small">
 <ul id="puget-footer_sublist_solutions">
 <li><h5>Optimized Solutions</h5></li>
 <li><a href="/recommended/Recommended-Systems-for-Adobe-Premiere-Pro-143">Adobe Premiere</a></li>
@@ -363,6 +363,16 @@ document.write(user + '@' + site + '</a>');
 <li><a href="/recommended/Recommended-Systems-for-SOLIDWORKS-150">Solidworks</a></li>
 <li><a href="/recommended/Recommended-Systems-for-Autodesk-AutoCAD-134">Autodesk AutoCAD</a></li>
 <li><a href="/recommended/Recommended-Systems-for-NVIDIA-DIGITS-Caffe-174">Machine Learning</a></li>
+</ul>
+</div>
+<div class="col-sm-2 col-xs-6 puget-footer-list small">
+<ul id="puget-footer_sublist_workstations">
+<li><h5>Workstations</h5></li>
+<li><a href="/solutions/content_creation/index.php">Content Creation</a></li>
+
+<li><a href="/solutions/engineering/index.php">Engineering</a></li>
+<li><a href="/solutions/scientific/index.php">Scientific PCs</a></li>
+<li><a href="/solutions/more/index.php">More</a></li>
 </ul>
 </div>
 <div class="clearfix visible-xs-block"></div>
@@ -406,7 +416,7 @@ document.write(user + '@' + site + '</a>');
 </div>
 </footer>
 </div>
-<script type="text/javascript" src="/static/js/51/js_bootstrap.js"></script>
+<script type="text/javascript" src="/static/js/54/js_bootstrap.js"></script>
 <script type="text/javascript">
 		$(document).ready(function(){
 						
@@ -431,6 +441,6 @@ document.write(user + '@' + site + '</a>');
 
 <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/4867918.js"></script>
 
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"14a341229f","applicationID":"168535347","transactionName":"Z1cDZkdWWBcFV0BeWV4dNEBcGEYWDUJVVE8eQglC","queueTime":0,"applicationTime":45,"atts":"SxAAEA9MSxk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button type="button" id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
