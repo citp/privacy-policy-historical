@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domestically-speaking.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926174824id_/https%3A//www.domestically-speaking.com/wp-content/uploads/2014/04/DomesticPrivacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domestically-speaking.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821215719id_/https%3A//www.domestically-speaking.com/wp-content/uploads/2014/04/DomesticPrivacy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
