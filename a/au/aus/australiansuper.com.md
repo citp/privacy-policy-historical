@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612043710id_/https%3A//www.australiansuper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821062346id_/https%3A//www.australiansuper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AustralianSuper
 
