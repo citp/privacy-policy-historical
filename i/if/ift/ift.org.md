@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630151042id_/https%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821150304id_/https%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IFT.org
 
@@ -60,7 +60,7 @@ Please note IFT works with Service Providers (as defined below) to handle paymen
 
 ### Additional Restrictions on Collection and Use of Sensitive Data
 
-IFT also collects sensitive categories of data, as defined by GDPR, including race, ethnicity, native language, gender identity, and sexual orientation. IFT obtains explicit consent to gather these categories of sensitive data before we accept them from any individual and store them in our database. IFT uses these categories of sensitive data to measure progress in developing a diverse and inclusive membership community at IFT, and to conduct activities that promote ongoing development of a diverse and inclusive membership community. IFT does not share sensitive data with service providers or other third parties except as may be required by law. IFT does not display sensitive data to the public. IFT limits access to sensitive data by IFT personnel to a small group that needs such access in order to measure and promote development of a diverse and inclusive membership community at IFT.
+IFT also collects sensitive categories of data, as defined by GDPR, including race, ethnicity, native language, gender identity, and sexual orientation. IFT obtains explicit consent to gather these categories of sensitive data before we accept them from any individual and store them in our database. IFT uses these categories of sensitive data to measure progress in developing a diverse and inclusive membership community at IFT, and to conduct activities that promote ongoing development of a diverse and inclusive membership community. IFT does not share sensitive data with service providers or other third parties except as may be required by law. IFT does not display personally-identifiable sensitive data to the public. IFT limits access to sensitive data by IFT personnel to a small group that needs such access in order to measure and promote development of a diverse and inclusive membership community at IFT.
 
 ### Your Rights and Choices Regarding Your Information
 
