@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbican.org.uk privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411174904id_/https%3A//www.barbican.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbican.org.uk privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821064006id_/https%3A//www.barbican.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Barbican
 
