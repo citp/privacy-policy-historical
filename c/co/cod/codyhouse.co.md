@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codyhouse.co privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401144341id_/https%3A//codyhouse.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codyhouse.co privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822001332id_/https%3A//codyhouse.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CodyHouse
 
@@ -28,10 +28,8 @@ Google Analytics sets the following cookies:
 
 Name | Purpose | Expires   
 ---|---|---  
-_ga | This helps us count how many people visit our website   
-by tracking if you’ve visited before | 2 years  
-_gid | This helps us count how many people visit our website   
-by tracking if you’ve visited before | 24 hours  
+_ga | This helps us count how many people visit our website by tracking if you’ve visited before | 2 years  
+_gid | This helps us count how many people visit our website by tracking if you’ve visited before | 24 hours  
 _gat | Used to manage the rate at which page view requests are made | 10 minutes  
   
 You can [opt out of Google Analytics cookies](https://tools.google.com/dlpage/gaoptout).
@@ -46,3 +44,5 @@ Amber Creative Lab Ltd
 86-90 Paul Street   
 London   
 EC2A 4NE 
+
+Project duplicated.
