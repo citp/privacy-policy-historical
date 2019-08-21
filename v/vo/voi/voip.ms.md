@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voip.ms privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409040244id_/https%3A//voip.ms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip.ms privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821205349id_/https%3A//voip.ms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | VoIP.ms
 
