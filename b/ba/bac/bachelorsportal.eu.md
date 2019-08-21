@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachelorsportal.eu privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629175050id_/http%3A//www.studyportals.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachelorsportal.eu privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821131829id_/http%3A//www.studyportals.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Studyportals
 
