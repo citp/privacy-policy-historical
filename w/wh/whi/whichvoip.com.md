@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whichvoip.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618030609id_/http%3A//www.whichvoip.com/common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichvoip.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821205340id_/https%3A//www.whichvoip.com/common/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | WhichVoIP
 
-_Last Updated: December 22nd, 2011_
+_Last Updated: February 8th, 2019_
 
 **www.whichvoip.com("WhichVoIP", "we", "our")** is committed to protecting the privacy of visitors on-line while interacting with the content, products and services on this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. This Privacy Policy describes in some detail the information that we collect from you ( **or "User"** ) as part of the normal operation of our service, and what may happen to the information we collect.
 
@@ -124,9 +124,4 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us.](https://web.archive.org/web/20120618030609id_/http%3A//www.whichvoip.com/common/contact_us.htm)
-
-## Share using the social media buttons below
-
-  *   *   *   * 
-
+If you have any questions or suggestions regarding our privacy policy, please [Contact Us](https://web.archive.org/web/20190821205340id_/https%3A//www.whichvoip.com/common/contact_us.htm).
