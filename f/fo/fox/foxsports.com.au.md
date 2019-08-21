@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408143044id_/https%3A//www.foxsports.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822002906id_/https%3A//www.foxsports.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | FOX SPORTS
 
