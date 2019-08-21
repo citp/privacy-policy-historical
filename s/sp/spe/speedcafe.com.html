@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the speedcafe.com privacy policy that was archived on 2018-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123061559id_/https%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedcafe.com privacy policy that was archived on 2019-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190821035213id_/https%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-<title>Speedcafe Pty Ltd Privacy Policy - Speedcafe</title>
+<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<title>Speedcafe Pty Ltd Privacy Policy | </title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=4.0, minimum-scale=1.0">
 <link rel="stylesheet" type="text/css" media="all" href="https://media.speedcafe.com/wp-content/themes/speedcafe/style.css">
 <link rel="stylesheet" type="text/css" media="all" href="https://media.speedcafe.com/wp-content/themes/speedcafe/frontend/css/style-ads.css">
@@ -30,25 +30,17 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-TileImage" content="https://media4.speedcafe.com/wp-content/themes/speedcafe/images/favicons/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
-
-<meta name="news_keywords" content="motorsport, cars, sports">
-<meta name="original-source" content="https://www.speedcafe.com/privacy-policy/">
-<link rel="canonical" href="https://www.speedcafe.com/privacy-policy/">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Speedcafe Pty Ltd Privacy Policy - Speedcafe">
-<meta property="og:description" content="How to contact us Speedcafe Pty Ltd is committed to working with our readers to obtain a fair resolution of any complaint or concern about privacy. To contact us with a compliment or complaint or a privacy question, you can: Write to us Speedcafe Pty Ltd PO Box&nbsp;945 Paradise Point&nbsp;4216 ; OR Call our office …">
-<meta property="og:url" content="https://www.speedcafe.com/privacy-policy/">
-<meta property="og:site_name" content="Speedcafe">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.speedcafe.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.speedcafe.com\/privacy-policy\/","name":"Speedcafe Pty Ltd Privacy Policy"}}]}</script>
-
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<style id="kirki-css-vars">:root{}</style><link rel="dns-prefetch" href="//ajax.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Speedcafe » Feed" href="https://www.speedcafe.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Speedcafe » Comments Feed" href="https://www.speedcafe.com/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://media2.speedcafe.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <link rel="https://api.w.org/" href="https://www.speedcafe.com/wp-json/">
-<meta name="generator" content="WordPress 4.9.7">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.speedcafe.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.speedcafe.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 5.2.2">
+<link rel="canonical" href="https://www.speedcafe.com/privacy-policy/">
 <link rel="shortlink" href="https://www.speedcafe.com/?p=45839">
 <link rel="alternate" type="application/json+oembed" href="https://www.speedcafe.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.speedcafe.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.speedcafe.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.speedcafe.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -158,7 +150,7 @@
 <input type="text" value="" name="s" id="s-header" placeholder="SEARCH SPEEDCAFE">
 </div>
 <button class="animate" type="submit">
- <img class="injectSvg" src="https://www.speedcafe.com/wp-content/themes/speedcafe/images/icon-search.svg" alt="Search">
+<img class="injectSvg" src="https://www.speedcafe.com/wp-content/themes/speedcafe/images/icon-search.svg" alt="Search">
 </button>
 </form>
 </div>
@@ -168,25 +160,25 @@
 <ul class="mainNav animate navObj js-mainNav" id="mainNav">
 <li id="menu-item-287190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287190"><a href="/">Home</a></li><li id="menu-item-287709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-287709"><a href="https://www.speedcafe.com/motorsport-news/">News</a>
 <ul class="sub-menu">
-<li id="menu-item-287192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287192"><a href="https://www.speedcafe.com/category/news/supercars/">Supercars</a></li><li id="menu-item-287203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287203"><a href="https://www.speedcafe.com/category/news/formula1/">Formula 1</a></li><li id="menu-item-303238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-303238"><a href="https://www.speedcafe.com/category/news/bikes/">MotoGP</a></li><li id="menu-item-287206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287206"><a href="https://www.speedcafe.com/category/news/indycar/">IndyCar</a></li><li id="menu-item-287208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287208"><a href="https://www.speedcafe.com/category/news/nascar/">NASCAR</a></li><li id="menu-item-287210" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287210"><a href="https://www.speedcafe.com/category/news/rally/">Rally</a></li><li id="menu-item-287710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287710"><a href="https://www.speedcafe.com/motorsport-news/">View All News</a></li>
+<li id="menu-item-287192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287192"><a href="https://www.speedcafe.com/category/news/supercars/">Supercars</a></li><li id="menu-item-446958" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-446958"><a href="https://www.speedcafe.com/category/news/national-news/tcr/">TCR Australia</a></li><li id="menu-item-287203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287203"><a href="https://www.speedcafe.com/category/news/formula1/">Formula 1</a></li><li id="menu-item-303238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-303238"><a href="https://www.speedcafe.com/category/news/bikes/">MotoGP</a></li><li id="menu-item-287206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287206"><a href="https://www.speedcafe.com/category/news/indycar/">IndyCar</a></li><li id="menu-item-451520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-451520"><a href="https://www.speedcafe.com/category/news/women/">Women in Motorsport</a></li><li id="menu-item-287710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287710"><a href="https://www.speedcafe.com/motorsport-news/">View All News</a></li>
 </ul>
 </li><li id="menu-item-287717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-287717"><a href="https://www.speedcafe.com/motorsport-calendar/">Calendar</a>
 <ul class="sub-menu">
-<li id="menu-item-287711" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287711"><a href="https://www.speedcafe.com/event-category/supercars-events/">Supercars</a></li><li id="menu-item-287712" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287712"><a href="https://www.speedcafe.com/event-category/formula-1-events/">Formula 1</a></li><li id="menu-item-287713" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287713"><a href="https://www.speedcafe.com/event-category/motogp-events/">MotoGP</a></li><li id="menu-item-287714" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287714"><a href="https://www.speedcafe.com/event-category/indycar-events/">Indycar</a></li><li id="menu-item-287715" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287715"><a href="https://www.speedcafe.com/event-category/nascar-events/">NASCAR</a></li><li id="menu-item-322041" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-322041"><a href="https://www.speedcafe.com/event-category/wrc-events/">Rally</a></li><li id="menu-item-287733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287733"><a href="https://www.speedcafe.com/motorsport-calendar/">View All Events</a></li>
+<li id="menu-item-287711" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287711"><a href="https://www.speedcafe.com/event-category/supercars-events/">Supercars</a></li><li id="menu-item-443831" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-443831"><a href="https://www.speedcafe.com/event-category/touring-car-racing/">TCR Australia</a></li><li id="menu-item-287712" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287712"><a href="https://www.speedcafe.com/event-category/formula-1-events/">Formula 1</a></li><li id="menu-item-287713" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287713"><a href="https://www.speedcafe.com/event-category/motogp-events/">MotoGP</a></li><li id="menu-item-287715" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287715"><a href="https://www.speedcafe.com/event-category/nascar-events/">NASCAR</a></li><li id="menu-item-287714" class="menu-item menu-item-type-taxonomy menu-item-object-event-category menu-item-287714"><a href="https://www.speedcafe.com/event-category/indycar-events/">IndyCar</a></li><li id="menu-item-287733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287733"><a href="https://www.speedcafe.com/motorsport-calendar/">View All Events</a></li>
 </ul>
 </li><li id="menu-item-287718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-287718"><a href="https://www.speedcafe.com/motorsport-results/">Results</a>
 <ul class="sub-menu">
-<li id="menu-item-287719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287719"><a href="https://www.speedcafe.com/event-category/supercars-events/?results=true">Supercars</a></li><li id="menu-item-287720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287720"><a href="https://www.speedcafe.com/event-category/formula-1-events/?results=true">Formula 1</a></li><li id="menu-item-287721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287721"><a href="https://www.speedcafe.com/event-category/motogp-events/?results=true">Motogp</a></li><li id="menu-item-287722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287722"><a href="https://www.speedcafe.com/event-category/indycar-events/?results=true">Indycar</a></li><li id="menu-item-287723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287723"><a href="https://www.speedcafe.com/event-category/nascar-events/?results=true">NASCAR</a></li><li id="menu-item-287724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287724"><a href="https://www.speedcafe.com/event-category/wrc-events/?results=true">Rally</a></li><li id="menu-item-287734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287734"><a href="https://www.speedcafe.com/motorsport-results/">View All Results</a></li>
+<li id="menu-item-287719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287719"><a href="https://www.speedcafe.com/event-category/supercars-events/?results=true">Supercars</a></li><li id="menu-item-446969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-446969"><a href="https://www.speedcafe.com/event-category/touring-car-racing/?results=true">TCR Australia</a></li><li id="menu-item-287722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287722"><a href="https://www.speedcafe.com/event-category/indycar-events/?results=true">Indycar</a></li><li id="menu-item-287720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287720"><a href="https://www.speedcafe.com/event-category/formula-1-events/?results=true">Formula 1</a></li><li id="menu-item-287721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287721"><a href="https://www.speedcafe.com/event-category/motogp-events/?results=true">MotoGP</a></li><li id="menu-item-287734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287734"><a href="https://www.speedcafe.com/motorsport-results/">View All Results</a></li>
 </ul>
 </li><li id="menu-item-287725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-287725"><a href="https://www.speedcafe.com/motorsport-features/">Features</a>
 <ul class="sub-menu">
-<li id="menu-item-427075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427075"><a href="https://www.speedcafe.com/category/features/falcon-memories/">Falcon Memories</a></li><li id="menu-item-287726" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287726"><a href="https://www.speedcafe.com/category/features/live-updates/">Live Updates</a></li><li id="menu-item-319723" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-319723"><a href="https://www.speedcafe.com/category/features/poll/">Pirtek Poll</a></li><li id="menu-item-390887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390887"><a href="https://www.speedcafe.com/motorsport-quiz/">Motorsport Quiz</a></li><li id="menu-item-319570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-319570"><a href="https://www.speedcafe.com/category/features/event-guides/">Event Guides</a></li><li id="menu-item-412426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412426"><a href="https://www.speedcafe.com/competitions/">Competitions</a></li><li id="menu-item-287732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287732"><a href="https://www.speedcafe.com/motorsport-features/">View All Features</a></li>
+<li id="menu-item-287726" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287726"><a href="https://www.speedcafe.com/category/features/live-updates/">Live Updates</a></li><li id="menu-item-319723" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-319723"><a href="https://www.speedcafe.com/category/features/poll/">Pirtek Poll</a></li><li id="menu-item-390887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390887"><a href="https://www.speedcafe.com/motorsport-quiz/">Motorsport Quiz</a></li><li id="menu-item-319570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-319570"><a href="https://www.speedcafe.com/category/features/event-guides/">Event Guides</a></li><li id="menu-item-412426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412426"><a href="https://www.speedcafe.com/competitions/">Competitions</a></li><li id="menu-item-287732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287732"><a href="https://www.speedcafe.com/motorsport-features/">View All Features</a></li>
 </ul>
 </li><li id="menu-item-287728" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287728"><a href="https://www.speedcafe.com/category/multimedia/gallery/">Images</a></li><li id="menu-item-287735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-287735"><a href="https://www.speedcafe.com/motorsport-video/">Videos</a>
 <ul class="sub-menu">
-<li id="menu-item-368454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-368454"><a href="https://www.speedcafe.com/category/features/live-streams/">Live Streaming</a></li><li id="menu-item-287736" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287736"><a href="https://www.speedcafe.com/category/multimedia/speedcafe-tv/">Speedcafe TV</a></li><li id="menu-item-346516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346516"><a href="https://www.speedcafe.com/category/videos/armor-all-summer-grill">Summer Grill</a></li><li id="menu-item-287737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287737"><a href="https://www.speedcafe.com/category/multimedia/favourite-flick/">Favourite Flick</a></li><li id="menu-item-287738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287738"><a href="https://www.speedcafe.com/category/multimedia/talking-tech/">Talking Tech</a></li>
+<li id="menu-item-368454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-368454"><a href="https://www.speedcafe.com/category/features/live-streams/">Live Streaming</a></li><li id="menu-item-287736" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287736"><a href="https://www.speedcafe.com/category/multimedia/speedcafe-tv/">Speedcafe TV</a></li><li id="menu-item-287738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287738"><a href="https://www.speedcafe.com/category/multimedia/talking-tech/">Talking Tech</a></li><li id="menu-item-346516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346516"><a href="https://www.speedcafe.com/category/videos/armor-all-summer-grill">Summer Grill</a></li><li id="menu-item-287737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287737"><a href="https://www.speedcafe.com/category/multimedia/favourite-flick/">Favourite Flick</a></li>
 </ul>
-</li><li id="menu-item-287236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287236"><a href="/news_extra">News Extra</a></li><li id="menu-item-287230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287230"><a href="http://www.jobstop.com">Jobs</a></li><li id="menu-item-287231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287231"><a href="http://classifieds.speedcafe.com">Classifieds</a></li><li id="menu-item-287232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287232"><a href="https://www.speedcafe.com/partners/">Partners</a></li>
+</li><li id="menu-item-287236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287236"><a href="/news_extra">News Extra</a></li><li id="menu-item-287231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287231"><a href="http://classifieds.speedcafe.com">Classifieds</a></li><li id="menu-item-287230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287230"><a href="http://www.jobstop.com">Jobs</a></li><li id="menu-item-287232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287232"><a href="https://www.speedcafe.com/partners/">Partners</a></li>
 </ul>
 <button class="searchFormToggle animate js-searchFormToggle show-740">
 <img class="injectSvg" src="https://www.speedcafe.com/wp-content/themes/speedcafe/images/icon-search.svg" alt="Search">
@@ -196,7 +188,7 @@
 <div id="categoryNavContainer" class="categoryNavContainer navObjContainer">
 <div class="wrapper">
 <ul class="categoryNav animate navObj js-categoryNav" id="categoryNav">
-<li id="menu-item-287899" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287899"><a href="https://www.speedcafe.com/category/news/supercars/">Supercars</a></li><li id="menu-item-287887" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287887"><a href="https://www.speedcafe.com/category/news/super2/">Super2</a></li><li id="menu-item-287891" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287891"><a href="https://www.speedcafe.com/category/news/formula1/">F1</a></li><li id="menu-item-287892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287892"><a href="https://www.speedcafe.com/category/news/gt/">GT</a></li><li id="menu-item-380484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380484"><a href="https://www.speedcafe.com/category/news/v8utes-superutes/">SuperUtes</a></li><li id="menu-item-287886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287886"><a href="https://www.speedcafe.com/category/news/carrera-cup/">Carrera Cup</a></li><li id="menu-item-287889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287889"><a href="https://www.speedcafe.com/category/news/national-news/">National</a></li><li id="menu-item-380487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380487"><a href="https://www.speedcafe.com/category/news/karting/">Karts</a></li><li id="menu-item-287890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287890"><a href="https://www.speedcafe.com/category/news/new-zealand/">NZ</a></li><li id="menu-item-380486" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380486"><a href="https://www.speedcafe.com/category/news/fia-formula-e-championship/">Formula E</a></li><li id="menu-item-287893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287893"><a href="https://www.speedcafe.com/category/news/indycar/">IndyCar</a></li><li id="menu-item-287896" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287896"><a href="https://www.speedcafe.com/category/news/nascar/">NASCAR</a></li><li id="menu-item-287897" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287897"><a href="https://www.speedcafe.com/category/news/rally/">Rally</a></li><li id="menu-item-287894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287894"><a href="https://www.speedcafe.com/category/news/international-news/">Global</a></li><li id="menu-item-303217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-303217"><a href="https://www.speedcafe.com/category/news/bikes/">Bikes</a></li><li id="menu-item-380483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380483"><a href="https://www.speedcafe.com/category/news/offroad/">Offroad</a></li><li id="menu-item-303225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-303225"><a href="https://www.speedcafe.com/category/news/drags/">Drags</a></li><li id="menu-item-287898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287898"><a href="https://www.speedcafe.com/category/news/speedway/">Speedway</a></li>
+<li id="menu-item-287899" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287899"><a href="https://www.speedcafe.com/category/news/supercars/">Supercars</a></li><li id="menu-item-446570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-446570"><a href="https://www.speedcafe.com/category/news/super2-super3/">Super2/3</a></li><li id="menu-item-287891" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287891"><a href="https://www.speedcafe.com/category/news/formula1/">F1</a></li><li id="menu-item-287892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287892"><a href="https://www.speedcafe.com/category/news/gt/">GT</a></li><li id="menu-item-380484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380484"><a href="https://www.speedcafe.com/category/news/v8utes-superutes/">Utes</a></li><li id="menu-item-287886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287886"><a href="https://www.speedcafe.com/category/news/carrera-cup/">Carrera Cup</a></li><li id="menu-item-445820" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-445820"><a href="https://www.speedcafe.com/category/news/national-news/tcr/">TCR</a></li><li id="menu-item-451522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-451522"><a href="https://www.speedcafe.com/category/news/women/">Women</a></li><li id="menu-item-287889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287889"><a href="https://www.speedcafe.com/category/news/national-news/">National</a></li><li id="menu-item-287890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287890"><a href="https://www.speedcafe.com/category/news/new-zealand/">NZ</a></li><li id="menu-item-380486" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380486"><a href="https://www.speedcafe.com/category/news/fia-formula-e-championship/">Formula E</a></li><li id="menu-item-287893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287893"><a href="https://www.speedcafe.com/category/news/indycar/">IndyCar</a></li><li id="menu-item-380487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380487"><a href="https://www.speedcafe.com/category/news/karting/">Karts</a></li><li id="menu-item-287896" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287896"><a href="https://www.speedcafe.com/category/news/nascar/">NASCAR</a></li><li id="menu-item-287897" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287897"><a href="https://www.speedcafe.com/category/news/rally/">Rally</a></li><li id="menu-item-287894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287894"><a href="https://www.speedcafe.com/category/news/international-news/">Global</a></li><li id="menu-item-303217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-303217"><a href="https://www.speedcafe.com/category/news/bikes/">Bikes</a></li><li id="menu-item-380483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380483"><a href="https://www.speedcafe.com/category/news/offroad/">Offroad</a></li><li id="menu-item-287898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287898"><a href="https://www.speedcafe.com/category/news/speedway/">Speedway</a></li>
 <li class="allCategories">
 <a href="https://www.speedcafe.com/motorsport-news/">
 All Categories
@@ -205,6 +197,188 @@ All Categories
 </ul>
 </div>
 </div>
+<style>
+.marqueeContainer {
+	border-top: 1px solid #454545;
+	height: 30px;
+	height: 1.875rem;
+	background-color: #000;
+	margin-bottom: 10px;
+	margin-bottom: 0.625rem;
+	overflow: hidden;
+	margin-top: -10px;
+	margin-top: -0.625rem;
+}
+.marqueeContainer .wrapper {
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: stretch;
+}
+.marqueeContainer .wrapper h3 {
+	line-height: 29px;
+	line-height: 1.8125rem;
+	background-color: #0b9444;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 0 12px;
+	padding: 0 0.75rem;
+	font-size: 10px;
+	font-size: 0.625rem;
+	flex-shrink: 0;
+}
+.marqueeContainer .wrapper .marquee {
+	overflow: hidden;
+	width: 100%;
+}
+.marqueeContainer .wrapper .marquee .text {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	flex-wrap: nowrap;
+}
+
+.marqueeContainer .wrapper .marquee .text p {
+	font-size: 12px;
+	font-size: 0.75rem;
+	line-height: 29px;
+	line-height: 1.8125rem;
+	opacity: 0;
+	color: #c0c0c6;
+}
+.marqueeContainer .wrapper .marquee .js-marquee-wrapper .text p {
+	opacity: 1;
+}
+.marqueeContainer .wrapper .marquee .text p:after {
+	content: '·';
+	display: inline-block;
+	margin: 0 8px 0 4px;
+	margin: 0 0.5rem 0 0.25rem;
+	font-weight: 700;
+}
+.marqueeContainer .wrapper .marquee .text p:last-child:after {
+	display: none;
+}
+.marqueeContainer .wrapper .marquee .text p a {
+	text-decoration: none;
+	color: #c0c0c6;
+}
+.marqueeContainer .wrapper .marquee .text p a:hover,
+.marqueeContainer .wrapper .marquee .text p a:focus {
+	color: #fff;
+}
+.marqueeContainer .wrapper .marquee .text p a span {
+	color: #f08220;
+}
+.marqueeContainer .wrapper .marquee .text p a:hover span,
+.marqueeContainer .wrapper .marquee .text p a:focus span {
+	color: #fff;
+}
+
+/* 740px */
+@media (min-width: 46.25em) {
+	.marqueeContainer .wrapper h3 {
+		font-size: 12px;
+		font-size: 0.75rem;
+	}
+}
+
+/* 940px */
+@media (min-width: 58.75rem) {
+	.marqueeContainer .wrapper {
+		padding: 0 12px;
+		padding: 0 0.75rem;
+	}
+}
+
+/* 1540px */
+@media (min-width: 96.25em) {
+	.marqueeContainer .wrapper {
+		padding: 0 20px;
+		padding: 0 1.25rem;
+	}
+}
+</style>
+<div class="marqueeContainer font-play">
+<div class="wrapper">
+<h3>LATEST:</h3>
+<div class="marquee js-marquee">
+<div class="text">
+<p>
+<a href="https://www.speedcafe.com/2019/08/21/video-rallye-deutschland-preview/">
+VIDEO: Rallye Deutschland preview <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/21/lorenzo-to-make-return-at-silverstone/">
+Lorenzo to make return at Silverstone <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/21/triple-eight-joins-supercars-eseries/">
+Triple Eight joins Supercars Eseries <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/21/cams-lifts-ban-on-stadium-super-trucks/">
+CAMS lifts ban on Stadium Super Trucks <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/21/tickford-reveals-special-moffat-trans-am-mustang/">
+Tickford reveals special Moffat Trans-Am Mustang <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/21/gallery-tickford-trans-am-mustang/">
+GALLERY: Tickford Trans-Am Mustang <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/21/boris-said-mclaughlin-would-find-nascar-easier-than-ambrose-did/">
+Boris Said: McLaughlin would find NASCAR easier than Ambrose did <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/20/new-colours-for-percat-at-the-bend/">
+New colours for Percat at The Bend <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/20/video-di-resta-blows-up-on-radio-in-dtm/">
+VIDEO: Di Resta blows up on radio in DTM <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/20/the-bend-lmp3-demo-cancelled/">
+The Bend LMP3 demo cancelled <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/20/five-race-schedule-for-tcm-at-sydney-motorsport-park/">
+Five-race schedule for TCM at Sydney Motorsport Park <span class="readMore">&gt; View</span>
+</a>
+</p>
+<p>
+<a href="https://www.speedcafe.com/2019/08/20/cox-to-complete-tcr-aus-season-with-grm/">
+Cox to complete TCR Aus season with GRM <span class="readMore">&gt; View</span>
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<script src="//cdn.jsdelivr.net/npm/jquery.marquee@1.5.0/jquery.marquee.min.js" type="text/javascript"></script>
+<script>
+jQuery(document).ready(function($) { // no conflict mode
+	$('.js-marquee').marquee({
+		speed: 50,
+		pauseOnHover: true
+	});
+});
+</script>
 <div class="leaderFullAdContainer">
 <div class="wrapper">
 <div class="lazyAd" data-target="tablet,desktop" data-src="leader-full" data-sponsor=""></div>
@@ -249,7 +423,7 @@ Paradise Point&nbsp;4216 ; OR</li>
 <p>At Speedcaft Pty Ltd we know that when you give us your personal information, it imposes a serious responsibility upon us. We are committed to protecting your personal information and maintaining your trust.</p>
 <p>This Privacy Policy describes the information that may be collected by Speedcafe Pty Ltd, the choices you can make about your personal information and how we protect your personal information.</p>
 <h3>Why we collect personal information and how we may use it</h3>
-<p>Generally, Speedcafe Pty Ltd will collect personal information directly from you, and only to the extent necessary to provide a Speedcafe Pty Ltd product or service, including our agency functions, or to carry out our internal administrative operations. An agency function means a service that we provide to you on behalf of another organisation, such as our POSTbillpay and <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d795b6b9bc9787b8a4a3">[email&nbsp;protected]</a> services.</p>
+<p>Generally, Speedcafe Pty Ltd will collect personal information directly from you, and only to the extent necessary to provide a Speedcafe Pty Ltd product or service, including our agency functions, or to carry out our internal administrative operations. An agency function means a service that we provide to you on behalf of another organisation, such as our POSTbillpay and <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="793b1817123929160a0d">[email&nbsp;protected]</a> services.</p>
 <p>We may collect personal information from you when;</p>
 <ul>
 <li>register your details on either Speedcafe.com or Speedcafe.co.nz.</li>
@@ -794,9 +968,9 @@ The Australian Information Commissioner</li>
 </li> </ul>
 <div class="footerInfo">
 <ul class="footerNav" id="footerNav">
-<li id="menu-item-287233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287233"><a href="https://www.speedcafe.com/contact-us/">Contact Us</a></li><li id="menu-item-390955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390955"><a href="https://www.speedcafe.com/authors/">Our Team</a></li><li id="menu-item-287931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287931"><a href="https://www.speedcafe.com/advertise-with-speedcafe-com/">Advertise with Speedcafe</a></li><li id="menu-item-351613" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45839 current_page_item menu-item-351613"><a href="https://www.speedcafe.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-287233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287233"><a href="https://www.speedcafe.com/contact-us/">Contact Us</a></li><li id="menu-item-390955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390955"><a href="https://www.speedcafe.com/authors/">Our Team</a></li><li id="menu-item-287931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287931"><a href="https://www.speedcafe.com/advertise-with-speedcafe-com/">Advertise with Speedcafe</a></li><li id="menu-item-351613" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45839 current_page_item menu-item-351613"><a href="https://www.speedcafe.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
 </ul>
-<p class="copyright">All material copyright © 2018 : Speedcafe.com</p>
+<p class="copyright">All material copyright © 2019 : Speedcafe.com</p>
 </div>
 </div>
 </div>
@@ -860,7 +1034,9 @@ jQuery(document).ready(function($) { // no conflict mode
                 thisObj.attr('src', newSrc);
             }
             if(thisObj.attr('src').indexOf('//www.facebook.com/plugins/video.php') > -1) {
-                thisObj.wrap('<div class="videoContainer"></div>');
+                if(thisObj.attr('width') > thisObj.attr('height')) {
+                    thisObj.wrap('<div class="videoContainer"></div>');
+                }
             }
         }
     });
@@ -964,8 +1140,9 @@ jQuery(document).ready(function($) { // no conflict mode
     var stickyNav;
     var currentScreen = 'mobile';
     var adUrl = 'https://www.speedcafe.com/wp-content/themes/speedcafe/includes/action-get-ad.php';
-    var contentUrl = 'https://media3.speedcafe.com/wp-content/themes/speedcafe/cached/';
-
+    	var contentUrl = 'https://media3.speedcafe.com/wp-content/themes/speedcafe/cached/';
+		
+	
     Modernizr.load([
         { //first test need for matchMedia polyfill
             test: window.matchMedia,
@@ -1063,13 +1240,7 @@ jQuery(document).ready(function($) { // no conflict mode
     ]);
 });
 </script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var countVars = {"disqusShortname":"speedcafe"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.speedcafe.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16"></script>
-<script type="text/javascript" src="https://media2.speedcafe.com/wp-includes/js/wp-embed.min.js?ver=4.9.7"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"31f9f98c3e","applicationID":"31801250","transactionName":"NFVVYBZXW0RSW0YIVg0fYkYNGVxZV11KT0kLQA==","queueTime":0,"applicationTime":6,"atts":"GBJWFl5NSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="https://media2.speedcafe.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5437fdc6cb","applicationID":"179531169","transactionName":"blQENUUACERYAkwKC1ceJwJDCAlZFhFZBAE=","queueTime":0,"applicationTime":132,"atts":"QhMHQw0aG0o=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
