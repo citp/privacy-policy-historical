@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601094217id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821110704id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | Deakin
 
@@ -23,7 +23,7 @@ Your privacy is important to us so each time you communicate with Deakin, you'll
 
  When you visit our campuses, your personal information is collected in the following ways:
 
-### Surveillance cameras
+###  Surveillance cameras
 
 Deakin has installed surveillance cameras across its campuses to:
 
@@ -35,7 +35,7 @@ Deakin has installed surveillance cameras across its campuses to:
 
 Surveillance camera recordings are used to enable investigations of incidents on campus and for business purposes such as planning and analysis.
 
-### Location tracking
+###  Location tracking
 
 Smartphone technology allows location-based services to be made available to Deakin campus visitors – and for location-based data to be collected.
 
@@ -47,11 +47,11 @@ Location-based data is also collected to monitor and analyse traffic patterns, s
 
 When you visit our site, personal information is collected as follows:
 
-### Automated collection of information
+###  Automated collection of information
 
 As you browse, we may collect personal information and other data about you from your computer. The various mechanisms used include server logs, proxy logs and cookies.
 
-### Cookies
+###  Cookies
 
 A cookie is a small text file which has a limited lifetime. Information supplied by cookies helps us understand how people use our site, so that we can analyse the data to give site visitors a better user experience.
 
@@ -63,7 +63,7 @@ Deakin uses cookies to:
 
 
 
-### Doubleclick and Google Analytics
+###  Doubleclick and Google Analytics
 
 Deakin uses DoubleClick, which tailors your browsing experience by placing information about our university on third party websites. For this purpose, the cookie collects your IP address, browser type, browser language, date and time of your request, and the identity of your browser - but does not collect personally-identifying information. The cookie remains active for 30 days after each visit you make to Deakin's website. For further information about this, please visit the [DoubleClick cookies webpage.](https://support.google.com/dfp_premium/answer/2839090?hl=en)
 
@@ -73,7 +73,7 @@ You may choose not to receive cookies by [opting-out of DoubleClick](https://sup
 
 Web browser software also contains a function enabling you to delete all cookies on your computer's hard drive. Please bear in mind that if you choose to block the installation of cookies, you might not be able to access some pages of Deakin's site without re-authenticating on each visit.
 
-### User-supplied information
+###  User-supplied information
 
 Some of Deakin's site pages may ask you to supply personal information to:
 
@@ -148,7 +148,7 @@ If privacy legislation authorises Deakin to disclose information, we will assess
 
 Guidance on frequently encountered requests for disclosure of personal information is below.
 
-### Parents of students
+###  Parents of students
 
 Deakin frequently receives requests from parents to confirm that their child is attending classes or making good academic progress. We're unable to provide personal information about students to their parents unless the student has given their explicit consent. This is regardless of whether the student in question is under 18 or if the parent is paying their fees and/or expenses.
 
@@ -164,7 +164,7 @@ Deakin's Division of Student Administration (DSA) has a form available for this 
 
 Deakin must be satisfied that the consent is valid, that the request falls within the scope of the consent, and that the identity of the student and the recipient of the information has been confirmed.
 
-### Law enforcement agencies
+###  Law enforcement agencies
 
 Information Privacy Principle 2.2(g) of the _Privacy and Data Protection Act 2014_  and Health Privacy Principle 2.2(j) of the _Health Records Act 2001_ set out the circumstances in which Deakin is authorised to disclose personal information to law enforcement agencies.
 
@@ -179,13 +179,13 @@ Requests from law enforcement agencies must:
 
 Deakin releases information when legally required to do so. Search warrants, subpoenas and court orders should be served on the University Solicitor (1 Gheringhap Street, Geelong 3220).
 
-### Employers and recruitment agencies
+###  Employers and recruitment agencies
 
 Prospective employers and recruitment agencies often seek to verify that a student has received an award (a degree, graduate certificate or graduate diploma) from Deakin.
 
 To facilitate this, Deakin maintains [GradSearch](http://www.deakin.edu.au/gradsearch), an online qualification verification tool. To search for a graduate, two search items from the following list must be provided: surname / date of birth / student ID. Please note that GradSearch does not provide a full transcript of results.
 
-### Law firms
+###  Law firms
 
 ## Unsubscribe requests
 
@@ -204,15 +204,15 @@ Requests for access to, and correction of personal information are managed under
 
 ## Information for Individuals located in the EU 
 
-### Authority
+###  Authority
 
 Deakin University manages personal information under the authority of the _Deakin University Act 2009_ (Vic).  It also processes your personal information where relevant to its legitimate interests and its legal and regulatory obligations.
 
-### Data Protection Officer
+###  Data Protection Officer
 
 The University Privacy Officer, Shirley Rooney, is Deakin’s Data Protection Officer for purposes of the General Data Protection Regulation 2016 ( **GDPR** ).
 
-### Data Subject Rights
+###  Data Subject Rights
 
 You have the following data subject rights:
 
