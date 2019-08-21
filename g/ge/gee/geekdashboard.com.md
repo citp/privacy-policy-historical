@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekdashboard.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516094859id_/https%3A//www.geekdashboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekdashboard.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821050544id_/https%3A//www.geekdashboard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
