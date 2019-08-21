@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinsystem.co.uk privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609213634id_/https%3A//pinsystem.co.uk/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinsystem.co.uk privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821224619id_/https%3A//pinsystem.co.uk/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Pin System
 
