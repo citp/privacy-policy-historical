@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529172717id_/https%3A//www.barnet.gov.uk/your-council/policies-plans-and-performance/privacy-policies/website-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821081123id_/https%3A//www.barnet.gov.uk/your-council/policies-plans-and-performance/privacy-notices/privacy-notice) for the most accurate reproduction.*
 
-# Website privacy notice | Barnet Council
+# Privacy notice | Barnet Council
 
 This privacy notice is here to tell you what information we collect about you, what we do with that information and why we do it, who we share it with, and how we protect your privacy.
+
+Privacy notices for specific services can be found here:
+
+  * [Children and families privacy notices](https://admin.barnet.gov.uk/your-council/policies-plans-and-performance/privacy-policies/children-and-families-privacy-notices)
+  * [Community and health privacy notices](https://admin.barnet.gov.uk/your-council/policies-plans-and-performance/privacy-policies/community-and-health-privacy-notices)
+  * [Corporate services privacy notices](https://admin.barnet.gov.uk/your-council/policies-plans-and-performance/privacy-policies/corporate-services-privacy-notices)
+  * [Education privacy notices](https://admin.barnet.gov.uk/your-council/policies-plans-and-performance/privacy-policies/education-privacy-notices)
+  * [Environment and transport privacy notices](https://admin.barnet.gov.uk/your-council/policies-plans-and-performance/privacy-policies/environment-and-transport-privacy)
+
+
 
 This notice covers all personal data collected by the council and where we tell other organisations to collect information for us. This is the same whether the information is collected by letter, email, face to face, telephone or online.
 
@@ -283,8 +293,7 @@ You can use your web browser to:
   * [Internet Explorer cookies information](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies "External link")
   * [Chrome cookies information](https://support.google.com/chrome/answer/95647?hl=en-GB "External link")
   * [Firefox cookies information](https://support.mozilla.org/en-US/kb/delete-browsing-search-download-history-firefox "External link")
-  * Safari cookies information – [mobile devices](https://support.apple.com/en-gb/HT201265 "External link") and [desktops](https://support.apple.com/kb/PH21411?locale=en_GB "External link")
-  * [Opera cookies information](https://www.opera.com/help/tutorials/security/cookies/ "External link")
+  * Safari cookies information – [mobile devices](https://support.apple.com/en-gb/HT201265 "External link")
 
 
 
