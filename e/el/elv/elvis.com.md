@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elvis.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421194932id_/https%3A//www.shopelvis.com/help/%3Ffaq%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elvis.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821055156id_/https%3A//www.shopelvis.com/help/%3Ffaq%3D3) for the most accurate reproduction.*
 
 # Shop the ShopElvis.com Official Store
 
@@ -59,7 +59,7 @@ We may share or disclose the information you provide, including name and contact
 
 Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your name and contact or payment details to any third parties.
 
-If you wish to access, move, or delete your data contact us at myprivacy@musictoday.com and the team at Musictoday will assist you. 
+If you wish to access, move, or delete your data contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and the team at Musictoday will assist you. 
 
 #### D. Online Tracking / Third Party Advertising
 
@@ -88,7 +88,7 @@ Please note that by deleting or disabling future cookies, your user experience m
 
 #### E. Children
 
-The features, programs, promotions and other aspects of this Site requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at myprivacy@musictoday.com. A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
+The features, programs, promotions and other aspects of this Site requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
 
 #### F. International Transfer of Information
 
@@ -122,7 +122,7 @@ No data transmissions over the Internet can be guaranteed to be 100% secure. Con
 
 #### M. Contacting Us
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at myprivacy@musictoday.com. All information you provide in any written communication will also be covered by this policy.
+If you have any questions about this privacy policy or our privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) All information you provide in any written communication will also be covered by this policy.
 
 YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -134,4 +134,4 @@ Crozet, VA  22932
 
 U.S.: 877-687-4277   
 Overseas: 001-434-205-7049 (international calling rates apply)  
-E-mail: myprivacy@musictoday.com
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
