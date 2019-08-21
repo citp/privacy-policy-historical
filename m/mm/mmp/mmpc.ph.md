@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmpc.ph privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516024417id_/http%3A//mmpc.ph/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmpc.ph privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822014026id_/http%3A//mmpc.ph/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookies and Privacy - Mitsubishi Motors Philippines Corporation
 
@@ -78,6 +78,6 @@ Should you have concerns questions or matters for clarification with regard to t
 
 For sales, service, and parts advice, find a dealership near you.
 
-[Find a Dealer](https://web.archive.org/web/20190516024417id_/http://mmpc.ph/cookies-and-privacy/find-a-dealer)
+[Find a Dealer](https://web.archive.org/web/20190822014026id_/https://mmpc.ph/cookies-and-privacy/find-a-dealer)
 
 __Top
