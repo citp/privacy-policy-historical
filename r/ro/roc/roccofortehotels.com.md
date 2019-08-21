@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405041030id_/https%3A//www.roccofortehotels.com/details/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821165552id_/https%3A//www.roccofortehotels.com/details/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Rocco Forte
 
@@ -216,7 +216,7 @@ We will keep information about children on file so that we can recognise them an
 
 Please speak to any of our staff if you have further questions about this notice.
 
-  1. 10. **Your rights**
+  1. 10.  **Your rights**
 
 
 
