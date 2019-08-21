@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenbot.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223223249id_/https%3A//www.greenbot.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbot.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821123940id_/https%3A//www.greenbot.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policies | Greenbot
 
