@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft101.net privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628000321id_/http%3A//minecraft101.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft101.net privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822011220id_/http%3A//www.minecraft101.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft 101
 
@@ -6,7 +6,7 @@
 
 We do not collect any personal information, or use any technology such as cookies to track or identify visitors to the site.
 
-We do, however, use [Google Analytics](http://www.google.com/intl/en/policies/privacy/) to understand how many people are visiting which pages on the site, and [Google Adsense](http://google.com/privacy/ads/) to pay the bills. These products do use cookies to track users’ behaviour and history, but we at minecraft101.net do not have access to any personally identifying information.
+We do, however, use [Google Analytics](https://www.google.com/intl/en/policies/privacy/) to understand how many people are visiting which pages on the site, and [Google Adsense](https://google.com/privacy/ads/) to pay the bills. These products do use cookies to track users’ behaviour and history, but we at minecraft101.net do not have access to any personally identifying information.
 
 ## Longer version.
 
@@ -20,11 +20,11 @@ We may use third party products to display ads, to provide social media features
 
 #### Google AdSense
 
-Minecraft 101 uses Google AdSense, a third-party advertising service operated by Google Inc., to serve ads when you visit Yesterland. Google AdSense may use “DoubleClick DART cookie” technology to track information about your visits to Yesterland and other websites in order to provide advertisements about goods and services that Google AdSense determines might be of interest to you. Google AdSense does not track your name, address, email address, or telephone number. If you would like more information about this practice, and to know your choices about not having this information used in this way, please refer to [Google’s policies](http://www.google.com/policies/technologies/ads/).
+Minecraft 101 uses Google AdSense, a third-party advertising service operated by Google Inc., to serve ads when you visit Yesterland. Google AdSense may use “DoubleClick DART cookie” technology to track information about your visits to Yesterland and other websites in order to provide advertisements about goods and services that Google AdSense determines might be of interest to you. Google AdSense does not track your name, address, email address, or telephone number. If you would like more information about this practice, and to know your choices about not having this information used in this way, please refer to [Google’s policies](https://www.google.com/policies/technologies/ads/).
 
 #### Google Analytics
 
-Minecraft 101 uses Google Analytics, a third-party website analysis service operated by Google Inc., to collect and report detailed statistics about visits to Yesterland. When you visit Minecraft 101, Google Analytics servers automatically record and collect Log Data sent by your browser, including your computer’s IP address and the referring HTTP location. Google Analytics’ reporting is private. Google Analytics may place or read cookies. If you would like more information about cookies for Google Analytics, please see [Google’s Privacy statement](http://www.google.com/intl/en/policies/privacy/).
+Minecraft 101 uses Google Analytics, a third-party website analysis service operated by Google Inc., to collect and report detailed statistics about visits to Yesterland. When you visit Minecraft 101, Google Analytics servers automatically record and collect Log Data sent by your browser, including your computer’s IP address and the referring HTTP location. Google Analytics’ reporting is private. Google Analytics may place or read cookies. If you would like more information about cookies for Google Analytics, please see [Google’s Privacy statement](https://www.google.com/intl/en/policies/privacy/).
 
 ### Server logs
 
@@ -42,7 +42,7 @@ Minecraft 101 reserves the right to add or remove third-party affiliate programs
 
 It is possible to opt out of the the third party solutions we use.
 
-You can disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/settings/ads/onweb/optout?hl=en).
+You can disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](https://www.google.com/settings/ads/onweb/optout?hl=en).
 
 It is also possible to control which cookies are accepted by your browser in that program’s preferences/settings.
 
