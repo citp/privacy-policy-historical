@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uitm.edu.my privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230114515id_/http%3A//www.uitm.edu.my/index.php/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uitm.edu.my privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821073300id_/https%3A//uitm.edu.my/index.php/en/privacy-statement) for the most accurate reproduction.*
 
 # Universiti Teknologi MARA - Privacy Statement
 
