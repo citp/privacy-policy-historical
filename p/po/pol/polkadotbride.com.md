@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polkadotbride.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320185956id_/https%3A//www.polkadotbride.com/blog-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polkadotbride.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821085606id_/https%3A//www.polkadotbride.com/blog-policies) for the most accurate reproduction.*
 
 # Blog Policies - Polka Dot Bride
 
