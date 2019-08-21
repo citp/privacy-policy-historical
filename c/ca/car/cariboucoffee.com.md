@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518170428id_/https%3A//www.coffeeandbagels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821031803id_/https%3A//www.coffeeandbagels.com/privacy-policy) for the most accurate reproduction.*
 
 # Website and Mobile App Privacy Policy – Coffee & Bagel Brands
 
