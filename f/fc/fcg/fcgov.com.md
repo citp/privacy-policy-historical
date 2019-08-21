@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523023856id_/https%3A//www.fcgov.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821224526id_/https%3A//www.fcgov.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy || City of Fort Collins
 
