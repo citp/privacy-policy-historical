@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethresear.ch privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401075709id_/https%3A//ethresear.ch/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethresear.ch privacy policy that was archived on 2019-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190821131315id_/https%3A//ethresear.ch/privacy) for the most accurate reproduction.*
 
 # Privacy - Ethereum Research
 
