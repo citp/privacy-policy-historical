@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xfce-look.org privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410073422id_/https%3A//www.xfce-look.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfce-look.org privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822051017id_/https%3A//www.xfce-look.org/privacy) for the most accurate reproduction.*
 
 # Eyecandy for your XFCE-Desktop - xfce-look.org
 
