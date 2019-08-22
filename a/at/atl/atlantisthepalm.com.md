@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906170926id_/https%3A//www.atlantisthepalm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823002226id_/https%3A//www.atlantisthepalm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlantis The Palm Dubai
 
