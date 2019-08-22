@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakenumber.org privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525043507id_/https%3A//fakenumber.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakenumber.org privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822095740id_/https%3A//fakenumber.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fake Number - Random Phone Number Generator
 
