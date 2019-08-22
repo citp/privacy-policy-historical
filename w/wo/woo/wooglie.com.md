@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wooglie.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422170417id_/https%3A//www.m2h.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooglie.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823014938id_/https%3A//www.m2h.nl/privacy) for the most accurate reproduction.*
 
 # M2H » Privacy
 
