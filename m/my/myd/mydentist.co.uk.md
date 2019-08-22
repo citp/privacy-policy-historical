@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydentist.co.uk privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819140507id_/https%3A//www.mydentist.co.uk/customer-services/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydentist.co.uk privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822104803id_/https%3A//www.mydentist.co.uk/customer-services/your-privacy) for the most accurate reproduction.*
 
 # Your privacy
 
