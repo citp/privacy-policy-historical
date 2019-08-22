@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragrancedirect.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901234630id_/https%3A//www.fragrancedirect.co.uk/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancedirect.co.uk privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822070427id_/https%3A//www.fragrancedirect.co.uk/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice | Fragrance Direct
 
@@ -21,14 +21,14 @@ Internet protocol (IP) address, browser type, URLs of referring/exit pages, oper
   * We will not transfer your personal data outside the EU without your consent.
   * We maintain administrative, technical and physical safeguards designed to protect person information you provide against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use.
   * Our checkout process uses industry standard SSL (Secure Sockets Layer) 128-bit encryption which secures your data. However, submission of information over the internet are never entirely secure.
-  * We process your payments using secure Verifone payment gateway. Click [here](http://global-old.verifone.com/solutions-services/security/) to find more about Verifone security.
+  * We process your payments using secure Adyen payment gateway. Click [here](https://www.adyen.com/legal#section9/) to find more about Adyen security.
   * We will notify you promptly in the event of any breach of your personal data which might expose you to serious risk.
 
 
 
 ### Who else has access to the information you provide us?
 
-We may pass your personal data to third parties who are authorised data processors or service providers (i.e. Royal mail, Verifone) to us for the purposes of completing tasks and providing services to you on our behalf. We have contracts in place with our data processors. This means that they cannot do anything with your personal information unless we have instructed them to do so. They will not share your personal information with any organisation apart from us. They will also hold the data securely and retain it for the period we instruct.
+We may pass your personal data to third parties who are authorised data processors or service providers (i.e. Royal mail, Adyen) to us for the purposes of completing tasks and providing services to you on our behalf. We have contracts in place with our data processors. This means that they cannot do anything with your personal information unless we have instructed them to do so. They will not share your personal information with any organisation apart from us. They will also hold the data securely and retain it for the period we instruct.
 
 ### How long do we keep your information?
 
@@ -40,7 +40,13 @@ We offer you the opportunity to opt-in to subscribe to our e-newsletter. However
 
 ### Targeted advertising:
 
-We use a third-party provider Criteo to serve targeted advertisements on our behalf. Criteo uses information it gathers from on-site cookies. If you would like to opt out of this retargeting or view Criteo's privacy policy click [here](https://www.criteo.com/privacy/)
+Micro-targeting, we allow selected third-parties to use tracking pixels on the site to track browsing habits and interactions across the site.
+
+We use third-party providers Criteo and RTB House to serve targeted advertisements on our behalf. Criteo and RTB House use information they gather from on-site cookies. If you would like to opt out of this retargeting or view corresponding privacy policies click [here for Criteo](https://www.criteo.com/privacy) and click [here for RTB House](https://www.rtbhouse.com/privacy)
+
+### Klarna:
+
+In order to be able to offer you Klarna’s payment options, we will pass to Klarna certain details of your personal information, such as contact and order details, in order for Klarna to assess whether you qualify for their payment options and to tailor the payment options for you. General information on Klarna you can find [here. ](https://www.klarna.com/uk/)Your personal data is handled in accordance with applicable data protection law and in accordance with the information in Klarnas[ privacy statement](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_at/privacy).
 
 ### Information we collect from you on our website:
 
@@ -98,8 +104,8 @@ We keep our privacy notice under regular review. You are advised to check our we
 
 If you want to request information about our privacy notice, you can email, phone or write to:
 
-Data Protection Officer, Fragrance Direct, Garrison House, Byrons Lane, Macclesfield, Cheshire SK11 7JW
+Data Protection Officer, Fragrance Direct, Garrison House, Byrons Lane, Macclesfield, Cheshire, United Kingdom SK11 7JW
 
-Telephone: (+44) 1625 432 565
+Telephone: (+44) 01625 443143
 
 Email: [data.protection@fragrancedirect.co.uk](mailto:data.protection@fragrancedirect.co.uk)
