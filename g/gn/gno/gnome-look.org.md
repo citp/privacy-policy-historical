@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnome-look.org privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410081500id_/https%3A//www.gnome-look.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnome-look.org privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822052654id_/https%3A//www.gnome-look.org/privacy) for the most accurate reproduction.*
 
 # Gnome-look.org
 
