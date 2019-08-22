@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berrylook.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607230140id_/https%3A//www.berrylook.com/en/privacy-policy-i-14.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berrylook.com privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822171252id_/https%3A//www.berrylook.com/en/privacy-policy-i-14.html) for the most accurate reproduction.*
 
 # Privacy & Security Policy of Berrylook.com
 
