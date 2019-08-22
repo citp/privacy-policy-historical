@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jeunesseglobal2.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315095056id_/https%3A//www.jeunesseglobal.com/en-US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeunesseglobal2.com privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822224033id_/https%3A//www.jeunesseglobal.com/en-US/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jeunesse Global
 
-_Last updated 17 June 2016_
+_Last updated March 6, 2019_
 
 Ensuring the security of the personal information you submit is a priority of Jeunesse Global. Our Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users and reflects our commitment to your privacy and security.
 
@@ -10,13 +10,25 @@ By using our web site, you consent to the collection and use of information by J
 
 Jeunesse adheres to the privacy principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
-This privacy policy covers the collection and use of data through the web sites [www.jeunesseglobal.com](http://www.jeunesseglobal.com/), [www.jeunesseglobal2.com](http://www.jeunesseglobal2.com/) (collectively, the “Websites), and the _JMobile™_ smart phone application, and the [*]™ smart phone application (collectively, the “Smart Phone Apps”). The Websites and Smart Phone Apps are collectively referred to as the “Jeunesse Site”.
+This privacy policy covers the collection and use of data through the web sites designed for our distributors, and includes the following domains: jeunesseglobal.com, jeunesseglobal2.com,jeunessemail.com, and through domains designed for retailing products directly to customers in the U.S. market: (shop.jeunesseglobal.com, betheenvy.com, monavie.com, buym1nd.jeunesseglobal.com, buyreserve.jeunesseglobal.com, zenproject8.com, yes2nv.com, yes2monavie.com, yes2luminesce.com, yes2reserve.com, yes2revitablu.com; yes2zen.com), all of which are collectively referred to as the “Websites”. This privacy policy also covers the collection and use of data through the, JMobile™, Shop Jeunesse, and Instantly Ageless™ smart phone applications, (collectively, the “Smart Phone Apps”). The Websites and Smart Phone Apps are collectively referred to as the “Jeunesse Site”.
 
 We want your use of the Jeunesse Site and the services we offer to be productive and safe and we have taken great efforts to keep your information confidential and secure at all times within our system.
 
-If you have questions or concerns regarding this statement, you should first contact Doug Whitehead at [privacy@JeunesseHQ.com](mailto:privacy@jeunessehq.com)
+If you have questions or concerns regarding this statement, you should first contact Doug Whitehead at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8a8aab1aeb9bba198b2bdadb6bdababbdb0a9f6bbb7b5)
 
 Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+
+## EU-US Privacy Shield Policy 
+
+If you access a Website from the European Union, please note that we are subject to the provisions of the European General Data Protection Regulation (GDPR) and the data protection regulations of your respective EU member state. In addition, Jeunesse complies with the Privacy Shield Framework agreement drawn up between the U.S. and the European Union and between the U.S. and Switzerland; Jeunesse has accordingly obtained certification. In doing so, Jeunesse undertakes to comply with the standards and requirements of European data protection law. Further information can be found on the web page linked below: [www.privacyshield.gov/participant?id=a2zt0000000TRdWAAW&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TRdWAAW&status=Active/)
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Jeunesse commits to resolve complaints about your privacy and our collection or use of your personal information. EU and Swiss individuals with questions or concerns about the use of their Personal Data should contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4333312a3522203a030926362d26303026242f2c21222f0b126d202c2e)
+
+If your question or concern cannot be satisfied through this process Jeunesse has further committed to refer unresolved privacy complaints under EU-US Privacy Shield and Swiss-US Privacy Shield to an independent dispute resolution mechanism operated by JAMS, a global arbitration center for personal data and privacy matters. 
+
+If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by Jeunesse, EU and Swiss individuals may bring a complaint before the JAMS EU and Swiss Privacy Shield program that can be found at: <https://www.jamsadr.com/eu-us-privacy-shield>. Finally, as a last resort and in limited situations, EU and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
+
+Jeunesse commits to cooperate with EU and Swiss data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship. 
 
 ## Personal Information
 
@@ -36,7 +48,7 @@ For distributors, the purpose of the Jeunesse Site is to manage your distributor
 
 In order to use _JMobile_ or the backoffice of the Websites, you must have a Distributor Login provided by Jeunesse.
 
-When enrolling to become a Jeunesse distributor and thereby obtain access to www.Jeunesseglobal.com and www.JeunesseGlobal2.com, we collect your PII, including your name, home or business address, telephone numbers, email address, IP address, credit card number and expiration date, bank account information (for direct deposit or direct debit), and various government-issued identifying data, including, but not limited to, your passport number, tax identification number, national ID card number, social insurance number, etc. We may also collect scanned copies of government-issued photo ID’s.
+When enrolling to become a Jeunesse distributor through the Websites, we collect your PII, including your name, home or business address, telephone numbers, email address, IP address, credit card number and expiration date, bank account information (for direct deposit or direct debit), and various government-issued identifying data, including, but not limited to, your passport number, tax identification number, national ID card number, social insurance number, etc. We may also collect scanned copies of government-issued photo ID’s.
 
 This data is necessary to manage your Jeunesse distributorship for purposes of identifying who you are, placement of your distributorship and of downline distributorships in the tree, compliance management, product ordering, recognition and rewards, and commissions calculations and payment.
 
@@ -70,7 +82,7 @@ For testimonials, we do obtain the customer's consent prior to posting his or he
 
 If you enter a comment in a public forum we are not responsible for the personal information you choose to submit in these comments.
 
-If you want to remove your personal information that is being displayed on the Jeunesse Site under public pages, please contact us at [privacy@Jeunessehq.com](mailto:privacy@jeunessehq.com)
+If you want to remove your personal information that is being displayed on the Jeunesse Site under public pages, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4c4c6ddc2d5d7cdf4ded1c1dad1c7c7d1dcc59ad7dbd9)
 
 ## How We Use Your Information
 
@@ -208,7 +220,7 @@ We may use your email address provided to contact you regarding the following:
 
 If you desire not to receive information about products or services we think may be of interest, you can change the notification options in your account settings.
 
-If you wish to not receive any of these emails, you may _opt-out_ by clicking the Opt-Out link or submitting your email address to unsubscribe@Jeunesseglobal.com or by following the unsubscribe instructions within each email communication.
+If you wish to not receive any of these emails, you may _opt-out_ by clicking the Opt-Out link or submitting your email address to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by following the unsubscribe instructions within each email communication.
 
 ## Protecting Your Personal Information
 
@@ -230,7 +242,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at [privacy@jeunessehq.com](mailto:privacy@jeunessehq.com)
+If you have any questions about security on our Web site, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93e3e1fae5f2f0ead3f9f6e6fdf6e0e0f6fbe2bdf0fcfe)
 
 ## Updating Your Personal Information
 
