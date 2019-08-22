@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsoftware.co.uk privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101025649id_/https%3A//www.flashbackrecorder.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsoftware.co.uk privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822072152id_/https%3A//www.flashbackrecorder.com/privacypolicy) for the most accurate reproduction.*
 
 # FlashBack privacy policy
 
