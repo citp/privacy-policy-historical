@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snu.edu.in privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425162201id_/https%3A//snu.edu.in/snu-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snu.edu.in privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822090436id_/https%3A//snu.edu.in/snu-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shiv Nadar University
 
