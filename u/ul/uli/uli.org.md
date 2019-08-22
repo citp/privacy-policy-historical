@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uli.org privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117073705id_/https%3A//uli.org/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uli.org privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822172837id_/https%3A//uli.org/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Land Institute
 
@@ -50,7 +50,7 @@ Yes. Members are prohibited from using any directory listing for commercial or p
 
 **How do I change my contact information? Bio?**
 
-You may update or change information in your membership profile by logging into your profile at my.uli.org For other questions related to updating or changing your membership information, please send e-mail to [customerservice@uli.org](mailto:reliance@uli.org) or call 800-321-5011.
+You may update or change information in your membership profile by logging into your profile at my.uli.org For other questions related to updating or changing your membership information, please send e-mail to [customerservice@uli.org](mailto:reliance@uli.org) or call +1-800-321-5011.
 
 **Does ULI sell its mailing list?**
 
