@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coderwall.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603041230id_/https%3A//coderwall.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderwall.com privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822074549id_/https%3A//coderwall.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Coderwall Privacy Policy
 
 #### Updated May 25th 2018
 
