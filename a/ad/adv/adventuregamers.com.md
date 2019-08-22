@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617051733id_/https%3A//adventuregamers.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822204958id_/https%3A//adventuregamers.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Adventure Gamers
 
