@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mavrck.co privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504142533id_/https%3A//www.mavrck.co/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mavrck.co privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822150004id_/https%3A//www.mavrck.co/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY**
 
-This Privacy Policy was last updated on October 3, 2018.
+This Privacy Policy was last updated on May 23, 2019.
 
 **Our Policy:**
 
@@ -248,6 +248,8 @@ You may contact us at privacy@Mavrck.co or by regular mail addressed to:
 
 Apifia, Inc. dba Mavrck
 
-100 N. Washington St. First Floor
+200 State St., Marketplace Center, North Building, 3rd Floor
 
-Boston, MA 02114
+Boston, MA 02109
+
+Pursuant to Article 27 of Europe’s General Data Protection Regulation (GDPR), Apifia, Inc. dba Mavrck, has appointed European Data Protection Office (EDPO) as its GDPR representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR by sending an email to privacy@edpo.brussels, using EDPO’s [online request form](https://edpo.brussels/contact), or writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium.
