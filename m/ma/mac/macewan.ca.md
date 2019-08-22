@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macewan.ca privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330054620id_/https%3A//www.macewan.ca/wcm/Administrative/InformationManagementandPrivacy/PrivacyStatement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macewan.ca privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822145735id_/https%3A//www.macewan.ca/wcm/Administrative/InformationManagementandPrivacy/PrivacyStatement/index.htm) for the most accurate reproduction.*
 
 # Privacy Statement - MacEwan University
 
