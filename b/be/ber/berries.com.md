@@ -1,220 +1,256 @@
-> *The following text is extracted and transformed from the berries.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207075706id_/http%3A//www.ftdcompanies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berries.com privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822085128id_/https%3A//www.berries.com/About-Us-Privacy-Policy) for the most accurate reproduction.*
 
-# FTD Companies | Privacy Policy
+# About Us - Privacy Policy
 
-**
-* What does this Privacy Policy cover?
-**
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=5390b55e-b9d5-4405-ae18-eedba5120955)
 
-Thank you for visiting a website or application provided by FTD Companies, Inc. FTD Companies, Inc. and its affiliates **("FTD")** are committed to respecting your privacy. This Privacy Policy outlines FTD's collection and use of personal information **("Privacy Policy")**.
+** Last updated ** ** September 4, 2018 **
 
-FTD currently owns or operates the following brands: FTD.COM, FTD, INTERFLORA, the MERCURY MAN Emblem, PROFLOWERS, PROPLANTS, SHARI'S BERRIES, CHERRY MOON FARMS, PERSONAL CREATIONS, REDENVELOPE, FLORIST EXPRESS, GIFTS.COM, SINCERELY, POSTAGRAM, INK and SESAME GIFTS, among others. These brands may be updated from time to time by FTD without notice.
+** INTRODUCTION **
 
-FTD collects information through: (a) its various websites including, but not limited to, [www.ftd.com](http://www.ftd.com/), [www.proflowers.com](http://www.proflowers.com/), [www.proplants.com](http://www.proplants.com/), [www.berries.com](http://www.berries.com/), [www.prvd.com](http://www.prvd.com/), [www.cherrymoonfarms.com](http://www.cherrymoonfarms.com/), [www.personalcreations.com](http://www.personalcreations.com/), [www.providecommerce.com](http://www.providecommerce.com/), [www.gifts.com](http://www.gifts.com/), [www.sincerely.com](http://www.sincerely.com/), [www.postagramapp.com](http://www.postagramapp.com/), [www.sesamegifts.com](http://www.sesamegifts.com/) and other websites as it may introduce or acquire in the future; (b) various social media accounts and channels including, but not limited to, Facebook, Twitter, Instagram, Pinterest and YouTube; and (c) through our various other messaging, telephone and other forms of communications, mobile technologies, applications and services, in each case, as may be updated by FTD from time to time (collectively, the " **FTD Services** "). The privacy practices outlined in this policy are incorporated by reference into the [Terms of Use](https://web.archive.org/web/20171207075706id_/http%3A//www.ftdcompanies.com/terms) for the FTD Services.
-
-Please note that FTD may have separate privacy policies for certain websites such as ProFlowers International, Interflora and Flying Flowers. Please be sure to consult with the website or application that you are using to understand FTD's privacy practices for that website or application.
-
-This Privacy Policy is current as of the Effective Date. Please consult this Privacy Policy from time to time since FTD may, at any time, and without notice, revise this Privacy Policy by updating this posting.
-
-If, at any time, you choose not to accept the terms of this Privacy Policy, you should not access or use FTD Services. Please continue reading below for information on how we use and disclose personal information.
-
-* **What types of Personal Information and related information does FTD collect from you?**
-
-**FTD Services**  
-FTD collects certain personal information through the FTD Services described above - including through our websites, through social media accounts and channels, and via our applications, mobile technologies, telephone discussions, email and other forms of communication. In order for you to place orders, make purchases, complete transactions, interact with FTD or have access to certain features of the FTD Services, we may require you to register or provide certain personal information. This information may include, but is not limited to, your name, contact information, email address, age or date of birth, payment information, rewards program information or a username and password.
-
-**Purchase and Recipient Information**  
-When making purchases through the FTD Services, we may also require you to provide a credit card, billing address and gift message and that you provide information about a recipient or potential recipient of a gift or a purchase you make through the FTD Services.
-
-**Social Media Sites**  
-FTD may also receive personal information from social media platforms, as well as from people with whom you are friends or otherwise connected on social media platforms. For example, if you access the FTD Services through a third-party connection or log in through Instagram, Twitter, Facebook Connect or another third-party service, by "following," "liking," or linking your account to one or more of the FTD Services, that third party may pass information about you to us, including, without limitation, your name, birthday, gender, user ID number, user ID number of your friends, the email address associated with your account, your profile picture, your physical location, your photos, photo likes, photo tags, and an access token to authenticate to the third-party service. We may also collect additional information regarding your hobbies, interests or "likes" that you make available through your profile on the third-party service, any other information that you have permitted the third party to share with us, and any information you have made public in connection with that service.
-
-If you allow us access to your social media friends list, then your friends' user IDs and your connection to those friends may be used and stored to make your experience more social, and to allow you to invite your friends to use the FTD Services. Please consult with the third party's website for further information before you link or connect to the FTD Services and on how to control or adjust your privacy settings on that site. FTD has no control over such third party website.
-
-**Third Parties**  
-We may supplement the information you provide to us with data we obtain or receive from third parties, such as our affiliates, marketing firms, data vendors or address verification services. For example, if you change your address and fail to advise us, we may verify your address through a third party address verification company. We may combine information we collect online with information we collect off line.
-
-**Mobile Applications**  
-As disclosed upon installation (in case of Android) or prompted for permission (in the case of iOS), our mobile applications may access personal information on your device. For example, when placing an order through our mobile applications you may enter a shipping address from your device's address book or receive birthday reminders for contacts; or if placing an order including an image our application would require access to your device's photo library.
-
-* **How does FTD use Personal Information?**
-
-FTD may use personal information in order to facilitate your use of the FTD Services, including receiving, processing, fulfilling and delivering your purchases. We may use personal information to identify you when you log in to our FTD Services, to provide a better experience through the FTD Services, or to personalize your experience across the FTD Services. We may also use personal information to better understand our customers and to better tailor or enhance our FTD Services. For example, we may also use personal information for data analysis and segmentation, understanding our customers across our various platforms and brands, and providing recommendations and reminders for events and other business purposes. We may also use personal information as we believe to be necessary or appropriate to protect our rights, privacy, safety or property, and/or that of our affiliated companies, you or others, and to allow us to pursue available remedies or limit the damages that we may sustain.
-
-FTD may send you e-mail communications or promotional offers to an email address, through a device (such as mobile device or applications) or through other contact information provided through the FTD Services. If you do not want to receive such communications from us, please see Section 9. We may contact you using information you have entered into the FTD Services either recently or in the past regardless of whether you have opted in or out of email marketing messaging.
-
-To the extent you participate with interactive features through the FTD Services such as the social media sites, any personal information that you provide may be published in the manner consistent with the interactive feature. For example, if you tag a photo through Instagram with #ftdflowers or @ftdflowers, we may repost that photo under @ftdflowers.
-
-To the extent you participate in any sweepstakes, promotions or contests through the FTD Services, any personal information provided by you may be used in accordance with separate or different terms and conditions under the applicable rules of such sweepstakes, promotion or contest, which may differ from this Privacy Policy.
-
-By providing information through the FTD Services (including through our mobile applications), you authorize us to share information among our family of websites and mobile applications. Further, certain of the FTD Services (including through our mobile applications) allow for cross application authentication, which means that once you log in to one of the FTD Services, you may be logged in to any of our other FTD Services as well.
-
-* **Where is Personal Information stored and processed?**
-
-By using the FTD Services, you acknowledge that your personal information may be stored or processed in the United States or any other country in which FTD (or its affiliates) or their respective service providers maintain facilities. This means that we may transfer information we collect about you including personal information to entities across borders to another country or jurisdiction. If you are located within the European Union or other jurisdictions with laws governing data storage or processing that are different from United States laws, please be aware that we may transfer information to a country that does not have the same laws. By using the FTD Services, you expressly consent to: (a) the transfer of information to the U.S. or any other country in which FTD (or its affiliates) or their respective service providers maintain facilities; and (b) the use and disclosure of information about you as described in this Privacy Policy.
-
-* **What Non-Personal Information does FTD collect?**
-
-FTD may collect non-personal information from you including, but not limited to, demographic data, location data (as more fully discussed in Section 7 below), browser type, your Internet Service Provider or operating system, the URL of previous FTD Services you visited, and your IP address. Unless otherwise required by applicable law, FTD may use and share this information, which does not personally identify you, for any purpose, including sharing with our third party partners, affiliates, agents or service providers for various administrative, analytical and marketing purposes.
-
-We may use your IP address to help diagnose problems with our server, to detect fraud, and to administer the FTD Services. We may also use your IP address to assist in attempting to identify you when we feel it is necessary to enforce compliance with this Privacy Policy or the [Terms of Use](https://web.archive.org/web/20171207075706id_/http%3A//www.ftdcompanies.com/terms), to protect the FTD Services, systems, information, employees, business partners, service providers, users, customers or others or as may be required by law enforcement.
-
-* **What are cookies, clear GIFs and other similar technologies and how does FTD use them?**
-
-**Cookies:** We may collect information from you by using cookies. A "cookie" is a small text file stored on your computer containing information about you. Cookies help us analyze web traffic, provide user data for a particular webpage, and allow web applications to be adapted for you as an individual. This helps us tailor our operations to your specific needs and preferences by gathering and remembering information about your preferences. Most web browsers automatically accept cookies. If you would prefer to prevent your computer from accepting our cookies, please follow your Internet browser's steps for doing so. However, if you do disable cookies, you may not be able to take full advantage of all our online features or access certain sections of our FTD Services, including the "shopping cart."
-
-**Clear GIFs:** We, or our third party partners, affiliates, agents or service providers, may collect information from you by using clear GIFs. A "clear GIF" or graphics interchange format (also known as pixel tags, single pixel GIFs, web beacons or action tags) help us or a third party measure advertising effectiveness. Clear GIFs help us manage content on the FTD Services by informing us of what content is effective. Further, clear GIFs may be used: (i) in HTML based emails to let us know which emails have been opened by recipients; (ii) to record when products have been ordered through the FTD Services; and (iii) to track the visitor traffic through the FTD Services. Among other reasons, these clear GIFs allow us to measure the usage of each of the FTD Services by our visitors and the effectiveness of certain communications and marketing campaigns. The main differences between a cookie and a clear GIF are that clear GIFs are invisible on a web page and are much smaller. 
-
-**Mobile Analytics:** We utilize third party analytics technology in our mobile applications which tracks usage and interactions within our mobile applications. This information helps provide insight into the use of such mobile applications and assists with our further improvement and development associated with the mobile application and FTD Services. 
-
-**Affiliate Tracking:** You may purchase products from us through a link associated with our affiliate program. Our affiliate program allows participating website publishers, bloggers and other organizations (" **Affiliates** ") to display links on their respective websites which direct customers to the FTD Services. 
-
-**Behavioral Advertising:** We participate in online behavioral advertising (OBA). We may use third parties to display ads tailored to your individual interests based on how you browse and shop online. We may allow certain third parties to collect certain information when you use the FTD Services. For example, these companies may use non-personal information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personal information (e.g., IP address) during your visits to FTD Services in order to provide advertisements about goods and services likely to be of greater interest to you on third party sites. These parties typically use a cookie or a third party web beacon to collect this information. 
-
-**Our Do Not Track Policy:** Some third party browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser "do not track" signals. To learn more about online behavioral advertising (OBA), please visit the Network Advertising Initiative website (<http://www.networkadvertising.org/choices/>) or Digital Advertising Alliance website (<http://www.aboutads.info/choices/>). 
-
-**Other Technologies:** Since new technologies are being developed every day, we may introduce or utilize new technologies in the future in a manner consistent with this policy and generally applicable industry standards. Further, additional disclosures or requests for permission may be presented through the use of such new technologies at the time of such use. For example, you may receive a request from a mobile application to enable sharing of information through your device. 
-
-* **How does FTD collect and use location based data?**
-
-When you access the FTD Services by or through a mobile device or application, we may access, collect, monitor and/or remotely store "location data," which may include GPS coordinates (e.g., latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the FTD Services. We may also be able to determine your general geographic location (i.e., city or town and state) through your IP address. You may control whether location data is shared with us through your mobile device, application or browser settings. Some features of the FTD Services, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled.
-
-* **When does FTD share Personal Information with third parties?**
-
-FTD shares your personal information in the manner described below.
-
-**FTD Affiliates:** FTD may share personal information with its affiliated companies, including those referenced herein and those subsequently acquired by FTD or its affiliated companies.
-
-**FTD Member Florists / Distributors:** FTD shares information with our FTD Member Florists and distributors for the purposes of fulfilling and delivering your purchases. These FTD Member Florists and distributors may contact you or the recipient relating to your purchases. The FTD Member Florists are a network of independently owned and operated floral shops, whose privacy practices may differ. FTD may provide certain marketing services on behalf of the FTD Member Florists. On some occasions, the recipient may be contacted to schedule delivery or verify delivery availability. To maintain our high quality standards, we may contact recipients to ensure satisfaction with their gift. 
-
-**FTD Third Parties:** FTD may share, store and process your information with third parties who act as our agents, suppliers, vendors, contractors, subcontractors or service providers (collectively, " **FTD Third Parties** "). The FTD Third Parties include the floral and gift distributors mentioned above. You acknowledge that the collection, transfer, management, storage, and processing of personal information may be undertaken by these FTD Third Parties for the fulfillment of FTD Services and other FTD business purposes. The FTD Third Parties are given the information they need to perform their designated functions. 
-
-**Third Party Links:** The FTD Services may contain links to third party sites that FTD does not own or operate and such third parties may provide other goods or services. We provide links to these third parties as a convenience to you. These links are not intended as an endorsement of or referral to the linked third party goods or services. We recommend you carefully read the privacy policy, notices and terms of use of any the other sites that you visit. We do not have any control over such services and, therefore, we assume no responsibility or liability for the manner in which the organizations that operate such linked sites collect, use or disclose, secure or otherwise treat you or your personal information. 
-
-**Partner Programs:** If you are directed to FTD or the FTD Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship. For example, if you purchased or use a voucher from a group buying or flash deal website, we may share information regarding the order in which such voucher was redeemed. If you placed an order utilizing an Affiliate link, as described above, we may share information about you or your order with such Affiliate. 
-
-**Direct Marketing Companies:** From time to time we may disclose certain information (names, postal addresses and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to direct marketing companies for trade or rental purposes. If you prefer to opt-out of the use of your personal information by direct marketing companies for trade or rental purposes, please let us know at (800) SEND-FTD or the address listed in Section 12 below. 
-
-**FTD Business and Legal / Mergers and Acquisitions:** There may be business or legal reasons to disclose personal information. As an example, we may transfer information we have about you to third parties in connection with an actual or potential merger, consolidation, acquisition, reincorporation, sale/divestiture, acquisition or other similar transaction involving all or part of our company or any affiliate, or as part of a corporate reorganization or stock sale or other change in corporate control. If we undergo such a business transition, personal information may be one of the assets that may be shared or transferred as part of the business transition and used by such third party as though such third party were FTD. 
-
-**Law Enforcement/Government Requests/Other:** We may be required by law to provide personal information to law enforcement, a government agency or in response to a search warrant, subpoena or other legally valid inquiry or order, or to an investigative body or civil litigant including emergency situations. We may also disclose personal information when we believe in good faith that disclosure is necessary to comply with relevant laws, for the establishment, exercise or defense of legal claims, to prevent and address fraud and other illegal activity, to prevent death or imminent bodily harm, or to protect or defend the rights, property or safety of our users, others and ourselves. 
-
-* **What are your choices regarding marketing communications?**
-
-**Email Marketing**
-
-You may opt out of receiving **_email marketing_** promotions from the FTD family of brands. However, each of our brands manages its own ** _email marketing_** , so please note that you may only be opted out of receiving **_email marketing_** promotions from the brand you contact. In addition to being able to opting out of receiving marketing promotions by following the unsubscribe instructions in the applicable promotion you received.
-
-**FTD Companies Family of Brands**
-
-| 
-
-**Follow the Links or Email Below to Unsubscribe**
-
-| 
-
-**Or Call**  
   
----|---|---  
+The 1-800-FLOWERS.COM® family of brands, recognizes and respects the importance of maintaining the privacy of our customers, registered members, gift recipients and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
+
+  * the personal information we may collect from you when you visit our Website, respond to our emails, place orders via mail or fax, use our mobile applications, place orders through social media applications (such as our Facebook App), use our e-Gifting Service or otherwise contact us via telephone, text (SMS, MMS), email, fax or mail (collectively, our "Service"),
+  * why we gather information from you,
+  * how we collect it,
+  * how we use it (including with whom we may share it), and
+  * the choices you have regarding our use of, and your access to and correction of, personal information you have provided. 
+
+
+
   
-FTD
+This Privacy Policy is part of the [ Terms of Use ](https://web.archive.org/About-Us-Terms-of-Use), which governs your use of our website located at www.1800flowers.com as well as the website of our Affiliated Brands linked to this Privacy Policy (the "Website") and the Service. The Service is operated by 800-Flowers, Inc. (the "Company"). This Privacy Policy does not cover information you provide to our Company-owned or franchised retail stores. 
 
-| 
+Please Note:
 
-[ordering.ftd.com/unsubscribe](https://ordering.ftd.com/unsubscribe/)
+_ You must be 18 years or older _ _ and the age of majority in your place of residence to use, subscribe or register as a member _ (or 21 years or older in the event that you place a request for transmission of an order for a product containing alcohol). The Service is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children under 13 years of age. 
 
-| 
+** WHY DO WE GATHER INFORMATION? **
 
-(800) SEND-FTD  
   
-ProFlowers
+The Company and the Service gathers personal information mainly to communicate with you and to process your orders, but also to help improve our products and customer service, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from the 1-800-FLOWERS.COM® family of brands, Company Affiliates (as that term is defined below and in our Terms of Use) and selected third parties. 
 
-| 
+For individuals in the European Union (“EU”), our processing (i.e. use) of your personal data is justified on the following legal bases: 
 
-[accounts.proflowers.com](https://accounts.proflowers.com/)
+  * the processing is necessary to perform a contract with you or take steps to enter into a contract at your request; 
+  * the processing is necessary for us to comply with a relevant legal obligation; 
+  * the processing is in our legitimate interests, subject to your interests and fundamental rights, and notably our legitimate interest in using applicable data to conduct and develop our business activities; or 
+  * you have consented to the processing. 
 
-| 
 
-(800) 580-2913  
+
+This Privacy Policy applies to all visitors, including EU residents, Additional information on our privacy practices with respect to EU residents in particular can be viewed [here](https://web.archive.org/wcsstore/Flowers/images/A-Summary-of-Your-Privacy-Rights-Clean_9-4-2018.pdf.pdf) . 
+
+** WHAT INFORMATION DO WE GATHER? **
+
   
-ProPlants
+Depending on how you interact with us, we collect some or all of the following types of information:
 
-| 
+  * your name, address, telephone number, email address, user ID and contact information,
+  * billing information (credit/debit card number, expiration date, CVV code, alternate or additional billing information and billing address),
+  * gender and birth date, if you choose, or are otherwise required to, enter such information, and interests,
+  * products purchased and occasion type (for example, Mother's Day),
+  * any promotion or gift card code and related information (for example, if you are claiming frequent flyer miles),
+  * Message and gift recipients' names, addresses, telephone numbers and email addresses,
+  * device information - information about your mobile device, including platform information, user identification number and device location,
+  * application information - application information, including which of your applications are used, how your applications are used and the duration of use of your applications,
+  * network information – network information, including IP address, network carrier and country code, browsing information, such as how you interact with the Services; and
+  * other information you provide to us, including User Submissions (defined in the [ Terms of Use ](https://web.archive.org/About-Us-Terms-of-Use)).
 
-[accounts.proplants.com](https://accounts.proplants.com/)
 
-| 
 
-(888) 549-4014  
+Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Other Members do not have the right to view and edit your Address Book entries. 
+
+** HOW DO WE COLLECT INFORMATION FROM YOU? **
+
+** A.     In general. **
+
+We collect information through our Website, emails, mail, fax, telephone, mobile devices and applications and social media applications (such as our Facebook App) including when you:
+
+  * visit our Website and use our Service,
+  * place an order,
+  * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and
+  * engage in other activities, services, products and resources we make accessible to our customers, members or users. 
+
+
+
+The information may be provided directly to us by you when placing an order or participating in a survey, etc. ** , or, ** as is true of most websites, we gather certain information automatically. This information may include internet protocol (IP) addresses, browser type, device information, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends and administer the Website. This information may be collected by us even if an order, registration, or other process is started but not completed or is otherwise cancelled.
+
   
-Shari's Berries
+** B.     How we use "Cookies" and "Action Tags." **
 
-| 
+A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the Services, such as the shopping basket, may not function properly. To manage Flash cookies, please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-[accounts.berries.com](https://accounts.berries.com/)
+We have relationships with third parties who may collect or receive information directly from the cookies placed by our Service on your computer to assist in analyzing our business and customers. 
 
-| 
+Our Service may also use a common web technology called "action tags" (also called single pixel gifs or web beacons) to track purchase, usage and other web activity information. Action tags may be used to provide data to third parties for tracking purposes. In addition, third parties may set their own cookies and tags through our Service (such as through interest-based advertising, described below). We do not control such third parties or their privacy practices. If you do not want third parties to be able to use such methods, you should modify your browser settings to limit such access.
 
-(877) 237-7437  
   
-Gifts.com
+** C.     Interest-based advertising. **
 
-| 
+  1. Our Services. We collect data from you for use in interest-based advertising when you use our Service. Other companies may serve interest-based advertisements on our Service. We comply with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance ( [aboutads.info](https://www.aboutads.info/)).
+  2. Other Services. Advertisements for our products and services may appear on third party websites around the Internet. Some websites and services deliver these advertisements based upon data that has been previously collected about your past behavior online. For example, if you have viewed websites about gift baskets, these websites or services may display to you an advertisement for our gift baskets. This kind of targeted advertising is sometimes called interest-based or online behavioral advertising. It is generally not based upon your personal information (such as your name or email address), but rather, upon your online activities. We do not control such third party websites or services on which these advertisements appear. Further, we do not control how they collect and use data about your online activities.   
+Consent. You may opt-out of being tracked online by certain companies who are listed 
+  3. at  [ www.aboutads.info/choices/ ](https://www.aboutads.info/choices/) OR  [ www.networkadvertising.org/managing/opt_out.asp ](https://www.networkadvertising.org/managing/opt_out.asp) and may also learn more about online behavioral advertising at such websites. If you opt-out, you will still receive generic advertisements, but they will not be delivered to you by such companies from whom you have opted out based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, for each browser and each device, so if you delete your cookies or use a different computer, you will have to repeat this process. We do not respond to or honor "do not track" (a/k/a DNT) signals or similar mechanisms transmitted by web browsers. 
 
-[unsubscribe@customercare.providecommerce.com](mailto:unsubscribe@customercare.providecommerce.com)
 
-|   
+
   
-Cherry Moon Farms
+** D.     Push Notifications. **
 
-| 
+As a user who has downloaded our Company’s mobile application, we may from time-to-time send you push notifications to your device in order to communicate with you and advise you of current offers and promotions. To ensure that you receive timely notification of such communications and promotions, we need to collect certain information from your device as indicated above. If at any time you do not wish to receive these types of communications, you may turn them off at the device level.
 
-[accounts.cherrymoonfarms.com](https://accounts.cherrymoonfarms.com/)
+** E.     Mobile Analytics. **
 
-| 
+We use mobile analytics software to allow us to better understand the functionality of our Company’s mobile application on your device. This software may record information such as how often you use the application, the events that occur within the application, usage, performance data, and the source from which the application was downloaded. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-(888) 378-2758  
+** HOW WE USE/SHARE THE INFORMATION WE COLLECT **
+
+We use information we collect to communicate with you, to process your orders, to improve our products and services (such as by responding to your feedback), to conduct research (such as statistics on favorite -- i.e., most ordered \-- products), to provide an enhanced and more personalized shopping experience (for instance, to provide event reminders, such as birthdays), to inform you and your gift recipients of offers and discounts from the 1-800-FLOWERS.COM® family of brands and Company Affiliates, and to enable you to receive credits for purchases under loyalty or buying programs which you have joined. 
+
+We may also use your information, as necessary or appropriate in our view, to operate the Service, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in.
+
+We may combine information we receive from you via our Service with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us (for example, by keeping your profile up-to-date) and to communicate with you in accordance with this Privacy Policy. 
+
+In addition, as provided below, the Company may use or share your data with both affiliated and unrelated third parties, for the purposes so identified.    
+
+
   
-Sincerely  
-( _Ink/Sesame/Postagram_ )
+** A.     Affiliate Data Sharing.  **
 
-| 
+**   ** We may provide your information to our Company Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Privacy Policy, they are required to comply with this Privacy Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with, or in the same corporate family as, 800-Flowers, Inc.
 
-[unsubscribe@customercare.providecommerce.com](mailto:unsubscribe@customercare.providecommerce.com)
-
-|   
   
-Personal Creations
+** B.     e-Gifting Service.  **
 
-| 
+  1. Customer: If you choose to send a gift and notify the recipient using the electronic gift service available on our Website (the “e-Gifting Service”), you will be asked to provide personally identifiable information about yourself, your intended gift recipient and the method to communicate the transaction. This information will be shared with our e-Gifting Service technology provider, Smartgift, Inc., for the purpose of administering the e-Gifting Service.
+  2. Gift Recipient: If a customer has elected to send you a gift using the e-Gifting Service, your personally identifiable information, which is required to deliver the gift to you, will be shared with our e-Gifting Service technology provider, Smartgift, Inc., for the limited purpose of administering the e-Gifting Service. The personal information of gift recipients shall not be shared absent a legal basis or informed, affirmative consent by the gift recipient. 
 
-[accounts.personalcreations.com](https://accounts.personalcreations.com/)
 
-| 
 
-(888) 741-0508  
   
-**Text and Mobile Applications**
+** C.     Sharing with Others. **
 
-To the extent you are receiving SMS Messaging from a member of the FTD family of brands, you may opt out of receiving **_SMS messaging_** by replying to any message we send you with the word "STOP" or contacting us at the phone numbers above. To the extent you receive notifications from any of our applications, you may opt out of receiving **_push notifications_** on your mobile device through your account and device settings.
+We may also share your information with our subcontractors, agents, consultants, financial institutions, credit/debit card payment processors, business partners, vendors and service providers, but we generally only authorize them to use such information for our benefit, for instance, to process your order and to better communicate and provide appropriate offers to you and your gift recipient. 
 
-**NOTE:** Please allow up to ten (10) business days for us to process your request. If you make a purchase through an FTD Service, you may be opted back in to our marketing communications for all of our brands until you opt out or unsubscribe once again. We may continue to send you transactional or operational communications.
+In addition, we may make such information (except for credit/debit card numbers, expiration dates and CVV codes, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes. 
 
-* **What measures does FTD take to ensure the security of this Personal Information?**
+We may use your information to match it with other public and private data sources (such as the U.S. Postal Service and publicly available consumer data warehouses) or the records of our business partners solely to enhance our records and keep them current (such as by updating your profile with a new address, interests, and the like).  We also may work with other third parties who also possess your information in order to engage in advertising and other promotional services, for example, to enhance one or both of our advertising or promotional endeavors.
 
-We use procedural and technological security measures which are reasonably designed to help protect personal information from unauthorized access or disclosure, consistent with industry standards.
+  
+**D.      Change of Business.**
 
-We use encryption, passwords, and physical security measures to help protect your personal information against unauthorized access and disclosure. However, it is always possible that third parties will unlawfully intercept or access transmissions or defeat these measures. Therefore, we do not promise and cannot guarantee (and thus you should not expect) that personal information will never be viewed or used by others.
+We may transfer your information in connection with the sale, lease, license, assignment (of part, or all, of our business), acquisition, merger, reorganization or change of control of the Company, our Affiliates, or the division responsible for the Service with which your information is associated, or as part of a bankruptcy proceeding.
 
-* **How does FTD treat personal information related to children?**
+** E.      For Legal Purposes. **
 
-Our FTD Services are not directed at children under the age of 13 and we do not knowingly collect personal information from anyone under 13. Indeed, in order to make a purchase through the FTD Services, you must be 18 and have a valid credit card. Children should always get permission from their parents before providing any information about themselves online, to us or to anyone else. If parents believe their minor children have accessed the FTD Services and provided their personal information, please contact us.
+In certain situations, we may be required to disclose personal data in response to lawful requests from public authorities, including to comply with national security or law enforcement requirements. We reserve the right to disclose information we collect from you, or that you provide to us, as required by law, in response to legal process and law enforcement requests, when we believe, in good faith, that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, respond to a government request, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the  [ Terms of Use ](https://web.archive.org/About-Us-Terms-of-Use)). 
 
-* **How do you contact FTD if you have a concern with this Privacy Policy?**
+  
+** F.     Social Media **
 
-FTD takes your privacy concerns seriously. If you have questions regarding this Privacy Policy, please contact us at:
+** Please note that any personal information you reveal or post on one of our public forums (as defined in the ** **   ** ** [ Terms of Use ](https://web.archive.org/About-Us-Terms-of-Use)), such as a message board, chat room, blog, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us, and with third parties, including to contact you. Information you provide or post on our public forums, you disclose at your own risk. ** **   **
 
-FTD Companies, Inc.  
-3113 Woodcreek Dr.  
-Downers Grove, Illinois 60515  
-Attn: Customer Service
+** WHERE WE STORE YOUR INFORMATION **
+
+Our Service is operated in the United States. If you are located outside the United States, please be aware that any information you provide to us may be transferred to, and stored in, the United States. By using the Service or otherwise providing us with information, you hereby consent to this transfer. At times, for orders originating within the EU or UK or being delivered to the EU or UK, we may use third parties located within the EU or UK to process such orders.  In so doing, we take steps to ensure those entities will process your information in a manner consistent with this Privacy Policy. 
+
+Although personal information collected by us through the Service will be used by us in accordance with this Privacy Policy, laws generally applicable to the protection of personal data in the U.S. may not be as stringent as those in other countries. 
+
+** HOW LONG WE KEEP YOUR PERSONAL INFORMATION **
+
+We may retain your information in accordance with our data retention policies and for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements, or until you request us to stop using it.  We may, however, keep some of your personal information to ensure that we comply with your request not to use your personal information or comply with your right to erasure.  For example, we must keep your request to be erased, even if it includes your personal data, until such time as you are no longer our customer.
+
+If you have questions about our data retention policies, or would like a copy of such, please contact us as noted below. 
+
+** HOW YOUR INFORMATION IS SECURED **
+
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at feedback@1800flowers.com. 
+
+If you place an order on our Website, it encrypts the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the website is viewed using Microsoft IE®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive. 
+
+Portions of the Service (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the "Password"). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Service (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts. 
+
+** HOW TO LIMIT THE USE OF OR MODIFY YOUR INFORMATION **
+
+We want to communicate with you only to the extent you want to hear from us. 
+
+Any promotional email we send to you (or your gift recipient after consent) will include an “unsubscribe” link to use or a link to opt-out of receiving further promotional emails from the sender. 
+
+If you wish to set your preferences concerning promotional communications, or you prefer not to have your personal information shared with third parties, please let us know by contacting us as noted below in the “How to Contact Us” section and identify your preferences regarding promotional communications and the sharing of your contact information. Your instructions will be processed as soon as reasonably practicable and in accordance with law.
+
+  
+** Your California Privacy Rights **
+
+California law permits customers, who are residents of California, to request information about their personal information, if any, that the 1-800-FLOWERS.COM® family of brands discloses to third parties for the third parties’ direct marketing purposes. 
+
+To make such a request, please write to us at:
+
+1-800-Flowers.com   
+One Old Country Road   
+Suite 500   
+Carle Place, NY 11514   
+Attn: General Counsel 
+
+  
+If you would like to update or correct information previously provided to us, please contact us as indicated below in the “How to Contact Us” section.  Upon your written request, we will provide you with information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe. 
+
+Members can directly access, modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page. 
+
+** WHAT IF I CHOOSE NOT TO GIVE YOU MY PERSONAL INFORMATION **
+
+You are not obligated to provide us your personal information.  However, if the personal information is necessary in order to supply goods or services to you under a contract or an order between you and the Company and you do not give us your personal information, then we will not be able to enter into that contract or honor that order for goods or services. 
+
+** LINKS TO OTHER WEB SITES **
+
+The 1-800-FLOWERS.COM® family of brands wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party services, except the e-Gifting Service described below, you will be subject to the privacy policies and terms of use of those services, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other service. 
+
+We may provide you with the ability to log into our Service using a social media account, such as Facebook Connect. We do not control the activities of such social media services and have no control over the data they collect or their privacy practices. You should review their privacy practices before using any such social media service.    
+
+
+** HOW TO CONTACT US **
+
+1-800-FLOWERS.COM® family of brands welcomes feedback concerning this Privacy Policy. Please send your comments and questions to: [ feedback@1800flowers.com ](mailto:feedback@1800flowers.com). 
+
+Please contact us by any method indicated below:
+
+  * **Email** us at: [remove@1800flowers.com](mailto:remove@1800flowers.com) from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; 
+  * ** Write ** to us at:
+
+
+
+** Customer Satisfaction Department ** **  
+** ** 1-800-FLOWERS.COM ** **  
+** ** One Old Country Road ** **  
+** ** Suite 500 ** **  
+** ** Carle Place, NY 11514 ** 
+
+  * ** Telephone ** us at: _ 1-800-Flowers _ (1-800-356-9377) 
+
+
+
+When contacting us, please include or tell us your mailing address, and if you have a catalog, brochure or other mailing label from us, please include it with your request or have it ready when you call. 
+
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to:  [ update@1800flowers.com ](mailto:update@1800flowers.com). 
+
+For further information about our Privacy Policy or our processing of data about you, please contact us at:
+
+Data Privacy Office    
+1-800-Flowers.com   
+One Old Country Road   
+Suite 500   
+Carle Place, NY 11514
+
+  * Telephone us at: _1-800-Flowers_ (1-800-356-9377)
+  * Email at: [PrivacySupport@1800flowers.com](mailto:PrivacySupport@1800flowers.com)
+
+
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
+
+** CHANGES TO THIS PRIVACY POLICY **
+
+The Company may change this Policy from time to time in the future.  Any such changes will be posted here.  We advise you to check back frequently to see any updates or changes.
+
+By using the Website and the Service, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this Policy is a part. 
