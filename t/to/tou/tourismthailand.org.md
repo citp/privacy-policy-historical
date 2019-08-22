@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourismthailand.org privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326145859id_/https%3A//www.tourismthailand.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourismthailand.org privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822023607id_/https%3A//www.tourismthailand.org/Privacy-Policy) for the most accurate reproduction.*
 
 # The official website of Tourism Authority of Thailand
 
