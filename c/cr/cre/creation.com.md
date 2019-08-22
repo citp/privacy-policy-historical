@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the creation.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622140653id_/https%3A//creation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creation.com privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822203526id_/https%3A//creation.com/privacy) for the most accurate reproduction.*
 
 # Privacy - creation.com
 
   * [Introduction ](https://creation.com/privacy#Introduction)
   * [How we collect your information](https://creation.com/privacy#How_We_Collect)
   * [What happens if you do not provide your personal information](https://creation.com/privacy#No-personal-info)
-[ ](https://creation.com/privacy#No-personal-info)
-  * [](https://creation.com/privacy#No-personal-info)[How we use your information](https://creation.com/privacy#How_We_Use)
+  * [How we use your information](https://creation.com/privacy#How_We_Use)
   * [How you can access your personal information](https://creation.com/privacy#access-personal-info)
-[ ](https://creation.com/privacy#access-personal-info)
-  * [](https://creation.com/privacy#access-personal-info)[Security](https://creation.com/privacy#Security)
+  * [Security](https://creation.com/privacy#Security)
   * [Logs](https://creation.com/privacy#Logs)
   * [Cookies and local storage](https://creation.com/privacy#Cookies)
   * [Links](https://creation.com/privacy#Links)
   * [Maintenance of information](https://creation.com/privacy#Maintenance_of_Information)
   * [CMI-Worldwide and mailing list protection](https://creation.com/privacy#mailing_list)
   * [Dealing with privacy complaints](https://creation.com/privacy#Dealing-with-privacy-complaints)
-[ ](https://creation.com/privacy#Dealing-with-privacy-complaints)
-  * [](https://creation.com/privacy#Dealing-with-privacy-complaints)[Changes to this statement](https://creation.com/privacy#Changes_to_this)
+  * [Changes to this statement](https://creation.com/privacy#Changes_to_this)
   * [Contact information](https://creation.com/privacy#Contact_Information)
 
 
@@ -132,7 +129,7 @@ CMI-Singapore – Singapore Mediation Centre ([www.mediation.com.sg](http://www.
 
 CMI(UK/Europe) Ltd – Annually, we apply to renew our _Certificate of Registration_ , ensuring compliance with Data Protection legislation.
 
-We are registered with the Information Commissioner’s Office, registration ref: Z1097390; [ www.ico.gov.uk](http://www.ico.gov.uk/)
+We are registered with the Information Commissioner’s Office, registration ref: Z1097390; [ ico.org.uk](https://ico.org.uk/)
 
 ## Changes to this statement
 
