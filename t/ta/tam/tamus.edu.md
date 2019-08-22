@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501141845id_/http%3A//www.tamus.edu/marcomm/reports/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822101641id_/http%3A//www.tamus.edu/marcomm/reports/privacy) for the most accurate reproduction.*
 
 # Privacy - Office of Marketing and Communications
 
