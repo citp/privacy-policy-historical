@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unic.ac.cy privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528165735id_/https%3A//www.unic.ac.cy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unic.ac.cy privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822155338id_/https%3A//www.unic.ac.cy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – University of Nicosia
 
@@ -32,7 +32,7 @@ Tel: + 357 22 676752
 
 Fax: + 357 22 676754
 
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0b9beb6bf90b5bbbcbcb3feb5a5)
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3950575f56795c5255555a175c4c)
 
 ####  **A. Data Processing**
 
