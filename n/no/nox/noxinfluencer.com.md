@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noxinfluencer.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327084433id_/https%3A//www.noxinfluencer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noxinfluencer.com privacy policy that was archived on 2019-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190822185145id_/https%3A//www.noxinfluencer.com/privacy) for the most accurate reproduction.*
 
-# Find Everything About YouTube on NoxInfluencer
+# Privacy - NoxInfluencer
 
 Updated November 29, 2018
 
@@ -52,6 +52,11 @@ Nox uses "cookies". The use of cookies is an industry standard, and you'll find 
 ### Links to other websites
 
 Nox’s website provides links to other third party websites. Even if the third party is affiliated with Nox through a business partnership or otherwise, Nox is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk.
+
+### Privacy Policies of 3rd Parties We Integrate With
+
+Applies to All Customers - [Google Privacy Policy](http://www.google.com/policies/privacy)  
+Applies to All Customers - [YouTube API Terms of Service](https://developers.google.com/youtube/terms/developer-policies#definition-youtube-api-services)
 
 ### Google Analytics and Advertising
 
