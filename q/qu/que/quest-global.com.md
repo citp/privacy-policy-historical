@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513223435id_/https%3A//www.quest-global.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823091332id_/https%3A//www.quest-global.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ _Introduction_
 
 **QuEST Global Services Pte. Ltd**., together with its subsidiaries and affiliates (collectively, **“Company”** or **“We”** ) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website http://engineering.quest-global.com (and the candidate portal located at http://qrms.quest-global.com/QuestPortal/CP/Quest_CP/Default.aspx (collectively, the **“Website”** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website https://www.quest-global.com and the candidate portal located at https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30174&siteid=5116 (collectively, the **“Website”** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -26,7 +26,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 **_Children Under the Age of 13_**
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at info@quest-global.com. 
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at info@quest-global.com.
 
 **_Information We Collect About You and How We Collect It_**
 
@@ -95,7 +95,7 @@ We may also use your information to contact you about our own oods and services 
 
 **_Disclosure of Your Information_**
 
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. Personal information is not used or shared with any third party for marketing purpose without the consent of the data subject.  
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. Personal information is not used or shared with any third party for marketing purpose without the consent of the data subject.
 
 We may disclose personal information that we collect or you provide as described in this privacy policy:
 
@@ -125,7 +125,7 @@ We strive to provide you with choices regarding the personal information you pro
 
 **_Accessing and Correcting Your Information_**
 
- You may send us an e-mail at info@quest-global.com to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may send us an e-mail at info@quest-global.com to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 **_Data Security_**
 
@@ -141,4 +141,4 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 **_Contact Information_**
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us our email address [info@quest-global.com](mailto:info@quest-global.com)
+To ask questions or comment about this privacy policy and our privacy practices, contact us our email address [dataprotection_quest@quest-global.com](mailto:dataprotection_quest@quest-global.com)
