@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesciencetools.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328152739id_/https%3A//www.homesciencetools.com/privacy-security/%23Terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesciencetools.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823035945id_/https%3A//www.homesciencetools.com/privacy-security/%23Terms) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
