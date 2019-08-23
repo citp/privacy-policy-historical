@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcprohosting.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514135610id_/https%3A//mcprohosting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcprohosting.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823202229id_/https%3A//mcprohosting.com/privacy) for the most accurate reproduction.*
 
 # Minecraft Server Hosting and More! | MCProHosting | Privacy Policy
 
