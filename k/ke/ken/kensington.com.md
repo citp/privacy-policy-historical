@@ -1,198 +1,240 @@
-> *The following text is extracted and transformed from the kensington.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308233239id_/https%3A//www.kensington.com/us/us/4731/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kensington.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823205114id_/https%3A//www.kensington.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kensington
+# Privacy Policy | Kensington
 
-We respect your privacy and personal data.
+This Privacy Policy was last modified and is effective as of April 10, 2018.
 
-ACCO Brands and its subsidiaries respect your privacy.  This policy identifies the ways in which we collect your data, what we will do with the data collected and your choices relating to our collection and use of your data.
+ACCO Brands Corporation, its subsidiaries and affiliated entities (collectively, “ACCO Brands” or “we” or “us”) recognize that you care how your information is collected and used. We have created this Privacy Policy to inform you of how we collect, use and share this information. Please read this Privacy Policy carefully to be sure you understand its terms. If you have any questions about this Privacy Policy, please contact us here.
 
-This policy is available on all of our websites via a link on all web pages, commonly at the bottom of the screen.
+###   
+**1\. Scope of this Privacy Policy**
 
-We take privacy very seriously and in compiling this policy we have taken steps to ensure we have taken into account the standards and principles outlined in data collection and privacy frameworks around the world.
+This Privacy Policy applies to websites (including mobile websites), mobile applications and other digital platforms which are owned or managed by ACCO Brands and which contain or refer to this Privacy Policy (collectively, the “Digital Services”). It also applies to information collected through other channels that are NOT Digital Services, such as through our customer support services. This Privacy Policy does not apply to any of ACCO Brands’ websites (including mobile websites), mobile applications and other digital platforms to which it is not posted or to third-party websites and platforms, even though the Digital Services may link to such websites and platforms. You can learn more about links from the Digital Services in the “Links to Other Sites” section.
 
-We also apply the principles of the U.S.-E.U. Safe Harbor framework:
+This Privacy Policy describes our practices regarding both personal information and non-personal information. For purposes of this Privacy Policy, personal information is information that can be used to identify or contact a particular individual, for example: full names, addresses, and email addresses. Non-personal information, by itself, cannot be used to identify or contact a particular individual.
 
-  * Notice (we tell you what we are collecting and when we are collecting it)
-  * Choice (we give you the choice to not have data collected about you)
-  * Onward Transfer (we explicitly state how  and where we will transfer your data)
-  * Access and Accuracy (we will provide you with the ability to monitor the accuracy of your data)
-  * Security (we will keep all of your data as if it is our own - securely)
-  * Oversight/Enforcement (if we fail in any of these respects we will abide by any enforcement measures)
+### **2\. Your Consent and Agreement**
 
+This Privacy Policy forms part of your legal agreement with ACCO Brands under the Terms of Use applicable to the Digital Services. By using the Digital Services, you consent to the collection, use and disclosure of your information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, you should not use the Digital Services.
 
+### **3\. Modifications to this Privacy Policy**
 
-More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>
+ACCO Brands may modify this Privacy Policy from time to time. Whenever this Privacy Policy is revised, we will update the “effective date” at the beginning of the Privacy Policy. We encourage you to review this Privacy Policy each time you use the Digital Services to see if the Privacy Policy has been revised since your last visit. If we make a material change to this Privacy Policy, we will post a notice on the Digital Services. By using any of the Digital Services after the effective date of any changes, you agree to the terms of the Privacy Policy as modified.
 
-**1\. Sites covered**
+### **4\. Collection of Information**
 
-ACCO Brands is a global organization, with legal entities, business processes, management structures, and technical systems across the globe. This Privacy policy applies to all ACCO Brands owned websites and domains and the websites and domains of our wholly owned subsidiaries ("web site"), except in cases where a privacy policy or statement is available on one of the above mentioned websites that differs from this policy in which case the former will apply
+_Information You Provide_
 
-**2\. Links to external websites and services**
+We collect information that you provide to us, either by entering it into the Digital Services, providing it to a customer services representative, or otherwise. For example, when you request information, inquire about our services, subscribe to our emails, ask for promotional or support materials, place an order, open or manage an account, register ACCO Brands products, enter sweepstakes, contests, and promotions (collectively, “Promotions”), participate in surveys, or apply for a job at ACCO Brands, we will ask you to provide information to complete these transactions. The information you provide may include personal information, such as your name, email address, street address, telephone number and social media account information. Additional information you may provide includes, but isn’t limited to:
 
-Our websites may link to 3rd party web sites and services. These links are not endorsements of these sites and this policy does not extend to them. Because this policy is not enforced on these third party websites we would encourage you to read the privacy policy of the web site before using the service or site and providing any personal data.
+  * If you log in your account, your username and password.
+  * If you make a purchase, your payment information.
+  * If you enter a Promotion, your age or birth date.
+  * If you participate in a survey, demographic information such as your gender, age, occupation, income, ethnicity, family size and marital status, and information regarding your preferences or product choices.
+  * If you share communications or content from the Digital Services with a third party the third party’s name and/or contact information.
+  * If you apply for employment, your work authorization status, academic and employment history, salary history, desired salary, and any other information you submit to us or include on your resume and/or other documents you upload to the Digital Services. You may also choose to provide optional information such as race, gender, and whether you have a disability or are a Veteran.
 
-**3\. Online shopping facilities**
 
-In some cases we will partner with a third party service provider to facilitate our online shopping services. The information collected during your shopping experience is in some cases owned by the third party operating the online shopping facility. In these cases their privacy policy will be in force and we encourage you to make yourself aware of it in advance of placing an order. These third parties will usually share information with us about your transaction and we will store this.
 
-In order to most efficiently serve you, credit card transactions and order fulfilment are handled by established third party banking, process agents and distribution institutions. They receive the information they need to verify and authorize your credit card transactions and to ship your order. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it.
+_Information from Third Parties_
 
-**4\. Collection of data and personal information**
+ACCO Brands may collect information about you that we receive from other sources. For example, we may receive information about you from the U.S Postal Service National Change of Address (NCOA) service and providers of consumer data. We may combine the information we receive about you from these third parties with other information we collect from you. For example, we may use the information supplied by third parties to update and correct the information contained in our databases and to provide product recommendations and special offers that we think will interest you.
 
-To ensure that we provide you with the best possible experience we will store, use and share data about you in accordance with this policy and the relevant registrations with data protection authorities.
+We may also collect information or gain access to information from third-party social media platforms, including, without limitation, Facebook®, Twitter® and Instagram® (“Social Media Platforms”).
 
-For example, when you request information, subscribe to our eMails or ask for support materials, register yourself or your ACCO Brands products, enter competitions or participate in surveys, or apply for a job at ACCO Brands, we will ask you to provide personal information to complete these transactions.
+For example, the Digital Services may permit you to log in to or otherwise interface with a Social Media Platform from or in connection with the Digital Services. The information you submit while logging in to any social media platform while on the Digital Services is collected by the social media platform and not by ACCO Brands, but the social media platform may provide information about you, such as your user name, friend or follower lists and other information that you have made part of your public profile on that Social Media Platform, to us. In some instances, you may be able to choose which information the Social Media Platform shares with us. In other instances, the Social Media Platform, determines what information about you is shared with us. If you are already logged in to the Social Media Platform when you visit the Digital Services, the information may be provided to us automatically by the Social Media Platform.
 
-The sort of information that you provide in each case will vary and could include personal details such as your name, age and address. In some cases you will also provide profiling information such as your preferences or product choices. In some cases we will ask you for a username and password that should only be known to you.
+We may combine the information received from the Social Media Platform with other information we have about you. We recommend that you review the privacy policy of each Social Media Platform you use for more information about their privacy practices, and how to adjust your settings on that Social Media Platform to meet your preferences.
 
-In addition to the information that you provide to us we may also collect data about you during your visit to our website or whilst you engage with one of our marketing campaigns. We collect this data using automated tools that are detailed below. These tools collect data about your behaviour and your computer system. Information like your Internet address (IP Address), the pages you have looked at and the things you have done whilst on our web sites.
+_Information We Automatically Collect Through Technologies_
 
-We may also use these tools on our eMail marketing campaigns to allow us to understand what links you click on and what content is of interest to you.
+We capture certain information automatically whenever you visit or use the Digital Services. This information may include your Internet protocol (IP) address, browser type, operating system, device type, application software, time and date you visit or use the Digital Services, and traffic patterns and usage data, such as the pages you access, the website that directed you to the Digital Services and the website you visit when you leave the Digital Services. This information is gathered with "cookies" and/or other online tools. See the "Cookies and Other Technologies" section below for more information on how these tools work and how we use them.
 
-ACCO Brands may also collect data from commercial sources to enrich and verify the data that you have provided or that we have collected about you. This data will help us to ensure we have accurate records and will provide us with the ability to keep your information up to date. In some cases we may use this commercial data to work out something about you. For example we may use your IP address to calculate your approximate geographic location.
+The information we collect in this manner is not personal information. However, we may combine it with other information in an attempt to identify you or that does identify you.
 
-**a. Cookies**
+_Location Information_
 
-A “cookie” is a small data file transmitted from a website to your computer’s hard drive. ACCO Brands will use cookies on our websites to provide you with services and features. For example we will use cookies to help you login to your account and provide a personalised experience. We will also use cookies to connect your activity together across multiple visits. In some cases we will also use cookies to monitor your interaction with our advertising campaigns; these cookies will be delivered by a third party website but will provide us with information when you visit our web site.
+ACCO Brands may use your IP address, cookies, online tools or technologies – alone in some cases or in conjunction with other information or technologies in other cases - to derive your general location or your mailing address. However, ACCO does not track your precise physical location at any given moment in time. At present, we do not collect precise geolocation information from your mobile device. See the "Cookies and Other Technologies" section below for more information on how these tools work and how we use them. Please be aware that if you submit a digital photograph to us, it may contain location data. If you don’t want us to have such data, you should delete it prior to submitting the photograph.
 
-Cookies are usually defined in one of two ways and ACCO Brands sites use both of them: 
+### **5\. How We Use Your Information**
 
-Session cookies do not stay on your computer after you close your browser.
+The information we collect is used for the purpose for which it was collected, such as to provide the information, product or service you requested or to complete a transaction. In addition, we may also use your information to or for:
 
-Persistent cookies remain on your computer until you delete them or they expire. Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept cookies by adjusting the preferences in your browser.
+  * Process, track and ship orders and manage billing and payment processes.
+  * Communicate with you regarding your orders, purchases, accounts, employment applications and Promotions entries.
+  * Provide customer service.
+  * Prevent and investigate malicious activity, security breaches, and fraud.
+  * Provide additional advertising, marketing and promotional functionality and services, including distribution of print or digital catalogs or promotional communications.
+  * Provide you with ACCO promotional emails, and manage your preferences regarding such communications. 
+  * Identify your preferences to customize our communications and marketing and provide you with a personalized experience.
+  * Post content provided by you, such as product reviews, on the Digital Services.
+  * Invite you to participate in Promotions or surveys.
+  * Administer and fulfill Promotions, including tax reporting.
+  * Improve our products, services, merchandise selection, Digital Services, marketing and promotional efforts and customer service.
+  * Develop and manage internal administrative and analytical processes and records.
+  * Enable us to track and measure the effectiveness of digital advertising and marketing services.
+  * Any other purpose you have authorized.
 
-The instructions on disabling cookies, [click here. ](http://www.usa.gov/optout-instructions.shtml)
 
-Please be aware that a number of features on our site require cookies to operate correctly – turning off cookies will affect your experience on our website.
 
-**b. Web beacons**
+### **6\. How We Share Your Information with Others**
 
-A Web beacon is an electronic image. Web beacons can track certain things from your computer and can report activity back to a web server allowing us to understand some of your behaviour.
+#### _Non-Personal Information:_
 
-If you choose to receive emails from ACCO Brands we will use web beacons to track your reaction to our emails. We will also use them to track if you click on the links and at what time and date you do so. Some of our marketing partners will use web beacons to track your interaction with online advertising banners.
+Unless otherwise prohibited by law, ACCO Brands may share your non-personal information with third parties for any purpose, including third-party marketing efforts. This non-personal information may include aggregate data, which is compiled data reflecting the collective usage of multiple users. We may also share de-identified information. De-identified information is not personally identifiable, but it does reflect the usage patterns of a particular use of the Digital Services, as opposed to users collectively.
 
-**c. Embedded Web links**
+#### _Personal Information:_
 
-Links provided in our emails and in some cases on 3rd party websites may include tracking embedded in the link. The tracking is accomplished through a redirection system. The redirection system allows ACCO Brands to understand how the link is being used.
+_With Your Authorization:_
 
-Some of these links will enable ACCO brands to identify that you have personally clicked on the link and this may be attached to the personal data that we hold about you. This data is used to improve our service to you and to help us understand the performance of our marketing campaigns.
+ACCO Brands may transfer your information to third parties if you authorize such disclosure.
 
-**d. Third-party websites and services**
+_Without Your Authorization:_
 
-ACCO Brands works with a number of service providers of marketing communications technology. These service providers may use various data collection methods to improve the performance of the marketing campaigns we are contracting them to provide. The Data collected can be gathered on our websites and also on the websites where our marketing communications are appearing. For example we may collect data where our banner adverts are displayed on third party websites. This type of ad vertising is sometimes called "online behavioral" or "interest-based" advertising — is enabled through your computer browser and browser cookies. Such online advertising helps support the free content, products and services you get online. To opt-out of these advertising networks, [click here](http://www.networkadvertising.org/choices/?mkt_tok=3RkMMJWWfF9wsRonu67JcO%2FhmjTEU5z17eUqWqGg38431UFwdcjKPmjr1YIBS8JiI%2BSLDwEYGJlv6SgFQrTNMbBn3rgMXBU%3D#completed).
+We may share your personal information in the following circumstances or with the following entities without your authorization as follows:
 
-**e. Ratings & Review, Questions and Answers**
+_The ACCO Brands Family_
 
-On sites where Ratings & Reviews, and Questions & Answers data is collected and displayed on our sites the use of any data collected through its cookies is subject to the Bazaarvoice Privacy Policy, and can be found [here](http://www.bazaarvoice.com/privacy-policy/?mkt_tok=3RkMMJWWfF9wsRonu67JcO%2FhmjTEU5z17eUqWqGg38431UFwdcjKPmjr1YIBS8JiI%2BSLDwEYGJlv6SgFQrTNMbBn3rgMXBU%3D).
+We may share or transfer your personal information to our subsidiaries and corporate affiliates, including future subsidiaries and affiliates. These companies may use your information for their own marketing purposes consistent with this Privacy Policy.
 
-**5\. Social Media**
+_Third-Party Service Providers_
 
-We provide features on our web sites that allow you to share and connect through social networks. These features are connecting with the services provided by the social networks and therefore the privacy controls in place are those of the social networks. Before engaging with any of these tools we would encourage you to be aware of the privacy settings of your social profiles and also to read the privacy policies of the networks in question. These social features will often store information about you and the things that you share or comment upon.
+ACCO Brands may share or transfer your personal information with third-party service providers. These third parties may include providers of services including hosting, maintenance and support services, payment processing and authorization, order processing, shipping, fraud protection and risk reduction, email distribution, mail delivery, marketing and advertising, market research and Promotions management and fulfillment, among others.
 
-If you share any of your personal information through a public forum or social network enabled feature on our web sites this information could be read by any one. ACCO Brands is therefore not responsible for the personal information you choose to submit in these forums.
+_Third-Party Marketing and Sales_
 
-**6\. How we use your information**
+We may make your personal information, together with information regarding your shopping activity, demographics, and product preferences, available to third parties for ACCO’s, the third-party’s, or others’ marketing purposes.
 
-All of the information that we gather and that you provide is aimed at improving our service to you and your experience when engaging with our brands. For example we may use your information to:
+We may also offer certain carefully chosen third-party products or services through the Digital Services. Should you choose to accept an offer from a third party, we may provide that third party with your personal information in order to facilitate the service or transaction that you request.
 
-  * prevent malicious activity and provide you with a secure experience;
-  * provide service and support for products that you own;
-  * provide marketing communications that are effective and optimised for you;
-  * keep you up to date with the latest benefits available from us;
-  * avoid sending you something that will not be of interest;
-  * define what content you might be interested in;
-  * personalize our websites to you;
-  * measure performance of marketing programmes;
-  * invite you to participate in competitions;
-  * to learn about your behaviour and try to improve what we do for your benefit;
-  * contact you about services and offers that are relevant to you;
+_Business Reorganization or Sale_
 
+In the event that ACCO Brands merges with or becomes part of another organization, or in the event that we are sold, sell all or substantially all of our assets, sell a line of business or are otherwise reorganized, your personal information may be one of the assets transferred to the acquiring or reorganized entity.
 
+_As Required by Law or to Protect Rights_
 
-Where we display testimonials, reviews or recommendations on our web site they have been placed there with the express consent of the owner of the statement.
+ACCO Brands reserves the right to release your information (i) to comply with any law, rule or regulation, when we are under legal compulsion to do so (such as a subpoena or court order), or when we otherwise believe that the law requires us to do so, (ii) to investigate and help prevent security threats, fraud or other malicious activity, (iii) when ACCO Brands believes it is necessary to protect or enforce the rights, property interests, or safety of ACCO Brands, our employees, the users of our Digital Services or others, or (iv) as ACCO Brands deems necessary to resolve disputes, troubleshoot problems and otherwise enforce the Privacy Policy and Terms of Use.
 
-**7\. How we share your information**
+_Social Media and Advertising Platforms_
 
-ACCO Brands will never sell or lease your information to any third party. We may disclose your personal information to our partners in accordance with this policy. We will share your information in the following ways:
+We may use platforms such as Facebook® to offer you advertising based on your interests. In order to offer these ads, we may disclose personal information, such as email addresses, social media ID or handle, or phone numbers, to the platform provider, which can match this information to a particular platform user.
 
-ACCO Brands works with a number of suppliers internationally that help us to process your requests, deliver customer service and support, send our email marketing communications and provide the experience that you have come to expect from our brands. We will share your information with these suppliers in order to fulfil the service that they provide to us. They are under contract to keep your data secure and not to use it for any reason other than to fulfil the service we have requested from them.
+_Information Collected by Third Parties_
 
-On occasion we may provide you with the ability to communicate with selected third parties. Where this is the case we will provide you with the facility to instruct us to share your data with the selected third party. We will only ever share your data in this way if you have told us that you are willing to allow us to do so.
+In some instances, we may allow third parties to use online tools to collect information about you when you use the Digital Services. For more information, please see the Cookies and Other Technologies and Targeted Advertising sections of this Privacy Policy.
 
-ACCO Brands requires that all users of our web sites and marketing campaigns allow us to share information with our subsidiaries and global legal entities. As a global organisation we have systems and process in countries around the globe and therefore need to be able to process your information globally to fulfil your requests for service and deliver the experience that you have asked for. This sharing is required as a condition of you providing us with information.
+### **7\. Cookies and Other Technologies**
 
-Except as described in this policy we will not share your data with third parties unless it is under one of the following circumstances
+ACCO Brands uses technologies, including, without limitation, cookies and pixel tags, in connection with the Digital Services.
 
-(i) respond to duly authorized information requests of police and governmental authorities;  
-(ii) comply with any law, regulation, subpoena, or court order;  
-(iii) investigate and help prevent security threats, fraud or other malicious activity;  
-(iv) enforce/protect the rights and properties of ACCO Brands or its subsidiaries; or  
-(v) protect the rights or personal safety of ACCO Brands employees 
+_Cookies_
 
-There are circumstances where ACCO Brands may decide to buy, sell or reorganise business in selected countries. Under these circumstances it may be necessary to share or receive personal information with prospective or actual partners. In these cases ACCO Brands will seek to ensure that all data remains protected by a policy of this nature.
+Cookies are small data files transmitted by a website and stored on your computer or device. The Digital Services use both session cookies, which do not stay on your computer after you close your browser, and persistent cookies, which remain on your computer until you delete them or they expire. Our use of cookies includes, but may not be limited to:
 
-**8\. Children's privacy**
+  * To permit our Digital Services to function properly and enhance user experience, such as remembering the items in your shopping cart, storing your preferences, recognizing you when you return to the Digital Services, providing a personalized experience, and helping you login to your account.
+  * To implement analytics tools, including Google Analytics, that help us understand how the Digital Services are performing and how visitors engage with the Digital Services.
+  * To improve and track our advertising, including to connect your activity across multiple visits and multiple ACCO Brands websites, to monitor your interaction with our advertising campaigns, to customize content and marketing on the Digital Services, and for Targeted Advertising.
+  * To identify other information about you, including your name, email address, and mailing address, and to send you digital and print marketing materials.
 
-ACCO Brands does not actively seek to gather data from Children. We do not target our products or services at children and would not expect them to be engaging with our web sites or services. We would encourage parents and guardians to provide adequate protection measures to prevent children from providing information unwillingly on the internet. If we are aware of any data that we have collected about children we will endeavour to delete it.
 
-**9\. Your choices and selecting your privacy preferences**
 
-ACCO Brands wants to provide you with relevant information that you have requested. 
+_Pixel Tags_
 
-You can make choices about the subscription based services we provide at the point of data collection or at anytime after you have received a communication from us or whilst you are subscribed to a service. This assumes that any transactional or service oriented messages are excluded from your preference as they are not intended to be for the purposes of marketing communications and rather to fulfil a service you have requested.
+ACCO Brands uses pixel tags, which are tiny graphic images (also known as web beacons, action tags, or transparent GIF files). Our use of pixel tags includes, but may not be limited to:
 
-The communication that you receive from ACCO Brands will be in accordance with your preferences and this policy. Some of the communications you receive could include automatic data collection tools.
+  * To tell us which parts of the Digital Services you have visited and to measure the effectiveness of any searches you may perform on the Digital Services.
+  * To send you email messages in a format you can read and let us know when you have opened a message from us and whether you click on the links contained in the message.
+  * We or our ad marketing partners may use pixel tags to track your interaction with online advertising, measure the performance of a marketing effort, and for Targeted Advertising.
 
-**a. Subscription eMail communications**
 
-ACCO Brands provides the ability for you to subscribe to receive eMail newsletters that are expressly requested by you or which you consented to receive. 
 
-After you request to receive these emails, you may opt out of receiving them by selecting the “Change preferences” or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
+_Embedded Links_
 
-Please note that by opting out you may affect other services which you have requested we provide to you where eMail communication is a requirement of the service provided.
+Links provided in our emails and, in some cases, on third-party websites may include tracking embedded in the link. The tracking is accomplished through a redirection system. The redirection system allows ACCO Brands to understand how the link is being used. Some of these links will enable ACCO brands to determine that you have clicked on the link. This information may be combined with the personal information that we have about you. We use this information to evaluate and improve our services and the performance of our marketing campaigns.
 
-**10\. Access to and accuracy of your information**
+_Managing Cookies_
 
-ACCO Brands strives to keep data accurately. We have processes in place to ensure that we keep all of our data in accordance with relevant frameworks and take steps to monitor accuracy. We employ technologies that will try to maintain data accuracy on input and processing to help us achieve this aim.
+Most browsers accept cookies by default, but you can usually block or restrict cookies on your computer or device or purge them from your browser by adjusting your browser preferences. You should consult the user guide for your browser or mobile device for instructions on how to configure settings to meet your preferences. Cookies allow you to take advantage of some features of the Digital Services, so if you block or restrict cookies, you may not be able to use some features of the Digital Services. To learn more about Google Analytics and your privacy choices in connection with Google Analytics, including the Google Analytics Browser Opt-Out Add On, please visit the Google website at [https://www.google.com/policies/privacy/partners](https://www.google.com/policies/privacy/partners/ "Google Analytics Browser Opt-Out")/.
 
-Where we enable you access to your private data we will always ask you for a username and password to help protect your privacy and security. We recommend that you keep your password safe and do not disclose it to any third party.
+For more information regarding your privacy choices in connection with cookies and other technologies, see the Targeted Advertising section of this Privacy Policy.
 
-To view and change the personal information that you directly provided to ACCO Brands you can return to the Web page where you originally submitted your data and follow the instructions on that Web page or contact us directly for assistance.
+### **8\. Targeted Advertising**
 
-**11\. Keeping your personal information secure**
+ACCO Brands’ advertisements are shown on third-party websites and platforms and our Digital Services may display advertising from third parties. We and our vendors, including Google, use technologies cookies and pixel tags to help manage online advertising and to serve ads to you based on your online activity, including past visits to the Digital Services and visits to third-party websites and platforms. These technologies may be provided by us or our vendors and may allow us or the vendors to recognize a unique cookie or pixel tag placed by us or by third parties when you access the Digital Services or when you visit third-party websites or platforms. They also allow us and our vendors to collect information about your online activities over time and across third-party websites and platforms so we or they can manage advertising effectiveness and provide you with online advertisements, including without limitation advertisements on third-party websites and platforms, more likely to be of interest to you. These technologies also allow us to learn which advertisements bring users to our Digital Services.
 
-ACCO Brands will use appropriate physical, technical and administrative procedures to safeguard the information that we collect to prevent unauthorised access or disclosure.
+For more information about targeted advertising and your choice to opt-out of receiving targeted online advertisements, visit the following:
 
-When we collect or transmit information over the internet we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. All of our data is stored in secure facilities with limited access and stringent security procedures.
+  * To opt-out from targeted advertising from members of the Digital Advertising Alliance (DAA), please visit the DAA website. <http://www.aboutads.info/choices/>
+  * To opt-out of targeted advertising from members of the Network Advertising Initiative (NAI), please visit the NAI website. <http://www.networkadvertising.org/choices/>
 
-**12\. Changes to this statement**
 
-If we make any changes to this policy they will be posted on this page. You can get to this page from any of the Web sites that this policy applies to by clicking on the privacy policy link (usually at the bottom of the screen) We will always date these changes so you know if you are looking at a changed version.
 
-This policy was last changed in July 2011.
+Please note that these opt-out mechanisms are browser specific. If you wish to opt-out of targeted advertising across all browsers, you need to visit the above websites from each browser you use. Also, please be aware that if you opt out of receiving targeted advertising, you will still be served with advertisements, but they will no longer be targeted to your interests.
 
-**13\. Contacting us**
+### **9\. Your Privacy Choices**
 
-We value your opinions and welcome your feedback. Please use the contact methods defined on our websites to get in touch with us. If you would like to contact us about this policy or your personal data please ensure that you inform us that your request is to do with data protection and privacy so that it is routed to the correct team.
+_Promotional Email Communications from ACCO Brands_
 
-**14\. Other Policies and statements**
+ACCO Brands wants to provide you with relevant information regarding our products and services. You can choose which promotional email communications to receive from us by logging in to “My Account” and adjusting your communication preferences. In addition, you can manage your email preferences by clicking on the “unsubscribe” link in any promotional email we send you and following the procedures indicated. Please note that even if you opt out of receiving promotional emails from us, we will send you transaction emails and respond to questions from you.
 
-Please read this privacy policy in conjunction with our [global ‘terms of use’ statement](https://web.archive.org/web/20170308233239id_/https%3A//www.kensington.com/us/us/legalNotice)
+_Print Catalogs_
 
-**15\. Governing Law**
+If you no longer wish to receive print catalogs from us, please contact us with a request to be removed from our print catalog mailing list and provide your exact name and address, or the mailing label from your catalog, so that we can identify you correctly. Because mailings are planned in advance, it may take several weeks for your request to become effective. If you continue to receive unwanted print catalogs, please contact us again.
 
-ACCO Brands is a global organisation with Web sites and computer facilities located all over the world. People from  anywhere in the world can access our Web sites and services. Should this agreement be subject to legal review we will comply with the law of the country where our Web sites are located or directed. 
+_Do Not Track (“DNT”) Signals_
 
-Please be aware that if you provide personal information to our Web sites that
+Although your browser may deliver a DNT signal to the Digital Services, ACCO Brands does not currently respond to DNT signals.
 
-(a) that information may go to a country that has different privacy laws than your own country or the country in which you are using the Web site or service  
-(b) it will be handled in accordance with this policy and the laws of the country where the Web site is located or directed
+_Cookies and Other Technologies; Targeted Advertising_
 
-Kensington Conputer Products Group
+For information on how you can control cookies, please review the Cookies and Other Technologies section of this Privacy Policy. For information on how to exercise choices regarding targeted advertising, see the Targeted Advertising section of this Privacy Policy.
 
-1500 Fashion Island Blvd,  
-3rd Floor,   
-San Mateo,   
-CA 94404
+### **10\. Security**
 
-[](http://www.bbb.org/greater-san-francisco/business-reviews/computers-supplies-and-parts/kensington-computer-products-group-in-san-mateo-ca-64379#bbbseal "Kensington Computer Products Group, Computers  Supplies & Parts, San Mateo, CA")
+Although ACCO Brands uses Secure Socket Layer ("SSL") security technology to safeguard your shopping transactions and encrypt your payment information, no website, server or application is completely secure. We cannot promise that your personal information will not be disclosed or misused, either by accident or by the unauthorized acts of others, such as “hackers.” We urge you to be careful online. This includes not sharing your user names and passwords
+
+The Digital Services may contain customer reviews, message boards and other areas allowing you to post content on the Digital Services or share it with your social media accounts. Please remember that any information disclosed in this manner becomes public information. You agree that ACCO Brands is not responsible for material posted by you or others in these public forums.
+
+### **11\. Links to Other Sites**
+
+_Other ACCO Brands Websites and Digital Platforms_
+
+This Privacy Policy applies only to the ACCO Brands Digital Services on which it is posted. Other ACCO Brands websites (including those for intended for different countries), social media sites, and applications may have different privacy policies. Please read the privacy policy posted on each ACCO Brands website, social media site, application or other digital platform that you visit to understand the information collection, use and sharing practices that apply.
+
+_Third-Party Websites and Digital Platforms_
+
+The Digital Services may link to websites and digital platforms operated by third parties. These websites operate independently of ACCO Brands and have their own privacy policies and terms of use which differ from those of ACCO Brands. We encourage you to review the privacy policy and terms of use posted on each third-party website you visit.
+
+### **12\. Updating Your Information**
+
+Some ACCO Brands Digital Services allow or require users to set up an account. If you have an account, you can access and update your account information by logging in to the “My Account” section. You may also update certain customer information (name, address, telephone number and email address) by contacting us. Please note that you may not be able to access or update all information we have about you.
+
+### **13\. Children**
+
+The Digital Services are intended for use by adults only. We do not knowingly collect personal information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us personal information, you can contact us to remove such information
+
+In addition, California minors (under 18 years of age) may in certain circumstances request and obtain removal of content or information they posted to the Digital Services. If you are a California minor, you may make a removal request by contacting us.
+
+### **14\. Consent to Data Transfer**
+
+ACCO Brands is a global organization, with legal entities, business processes, management structures, and technical systems across the world. By providing your personal information to us, you are indicating your express consent to have your information transferred, processed, and stored globally, including in countries outside the United States, whose privacy and data protection laws may be less comprehensive than those in the United States.
+
+### **15\. Notice to California Residents - Your California Privacy Rights**
+
+Under California’s "Shine the Light" law, California residents who provide personal information when obtaining products or services for personal, family, or household use are entitled to request and obtain from ACCO Brands certain information about the personal information we shared, if any, with other businesses for their own direct marketing uses. To obtain this information, please contact us, with "Request for California Privacy Information" in the subject line of your correspondence or email. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+
+### **16\. Notice to Individuals Located Outside of the United States**
+
+This site is intended only for individuals located in the United States. If you are located outside of the United States, please visit one of our sites for your region. Specifically, if you reside in a member state of the European Economic Area (the European Union as well as Lichtenstein, Norway, and Iceland), please visit one of our E.U.-based websites.
+
+### **17\. Contact Us**
+
+We always welcome your questions and feedback. For privacy-related issues, please contact us at:
+
+Consumer Affairs  
+PO Box 540  
+Booneville, MS 38829
+
+Toll-free: 800.648.6323  
+Fax: 800.941.4461  
+Email: [DataPrivacy@acco.com](mailto:DataPrivacy@acco.com "E-mail DataPrivacy@acco.com")
