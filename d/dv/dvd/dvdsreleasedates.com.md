@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdsreleasedates.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620192208id_/https%3A//www.dvdsreleasedates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdsreleasedates.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823222707id_/https%3A//www.dvdsreleasedates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
