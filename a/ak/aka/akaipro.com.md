@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the akaipro.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226215311id_/http%3A//www.akaipro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akaipro.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823201902id_/https%3A//www.akaipro.com/privacy-policy) for the most accurate reproduction.*
 
-# AKAI Professional
+# Akai Professional Privacy Policy
 
-## inMusic Privacy Policy
+##### Thank you for visiting inMusic and its family of world-class audio performance, music technology and consumer electronics brands!
 
 _Last Updated: 24 May 2018_
-
-Thank you for visiting inMusic and its family of world-class audio performance, music technology and consumer electronics brands!
 
 At inMusic, we hear your concerns about privacy and are committed to protecting your information.  inMusic has created this Privacy Policy to be transparent about how we collect, use, process and disclose your information, including personal information, when you access and use any of our websites.
 
@@ -28,17 +26,17 @@ Please review this Privacy Policy carefully, as it describes the type of data we
 
 
 
-#### TYPES OF INFORMATION WE COLLECT
+### Types of Information We Collect
 
 #### Information You Provide To Us
 
 We collect information you voluntarily provide to us.  For example, certain portions of our sites may require that you submit personal information, such as your name and email address, before using those portions of the site.  You are also required to register with our sites and provide your name or email address before using any of the “members only” areas of our sites. For some services, such as forums, blogs, customer support features, registering products, for events or contests, downloading software or uploading content, you may have to create an account and submit additional personal information such as your mailing address.
 
-Some of our websites allow you to purchase hardware and/or software products. If you choose to make a purchase, you must provide certain payment information, including your name, credit or debit card number, card expiration date, CVV code, and billing address. This information is encrypted and sent to your card network, which upon approval sends back to our website a token, which is a set of random digits for engaging in transactions without exposing your card number. **We do not store your payment information**. We store your shipping address to fulfill your order. Note that third-party payment processors may retain this information in accordance with their own privacy policies and terms.
+Some of our websites allow you to purchase hardware and/or software products. If you choose to make a purchase, you must provide certain payment information, including your name, credit or debit card number, card expiration date, CVV code, and billing address. This information is encrypted and sent to your card network, which upon approval sends back to our website a token, which is a set of random digits for engaging in transactions without exposing your card number.  **We do not store your payment information**. We store your shipping address to fulfill your order. Note that third-party payment processors may retain this information in accordance with their own privacy policies and terms.
 
 #### Information Collected Automatically
 
-You may visit our sites while remaining anonymous and not reveal any personal information.  However, our apps and websites use cookies and similar technologies to automatically log your IP address and domain name, and non-personal information such as the type of device you use to access our websites, the operating system and version, your general geographic location as indicated by your IP address, your browser type, the webpages you view on our websites, and whether and how you interact with content available on our websites.  This information helps us administer the sites and to compile statistics such as the number of visitors.
+You may visit our sites while remaining anonymous and not reveal any personal information.  However, our apps and websites use cookies and similar technologies to automatically log your IP address and domain name, and non-personal information such as the type of device you use to access our websites, the operating system and version, your general geographic location as indicated by your IP address, your browser type, the webpages you view on our websites, and whether and how you interact with content available on our websites.  This information helps us administer the sites and to compile statistics such as the number of visitors.
 
 #### Information Obtained From Other Sources
 
@@ -48,17 +46,17 @@ On occasion, inMusic may offer in conjunction with third parties, such as softwa
 
 While not intended for, nor targeted to children, some of inMusic’s applications and websites may appeal to children under the age of eighteen.  We do not knowingly request or collect data from children under eighteen unless we have the consent of a parent or guardian. We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit.  If a parent or guardian notifies us or we otherwise learn that a child under eighteen has improperly registered or submitted information, we will immediately cancel the child’s account and delete all personal information of that child from our records.
 
-#### TYPICAL CUSTOMER INTERACTIONS WHERE WE MAY COLLECT INFORMATION
+### Typical Customer Interactions Where We May Collect Information
 
 To assist you in understanding when and how inMusic may collect information, outlined below are situations when we potentially collect personal information from you:
 
 #### Learning About inMusic And Its Brands
 
-inMusic markets and sells a broad range of products for all skill levels from beginner to professional.  Understandably, customers and prospective customers may want to learn more about inMusic’s products.  In certain circumstances, in addition to us collecting information via cookies and similar technologies, you may voluntarily provide personal information, such as your name and email address. We use this information to provide updates about product offering, events, contests and other news that customers typically wish to receive.
+inMusic markets and sells a broad range of products for all skill levels from beginner to professional.  Understandably, customers and prospective customers may want to learn more about inMusic’s products.  In certain circumstances, in addition to us collecting information via cookies and similar technologies, you may voluntarily provide personal information, such as your name and email address. We use this information to provide updates about product offering, events, contests and other news that customers typically wish to receive.
 
 #### Buying Our Products
 
-Many of our websites offer a “Buy Now” feature for certain products.  To complete any purchase, we collect your name, phone number, email address, delivery and shipping address(es), and payment information.  We use this information to complete your transaction, send you order/shipment/delivery notifications and address any other matters related to your purchase.  **Note that we never store payment or credit card information. We only use payment information to complete your purchase.**
+Many of our websites offer a “Buy Now” feature for certain products.  To complete any purchase, we collect your name, phone number, email address, delivery and shipping address(es), and payment information.  We use this information to complete your transaction, send you order/shipment/delivery notifications and address any other matters related to your purchase.   **Note that we never store payment or credit card information. We only use payment information to complete your purchase.**
 
 #### Registering Your Products
 
@@ -68,7 +66,7 @@ To install any bundled software and download important updates, you will need to
 
 You may occasionally contact our Customer Support group for product assistance.  To provide the best service to you, we may collect contact information such as your name, email address, phone number and the content of our communications (including chats and voice recordings if you contact us by phone).  We may also collect diagnostic information about your product(s), in which case we will notify you specifically in advance.  We use this information to provide the highest quality and efficient customer support.  Contact information is used to respond to you in your preferred method and to ensure delivery of any product returns or exchanges.
 
-#### HOW WE USE INFORMATION
+### How We Use Information
 
 #### Product Development and Improvement
 
@@ -92,13 +90,13 @@ We use data to analyze product and service usage, feature and content popularity
 
 #### Communications and Marketing
 
-We use data to send you personalized information about inMusic, our products and brands, services, and other topics inMusic thinks may be of interest to you, such as brand, product and service information or updates. We also use cookies and similar technologies to provide the most relevant advertising to you.  For information about managing email subscriptions and promotional communications, please visit Your Rights and Choices.
+We use data to send you personalized information about inMusic, our products and brands, services, and other topics inMusic thinks may be of interest to you, such as brand, product and service information or updates. We also use cookies and similar technologies to provide the most relevant advertising to you.  For information about managing email subscriptions and promotional communications, please visit Your Rights and Choices below.
 
 #### Aggregation and Use of Anonymous Data
 
 inMusic aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps inMusic to understand and know its customer base better. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally.
 
-#### HOW WE SHARE INFORMATION
+### How We Share Information
 
 **inMusic does not sell your personal information.**   We only disclose your data as described below.
 
@@ -136,7 +134,7 @@ On occasion, inMusic may make available to users of our sites, contests, sweepst
 
 inMusic may permit a third party to sponsor a survey, contest, sweepstakes, or other similar event with inMusic, such as through posting it on our sites. Such third party events are governed solely by any applicable rules, and may require you to provide information to that third party as a condition for participation. While inMusic will treat any information it receives in accordance with this Privacy Policy, inMusic is not responsible for the information gathered by that third party, and inMusic reminds you to review the rules and privacy policies separately applicable to those third-party events.
 
-#### OUR BASES FOR USING YOUR INFORMATION
+### Our Bases for Using Your Information
 
 We rely on certain legal bases to use your personal information.  Specifically:
 
@@ -152,15 +150,15 @@ The use of your personal information may be necessary to perform the agreement y
 
 We may use your personal information for our legitimate interests. For example, we rely on our legitimate interest to analyze and improve our products and services and the content on our websites and app, to send you notifications about software updates or information about our products and services or to use your personal information for administrative, fraud detection or legal purposes.
 
-Where we process your personal information based on our legitimate interest and no opt-out mechanism is available to you, you may exercise your right to object by sending an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com). 
+Where we process your personal information based on our legitimate interest and no opt-out mechanism is available to you, you may exercise your right to object by sending an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com). 
 
-#### SECURITY, STORAGE AND RETENTION OF INFORMATION
+### Security, Storage, and Retention of Information
 
 #### Security
 
 While inMusic is committed to protecting the security of your information, no security system is perfect.  inMusic employs a variety of reasonable and appropriate technical and organizational measures and industry standards to protect against the loss, theft, misuse and unauthorized access, disclosure, alteration and destruction of the information under our control. Since our sites under general usage do not collect financial information, inMusic uses the standard internet connections for those general usage portions of the site, without secured sockets. 
 
-In some cases, you may be prompted to register with our sites to undertake a particular site activity or obtain a particular service. As part of that registration, you may be asked to choose your own password. inMusic reminds you to protect your password, and not provide it to others to use. Allowing others to access and use your account and password can compromise the security of your information. inMusic disclaims any responsibility or obligation for your decision to provide your password to others. Please alert us immediately if you believe your password has been misused. Additionally, always log out and close your browser when you finish your session. **Please note, we will never ask you to disclose your password.**
+In some cases, you may be prompted to register with our sites to undertake a particular site activity or obtain a particular service. As part of that registration, you may be asked to choose your own password. inMusic reminds you to protect your password, and not provide it to others to use. Allowing others to access and use your account and password can compromise the security of your information. inMusic disclaims any responsibility or obligation for your decision to provide your password to others. Please alert us immediately if you believe your password has been misused. Additionally, always log out and close your browser when you finish your session.  **Please note, we will never ask you to disclose your password.**
 
 #### Storage
 
@@ -168,9 +166,9 @@ Personal data collected by inMusic may be stored and processed in your region, i
 
 #### Retention
 
-inMusic will retain your personal information for as long as we deem it necessary to enable you to use the website and your product(s), to provide services to you, to comply with applicable laws (including those regarding document retention), resolve disputes with any parties and otherwise as necessary to allow us to conduct our business. All personal information we retain will be subject to this Privacy Policy and our internal retention guidelines. If you have a question about a specific retention period for certain types of personal information we process about you, please send an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com).
+inMusic will retain your personal information for as long as we deem it necessary to enable you to use the website and your product(s), to provide services to you, to comply with applicable laws (including those regarding document retention), resolve disputes with any parties and otherwise as necessary to allow us to conduct our business. All personal information we retain will be subject to this Privacy Policy and our internal retention guidelines. If you have a question about a specific retention period for certain types of personal information we process about you, please send an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com).
 
-#### YOUR RIGHTS AND CHOICES
+### Your Rights and Choices
 
 #### Your Rights
 
@@ -191,13 +189,13 @@ You are in control of how your personal information is used by us. Subject to lo
 
 Where we are using your personal information on the basis of your consent, you are entitled to withdraw that consent at any time. Moreover, where we process your personal information based on legitimate interest or the public interest, you have the right to object at any time to that use of your personal information.
 
-We rely on you to ensure that your personal information is complete, accurate and current. Please inform us promptly of any changes to, or inaccuracies of, your personal information by contacting [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com).
+We rely on you to ensure that your personal information is complete, accurate and current. Please inform us promptly of any changes to, or inaccuracies of, your personal information by contacting [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com).
 
 We will respond to your request as soon as possible but certainly within 30 days.  We are committed to working with you to obtain a fair resolution of any complaint or concern you may have about our use of your personal information. If, however, you believe that we have not been able to assist with your complaint or concern, you may have the right to lodge a complaint with the data protection authority in your country (if one exists in your country) or supervisory authority.
 
 #### Your Choices
 
-If you wish to access, edit or remove profile information, change your password, close your account or request deletion of your personal data, you can do it by logging in to your account or sending an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com).  If you cannot access certain personal information collected by us via your account or directly via the product that you use, you can always contact us by sending an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com). We will respond to any request to access or delete your personal data as soon as possible but certainly within 30 days.
+If you wish to access, edit or remove profile information, change your password, close your account or request deletion of your personal data, you can do it by logging in to your account or sending an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com).  If you cannot access certain personal information collected by us via your account or directly via the product that you use, you can always contact us by sending an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com). We will respond to any request to access or delete your personal data as soon as possible but certainly within 30 days.
 
 #### Your Communication, Marketing and Advertising Preferences
 
@@ -205,7 +203,7 @@ Typically, you agree to receive communications when you submit information to ou
 
 Please note, regardless of your communication settings, we will continue to communicate with you regarding changes to terms and conditions, policy updates, product software updates, routine customer service messages such as information about current or past purchase, delivery of products, service interruptions, data breaches or other significant information about a product you own such as discontinuation of support or safety issues.
 
-#### OUR USE OF COOKIES AND SIMILAR TECHNOLOGIES
+### Our Use of Cookies and Similar Technologies
 
 inMusic uses cookies and similar technologies to help provide, protect, and improve your browsing experience.   This policy explains how and why we use these technologies and the choices you have.
 
@@ -219,7 +217,7 @@ Our websites use cookies to identify you over multiple visits to the site, for e
 
 It is not possible for a cookie stored by us to be read by any other company's website, nor can a cookie read information from your computer that you have not already provided to us.
 
-**Why inMusic Uses These Technologies**
+#### Why inMusic Uses These Technologies
 
 We use these technologies for a number of purposes, such as:
 
@@ -235,27 +233,27 @@ We use these technologies for a number of purposes, such as:
 
 
 
-**Third Parties**
+#### Third Parties
 
-We may also allow certain business partners to place these technologies on the inMusic websites. These partners use these technologies to (1) help us analyze how you use the inMusic websites, such as by noting the third-party services from which you arrived, (2) market and advertise inMusic products and services to you on the inMusic websites and third-party websites, (3) help us detect or prevent fraud or conduct risk assessments, or (4) collect information about your activities on the inMusic websites, other sites, and/or the ads you have clicked on. For example, to help us better understand how people use the inMusic websites, we work with a number of analytics partners, including Google Analytics. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser by [clicking here](http://tools.google.com/dlpage/gaoptout).
+We may also allow certain business partners to place these technologies on the inMusic websites. These partners use these technologies to (1) help us analyze how you use the inMusic websites, such as by noting the third-party services from which you arrived, (2) market and advertise inMusic products and services to you on the inMusic websites and third-party websites, (3) help us detect or prevent fraud or conduct risk assessments, or (4) collect information about your activities on the inMusic websites, other sites, and/or the ads you have clicked on. For example, to help us better understand how people use the inMusic websites, we work with a number of analytics partners, including Google Analytics. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser by [clicking here](http://tools.google.com/dlpage/gaoptout).
 
-Targeting and advertising cookies we use may include Google, and other advertising networks and services we use from time to time. For more information about targeting and advertising cookies and how you can opt out, you can visit the [Network Advertising Initiative’s opt-out page](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance’s opt-out page](http://www.aboutads.info/choices/), or [http://youronlinechoices.eu](http://youronlinechoices.eu/). To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the [Google Ads Settings](https://www.google.com/settings/ads) page. To the extent advertising technology is integrated into the inMusic websites and you opt-out of tailored advertising, you may still receive advertising content. In that case, the advertising content will just not be tailored to your interests. Also, we do not control any of these opt-out links and are not responsible for the availability or accuracy of these mechanisms.
+Targeting and advertising cookies we use may include Google, and other advertising networks and services we use from time to time. For more information about targeting and advertising cookies and how you can opt out, you can visit the [Network Advertising Initiative’s opt-out page](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance’s opt-out page](http://www.aboutads.info/choices/), or [http://youronlinechoices.eu](http://youronlinechoices.eu/). To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the [Google Ads Settings](https://www.google.com/settings/ads) page. To the extent advertising technology is integrated into the inMusic websites and you opt-out of tailored advertising, you may still receive advertising content. In that case, the advertising content will just not be tailored to your interests. Also, we do not control any of these opt-out links and are not responsible for the availability or accuracy of these mechanisms.
 
-**Third Party Social Plugins**
+#### Third Party Social Plugins
 
 The inMusic websites may use social plugins provided and operated by third parties, such as Facebook’s Like Button. As a result of this, you may send to the third party the information that you are viewing on a certain part of the inMusic websites. If you are not logged into your account with the third party, then the third party may not know your identity. If you are logged in to your account with the third party, then the third party may be able to link information or actions about your interactions with the inMusic websites to your account with them. Please refer to the third party’s privacy policies to learn more about its data practices.
 
-**Your Choices**
+#### Your Choices
 
 Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar.
 
-Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](http://www.adobe.com/) and make changes at the [Global Privacy Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html).
+Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](http://www.adobe.com/) and make changes at the [Global Privacy Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html).
 
 Your mobile device may allow you to control cookies through its settings function. Refer to your device manufacturer’s instructions for more information.
 
 If you choose to decline cookies, some parts of the inMusic websites may not work as intended or may not work at all.
 
-#### OUR INTERNATIONAL OPERATIONS AND DATA TRANSFERS
+### Our International Operations and Data Transfers
 
 We operate internationally and transfer information to the United States and other countries for the purposes described in this policy.
 
@@ -263,26 +261,26 @@ The United States, European Economic Area (“EEA”) Member States, and other c
 
 To the extent that inMusic is deemed to transfer personal information outside of the EEA, we rely separately, alternatively, and independently on the following legal bases to transfer your information:
 
-**Model Clauses**
+#### Model Clauses
 
-The European Commission has adopted standard contractual clauses (also known as Model Clauses), which provide safeguards for personal information that is transferred outside of Europe. We often use these Model Clauses when transferring personal information outside of Europe. You can request a copy of our Model Clauses by emailing [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com).
+The European Commission has adopted standard contractual clauses (also known as Model Clauses), which provide safeguards for personal information that is transferred outside of Europe. We often use these Model Clauses when transferring personal information outside of Europe. You can request a copy of our Model Clauses by emailing [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com).
 
-**Privacy Shield**
+#### Privacy Shield
 
-inMusic does not participate in Privacy Shield at this time. However, inMusic Europe may rely on the EU-US Privacy Shield to transfer personal information to some of our third-party service providers in the United States, where they are certified to receive such information under the [Privacy Shield Program](https://www.privacyshield.gov/).
+inMusic does not participate in Privacy Shield at this time. However, inMusic Europe may rely on the EU-US Privacy Shield to transfer personal information to some of our third-party service providers in the United States, where they are certified to receive such information under the [Privacy Shield Program](https://www.privacyshield.gov/).
 
-**Necessary for the performance of the contract**
+#### Necessary for the performance of the contract
 
 inMusic provides a voluntary service; you can choose whether or not you want to use the services. However, if you want to use the services, you need to agree to our Terms of Use, which set out the contract between inMusic and its members. As we operate in countries worldwide (including in the US) and use technical infrastructure in the US to deliver the services to you, in accordance with the contract between us, we need to transfer your personal information to the US and to other jurisdictions as necessary to provide the services. Simply put, we cannot provide you with the services and perform our contract with you without moving your personal information around the world.
 
-#### CHANGES TO THIS PRIVACY POLICY
+### Changes to This Privacy Policy
 
 If and when inMusic makes changes to this site, inMusic may have to update this Privacy Policy to better reflect those changes. When we update it, we will change the “Last Update” date at the top of this page.  Because changes to our sites or updates to this Privacy Policy may occur, you should review this Privacy Policy from time to time. Remember, your decision to continue using our sites after this Privacy Policy Statement is updated will signify that you have agreed to any new terms.
 
-#### WHO WE ARE AND HOW TO CONTACT US
+### Who We Are and How to Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please send an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com) **.**
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please send an email to [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com) **.**
 
 Unless otherwise stated, inMusic Brands, Inc. is a data controller for personal data we collect subject to this Privacy Policy.  Our address is 200 Scenic View Dr., Cumberland, RI 02864 U.S.A.
 
-inMusic Europe Limited is our data protection representative for the European Economic Area, United Kingdom and Switzerland.  The data protection officer of inMusic Europe Limited can be contacted at the following address: Unit 3, Nexus Park, Lysons Avenue, Ash Vale, Hampshire GU12 5QE, United Kingdom or by email at [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com). 
+inMusic Europe Limited is our data protection representative for the European Economic Area, United Kingdom and Switzerland.  The data protection officer of inMusic Europe Limited can be contacted at the following address: Unit 3, Nexus Park, Lysons Avenue, Ash Vale, Hampshire GU12 5QE, United Kingdom or by email at [privacy@inmusicbrands.com](mailto:privacy@inmusicbrands.com). 
