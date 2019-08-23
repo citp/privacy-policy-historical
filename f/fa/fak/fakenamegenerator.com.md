@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakenamegenerator.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315023409id_/https%3A//www.fakenamegenerator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakenamegenerator.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823143427id_/https%3A//www.fakenamegenerator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fake Name Generator
 
@@ -20,7 +20,7 @@ Fake Name Generator does use cookies to store information about visitors' prefer
 
   * Google, as a third party vendor, uses cookies to serve ads on Fake Name Generator.
   * Google's use of the DART cookie enables it to serve ads to our users based on their visits to Fake Name Generator and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 
 
@@ -45,4 +45,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/).
