@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundexchange.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911030247id_/https%3A//www.soundexchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundexchange.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823154908id_/https%3A//www.soundexchange.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SoundExchange
 
@@ -23,6 +23,34 @@ SoundExchange may provide aggregate statistics about Usage Information or demogr
 In the course of collecting Usage Information, SoundExchange also may automatically collect your IP address or other unique identifier (“Device Identifier”) for the computer, mobile device, technology or other device (collectively, “Device”) you use to access the Sites. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. When you visit the Sites, we may view your Device Identifier. We use this information to improve your experience on the Sites, to enhance our Sites, and to protect the Sites.
 
 The technologies used on the Sites to collect Usage Information, including Device Identifiers, may include, without limitation, cookies. Cookies are data files placed on a Device when it is used to visit the Sites. SoundExchange may place cookies or similar files on your Device for security purposes, to tell us whether you have visited the Sites before, if you are a new visitor or to otherwise facilitate site navigation, and to personalize your experience while visiting our Sites. Cookies allow us to collect technical and navigational information, such as browser type, time spent on our Sites, and pages visited. Cookies may enhance your online experience by saving your preferences while you are visiting a particular part of the Sites. If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) to disable existing cookies; or (iii) to set your browser to automatically reject any cookies. However, please be aware that if you disable or reject cookies, some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your profile.
+
+### We collect the following information:
+
+#### Plugins (apps/tools) Installed
+
+ **Google Analytics**  is a website traffic analysis application that provides real-time statistics and analysis of user interaction with the website.
+
+<https://privacy.google.com/businesses/compliance/#?modal_active=none>
+
+ **SEMrush**  is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
+
+<https://www.semrush.com/company/legal/data-processing-agreement/>
+
+ **Yoast SEO** provides options to optimize pages for search engines, connects to social sites and shares user data with social sites. May not be relevant for Fike.com
+
+<https://wordpress.org/support/topic/yoast-gdpr/>
+
+ **Hotjar** allows you to get access to your website’s heat map, take digital snapshots that display your visitors’ click behavior.
+
+<https://www.hotjar.com/legal/compliance/gdpr-commitment>
+
+#### Marketing Tools
+
+ ** _Gravity Forms_** provides email, social media and event marketing tools
+
+<https://docs.gravityforms.com/wordpress-gravity-forms-and-gdpr-compliance/>
+
+Internet Protocol (IP) Address; Browser type and Version; Geolocation; Clicking-behaviour. We collect this information for functional and analytical purposes.
 
  **Use of Personal Information**
 
