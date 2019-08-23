@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lularoe.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410202058id_/https%3A//www.lularoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lularoe.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824000159id_/https%3A//www.lularoe.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY — LULAROE
 
