@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oracleglobe.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506004619id_/https%3A//www.oracleglobe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oracleglobe.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823094137id_/https%3A//www.oracleglobe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Oakfield Oracle Globe
+# Privacy Policy – Oracle Globe
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
