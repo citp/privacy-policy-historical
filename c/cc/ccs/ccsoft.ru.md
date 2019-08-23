@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ccsoft.ru privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108192223id_/http%3A//ccsoft.ru/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccsoft.ru privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823220930id_/http%3A//beargg.com/en/privacy) for the most accurate reproduction.*
 
 # Bear games - Your Outsourcing Team!
 
-CCSoftDev OU Company ("Company" or "we") are dedicated to protecting the privacy rights of our online users and clients ("users" or "you"). This Online Privacy Policy ("Privacy Policy") has been crafted to inform you as to the ways we collect, store, use, manage, and, in certain circumstances, share the information you provide in connection with any Company game, application or other our services ("Service"). Please note that the scope of this Privacy Policy is limited to only information collected from Company through use of the Service. By using the Service, you agree to the collection and use of your personal information as outlined in this Privacy Policy. We may amend the Privacy Policy from time to time, and we encourage you to consult the Privacy Policy regularly for changes. 
+Bear Games ("Company" or "we") are dedicated to protecting the privacy rights of our online users and clients ("users" or "you"). This Online Privacy Policy ("Privacy Policy") has been crafted to inform you as to the ways we collect, store, use, manage, and, in certain circumstances, share the information you provide in connection with any Company game, application or other our services ("Service"). Please note that the scope of this Privacy Policy is limited to only information collected from Company through use of the Service. By using the Service, you agree to the collection and use of your personal information as outlined in this Privacy Policy. We may amend the Privacy Policy from time to time, and we encourage you to consult the Privacy Policy regularly for changes. 
 
   
 
@@ -65,7 +65,7 @@ The Service is not geared toward children under the age of 13 and we do not know
 
 ### _Contacting Us_
 
-If you have any questions about this Privacy Policy, please contact us at info@ccsoftdev.com. 
+If you have any questions about this Privacy Policy, please contact us at info@beargg.com. 
 
   
 
