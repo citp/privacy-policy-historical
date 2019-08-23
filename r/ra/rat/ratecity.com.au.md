@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903145025id_/https%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823231456id_/https%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last Updated:  25 July 2018_
+_Last Updated:  2 November 2018_
 
 This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record. This privacy policy does not apply to parties that may be linked or associated with our website and to whom you disclose personal information. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies. We are bound by the Australian Privacy Principles (APPs), which are contained in the Privacy Act 1988 (Privacy Act). As part of our business operations we may collect your personal information. If you have any questions regarding this privacy policy, please contact us using the contact details below.
 
@@ -116,4 +116,4 @@ We try to ensure that all information we hold about you which we collect, use or
 
 ### Contact Details and Complaints
 
-If you have any questions, concerns or complaints about whether we have complied with the Privacy Act, the Australian Privacy Princiles, or this Privacy Policy, please contact us on: (02) 8096 9494, 9am – 5pm on business days in Sydney, NSW. Or email privacy (@) ratecity.com.au We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. You acknowledge and accept that your use of the RateCity website indicates your acceptance of the RateCity website [Terms of Use](https://www.ratecity.com.au/terms-of-use/) and Privacy Policy.
+If you have any questions, concerns or complaints about whether we have complied with the Privacy Act, the Australian Privacy Principles, or this Privacy Policy, please contact us on: 1300 001 153, 9am – 5pm on business days in Sydney, NSW. Or email privacy@ratecity.com.au. We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. You acknowledge and accept that your use of the RateCity website indicates your acceptance of the RateCity website [Terms of Use](https://www.ratecity.com.au/terms-of-use/) and Privacy Policy.
